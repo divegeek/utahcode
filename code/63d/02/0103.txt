@@ -1,0 +1,33 @@
+63D-2-103.   Collection of personally identifiable information.
+(1)  A governmental entity may not collect personally identifiable information
+related to a user of the governmental entity's governmental website unless the
+governmental entity has taken reasonable steps to ensure that on the day on
+which the personally identifiable information is collected the governmental
+entity's governmental website complies with Subsection (2).
+(2)  A governmental website shall contain a privacy policy statement that
+discloses:
+(a) (i)  the identity of the governmental website operator; and
+(ii)  how the governmental website operator may be contacted:
+(A)  by telephone; or
+(B)  electronically;
+(b)  the personally identifiable information collected by the governmental
+entity;
+(c)  a summary of how the personally identifiable information is used by:
+(i)  the governmental entity; or
+(ii)  the governmental website operator;
+(d)  the practices of the following related to disclosure of personally
+identifiable information collected:
+(i)  the governmental entity; or
+(ii)  the governmental website operator;
+(e)  the procedures, if any, by which a user of a governmental entity may
+request:
+(i)  access to the user's personally identifiable information; and
+(ii)  access to correct the user's personally identifiable information; and
+(f)  without compromising the integrity of the security measures, a general
+description of the security measures in place to protect a user's personally
+identifiable information from unintended disclosure.
+(3) (a)  Personally identifiable information is not a classification of
+records under Title 63G, Chapter 2, Government Records Access and Management
+Act.
+(b)  Access to government records is governed by Title 63G, Chapter 2,
+Government Records Access and Management Act.

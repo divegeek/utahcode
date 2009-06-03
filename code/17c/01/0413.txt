@@ -1,0 +1,5 @@
+17C-1-413.   Base taxable value for new tax.
+For purposes of calculating tax increment with respect to a tax that a taxing
+entity levies for the first time after the effective date of the project area
+plan, the base taxable value shall be used, subject to any adjustments under
+Section 17C-1-408.

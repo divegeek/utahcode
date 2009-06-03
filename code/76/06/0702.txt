@@ -1,0 +1,62 @@
+76-6-702.   Definitions.
+As used in this part:
+(1)  "Access" means to directly or indirectly use, attempt to use, instruct,
+communicate with, cause input to, cause output from, or otherwise make use of
+any resources of a computer, computer system, computer network, or any means
+of communication with any of them.
+(2)  "Authorization" means having the express or implied consent or permission
+of the owner, or of the person authorized by the owner to give consent or
+permission to access a computer, computer system, or computer network in a
+manner not exceeding the consent or permission.
+(3)  "Computer" means any electronic device or communication facility that
+stores, retrieves, processes, or transmits data.
+(4)  "Computer system" means a set of related, connected or unconnected,
+devices, software, or other related computer equipment.
+(5)  "Computer network" means:
+(a)  the interconnection of communication or telecommunication lines between:
+(i)  computers; or
+(ii)  computers and remote terminals; or
+(b)  the interconnection by wireless technology between:
+(i)  computers; or
+(ii)  computers and remote terminals.
+(6)  "Computer property" includes electronic impulses, electronically produced
+data, information, financial instruments, software, or programs, in either
+machine or human readable form, any other tangible or intangible item relating
+to a computer, computer system, computer network, and copies of any of them.
+(7)  "Confidential" means data, text, or computer property that is protected
+by a security system that clearly evidences that the owner or custodian
+intends that it not be available to others without the owner's or custodian's
+permission.
+(8)  "Information" does not include information obtained:
+(a)  through use of:
+(i)  an electronic product identification or tracking system; or
+(ii)  other technology used by a retailer to identify, track, or price goods;
+and
+(b)  by a retailer through the use of equipment designed to read the
+electronic product identification or tracking system data located within the
+retailer's location.
+(9)  "License or entitlement" includes:
+(a)  licenses, certificates, and permits granted by governments;
+(b)  degrees, diplomas, and grades awarded by educational institutions;
+(c)  military ranks, grades, decorations, and awards;
+(d)  membership and standing in organizations and religious institutions;
+(e)  certification as a peace officer;
+(f)  credit reports; and
+(g)  another record or datum upon which a person may be reasonably expected to
+rely in making decisions that will have a direct benefit or detriment to
+another.
+(10)  "Security system" means a computer, computer system, network, or
+computer property that has some form of access control technology implemented,
+such as encryption, password protection, other forced authentication, or
+access control designed to keep out unauthorized persons.
+(11)  "Services" include computer time, data manipulation, and storage
+functions.
+(12)  "Financial instrument" includes any check, draft, money order,
+certificate of deposit, letter of credit, bill of exchange, electronic fund
+transfer, automated clearing house transaction, credit card, or marketable
+security.
+(13)  "Software" or "program" means a series of instructions or statements in
+a form acceptable to a computer, relating to the operations of the computer,
+or permitting the functioning of a computer system in a manner designed to
+provide results including system control programs, application programs, or
+copies of any of them.

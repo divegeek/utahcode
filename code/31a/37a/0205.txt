@@ -1,0 +1,147 @@
+31A-37a-205.   Sponsored captives.
+In addition to the other provisions of this chapter, this section applies to a
+sponsored captive insurance company under Chapter 37, Captive Insurance
+Companies Act, that has a certificate of authority as a special purpose
+financial captive insurance company pursuant to this chapter.
+(1)  A sponsored captive insurance company may have a certificate of authority
+as a special purpose financial captive insurance company under this chapter.
+(2) (a)  For purposes of a sponsored captive insurance company having a
+certificate of authority as a special purpose financial captive insurance
+company, "general account" means the assets and liabilities of the sponsored
+captive insurance company not attributable to a protected cell.
+(b)  For purposes of applying Chapter 27a, Insurer Receivership Act, to a
+sponsored captive insurance company having a certificate of authority as a
+special purpose financial captive insurance company, the definition of
+"insolvency" and "insolvent" in Section 31A-37a-102 shall be applied
+separately to:
+(i)  each protected cell; and
+(ii)  the special purpose financial captive insurance company's general
+account.
+(3) (a)  A participant in a sponsored captive insurance company having a
+certificate of authority as a special purpose financial captive insurance
+company must be a ceding insurer, unless approved by the commissioner before a
+person becomes a participant.
+(b)  A change in a participant in a sponsored captive insurance company having
+a certificate of authority as a special purpose financial captive insurance
+company is subject to prior approval by the commissioner.
+(4)  Notwithstanding Section 31A-37-401, a special purpose financial captive
+insurance company that is a sponsored captive insurance company may issue a
+security to a person not described in Section 31A-37-401 if the issuance to
+that person is approved by the commissioner before the issuance of the
+security.
+(5)  Notwithstanding Section 31A-37a-302, a sponsored captive insurance
+company having a certificate of authority as a special purpose financial
+captive insurance company shall:
+(a)  at the time of initial application for a certificate of authority as a
+special purpose financial captive insurance company, possess unimpaired paid-
+in capital and surplus of not less than $500,000; and
+(b)  maintain at least $500,000 of unimpaired paid-in capital and surplus of
+not less than $500,000 during the time that it holds a certificate of
+authority under this chapter.
+(6) (a)  For purposes of a sponsored captive insurance company having a
+certificate of authority as a special purpose financial captive insurance
+company, this Subsection (6) applies to:
+(i)  a security issued by the special purpose financial captive insurance
+company with respect to a protected cell; or
+(ii)  a contract or obligation of the special purpose financial captive
+insurance company with respect to a protected cell.
+(b)  A sponsored captive insurance company having a certificate of authority
+as a special purpose financial captive insurance company shall include with a
+security, contract, or obligation described in Subsection (6)(a):
+(i)  the designation of the protected cell; and
+(ii)  a disclosure in a form and content satisfactory to the commissioner to
+the effect that the holder of the security or a counterparty to the contract
+or obligation has no right or recourse against the special purpose financial
+captive insurance company and its assets other than against an asset properly
+attributable to the protected cell.
+(c)  Notwithstanding the requirements of this Subsection (6) and subject to
+other statutes or rules including this chapter and Chapter 37, Captive
+Insurance Companies Act, a creditor, ceding insurer, or another person may not
+use a failure to include a disclosure described in Subsection (6)(b), in whole
+or part, as the sole basis to have recourse against:
+(i)  the general account of the special purpose financial captive insurance
+company; or
+(ii)  the assets of another protected cell of the special financial captive
+insurance company.
+(7)  In addition to Section 31A-37-401, a sponsored captive insurance company
+having a certificate of authority as a special purpose financial captive
+insurance company is subject to the following with respect to a protected
+cell:
+(a) (i)  A sponsored captive insurance company having a certificate of
+authority as a special purpose financial captive insurance company shall
+establish a protected cell only for the purpose of insuring or reinsuring
+risks of one or more reinsurance contracts with a ceding insurer with the
+intent of facilitating an insurance securitization.
+(ii)  Subject to Subsection (7)(a)(iii), a sponsored captive insurance company
+having a certificate of authority as a special purpose financial captive
+insurance company shall establish a separate protected cell with respect to a
+ceding insurer described in Subsection (7)(a)(i).
+(iii)  A sponsored captive insurance company having a certificate of authority
+as a special purpose financial captive insurance company shall establish a
+separate protected cell with respect to each reinsurance contract that is
+funded in whole or in part by a separate insurance securitization transaction.
+(b)  A sponsored captive insurance company having a certificate of authority
+as a special purpose financial captive insurance company may not sale,
+exchange, or transfer an asset by, between, or among any of its protected
+cells without the prior approval of the commissioner.
+(8) (a)  A sponsored captive insurance company having a certificate of
+authority as a special purpose financial captive insurance company shall
+attribute an asset or liability to a protected cell and to the general account
+in accordance with the plan of operation approved by the commissioner.
+(b)  Except as provided by Subsection (8)(a), a sponsored captive insurance
+company having a certificate of authority as a special purpose financial
+captive insurance company may not attribute an asset or liability between:
+(i)  its general account and a protected cell; or
+(ii)  its protected cells.
+(c)  A sponsored captive insurance company having a certificate of authority
+as a special purpose financial captive insurance company shall attribute:
+(i)  an insurance obligation, asset, or liability relating to a reinsurance
+contract entered into with respect to a protected cell; and
+(ii)  an insurance securitization transaction related to the obligation,
+asset, or liability described in Subsection (8)(c)(i), including a security
+issued by the special purpose financial captive insurance company as part of
+the insurance securitization, to the protected cell.
+(d)  The following shall reflect an insurance obligation, asset, or liability
+relating to a reinsurance contract and the insurance securitization
+transaction that are attributed to a protected cell:
+(i)  a right, benefit, obligation, or a liability of a security attributable
+to a protected cell described in Subsection (8)(c);
+(ii)  the performance under a reinsurance contract and the related insurance
+securitization transaction; and
+(iii)  a tax benefit, loss, refund, or credit allocated pursuant to a tax
+allocation agreement to which the special purpose financial captive insurance
+company is a party, including a payment made by or due to be made to the
+special purpose financial captive insurance company pursuant to the terms of
+the tax allocation agreement.
+(9)  In addition to Section 31A-37a-502:
+(a)  Chapter 27a, Insurer Receivership Act, applies to each protected cell of
+a sponsored captive insurance company having a certificate of authority as a
+special purpose financial captive insurance company.
+(b)  A proceeding or action taken by the commissioner pursuant to Chapter 27a,
+Insurer Receivership Act, with respect to a protected cell of a sponsored
+captive insurance company having a certificate of authority as a special
+purpose financial captive insurance company may not be the sole basis for a
+proceeding pursuant to Chapter 27a, Insurer Receivership Act, with respect to:
+(i)  another protected cell of the special purpose financial captive insurance
+company; or
+(ii)  the special purpose financial captive insurance company's general
+account.
+(c) (i)  Except as provided in Subsection (9)(c)(ii), the receiver of a
+special purpose financial captive insurance company shall ensure that the
+assets attributable to one protected cell are not applied to the liabilities
+attributable to:
+(A)  another protected cell; or
+(B)  the special purpose financial captive insurance company's general
+account.
+(ii)  Notwithstanding Subsection (9)(c)(i), if an asset or liability is
+attributable to more than one protected cell, the receiver shall deal with the
+asset or liability in accordance with the terms of a relevant governing
+instrument or contract.
+(d)  The insolvency of a protected cell of a sponsored captive insurance
+company having a certificate of authority as a special purpose financial
+captive insurance company may not be the sole basis for the commissioner to
+prohibit:
+(i)  a payment by the special purpose financial captive insurance company made
+pursuant to a special purpose financial captive insurance company security or
+reinsurance contract with respect to another protected cell; or
+(ii)  an action required to make a payment described in Subsection (9)(d)(i).

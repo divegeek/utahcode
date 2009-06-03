@@ -1,0 +1,200 @@
+59-2-924 (Superseded 01/01/10).   Report of valuation of property to county
+auditor and commission -- Transmittal by auditor to governing bodies --
+Certified tax rate -- Calculation of certified tax rate -- Rulemaking
+authority -- Adoption of tentative budget.
+(1)  Before June 1 of each year, the county assessor of each county shall
+deliver to the county auditor and the commission the following statements:
+(a)  a statement containing the aggregate valuation of all taxable real
+property assessed by a county assessor in accordance with Part 3, County
+Assessment, for each taxing entity; and
+(b)  a statement containing the taxable value of all personal property
+assessed by a county assessor in accordance with Part 3, County Assessment,
+from the prior year end values.
+(2)  The county auditor shall, on or before June 8, transmit to the governing
+body of each taxing entity:
+(a)  the statements described in Subsections (1)(a) and (b);
+(b)  an estimate of the revenue from personal property;
+(c)  the certified tax rate; and
+(d)  all forms necessary to submit a tax levy request.
+(3) (a)  The "certified tax rate" means a tax rate that will provide the same
+ad valorem property tax revenues for a taxing entity as were budgeted by that
+taxing entity for the prior year.
+(b)  For purposes of this Subsection (3):
+(i)  "Ad valorem property tax revenues" do not include:
+(A)  collections from redemptions;
+(B)  interest;
+(C)  penalties; and
+(D)  revenue received by a taxing entity from personal property that is:
+(I)  assessed by a county assessor in accordance with Part 3, County
+Assessment; and
+(II)  semiconductor manufacturing equipment.
+(ii)  "Aggregate taxable value of all property taxed" means:
+(A)  the aggregate taxable value of all real property assessed by a county
+assessor in accordance with Part 3, County Assessment, for the current year;
+(B)  the aggregate taxable year end value of all personal property assessed by
+a county assessor in accordance with Part 3, County Assessment, for the prior
+year; and
+(C)  the aggregate taxable value of all real and personal property assessed by
+the commission in accordance with Part 2, Assessment of Property, for the
+current year.
+(c) (i)  Except as otherwise provided in this section, the certified tax rate
+shall be calculated by dividing the ad valorem property tax revenues budgeted
+for the prior year by the taxing entity by the amount calculated under
+Subsection (3)(c)(ii).
+(ii)  For purposes of Subsection (3)(c)(i), the legislative body of a taxing
+entity shall calculate an amount as follows:
+(A)  calculate for the taxing entity the difference between:
+(I)  the aggregate taxable value of all property taxed; and
+(II)  any redevelopment adjustments for the current calendar year;
+(B)  after making the calculation required by Subsection (3)(c)(ii)(A),
+calculate an amount determined by increasing or decreasing the amount
+calculated under Subsection (3)(c)(ii)(A) by the average of the percentage net
+change in the value of taxable property for the equalization period for the
+three calendar years immediately preceding the current calendar year;
+(C)  after making the calculation required by Subsection (3)(c)(ii)(B),
+calculate the product of:
+(I)  the amount calculated under Subsection (3)(c)(ii)(B); and
+(II)  the percentage of property taxes collected for the five calendar years
+immediately preceding the current calendar year; and
+(D)  after making the calculation required by Subsection (3)(c)(ii)(C),
+calculate an amount determined by subtracting from the amount calculated under
+Subsection (3)(c)(ii)(C) any new growth as defined in this section:
+(I)  within the taxing entity; and
+(II)  for the following calendar year:
+(Aa)  for new growth from real property assessed by a county assessor in
+accordance with Part 3, County Assessment and all property assessed by the
+commission in accordance with Section 59-2-201, the current calendar year; and
+(Bb)  for new growth from personal property assessed by a county assessor in
+accordance with Part 3, County Assessment, the prior calendar year.
+(iii)  For purposes of Subsection (3)(c)(ii)(A), the aggregate taxable value
+of all property taxed:
+(A)  except as provided in Subsection (3)(c)(iii)(B) or (3)(c)(ii)(C), is as
+defined in Subsection (3)(b)(ii);
+(B)  does not include the total taxable value of personal property contained
+on the tax rolls of the taxing entity that is:
+(I)  assessed by a county assessor in accordance with Part 3, County
+Assessment; and
+(II)  semiconductor manufacturing equipment; and
+(C)  for personal property assessed by a county assessor in accordance with
+Part 3, County Assessment, the taxable value of personal property is the year
+end value of the personal property contained on the prior year's tax rolls of
+the entity.
+(iv)  For purposes of Subsection (3)(c)(ii)(B), for calendar years beginning
+on or after January 1, 2007, the value of taxable property does not include
+the value of personal property that is:
+(A)  within the taxing entity assessed by a county assessor in accordance with
+Part 3, County Assessment; and
+(B)  semiconductor manufacturing equipment.
+(v)  For purposes of Subsection (3)(c)(ii)(C)(II), for calendar years
+beginning on or after January 1, 2007, the percentage of property taxes
+collected does not include property taxes collected from personal property
+that is:
+(A)  within the taxing entity assessed by a county assessor in accordance with
+Part 3, County Assessment; and
+(B)  semiconductor manufacturing equipment.
+(vi)  For purposes of Subsection (3)(c)(ii)(B), for calendar years beginning
+on or after January 1, 2009, the value of taxable property does not include
+the value of personal property that is within the taxing entity assessed by a
+county assessor in accordance with Part 3, County Assessment.
+(vii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, the commission may prescribe rules for calculating redevelopment
+adjustments for a calendar year.
+(d) (i)  In accordance with Title 63G, Chapter 3, Utah Administrative
+Rulemaking Act, the commission shall make rules determining the calculation of
+ad valorem property tax revenues budgeted by a taxing entity.
+(ii)  For purposes of Subsection (3)(d)(i), ad valorem property tax revenues
+budgeted by a taxing entity shall be calculated in the same manner as budgeted
+property tax revenues are calculated for purposes of Section 59-2-913.
+(e)  The certified tax rates for the taxing entities described in this
+Subsection (3)(e) shall be calculated as follows:
+(i)  except as provided in Subsection (3)(e)(ii), for new taxing entities the
+certified tax rate is zero;
+(ii)  for each municipality incorporated on or after July 1, 1996, the
+certified tax rate is:
+(A)  in a county of the first, second, or third class, the levy imposed for
+municipal-type services under Sections 17-34-1 and 17-36-9; and
+(B)  in a county of the fourth, fifth, or sixth class, the levy imposed for
+general county purposes and such other levies imposed solely for the
+municipal-type services identified in Section 17-34-1 and Subsection
+17-36-3(22); and
+(iii)  for debt service voted on by the public, the certified tax rate shall
+be the actual levy imposed by that section, except that the certified tax
+rates for the following levies shall be calculated in accordance with Section
+59-2-913 and this section:
+(A)  school leeways provided for under Sections 11-2-7, 53A-16-110, 53A-
+17a-127, 53A-17a-133, 53A-17a-134, 53A-17a-143, and 53A-17a-145; and
+(B)  levies to pay for the costs of state legislative mandates or judicial or
+administrative orders under Section 59-2-1604.
+(f) (i)  A judgment levy imposed under Section 59-2-1328 or 59-2-1330 shall be
+established at that rate which is sufficient to generate only the revenue
+required to satisfy one or more eligible judgments, as defined in Section
+59-2-102.
+(ii)  The ad valorem property tax revenue generated by the judgment levy shall
+not be considered in establishing the taxing entity's aggregate certified tax
+rate.
+(g)  The ad valorem property tax revenue generated by the capital outlay levy
+described in Section 53A-16-107 within a taxing entity in a county of the
+first class:
+(i)  may not be considered in establishing the school district's aggregate
+certified tax rate; and
+(ii)  shall be included by the commission in establishing a certified tax rate
+for that capital outlay levy determined in accordance with the calculation
+described in Subsection 59-2-913(3).
+(4) (a)  For the purpose of calculating the certified tax rate, the county
+auditor shall use:
+(i)  the taxable value of real property assessed by a county assessor
+contained on the assessment roll;
+(ii)  the taxable value of real and personal property assessed by the
+commission; and
+(iii)  the taxable year end value of personal property assessed by a county
+assessor contained on the prior year's assessment roll.
+(b)  For purposes of Subsection (4)(a)(i), the taxable value of real property
+on the assessment roll does not include new growth as defined in Subsection
+(4)(c).
+(c)  "New growth" means:
+(i)  the difference between the increase in taxable value of the following
+property of the taxing entity from the previous calendar year to the current
+year:
+(A)  real property assessed by a county assessor in accordance with Part 3,
+County Assessment; and
+(B)  property assessed by the commission under Section 59-2-201; plus
+(ii)  the difference between the increase in taxable year end value of
+personal property of the taxing entity from the year prior to the previous
+calendar year to the previous calendar year; minus
+(iii)  the amount of an increase in taxable value described in Subsection
+(4)(e).
+(d)  For purposes of Subsection (4)(c)(ii), the taxable value of personal
+property of the taxing entity does not include the taxable value of personal
+property that is:
+(i)  contained on the tax rolls of the taxing entity if that property is
+assessed by a county assessor in accordance with Part 3, County Assessment;
+and
+(ii)  semiconductor manufacturing equipment.
+(e)  Subsection (4)(c)(iii) applies to the following increases in taxable
+value:
+(i)  the amount of increase to locally assessed real property taxable values
+resulting from factoring, reappraisal, or any other adjustments; or
+(ii)  the amount of an increase in the taxable value of property assessed by
+the commission under Section 59-2-201 resulting from a change in the method of
+apportioning the taxable value prescribed by:
+(A)  the Legislature;
+(B)  a court;
+(C)  the commission in an administrative rule; or
+(D)  the commission in an administrative order.
+(f)  For purposes of Subsection (4)(a)(ii), the taxable year end value of
+personal property on the prior year's assessment roll does not include:
+(i)  new growth as defined in Subsection (4)(c); or
+(ii)  the total taxable year end value of personal property contained on the
+prior year's tax rolls of the taxing entity that is:
+(A)  assessed by a county assessor in accordance with Part 3, County
+Assessment; and
+(B)  semiconductor manufacturing equipment.
+(5) (a)  On or before June 22, each taxing entity shall annually adopt a
+tentative budget.
+(b)  If the taxing entity intends to exceed the certified tax rate, it shall
+notify the county auditor of:
+(i)  its intent to exceed the certified tax rate; and
+(ii)  the amount by which it proposes to exceed the certified tax rate.
+(c)  The county auditor shall notify property owners of any intent to levy a
+tax rate that exceeds the certified tax rate in accordance with Sections
+59-2-919 and 59-2-919.1.

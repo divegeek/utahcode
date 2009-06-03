@@ -1,0 +1,47 @@
+38-1-30.   Third-party contract -- Designated agent.
+(1)  The division shall contract in accordance with Title 63G, Chapter 6, Utah
+Procurement Code, with a third party to establish and maintain the database
+for the purposes established under this section, Section 38-1-27, and Sections
+38-1-31 through 38-1-37.
+(2) (a)  The third party under contract under this section is the division's
+designated agent, and shall develop and maintain a database from the
+information provided by:
+(i)  local government entities issuing building permits;
+(ii)  original contractors;
+(iii)  subcontractors; and
+(iv)  other interested persons.
+(b)  The database shall accommodate filings by third parties on behalf of
+clients.
+(c)  The division and the designated agent shall design, develop, and test the
+database for full implementation on May 1, 2005.
+(3)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, the division shall make rules and develop procedures for:
+(a)  the division to oversee and enforce this section, Section 38-1-27, and
+Sections 38-1-31 through 38-1-37;
+(b)  the designated agent to administer this section, Section 38-1-27, and
+Sections 38-1-31 through 38-1-37; and
+(c)  the form of submission of an alternate filing, which may include
+procedures for rejecting an illegible or incomplete filing.
+(4) (a)  The designated agent shall archive computer data files at least
+semiannually for auditing purposes.
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, the division shall make rules to allow the designated agent to
+periodically archive projects from the database.
+(c)  A project shall be archived no earlier than:
+(i)  one year after the day on which a notice of completion is filed for a
+project;
+(ii)  if no notice of completion is filed, two years after the last filing
+activity for a project; or
+(iii)  one year after the day on which a filing is cancelled under Subsection
+38-1-32(3)(c) or 38-1-33(2)(c).
+(d)  The division may audit the designated agent's administration of the
+database as often as the division considers necessary.
+(5)  The designated agent shall carry errors and omissions insurance in the
+amounts established by rule made by the division in accordance with Title 63G,
+Chapter 3, Utah Administrative Rulemaking Act.
+(6) (a)  The designated agent shall make reasonable efforts to assure the
+accurate entry into the database of information provided in alternate filings.
+(b)  The designated agent shall meet or exceed standards established by the
+division for the accuracy of data entry for alternate filings.
+(7)  The designated agent is not liable for the correctness of the information
+contained in an alternate filing it enters into the database.

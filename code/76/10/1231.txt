@@ -1,0 +1,45 @@
+76-10-1231.   Data service providers -- Internet content harmful to minors.
+(1) (a)  Upon request by a consumer, a service provider shall filter content
+to prevent the transmission of material harmful to minors to the consumer.
+(b)  A service provider complies with Subsection (1)(a) if it uses a generally
+accepted and commercially reasonable method of filtering.
+(2)  At the time of a consumer's subscription to a service provider's service,
+or at the time this section takes effect if the consumer subscribes to the
+service provider's service at the time this section takes effect, the service
+provider shall notify the consumer in a conspicuous manner that the consumer
+may request to have material harmful to minors blocked under Subsection (1).
+(3) (a)  A service provider may comply with Subsection (1) by:
+(i)  providing in-network filtering to prevent receipt of material harmful to
+minors, provided that the filtering does not affect or interfere with access
+to Internet content for consumers who do not request filtering under
+Subsection (1); or
+(ii)  providing software, engaging a third party to provide software, or
+referring users to a third party that provides filtering software, by
+providing a clear and conspicuous hyperlink or written statement, for
+installation on the consumer's computer that blocks, in an easy-to-enable and
+commercially reasonable manner, receipt of material harmful to minors.
+(b)  A service provider may charge a consumer for providing filtering under
+Subsection (3)(a).
+(4)  If the attorney general determines that a service provider violates
+Subsection (1) or (2), the attorney general shall:
+(a)  notify the service provider that the service provider is in violation of
+Subsection (1) or (2); and
+(b)  notify the service provider that the service provider has 30 days to
+comply with the provision being violated or be subject to Subsection (5).
+(5)  A service provider that intentionally or knowingly violates Subsection
+(1) or (2) is subject to a civil fine of $2,500 for each separate violation of
+Subsection (1) or (2), up to $10,000 per day.
+(6)  A proceeding to impose a civil fine under Subsection (5) may only be
+brought by the attorney general in a court of competent jurisdiction.
+(7) (a)  The Division of Consumer Protection within the Department of Commerce
+shall, in consultation with other entities as the Division of Consumer
+Protection considers appropriate, test the effectiveness of a service
+provider's system for blocking material harmful to minors under Subsection (1)
+at least annually.
+(b)  The results of testing by the Division of Consumer Protection under
+Subsection (7)(a) shall be made available to:
+(i)  the service provider that is the subject of the test; and
+(ii)  the public.
+(c)  The Division of Consumer Protection shall make rules in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to fulfil its duties
+under this section.

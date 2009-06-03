@@ -1,0 +1,9 @@
+70A-9a-341.   Bank's rights and duties with respect to deposit account.
+Except as otherwise provided in Subsection 70A-9a-340(3), and unless the bank
+otherwise agrees in an authenticated record, a bank's rights and duties with
+respect to a deposit account maintained with the bank are not terminated,
+suspended, or modified by:
+(1)  the creation, attachment, or perfection of a security interest in the
+deposit account;
+(2)  the bank's knowledge of the security interest; or
+(3)  the bank's receipt of instructions from the secured party.

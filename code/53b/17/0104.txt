@@ -1,0 +1,63 @@
+53B-17-104.   Responsibilities of KUED - TV, KUER - FM, and UEN related to
+public broadcasting and telecommunication for education and government.
+(1)  Subject to applicable rules of the Federal Communications Commission and
+Section 53B-17-102, the State Board of Regents, the State Board of Education,
+and the University of Utah, KUED - TV, KUER - FM, and UEN shall:
+(a)  coordinate statewide services of public radio and television;
+(b)  develop, maintain, and operate statewide distribution systems for KUED -
+TV, KUER - FM, and KUEN, the statewide distance learning service, the
+educational data network, connections to the Internet, and other
+telecommunications services appropriate for providing video, audio, and data
+telecommunication services in support of public and higher education, state
+government, and public libraries;
+(c)  support the delivery of these services to as many communities as may be
+economically and technically feasible and lawfully permissible under the
+various operating licenses;
+(d)  cooperate with state and local governmental and educational agencies and
+provide leadership and consulting service for telecommunication for education;
+(e)  represent the state with privately owned telecommunications systems to
+gain access to their networks for the delivery of programs and services
+sponsored or produced by public and higher education;
+(f)  acquire, produce, coordinate, and distribute a variety of programs and
+services of an educational, cultural, informative, and entertaining nature
+designed to promote the public interest and welfare of the state;
+(g)  coordinate with the state system of higher education to acquire, produce,
+and distribute broadcast and nonbroadcast college credit telecourses,
+teleconferences, and other instructional and training services;
+(h)  coordinate with the State Board of Education and school districts to
+acquire, produce, and distribute broadcast and nonbroadcast telecourses,
+teleconferences, and other instructional and training services to the public
+schools;
+(i)  act as a clearing house for the materials, courses, publications, media,
+software, and other applicable information related to the items addressed in
+Subsections (1) (g) and (h);
+(j)  coordinate with the State Board of Education to assist in providing the
+public schools of Utah with the following services:
+(i)  broadcast, during school hours, of educational and administrative
+programs recommended by the State Board of Education;
+(ii)  duplication and encoding of program masters for broadcast purposes; and
+(iii)  program previewing;
+(k)  share responsibility with the State Board of Education for Instructional
+Television (ITV) awareness and utilization; and
+(l)  provide teleconference and training services for state and local
+governmental agencies.
+(2)  UEN shall:
+(a)  consult with the UEN steering committee authorized in Section 53B-17-102
+and other technology coordinating committees established by the State Board of
+Education and State Board of Regents in acquiring, producing, and distributing
+instructional content;
+(b)  coordinate the statewide development and implementation of the data
+network for education, which shall include video and audio, data connections,
+and connection to the Internet, utilizing satellite, microwave, fiber-optic,
+and other transmission media;
+(c)  utilize statewide economic development criteria in the design and
+implementation of the educational telecommunications infrastructure;
+(d)  assure that public service entities such as educators, public service
+providers, and public broadcasters are provided access to the
+telecommunications infrastructures that are developed in the state.
+(3)  If the network operated by the Department of Technology Services is not
+available, UEN may provide network connections to the central administration
+of counties and municipalities for the sole purpose of transferring data to a
+secure facility for backup and disaster recovery.
+(4)  This section neither regulates nor restricts a privately owned company in
+the distribution or dissemination of education programs.

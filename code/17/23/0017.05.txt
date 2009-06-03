@@ -1,0 +1,64 @@
+17-23-17.5.   Corner perpetuation and filing -- Definitions -- Establishment
+of corner file -- Preservation of map records -- Filing fees -- Exemptions.
+(1)  As used in this section:
+(a)  "Accessory to a corner" means any exclusively identifiable physical
+object whose spatial relationship to the corner is recorded.  Accessories may
+be bearing trees, bearing objects, monuments, reference monuments, line trees,
+pits, mounds, charcoal-filled bottles, steel or wooden stakes, or other
+objects.
+(b)  "Corner," unless otherwise qualified, means a property corner, a property
+controlling corner, a public land survey corner, or any combination of these.
+(c)  "Geographic coordinates" means mathematical values that designate a
+position on the earth relative to a given reference system.  Coordinates shall
+be established pursuant to Title 57, Chapter 10, Utah Coordinate System.
+(d)  "Land surveyor" means a surveyor who is licensed to practice land
+surveying in this state in accordance with Title 58, Chapter 22, Professional
+Engineers and Land Surveyors Licensing Act.
+(e)  "Monument" means an accessory that is presumed to occupy the exact
+position of a corner.
+(f)  "Property controlling corner" means a public land survey corner or any
+property corner which does not lie on a property line of the property in
+question, but which controls the location of one or more of the property
+corners of the property in question.
+(g)  "Property corner" means a geographic point of known geographic
+coordinates on the surface of the earth, and is on, a part of, and controls a
+property line.
+(h)  "Public land survey corner" means any corner actually established and
+monumented in an original survey or resurvey used as a basis of legal
+descriptions for issuing a patent for the land to a private person from the
+United States government.
+(i)  "Reference monument" means a special monument that does not occupy the
+same geographical position as the corner itself, but whose spatial
+relationship to the corner is recorded and which serves to witness the corner.
+(2) (a)  Any land surveyor making a boundary survey of lands within this state
+and utilizing a corner shall, within 90 days, complete, sign, and file with
+the county surveyor of the county where the corner is situated, a written
+record to be known as a corner file for every public land survey corner and
+accessory to the corner which is used as control in any survey by the
+surveyor, unless the corner and its accessories are already a matter of record
+in the county.
+(b)  Where reasonably possible, the corner file shall include the geographic
+coordinates of the corner.
+(c)  A surveyor may file a corner record as to any property corner, reference
+monument, or accessory to a corner.
+(d)  Corner records may be filed concerning corners used before the effective
+date of this section.
+(3)  The county surveyor of the county containing the corners shall have on
+record as part of the official files maps of each township within the county,
+the bearings and lengths of the connecting lines to government corners, and
+government corners looked for and not found.
+(4)  The county surveyor shall make these records available for public
+inspection at the county facilities during normal business hours.
+(5)  Filing fees for corner records shall be established by the county
+legislative body consistent with existing fees for similar services.  All
+corners, monuments, and their accessories used prior to the effective date of
+this section shall be accepted and filed with the county surveyor without
+requiring the payment of the fees.
+(6)  When a corner record of a public land survey corner is required to be
+filed under the provisions of this section and the monument needs to be
+reconstructed or rehabilitated, the land surveyor shall contact the county
+surveyor in accordance with Section 17-23-14.
+(7)  A corner record may not be filed unless it is signed by a land surveyor.
+(8)  All filings relative to official cadastral surveys of the Bureau of Land
+Management of the United States of America performed by authorized personnel
+shall be exempt from filing fees.

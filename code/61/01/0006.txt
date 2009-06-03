@@ -1,0 +1,184 @@
+61-1-6.   Denial, suspension, revocation, cancellation, or withdrawal of
+license -- Sanctions.
+(1)  Subject to the other provisions of this section and by means of an
+adjudicative proceeding conducted in accordance with Title 63G, Chapter 4,
+Administrative Procedures Act:
+(a)  the commission may issue an order:
+(i)  suspending or revoking a license;
+(ii)  barring or censuring a licensee or an officer, director, partner, or
+person occupying a similar status or performing similar functions for a
+licensee from employment with a licensed broker-dealer or investment adviser;
+(iii)  restricting or limiting a licensee as to a function or activity of the
+business for which a license is required in this state;
+(iv)  imposing a fine; or
+(v)  taking any combination of actions under this Subsection (1)(a); or
+(b)  the director may deny a license.
+(2) (a)  The commission may impose a sanction in accordance with Subsection
+(1)(a) or the director may impose a sanction in accordance with Subsection
+(1)(b) if the commission or director finds:
+(i)  that it is in the public interest; and
+(ii)  with respect to the applicant or licensee or, in the case of a broker-
+dealer or investment adviser, a partner, officer, or director, or a person
+occupying a similar status or performing similar functions, or a person
+directly or indirectly controlling the broker-dealer or investment adviser,
+that the person:
+(A)  has filed an application for a license that, as of the effective date of
+the application or as of any date after filing in the case of an order denying
+effectiveness:
+(I)  was incomplete in a material respect; or
+(II)  contained a statement that was, in light of the circumstances under
+which it was made, false or misleading with respect to a material fact;
+(B)  has willfully violated or willfully failed to comply with this chapter or
+a predecessor act or a rule or order under this chapter or a predecessor act;
+(C)  was convicted of, or entered a plea of guilty, a plea of no contest, a
+plea in abeyance, or a similar plea of guilty to:
+(I)  a misdemeanor involving:
+(Aa)  fraud or dishonesty; or
+(Bb)  a security or any aspect of the securities business; or
+(II)  a felony;
+(D)  is permanently or temporarily enjoined by a court of competent
+jurisdiction from engaging in or continuing a conduct or practice involving
+any aspect of the securities business;
+(E) (I)  is the subject of an order of the commission or a predecessor
+suspending or revoking a license as a broker-dealer, agent, investment
+adviser, or investment adviser representative; or
+(II)  is the subject of an order of the director or a predecessor denying a
+license as a broker-dealer, agent, investment adviser, or investment adviser
+representative;
+(F)  subject to Subsection (2)(b), is the subject of:
+(I)  an adjudication or determination, within the past five years by a
+securities or commodities agency or administrator of another state, Canadian
+province or territory, or a court of competent jurisdiction that the person
+has willfully violated:
+(Aa)  the Securities Act of 1933;
+(Bb)  the Securities Exchange Act of 1934;
+(Cc)  the Investment Advisers Act of 1940;
+(Dd)  the Investment Company Act of 1940;
+(Ee)  the Commodity Exchange Act; or
+(Ff)  the securities or commodities law of another state; or
+(II)  an order:
+(Aa)  entered within the past five years by the securities administrator of a
+state or Canadian province or territory or by the Securities and Exchange
+Commission denying or revoking  a license as a broker-dealer, agent,
+investment adviser, or investment adviser representative, or the substantial
+equivalent of those terms;
+(Bb)  of the Securities and Exchange Commission suspending or expelling the
+person from a national securities exchange or national securities association
+registered under the Securities Exchange Act of 1934; or
+(Cc)  that is a United States post office fraud order;
+(G)  has engaged in dishonest or unethical practices in the securities
+business;
+(H)  is insolvent, either in the sense that liabilities exceed assets or in
+the sense that obligations cannot be met as they mature, except that the
+director or commission may not enter an order against a broker-dealer or
+investment adviser under this Subsection (2)(a)(ii)(H) without a finding of
+insolvency as to the broker-dealer or investment adviser;
+(I)  is not qualified on the basis of the lack of training, experience, and
+knowledge of the securities business, except as otherwise provided in
+Subsection (5);
+(J)  has failed reasonably to supervise the person's:
+(I)  agents or employees, if the person is a broker-dealer; or
+(II)  investment adviser representatives or employees, if the person is an
+investment adviser;
+(K)  has failed to pay the proper filing fee within 30 days after being
+notified by the division of a deficiency;
+(L)  subject to Subsection (2)(c), is a licensee or applicant that is
+materially the same entity as an entity that is defunct, insolvent,
+statutorily disqualified, barred, or described in Subsection (2)(a)(ii)(D); or
+(M)  has had a final judgment entered against the person in a civil action on
+grounds of:
+(I)  fraud;
+(II)  embezzlement;
+(III)  misrepresentation; or
+(IV)  deceit.
+(b) (i)  The commission may not commence an agency action to revoke or suspend
+a license under Subsection (2)(a)(ii)(F) more than one year from the day on
+which the order on which the division relies is entered.
+(ii)  The commission or director may not enter an order under Subsection
+(2)(a)(ii)(F) on the basis of an order under another state's law unless that
+order is issued on the basis of facts that would constitute a ground for an
+agency action under this section on the day on which the notice of agency
+action is filed.
+(c) (i)  For purposes of Subsection (2)(a)(ii)(L), the director or commission
+may consider one or more factors in determining whether an entity is
+materially the same as another entity including the following:
+(A)  the entity has one or more of the same executive officers as the prior
+entity;
+(B)  the entity conducts operations in the same location as the prior entity;
+(C)  the entity employs two or more agents from the prior entity;
+(D)  the entity solicits or serves two or more customers of the prior entity;
+(E)  the entity has a name similar to the prior entity; or
+(F)  another factor showing a relationship between the entity and the prior
+entity.
+(ii)  In addition to imposing a sanction in accordance with Subsection (1),
+for an entity that is materially the same as an entity described in Subsection
+(2)(a)(ii)(L), the director or the commission may:
+(A)  limit the license of the entity; or
+(B)  require additional disclosures to the customers or employees of the
+entity.
+(3)  The director may enter a denial order under Subsection (2)(a)(ii)(K), but
+shall vacate the order when the deficiency is corrected.
+(4)  The division may not institute a suspension or revocation proceeding on
+the basis of a fact or transaction known to the division when the license
+became effective unless the proceeding is instituted within the 120 days after
+the day on which the license takes effect.
+(5)  The following provisions govern the application of Subsection
+(2)(a)(ii)(I):
+(a)  The director or commission may not enter an order against a broker-dealer
+on the basis of the lack of qualification of a person other than:
+(i)  the broker-dealer if the broker-dealer is an individual; or
+(ii)  an agent of the broker-dealer.
+(b)  The director or commission may not enter an order against an investment
+adviser on the basis of the lack of qualification of a person other than:
+(i)  the investment adviser if the investment adviser is an individual; or
+(ii)  an investment adviser representative.
+(c)  The director or commission may not enter an order solely on the basis of
+lack of experience if the applicant or licensee is qualified by training or
+knowledge.
+(d)  The director or commission shall consider that:
+(i)  an agent who will work under the supervision of a licensed broker-dealer
+need not have the same qualifications as a broker-dealer; and
+(ii)  an investment adviser representative who will work under the supervision
+of a licensed investment adviser need not have the same qualifications as an
+investment adviser.
+(e) (i)  The director or commission shall consider that an investment adviser
+is not necessarily qualified solely on the basis of experience as a broker-
+dealer or agent.
+(ii)  When the director finds that an applicant for a license as a broker-
+dealer is not qualified as an investment adviser, the director may condition
+the applicant's license as a broker-dealer upon the applicant's not
+transacting business in this state as an investment adviser.
+(f) (i)  The division may by rule provide for examinations, which may be
+written or oral or both, to be taken by any class of or all applicants.
+(ii)  The division may by rule or order waive the examination requirement as
+to a person or class of persons if the division determines that the
+examination is not necessary for the protection of investors.
+(6)  If the director finds that a licensee or applicant for a license is no
+longer in existence, has ceased to do business as a broker-dealer, agent,
+investment adviser, or investment adviser representative, or is subject to an
+adjudication of mental incompetence or to the control of a committee,
+conservator, or guardian, or cannot be located after reasonable search, the
+division may summarily cancel or deny the license or application according to
+the procedures and requirements of Title 63G, Chapter 4, Administrative
+Procedures Act.
+(7) (a)  Withdrawal from license as a broker-dealer, agent, investment
+adviser, or investment adviser representative becomes effective 30 days after
+receipt of an application to withdraw or within a shorter period of time as
+determined by the director, unless:
+(i)  a revocation or suspension proceeding is pending when the application is
+filed;
+(ii)  a proceeding to revoke or suspend or to impose conditions upon the
+withdrawal is instituted within 30 days after the application is filed; or
+(iii)  additional information is requested by the division regarding the
+withdrawal application.
+(b) (i)  If a proceeding described in Subsection (7)(a) is pending or
+instituted, the director shall designate by order when and under what
+conditions the withdrawal becomes effective.
+(ii)  If additional information is requested, withdrawal is effective 30 days
+after the additional information is filed.
+(c) (i)  If no proceeding is pending or instituted, and withdrawal
+automatically becomes effective, the director may initiate a revocation or
+suspension proceeding under this section within one year after withdrawal
+becomes effective.
+(ii)  The commission shall enter an order under Subsection (2)(a)(ii)(B) as of
+the last date on which the license is effective.

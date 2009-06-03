@@ -1,0 +1,112 @@
+59-10-1402.   Definitions.
+As used in this part:
+(1)  "Addition, subtraction, or adjustment" means:
+(a)  for a pass-through entity taxpayer that is classified as a C corporation
+for federal income tax purposes, under Chapter 7, Corporate Franchise and
+Income Taxes:
+(i)  an addition to unadjusted income described in Section 59-7-105; or
+(ii)  a subtraction from unadjusted income described in Section 59-7-106;
+(b)  for a pass-through entity taxpayer that is classified as an individual,
+partnership, or S corporation for federal income tax purposes:
+(i)  an addition to or subtraction from adjusted gross income described in
+Section 59-10-114; or
+(ii)  an adjustment to adjusted gross income described in Section 59-10-115;
+or
+(c)  for a pass-through entity taxpayer that is classified as an estate or a
+trust for federal income tax purposes:
+(i)  an addition to or subtraction from unadjusted income described in Section
+59-10-202; or
+(ii)  an adjustment to unadjusted income described in Section 59-10-209.1.
+(2)  "Business income" means income arising from transactions and activity in
+the regular course of a pass-through entity's trade or business and includes
+income from tangible and intangible property if the acquisition, management,
+and disposition of the property constitutes integral parts of the pass-through
+entity's regular trade or business operations.
+(3)  "C corporation" is as defined in Section 1361, Internal Revenue Code.
+(4)  "Commercial domicile" means the principal place from which the trade or
+business of a business entity is directed or managed.
+(5)  "Derived from or connected with Utah sources" means:
+(a)  if a pass-through entity taxpayer is classified as a C corporation for
+federal income tax purposes, derived from or connected with Utah sources in
+accordance with Chapter 7, Part 3, Allocation and Apportionment of Income -
+Utah UDITPA Provisions; or
+(b)  if a pass-through entity or pass-through entity taxpayer is classified as
+an estate, individual, partnership, S corporation, or a trust for federal
+income tax purposes, derived from or connected with Utah sources in accordance
+with Sections 59-10-117 and 59-10-118.
+(6)  "Nonbusiness income" means all income of a pass-through entity other than
+business income.
+(7)  "Nonresident business entity" means a business entity that does not have
+its commercial domicile in this state.
+(8)  "Nonresident pass-through entity taxpayer" means a pass-through entity
+taxpayer that is a:
+(a)  nonresident individual; or
+(b)  nonresident business entity.
+(9) (a)  "Pass-through entity" means a business entity that is:
+(i)  the following if classified as a partnership for federal income tax
+purposes:
+(A)  a general partnership;
+(B)  a limited liability company;
+(C)  a limited liability partnership; or
+(D)  a limited partnership;
+(ii)  an S corporation; or
+(iii)  a business entity similar to Subsection (9)(a)(i) or (ii):
+(A)  with respect to which the business entity's income, gain, loss,
+deduction, or credit is divided among and passed through to one or more pass-
+through entity taxpayers; and
+(B)  as defined by the commission by rule made in accordance with Title 63G,
+Chapter 3, Utah Administrative Rulemaking Act.
+(b)  "Pass-through entity" does not include an estate or trust that is
+classified as an estate or trust for federal income tax purposes.
+(10)  "Pass-through entity taxpayer" means a resident or nonresident
+individual, a resident or nonresident business entity, or a resident or
+nonresident estate or trust:
+(a)  that is:
+(i)  for a general partnership, a partner;
+(ii)  for a limited liability company, a member;
+(iii)  for a limited liability partnership, a partner;
+(iv)  for a limited partnership, a partner;
+(v)  for an S corporation, a shareholder; or
+(vi)  for a business entity described in Subsection (9)(a)(iii), a member,
+partner, shareholder, or other title designated by the commission by rule made
+in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act;
+and
+(b)  to which the income, gain, loss, deduction, or credit of a pass-through
+entity is passed through.
+(11)  "Resident business entity" means a business entity that is not a
+nonresident business entity.
+(12)  "Resident pass-through entity taxpayer" means a pass-through entity
+taxpayer that is a:
+(a)  resident individual; or
+(b)  resident business entity.
+(13)  "Return" means a return that a pass-through entity taxpayer files:
+(a)  for a pass-through entity taxpayer that is classified as a C corporation
+for federal income tax purposes, under Chapter 7, Corporate Franchise and
+Income Taxes; or
+(b)  for a pass-through entity taxpayer that is classified as an estate,
+individual, partnership, S corporation, or a trust for federal income tax
+purposes, under this chapter.
+(14)  "S corporation" is as defined in Section 1361, Internal Revenue Code.
+(15)  "Share of income, gain, loss, deduction, or credit of a pass-through
+entity" means:
+(a)  for a pass-through entity except for a pass-through entity that is an S
+corporation:
+(i)  for a resident pass-through entity taxpayer, the resident pass-through
+entity taxpayer's distributive share of income, gain, loss, deduction, or
+credit of the pass-through entity as determined under Section 704 et seq.,
+Internal Revenue Code; and
+(ii)  for a nonresident pass-through entity taxpayer, the nonresident pass-
+through entity taxpayer's distributive share of income, gain, loss, deduction,
+or credit of the pass-through entity:
+(A)  as determined under Section 704 et seq., Internal Revenue Code; and
+(B)  derived from or connected with Utah sources; or
+(b)  for an S corporation:
+(i)  for a resident pass-through entity taxpayer, the resident pass-through
+entity taxpayer's pro rata share of income, gain, loss, deduction, or credit
+of the S corporation, as determined under Sec. 1366 et seq., Internal Revenue
+Code; or
+(ii)  for a nonresident pass-through entity taxpayer, the nonresident pass-
+through entity taxpayer's pro rata share of income, gain, loss, deduction, or
+credit of the S corporation:
+(A)  as determined under Section 1366 et seq., Internal Revenue Code; and
+(B)  derived from or connected with Utah sources.

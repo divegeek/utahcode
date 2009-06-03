@@ -1,0 +1,169 @@
+31A-27a-701.   Priority of distribution.
+(1) (a)  The priority of payment of distributions on unsecured claims shall be
+in accordance with the order in which each class of claim is set forth in this
+section except as provided in Section 31A-27a-702.
+(b)  All claims in each class shall be paid in full or adequate funds retained
+for the claim's payment before a member of the next class receives payment.
+(c)  All claims within a class shall be paid substantially the same
+percentage.
+(d)  Except as provided in Subsections (2)(a)(i)(E), (2)(k), and (2)(m),
+subclasses may not be established within a class.
+(e)  A claim by a shareholder, policyholder, or other creditor may not be
+permitted to circumvent the priority classes through the use of equitable
+remedies.
+(2)  The order of distribution of claims shall be as follows:
+(a)  a Class 1 claim, which:
+(i)  is a cost or expense of administration expressly approved or ratified by
+the liquidator, including the following:
+(A)  the actual and necessary costs of preserving or recovering the property
+of the insurer;
+(B)  reasonable compensation for all services rendered on behalf of the
+administrative supervisor or receiver;
+(C)  a necessary filing fee;
+(D)  the fees and mileage payable to a witness;
+(E)  an unsecured loan obtained by the receiver, which:
+(I)  unless its terms otherwise provide, has priority over all other costs of
+administration; and
+(II)  absent agreement to the contrary, shares pro rata with all other claims
+described in this Subsection (2)(a)(i)(E); and
+(F)  an expense approved by the rehabilitator of the insurer, if any, incurred
+in the course of the rehabilitation that is unpaid at the time of the entry of
+the order of liquidation; and
+(ii)  except as expressly approved by the receiver, excludes any expense
+arising from a duty to indemnify a director, officer, or employee of the
+insurer which expense, if allowed, is a Class 7 claim;
+(b)  a Class 2 claim, which:
+(i)  is a reasonable expense of a guaranty association, including overhead,
+salaries, or other general administrative expenses allocable to the
+receivership such as:
+(A)  an administrative or claims handling expense;
+(B)  an expense in connection with arrangements for ongoing coverage; and
+(C)  in the case of a property and casualty guaranty association, a loss
+adjustment expense, including:
+(I)  an adjusting or other expense; and
+(II)  a defense or cost containment expense; and
+(ii)  excludes an expense incurred in the performance of duties under Section
+31A-28-112 or similar duties under the statute governing a similar
+organization in another state;
+(c)  a Class 3 claim, which:
+(i)  is:
+(A)  a claim under a policy of insurance including a third party claim;
+(B)  a claim under an annuity contract or funding agreement;
+(C)  a claim under a nonassessable policy for unearned premium;
+(D)  a claim of an obligee and, subject to the discretion of the receiver, a
+completion contractor under a surety bond or surety undertaking, except for:
+(I)  a bail bond;
+(II)  a mortgage guaranty;
+(III)  a financial guaranty; or
+(IV)  other form of insurance offering protection against investment risk or
+warranties;
+(E)  a claim by a principal under a surety bond or surety undertaking for
+wrongful dissipation of collateral by the insurer or its agents;
+(F)  an indemnity payment on:
+(I)  a covered claim;
+(II)  unearned premium; or
+(III)  a payment for the continuation of coverage made by an entity
+responsible for the payment of a claim or continuation of coverage of an
+insolvent health maintenance organization;
+(G)  a claim incurred during the extension of coverage provided for in
+Sections 31A-27a-402 and 31A-27a-403; or
+(H)  all other claims incurred in fulfilling the statutory obligations of a
+guaranty association not included in Class 2, including:
+(I)  an indemnity payment on covered claims; and
+(II)  in the case of a life and health guaranty association, a claim:
+(Aa)  as a creditor of the impaired or insolvent insurer for a payment of and
+liabilities incurred on behalf of a covered claim or covered obligation of the
+insurer; and
+(Bb)  for the funds needed to reinsure the obligations described under this
+Subsection (2)(c)(i)(H)(II) with a solvent insurer; and
+(ii)  notwithstanding any other provision of this chapter, excludes the
+following which shall be paid under Class 7, except as provided in this
+section:
+(A)  an obligation of the insolvent insurer arising out of a reinsurance
+contract;
+(B)  an obligation that is incurred pursuant to an occurrence policy or
+reported pursuant to a claims made policy after:
+(I)  the expiration date of the policy;
+(II)  the policy is replaced by the insured;
+(III)  the policy is canceled at the insured's request; or
+(IV)  the policy is canceled as provided in this chapter;
+(C)  an obligation to an insurer, insurance pool, or underwriting association
+and the insurer's, insurance pool's, or underwriting association's claim for
+contribution, indemnity, or subrogation, equitable or otherwise, except for
+direct claims under a policy where the insurer is the named insured;
+(D)  an amount accrued as punitive or exemplary damages unless expressly
+covered under the terms of the policy, which shall be paid as a claim in Class
+9;
+(E)  a tort claim of any kind against the insurer;
+(F)  a claim against the insurer for bad faith or wrongful settlement
+practices; and
+(G)  a claim of a guaranty association for assessments not paid by the
+insurer, which claims shall be paid as claims in Class 7; and
+(iii)  notwithstanding Subsection (2)(c)(ii)(B), does not exclude an unearned
+premium claim on a policy, other than a reinsurance agreement;
+(d)  a Class 4 claim, which is a claim under a policy for mortgage guaranty,
+financial guaranty, or other forms of insurance offering protection against
+investment risk or warranties;
+(e)  a Class 5 claim, which is a claim of the federal government not included
+in Class 3 or 4;
+(f)  a Class 6 claim, which is a debt due an employee for services or
+benefits:
+(i)  to the extent that the expense:
+(A)  does not exceed the lesser of:
+(I)  $5,000; or
+(II)  two months' salary; and
+(B)  represents payment for services performed within one year before the day
+on which the initial order of receivership is issued; and
+(ii)  which priority is in lieu of any other similar priority that may be
+authorized by law as to wages or compensation of employees;
+(g)  a Class 7 claim, which is a claim of an unsecured creditor not included
+in Classes 1 through 6, including:
+(i)  a claim under a reinsurance contract;
+(ii)  a claim of a guaranty association for an assessment not paid by the
+insurer; and
+(iii)  other claims excluded from Class 3 or 4, unless otherwise assigned to
+Classes 8 through 13;
+(h)  subject to Subsection (3), a Class 8 claim, which is:
+(i)  a claim of a state or local government, except a claim specifically
+classified elsewhere in this section; or
+(ii)  a claim for services rendered and expenses incurred in opposing a formal
+delinquency proceeding;
+(i)  a Class 9 claim, which is a claim for penalties, punitive damages, or
+forfeitures, unless expressly covered under the terms of a policy of
+insurance;
+(j)  a Class 10 claim, which is, except as provided in Subsections 31A-
+27a-601(2) and 31A-27a-601(3), a late filed claim that would otherwise be
+classified in Classes 3 through 9;
+(k)  subject to Subsection (4), a Class 11 claim, which is:
+(i)  a surplus note;
+(ii)  a capital note;
+(iii)  a contribution note;
+(iv)  a similar obligation;
+(v)  a premium refund on an assessable policy; or
+(vi)  any other claim specifically assigned to this class;
+(l)  a Class 12 claim, which is a claim for interest on an allowed claim of
+Classes 1 through 11, according to the terms of a plan to pay interest on
+allowed claims proposed by the liquidator and approved by the receivership
+court; and
+(m)  subject to Subsection (4), a Class 13 claim, which is a claim of a
+shareholder or other owner arising out of:
+(i)  the shareholder's or owner's capacity as shareholder or owner or any
+other capacity; and
+(ii)  except as the claim may be qualified in Class 3, 4, 7, or 12.
+(3)  To prove a claim described in Class 8, the claimant must show that:
+(a)  the insurer that is the subject of the delinquency proceeding incurred
+the fee or expense on the basis of the insurer's best knowledge, information,
+and belief:
+(i)  formed after reasonable inquiry indicating opposition is in the best
+interests of the insurer;
+(ii)  that is well grounded in fact; and
+(iii)  is warranted by existing law or a good faith argument for the
+extension, modification, or reversal of existing law; and
+(b)  opposition is not pursued for any improper purpose, such as to harass, to
+cause unnecessary delay, or to cause needless increase in the cost of the
+litigation.
+(4) (a)  A claim in Class 11 is subject to a subordination agreement related
+to other claims in Class 11 that exist before the entry of a liquidation
+order.
+(b)  A claim in Class 13 is subject to a subordination agreement, related to
+other claims in Class 13 that exist before the entry of a liquidation order.

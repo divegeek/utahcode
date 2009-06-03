@@ -1,0 +1,47 @@
+53A-17a-107.   Professional staff weighted pupil units.
+(1)  Professional staff weighted pupil units are computed and distributed in
+accordance with the following schedule:
+(a)  Professional Staff Cost Formula
+  Master's
+     Years of           Bachelor's      Bachelor's      Master's
+Degree
+    Experience            Degree        +30 Qt. Hr.      Degree         +45
+Qt. Hr.     Doctorate
+1                 1.00               1.05         1.10              1.15
+1.20
+2                 1.05               1.10         1.15              1.20
+1.25
+3                 1.10               1.15         1.20              1.25
+1.30
+4                 1.15               1.20         1.25              1.30
+1.35
+5                 1.20               1.25         1.30              1.35
+1.40
+6                 1.25               1.30         1.35              1.40
+1.45
+7                 1.30               1.35         1.40              1.45
+1.50
+8                 1.35               1.40         1.45              1.50
+1.55
+9                                                 1.50              1.55
+1.60
+10                                                                  1.60
+1.65
+11
+1.70
+(b)  Multiply the number of full-time or equivalent professional personnel in
+each applicable experience category in Subsection (1)(a) by the applicable
+weighting factor.
+(c)  Divide the total of Subsection (1)(b) by the number of professional
+personnel included in Subsection (1)(b) and reduce the quotient by 1.00.
+(d)  Multiply the result of Subsection (1)(c) by 1/4 of the weighted pupil
+units computed in accordance with Sections 53A-17a-106 and 53A-17a-109.
+(2)  The State Board of Education shall enact rules in accordance with Title
+63G, Chapter 3, Utah Administrative Rulemaking Act, which require a certain
+percentage of a district's professional staff to be certified in the area in
+which they teach in order for the district to receive full funding under the
+schedule.
+(3)  If an individual's teaching experience is a factor in negotiating a
+contract of employment to teach in the state's public schools, then the local
+school board is encouraged to accept as credited experience all of the years
+the individual has taught in the state's public schools.

@@ -1,0 +1,79 @@
+63G-11-103.   Status verification system -- Registration and use --
+Performance of services -- Unlawful practice.
+(1)  As used in this section:
+(a)  "Contract" means an agreement for the procurement of goods or services
+that is awarded through a request for proposals process with a public employer
+and includes a sole source contract.
+(b)  "Contractor" means a subcontractor, contract employee, staffing agency,
+or any contractor regardless of its tier.
+(c)  "Public employer" means a department, agency, instrumentality, or
+political subdivision of the state.
+(d) (i)  "Status Verification System" means an electronic system operated by
+the federal government, through which an authorized official of a state agency
+or a political subdivision of the state may inquire by exercise of authority
+delegated pursuant to 8 U.S.C., Sec. 1373, to verify the citizenship or
+immigration status of an individual within the jurisdiction of the agency or
+political subdivision for a purpose authorized under this section.
+(ii)  "Status Verification System" includes:
+(A)  the electronic verification of the work authorization program of the
+Illegal Immigration Reform and Immigration Responsibility Act of 1996, 8
+U.S.C., Sec. 1324a, known as the E-verify Program;
+(B)  an equivalent federal program designated by the United States Department
+of Homeland Security or other federal agency authorized to verify the work
+eligibility status of a newly hired employee pursuant to the Immigration
+Reform and Control Act of 1986;
+(C)  the Social Security Number Verification Service or similar online
+verification process implemented by the United States Social Security
+Administration; or
+(D)  an independent third-party system with an equal or higher degree of
+reliability as the programs, systems, or processes described in Subsection
+(1)(d)(ii)(A), (B), or (C).
+(e)  "Unauthorized alien" means an alien as defined in 8 U.S.C., Sec.
+1324a(h)(3).
+(2) (a)  Each public employer shall register with and use a Status
+Verification System to verify the federal employment authorization status of a
+new employee.
+(b)  This section shall be enforced without regard to race, religion, gender,
+ethnicity, or national origin.
+(3) (a)  Beginning July 1, 2009:
+(i)  a public employer may not enter into a contract for the physical
+performance of services within the state with a contractor unless the
+contractor registers and participates in the Status Verification System to
+verify the work eligibility status of the contractor's new employees that are
+employed in the state; and
+(ii)  a contractor shall register and participate in the Status Verification
+System in order to enter into a contract with a public employer.
+(b) (i)  For purposes of compliance with Subsection (3)(a), a contractor is
+individually responsible for verifying the employment status of only new
+employees who work under the contractor's supervision or direction and not
+those who work for another contractor or subcontractor, except as otherwise
+provided in Subsection (3)(b)(ii).
+(ii)  Each contractor or subcontractor who works under or for another
+contractor shall certify to the main contractor by affidavit that the
+contractor or subcontractor has verified through the Status Verification
+System the employment status of each new employee of the respective contractor
+or subcontractor.
+(c)  Subsection (3)(a) does not apply to a contract:
+(i)  entered into by the entities referred to in Subsection (3)(a) prior to
+July 1, 2009, even though the contract may involve the physical performance of
+services within the state on or after July 1, 2009; or
+(ii)  that involves underwriting, remarketing, broker-dealer activities,
+securities placement, investment advisory, financial advisory, or other
+financial or investment banking services.
+(4) (a)  It is unlawful for an employing entity in the state to discharge an
+employee working in Utah who is a United States citizen or permanent resident
+alien and replace the employee with, or have the employee's duties assumed by,
+an employee who:
+(i)  the employing entity knows, or reasonably should have known, is an
+unauthorized alien hired on or after July 1, 2009; and
+(ii)  is working in the state in a job category:
+(A)  that requires equal skill, effort, and responsibility; and
+(B)  which is performed under similar working conditions, as defined in 29
+U.S.C., Sec. 206 (d)(1), as the job category held by the discharged employee.
+(b)  An employing entity, which on the date of a discharge in question
+referred to in Subsection (4)(a) is enrolled in and using the Status
+Verification System to verify the employment eligibility of its employees in
+Utah who are hired on or after July 1, 2009, is exempt from liability,
+investigation, or lawsuit arising from an action under this section.
+(c)  A cause of action for a violation of this Subsection (4) arises
+exclusively from the provisions of this Subsection (4).

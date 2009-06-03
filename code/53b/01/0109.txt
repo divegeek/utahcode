@@ -1,0 +1,11 @@
+53B-1-109.   Coordination of higher education and public education
+information technology systems -- Use of unique student identifier.
+(1)  As used in this section, "unique student identifier" has the same meaning
+as provided in Section 53A-1-603.5.
+(2)  The State Board of Regents and State Board of Education shall coordinate
+public education and higher education information technology systems to allow
+individual student academic achievement to be tracked through both education
+systems in accordance with this section and Section 53A-1-603.5.
+(3)  Information technology systems utilized at an institution within the
+state system of higher education shall utilize the unique student identifier
+of all students who have previously been assigned a unique student identifier.

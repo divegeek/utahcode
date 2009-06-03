@@ -1,0 +1,18 @@
+57-10-3.   North to South and East to West coordinate values.
+The plane coordinate values for a point on the earth's surface used to express
+the geographic position or location or point in the appropriate zone of this
+system shall consist of two distances expressed in U.S. survey feet and
+decimals of a foot when using the Utah Coordinate System of 1927 and expressed
+in meters and decimals of a meter when using the Utah Coordinate System of
+1983.
+(1)  One of these distances, known as the "x-coordinate" or "E-coordinate,"
+shall give the position in an east-west direction; the other, known as the
+"y-coordinate" or "N-coordinate," shall give the position in a north-south
+direction.
+(2)  These coordinates shall be made to depend upon and conform to plane
+rectangular coordinate values computed on the systems defined in this chapter
+for the monumented points of the North American Horizontal Geodetic Control
+Network, as published by the National Ocean Service/National Geodetic Survey
+(formerly the United States Coast and Geodetic Survey) or its successors.
+(3)  Any such station may be used for establishing a survey connection to
+either Utah coordinate system.

@@ -1,0 +1,74 @@
+59-10-1019.   Definitions -- Nonrefundable retirement tax credits.
+(1)  As used in this section:
+(a)  "Eligible age 65 or older retiree" means a claimant, regardless of
+whether that claimant is retired, who:
+(i)  is 65 years of age or older; and
+(ii)  was born on or before December 31, 1952.
+(b) (i)  "Eligible retirement income" means income received by an eligible
+under age 65 retiree as a pension or annuity if that pension or annuity is:
+(A)  paid to the eligible under age 65 retiree or the surviving spouse of an
+eligible under age 65 retiree; and
+(B) (I)  paid from an annuity contract purchased by an employer under a plan
+that meets the requirements of Section 404(a)(2), Internal Revenue Code;
+(II)  purchased by an employee under a plan that meets the requirements of
+Section 408, Internal Revenue Code; or
+(III)  paid by:
+(Aa)  the United States;
+(Bb)  a state or a political subdivision of a state; or
+(Cc)  the District of Columbia.
+(ii)  "Eligible retirement income" does not include amounts received by the
+spouse of a living eligible under age 65 retiree because of the eligible under
+age 65 retiree's having been employed in a community property state.
+(c)  "Eligible under age 65 retiree" means a claimant, regardless of whether
+that claimant is retired, who:
+(i)  is younger than 65 years of age;
+(ii)  was born on or before December 31, 1952; and
+(iii)  has eligible retirement income for the taxable year for which a tax
+credit is claimed under this section.
+(d)  "Head of household filing status" is as defined in Section 59-10-1018.
+(e)  "Joint filing status" is as defined in Section 59-10-1018.
+(f)  "Married filing separately status" means a married individual who:
+(i)  does not file a single federal individual income tax return jointly with
+that married individual's spouse for the taxable year; and
+(ii)  files a single federal individual income tax return for the taxable
+year.
+(g)  "Modified adjusted gross income" means the sum of an eligible age 65 or
+older retiree's or eligible under age 65 retiree's:
+(i)  adjusted gross income for the taxable year for which a tax credit is
+claimed under this section;
+(ii)  any interest income that is not included in adjusted gross income for
+the taxable year described in Subsection (1)(g)(i); and
+(iii)  any addition to adjusted gross income required by Section 59-10-114 for
+the taxable year described in Subsection (1)(g)(i).
+(h)  "Single filing status" means a single individual who files a single
+federal individual income tax return for the taxable year.
+(2)  Except as provided in Section 59-10-1002.2 and subject to Subsections (3)
+through (6):
+(a)  each eligible age 65 or older retiree may claim a nonrefundable tax
+credit of $450 against taxes otherwise due under this part; or
+(b)  each eligible under age 65 retiree may claim a nonrefundable tax credit
+against taxes otherwise due under this part in an amount equal to the lesser
+of:
+(i)  $288; or
+(ii)  the product of:
+(A)  the eligible under age 65 retiree's eligible retirement income for the
+taxable year for which the eligible under age 65 retiree claims a tax credit
+under this section; and
+(B)  6%.
+(3)  A tax credit under this section may not be carried forward or carried
+back.
+(4)  The sum of the tax credits allowed by Subsection (2) claimed on one
+return filed under this part shall be reduced by $.025 for each dollar by
+which modified adjusted gross income for purposes of the return exceeds:
+(a)  for a federal individual income tax return that is allowed a married
+filing separately status, $16,000;
+(b)  for a federal individual income tax return that is allowed a single
+filing status, $25,000;
+(c)  for a federal individual income tax return that is allowed a head of
+household filing status, $32,000; or
+(d)  for a return under this chapter that is allowed a joint filing status,
+$32,000.
+(5)  For purposes of determining the ownership of items of retirement income
+under this section, common law doctrine shall be applied in all cases even
+though some items of retirement income may have originated from service or
+investments in a community property state.

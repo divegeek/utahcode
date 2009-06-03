@@ -1,0 +1,15 @@
+13-40-202.   Permissive removal of potentially harmful software.
+If a provider of computer software or an interactive computer service provides
+prior notice to a user with whom the provider has an established business
+relationship, that provider is not liable under the law of this state, or a
+political subdivision of this state, for identifying, removing, or disabling,
+preventing installation of a program on the user's computer that is used to,
+or that the provider reasonably or in good faith believes will likely be used
+to:
+(1)  violate a provision of this chapter; or
+(2)  to engage in surreptitious collection of information concerning the
+user's use of the computer without the consent of the owner of the computer,
+except that no notice is required for:
+(a)  preventing the installation of a program; or
+(b)  in the case of an enterprise network, removing, disabling, or preventing
+the installation of a program on the computer of an employee.

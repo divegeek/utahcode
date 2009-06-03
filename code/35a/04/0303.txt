@@ -1,0 +1,166 @@
+35A-4-303.   Determination of contribution rates.
+(1) (a)  An employer's basic contribution rate is the same as the employer's
+benefit ratio, determined by dividing the total benefit costs charged back to
+an employer during the immediately preceding four fiscal years by the total
+taxable wages of the employer for the same time period, calculated to four
+decimal places, disregarding the remaining fraction, if any.
+(b)  In calculating the basic contribution rate under Subsection (1)(a):
+(i)  if four fiscal years of data are not available, the data of three fiscal
+years shall be divided by the total taxable wages for the same time period;
+(ii)  if three fiscal years of data are not available, the data of two fiscal
+years shall be divided by the total taxable wages for the same time period; or
+(iii)  if two fiscal years of data are not available, the data of one fiscal
+year shall be divided by the total taxable wages for the same time period.
+(2) (a)  In calculating the social contribution rate under Subsection (2)(b)
+or (c):
+(i)  if four fiscal years of data are not available, the data of three fiscal
+years shall be divided by the total taxable wages for the same time period; or
+(ii)  if three fiscal years of data are not available, the data of two fiscal
+years shall be divided by the total taxable wages for the same time period.
+(b)  Beginning January 1, 2005, the division shall calculate the social
+contribution rate by dividing all social costs as defined in Subsection
+35A-4-307(1) applicable to the preceding four fiscal years by the total
+taxable wages of all employers subject to contributions for the same period,
+calculated to four decimal places, disregarding any remaining fraction.
+(c)  Beginning January 1, 2009, the division shall calculate the social
+contribution rate by dividing all social costs as defined in Subsection
+35A-4-307(1) applicable to the preceding four fiscal years by the total
+taxable wages of all employers subject to contributions for the same period,
+calculated to four decimal places, disregarding any remaining fraction, and
+rounded to three decimal places, disregarding any further fraction, if the
+fourth decimal place is .0004 or less, or rounding up to the next higher
+number, if the fourth decimal place is .0005 or more.
+(3) (a)  Beginning January 1, 2000, the division shall by administrative
+decision set the reserve factor at a rate that shall sustain an adequate
+reserve.
+(b)  For the purpose of setting the reserve factor:
+(i) (A)  the adequate reserve is defined as between 17 and 19 months of
+benefits at the average of the five highest benefit cost rates in the last 25
+years;
+(B)  beginning January 1, 2009, the adequate reserve is defined as between 18
+and 24 months of benefits at the average of the five highest benefit cost
+rates in the last 25 years;
+(ii)  the reserve factor shall be 1.0000 if the actual reserve fund balance as
+of June 30 preceding the computation date is determined to be an adequate
+reserve;
+(iii)  the reserve factor will be set between 0.5000 and 1.0000 if the actual
+reserve fund balance as of June 30 preceding the computation date is greater
+than the adequate reserve;
+(iv)  the reserve factor will be set between 1.0000 and 1.5000 if the actual
+reserve fund balance as of June 30 prior to the computation date is less than
+the adequate reserve;
+(v)  if the actual reserve fund balance as of June 30 preceding the
+computation date is insolvent or negative or if there is an outstanding loan
+from the Federal Unemployment Account, the reserve factor will be set at
+2.0000 until the actual reserve fund balance as of June 30 preceding the
+computation date is determined to be an adequate reserve;
+(vi)  the reserve factor will be set on or before January 1 of each year; and
+(vii)  monies made available to the state under Section 903 of the Social
+Security Act, as amended, which are received on or after January 1, 2004, may
+not be considered in establishing the reserve factor under this section for
+the rate year 2005 or any subsequent rate year.
+(4) (a)  On or after January 1, 2004, an employer's overall contribution rate
+is the employer's basic contribution rate multiplied by the reserve factor
+established according to Subsection (3), calculated to four decimal places,
+disregarding the remaining fraction, plus the social contribution rate
+established according to Subsection (2), and calculated to three decimal
+places, disregarding the remaining fraction, but not more than a maximum
+overall contribution rate of 9.0%, plus the applicable social contribution
+rate and not less than 1.1% for new employers.
+(b)  Beginning January 1, 2009, an employer's overall contribution rate is the
+employer's basic contribution rate multiplied by the reserve factor
+established according to Subsection (3)(b), calculated to four decimal places,
+disregarding the remaining fraction, plus the social contribution rate
+established according to Subsection (2), and calculated to three decimal
+places, disregarding the remaining fraction, but not more than a maximum
+overall contribution rate of 9%, plus the applicable social contribution rate
+and not less than 1.1% for new employers.
+(c)  The overall contribution rate does not include the addition of any
+penalty applicable to an employer as a result of delinquency in the payment of
+contributions as provided in Subsection (9).
+(d)  The overall contribution rate does not include the addition of any
+penalty applicable to an employer assessed a penalty rate under Subsection
+35A-4-304(5)(a).
+(5)  Except as provided in Subsection (9), each new employer shall pay a
+contribution rate based on the average benefit cost rate experienced by
+employers of the major industry as defined by department rule to which the new
+employer belongs, the basic contribution rate to be determined as follows:
+(a)  Except as provided in Subsection (5)(b), by January 1 of each year, the
+basic contribution rate to be used in computing the employer's overall
+contribution rate is the benefit cost rate which is the greater of:
+(i)  the amount calculated by dividing the total benefit costs charged back to
+both active and inactive employers of the same major industry for the last two
+fiscal years by the total taxable wages paid by those employers that were paid
+during the same time period, computed to four decimal places, disregarding the
+remaining fraction, if any; or
+(ii)  1%.
+(b)  If the major industrial classification assigned to a new employer is an
+industry for which a benefit cost rate does not exist because the industry has
+not operated in the state or has not been covered under this chapter, the
+employer's basic contribution rate shall be 5.4%.  This basic contribution
+rate is used in computing the employer's overall contribution rate.
+(6)  Notwithstanding any other provision of this chapter, and except as
+provided in Subsection (7), if an employing unit that moves into this state is
+declared to be a qualified employer because it has sufficient payroll and
+benefit cost experience under another state, a rate shall be computed on the
+same basis as a rate is computed for all other employers subject to this
+chapter if that unit furnishes adequate records on which to compute the rate.
+(7)  An employer who begins to operate in this state after having operated in
+another state shall be assigned the maximum overall contribution rate until
+the employer acquires sufficient experience in this state to be considered a
+"qualified employer" if the employer is:
+(a)  regularly engaged as a contractor in the construction, improvement, or
+repair of buildings, roads, or other structures on lands;
+(b)  generally regarded as being a construction contractor or a subcontractor
+specialized in some aspect of construction; or
+(c)  required to have a contractor's license or similar qualification under
+Title 58, Chapter 55, Utah Construction Trades Licensing Act, or the
+equivalent in laws of another state.
+(8) (a)  If an employer acquires the business or all or substantially all the
+assets of another employer and the other employer had discontinued operations
+upon the acquisition or transfers its trade or business, or a portion of its
+trade or business, under Subsection 35A-4-304(3)(a):
+(i)  for purposes of determining and establishing the acquiring party's
+qualifications for an experience rating classification, the payrolls of both
+employers during the qualifying period shall be jointly considered in
+determining the period of liability with respect to:
+(A)  the filing of contribution reports;
+(B)  the payment of contributions; and
+(C)  after January 1, 1985, the benefit costs of both employers;
+(ii)  the transferring employer shall be divested of the transferring
+employer's unemployment experience provided the transferring employer had
+discontinued operations, but only to the extent as defined under Subsection
+35A-4-304(3)(c); and
+(iii)  if an employer transfers its trade or business, or a portion of its
+trade or business, as defined under Subsection 35A-4-304(3), the transferring
+employer may not be divested of its employer's unemployment experience.
+(b) An employing unit or prospective employing unit that acquires the
+unemployment experience of an employer shall, for all purposes of this
+chapter, be an employer as of the date of acquisition.
+(c)  Notwithstanding Section 35A-4-310, when a transferring employer, as
+provided in Subsection (8)(a), is divested of the employer's unemployment
+experience by transferring all of the employer's business to another and by
+ceasing operations as of the date of the transfer, the transferring employer
+shall cease to be an employer, as defined by this chapter, as of the date of
+transfer.
+(9) (a)  A rate of less than 8% shall be effective January 1 of any
+contribution year on or after January 1, 1985, but before January 1, 1988, and
+a rate of less than the maximum overall contribution rate on or after January
+1, 1988, only with respect to new employers and to those qualified employers
+who, except for amounts due under division determinations that have not become
+final, paid all contributions prescribed by the division with respect to the
+four consecutive calendar quarters in the fiscal year immediately preceding
+the computation date on or after January 1, 1985.
+(b)  Notwithstanding Subsections (1), (5), (6), and (8), on or after January
+1, 1988, an employer who fails to pay all contributions prescribed by the
+division with respect to the four consecutive calendar quarters in the fiscal
+year immediately preceding the computation date, except for amounts due under
+determinations that have not become final, shall pay a contribution rate equal
+to the overall contribution rate determined under the experience rating
+provisions of this chapter, plus a surcharge of 1% of wages.
+(c)  An employer who pays all required contributions shall, for the current
+contribution year, be assigned a rate based upon the employer's own experience
+as provided under the experience rating provisions of this chapter effective
+the first day of the calendar quarter in which the payment was made.
+(d)  Delinquency in filing contribution reports shall not be the basis for
+denial of a rate less than the maximum contribution rate.

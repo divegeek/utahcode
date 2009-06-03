@@ -1,0 +1,15 @@
+63M-1-2302.   Definitions.
+As used in this part:
+(1)  "Broadband service" means any wire line technology identified by the
+director as having the capacity to transmit data from and to a subscriber's
+computer to the Internet or Internet-related services at a minimum rate of
+data transmission of 256 kilobits per second.
+(2)  "Fund" means the restricted account known as the Rural Broadband Service
+Fund created in Section 63M-1-2303.
+(3)  "Provider" means a person who will provide retail broadband service to
+subscribers in a rural area.
+(4)  "Rural area" means any territory in the state:
+(a)  within a city, town, or unincorporated area with a population of 10,000
+or less based on the most recently published data of the United States Census
+Bureau; and
+(b)  in which broadband service is not available.

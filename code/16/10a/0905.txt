@@ -1,0 +1,20 @@
+16-10a-905.   Court-ordered indemnification of directors.
+Unless a corporation's articles of incorporation provide otherwise, a director
+of the corporation who is or was a party to a proceeding may apply for
+indemnification to the court conducting the proceeding or to another court of
+competent jurisdiction.  On receipt of an application, the court, after giving
+any notice the court considers necessary, may order indemnification in the
+following manner:
+(1)  if the court determines that the director is entitled to mandatory
+indemnification under Section 16-10a-903, the court shall order
+indemnification, in which case the court shall also order the corporation to
+pay the director's reasonable expenses incurred to obtain court-ordered
+indemnification; and
+(2)  if the court determines that the director is fairly and reasonably
+entitled to indemnification in view of all the relevant circumstances, whether
+or not the director met the applicable standard of conduct set forth in
+Section 16-10a-902 or was adjudged liable as described in Subsection
+16-10a-902(4), the court may order indemnification as the court determines to
+be proper, except that the indemnification with respect to any proceeding in
+which liability has been adjudged in the circumstances described in Subsection
+16-10a-902(4) is limited to reasonable expenses incurred.

@@ -1,0 +1,120 @@
+59-12-405.   Definitions -- Municipality filing requirements for lodging
+unit capacity -- Failure to meet eligibility requirements -- Notice to
+municipality -- Municipality authority to impose tax.
+(1)  As used in this section:
+(a)  "high-occupancy lodging unit" means each bedroom in a:
+(i)  hostel; or
+(ii)  a unit similar to a hostel as determined by the commission by rule;
+(b)  "high-occupancy lodging unit capacity of a municipality" means the
+product of:
+(i)  the total number of high-occupancy lodging units within the incorporated
+boundaries of a municipality on the first day of the calendar quarter during
+which the municipality files the form described in Subsection (3); and
+(ii)  four;
+(c)  "recreational lodging unit" means each site in a:
+(i)  campground that:
+(A)  is issued a business license by the municipality in which the campground
+is located; and
+(B)  provides the following hookups:
+(I)  water;
+(II)  sewer; and
+(III)  electricity; or
+(ii)  recreational vehicle park that provides the following hookups:
+(A)  water;
+(B)  sewer; and
+(C)  electricity; or
+(iii)  unit similar to Subsection (1)(c)(i) or (ii) as determined by the
+commission by rule;
+(d)  "recreational lodging unit capacity of a municipality" means the product
+of:
+(i)  the total number of recreational lodging units within the incorporated
+boundaries of a municipality on the first day of the calendar quarter during
+which the municipality files the form described in Subsection (3); and
+(ii)  four;
+(e)  "special lodging unit" means a lodging unit:
+(i)  that is a:
+(A)  high-occupancy lodging unit;
+(B)  recreational lodging unit; or
+(C)  standard lodging unit;
+(ii)  for which the commission finds that in determining the capacity of the
+lodging unit the lodging unit should be multiplied by a number other than a
+number described in:
+(A)  for a high-occupancy lodging unit, Subsection (1)(b)(ii);
+(B)  for a recreational lodging unit, Subsection (1)(d)(ii); or
+(C)  for a standard lodging unit, Subsection (1)(i)(ii); and
+(iii)  for which the municipality in which the lodging unit is located files a
+written request with the commission for the finding described in Subsection
+(1)(e)(ii);
+(f)  "special lodging unit capacity of a municipality" means the sum of the
+special lodging unit numbers for all of the special lodging units within the
+incorporated boundaries of a municipality on the first day of the calendar
+quarter during which the municipality files the form described in Subsection
+(3);
+(g)  "special lodging unit number" means the number by which the commission
+finds that a special lodging unit should be multiplied in determining the
+capacity of the special lodging unit;
+(h)  "standard lodging unit" means each bedroom in:
+(i)  a hotel;
+(ii)  a motel;
+(iii)  a bed and breakfast establishment;
+(iv)  an inn;
+(v)  a condominium that is:
+(A)  part of a rental pool; or
+(B)  regularly rented out for a time period of less than 30 consecutive days;
+(vi)  a property used as a residence that is:
+(A)  part of a rental pool; or
+(B)  regularly rented out for a time period of less than 30 consecutive days;
+or
+(vii)  a unit similar to Subsections (1)(h)(i) through (vi) as determined by
+the commission by rule;
+(i)  "standard lodging unit capacity of a municipality" means the product of:
+(i)  the total number of standard lodging units within the incorporated
+boundaries of a municipality on the first day of the calendar quarter during
+which the municipality files the form described in Subsection (3); and
+(ii)  three; and
+(j)  "transient room capacity" means the sum of:
+(i)  the high-occupancy lodging unit capacity of a municipality;
+(ii)  the recreational lodging unit capacity of a municipality;
+(iii)  the special lodging unit capacity of a municipality; and
+(iv)  the standard lodging unit capacity of a municipality.
+(2)  A municipality that imposes a tax under this part shall provide the
+commission the following information as provided in this section:
+(a)  the high-occupancy lodging unit capacity of the municipality;
+(b)  the recreational lodging unit capacity of the municipality;
+(c)  the special lodging unit capacity of the municipality; and
+(d)  the standard lodging unit capacity of the municipality.
+(3)  A municipality shall file with the commission the information required by
+Subsection (1):
+(a)  on a form provided by the commission; and
+(b)  on or before:
+(i)  for a municipality that is required by Section 59-12-403 to provide
+notice to the commission, the day on which the municipality provides the
+notice required by Section 59-12-403 to the commission; or
+(ii)  for a municipality that is not required by Section 59-12-403 to provide
+notice to the commission, July 1 of each year.
+(4)  If the commission determines that a municipality that files the form
+described in Subsection (3) has a transient room capacity that is less than
+66% of the municipality's permanent census population, the commission shall
+notify the municipality in writing:
+(a)  that the municipality's transient room capacity is less than 66% of the
+municipality's permanent census population; and
+(b) (i)  for a municipality that is required by Section 59-12-403 to provide
+notice to the commission, within 30 days after the day on which the
+municipality provides the notice to the commission; or
+(ii)  for a municipality that is not required by Section 59-12-403 to provide
+notice to the commission, on or before September 1.
+(5) (a)  For a municipality that does not impose a tax under Section 59-12-401
+on the day on which the municipality files the form described in Subsection
+(3), if the commission provides written notice described in Subsection (4) to
+the municipality, the municipality may not impose a tax under this part until
+the municipality meets the requirements of this part to enact the tax.
+(b)  For a municipality that is not required by Section 59-12-403 to provide
+notice to the commission, if the commission provides written notice described
+in Subsection (4) to the municipality for two consecutive calendar years, the
+municipality may not impose a tax under this part:
+(i)  beginning on July 1 of the year after the year during which the
+commission provided written notice described in Subsection (4):
+(A)  to the municipality; and
+(B)  for the second consecutive calendar year; and
+(ii)  until the municipality meets the requirements of this part to enact the
+tax.

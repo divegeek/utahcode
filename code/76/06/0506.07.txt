@@ -1,0 +1,46 @@
+76-6-506.7.   Obtaining encoded information on a financial transaction card
+with the intent to defraud the issuer, holder, or merchant.
+(1)  As used in this section:
+(a)  "Financial transaction card" or "card" means any credit card, credit
+plate, bank services card, banking card, check guarantee card, debit card,
+telephone credit card, or any other card, issued by an issuer for the use of
+the card holder in:
+(i)  obtaining money, goods, services, or anything else of value on credit; or
+(ii)  certifying or guaranteeing to a merchant the availability to the card
+holder of the funds on deposit that are equal to or greater than the amount
+necessary to honor a draft or check as the instrument for obtaining,
+purchasing, or receiving goods, services, money, or any other thing of value
+from the merchant.
+(b) (i)  "Merchant" means an owner or operator of any retail mercantile
+establishment or any agent, employee, lessee, consignee, officer, director,
+franchisee, or independent contractor of the owner or operator.
+(ii)  "Merchant" also means a person:
+(A)  who receives from a card holder, or a third person the merchant believes
+to be the card holder, a financial transaction card or information from a
+financial transaction card, or what the merchant believes to be a financial
+transaction card or information from a card; and
+(B)  who accepts the financial transaction card or information from a card
+under Subsection (1)(a)(ii)(A) as the instrument for obtaining, purchasing, or
+receiving goods, services, money, or any other thing of value from the
+merchant.
+(c)  "Reencoder" means an electronic device that places encoded information
+from the magnetic strip or stripe of a financial transaction card onto the
+magnetic strip or stripe of a different financial transaction card.
+(d)  "Scanning device" means a scanner, reader, or any other electronic device
+used to access, read, scan, obtain, memorize, or store, temporarily or
+permanently, information encoded on the magnetic strip or stripe of a
+financial transaction card.
+(2) (a)  A person is guilty of a third degree felony who uses:
+(i)  a scanning device to access, read, obtain, memorize, or store,
+temporarily or permanently, information encoded on the magnetic strip or
+stripe of a financial transaction card without the permission of the card
+holder and with intent to defraud the card holder, the issuer, or a merchant;
+or
+(ii)  a reencoder to place information encoded on the magnetic strip or stripe
+of a financial transaction card onto the magnetic strip or stripe of a
+different card without the permission of the authorized user of the card from
+which the information is being reencoded and with the intent to defraud the
+card holder, the issuer, or a merchant.
+(b)  Any person who has been convicted previously of an offense under
+Subsection (2)(a) is guilty of a second degree felony upon a second conviction
+and any subsequent conviction for the offense.

@@ -1,0 +1,67 @@
+13-40-102.   Definitions.
+As used in this chapter:
+(1)  "Cookie" means a text file:
+(a)  that is placed on a computer by:
+(i)  an interactive computer service;
+(ii)  an Internet website; or
+(iii)  a third party acting on behalf of:
+(A)  an interactive computer service; or
+(B)  an Internet website; and
+(b)  the function of which is to record information that can be read or
+recognized when the user of the computer later accesses a particular:
+(i)  Internet website;
+(ii)  online location; or
+(iii)  online service.
+(2)  "Division" means the Division of Consumer Protection in the Department of
+Commerce.
+(3)  "Interactive computer service" means any information service, system, or
+access software provider that provides or enables computer access by multiple
+users to a computer server, including:
+(a)  an Internet or online service provider; or
+(b)  a service or system providing access to the Internet, including a system
+operated by a library or educational institution.
+(4)  "Internet" is as defined in the Internet Tax Freedom Act, Pub. L. No.
+105-277.
+(5)  "Internet or online service provider" means an interactive computer
+service that provides software or other material that enables a person to:
+(a)  transmit, receive, display, forward, cache, search, subset, organize,
+reorganize, or translate content;
+(b)  select or analyze content; or
+(c)  allow or disallow content.
+(6)  "Mark" means a registered trademark, registered service mark, or
+registered domain name in an Internet website address that is owned, licensed,
+or lawfully used by a person doing business in this state.
+(7)  "Pop-up advertising" means material:
+(a)  offering for sale or advertising the availability or quality of a
+commercial property, good, or service; and
+(b)  that is displayed:
+(i)  separate from an Internet website;
+(ii)  as a result of a user accessing an Internet website;
+(iii)  in a manner that covers paid advertising or other content on an
+Internet website in a way that interferes with the user's ability to view the
+advertising or other content that the user attempted to originally access; and
+(iv)  without the authority of the operator of the Internet website.
+(8) (a)  Except as provided in Subsection (8)(b), "spyware" means software on
+the computer of a user who resides in this state that:
+(i)  collects information about an Internet website at the time the Internet
+website is being viewed in this state, unless the Internet website is the
+Internet website of the person who provides the software; and
+(ii)  uses the information described in Subsection (8)(a)(i) contemporaneously
+to display pop-up advertising on the computer.
+(b)  "Spyware" does not include:
+(i)  an Internet website;
+(ii)  a service operated by an Internet or online service provider accessed by
+a user;
+(iii)  software designed and installed primarily to:
+(A)  prevent, diagnose, or resolve technical difficulties;
+(B)  detect or prevent fraudulent activities; or
+(C)  protect the security of the user's computer from unauthorized access or
+alteration;
+(iv)  software or data that reports information to an Internet website
+previously stored by the Internet website on the user's computer, including
+cookies;
+(v)  software that provides the user with the capability to search the
+Internet; or
+(vi)  software installed with the consent of a user whose primary purpose is
+to prevent access to certain Internet content.
+(9)  "User" means the owner or authorized user of a computer.

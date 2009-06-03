@@ -1,0 +1,55 @@
+31A-27a-605.   Allowance of contingent and unliquidated claims.
+(1)  As used in this section, "claim" means a demand for payment pursuant to
+Section 31A-27a-601 under the terms and conditions of a contract issued by the
+insurer as a result of a known accident, casualty, disaster, loss, event, or
+occurrence.
+(2) (a)  A claim of an insured or third party may be allowed under Section
+31A-27a-603, regardless of the fact that it is contingent or unliquidated if:
+(i)  any contingency is removed in accordance with Subsection (3); and
+(ii)  the value of the claim is determined in accordance with Subsection (4).
+(b)  A claim is contingent if:
+(i)  the accident, casualty, disaster, loss, event, or occurrence insured,
+reinsured, or bonded against occurs on or before the date fixed under Section
+31A-27a-601; and
+(ii)  the act or event triggering the insurer's obligation to pay has not
+occurred as of the date fixed under Section 31A-27a-401.
+(c)  A claim is unliquidated if the insurer's obligation to pay is
+established, but the amount of the claim has not been determined.
+(3) (a)  Unless the receivership court directs otherwise, a contingent claim
+may be allowed if:
+(i)  the claimant presents proof of the insurer's obligation to pay reasonably
+satisfactory to the liquidator; or
+(ii)  subject to Subsection (3)(b), the claim is based on a cause of action
+against an insured of the insurer, and:
+(A)  it may be reasonably inferred from proof presented upon the claim that
+the claimant would be able to obtain a judgment; and
+(B)  the person furnishes suitable proof.
+(b)  A contingent claim may not be allowed under Subsection (3)(a)(ii)(B) if
+the receivership court for good cause shown shall otherwise direct that no
+further valid claims can be made against the insurer arising out of the cause
+of action other than those already presented.
+(4) (a)  An unliquidated claim may be allowed if its amount has been
+determined.
+(b)  If the amount of an unliquidated claim filed pursuant to Section 31A-
+27a-601 remains undetermined, the valuation of the unliquidated claim may be
+made by estimate whenever the liquidator determines that:
+(i)  liquidation of the claim would unduly delay the administration of the
+liquidation proceeding; or
+(ii)  the administrative expense of processing and adjudicating the claim or
+group of claims of a similar type would be unduly excessive when compared with
+the property that is estimated to be available for distribution with respect
+to the claim.
+(c)  Any estimate shall be based on an accepted method of valuing a claim with
+reasonable certainty at the claim's net present value, such as an actuarial
+evaluation.
+(5) (a)  Notwithstanding the other provisions of this section, a claim for the
+value or breach of a life insurance policy, disability income insurance
+policy, long-term care insurance policy, or annuity may not result in or serve
+as the basis of any liability of a reinsurer of the insurer.
+(b)  A reinsurer's liability to the insurer shall be determined exclusively on
+the basis of its contracts of reinsurance and Section 31A-27a-513.
+(6) (a)  The liquidator may petition the receivership court to set a date
+certain before which all claims under this section shall be final.
+(b)  In addition to the notice requirements of Section 31A-27a-107, the
+liquidator shall give notice of the filing of the petition to all claimants
+with claims that remain contingent or unliquidated under this section.

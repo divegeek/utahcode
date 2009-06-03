@@ -1,0 +1,45 @@
+59-7-114.   Section 338, Internal Revenue Code -- Elections.
+(1)  Transactions for which an election has been made or considered to be made
+for federal purposes under Section 338, Internal Revenue Code, shall be
+treated as provided in this section.  An election is not available for state
+purposes unless an election is made or considered to be made for federal
+purposes.
+(2)  If an election is made or considered to be made for federal purposes
+under Section 338, Internal Revenue Code, other than under Subsection
+338(h)(10):
+(a)  the target corporation shall file a separate entity one-day tax return
+for state purposes, as is required for federal purposes, and shall include in
+such return the gain or loss on the deemed sale of assets in its adjusted
+income;
+(b)  the gain or loss on the deemed sale of assets shall be apportioned to
+this state using the apportionment fraction of the target corporation
+calculated on a separate entity basis for the most recent preceding taxable
+year consisting of 180 days or more; and
+(c)  the due date of the one-day return shall be the same as the due date of
+the return which includes the taxable period of the target corporation which
+immediately precedes the one-day return.
+(3)  If an election is made for federal purposes under Subsection 338(h)(10),
+Internal Revenue Code, the following shall apply:
+(a)  if the target corporation is a member of a unitary group immediately
+preceding the acquisition date, the target corporation shall be included in a
+combined return to the extent of its income through the acquisition date, and
+the gain or loss on the deemed sale of assets shall be included in the
+combined income of the unitary group;
+(b)  if the target corporation is not a member of a unitary group immediately
+preceding the acquisition date, the target corporation shall file a short
+period return for the period ending on the acquisition date and shall include
+in such return the gain or loss on the deemed sale of assets in its adjusted
+income; and
+(c)  any gain or loss which is not recognized for federal purposes on stock
+sold or exchanged by a member of a selling consolidated group as defined in
+Section 338, Internal Revenue Code, may not be included in the adjusted income
+of the selling corporation.
+(4)  There is a rebuttable presumption that the gain or loss on the deemed
+sale of assets constitutes business income.
+(5)  The new basis of the target corporation's assets shall be determined
+under Section 338, Internal Revenue Code.
+(6)  The target corporation shall be treated as a new corporation as of the
+day after the acquisition date.
+(7)  The commission may prescribe such rules as necessary to provide for the
+equitable treatment of any transaction subject to Section 338, Internal
+Revenue Code.

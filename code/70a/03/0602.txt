@@ -1,0 +1,20 @@
+70A-3-602.   Payment.
+(1)  Subject to Subsection (2), an instrument is paid to the extent payment is
+made by or on behalf of a party obliged to pay the instrument, and to a person
+entitled to enforce the instrument.  To the extent of the payment, the
+obligation of the party obliged to pay the instrument is discharged even
+though payment is made with knowledge of a claim to the instrument under
+Section 70A-3-306 by another person.
+(2)  The obligation of a party to pay the instrument is not discharged under
+Subsection (1) if:
+(a)  a claim to the instrument under Section 70A-3-306 is enforceable against
+the party receiving payment, and:
+(i)  payment is made with knowledge by the payor that payment is prohibited by
+injunction or similar process of a court of competent jurisdiction; or
+(ii)  in the case of an instrument other than a cashier's check, teller's
+check, or certified check, the party making payment accepted, from the person
+having a claim to the instrument, indemnity against loss resulting from
+refusal to pay the person entitled to enforce the instrument; or
+(b)  the person making payment knows that the instrument is a stolen
+instrument and pays a person it knows is in wrongful possession of the
+instrument.

@@ -1,0 +1,39 @@
+70A-7a-501.   Form of negotiation and requirements of due negotiation.
+(1)  The following rules apply to a negotiable tangible document of title:
+(a)  If the document's original terms run to the order of a named person, the
+document is negotiated by the named person's indorsement and delivery.  After
+the named person's indorsement in blank or to bearer, any person may negotiate
+the document by delivery alone.
+(b)  If the document's original terms run to bearer, it is negotiated by
+delivery alone.
+(c)  If the document's original terms run to the order of a named person and
+it is delivered to the named person, the effect is the same as if the document
+had been negotiated.
+(d)  Negotiation of the document after it has been indorsed to a named person
+requires indorsement by the named person and delivery.
+(e)  A document is duly negotiated if it is negotiated in the manner stated in
+this Subsection (1) to a holder that purchases it in good faith, without
+notice of any defense against or claim to it on the part of any person, and
+for value, unless it is established that the negotiation is not in the regular
+course of business or financing or involves receiving the document in
+settlement or payment of a monetary obligation.
+(2)  The following rules apply to a negotiable electronic document of title:
+(a)  If the document's original terms run to the order of a named person or to
+bearer, the document is negotiated by delivery of the document to another
+person.  Indorsement by the named person is not required to negotiate the
+document.
+(b)  If the document's original terms run to the order of a named person and
+the named person has control of the document, the effect is the same as if the
+document had been negotiated.
+(c)  A document is duly negotiated if it is negotiated in the manner stated in
+this subsection to a holder that purchases it in good faith, without notice of
+any defense against or claim to it on the part of any person, and for value,
+unless it is established that the negotiation is not in the regular course of
+business or financing or involves taking delivery of the document in
+settlement or payment of a monetary obligation.
+(3)  Indorsement of a nonnegotiable document of title neither makes it
+negotiable nor adds to the transferee's rights.
+(4)  The naming in a negotiable bill of lading of a person to be notified of
+the arrival of the goods does not limit the negotiability of the bill or
+constitute notice to a purchaser of the bill of any interest of that person in
+the goods.

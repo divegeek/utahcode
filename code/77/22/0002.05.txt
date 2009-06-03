@@ -1,0 +1,57 @@
+77-22-2.5.   Subpoenas for investigation of Internet sexual offenses against
+minors -- Content of the subpoena -- Fee for providing information.
+(1)  As used in this section:
+(a)  "Internet service provider" has the same definition as in Section
+76-10-1230.
+(b)  "Prosecutor" has the same definition as in Section 77-22-2.
+(c)  "Sexual offense against a minor" means:
+(i)  sexual exploitation of a minor as defined in Section 76-5a-3 or attempted
+sexual exploitation of a minor;
+(ii)  a sexual offense or attempted sexual offense committed against a minor
+in violation of Title 76, Chapter 5, Part 4, Sexual Offenses; or
+(iii)  dealing in or attempting to deal in material harmful to a minor in
+violation of Section 76-10-1206.
+(2)  When a law enforcement agency is investigating a sexual offense against a
+minor and has reasonable suspicion that an Internet protocol address has been
+used in the commission of the offense, the prosecutor may issue an
+administrative subpoena, consistent with 18 U.S.C. 2703, to the Internet
+service provider that owns or controls the Internet protocol address,
+requiring the production of the following information, if available, upon
+providing in the subpoena the Internet protocol address and the dates and
+times the address was suspected of being used in the commission of the
+offense:
+(a)  names;
+(b)  addresses;
+(c)  local and long distance telephone connections;
+(d)  records of session times and durations;
+(e)  length of service, including the start date and types of service
+utilized;
+(f)  telephone or other instrument subscriber numbers or other subscriber
+identifiers, including any temporarily assigned network address; and
+(g)  means and sources of payment for the service, including any credit card
+or bank account numbers.
+(3)  A subpoena issued under this section shall state that the Internet
+service provider shall produce any records under Subsection (2) that are
+reasonably relevant to the investigation of the suspected sexual offense
+against a minor as described in the subpoena.
+(4) (a)  An Internet service provider that provides information in response to
+a subpoena issued under this section may charge a fee, not to exceed the
+actual cost, for providing the information.
+(b)  The law enforcement agency conducting the investigation shall pay the
+fee.
+(5)  The Internet service provider served with or responding to the subpoena
+may not disclose the subpoena to the account holder identified pursuant to the
+subpoena.
+(6)  If the Internet service provider served with the subpoena does not own or
+control the Internet protocol address that is the subject of the subpoena, the
+provider shall:
+(a)  notify the investigating law enforcement agency that it does not have the
+information; and
+(b)  provide to the investigating law enforcement agency any information the
+provider may have regarding how to locate the Internet service provider that
+does own or control the Internet protocol address.
+(7) (a)  Every prosecutorial agency that has issued any subpoenas under this
+section shall prepare a written report each year on or before June 30 listing
+the number of administrative subpoenas issued.
+(b)  The report shall be submitted to the Utah Commission on Criminal and
+Juvenile Justice on or before August 31 of the same year.

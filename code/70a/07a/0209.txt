@@ -1,0 +1,47 @@
+70A-7a-209.   Lien of warehouse.
+(1)  A warehouse has a lien against the bailor on the goods covered by a
+warehouse receipt or storage agreement or on the proceeds thereof in its
+possession for charges for storage or transportation, including demurrage and
+terminal charges, insurance, labor, or other charges, present or future, in
+relation to the goods, and for expenses necessary for preservation of the
+goods or reasonably incurred in their sale pursuant to law.  If the person on
+whose account the goods are held is liable for similar charges or expenses in
+relation to other goods whenever deposited and it is stated in the warehouse
+receipt or storage agreement that a lien is claimed for charges and expenses
+in relation to other goods, the warehouse also has a lien against the goods
+covered by the warehouse receipt or storage agreement or on the proceeds
+thereof in its possession for those charges and expenses, whether or not the
+other goods have been delivered by the warehouse.  However, as against a
+person to which a negotiable warehouse receipt is duly negotiated, a
+warehouse's lien is limited to charges in an amount or at a rate specified in
+the warehouse receipt or, if no charges are so specified, to a reasonable
+charge for storage of the specific goods covered by the receipt subsequent to
+the date of the receipt.
+(2)  A warehouse may also reserve a security interest against the bailor for
+the maximum amount specified on the receipt for charges other than those
+specified in Subsection (1), such as for money advanced and interest.  The
+security interest is governed by Chapter 9a, Uniform Commercial Code - Secured
+Transactions.
+(3)  A warehouse's lien for charges and expenses under Subsection (1) or a
+security interest under Subsection (2) is also effective against any person
+that so entrusted the bailor with possession of the goods that a pledge of
+them by the bailor to a good-faith purchaser for value would have been valid.
+However, the lien or security interest is not effective against a person that
+before issuance of a document of title had a legal interest or a perfected
+security interest in the goods and that did not:
+(a)  deliver or entrust the goods or any document of title covering the goods
+to the bailor or the bailor's nominee with:
+(i)  actual or apparent authority to ship, store, or sell;
+(ii)  power to obtain delivery under Section 70A-7a-403; or
+(iii)  power of disposition under Section 70A-2-403, Subsection 70A-2a-304(2),
+Subsection 70A-2a-305(2), Section 70A-9a-320, or Subsection 70A-9a-321(3) or
+other statute or rule of law; or
+(b)  acquiesce in the procurement by the bailor or its nominee of any
+document.
+(4)  A warehouse's lien on household goods for charges and expenses in
+relation to the goods under Subsection (1) is also effective against all
+persons if the depositor was the legal possessor of the goods at the time of
+deposit.  In this Subsection (4), "household goods" means furniture,
+furnishings, or personal effects used by the depositor in a dwelling.
+(5)  A warehouse loses its lien on any goods that it voluntarily delivers or
+unjustifiably refuses to deliver.

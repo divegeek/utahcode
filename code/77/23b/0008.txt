@@ -1,0 +1,27 @@
+77-23b-8.   Violation of chapter -- Civil action by provider or subscriber
+-- Good faith defense -- Limitation of action.
+(1)  Except under Subsection 77-23b-4 (5), any provider of electronic
+communications service, subscriber, or customer aggrieved by any violation of
+this chapter in which the conduct constituting the violation is engaged in
+with a knowing or intentional state of mind may in a civil action recover from
+the person or entity that engaged in that violation relief as is appropriate.
+(2)  In a civil action under this section, appropriate relief includes:
+(a)  preliminary and other equitable or declaratory relief as is appropriate;
+(b)  damages under Subsection (3); and
+(c)  a reasonable attorney's fee and other litigation costs reasonably
+incurred.
+(3)  The court may assess as damages in a civil action under this section the
+sum of the actual damages suffered by the plaintiff and any profits made by
+the violator as a result of the violation, but in no case is a person entitled
+to recover less than $1,000.
+(4)  A good faith reliance on any of the following is a complete defense to
+any civil or criminal action brought under this chapter or any other law:
+(a)  a court warrant or order, a grand jury subpoena, legislative
+authorization, or a statutory authorization;
+(b)  a request of an investigative or law enforcement officer under Subsection
+77-23a-10 (7); or
+(c)  a good faith determination that Subsection 77-23a-4 (9) permitted the
+conduct complained of.
+(5)  A civil action under this section may not be commenced later than two
+years after the date the claimant first discovered or had a reasonable
+opportunity to discover the violation.

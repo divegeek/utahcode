@@ -1,0 +1,18 @@
+48-2c-801.   Management structure.
+A company may be managed either by one or more managers, in which case it
+shall be considered to be a "manager-managed company," or it may be managed by
+all of its members, in which case it shall be considered to be a "member-
+managed company."
+(1)  The choice of management structure shall be designated in the articles of
+organization for the company.  If the articles of organization fail to
+designate the management structure or do not clearly designate the management
+structure, management of the company shall be vested in its members.
+(2)  Unless the operating agreement provides otherwise, a manager-managed
+company shall become a member-managed company upon the death, withdrawal, or
+removal of the sole remaining manager, or if one of the events described in
+Subsection 48-2c-708(1)(d), (e), or (f) occurs with regard to the sole
+remaining manager, unless another manager is appointed by the members within
+90 days after the occurrence of any such event.
+(3)  The dissolution of a company does not alter the authority of the managers
+or members, as the case may be, to wind up the business and affairs of the
+company.

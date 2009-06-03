@@ -1,0 +1,66 @@
+26-1-37.   Duty to establish standards for the electronic exchange of
+clinical health information.
+(1)  For purposes of this section:
+(a)  "Affiliate" means an organization that directly or indirectly through one
+or more intermediaries controls, is controlled by, or is under common control
+with another organization.
+(b)  "Clinical health information" shall be defined by the department by
+administrative rule adopted in accordance with Subsection (2).
+(c)  "Electronic exchange":
+(i)  includes:
+(A)  the electronic transmission of clinical health data via Internet or
+extranet; and
+(B)  physically moving clinical health information from one location to
+another using magnetic tape, disk, or compact disc media; and
+(ii)  does not include exchange of information by telephone or fax.
+(d)  "Health care provider" means a licensing classification that is either:
+(i)  licensed under Title 58, Occupations and Professions, to provide health
+care; or
+(ii)  licensed under Chapter 21, Health Care Facility Licensing and Inspection
+Act.
+(e)  "Health care system" shall include:
+(i)  affiliated health care providers;
+(ii)  affiliated third party payers; and
+(iii)  other arrangement between organizations or providers as described by
+the department by administrative rule.
+(f)  "Third party payer" means:
+(i)  all insurers offering health insurance who are subject to Section
+31A-22-614.5; and
+(ii)  the state Medicaid program.
+(2) (a)  In addition to the duties listed in Section 26-1-30, the department
+shall, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act:
+(i)  define:
+(A)  "clinical health information" subject to this section; and
+(B)  "health system arrangements between providers or organizations" as
+described in Subsection (1)(e)(iii); and
+(ii)   adopt standards for the electronic exchange of clinical health
+information between health care providers and third party payers that are in
+compliance with 45 C.F.R. Parts 160, 162, and 164, Health Insurance Reform:
+Security Standards.
+(b)  The department shall coordinate its rule making authority under the
+provisions of this section with the rule making authority of the Insurance
+Department under Section 31A-22-614.5.  The department shall establish
+procedures for developing the rules adopted under this section, which ensure
+that the Insurance Department is given the opportunity to comment on proposed
+rules.
+(3) (a)  Except as provided in Subsection (3)(b), a health care provider or
+third party payer in Utah is required to use the standards adopted by the
+department under the provisions of Subsection (2) if the health care provider
+or third party payer elects to engage in an electronic exchange of clinical
+health information with another health care provider or third party payer.
+(b)  A health care provider or third party payer is not required to use the
+standards adopted by the department under the provisions of Subsection (2) if
+the health care provider or third party payer engage in the electronic
+exchange of clinical health information within a particular health care
+system.
+(4)  Nothing in this section shall limit the number of networks eligible to
+engage in the electronic data interchange of clinical health information using
+the standards adopted by the department under Subsection (2)(a)(ii).
+(5)  The department shall report on the use of the standards for the
+electronic exchange of clinical health information to the legislative Health
+and Human Services Interim Committee no later than October 15, 2008 and no
+later than every October 15th thereafter.  The report shall include publicly
+available information concerning the costs and savings for the department,
+third party payers, and health care providers associated with the standards
+for the electronic exchange of clinical health records.

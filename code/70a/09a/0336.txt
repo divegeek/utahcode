@@ -1,0 +1,23 @@
+70A-9a-336.    Commingled goods.
+(1)  In this section, "commingled goods" means goods that are physically
+united with other goods in such a manner that their identity is lost in a
+product or mass.
+(2)  A security interest does not exist in commingled goods as such.  However,
+a security interest may attach to a product or mass that results when goods
+become commingled goods.
+(3)  If collateral becomes commingled goods, a security interest attaches to
+the product or mass.
+(4)  If a security interest in collateral is perfected before the collateral
+becomes commingled goods, the security interest that attaches to the product
+or mass under Subsection (3) is perfected.
+(5)  Except as otherwise provided in Subsection (6), the other provisions of
+this part determine the priority of a security interest that attaches to the
+product or mass under Subsection (3).
+(6)  If more than one security interest attaches to the product or mass under
+Subsection (3), the following rules determine priority:
+(a)  A security interest that is perfected under Subsection (4) has priority
+over a security interest that is unperfected at the time the collateral
+becomes commingled goods.
+(b)  If more than one security interest is perfected under Subsection (4), the
+security interests rank equally in proportion to the value of the collateral
+at the time it became commingled goods.

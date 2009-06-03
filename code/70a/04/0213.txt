@@ -1,0 +1,31 @@
+70A-4-213.   Medium and time of settlement by bank.
+(1)  With respect to settlement by a bank, the medium and time of settlement
+may be prescribed by Federal Reserve regulations or circulars, clearinghouse
+rules, and the like, or agreement.  In the absence of such prescription:
+(a)  the medium of settlement is cash or credit to an account in a federal
+reserve bank of, or specified by, the person to receive settlement; and
+(b)  the time of settlement is:
+(i)  with respect to tender of settlement by cash, a cashier's check, or
+teller's check, when the cash or check is sent or delivered;
+(ii)  with respect to tender of settlement by credit in an account in a
+federal reserve bank, when the credit is made;
+(iii)  with respect to tender of settlement by a credit or debit to an account
+in a bank, when the credit or debit is made or, in the case of tender of
+settlement by authority to charge an account, when the authority is sent or
+delivered; or
+(iv)  with respect to tender of settlement by a funds transfer, when payment
+is made pursuant to Section 70A-4a-406 to the person receiving settlement.
+(2)  If the tender of settlement is not by a medium authorized by Subsection
+(1) or the time of settlement is not fixed by Subsection (1), no settlement
+occurs until the tender of settlement is accepted by the person receiving
+settlement.
+(3)  If settlement for an item is made by cashier's check or teller's check
+and the person receiving settlement, before its midnight deadline:
+(a)  presents or forwards the check for collection, settlement is final when
+the check is finally paid; and
+(b)  fails to present or forward the check for collection, settlement is final
+at the midnight deadline of the person receiving settlement.
+(4)  If settlement for an item is made by giving authority to charge the
+account of the bank giving settlement in the bank receiving settlement,
+settlement is final when the charge is made by the bank receiving settlement
+if there are funds available in the account for the amount of item.

@@ -1,0 +1,15 @@
+70C-3-103.   Delinquency charges -- Conversion of account.
+(1)  With respect to a closed-end loan, a delinquency charge may not be
+assessed on a payment that is a payment in full for the scheduled installment
+period solely because of an unpaid delinquency charge relating to an earlier
+installment.
+(2) (a)  With respect to a closed-end loan other than one in which the finance
+charge is based on unpaid daily balances, if two payments or parts of two
+payments are past due for more than ten days, the lender may convert the loan
+to one in which the finance charge is based on unpaid daily balances.
+(b)  In the event of conversion under Subsection (2)(a):
+(i)  the creditor shall calculate the unpaid balance of the debt in accordance
+with the provisions governing rebate on prepayment under Section 70C-3-101 as
+of the due date of the first delinquent installment; and
+(ii)  after the conversion the creditor may collect a finance charge not
+exceeding the annual rate agreed upon by the parties.

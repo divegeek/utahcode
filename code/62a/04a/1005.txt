@@ -1,0 +1,90 @@
+62A-4a-1005.   Supported finding of a severe type of child abuse or neglect
+-- Notation in Licensing Information System -- Juvenile court petition or
+notice to alleged perpetrator -- Rights of alleged perpetrator -- Juvenile
+court finding.
+(1)  If the division makes a supported finding that a person committed a
+severe type of child abuse or neglect, the division shall:
+(a)  serve notice of the finding on the alleged perpetrator;
+(b)  enter the following information into the Licensing Information System
+created in Section 62A-4a-1006:
+(i)  the name and other identifying information of the perpetrator with the
+supported finding, without identifying the person as a perpetrator or alleged
+perpetrator; and
+(ii)  a notation to the effect that an investigation regarding the person is
+pending; and
+(c)  if the division considers it advisable, file a petition for
+substantiation within one year of the supported finding.
+(2)  The notice referred to in Subsection (1)(a):
+(a)  shall state that:
+(i)  the division has conducted an investigation regarding alleged abuse or
+neglect;
+(ii)  the division has made a supported finding that the alleged perpetrator
+described in Subsection (1) committed a severe type of child abuse or neglect;
+(iii)  facts gathered by the division support the supported finding;
+(iv)  as a result of the supported finding, the alleged perpetrator's name and
+other identifying information have been listed in the Licensing Information
+System in accordance with Subsection (1)(b);
+(v)  the alleged perpetrator may be disqualified from adopting a child,
+receiving state funds as a child care provider, or being licensed by:
+(A)  the department;
+(B)  a human services licensee;
+(C)  a child care provider or program; or
+(D)  a covered health care facility;
+(vi)  the alleged perpetrator has the rights described in Subsection (3); and
+(vii)  failure to take either action described in Subsection (3)(a) within one
+year after service of the notice will result in the action described in
+Subsection (3)(b);
+(b)  shall include a general statement of the nature of the findings; and
+(c)  may not include:
+(i)  the name of a victim or witness; or
+(ii)  any privacy information related to the victim or a witness.
+(3) (a)  Upon receipt of the notice described in Subsection (2), the alleged
+perpetrator has the right to:
+(i)  file a written request asking the division to review the findings made
+under Subsection (1);
+(ii)  except as provided in Subsection (3)(c), immediately petition the
+juvenile court under Section 78A-6-323; or
+(iii)  sign a written consent to:
+(A)  the supported finding made under Subsection (1); and
+(B)  entry into the Licensing Information System of:
+(I)  the alleged perpetrator's name; and
+(II)  other information regarding the supported finding made under Subsection
+(1).
+(b)  Except as provided in Subsection (3)(e), the alleged perpetrator's name
+and the information described in Subsection (1)(b) shall remain in the
+Licensing Information System:
+(i)  if the alleged perpetrator fails to take the action described in
+Subsection (3)(a) within one year after service of the notice described in
+Subsections (1)(a) and (2);
+(ii)  during the time that the division awaits a response from the alleged
+perpetrator pursuant to Subsection (3)(a); and
+(iii)  until a court determines that the severe type of child abuse or neglect
+upon which the Licensing Information System entry was based is unsubstantiated
+or without merit.
+(c)  The alleged perpetrator has no right to petition the juvenile court under
+Subsection (3)(a)(ii) if the court previously held a hearing on the same
+alleged incident of abuse or neglect pursuant to the filing of a petition
+under Section 78A-6-304 by some other party.
+(d)  Consent under Subsection (3)(a)(iii) by a child shall be given by the
+child's parent or guardian.
+(e)  Regardless of whether an appeal on the matter is pending:
+(i)  the division shall remove an alleged perpetrator's name and the
+information described in Subsection (1)(b) from the Licensing Information
+System if the severe type of child abuse or neglect upon which the Licensing
+Information System entry was based:
+(A)  is found to be unsubstantiated or without merit by the juvenile court
+under Section 78A-6-323; or
+(B)  is found to be substantiated, but is subsequently reversed on appeal; and
+(ii)  the division shall place back on the Licensing Information System an
+alleged perpetrator's name and information that is removed from the Licensing
+Information System under Subsection (3)(e)(i) if the court action that was the
+basis for removing the alleged perpetrator's name and information is
+subsequently reversed on appeal.
+(4)  Upon the filing of a petition under Subsection (1)(c), the juvenile court
+shall make a finding of substantiated, unsubstantiated, or without merit as
+provided in Subsections 78A-6-323(1) and (2).
+(5)  Service of the notice described in Subsections (1)(a) and (2):
+(a)  shall be personal service in accordance with Utah Rules of Civil
+Procedure, Rule 4; and
+(b)  does not preclude civil or criminal action against the alleged
+perpetrator.

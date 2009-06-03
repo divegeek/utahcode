@@ -1,0 +1,104 @@
+38-1-31.   Building permit -- Construction -- Notice registry -- Notice of
+commencement of work.
+(1) (a) (i) (A)  For a construction project where a building permit is issued
+to an original contractor or owner-builder, no later than 15 days after the
+issuance of the building permit:
+(I)  the local government entity issuing that building permit shall input the
+building permit application and transmit the building permit information to
+the database electronically by way of the Internet or computer modem or by any
+other means; or
+(II)  the original contractor, owner, or owner-builder may file a notice of
+commencement with the database whether or not a building permit is issued or a
+notice of commencement is filed under Subsection (1)(a)(i)(A)(I).
+(B)  The information submitted under Subsection (1)(a)(i)(A) forms the basis
+of a notice of commencement.
+(ii)  The person to whom a building permit, filed under Subsection (1)(a)(i),
+is issued is responsible for the accuracy of the information in the building
+permit.
+(iii)  For the purposes of classifying a record under Title 63G, Chapter 2,
+Government Records Access and Management Act, building permit information
+transmitted from a local governmental entity to the database shall be
+classified in the database by the division notwithstanding the local
+governmental entity's classification of the building permit information.
+(b)  No later than 15 days after commencement of physical construction work at
+the project site, the original contractor, owner, or owner-builder may file a
+notice of commencement with the database whether or not a building permit is
+issued or a notice of commencement is filed under Subsection (1)(a).
+(c)  An original contractor, owner, or owner-builder may file a notice of
+commencement with the designated agent prior to the time frames established in
+Subsections (1)(a) and (b).
+(d)  An owner of construction or an original contractor may file a notice of
+commencement with the designated agent within the time prescribed by
+Subsections (1)(a) and (b).
+(e) (i)  If duplicate notices of commencement are filed, they shall be
+combined into one notice for each project and any notices filed relate back to
+the date of the earliest-filed notice of commencement for the project.
+(ii)  A duplicate notice of commencement that is untimely filed relates back
+under Subsection (1)(e)(i) if the earlier filed notice of commencement is
+timely filed.
+(iii)  Duplicate notices of commencement shall be automatically linked by the
+designated agent.
+(f)  The designated agent shall assign each construction project a unique
+project number that:
+(i)  identifies each construction project; and
+(ii)  can be associated with all notices of commencement, preliminary notices,
+and notices of completion.
+(g)  A notice of commencement is effective only as to any labor, service,
+equipment, and material furnished to the construction project that is
+furnished subsequent to the filing of the notice of commencement.
+(2) (a)  A notice of commencement shall include the following:
+(i)  the name and address of the owner of the project;
+(ii)  the name and address of the:
+(A)  original contractor; and
+(B)  surety providing any payment bond for the project, or if none exists, a
+statement that a payment bond was not required for the work being performed;
+and
+(iii) (A)  the project address if the project can be reasonably identified by
+an address; or
+(B)  the name and general description of the location of the project if the
+project cannot be reasonably identified by an address.
+(b)  A notice of commencement may include:
+(i)  a general description of the project; or
+(ii)  the lot or parcel number, and any subdivision, development, or other
+project name, of the real property upon which the project is to be constructed
+if the project is subject to mechanics' liens.
+(c)  A notice of commencement need not include all of the items listed in
+Subsection (2)(a) if:
+(i)  a building permit is issued for the project; and
+(ii)  all items listed in Subsection (2)(a) that are available on the building
+permit are included in the notice of commencement.
+(3)  If a notice of commencement for a construction project is not filed
+within the time set forth in Subsections(1)(a) and (b), the following do not
+apply:
+(a)  Section 38-1-32; and
+(b)  Section 38-1-33.
+(4) (a)  Unless a person indicates to the division or designated agent that
+the person does not wish to receive a notice under this section, electronic
+notice of the filing of a notice of commencement or alternate notice as
+prescribed in Subsection (1), shall be provided to:
+(i)  all persons who have filed notices of commencement for the project; and
+(ii)  all interested persons who have requested notices concerning the
+project.
+(b) (i)  A person to whom notice is required under Subsection (4)(a) is
+responsible for:
+(A)  providing an e-mail address, mailing address, or telefax number to which
+a notice required by Subsection (4)(a) is to be sent; and
+(B)  the accuracy of any e-mail address, mailing address, or telefax number to
+which notice is to be sent.
+(ii)  The designated agent fulfills the notice requirement of Subsection
+(4)(a) when it sends the notice to the e-mail address, mailing address, or
+telefax number provided to the designated agent whether or not the notice is
+actually received.
+(5) (a)  The burden is upon any person seeking to enforce a notice of
+commencement to verify the accuracy of information in the notice of
+commencement and prove that the notice of commencement is filed timely and
+meets all of the requirements in this section.
+(b)  A substantial inaccuracy in a notice of commencement renders the notice
+of commencement unenforceable.
+(c)  A person filing a notice of commencement by alternate filing is
+responsible for verifying and changing any incorrect information in the notice
+of commencement before the expiration of the time period during which the
+notice is required to be filed.
+(6)  At the time a building permit is obtained, each original contractor shall
+conspicuously post at the project site a copy of the building permit obtained
+for the project.

@@ -1,0 +1,30 @@
+53A-21-101.5.   Definitions.
+As used in this chapter:
+(1)  "ADM" or "pupil in average daily membership" is as defined in Section
+53A-17a-103.
+(2)  "Combined capital levy rate" means a rate that includes the sum of the
+following property tax levies:
+(a)  the capital outlay levy authorized in Section 53A-16-107;
+(b)  the portion of the 10% of basic levy described in Section 53A-17a-145
+that is budgeted for debt service or capital outlay;
+(c)  the debt service levy authorized in Section 11-14-310; and
+(d)  the voted capital outlay leeway authorized in Section 53A-16-110.
+(3)  "Derived net taxable value" means the quotient of:
+(a)  the total current property tax collections from April 1 through the
+following March 31 for a school district; divided by
+(b)  the school district's total tax rate for the calendar year preceding the
+March 31 referenced in Subsection (3)(a).
+(4)  "Highest combined capital levy rate" means the highest combined capital
+levy rate imposed by any school district within the state for a fiscal year.
+(5)  "Property tax base per ADM" means the quotient of:
+(a)  a school district's derived net taxable value; divided by
+(b)  the school district's ADM for the same year.
+(6)  "Property tax yield per ADM" means:
+(a)  the product of:
+(i)  a school district's derived net taxable value; and
+(ii)  the highest combined capital levy rate for the fiscal year of the March
+31 referenced in Subsection (3)(a); divided by
+(b)  the school district's ADM for the same fiscal year.
+(7)  "Statewide average property tax base per ADM" means the quotient of:
+(a)  the sum of all school districts' derived net taxable value; divided by
+(b)  the sum of all school districts' ADM statewide for the same year.

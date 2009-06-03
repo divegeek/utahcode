@@ -1,0 +1,100 @@
+10-1-402.   Definitions.
+As used in this part:
+(1)  "Commission" means the State Tax Commission.
+(2) (a)  Subject to Subsections (2)(b) and (c), "customer" means the person
+who is obligated under a contract with a telecommunications provider to pay
+for telecommunications service received under the contract.
+(b)  For purposes of this section and Section 10-1-407, "customer" means:
+(i)  the person who is obligated under a contract with a telecommunications
+provider to pay for telecommunications service received under the contract; or
+(ii)  if the end user is not the person described in Subsection (2)(b)(i), the
+end user of telecommunications service.
+(c)  "Customer" does not include a reseller:
+(i)  of telecommunications service; or
+(ii)  for mobile telecommunications service, of a serving carrier under an
+agreement to serve the customer outside the telecommunications provider's
+licensed service area.
+(3) (a)  "End user" means the person who uses a telecommunications service.
+(b)  For purposes of telecommunications service provided to a person who is
+not an individual, "end user" means the individual who uses the
+telecommunications service on behalf of the person who is provided the
+telecommunications service.
+(4) (a)  "Gross receipts from telecommunications service" means the revenue
+that a telecommunications provider receives for telecommunications service
+rendered except for amounts collected or paid as:
+(i)  a tax, fee, or charge:
+(A)  imposed by a governmental entity;
+(B)  separately identified as a tax, fee, or charge in the transaction with
+the customer for the telecommunications service; and
+(C)  imposed only on a telecommunications provider;
+(ii)  sales and use taxes collected by the telecommunications provider from a
+customer under Title 59, Chapter 12, Sales and Use Tax Act; or
+(iii)  interest, a fee, or a charge that is charged by a telecommunications
+provider on a customer for failure to pay for telecommunications service when
+payment is due.
+(b)  "Gross receipts from telecommunications service" includes a charge
+necessary to complete a sale of a telecommunications service.
+(5)  "Mobile telecommunications service" is as defined in the Mobile
+Telecommunications Sourcing Act, 4 U.S.C. Sec. 124.
+(6)  "Municipality" means a city or town.
+(7)  "Place of primary use":
+(a)  for telecommunications service other than mobile telecommunications
+service, means the street address representative of where the customer's use
+of the telecommunications service primarily occurs, which shall be:
+(i)  the residential street address of the customer; or
+(ii)  the primary business street address of the customer; or
+(b)  for mobile telecommunications service, is as defined in the Mobile
+Telecommunications Sourcing Act, 4 U.S.C. Sec. 124.
+(8)  Notwithstanding where a call is billed or paid, "service address" means:
+(a)  if the location described in this Subsection (8)(a) is known, the
+location of the telecommunications equipment:
+(i)  to which a call is charged; and
+(ii)  from which the call originates or terminates;
+(b)  if the location described in Subsection (8)(a) is not known but the
+location described in this Subsection (8)(b) is known, the location of the
+origination point of the signal of the telecommunications service first
+identified by:
+(i)  the telecommunications system of the telecommunications provider; or
+(ii)  if the system used to transport the signal is not a system of the
+telecommunications provider, information received by the telecommunications
+provider from its service provider; or
+(c)  if the locations described in Subsection (8)(a) or (b) are not known, the
+location of a customer's place of primary use.
+(9) (a)  Subject to Subsections (9)(b) and (9)(c), "telecommunications
+provider" means a person that:
+(i)  owns, controls, operates, or manages a telecommunications service; or
+(ii)  engages in an activity described in Subsection (9)(a)(i) for the shared
+use with or resale to any person of the telecommunications service.
+(b)  A person described in Subsection (9)(a) is a telecommunications provider
+whether or not the Public Service Commission of Utah regulates:
+(i)  that person; or
+(ii)  the telecommunications service that the person owns, controls, operates,
+or manages.
+(c)  "Telecommunications provider" does not include an aggregator as defined
+in Section 54-8b-2.
+(10)  "Telecommunications service" means:
+(a) telecommunications service, as defined in Section 59-12-102, other than
+mobile telecommunications service, that originates and terminates within the
+boundaries of this state;
+(b)  mobile telecommunications service, as defined in Section 59-12-102:
+(i)  that originates and terminates within the boundaries of one state; and
+(ii)  only to the extent permitted by the Mobile Telecommunications Sourcing
+Act, 4 U.S.C. Sec. 116 et seq.; or
+(c)  an ancillary service as defined in Section 59-12-102.
+(11) (a)  Except as provided in Subsection (11)(b), "telecommunications tax or
+fee" means any of the following imposed by a municipality on a
+telecommunications provider:
+(i)  a tax;
+(ii)  a license;
+(iii)  a fee;
+(iv)  a license fee;
+(v)  a license tax;
+(vi)  a franchise fee; or
+(vii)  a charge similar to a tax, license, or fee described in Subsections
+(11)(a)(i) through (vi).
+(b)  "Telecommunications tax or fee" does not include:
+(i)  the municipal telecommunications license tax authorized by this part; or
+(ii)  a tax, fee, or charge, including a tax imposed under Title 59, Revenue
+and Taxation, that is imposed:
+(A)  on telecommunications providers; and
+(B)  on persons who are not telecommunications providers.

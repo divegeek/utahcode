@@ -1,0 +1,210 @@
+31A-21-104.   Insurable interest and consent -- Scope.
+(1)  As used in this chapter:
+(a)  For purposes of this section, "exchange" means an exchange made pursuant
+to Section 1035, Internal Revenue Code, as may be amended.
+(b)  "Insurable interest" in a person means the following, including a
+circumstance described in Subsection (3):
+(i)  for a person closely related by blood or by law, a substantial interest
+engendered by love and affection; or
+(ii)  in the case of a person not described in Subsection (1)(b)(i), a lawful
+and substantial interest in having the life, health, and bodily safety of the
+person insured continue.
+(c)  "Insurable interest" in property or liability means any lawful and
+substantial economic interest in the nonoccurrence of the event insured
+against.
+(d) "Life settlement" is as defined in Section 31A-36-102.
+(2) (a)  An insurer may not knowingly provide insurance to a person who does
+not have or expect to have an insurable interest in the subject of the
+insurance.
+(b)  A person may not knowingly procure, directly, by assignment, or
+otherwise, an interest in the proceeds of an insurance policy unless that
+person has or expects to have an insurable interest in the subject of the
+insurance.
+(c)  In the case of life insurance, the insurable interest requirements of
+Subsections (2)(a) and (b):
+(i)  are satisfied if the requirements are met:
+(A)  at the effective date of the insurance policy; and
+(B)  at the time of a later procurement, if any, of an interest in the
+proceeds of an insurance policy; and
+(ii)  do not need to be met at the time that proceeds of an insurance policy
+are payable if the requirements are met at the times specified in Subsection
+(2)(c)(i).
+(d)  Except as provided in Subsections (7) and (8), insurance provided in
+violation of this Subsection (2) is subject to Subsection (6).
+(e)  A policy holder in a group insurance policy does not need an insurable
+interest if a certificate holder or a person other than the group policyholder
+who is specified by the certificate holder is the recipient of the proceeds of
+the group insurance policy.
+(3)  The following is a nonexhaustive list of insurable interests:
+(a) A person has an unlimited insurable interest in that person's own life and
+health.
+(b)  A shareholder, member, or partner has an insurable interest in the life
+of another shareholder, member, or partner for purposes of an insurance
+contract that is an integral part of a legitimate buy-sell agreement
+respecting shares, membership interests, or partnership interests in the
+business.
+(c) (i)  A trust has an insurable interest in the subject of the insurance to
+the extent that all beneficiaries of the trust have an insurable interest.
+(ii)  A trust violates this section if the trust:
+(A)  is created to give the appearance of an insurable interest, but an
+insurable interest does not exist; and
+(B)  is used to initiate a policy for an investor or other person who has no
+insurable interest in the insured.
+(d) (i)  Subject to Subsection (3)(d)(v), an employer or an employer sponsored
+trust:
+(A)  has an insurable interest in the lives of the employer's:
+(I)  directors;
+(II)  officers;
+(III)  managers;
+(IV)  nonmanagement employees; and
+(V)  retired employees; and
+(B)  may insure a life listed in Subsection (3)(d)(i)(A):
+(I)  on an individual or group basis; and
+(II)  with the written consent of the insured.
+(ii) (A)  A trustee of a trust established by an employer for the sole benefit
+of the employer has the same insurable interest in the life and health of any
+person as does the employer.
+(B)  Without limiting the general principle in Subsection (3)(d)(ii)(A), a
+trustee of a trust established by an employer that provides life, health,
+disability, retirement, or similar benefits to an individual identified in
+Subsection (3)(d)(i)(A) has an insurable interest in the life of the
+individual described in Subsection (3)(d)(i)(A) for whom the benefits are
+provided.
+(iii) (A)  For the purpose of exchanging life insurance, an individual
+described in Subsection (3)(d)(i)(A) includes an individual who was formerly
+included under Subsection (3)(d)(i)(A) if the life insurance to be exchanged:
+(I)  is purchased or acquired while the individual is a current director,
+officer, manager, or employee; and
+(II)  is exchanged for life insurance in an amount that does not exceed the
+amount of the insurance being exchanged.
+(B)  Written consent of an individual described in this Subsection (3)(d)(iii)
+is not required at the time of the exchange of the life insurance.
+(C)  This Subsection (3)(d)(iii) shall be interpreted in a manner consistent
+with Subsection (2)(c).
+(iv) (A)  If an employer or trustee establishes an insurable interest as
+provided in this Subsection (3)(d) and all of the employer's business is
+acquired, purchased, merged into, or otherwise transferred to a subsequent
+employer, the insurable interest of the original employer or trustee in an
+individual described in Subsection (3)(d)(i)(A) is automatically transferred
+to:
+(I)  the subsequent employer; or
+(II)  the trustee of a trust established by the subsequent employer for the
+subsequent employer's sole benefit.
+(B)  A subsequent employer or a trustee of a trust described in Subsection
+(3)(d)(iv)(A)(II) may exchange life insurance that is purchased or acquired in
+an individual described in Subsection (3)(d)(i)(A) by the original employer or
+trustee without establishing a new insurable interest at the time of the
+exchange of the insurance.
+(v)  The extent of an employer's or employer sponsored trust's insurable
+interest for a nonmanagement or retired employee under Subsection (3)(d)(i) is
+limited to an amount commensurate with the employer's unfunded liabilities at
+the time insurance on the nonmanagement or retired employee is procured.
+(4) (a)  Except as provided in Subsection (5), an insurer may not knowingly
+issue an individual life or accident and health insurance policy to a person
+other than the one whose life or health is at risk unless that person:
+(i)  is 18 years of age or older;
+(ii)  is not under guardianship under Title 75, Chapter 5, Protection of
+Persons Under Disability and Their Property; and
+(iii)  gives written consent to the issuance of the policy.
+(b)  A person shall express consent:
+(i)  by signing an application for the insurance with knowledge of the nature
+of the document; or
+(ii)  in any other reasonable way.
+(c)  Insurance provided in violation of this Subsection (4) is subject to
+Subsection (6).
+(5) (a)  A life or accident and health insurance policy may be taken out
+without consent in a circumstance described in this Subsection (5)(a).
+(i)  A person may obtain insurance on a dependent who does not have legal
+capacity.
+(ii)  A creditor may, at the creditor's expense, obtain insurance on the
+debtor in an amount reasonably related to the amount of the debt.
+(iii)  A person may obtain life and accident and health insurance on an
+immediate family member who is living with or dependent on the person.
+(iv)  A person may obtain an accident and health insurance policy on others
+that would merely indemnify the policyholder against expenses the person would
+be legally or morally obligated to pay.
+(v)  The commissioner may adopt rules permitting issuance of insurance for a
+limited term on the life or health of a person serving outside the continental
+United States who is in the public service of the United States, if the
+policyholder is related within the second degree by blood or by marriage to
+the person whose life or health is insured.
+(b)  Consent may be given by another in a circumstance described in this
+Subsection (5)(b).
+(i)  A parent, a person having legal custody of a minor, or a guardian of a
+person under Title 75, Chapter 5, Protection of Persons Under Disability and
+Their Property, may consent to the issuance of a policy on a dependent child
+or on a person under guardianship under Title 75, Chapter 5, Protection of
+Persons Under Disability and Their Property.
+(ii)  A grandparent may consent to the issuance of life or accident and health
+insurance on a grandchild.
+(iii)  A court of general jurisdiction may give consent to the issuance of a
+life or accident and health insurance policy on an ex parte application
+showing facts the court considers sufficient to justify the issuance of that
+insurance.
+(6) (a)  An insurance policy is not invalid because:
+(i)  the insurance policy is issued or procured in violation of Subsection
+(2); or
+(ii)  consent has not been given.
+(b)  Notwithstanding Subsection (6)(a), a court with appropriate jurisdiction
+may:
+(i)  order the proceeds to be paid to some person who is equitably entitled to
+the proceeds, other than the one to whom the policy is designated to be
+payable; or
+(ii)  create a constructive trust in the proceeds or a part of the proceeds on
+behalf of a person who is equitably entitled to the proceeds, subject to all
+the valid terms and conditions of the policy other than those relating to
+insurable interest or consent.
+(7)  This section does not prevent an organization described under Section
+501(c)(3), (e), or (f), Internal Revenue Code, as amended, and the regulations
+made under this section, and which is regulated under Title 13, Chapter 22,
+Charitable Solicitations Act, from soliciting and procuring, by assignment or
+designation as beneficiary, a gift or assignment of an interest in life
+insurance on the life of the donor or assignor or from enforcing payment of
+proceeds from that interest.
+(8) (a)  Subsection (8)(b) applies if:
+(i)  an insurance policy is transferred pursuant to a life settlement in
+accordance with Chapter 36, Life Settlements Act; and
+(ii)  before the transfer described in Subsection (8)(a)(i) the insurable
+interest requirements of Subsection (2)(c)(i) are met for the insurance
+policy.
+(b)  An insurance policy described in Subsection (8)(a) is not subject to
+Subsection (6)(b) and nothing in this section prevents:
+(i)  an owner of life insurance, whether or not the owner is also the subject
+of the insurance, from entering into a life settlement;
+(ii)  a life settlement producer from soliciting a person to enter into a life
+settlement;
+(iii)  a person from enforcing payment of proceeds from the interest obtained
+under a life settlement; or
+(iv) the execution:
+(A)  of any of the following with respect to the death benefit or ownership of
+any portion of a settled policy as provided for in Section 31A-36-109:
+(I)  an assignment;
+(II)  a sale;
+(III)  a transfer;
+(IV)  a devise; or
+(V)  a bequest; and
+(B)  by any of the following:
+(I)  a life settlement provider;
+(II)  a life settlement purchaser;
+(III)  a financing entity;
+(IV)  a related provider trust;
+(V)  a special purpose entity;
+(VI)  a qualified institutional buyer as defined in Rule 144A, 17 C.F.R. Sec.
+230.144A; or
+(VII)  an accredited investor as defined in Regulation D, Rule 501, 17 C.F.R.
+Sec. 230.501.
+(9) (a)  The insurable interests described in this section:
+(i)  are not exclusive;
+(ii)  are cumulative of an insurable interest that is not expressly included
+in this section but exists in common law; and
+(iii)  are not in lieu of an insurable interest that is not expressly included
+in this section but exists in common law.
+(b)  The inclusion of an insurable interest in this section may not be
+considered to be excluding another insurable interest that is similar to the
+insurable interest included in this section.
+(c) (i)  The recognition of an insurable interest in this section by Chapter
+89, Laws of Utah 2007, does not imply or create a presumption that the
+insurable interest did not exist before April 30, 2007.
+(ii)  An insurable interest shall be presumed with respect to a life insurance
+policy issued before April 30, 2007 to a person whose insurable interest is
+recognized in this section by Chapter 89, Laws of Utah 2007.

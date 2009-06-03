@@ -1,0 +1,7 @@
+13-46-303.   Liability.
+The state and a person with whom the department contracts under Section
+13-46-301 is not liable to any person for:
+(1)  the design, implementation, or operation of the database as provided in
+this chapter; or
+(2)  the collection and disclosure of information in the database as provided
+in this chapter.

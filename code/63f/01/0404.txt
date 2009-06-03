@@ -1,0 +1,58 @@
+63F-1-404.   Duties of the division.
+The division shall:
+(1)  develop and implement an effective enterprise architecture governance
+model for the executive branch;
+(2)  provide oversight of information technology projects that impact
+statewide information technology services, assets, or functions of state
+government to:
+(a)  control costs;
+(b)  ensure business value to a project;
+(c)  maximize resources;
+(d)  ensure the uniform application of best practices; and
+(e)  avoid duplication of resources;
+(3)  develop a method of accountability to agencies for services provided by
+the division through service agreements with the agencies;
+(4)  beginning September 1, 2006, and each September 1 thereafter, provide the
+chief information officer and the commission with performance measures used by
+the division to measure the quality of service delivered by the division and
+the results of the performance measures;
+(5)  serve as a project manager for enterprise architecture which includes the
+management of applications, standards, and procurement of enterprise
+architecture;
+(6)  coordinate the development and implementation of advanced state
+telecommunication systems;
+(7)  provide services including technical assistance:
+(a)  to executive branch agencies and subscribers to the services; and
+(b)  related to information technology or telecommunications;
+(8)  establish telecommunication system specifications and standards for use
+by:
+(a)  one or more executive branch agencies; or
+(b)  one or more entities that subscribe to the telecommunication systems in
+accordance with Section 63F-1-303;
+(9)  coordinate state telecommunication planning in cooperation with:
+(a)  state telecommunication users;
+(b)  executive branch agencies; and
+(c)  other subscribers to the state's telecommunication systems;
+(10)  cooperate with the federal government, other state entities, counties,
+and municipalities in the development, implementation, and maintenance of:
+(a) (i)  governmental information technology; or
+(ii)  governmental telecommunication systems; and
+(b) (i)  as part of a cooperative organization; or
+(ii)  through means other than a cooperative organization;
+(11)  establish, operate, manage, and maintain:
+(a)  one or more state data centers; and
+(b)  one or more regional computer centers;
+(12)  design, implement, and manage all state-owned, leased, or rented land,
+mobile, or radio telecommunication systems that are used in the delivery of
+services for state government or its political subdivisions;
+(13)  in accordance with the executive branch strategic plan, implement
+minimum standards to be used by the division for purposes of compatibility of
+procedures, programming languages, codes, and media that facilitate the
+exchange of information within and among telecommunication systems; and
+(14)  provide the chief information officer with an analysis of an executive
+branch agency information technology plan that includes:
+(a)  an assessment of how the implementation of the agency information
+technology plan will affect the costs, operations, and services of:
+(i)  the department; and
+(ii)  other executive branch agencies; and
+(b)  any recommended changes to the plan.

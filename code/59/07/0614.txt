@@ -1,0 +1,192 @@
+59-7-614.   Renewable energy systems tax credit -- Definitions --
+Limitations -- Certification -- Rulemaking authority.
+(1)  As used in this section:
+(a)  "Active solar system":
+(i)  means a system of equipment capable of collecting and converting incident
+solar radiation into thermal, mechanical, or electrical energy, and
+transferring these forms of energy by a separate apparatus to storage or to
+the point of use; and
+(ii)  includes water heating, space heating or cooling, and electrical or
+mechanical energy generation.
+(b)  "Biomass system" means any system of apparatus and equipment for use in
+converting material into biomass energy, as defined in Section 59-12-102, and
+transporting that energy by separate apparatus to the point of use or storage.
+(c)  "Business entity" means any sole proprietorship, estate, trust,
+partnership, association, corporation, cooperative, or other entity under
+which business is conducted or transacted.
+(d)  "Commercial energy system" means any active solar, passive solar,
+geothermal electricity, direct-use geothermal, geothermal heat-pump system,
+wind, hydroenergy, or biomass system used to supply energy to a commercial
+unit or as a commercial enterprise.
+(e)  "Commercial enterprise" means a business entity whose purpose is to
+produce electrical, mechanical, or thermal energy for sale from a commercial
+energy system.
+(f) (i)  "Commercial unit" means any building or structure that a business
+entity uses to transact its business.
+(ii)  Notwithstanding Subsection (1)(f)(i):
+(A)  in the case of an active solar system used for agricultural water pumping
+or a wind system, each individual energy generating device shall be a
+commercial unit; and
+(B)  if an energy system is the building or structure that a business entity
+uses to transact its business, a commercial unit is the complete energy system
+itself.
+(g)  "Direct-use geothermal system" means a system of apparatus and equipment
+enabling the direct use of thermal energy, generally between 100 and 300
+degrees Fahrenheit, that is contained in the earth to meet energy needs,
+including heating a building, an industrial process, and aquaculture.
+(h)  "Geothermal electricity" means energy contained in heat that continuously
+flows outward from the earth that is used as a sole source of energy to
+produce electricity.
+(i)  "Geothermal heat-pump system" means a system of apparatus and equipment
+enabling the use of thermal properties contained in the earth at temperatures
+well below 100 degrees Fahrenheit to help meet heating and cooling needs of a
+structure.
+(j)  "Hydroenergy system" means a system of apparatus and equipment capable of
+intercepting and converting kinetic water energy into electrical or mechanical
+energy and transferring this form of energy by separate apparatus to the point
+of use or storage.
+(k)  "Individual taxpayer" means any person who is a taxpayer as defined in
+Section 59-10-103 and an individual as defined in Section 59-10-103.
+(l)  "Passive solar system":
+(i)  means a direct thermal system that utilizes the structure of a building
+and its operable components to provide for collection, storage, and
+distribution of heating or cooling during the appropriate times of the year by
+utilizing the climate resources available at the site; and
+(ii)  includes those portions and components of a building that are expressly
+designed and required for the collection, storage, and distribution of solar
+energy.
+(m)  "Residential energy system" means any active solar, passive solar,
+biomass, direct-use geothermal, geothermal heat-pump system, wind, or
+hydroenergy system used to supply energy to or for any residential unit.
+(n)  "Residential unit" means any house, condominium, apartment, or similar
+dwelling unit that serves as a dwelling for a person, group of persons, or a
+family but does not include property subject to a fee under:
+(i)  Section 59-2-404;
+(ii)  Section 59-2-405;
+(iii)  Section 59-2-405.1;
+(iv)  Section 59-2-405.2; or
+(v)  Section 59-2-405.3.
+(o)  "Utah Geological Survey" means the Utah Geological Survey established in
+Section 79-3-201.
+(p)  "Wind system" means a system of apparatus and equipment capable of
+intercepting and converting wind energy into mechanical or electrical energy
+and transferring these forms of energy by a separate apparatus to the point of
+use, sale, or storage.
+(2) (a) (i)  For taxable years beginning on or after January 1, 2007, a
+business entity that purchases and completes or participates in the financing
+of a residential energy system to supply all or part of the energy required
+for a residential unit owned or used by the business entity and situated in
+Utah is entitled to a nonrefundable tax credit as provided in this Subsection
+(2)(a).
+(ii) (A)  A business entity is entitled to a tax credit equal to 25% of the
+reasonable costs of each residential energy system installed with respect to
+each residential unit it owns or uses, including installation costs, against
+any tax due under this chapter for the taxable year in which the energy system
+is completed and placed in service.
+(B)  The total amount of each credit under this Subsection (2)(a) may not
+exceed $2,000 per residential unit.
+(C)  The credit under this Subsection (2)(a) is allowed for any residential
+energy system completed and placed in service on or after January 1, 2007.
+(iii)  If a business entity sells a residential unit to an individual taxpayer
+before making a claim for the tax credit under this Subsection (2)(a), the
+business entity may:
+(A)  assign its right to this tax credit to the individual taxpayer; and
+(B)  if the business entity assigns its right to the tax credit to an
+individual taxpayer under Subsection (2)(a)(iii)(A), the individual taxpayer
+may claim the tax credit as if the individual taxpayer had completed or
+participated in the costs of the residential energy system under Section
+59-10-1014.
+(b) (i)  For taxable years beginning on or after January 1, 2007, a business
+entity that purchases or participates in the financing of a commercial energy
+system situated in Utah is entitled to a refundable tax credit as provided in
+this Subsection (2)(b) if the commercial energy system does not use wind,
+geothermal electricity, or biomass equipment capable of producing a total of
+660 or more kilowatts of electricity, and:
+(A)  the commercial energy system supplies all or part of the energy required
+by commercial units owned or used by the business entity; or
+(B)  the business entity sells all or part of the energy produced by the
+commercial energy system as a commercial enterprise.
+(ii) (A)  A business entity is entitled to a tax credit of up to 10% of the
+reasonable costs of any commercial energy system installed, including
+installation costs, against any tax due under this chapter for the taxable
+year in which the commercial energy system is completed and placed in service.
+(B)  Notwithstanding Subsection (2)(b)(ii)(A), the total amount of the credit
+under this Subsection (2)(b) may not exceed $50,000 per commercial unit.
+(C)  The credit under this Subsection (2)(b) is allowed for any commercial
+energy system completed and placed in service on or after January 1, 2007.
+(iii)  A business entity that leases a commercial energy system installed on a
+commercial unit is eligible for the tax credit under this Subsection (2)(b) if
+the lessee can confirm that the lessor irrevocably elects not to claim the
+credit.
+(iv)  Only the principal recovery portion of the lease payments, which is the
+cost incurred by a business entity in acquiring a commercial energy system,
+excluding interest charges and maintenance expenses, is eligible for the tax
+credit under this Subsection (2)(b).
+(v)  A business entity that leases a commercial energy system is eligible to
+use the tax credit under this Subsection (2)(b) for a period no greater than
+seven years from the initiation of the lease.
+(vi)  A tax credit allowed by this Subsection (2)(b) may not be carried
+forward or carried back.
+(c) (i)  For taxable years beginning on or after January 1, 2007, a business
+entity that owns a commercial energy system situated in Utah using wind,
+geothermal electricity, or biomass equipment capable of producing a total of
+660 or more kilowatts of electricity is entitled to a refundable tax credit as
+provided in this Subsection (2)(c) if:
+(A)  the commercial energy system supplies all or part of the energy required
+by commercial units owned or used by the business entity; or
+(B)  the business entity sells all or part of the energy produced by the
+commercial energy system as a commercial enterprise.
+(ii) (A)  A business entity is entitled to a tax credit under this section
+equal to the product of:
+(I)  0.35 cents; and
+(II)  the kilowatt hours of electricity produced and either used or sold
+during the taxable year.
+(B) (I)  The credit calculated under Subsection (2)(c)(ii)(A) may be claimed
+for production occurring during a period of 48 months beginning with the month
+in which the commercial energy system is placed in commercial service.
+(II)  The credit allowed by this Subsection (2)(c) for each year may not be
+carried forward or carried back.
+(C)  The credit under this Subsection (2)(c) is allowed for any commercial
+energy system completed and placed in service on or after January 1, 2007.
+(iii)  A business entity that leases a commercial energy system installed on a
+commercial unit is eligible for the tax credit under this Subsection (2)(c) if
+the lessee can confirm that the lessor irrevocably elects not to claim the
+credit.
+(d) (i)  A tax credit under Subsection (2)(a) or (b) may be claimed for the
+taxable year in which the energy system is completed and placed in service.
+(ii)  Additional energy systems or parts of energy systems may be claimed for
+subsequent years.
+(iii)  If the amount of a tax credit under Subsection (2)(a) exceeds a
+business entity's tax liability under this chapter for a taxable year, the
+amount of the credit exceeding the liability may be carried forward for a
+period which does not exceed the next four taxable years.
+(3) (a)  Except as provided in Subsection (3)(b), the tax credits provided for
+under Subsection (2) are in addition to any tax credits provided under the
+laws or rules and regulations of the United States.
+(b)  A purchaser of one or more solar units that claims a tax credit under
+Section 59-7-614.3 for the purchase of the one or more solar units may not
+claim a tax credit under this section for that purchase.
+(c) (i)  The Utah Geological Survey may set standards for residential and
+commercial energy systems claiming a credit under Subsections (2)(a) and (b)
+that cover the safety, reliability, efficiency, leasing, and technical
+feasibility of the systems to ensure that the systems eligible for the tax
+credit use the state's renewable and nonrenewable energy resources in an
+appropriate and economic manner.
+(ii)  The Utah Geological Survey may set standards for residential and
+commercial energy systems that establish the reasonable costs of an energy
+system, as used in Subsections (2)(a)(ii)(A) and (2)(b)(ii)(A), as an amount
+per unit of energy production.
+(iii)  A tax credit may not be taken under Subsection (2) until the Utah
+Geological Survey has certified that the energy system has been completely
+installed and is a viable system for saving or production of energy from
+renewable resources.
+(d)  The Utah Geological Survey and the commission may make rules in
+accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, that
+are necessary to implement this section.
+(4) (a)  On or before October 1, 2012, and every five years thereafter, the
+Utah Tax Review Commission shall review each tax credit provided by this
+section and make recommendations to the Revenue and Taxation Interim Committee
+concerning whether the credit should be continued, modified, or repealed.
+(b)  The Utah Tax Review Commission's report under Subsection (4)(a) shall
+include information concerning the cost of the credit, the purpose and
+effectiveness of the credit, and the state's benefit from the credit.

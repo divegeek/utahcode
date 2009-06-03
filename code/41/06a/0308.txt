@@ -1,0 +1,11 @@
+41-6a-308.   Lane use control signals -- Colors.
+The operator of a vehicle facing a traffic-control signal placed to control
+individual lane use shall obey the signal as follows:
+(1)  Green signal -- vehicular traffic may travel in any lane over which a
+green signal is shown.
+(2)  Steady yellow signal -- vehicular traffic is warned that a lane control
+change is being made.
+(3)  Steady red signal -- vehicular traffic may not enter or travel in any
+lane over which a red signal is shown.
+(4)  Flashing yellow signal -- vehicular traffic may use the lane only for the
+purpose of approaching and making a left turn.

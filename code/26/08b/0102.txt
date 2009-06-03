@@ -1,0 +1,24 @@
+26-8b-102.   Definitions.
+As used in this chapter:
+(1)  "Automatic external defibrillator" or "AED" means an automated or
+automatic computerized medical device that:
+(a)  has received pre-market notification approval from the United States Food
+and Drug Administration, pursuant to Section 360(k), Title 21 of the United
+States Code;
+(b)  is capable of recognizing the presence or absence of ventricular
+fibrillation or rapid ventricular tachycardia;
+(c)  is capable of determining, without intervention by an operator, whether
+defibrillation should be performed; and
+(d)  upon determining that defibrillation should be performed, automatically
+charges, enabling delivery of an electrical impulse through the chest wall and
+to a person's heart.
+(2)  "Bureau" means the Bureau of Emergency Medical Services, within the
+department.
+(3)  "Cardiopulmonary resuscitation" or "CPR" means artificial ventilation or
+external chest compression applied to a person who is in respiratory or
+cardiac arrest.
+(4)  "Emergency medical dispatch center" means a public safety answering
+point, as defined in Section 63C-7-103, that is designated as an emergency
+medical dispatch center by the bureau.
+(5)  "Sudden cardiac arrest" means a life-threatening condition that results
+when a person's heart stops or fails to produce a pulse.

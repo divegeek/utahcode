@@ -1,0 +1,60 @@
+20A-6-105.   Provisional ballot envelopes.
+(1)  Each election officer shall ensure that provisional ballot envelopes are
+printed in substantially the following form:
+"AFFIRMATION
+Are you a citizen of the United States of America?  Yes  No
+Will you be 18 years old on or before election day? Yes  No
+If you checked "no" in response to either of the two above questions, do not
+complete this form.
+Name of Voter _________________________________________________________
+First                   Middle                  Last
+Driver License or Identification Card Number _________________________________
+State of Issuance of Driver License or Identification Card Number
+_________________
+Date of Birth ___________________________________________________________
+Street Address of Principal Place of Residence
+______________________________________________________________________
+City                    County                  State           Zip Code
+Telephone Number (optional) ______________________________________________
+Last four digits of Social Security Number ____________________________
+Last former address at which I was registered to vote (if known)
+______________________________________________________________________
+City                    County                  State           Zip Code
+Voting Precinct (if known) _________________________________________________
+I, (please print your full name)__________________________do solemnly swear or
+affirm:
+That I am currently registered to vote in the state of Utah and am eligible to
+vote in this election; that I have not voted in this election in any other
+precinct; that I am eligible to vote in this precinct; and that I request that
+I be permitted to vote in this precinct; and
+Subject to penalty of law for false statements, that the information contained
+in this form is true, and that I am a citizen of the United States and a
+resident of Utah, residing at the above address; and that I am at least 18
+years old and have resided in Utah for the 30 days immediately before this
+election.
+Signed ______________________________________________________________________
+Dated ______________________________________________________________________
+In accordance with Section 20A-3-506, wilfully providing false information
+above is a class B misdemeanor under Utah law and is punishable by
+imprisonment and by fine".
+"CITIZENSHIP AFFIDAVIT
+Name:
+Name at birth, if different:
+Place of birth:
+Date of birth:
+Date and place of naturalization (if applicable):
+I hereby swear and affirm, under penalties for voting fraud set forth below,
+that I am a citizen and that to the best of my knowledge and belief the
+information above is true and correct.
+____________________________
+Signature of Applicant
+In accordance with Section 20A-2-401, the penalty for willfully causing,
+procuring, or allowing yourself to be registered to vote if you know you are
+not entitled to register to vote is up to one year in jail and a fine of up to
+$2,500."
+(2)  The provisional ballot envelope shall include:
+(a)  a unique number;
+(b)  a detachable part that includes the unique number; and
+(c)  a telephone number, internet address, or other indicator of a means, in
+accordance with Section 20A-6-105.5, where the voter can find out if the
+provisional ballot was counted.

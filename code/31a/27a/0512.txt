@@ -1,0 +1,129 @@
+31A-27a-512.   Reinsurer's liability.
+(1) (a)  Except as otherwise provided in this chapter, the amount recoverable
+by the receiver from a reinsurer may not be reduced as a result of a
+delinquency proceeding with a finding of insolvency, regardless of any
+provision in the reinsurance contract or other agreement.
+(b)  An agreement, written, oral, or otherwise, may not be enforced to the
+extent it is in conflict, or not in strict compliance with this section.
+(c)  Except as expressly provided in this section, a person other than the
+receiver whether as a creditor, third party beneficiary, or otherwise does not
+have a direct right to reinsurance proceeds from any reinsurer of the
+insolvent insurer:
+(i)  on the basis of any written or oral agreement; or
+(ii)  pursuant to an action or cause of action seeking any equitable or legal
+remedy.
+(d)  This section applies to all the insurer's reinsurance contracts
+including:
+(i)  treaty reinsurance;
+(ii)  quota share reinsurance;
+(iii)  facultative reinsurance; or
+(iv)  a fronting or captive reinsurance arrangement.
+(2)  Except as otherwise provided in Subsection (9), the amount recoverable by
+the liquidator from a reinsurer is payable under one or more contracts
+reinsured by the reinsurer on the basis of:
+(a)  proof of payment of the insured claim by an affected guaranty
+association, the insurer, or the receiver, to the extent of the payment; or
+(b)  the allowance of the claim pursuant to:
+(i)  Section 31A-27a-608;
+(ii)  an order of the receivership court; or
+(iii)  a plan of rehabilitation.
+(3)  If the insurer takes credit for a reinsurance contract in a filing or
+submission made to the commissioner and the reinsurance contract does not
+contain the provisions required with respect to the obligations of reinsurers
+in the event of insolvency of the reinsured, the reinsurance contract is
+considered to contain the provisions required with respect to:
+(a)  the obligations of reinsurers in the event of insolvency of the reinsured
+in order to obtain credit for reinsurance; or
+(b)  other applicable statutes.
+(4)  A reinsurance contract that under Subsection (3) is considered to contain
+certain provisions, is considered to contain a provision that:
+(a)  in the event of insolvency and the appointment of a receiver, the
+reinsurance obligation is payable to the ceding insurer or to its receiver
+without diminution because of the insolvency or because the receiver fails to
+pay all or a portion of the claim;
+(b)  payment shall be made upon either:
+(i)  to the extent of the payment, proof of payment of the insured claim by an
+affected guaranty association, the insurer, or the receiver; or
+(ii)  the allowance of the claim pursuant to:
+(A)  Section 31A-27a-608;
+(B)  an order of the receivership court; or
+(C)  a plan of rehabilitation; and
+(c)  if a reinsurer does not pay the amount billed by the receiver within 60
+days after the mailing by the receiver, interest on the unpaid billed amount
+will begin to accrue at the statutory legal rate provided in Subsection
+15-1-1(2), except that all or a portion of the interest may be waived as part
+of an arbitration proceeding.
+(5) (a)  The receiver shall notify in writing, in accordance with the terms of
+the contract, each reinsurer obligated in relation to the claim or the
+pendency of a claim against the reinsured company.
+(b)  The receiver's failure to give notice of a pending claim pursuant to a
+provision in a reinsurance contract:
+(i)  does not excuse the obligation of the reinsurer unless the reinsurer is
+prejudiced by the receiver's failure; and
+(ii)  if the reinsurer is prejudiced, reduces the reinsurer's obligations only
+to the extent of the prejudice.
+(c)  A reinsurer may interpose, at its own expense, in a proceeding in which a
+claim is to be adjudicated, any one or more defenses that the reinsurer
+considers available to the reinsured company or its receiver.
+(6)  The entry of an order of rehabilitation or liquidation:
+(a)  may not be considered a breach or an anticipatory breach of a reinsurance
+contract; and
+(b)  is not grounds for retroactive revocation or retroactive cancellation of
+a reinsurance contract by the reinsurer.
+(7) (a)  If a reinsurance payment to a receiver of a ceding insurer is later
+determined to be a payment in excess of the amounts actually due to the
+receiver, the excess shall be:
+(i)  credited against future payments due to the receiver; or
+(ii)  repaid to the reinsurer as an administrative expense of the estate
+pursuant to Subsection 31A-27a-701(2)(g).
+(b)  A repayment under this Subsection (7) may be limited on the basis of the
+property remaining in the estate.
+(8) (a)  Subject to Subsection (1):
+(i)  except as provided in Subsection (8)(a)(ii):
+(A)  a payment made by the reinsurer directly to an insured or other creditor
+does not diminish the reinsurer's obligation to the insurer's estate; and
+(B)  a payment made by the reinsurer shall be made directly to the ceding
+insurer or its receiver;
+(ii)  Subsection (8)(a)(i) does not apply when:
+(A)  the reinsurance contract or other written agreement to which the insured,
+ceding insurer, and reinsurer are all parties:
+(I)  specifically provides another payee, other than an affiliate of the
+ceding insurer or reinsurer, of the reinsurance in the event of the insolvency
+or receivership of the ceding insurer; and
+(II)  the provision described in this Subsection (8)(a)(ii)(A) is contained
+in:
+(Aa)  the reinsurance contract as it is written on the day on which the
+reinsurance contract is initially executed; or
+(Bb)  the other written agreement as it is written on the day on which the
+initial policy is issued;
+(B)  the reinsurance contract, as it is written on the day on which the
+reinsurance contract is initially executed, contains a provision where the
+assuming insurer with the consent of the direct insured and the ceding insurer
+assumes all policy obligations of the ceding insurer:
+(I)  as a direct obligation of the assuming insurer to the payees under the
+policies; and
+(II)  in substitution for the entire obligations of the ceding insurer to the
+payees; or
+(C)  a life and health insurance guaranty association makes the election to
+succeed to the rights and obligations of the insolvent insurer under a
+contract of reinsurance:
+(I)  in accordance with:
+(Aa)  Section 31A-27a-513; or
+(Bb)  the life and health guaranty association laws of its domiciliary state;
+or
+(II)  pursuant to other applicable law, rule, order, or assignment contract;
+and
+(iii)  in the circumstances described in Subsection (8)(a)(ii)(C), a payment
+shall be made directly to or at the direction of the guaranty association.
+(b)  Both the receiver and the reinsurer are entitled to recover from a
+person, other than the receiver or a guaranty association, who unsuccessfully
+makes a claim directly against the reinsurer the following incurred in
+preventing any collection by that person:
+(i)  the person's attorney fees; and
+(ii)  expenses.
+(9)  This chapter may not be construed to authorize the liquidator or any
+other entity to compel payment from a nonlife reinsurer:
+(a)  on the basis of estimated incurred but not reported losses, loss
+expenses, or case reserves for unpaid losses and loss expenses, except under
+Sections 31A-27a-515 and 31A-27a-516; and
+(b)  with respect to a claim allowed in accordance with Section 31A-27a-605.

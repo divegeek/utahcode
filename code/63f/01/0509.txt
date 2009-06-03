@@ -1,0 +1,42 @@
+63F-1-509.   Statewide Global Positioning Reference Network created --
+Advisory committee.
+(1) (a)  There is created the Statewide Global Positioning Reference Network
+to improve the quality of geographic information system data and the
+productivity, efficiency, and cost-effectiveness of government services.
+(b)  The network shall provide a system of permanently mounted, fully
+networked, global positioning system base stations that will provide real time
+radio navigation and establish a standard statewide coordinate reference
+system.
+(c)  The center shall administer the network.
+(2) (a)  There is created the Global Positioning Systems Advisory Committee to
+advise the center on implementing and maintaining the network.
+(b)  The committee membership shall consist of:
+(i)  the center manager or the manager's designee;
+(ii)  a representative from the Department of Transportation created by
+Section 72-1-201 designated by the executive director appointed under Section
+72-1-202;
+(iii)  the chief information officer or the chief information officer's
+designee;
+(iv)  a representative from the Utah Association of County Surveyors; and
+(v)  a representative from the Utah Council of Land Surveyors.
+(c)  The representative from the center shall be the chair of the committee.
+(d)  The committee shall meet upon the call of the chair or a majority of the
+committee members.
+(e)  The committee chair shall give reasonable notice to each member prior to
+any meeting.
+(f)  Three members shall constitute a quorum for the transaction of business.
+(g)  The center shall provide staff support to the committee.
+(h)  Committee members who are state government employees shall receive no
+additional compensation for their work on the committee.
+(i)  Committee members who are not state government employees shall receive no
+compensation or expenses for their work on the committee.
+(j)  The committee shall recommend rules to the chief information officer for
+adoption under Subsection (3).
+(3) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative
+Rulemaking Act, the chief information officer shall make, in consultation with
+the committee, rules providing for operating policies and procedures for the
+network.
+(b)  The rules shall consider:
+(i)  network development that serves a public purpose;
+(ii)  increased productivity and efficiency for state agencies; and
+(iii)  costs and longevity of the network.

@@ -1,0 +1,64 @@
+59-10-1018.   Definitions -- Nonrefundable taxpayer tax credits.
+(1)  As used in this section:
+(a)  "Head of household filing status" means a head of household, as defined
+in Section 2(b), Internal Revenue Code, who files a single federal individual
+income tax return for the taxable year.
+(b)  "Joint filing status" means:
+(i)  a husband and wife who file a single return jointly under this chapter
+for a taxable year; or
+(ii)  a surviving spouse, as defined in Section 2(a), Internal Revenue Code,
+who files a single federal individual income tax return for the taxable year.
+(c)  "Single filing status" means:
+(i)  a single individual who files a single federal individual income tax
+return for the taxable year; or
+(ii)  a married individual who:
+(A)  does not file a single federal individual income tax return jointly with
+that married individual's spouse for the taxable year; and
+(B)  files a single federal individual income tax return for the taxable year.
+(2)  Except as provided in Section 59-10-1002.2, and subject to Subsections
+(3) through (5), a claimant may claim a nonrefundable tax credit against taxes
+otherwise due under this part equal to the sum of:
+(a) (i)  for a claimant that deducts the standard deduction on the claimant's
+federal individual income tax return for the taxable year, 6% of the amount
+the claimant deducts as allowed as the standard deduction on the claimant's
+federal individual income tax return for that taxable year; or
+(ii)  for a claimant that itemizes deductions on the claimant's federal
+individual income tax return for the taxable year, the product of:
+(A)  the difference between:
+(I)  the amount the claimant deducts as allowed as an itemized deduction on
+the claimant's federal individual income tax return for that taxable year; and
+(II)  any amount of state or local income taxes the claimant deducts as
+allowed as an itemized deduction on the claimant's federal individual income
+tax return for that taxable year; and
+(B)  6%; and
+(b) the product of:
+(i)  75% of the total amount the claimant deducts as allowed as a personal
+exemption deduction on the claimant's federal individual income tax return for
+that taxable year; and
+(ii)  6%.
+(3)  A claimant may not carry forward or carry back a tax credit under this
+section.
+(4)  The tax credit allowed by Subsection (2) shall be reduced by $.013 for
+each dollar by which a claimant's state taxable income exceeds:
+(a)  for a claimant who has a single filing status, $12,000;
+(b)  for a claimant who has a head of household filing status, $18,000; or
+(c)  for a claimant who has a joint filing status, $24,000.
+(5) (a)  For taxable years beginning on or after January 1, 2009, the
+commission shall increase or decrease the following dollar amounts by a
+percentage equal to the percentage difference between the consumer price index
+for the preceding calendar year and the consumer price index for calendar year
+2007:
+(i)  the dollar amount listed in Subsection (4)(a); and
+(ii)  the dollar amount listed in Subsection (4)(b).
+(b)  After the commission increases or decreases the dollar amounts listed in
+Subsection (5)(a), the commission shall round those dollar amounts listed in
+Subsection (5)(a) to the nearest whole dollar.
+(c)  After the commission rounds the dollar amounts as required by Subsection
+(5)(b), the commission shall increase or decrease the dollar amount listed in
+Subsection (4)(c) so that the dollar amount listed in Subsection (4)(c) is
+equal to the product of:
+(i)  the dollar amount listed in Subsection (4)(a); and
+(ii)  two.
+(d)  For purposes of Subsection (5)(a), the commission shall calculate the
+consumer price index as provided in Sections 1(f)(4) and 1(f)(5), Internal
+Revenue Code.

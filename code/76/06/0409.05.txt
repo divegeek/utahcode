@@ -1,0 +1,68 @@
+76-6-409.5.   Definitions.
+As used in this section and Sections 76-6-409.6 through 76-6-409.10:
+(1)  "Access device" means any telecommunication device including the
+telephone calling card number, electronic serial number, account number,
+mobile identification number, or personal identification number that can be
+used to obtain telephone service.
+(2)  "Clone cellular telephone" or "counterfeit cellular telephone" means a
+cellular telephone whose electronic serial number has been altered from the
+electronic serial number that was programmed in the telephone by the
+manufacturer by someone other than the manufacturer.
+(3)  "Cloning paraphernalia" means materials that, when possessed in
+combination, are capable of the creation of a cloned cellular telephone.
+These materials include scanners to intercept the electronic serial number and
+mobile identification number, cellular telephones, cables, EPROM chips, EPROM
+burners, software for programming the cloned telephone with a false electronic
+serial number and mobile identification number combination, a computer
+containing such software, and lists of electronic serial number and mobile
+identification number combinations.
+(4)  "Electronic serial number" means the unique number that:
+(a)  was programmed into a cellular telephone by its manufacturer;
+(b)  is transmitted by the cellular telephone; and
+(c)  is used by cellular telephone providers to validate radio transmissions
+to the system as having been made by an authorized device.
+(5)  "EPROM" or "Erasable programmable read-only memory" means an integrated
+circuit memory that can be programmed from an external source and erased, for
+reprogramming, by exposure to ultraviolet light.
+(6)  "Intercept" means to electronically capture, record, reveal, or otherwise
+access, the signals emitted or received during the operation of a cellular
+telephone without the consent of the sender or receiver, by means of any
+instrument, device or equipment.
+(7)  "Manufacture of an unlawful telecommunication device" means to produce or
+assemble an unlawful telecommunication device, or to modify, alter, program,
+or reprogram a telecommunication device to be capable of acquiring or
+facilitating the acquisition of telecommunication service without the consent
+of the telecommunication service provider.
+(8)  "Mobile identification number" means the cellular telephone number
+assigned to the cellular telephone by the cellular telephone carrier.
+(9)  "Possess" means to have physical possession or otherwise to exercise
+control over tangible property.
+(10)  "Sell" means to offer to, agree to offer to, or to sell, exchange, give,
+or dispose of an unlawful telecommunications device to another.
+(11)  "Telecommunication device" means:
+(a)  any type of instrument, device, machine, or equipment which is capable of
+transmitting or receiving telephonic, electronic, or radio communications; or
+(b)  any part of an instrument, device, machine, or equipment, or other
+computer circuit, computer chip, electronic mechanism, or other component,
+which is capable of facilitating the transmission or reception of telephonic
+or electronic communications within the radio spectrum allocated to cellular
+radio telephony.
+(12)  "Telecommunication service" includes any service provided for a charge
+or compensation to facilitate the origination, transmission, emission, or
+reception of signs, signals, writings, images, and sounds or intelligence of
+any nature by telephone, including cellular telephones, wire, radio,
+television optical or other electromagnetic system.
+(13)  "Telecommunication service provider" means any person or entity
+providing telecommunication service including a cellular telephone or paging
+company or other person or entity which, for a fee, supplies the facility,
+cell site, mobile telephone switching office, or other equipment or
+telecommunication service.
+(14)  "Unlawful telecommunication device" means any telecommunication device
+that is capable of, or has been altered, modified, programmed, or
+reprogrammed, alone or in conjunction with another access device, so as to be
+capable of, acquiring or facilitating the acquisition of a telecommunication
+service without the consent of the telecommunication service provider.
+Unlawful devices include tumbler phones, counterfeit phones, tumbler
+microchips, counterfeit microchips, and other instruments capable of
+disguising their identity or location or of gaining access to a communications
+system operated by a telecommunication service provider.

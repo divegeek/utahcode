@@ -1,0 +1,33 @@
+13-40-201.   Prohibited conduct.
+(1)  A person may not display a pop-up advertisement by means of spyware if
+the pop-up advertisement:
+(a) (i)  is displayed in response to a specific mark; or
+(ii)  is displayed in response to a specific Internet website address;
+(b)  constitutes infringement of a registered trademark under federal or state
+law; and
+(c)  is purchased or acquired by a person other than:
+(i)  the mark owner;
+(ii)  a licensee of the mark;
+(iii)  an authorized agent of the owner of the mark;
+(iv)  an authorized user of the mark;
+(v)  a person advertising the lawful sale, lease, or transfer of products
+bearing the mark through a secondary marketplace for the sale of goods or
+services; or
+(vi)  a person engaged in a fair or otherwise permissible use of a trademark
+or service mark under applicable trademark law.
+(2) (a)  A person using spyware to display a pop-up advertisement under
+Subsection (1) is not guilty of violating this chapter if:
+(i)  the person requests information about the user's state of residence
+before sending the spyware or displaying a pop-up advertisement to the user
+after May 2, 2005; and
+(ii)  the user indicates a residence outside this state.
+(b)  A person purchasing or acquiring advertising under Subsection
+13-40-301(5) is not guilty of violating this chapter if the person reasonably
+determines that the person delivering a pop-up advertisement by use of spyware
+under Subsection (1) has complied with Subsection (2)(a).
+(c)  A person requesting information about a user's state of residence under
+Subsection (2)(a) may not prompt, ask, or otherwise encourage a user to
+indicate a residence outside this state.
+(d)  No action may be brought under this chapter, for the use of a mark or
+Internet website address that constitutes a fair or otherwise permissible use
+of the mark or Internet website address under federal or state law.

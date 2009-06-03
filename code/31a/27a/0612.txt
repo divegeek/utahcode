@@ -1,0 +1,287 @@
+31A-27a-612.    Administration of deductible policies and insured
+collateral.
+(1)  As used in this section:
+(a)  "Collateral" means any of the following that secures an insured's
+obligation to pay or to reimburse the insurer for deductible claim payments
+and to reimburse or pay to the insurer other secured obligations:
+(i)  cash;
+(ii)  a letter of credit of the insured;
+(iii)  a surety bond posted by the insured; or
+(iv)  any other form of security posted by the insured.
+(b)  "Deductible claim" means a claim, including a loss or allocated loss
+adjustment expense, under a deductible policy within the insured's obligation
+to pay a portion of a claim or claim expense that the insurer is obligated to
+pay to a person other than the insured by the deductible policy or by
+operation of law.
+(c) (i)  "Deductible limit" means a limit on an amount to be paid or
+reimbursed by the insured under a deductible policy that is equal to or
+greater than $5,000.
+(ii)  A deductible limit may be any amount of the risk exposure before the
+insurer agrees to become liable for the insurance risk without a right of
+recoupment from the insured for the insurer's payment of claims or expenses
+related to a claim under the deductible policy.
+(d) (i)  "Deductible policy" means any combination of one or more policies,
+endorsements, contracts, or security agreements in which the insured agrees
+with the insurer to:
+(A)  pay directly:
+(I)  the initial portion of a claim under the policy, endorsement, contract,
+or agreement up to a specified dollar amount; or
+(II)  the expenses related to a claim; or
+(B)  reimburse the insurer for the insurer's payment of:
+(I)  a claim under the policy, endorsement, contract, or agreement up to a
+specified dollar amount; or
+(II)  the expenses related to a claim.
+(ii)  "Deductible policy" includes a policy, endorsement, contract, or
+agreement that contains an aggregate limit on the insured's liability for all
+deductible claims in addition to a deductible limit for each claim.
+(iii)  "Deductible policy" does not include:
+(A)  a policy, endorsement, contract, or agreement that provides that the
+initial portion of a covered claim shall be self-insured and the insurer has
+no payment obligation within the self-insured retention;
+(B)  a policy, endorsement, contract, or agreement that provides for
+retrospectively rated premium payments by the insured; or
+(C)  a reinsurance arrangement or agreement.
+(e)  "Other secured obligation" means an obligation, such as a reinsurance or
+retrospective premium obligation, that is:
+(i)  payable by the insured to the insurer; and
+(ii)  secured by collateral that also secures a deductible obligation.
+(f)  "Uncovered claim" means a deductible claim that is secured by collateral
+but that:
+(i)  is not defined as a covered claim under any relevant guaranty association
+statute;
+(ii)  the insured fails to fund or pay; and
+(iii)  is filed with the receiver pursuant to the receivership proof of claim
+process.
+(2) (a)  If an insurer agrees to allow an insured to fund or pay deductible
+claims directly or through a third party administrator, except as prohibited
+by applicable workers' compensation insurance law:
+(i)  the insured shall fulfill the insured's obligations notwithstanding a
+delinquency proceeding; and
+(ii)  the receiver shall allow the funding or payment agreements to continue
+notwithstanding a delinquency proceeding.
+(b)  To the extent the insured funds or pays a deductible claim, the insured's
+funding or payment of a deductible claim:
+(i)  bars any deductible claim in a delinquency proceeding including a claim
+by the insured or third party claimant; and
+(ii)  extinguishes the obligation, if any, of the receiver or an affected
+guaranty association to pay the deductible claim.
+(c)  The insured is responsible for providing timely notice to the receiver
+and to all affected guaranty associations for any claim that may exceed the
+deductible limit.
+(d)  A charge of any kind may not be made against a receiver or an affected
+guaranty association on the basis of an insured's funding or payment of a
+deductible claim.
+(e)  The failure of an insured to fulfill the insured's obligation pursuant to
+a funding agreement entitles the following to the full benefit of all
+collateral and other rights of recovery and reimbursement under the other
+provisions of this section:
+(i)  the receiver that pays a deductible claim; or
+(ii)  pursuant to Subsection (6)(b), an affected guaranty association that
+pays a deductible claim.
+(3)  Any reimbursement owed to an insurer under a deductible policy issued by
+an insurer subject to a delinquency proceeding shall be administered as
+follows:
+(a) (i)  A reimbursement from an insured for the payment of a deductible claim
+is a general asset of the estate to the extent that:
+(A)  the insolvent insurer is owed reimbursement for deductible payments made
+before the entry of a final order of liquidation; or
+(B)  the receiver is owed reimbursement for a deductible payment.
+(ii)  The receiver shall determine if a reimbursement is a general asset of
+the estate in accordance with this section.
+(b)  The receiver shall bill an insured for reimbursement of a deductible
+claim:
+(i)  paid by the insurer before the commencement of delinquency proceedings;
+(ii)  paid by an affected guaranty association upon receipt of notice of a
+reimbursable payment; or
+(iii)  paid or allowed by the receiver.
+(c)  The receiver may take all commercially reasonable actions necessary to
+collect a reimbursement owed if the insured does not make payment within:
+(i)  the time specified in the deductible policy; or
+(ii)  within 60 days after the day of billing if no time is specified in the
+deductible policy.
+(d)  The following is not a defense to the insured's reimbursement obligation
+under a deductible policy:
+(i)  the insolvency of the insurer;
+(ii)  the insurer's inability to perform any of the insurer's obligations
+under a deductible policy; or
+(iii)  an allegation of improper handling or payment of a deductible claim by:
+(A)  the insurer;
+(B)  the receiver;
+(C)  an affected guaranty association; or
+(D)  any combination of Subsections (3)(d)(iii)(A) through (C).
+(4)  The receiver shall adjust and pay uncovered claims as provided in
+Subsection (5).  The receiver's obligation under this Subsection (4)
+terminates once all available collateral is exhausted.  Once all available
+collateral is exhausted, any unpaid uncovered claims shall continue to be
+handled as a proof of claim in the receivership estate.
+(5) (a) (i)  Except where a deductible policy or other agreement conflicts
+with this section, any collateral held by an insurer subject to a delinquency
+proceeding under this chapter held under a deductible policy issued by the
+insurer, held for other secured obligations, or held under both shall be
+maintained and administered in accordance with:
+(A)  the deductible policy;
+(B)  any applicable security agreement;
+(C)  any agreement regarding other secured obligations; or
+(D)  any applicable combination of the deductible policy and other agreement.
+(ii)  This Subsection (5) applies to collateral regardless of whether the
+collateral is held by, for the benefit of, or assigned to the insurer under a
+deductible policy, agreement, or other secured obligation.
+(b) (i)  Subject to this Subsection (5), collateral shall be used to secure
+the insured's obligation to fund or reimburse deductible claims or other
+secured obligations or other payment obligations under Subsection (8).
+(ii)  Collateral shall be considered as property of the receivership estate
+solely for the purpose of the receiver administering and handling the
+collateral.
+(iii)  Collateral may not be considered as a general asset of the estate,
+except as provided in Subsections (5)(c) and (8).
+(c) (i)  Subject to Subsection (5)(c)(ii), collateral held to secure the
+insured's performance of obligations is a general asset of the estate to the
+extent that:
+(A)  the insurer pays or has paid a deductible claim before the day on which a
+final order of liquidation is entered and the deductible is not reimbursed by
+the insured;
+(B)  the receiver pays or has paid a deductible claim; or
+(C)  the insured fails to pay or reimburse to the insurer other secured
+obligations to the extent the payment or reimbursement is due or payable
+before the day on which a final order of liquidation is entered and remains
+unpaid.
+(ii)  The receiver shall determine the extent that collateral described in
+this Subsection (5)(c) is a general asset.
+(d)  The receiver shall draw down collateral to the extent necessary if the
+insured fails to:
+(i)  perform the insured's funding or payment obligations under any deductible
+policy;
+(ii)  pay deductible reimbursements within:
+(A)  the time specified in the deductible policy; or
+(B)  60 days after the date of the billing if no time is specified in the
+deductible policy;
+(iii)  timely fund any other secured obligation; or
+(iv)  timely pay expenses defined in Subsection (8).
+(e) (i)  The receiver shall first apply or reserve collateral to the insured's
+obligations referenced in Subsections (5)(c)(i)(A) and (C).
+(ii)  The receiver shall use any collateral remaining after the application of
+Subsection (5)(e)(i) to:
+(A)  reimburse deductible claims submitted by an affected guaranty
+association;
+(B)  adjust and pay uncovered claims allowed by the liquidator;
+(C)  pay other secured obligations of the insured that become due and payable
+after the date of liquidation; or
+(D)  pay expenses as defined in Subsection (8).
+(iii)  The receiver shall:
+(A)  use collateral under Subsection (5)(e)(ii) in the order that the
+deductible claims or charges against the collateral listed in Subsection
+(5)(e)(ii) are received and accepted by the receiver; and
+(B)  continue until all valid deductible claims or charges are fully
+reimbursed or paid or the collateral is exhausted.
+(iv)  If there are amounts payable or reimbursable under this Subsection
+(5)(e) and the receiver for any reason has been precluded from drawing the
+collateral, the receiver may establish a reserve against the collateral for
+those amounts.  Only the collateral exceeding the reserve shall be considered
+remaining collateral under this Subsection (5)(e).
+(f)  Once all claims, other secured obligations, or expenses under Subsection
+(8) covered by collateral have been paid and the receiver is satisfied that no
+new claims, other secured obligations, or expenses under Subsection (5)(e) may
+be presented, the receiver shall release any remaining collateral to the
+insured in accordance with the deductible policy or agreement relating to
+other secured obligations.
+(6)  To the extent an affected guaranty association pays a deductible claim
+for which the insurer would have been entitled to reimbursement from the
+insured, the following provisions apply:
+(a) (i)  When an affected guaranty association pays a deductible claim, the
+affected guaranty association shall report the claim to the receiver.
+(ii)  The receiver shall collect from the insured all deductible amounts due
+as reimbursement.  Subject to Subsection (8), when the insured reimbursements
+are collected, the receiver shall reimburse the affected guaranty association
+for deductible claims.
+(iii)  A reimbursement paid to the affected guaranty association pursuant to
+this Subsection (6)(a) may not be treated as a distribution under Section 31A-
+27a-703 or as an early access payment under Section 31A-27a-704.
+(iv)  If an affected guaranty association pays a deductible claim that is also
+subject to reimbursement under statutory net worth provisions, the affected
+guaranty association shall:
+(A)  bill the insured directly;
+(B)  notify the insurer of the payment; and
+(C)  notify the receiver of any receipt of a reimbursement under net worth
+provisions, which shall be credited against the insured's deductible
+reimbursement obligations to the extent that the reimbursement applies to
+deductible claims.
+(b) (i)  This Subsection (6)(b) applies if:
+(A)  the receiver declines to seek reimbursement from the insured or from any
+available collateral;
+(B)  the receiver is unsuccessful in obtaining reimbursement from the insured
+or from any available collateral; or
+(C)  the receiver fails to take available commercially reasonable actions to
+collect a reimbursement owed.
+(ii)  The receiver shall notify an affected guaranty association if the
+receiver declines to seek or is unsuccessful in obtaining reimbursement from
+the insured or from any available collateral.
+(iii)  If a condition described in Subsection (6)(b)(i) exists,
+notwithstanding whether the affected guaranty association receives the notice
+required by Subsection (6)(b)(ii), an affected guaranty association:
+(A)  may, after notice to the receiver, collect a reimbursement due from the
+insured for the deductible claims the affected guaranty association has paid:
+(I)  on the same basis as the receiver; and
+(II)  with the same rights and remedies; and
+(B)  shall report any amounts collected under Subsection (6)(b)(iii)(A) from
+each insured to the receiver.
+(iv)  The receiver shall provide an affected guaranty association with
+available information needed to collect a reimbursement due from the insured.
+(v)  When an affected guaranty association undertakes to collect
+reimbursements from the insured, the affected guaranty association shall
+notify all other guaranty associations who have paid deductible claims on
+behalf of the same insured that this action is being taken.
+(vi)  An amount collected by the affected guaranty association pursuant to
+this Subsection (6)(b) may not be treated as a distribution under Section 31A-
+27a-703 or as an early access payment under Section 31A-27a-704.
+(vii)  An affected guaranty association may net an expense incurred in
+collecting a reimbursement against that reimbursement.
+(c)  The receiver shall provide any affected guaranty associations with
+periodic reports concerning the receiver's activities in discharging
+responsibilities under this section, which shall include an accounting for the
+receiver's deductible billing and collection activities.
+(d)  To the extent that an affected guaranty association pays a deductible
+claim that is not reimbursed either from collateral or by insured payments,
+the affected guaranty association has a claim for those amounts in the
+delinquency proceeding.  Any claim by an affected guaranty association shall
+be reduced by reimbursed or unreimbursed expenses described in Subsection (8)
+incurred by the receiver.
+(e) (i)  If any collateral is held under a deductible policy at the time the
+receiver files an application to terminate the delinquency proceeding, and it
+appears that an additional deductible claim may be payable by an affected
+guaranty association under the deductible policy, the receiver shall:
+(A)  transfer to an affected guaranty association the portion of the
+collateral that is reasonably estimated to be necessary to pay the deductible
+claim; and
+(B)  release any remaining portion of the collateral to the insured.
+(ii)  An affected guaranty association shall handle any collateral transferred
+from the receiver as provided in this section.
+(f)  Nothing in this Subsection (6) limits any rights of the receiver or an
+affected guaranty association under applicable statutory law to obtain
+reimbursement from an insured for a claims payment made by the affected
+guaranty association under a policy of the insurer or for the affected
+guaranty association's related expenses.
+(7) (a)  The receiver shall periodically adjust the collateral being held
+using accepted actuarial principles and practices.
+(b)  The receiver may impose a discretionary safety margin for collateral
+maintained.
+(c)  The receiver may not be required to review collateral more than once a
+year.
+(d)  The receiver shall inform any affected guaranty association and the
+insured of any collateral reviews, including the basis for any proposed
+adjustment.
+(8)  The receiver may do the following in relation to reasonable expenses
+incurred in fulfilling the receiver's responsibilities under this section:
+(a)  deduct the expense from reimbursements;
+(b)  deduct the expense from the collateral; or
+(c)  recover the expense through billings to the insured.
+(9) (a)  A receiver shall meet the receiver's obligations under this section
+in a timely manner.
+(b)  If an affected guaranty association believes that a receiver is not
+meeting an obligation under this section in a timely manner, upon motion by an
+affected guaranty association, a receivership court may grant relief to the
+affected guaranty association if the receivership court finds that the
+receiver is not meeting an obligation under this section in a timely manner.
+(10)  This section modifies Subsection 31A-22-1010(2)(b) to the extent
+necessary to permit an insured to participate in the payment of the insurance
+claims and losses by reimbursement of a receiver or affected guaranty
+association as provided in this section.

@@ -1,0 +1,33 @@
+70A-9a-503.    Name of debtor and secured party.
+(1) A financing statement sufficiently provides the name of the debtor:
+(a)  if the debtor is a registered organization, only if the financing
+statement provides the name of the debtor indicated on the public record of
+the debtor's jurisdiction of organization which shows the debtor to have been
+organized;
+(b)  if the debtor is a decedent's estate, only if the financing statement
+provides the name of the decedent and indicates that the debtor is an estate;
+(c)  if the debtor is a trust or a trustee acting with respect to property
+held in trust, only if the financing statement:
+(i)  provides the name specified for the trust in its organic documents or, if
+no name is specified, provides the name of the settlor and additional
+information sufficient to distinguish the debtor from other trusts having one
+or more of the same settlors; and
+(ii)  indicates, in the debtor's name or otherwise, that the debtor is a trust
+or is a trustee acting with respect to property held in trust; and
+(d)  in other cases:
+(i)  if the debtor has a name, only if it provides the individual or
+organizational name of the debtor; and
+(ii)  if the debtor does not have a name, only if it provides the names of the
+partners, members, associates, or other persons comprising the debtor.
+(2) A financing statement that provides the name of the debtor in accordance
+with Subsection (1) is not rendered ineffective by the absence of:
+(a)  a trade name or other name of the debtor; or
+(b)  unless required under Subsection (1)(d)(ii), names of partners, members,
+associates, or other persons comprising the debtor.
+(3)  A financing statement that provides only the debtor's trade name does not
+sufficiently provide the name of the debtor.
+(4)  Failure to indicate the representative capacity of a secured party or
+representative of a secured party does not affect the sufficiency of a
+financing statement.
+(5) A financing statement may provide the name of more than one debtor and the
+name of more than one secured party.

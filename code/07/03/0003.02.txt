@@ -1,0 +1,104 @@
+7-3-3.2.   Securities business permitted -- Activities conducted by
+subsidiary -- Disclosure statements required.
+(1)  A bank has all necessary and incidental powers to engage in the business
+of purchasing, selling, underwriting, and dealing in securities, whether as a
+principal for its own account or as agent or broker for a customer, subject to
+the limitations in this section.
+(2)  The securities business that a bank may conduct as a principal for its
+own account is limited to the activities specified in Subsections (2)(a)
+through (d).  A bank does not otherwise have power to enter securities
+underwriting or act as a principal in issuance or marketing of securities.
+(a)  A bank may purchase for investment and subsequently resell those types of
+securities authorized by statute or rule of the commissioner, including,
+without limitation, shares purchased in accordance with Section 7-3-21 and
+government or other securities lawfully acquired for the investment or trading
+portfolio of the bank or any of its subsidiaries or affiliates in accordance
+with any limitation established by any other federal or state statute,
+regulation, or rule.
+(b)  A bank may sell securities of any kind acquired in the ordinary course of
+business, including, without limitation, through foreclosure on pledged
+securities.
+(c)  A bank may underwrite or deal in securities issued by a municipality,
+county, or other local governmental entity or an agency of any such
+governmental entity, securities issued by a state or any of its agencies, or
+securities issued by the federal government or any of its agencies.
+(d)  A bank may establish or underwrite the securities of registered
+investment companies that are limited to operating or investing in money
+market funds or other short-term government or corporate debt instruments.
+(3)  This section may not be interpreted to alter the traditional rights and
+powers of banks to issue deposit instruments or similar instruments that
+acknowledge receipt of monies for customers, even though the instruments may
+for some purposes be considered securities.
+(4)  Securities activities under this section, except those activities
+described in Subsections (2)(a) and (b), shall be conducted only through a
+subsidiary.  Any such subsidiary shall be established pursuant to rules that
+the commissioner may adopt after notice and hearing.  Any such rules shall
+further define the standards by which a securities subsidiary of a bank may be
+established and operated, including the requirement for registration, if
+required, as a broker-dealer with state, federal, and self-regulatory
+agencies.  In addition to other standards that may be established by these
+rules, a bank may not invest more than 10% of its total capital in a
+securities subsidiary.  For purposes of that determination, total capital
+shall be calculated in accordance with all other applicable statutes and rules
+of the commissioner, including the effect of loans from the bank to the
+subsidiary, together with capital standards established by the Federal Deposit
+Insurance Corporation.  Every loan made by the bank to a securities subsidiary
+shall comply with applicable state and federal laws.  In all cases, each
+subsidiary shall maintain separate corporate and financial records.
+(5)  Notwithstanding Subsection (4), a bank may enter into a networking
+agreement with a registered broker-dealer for the provision of brokerage
+services to the bank's customers on the bank's premises without the need to
+comply with Subsection (4), (6), or (7).
+(6)  The securities activities authorized by this section may be conducted
+from an authorized banking office or from a separate office of a subsidiary,
+and may be offered to customers in this state or in any other state,
+territory, or country, except to the extent such activities are limited or
+prohibited by the laws of the other state, territory, or country.
+(7)  Before undertaking any of the direct or indirect securities activities
+permitted under this section, except those authorized by Subsection (2)(a), a
+bank shall apply to the commissioner.  The commissioner shall render a
+decision of approval, conditional approval, or disapproval within 60 days from
+the date of receiving the application.  Public notice is not required for any
+hearing on the application that may be held.  The commissioner shall satisfy
+himself before approving the application that the bank possesses the
+managerial and financial resources necessary to conduct the securities
+activities safely and soundly.
+(8)  In conducting securities activities, a bank shall in all respects comply,
+and cause its securities subsidiary to comply, with the Utah Uniform
+Securities Act, the Securities Act of 1933, the Securities Exchange Act of
+1934, the Investment Company Act of 1940, and other applicable statutes,
+regulations, and rules.
+(9)  In connection with each customer for which a bank or its securities
+subsidiary shall act as agent or broker, the bank or the subsidiary, as
+applicable, shall give a written disclosure to its customer prior to closing
+any single transaction or establishment of an account contemplating a series
+of transactions.  The disclosure statement shall be in legible print and shall
+be in substantially the form shown in Subsection (9)(a) with respect to the
+bank and in Subsection (9)(b) with respect to any securities subsidiary.
+(a)
+DISCLOSURE STATEMENT
+The services offered by the securities department of this bank are offered to
+its customers without regard to any other banking relationship.   By signing
+below the customer acknowledges receipt of this Disclosure Statement and
+agrees that any contract for securities services is completely voluntary, and
+the selection of this bank for securities services has not been required by
+any other business relationship or account with the bank.
+__________(month/day/year).
+       CUSTOMER:
+___________________________
+___________________________
+(b)
+DISCLOSURE STATEMENT
+_________________ (name of securities agency subsidiary) is a subsidiary of
+______________ (name of bank).  The services offered by _________________
+(name of subsidiary) are offered to its customers without regard to any
+separate banking relationship with _______________ (name of bank).  By signing
+below the customer acknowledges receipt of this Disclosure Statement and
+agrees that any contract for services with _______________ (name of
+subsidiary) is completely voluntary and the selection of _______________ (name
+of subsidiary) for securities services has not been required by any business
+relationship with its parent bank.
+__________(month/day/year).
+       CUSTOMER:
+___________________________
+___________________________

@@ -1,0 +1,104 @@
+19-3-105.   Definitions -- Legislative and gubernatorial approval required
+for radioactive waste license -- Exceptions -- Application for new, renewed,
+or amended license.
+(1)  As used in this section:
+(a)  "Alternate feed material" has the same definition as provided in Section
+59-24-102.
+(b) (i)  "Class A low-level radioactive waste" means:
+(A)  radioactive waste that is classified as class A waste under 10 C.F.R.
+61.55; and
+(B)  radium-226 up to a maximum radionuclide concentration level of 10,000
+picocuries per gram.
+(ii)  "Class A low-level radioactive waste" does not include:
+(A)  uranium mill tailings;
+(B)  naturally occurring radioactive materials; or
+(C)  the following radionuclides if classified as "special nuclear material"
+under the Atomic Energy Act of 1954, 42 U.S.C. 2014:
+(I)  uranium-233; and
+(II)  uranium-235 with a radionuclide concentration level greater than the
+concentration limits for specific conditions and enrichments established by an
+order of the Nuclear Regulatory Commission:
+(Aa)  to ensure criticality safety for a radioactive waste facility in the
+state; and
+(Bb)  in response to a request, submitted prior to January 1, 2004, from a
+radioactive waste facility in the state to the Nuclear Regulatory Commission
+to amend the facility's special nuclear material exemption order.
+(c) (i)  "Radioactive waste facility" or "facility" means a facility that
+receives, transfers, stores, decays in storage, treats, or disposes of
+radioactive waste:
+(A)  commercially for profit; or
+(B)  generated at locations other than the radioactive waste facility.
+(ii)  "Radioactive waste facility" does not include a facility that receives:
+(A)  alternate feed material for reprocessing; or
+(B)  radioactive waste from a location in the state designated as a processing
+site under 42 U.S.C. 7912(f).
+(d)  "Radioactive waste license" or "license" means a radioactive material
+license issued by the executive secretary under Subsection 19-3-108(2)(c)(i),
+to own, construct, modify, or operate a radioactive waste facility.
+(2)  The provisions of this section are subject to the prohibition under
+Section 19-3-103.7.
+(3) Subject to Subsection (10), a person may not own, construct, modify, or
+operate a radioactive waste facility without:
+(a)  having received a radioactive waste license for the facility;
+(b)  meeting the requirements established by rule under Section 19-3-104;
+(c)  the approval of the governing body of the municipality or county
+responsible for local planning and zoning where the radioactive waste is or
+will be located; and
+(d)  subsequent to meeting the requirements of Subsections (3)(a) through (c),
+the approval of the governor and the Legislature.
+(4) Subject to Subsection (10), a new radioactive waste license application,
+or an application to renew or amend an existing radioactive waste license, is
+subject to the requirements of Subsections (3)(b) through (d) if the
+application, renewal, or amendment:
+(a)  specifies a different geographic site than a previously submitted
+application;
+(b)  would cost 50% or more of the cost of construction of the original
+radioactive waste facility or the modification would result in an increase in
+capacity or throughput of a cumulative total of 50% of the total capacity or
+throughput which was approved in the facility license as of January 1, 1990,
+or the initial approval facility license if the initial license approval is
+subsequent to January 1, 1990; or
+(c)  requests approval to receive, transfer, store, decay in storage, treat,
+or dispose of radioactive waste having a higher radionuclide concentration
+limit than allowed, under an existing approved license held by the facility,
+for the specific type of waste to be received, transferred, stored, decayed in
+storage, treated, or disposed of.
+(5)  The requirements of Subsection (4)(c) do not apply to an application to
+renew or amend an existing radioactive waste license if:
+(a)  the radioactive waste facility requesting the renewal or amendment has
+received a license prior to January 1, 2004; and
+(b)  the application to renew or amend its license is limited to a request to
+approve the receipt, transfer, storage, decay in storage, treatment, or
+disposal of class A low-level radioactive waste.
+(6)  A radioactive waste facility which receives a new radioactive waste
+license after May 3, 2004, is subject to the requirements of Subsections
+(3)(b) through (d) for any license application, renewal, or amendment that
+requests approval to receive, transfer, store, decay in storage, treat, or
+dispose of radioactive waste not previously approved under an existing license
+held by the facility.
+(7)  If the board finds that approval of additional radioactive waste license
+applications, renewals, or amendments will result in inadequate oversight,
+monitoring, or licensure compliance and enforcement of existing and any
+additional radioactive waste facilities, the board shall suspend acceptance of
+further applications for radioactive waste licenses.  The board shall report
+the suspension to the Legislative Management Committee.
+(8)  The board shall review each proposed radioactive waste license
+application to determine whether the application complies with the provisions
+of this chapter and the rules of the board.
+(9) (a)  If the radioactive waste license application is determined to be
+complete, the board shall issue a notice of completeness.
+(b)  If the board determines that the radioactive waste license application is
+incomplete, the board shall issue a notice of deficiency, listing the
+additional information to be provided by the applicant to complete the
+application.
+(10)  The requirements of Subsections (3)(c) and (d) and Subsection
+19-3-104(11) do not apply to:
+(a)  a radioactive waste license that is in effect on December 31, 2006,
+including all amendments to the license that have taken effect as of December
+31, 2006;
+(b)  a license application for a facility in existence as of December 31,
+2006, unless the license application includes an area beyond the facility
+boundary approved in the license described in Subsection (10)(a); or
+(c)  an application to renew or amend a license described in Subsection
+(10)(a), unless the renewal or amendment includes an area beyond the facility
+boundary approved in the license described in Subsection (10)(a).

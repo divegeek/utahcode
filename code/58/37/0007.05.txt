@@ -1,0 +1,271 @@
+58-37-7.5.   Controlled substance database -- Pharmacy reporting
+requirements -- Access -- Penalties.
+(1)  As used in this section:
+(a)  "Board" means the Utah State Board of Pharmacy created in Section
+58-17b-201.
+(b)  "Database" means the controlled substance database created in this
+section.
+(c)  "Database manager" means the person responsible for operating the
+database, or the person's designee.
+(d)  "Division" means the Division of Occupational and Professional Licensing
+created in Section 58-1-103.
+(e)  "Health care facility" is as defined in Section 26-21-2.
+(f)  "Mental health therapist" is as defined in Section 58-60-102.
+(g)  "Pharmacy" or "pharmaceutical facility" is as defined in Section
+58-17b-102.
+(h)  "Prospective patient" means a person who:
+(i)  is seeking medical advice, medical treatment, or medical services from a
+practitioner; and
+(ii)  the practitioner described in Subsection (1)(h)(i) is considering
+accepting as a patient.
+(i)  "Substance abuse treatment program" is as defined in Section 62A-2-101.
+(2) (a)  There is created within the division a controlled substance database.
+(b)  The division shall administer and direct the functioning of the database
+in accordance with this section.  The division may under state procurement
+laws contract with another state agency or private entity to establish,
+operate, or maintain the database.  The division in collaboration with the
+board shall determine whether to operate the database within the division or
+contract with another entity to operate the database, based on an analysis of
+costs and benefits.
+(c)  The purpose of the database is to contain data as described in this
+section regarding every prescription for a controlled substance dispensed in
+the state to any person other than an inpatient in a licensed health care
+facility.
+(d)  Data required by this section shall be submitted in compliance with this
+section to the manager of the database by the pharmacist in charge of the drug
+outlet where the controlled substance is dispensed.
+(3)  The board shall advise the division regarding:
+(a)  establishing, maintaining, and operating the database;
+(b)  access to the database and how access is obtained; and
+(c)  control of information contained in the database.
+(4)  The pharmacist in charge shall, regarding each controlled substance
+dispensed by a pharmacist under the pharmacist's supervision other than those
+dispensed for an inpatient at a health care facility, submit to the manager of
+the database the following information, by a procedure and in a format
+established by the division:
+(a)  name of the prescribing practitioner;
+(b)  date of the prescription;
+(c)  date the prescription was filled;
+(d)  name of the person for whom the prescription was written;
+(e)  positive identification of the person receiving the prescription,
+including the type of identification and any identifying numbers on the
+identification;
+(f)  name of the controlled substance;
+(g)  quantity of controlled substance prescribed;
+(h)  strength of controlled substance;
+(i)  quantity of controlled substance dispensed;
+(j)  dosage quantity and frequency as prescribed;
+(k)  name of drug outlet dispensing the controlled substance;
+(l)  name of pharmacist dispensing the controlled substance; and
+(m)  other relevant information as required by division rule.
+(5)  The division shall maintain the database in an electronic file or by
+other means established by the division to facilitate use of the database for
+identification of:
+(a)  prescribing practices and patterns of prescribing and dispensing
+controlled substances;
+(b)  practitioners prescribing controlled substances in an unprofessional or
+unlawful manner;
+(c)  individuals receiving prescriptions for controlled substances from
+licensed practitioners, and who subsequently obtain dispensed controlled
+substances from a drug outlet in quantities or with a frequency inconsistent
+with generally recognized standards of dosage for that controlled substance;
+and
+(d)  individuals presenting forged or otherwise false or altered prescriptions
+for controlled substances to a pharmacy.
+(6) (a)  The division shall by rule establish the electronic format in which
+the information required under this section shall be submitted to the
+administrator of the database.
+(b)  The division shall ensure the database system records and maintains for
+reference:
+(i)  identification of each person who requests or receives information from
+the database;
+(ii)  the information provided to each person; and
+(iii)  the date and time the information is requested or provided.
+(7)  The division shall make rules to:
+(a)  effectively enforce the limitations on access to the database as
+described in Subsection (8); and
+(b)  establish standards and procedures to ensure accurate identification of
+individuals requesting information or receiving information without request
+from the database.
+(8)  The manager of the database shall make information in the database
+available only to the following persons, in accordance with the requirements
+of this section and division rules:
+(a)  personnel of the division specifically assigned to conduct investigations
+related to controlled substances laws under the jurisdiction of the division;
+(b)  authorized division personnel engaged in analysis of controlled substance
+prescription information as a part of the assigned duties and responsibilities
+of their employment;
+(c)  employees of the Department of Health whom the director of the Department
+of Health assigns to conduct scientific studies regarding the use or abuse of
+controlled substances, provided that the identity of the individuals and
+pharmacies in the database are confidential and are not disclosed in any
+manner to any individual who is not directly involved in the scientific
+studies;
+(d)  a licensed practitioner having authority to prescribe controlled
+substances, to the extent the information:
+(i) (A)  relates specifically to a current or prospective patient of the
+practitioner; and
+(B)  is sought by the practitioner for the purpose of:
+(I)  prescribing or considering prescribing any controlled substance to the
+current or prospective patient;
+(II)  diagnosing the current or prospective patient;
+(III)  providing medical treatment or medical advice to the current or
+prospective patient; or
+(IV)  determining whether the current or prospective patient:
+(Aa)  is attempting to fraudulently obtain a controlled substance from the
+practitioner; or
+(Bb)  has fraudulently obtained, or attempted to fraudulently obtain, a
+controlled substance from the practitioner;
+(ii) (A)  relates specifically to a former patient of the practitioner; and
+(B)  is sought by the practitioner for the purpose of determining whether the
+former patient has fraudulently obtained, or has attempted to fraudulently
+obtain, a controlled substance from the practitioner;
+(iii)  relates specifically to an individual who has access to the
+practitioner's Drug Enforcement Administration number, and the practitioner
+suspects that the individual may have used the practitioner's Drug Enforcement
+Administration identification number to fraudulently acquire or prescribe a
+controlled substance;
+(iv)  relates to the practitioner's own prescribing practices, except when
+specifically prohibited by the division by administrative rule;
+(v)  relates to the use of the controlled substance database by an employee of
+the practitioner, described in Subsection (8)(e); or
+(vi)  relates to any use of the practitioner's Drug Enforcement Administration
+identification number to obtain, attempt to obtain, prescribe, or attempt to
+prescribe, a controlled substance;
+(e)  in accordance with Subsection (17), an employee of a practitioner
+described in Subsection (8)(d), for a purpose described in Subsection
+(8)(d)(i) or (ii), if:
+(i)  the employee is designated by the practitioner as a person authorized to
+access the information on behalf of the practitioner;
+(ii)  the practitioner provides written notice to the division of the identity
+of the employee; and
+(iii)  the division:
+(A)  grants the employee access to the database; and
+(B)  provides the employee with a password that is unique to that employee to
+access the database in order to permit the division to comply with the
+requirements of Subsection (6)(b) with respect to the employee;
+(f)  a licensed pharmacist having authority to dispense controlled substances
+to the extent the information is sought for the purpose of:
+(i)  dispensing or considering dispensing any controlled substance; or
+(ii)  determining whether a person:
+(A)  is attempting to fraudulently obtain a controlled substance from the
+pharmacist; or
+(B)  has fraudulently obtained, or attempted to fraudulently obtain, a
+controlled substance from the pharmacist;
+(g)  federal, state, and local law enforcement authorities, and state and
+local prosecutors, engaged as a specified duty of their employment in
+enforcing laws:
+(i)  regulating controlled substances; or
+(ii)  investigating insurance fraud, Medicaid fraud, or Medicare fraud;
+(h)  a mental health therapist, if:
+(i)  the information relates to a patient who is:
+(A)  enrolled in a licensed substance abuse treatment program; and
+(B)  receiving treatment from, or under the direction of, the mental health
+therapist as part of the patient's participation in the licensed substance
+abuse treatment program described in Subsection (8)(h)(i)(A);
+(ii)  the information is sought for the purpose of determining whether the
+patient is using a controlled substance while the patient is enrolled in the
+licensed substance abuse treatment program described in Subsection
+(8)(h)(i)(A); and
+(iii)  the licensed substance abuse treatment program described in Subsection
+(8)(h)(i)(A) is associated with a practitioner who:
+(A)  is a physician, a physician assistant, an advance practice registered
+nurse, or a pharmacist; and
+(B)  is available to consult with the mental health therapist regarding the
+information obtained by the mental health therapist, under this Subsection
+(8)(h), from the database; and
+(i)  an individual who is the recipient of a controlled substance prescription
+entered into the database, upon providing evidence satisfactory to the
+database manager that the individual requesting the information is in fact the
+person about whom the data entry was made.
+(9)  Any person who knowingly and intentionally releases any information in
+the database in violation of the limitations under Subsection (8) is guilty of
+a third degree felony.
+(10) (a)  Any person who obtains or attempts to obtain information from the
+database by misrepresentation or fraud is guilty of a third degree felony.
+(b)  Any person who obtains or attempts to obtain information from the
+database for a purpose other than a purpose authorized by this section or by
+rule is guilty of a third degree felony.
+(11) (a)  Except as provided in Subsection (11)(d), a person may not knowingly
+and intentionally use, release, publish, or otherwise make available to any
+other person or entity any information obtained from the database for any
+purpose other than those specified in Subsection (8).  Each separate violation
+of this Subsection (11) is a third degree felony and is also subject to a
+civil penalty not to exceed $5,000.
+(b)  The procedure for determining a civil violation of this Subsection (11)
+shall be in accordance with Section 58-1-108, regarding adjudicative
+proceedings within the division.
+(c)  Civil penalties assessed under this Subsection (11) shall be deposited in
+the General Fund as a dedicated credit to be used by the division under
+Subsection 58-37-7.7(1).
+(d)  Nothing in this Subsection (11) prohibits a person who obtains
+information from the database under Subsection (8)(d) or (e) from:
+(i)  including the information in the person's medical chart or file for
+access by a person authorized to review the medical chart or file; or
+(ii)  providing the information to a person in accordance with the
+requirements of the Health Insurance Portability and Accountability Act of
+1996.
+(12) (a)  The failure of a pharmacist in charge to submit information to the
+database as required under this section after the division has submitted a
+specific written request for the information or when the division determines
+the individual has a demonstrable pattern of failing to submit the information
+as required is grounds for the division to take the following actions in
+accordance with Section 58-1-401:
+(i)  refuse to issue a license to the individual;
+(ii)  refuse to renew the individual's license;
+(iii)  revoke, suspend, restrict, or place on probation the license;
+(iv)  issue a public or private reprimand to the individual;
+(v)  issue a cease and desist order; and
+(vi)  impose a civil penalty of not more than $1,000 for each dispensed
+prescription regarding which the required information is not submitted.
+(b)  Civil penalties assessed under Subsection (12)(a)(vi) shall be deposited
+in the General Fund as a dedicated credit to be used by the division under
+Subsection 58-37-7.7(1).
+(c)  The procedure for determining a civil violation of this Subsection (12)
+shall be in accordance with Section 58-1-108, regarding adjudicative
+proceedings within the division.
+(13)  An individual who has submitted information to the database in
+accordance with this section may not be held civilly liable for having
+submitted the information.
+(14)  All department and the division costs necessary to establish and operate
+the database shall be funded by appropriations from:
+(a)  the Commerce Service Fund; and
+(b)  the General Fund.
+(15)  All costs associated with recording and submitting data as required in
+this section shall be assumed by the submitting pharmacy.
+(16) (a)  Except as provided in Subsection (16)(b), data provided to,
+maintained in, or accessed from the database that may be identified to, or
+with, a particular person is not subject to discovery, subpoena, or similar
+compulsory process in any civil, judicial, administrative, or legislative
+proceeding, nor shall any individual or organization with lawful access to the
+data be compelled to testify with regard to the data.
+(b)  The restrictions in Subsection (16)(a) do not apply to:
+(i)  a criminal proceeding; or
+(ii)  a civil, judicial, or administrative action brought to enforce the
+provisions of this section, Section 58-37-7.7, or Section 58-37-7.8.
+(17) (a)  A practitioner described in Subsection (8)(d) may designate up to
+three employees to access information from the database under Subsection
+(8)(e).
+(b)  The division shall make rules, in accordance with Title 63G, Chapter 3,
+Utah Administrative Rulemaking Act, to establish background check procedures
+to determine whether an employee designated under Subsection (8)(e)(i) should
+be granted access to the database.
+(c)  The division shall grant an employee designated under Subsection
+(8)(e)(i) access to the database, unless the division determines, based on a
+background check, that the employee poses a security risk to the information
+contained in the database.
+(d)  The division may impose a fee, in accordance with Section 63J-1-504, on a
+practitioner who designates an employee under Subsection (8)(e)(i), to pay for
+the costs incurred by the division to conduct the background check and make
+the determination described in Subsection (17)(c).
+(18) (a)  A person who is granted access to the database based on the fact
+that the person is a licensed practitioner or a mental health therapist shall
+be denied access to the database when the person is no longer licensed.
+(b)  A person who is granted access to the database based on the fact that the
+person is a designated employee of a licensed practitioner shall be denied
+access to the database when the practitioner is no longer licensed.
+(19)  A person who is a relative of a deceased individual is not entitled to
+access information from the database relating to the deceased individual based
+on the fact or claim that the person is:
+(a)  related to the deceased individual; or
+(b)  subrogated to the rights of the deceased individual.

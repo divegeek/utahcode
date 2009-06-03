@@ -1,0 +1,176 @@
+31A-22-617.   Preferred provider contract provisions.
+Health insurance policies may provide for insureds to receive services or
+reimbursement under the policies in accordance with preferred health care
+provider contracts as follows:
+(1)  Subject to restrictions under this section, any insurer or third party
+administrator may enter into contracts with health care providers as defined
+in Section 78B-3-403 under which the health care providers agree to supply
+services, at prices specified in the contracts, to persons insured by an
+insurer.
+(a) (i)  A health care provider contract may require the health care provider
+to accept the specified payment as payment in full, relinquishing the right to
+collect additional amounts from the insured person.
+(ii)  In any dispute involving a provider's claim for reimbursement, the same
+shall be determined in accordance with applicable law, the provider contract,
+the subscriber contract, and the insurer's written payment policies in effect
+at the time services were rendered.
+(iii)  If the parties are unable to resolve their dispute, the matter shall be
+subject to binding arbitration by a jointly selected arbitrator.  Each party
+is to bear its own expense except the cost of the jointly selected arbitrator
+shall be equally shared.  This Subsection (1)(a)(iii) does not apply to the
+claim of a general acute hospital to the extent it is inconsistent with the
+hospital's provider agreement.
+(iv)  An organization may not penalize a provider solely for pursuing a claims
+dispute or otherwise demanding payment for a sum believed owing.
+(v)  If an insurer permits another entity with which it does not share common
+ownership or control to use or otherwise lease one or more of the
+organization's networks of participating providers, the organization shall
+ensure, at a minimum, that the entity pays participating providers in
+accordance with the same fee schedule and general payment policies as the
+organization would for that network.
+(b)  The insurance contract may reward the insured for selection of preferred
+health care providers by:
+(i)  reducing premium rates;
+(ii)  reducing deductibles;
+(iii)  coinsurance;
+(iv)  other copayments; or
+(v)  any other reasonable manner.
+(c)  If the insurer is a managed care organization, as defined in Subsection
+31A-27a-403(1)(f):
+(i)  the insurance contract and the health care provider contract shall
+provide that in the event the managed care organization becomes insolvent, the
+rehabilitator or liquidator may:
+(A)  require the health care provider to continue to provide health care
+services under the contract until the earlier of:
+(I)  90 days after the date of the filing of a petition for rehabilitation or
+the petition for liquidation; or
+(II)  the date the term of the contract ends; and
+(B)  subject to Subsection (1)(c)(v), reduce the fees the provider is
+otherwise entitled to receive from the managed care organization during the
+time period described in Subsection (1)(c)(i)(A);
+(ii)  the provider is required to:
+(A)  accept the reduced payment under Subsection (1)(c)(i)(B) as payment in
+full; and
+(B)  relinquish the right to collect additional amounts from the insolvent
+managed care organization's enrollee, as defined in Subsection 31A-
+27a-403(1)(b);
+(iii)  if the contract between the health care provider and the managed care
+organization has not been reduced to writing, or the contract fails to contain
+the language required by Subsection (1)(c)(i), the provider may not collect or
+attempt to collect from the enrollee:
+(A)  sums owed by the insolvent managed care organization; or
+(B)  the amount of the regular fee reduction authorized under Subsection
+(1)(c)(i)(B);
+(iv)  the following may not bill or maintain any action at law against an
+enrollee to collect sums owed by the insolvent managed care organization or
+the amount of the regular fee reduction authorized under Subsection
+(1)(c)(i)(B):
+(A)  a provider;
+(B)  an agent;
+(C)  a trustee; or
+(D)  an assignee of a person described in Subsections (1)(c)(iv)(A) through
+(C); and
+(v)  notwithstanding Subsection (1)(c)(i):
+(A)  a rehabilitator or liquidator may not reduce a fee by less than 75% of
+the provider's regular fee set forth in the contract; and
+(B)  the enrollee shall continue to pay the copayments, deductibles, and other
+payments for services received from the provider that the enrollee was
+required to pay before the filing of:
+(I)  a petition for rehabilitation; or
+(II)  a petition for liquidation.
+(2) (a)  Subject to Subsections (2)(b) through (2)(f), an insurer using
+preferred health care provider contracts shall pay for the services of health
+care providers not under the contract, unless the illnesses or injuries
+treated by the health care provider are not within the scope of the insurance
+contract.  As used in this section, "class of health care providers" means all
+health care providers licensed or licensed and certified by the state within
+the same professional, trade, occupational, or facility licensure or licensure
+and certification category established pursuant to Titles 26, Utah Health Code
+and 58, Occupations and Professions.
+(b) (i)  Until July 1, 2012, when the insured receives services from a health
+care provider not under contract, the insurer shall reimburse the insured for
+at least 75% of the average amount paid by the insurer for comparable services
+of preferred health care providers who are members of the same class of health
+care providers.
+(ii)  Notwithstanding Subsection (2)(b)(i), an insurer may offer a health plan
+that complies with the provisions of Subsection 31A-22-618.5(3).
+(iii)  The commissioner may adopt a rule dealing with the determination of
+what constitutes 75% of the average amount paid by the insurer under
+Subsection (2)(b)(i) for comparable services of preferred health care
+providers who are members of the same class of health care providers.
+(c)  When reimbursing for services of health care providers not under
+contract, the insurer may make direct payment to the insured.
+(d)  Notwithstanding Subsection (2)(b), an insurer using preferred health care
+provider contracts may impose a deductible on coverage of health care
+providers not under contract.
+(e)  When selecting health care providers with whom to contract under
+Subsection (1), an insurer may not unfairly discriminate between classes of
+health care providers, but may discriminate within a class of health care
+providers, subject to Subsection (7).
+(f)  For purposes of this section, unfair discrimination between classes of
+health care providers shall include:
+(i)  refusal to contract with class members in reasonable proportion to the
+number of insureds covered by the insurer and the expected demand for services
+from class members; and
+(ii)  refusal to cover procedures for one class of providers that are:
+(A)  commonly utilized by members of the class of health care providers for
+the treatment of illnesses, injuries, or conditions;
+(B)  otherwise covered by the insurer; and
+(C)  within the scope of practice of the class of health care providers.
+(3)  Before the insured consents to the insurance contract, the insurer shall
+fully disclose to the insured that it has entered into preferred health care
+provider contracts.  The insurer shall provide sufficient detail on the
+preferred health care provider contracts to permit the insured to agree to the
+terms of the insurance contract.  The insurer shall provide at least the
+following information:
+(a)  a list of the health care providers under contract and if requested their
+business locations and specialties;
+(b)  a description of the insured benefits, including any deductibles,
+coinsurance, or other copayments;
+(c)  a description of the quality assurance program required under Subsection
+(4); and
+(d)  a description of the adverse benefit determination procedures required
+under Subsection (5).
+(4) (a)  An insurer using preferred health care provider contracts shall
+maintain a quality assurance program for assuring that the care provided by
+the health care providers under contract meets prevailing standards in the
+state.
+(b)  The commissioner in consultation with the executive director of the
+Department of Health may designate qualified persons to perform an audit of
+the quality assurance program.  The auditors shall have full access to all
+records of the organization and its health care providers, including medical
+records of individual patients.
+(c)  The information contained in the medical records of individual patients
+shall remain confidential.  All information, interviews, reports, statements,
+memoranda, or other data furnished for purposes of the audit and any findings
+or conclusions of the auditors are privileged.  The information is not subject
+to discovery, use, or receipt in evidence in any legal proceeding except
+hearings before the commissioner concerning alleged violations of this
+section.
+(5)  An insurer using preferred health care provider contracts shall provide a
+reasonable procedure for resolving complaints and adverse benefit
+determinations initiated by the insureds and health care providers.
+(6)  An insurer may not contract with a health care provider for treatment of
+illness or injury unless the health care provider is licensed to perform that
+treatment.
+(7) (a)  A health care provider or insurer may not discriminate against a
+preferred health care provider for agreeing to a contract under Subsection
+(1).
+(b)  Any health care provider licensed to treat any illness or injury within
+the scope of the health care provider's practice, who is willing and able to
+meet the terms and conditions established by the insurer for designation as a
+preferred health care provider, shall be able to apply for and receive the
+designation as a preferred health care provider.  Contract terms and
+conditions may include reasonable limitations on the number of designated
+preferred health care providers based upon substantial objective and economic
+grounds, or expected use of particular services based upon prior provider-
+patient profiles.
+(8)  Upon the written request of a provider excluded from a provider contract,
+the commissioner may hold a hearing to determine if the insurer's exclusion of
+the provider is based on the criteria set forth in Subsection (7)(b).
+(9)  Insurers are subject to the provisions of Sections 31A-22-613.5,
+31A-22-614.5, and 31A-22-618.
+(10)  Nothing in this section is to be construed as to require an insurer to
+offer a certain benefit or service as part of a health benefit plan.
+(11)  This section does not apply to catastrophic mental health coverage
+provided in accordance with Section 31A-22-625.

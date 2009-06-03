@@ -1,0 +1,166 @@
+77-23a-4.   Offenses -- Criminal and civil -- Lawful interception.
+(1) (a)  Except as otherwise specifically provided in this chapter, any person
+who violates Subsection (1)(b) is guilty of an offense and is subject to
+punishment under Subsection (10), or when applicable, the person is subject to
+civil action under Subsection (11).
+(b)  A person commits a violation of this subsection who:
+(i)  intentionally or knowingly intercepts, endeavors to intercept, or
+procures any other person to intercept or endeavor to intercept any wire,
+electronic, or oral communication;
+(ii)  intentionally or knowingly uses, endeavors to use, or procures any other
+person to use or endeavor to use any electronic, mechanical, or other device
+to intercept any oral communication, when   the device is affixed to, or
+otherwise transmits a signal through a wire, cable, or other like connection
+used in wire communication or when   the device transmits communications by
+radio, or interferes with the transmission of the communication;
+(iii)  intentionally or knowingly discloses or endeavors to disclose to any
+other person the contents of any wire, electronic, or oral communication,
+knowing or having reason to know that the information was obtained through the
+interception of a wire, electronic, or oral communication in violation of this
+section; or
+(iv)  intentionally or knowingly uses or endeavors to use the contents of any
+wire, electronic, or oral communication, knowing or having reason to know that
+the information was obtained through the interception of a wire, electronic,
+or oral communication in violation of this section.
+(2)  The operator of a switchboard, or an officer, employee, or agent of a
+provider of wire or electronic communication service whose facilities are used
+in the transmission of a wire communication may intercept, disclose, or use
+that communication in the normal course of his employment while engaged in any
+activity which is a necessary incident to the rendition of his service or to
+the protection of the rights or property of the provider of that service.
+However, a provider of wire communications service to the public may not
+utilize service observing or random monitoring except for mechanical or
+service quality control checks.
+(3) (a)  Providers of wire or electronic communications service, their
+officers, employees, or agents, and any landlords, custodians, or other
+persons may provide information, facilities, or technical assistance to
+persons authorized by law to intercept wire, oral, or electronic
+communications or to conduct electronic surveillance if the provider and its
+officers, employees, or agents, and any landlords, custodians, or other
+specified persons have been provided with:
+(i)  a court order directing the assistance signed by the authorizing judge;
+or
+(ii)  a certification in writing by a person specified in Subsection 77-23a-10
+(7), or by the attorney general or an assistant attorney general, or by a
+county attorney or district attorney or his deputy that no warrant or court
+order is required by law, that all statutory requirements have been met, and
+that the specified assistance is required.
+(b)  The order or certification under this subsection shall set the period of
+time during which the provision of the information, facilities, or technical
+assistance is authorized and shall specify the information, facilities, or
+technical assistance required.
+(4) (a)  The providers of wire or electronic communications service, their
+officers, employees, or agents, and any landlords, custodians, or other
+specified persons may not disclose the existence of any interception or
+surveillance or the device used to accomplish the interception or surveillance
+regarding which the person has been furnished an order or certification under
+this section except as is otherwise required by legal process, and then only
+after prior notification to the attorney general or to the county attorney or
+district attorney of the county in which the interception was conducted, as is
+appropriate.
+(b)  Any disclosure in violation of this subsection renders the person liable
+for civil damages under Section 77-23a-11.
+(5)  A cause of action does not lie in any court against any provider of wire
+or electronic communications service, its officers, employees, or agents, or
+any landlords, custodians, or other specified persons for providing
+information, facilities, or assistance in accordance with the terms of a court
+order or certification under this chapter.
+(6)  Subsections (3), (4), and (5) supersede any law to the contrary.
+(7) (a)  A person acting under color of law may intercept a wire, electronic,
+or oral communication if that person is a party to the communication or one of
+the parties to the communication has given prior consent to the interception.
+(b)  A person not acting under color of law may intercept a wire, electronic,
+or oral communication if that person is a party to the communication or one of
+the parties to the communication has given prior consent to the interception,
+unless the communication is intercepted for the purpose of committing any
+criminal or tortious act in violation of state or federal laws.
+(c)  An employee of a telephone company may intercept a wire communication for
+the sole purpose of tracing the origin of the communication when the
+interception is requested by the recipient of the communication and the
+recipient alleges that the communication is obscene, harassing, or threatening
+in nature.  The telephone company and its officers, employees, and agents
+shall release the results of the interception, made under this subsection,
+upon request of the local law enforcement authorities.
+(8)  A person may:
+(a)  intercept or access an electronic communication made through an
+electronic communications system that is configured so that the electronic
+communication is readily accessible to the general public;
+(b)  intercept any radio communication transmitted by:
+(i)  any station for the use of the general public, or that relates to ships,
+aircraft, vehicles, or persons in distress;
+(ii)  any government, law enforcement, civil defense, private land mobile, or
+public safety communications system, including police and fire, readily
+accessible to the general public;
+(iii)  a station operating on an authorized frequency within the bands
+allocated to the amateur, citizens' band, or general mobile radio services; or
+(iv)  by a marine or aeronautics communications system;
+(c)  intercept any wire or electronic communication, the transmission of which
+is causing harmful interference to any lawfully operating station or consumer
+electronic equipment, to the extent necessary to identify the source of the
+interference; or
+(d)  as one of a group of users of the same frequency, intercept any radio
+communication made through a system that utilizes frequencies monitored by
+individuals engaged in the provision or the use of the system, if the
+communication is not scrambled or encrypted.
+(9) (a)  Except under Subsection (b), a person or entity providing an
+electronic communications service to the public may not intentionally divulge
+the contents of any communication, while in transmission of that service, to
+any person or entity other than an addressee or intended recipient of the
+communication or his agent.
+(b)  A person or entity providing electronic communications service to the
+public may divulge the contents of any communication:
+(i)  as otherwise authorized under this section or Section 77-23a-9;
+(ii)  with lawful consent of the originator or any addressee or intended
+recipient of the communication;
+(iii)  to a person employed or authorized or whose facilities are used to
+forward the communication to its destination; or
+(iv)  that is inadvertently obtained by the service provider and appears to
+pertain to the commission of a crime, if the divulgence is made to a law
+enforcement agency.
+(10) (a)  Except under Subsection (b) or Subsection (11), a violation of
+Subsection (1) is a third degree felony.
+(b)  If the offense is a first offense under this section and is not for a
+tortious or illegal purpose or for purposes of direct or indirect commercial
+advantage or private commercial gain, and the wire or electronic communication
+regarding which the offense was committed is a radio communication that is not
+scrambled or encrypted:
+(i)  if the communication is not the radio portion of a cellular telephone
+communication, a public land mobile radio service communication, or paging
+service communication, and the conduct is not under Subsection (11), the
+offense is a class A misdemeanor; and
+(ii)  if the communication is the radio portion of a cellular telephone
+communication, a public land mobile radio service communication, or a paging
+service communication, the offense is a class B misdemeanor.
+(c)  Conduct otherwise an offense under this section is not an offense if the
+conduct was not done for the purpose of direct or indirect commercial
+advantage or private financial gain, and consists of or relates to the
+interception of a satellite transmission that is not encrypted or scrambled,
+and is either transmitted:
+(i)  to a broadcasting station for purposes of retransmission to the general
+public; or
+(ii)  as an audio subcarrier intended for redistribution to facilities open to
+the public, but in any event not including data transmissions or telephone
+calls.
+(11) (a)  A person is subject to civil suit initiated by the state in a court
+of competent jurisdiction when his conduct is prohibited under Subsection (1)
+and the conduct involves a:
+(i)  private satellite video communication that is not scrambled or encrypted,
+and the conduct in violation of this chapter is the private viewing of that
+communication and is not for a tortious or illegal purpose or for purposes of
+direct or indirect commercial advantage or private commercial gain; or
+(ii)  radio communication that is transmitted on frequencies allocated under
+Subpart D, Part 74, Rules of the Federal Communication Commission, that is not
+scrambled or encrypted and the conduct in violation of this chapter is not for
+a tortious or illegal purpose or for purposes of direct or indirect commercial
+advantage or private commercial gain.
+(b)  In an action under Subsection (a):
+(i)  if the violation of this chapter is a first offense under this section
+and the person is not found liable in a civil action under Section 77-23a-11,
+the state may seek appropriate injunctive relief;
+(ii)  if the violation of this chapter is a second or subsequent offense under
+this section, or the person has been found liable in any prior civil action
+under Section 77-23a-11, the person is subject to a mandatory $500 civil
+penalty.
+(c)  The court may use any means within its authority to enforce an injunction
+issued under Subsection (b) (i), and shall impose a civil fine of not less
+than $500 for each violation of the injunction.

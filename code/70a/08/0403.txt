@@ -1,0 +1,43 @@
+70A-8-403.    Demand that issuer not register transfer.
+(1)  A person who is an appropriate person to make an indorsement or originate
+an instruction may demand that the issuer not register transfer of a security
+by communicating to the issuer a notification that identifies the registered
+owner and the issue of which the security is a part and provides an address
+for communications directed to the person making the demand.  The demand is
+effective only if it is received by the issuer at a time and in a manner
+affording the issuer reasonable opportunity to act on it.
+(2)  If a certificated security in registered form is presented to an issuer
+with a request to register transfer or an instruction is presented to an
+issuer with a request to register transfer of an uncertificated security after
+a demand that the issuer not register transfer has become effective, the
+issuer shall promptly communicate to:
+(a)  the person who initiated the demand at the address provided in the
+demand; and
+(b)  the person who presented the security for registration of transfer or
+initiated the instruction requesting registration of transfer a notification
+stating that:
+(i)  the certificated security has been presented for registration of transfer
+or the instruction for registration of transfer of the uncertificated security
+has been received;
+(ii)  a demand that the issuer not register transfer had previously been
+received; and
+(iii)  the issuer will withhold registration of transfer for a period of time
+stated in the notification in order to provide the person who initiated the
+demand an opportunity to obtain legal process or an indemnity bond.
+(3)  The period described in Subsection (2)(b)(iii) may not exceed 30 days
+after the date of communication of the notification.  A shorter period may be
+specified by the issuer if it is not manifestly unreasonable.
+(4)  An issuer is not liable to a person who initiated a demand that the
+issuer not register transfer for any loss the person suffers as a result of
+registration of a transfer pursuant to an effective indorsement or instruction
+if the person who initiated the demand does not, within the time stated in the
+issuer's communication, either:
+(a)  obtain an appropriate restraining order, injunction, or other process
+from a court of competent jurisdiction enjoining the issuer from registering
+the transfer; or
+(b)  file with the issuer an indemnity bond, sufficient in the issuer's
+judgment to protect the issuer and any transfer agent, registrar, or other
+agent of the issuer involved from any loss it or they may suffer by refusing
+to register the transfer.
+(5)  This section does not relieve an issuer from liability for registering
+transfer pursuant to an indorsement or instruction that was not effective.

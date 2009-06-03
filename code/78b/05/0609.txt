@@ -1,0 +1,3 @@
+78B-5-609.   Proof of execution when subscribing witness denies or forgets.
+If the subscribing witness denies or does not recollect the execution of the
+writing, its execution may still be proved by other evidence.

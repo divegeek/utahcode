@@ -1,0 +1,41 @@
+59-10-1404.5.   Resident pass-through entity taxpayer's share of an
+addition, subtraction, or adjustment that relates to an item of income, gain,
+loss, deduction, or credit of a pass-through entity.
+(1)  In determining the taxable income of a resident pass-through entity
+taxpayer, an addition, subtraction, or adjustment that relates to an item of
+income, gain, loss, deduction, or credit of a pass-through entity shall be
+made in accordance with this section.
+(2)  For a resident pass-through entity taxpayer of a pass-through entity
+except for a pass-through entity that is an S corporation, the resident pass-
+through entity taxpayer's share of an addition, subtraction, or adjustment
+that relates to an item of income, gain, loss, deduction, or credit is:
+(a)  if the item of income, gain, loss, deduction, or credit is required to be
+taken into account separately for federal income tax purposes, the resident
+pass-through entity taxpayer's distributive share of the item of income, gain,
+loss, deduction, or credit:
+(i)  for federal income tax purposes; and
+(ii)  determined under Section 704 et seq., Internal Revenue Code; or
+(b)  if the item of income, gain, loss, deduction, or credit is not required
+to be taken into account separately for federal income tax purposes,
+determined in accordance with the resident pass-through entity taxpayer's
+distributive share of income, gain, loss, deduction, or credit:
+(i)  relating to the pass-through entity generally;
+(ii)  for federal income tax purposes; and
+(iii)  under Section 704 et seq., Internal Revenue Code.
+(3)  For a resident pass-through entity taxpayer of a pass-through entity that
+is an S corporation, the resident pass-through entity taxpayer's share of an
+addition, subtraction, or adjustment that relates to an item of income, gain,
+loss, deduction, or credit is:
+(a)  if the item of income, gain, loss, deduction, or credit is required to be
+taken into account separately for federal income tax purposes, the resident
+pass-through entity taxpayer's pro rata share of the item of income, gain,
+loss, deduction, or credit:
+(i)  for federal income tax purposes; and
+(ii)  determined under Section 1366 et seq., Internal Revenue Code; or
+(b)  if the item of income, gain, loss, deduction, or credit is not required
+to be taken into account separately for federal income tax purposes,
+determined in accordance with the resident pass-through entity taxpayer's pro
+rata share of the item of income, gain, loss, deduction, or credit:
+(i)  relating to the pass-through entity generally;
+(ii)  for federal income tax purposes; and
+(iii)  under Section 1366 et seq., Internal Revenue Code.

@@ -1,0 +1,212 @@
+63G-2-103.   Definitions.
+As used in this chapter:
+(1)  "Audit" means:
+(a)  a systematic examination of financial, management, program, and related
+records for the purpose of determining the fair presentation of financial
+statements, adequacy of internal controls, or compliance with laws and
+regulations; or
+(b)  a systematic examination of program procedures and operations for the
+purpose of determining their effectiveness, economy, efficiency, and
+compliance with statutes and regulations.
+(2)  "Chronological logs" mean the regular and customary summary records of
+law enforcement agencies and other public safety agencies that show:
+(a)  the time and general nature of police, fire, and paramedic calls made to
+the agency; and
+(b)  any arrests or jail bookings made by the agency.
+(3)  "Classification," "classify," and their derivative forms mean determining
+whether a record series, record, or information within a record is public,
+private, controlled, protected, or exempt from disclosure under Subsection
+63G-2-201(3)(b).
+(4) (a)  "Computer program" means:
+(i)  a series of instructions or statements that permit the functioning of a
+computer system in a manner designed to provide storage, retrieval, and
+manipulation of data from the computer system; and
+(ii)  any associated documentation and source material that explain how to
+operate the computer program.
+(b)  "Computer program" does not mean:
+(i)  the original data, including numbers, text, voice, graphics, and images;
+(ii)  analysis, compilation, and other manipulated forms of the original data
+produced by use of the program; or
+(iii)  the mathematical or statistical formulas, excluding the underlying
+mathematical algorithms contained in the program, that would be used if the
+manipulated forms of the original data were to be produced manually.
+(5) (a)  "Contractor" means:
+(i)  any person who contracts with a governmental entity to provide goods or
+services directly to a governmental entity; or
+(ii)  any private, nonprofit organization that receives funds from a
+governmental entity.
+(b)  "Contractor" does not mean a private provider.
+(6)  "Controlled record" means a record containing data on individuals that is
+controlled as provided by Section 63G-2-304.
+(7)  "Designation," "designate," and their derivative forms mean indicating,
+based on a governmental entity's familiarity with a record series or based on
+a governmental entity's review of a reasonable sample of a record series, the
+primary classification that a majority of records in a record series would be
+given if classified and the classification that other records typically
+present in the record series would be given if classified.
+(8)  "Elected official" means each person elected to a state office, county
+office, municipal office, school board or school district office, local
+district office, or special service district office, but does not include
+judges.
+(9)  "Explosive" means a chemical compound, device, or mixture:
+(a)  commonly used or intended for the purpose of producing an explosion; and
+(b)  that contains oxidizing or combustive units or other ingredients in
+proportions, quantities, or packing so that:
+(i)  an ignition by fire, friction, concussion, percussion, or detonator of
+any part of the compound or mixture may cause a sudden generation of highly
+heated gases; and
+(ii)  the resultant gaseous pressures are capable of:
+(A)  producing destructive effects on contiguous objects; or
+(B)  causing death or serious bodily injury.
+(10)  "Government audit agency" means any governmental entity that conducts an
+audit.
+(11) (a)  "Governmental entity" means:
+(i)  executive department agencies of the state, the offices of the governor,
+lieutenant governor, state auditor, attorney general, and state treasurer, the
+Board of Pardons and Parole, the Board of Examiners, the National Guard, the
+Career Service Review Board, the State Board of Education, the State Board of
+Regents, and the State Archives;
+(ii)  the Office of the Legislative Auditor General, Office of the Legislative
+Fiscal Analyst, Office of Legislative Research and General Counsel, the
+Legislature, and legislative committees, except any political party, group,
+caucus, or rules or sifting committee of the Legislature;
+(iii)  courts, the Judicial Council, the Office of the Court Administrator,
+and similar administrative units in the judicial branch;
+(iv)  any state-funded institution of higher education or public education; or
+(v)  any political subdivision of the state, but, if a political subdivision
+has adopted an ordinance or a policy relating to information practices
+pursuant to Section 63G-2-701, this chapter shall apply to the political
+subdivision to the extent specified in Section 63G-2-701 or as specified in
+any other section of this chapter that specifically refers to political
+subdivisions.
+(b)  "Governmental entity" also means every office, agency, board, bureau,
+committee, department, advisory board, or commission of an entity listed in
+Subsection (11)(a) that is funded or established by the government to carry
+out the public's business.
+(12)  "Gross compensation" means every form of remuneration payable for a
+given period to an individual for services provided including salaries,
+commissions, vacation pay, severance pay, bonuses, and any board, rent,
+housing, lodging, payments in kind, and any similar benefit received from the
+individual's employer.
+(13)  "Individual" means a human being.
+(14) (a)  "Initial contact report" means an initial written or recorded
+report, however titled, prepared by peace officers engaged in public patrol or
+response duties describing official actions initially taken in response to
+either a public complaint about or the discovery of an apparent violation of
+law, which report may describe:
+(i)  the date, time, location, and nature of the complaint, the incident, or
+offense;
+(ii)  names of victims;
+(iii)  the nature or general scope of the agency's initial actions taken in
+response to the incident;
+(iv)  the general nature of any injuries or estimate of damages sustained in
+the incident;
+(v)  the name, address, and other identifying information about any person
+arrested or charged in connection with the incident; or
+(vi)  the identity of the public safety personnel, except undercover
+personnel, or prosecuting attorney involved in responding to the initial
+incident.
+(b)  Initial contact reports do not include follow-up or investigative reports
+prepared after the initial contact report.  However, if the information
+specified in Subsection (14)(a) appears in follow-up or investigative reports,
+it may only be treated confidentially if it is private, controlled, protected,
+or exempt from disclosure under Subsection 63G-2-201(3)(b).
+(15)  "Legislative body" means the Legislature.
+(16)  "Notice of compliance" means a statement confirming that a governmental
+entity has complied with a records committee order.
+(17)  "Person" means:
+(a)  an individual;
+(b)  a nonprofit or profit corporation;
+(c)  a partnership;
+(d)  a sole proprietorship;
+(e)  other type of business organization; or
+(f)  any combination acting in concert with one another.
+(18)  "Private provider" means any person who contracts with a governmental
+entity to provide services directly to the public.
+(19)  "Private record" means a record containing data on individuals that is
+private as provided by Section 63G-2-302.
+(20)  "Protected record" means a record that is classified protected as
+provided by Section 63G-2-305.
+(21)  "Public record" means a record that is not private, controlled, or
+protected and that is not exempt from disclosure as provided in Subsection
+63G-2-201(3)(b).
+(22) (a)  "Record" means a book, letter, document, paper, map, plan,
+photograph, film, card, tape, recording, electronic data, or other documentary
+material regardless of physical form or characteristics:
+(i)  that is prepared, owned, received, or retained by a governmental entity
+or political subdivision; and
+(ii)  where all of the information in the original is reproducible by
+photocopy or other mechanical or electronic means.
+(b)  "Record" does not mean:
+(i)  a personal note or personal communication prepared or received by an
+employee or officer of a governmental entity in the employee's or officer's
+private capacity;
+(ii)  a temporary draft or similar material prepared for the originator's
+personal use or prepared by the originator for the personal use of an
+individual for whom the originator is working;
+(iii)  material that is legally owned by an individual in the individual's
+private capacity;
+(iv)  material to which access is limited by the laws of copyright or patent
+unless the copyright or patent is owned by a governmental entity or political
+subdivision;
+(v)  proprietary software;
+(vi)  junk mail or a commercial publication received by a governmental entity
+or an official or employee of a governmental entity;
+(vii)  a book that is cataloged, indexed, or inventoried and contained in the
+collections of a library open to the public;
+(viii)  material that is cataloged, indexed, or inventoried and contained in
+the collections of a library open to the public, regardless of physical form
+or characteristics of the material;
+(ix)  a daily calendar or other personal note prepared by the originator for
+the originator's personal use or for the personal use of an individual for
+whom the originator is working;
+(x)  a computer program that is developed or purchased by or for any
+governmental entity for its own use;
+(xi)  a note or internal memorandum prepared as part of the deliberative
+process by:
+(A)  a member of the judiciary;
+(B)  an administrative law judge;
+(C)  a member of the Board of Pardons and Parole; or
+(D)  a member of any other body charged by law with performing a quasi-
+judicial function;
+(xii)  a telephone number or similar code used to access a mobile
+communication device that is used by an employee or officer of a governmental
+entity, provided that the employee or officer of the governmental entity has
+designated at least one business telephone number that is a public record as
+provided in Section 63G-2-301;
+(xiii)  information provided by the Public Employees' Benefit and Insurance
+Program, created in Section 49-20-103, to a county to enable the county to
+calculate the amount to be paid to a health care provider under Subsection
+17-50-319(2)(b)(ii); or
+(xiv)  information that an owner of unimproved property provides to a local
+entity as provided in Section 11-42-205.
+(23)  "Record series" means a group of records that may be treated as a unit
+for purposes of designation, description, management, or disposition.
+(24)  "Records committee" means the State Records Committee created in Section
+63G-2-501.
+(25)  "Records officer" means the individual appointed by the chief
+administrative officer of each governmental entity, or the political
+subdivision to work with state archives in the care, maintenance, scheduling,
+designation, classification, disposal, and preservation of records.
+(26)  "Schedule," "scheduling," and their derivative forms mean the process of
+specifying the length of time each record series should be retained by a
+governmental entity for administrative, legal, fiscal, or historical purposes
+and when each record series should be transferred to the state archives or
+destroyed.
+(27)  "Sponsored research" means research, training, and other sponsored
+activities as defined by the federal Executive Office of the President, Office
+of Management and Budget:
+(a)  conducted:
+(i)  by an institution within the state system of higher education defined in
+Section 53B-1-102; and
+(ii)  through an office responsible for sponsored projects or programs; and
+(b)  funded or otherwise supported by an external:
+(i)  person that is not created or controlled by the institution within the
+state system of higher education; or
+(ii)  federal, state, or local governmental entity.
+(28)  "State archives" means the Division of Archives and Records Service
+created in Section 63A-12-101.
+(29)  "State archivist" means the director of the state archives.
+(30)  "Summary data" means statistical records and compilations that contain
+data derived from private, controlled, or protected information but that do
+not disclose private, controlled, or protected information.

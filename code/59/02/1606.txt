@@ -1,0 +1,35 @@
+59-2-1606.    CAMA system funding for counties -- Disbursements to the
+Multicounty Appraisal Trust -- Use of funds.
+(1)  As used in this section:
+(a)  "CAMA" means computer assisted mass appraisal.
+(b)  "CAMA fee rate" means:
+(i)  $1.50 for the calendar year that begins on January 1, 2009; and
+(ii)  for a calendar year beginning on or after January 1, 2010, the $1.50
+described in Subsection (1)(b)(i) may be increased each year up to 2% at the
+discretion of the Multicounty Appraisal Trust.
+(c) (i)  "County parcel count" means the total number of residential parcels,
+commercial parcels, and other parcels within a county.
+(ii)  "County parcel count" does not include a county's parcel factor as
+described in Subsection 59-2-1603(3)(d).
+(d)  "Factored parcel count" means the product of:
+(i)  a county's parcel count; and
+(ii)  the county's class factor described in Subsection 59-2-1603(3)(e).
+(e)  "Multicounty Appraisal Trust" means the Multicounty Appraisal Trust
+created by interlocal agreement by all 29 counties in the state.
+(2)  For a calendar year beginning on or after January 1, 2009, before
+determining the amount of each county's multicounty assessing and collecting
+allocation in accordance with Subsection 59-2-1603(3), the state auditor shall
+disburse to the Multicounty Appraisal Trust an amount of revenue equal to the
+product of:
+(a)  the sum of the factored parcel counts for all second through sixth class
+counties; and
+(b)  the CAMA fee rate.
+(3) (a)  The funds described in Subsection (2) shall be used to provide
+funding for a statewide CAMA system that will promote:
+(i)  the accurate valuation of property;
+(ii)  the establishment and maintenance of uniform assessment levels among
+counties within the state; and
+(iii)  efficient administration of the property tax system, including the
+costs of assessment, collection, and distribution of property taxes.
+(b)  The Multicounty Appraisal Trust shall determine which projects shall be
+funded and oversee the administration of a statewide CAMA system.

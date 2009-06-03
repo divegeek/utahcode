@@ -1,0 +1,79 @@
+59-2-108.   Depreciation schedule for certain taxable tangible personal
+property.
+(1)  As used in this section:
+(a) (i)  "Acquisition cost" means all costs required to put an item of
+tangible personal property into service; and
+(ii)  includes:
+(A)  the purchase price for a new or used item;
+(B)  the cost of freight and shipping;
+(C)  the cost of installation, engineering, erection, or assembly; and
+(D)  sales and use taxes.
+(b)  "Expensed personal property" means an item of taxable tangible personal
+property that:
+(i)  has an acquisition cost of $1,000 or less; and
+(ii)  a person elects to have assessed according to a schedule described in
+Subsection (4).
+(c) (i)  "Item of taxable tangible personal property" does not include an
+improvement to real property or a part that will become an improvement.
+(ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, the commission may make rules defining the term "item of taxable tangible
+personal property."
+(d) (i)  "Short life expensed personal property" means expensed personal
+property that is the same type as the following personal property:
+(A)  short life property;
+(B)  short life trade fixtures; or
+(C)  computer hardware.
+(ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, the commission may make rules defining the following terms:
+(A)  "short life property";
+(B)  "short life trade fixtures"; and
+(C)  "computer hardware."
+(e)  "Taxable tangible personal property" means tangible personal property
+that is subject to taxation under this chapter.
+(2) (a)  A person may elect to designate taxable tangible personal property as
+expensed personal property.
+(b)  A county shall not require a person to:
+(i)  itemize expensed personal property on the signed statement described in
+Section 59-2-306; and
+(ii)  track expensed personal property.
+(c)  If a taxpayer's expensed personal property is audited in accordance with
+Subsection 59-2-306(3), a taxpayer shall provide proof of the acquisition cost
+of the expensed personal property.
+(3) (a)  An election to designate taxable tangible personal property as
+expensed personal property under this section may not be revoked.
+(b)  Except as provided in Subsection (3)(d), if an item of taxable tangible
+personal property is designated as expensed personal property, the person must
+pay taxes according to the taxable value determined by the schedule for a term
+designated by a schedule described in Subsection (4).
+(c)  If a person sells or otherwise disposes of an item of expensed personal
+property prior to the time period described in Subsection (3)(b) or (d), the
+person shall continue to pay taxes according to the schedule described in
+Subsection (4).
+(d)  If a person elects to designate an item of taxable tangible personal
+property acquired before December 31, 2008, as expensed personal property at a
+time after the first year after the item is acquired, the person must pay
+taxes according to the taxable value determined by the schedule for a time
+period that equals:
+(i)  the time period designated in Subsection (3)(b); less
+(ii)  the time period beginning when the person acquired the item of expensed
+personal property and ending when the person designated the item as short life
+expensed personal property.
+(e)  If a person elects to designate taxable tangible personal property as
+expensed personal property in accordance with Subsection (2)(a), the person
+may not appeal the values described in Subsection (4).
+(4) (a)  For the taxable year beginning on January 1, 2009 and ending on
+December 31, 2009, the taxable value of short life expensed personal property
+is calculated by applying the percent good factor against the acquisition cost
+of the property as follows:
+Short Life Expensed Personal Property Schedule
+Year of                                         Percent Good of
+Acquisition                                             Acquisition Cost
+2008                                                            69%
+2007                                                            52%
+2006                                                            30%
+2005                                                            17%
+2004                                                            11%
+(b)  For taxable years beginning on or after January 1, 2010, the taxable
+value of short life expensed personal property shall be assessed according to
+a schedule developed by the commission in accordance with Title 63G, Chapter
+3, Utah Administrative Rulemaking Act.

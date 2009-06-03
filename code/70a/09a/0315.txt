@@ -1,0 +1,37 @@
+70A-9a-315.   Secured party's rights on disposition of collateral and in
+proceeds.
+(1)  Except as otherwise provided in this chapter and in Subsection
+70A-2-403(2):
+(a)  a security interest or agricultural lien continues in collateral
+notwithstanding sale, lease, license, exchange, or other disposition thereof
+unless the secured party authorized the disposition free of the security
+interest or agricultural lien; and
+(b)  a security interest attaches to any identifiable proceeds of collateral.
+(2)  Proceeds that are commingled with other property are identifiable
+proceeds:
+(a)  if the proceeds are goods, to the extent provided by Section 70A-9a-336;
+and
+(b)  if the proceeds are not goods, to the extent that the secured party
+identifies the proceeds by a method of tracing, including application of
+equitable principles, that is permitted under law other than this chapter with
+respect to commingled property of the type involved.
+(3)  A security interest in proceeds is a perfected security interest if the
+security interest in the original collateral was perfected.
+(4)  A perfected security interest in proceeds becomes unperfected on the 21st
+day after the security interest attaches to the proceeds unless:
+(a)  the following conditions are satisfied:
+(i)  a filed financing statement covers the original collateral;
+(ii)  the proceeds are collateral in which a security interest may be
+perfected by filing in the office in which the financing statement has been
+filed; and
+(iii)  the proceeds are not acquired with cash proceeds;
+(b)  the proceeds are identifiable cash proceeds; or
+(c)  the security interest in the proceeds is perfected other than under
+Subsection (3) when the security interest attaches to the proceeds or within
+20 days thereafter.
+(5)  If a filed financing statement covers the original collateral, a security
+interest in proceeds which remains perfected under Subsection (4)(a) becomes
+unperfected at the later of:
+(a)  when the effectiveness of the filed financing statement lapses under
+Section 70A-9a-515 or is terminated under Section 70A-9a-513; or
+(b)  the 21st day after the security interest attaches to the proceeds.

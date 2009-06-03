@@ -1,0 +1,24 @@
+70A-7a-106.   Control of electronic document of title.
+(1)  A person has control of an electronic document of title if a system
+employed for evidencing the transfer of interests in the electronic document
+reliably establishes that person as the person to which the electronic
+document was issued or transferred.
+(2)  A system satisfies Subsection (1), and a person is considered to have
+control of an electronic document of title, if the document is created,
+stored, and assigned in such a manner that:
+(a)  a single authoritative copy of the document exists which is unique,
+identifiable, and, except as otherwise provided in Subsections (2)(d), (e),
+and (f), unalterable;
+(b)  the authoritative copy identifies the person asserting control as:
+(i)  the person to which the document was issued; or
+(ii)  if the authoritative copy indicates that the document has been
+transferred, the person to which the document was most recently transferred;
+(c)  the authoritative copy is communicated to and maintained by the person
+asserting control or its designated custodian;
+(d)  copies or amendments that add or change an identified assignee of the
+authoritative copy can be made only with the consent of the person asserting
+control;
+(e)  each copy of the authoritative copy and any copy of a copy is readily
+identifiable as a copy that is not the authoritative copy; and
+(f)  any amendment of the authoritative copy is readily identifiable as
+authorized or unauthorized.

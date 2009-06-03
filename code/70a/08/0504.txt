@@ -1,0 +1,19 @@
+70A-8-504.   Duty of securities intermediary to maintain financial asset.
+(1)  A securities intermediary shall promptly obtain and thereafter maintain a
+financial asset in a quantity corresponding to the aggregate of all security
+entitlements it has established in favor of its entitlement holders with
+respect to that financial asset.  The securities intermediary may maintain
+those financial assets directly or through one or more other securities
+intermediaries.
+(2)  Except to the extent otherwise agreed by its entitlement holder, a
+securities intermediary may not grant any security interests in a financial
+asset it is obligated to maintain pursuant to Subsection (1).
+(3)  A securities intermediary satisfies the duty in Subsection (1) if:
+(a)  the securities intermediary acts with respect to the duty as agreed upon
+by the entitlement holder and the securities intermediary; or
+(b)  in the absence of agreement, the securities intermediary exercises due
+care in accordance with reasonable commercial standards to obtain and maintain
+the financial asset.
+(4)  This section does not apply to a clearing corporation that is itself the
+obligor of an option or similar obligation to which its entitlement holders
+have security entitlements.

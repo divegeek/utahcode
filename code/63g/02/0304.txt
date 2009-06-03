@@ -1,0 +1,11 @@
+63G-2-304.   Controlled records.
+A record is controlled if:
+(1)  the record contains medical, psychiatric, or psychological data about an
+individual;
+(2)  the governmental entity reasonably believes that:
+(a)  releasing the information in the record to the subject of the record
+would be detrimental to the subject's mental health or to the safety of any
+individual; or
+(b)  releasing the information would constitute a violation of normal
+professional practice and medical ethics; and
+(3)  the governmental entity has properly classified the record.

@@ -1,0 +1,53 @@
+70A-5-108.   Issuer's rights and obligations.
+(1)  Except as otherwise provided in Section 70A-5-109, an issuer shall honor
+a presentation that, as determined by the standard practice referred to in
+Subsection (5), appears on its face strictly to comply with the terms and
+conditions of the letter of credit.  Except as otherwise provided in Section
+70A-5-113 and unless otherwise agreed with the applicant, an issuer shall
+dishonor a presentation that does not appear so to comply.
+(2)  An issuer has a reasonable time after presentation, but not beyond the
+end of the seventh business day of the issuer after the day of its receipt of
+documents:
+(a)  to honor;
+(b)  if the letter of credit provides for honor to be completed more than
+seven business days after presentation, to accept a draft or incur a deferred
+obligation; or
+(c)  to give notice to the presenter of discrepancies in the presentation.
+(3)  Except as otherwise provided in Subsection (4), an issuer is precluded
+from asserting as a basis for dishonor any discrepancy if timely notice is not
+given, or any discrepancy not stated in the notice if timely notice is given.
+(4)  Failure to give the notice specified in Subsection (2) or to mention
+fraud, forgery, or expiration in the notice does not preclude the issuer from
+asserting as a basis for dishonor fraud or forgery as described in Subsection
+70A-5-109(1) or expiration of the letter of credit before presentation.
+(5)  An issuer shall observe standard practice of financial institutions that
+regularly issue letters of credit.  Determination of the issuer's observance
+of the standard practice is a matter of interpretation for the court.  The
+court shall offer the parties a reasonable opportunity to present evidence of
+the standard practice.
+(6)  An issuer is not responsible for:
+(a)  the performance or nonperformance of the underlying contract,
+arrangement, or transaction;
+(b)  an act or omission of others; or
+(c)  observance or knowledge of the usage of a particular trade other than the
+standard practice referred to in Subsection (5).
+(7)  If an undertaking constituting a letter of credit under Subsection
+70A-5-102(10) contains nondocumentary conditions, an issuer shall disregard
+the nondocumentary conditions and treat them as if they were not stated.
+(8)  An issuer that has dishonored a presentation shall return the documents
+or hold them at the disposal of, and send advice to that effect to, the
+presenter.
+(9)  An issuer that has honored a presentation as permitted or required by
+this chapter:
+(a)  is entitled to be reimbursed by the applicant in immediately available
+funds not later than the date of its payment of funds;
+(b)  takes the documents free of claims of the beneficiary or presenter;
+(c)  is precluded from asserting a right of recourse on a draft under Sections
+70A-3-414 and 70A-3-415;
+(d)  except as otherwise provided in Sections 70A-5-110 and 70A-5-117, is
+precluded from restitution of money paid or other value given by mistake to
+the extent the mistake concerns discrepancies in the documents or tender which
+are apparent on the face of the presentation; and
+(e)  is discharged to the extent of its performance under the letter of credit
+unless the issuer honored a presentation in which a required signature of a
+beneficiary was forged.

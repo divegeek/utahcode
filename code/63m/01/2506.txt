@@ -1,0 +1,67 @@
+63M-1-2506.    Health benefit plan information on Internet portal -- Insurer
+transparency.
+(1) (a)  The office shall adopt administrative rules in accordance with Title
+63G, Chapter 3, Utah Administrative Rulemaking Act, that:
+(i)  establish uniform electronic standards for:
+(A)  a health insurer to use when:
+(I)  transmitting information to the Internet portal; or
+(II)  receiving information from the Internet portal; and
+(B)  facilitating the transmission and receipt of premium payments from
+multiple sources in the defined contribution arrangement market;
+(ii)  designate the level of detail that would be helpful for a concise
+consumer comparison of the items described in Subsections (4)(a) through (d)
+on the Internet portal; and
+(iii)  assist the risk adjuster board created under Title 31A, Chapter 42,
+Defined Contribution Risk Adjuster Act, and carriers participating in the
+defined contribution market on the Internet portal with the determination of
+when an employer is eligible to participate in the Internet portal defined
+contribution market under Title 31A, Chapter 30, Part 2, Defined Contribution
+Arrangements.
+(b)  The office shall post or facilitate the posting of:
+(i)   the information required by this section on the Internet portal created
+by this part; and
+(ii)  links to websites that provide cost and quality information from the
+Department of Health Data Committee or neutral entities with a broad base of
+support from the provider and payer communities.
+(2)  A health insurer shall use the uniform electronic standards when
+transmitting information to the Internet portal or receiving information from
+the Internet portal.
+(3) (a)  An insurer who participates in the defined contribution arrangement
+market under Title 31A, Chapter 30, Part 2, Defined Contribution Arrangements,
+shall post all plans offered in that market on the Internet portal and shall
+comply with the provisions of this section.
+(b)  An insurer who offers products under Title 31A, Chapter 30, Part 1,
+Individual and Small Employer Group:
+(i)  shall post the basic benefit plan required by Section 31A-22-613.5 for
+individual and small employer group plans on the Internet portal if the
+insurer's plans are offered to the general public;
+(ii)  may publish any other health benefit plans that it offers on the
+Internet portal; and
+(iii)  shall comply with the provisions of this section for every health
+benefit plan it posts on the Internet portal.
+(4)  A health insurer shall provide the Internet portal with the following
+information for each health benefit plan submitted to the Internet portal:
+(a)  plan design, benefits, and options offered by the health benefit plan
+including state mandates the plan does not cover;
+(b)  provider networks;
+(c)  wellness programs and incentives;
+(d)  descriptions of prescription drug benefits, exclusions, or limitations;
+and
+(e)  at the same time as information is submitted under Subsection
+31A-30-208(2), the following operational measures for each health insurer that
+submits information to the Internet portal:
+(i)  the percentage of claims paid by the insurer within 30 days of the date a
+claim is submitted to the insurer for the prior year; and
+(ii)  the number of adverse benefit determinations by the insurer which were
+subsequently overturned on independent review under Section 31A-22-629 as a
+percentage of total claims paid by the insurer for the prior year.
+(5)  The Insurance Department shall post on the Internet portal the Insurance
+Department's solvency rating for each insurer who posts a health benefit plan
+on the Internet portal.  The solvency rating for each carrier shall be based
+on methodology established by the Insurance Department by administrative rule
+and shall be updated each calendar year.
+(6)  The commissioner may request information from an insurer under Section
+31A-22-613.5 to verify the data submitted to the Internet portal under this
+section.
+(7)  A health insurer shall accept and process an application for a health
+benefit plan from the Internet portal in accordance with Section 31A-22-635.

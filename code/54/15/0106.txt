@@ -1,0 +1,33 @@
+54-15-106.   Customer to provide equipment necessary to meet applicable code
+requirements -- Governing authority may adopt additional reasonable
+requirements -- Testing and inspection of interconnection.
+(1)  Each customer participating in a net metering program shall provide at
+the customer's expense all equipment necessary to meet applicable local and
+national standards regarding electrical and fire safety, power quality, and
+interconnection requirements established by the National Electrical Code, the
+National Electrical Safety Code, the Institute of Electrical and Electronics
+Engineers, and Underwriters Laboratories.
+(2)  After appropriate notice and opportunity for public comment, the
+governing authority may by rule adopt additional reasonable safety, power
+quality, and interconnection requirements for customer generation systems that
+the governing authority considers to be necessary to protect public safety and
+system reliability.
+(3) (a)  If a customer participating in a net metering program complies with
+requirements referred to under Subsection (1) and additional requirements
+established under Subsection (2), an electrical corporation may not require
+that customer to:
+(i)  perform or pay for additional tests; or
+(ii)  purchase additional liability insurance.
+(b)  An electrical corporation may not be held directly or indirectly liable
+for permitting or continuing to permit an interconnection of a customer
+generation system to the electrical corporation's system or for an act or
+omission of a customer participating in a net metering program for loss,
+injury, or death to a third party.
+(4)  An electrical corporation may test and inspect an interconnection at
+times that the electrical corporation considers necessary to ensure the safety
+of electrical workers and to preserve the integrity of the electric power
+grid.
+(5)  The electrical function, operation, or capacity of a customer generation
+system, at the point of connection to the electrical corporation's
+distribution system, may not compromise the quality of service to the
+electrical corporation's other customers.

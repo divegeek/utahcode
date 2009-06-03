@@ -1,0 +1,28 @@
+59-7-311.   Method of apportionment of business income.
+(1)  All business income shall be apportioned to this state by multiplying the
+business income by a fraction calculated as provided in Subsection (2).
+(2)  The fraction described in Subsection (1) is calculated as follows:
+(a)  for a taxpayer that does not make an election authorized by Subsection
+(3):
+(i)  the numerator of the fraction is the sum of:
+(A)  the property factor as calculated under Section 59-7-312;
+(B)  the payroll factor as calculated under Section 59-7-315; and
+(C)  the sales factor as calculated under Section 59-7-317; and
+(ii)  the denominator of the fraction is three; and
+(b)  for a taxpayer that makes an election authorized by Subsection (3):
+(i)  the numerator of the fraction is the sum of:
+(A)  the property factor as calculated under Section 59-7-312;
+(B)  the payroll factor as calculated under Section 59-7-315; and
+(C)  the product of:
+(I)  the sales factor as calculated under Section 59-7-317; and
+(II)  two; and
+(ii)  the denominator of the fraction is four.
+(3) (a)  For purposes of Subsection (2) and subject to Subsection (3)(b), for
+taxable years beginning on or after January 1, 2006, a taxpayer may elect to
+calculate the fraction for apportioning business income under this section in
+accordance with Subsection (2)(b).
+(b)  If a taxpayer makes the election described in Subsection (3)(a), the
+taxpayer may not revoke the election for a period of five taxable years.
+(c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, the commission may make rules providing procedures for a taxpayer to make
+the election described in Subsection (3)(a).
