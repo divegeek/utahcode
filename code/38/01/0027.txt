@@ -1,7 +1,7 @@
-38-1-27 (Superseded 10/01/09).   State Construction Registry -- Form and
-contents of notice of commencement, preliminary notice, and notice of
-completion.
-(1)  As used in this section and Sections 38-1-30 through 38-1-37:
+38-1-27.   State Construction Registry -- Form and contents of notice of
+commencement, preliminary notice, and notice of completion.
+(1)  As used in this section, Sections 38-1-30 through 38-1-37, and Section
+38-1-40:
 (a)  "Alternate filing" means a legible and complete filing made in a manner
 established by the division under Subsection (2)(e) other than an electronic
 filing.
@@ -35,8 +35,10 @@ construction projects throughout Utah;
 (d)  be accessible for filing and review by way of the program Internet
 website of:
 (i)  notices of commencement;
-(ii)  preliminary notices; and
-(iii)  notices of completion;
+(ii)  preliminary notices;
+(iii)  a notice of intent to file notice of final completion;
+(iv)  a notice for remaining amounts due to complete the contract; and
+(v)  notices of completion;
 (e)  accommodate:
 (i)  electronic filing of the notices described in Subsection (2)(d); and
 (ii)  alternate filing of the notices described in Subsection (2)(d) by U.S.
@@ -73,11 +75,13 @@ in collaboration with the designated agent.
 division shall establish the fees for:
 (i)  a notice of commencement;
 (ii)  a preliminary notice;
-(iii)  a notice of completion;
-(iv)  a request for notice;
-(v)  providing a required notice by an alternate method of delivery;
-(vi)  a duplicate receipt of a filing; and
-(vii)  account setup for a person who wishes to be billed periodically for
+(iii)  a notice of intent to file notice of final completion;
+(iv)  a notice for remaining amounts due to complete the contract;
+(v)  a notice of completion;
+(vi)  a request for notice;
+(vii)  providing a required notice by an alternate method of delivery;
+(viii)  a duplicate receipt of a filing; and
+(ix)  account setup for a person who wishes to be billed periodically for
 filings with the database.
 (b)  The fees allowed under Subsection (4)(a) may not exceed the amount
 reasonably necessary to create and maintain the database.

@@ -2,6 +2,6 @@
 (1)  When the division receives a report of the conviction or plea in abeyance
 of a nonresident holder of a CDL for a violation of a state law or local
 ordinance relating to traffic control, the division shall notify the driver
-licensing authority in the licensing state within ten days of receipt of the
+licensing authority in the licensing state within 10 days of receipt of the
 report.
 (2)  This section does not apply to parking violations.

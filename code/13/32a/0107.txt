@@ -1,7 +1,7 @@
 13-32a-107.   Deadline for registers to be electronic -- Notice for
 updating.
 (1)  On and after January 1, 2005, each pawn and secondhand business in the
-state that generates ten or more pawn transactions per month or 50 or more
+state that generates 10 or more pawn transactions per month or 50 or more
 sales transactions per month shall maintain the register in an electronic
 format that is compatible with the central database computer system.
 (2) (a)  On and after January 15, 2005, pawn and secondhand businesses under

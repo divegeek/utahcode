@@ -11,9 +11,9 @@ record the prosecutor's agreement;
 (c)  the court receives verification from a law enforcement agency that the
 defendant's driver license record contains no record of a conviction, arrest,
 or charge for:
-(i)  more than one prior violation within the previous ten years of any
-offense which, if the defendant were convicted, would qualify as a
-"conviction" as defined under Subsection 41-6a-501(2);
+(i)  more than one prior violation within the previous 10 years of any offense
+which, if the defendant were convicted, would qualify as a "conviction" as
+defined under Subsection 41-6a-501(2);
 (ii)  a felony violation of Section 41-6a-502; or
 (iii)  automobile homicide under Section 76-5-207.
 (2)  A verification under Subsection (1)(c) may be made by:

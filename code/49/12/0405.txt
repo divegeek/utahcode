@@ -7,7 +7,7 @@ died if the following requirements are met:
 (a)  the member has:
 (i)  25 or more years of service credit;
 (ii)  attained age 60 with 20 or more years of service credit;
-(iii)  attained age 62 with ten or more years of service credit; or
+(iii)  attained age 62 with 10 or more years of service credit; or
 (iv)  attained age 65 with four or more years of service credit; and
 (b)  the member dies leaving a spouse to whom the member has been married at
 least six months immediately prior to the death date.

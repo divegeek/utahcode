@@ -54,7 +54,7 @@ using the vehicle with the permission of the owner.
 (l)  The motor vehicle was legally stopped at a stop sign, traffic signal, or
 at the direction of a peace officer at the time of the accident.
 (3) (a)  If an operator who is required to file post-accident security under
-Subsection (1) does not do so within ten days after receiving notice of the
+Subsection (1) does not do so within 10 days after receiving notice of the
 requirement of security, the department shall suspend the driver's license of
 the operator and all registrations of the owner, if he is a resident of the
 state.

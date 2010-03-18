@@ -1,8 +1,7 @@
-53-3-205 (Superseded 01/01/10).   Application for license or endorsement --
-Fee required -- Tests -- Expiration dates of licenses and endorsements --
-Information required -- Previous licenses surrendered -- Driving record
-transferred from other states -- Reinstatement -- Fee required -- License
-agreement.
+53-3-205.   Application for license or endorsement -- Fee required -- Tests
+-- Expiration dates of licenses and endorsements -- Information required --
+Previous licenses surrendered -- Driving record transferred from other states
+-- Reinstatement -- Fee required -- License agreement.
 (1)  An application for any original license, provisional license, or
 endorsement shall be:
 (a)  made upon a form furnished by the division; and
@@ -51,34 +50,26 @@ extended.
 license expires on the same date as the last license certificate issued.
 (d)  An endorsement to a license expires on the same date as the license
 certificate regardless of the date the endorsement was granted.
-(e)  A license and any endorsement to the license held by a person ordered to
-active duty and stationed outside Utah in any of the armed forces of the
-United States, which expires during the time period the person is stationed
-outside of the state, is valid until 90 days after the person has been
-discharged or has left the service, unless:
+(e)  A regular license certificate and any endorsement to the regular license
+certificate held by a person ordered to active duty and stationed outside Utah
+in any of the armed forces of the United States, which expires during the time
+period the person is stationed outside of the state, is valid until 90 days
+after the person has been discharged or has left the service, unless:
 (i)  the license is suspended, disqualified, denied, or has been cancelled or
 revoked by the division; or
 (ii)  the licensee updates the information or photograph on the license
 certificate.
-(f)  An original license or a renewal to an original license obtained using
-proof under Subsection (8)(a)(i)(E)(III) expires on the date of the expiration
-of the applicant's foreign visa, permit, or other document granting legal
-presence in the United States or on the date provided under this Subsection
-(7), whichever is sooner.
-(g) (i)  An original license or a renewal or a duplicate to an original
-license expires on the next birth date of the applicant or licensee beginning
-on July 1, 2005 if:
-(A)  the license was obtained without using a Social Security number as
-required under Subsection (8); and
-(B)  the license certificate or driving privilege card is not clearly
-distinguished as required under Subsection 53-3-207(6).
-(ii)  A driving privilege card issued or renewed under Section 53-3-207
-expires on the birth date of the applicant in the first year following the
-year that the driving privilege card was issued or renewed.
-(iii)  The expiration dates provided under Subsections (7)(g)(i) and (ii) do
-not apply to an original license or driving privilege card or to the renewal
-of an original license or driving privilege card with an expiration date
-provided under Subsection (7)(f).
+(f)  A limited-term license certificate or a renewal to a limited-term license
+certificate expires:
+(i)  on the expiration date of the period of time of the individual's
+authorized stay in the United States or on the date provided under this
+Subsection (7), whichever is sooner; or
+(ii)  on the birth date of the applicant in the first year following the year
+that the limited-term license certificate was issued if there is no definite
+end to the individual's period of authorized stay.
+(g)  A driving privilege card issued or renewed under Section 53-3-207 expires
+on the birth date of the applicant in the first year following the year that
+the driving privilege card was issued or renewed.
 (h)  An original license or a renewal to an original license expires on the
 birth date of the applicant in the first year following the year that the
 license was issued if the applicant is required to register as a sex offender
@@ -90,50 +81,64 @@ shall:
 (A)  full legal name;
 (B)  birth date;
 (C)  gender;
-(D)  between July 1, 2002 and July 1, 2007, race in accordance with the
-categories established by the United States Census Bureau;
-(E) (I)  Social Security number;
-(II)  temporary identification number (ITIN) issued by the Internal Revenue
-Service for a person who does not qualify for a Social Security number; or
-(III) (Aa)  proof that the applicant is a citizen of a country other than the
+(D) (I)  documentary evidence of the applicant's valid Social Security number;
+(II)  written proof that the applicant is ineligible to receive a Social
+Security number;
+(III)  temporary identification number (ITIN) issued by the Internal Revenue
+Service for a person who:
+(Aa)  does not qualify for a Social Security number; and
+(Bb)  is applying for a driving privilege card; or
+(IV)  other documentary evidence approved by the division; and
+(E)  Utah residence address as documented by a form or forms acceptable under
+rules made by the division under Section 53-3-104, unless the application is
+for a temporary CDL issued under Subsection 53-3-407(2)(b);
+(ii)  provide evidence of the applicant's lawful presence in the United States
+by providing documentary evidence:
+(A)  that a person is:
+(I)  a United States citizen;
+(II)  a national; or
+(III)  a legal permanent resident alien; or
+(B)  of the applicant's:
+(I)  unexpired immigrant or nonimmigrant visa status for admission into the
 United States;
-(Bb)  proof that the applicant does not qualify for a Social Security number;
-and
-(Cc)  proof of legal presence in the United States, as authorized under
-federal law; and
-(F)  Utah residence address as documented by a form acceptable under rules
-made by the division under Section 53-3-104, unless the application is for a
-temporary CDL issued under Subsection 53-3-407(2)(b);
-(ii)  provide a description of the applicant;
-(iii)  state whether the applicant has previously been licensed to drive a
+(II)  pending or approved application for asylum in the United States;
+(III)  admission into the United States as a refugee;
+(IV)  pending or approved application for temporary protected status in the
+United States;
+(V)  approved deferred action status; or
+(VI)  pending application for adjustment of status to legal permanent resident
+or conditional resident;
+(iii)  provide a description of the applicant;
+(iv)  state whether the applicant has previously been licensed to drive a
 motor vehicle and, if so, when and by what state or country;
-(iv)  state whether the applicant has ever had any license suspended,
-cancelled, revoked, disqualified, or denied in the last ten years, or whether
+(v)  state whether the applicant has ever had any license suspended,
+cancelled, revoked, disqualified, or denied in the last 10 years, or whether
 the applicant has ever had any license application refused, and if so, the
 date of and reason for the suspension, cancellation, revocation,
 disqualification, denial, or refusal;
-(v)  state whether the applicant intends to make an anatomical gift under
+(vi)  state whether the applicant intends to make an anatomical gift under
 Title 26, Chapter 28, Revised Uniform Anatomical Gift Act, in compliance with
 Subsection (15);
-(vi)  state whether the applicant is required to register as a sex offender
+(vii)  state whether the applicant is required to register as a sex offender
 under Section 77-27-21.5;
-(vii)  state whether the applicant is a military veteran and does or does not
+(viii)  state whether the applicant is a military veteran and does or does not
 authorize sharing the information with the state Department of Veterans'
 Affairs;
-(viii)  provide all other information the division requires; and
-(ix)  sign the application which signature may include an electronic signature
+(ix)  provide all other information the division requires; and
+(x)  sign the application which signature may include an electronic signature
 as defined in Section 46-4-102.
 (b)  Each applicant shall have a Utah residence address, unless the
 application is for a temporary CDL issued under Subsection 53-3-407(2)(b).
-(c)  The division shall maintain on its computerized records an applicant's:
+(c)  Each applicant shall provide evidence of lawful presence in the United
+States in accordance with Subsection (8)(a)(ii), unless the application is for
+a driving privilege card.
+(d)  The division shall maintain on its computerized records an applicant's:
 (i) (A)  Social Security number;
 (B)  temporary identification number (ITIN); or
-(C)  other number assigned by the division if Subsection (8)(a)(i)(E)(III)
+(C)  other number assigned by the division if Subsection (8)(a)(i)(D)(IV)
 applies; and
 (ii)  indication whether the applicant is required to register as a sex
 offender under Section 77-27-21.5.
-(d)  An applicant may not be denied a license for refusing to provide race
-information required under Subsection (8)(a)(i)(D).
 (9)  The division shall require proof of every applicant's name, birthdate,
 and birthplace by at least one of the following means:
 (a)  current license certificate;
@@ -141,10 +146,11 @@ and birthplace by at least one of the following means:
 (c)  Selective Service registration; or
 (d)  other proof, including church records, family Bible notations, school
 records, or other evidence considered acceptable by the division.
-(10)  When an applicant receives a license in another class, all previous
-license certificates shall be surrendered and canceled. However, a
-disqualified commercial license may not be canceled unless it expires before
-the new license certificate is issued.
+(10) (a)  Except as provided in Subsection (10)(b), when an applicant receives
+a license in another class, all previous license certificates shall be
+surrendered and canceled.
+(b)  A disqualified commercial license may not be canceled unless it expires
+before the new license certificate is issued.
 (11) (a)  When an application is received from a person previously licensed in
 another state to drive a motor vehicle, the division shall request a copy of
 the driver's record from the other state.
@@ -161,12 +167,12 @@ appointment shall pay the fee under Section 53-3-105.
 (14)  A person who applies for an original license or renewal of a license
 agrees that the person's license is subject to any suspension or revocation
 authorized under this title or Title 41, Motor Vehicles.
-(15) (a)  The indication of intent under Subsection (8)(a)(v) shall be
+(15) (a)  The indication of intent under Subsection (8)(a)(vi) shall be
 authenticated by the licensee in accordance with division rule.
 (b) (i)  Notwithstanding Title 63G, Chapter 2, Government Records Access and
 Management Act, the division may, upon request, release to an organ
 procurement organization, as defined in Section 26-28-102, the names and
-addresses of all persons who under Subsection (8)(a)(v) indicate that they
+addresses of all persons who under Subsection (8)(a)(vi) indicate that they
 intend to make an anatomical gift.
 (ii)  An organ procurement organization may use released information only to:
 (A)  obtain additional information for an anatomical gift registry; and
@@ -174,12 +180,12 @@ intend to make an anatomical gift.
 (16)  Notwithstanding Title 63G, Chapter 2, Government Records Access and
 Management Act, the division may release to the Department of Veterans'
 Affairs the names and addresses of all persons who indicate their status as a
-veteran under Subsection (8)(a)(vii).
+veteran under Subsection (8)(a)(viii).
 (17)  The division and its employees are not liable, as a result of false or
-inaccurate information provided under Subsection (8)(a)(v) or (vii), for
+inaccurate information provided under Subsection (8)(a)(vi) or(viii), for
 direct or indirect:
 (a)  loss;
 (b)  detriment; or
 (c)  injury.
 (18)  A person who knowingly fails to provide the information required under
-Subsection (8)(a)(vi) is guilty of a class A misdemeanor.
+Subsection (8)(a)(vii) is guilty of a class A misdemeanor.

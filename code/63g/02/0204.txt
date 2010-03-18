@@ -22,7 +22,7 @@ record.
 (d)  A governmental entity may make rules in accordance with Title 63G,
 Chapter 3, Utah Administrative Rulemaking Act, specifying where and to whom
 requests for access shall be directed.
-(3) (a)  As soon as reasonably possible, but no later than ten business days
+(3) (a)  As soon as reasonably possible, but no later than 10 business days
 after receiving a written request, or five business days after receiving a
 written request if the requester demonstrates that expedited response to the
 record request benefits the public rather than the person, the governmental

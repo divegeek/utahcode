@@ -8,7 +8,7 @@ Subsection (5).
 (3)  In addition to complying with Chapter 16, the supreme governing body of
 each domestic fraternal proposing to merge or consolidate shall:
 (a)  at least 60 days prior to the proposed action, submit the text of the
-proposed contract to its members as provided in Subsection 31A-9-213 (4);
+proposed contract to its members as provided in Subsection 31A-9-213(4);
 (b)  approve the proposed consolidation or merger by a two-thirds vote; and
 (c)  file with the commissioner:
 (i)  a certified copy of the written contract containing in full the terms and
@@ -17,7 +17,7 @@ conditions of the consolidation or merger;
 officers of each fraternal showing the financial condition of each on a date
 fixed by the commissioner, but no earlier than the December 31 of the year
 preceding the proposed contract; and
-(iii)  evidence of compliance with Subsections (3) (a) and (b).
+(iii)  evidence of compliance with Subsections (3)(a) and (b).
 (4)  The commissioner shall issue a certificate approving the merger or
 consolidation, upon a finding that all of the following conditions exist:
 (a)  The contract conforms to the provisions of this chapter.

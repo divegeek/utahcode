@@ -8,12 +8,11 @@ state, and fails to render an account thereof to and make settlement with the
 state auditor within the time prescribed by law, or, when no particular time
 is specified, fails to render such account and make settlement, or who fails
 to pay into the state treasury any moneys belonging to the state, upon being
-required so to do by the state auditor, within twenty days after such
-requisition, the state auditor must state an account with such person,
-charging twenty-five per cent damages, and interest at the rate of ten per
-cent per annum from the time of failure; a copy of such account in any suit
-thereon shall be prima facie evidence of the things therein stated. In case
-the state auditor cannot, for want of information, state such an account, he
-may in any action brought by him aver the fact, and allege generally the
-amount of money or other property which is due to or which belongs to the
-state.
+required so to do by the state auditor, within 20 days after such requisition,
+the state auditor must state an account with such person, charging 25%
+damages, and interest at the rate of 10% per annum from the time of failure; a
+copy of such account in any suit thereon shall be prima facie evidence of the
+things therein stated. In case the state auditor cannot, for want of
+information, state such an account, he may in any action brought by him aver
+the fact, and allege generally the amount of money or other property which is
+due to or which belongs to the state.

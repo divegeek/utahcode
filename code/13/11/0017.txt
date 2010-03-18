@@ -16,7 +16,7 @@ Subsection 13-11-8(2) before the consumer transactions on which the action is
 based, or declared to violate Section 13-11-4 or 13-11-5 by final judgment of
 courts of general jurisdiction and appellate courts of this state that was
 either reported officially or made available for public dissemination under
-Subsection 13-11-7(1)(c) by the enforcing authority ten days before the
+Subsection 13-11-7(1)(c) by the enforcing authority 10 days before the
 consumer transactions on which the action is based, or, with respect to a
 supplier who agreed to it, was prohibited specifically by the terms of a
 consent judgment that became final before the consumer transactions on which

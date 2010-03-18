@@ -4,14 +4,14 @@ bank accepts a payment order when it executes the order.
 (2)  Subject to Subsections (3) and (4), a beneficiary's bank accepts a
 payment order at the earliest of the following times:
 (a)  when the bank:
-(i)  pays the beneficiary as stated in Subsection 70A-4a-405 (1) or (2); or
+(i)  pays the beneficiary as stated in Subsection 70A-4a-405(1) or (2); or
 (ii)  notifies the beneficiary of receipt of the order or that the account of
 the beneficiary has been credited with respect to the order unless the notice
 indicates that the bank is rejecting the order or that funds with respect to
 the order may not be withdrawn or used until receipt of payment from the
 sender of the order;
 (b)  when the bank receives payment of the entire amount of the sender's order
-pursuant to Subsection 70A-4a-403 (1)(a) or (b); or
+pursuant to Subsection 70A-4a-403(1)(a) or (b); or
 (c)  the opening of the next funds transfer business day of the bank following
 the payment date of the order if, at that time, the amount of the sender's
 order is fully covered by a withdrawable credit balance in an authorized
@@ -40,6 +40,6 @@ until:
 (b)  If the originator's bank executes the originator's payment order before
 the execution date or pays the beneficiary of the originator's payment order
 before the payment date and the payment order is subsequently canceled
-pursuant to Subsection 70A-4a-211 (2), the bank may recover from the
+pursuant to Subsection 70A-4a-211(2), the bank may recover from the
 beneficiary any payment received to the extent allowed by the law governing
 mistake and restitution.

@@ -83,7 +83,7 @@ affirmative vote of two-thirds of all members present at a taxing entity
 committee meeting at which a quorum is present.
 (7) (a)  An agency may call a meeting of the taxing entity committee by
 sending written notice to the members of the taxing entity committee at least
-ten days before the date of the meeting.
+10 days before the date of the meeting.
 (b)  Each notice under Subsection (7)(a) shall be accompanied by:
 (i)  the proposed agenda for the taxing entity committee meeting; and
 (ii)  if not previously provided and if they exist and are to be considered at

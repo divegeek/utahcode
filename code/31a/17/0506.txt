@@ -28,9 +28,9 @@ W is the weighting factor defined in this section;
 interest contracts with cash settlement options, valued on an issue year
 basis, except as stated in Subsection (ii), the formula for life insurance
 stated in Subsection (i) shall apply to annuities and guaranteed interest
-contracts with guarantee durations in excess of ten years, and the formula for
+contracts with guarantee durations in excess of 10 years, and the formula for
 single premium immediate annuities stated in Subsection (ii) shall apply to
-annuities and guaranteed interest contracts with guarantee duration of ten
+annuities and guaranteed interest contracts with guarantee duration of 10
 years or less;
 (iv)  For other annuities with no cash settlement options and for guaranteed
 interest contracts with no cash settlement options, the formula for single
@@ -158,14 +158,14 @@ year of purchase, of the Monthly Average of the Composite Yield on Seasoned
 Corporate Bonds, as published by Moody's Investors Service, Inc.
 (c)  For other annuities with cash settlement options and guaranteed interest
 contracts with cash settlement options, valued on a year of issue basis,
-except as stated in Subsection (b), with guarantee duration in excess of ten
+except as stated in Subsection (b), with guarantee duration in excess of 10
 years, the lesser of the average over a period of 36 months and the average
 over a period of 12 months, ending on June 30 of the calendar year of issue or
 purchase, of the Monthly Average of the Composite Yield on Seasoned Corporate
 Bonds, as published by Moody's Investors Service, Inc.
 (d)  For other annuities with cash settlement options and guaranteed interest
 contracts with cash settlement options, valued on a year of issue basis,
-except as stated in Subsection (b), with guarantee duration of ten years or
+except as stated in Subsection (b), with guarantee duration of 10 years or
 less, the average over a period of 12 months, ending on June 30 of the
 calendar year of issue or purchase, of the Monthly Average of the Composite
 Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service,

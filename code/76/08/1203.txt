@@ -18,7 +18,7 @@ Subsection (1) is guilty of public assistance fraud as provided in Section
 Department of Workforce Services or the Department of Health, a client who
 intentionally, knowingly, or recklessly fails to disclose to the state agency
 administering the public assistance a change in a material fact required to be
-disclosed under Subsection (1), within ten days after the date of the change,
+disclosed under Subsection (1), within 10 days after the date of the change,
 is guilty of public assistance fraud as provided in Section 76-8-1206.
 (4)  A client who intentionally, knowingly, or recklessly fails to disclose to
 the Department of Workforce Services or the Department of Health at the time

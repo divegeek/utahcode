@@ -3,9 +3,9 @@ Summary relief -- Contested petition.
 (1)  A lien claimant whose document is rejected pursuant to Section 38-9-3 may
 petition the district court in the county in which the document was rejected
 for an expedited determination that the lien may be recorded or filed.
-(2) (a)  The petition shall be filed with the district court within ten days
-of the date notice is received of the rejection and shall state with
-specificity the grounds why the document should lawfully be recorded or filed.
+(2) (a)  The petition shall be filed with the district court within 10 days of
+the date notice is received of the rejection and shall state with specificity
+the grounds why the document should lawfully be recorded or filed.
 (b)  The petition shall be supported by a sworn affidavit of the lien
 claimant.
 (c)  If the court finds the petition is insufficient, it may dismiss the

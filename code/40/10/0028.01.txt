@@ -1,10 +1,10 @@
 40-10-28.1.   Certification of completion of coal reclamation.
 (1)  The governor may certify to the secretary of the United States Department
-of Interior that all of the priorities stated in Subsection 40-10-25 (2) for
-the eligible lands and waters specified in Subsection 40-10-25 (3) have been
+of Interior that all of the priorities stated in Subsection 40-10-25(2) for
+the eligible lands and waters specified in Subsection 40-10-25(3) have been
 achieved.
 (2) (a)  If the secretary concurs with the certification made by the governor,
-Subsection 40-10-25 (3) does not apply for the purpose of determining the
+Subsection 40-10-25(3) does not apply for the purpose of determining the
 eligibility of lands and waters for annual grants, and, except as provided in
 Subsection (2)(b), eligible lands, waters, and facilities are those:
 (i)  which were mined or processed for minerals or which were affected by
@@ -20,7 +20,7 @@ applicable dates shall be August 28, 1974, and November 26, 1980,
 respectively.
 (3)  Expenditures of monies for lands, waters, and facilities referred to in
 Subsection (2) shall reflect the following objectives and priorities in the
-order stated, instead of the priorities set forth in Subsection 40-10-25 (2):
+order stated, instead of the priorities set forth in Subsection 40-10-25(2):
 (a)  the protection of public health, safety, general welfare, and property
 from extreme danger of adverse effects of mineral mining and processing
 practices;
@@ -47,8 +47,8 @@ certification referenced in Subsection (1) and if the governor determines
 there is a need for activities or construction of specific public facilities
 related to the coal or minerals industry in an area impacted by coal or
 minerals development and the secretary concurs in this need, then the division
-may use annual grants made available under Subsection 40-10-25 (1) to carry
-out these activities or construction.
+may use annual grants made available under Subsection 40-10-25(1) to carry out
+these activities or construction.
 (7)  Sections 40-10-27 and 40-10-28, which govern the reclamation of abandoned
 coal mines, shall also apply to the reclamation of abandoned mineral
 operations.

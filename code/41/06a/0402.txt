@@ -2,7 +2,7 @@
 to file.
 (1)  The department may require any operator of a vehicle involved in an
 accident resulting in injury to or death of any person or total property
-damage to the apparent extent of $1,000 or more to file within ten days after
+damage to the apparent extent of $1,000 or more to file within 10 days after
 the request:
 (a)  a report of the accident to the department in a manner specified by the
 department; and
@@ -38,7 +38,7 @@ to exceed 30 days.
 (6) (a) A peace officer who, in the regular course of duty, investigates a
 motor vehicle accident described under Subsection (1) shall file the original
 or an electronic copy of the report of the accident with the department within
-ten days after completing the investigation.
+10 days after completing the investigation.
 (b)  The accident report shall be made either at the time of and at the scene
 of the accident or later by interviewing participants or witnesses.
 (7)  The accident reports required to be filed with the department under this

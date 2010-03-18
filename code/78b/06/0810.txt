@@ -12,7 +12,7 @@ available.
 (2) (a)  In an action for unlawful detainer where the claim is for nonpayment
 of rent or for occupancy of a property after a forced sale as described in
 Subsection 78B-6-802.5, the court shall hold an evidentiary hearing, upon
-request of either party, within ten days after the day on which the defendant
+request of either party, within 10 days after the day on which the defendant
 files the defendant's answer.
 (b)  At the evidentiary hearing held in accordance with Subsection (2)(a):
 (i)  the court shall determine who has the right of occupancy during the
@@ -22,7 +22,7 @@ adjudicated without further proceedings, the court shall adjudicate those
 issues and enter judgment on the merits.
 (3) (a)  In an action for unlawful detainer in which the claim is for nuisance
 and alleges an act that would be considered criminal under the laws of this
-state, the court shall hold an evidentiary hearing within ten days after the
+state, the court shall hold an evidentiary hearing within 10 days after the
 day on which the complaint is filed to determine whether the alleged act
 occurred.
 (b)  The hearing required by Subsection (3)(a) shall be set at the time the

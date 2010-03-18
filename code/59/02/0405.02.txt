@@ -1,6 +1,6 @@
-59-2-405.2 (Superseded 01/01/10).   Definitions -- Uniform statewide fee on
-certain tangible personal property -- Distribution of revenues -- Rulemaking
-authority -- Determining the length of a vessel.
+59-2-405.2.   Definitions -- Uniform statewide fee on certain tangible
+personal property -- Distribution of revenues -- Rulemaking authority --
+Determining the length of a vessel.
 (1)  As used in this section:
 (a) (i)  Except as provided in Subsection (1)(a)(ii), "all-terrain vehicle"
 means a motor vehicle that:
@@ -28,8 +28,10 @@ include a snowmobile.
 (ii)  "canoe" includes:
 (A)  a collapsible inflatable canoe;
 (B)  a kayak;
-(C)  a racing shell; or
-(D)  a rowing scull.
+(C)  a racing shell;
+(D)  a rowing scull; or
+(E)  notwithstanding the definition of vessel in Subsection (1)(aa), a canoe
+with an outboard motor.
 (d)  "Dealer" is as defined in Section 41-1a-102.
 (e)  "Jon boat" means a vessel that:
 (i)  has a square bow; and
@@ -64,7 +66,7 @@ define what constitutes a purpose other than a commercial purpose.
 (I)  a houseboat; or
 (II)  a collapsible inflatable vessel; and
 (ii)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may by rule define the term "houseboat".
+Act, the commission may by rule define the term "houseboat."
 (l)  "Qualifying adjustment, exemption, or reduction" means an adjustment,
 exemption, or reduction:
 (i)  of all or a portion of a qualifying payment;
@@ -398,7 +400,7 @@ watercraft during the refund period; and
 (I)  for that qualifying watercraft;
 (II)  that the qualifying person would have been required to pay:
 (Aa)  during the refund period; and
-(Bb)  in accordance with this section had Laws of Utah 2006,  Fifth Special
+(Bb)  in accordance with this section had Laws of Utah 2006, Fifth Special
 Session, Chapter 3, Section 1, been in effect during the refund period.
 (c)  Before the county issues a refund to the qualifying person in accordance
 with Subsection (7)(a) the qualifying person shall submit a form to the county

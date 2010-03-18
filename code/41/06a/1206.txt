@@ -7,7 +7,7 @@ a railroad grade crossing without first complying with this section:
 (c)  a  derrick;
 (d)  a  roller; or
 (e)  any equipment or structure having:
-(i)  normal operating speed of ten or less miles per hour; or
+(i)  normal operating speed of 10 or less miles per hour; or
 (ii)  a vertical body or load clearance of less than:
 (A)  1/2 inch per foot of the distance between any two adjacent axles; or
 (B)  in any event, nine inches measured above the level surface of a roadway.

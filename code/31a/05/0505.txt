@@ -13,12 +13,11 @@ for cash, specified debt securities to be issued by the mutual corporation, or
 both.  All holders of capital stock of the same class have the same rights
 under the plan.  Shareholders may be given an election to take all or a
 portion of the price in the specified debt securities.  Debt securities may be
-of any class authorized for mutual corporations under Subsection 31A-5-305
-(2).
+of any class authorized for mutual corporations under Subsection 31A-5-305(2).
 (b)  The plan shall provide an equitable procedure for valuing contractual
 obligations of the stock corporation, including those relating to stock
 options, which options terminate on the date of conversion and are subject to
-being extinguished under Subsection (5) (b).
+being extinguished under Subsection (5)(b).
 (3)  No conversion may be effected unless the plan of conversion is approved
 by the commissioner under Chapter 16.
 (4)  After the commissioner approves the plan of conversion, it shall be
@@ -33,8 +32,8 @@ longer a stock corporation. The mutual is considered as having been organized
 at the time the converted stock corporation was organized.
 (b)  Any contractual obligation inconsistent with the nature of a mutual,
 including any obligation to issue or to redeem stock options, terminates upon
-the conversion under Subsection (5) (a), without compensation other than
-provided under Subsection (2) (b), unless the obligation was legally binding
+the conversion under Subsection (5)(a), without compensation other than
+provided under Subsection (2)(b), unless the obligation was legally binding
 before July 1, 1986.
 (6)  The corporation may not pay any person, in connection with the proposed
 conversion, compensation other than regular salaries to existing personnel and

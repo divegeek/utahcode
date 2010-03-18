@@ -7,7 +7,7 @@ section may on making and keeping good a tender of any unpaid portion of their
 price recover them from the seller if:
 (a) in the case of goods bought for personal, family, or household purposes,
 the seller repudiates or fails to deliver as required by the contract; or
-(b)  in all cases, the seller becomes insolvent within ten days after receipt
+(b)  in all cases, the seller becomes insolvent within 10 days after receipt
 of the first installment on their price.
 (2)  The buyer’s right to recover the goods under Subsection (1)(a) vests
 upon acquisition of a special property, even if the seller had not then

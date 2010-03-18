@@ -4,9 +4,9 @@ Notice requirements -- Right to examination.
 testify at trial or at any hearing regarding the mental state of the defendant
 or another, the party intending to call the expert shall give notice to the
 opposing party as soon as practicable but not less than 30 days before trial
-or ten days before any hearing at which the testimony is offered.  Notice
-shall include the name and address of the expert, the expert's curriculum
-vitae, and a copy of the expert's report.
+or 10 days before any hearing at which the testimony is offered.  Notice shall
+include the name and address of the expert, the expert's curriculum vitae, and
+a copy of the expert's report.
 (b)  The expert shall prepare a written report relating to the proposed
 testimony.  If the expert has not prepared a report or the report does not
 adequately inform concerning the substance of the expert's proposed testimony

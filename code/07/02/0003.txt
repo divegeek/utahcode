@@ -2,7 +2,7 @@
 Procedure -- Appeal.
 (1) (a)  Whenever any institution or other person of which the commissioner
 has taken possession considers itself aggrieved by the taking, it may within
-ten days after the taking apply to the court to enjoin further proceedings.
+10 days after the taking apply to the court to enjoin further proceedings.
 (b)  After ordering the commissioner to show cause why further proceedings
 should not be enjoined and after hearing the allegations and proofs of the
 parties and determining the facts, the court may:

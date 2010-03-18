@@ -95,7 +95,7 @@ by resolution the determination to convert the association into a federal
 association.
 (b)  A copy of the minutes of the meeting of the members or shareholders
 verified by the affidavit of the president or vice president and the secretary
-of the meeting shall be, within ten days after the meeting, filed with the
+of the meeting shall be, within 10 days after the meeting, filed with the
 commissioner.  This verified copy of the minutes of the meeting, when so
 filed, shall be presumptive evidence of the holding of the meeting and of the
 action there taken by the members or stockholders.
@@ -103,7 +103,7 @@ action there taken by the members or stockholders.
 adjournment of the meeting of shareholders, the association shall take such
 action as may be necessary under requirements of the Office of Thrift
 Supervision or other federal agency to make it a federal association, and
-within ten days after receipt of the federal charter there shall be filed with
+within 10 days after receipt of the federal charter there shall be filed with
 the commissioner a copy of the charter or a certificate showing the
 organization of the association as a federal association, certified by or on
 behalf of the Office of Thrift Supervision or other federal agency.  Upon the

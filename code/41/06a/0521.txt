@@ -2,7 +2,7 @@
 (1) (a)  A person who has been notified of the Driver License Division's
 intention to revoke the person's license under Section 41-6a-520 is entitled
 to a hearing.
-(b)  A request for the hearing shall be made in writing within ten calendar
+(b)  A request for the hearing shall be made in writing within 10 calendar
 days after the day on which notice is provided.
 (c)  Upon request in a manner specified by the Driver License Division, the
 Driver License Division shall grant to the person an opportunity to be heard
@@ -16,10 +16,10 @@ of:
 (A)  18 months unless Subsection (1)(d)(i)(B) applies; or
 (B)  36 months, if the arrest was made on or after July 1, 2009, and the
 person has had a previous:
-(I)  license sanction for an offense that occurred within the previous ten
+(I)  license sanction for an offense that occurred within the previous 10
 years from the date of arrest under Section 41-6a-517, 41-6a-520, 41-6a-530,
 53-3-223, 53-3-231, or 53-3-232; or
-(II)  conviction for an offense that occurred within the previous ten years
+(II)  conviction for an offense that occurred within the previous 10 years
 from the date of arrest under Section 41-6a-502 or a statute previously in
 effect in this state that would constitute a violation of Section 41-6a-502;
 (ii)  for a person under 21 years of age on the date of arrest:
@@ -29,10 +29,10 @@ Subsection (1)(d)(ii)(B) applies; or
 (B)  until the person is 21 years of age or for a period of 36 months,
 whichever is longer, if the arrest was made on or after July 1, 2009, and the
 person has had a previous:
-(I)  license sanction for an offense that occurred within the previous ten
+(I)  license sanction for an offense that occurred within the previous 10
 years from the date of arrest under Section 41-6a-517, 41-6a-520, 41-6a-530,
 53-3-223, 53-3-231, or 53-3-232; or
-(II)  conviction for an offense that occurred within the previous ten years
+(II)  conviction for an offense that occurred within the previous 10 years
 from the date of arrest under Section 41-6a-502 or a statute previously in
 effect in this state that would constitute a violation of Section 41-6a-502;
 or
@@ -68,10 +68,10 @@ of:
 (A)  18 months unless Subsection (5)(a)(i)(B) applies; or
 (B)  36 months, if the arrest was made on or after July 1, 2009, and the
 person has had a previous:
-(I)  license sanction for an offense that occurred within the previous ten
+(I)  license sanction for an offense that occurred within the previous 10
 years from the date of arrest under Section 41-6a-517, 41-6a-520, 41-6a-530,
 53-3-223, 53-3-231, or 53-3-232; or
-(II)  conviction for an offense that occurred within the previous ten years
+(II)  conviction for an offense that occurred within the previous 10 years
 from the date of arrest under Section 41-6a-502 or a statute previously in
 effect in this state that would constitute a violation of Section 41-6a-502;
 (ii)  for a person under 21 years of age on the date of arrest:
@@ -81,10 +81,10 @@ unless Subsection (5)(a)(ii)(B) applies; or
 (B)  until the person is 21 years of age or for a period of 36 months,
 whichever is longer, if the arrest was made on or after July 1, 2009, and the
 person has had a previous:
-(I)  license sanction for an offense that occurred within the previous ten
+(I)  license sanction for an offense that occurred within the previous 10
 years from the date of arrest under Section 41-6a-517, 41-6a-520, 41-6a-530,
 53-3-223, 53-3-231, or 53-3-232; or
-(II)  conviction for an offense that occurred within the previous ten years
+(II)  conviction for an offense that occurred within the previous 10 years
 from the date of arrest under Section 41-6a-502 or a statute previously in
 effect in this state that would constitute a violation of Section 41-6a-502;
 or

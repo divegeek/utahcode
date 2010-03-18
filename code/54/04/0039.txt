@@ -4,7 +4,7 @@ contracts.
 (a)  "Coal-to-liquid" means the process of converting coal into a liquid
 synthetic fuel.
 (b)  "Long-term contract" means a contract greater than five years in
-duration, but no greater than ten years in duration.
+duration, but no greater than 10 years in duration.
 (c)  "Oil shale" means a group of fine black to dark brown shales containing
 bituminous material that yields petroleum upon distillation.
 (d)  "Tar sands" means impregnated sands that yield mixtures of liquid

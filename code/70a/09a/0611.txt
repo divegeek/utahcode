@@ -16,14 +16,14 @@ authenticated notification of disposition to:
 (i)  any other person from which the secured party has received, before the
 notification date, an authenticated notification of a claim of an interest in
 the collateral;
-(ii)  any other secured party or lienholder that, ten days before the
+(ii)  any other secured party or lienholder that, 10 days before the
 notification date, held a security interest in or other lien on the collateral
 perfected by the filing of a financing statement that:
 (A)  identified the collateral;
 (B)  was indexed under the debtor's name as of that date; and
 (C)  was filed in the office in which to file a financing statement against
 the debtor covering the collateral as of that date; and
-(iii)  any other secured party that, ten days before the notification date,
+(iii)  any other secured party that, 10 days before the notification date,
 held a security interest in the collateral perfected by compliance with a
 statute, regulation, or treaty described in Subsection 70A-9a-311(1).
 (4)  Subsection (2) does not apply if the collateral is perishable or

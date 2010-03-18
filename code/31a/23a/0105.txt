@@ -11,25 +11,25 @@ in Subsection (1)(b) to act as:
 (b)  The commissioner shall issue or renew a license under Subsection (1)(a)
 to a person who, as to the license type and line of authority classification
 applied for under Section 31A-23a-106:
-(a)  satisfies the application requirements under Section 31A-23a-104;
-(b)  satisfies the character requirements under Section 31A-23a-107;
-(c)  satisfies any applicable continuing education requirements under Section
-31A-23a-202;
-(d)  satisfies any applicable examination requirements under Section 31A-
+(i)  satisfies the application requirements under Section 31A-23a-104;
+(ii)  satisfies the character requirements under Section 31A-23a-107;
+(iii)  satisfies any applicable continuing education requirements under
+Section 31A-23a-202;
+(iv)  satisfies any applicable examination requirements under Section 31A-
 23a-108;
-(e)  satisfies any applicable training period requirements under Section 31A-
+(v)  satisfies any applicable training period requirements under Section 31A-
 23a-203;
-(f)  has not committed an act that is a ground for denial, suspension, or
+(vi)  has not committed an act that is a ground for denial, suspension, or
 revocation as provided in Section 31A-23a-111;
-(g)  if a nonresident:
-(i)  complies with Section 31A-23a-109; and
-(ii)  holds an active similar license in that person's state of residence;
-(h)  if an applicant for a title insurance producer license, satisfies the
+(vii)  if a nonresident:
+(A)  complies with Section 31A-23a-109; and
+(B)  holds an active similar license in that person's state of residence;
+(viii)  if an applicant for a title insurance producer license, satisfies the
 requirements of Sections 31A-23a-203 and 31A-23a-204;
-(i)  if an applicant for a license to act as a life settlement provider or
+(ix)  if an applicant for a license to act as a life settlement provider or
 life settlement producer, satisfies the requirements of Section 31A-23a-117;
 and
-(j)  pays the applicable fees under Section 31A-3-103.
+(x)  pays the applicable fees under Section 31A-3-103.
 (2) (a)  This Subsection (2) applies to the following persons:
 (i)  an applicant for a pending:
 (A)  individual or agency producer license;

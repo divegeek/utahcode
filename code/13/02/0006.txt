@@ -14,7 +14,7 @@ director or the director's designee.
 (i)  set forth with particularity the nature of the violation, including a
 reference to the statutory or administrative rule provision being violated;
 (ii)  state that any request for review of the citation must be made in
-writing and be received by the division no more than ten days following
+writing and be received by the division no more than 10 days following
 issuance;
 (iii)  state the consequences of failing to make a timely request for review;
 and
@@ -26,7 +26,7 @@ days may not be included:
 (iii)  Saturdays and Sundays; and
 (iv)  a legal holiday set forth in Subsection 63G-1-301(1)(a).
 (c)  If the recipient of a citation makes a timely request for review, within
-ten days of receiving the request, the division shall convene an adjudicative
+10 days of receiving the request, the division shall convene an adjudicative
 proceeding in accordance with Title 63G, Chapter 4, Administrative Procedures
 Act.
 (d) (i)  If the presiding officer finds that there is not substantial evidence

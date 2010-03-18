@@ -2,22 +2,22 @@
 (1)  A corporation shall hold a special meeting of shareholders:
 (a)  on call of its board of directors or the person or persons authorized by
 the bylaws to call a special meeting; or
-(b)  if the holders of shares representing at least ten percent of all the
-votes entitled to be cast on any issue proposed to be considered at the
-proposed special meeting sign, date, and deliver to the corporation's
-secretary one or more written demands for the meeting, stating the purpose or
-purposes for which it is to be held.
+(b)  if the holders of shares representing at least 10% of all the votes
+entitled to be cast on any issue proposed to be considered at the proposed
+special meeting sign, date, and deliver to the corporation's secretary one or
+more written demands for the meeting, stating the purpose or purposes for
+which it is to be held.
 (2)  If not otherwise fixed under Sections 16-10a-703 or 16-10a-707, the
 record date for determining shareholders entitled to demand a special meeting
 pursuant to Subsection (1)(b) is the earliest date of any of the demands
-pursuant to which the meeting is called or the date that is sixty days prior
-to the date the first of the written demands pursuant to which the meeting is
+pursuant to which the meeting is called or the date that is 60 days prior to
+the date the first of the written demands pursuant to which the meeting is
 called is received by the corporation, whichever is later.
 (3)  Special shareholders' meetings may be held in or out of this state at the
 place stated in or fixed in accordance with the bylaws.  If no place is stated
 or fixed in accordance with the bylaws, special meetings shall be held at the
 corporation's principal office.
 (4)  Only business within the purpose or purposes described in the meeting
-notice required by Subsection 16-10a-705 (3) may be conducted at a special
+notice required by Subsection 16-10a-705(3) may be conducted at a special
 shareholders' meeting, unless notice of the meeting is waived by all
 shareholders pursuant to Section 16-10a-706.

@@ -42,7 +42,7 @@ Commerce;
 largest percent of the current regulatory fee; and
 (iv)  one member selected by the four appointed members.
 (c) (i)  The members of the Supplemental Levy Committee shall be selected
-within ten working days after the executive director of the Department of
+within 10 working days after the executive director of the Department of
 Commerce gives written notice to the Public Service Commission and the public
 utilities that a supplemental levy committee is needed.
 (ii)  If the members of the Supplemental Levy Committee have not been
@@ -59,7 +59,7 @@ shall not exceed .3% of the gross operating revenue of the utilities assessed
 for the preceding calendar year.
 (iv)  Payment of the supplemental fee is due within 30 days after receipt of
 the assessment.
-(v)  The utility may, within ten days after receipt of assessment, request a
+(v)  The utility may, within 10 days after receipt of assessment, request a
 hearing before the Public Service Commission if it questions the need for, or
 the reasonableness of, the supplemental fee.
 (e) (i)  Any supplemental fee collected to defray the cost of regulation shall

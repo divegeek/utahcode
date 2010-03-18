@@ -34,9 +34,9 @@ qualified health center, or credentialed staff member who has not contracted
 with a health maintenance organization to provide health care services to
 enrollees of the organization.
 (2)  Except for a health maintenance organization which is under the common
-ownership or control of an entity with a hospital located within ten paved
-road miles of an independent hospital, a health maintenance organization shall
-pay for covered health care services rendered to an enrollee by an independent
+ownership or control of an entity with a hospital located within 10 paved road
+miles of an independent hospital, a health maintenance organization shall pay
+for covered health care services rendered to an enrollee by an independent
 hospital, a credentialed staff member at an independent hospital, or a
 credentialed staff member at his local practice location if:
 (a)  the enrollee:

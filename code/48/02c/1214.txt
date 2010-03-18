@@ -15,7 +15,7 @@ company shall purchase the interest in the manner provided in this section.
 (b)  If the company does not file an election with the court within the time
 period, but an election to purchase the interest in the company owned by the
 petitioning member is filed by one or more members within the time period, the
-company shall, within ten days after the later of the end of the time period
+company shall, within 10 days after the later of the end of the time period
 allowed for the filing of elections to purchase under this section or
 notification from the court of an election by members to purchase the interest
 in the company owned by the petitioning member as provided in this section,
@@ -92,7 +92,7 @@ member of the company, except the right to receive the amounts awarded to him
 by the court.  The award is enforceable in the same manner as any other
 judgment.
 (7) (a)  The purchase ordered pursuant to Subsection (5) shall be made within
-ten days after the date the order becomes final, unless before that time the
+10 days after the date the order becomes final, unless before that time the
 company files with the court a notice of its intention to adopt articles of
 dissolution pursuant to Section 48-2c-1204.  The articles of dissolution must
 then be adopted and filed within 60 days after notice.

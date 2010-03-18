@@ -4,7 +4,7 @@ Surrender of title -- Salvage certificate of title.
 insurance company declares a vehicle a salvage vehicle and takes possession of
 the vehicle for disposal, or an insurance company pays off the owner of a
 vehicle that is stolen and not recovered, the insurance company shall within
-ten days from the settlement of the loss surrender to the division the
+10 days from the settlement of the loss surrender to the division the
 outstanding certificate of title, properly endorsed, or other evidence of
 ownership acceptable to the division.
 (ii)  The division shall then issue a salvage certificate in the insurance
@@ -36,23 +36,23 @@ Act, the division shall make rules establishing the requirements for an
 insurance company to prove that it has complied with the requirements of
 Subsection (1)(a)(iii) or (iv) to receive a salvage certificate.
 (b) (i)  If the owner of a salvage vehicle retains possession of the vehicle,
-the insurance company shall within ten days from the settlement of the loss
+the insurance company shall within 10 days from the settlement of the loss
 notify the division of the retention on a form prescribed by the division.
 (ii)  The insurance company shall notify the owner of the vehicle of his
 responsibility to comply with this section.
-(iii)  The owner shall within ten days from the settlement of the loss
+(iii)  The owner shall within 10 days from the settlement of the loss
 surrender to the division the properly endorsed certificate of title or other
 evidence of ownership acceptable to the division.
 (iv)  The division shall then issue a salvage certificate in the owner's name.
 (c) (i)  When a salvage vehicle is not the subject of an insurance settlement,
-a self-insurer or an owner who is uninsured shall within ten days of the theft
+a self-insurer or an owner who is uninsured shall within 10 days of the theft
 or major damage surrender to the division the properly endorsed certificate of
 title or other evidence of ownership acceptable to the division.
 (ii)  The division shall then issue a salvage certificate in the owner's name.
 (d) (i)  If a dealer licensed under Title 41, Chapter 3, Part 2, Licensing,
 takes possession of any salvage vehicle for which there is not already issued
 a branded title or salvage certificate from the division or another
-jurisdiction, the dealer shall within ten days surrender to the division the
+jurisdiction, the dealer shall within 10 days surrender to the division the
 certificate of title or other evidence of ownership acceptable to the
 division.
 (ii)  The division shall then issue a salvage certificate in the applicant's

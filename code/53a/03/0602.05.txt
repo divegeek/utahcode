@@ -32,8 +32,8 @@ the number and percent who pass the test; and
 percent of those who receive college credit for the course;
 (d)  the number and percent of students in grade 3 reading at or above grade
 level;
-(e)  the number and percent of students who were absent from school ten days
-or more during the school year;
+(e)  the number and percent of students who were absent from school 10 days or
+more during the school year;
 (f)  achievement gaps that reflect the differences in achievement of various
 student groups as defined by State Board of Education rule;
 (g)  the number and percent of "student dropouts" within the district as
@@ -73,10 +73,10 @@ purposes of Subsection (2)(l) in accordance with the following:
 (A)  for kindergarten through grade six, average class size by grade shall be
 calculated by dividing grade membership on October 1 by the number of classes
 in the corresponding grade; and
-(B)  for grades seven through twelve, average class size shall be calculated
-for core language arts, mathematics, and science courses by dividing
-membership on October 1 in core language arts, mathematics, or science course
-classes by the number of classes for the corresponding course.
+(B)  for grades seven through 12, average class size shall be calculated for
+core language arts, mathematics, and science courses by dividing membership on
+October 1 in core language arts, mathematics, or science course classes by the
+number of classes for the corresponding course.
 (b)  The state board, through the state superintendent of public instruction,
 shall adopt standard reporting forms and provide a common template for
 collecting and reporting the data, which shall be used by all school districts

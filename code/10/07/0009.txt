@@ -16,5 +16,5 @@ artificial light, water or other public utility the rates or charges for the
 service of the system or plant so constructed may be made sufficient to meet
 such payments, in addition to operating and maintenance expenses, and taxes
 shall be levied to meet any deficiencies. Water or sewer bonds may be issued
-for a period not exceeding forty years; other bonds may be issued for a period
-not exceeding twenty years. Such bonds may be either serial or term bonds.
+for a period not exceeding 40 years; other bonds may be issued for a period
+not exceeding 20 years. Such bonds may be either serial or term bonds.

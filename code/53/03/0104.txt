@@ -1,16 +1,20 @@
-53-3-104 (Superseded 01/01/10).   Division duties.
+53-3-104.   Division duties.
 The division shall:
 (1)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
 Act, make rules:
 (a)  for examining applicants for a license, as necessary for the safety and
 welfare of the traveling public;
-(b)  for acceptable documentation of an applicant's identity, Utah resident
-status, Utah residence address, proof of legal presence, proof of citizenship
-of a country other than the United States, and other proof or documentation
+(b)  for acceptable documentation of an applicant's identity, Social Security
+number, Utah resident status, Utah residence address, proof of legal presence,
+proof of citizenship in the United States, and other proof or documentation
 required under this chapter;
 (c)  regarding the restrictions to be imposed on a person driving a motor
-vehicle with a temporary learner permit or learner permit; and
+vehicle with a temporary learner permit or learner permit;
 (d)  for exemptions from licensing requirements as authorized in this chapter;
+and
+(e)  establishing procedures for the storage and maintenance of applicant
+information provided in accordance with Section 53-3-205, 53-3-410, or
+53-3-804;
 (2)  examine each applicant according to the class of license applied for;
 (3)  license motor vehicle drivers;
 (4)  file every application for a license received by it and shall maintain

@@ -23,7 +23,7 @@ stating:
 actual offense;
 (ii)  the offender's status with the department or agency;
 (iii)  that the information provided by the department or agency regarding the
-offender shall be provided to employees of the facility no later than ten days
+offender shall be provided to employees of the facility no later than 10 days
 prior to the offender's admission to the facility; and
 (iv)  the contact information for:
 (A)  the offender's parole officer and also a point of contact within the
@@ -46,7 +46,7 @@ provided by the Utah Department of Corrections, and shall provide to the Utah
 Department of Corrections any necessary compensation for this service.
 (3)  The administrator of the facility shall:
 (a)  provide residents of the facility or their guardians notice that a
-convicted felon is being admitted to the facility no later than ten days prior
+convicted felon is being admitted to the facility no later than 10 days prior
 to the offender's admission to the facility;
 (b)  advise potential residents or their guardians of persons under Subsection
 (2) who are current residents of the facility; and

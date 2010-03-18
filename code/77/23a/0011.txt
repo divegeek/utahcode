@@ -1,8 +1,8 @@
 77-23a-11.   Civil remedy for unlawful interception -- Action for relief.
-(1)  Except under Subsections 77-23a-4  (3), (4), and (5), a person whose
-wire, electronic, or oral communication is intercepted, disclosed, or
-intentionally used in violation of this chapter may in a civil action recover
-relief as appropriate from the person or entity that engaged in the violation.
+(1)  Except under Subsections 77-23a-4(3), (4), and (5), a person whose wire,
+electronic, or oral communication is intercepted, disclosed, or intentionally
+used in violation of this chapter may in a civil action recover relief as
+appropriate from the person or entity that engaged in the violation.
 (2)  In an action under this section appropriate relief includes:
 (a)  preliminary and other equitable or declaratory relief as is appropriate;
 (b)  damages under Subsection (3) and punitive damages in appropriate cases;
@@ -17,12 +17,12 @@ or encrypted, and the conduct is not for a tortious or illegal purpose or for
 purposes of direct or indirect commercial advantage or private commercial
 gain, the court shall assess damages as follows:
 (i)  if the person who engaged in the conduct has not previously been enjoined
-under Subsection 77-23a-4 (11) and has not been found liable in a prior civil
+under Subsection 77-23a-4(11) and has not been found liable in a prior civil
 action under this section, the court shall assess the greater of the sum of
 actual damages suffered by the plaintiff, or the statutory damages of not less
 than $50 nor more than $500;
 (ii)  if on one prior occasion the person who engaged in the conduct has been
-enjoined under Subsection 77-23a-4 (11) or has been liable in a civil action
+enjoined under Subsection 77-23a-4(11) or has been liable in a civil action
 under this section, the court shall assess the greater of the sum of actual
 damages suffered by the plaintiff, or statutory damages of not less than $100
 and not more than $1,000;

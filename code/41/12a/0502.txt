@@ -10,7 +10,7 @@ has reason to believe that it is erroneous.
 (2) (a)  The operator of a motor vehicle involved in an accident shall, unless
 physically incapable, make an accident report.
 (b)  If the operator is physically incapable, the owner shall, if physically
-capable, make a report within ten days of learning of the accident.
+capable, make a report within 10 days of learning of the accident.
 (c)  The operator and owner shall furnish any additional relevant information
 the department reasonably requests.
 (3)  Failure to report an accident as required under Section 41-6a-402 shall

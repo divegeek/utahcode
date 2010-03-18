@@ -2,7 +2,7 @@
 Whenever any railroad company or other common carrier, except an express
 company, shall have transported any baggage or freight to the place of
 consignment within this state, and the owner, consignee or person entitled to
-receive the same shall omit, for the period of sixty days after the arrival of
+receive the same shall omit, for the period of 60 days after the arrival of
 the baggage or freight at the place of consignment, to accept and remove the
 same and pay the charges thereon, it shall be lawful for such carrier to
 deliver such freight for storage to some person or company conducting the

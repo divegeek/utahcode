@@ -91,8 +91,8 @@ Procedure, Rule 4, serve on the lien claimant:
 (d)  If a court finds a petition under Subsection (7)(a) insufficient, the
 court may dismiss the petition without a hearing.
 (e)  If a court finds a petition under Subsection (7)(a) sufficient, the court
-shall schedule a hearing within ten days to determine the correct amount of
-the lien claim for the sole purpose of providing alternate security.
+shall schedule a hearing within 10 days to determine the correct amount of the
+lien claim for the sole purpose of providing alternate security.
 (f)  A lien claimant may:
 (i)  attend a hearing held under this Subsection (7); and
 (ii)  contest the petition.

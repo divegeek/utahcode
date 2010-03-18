@@ -37,7 +37,7 @@ property, each owned by a different owner, located within the area proposed to
 be incorporated; and
 (ii)  be accompanied by an accurate map or plat depicting the boundary of the
 proposed town.
-(c)  Within ten days after a request for a public hearing is filed under
+(c)  Within 10 days after a request for a public hearing is filed under
 Subsection (3)(a), the county clerk shall, with the assistance of other county
 officers from whom the clerk requests assistance, determine whether the
 petition complies with the requirements of Subsection (3)(b).
@@ -70,8 +70,8 @@ proposed town.
 (ii)  The posting of notice required under Subsection (3)(e)(i)(B)(I) and, if
 applicable, Subsection (3)(e)(i)(B)(II)(Bb) and the first publishing of notice
 required under Subsection (3)(e)(i)(B)(II)(Aa), if applicable, shall occur no
-later than ten days after the clerk determines that a request complies with
-the requirements of Subsection (3)(b).
+later than 10 days after the clerk determines that a request complies with the
+requirements of Subsection (3)(b).
 (iii)  Each public hearing under Subsection (3)(e)(i)(A) shall be conducted by
 the chair of the county commission or council, or the chair's designee, to:
 (A)  introduce the concept of the proposed incorporation to the public;
@@ -144,7 +144,7 @@ filed.
 exclude all or part of the owner's property from the area proposed to be
 incorporated as a town by filing a notice of exclusion:
 (i)  with the county clerk; and
-(ii)  within ten calendar days after receiving the clerk's notice under
+(ii)  within 10 calendar days after receiving the clerk's notice under
 Subsection (5)(a).
 (c)  The county legislative body shall exclude from the area proposed to be
 incorporated as a town the property identified in the notice of exclusion

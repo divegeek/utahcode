@@ -9,7 +9,7 @@ governor certifying a local entity's change of name.
 (e)  "Notice of an impending name change" means a notice, as described in
 Subsection (3), that provides notice of a local entity's impending name
 change.
-(2)  Within ten days after receiving a notice of an impending name change, the
+(2)  Within 10 days after receiving a notice of an impending name change, the
 lieutenant governor shall:
 (a)  issue a certificate of name change;
 (b)  send the certificate of name change to the approving authority of the

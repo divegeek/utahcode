@@ -9,9 +9,9 @@ violation.
 (3) (a)  A person is guilty of a class A misdemeanor and is subject to
 imprisonment under Section 76-3-204 and a fine not exceeding $25,000 per day
 who with criminal negligence:
-(i)  discharges pollutants in violation of Subsection 19-5-107 (1) or in
+(i)  discharges pollutants in violation of Subsection 19-5-107(1) or in
 violation of any condition or limitation included in a permit issued under
-Subsection 19-5-107 (3);
+Subsection 19-5-107(3);
 (ii)  violates Section 19-5-113;
 (iii)  violates a pretreatment standard or toxic effluent standard for
 publicly owned treatment works; or

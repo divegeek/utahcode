@@ -8,7 +8,7 @@ Three on the first day of the month following the month in which the member
 died if the following requirements are met:
 (a)  the member has:
 (i)  15 or more years of service credit;
-(ii)  attained age 62 with ten or more years of service credit; or
+(ii)  attained age 62 with 10 or more years of service credit; or
 (iii)  attained age 65 with four or more years of service credit; and
 (b)  the member dies leaving a spouse to whom the member has been married at
 least six months immediately prior to the death date.
@@ -28,7 +28,7 @@ member’s full allowance;
 or older at the time of death, the surviving spouse shall receive 1/3 of the
 member’s full allowance; or
 (d)  if the member is age 60 or older with 20 or more years of service credit,
-age 62 or older with ten or more years of service credit, or age 65 or older
+age 62 or older with 10 or more years of service credit, or age 65 or older
 with four or more years of service credit at the time of death, the surviving
 spouse shall receive an Option Three benefit with actuarial reductions.
 (5)  Except for a return of member contributions, benefits payable under this

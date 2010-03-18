@@ -3,7 +3,7 @@ collateral.
 (1)  This section applies to cases in which there is no outstanding secured
 obligation and the secured party is not committed to make advances, incur
 obligations, or otherwise give value.
-(2)  Within ten days after receiving an authenticated demand by the debtor:
+(2)  Within 10 days after receiving an authenticated demand by the debtor:
 (a)  a secured party having control of a deposit account under Subsection 70A-
 9a-104(1)(b) shall send to the bank with which the deposit account is
 maintained an authenticated statement that releases the bank from any further

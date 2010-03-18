@@ -122,7 +122,7 @@ Subsection (8)(a).
 (9) (a)  Except as provided in Subsection (9)(b), an original contractor or
 subcontractor who receives retention proceeds shall pay each of its
 subcontractors from whom retention has been withheld each subcontractor's
-share of the retention received within ten days from the day that all or any
+share of the retention received within 10 days from the day that all or any
 portion of the retention proceeds is received:
 (i)  by the original contractor from the owner or public agency; or
 (ii)  by the subcontractor from:

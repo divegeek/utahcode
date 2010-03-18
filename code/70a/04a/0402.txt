@@ -21,13 +21,13 @@ refundable amount from the date of payment.
 intermediary bank is obliged to refund payment as stated in Subsection (4),
 but is unable to do so because not permitted by applicable law or because the
 bank suspends payments, a sender in the funds transfer that executed a payment
-order in compliance with an instruction, as stated in Subsection 70A-4a-302
-(1)(a), to route the funds transfer through that intermediary bank is entitled
-to receive or retain payment from the sender of the payment order that it
-accepted. The first sender in the funds transfer that issued an instruction
-requiring routing through that intermediary bank is subrogated to the right of
-the bank that paid the intermediary bank to refund as stated in Subsection
-(4).
+order in compliance with an instruction, as stated in Subsection 70A-
+4a-302(1)(a), to route the funds transfer through that intermediary bank is
+entitled to receive or retain payment from the sender of the payment order
+that it accepted. The first sender in the funds transfer that issued an
+instruction requiring routing through that intermediary bank is subrogated to
+the right of the bank that paid the intermediary bank to refund as stated in
+Subsection (4).
 (6)  The right of the sender of a payment order to be excused from the
 obligation to pay the order as stated in Subsection (3) or to receive refund
 under Subsection (4) may not be varied by agreement.

@@ -1,5 +1,5 @@
-53-3-407 (Superseded 01/01/10).   Qualifications for commercial driver
-license -- Fee -- Third parties may administer skills test.
+53-3-407.   Qualifications for commercial driver license -- Fee -- Third
+parties may administer skills test.
 (1) (a)  As used in this section, "CDL driver training school" means a
 business enterprise conducted by an individual, association, partnership, or
 corporation that:
@@ -11,8 +11,7 @@ both, to drive commercial motor vehicles; and
 the services provided under Subsection (1)(a).
 (2) (a)  Except as provided in Subsection (2)(b), a CDL may be issued only to
 a person who:
-(i)  is a resident of this state or qualifies as a nonresident under Section
-53-3-409;
+(i)  is a resident of this state;
 (ii)  has passed a test of knowledge and skills for driving a commercial motor
 vehicle, that complies with minimum standards established by federal
 regulation in 49 C.F.R., Part 383, Subparts G and H; and
@@ -29,7 +28,7 @@ H.
 (A)  is valid for 60 days; and
 (B)  may not be renewed or extended.
 (iii)  Except as provided in this section and Subsections 53-3-204(1)(a)(iv),
-53-3-205(8)(a)(i)(F) and (8)(b), and 53-3-410(1)(c), the provisions,
+53-3-205(8)(a)(i)(E) and (8)(b), and 53-3-410(1)(c), the provisions,
 requirements, classes, endorsements, fees, restrictions, and sanctions under
 this code apply to a temporary CDL issued under this Subsection (2)(b) in the
 same way as a commercial driver license issued under this part.

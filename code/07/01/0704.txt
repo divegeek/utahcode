@@ -112,10 +112,10 @@ the application.
 (i)  endorse the approval on the articles of incorporation;
 (ii)  file one copy with the Division of Corporations and Commercial Code;
 (iii)  retain one file copy; and
-(iv)  return one copy to the applicant within ten days after the date of the
+(iv)  return one copy to the applicant within 10 days after the date of the
 commissioner's decision approving the application.
 (c)  Upon disapproving an application, the commissioner shall mail notice of
-the disapproval to the applicant within ten days.
+the disapproval to the applicant within 10 days.
 (d)  The commissioner may approve an application subject to conditions the
 commissioner considers appropriate to protect the public interest and carry
 out the purposes of this title.

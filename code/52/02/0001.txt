@@ -1,7 +1,7 @@
 52-2-1.   Time in which to qualify -- Failure -- Office declared vacant.
 Whenever any person duly elected or appointed to any office of the state or
-any of its political subdivisions, fails to qualify for such office within
-sixty days after the date of beginning of the term of office for which he was
+any of its political subdivisions, fails to qualify for such office within 60
+days after the date of beginning of the term of office for which he was
 elected or appointed, such office shall thereupon become vacant and shall be
 filled as provided by law. Whenever the bond of any officer of the state or of
 any of its political subdivisions is canceled, revoked, annulled or otherwise
@@ -11,6 +11,6 @@ thereupon become vacant and shall be filled as provided by law. Any elected or
 appointed official who has failed on the effective date of this act to qualify
 for the position to which he was elected or appointed, shall be deemed to come
 within the provisions of this act, and the office of such officer shall become
-vacant at the end of forty days after the effective date of this act unless
-legal bond is given before the expiration of such period, and such office
-shall be filled as provided by law.
+vacant at the end of 40 days after the effective date of this act unless legal
+bond is given before the expiration of such period, and such office shall be
+filled as provided by law.

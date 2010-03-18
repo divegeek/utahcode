@@ -9,7 +9,7 @@ determine whether income withholding should be terminated due to:
 for termination of income withholding.
 (c)  If it is determined by a court or the office that income withholding
 should be terminated, the office shall give written notice of termination to
-each payor within ten days after receipt of notice of that decision.
+each payor within 10 days after receipt of notice of that decision.
 (d)  If, after termination of income withholding by court or administrative
 order, an obligor's child support obligation  becomes delinquent or subject to
 immediate and automatic income withholding under Section 62A-11-404, the

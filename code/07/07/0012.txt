@@ -42,8 +42,8 @@ association;
 (e)  if the communication concerns a question to be raised at a meeting of the
 members or stockholders of the association, the date of the meeting at which
 the matter will be presented.
-(5)  Within ten days after receipt of the request referred to in Subsection
-(4) the association shall notify the requesting member or stockholder of:
+(5)  Within 10 days after receipt of the request referred to in Subsection (4)
+the association shall notify the requesting member or stockholder of:
 (a)  the approximate number of the members or stockholders and the estimated
 amount of the reasonable costs and expenses of mailing the communication; or
 (b)  its determination to refuse the request and the specific reasons for its

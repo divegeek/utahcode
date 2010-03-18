@@ -4,7 +4,7 @@
 require all cycle dealers operating within their jurisdiction:
 (a)  to license, or arrange to have licensed at the time of purchase all
 cycles sold by them;
-(b)  to keep records on all cycles sold and to furnish, within thirty days of
+(b)  to keep records on all cycles sold and to furnish, within 30 days of
 sale, their respective city or county police departments with the following
 information:
 (i)  name and address of the retailer;
@@ -20,5 +20,5 @@ license and the abbreviation for the city or county regulating the dealer.
 (2)  As used in this section, "cycle" means a device upon which any person may
 ride, propelled by human power through a belt, chain or gears and having one
 or more wheels in tandem or other arrangement.  Cycles with wheels of at least
-twenty inches in diameter and frame size of at least fourteen inches shall be
-subject to this section.  Others may be licensed by owner upon request.
+20 inches in diameter and frame size of at least 14 inches shall be subject to
+this section.  Others may be licensed by owner upon request.

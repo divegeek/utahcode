@@ -4,7 +4,7 @@ of assignment.
 (a)  there is no outstanding secured obligation; and
 (b)  the secured party is not committed to make advances, incur obligations,
 or otherwise give value.
-(2)  Within ten days after receiving an authenticated demand by the debtor, a
+(2)  Within 10 days after receiving an authenticated demand by the debtor, a
 secured party shall send to an account debtor that has received notification
 of an assignment to the secured party as assignee under Subsection 70A-
 9a-406(1) an authenticated record that releases the account debtor from any

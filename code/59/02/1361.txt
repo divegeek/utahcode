@@ -7,7 +7,7 @@ commission.
 (b)  The notice required by this section shall include a notice of the
 location and time of the hearing in which the findings of the commission may
 be protested.
-(c) (i)  The hearing must be scheduled at least ten days after the mailing of
+(c) (i)  The hearing must be scheduled at least 10 days after the mailing of
 the notice.
 (ii)  The owner, lessee, contractor, or operator of the property shall be
 afforded the opportunity to protest the commission's findings at the hearing.
@@ -16,7 +16,7 @@ payable if any of the following occur:
 (a)  the owner, contractor, lessee, or operator of the property fails to
 appear at the hearing; or
 (b)  the commission sustains the findings.
-(3)  If the taxes are not paid within ten days from the date due, the
+(3)  If the taxes are not paid within 10 days from the date due, the
 commission may commence  a proceeding in court in its name, but for the
 benefit of the state and the taxing entities interested in the taxes, in the
 district court of the county in which the property is located to determine the

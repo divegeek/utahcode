@@ -115,7 +115,7 @@ or association of individuals.
 (28)  "Pilot" means any person who operates the controls of an aircraft while
 in-flight.
 (29)  "Primary glider" means any glider that has a gliding angle of less than
-ten to one.
+10 to one.
 (30)  "Public aircraft" means an aircraft used exclusively in the service of
 any government or of any political subdivision, including the government of
 the United States, of the District of Columbia, and of any state, territory,
@@ -128,7 +128,7 @@ conditions, and to the territory being flown over.
 (32)  "Registration number" means the number assigned by the Federal Aviation
 Administration to any aircraft, whether or not the number includes a letter or
 letters.
-(33)  "Secondary glider" means any glider that has a gliding angle between ten
+(33)  "Secondary glider" means any glider that has a gliding angle between 10
 to one and 16 to one, inclusive.
 (34)  "Soaring glider" means any glider that has a gliding angle of more than
 16 to one.

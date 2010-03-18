@@ -1,4 +1,4 @@
-41-1a-102 (Superseded 01/01/10).   Definitions.
+41-1a-102.   Definitions.
 As used in this chapter:
 (1)  "Actual miles" means the actual distance a vehicle has traveled while in
 operation.
@@ -182,26 +182,31 @@ registration the division may prescribe a different 12-month period.
 outboard motors to a sound working condition by substituting any inoperative
 part of the vehicle, vessel, or outboard motor, or by correcting the
 inoperative part.
-(51)  "Road tractor" means every motor vehicle designed and used for drawing
+(51)  "Replica vehicle" means:
+(a)  a street rod that meets the requirements under Subsection
+41-21-1(1)(a)(i)(B); or
+(b)  a custom vehicle that meets the requirements under Subsection
+41-6a-1507(1)(a)(i)(B).
+(52)  "Road tractor" means every motor vehicle designed and used for drawing
 other vehicles and constructed so it does not carry any load either
 independently or any part of the weight of a vehicle or load that is drawn.
-(52)  "Sailboat" has the same meaning as provided in Section 73-18-2.
-(53)  "Security interest" means an interest that is reserved or created by a
+(53)  "Sailboat" has the same meaning as provided in Section 73-18-2.
+(54)  "Security interest" means an interest that is reserved or created by a
 security agreement to secure the payment or performance of an obligation and
 that is valid against third parties.
-(54)  "Semitrailer" means every vehicle without motive power designed for
+(55)  "Semitrailer" means every vehicle without motive power designed for
 carrying persons or property and for being drawn by a motor vehicle and
 constructed so that some part of its weight and its load rests or is carried
 by another vehicle.
-(55)  "Special group license plate" means a type of license plate designed for
+(56)  "Special group license plate" means a type of license plate designed for
 a particular group of people or a license plate authorized and issued by the
 division in accordance with Section 41-1a-418.
-(56) (a)  "Special interest vehicle" means a vehicle used for general
+(57) (a)  "Special interest vehicle" means a vehicle used for general
 transportation purposes and that is:
 (i)  20 years or older from the current year; or
 (ii)  a make or model of motor vehicle recognized by the division director as
 having unique interest or historic value.
-(b)  In making his determination under Subsection (56)(a), the division
+(b)  In making his determination under Subsection (57)(a), the division
 director shall give special consideration to:
 (i)  a make of motor vehicle that is no longer manufactured;
 (ii)  a make or model of motor vehicle produced in limited or token
@@ -212,7 +217,7 @@ one designed exclusively for educational purposes or museum display; or
 altered or modified from original specifications of the manufacturer and
 because of its significance is being collected, preserved, restored,
 maintained, or operated by a collector or hobbyist as a leisure pursuit.
-(57) (a)  "Special mobile equipment" means every vehicle:
+(58) (a)  "Special mobile equipment" means every vehicle:
 (i)  not designed or used primarily for the transportation of persons or
 property;
 (ii)  not designed to operate in traffic; and
@@ -225,37 +230,37 @@ and trenchers; and
 (iii)  ditch-digging apparatus.
 (c)  "Special mobile equipment" does not include a commercial vehicle as
 defined under Section 72-9-102.
-(58)  "Specially constructed vehicle" means every vehicle of a type required
+(59)  "Specially constructed vehicle" means every vehicle of a type required
 to be registered in this state, not originally constructed under a distinctive
 name, make, model, or type by a generally recognized manufacturer of vehicles,
 and not materially altered from its original construction.
-(59)  "Title" means the right to or ownership of a vehicle, vessel, or
+(60)  "Title" means the right to or ownership of a vehicle, vessel, or
 outboard motor.
-(60) (a)  "Total fleet miles" means the total number of miles operated in all
+(61) (a)  "Total fleet miles" means the total number of miles operated in all
 jurisdictions during the preceding year by power units.
 (b)  If fleets are composed entirely of trailers or semitrailers, "total fleet
 miles" means the number of miles that those vehicles were towed on the
 highways of all jurisdictions during the preceding year.
-(61)  "Trailer" means a vehicle without motive power designed for carrying
+(62)  "Trailer" means a vehicle without motive power designed for carrying
 persons or property and for being drawn by a motor vehicle and constructed so
 that no part of its weight rests upon the towing vehicle.
-(62)  "Transferee" means a person to whom the ownership of property is
+(63)  "Transferee" means a person to whom the ownership of property is
 conveyed by sale, gift, or any other means except by the creation of a
 security interest.
-(63)  "Transferor" means a person who transfers his ownership in property by
+(64)  "Transferor" means a person who transfers his ownership in property by
 sale, gift, or any other means except by creation of a security interest.
-(64)  "Travel trailer," "camping trailer," or "fifth wheel trailer" means a
+(65)  "Travel trailer," "camping trailer," or "fifth wheel trailer" means a
 portable vehicle without motive power, designed as a temporary dwelling for
 travel, recreational, or vacation use that does not require a special highway
 movement permit when drawn by a self-propelled motor vehicle.
-(65)  "Truck tractor" means a motor vehicle designed and used primarily for
+(66)  "Truck tractor" means a motor vehicle designed and used primarily for
 drawing other vehicles and not constructed to carry a load other than a part
 of the weight of the vehicle and load that is drawn.
-(66)  "Vehicle" includes a motor vehicle, trailer, semitrailer, off-highway
+(67)  "Vehicle" includes a motor vehicle, trailer, semitrailer, off-highway
 vehicle, manufactured home, and mobile home.
-(67)  "Vessel" has the same meaning as provided in Section 73-18-2.
-(68)  "Vintage vehicle" has the same meaning as provided in Section 41-21-1.
-(69)  "Waters of this state" has the same meaning as provided in Section
+(68)  "Vessel" has the same meaning as provided in Section 73-18-2.
+(69)  "Vintage vehicle" has the same meaning as provided in Section 41-21-1.
+(70)  "Waters of this state" has the same meaning as provided in Section
 73-18-2.
-(70)  "Weighmaster" means a person, association of persons, or corporation
+(71)  "Weighmaster" means a person, association of persons, or corporation
 permitted to weigh vehicles under this chapter.

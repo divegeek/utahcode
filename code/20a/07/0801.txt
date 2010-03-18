@@ -68,14 +68,14 @@ governor determines is not in keeping with:
 Subsection (5).
 (5) (a)  A person whose information is refused under Subsection (4), and who
 is aggrieved by the determination, may appeal by submitting a written notice
-of appeal to the lieutenant governor within ten business days after the date
-of the determination.  A notice of appeal submitted under this Subsection
-(5)(a) shall contain:
+of appeal to the lieutenant governor within 10 business days after the date of
+the determination.  A notice of appeal submitted under this Subsection (5)(a)
+shall contain:
 (i)  a listing of each objection to the lieutenant governor's determination;
 and
 (ii)  the basis for each objection.
 (b)  The lieutenant governor shall review the notice of appeal and shall issue
-a written response within ten business days after the notice of appeal is
+a written response within 10 business days after the notice of appeal is
 submitted.
 (c)  An appeal of the response of the lieutenant governor shall be made to the
 district court, which shall review the matter de novo.

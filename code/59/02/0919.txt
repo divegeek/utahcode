@@ -1,6 +1,5 @@
-59-2-919 (Superseded 01/01/10).   Notice, public hearing, and resolution
-requirements for certain tax increases -- Exceptions -- Applicability of
-provisions.
+59-2-919.   Notice, public hearing, and resolution requirements for certain
+tax increases -- Exceptions -- Applicability of provisions.
 (1)  As used in this section:
 (a)  "Ad valorem tax revenue" means ad valorem property tax revenue not
 including revenue from new growth as defined in Section 59-2-924.
@@ -84,7 +83,7 @@ rate if the fiscal year taxing entity:
 at which the fiscal year taxing entity's annual budget is adopted; and
 (b)  conducts a public hearing in accordance with Subsections (8) and (9)
 before the fiscal year taxing entity's annual budget is adopted.
-(5) (a) A taxing entity is not required to meet the notice or public hearing
+(5) (a)  A taxing entity is not required to meet the notice or public hearing
 requirements of Subsection (3) or (4) if the taxing entity is expressly
 exempted by law from complying with the requirements of this section.
 (b) (i)  Except as provided in Subsection (5)(b)(ii), a taxing entity is not
@@ -116,7 +115,7 @@ taxing entity's certified tax rate; and
 hearing requirements of Subsection (3) or (4) does not apply to an increase in
 a taxing entity's tax rate that occurs after December 31, 2010, even if the
 tax rate increase is approved by the taxing entity's voters before that date.
-(c) A taxing entity is not required to meet the notice requirements of
+(c)  A taxing entity is not required to meet the notice requirements of
 Subsection (3) or (4) if:
 (i)  Section 53A-17a-133 allows the taxing entity to levy a tax rate that
 exceeds that certified tax rate without having to comply with the notice
@@ -144,42 +143,49 @@ appear in a newspaper that is published at least one day per week; and
 (ii)  the newspaper or combination of newspapers selected:
 (A)  be of general interest and readership in the taxing entity; and
 (B)  not be of limited subject matter.
-(e)  The advertisement:
-(i)  described in Subsection (6)(a)(i) shall:
-(A)  be run once each week for the two weeks:
-(I)  before a taxing entity conducts a public hearing at which the taxing
+(e) (i)  The advertisement:
+(A)  described in Subsection (6)(a)(i) shall:
+(I)  except as provided in Subsection (6)(e)(ii), be run once each week for
+the two weeks:
+(Aa)  before a taxing entity conducts a public hearing at which the taxing
 entity's annual budget is discussed; and
-(II)  if a calendar year taxing entity provides the notice described in
+(Bb)  if a calendar year taxing entity provides the notice described in
 Subsection (3)(a)(i)(B)(I), before the calendar year taxing entity levies a
 tax rate that exceeds the calendar year taxing entity's certified tax rate;
 and
-(B)  state that the taxing entity will meet on a certain day, time, and place
+(II)  state that the taxing entity will meet on a certain day, time, and place
 fixed in the advertisement, which shall be not less than seven days after the
 day the first advertisement is published, for the purpose of hearing comments
 regarding any proposed increase and to explain the reasons for the proposed
 increase; or
-(ii)  described in Subsection (6)(a)(ii) shall:
-(A)  be published two weeks:
-(I)  before a taxing entity conducts a public hearing at which the taxing
+(B)  described in Subsection (6)(a)(ii) shall:
+(I)  be published two weeks:
+(Aa)  before a taxing entity conducts a public hearing at which the taxing
 entity's annual budget is discussed; and
-(II)  if a calendar year taxing entity provides the notice described in
+(Bb)  if a calendar year taxing entity provides the notice described in
 Subsection (3)(a)(i)(B)(I), before the calendar year taxing entity levies a
 tax rate that exceeds the calendar year taxing entity's certified tax rate;
 and
-(B)  state that the taxing entity will meet on a certain day, time, and place
+(II)  state that the taxing entity will meet on a certain day, time, and place
 fixed in the advertisement, which shall be not less than seven days after the
 day the first advertisement is published, for the purpose of hearing comments
 regarding any proposed increase and to explain the reasons for the proposed
 increase.
+(ii)  If a taxing entity's public hearing information is published by the
+county auditor in accordance with Section 59-2-919.2, the taxing entity is not
+subject to the requirement to run the advertisement twice, as required by
+Subsection (6)(e)(i)(A), but shall run the advertisement once during the week:
+(A)  before the taxing entity conducts a public hearing at which the taxing
+entity's annual budget is discussed; and
+(B)  if a calendar year taxing entity provides the notice described in
+Subsection (3)(a)(i)(B)(I), before the calendar year taxing entity levies a
+tax rate that exceeds the calendar year taxing entity's certified tax rate.
 (f) (i)  For purposes of Subsection (3)(a)(i)(A) or (4)(a), the form and
 content of an advertisement shall be substantially as follows:
 "NOTICE OF PROPOSED TAX INCREASE
 (NAME OF TAXING ENTITY)
 The (name of the taxing entity) is proposing to increase its property tax
 revenue.
-●     If the proposed budget is approved, this would be an increase of
-_____% above the (name of the taxing entity) property tax budgeted revenue for
-the prior year.
 ●     The (name of the taxing entity) tax on a (insert the average value of
 a residence in the taxing entity rounded to the nearest thousand dollars)
 residence would increase from $______ to $________, which is $_______ per
@@ -188,6 +194,9 @@ year.
 business having the same value as the average value of a residence in the
 taxing entity) business would increase from $________ to $_______, which is
 $______ per year.
+●     If the proposed budget is approved, (name of the taxing entity) would
+increase its property tax budgeted revenue by ___% above last year's property
+tax budgeted revenue excluding new growth.
 All concerned citizens are invited to a public hearing on the tax increase.
 PUBLIC HEARING
 Date/Time:      (date) (time)
@@ -200,9 +209,6 @@ advertisement shall be substantially as follows:
 (NAME OF TAXING ENTITY)
 The (name of the taxing entity) is proposing to increase its property tax
 revenue.
-●     If the proposed budget is approved, this would be an increase of
-_____% above the (name of the taxing entity) property tax budgeted revenue for
-the prior year.
 ●     The (name of the taxing entity) tax on a (insert the average value of
 a residence in the taxing entity rounded to the nearest thousand dollars)
 residence would increase from $______ to $________, which is $_______ per
@@ -211,6 +217,9 @@ year.
 business having the same value as the average value of a residence in the
 taxing entity) business would increase from $________ to $_______, which is
 $______ per year.
+●     If the proposed budget is approved, (name of the taxing entity) would
+increase its property tax budgeted revenue by ___% above last year's property
+tax budgeted revenue excluding new growth.
 (Name of taxing entity) property tax revenue from new growth and other sources
 will increase from $_______________ to $______________.
 All concerned citizens are invited to a public hearing on the tax increase.
@@ -230,8 +239,8 @@ newspaper would provide equal or greater notice to the taxpayer; and
 (B)  if the county petitions the commission for the use of the weekly
 newspaper; or
 (ii)  the use by a taxing entity except for a calendar year taxing entity that
-provides the notice described in Subsection (3)(a)(i)(B)(II) of a
-commissionapproved direct notice to each taxpayer if:
+provides the notice described in Subsection (3)(a)(i)(B)(II) of a commission
+approved direct notice to each taxpayer if:
 (A)  the cost of the advertisement would cause undue hardship;
 (B)  the direct notice is different and separate from that provided for in
 Section 59-2-919.1; and
@@ -275,7 +284,7 @@ rate.
 and time that is more than two weeks after the public hearing described in
 Subsection 59-2-919.1(2)(c)(v), the taxing entity shall meet the notice
 requirements of Subsection (3)(a)(i)(B)(I).
-(10) (a) A taxing entity may adopt a resolution levying a tax rate that
+(10) (a)  A taxing entity may adopt a resolution levying a tax rate that
 exceeds the taxing entity's certified tax rate if the taxing entity, to the
 extent required by this section, meets the:
 (i)  notice requirements of this section; and

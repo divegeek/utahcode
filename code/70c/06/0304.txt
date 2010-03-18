@@ -4,5 +4,5 @@ insurance except after the debtor's default or in accordance with a written
 authorization by the debtor, and in either case the cancellation does not take
 effect until written notice is delivered to the debtor or mailed to him at his
 address as stated by him.  The notice shall state that the policy may be
-cancelled on a date not less than ten days after the notice is delivered, or,
+cancelled on a date not less than 10 days after the notice is delivered, or,
 if the notice is mailed, not less than 13 days after it is mailed.

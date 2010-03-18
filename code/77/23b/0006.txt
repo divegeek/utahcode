@@ -1,6 +1,6 @@
 77-23b-6.   Notifying subscriber or customer of court order -- Requested
 delay -- Grounds -- Limits.
-(1) (a)  The governmental entity acting under Subsection 77-23b-4 (2) may:
+(1) (a)  The governmental entity acting under Subsection 77-23b-4(2) may:
 (i)  if a court order is sought, include in the application a request for an
 order delaying the notification requirement under Subsection 77-23b-4(2) for
 not to exceed 90 days and, if the court determines there is reason to believe
@@ -49,7 +49,7 @@ county attorney or district attorney,  a deputy county attorney or deputy
 district attorney, or the chief prosecuting attorney of any political
 subdivision of the state.
 (2)  A governmental entity acting under Section 77-23b-4, when not required to
-notify the subscriber or customer under Subsection 77-23b-4 (2)(a), or to the
+notify the subscriber or customer under Subsection 77-23b-4(2)(a), or to the
 extent that it may delay notice under Subsection (1), may apply to a court for
 an order commanding the provider of electronic communications service or
 remote computing service to whom a warrant, subpoena, or court order is

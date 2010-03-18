@@ -109,7 +109,7 @@ capital facilities plan; and
 preparation of or amendment to the capital facilities plan; and
 (B)  before adopting or amending the capital facilities plan:
 (I)  give public notice of the plan or amendment according to Subsection
-(2)(e)(ii)(A), (B), or (C), as the case may be, at least ten days before the
+(2)(e)(ii)(A), (B), or (C), as the case may be, at least 10 days before the
 date of the public hearing;
 (II)  make a copy of the plan or amendment, together with a summary designed
 to be understood by a lay person, available to the public;
@@ -205,7 +205,7 @@ paid at different times.
 written analysis under this Subsection (5) shall also prepare a summary of the
 written analysis, designed to be understood by a lay person.
 (6)  Each local political subdivision that adopts an impact fee enactment
-under Section 11-36-202 on or after July 1, 2000 shall, at least ten days
+under Section 11-36-202 on or after July 1, 2000 shall, at least 10 days
 before adopting the enactment:
 (a)  submit a copy of the written analysis required by Subsection (5)(a) and a
 copy of the summary required by Subsection (5)(d) to:

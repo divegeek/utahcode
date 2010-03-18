@@ -7,7 +7,7 @@ the consignor's products.  The statement shall show:
 (a)  the date of sale;
 (b)  the quantity sold; and
 (c)  the sales price.
-(2)  The dealer, within ten days after payment for any consigned product of
+(2)  The dealer, within 10 days after payment for any consigned product of
 agriculture, unless otherwise agreed in writing, shall also remit the proceeds
 of the sale in full to the consignor less any agreed compensation and other
 agreed charges together with a settlement statement, which need not list the

@@ -15,7 +15,7 @@ loan, payments, default, and the balance due and shall enter a written order.
 state the fact of default and the balance due on the loan including interest.
 If the examiner finds no default, the order shall dismiss the claim.
 (6)  The findings and order of the hearing examiner are filed with the
-college, university, or board and copies mailed to the borrower within ten
-days after conclusion of the hearing.
+college, university, or board and copies mailed to the borrower within 10 days
+after conclusion of the hearing.
 (7)  The hearing may be continued by agreement of the parties and approval of
 the hearing examiner or upon order of the hearing examiner.

@@ -86,8 +86,8 @@ interception of any wire, electronic, or oral communication for any period
 longer than is necessary to achieve the objective of the authorization, but in
 any event for no longer than 30 days.  The 30-day period begins on the day the
 investigative or law enforcement officer first begins to conduct an
-interception under the order, or ten days after the order is entered,
-whichever is earlier.
+interception under the order, or 10 days after the order is entered, whichever
+is earlier.
 (b)  Extensions of an order may be granted, but only upon application for an
 extension made under Subsection (1), and if the court makes the findings
 required by Subsection (2).  The period of extension may be no longer than the
@@ -145,7 +145,7 @@ alterations.  Immediately upon the expiration of the period of an order, or
 extension, the recordings shall be made available to the judge issuing the
 order and sealed under his directions.  Custody of the recordings shall be
 where the judge orders.  The recordings may not be destroyed, except upon an
-order of the issuing or denying judge.  In any event, it shall be kept for ten
+order of the issuing or denying judge.  In any event, it shall be kept for 10
 years.  Duplicate recordings may be made for use or disclosure under
 Subsections 77-23a-9(1) and (2) for investigations.  The presence of the seal
 provided by this subsection, or a satisfactory explanation for the absence of
@@ -157,7 +157,7 @@ by the judge.  Custody of the applications and orders shall be where the judge
 directs.  The applications and orders shall be disclosed only upon a showing
 of good cause before a judge of competent jurisdiction and may not be
 destroyed, except on order of the issuing or denying judge.  But in any event
-they shall be kept for ten years.
+they shall be kept for 10 years.
 (c)  Any violation of any provision of this subsection may be punished as
 contempt of the issuing or denying judge.
 (d)  Within a reasonable time, but not later than 90 days after the filing of
@@ -181,11 +181,11 @@ subsection may be postponed.
 (10)  The contents of any intercepted wire, electronic, or oral communication,
 or evidence derived from any of them, may not be received in evidence or
 otherwise disclosed in any trial, hearing, or other proceeding in a federal or
-state court unless each party, not less than ten days before the trial,
+state court unless each party, not less than 10 days before the trial,
 hearing, or proceeding, has been furnished with a copy of the court order, and
 accompanying application, under which the interception was authorized or
 approved.  This ten-day period may be waived by the judge if he finds that it
-was not possible to furnish the party with the above information ten days
+was not possible to furnish the party with the above information 10 days
 before the trial, hearing, or proceeding and that the party will not be
 prejudiced by the delay in receiving the information.
 (11) (a)  Any aggrieved person in any trial, hearing, or proceeding in or

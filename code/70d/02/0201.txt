@@ -1,4 +1,4 @@
-70D-2-201 (Superseded 01/01/10).   Notification -- Exemptions.
+70D-2-201.   Notification of department -- Exemptions.
 (1)  Except as provided in Subsection (2), a person may not engage in business
 as a lender, broker, or servicer in this state before the day on which the
 person:
@@ -12,5 +12,6 @@ reimbursement or fee described in Subsection 70D-2-203(2):
 Subsection (2)(a); and
 (c)  a person who:
 (i) is required to be licensed with the Division of Real Estate pursuant to
-Title 61, Chapter 2c, Utah Residential Mortgage Practices Act; and
+Title 61, Chapter 2c, Utah Residential Mortgage Practices and Licensing Act;
+and
 (ii)  is not a servicer.

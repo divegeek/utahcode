@@ -1,5 +1,5 @@
-63H-1-201 (Superseded 10/01/09).   Creation of military installation
-development authority -- Status and powers of authority -- Limitation.
+63H-1-201.   Creation of military installation development authority --
+Status and powers of authority -- Limitation.
 (1)  There is created a military installation development authority.
 (2)  The authority is:
 (a)  an independent, nonprofit, separate body corporate and politic, with
@@ -26,10 +26,10 @@ lessee or lessor:
 (i)  on military land; or
 (ii)  outside military land, if the board considers the lease to be necessary
 for fulfilling the authority's development objectives;
-(g)  provide for the development of military land under contracts with the
-federal government;
-(h)  exercise powers and perform functions under a contract with the federal
-government, as authorized in that contract;
+(g)  provide for the development of land within a project area under one or
+more contracts;
+(h)  exercise powers and perform functions under a contract, as authorized in
+the contract;
 (i)  exercise exclusive police power within a project area to the same extent
 as though the authority were a municipality, including the collection of
 regulatory fees;
@@ -48,7 +48,8 @@ Assessment Area Act;
 (n)  hire employees, including contract employees;
 (o)  transact other business and exercise all other powers provided for in
 this chapter;
-(p)  enter into a development agreement with a developer of military land;
+(p)  enter into a development agreement with a developer of military land
+within a project area;
 (q)  enter into an agreement with a political subdivision of the state under
 which the political subdivision provides one or more municipal services within
 a project area;

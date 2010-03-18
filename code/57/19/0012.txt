@@ -11,7 +11,7 @@ as "calendar days."
 (c)  Within 30 days after receipt of timely notice of cancellation, the
 developer shall refund any money or other consideration paid by the purchaser.
 (2)  Every agreement to purchase an interest in a project which is subject to
-this chapter shall include the following statement in at least ten point bold
+this chapter shall include the following statement in at least 10 point bold
 upper-case type, immediately preceding the space for the purchaser's
 signature:
 "PURCHASER'S RIGHT TO CANCEL: YOU MAY CANCEL THIS AGREEMENT WITHOUT ANY

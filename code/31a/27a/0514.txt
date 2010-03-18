@@ -55,7 +55,7 @@ this section by a party; and
 (7) (a)  Before the commissioner may take an action set forth in Subsection
 (6), written notice shall be given to the person accused of violating the law:
 (i)  stating specifically the nature of the alleged violation; and
-(ii)  fixing a time and place, at least ten days after the day on which the
+(ii)  fixing a time and place, at least 10 days after the day on which the
 notice is sent, when a hearing on the matter is to be held.
 (b)  After a hearing, or upon failure of the accused to appear at a hearing,
 the commissioner, if a violation is found, shall impose the penalties under

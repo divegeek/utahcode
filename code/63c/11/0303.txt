@@ -44,7 +44,7 @@ commission initiates an adjudicative proceeding regarding the conduct within
 four years after the conduct is reported to the commission, except under
 Subsection (6)(b).
 (b)  The commission may not take disciplinary action against any person for
-unlawful or unprofessional conduct more than ten years after the occurrence of
+unlawful or unprofessional conduct more than 10 years after the occurrence of
 the conduct, unless the proceeding is in response to a civil or criminal
 judgment or settlement and the proceeding is initiated within one year
 following the judgment or settlement.

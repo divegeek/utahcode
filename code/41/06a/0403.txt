@@ -14,8 +14,8 @@ information given is not correct; and
 owner's or operator's security is in effect.
 (3)  The peace officer shall deposit all completed forms with the peace
 officer's law enforcement agency, which shall forward the forms to the
-department no later than ten days after receipt.
-(4) (a)  The department shall within ten days of receipt of the forms from the
+department no later than 10 days after receipt.
+(4) (a)  The department shall within 10 days of receipt of the forms from the
 law enforcement agency take action as follows:
 (i)  if the operator provided no information under Subsection (1) and other
 information available to the peace officer does not indicate that owner's or

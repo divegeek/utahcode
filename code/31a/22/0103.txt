@@ -13,7 +13,7 @@ certificate of authority to do business in this state.  However, a public
 official or court-appointed fiduciary may, by prior written request, require
 that a copy of the insurer's certificate of authority, certified by the
 commissioner, be delivered.  The insurer's failure to deliver a certified copy
-of the surety's certificate of authority within ten days of receipt of the
+of the surety's certificate of authority within 10 days of receipt of the
 request is adequate grounds for refusing to accept the suretyship instrument.
 Failure to request a copy of the certificate of authority prior to accepting
 the surety instrument is a waiver of the right to request the certificate.

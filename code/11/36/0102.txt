@@ -57,7 +57,7 @@ development resulting from a development activity; and
 that are roughly proportionate and reasonably related to the service demands
 and needs of any development activity.
 (13)  "Public facilities" means only the following capital facilities that
-have a life expectancy of ten or more years and are owned or operated by or on
+have a life expectancy of 10 or more years and are owned or operated by or on
 behalf of a local political subdivision or private entity:
 (a)  water rights and water supply, treatment, and distribution facilities;
 (b)  wastewater collection and treatment facilities;

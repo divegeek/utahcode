@@ -1,5 +1,5 @@
-41-1a-422 (Superseded 10/01/09).   Support special group license plates --
-Contributor -- Voluntary contribution collection procedures.
+41-1a-422.   Support special group license plates -- Contributor --
+Voluntary contribution collection procedures.
 (1)  As used in this section:
 (a) (i)  Except as provided in Subsection (1)(a)(ii), "contributor" means a
 person who has donated or in whose name at least $25 has been donated to:
@@ -29,9 +29,11 @@ education;
 53-1-118 to support the families of fallen Utah Highway Patrol troopers and
 other Department of Public Safety employees;
 (M)  the Division of Parks and Recreation for distribution to organizations
-that provide support for Zion National Park; or
+that provide support for Zion National Park;
 (N)  the Firefighter Support Restricted Account created in Section 53-7-109 to
-support firefighter organizations.
+support firefighter organizations; or
+(O)  the Share the Road Bicycle Support Restricted Account created in Section
+72-2-127 to support bicycle operation and safety awareness programs.
 (ii) (A)  For a veterans' special group license plate, "contributor" means a
 person who has donated or in whose name at least a $25 donation at the time of
 application and $10 annual donation thereafter has been made.

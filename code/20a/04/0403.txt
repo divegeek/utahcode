@@ -37,9 +37,9 @@ petition nominating an independent candidate, or when challenging any person,
 election officer, election official, board, or convention for failing to
 nominate a person, a registered voter shall contest the right of any person
 declared nominated to any office by filing a verified written complaint within
-ten days after the date of the canvass for the primary election, after the
-date of filing of the petition, or after the date of the convention,
-respectively, with:
+10 days after the date of the canvass for the primary election, after the date
+of filing of the petition, or after the date of the convention, respectively,
+with:
 (i)  the district court of the county in which he resides if he is contesting
 a nomination made only by voters from that county; or
 (ii)  the Utah Supreme Court, if he is contesting a nomination made by voters
@@ -121,7 +121,7 @@ alleged as a ground for the contest, the defendant shall set forth in the
 answer the name and address of all persons whom the defendant believes were
 properly or improperly admitted or denied the vote.
 (e)  If the answer contains a counterclaim, the petitioner shall file a reply
-within ten days after service of the counterclaim.
+within 10 days after service of the counterclaim.
 (6) (a)  The provisions of this Subsection (6) provide additional requirements
 that apply to municipal election contests that are in addition to the other
 requirements of this section governing election contest.

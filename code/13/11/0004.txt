@@ -38,7 +38,7 @@ or, if no specific time is advertised or represented, fails to ship the goods
 or furnish the services within 30 days, unless within the applicable time
 period the supplier provides the buyer with the option to:
 (i)  cancel the sales agreement and receive a refund of all previous payments
-to the supplier if the refund is mailed or delivered to the buyer within ten
+to the supplier if the refund is mailed or delivered to the buyer within 10
 business days after the day on which the seller receives written notification
 from the buyer of the buyer's intent to cancel the sales agreement and receive
 the refund; or

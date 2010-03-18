@@ -1,7 +1,7 @@
 16-13-5.   Bonds or securities, capital stock of development corporations --
 Authority to purchase, hold or dispose of -- Rights of holders -- Rights of
 financial institutions.
-(1) All persons, firms, partnerships, associations, trusts and domestic and
+(1)  All persons, firms, partnerships, associations, trusts and domestic and
 foreign corporations organized or authorized to do business in this state,
 including, without implied limitation, all financial institutions, public
 utility corporations and insurance corporations, are hereby authorized to
@@ -30,8 +30,8 @@ the capital stock of the corporation, and while owners thereof, to exercise
 all the rights, powers and privileges of ownership, including the right to
 vote, all without approval of any regulatory authority of the state; provided,
 that the amount of the capital stock of the corporation which may be acquired
-by any lender pursuant to the authority granted herein shall not exceed ten
-per cent of the loan limit of such lender. The amount of capital stock of the
-corporation which any lender is authorized to acquire pursuant to the
-authority granted herein is in addition to the amount of capital stock in
-corporations which such lender may otherwise be authorized to acquire.
+by any lender pursuant to the authority granted herein shall not exceed 10% of
+the loan limit of such lender. The amount of capital stock of the corporation
+which any lender is authorized to acquire pursuant to the authority granted
+herein is in addition to the amount of capital stock in corporations which
+such lender may otherwise be authorized to acquire.

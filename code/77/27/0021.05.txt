@@ -33,10 +33,10 @@ conspiracy to commit a crime in another jurisdiction that is substantially
 equivalent to the offenses listed in Subsection (1)(g)(i) and who is:
 (A)  a Utah resident; or
 (B)  not a Utah resident, but who, in any 12 month period, is in this state
-for a total of ten or more days, regardless of whether or not the offender
+for a total of 10 or more days, regardless of whether or not the offender
 intends to permanently reside in this state;
 (iii)  is required to register as an offender in any other jurisdiction, and
-who, in any 12 month period, is in this state for a total of ten or more days,
+who, in any 12 month period, is in this state for a total of 10 or more days,
 regardless of whether or not the offender intends to permanently reside in
 this state;
 (iv)  is a nonresident regularly employed or working in this state, or who is
@@ -66,7 +66,7 @@ another location at any future date.
 administrative rules of the department made under this section.
 (m)  "Secondary residence" means any real property that the offender owns or
 has a financial interest in, and any location where, in any 12 month period,
-the offender stays overnight a total of ten or more nights when not staying at
+the offender stays overnight a total of 10 or more nights when not staying at
 the offender's primary residence.
 (n)  "Sex offender" means any person:
 (i)  convicted in this state of:
@@ -106,10 +106,10 @@ conspiracy to commit a crime in another jurisdiction that is substantially
 equivalent to the offenses listed in Subsection (1)(n)(i) and who is:
 (A)  a Utah resident; or
 (B)  not a Utah resident, but who, in any 12 month period, is in this state
-for a total of ten or more days, regardless of whether the offender intends to
+for a total of 10 or more days, regardless of whether the offender intends to
 permanently reside in this state;
 (iii)  who is required to register as an offender in any other jurisdiction,
-and who, in any 12 month period, is in the state for a total of ten or more
+and who, in any 12 month period, is in the state for a total of 10 or more
 days, regardless of whether or not the offender intends to permanently reside
 in this state;
 (iv)  who is a nonresident regularly employed or working in this state or who
@@ -188,7 +188,7 @@ enforcement agency or the department, that the offender should contact to
 register, the location for registering, and the requirements of registration.
 (10)  An offender convicted by any other jurisdiction is required to register
 under Subsection (1)(g) or (n) and Subsection (12) and shall register with the
-department within ten days of entering the state, regardless of the offender's
+department within 10 days of entering the state, regardless of the offender's
 length of stay.
 (11) (a)  An offender required to register under Subsection (1)(g) or (n) who
 is under supervision by the department shall register with Division of Adult
@@ -198,7 +198,7 @@ longer under supervision by the department shall register with the police
 department or sheriff's office that has jurisdiction over the area where the
 offender resides.
 (12) (a)  Except as provided in Subsections (12)(b), (c), and (d), an offender
-shall, for the duration of the sentence and for ten years after termination of
+shall, for the duration of the sentence and for 10 years after termination of
 sentence or custody of the division, register every year during the month of
 the offender's birth, during the month that is the sixth month after the
 offender's birth month, and also within three business days of every change of
@@ -212,7 +212,7 @@ registration in the jurisdiction of conviction, shall:
 (i)  register for the time period, and in the frequency, required by the
 jurisdiction where the offender was convicted if that jurisdiction's
 registration period or registration frequency requirement for the offense that
-the offender was convicted of is greater than the ten years from completion of
+the offender was convicted of is greater than the 10 years from completion of
 the sentence registration period that is required under Subsection (12)(a), or
 is more frequent than every six months; or
 (ii)  register in accordance with the requirements of Subsection (12)(a), if

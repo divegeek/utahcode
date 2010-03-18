@@ -25,10 +25,10 @@ filed.
 (4)  The petitioner shall cause the petition required under this section to be
 served on the person who the petitioner is requesting to be tested in a manner
 that will best preserve the confidentiality of that person.
-(5) (a)  The court shall set a time for a hearing on the matter within ten
-days after the petition is filed and shall give the petitioner and the
-individual who is the subject of the petition notice of the hearing at least
-72 hours prior to the hearing.
+(5) (a)  The court shall set a time for a hearing on the matter within 10 days
+after the petition is filed and shall give the petitioner and the individual
+who is the subject of the petition notice of the hearing at least 72 hours
+prior to the hearing.
 (b)  The individual who is the subject of the petition shall also be notified
 that he may have an attorney present at the hearing, and that his attorney may
 examine and cross-examine witnesses.
@@ -47,7 +47,7 @@ under this section if it finds that there is a substantial reason, relating to
 the life or health of the individual, not to enter the order.
 (9) (a)  Upon order of the district court that a person submit to testing for
 a disease, that person shall report to the designated local health department
-to have his blood drawn within ten days from the issuance of the order, and
+to have his blood drawn within 10 days from the issuance of the order, and
 thereafter as designated by the court, or be held in contempt of court.
 (b)  The court shall send the order to the Department of Health and to the
 local health department ordered to draw the blood.

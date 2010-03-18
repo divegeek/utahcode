@@ -5,7 +5,7 @@ contain a notice prominently printed on or attached to the cover or front page
 of the policy, contract, or certificate stating that the policyholder,
 contract holder, or certificate holder has the right to return the policy,
 contract, or certificate for any reason on or before:
-(i)  ten days after the day on which the policy, contract, or certificate is
+(i)  10 days after the day on which the policy, contract, or certificate is
 delivered; or
 (ii)  in case of a replacement policy, contract, or certificate, 30 days after
 the day on which the replacement policy, contract, or certificate is

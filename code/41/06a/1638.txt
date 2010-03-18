@@ -11,10 +11,10 @@ requirements of Section 41-6a-1611.
 directions of a peace officer or an official traffic-control device; or
 (iv)  while the devices specified in Subsections (2) through (6) are in place.
 (2) (a)  Except as provided in Subsection (3), if a vehicle of a type
-specified under Subsection (1) is disabled or stopped for more than ten
-minutes on a roadway outside of an urban district under the conditions
-specified under Subsection 41-6a-1603(1), the operator of the vehicle shall
-display the following warning devices:
+specified under Subsection (1) is disabled or stopped for more than 10 minutes
+on a roadway outside of an urban district under the conditions specified under
+Subsection 41-6a-1603(1), the operator of the vehicle shall display the
+following warning devices:
 (i)  a lighted fusee, a lighted red electric lantern, or a portable red
 emergency reflector shall immediately be placed at the traffic side of the
 vehicle in the direction of the nearest approaching traffic; and
@@ -27,7 +27,7 @@ in the following order:
 lane occupied by the vehicle and toward traffic approaching in that lane;
 (B)  one approximately 100 feet in the opposite direction from the disabled
 vehicle and in the center of the traffic lane occupied by the vehicle; and
-(C)  one at the traffic side of the disabled vehicle not less than ten feet
+(C)  one at the traffic side of the disabled vehicle not less than 10 feet
 rearward or forward of the disabled vehicle in the direction of the nearest
 approaching traffic.
 (b)  If a lighted red electric lantern or a red portable emergency reflector
@@ -35,7 +35,7 @@ has been placed at the traffic side of the vehicle in accordance with
 Subsection (2)(a)(ii)(A), a rearward lantern or reflector under Subsection
 (2)(a)(ii)(C) is not required.
 (3) If a vehicle specified under this section is disabled, or stopped for more
-than ten minutes:
+than 10 minutes:
 (a)  within 500 feet of a curve, hillcrest, or other obstruction to view, the
 warning device in that direction shall be placed to afford ample warning to
 other users of the highway, but in no case less than 100 feet or more than 500
@@ -49,7 +49,7 @@ traffic approaching in that lane;
 (ii)  one at a distance of approximately 100 feet from the vehicle, in the
 center of the lane occupied by the vehicle and in the direction of traffic
 approaching in that lane; and
-(iii)  one at the traffic side of the vehicle and approximately ten feet from
+(iii)  one at the traffic side of the vehicle and approximately 10 feet from
 the vehicle in the direction of the nearest approaching traffic; or
 (c) on a roadway outside of an urban district or on the roadway of a divided
 highway not under the conditions specified under Subsection 41-6a-1603(1), the
@@ -63,7 +63,7 @@ one flag approximately 200 feet to the rear of the vehicle in the center of
 the lane occupied by the vehicle.
 (4) When a motor vehicle used in the transportation of explosives or any cargo
 tank truck used for the transportation of any flammable liquid or compressed
-gas is disabled, or stopped for more than ten minutes, at any time and place
+gas is disabled, or stopped for more than 10 minutes, at any time and place
 specified under Subsection (2) or (3), the operator of the vehicle shall
 immediately display red electric lanterns or portable red emergency reflectors
 in the same number and manner as specified in Subsection (2) or (3).

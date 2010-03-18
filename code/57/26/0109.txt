@@ -3,7 +3,7 @@
 assignee may give to a tenant of the real property a notification demanding
 that the tenant pay to the assignee all unpaid accrued rents and all unaccrued
 rents as they accrue.  The assignee shall give a copy of the notification to
-the assignor and to any other person that, ten days before the notification
+the assignor and to any other person that, 10 days before the notification
 date, held a recorded assignment of rents arising from the real property.  The
 notification must be signed by the assignee and:
 (a)  identify the tenant, assignor, assignee, premises covered by the
@@ -47,7 +47,7 @@ notification, whichever occurs first.
 (4)  A tenant that has received a notification under Subsection (1) is not in
 default for nonpayment of rents accruing within 30 days after the date the
 notification is received before the earlier of:
-(a)  ten days after the date the next regularly scheduled rental payment would
+(a)  10 days after the date the next regularly scheduled rental payment would
 be due; or
 (b)  30 days after the date the tenant receives the notification.
 (5)  Upon receiving a notification from another creditor that is entitled to

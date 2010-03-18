@@ -8,7 +8,7 @@ unemployment insurance benefits will be sent to all base-period employers and
 all subsequent employers prior to the payment of benefits.  Any employing unit
 that receives a notice of the filing of a claim may protest payment of
 benefits to former employees or charges to the employer if the protest is
-filed within ten days after the date the notice is issued.
+filed within 10 days after the date the notice is issued.
 (3)  On or before November 1 of each year beginning November 1, 1984, each
 employer shall receive notification of all benefit costs of former workers
 that have been charged to that employer in the immediately preceding fiscal
@@ -38,6 +38,6 @@ moneys in the clearing account of the fund.
 (c)  For like cause and within the same period, an adjustment or refund may be
 made on the division's own initiative.
 (d)  Decisions with respect to applications for refund are final unless the
-employing unit, within ten days after the mailing or personal delivery of
+employing unit, within 10 days after the mailing or personal delivery of
 notice of the decision, applies to the division for a review of the decision
 as provided in Section 35A-4-508.

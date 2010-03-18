@@ -8,7 +8,7 @@ reasonable when all the circumstances are considered.
 (3)  Notice is fair and reasonable if:
 (a)  the nonprofit corporation notifies its members of the place, date, and
 time of each annual, regular, and special meeting of members:
-(i)  no fewer than ten days before the meeting;
+(i)  no fewer than 10 days before the meeting;
 (ii)  if notice is mailed by other than first-class or registered mail, no
 fewer than 30 days, nor more than 60 days before the meeting date; and
 (iii) if notice is given:
@@ -16,7 +16,7 @@ fewer than 30 days, nor more than 60 days before the meeting date; and
 publication three separate times with:
 (I)  the first of the publications no more than 60 days before the meeting
 date; and
-(II)  the last of the publications no fewer than ten days before the meeting
+(II)  the last of the publications no fewer than 10 days before the meeting
 date; and
 (B) (I)  by publication in accordance with Section 45-1-101; and
 (II)  as provided in Subsection 16-6a-103(2)(b)(i)(B), for 60 days before the
@@ -43,5 +43,5 @@ raise at the meeting if:
 (a)  requested in writing to do so by a person entitled to call a special
 meeting; and
 (b)  the request is received by the secretary or president of the nonprofit
-corporation at least ten days before the nonprofit corporation gives notice of
+corporation at least 10 days before the nonprofit corporation gives notice of
 the meeting.

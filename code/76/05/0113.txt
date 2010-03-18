@@ -45,7 +45,7 @@ to establish the defense.
 containing the names and addresses of the witnesses the prosecutor proposes to
 examine in order to contradict or rebut the defendant's claim of an
 affirmative defense under Subsection (4)(a).  This notice shall be filed or
-served not more than ten days after receipt of the defendant's notice under
+served not more than 10 days after receipt of the defendant's notice under
 Subsection (4)(b), or at another time as the court may direct.
 (d) (i)  Failure of a party to comply with the requirements of Subsection
 (4)(b) or (4)(c) entitles the opposing party to a continuance to allow for

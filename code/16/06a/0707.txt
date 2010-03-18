@@ -9,7 +9,7 @@ take the action at a meeting at which all members entitled to vote on the
 action were present and voted.
 (2) (a)  Unless the written consents of all members entitled to vote have been
 obtained, notice of any member approval without a meeting shall be given at
-least ten days before the consummation of the transaction, action, or event
+least 10 days before the consummation of the transaction, action, or event
 authorized by the member action to:
 (i)  those members entitled to vote who have not consented in writing; and
 (ii)  those members:

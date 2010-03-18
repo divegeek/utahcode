@@ -5,7 +5,7 @@ period solely because of an unpaid delinquency charge relating to an earlier
 installment.
 (2) (a)  With respect to a closed-end loan other than one in which the finance
 charge is based on unpaid daily balances, if two payments or parts of two
-payments are past due for more than ten days, the lender may convert the loan
+payments are past due for more than 10 days, the lender may convert the loan
 to one in which the finance charge is based on unpaid daily balances.
 (b)  In the event of conversion under Subsection (2)(a):
 (i)  the creditor shall calculate the unpaid balance of the debt in accordance

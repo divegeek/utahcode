@@ -35,6 +35,6 @@ cost of the action brought.
 (4) (a)  If the renter is notified that the owner intends to terminate the
 rental agreement pursuant to Section 57-22-4, the renter is entitled to
 receive the balance of the rent due and the deposit on the rental unit within
-ten days of the date the agreement is terminated.
-(b)  No renter may be required to move sooner than ten days after the date of
+10 days of the date the agreement is terminated.
+(b)  No renter may be required to move sooner than 10 days after the date of
 notice.

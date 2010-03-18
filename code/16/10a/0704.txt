@@ -9,7 +9,7 @@ be necessary to authorize or take the action at a meeting at which all shares
 entitled to vote thereon were present and voted.
 (2) (a)  Unless the written consents of all shareholders entitled to vote have
 been obtained, notice of any shareholder approval without a meeting shall be
-given at least ten days before the consummation of the transaction, action, or
+given at least 10 days before the consummation of the transaction, action, or
 event authorized by the  shareholder action to:
 (i)  those shareholders entitled to vote who have not consented in writing;
 and

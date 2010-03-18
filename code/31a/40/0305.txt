@@ -2,7 +2,7 @@
 (1) (a)  A person that files a financial statement with an application for an
 initial license under Section 31A-40-302 shall file the professional employer
 organization's most recent audit as of the day the application is filed,
-except that the financial statement may not be older than ten months from the
+except that the financial statement may not be older than 10 months from the
 day on which the application is filed.
 (b)  A person that files a financial statement to renew a license shall file
 the most recent financial statement of the professional employer organization

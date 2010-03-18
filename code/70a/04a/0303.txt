@@ -3,14 +3,14 @@
 a payment order in an amount greater than the amount of the sender's order, or
 issues a payment order in execution of the sender's order and then issues a
 duplicate order, is entitled to payment of the amount of the sender's order in
-accordance with Subsection 70A-4a-402 (3) if that subsection is otherwise
+accordance with Subsection 70A-4a-402(3) if that subsection is otherwise
 satisfied.  The bank is entitled to recover from the beneficiary of the
 erroneous order the excess payment received to the extent allowed by the law
 governing mistake and restitution.
 (2) (a)  A receiving bank that executes the payment order of the sender by
 issuing a payment order in an amount less than the amount of the sender's
 order is entitled to payment of the amount of the sender's order in accordance
-with Subsection 70A-4a-402 (3) if:
+with Subsection 70A-4a-402(3) if:
 (i)  that subsection is otherwise satisfied; and
 (ii)  the bank corrects its mistake by issuing an additional payment order for
 the benefit of the beneficiary of the sender's order.

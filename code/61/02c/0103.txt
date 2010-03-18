@@ -1,6 +1,6 @@
-61-2c-103 (Superseded 01/01/10).   Powers and duties of the division.
+61-2c-103.   Powers and duties of the division.
 (1)  The division shall administer this chapter.
-(2)  In addition to any power or duty expressly provided in this chapter, the
+(2)  In addition to a power or duty expressly provided in this chapter, the
 division may:
 (a)  receive and act on a complaint including:
 (i)  taking action designed to obtain voluntary compliance with this chapter;
@@ -13,37 +13,56 @@ respect to residential mortgage loans;
 policies of this chapter; and
 (ii)  make the results of the studies described in Subsection (2)(c)(i)
 available to the public;
-(d)  visit and investigate an entity licensed under this chapter, regardless
-of whether the entity is located in Utah; and
+(d)  visit and investigate a person licensed under this chapter, regardless of
+whether the person is located in Utah; and
 (e)  employ one or more necessary hearing examiners, investigators, clerks,
 and other employees and agents.
 (3)  The division shall make rules for the administration of this chapter in
 accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
 including:
 (a)  licensure procedures for:
-(i) an individual or entity required by this chapter to obtain a license with
-the division; and
+(i)  a person required by this chapter to obtain a license with the division;
+and
 (ii)  the establishment of a branch office by an entity;
-(b)  proper handling of funds received by a licensee;
+(b)  proper handling of monies received by a licensee;
 (c)  record-keeping requirements by a licensee, including proper disposal of a
-record; and
-(d)  standards of conduct for a licensee.
-(4)  The division may make available to the public a list of the names and
-mailing addresses of all licensees:
+record;
+(d)  certification procedures for certifying an education provider; and
+(e)  standards of conduct for a licensee or certified education provider.
+(4)  The division may by rule made in accordance with Title 63G, Chapter 3,
+Utah Administrative Rulemaking Act, require as a condition of maintaining a
+license or certification under this chapter that a person comply with a
+requirement of the nationwide database if:
+(a)  required for uniformity amongst states; and
+(b)  not inconsistent with this chapter.
+(5)  The division shall by rule made in accordance with Title 63G, Chapter 3,
+Utah Administrative Rulemaking Act, provide a process under which an
+individual may challenge information contained in the nationwide database.
+(6)  The division may make available to the public a list of the names and
+mailing addresses of licensees:
 (a)  either directly or through a third party; and
 (b)  at a reasonable cost.
-(5)  The division shall:
-(a)  certify an education provider who offers:
-(i)  prelicensing education to candidates for licensure under this chapter; or
-(ii)  continuing education to individuals licensed under this chapter; and
-(b)  make available to the public, licensees, and candidates for licensure a
-list of the names and addresses of all education providers certified under
-this Subsection (5).
-(6)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the division shall make rules establishing:
-(a)  certification criteria and procedures for a provider of prelicensing
-education and continuing education; and
-(b)  standards of conduct for a certified education provider.
-(7)  The division may charge a fee established in accordance with Section
-63J-1-504 for processing a change that a licensee is required by Section
-61-2c-205 to report to the division.
+(7)  The division shall annually:
+(a)  review the requirements related to the nationwide database imposed by
+federal law or the nationwide database on:
+(i)  the division;
+(ii)  a licensee under this chapter;
+(iii)  a certified education provider; or
+(iv)  an approved examination provider; and
+(b)  after the review required by Subsection (7)(a):
+(i)  report to the Business and Labor Interim Committee the impact of the
+requirements on the implementation by the division of this chapter; and
+(ii)  recommend legislation, if any, to the Business and Labor Interim
+Committee related to how the division should coordinate with the nationwide
+database.
+(8)  The division may enter into a relationship or contract with the
+nationwide database or another entity designated by the nationwide database to
+do the following related to a licensee or other person subject to this
+chapter:
+(a)  collect or maintain a record; and
+(b)  process a transaction fee or other fee.
+(9)  The division shall regularly report the following to the nationwide
+database:
+(a)  a violation of this chapter;
+(b)  disciplinary action under this chapter; and
+(c)  other information relevant to this chapter.

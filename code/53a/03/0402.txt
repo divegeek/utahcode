@@ -51,8 +51,8 @@ Act.
 under Title 53A, Chapter 19, School District Budgets.
 (11) (a)  A board may organize school safety patrols and adopt rules under
 which the patrols promote student safety.
-(b)  A student appointed to a safety patrol shall be at least ten years old
-and have written parental consent for the appointment.
+(b)  A student appointed to a safety patrol shall be at least 10 years old and
+have written parental consent for the appointment.
 (c)  Safety patrol members may not direct vehicular traffic or be stationed in
 a portion of a highway intended for vehicular traffic use.
 (d)  Liability may not attach to a school district, its employees, officers,
@@ -157,7 +157,7 @@ board shall:
 (i)  indicate the:
 (A)  school or schools under consideration for closure or boundary change; and
 (B)  date, time, and location of the public hearing; and
-(ii)  at least ten days prior to the public hearing, be:
+(ii)  at least 10 days prior to the public hearing, be:
 (A)  published:
 (I)  in a newspaper of general circulation in the area; and
 (II)  as required in Section 45-1-101; and

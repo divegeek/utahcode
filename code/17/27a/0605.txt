@@ -1,6 +1,6 @@
-17-27a-605 (Superseded 10/01/09).   Exemptions from plat requirement.
+17-27a-605.   Exemptions from plat requirement.
 (1)  Notwithstanding Sections 17-27a-603 and 17-27a-604, the land use
-authority may approve the subdivision of unincorporated land into ten lots or
+authority may approve the subdivision of unincorporated land into 10 lots or
 less without a plat, by certifying in writing that:
 (a)  the county has provided notice as required by ordinance; and
 (b)  the proposed subdivision:
@@ -27,13 +27,53 @@ recorded with the county recorder.
 (c)  If a lot or parcel exempted under Subsection (2)(a) is used for a
 nonagricultural purpose, the county may require the lot or parcel to comply
 with the requirements of Section 17-27a-603.
-(3) (a)  Documents recorded in the county recorder's office that divide
-property by a metes and bounds description do not create an approved
-subdivision allowed by this part unless the land use authority's certificate
-of written approval required by Subsection (1)(a)(ii) is attached to the
-document.
+(3) (a) Except as provided in Subsection (4), a document recorded in the
+county recorder's office that divides property by a metes and bounds
+description does not create an approved subdivision allowed by this part
+unless the land use authority's certificate of written approval required by
+Subsection (1) is attached to the document.
 (b)  The absence of the certificate or written approval required by Subsection
 (1) does not affect the validity of a recorded document.
 (c)  A document which does not meet the requirements of Subsection (1) may be
 corrected by the recording of an affidavit to which the required certificate
 or written approval is attached in accordance with Section 57-3-106.
+(4) (a)  As used in this Subsection (4):
+(i)  "Divided land" means land that:
+(A)  is described as the land to be divided in a notice under Subsection
+(4)(b)(ii); and
+(B)  has been divided by a minor subdivision.
+(ii)  "Land to be divided" means land that is proposed to be divided by a
+minor subdivision.
+(iii)  "Minor subdivision" means a division of at least 100 contiguous acres
+of agricultural land in a county of the third, fourth, fifth, or sixth class
+to create one new lot that, after the division, is separate from the remainder
+of the original 100 or more contiguous acres of agricultural land.
+(iv)  "Minor subdivision lot" means a lot created by a minor subdivision.
+(b)  Notwithstanding Sections 17-27a-603 and 17-27a-604, an owner of at least
+100 contiguous acres of agricultural land may make a minor subdivision by
+submitting for recording in the office of the recorder of the county in which
+the land to be divided is located:
+(i)  a recordable deed containing the legal description of the minor
+subdivision lot; and
+(ii)  a notice:
+(A)  indicating that the owner of the land to be divided is making a minor
+subdivision;
+(B)  referring specifically to this section as the authority for making the
+minor subdivision; and
+(C)  containing the legal description of:
+(I)  the land to be divided; and
+(II)  the minor subdivision lot.
+(c)  A minor subdivision lot:
+(i)  may not be less than one acre in size;
+(ii)  may not be within 1,000 feet of another minor subdivision lot; and
+(iii)  is not subject to the subdivision ordinance of the county in which the
+minor subdivision lot is located.
+(d)  Land to be divided by a minor subdivision may not include divided land.
+(e)  A county:
+(i)  may not deny a building permit to an owner of a minor subdivision lot
+based on:
+(A)  the lot's status as a minor subdivision lot; or
+(B)  the absence of standards described in Subsection (4)(e)(ii); and
+(ii)  may, in connection with the issuance of a building permit, subject a
+minor subdivision lot to reasonable health, safety, and access standards that
+the county has established and made public.

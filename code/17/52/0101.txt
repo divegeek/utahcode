@@ -17,7 +17,7 @@ for a county as provided in Section 17-52-401.
 (3)  "Reasonable notice" means, at a minimum:
 (a)  publication:
 (i) (A)  in a newspaper of general circulation within the county at least once
-a week for at least two consecutive weeks ending no more than ten and no fewer
+a week for at least two consecutive weeks ending no more than 10 and no fewer
 than three days before the event that is the subject of the notice; or
 (B)  if there is no newspaper of general circulation within the county,
 posting at least one notice per 1,000 population within the county, for at

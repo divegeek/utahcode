@@ -1,6 +1,5 @@
-61-2c-205 (Superseded 01/01/10).   Term of licensure -- Renewal -- Reporting
-of changes.
-(1) (a)  A license under this chapter is valid for a two-year period.
+61-2c-205.   Term of licensure -- Renewal -- Reporting of changes.
+(1) (a)  A license under this chapter is valid for one year.
 (b)  Notwithstanding Subsection (1)(a), the time period of a license may be
 extended or shortened by as much as one year to maintain or change a renewal
 cycle established by rule by the division.
@@ -12,11 +11,10 @@ licensee shall:
 Section 63J-1-504; and
 (c)  if the licensee is an individual and the individual's license is in
 active status at the time of application for renewal, submit proof using forms
-approved by the division of having completed during the two years prior to
-application the continuing education required by the commission under Section
-61-2c-104.
+approved by the division of having completed during the year before
+application the continuing education required under Section 61-2c-204.1.
 (3) (a)  A licensee under this chapter shall notify the division using the
-form required by the division within ten days of the date on which there is a
+form required by the division within 10 days of the date on which there is a
 change in:
 (i)  a name under which the licensee transacts the business of residential
 mortgage loans in this state;
@@ -32,12 +30,12 @@ division.
 (b)  Failure to notify the division of a change described in Subsection (3)(a)
 is separate grounds for disciplinary action against a licensee.
 (4)  A licensee shall notify the division by sending the division a signed
-statement within ten business days of:
-(a) (i)  a conviction of any criminal offense;
-(ii)  the entry of a plea in abeyance to any criminal offense; or
-(iii)  the potential resolution of any criminal case by:
+statement within 10 business days of:
+(a) (i)  a conviction of a criminal offense;
+(ii)  the entry of a plea in abeyance to a criminal offense; or
+(iii)  the potential resolution of a criminal case by:
 (A)  a diversion agreement; or
-(B)  any other agreement under which criminal charges are held in suspense for
+(B)  any other agreement under which a criminal charge is held in suspense for
 a period of time;
 (b)  filing a personal bankruptcy or bankruptcy of a business that transacts
 the business of residential mortgage loans;
@@ -54,27 +52,28 @@ loans; or
 (5) (a)  A license under this chapter expires if the licensee does not apply
 to renew the license on or before the expiration date of the license.
 (b)  Within 30 calendar days after the expiration date, a licensee whose
-license has expired may apply to reinstate the expired license upon:
-(i)  payment of a renewal fee and a late fee determined by the division under
+license has expired may apply to reinstate the expired license by:
+(i)  paying a renewal fee and a late fee determined by the division under
 Section 63J-1-504; and
 (ii)  if the licensee is an individual and is applying to reinstate a license
 to active status, providing proof using forms approved by the division of
-having completed, during the two years prior to application, the continuing
-education required by the commission under Section 61-2c-104.
+having completed, during the year before application, the continuing education
+required under Section 61-2c-204.1.
 (c)  After the 30 calendar days described in Subsection (5)(b) and within six
 months after the expiration date, a licensee whose license has expired may
-apply to reinstate an expired license upon:
-(i)  payment of a renewal fee and a late fee determined by the division under
+apply to reinstate an expired license by:
+(i)  paying a renewal fee and a late fee determined by the division under
 Section 63J-1-504;
 (ii)  if the licensee is an individual and is applying to reinstate a license
 to active status, providing proof using forms approved by the division of
-having completed, during the two years prior to application, the continuing
-education required by the commission under Section 61-2c-104; and
-(iii)  in addition to the continuing education required for a timely renewal,
-completing an additional 12 hours of continuing education approved by the
-commission under Section 61-2c-104.
-(d)  A licensee whose license has been expired for more than six months shall
-be relicensed as prescribed for an original application under Section
+having completed, during the year before application, the continuing education
+required under Section 61-2c-204.1; and
+(iii)  in addition to the continuing education described in Subsection
+(5)(c)(ii), providing proof of completing an additional 12 hours of continuing
+education meeting the requirements of Section 61-2c-204.1.
+(d)  The division shall issue a license to a licensee whose license expires
+under this Subsection (5) for more than six months as if the licensee is a new
+applicant filing an application for an original license under Section
 61-2c-202.
 (e)  Notwithstanding Subsection (5)(a), the division may extend the term of a
 license that would expire under Subsection (5)(a) except for the extension if:
@@ -83,3 +82,6 @@ license; and
 (ii)  at the time of the extension, there is pending under this chapter:
 (A)  the application for renewal of the license; or
 (B)  a disciplinary action.
+(6)  The division may charge a fee established in accordance with Section
+63J-1-504 for processing a change that a licensee is required to report to the
+division under this section.

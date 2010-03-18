@@ -49,10 +49,10 @@ whom communication would be likely to cause annoyance or alarm to the other
 party; or
 (d)  any other relief necessary or convenient for the protection of the
 petitioner and other specifically designated persons under the circumstances.
-(6)  Within ten days of service of the ex parte civil stalking injunction, the
+(6)  Within 10 days of service of the ex parte civil stalking injunction, the
 respondent is entitled to request, in writing, an evidentiary hearing on the
 civil stalking injunction.
-(a)  A hearing requested by the respondent shall be held within ten days from
+(a)  A hearing requested by the respondent shall be held within 10 days from
 the date the request is filed with the court unless the court finds compelling
 reasons to continue the hearing.  The hearing shall then be held at the
 earliest possible time.  The burden is on the petitioner to show by a
@@ -61,10 +61,10 @@ respondent has occurred.
 (b)  An ex parte civil stalking injunction issued under this section shall
 state on its face:
 (i)  that the respondent is entitled to a hearing, upon written request within
-ten days of the service of the order;
+10 days of the service of the order;
 (ii)  the name and address of the district court where the request may be
 filed;
-(iii)  that if the respondent fails to request a hearing within ten days of
+(iii)  that if the respondent fails to request a hearing within 10 days of
 service, the ex parte civil stalking injunction is automatically modified to a
 civil stalking injunction without further notice to the respondent and that
 the civil stalking injunction expires three years after service of the ex
@@ -83,7 +83,7 @@ crime you may have committed in disobeying this order."
 (9)  The ex parte civil stalking injunction shall be served on the respondent
 within 90 days from the date it is signed.  An ex parte civil stalking
 injunction is effective upon service.  If no hearing is requested in writing
-by the respondent within ten days of service of the ex parte civil stalking
+by the respondent within 10 days of service of the ex parte civil stalking
 injunction, the ex parte civil stalking injunction automatically becomes a
 civil stalking injunction without further notice to the respondent and expires
 three years from the date of service of the ex parte civil stalking

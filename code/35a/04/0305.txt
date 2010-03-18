@@ -15,14 +15,14 @@ not less than $25 with respect to each reporting period.
 satisfaction of the division or its authorized representative that the failure
 to file was due to a reasonable cause and not to willful neglect, no addition
 shall be made to the contribution.
-(c) (i)  If contributions are unpaid after ten days from the date of the
+(c) (i)  If contributions are unpaid after 10 days from the date of the
 mailing or personal delivery by the division or its authorized representative,
 of a written demand for payment, there shall attach to the contribution, to be
 assessed and collected in the same manner as contributions due under this
 section, a penalty equal to 5% of the contribution due.
-(ii)  A penalty may not attach if within ten days after the mailing or
-personal delivery, arrangements for payment have been made with the division,
-or its authorized representative, and payment is made in accordance with those
+(ii)  A penalty may not attach if within 10 days after the mailing or personal
+delivery, arrangements for payment have been made with the division, or its
+authorized representative, and payment is made in accordance with those
 arrangements.
 (d)  The division shall assess as a penalty a service charge, in addition to
 any other penalties that may apply, in an amount not to exceed the service
@@ -56,8 +56,8 @@ obtain.
 (b)  The division shall give written notice of the determination to the
 employer.
 (c)  The determination is considered correct unless:
-(i)  the employer, within ten days after mailing or personal delivery of
-notice of the determination, applies to the division for a review of the
+(i)  the employer, within 10 days after mailing or personal delivery of notice
+of the determination, applies to the division for a review of the
 determination as provided in Section 35A-4-508; or
 (ii)  unless the division or its authorized representative of its own motion
 reviews the determination.

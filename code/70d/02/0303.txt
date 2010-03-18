@@ -6,7 +6,7 @@ mortgagor in writing of:
 (b)  the address at which a loan payment should be made.
 (2) (a) (i)  If the servicing of a mortgage loan is assigned, the servicer
 that assigns the servicing and the successor servicer shall each mail, at
-least ten days before the due date of the first mortgage payment due after the
+least 10 days before the due date of the first mortgage payment due after the
 assignment, a written notice to the mortgagor notifying the mortgagor of:
 (A)  the assignment of servicing; and
 (B)  the address at which future loan payments should be made.

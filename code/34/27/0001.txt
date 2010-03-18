@@ -3,7 +3,7 @@ Whenever a mechanic, artisan, miner, laborer, servant, or other employee shall
 have cause to bring suit for wages earned and due according to the terms of
 his employment and shall establish by the decision of the court that the
 amount for which he has brought suit is justly due, and that a demand has been
-made in writing at least fifteen days before suit was brought for a sum not to
+made in writing at least 15 days before suit was brought for a sum not to
 exceed the amount so found due, then it shall be the duty of the court before
 which the case shall be tried to allow to the plaintiff a reasonable
 attorneys' fee in addition to the amount found due for wages, to be taxed as

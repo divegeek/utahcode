@@ -92,7 +92,7 @@ for itself or in a fiduciary capacity:
 (i)  no commission or other remuneration is paid or given directly or
 indirectly for soliciting a prospective subscriber;
 (ii)  the number of subscribers acquiring a legal or beneficial interest
-therein does not exceed ten;
+therein does not exceed 10;
 (iii)  there is no general advertising or solicitation in connection with the
 offer or sale; and
 (iv)  no payment is made by a subscriber;
@@ -164,10 +164,9 @@ division such proxy or informational material as the division requires by
 rule;
 (iv)  the proxy or informational material is filed with the division and
 distributed to all securities holders entitled to vote in the transaction or
-series of transactions at least ten working days prior to any necessary vote
-by the securities holders or action on any necessary consent or resolution;
-and
-(v)  the division does not, by order, deny or revoke the exemption within ten
+series of transactions at least 10 working days prior to any necessary vote by
+the securities holders or action on any necessary consent or resolution; and
+(v)  the division does not, by order, deny or revoke the exemption within 10
 working days after filing of the proxy or informational materials;
 (q)  subject to Subsection (7), a transaction pursuant to an offer to sell
 securities of an issuer if:

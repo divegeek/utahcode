@@ -1,6 +1,6 @@
 77-14-2.   Alibi -- Notice requirements -- Witness lists.
 (1) A defendant, whether or not written demand has been made, who intends to
-offer evidence of an alibi shall, not less than ten days before trial or at
+offer evidence of an alibi shall, not less than 10 days before trial or at
 such other time as the court may allow, file and serve on the prosecuting
 attorney a notice, in writing, of his intention to claim alibi. The notice
 shall contain specific information as to the place where the defendant claims

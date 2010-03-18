@@ -1,11 +1,18 @@
-53-3-807 (Superseded 01/01/10).   Expiration -- Address and name change --
-Extension for disabled.
-(1)  An identification card issued on or after July 1, 2006 expires on the
+53-3-807.   Expiration -- Address and name change -- Extension for disabled.
+(1) (a)  An identification card issued on or after July 1, 2006 expires on the
 birth date of the applicant in the fifth year following the issuance of the
 identification card.
+(b)  A limited-term identification card expires on:
+(i)  the expiration date of the period of time of the individual's authorized
+stay in the United States or on the birth date of the applicant in the fifth
+year following the issuance of the limited-term identification card, whichever
+is sooner; or
+(ii)  on the birth date of the applicant in the first year following the year
+that the limited-term identification card was issued if there is no definite
+end to the individual's period of authorized stay.
 (2)  If a person has applied for and received an identification card and
 subsequently moves from the address shown on the application or on the card,
-the person shall within ten days notify the division in a manner specified by
+the person shall within 10 days notify the division in a manner specified by
 the division of the person's new address.
 (3)  If a person has applied for and received an identification card and
 subsequently changes the person's name under Title 42, Chapter 1, Change of
@@ -43,7 +50,7 @@ or (4)(b) because the person is in the custody of the Department of
 Corrections or Division of Juvenile Justice Services, confined in a
 correctional facility not operated by or under contract with the Department of
 Corrections, or committed to a state mental facility, shall comply with the
-provisions of Subsection (4)(a) or (b) within ten days of being released from
+provisions of Subsection (4)(a) or (b) within 10 days of being released from
 confinement.
 (5)  A person older than 21 years of age with a disability, as defined under
 the Americans with Disabilities Act of 1990, Pub. L. 101-336, may extend the
@@ -65,11 +72,9 @@ offender under Section 77-27-21.5 may not be extended.
 (7)  An identification card issued prior to July 1, 2006 to a person 65 years
 of age or older does not expire, but continues in effect until the death of
 that person.
-(8)  Notwithstanding the provisions of this section:
-(a)  an identification card that was obtained without using a Social Security
-number as required under Subsection 53-3-804(2) expires on July 1, 2005; and
-(b)  an identification card expires on the birth date of the applicant in the
-first year following the year that the identification card was issued if the
-applicant is required to register as a sex offender under Section 77-27-21.5.
+(8)  Notwithstanding the provisions of this section, an identification card
+expires on the birth date of the applicant in the first year following the
+year that the identification card was issued if the applicant is required to
+register as a sex offender under Section 77-27-21.5.
 (9)  A person who knowingly fails to surrender an identification card under
 Subsection (4) is guilty of a class A misdemeanor.

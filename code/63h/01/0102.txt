@@ -1,4 +1,4 @@
-63H-1-102 (Superseded 10/01/09).   Definitions.
+63H-1-102.   Definitions.
 As used in this chapter:
 (1)  "Authority" means the Military Installation Development Authority,
 created under Section 63H-1-201.
@@ -15,7 +15,8 @@ that results from a property tax levied by:
 Subsection 17-34-3(2) to levy a property tax under Title 17, Chapter 34,
 Municipal-Type Services to Unincorporated Areas; or
 (b)  an included municipality.
-(5)  "Development project" means a project to develop military land.
+(5)  "Development project" means a project to develop land within a project
+area.
 (6)  "Elected member" means a member of the authority board who:
 (a)  is a mayor appointed under Subsection 63H-1-302(2)(b); or
 (b) (i)  is appointed to the authority board under Subsection 63H-1-302(2)(a)
@@ -38,11 +39,11 @@ Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act.
 (c)  receives as dedicated supplemental tax increment.
 (11)  "Municipal tax" means a municipal energy tax, telecommunications tax, or
 transient room tax.
-(12)  "Project area" means the military land, whether consisting of a single
-contiguous area or multiple noncontiguous areas, described in a project area
-plan or draft project area plan where the development project set forth in the
-project area plan or draft project area plan takes place or is proposed to
-take place.
+(12)  "Project area" means the land, including military land, whether
+consisting of a single contiguous area or multiple noncontiguous areas,
+described in a project area plan or draft project area plan where the
+development project set forth in the project area plan or draft project area
+plan takes place or is proposed to take place.
 (13)  "Project area budget" means a multiyear projection of annual or
 cumulative revenues and expenses and other fiscal matters pertaining to a
 project area that includes:

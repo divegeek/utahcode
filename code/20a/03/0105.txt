@@ -105,7 +105,7 @@ and shall leave the voting area after voting.
 (b)  A voter may not:
 (i)  occupy a voting booth occupied by another, except as provided in Section
 20A-3-108;
-(ii)  remain within the voting area more than ten minutes; or
+(ii)  remain within the voting area more than 10 minutes; or
 (iii)  occupy a voting booth for more than five minutes if all booths are in
 use and other voters are waiting to occupy them.
 (8)  If the official register shows any voter as having voted, that voter may

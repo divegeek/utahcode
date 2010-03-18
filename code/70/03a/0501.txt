@@ -9,7 +9,7 @@ database.
 database, the person with whom the division contracts may, at the discretion
 of the division, be responsible for all costs of creating the database and
 readying it for use.
-(3) Notwithstanding Subsections 13-1-2(3)(c) and 70-3a-203(2)(c), the database
+(3) Notwithstanding Subsections 13-1-2(3)(c) and 70-3a-203(2), the database
 required by Subsection (1) shall be:
 (a)  directly funded by fees collected for the electronic registration of
 marks, including funding any data storage costs related to operation of the

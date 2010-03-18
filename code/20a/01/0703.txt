@@ -31,7 +31,7 @@ this title and the grounds of those violations in detail.
 (ii)  The complaint may not be amended except by leave of the court.
 (iii)  The summons and complaint in the proceeding shall be filed with the
 court no later than five days after they are served.
-(c) (i)  The answer to the complaint shall be served and filed within ten days
+(c) (i)  The answer to the complaint shall be served and filed within 10 days
 after the service of the summons and complaint.
 (ii)  Any allegation of new matters in the answer shall be considered
 controverted by the adverse party without reply, and the proceeding shall be

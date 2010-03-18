@@ -1,7 +1,7 @@
-59-2-924 (Superseded 01/01/10).   Report of valuation of property to county
-auditor and commission -- Transmittal by auditor to governing bodies --
-Certified tax rate -- Calculation of certified tax rate -- Rulemaking
-authority -- Adoption of tentative budget.
+59-2-924.   Report of valuation of property to county auditor and commission
+-- Transmittal by auditor to governing bodies -- Certified tax rate --
+Calculation of certified tax rate -- Rulemaking authority -- Adoption of
+tentative budget.
 (1)  Before June 1 of each year, the county assessor of each county shall
 deliver to the county auditor and the commission the following statements:
 (a)  a statement containing the aggregate valuation of all taxable real
@@ -21,10 +21,9 @@ ad valorem property tax revenues for a taxing entity as were budgeted by that
 taxing entity for the prior year.
 (b)  For purposes of this Subsection (3):
 (i)  "Ad valorem property tax revenues" do not include:
-(A)  collections from redemptions;
-(B)  interest;
-(C)  penalties; and
-(D)  revenue received by a taxing entity from personal property that is:
+(A)  interest;
+(B)  penalties; and
+(C)  revenue received by a taxing entity from personal property that is:
 (I)  assessed by a county assessor in accordance with Part 3, County
 Assessment; and
 (II)  semiconductor manufacturing equipment.
@@ -99,6 +98,19 @@ county assessor in accordance with Part 3, County Assessment.
 (vii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
 Act, the commission may prescribe rules for calculating redevelopment
 adjustments for a calendar year.
+(viii) (A)  For purposes of Subsection (3)(c)(i), for a calendar year
+beginning on or after January 1, 2010, a taxing entity's ad valorem property
+tax revenues budgeted for the prior year shall be decreased by an amount of
+revenue equal to the five-year average of the most recent prior five years of
+redemptions as reported on the county treasurer's final annual settlement
+required under Subsection 59-2-1365(2).
+(B)  For the calendar year beginning on January 1, 2010 and ending on December
+31, 2010, a taxing entity is exempt from the notice and public hearing
+provisions of Section 59-2-919 if the taxing entity budgets an increased
+amount of ad valorem property tax revenue equal to or less than the taxing
+entity's five-year average of the most recent prior five years of redemptions
+as reported on the county treasurer's final annual settlement required under
+Subsection 59-2-1365(2).
 (d) (i)  In accordance with Title 63G, Chapter 3, Utah Administrative
 Rulemaking Act, the commission shall make rules determining the calculation of
 ad valorem property tax revenues budgeted by a taxing entity.

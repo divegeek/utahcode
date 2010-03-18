@@ -86,7 +86,7 @@ with Board of Regents' policy;
 education mission of Salt Lake Community College.
 (c)  If the president of Salt Lake Community College rejects a specific
 recommendation of the board of directors, the president shall:
-(i)  notify the board of directors in writing within ten working days of the
+(i)  notify the board of directors in writing within 10 working days of the
 rejection and the reasons for the rejection; and
 (ii)  provide the board of directors an opportunity to modify its specific
 recommendation and resubmit it to the president.

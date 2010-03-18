@@ -43,4 +43,4 @@ and properly cause the body to be reburied upon completion of the examination.
 be made to the district attorney or county attorney having criminal
 jurisdiction for any action the attorney considers appropriate.  The district
 attorney or county attorney shall submit the return of the order to exhume
-within ten days in the manner prescribed by the issuing court.
+within 10 days in the manner prescribed by the issuing court.

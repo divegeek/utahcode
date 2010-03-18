@@ -2,8 +2,8 @@
 (1)  Every person who is directly or indirectly the beneficial owner of more
 than 10% of any class of any equity security of a domestic stock insurance
 corporation, or who is a director or officer of a domestic stock corporation,
-shall file with the commissioner within ten days after he becomes a beneficial
-owner, director, or officer, and within ten days after the close of any
+shall file with the commissioner within 10 days after he becomes a beneficial
+owner, director, or officer, and within 10 days after the close of any
 following calendar month in which there has been a change in his ownership or
 office, a statement in a form prescribed by the commissioner, of his office
 and of all the equity securities of the company which he beneficially owns,

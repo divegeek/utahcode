@@ -32,7 +32,7 @@ appropriate, direct the seizure of the property specified;
 (v)  direct that it be served during normal business hours and designate the
 judge or magistrate to whom it shall be returned.
 (c)  A warrant issued pursuant to this section must be executed and returned
-within ten days after its date unless, upon a showing of a need for additional
+within 10 days after its date unless, upon a showing of a need for additional
 time, the court instructs otherwise in the warrant.  If property is seized
 pursuant to a warrant, the person executing the warrant shall give to the
 person from whom or from whose premises the property was taken a copy of the

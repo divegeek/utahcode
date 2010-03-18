@@ -63,13 +63,13 @@ at-risk government employee or former employee by mailing a copy of the
 subpoena to the employee's last-known mailing address together with a request
 that the employee either:
 (i)  authorize release of the record; or
-(ii)  within ten days of the date that the copy and request are mailed,
-deliver to the government agency holding the private record a copy of a motion
-to quash filed with the court who issued the subpoena.
+(ii)  within 10 days of the date that the copy and request are mailed, deliver
+to the government agency holding the private record a copy of a motion to
+quash filed with the court who issued the subpoena.
 (b)  The government agency shall comply with the subpoena if the government
 agency has:
 (i)  received permission from the at-risk government employee or former
 employee to comply with the subpoena;
-(ii)  has not received a copy of a motion to quash within ten days of the date
+(ii)  has not received a copy of a motion to quash within 10 days of the date
 that the copy of the subpoena was mailed; or
 (iii)  receives a court order requiring release of the records.

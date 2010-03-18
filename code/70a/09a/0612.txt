@@ -2,6 +2,6 @@
 (1)  Except as otherwise provided in Subsection (2), whether a notification is
 sent within a reasonable time is a question of fact.
 (2)  In a transaction other than a consumer transaction, a notification of
-disposition sent after default and ten days or more before the earliest time
-of disposition set forth in the notification is sent within a reasonable time
+disposition sent after default and 10 days or more before the earliest time of
+disposition set forth in the notification is sent within a reasonable time
 before the disposition.

@@ -1,6 +1,6 @@
 77-23b-5.   Backup copy of communications -- When required of provider --
 Court order -- Procedures.
-(1) (a)  A governmental entity acting under Subsection 77-23b-4 (2) (b) may
+(1) (a)  A governmental entity acting under Subsection 77-23b-4(2)(b) may
 include in its subpoena or court order a requirement that the service provider
 to whom the request is directed create a backup copy of the contents of the
 electronic communications sought in order to preserve those communications.
@@ -25,14 +25,14 @@ subscriber or customer has challenged the governmental entity's request; and
 (ii)  has not initiated proceedings to challenge the request of the
 governmental entity.
 (e)  A governmental entity may seek to require the creation of a backup copy
-under Subsection (1) (a) if in its sole discretion the entity determines that
+under Subsection (1)(a) if in its sole discretion the entity determines that
 there is reason to believe that notification under Section 77-23b-4 of the
 existence of the subpoena or court order may result in destruction of or
 tampering with evidence.  This determination is not subject to challenge by
 the subscriber, customer, or service provider.
 (2) (a)  Within 14 days after notice by the governmental entity to the
-subscriber or customer under Subsection (1) (b), the subscriber or customer
-may file a motion to quash the subpoena or vacate the court order, with copies
+subscriber or customer under Subsection (1)(b), the subscriber or customer may
+file a motion to quash the subpoena or vacate the court order, with copies
 served upon the governmental entity, and with written notice of the challenge
 to the service provider.  A motion to vacate a court order shall be filed in
 the court that issues the order.  A motion to quash a subpoena shall be filed
@@ -50,8 +50,8 @@ delivering or mailing by registered or certified mail a copy of the papers to
 the person, office, or department specified in the notice the customer
 received under this chapter.  For purposes of this subsection, "deliver" has
 the same meaning as under the Utah Rules of Criminal Procedure.
-(c)  If the court finds that the customer has complied with Subsections (2)
-(a) and (b), the court shall order the governmental entity to file a sworn
+(c)  If the court finds that the customer has complied with Subsections (2)(a)
+and (b), the court shall order the governmental entity to file a sworn
 response, that may be filed in camera if the governmental entity includes in
 its response the reasons making in camera review appropriate. If the court is
 unable to determine the motion or application on the basis of the parties'

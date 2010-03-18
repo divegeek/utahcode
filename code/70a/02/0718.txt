@@ -1,5 +1,4 @@
 70A-2-718.   Liquidation or limitation of damages -- Deposits.
-
 (1)  Damages for breach by either party may be liquidated in the agreement but
 only at an amount which is reasonable in the light of the anticipated or
 actual harm caused by the breach, the difficulties of proof of loss, and the
@@ -10,9 +9,9 @@ buyer's breach, the buyer is entitled to restitution of any amount by which
 the sum of his payments exceeds
 (a)  the amount to which the seller is entitled by virtue of terms liquidating
 the seller's damages in accordance with Subsection (1), or
-(b)  in the absence of such terms, twenty percent of the value of the total
-performance for which the buyer is obligated under the contract or $500,
-whichever is smaller.
+(b)  in the absence of such terms, 20% of the value of the total performance
+for which the buyer is obligated under the contract or $500, whichever is
+smaller.
 (3)  The buyer's right to restitution under Subsection (2) is subject to
 offset to the extent that the seller establishes
 (a)  a right to recover damages under the provisions of this chapter other

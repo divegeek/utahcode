@@ -29,8 +29,8 @@ the plan to the extent practicable; and
 (4)  "Significant energy resource" for an affected electrical utility means a
 resource that consists of:
 (a)  a total of 100 megawatts or more of new generating capacity that has a
-dependable life of ten or more years;
-(b)  a purchase of the following if the contract is for a term of ten or more
+dependable life of 10 or more years;
+(b)  a purchase of the following if the contract is for a term of 10 or more
 years and not less than 100 megawatts:
 (i)  electricity;
 (ii)  electric generating capacity; or
@@ -43,7 +43,7 @@ affiliated company of:
 (iv)  electricity and electrical generating capacity;
 (d)  a contract with an option for the affected electrical utility or an
 affiliate to purchase a resource that consists of not less than 100 megawatts
-or more of new generating capacity that has a remaining dependable life of ten
+or more of new generating capacity that has a remaining dependable life of 10
 or more years; or
 (e)  a type of resource designated by the commission as a significant energy
 resource in rules made by the commission in accordance with Title 63G, Chapter

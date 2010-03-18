@@ -48,7 +48,7 @@ the assets, without consent or signature from the grantor or any other person;
 (C)  furnish to the grantor and the beneficiary a statement of all assets in
 the trust account upon its inception and at intervals no less frequent than
 the end of each calendar quarter; and
-(D)  notify the grantor and the beneficiary within ten days of a deposit to or
+(D)  notify the grantor and the beneficiary within 10 days of a deposit to or
 withdrawal from the trust account;
 (v)  be made subject to and governed by the laws of this state;
 (vi)  prohibit the invasion of the trust corpus for the purpose of paying
@@ -97,7 +97,7 @@ grantor, if:
 with other qualified assets so as to maintain at all times the deposit in the
 required amount; or
 (B)  after withdrawal and transfer, the market value of the trust account is
-no less than 102% of the award made pursuant to Subsection 31A-27a-515 (8)(a);
+no less than 102% of the award made pursuant to Subsection 31A-27a-515(8)(a);
 (xvi)  provide for the return of any amount withdrawn in excess of the actual
 amounts required for:
 (A)  payment of reported allowed claims under Subsection (2)(b)(iii); and
@@ -137,7 +137,7 @@ procedures and terms as the receivership court shall, in its sole discretion,
 direct.
 (5)  A reinsurance recoverable trust shall terminate upon the earlier of:
 (a)  receivership court approval of a voluntary commutation between the
-grantor and the beneficiary pursuant to Subsection 31A-27a-515 (2);
+grantor and the beneficiary pursuant to Subsection 31A-27a-515(2);
 (b)  the mutual agreement of the grantor and the beneficiary; or
 (c)  a finding by the receivership court that the grantor has discharged its
 liabilities to the beneficiary.

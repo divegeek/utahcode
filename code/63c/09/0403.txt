@@ -69,8 +69,7 @@ Act;
 (b)  in coordination with:
 (i)  the Department of Environmental Quality in accordance with Section
 19-1-206;
-(ii)  the Department of Natural Resources in accordance with Section
-[63-34-22] 79-2-404;
+(ii)  the Department of Natural Resources in accordance with Section 79-2-404;
 (iii)  the State Building Board in accordance with Section 63A-5-205;
 (iv)  a public transit district in accordance with Section 17B-2a-818.5;
 (v)  the Department of Transportation in accordance with Section 72-6-107.5;
@@ -101,7 +100,7 @@ health insurance coverage during the duration of the contract.
 (7) (a)  In addition to the penalties imposed under Subsection (6)(c), a
 contractor or subcontractor who violates the provisions of this section shall
 be liable to the employee for health care costs not covered by insurance.
-(ii)  An employee has a private right of action only against the employee's
+(b)  An employee has a private right of action only against the employee's
 employer to enforce the provisions of this Subsection (7).
 (8)  Any penalties imposed and collected under this section shall be deposited
 into the Medicaid Restricted Account created in Section 26-18-402.

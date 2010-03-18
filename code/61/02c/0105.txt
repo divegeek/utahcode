@@ -1,7 +1,7 @@
-61-2c-105 (Superseded 01/01/10).   Scope of chapter.
-(1) (a)  This chapter applies to a closed-end residential mortgage loan
-secured by a first lien or equivalent security interest on a one to four unit
-dwelling.
+61-2c-105.   Scope of chapter -- Exemptions.
+(1) (a)  Except as to an individual who will engage in an activity as a loan
+originator, this chapter applies to a closed-end residential mortgage loan
+secured by a first lien or equivalent security interest on a dwelling.
 (b)  This chapter does not apply to a transaction covered by Title 70C, Utah
 Consumer Credit Code.
 (2)  The following are exempt from this chapter:
@@ -24,62 +24,70 @@ Housing Corporation Act;
 (e)  a depository institution;
 (f)  an affiliate of a depository institution;
 (g)  an employee or agent of an entity described in Subsections (2)(a) through
-(f) when that person acts on behalf of the entity described in Subsections
-(2)(a) through (f);
-(h)  an individual or entity:
-(i)  that makes a loan:
+(f):
+(i)  when that person acts on behalf of the entity described in Subsections
+(2)(a) through (f); and
+(ii)  including an employee of:
+(A)  a depository institution;
+(B)  a subsidiary of a depository institution that is:
+(I)  owned and controlled by the depository institution; and
+(II)  regulated by a federal banking agency, as defined in 12 U.S.C. Sec.
+5102; or
+(C)  an institution regulated by the Farm Credit Administration;
+(h)  except as provided in Subsection (3), a person who:
+(i)  makes a loan:
 (A)  secured by an interest in real property;
-(B)  with the individual's or the entity's own money; and
-(C)  for the individual's or entity's own investment; and
+(B)  with the person's own money; and
+(C)  for the person's own investment; and
 (ii)  that does not engage in the business of making loans secured by an
 interest in real property;
-(i)  an individual or entity who receives a mortgage, deed of trust, or lien
-interest on real property if the individual or entity:
+(i)  except as provided in Subsection (3), a person who receives a mortgage,
+deed of trust, or consensual security interest on real property if the
+individual or entity:
 (i)  is the seller of real property; and
-(ii)  receives the mortgage, deed of trust, or lien interest on real property
-as security for a separate money obligation;
-(j)  an individual or entity who receives a mortgage, deed of trust, or lien
+(ii)  receives the mortgage, deed of trust, or consensual security interest on
+real property as security for a separate money obligation;
+(j)  a person who receives a mortgage, deed of trust, or consensual security
 interest on real property if:
-(i)  the  individual or entity receives the mortgage, deed of trust, or lien
+(i)  the person receives the mortgage, deed of trust, or consensual security
 interest as security for an obligation payable on an installment or deferred
 payment basis;
-(ii)  the obligation described in Subsection (2)(j)(i) arises from an
-individual or entity providing materials or services used in the improvement
-of the real property that is the subject of the mortgage, deed of trust, or
-lien interest; and
-(iii)  the mortgage, deed of trust, or lien interest was created without the
-consent of the owner of the real property that is the subject of the mortgage,
-deed of trust, or lien interest;
+(ii)  the obligation described in Subsection (2)(j)(i) arises from a person
+providing materials or services used in the improvement of the real property
+that is the subject of the mortgage, deed of trust, or consensual security
+interest; and
+(iii)  the mortgage, deed of trust, or consensual security interest is created
+without the consent of the owner of the real property that is the subject of
+the mortgage, deed of trust, or consensual security interest;
 (k)  a nonprofit corporation that:
 (i)  is exempt from paying federal income taxes;
 (ii)  is certified by the United States Small Business Administration as a
 small business investment company;
 (iii)  is organized to promote economic development in this state; and
 (iv)  has as its primary activity providing financing for business expansion;
-(l)  a court appointed fiduciary; or
+(l)  except as provided in Subsection (3), a court appointed fiduciary; or
 (m)  an attorney admitted to practice law in this state:
 (i)  if the attorney is not principally engaged in the business of negotiating
 residential mortgage loans; and
 (ii)  when the attorney renders services in the course of the attorney's
 practice as an attorney.
-(3) (a)  Notwithstanding Subsection (2)(m), an attorney exempt from this
+(3)  An individual who will engage in an activity as a loan originator is
+exempt from this chapter only if the individual is an employee or agent exempt
+under Subsection (2)(g).
+(4) (a)  Notwithstanding Subsection (2)(m), an attorney exempt from this
 chapter may not engage in conduct described in Section 61-2c-301 when
 transacting business of residential mortgage loans.
-(b)  If an attorney exempt from this chapter violates Subsection (3)(a), the
+(b)  If an attorney exempt from this chapter violates Subsection (4)(a), the
 attorney:
 (i)  is not subject to enforcement by the division under Part 4, Enforcement;
 and
 (ii)  is subject to disciplinary action generally applicable to an attorney
 admitted to practice law in this state.
 (c)  If the division receives a complaint alleging an attorney exempt from
-this chapter is in violation of Subsection (3)(a), the division shall forward
+this chapter is in violation of Subsection (4)(a), the division shall forward
 the complaint to the Utah State Bar for disciplinary action.
-(4) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act, the division shall, by rule, determine a date, on or after
-December 31, 2004, after which an individual who is exempt under Subsection
-(2) may voluntarily obtain a license pursuant to Subsection (4)(b).
-(b) (i)  After the date described in Subsection (4)(a), an individual who is
-exempt under Subsection (2) may voluntarily obtain a license under this
-chapter by complying with Part 2, Licensure.
-(ii)  An individual who voluntarily obtains a license pursuant to this
-Subsection (4)(b) shall comply with all the provisions of this chapter.
+(5) (a)  An individual who is exempt under Subsection (2) or (3) may
+voluntarily obtain a license under this chapter by complying with Part 2,
+Licensure.
+(b)  An individual who voluntarily obtains a license pursuant to this
+Subsection (5) shall comply with all the provisions of this chapter.

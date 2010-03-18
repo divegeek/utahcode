@@ -64,7 +64,7 @@ benefit amount times the individual's potential duration.
 (b)  To determine an individual's potential duration, the individual's total
 wages for insured work paid during the base period is multiplied by 27%,
 disregarding any fraction of $1, and divided by the individual's weekly
-benefit amount, disregarding any fraction, but not less than ten nor more than
+benefit amount, disregarding any fraction, but not less than 10 nor more than
 26.
 (5) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative
 Rulemaking Act, the department may by rule prescribe:

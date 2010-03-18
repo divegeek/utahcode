@@ -20,7 +20,7 @@ of the assignee, and a request for cancellation notice by the assignee, mail
 to the assignee a copy of any cancellation notice sent with respect to the
 policy.   This notice shall be sent, postage prepaid, and addressed to the
 assignee's address filed with the insured.   The notice shall be mailed not
-less than ten days prior to the final termination of the policy and each time
+less than 10 days prior to the final termination of the policy and each time
 the insured has failed or refused to transmit a premium payment to the insurer
 before the commencement of the policy's grace period.   The insurer may charge
 the insured directly or charge against the policy the reasonable cost of

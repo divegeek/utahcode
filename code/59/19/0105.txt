@@ -57,7 +57,7 @@ accordingly.
 be appraised by a court-appointed appraiser and the appraised value shall be
 credited to the taxpayer.  If the taxpayer objects to the results of the
 court-appointed appraisal, the taxpayer may obtain the taxpayer's own
-appraisal at the taxpayer's own expense within ten days of the court-appointed
+appraisal at the taxpayer's own expense within 10 days of the court-appointed
 appraisal.  The decision of the administrative law judge as to value is
 controlling.
 (c)  The value of any property in kind awarded to the commission or to the

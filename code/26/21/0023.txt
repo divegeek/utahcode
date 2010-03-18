@@ -5,7 +5,7 @@ section "nursing care facility" and "small health care facility":
 chapter:
 (i)  skilled nursing homes;
 (ii)  intermediate care facilities; or
-(iii)  small health care facilities with four to sixteen beds functioning as a
+(iii)  small health care facilities with four to 16 beds functioning as a
 skilled nursing home; and
 (b)  does not mean:
 (i)  an intermediate care facility for the mentally retarded;

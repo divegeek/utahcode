@@ -1,57 +1,73 @@
-61-2c-102 (Superseded 01/01/10).   Definitions.
+61-2c-102.   Definitions.
 (1)  As used in this chapter:
-(a)  "Affiliate" means an individual or an entity that directly, or indirectly
-through one or more intermediaries, controls or is controlled by, or is under
-common control with, a specified individual or entity.
-(b)  "Applicant" means an individual or entity applying for a license under
-this chapter.
-(c)  "Associate lending manager" means a person who:
-(i) qualifies under this chapter as a principal lending manager; and
+(a)  "Affiliate" means a person who directly, or indirectly through one or
+more intermediaries, controls or is controlled by, or is under common control
+with, a specified individual or entity.
+(b)  "Applicant" means a person applying for a license under this chapter.
+(c)  "Approved examination provider" means a person approved by the nationwide
+database as an approved test provider.
+(d)  "Associate lending manager" means an individual who:
+(i)  qualifies under this chapter as a principal lending manager; and
 (ii)  works by or on behalf of another principal lending manager in
 transacting the business of residential mortgage loans.
-(d)  "Branch office" means a licensed entity's office:
+(e)  "Branch office" means a licensed entity's office:
 (i)  for the transaction of the business of residential mortgage loans
-regulated under this chapter; and
-(ii)  other than the main office of the licensed entity.
-(e) (i)  "Business of residential mortgage loans" means for compensation to:
-(A)  make or originate a residential mortgage loan;
-(B)  directly or indirectly solicit, place, or negotiate a residential
-mortgage loan for another; or
-(C)  render services related to the origination of a residential mortgage loan
-including:
-(I)  taking an application; and
-(II)  communicating with the borrower and lender.
+regulated under this chapter;
+(ii)  other than the main office of the licensed entity; and
+(iii)  that operates under the same business name as the licensed entity.
+(f) (i)  "Business of residential mortgage loans" means for compensation or in
+the expectation of compensation to:
+(A)  engage in an act that makes an individual a loan originator;
+(B)  make or originate a residential mortgage loan;
+(C)  directly or indirectly solicit a residential mortgage loan for another;
+or
+(D)  unless excluded under Subsection (1)(f)(ii), render services related to
+the origination of a residential mortgage loan including:
+(I)  preparing a loan package;
+(II)  communicating with the borrower and lender; or
+(III)  advising on a loan term.
 (ii)  "Business of residential mortgage loans" does not include:
-(A)  the performance of a clerical function such as:
-(I)  gathering information related to a residential mortgage loan on behalf of
-the prospective borrower or a person licensed under this chapter; or
-(II) an individual who works under the instruction of a person licensed under
-this chapter:
-(Aa)  requesting or gathering information;
-(Bb)  word processing;
-(Cc)  sending correspondence; or
-(Dd)  assembling files;
+(A)  if working as an employee under the direction of and subject to the
+supervision and instruction of a person licensed under this chapter, the
+performance of a clerical or support duty such as:
+(I)  the receipt, collection, or distribution of information common for the
+processing or underwriting of a loan in the mortgage industry other than
+taking an application;
+(II)  communicating with a consumer to obtain information necessary for the
+processing or underwriting of a residential mortgage loan;
+(III)  word processing;
+(IV)  sending correspondence; or
+(V)  assembling files;
 (B)  ownership of an entity that engages in the business of residential
 mortgage loans if the owner does not personally perform the acts listed in
-Subsection (1)(e)(i);
-(C)  acting as a loan wholesaler;
-(D)  acting as an account executive for a loan wholesaler;
-(E)  acting as a loan underwriter;
-(F)  acting as a loan closer; or
-(G)  funding a loan.
-(f)  "Closed-end" means a loan:
+Subsection (1)(f)(i); or
+(C)  except if an individual will engage in an activity as a loan originator,
+acting in one or more of the following capacities:
+(I)  a loan wholesaler;
+(II)  an account executive for a loan wholesaler;
+(III)  a loan underwriter;
+(IV)  a loan closer; or
+(V)  funding a loan.
+(g)  "Certified education provider" means a person who is certified under
+Section 61-2c-204.1 to provide one or more of the following:
+(i)  prelicensing education; or
+(ii)  continuing education.
+(h)  "Closed-end" means a loan:
 (i)  with a fixed amount borrowed; and
 (ii)  that does not permit additional borrowing secured by the same
 collateral.
-(g)  "Commission" means the Residential Mortgage Regulatory Commission created
+(i)  "Commission" means the Residential Mortgage Regulatory Commission created
 in Section 61-2c-104.
-(h)  "Compensation" means anything of economic value that is paid, loaned,
+(j)  "Compensation" means anything of economic value that is paid, loaned,
 granted, given, donated, or transferred to an individual or entity for or in
 consideration of:
 (i)  services;
 (ii)  personal or real property; or
-(iii) another thing of value.
-(i)  "Control," as used in Subsection (1)(a), means the power to directly or
+(iii)  another thing of value.
+(k)  "Continuing education" means education taken by an individual licensed
+under this chapter in order to meet the education requirements imposed by
+Sections 61-2c-204.1 and 61-2c-205 to renew a license under this chapter.
+(l)  "Control," as used in Subsection (1)(a), means the power to directly or
 indirectly:
 (i)  direct or exercise a controlling interest over:
 (A)  the management or policies of an entity; or
@@ -61,17 +77,17 @@ managing partners of an entity;
 individual; or
 (iii)  vote more than 5% of a class of voting securities of an entity by
 another entity.
-(j)  "Depository institution" is as defined in Section 7-1-103.
-(k)  "Director" means the director of the division.
-(l)  "Division" means the Division of Real Estate.
-(m)  "Dwelling" means a residential structure attached to real property that
+(m)  "Depository institution" is as defined in Section 7-1-103.
+(n)  "Director" means the director of the division.
+(o)  "Division" means the Division of Real Estate.
+(p)  "Dwelling" means a residential structure attached to real property that
 contains one to four units including any of the following if used as a
 residence:
 (i)  a condominium unit;
 (ii)  a cooperative unit;
 (iii)  a manufactured home; or
 (iv)  a house.
-(n)  "Entity" means:
+(q)  "Entity" means:
 (i)  a corporation;
 (ii)  a limited liability company;
 (iii)  a partnership;
@@ -81,40 +97,68 @@ residence:
 (vii)  a business trust;
 (viii)  a trust; or
 (ix)  another organization.
-(o)  "Executive director" means the executive director of the Department of
+(r)  "Executive director" means the executive director of the Department of
 Commerce.
-(p)  "Inactive status" means a dormant status into which an unexpired license
+(s)  "Inactive status" means a dormant status into which an unexpired license
 is placed when the holder of the license is not currently engaging in the
 business of residential mortgage loans.
-(q)  "Licensee" means an individual or entity licensed with the division under
-this chapter.
-(r)  "Mortgage officer" means an individual who is licensed with the division
+(t)  "Licensee" means a person licensed with the division under this chapter.
+(u)  "Licensing examination" means the examination required by Section
+61-2c-204.1 or 61-2c-206 for an individual to obtain a license under this
+chapter.
+(v) (i)  Except as provided in Subsection (1)(v)(ii), "loan originator" means
+an individual who for compensation or in expectation of compensation:
+(A)  takes a residential mortgage loan application; or
+(B)  offers or negotiates terms of a residential mortgage loan.
+(ii)  "Loan originator" does not include a person who:
+(A)  is described in Subsection (1)(v)(i), but who performs exclusively
+administrative or clerical tasks as described in Subsection (1)(f)(ii)(A);
+(B)  unless compensated by a lender, a principal lending manager, or an agent
+of a lender or principal lending manager:
+(I)  only performs real estate brokerage activities; and
+(II)  is licensed under Chapter 2, Division of Real Estate; and
+(C)  is solely involved in extension of credit relating to a timeshare plan,
+as defined in 11 U.S.C. Sec. 101(53D).
+(w)  "Mortgage officer" means an individual who is licensed with the division
 to transact the business of residential mortgage loans through a principal
 lending manager.
-(s) (i)  "Principal lending manager" means a person licensed as a principal
-lending manager under Section 61-2c-206 to transact the business of
+(x)  "Nationwide database" means the Nationwide Mortgage Licensing System and
+Registry, authorized under Secure and Fair Enforcement for Mortgage Licensing,
+12 U.S.C. Sec. 5101, et seq.
+(y)  "Nontraditional mortgage product" means a mortgage product other than a
+30-year fixed rate mortgage.
+(z)  "Person" means an individual or entity.
+(aa)  "Prelicensing education" means education taken by an individual seeking
+to be licensed under this chapter in order to meet the education requirements
+imposed by Section 61-2c-204.1 or 61-2c-206 for an individual to obtain a
+license under this chapter.
+(bb) (i)  "Principal lending manager" means an individual licensed as a
+principal lending manager under Section 61-2c-206 to transact the business of
 residential mortgage loans.
-(ii)  A person licensed as a principal lending manager may transact the
+(ii)  An individual licensed as a principal lending manager may transact the
 business of residential mortgage loans as a mortgage officer.
-(t)  "Record" means information that is:
-(i)  prepared, owned, received, or retained by an individual or entity; and
+(cc)  "Record" means information that is:
+(i)  prepared, owned, received, or retained by a person; and
 (ii) (A)  inscribed on a tangible medium; or
 (B) (I)  stored in an electronic or other medium; and
 (II)  retrievable in perceivable form.
-(u)  "Residential mortgage loan" means a closed-end, first mortgage loan or
-extension of credit, if:
+(dd)  "Residential mortgage loan" means an extension of credit, if:
 (i)  the loan or extension of credit is secured by a:
 (A)  mortgage;
 (B)  deed of trust; or
-(C)  lien interest; and
-(ii)  the mortgage, deed of trust, or lien interest described in Subsection
-(1)(u)(i):
+(C)  consensual security interest;
+(ii)  the mortgage, deed of trust, or consensual security interest described
+in Subsection (1)(dd)(i):
 (A)  is on a dwelling located in the state; and
-(B)  created with the consent of the owner of the residential real property.
-(v)  "State" means:
+(B)  is created with the consent of the owner of the residential real
+property; and
+(iii)  solely for the purposes of defining "loan originator," the extension of
+credit is primarily for personal, family, or household use.
+(ee)  "State" means:
 (i)  a state, territory, or possession of the United States;
 (ii)  the District of Columbia; or
 (iii)  the Commonwealth of Puerto Rico.
+(ff)  "Unique identifier" is as defined in 12 U.S.C. Sec. 5102.
 (2) (a)  If a term not defined in this section is defined by rule, the term
 shall have the meaning established by the division by rule made in accordance
 with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.

@@ -33,7 +33,7 @@ convicted under Subsection (2) of an offense committed on or after July 1,
 (A)  the person has a prior conviction as defined under Subsection
 41-6a-501(2); and
 (B)  the current violation under Subsection (2) is committed:
-(I)  within a period of ten years after the date of the prior violation; and
+(I)  within a period of 10 years after the date of the prior violation; and
 (II)  on or after July 1, 2009;
 (b)  if the person is under 21 years of age on the date of arrest:
 (i)  suspend, until the person is 21 years of age or for a period of 120 days,
@@ -44,7 +44,7 @@ years, the driver license of a person if:
 (A)  the person has a prior conviction as defined under Subsection
 41-6a-501(2); and
 (B)  the current violation under Subsection (2) is committed:
-(I)  within a period of ten years after the date of the prior violation; and
+(I)  within a period of 10 years after the date of the prior violation; and
 (II)  on or after July 1, 2009;
 (c)  subtract from any suspension or revocation period the number of days for
 which a license was previously suspended under Section 53-3-223 or 53-3-231,

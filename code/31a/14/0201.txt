@@ -15,28 +15,28 @@ explanation of the bases of all valuations and computations, in the detail
 reasonably required by the commissioner;
 (iii)  a summary, as detailed as the commissioner reasonably requires, of the
 applicant's financial history for:
-(A)  the preceding ten years; or
-(B)  the entire period of the applicant's existence if less than ten years;
+(A)  the preceding 10 years; or
+(B)  the entire period of the applicant's existence if less than 10 years;
 (iv) for each of the applicant's current or proposed directors and principal
 officers:
 (A)  the name of the director or principal officer;
 (B)  the address of the director or principal officer; and
-(C)  the occupation for the preceding ten years of the director or principal
+(C)  the occupation for the preceding 10 years of the director or principal
 officer;
 (v)  for an alien insurer:
 (A)  the name of its United States manager, the manager's addresses and
-occupations for the preceding ten years; and
+occupations for the preceding 10 years; and
 (B)  if the manager is a corporation, the names, addresses, and occupations of
 its directors and principal officers, and its most recent detailed financial
 statements;
 (vi)  a schedule listing:
 (A)  all jurisdictions in which applicant has done or has been authorized to
-conduct an insurance business during the preceding ten years;
+conduct an insurance business during the preceding 10 years;
 (B)  all jurisdictions in which the applicant has applied for authorization to
-conduct an insurance business during the preceding ten years, and the dates
-and results of those applications;
+conduct an insurance business during the preceding 10 years, and the dates and
+results of those applications;
 (C)  all jurisdictions from which the applicant has withdrawn from conducting
-an insurance business during the preceding ten years, and the reasons for its
+an insurance business during the preceding 10 years, and the reasons for its
 withdrawals; and
 (D)  the name of and the circumstances surrounding any officer, director, or
 controlling shareholder of the corporation ever being subject to a:
@@ -49,9 +49,9 @@ business;
 within the last five years, been generally transmitted or distributed to or
 among the insurer's creditors, shareholders, members, subscribers, or
 policyholders;
-(ix)  if the applicant has been in the insurance business for less than ten
+(ix)  if the applicant has been in the insurance business for less than 10
 years, a summary of the past and a projection of the anticipated operating
-results at the end of each year of the first ten years of operation, based,
+results at the end of each year of the first 10 years of operation, based,
 where known, on actual data and otherwise on reasonable assumptions of loss
 experience, premium and other income, operating expenses, and acquisition
 costs;

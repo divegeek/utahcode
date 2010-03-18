@@ -3,7 +3,7 @@ The board shall:
 (1)  adopt bylaws by a majority vote of its members which vote of both member
 representatives and state representatives may be made by proxy as prescribed
 in the bylaws;
-(2)  elect ten member representatives to the executive committee, except that
+(2)  elect 10 member representatives to the executive committee, except that
 the state representatives are not permitted to vote in that election;
 (3)  recommend to the executive committee broad policies for the long-term
 construction and operation of the communications network; and

@@ -37,7 +37,7 @@ efficient movement of traffic, while providing access to property is a
 secondary function.
 (d)  The primary function of county and municipal highways is to provide
 access to property.
-(e)  For purposes of this section, if a highway is within ten miles of a
+(e)  For purposes of this section, if a highway is within 10 miles of a
 location identified under this section, the location is considered to be
 served by that highway.
 (3)  A state highway shall:
@@ -75,8 +75,8 @@ highway shall:
 (b)  include a minor arterial highway that:
 (i)  provides continuity for the state highway system by providing major
 connections between other state highways;
-(ii)  is a route that is expected to be a principal arterial highway within
-ten years; or
+(ii)  is a route that is expected to be a principal arterial highway within 10
+years; or
 (iii)  is needed to provide access to state highways; and
 (c)  exclude all collector highways and local roads.
 (6)  In addition to the provisions of Subsections (3) and (4), in tourist

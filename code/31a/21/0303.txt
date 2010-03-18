@@ -41,7 +41,7 @@ canceled by the insurer for:
 (c) (i)  The cancellation provided by Subsection (2)(b), except cancellation
 for nonpayment of premium, is effective no sooner than 30 days after the
 delivery or first-class mailing of a written notice to the policyholder.
-(ii)  Cancellation for nonpayment of premium is effective no sooner than ten
+(ii)  Cancellation for nonpayment of premium is effective no sooner than 10
 days after delivery or first class mailing of a written notice to the
 policyholder.
 (d) (i)  Notice of cancellation for nonpayment of premium shall include a
@@ -52,7 +52,7 @@ cancellation other than nonpayment of premium.
 that has not been previously renewed if the contract has been in effect less
 than 60 days when the written notice of cancellation is mailed or delivered.
 (ii)  A cancellation under this Subsection (2)(e) may not be effective until
-at least ten days after the delivery to the insured of a written notice of
+at least 10 days after the delivery to the insured of a written notice of
 cancellation.
 (iii)  If the notice required by this Subsection (2)(e) is sent by first-class
 mail, postage prepaid, to the insured at the insured's last-known address,
@@ -105,7 +105,7 @@ insurance policy is 21 years of age or older; and
 a 36-month period;
 (ii)  a single traffic violation by an insured that:
 (A)  is a violation of a speed limit under Title 41, Chapter 6a, Traffic Code;
-(B)  is not in excess of ten miles per hour over the speed limit;
+(B)  is not in excess of 10 miles per hour over the speed limit;
 (C)  is not a traffic violation under:
 (I)  Section 41-6a-601;
 (II)  Section 41-6a-604; or
@@ -154,7 +154,7 @@ altered nature or extent of the risk insured against; or
 (7) (a)  If a notice of cancellation or nonrenewal under Subsection (2)(c)
 does not state with reasonable precision the facts on which the insurer's
 decision is based, the insurer shall send by first-class mail or deliver that
-information within ten working days after receipt of a written request by the
+information within 10 working days after receipt of a written request by the
 policyholder.
 (b)  A notice under Subsection (2)(c) is not effective unless it contains
 information about the policyholder's right to make the request.

@@ -1,7 +1,7 @@
 38-9a-204.   Civil wrongful lien injunction -- Validity of injunctions --
 Changes to injunctions -- Dissolution of injunction.
-(1)  If the respondent does not request a hearing in writing within ten days
-of service of the ex parte civil wrongful lien injunction under Section
+(1)  If the respondent does not request a hearing in writing within 10 days of
+service of the ex parte civil wrongful lien injunction under Section
 38-9a-203, the injunction automatically becomes a civil wrongful lien
 injunction without further notice to the respondent and expires three years
 from the date of service.

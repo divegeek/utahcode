@@ -30,10 +30,10 @@ use of the device within the jurisdiction of the court and outside that
 jurisdiction but within the state if the device is installed within the
 jurisdiction of the court.
 (5)  The district judge who issued the order shall be notified by the
-applicant, in writing, within ten days after the mobile tracking device has
+applicant, in writing, within 10 days after the mobile tracking device has
 been activated in place on or within the vehicle, container, or item.  If no
-notice is received within ten days after issuance of the order, the order
-shall be returned to the district judge to be recalled.
+notice is received within 10 days after issuance of the order, the order shall
+be returned to the district judge to be recalled.
 (6)  For the purpose of placing a mobile tracking device, entry upon private
 property, the passenger compartment of a vehicle, or any other area subject to
 a reasonable expectation of privacy is prohibited unless the applicant first

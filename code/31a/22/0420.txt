@@ -16,24 +16,24 @@ loan interest rates by:
 annum; or
 (ii)  a provision permitting an adjustable maximum interest rate calculated
 under this section.
-(b)  The rate of interest charged on a policy loan made under Subsection (3)
-(a) (ii) may not exceed the higher of:
+(b)  The rate of interest charged on a policy loan made under Subsection
+(3)(a)(ii) may not exceed the higher of:
 (i)  the published monthly average for the calendar month ending two months
 before the date on which the rate is determined; or
 (ii)  the rate used to compute cash surrender values under the policy during
 the same period, plus 1% per annum.
-(c)  If the maximum rate of interest is determined under Subsection (3) (a)
-(ii), the policy shall contain a provision setting forth the frequency at
-which the rate is to be determined for that policy.
-(d)  The maximum rate under Subsection (3) (a) (ii) for each policy shall be
+(c)  If the maximum rate of interest is determined under Subsection
+(3)(a)(ii), the policy shall contain a provision setting forth the frequency
+at which the rate is to be determined for that policy.
+(d)  The maximum rate under Subsection (3)(a)(ii) for each policy shall be
 determined at regular intervals at least once every 12 months, but not more
 frequently than once in any three-month period.  At the intervals specified in
 the policy:
 (i)  the rate being charged may be increased whenever the increase determined
-under Subsection (3) (b) would increase that rate by 1/2% or more per annum;
+under Subsection (3)(b) would increase that rate by 1/2% or more per annum;
 and
 (ii)  the rate being charged shall be reduced whenever the reduction
-determined under Subsection (3) (b) would decrease that rate by 1/2% or more
+determined under Subsection (3)(b) would decrease that rate by 1/2% or more
 per annum.
 (e)  Every life insurer shall:
 (i)  notify the policyholder at the time a cash loan is made of the initial
@@ -42,18 +42,17 @@ rate of interest on the loan;
 rate of interest on the loan as soon as it is reasonably practical to do so
 after making the initial loan, but notice need not be given to the
 policyholder when a further premium loan is added, except as provided in
-Subsection (3) (e) (iii);
+Subsection (3)(e)(iii);
 (iii)  send to policyholders with loans, reasonable advance notice of any
 increase in the rate; and
-(iv)  include in the notices required by Subsection (3) (e) (i), (ii), and
-(iii) the substance of the pertinent provisions of Subsections (3) (a) and
-(c).
+(iv)  include in the notices required by Subsection (3)(e)(i), (ii), and (iii)
+the substance of the pertinent provisions of Subsections (3)(a) and (c).
 (f)  No policy may terminate during a policy year solely because of a change
 in the interest rate during that policy year.  Coverage shall continue during
 that policy year until it would have terminated if there had been no change in
 interest rate during that policy year.
-(g)  The pertinent provisions of Subsections (3) (a) and (c) shall be set
-forth in the policies to which they apply.
+(g)  The pertinent provisions of Subsections (3)(a) and (c) shall be set forth
+in the policies to which they apply.
 (4)  This section applies to an insurance policy issued before May 12, 1981,
 only if the policyholder agrees to its application in writing, after receiving
 explicit disclosure of the provisions regarding premiums, dividends, and

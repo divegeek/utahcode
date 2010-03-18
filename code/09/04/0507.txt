@@ -4,7 +4,7 @@ approved by the board of review a numbered certificate of allocation shall be
 issued stating the amount of the allocation, the allotment account for which
 the allocation is being made, and the expiration date of the allocation.
 (b)  The certificates of allocation shall be mailed to the issuing authority
-within ten working days of the date of approval.
+within 10 working days of the date of approval.
 (c)  No bonds are entitled to any allocation of the volume cap unless the
 issuing authority received a certificate of allocation with respect to the
 bonds.

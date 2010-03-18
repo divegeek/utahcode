@@ -4,5 +4,4 @@ imprisonment as follows:
 (1)  In the case of a class A misdemeanor, for a term not exceeding one year;
 (2)  In the case of a class B misdemeanor, for a term not exceeding six
 months;
-(3)  In the case of a class C misdemeanor, for a term not exceeding ninety
-days.
+(3)  In the case of a class C misdemeanor, for a term not exceeding 90 days.

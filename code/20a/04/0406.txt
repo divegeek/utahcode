@@ -4,5 +4,5 @@ Court as in other cases of appeal from the district court.
 (b)  When an appeal is taken, the district court may not stay execution or
 proceedings, except execution for costs.
 (2)  Whenever an election is annulled or set aside by the judgment of a court
-and no appeal is taken within ten days, the certificate of election, if any
-has been issued, is void, and the office is vacant.
+and no appeal is taken within 10 days, the certificate of election, if any has
+been issued, is void, and the office is vacant.

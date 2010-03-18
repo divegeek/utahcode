@@ -11,7 +11,7 @@ fire marshal in accordance with Section 53-7-404; and
 (2) (a)  Testing of cigarettes shall be conducted in accordance with the
 American Society of Testing and Materials ("ASTM") standard E2187-04,
 "Standard Test Method for Measuring the Ignition Strength of Cigarettes."
-(b)  Testing shall be conducted on ten layers of filter paper.
+(b)  Testing shall be conducted on 10 layers of filter paper.
 (c)  No more than 25% of the cigarettes tested in a test trial in accordance
 with this section shall exhibit full-length burns.  Forty replicate tests
 shall comprise a complete test trial for each cigarette tested.

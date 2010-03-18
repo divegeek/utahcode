@@ -48,14 +48,14 @@ direct legislative appropriation made to the General Fund Budget Reserve
 Account for the fiscal year.
 (b) (i)  Except as provided in Subsection (3)(b)(ii), in addition to
 Subsection (3)(a)(i), if a General Fund revenue surplus exists and if, within
-the last ten years, the Legislature has appropriated any money from the
-General Fund Budget Reserve Account that has not been replaced by
-appropriation or as provided in this Subsection (3)(b), the Division of
-Finance shall transfer up to 25% more of the General Fund revenue surplus to
-the General Fund Budget Reserve Account to replace the amounts appropriated,
-until direct legislative appropriations, if any, and transfers from the
-General Fund revenue surplus under this Subsection (3)(b) have replaced the
-appropriations from the account.
+the last 10 years, the Legislature has appropriated any money from the General
+Fund Budget Reserve Account that has not been replaced by appropriation or as
+provided in this Subsection (3)(b), the Division of Finance shall transfer up
+to 25% more of the General Fund revenue surplus to the General Fund Budget
+Reserve Account to replace the amounts appropriated, until direct legislative
+appropriations, if any, and transfers from the General Fund revenue surplus
+under this Subsection (3)(b) have replaced the appropriations from the
+account.
 (ii)  If the transfer under Subsection (3)(b)(i) would cause the balance in
 the account to exceed 6% of General Fund appropriations for the fiscal year in
 which the revenue surplus occurred, the Division of Finance shall transfer
@@ -74,7 +74,7 @@ Account for the fiscal year.
 Reserve Account, the Division of Finance shall treat those appropriations,
 unless otherwise specified in the appropriation, as replacement funds for
 appropriations made from the account if funds were appropriated from the
-General Fund Budget Reserve Account within the past ten years and have not yet
+General Fund Budget Reserve Account within the past 10 years and have not yet
 been replaced.
 (4) (a)  If, at the close of any fiscal year, there appear to be insufficient
 monies to pay additional debt service for any bonded debt authorized by the

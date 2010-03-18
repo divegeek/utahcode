@@ -8,7 +8,7 @@ that is entirely within the boundaries of a local district:
 (B)  law enforcement service; and
 (ii)  in the creation of which an election was not required because of
 Subsection 17B-1-214(3)(c).
-(b)  Within ten days after adopting a resolution under Subsection (1)(a), the
+(b)  Within 10 days after adopting a resolution under Subsection (1)(a), the
 municipal legislative body shall submit to the board of trustees of the local
 district written notice of the adoption of the resolution, accompanied by a
 copy of the resolution.
@@ -19,10 +19,10 @@ whether the municipality should withdraw from the local district.
 (3)  If a majority of those voting on the question of withdrawal at an
 election held under Subsection (2) vote in favor of withdrawal, the
 municipality shall be withdrawn from the local district.
-(4) (a)  Within ten days after the canvass of an election at which a
-withdrawal under this section is submitted to voters, the municipal
-legislative body shall send written notice to the board of the local district
-from which the municipality is proposed to withdraw.
+(4) (a)  Within 10 days after the canvass of an election at which a withdrawal
+under this section is submitted to voters, the municipal legislative body
+shall send written notice to the board of the local district from which the
+municipality is proposed to withdraw.
 (b)  Each notice under Subsection (4)(a) shall:
 (i)  state the results of the withdrawal election; and
 (ii)  if the withdrawal was approved by voters, be accompanied by a map or

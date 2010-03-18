@@ -18,8 +18,8 @@ July 1, 2009;
 occurred after May 1, 2006 which would be a conviction as defined under
 Section 41-6a-501; and
 (II)  the offense described under Subsection (1)(b)(i)(C)(I) is committed
-within ten years from the date that one or more prior offenses was committed
-if the prior offense resulted in a conviction as defined in Subsection
+within 10 years from the date that one or more prior offenses was committed if
+the prior offense resulted in a conviction as defined in Subsection
 41-6a-501(2);
 (D)  within the last three years has been convicted of a violation of this
 section;
@@ -30,7 +30,7 @@ which refusal occurred after May 1, 2006;
 41-6a-502 and was under the age of 21 at the time the offense was committed;
 (G)  within the last six years has been convicted of a felony violation of
 Section 41-6a-502 for an offense that occurred after May 1, 2006; or
-(H)  within the last ten years has been convicted of automobile homicide under
+(H)  within the last 10 years has been convicted of automobile homicide under
 Section 76-5-207 for an offense that occurred after May 1, 2006; and
 (ii)  "interlock restricted driver" does not include a person if:
 (A)  the person's conviction described in Subsection (1)(b)(i)(C)(I) is a

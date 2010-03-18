@@ -12,7 +12,7 @@ goods shown in such writing.
 of the contract and sufficient against the sender is received and the party
 receiving it has reason to know its contents, it satisfies the requirements of
 Subsection (1) against such party unless written notice of objection to its
-contents is given within ten days after it is received.
+contents is given within 10 days after it is received.
 (3)  A contract which does not satisfy the requirements of Subsection (1) but
 which is valid in other respects is enforceable
 (a)  if the goods are to be specially manufactured for the buyer and are not

@@ -2,7 +2,7 @@
 (1)  Except as provided in Subsection (2), an insured or claimant under an
 insurance policy who contracts with a public adjuster to assist in the
 settlement of a claim may rescind that contract by delivering written notice
-of rescission to the public adjuster within ten days of entering into the
+of rescission to the public adjuster within 10 days of entering into the
 contract.
 (2)  Subsection (1) does not apply if prior to the rescission the public
 adjuster has effected an acceptable settlement of the claim.

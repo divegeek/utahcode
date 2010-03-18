@@ -12,7 +12,7 @@ offense.
 (c)  If the division sends written notice of noncompliance by certified mail
 to the last-known address of the employer, corporation, or officers of a
 corporation or association, and the employer, corporation, or officers do not
-within ten days provide to the division proof of compliance, the notice and
+within 10 days provide to the division proof of compliance, the notice and
 failure to provide proof constitutes prima facie evidence that the employer,
 corporation, or officers are in violation of this section.
 (2) (a) (i)  If the division has reason to believe that an employer is
@@ -21,9 +21,9 @@ three ways provided in Section 34A-2-201, the division may give the employer,
 or in the case of an employer corporation, the corporation or the officers of
 the corporation, notice of noncompliance by certified mail to the last-known
 address of the employer, corporation, or officers, and if the employer,
-corporation, or officers do not, within ten days, provide to the division
-proof of compliance, the employer and every officer of an employer corporation
-is guilty of a class B misdemeanor.
+corporation, or officers do not, within 10 days, provide to the division proof
+of compliance, the employer and every officer of an employer corporation is
+guilty of a class B misdemeanor.
 (ii)  Each day's failure to comply with Subsection (2)(a)(i) is a separate
 offense.
 (b)  All funds, fines, or penalties collected or assessed under Subsection

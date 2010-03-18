@@ -55,7 +55,7 @@ in Subsection (1) is to be effected; and
 (B)  a listing of all offices and positions held by the person during the past
 five years; and
 (C)  any conviction of crimes other than minor traffic violations during the
-past ten years; and
+past 10 years; and
 (ii)  if the person is not an individual:
 (A)  a report of the nature of its business operations during:
 (I)  the past five years; or
@@ -296,8 +296,8 @@ insurer a written request for payment of the adjusted book value given in the
 statement required by Subsection (1) and approved under Subsection (8), in
 return for the surrender of the security holder's securities.
 (ii)  The request described in Subsection (11)(a)(i) shall be filed not later
-than ten days after the day of the securityholders' meeting where the
-corporate action is approved.
+than 10 days after the day of the securityholders' meeting where the corporate
+action is approved.
 (b)  The dissenting securityholder is entitled to and the insurer is required
 to pay to the dissenting securityholder the specified value within 60 days of
 receipt of the dissenting security holder's security.

@@ -4,8 +4,8 @@ rule, or repeal of a rule during the public comment period.
 (2)  Each agency shall hold a public hearing on a proposed rule, amendment to
 a rule, or repeal of a rule if:
 (a)  a public hearing is required by state or federal mandate;
-(b) (i)  another state agency, ten interested persons, or an interested
-association having not fewer than ten members request a public hearing; and
+(b) (i)  another state agency, 10 interested persons, or an interested
+association having not fewer than 10 members request a public hearing; and
 (ii)  the agency receives the request in writing not more than 15 days after
 the publication date of the proposed rule.
 (3)  The agency shall hold the hearing:

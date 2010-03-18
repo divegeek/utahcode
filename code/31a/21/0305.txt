@@ -10,7 +10,7 @@ with a service charge, an interest charge, or both.
 (2)  When a premium finance agreement contains a power of attorney or other
 authority enabling the insurance premium finance company to cancel any
 insurance policy listed in the agreement, the following applies:
-(a)  Not less than ten days' written notice of the intent of the insurance
+(a)  Not less than 10 days' written notice of the intent of the insurance
 premium finance company to order cancellation of the insurance policy, unless
 the policyholder's default is cured prior to the date stated in the notice,
 shall be delivered or mailed first-class to the policyholder.  The insurance

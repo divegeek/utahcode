@@ -44,8 +44,8 @@ investigated the accident:
 (i)  shall in compliance with Subsection (3)(a):
 (A)  disclose an accident report; or
 (B)  upon written request disclose an accident report and its accompanying
-data within ten business days from receipt of a written request for
-disclosure; or
+data within 10 business days from receipt of a written request for disclosure;
+or
 (ii)  may withhold an accident report, and any of its accompanying data if
 disclosure would jeopardize an ongoing criminal investigation or criminal
 prosecution.

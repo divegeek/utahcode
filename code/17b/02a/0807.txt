@@ -28,7 +28,7 @@ whole unit formed.
 (2) (a)  Subject to Section 17B-2a-807.5, if more than 200,000 people reside
 within the boundaries of a public transit district, the board of trustees
 shall consist of:
-(i)  ten members:
+(i)  10 members:
 (A)  appointed as described under this Subsection (2); or
 (B)  retained in accordance with Section 17B-2a-807.5;
 (ii)  three members appointed as described in Subsection (4); and
@@ -49,12 +49,12 @@ The combined apportionment basis included in the district of both counties
 shall be used for the apportionment.
 (d) (i)  If rounding to the nearest 1/10 of the total public transit district
 apportionment basis under Subsection (2)(b) results in an apportionment of
-more than ten members, the county or combination of counties with the smallest
+more than 10 members, the county or combination of counties with the smallest
 additional fraction of a whole member proportion shall have one less member
 apportioned to it.
 (ii)  If rounding to the nearest 1/10 of the total public transit district
 apportionment basis under Subsection (2)(b) results in an apportionment of
-less than ten members, the county or combination of counties with the largest
+less than 10 members, the county or combination of counties with the largest
 additional fraction of a whole member proportion shall have one more member
 apportioned to it.
 (e)  If the population in the unincorporated area of a county is at least 1/10
@@ -109,7 +109,7 @@ Population Estimates Committee.
 (iii)  All transit sales and use tax totals shall be obtained from the State
 Tax Commission.
 (o) (i)  The board shall be apportioned as provided under this section in
-conjunction with the decennial United States Census Bureau report every ten
+conjunction with the decennial United States Census Bureau report every 10
 years.
 (ii)  Within 120 days following the receipt of the population estimates under
 this Subsection (2)(o), the district shall reapportion representation on the

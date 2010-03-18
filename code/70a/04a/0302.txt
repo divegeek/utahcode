@@ -1,7 +1,7 @@
 70A-4a-302.   Obligations of receiving bank in execution of payment order.
 (1)  Except as provided in Subsections (2) through  (4), if the receiving bank
-accepts a payment order pursuant to Subsection 70A-4a-209 (1), the bank has
-the following obligations in executing the order:
+accepts a payment order pursuant to Subsection 70A-4a-209(1), the bank has the
+following obligations in executing the order:
 (a)  The receiving bank is obliged to issue, on the execution date, a payment
 order complying with the sender's order and to follow the sender's
 instructions concerning any intermediary bank or funds transfer system to be

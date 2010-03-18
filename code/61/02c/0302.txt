@@ -1,4 +1,4 @@
-61-2c-302 (Superseded 01/01/10).   Record requirements.
+61-2c-302.   Record requirements.
 (1)  For the time period specified in Subsection (2), a licensee shall make or
 possess any record required for that licensee by a rule made by the division.
 (2)  A licensee shall maintain in its possession a record described in
@@ -16,6 +16,10 @@ business hours all records required to be maintained under this chapter; and
 records described in Subsection (3)(a) that are related to an investigation
 being conducted by the division at the division office for inspection and
 copying by the division.
-(4)  A licensed entity shall maintain and produce for inspection by the
-division a current list of all individuals whose licenses are affiliated with
-the entity.
+(4)  A licensee who is an entity shall maintain and produce for inspection by
+the division a current list of all individuals whose licenses are affiliated
+with the entity.
+(5)  A licensee who engages in an activity as a loan originator shall maintain
+and produce for inspection by the division a report of condition submitted to
+the nationwide database as required by 12 U.S.C. Sec. 5104(e) for at least
+four years from the day on which the licensee submits the report of condition.

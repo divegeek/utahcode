@@ -9,7 +9,7 @@ omission occurring:
 (2) (a)  Before a governmental entity may defend its employee against a claim,
 the employee shall make a written request to the governmental entity to defend
 the employee:
-(i)  within ten days after service of process upon the employee; or
+(i)  within 10 days after service of process upon the employee; or
 (ii)  within a longer period that would not prejudice the governmental entity
 in maintaining a defense on the employee's behalf; or
 (iii)  within a period that would not conflict with notice requirements
@@ -29,7 +29,7 @@ it determines:
 (iii)  under color of authority; or
 (b)  that the injury or damage on which the claim was based resulted from
 conditions set forth in Subsection 63G-7-202(3)(c).
-(4) (a)  Within ten days of receiving a written request to defend an employee,
+(4) (a)  Within 10 days of receiving a written request to defend an employee,
 the governmental entity shall inform the employee whether or not it shall
 provide a defense, and, if it refuses to provide a defense, the basis for its
 refusal.

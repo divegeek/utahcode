@@ -1,12 +1,11 @@
-61-2c-301 (Superseded 01/01/10).   Prohibited conduct -- Violations of the
-chapter.
-(1)  An individual or entity transacting the business of residential mortgage
-loans in this state may not:
+61-2c-301.   Prohibited conduct -- Violations of the chapter.
+(1)  A person transacting the business of residential mortgage loans in this
+state may not:
 (a)  give or receive compensation or anything of value in exchange for a
 referral of residential mortgage loan business;
 (b)  charge a fee in connection with a residential mortgage loan transaction:
 (i)  that is excessive; or
-(ii)  if the individual or entity does not comply with Section 70D-2-305;
+(ii)  if the person does not comply with Section 70D-2-305;
 (c)  give or receive compensation or anything of value in exchange for a
 referral of settlement or loan closing services related to a residential
 mortgage loan transaction;
@@ -31,19 +30,18 @@ Standards of Professional Appraisal Practice;
 (ii)  a request for information from the division;
 (h)  make false representations to the division, including in a licensure
 statement;
-(i)  for any residential mortgage loan transaction beginning on or after
-January 1, 2004, engage in the business of residential mortgage loans with
-respect to the transaction if the individual or entity also acts in any of the
-following capacities with respect to the same residential mortgage loan
-transaction:
+(i)  for a residential mortgage loan transaction beginning on or after January
+1, 2004, engage in the business of residential mortgage loans with respect to
+the transaction if the person also acts in any of the following capacities
+with respect to the same residential mortgage loan transaction:
 (i)  appraiser;
 (ii)  escrow agent;
 (iii)  real estate agent;
 (iv)  general contractor; or
 (v)  title insurance agent;
 (j)  order a title insurance report or hold a title insurance policy unless
-the individual or entity provides to the title insurer a copy of a valid,
-current license under this chapter;
+the person provides to the title insurer a copy of a valid, current license
+under this chapter;
 (k)  engage in unprofessional conduct as defined by rule;
 (l)  engage in an act or omission in transacting the business of residential
 mortgage loans that constitutes dishonesty, fraud, or misrepresentation;
@@ -62,7 +60,7 @@ transaction to the borrower;
 (ii)  assist another person to evade this chapter;
 (q)  recommend or encourage default, delinquency, or continuation of an
 existing default or delinquency, by a mortgage applicant on an existing
-indebtedness prior to the closing of a residential mortgage loan that will
+indebtedness before the closing of a residential mortgage loan that will
 refinance all or part of the indebtedness;
 (r)  in the case of the principal lending manager of an entity or a branch
 office of an entity, fail to exercise reasonable supervision over the
@@ -71,17 +69,27 @@ activities of:
 (ii)  a mortgage officer who is licensed with the principal lending manager;
 (s)  pay or offer to pay an individual who does not hold a license under this
 chapter for work that requires the individual to hold a license under this
-chapter; or
+chapter;
 (t)  in the case of a dual licensed title licensee as defined in Section
 31A-2-402:
 (i)  provide a title insurance product or service without the approval
 required by Section 31A-2-405; or
 (ii)  knowingly provide false or misleading information in the statement
-required by Subsection 31A-2-405(2).
+required by Subsection 31A-2-405(2); or
+(u)  represent to the public that the person can or will perform any act of a
+loan originator if that person is not licensed under this chapter because the
+person is exempt under Subsection 61-2c-102(1)(f)(ii)(A), including through:
+(i)  advertising;
+(ii)  a business card;
+(iii)  stationary;
+(iv)  a brochure;
+(v)  a sign;
+(vi)  a rate list; or
+(vii)  other promotional item.
 (2)  Whether or not the crime is related to the business of residential
 mortgage loans, it is a violation of this chapter for a licensee or a person
 who is a certified education provider to do any of the following with respect
-to a criminal offense which involves moral turpitude:
+to a criminal offense that involves moral turpitude:
 (a)  be convicted;
 (b)  plead guilty or nolo contendere;
 (c)  enter a plea in abeyance; or

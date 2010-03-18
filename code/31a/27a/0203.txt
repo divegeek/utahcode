@@ -5,7 +5,7 @@ proceeding.
 (2)  If a person is not served with summons on a petition to commence a formal
 delinquency proceeding and fails to appear for the summary hearing, the
 receivership court shall:
-(a)  continue the summary hearing not more than ten days;
+(a)  continue the summary hearing not more than 10 days;
 (b)  provide for alternative service of summons upon the person; and
 (c)  extend any restraining order.
 (3)  Upon a showing of good faith efforts to effect personal service upon a
@@ -24,6 +24,6 @@ commence a formal delinquency proceeding shall file its answer at the hearing
 and the receivership court shall:
 (i)  determine whether to extend any temporary restraining order pending final
 judgment; and
-(ii)  set the case for trial on a date not more than ten days from the day on
+(ii)  set the case for trial on a date not more than 10 days from the day on
 which the summary hearing is held.
 (b)  The receivership court may not grant a continuance for filing an answer.

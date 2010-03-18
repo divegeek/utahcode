@@ -1,4 +1,4 @@
-46-1-2 (Superseded 01/01/10).   Definitions.
+46-1-2.   Definitions.
 As used in this chapter:
 (1)  "Acknowledgment" means a notarial act in which a notary certifies that a
 signer, whose identity is personally known to the notary or proven on the
@@ -43,5 +43,5 @@ any state within the United States, or a foreign government;
 (iii)  the oath or affirmation of a credible person who is personally known to
 the notary and who personally knows the individual.
 (b)  "Satisfactory evidence of identity" does not include:
-(i)  a driving privilege card under Subsection 53-3-207(9); or
+(i)  a driving privilege card under Subsection 53-3-207(10); or
 (ii)  another document that is not considered valid for identification.

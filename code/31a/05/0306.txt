@@ -6,16 +6,16 @@ of the commissioner prior to repurchasing its own shares.
 (c)  Any repurchase of stock is subject to Section 16-10a-631.
 (d)  A stock corporation may not repurchase its own shares if it is hazardous
 or would become hazardous as a result of the repurchase.
-(2)  Within ten days after the end of any month in which it purchases more
-than 1% of any class of its outstanding shares, the corporation shall report
-the price and the names of the registered shareholders from whom the shares
-are acquired and of any other persons beneficially interested in those shares,
-so far as the latter are known to the corporation.  The corporation shall make
-a similar report within ten days after the end of any three-month period in
-which it purchases more than 2% of any class of its outstanding shares and
-within ten days after the end of any 12-month period in which it purchases
-more than 5% of any class of its outstanding shares.  Section 16-10a-631
-applies to the corporation's acquisition of its outstanding shares.
+(2)  Within 10 days after the end of any month in which it purchases more than
+1% of any class of its outstanding shares, the corporation shall report the
+price and the names of the registered shareholders from whom the shares are
+acquired and of any other persons beneficially interested in those shares, so
+far as the latter are known to the corporation.  The corporation shall make a
+similar report within 10 days after the end of any three-month period in which
+it purchases more than 2% of any class of its outstanding shares and within 10
+days after the end of any 12-month period in which it purchases more than 5%
+of any class of its outstanding shares.  Section 16-10a-631 applies to the
+corporation's acquisition of its outstanding shares.
 (3)  Treasury shares may be disposed of by the corporation for their current
 market value or, if there is no market, for the consideration the board of
 directors determines to be the fair value of the shares.

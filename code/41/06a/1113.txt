@@ -2,5 +2,5 @@
 (1)  A bicycle may not be equipped with, and a person may not use on a
 bicycle, a siren or whistle.
 (2)  Every bicycle shall be equipped with a brake or brakes which enable its
-driver to stop the bicycle within 25 feet from a speed of ten miles per hour
-on dry, level, clean pavement.
+driver to stop the bicycle within 25 feet from a speed of 10 miles per hour on
+dry, level, clean pavement.

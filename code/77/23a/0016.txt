@@ -9,7 +9,7 @@ necessary to accomplish the installation of the pen register unobtrusively and
 with a minimum of interference with the services the person ordered by the
 court accords the party regarding whom the installation and use is to take
 place, if such assistance is directed by a court order as provided in
-Subsection 77-23a-15 (2) (b) of this chapter.
+Subsection 77-23a-15(2)(b) of this chapter.
 (2) (a)  Upon request of an attorney for the government or an officer of a law
 enforcement agency authorized to receive the results of a trap and trace
 device under this chapter, a provider of wire or electronic communications
@@ -21,7 +21,7 @@ installation and operation of the device unobtrusively and with a minimum of
 interference with the services that the person so ordered by the court accords
 the party with respect to whom the installation and use is to take place, if
 the installation and assistance is directed by a court order under Section
-77-23a-15 (2) (b).
+77-23a-15(2)(b).
 (c)  Unless otherwise ordered by the court, the results of the trap and trace
 device shall be furnished to the officer of the law enforcement agency
 designated by the court, at reasonable intervals and during regular business

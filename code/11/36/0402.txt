@@ -8,7 +8,7 @@ Subsection 11-36-401(4)(b) for the applicable type of challenge.
 Subsection (1), an arbitrator or arbitration panel shall be selected as
 follows:
 (a)  the local political subdivision and the person or entity filing the
-request may agree on a single arbitrator within ten days after the day the
+request may agree on a single arbitrator within 10 days after the day the
 request for arbitration is filed; or
 (b)  if a single arbitrator is not agreed to in accordance with Subsection
 (2)(a), an arbitration panel shall be created with the following members:
@@ -21,7 +21,7 @@ days after the date:
 (a)  the single arbitrator is agreed on under Subsection (2)(a); or
 (b)  the two arbitrators are selected under Subsection (2)(b)(i).
 (4)  The arbitrator or arbitration panel shall issue a decision in writing
-within ten days from the date the hearing under Subsection (3) is completed.
+within 10 days from the date the hearing under Subsection (3) is completed.
 (5)  Except as provided in this section, each arbitration shall be governed by
 Title 78B, Chapter 11, Utah Uniform Arbitration Act.
 (6)  The parties may agree to:

@@ -10,9 +10,9 @@ beneficiary's bank is located.
 (c)  The issue of when payment is made pursuant to a funds transfer by the
 originator to the beneficiary is governed by the law of the jurisdiction in
 which the beneficiary's bank is located.
-(2)  If the parties described in Subsections (1) (a), (b), and (c) have made
-an agreement selecting the law of a particular jurisdiction to govern rights
-and obligations between each other, the law of that jurisdiction governs those
+(2)  If the parties described in Subsections (1)(a), (b), and (c) have made an
+agreement selecting the law of a particular jurisdiction to govern rights and
+obligations between each other, the law of that jurisdiction governs those
 rights and obligations, whether or not the payment order or the funds transfer
 bears a reasonable relation to that jurisdiction.
 (3) (a)  A funds transfer system rule may select the law of a particular

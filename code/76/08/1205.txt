@@ -32,8 +32,8 @@ rule;
 (9)  any client who, while receiving public assistance, acquires income or
 resources in excess of the amount he previously reported to the state agency
 administering the public assistance, and fails to notify the state agency to
-which the client previously reported within ten days after acquiring the
-excess income or resources;
+which the client previously reported within 10 days after acquiring the excess
+income or resources;
 (10)  any person who fails to act as required under Section 76-8-1203 or
 76-8-1204 with intent to obtain or help another obtain an "overpayment" as
 defined in Section 35A-3-602; and

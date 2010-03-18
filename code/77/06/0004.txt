@@ -17,7 +17,7 @@ attorney general shall serve a copy of the accusation on the defendant with a
 summons which requires the defendant to appear before the district court of
 the county in which the county attorney or district attorney serves and to
 answer the accusation.
-(3)  The time fixed for appearance may not be less than ten days from the date
+(3)  The time fixed for appearance may not be less than 10 days from the date
 of service of summons.  The service of the accusation, summons, and the return
 of service shall be made in the manner provided by law for service of civil
 process.

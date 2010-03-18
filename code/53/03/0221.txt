@@ -34,7 +34,7 @@ transportation of hazardous materials.
 court has issued a warrant for the arrest of a person for failure to post
 bail, appear, or otherwise satisfy the terms of the citation.
 (c) (i)  This Subsection (2) may not be exercised unless notice of the pending
-suspension of the driving privilege has been sent at least ten days previously
+suspension of the driving privilege has been sent at least 10 days previously
 to the person at the address provided to the division.
 (ii)  After clearance by the division, a report authorized by Section 53-3-104
 may not contain any evidence of a suspension that occurred as a result of
@@ -63,7 +63,7 @@ abstract the court has graded the severity of violation as maximum.
 (c) (i)  A separate procedure for assessing points for speeding offenses shall
 be established by the division based upon the severity of the offense.
 (ii)  The severity of a speeding violation shall be graded as:
-(A)  "minimum" for exceeding the posted speed limit by up to ten miles per
+(A)  "minimum" for exceeding the posted speed limit by up to 10 miles per
 hour;
 (B)  "intermediate" for exceeding the posted speed limit by from 11 to 20
 miles per hour; and
@@ -195,7 +195,7 @@ subject to a restriction imposed in accordance with Section 53-3-208.
 for suspension or revocation of the licensee's license.
 (12) (a) Except as provided in Subsection (12)(b), a report authorized by
 Section 53-3-104 may not contain any evidence of a conviction for speeding on
-an interstate system in this state if the conviction was for a speed of ten
+an interstate system in this state if the conviction was for a speed of 10
 miles per hour or less, above the posted speed limit and did not result in an
 accident, unless authorized in a manner specified by the division by the
 individual whose report is being requested.

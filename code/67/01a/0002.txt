@@ -62,7 +62,7 @@ on the city's population using the population estimate from the Utah
 Population Estimates Committee; and
 (B) (I)  prepare a certificate indicating the class in which the new city
 belongs based on the city's population; and
-(II)  within ten days after preparing the certificate, deliver a copy of the
+(II)  within 10 days after preparing the certificate, deliver a copy of the
 certificate to the city's legislative body;
 (ii) (A)  determine the classification under Section 10-2-301 of a
 consolidated municipality upon the consolidation of multiple municipalities
@@ -75,7 +75,7 @@ the population of a municipality is not available from the United States
 Bureau of the Census; and
 (B) (I)  prepare a certificate indicating the class in which the consolidated
 municipality belongs based on the municipality's population; and
-(II)  within ten days after preparing the certificate, deliver a copy of the
+(II)  within 10 days after preparing the certificate, deliver a copy of the
 certificate to the consolidated municipality's legislative body; and
 (iii)  monitor the population of each municipality using population
 information from:
@@ -89,7 +89,7 @@ indicates that a municipality's population has increased beyond the population
 for its current class, the lieutenant governor shall:
 (i)  prepare a certificate indicating the class in which the municipality
 belongs based on the increased population figure; and
-(ii)  within ten days after preparing the certificate, deliver a copy of the
+(ii)  within 10 days after preparing the certificate, deliver a copy of the
 certificate to the legislative body of the municipality whose class has
 changed.
 (c) (i)  If the applicable population figure under Subsection (3)(a)(ii) or
@@ -101,6 +101,6 @@ municipality whose population has decreased below the population for its
 current class, the lieutenant governor shall:
 (A)  prepare a certificate indicating the class in which the municipality
 belongs based on the decreased population figure; and
-(B)  within ten days after preparing the certificate, deliver a copy of the
+(B)  within 10 days after preparing the certificate, deliver a copy of the
 certificate to the legislative body of the municipality whose class has
 changed.

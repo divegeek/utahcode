@@ -1,7 +1,7 @@
-41-1a-514 (Superseded 01/01/10).   Certificate of title -- Contents.
+41-1a-514.   Certificate of title -- Contents.
 (1)  The division upon approving an application for a certificate of title
-shall issue a certificate of title. The face of the certificate of title shall
-include:
+shall issue a certificate of title.  The face of the certificate of title
+shall include:
 (a)  the date issued;
 (b)  the name and address of the owner;
 (c)  a description of the vehicle, vessel, or outboard motor titled, including
@@ -16,3 +16,7 @@ upon the vehicle, vessel, or outboard motor;
 (b)  the release of interest by a recorded lien holder; and
 (c)  the notation of one lien or encumbrance, if any, existing at the time of
 transfer.
+(4)  The model year that is listed on the certificate of title of a replica
+vehicle shall be the model year that the body of the vehicle resembles.
+(5)  The certificate of title of a replica vehicle shall indicate that the
+vehicle is a replica vehicle.

@@ -46,7 +46,7 @@ a debt incurred:
 (ii)  according to normal business terms;
 (c)  a transfer of a security interest in property:
 (i)  to enable the insurer to acquire the property; and
-(ii)  which is perfected within ten days after the day on which the security
+(ii)  which is perfected within 10 days after the day on which the security
 interest attaches;
 (d)  a transfer to or for the benefit of a creditor:
 (i)  to the extent that after the transfer the creditor gives new value not

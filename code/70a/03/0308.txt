@@ -10,7 +10,7 @@ of validity of the signature.  If an action to enforce the instrument is
 brought against a person as the undisclosed principal of a person who signed
 the instrument as a party to the instrument, the plaintiff has the burden of
 establishing that the defendant is liable on the instrument as a represented
-person under Subsection 70A-3-402 (1).
+person under Subsection 70A-3-402(1).
 (2)  If the validity of signatures is admitted or proved and there is
 compliance with Subsection (1), a plaintiff producing the instrument is
 entitled to payment if the plaintiff proves entitlement to enforce the

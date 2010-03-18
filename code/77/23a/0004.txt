@@ -40,11 +40,11 @@ officers, employees, or agents, and any landlords, custodians, or other
 specified persons have been provided with:
 (i)  a court order directing the assistance signed by the authorizing judge;
 or
-(ii)  a certification in writing by a person specified in Subsection 77-23a-10
-(7), or by the attorney general or an assistant attorney general, or by a
-county attorney or district attorney or his deputy that no warrant or court
-order is required by law, that all statutory requirements have been met, and
-that the specified assistance is required.
+(ii)  a certification in writing by a person specified in Subsection
+77-23a-10(7), or by the attorney general or an assistant attorney general, or
+by a county attorney or district attorney or his deputy that no warrant or
+court order is required by law, that all statutory requirements have been met,
+and that the specified assistance is required.
 (b)  The order or certification under this subsection shall set the period of
 time during which the provision of the information, facilities, or technical
 assistance is authorized and shall specify the information, facilities, or
@@ -162,5 +162,5 @@ this section, or the person has been found liable in any prior civil action
 under Section 77-23a-11, the person is subject to a mandatory $500 civil
 penalty.
 (c)  The court may use any means within its authority to enforce an injunction
-issued under Subsection (b) (i), and shall impose a civil fine of not less
-than $500 for each violation of the injunction.
+issued under Subsection (b)(i), and shall impose a civil fine of not less than
+$500 for each violation of the injunction.

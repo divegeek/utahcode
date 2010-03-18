@@ -9,7 +9,7 @@ form that  states the member's proposed retirement date; and
 date:
 (i)  the member has accrued at least four years of service credit and has
 attained an age of 65 years;
-(ii)  the member has accrued at least ten years of service credit and has
+(ii)  the member has accrued at least 10 years of service credit and has
 attained an age of 62 years;
 (iii)  the member has accrued at least 20 years of service credit and has
 attained an age of 60 years;

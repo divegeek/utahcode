@@ -3,7 +3,7 @@
 and principal officers of a stock corporation shall in the aggregate subscribe
 and pay, at the public offering price, at least $150,000 in cash or in
 property of equivalent value approved by the commissioner under Subsection
-31A-5-207 (1) (a) or (2) (a), for shares offered by the corporation under the
+31A-5-207(1)(a) or (2)(a), for shares offered by the corporation under the
 organization permit.
 (2) (a)  Certificates representing promotional securities and any stock
 received on those shares as the result of a stock dividend, stock split, or
@@ -15,7 +15,7 @@ to this section shall be released from escrow five years after issuance of the
 certificate of authority.  In other cases, the shares shall be released from
 escrow three years after issuance of the certificate of authority.
 (3)  The commissioner's approval of the transfer of promoter stock under
-Subsection (2) (a):
+Subsection (2)(a):
 (a)  shall be granted upon request, if the corporation has made an addition to
 earned surplus in each of the two immediately preceding years of at least 15%
 of the capital and surplus raised by the sale of shares under the organization

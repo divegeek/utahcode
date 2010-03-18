@@ -142,10 +142,10 @@ or benefits, if any, issued at the same age and for the same term, the amount
 of which does not vary with duration and the benefits under which have the
 same present value at the date of issue as the benefits under the policy;
 provided, however, that in the case of a policy providing a varying amount of
-insurance issued on the life of a child under age ten, the equivalent uniform
+insurance issued on the life of a child under age 10, the equivalent uniform
 amount may be computed as though the amount of insurance provided by the
-policy prior to the attainment of age ten were the amount provided by such
-policy at age ten.
+policy prior to the attainment of age 10 were the amount provided by such
+policy at age 10.
 (c)  The adjusted premiums for any policy providing term insurance benefits by
 rider or supplemental policy provision shall be equal to:  (i) the adjusted
 premiums for an otherwise similar policy issued at the same age without such
@@ -203,7 +203,7 @@ mortality as may be specified by the company and approved by the commissioner.
 (b)  Any company may file with the commissioner a written notice of its
 election to comply with the provisions of Subsection (6)(a) after a specified
 date before January 1, 1966.   After filing such notice, then upon such
-specified date, which is the operative date of Subsection (6) (a) for such
+specified date, which is the operative date of Subsection (6)(a) for such
 company, this Subsection (6)(a) shall become operative with respect to the
 ordinary policies thereafter issued by such company.   If a company makes no
 such election, the operative date of Subsection (6)(a) for such company is
@@ -250,14 +250,14 @@ at the date of issue of policy, of all adjusted premiums shall be equal to the
 sum of: (A) the then present value of the future guaranteed benefits provided
 for by the policy; (B) 1% of either the amount of insurance, if the insurance
 be uniform in amount, or the average amount of insurance at the beginning of
-each of the first ten policy years; and (C) 125% of the nonforfeiture net
-level premium as hereinafter defined.   Provided, however, that in applying
-the percentage specified in (C), no nonforfeiture net level premium shall be
+each of the first 10 policy years; and (C) 125% of the nonforfeiture net level
+premium as hereinafter defined.   Provided, however, that in applying the
+percentage specified in (C), no nonforfeiture net level premium shall be
 considered to exceed 4% of either the amount of insurance, if the insurance be
 uniform in amount, or the average amount of insurance at the beginning of each
-of the first ten policy years. The date of issue of a policy for the purpose
-of this subsection shall be the date as of which the rated age of the insured
-is determined.
+of the first 10 policy years. The date of issue of a policy for the purpose of
+this subsection shall be the date as of which the rated age of the insured is
+determined.
 (ii)  The nonforfeiture net level premium shall be equal to the present value,
 at the date of issue of the policy, of the guaranteed benefits provided for by
 the policy divided by the present value, at the date of issue of the policy,
@@ -290,8 +290,8 @@ nonforfeiture benefit under the policy.
 (v)  The additional expense allowance, at the time of the change to the newly
 defined benefits or premiums, shall be the sum of: (A) 1% of the excess, if
 positive, of the average amount of insurance at the beginning of each of the
-first ten policy years subsequent to the change over the average amount of
-insurance prior to the change at the beginning of each of the first ten policy
+first 10 policy years subsequent to the change over the average amount of
+insurance prior to the change at the beginning of each of the first 10 policy
 years subsequent to the time of the most recent previous change, or, if there
 has been no previous change, the date of issue of the policy; and (B) 125% of
 the increase, if positive, in the nonforfeiture net level premium.
@@ -427,7 +427,7 @@ surrender value available under the policy in the event of default in a
 premium payment due on any policy anniversary shall be in an amount which does
 not differ by more than 2/10 of 1% of either the amount of insurance, if the
 insurance be uniform in amount, or the average amount of insurance at the
-beginning of each of the first ten policy years, from the sum of:  (a) the
+beginning of each of the first 10 policy years, from the sum of:  (a) the
 greater of zero and the basic cash value hereinafter specified, and (b) the
 present value of any existing paid-up additions less the amount of any
 indebtedness to the company under the policy.
@@ -452,8 +452,7 @@ policy anniversary and the later of:  (i) the fifth policy anniversary and
 a cash surrender value in an amount, before including any paid-up additions
 and before deducting any indebtedness, of at least 2/10 of 1% of either the
 amount of insurance, if the insurance be uniform in amount, or the average
-amount of insurance at the beginning of each of the first ten policy years;
-and
+amount of insurance at the beginning of each of the first 10 policy years; and
 (b)  must be such that no percentage after the later of the two policy
 anniversaries specified in Subsection (9)(a) may apply to fewer than five
 consecutive policy years.

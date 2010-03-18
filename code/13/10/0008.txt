@@ -19,9 +19,9 @@ label.
 (a)  a felony of the third degree if the offense involves 100 or more
 recordings during a 180-day period or if the person has previously been
 convicted of a violation of this section;
-(b)  a class A misdemeanor if the offense involves at least ten recordings but
+(b)  a class A misdemeanor if the offense involves at least 10 recordings but
 less than 100 recordings during a 180-day period; or
-(c)  a class B misdemeanor if the offense involves less than ten recordings.
+(c)  a class B misdemeanor if the offense involves less than 10 recordings.
 (4)  In addition to the penalties provided in Subsection (3), a court may
 order a person who commits a violation of Subsection (2) to forfeit any
 recordings in the person's possession that served as the basis for the

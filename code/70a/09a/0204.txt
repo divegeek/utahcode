@@ -4,7 +4,7 @@ create or provide for a security interest in after-acquired collateral.
 (2) A security interest does not attach under a term constituting an after-
 acquired property clause to:
 (a)  consumer goods, other than an accession when given as additional
-security, unless the debtor acquires rights in them within ten days after the
+security, unless the debtor acquires rights in them within 10 days after the
 secured party gives value; or
 (b)  a commercial tort claim.
 (3)  A security agreement may provide that collateral secures, or that

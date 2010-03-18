@@ -45,7 +45,7 @@ information regarding how to obtain a prompt hearing before the division.
 specified by the division, also serve as the temporary license certificate
 under Subsection (4)(b).
 (6)  As a matter of procedure, a peace officer shall send to the division
-within ten calendar days after the day on which notice is provided:
+within 10 calendar days after the day on which notice is provided:
 (a)  the person's driver license certificate, if any;
 (b)  a copy of the citation issued for the offense;
 (c)  a signed report in a manner specified by the Driver License Division
@@ -55,7 +55,7 @@ violated Subsection (2).
 (7) (a) (i)  Upon request in a manner specified by the division, the Driver
 License Division shall grant to the person an opportunity to be heard within
 29 days after the date of arrest under Section 32A-12-209.
-(ii)  The request shall be made within ten calendar days of the day on which
+(ii)  The request shall be made within 10 calendar days of the day on which
 notice is provided.
 (b) (i)  Except as provided in Subsection (7)(b)(ii), a hearing, if held,
 shall be before the division in:
@@ -88,7 +88,7 @@ after July 1, 2009;
 (b)  suspend the person's license until the person is 21 years of age or for a
 period of two years, whichever is longer, beginning on the 30th day after the
 date of arrest for a second or subsequent offense under Subsection (2)(a):
-(i)  within ten years of a prior denial or suspension; and
+(i)  within 10 years of a prior denial or suspension; and
 (ii)  committed on or after July 1, 2009;
 (c)  deny the person's application for a license or learner's permit until the
 person is 21 years of age or for a period of one year, whichever is longer,
@@ -102,7 +102,7 @@ if:
 (i)  the person has not been issued an operator license; and
 (ii)  the suspension is for a second or subsequent offense under Subsection
 (2)(a):
-(A)  within ten years of a prior denial or suspension; and
+(A)  within 10 years of a prior denial or suspension; and
 (B)  committed on or after July 1, 2009; or
 (e)  deny or suspend a person's license for the denial and suspension periods
 in effect prior to July 1, 2009, for a violation under Subsection (2)(a) that

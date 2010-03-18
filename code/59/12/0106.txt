@@ -186,15 +186,15 @@ chapter by a means other than providing an exemption certificate containing
 the information required by Subsections (3)(a) and (b); or
 (B)  obtain an exemption certificate containing the information required by
 Subsections (3)(a) and (b), taken in good faith.
-(d)  Except as provided in Subsection (3) (e), a seller or certified service
+(d)  Except as provided in Subsection (3)(e), a seller or certified service
 provider that takes an exemption certificate from a purchaser in accordance
 with this Subsection (3) with respect to a transaction is not liable to
 collect a tax under this chapter:
 (i)  on that transaction; and
 (ii)  if the commission or a court of competent jurisdiction subsequently
 determines that the purchaser improperly claimed the exemption.
-(e) Subsection (3) (d) does not apply to a seller or certified service
-provider that:
+(e) Subsection (3)(d) does not apply to a seller or certified service provider
+that:
 (i)  fraudulently fails to collect a tax under this chapter;
 (ii)  solicits a purchaser to participate in improperly claiming an exemption
 from a tax under this chapter; or

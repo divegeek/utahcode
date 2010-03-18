@@ -22,7 +22,7 @@ consumer reporting agency shall:
 (a)  place a security freeze on the consumer's credit report within five
 business days after receiving the consumer's request;
 (b)  send a written confirmation of the security freeze to the consumer within
-ten business days after placing the security freeze; and
+10 business days after placing the security freeze; and
 (c)  provide the consumer with a unique personal identification number or
 password to be used by the consumer when providing authorizations for removal
 or temporary removal of the security freeze under Section 13-45-202.

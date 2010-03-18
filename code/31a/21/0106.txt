@@ -32,9 +32,9 @@ and
 (b)  except:
 (i)  as provided in:
 (A)  Subsection (3) or (4);
-(B)  Subsection 31A-8-402.3 (9);
-(C)  Subsection 31A-22-721 (10); or
-(D)  Subsection 31A-30-107 (8); or
+(B)  Subsection 31A-8-402.3(9);
+(C)  Subsection 31A-22-721(10); or
+(D)  Subsection 31A-30-107(8); or
 (ii)  as otherwise mandated by law.
 (3)  Subsection (2) does not prevent a change in coverage under group
 contracts resulting from:

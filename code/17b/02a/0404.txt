@@ -16,7 +16,7 @@ district, electric district, or municipal district.
 (g)  "Remaining area" means the area of a regular district that:
 (i)  is outside the boundaries of an included municipality; and
 (ii)  includes the area of an included municipality whose legislative body
-elects, under Subsection (4)(a)(i)(B), not to appoint a member to the board of
+elects, under Subsection (4)(a)(ii), not to appoint a member to the board of
 trustees of the regular district.
 (h)  "Remaining area member" means a member of a board of trustees of a
 regular district who is appointed, or, if applicable, elected to represent the
@@ -43,7 +43,7 @@ trustees of the district; and
 of each included municipality shall each appoint one member to the board of
 trustees of a regular district.
 (ii)  The legislative body of an included municipality may elect not to
-appoint a member to the board under Subsection (4)(a)(i)(A).
+appoint a member to the board under Subsection (4)(a)(i).
 (b)  Except as provided in Subsection (5), the legislative body of each county
 whose boundaries include a remaining area shall appoint all other members to
 the board of trustees of a regular district.

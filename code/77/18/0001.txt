@@ -70,8 +70,8 @@ prosecutor, and the court for review, three working days prior to sentencing.
 Any alleged inaccuracies in the presentence investigation report, which have
 not been resolved by the parties and the department prior to sentencing, shall
 be brought to the attention of the sentencing judge, and the judge may grant
-an additional ten working days to resolve the alleged inaccuracies of the
-report with the department.  If after ten working days the inaccuracies cannot
+an additional 10 working days to resolve the alleged inaccuracies of the
+report with the department.  If after 10 working days the inaccuracies cannot
 be resolved, the court shall make a determination of relevance and accuracy on
 the record.
 (b)  If a party fails to challenge the accuracy of the presentence

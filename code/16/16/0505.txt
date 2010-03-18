@@ -1,5 +1,5 @@
 16-16-505.   Right of member and former member to information.
-(1)  Not later than ten business days after receipt of a demand made in a
+(1)  Not later than 10 business days after receipt of a demand made in a
 record, a limited cooperative association shall permit a member to obtain,
 inspect, and copy in the association's principal office required information
 listed in Subsections 16-16-114(1)(a) through (h) during regular business
@@ -17,7 +17,7 @@ reasonably related to the member's interest;
 information sought and the purpose for seeking the information;
 (c)  the information sought is directly connected to the member's purpose; and
 (d)  the demand is reasonable.
-(3)  Not later than ten business days after receipt of a demand pursuant to
+(3)  Not later than 10 business days after receipt of a demand pursuant to
 Subsection (2), a limited cooperative association shall provide, in a record,
 the following information to the member that made the demand:
 (a)  if the association agrees to provide the demanded information:
@@ -37,7 +37,7 @@ member in the association; and
 (b)  the person seeks the information in good faith.
 (5)  A limited cooperative association shall respond to a demand made pursuant
 to Subsection (4) in the manner provided in Subsection (3).
-(6)  Not later than ten business days after receipt by a limited cooperative
+(6)  Not later than 10 business days after receipt by a limited cooperative
 association of a demand made by a member in a record, but not more often than
 once in a six-month period, the association shall deliver to the member a
 record stating the information with respect to the member required by

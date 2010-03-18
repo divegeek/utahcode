@@ -33,7 +33,7 @@ of the total fund assets in a particular industry;
 of the total fund assets in securities of corporations that have been in
 continuous operation for less than three years; and
 (iv)  the dollar-weighted average maturity of fixed-income securities acquired
-under Subsection (1)(c) may not exceed ten years;
+under Subsection (1)(c) may not exceed 10 years;
 (d)  fixed-income securities issued by agencies of the United States and
 government-sponsored organizations, including mortgage-backed pass-through
 certificates and mortgage-backed bonds;

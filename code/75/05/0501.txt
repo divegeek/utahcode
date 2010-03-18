@@ -26,7 +26,7 @@ accounting of the assets to which the power of attorney applies, unless the
 power of attorney specifically directs that the attorney-in-fact or agent is
 not required to do so; and
 (d)  notify all interested persons upon the death of the principal.
-(3)  All interested persons shall be notified within ten days if the attorney-
+(3)  All interested persons shall be notified within 10 days if the attorney-
 in-fact or agent changes.  The notification shall be made by the new attorney-
 in-fact or agent who shall then be accountable to the interested persons in
 accordance with Subsection (2).

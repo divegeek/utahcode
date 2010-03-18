@@ -16,7 +16,7 @@ still receive health care if Subsection (3) applies;
 canceled in writing before the renewal date;
 (vi)  the right of the patient to have questions about the arbitration
 agreement answered;
-(vii)  the right of the patient to rescind the agreement within ten days of
+(vii)  the right of the patient to rescind the agreement within 10 days of
 signing the agreement; and
 (viii)  the right of the patient to require mediation of the dispute prior to
 the arbitration of the dispute;
@@ -34,7 +34,7 @@ individuals approved as arbitrators by the state or federal courts of Utah; or
 (ii)  if both parties agree, a single arbitrator may be selected;
 (iii)  all parties waive the requirement of Section 78B-3-416 to appear before
 a hearing panel in a malpractice action against a health care provider;
-(iv)  the patient be given the right to rescind the agreement within ten days
+(iv)  the patient be given the right to rescind the agreement within 10 days
 of signing the agreement;
 (v)  the term of the agreement be for one year and that the agreement be
 automatically renewed each year unless the agreement is canceled in writing by

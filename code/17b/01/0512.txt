@@ -8,7 +8,7 @@ shall file with the lieutenant governor:
 67-1a-6.5.
 (b)  The board of trustees shall file the documents listed in Subsection
 (1)(a):
-(i)  within ten days after adopting a resolution approving a withdrawal under
+(i)  within 10 days after adopting a resolution approving a withdrawal under
 Section 17B-1-510; and
 (ii)  as soon as practicable after receiving a notice under Subsection
 10-2-425(2) of an automatic withdrawal under Subsection 17B-1-502(2), after
@@ -37,7 +37,7 @@ in Subsection (1)(b) to each other county.
 (2) (a)  Upon the lieutenant governor's issuance of the certificate of
 withdrawal under Section 67-1a-6.5 for a withdrawal under Section 17B-1-510,
 for an automatic withdrawal under Subsection 17B-1-502(3), or for the
-withdrawal of a municipality from a local district under Section 17B-2-505,
+withdrawal of a municipality from a local district under Section 17B-1-505,
 the withdrawal shall be effective, subject to the conditions of the withdrawal
 resolution, if applicable.
 (b)  An automatic withdrawal under Subsection 17B-1-502(3) shall be effective

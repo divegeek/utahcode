@@ -31,7 +31,7 @@ unpaid.
 terminates at the later of:
 (i)  the last day of the coverage period for which premium has been withheld
 by the employer;
-(ii)  ten days after the date the insurer mails notice to the certificate
+(ii)  10 days after the date the insurer mails notice to the certificate
 holder that coverage has terminated; or
 (iii)  if the insurer fails to provide notice as required by this Subsection
 (3), 45 days from the last date for which premium is received.

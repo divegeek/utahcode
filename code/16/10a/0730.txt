@@ -12,12 +12,12 @@ promptly as they occur and amendments to the agreement promptly as they are
 made.
 (2)  A voting trust becomes effective on the date the first shares subject to
 the trust are registered in the trustee's name.  A voting trust is valid for
-the period provided in the agreement, but not more than ten years after its
+the period provided in the agreement, but not more than 10 years after its
 effective date unless extended under Subsection (3).
 (3)  All or some of the parties to a voting trust may extend the voting trust
-for additional terms of not more than ten years each by signing an extension
+for additional terms of not more than 10 years each by signing an extension
 agreement and obtaining the trustee's written consent to the extension.  An
-extension is valid for not more than ten years from the date the first
+extension is valid for not more than 10 years from the date the first
 shareholder signs the extension agreement.  The trustee must deliver copies of
 the extension agreement and list of beneficial owners to the corporation's
 principal office.  An extension agreement binds only those parties signing it.

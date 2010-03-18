@@ -10,7 +10,7 @@ order changed.
 have been fulfilled.
 (3) (a)  An airport not meeting the standards required by the division shall:
 (i)  be given notice of its noncompliance; and
-(ii)  have ten days from the receipt of that notice to respond to the division
+(ii)  have 10 days from the receipt of that notice to respond to the division
 with a plan and schedule for compliance.
 (b)  If the airport fails to respond within the required time, the division
 may revoke the airport license and close the airport.

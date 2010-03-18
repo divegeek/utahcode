@@ -21,7 +21,7 @@ satisfied:
 (a)  All persons known to claim an interest in the goods must be notified.
 (b)  The notification must include an itemized statement of the claim, a
 description of the goods subject to the lien, a demand for payment within a
-specified time not less than ten days after receipt of the notification, and a
+specified time not less than 10 days after receipt of the notification, and a
 conspicuous statement that unless the claim is paid within that time the goods
 will be advertised for sale and sold by auction at a specified time and place.
 (c)  The sale must conform to the terms of the notification.
@@ -34,7 +34,7 @@ held.  The advertisement must include a description of the goods, the name of
 the person on whose account the goods are being held, and the time and place
 of the sale.  The sale must take place at least 15 days after the first
 publication.  If there is no newspaper of general circulation where the sale
-is to be held, the advertisement must be posted at least ten days before the
+is to be held, the advertisement must be posted at least 10 days before the
 sale in not fewer than six conspicuous places in the neighborhood of the
 proposed sale.
 (3)  Before any sale pursuant to this section, any person claiming a right in

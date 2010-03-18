@@ -2,7 +2,7 @@
 (1)  All money representing payments for the purchase of a preneed funeral
 arrangement shall be deposited by the provider or sales agent receiving the
 payment:
-(a)  within ten business days after the day on which the provider or sales
+(a)  within 10 business days after the day on which the provider or sales
 agent receives the payment in the form of cash or cash equivalent; or
 (b)  within 35 calendar days after the day on which the provider or sales
 agent receives the payment in the form of a negotiable instrument.

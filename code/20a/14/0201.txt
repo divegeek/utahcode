@@ -11,7 +11,7 @@ population and are as contiguous and compact as practicable.
 (2) (a)  County and municipal legislative bodies shall reapportion district
 boundaries to meet the population, compactness, and contiguity requirements of
 this section:
-(i)  at least once every ten years;
+(i)  at least once every 10 years;
 (ii)  if a new district is created:
 (A)  within 45 days after the canvass of an election at which voters approve
 the creation of a new district; and
@@ -56,7 +56,7 @@ requirements for staggered terms, the legislative body shall determine by lot
 which of the reapportioned local school board districts will elect members to
 two-year terms and which will elect members to four-year terms.
 (b)  All subsequent elections are for four-year terms.
-(5)  Within ten days after any local school board district boundary change,
-the county or municipal legislative body making the change shall send an
-accurate map or plat of the boundary change to the Automated Geographic
-Reference Center created under Section 63F-1-506.
+(5)  Within 10 days after any local school board district boundary change, the
+county or municipal legislative body making the change shall send an accurate
+map or plat of the boundary change to the Automated Geographic Reference
+Center created under Section 63F-1-506.

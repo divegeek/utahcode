@@ -1,5 +1,5 @@
-63H-1-401 (Superseded 10/01/09).   Preparation of project area plan --
-Required contents of project area plan.
+63H-1-401.   Preparation of project area plan -- Required contents of
+project area plan.
 (1) (a)  Before spending any funds in a project area or entering into any
 lease or development agreement, the authority board shall adopt a project area
 plan as provided in this part.
@@ -19,7 +19,7 @@ member of the legislative body of a municipality that is adjacent or in close
 proximity to the project area described in the project area plan proposed to
 be adopted.
 (2)  Each project area plan and draft project area plan shall contain:
-(a)  a legal description of the boundaries of the project area that is the
+(a)  a legal description of the boundary of the project area that is the
 subject of the project area plan;
 (b)  the authority's purposes and intent with respect to the project area; and
 (c)  the board's findings and determination that:
@@ -30,3 +30,16 @@ project area plan; and
 (iv)  carrying out the project area plan will promote the public peace,
 health, safety, and welfare of the community in which the project area is
 located.
+(3) (a)  A project area described in a project area plan:
+(i)  shall include military land; and
+(ii)  may include private land if:
+(A)  the owner of the private land consents to the inclusion of the land
+within the project area;
+(B)  subject to Subsection (3)(b), the private land included within the
+project area is contiguous to the military land included within the project
+area;
+(C)  the total size of the project area does not exceed 100 acres; and
+(D)  the project area is located within a county of the third, fourth, fifth,
+or sixth class.
+(b)  Private land does not lose its contiguousness to military land because of
+the presence of a road or right-of-way.

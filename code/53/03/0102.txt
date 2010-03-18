@@ -1,4 +1,4 @@
-53-3-102 (Superseded 01/01/10).   Definitions.
+53-3-102.   Definitions.
 As used in this chapter:
 (1)  "Cancellation" means the termination by the division of a license issued
 through error or fraud or for which consent under Section 53-3-211 has been
@@ -6,11 +6,14 @@ withdrawn.
 (2)  "Class D license" means the class of license issued to drive motor
 vehicles not defined as commercial motor vehicles or motorcycles under this
 chapter.
-(3)  "Commercial driver license" or "CDL" means a license issued substantially
-in accordance with the requirements of Title XII, Pub. L. 99-570, the
-Commercial Motor Vehicle Safety Act of 1986, and in accordance with Part 4,
-Uniform Commercial Driver License Act, which authorizes the holder to drive a
-class of commercial motor vehicle.
+(3)  "Commercial driver license" or "CDL" means a license:
+(a)  issued substantially in accordance with the requirements of Title XII,
+Pub. L. 99-570, the Commercial Motor Vehicle Safety Act of 1986, and in
+accordance with Part 4, Uniform Commercial Driver License Act, which
+authorizes the holder to drive a class of commercial motor vehicle; and
+(b)  that was obtained by providing evidence of lawful presence in the United
+States with one of the document requirements described in Subsection
+53-3-410(1)(i)(i).
 (4) (a)  "Commercial motor vehicle" means a motor vehicle or combination of
 motor vehicles designed or used to transport passengers or property if the
 motor vehicle:
@@ -70,7 +73,8 @@ purposes of vehicular traffic.
 person who is required to hold a CDL under Part 4 or federal law.
 (12)  "Driving privilege card" means the evidence of the privilege granted and
 issued under this chapter to drive a motor vehicle to a person whose privilege
-was obtained without using a Social Security number.
+was obtained without providing evidence of lawful presence in the United
+States.
 (13)  "Extension" means a renewal completed in a manner specified by the
 division.
 (14)  "Farm tractor" means every motor vehicle designed and used primarily as
@@ -79,29 +83,61 @@ husbandry.
 (15)  "Highway" means the entire width between property lines of every way or
 place of any nature when any part of it is open to the use of the public, as a
 matter of right, for traffic.
-(16)  "Indigent" means that a person's income falls below the federal poverty
+(16)  "Identification card" means an identification card issued under this
+chapter to a person whose card was obtained by providing evidence of lawful
+presence in the United States with one of the document requirements described
+in Subsection 53-3-804(2)(i)(i).
+(17)  "Indigent" means that a person's income falls below the federal poverty
 guideline issued annually by the U.S. Department of Health and Human Services
 in the Federal Register.
-(17)  "License" means the privilege to drive a motor vehicle.
-(18)  "License certificate" means the evidence of the privilege issued under
-this chapter to drive a motor vehicle.
-(19)  "Motorboat" has the same meaning as provided under Section 73-18-2.
-(20)  "Motorcycle" means every motor vehicle, other than a tractor, having a
+(18)  "License" means the privilege to drive a motor vehicle.
+(19) (a)  "License certificate" means the evidence of the privilege issued
+under this chapter to drive a motor vehicle.
+(b)  "License certificate" evidence includes a:
+(i)  regular license certificate;
+(ii)  limited-term license certificate;
+(iii)  driving privilege card;
+(iv)  CDL license certificate; and
+(v)  limited-term CDL license certificate.
+(20)  "Limited-term commercial driver license" or "limited-term CDL" means a
+license:
+(a)  issued substantially in accordance with the requirements of Title XII,
+Pub.  L.  99-570, the Commercial Motor Vehicle Safety Act of 1986, and in
+accordance with Part 4, Uniform Commercial Driver License Act, which
+authorizes the holder to drive a class of commercial motor vehicle; and
+(b)  that was obtained by providing evidence of lawful presence in the United
+States with one of the document requirements described in Subsection
+53-3-410(1)(i)(ii).
+(21)  "Limited-term identification card" means an identification card issued
+under this chapter to a person whose card was obtained by providing evidence
+of lawful presence in the United States with one of the document requirements
+described in Subsection 53-3-804(2)(i)(ii).
+(22)  "Limited-term license certificate" means the evidence of the privilege
+granted and issued under this chapter to drive a motor vehicle to a person
+whose privilege was obtained providing evidence of lawful presence in the
+United States with one of the document requirements described in Subsection
+53-3-205(8)(a)(ii)(B).
+(23)  "Motorboat" has the same meaning as provided under Section 73-18-2.
+(24)  "Motorcycle" means every motor vehicle, other than a tractor, having a
 seat or saddle for the use of the rider and designed to travel with not more
 than three wheels in contact with the ground.
-(21)  "Office of Recovery Services" means the Office of Recovery Services,
+(25)  "Office of Recovery Services" means the Office of Recovery Services,
 created in Section 62A-11-102.
-(22) (a)  "Owner" means a person other than a lienholder having an interest in
+(26) (a)  "Owner" means a person other than a lienholder having an interest in
 the property or title to a vehicle.
 (b)  "Owner" includes a person entitled to the use and possession of a vehicle
 subject to a security interest in another person but excludes a lessee under a
 lease not intended as security.
-(23)  "Renewal" means to validate a license certificate so that it expires at
+(27)  "Regular license certificate" means the evidence of the privilege issued
+under this chapter to drive a motor vehicle whose privilege was obtained by
+providing evidence of lawful presence in the United States with one of the
+document requirements described in Subsection 53-3-205(8)(a)(ii)(A).
+(28)  "Renewal" means to validate a license certificate so that it expires at
 a later date.
-(24)  "Reportable violation" means an offense required to be reported to the
+(29)  "Reportable violation" means an offense required to be reported to the
 division as determined by the division and includes those offenses against
 which points are assessed under Section 53-3-221.
-(25) (a)  "Resident" means an individual who:
+(30) (a)  "Resident" means an individual who:
 (i)  has established a domicile in this state, as defined in Section
 41-1a-202, or regardless of domicile, remains in this state for an aggregate
 period of six months or more during any calendar year;
@@ -122,16 +158,16 @@ in this state;
 assigned in this state, assigned by or representing an employer, religious or
 private organization, or a governmental entity; or
 (iv)  an immediate family member who resides with or a household member of a
-person listed in Subsections (25)(b)(i) through (iii).
-(26)  "Revocation" means the termination by action of the division of a
+person listed in Subsections (30)(b)(i) through (iii).
+(31)  "Revocation" means the termination by action of the division of a
 licensee's privilege to drive a motor vehicle.
-(27) (a)  "School bus" means a commercial motor vehicle used to transport pre-
+(32) (a)  "School bus" means a commercial motor vehicle used to transport pre-
 primary, primary, or secondary school students to and from home and school, or
 to and from school sponsored events.
 (b)  "School bus" does not include a bus used as a common carrier as defined
 in Section 59-12-102.
-(28)  "Suspension" means the temporary withdrawal by action of the division of
+(33)  "Suspension" means the temporary withdrawal by action of the division of
 a licensee's privilege to drive a motor vehicle.
-(29)  "Taxicab" means any class D motor vehicle transporting any number of
+(34)  "Taxicab" means any class D motor vehicle transporting any number of
 passengers for hire and that is subject to state or federal regulation as a
 taxi.

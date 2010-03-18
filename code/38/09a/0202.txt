@@ -24,10 +24,10 @@ petitioner and other specifically designated persons under the circumstances.
 (3)  An ex parte civil wrongful lien injunction issued under this section
 shall state on its face:
 (a)  that the respondent is entitled to a hearing, upon written request filed
-with the court within ten days of the service of the injunction;
+with the court within 10 days of the service of the injunction;
 (b)  the name and address of the district court where the request may be
 filed;
-(c)  that if the respondent fails to request a hearing within ten days of
+(c)  that if the respondent fails to request a hearing within 10 days of
 service, the ex parte civil wrongful lien injunction is automatically modified
 to a civil wrongful lien injunction without further notice to the respondent
 and that the civil wrongful lien injunction expires three years after service

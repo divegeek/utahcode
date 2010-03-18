@@ -37,8 +37,7 @@ disputed, undisputed, legal, equitable, secured, or unsecured.
 (a)  if the debtor is an individual:
 (i)  a relative of the debtor or of a general partner of the debtor;
 (ii)  a partnership in which the debtor is a general partner;
-(iii)  a general partner in a partnership described in Subsection (7) (a)
-(ii);
+(iii)  a general partner in a partnership described in Subsection (7)(a)(ii);
 (iv)  a corporation of which the debtor is a director, officer, or person in
 control; or
 (v)  a limited liability company of which the debtor is a member or manager;
@@ -47,7 +46,7 @@ control; or
 (ii)  an officer of the debtor;
 (iii)  a person in control of the debtor;
 (iv)  a partnership in which the debtor is a general partner;
-(v)  a general partner in a partnership described in Subsection (7) (b) (iv);
+(v)  a general partner in a partnership described in Subsection (7)(b)(iv);
 (vi)  a limited liability company of which the debtor is a member or manager;
 or
 (vii)  a relative of a general partner, director, officer, or person in
@@ -57,8 +56,7 @@ control of the debtor;
 (ii)  a relative of a general partner in, a general partner of, or a person in
 control of the debtor;
 (iii)  another partnership in which the debtor is a general partner;
-(iv)  a general partner in a partnership described in Subsection (7) (c)
-(iii);
+(iv)  a general partner in a partnership described in Subsection (7)(c)(iii);
 (v)  a limited liability company of which the debtor is a member or manager;
 or
 (vi)  a person in control of the debtor;

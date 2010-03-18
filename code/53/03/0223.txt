@@ -34,7 +34,7 @@ information regarding how to obtain a prompt hearing before the division.
 (b)  A citation issued by a peace officer may, if provided in a manner
 specified by the division, also serve as the temporary license certificate.
 (5)  As a matter of procedure, a peace officer shall send to the division
-within ten calendar days after the day on which notice is provided:
+within 10 calendar days after the day on which notice is provided:
 (a)  the person's license certificate;
 (b)  a copy of the citation issued for the offense;
 (c)  a signed report in a manner specified by the division indicating the
@@ -43,8 +43,8 @@ chemical test results, if any; and
 violated Section 41-6a-502 or 41-6a-517.
 (6) (a)  Upon request in a manner specified by the division, the division
 shall grant to the person an opportunity to be heard within 29 days after the
-date of arrest.  The request to be heard shall be made within ten calendar
-days of the day on which notice is provided under Subsection (5).
+date of arrest.  The request to be heard shall be made within 10 calendar days
+of the day on which notice is provided under Subsection (5).
 (b) (i)  Except as provided in Subsection (6)(b)(ii), a hearing, if held,
 shall be before the division in:
 (A)  the county in which the arrest occurred; or
@@ -76,7 +76,7 @@ permit to operate a motor vehicle for a period of:
 (A)  120 days beginning on the 30th day after the date of arrest for a first
 suspension; or
 (B)  two years beginning on the 30th day after the date of arrest for a second
-or subsequent suspension for an offense that occurred within the previous ten
+or subsequent suspension for an offense that occurred within the previous 10
 years; or
 (ii)  if the person is under 21 years of age at the time of arrest and the
 arrest was made on or after July 1, 2009:
@@ -87,7 +87,7 @@ first suspension; or
 (II)  until the person is 21 years of age or for a period of two years,
 whichever is longer, beginning on the 30th day after the date of arrest for a
 second or subsequent suspension for an offense that occurred within the
-previous ten years; or
+previous 10 years; or
 (B)  deny the person's application for a license or learner's permit:
 (I)  until the person is 21 years of age or for a period of 120 days,
 whichever is longer, for a first suspension if the person has not been issued
@@ -95,7 +95,7 @@ an operator license; or
 (II)  until the person is 21 years of age or for a period of two years,
 whichever is longer, beginning on the 30th day after the date of arrest for a
 second or subsequent suspension for an offense that occurred within the
-previous ten years.
+previous 10 years.
 (b)  The division shall deny or suspend a person's license for the denial and
 suspension periods in effect prior to July 1, 2009, for an offense that was
 committed prior to July 1, 2009.

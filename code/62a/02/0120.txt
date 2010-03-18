@@ -92,7 +92,7 @@ in Subsection (1)(g) does not indicate that the person is listed in a child
 abuse and neglect registry of another state as having a substantiated or
 supported finding of a severe type of child abuse or neglect as defined in
 Section 62A-4a-1002.
-(3)  Except as provided in Subsection (8), unless at least ten years have
+(3)  Except as provided in Subsection (8), unless at least 10 years have
 passed since the date of conviction, the office may not approve a person to
 have direct access to children or vulnerable adults in the licensee's human
 services program if that person has been convicted of an offense, whether a
@@ -126,7 +126,7 @@ years of the date of the search;
 (C)  a protective order or ex parte protective order violation under Section
 76-5-108 or a similar statute in another state; or
 (D)  any felony, misdemeanor, or infraction listed in Subsection (3) if at
-least ten years have passed since the date of conviction;
+least 10 years have passed since the date of conviction;
 (ii)  a plea of guilty or no contest to a pending:
 (A)  felony;
 (B)  misdemeanor listed in Subsection (3); or

@@ -16,7 +16,7 @@ immediately notify the paying agent and the state treasurer by:
 (iii)  a writing sent by first-class United States mail.
 (2)  If sufficient funds are not transferred to the paying agent as required
 by Subsection (1), the paying agent shall notify the state treasurer of that
-failure in writing at least ten days before the scheduled debt service payment
+failure in writing at least 10 days before the scheduled debt service payment
 date by:
 (a)  telephone;
 (b)  a writing sent by facsimile transmission; and

@@ -22,7 +22,7 @@ unless:
 (a)  application for stay is filed with a court of competent jurisdiction
 within five days following the issuance of the order; and
 (b)  a stay is entered by the commission or a court of competent jurisdiction
-within ten days after the order is issued.
+within 10 days after the order is issued.
 (4)  The commission may by rule, or by order pursuant to standards promulgated
 by rule, exempt any security, class of securities, electrical corporation, or
 class of electrical corporation from the requirement of Subsection (1),

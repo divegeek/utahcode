@@ -18,7 +18,7 @@ corporation shall purchase the shares in the manner provided in this section.
 (b)  If the corporation does not file an election with the court within the
 time period, but an election to purchase all shares of the corporation owned
 by the petitioning shareholder is filed by one or more shareholders within the
-time period, the corporation shall, within ten days after the later of:
+time period, the corporation shall, within 10 days after the later of:
 (i)  the end of the time period allowed for the filing of elections to
 purchase under this section; or
 (ii)  notification from the court of an election by shareholders to purchase
@@ -99,7 +99,7 @@ shareholder of the corporation, except the right to receive the amounts
 awarded to him by the court.  The award is enforceable in the same manner as
 any other judgment.
 (7) (a)  The purchase ordered pursuant to Subsection (5) shall be made within
-ten days after the date the order becomes final, unless before that time the
+10 days after the date the order becomes final, unless before that time the
 corporation files with the court a notice of its intention to adopt articles
 of dissolution pursuant to Sections 16-10a-1402 and 16-10a-1403.  The articles
 of dissolution must then be adopted and filed within 50 days after notice.

@@ -30,9 +30,9 @@ public transit facility; or
 does not extend to any property not necessary for the construction or
 operation of a rail fixed guideway public transit facility.
 (c)  A county of the first class may not, through an agreement under Title 11,
-Chapter 3, Interlocal Cooperation Act, require a public transit district under
-Title 17B, Chapter 2a, Part 8, Public Transit District Act, to obtain approval
-from the county prior to constructing a:
+Chapter 13, Interlocal Cooperation Act, require a public transit district
+under Title 17B, Chapter 2a, Part 8, Public Transit District Act, to obtain
+approval from the county prior to constructing a:
 (i)  rail fixed guideway public transit facility that extends across two or
 more counties; or
 (ii)  structure that serves a rail fixed guideway public transit facility that
@@ -161,7 +161,7 @@ commencement of construction; and
 (ii)  with sufficient detail to enable the land use authority to assess:
 (A)  the specified public agency's compliance with applicable land use
 ordinances;
-(B)  the demand for public facilities listed in Subsections 11-36-102(12)(a),
+(B)  the demand for public facilities listed in Subsections 11-36-102(13)(a),
 (b), (c), (d), (e), and (g) caused by the development;
 (C)  the amount of any applicable fee listed in Subsection 17-27a-509(5);
 (D)  any credit against an impact fee; and

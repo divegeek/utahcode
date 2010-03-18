@@ -35,5 +35,5 @@ not know that the name and number identify different persons.  The receiving
 bank need not determine whether the name and number refer to the same person.
 (d)  If the receiving bank knows that the name and number identify different
 persons, reliance on either the name or the number in executing the sender's
-payment order is a breach of the obligation stated in Subsection 70A-4a-302
-(1)(a).
+payment order is a breach of the obligation stated in Subsection 70A-
+4a-302(1)(a).
