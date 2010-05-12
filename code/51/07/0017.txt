@@ -30,7 +30,7 @@ funds pledged or otherwise dedicated to the payment of interest and principal
 of those notes and bonds, in accordance with the terms of the borrowing
 instruments applicable to those bonds or notes, or if none of those provisions
 are applicable, in accordance with Section 51-7-11.
-(d) Each public treasurer may invest proceeds of bonds, notes, or other moneys
+(d) Each public treasurer may invest proceeds of bonds, notes, or other money
 pledged or otherwise dedicated to the payment of debt service on the bonds or
 notes in investment agreements if:
 (i) the investment is permitted by the terms of the borrowing instrument
@@ -52,7 +52,7 @@ equivalent, the provider must, within 30 days after receipt of notice of the
 downgrade, either:
 (A)  collateralize the investment agreement with direct obligations of or
 obligations guaranteed by the United States of America having a market value
-at least equal to 105% of the amount of the monies invested, valued at least
+at least equal to 105% of the amount of the money invested, valued at least
 quarterly, and deposit the collateral with a third-party custodian or trustee
 selected by the public treasurer; or
 (B)  terminate the agreement without penalty and repay all of the principal

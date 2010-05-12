@@ -4,13 +4,14 @@ capital outlay funding to school districts experiencing net enrollment
 increases.
 (2)  As used in this part:
 (a)  "Average annual net enrollment increase" means the quotient of:
-(i) (A)  enrollment in the current year, based on October 1 enrollment counts;
-minus
-(B)  enrollment in the year three years prior, based on October 1 enrollment
+(i) (A)  enrollment in the prior fiscal year, based on October 1 enrollment
+counts; minus
+(B)  enrollment in the year four years prior, based on October 1 enrollment
 counts; divided by
 (ii)  three.
 (b)  "Eligible district" or "eligible school district" means a school district
 that:
 (i)  has an average annual net enrollment increase; and
-(ii)  has a prior year property tax base per student that is less than two
-times the prior year statewide average property tax base per student.
+(ii)  has a property tax base per ADM in the year two years prior that is less
+than two times the statewide average property tax base per ADM in the year two
+years prior.

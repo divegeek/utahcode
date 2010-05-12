@@ -35,7 +35,7 @@ under this chapter; and
 (C)  for specific information related to the tax liability of a taxpayer, the
 taxpayer should review the taxpayer's tax notice received under Section
 59-2-919.1.
-(b) Except as provided in Subsection (3)(d)(ii), the information described in
+(b)  Except as provided in Subsection (3)(d)(ii), the information described in
 Subsection (3)(a) shall be published:
 (i)  in no less than 1/4 page in size;
 (ii)  in type no smaller than 18 point; and
@@ -51,8 +51,10 @@ newspaper where a legal notice or classified advertisement appears.
 (III)  not of limited subject matter; and
 (B)  once each week for the two weeks preceding the first hearing included in
 the list compiled under Subsection (2); and
-(ii)  as required in Section 45-1-101, for two weeks preceding the first
-hearing included in the list compiled under Subsection (2).
+(ii)  for two weeks preceding the first hearing included in the list compiled
+under Subsection (2):
+(A)  as required in Section 45-1-101; and
+(B)  on the Utah Public Notice Website created in Section 63F-1-701.
 (4)  A taxing entity that notifies the county auditor under Subsection (1)
 shall provide the list described in Subsection (2)(c) to a person:
 (a)  who attends the public hearing described in Subsection 59-2-919(8)(a)(i)

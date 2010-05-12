@@ -6,36 +6,46 @@ unemployed and eligible for benefits.
 agencies designated by the division in accordance with rules the department
 may prescribe in accordance with Title 63G, Chapter 3, Utah Administrative
 Rulemaking Act.
-(2) (a)  An individual's "weekly benefit amount" is an amount equal to 1/26th,
+(2) (a) (i)  Except as otherwise provided in Subsection (2)(a)(ii), an
+individual's "weekly benefit amount" is an amount equal to 1/26th,
 disregarding any fraction of $1, of the individual's total wages for insured
 work paid during that quarter of the base period in which the total wages were
 highest.
-(b)  The weekly benefit amount may not exceed the amount determined as
-follows:
-(i)  With respect to an individual whose benefit year commences on or after
-January 1, 2001, 65% of the "insured average fiscal year weekly wage" during
-the preceding fiscal year, e.g., fiscal year 2000 for individuals establishing
-benefit years in 2001, disregarding any fraction of $1, constitutes the
-maximum "weekly benefit amount" payable.
-(ii)  With respect to an individual who files a claim for benefits on or after
-July 4, 2004, 62.5% of the insured average fiscal year weekly wage during the
-preceding fiscal year, disregarding any fraction of $1, constitutes the
-maximum weekly benefit amount payable.
-(c) (i)  Except as otherwise provided in Subsection (2)(c)(ii), the "weekly
-benefit amount" of an individual who is receiving, or who is eligible to
-receive, based upon the individual's previous employment, a pension, which
-includes a governmental, social security, or other pension, retirement or
+(ii)  With respect to an individual whose benefit year begins after the
+termination of any payable week under Pub. L. No. 111-5, Sec. 2002 as amended,
+an individual's weekly benefit amount is an amount equal to 1/26th minus $5,
+disregarding any fraction of $1, of the individual's total wages for insured
+work paid during that quarter of the base period in which the total wages were
+highest.
+(b) (i)  The weekly benefit amount may not exceed 62.5% of the insured average
+fiscal year weekly wage during the preceding fiscal year, disregarding any
+fraction of $1.
+(ii)  With respect to an individual whose benefit year begins after the
+termination of any payable week under Pub. L. No. 111-5, Sec. 2002 as amended,
+the weekly benefit amount may not exceed 62.5% of the insured average fiscal
+year weekly wage during the preceding fiscal year minus $5, disregarding any
+fraction of $1.
+(c) (i)  Except as otherwise provided in Subsections (2)(c)(ii) and (iii), the
+"weekly benefit amount" of an individual who is receiving, or who is eligible
+to receive, based upon the individual's previous employment, a pension, which
+includes a governmental, Social Security, or other pension, retirement or
 disability retirement pay, under a plan maintained or contributed to by a
 base-period employer is the "weekly benefit amount" which is computed under
 this section less 100% of the retirement benefits, that are attributable to a
 week, disregarding any fraction of $1.
 (ii)  With respect to an individual whose benefit year begins after July 1,
-2004, and ends on or before July 1, 2011, the "weekly benefit amount" of that
+2004, and ends on or before the termination of any payable week under Pub. L.
+No. 111-5, Sec. 2002 as amended, the "weekly benefit amount" of that
 individual, who is receiving or who is eligible to receive Social Security
 benefits based upon the individual's previous employment, is the "weekly
 benefit amount" which is computed under this section less 50% of the
 individual's Social Security benefits that are attributable to the week, but
 not below zero.
+(iii)  With respect to an individual whose benefit year begins after the
+termination of any payable week under Pub. L. No. 111-5, Sec. 2002 as amended,
+this Subsection (2)(c) and Subsection (2)(d) do not apply to Social Security
+benefits an individual is receiving or is eligible to receive as they are not
+considered retirement benefits for purposes of those subsections.
 (d) (i) (A)  The weekly benefit amount and the potential benefits payable to
 an individual who, subsequent to the commencement of the individual's benefit
 year, becomes or is determined to be eligible to receive retirement benefits
@@ -90,3 +100,15 @@ all remuneration for insured work paid to the individual during the
 individual's period in the form of a bonus or lump-sum payment shall, for
 benefit purposes, be apportioned to the calendar quarters in which the
 remuneration was earned.
+(8) (a)  The director of the division or the director's designee shall make an
+annual report to the Workforce Employment Advisory Council and to the
+Legislature's Workforce Services and Community and Economic Development
+Interim Committee no later than November 30 of 2011, and 2012, concerning the
+impact of individuals applying for unemployment compensation and the
+unemployment trust fund as a result of the amendments made to Subsection
+35A-4-401(2) during the Legislature's 2010 General Session.
+(b)  The report shall include a recommendation for a potential adjustment in
+the weekly benefit amounts established in Subsections 35A-4-401(2)(a)(ii) and
+35A-4-401(2)(b)(ii), taking into account the unemployment benefit costs
+associated with the amendments made to Subsection 35A-4-401(2) during the
+Legislature's 2010 General Session.

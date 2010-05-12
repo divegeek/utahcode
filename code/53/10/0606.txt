@@ -1,17 +1,18 @@
 53-10-606.   Committee to report annually.
-(1)  The committee shall submit an annual report to the Executive
-Appropriations Committee of the Legislature which shall include:
+(1)  The committee shall submit an annual report to the Executive Offices and
+Criminal Justice Appropriations Subcommittee, which shall include:
 (a)  the total aggregate surcharge collected by local entities and the state
 in the last fiscal year under Sections 69-2-5 and 69-2-5.6;
-(b)  the amount of each disbursement from the fund;
+(b)  the amount of each disbursement from the restricted account;
 (c)  the recipient of each disbursement and describing the project for which
 money was disbursed;
 (d)  the conditions, if any, placed by the committee on disbursements from the
-fund;
-(e)  the planned expenditures from the fund for the next fiscal year;
+restricted account;
+(e)  the planned expenditures from the restricted account for the next fiscal
+year;
 (f)  the amount of any unexpended funds carried forward;
 (g)  a cost study to guide the Legislature towards necessary adjustments of
-both the Statewide Unified E-911 Emergency Service Fund and the monthly
+both the Statewide Unified E-911 Emergency Service Account and the monthly
 emergency services telephone charge imposed under Section 69-2-5; and
 (h)  a progress report of local government implementation of wireless and
 land-based E-911 services including:
@@ -20,7 +21,7 @@ emergency telephone service fund;
 (ii)  a report from each public safety answering point of annual call activity
 separating wireless and land-based 911 call volumes; and
 (iii)  other relevant justification for ongoing support from the Statewide
-Unified E-911 Emergency Service Fund.
+Unified E-911 Emergency Service Account created by Section 53-10-603.
 (2) (a)  The committee may request information from a local entity as
 necessary to prepare the report required by this section.
 (b)  A local entity imposing a levy under Section 69-2-5 or receiving a grant

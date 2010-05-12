@@ -17,12 +17,12 @@ to the extent of the amount of the check.
 (b)  In the case of a note, suspension of the obligation continues until
 dishonor of the note or until it is paid.  Payment of the note results in
 discharge of the obligation to the extent of the payment.
-(c)  Except as provided in Subsection (d), if the check or note is dishonored
-and the obligee of the obligation for which the instrument was taken is the
-person entitled to enforce the instrument, the obligee may enforce either the
-instrument or the obligation.  In the case of an instrument of a third person
-which is negotiated to the obligee by the obligor, discharge of the obligor on
-the instrument also discharges the obligation.
+(c)  Except as provided in Subsection (2)(d), if the check or note is
+dishonored and the obligee of the obligation for which the instrument was
+taken is the person entitled to enforce the instrument, the obligee may
+enforce either the instrument or the obligation.  In the case of an instrument
+of a third person which is negotiated to the obligee by the obligor, discharge
+of the obligor on the instrument also discharges the obligation.
 (d)  If the person entitled to enforce the instrument taken for an obligation
 is a person other than the obligee, the obligee may not enforce the obligation
 to the extent the obligation is suspended.  If the obligee is the person

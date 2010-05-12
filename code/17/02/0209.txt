@@ -1,10 +1,18 @@
 17-2-209.   Minor adjustments to county boundaries authorized -- Public
 hearing -- Joint resolution of county legislative bodies -- Notice and plat to
 lieutenant governor -- Recording requirements -- Effective date.
-(1)  Counties sharing a common boundary may, in accordance with the provisions
-of Subsection (2) and Article XI, Section 3, of the Utah Constitution, adjust
-all or part of the common boundary to move it up to 1,000 feet from its
-location before the adjustment.
+(1) (a)  Counties sharing a common boundary may, in accordance with the
+provisions of Subsection (2) and Article XI, Section 3, of the Utah
+Constitution and for purposes of real property tax assessment and county
+record keeping, adjust all or part of the common boundary to move it, subject
+to Subsection (1)(b), a sufficient distance to reach to, and correspond with,
+the closest existing property boundary of record.
+(b)  A boundary adjustment under Subsection (1)(a) may not create a boundary
+line that divides or splits:
+(i)  an existing parcel;
+(ii)  an interest in the property; or
+(iii)  a claim of record in the office of recorder of either county sharing
+the common boundary.
 (2)  The legislative bodies of both counties desiring to adjust a common
 boundary in accordance with Subsection (1) shall:
 (a)  hold a joint public hearing on the proposed boundary adjustment;

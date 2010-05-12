@@ -10,19 +10,20 @@ suspend scheduled installment payments for an agreed period of time in the
 event of a:
 (i)  fortuitous event such as involuntary unemployment or accident; or
 (ii)  fortuitous condition such as sickness.
-(c)  "Institution" means:
+(c)  "Guaranteed asset protection waiver" is as defined in Section 31A-6b-102.
+(d)  "Institution" means:
 (i)  a bank as defined in Section 7-1-103;
 (ii)  a credit union as defined in Section 7-1-103;
 (iii)  an industrial bank as defined in Section 7-1-103; or
 (iv)  a savings and loan association as defined in Section 7-1-103.
-(d)  "Regulate the issuance" includes regulation of the following with respect
+(e)  "Regulate the issuance" includes regulation of the following with respect
 to a debt cancellation agreement or a debt suspension agreement:
 (i)  terms;
 (ii)  conditions;
 (iii)  rates;
 (iv)  forms; and
 (v)  claims.
-(e)  "Subsidiary" is as defined in Section 7-1-103.
+(f)  "Subsidiary" is as defined in Section 7-1-103.
 (2)  Except as provided in Subsection (6), the commissioner has sole
 jurisdiction over the regulation of a debt cancellation agreement or debt
 suspension agreement.
@@ -55,3 +56,4 @@ or a subsidiary of an institution is:
 (b)  subject to the jurisdiction of the primary regulator of:
 (i)  the institution; or
 (ii)  the subsidiary of an institution.
+(7)  This section does not apply to a guaranteed asset protection waiver.

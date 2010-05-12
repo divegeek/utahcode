@@ -40,15 +40,15 @@ in the child's schedule.
 (iv)  Weekends include any "snow" days, teacher development days, or other
 days when school is not scheduled and which are contiguous to the weekend
 period.
-(c)  Holidays include any "snow" days, teacher development days, or other days
-when school is not scheduled, contiguous to the holiday period, and take
-precedence over the weekend parent-time.  Changes may not be made to the
-regular rotation of the alternating weekend parent-time schedule; however,
-birthdays take precedence over holidays and extended parent-time, except
-Mother's Day and Father's Day; birthdays do not take precedence over
-uninterrupted parent-time if the parent exercising uninterrupted time takes
-the child away from that parent's residence for the uninterrupted extended
-parent-time.
+(c)  Holidays include any "snow" days, teacher development days after the
+children begin the school year, or other days when school is not scheduled,
+contiguous to the holiday period, and take precedence over the weekend parent-
+time.  Changes may not be made to the regular rotation of the alternating
+weekend parent-time schedule; however, birthdays take precedence over holidays
+and extended parent-time, except Mother's Day and Father's Day; birthdays do
+not take precedence over uninterrupted parent-time if the parent exercising
+uninterrupted time takes the child away from that parent's residence for the
+uninterrupted extended parent-time.
 (d)  If a holiday falls on a regularly scheduled school day, the noncustodial
 parent shall be responsible for the child's attendance at school for that
 school day.
@@ -97,10 +97,11 @@ completely entitled;
 (vii)  Veteran's Day holiday beginning 6 p.m. the day before the holiday until
 7 p.m. on the holiday; and
 (viii)  the first portion of the Christmas school vacation as defined in
-Subsection 30-3-32(3)(b) including Christmas Eve and Christmas Day until 1
-p.m. on the day halfway through the holiday, if there are an odd number of
-days for the holiday period, or until 7 p.m. if there are an even number of
-days for the holiday period, so long as the entire holiday is equally divided.
+Subsection 30-3-32(3)(b) including Christmas Eve and Christmas Day, continuing
+until 1 p.m. on the day halfway through the holiday period, if there are an
+odd number of days for the holiday period, or until 7 p.m. if there are an
+even number of days for the holiday period, so long as the entire holiday
+period is equally divided.
 (g)  In years ending in an even number, the noncustodial parent is entitled to
 the following holidays:
 (i)  child's birthday on actual birthdate beginning at 3 p.m. until 9 p.m.; at
@@ -124,9 +125,9 @@ from 4 p.m. until 9 p.m.;
 p.m.; and
 (viii)  the second portion of the Christmas school vacation as defined in
 Subsection 30-3-32(3)(b), beginning 1 p.m. on the day halfway through the
-holiday, if there are an odd number of days for the holiday period, or at 7
-p.m. if there are an even number of days for the holiday period, so long as
-the entire Christmas holiday is equally divided.
+holiday period, if there are an odd number of days for the holiday period, or
+at 7 p.m. if there are an even number of days for the holiday period, so long
+as the entire Christmas holiday period is equally divided.
 (h)  The custodial parent is entitled to the odd year holidays in even years
 and the even year holidays in odd years.
 (i)  Father's Day shall be spent with the natural or adoptive father every
@@ -134,20 +135,20 @@ year beginning at 9 a.m. until 7 p.m. on the holiday.
 (j)  Mother's Day shall be spent with the natural or adoptive mother every
 year beginning at 9 a.m. until 7 p.m. on the holiday.
 (k)  Extended parent-time with the noncustodial parent may be:
-(i)  up to four weeks consecutive at the option of the noncustodial parent,
-including weekends normally exercised by the noncustodial parent, but not
-holidays;
+(i)  up to four consecutive weeks when school is not in session at the option
+of the noncustodial parent, including weekends normally exercised by the
+noncustodial parent, but not holidays;
 (ii)  two weeks shall be uninterrupted time for the noncustodial parent; and
 (iii)  the remaining two weeks shall be subject to parent-time for the
 custodial parent for weekday parent-time but not weekends, except for a
 holiday to be exercised by the other parent.
 (l)  The custodial parent shall have an identical two-week period of
-uninterrupted time during the children's summer vacation from school for
-purposes of vacation.
+uninterrupted time when school is not in session for purposes of vacation.
 (m)  Both parents shall provide notification of extended parent-time or
-vacation weeks with the child at least 30 days in advance to the other parent
-and if notification is not provided timely the complying parent may determine
-the schedule for extended parent-time for the noncomplying parent.
+vacation weeks with the child at least 30 days prior to the end of the child's
+school year to the other parent and if notification is not provided timely the
+complying parent may determine the schedule for extended parent-time for the
+noncomplying parent.
 (n)  Telephone contact shall be at reasonable hours and for a reasonable
 duration.
 (o)  Virtual parent-time, if the equipment is reasonably available and the

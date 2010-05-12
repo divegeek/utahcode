@@ -2,30 +2,45 @@
 (1) (a)  A fee owner of land, as shown on the last county assessment roll, in
 a subdivision that has been laid out and platted as provided in this part may
 file a written petition with the land use authority to have some or all of the
-plat vacated, altered, or amended.
+plat vacated or amended.
 (b)  If a petition is filed under Subsection (1)(a), the land use authority
-shall hold a public hearing within 45 days after the petition is filed if:
+shall hold a public hearing within 45 days after the day on which the petition
+is filed if:
 (i)  any owner within the plat notifies the municipality of the owner's
 objection in writing within 10 days of mailed notification; or
 (ii)  a public hearing is required because all of the owners in the
 subdivision have not signed the revised plat.
-(2)  The public hearing requirement of Subsection (1)(b) does not apply and a
-land use authority may consider at a public meeting an owner's petition to
-alter a subdivision plat if:
-(a)  the petition seeks to join two or more of the owner's contiguous,
-residential lots; and
-(b)  notice has been given to adjacent property owners and pursuant to local
-ordinance.
-(3)  Each request to vacate or alter a plat that contains a request to vacate
-or alter a public street, right-of-way, or easement is also subject to Section
+(2) Unless a local ordinance provides otherwise, the public hearing
+requirement of Subsection (1)(b) does not apply and a land use authority may
+consider at a public meeting an owner's petition to vacate or amend a
+subdivision plat if:
+(a)  the petition seeks to:
+(i)  join two or more of the petitioner fee owner's contiguous lots;
+(ii)  subdivide one or more of the petitioning fee owner's lots, if the
+subdivision will not result in a violation of a land use ordinance or a
+development condition;
+(iii)  adjust the lot lines of adjoining lots or parcels if the fee owners of
+each of the adjoining lots or parcels join in the petition, regardless of
+whether the lots or parcels are located in the same subdivision;
+(iv)  on a lot owned by the petitioning fee owner, adjust an internal lot
+restriction imposed by the local political subdivision; or
+(v)  alter the plat in a manner that does not change existing boundaries or
+other attributes of lots within the subdivision that are not:
+(A)  owned by the petitioner; or
+(B)  designated as a common area; and
+(b)  notice has been given to adjacent property owners in accordance with any
+applicable local ordinance.
+(3)  Each request to vacate or amend a plat that contains a request to vacate
+or amend a public street, right-of-way, or easement is also subject to Section
 10-9a-609.5.
-(4)  Each petition to vacate, alter, or amend an entire plat or a portion of a
-plat shall include:
+(4)  Each petition to vacate or amend an entire plat or a portion of a plat
+shall include:
 (a)  the name and address of each owner of record of the land contained in the
-entire plat; and
-(b)  the signature of each of these owners who consents to the petition.
+entire plat or on that portion of the plat described in the petition; and
+(b)  the signature of each owner described in Subsection (4)(a) who consents
+to the petition.
 (5) (a)  The owners of record of adjacent parcels that are described by either
-a metes and bounds description or a recorded plat may exchange title to
+a metes and bounds description or by a recorded plat may exchange title to
 portions of those parcels if the exchange of title is approved by the land use
 authority in accordance with Subsection (5)(b).
 (b)  The land use authority shall approve an exchange of title under
@@ -41,11 +56,11 @@ accordance with the provisions of Title 57, Chapter 2a, Recognition of
 Acknowledgments Act; and
 (C)  recites the descriptions of both the original parcels and the parcels
 created by the exchange of title; and
-(ii)  a conveyance of title reflecting the approved change shall be recorded
-in the office of the county recorder.
+(ii)  a document of conveyance shall be recorded in the office of the county
+recorder.
 (d)  A notice of approval recorded under this Subsection (5) does not act as a
-conveyance of title to real property and is not required for the recording of
-a document purporting to convey title to real property.
+conveyance of title to real property and is not required in order to record a
+document conveying title to real property.
 (6) (a)  The name of a recorded subdivision may be changed by recording an
 amended plat making that change, as provided in this section and subject to
 Subsection (6)(c).
@@ -59,5 +74,4 @@ accordance with Section 17-23-17 and has verified all measurements; and
 the subdivision described in the amended plat the same name as a subdivision
 in a plat already recorded in the county recorder's office.
 (d)  Except as provided in Subsection (6)(a), the recording of a declaration
-or other document that purports to change the name of a recorded plat is
-voidable.
+or other document that purports to change the name of a recorded plat is void.

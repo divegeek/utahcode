@@ -2,11 +2,11 @@
 Owner acknowledgment, surveyor certification, and underground utility
 facilities owner approval of plat -- Recording plat.
 (1)  Unless exempt under Section 10-9a-605 or excluded from the definition of
-subdivision under Subsection 10-9a-103(50), whenever any land is laid out and
+subdivision under Section 10-9a-103, whenever any land is laid out and
 platted, the owner of the land shall provide an accurate plat that describes
 or specifies:
-(a)  a name or designation of the subdivision that is distinct from any plat
-already recorded in the county recorder's office;
+(a)  a subdivision name that is distinct from any subdivision name on a plat
+recorded in the county recorder's office;
 (b)  the boundaries, course, and dimensions of all of the parcels of ground
 divided, by their boundaries, course, and extent, whether the owner proposes
 that any parcel of ground is intended to be used as a street or for any other
@@ -28,9 +28,12 @@ authority before approving a plat.
 owner of the land provides the legislative body with a tax clearance
 indicating that all taxes, interest, and penalties owing on the land have been
 paid.
-(4) (a)  The owner of the land shall acknowledge the plat before an officer
-authorized by law to take the acknowledgment of conveyances of real estate and
-shall obtain the signature of each individual designated by the municipality.
+(4) (a)  A plat may not be submitted to a county recorder for recording
+unless:
+(i)  prior to recordation, each owner of record of land described on the plat
+has signed the owner's dedication as shown on the plat; and
+(ii)  the signature of each owner described in Subsection (4)(a)(i) is
+acknowledged as provided by law.
 (b)  The surveyor making the plat shall certify that the surveyor:
 (i)  holds a license in accordance with Title 58, Chapter 22, Professional
 Engineers and Professional Land Surveyors Licensing Act;

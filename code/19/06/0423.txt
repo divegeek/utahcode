@@ -1,60 +1,78 @@
 19-6-423.   Claim or suit against responsible parties -- Prerequisites for
 payment from fund to responsible parties or third parties -- Limitations of
 liability for third party claims.
-(1)  In order to be eligible for payments from the fund, if a responsible
-party receives actual or constructive notice of an occurrence likely to give
-rise to a claim, that a suit has been filed, or a claim has been made against
-him for bodily injury or property damage connected with a release of petroleum
-from a petroleum storage tank, the responsible party shall:
-(a)  inform the state risk manager immediately of the occurrence, suit, or
-claim;
-(b)  allow the state risk manager and his legal counsel to participate with
-the responsible party and his legal counsel in:
-(i)  the defense of any suit;
-(ii)  determination of legal strategy and any other decisions affecting the
-defense of any suit; and
-(iii)  any settlement negotiations; and
-(c)  conduct the defense of any suit or claim in good faith.
-(2)  The executive secretary may not authorize payment of fund monies for any
-judgment or award to third parties unless the state risk manager:
-(a)  indicates that he was not prevented from participating in the defense of
-the suit; and
+(1) (a)  The executive secretary may authorize payments from the fund to a
+responsible party if the responsible party receives actual or constructive
+notice:
+(i)  of a release likely to give rise to a claim; or
+(ii)  that in connection with a release a:
+(A)  suit has been filed; or
+(B)  claim has been made against the responsible party for:
+(I)  bodily injury; or
+(II)  property damage.
+(b)  A responsible party described in Subsection (1)(a) shall:
+(i)  inform the state risk manager immediately of a release, suit, or claim
+described in Subsection (1)(a);
+(ii)  allow the state risk manager and the state risk manager's legal counsel
+to participate with the responsible party and the responsible party's legal
+counsel in:
+(A)  the defense of a suit;
+(B)  determination of legal strategy;
+(C)  other decisions affecting the defense of a suit; and
+(D)  settlement negotiations; and
+(iii)  conduct the defense of a suit or claim in good faith.
+(2)  The executive secretary may authorize payment of fund money for a
+judgment or award to third parties if the state risk manager:
+(a)  is allowed to participate in the defense of the suit as required under
+Subsection (1)(b); and
 (b)  approves the settlement.
-(3)  In making payments to third parties from the fund pursuant to Section
-19-6-421, or in funding a corrective action plan pursuant to Section 19-6-420,
-the executive secretary may not pay an award or judgment or fund a corrective
-action plan to the extent that it imposes any liability or makes any payment
-for:
-(a)  obligations of a responsible party under a workers' compensation,
-disability benefits, or unemployment compensation law or other similar law;
-(b)  bodily injury to an employee of the responsible party arising from and in
-the course of his employment or to the spouse, child, parent, brother, sister,
-heirs, or personal representatives of that employee as a result of that bodily
-injury;
+(3)  The executive secretary may make a payment from the fund to a third party
+pursuant to Section 19-6-421 or fund a corrective action plan pursuant to
+Section 19-6-420 if the payment or funding does not impose a liability or make
+a payment for:
+(a)  an obligation of a responsible party for:
+(i)  workers' compensation benefits;
+(ii)  disability benefits;
+(iii)  unemployment compensation; or
+(iv)  other benefits similar to benefits described in Subsections (3)(a)(i)
+through (iii);
+(b)  a bodily injury award to:
+(i)  a responsible party's employee arising from and in the course of the
+employee's employment; or
+(ii)  the spouse, child, parent, brother, sister, heirs, or personal
+representatives of the employee described in Subsection (3)(b)(i);
 (c)  bodily injury or property damage arising from the ownership, maintenance,
-use, or entrustment to others of any aircraft, motor vehicle, or watercraft;
-(d)  property damage to any property owned by, occupied by, rented to, loaned
-to, bailed to, or otherwise in the care, custody, or control of the owner or
-operator except to the extent necessary to complete a corrective action plan;
-(e)  bodily injury or property damage for which the responsible party is
-obligated to pay damages only by reason of the assumption of liability in a
-contract or agreement, other than a contract or agreement entered into to meet
-the financial responsibility requirements of Subtitle I of the Resource
-Conservation and Recovery Act, 42 U.S.C., Section 6991c, et seq., or this
-part, or regulations or rules made under either of them;
-(f)  bodily injury or property damage for which the responsible party is
-liable to a third party solely on account of personal injury to the spouse of
-that third party;
-(g)  bodily injury or property damage caused by a release from a petroleum
-storage tank covered by the fund or the cost of a corrective action plan,
-where the total amount previously paid by the executive secretary to
-compensate third parties or for funding a corrective action plan in respect to
-that same accidental release from the covered tank equals $990,000; or
-(h)  bodily injury or property damage caused by a release from a petroleum
-storage tank covered by the fund or the cost of a corrective action plan when
-the total amount previously paid by the executive secretary to compensate
-third parties or for funding corrective action plans in respect to releases
-from tanks of any one responsible party during any fiscal year equals $990,000
-for a responsible party regarding one to 99 petroleum storage tanks or
-$1,990,000 for a responsible party regarding 100 or more petroleum storage
+use, or entrustment to others of an aircraft, motor vehicle, or watercraft;
+(d)  property damage to a property owned by, occupied by, rented to, loaned
+to, bailed to, or otherwise in the care, custody, or control of a responsible
+party except to the extent necessary to complete a corrective action plan;
+(e)  bodily injury or property damage for which a responsible party is
+obligated to pay damages by reason of the assumption of liability in a
+contract or agreement unless the responsible party entered into the contract
+or agreement to meet the financial responsibility requirements of:
+(i)  Subtitle I of the Resource Conservation and Recovery Act, 42 U.S.C. Sec.
+6991c et seq., or regulations issued under this act; or
+(ii)  this part, or rules made under this part;
+(f)  bodily injury or property damage for which a responsible party is liable
+to a third party solely on account of personal injury to the third party's
+spouse;
+(g)  bodily injury, property damage, or the cost of corrective action caused
+by releases reported before May 11, 2010 that are covered by the fund if the
+total amount previously paid by the executive secretary to compensate third
+parties and fund corrective action plans for the releases equals:
+(i)  $990,000 for a single release; and
+(ii)  for all releases by a responsible party in a fiscal year:
+(A)  $1,990,000 for a responsible party owning less than 100 petroleum storage
+tanks; and
+(B)  $3,990,000 for a responsible party owning 100 or more petroleum storage
+tanks; and
+(h)  bodily injury, property damage, or the cost of corrective action caused
+by releases reported on or after May 11, 2010, covered by the fund if the
+total amount previously paid by the executive secretary to compensate third
+parties and fund corrective action plans for the releases equals:
+(i)  $1,990,000 for a single release; and
+(ii)  for all releases by a responsible party in a fiscal year:
+(A)  $1,990,000 for a responsible party owning less than 100 petroleum storage
+tanks; and
+(B)  $3,990,000 for a responsible party owning 100 or more petroleum storage
 tanks.

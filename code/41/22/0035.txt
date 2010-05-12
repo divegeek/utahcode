@@ -13,10 +13,13 @@ highway vehicle owned by a nonresident of the state;
 (b)  The provisions of Subsection (1)(a) do not apply to an off-highway
 vehicle if the off-highway vehicle is:
 (i)  registered in another state that offers reciprocal operating privileges
-to Utah residents under rules made by the board; or
+to Utah residents under rules made by the board;
 (ii)  used exclusively for the purposes of a scheduled competitive event
 sponsored by a public or private entity or another event sponsored by a
-governmental entity under rules made by the board.
+governmental entity under rules made by the board; or
+(iii)  owned and operated by a state government agency and the operation of
+the off-highway vehicle within the boundaries of the state is within the
+course and scope of the duties of the agency.
 (2)  The off-highway vehicle user fee is $30.
 (3)  Upon compliance with the provisions of Subsection (1)(a), the nonresident
 shall:

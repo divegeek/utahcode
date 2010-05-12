@@ -32,12 +32,12 @@ CFR 279, Standards for the Management of Used Oil.
 of constituents and properties as specified by board rule and consistent with
 40 CFR 279, Standards for the Management of Used Oil.
 (16) (a)  "Processing" means chemical or physical operations under Subsection
-(b) designed to produce from used oil, or to make used oil more amenable for
-production of:
+(16)(b) designed to produce from used oil, or to make used oil more amenable
+for production of:
 (i)  gasoline, diesel, and other petroleum derived fuels;
 (ii)  lubricants; or
 (iii)  other products derived from used oil.
-(b)  Processing includes:
+(b)  "Processing" includes:
 (i)  blending used oil with virgin petroleum products;
 (ii)  blending used oils to meet fuel specifications;
 (iii)  filtration;

@@ -57,8 +57,8 @@ the notice:
 (I)  in a newspaper published in the municipality or in a newspaper of general
 circulation within the municipality for two consecutive weeks, with the first
 publication being not less than 14 days before the public hearing; and
-(II)  in accordance with Section 45-1-101 for two weeks before the public
-hearing; and
+(II) on the Utah Public Notice Website created in Section 63F-1-701, for two
+weeks before the public hearing; and
 (B)  the notice identifies:
 (I)  that the notice is given pursuant to Title 11, Chapter 14, Local
 Government Bonding Act;
@@ -93,10 +93,12 @@ or municipal entity may be paid from the revenues described in Subsection
 not apply to a municipality that issues revenue bonds if:
 (a)  the municipality that is issuing the revenue bonds has:
 (i)  held a public hearing for which public notice was given by publication of
-the notice in a newspaper published in the municipality or in a newspaper of
-general circulation within the municipality for two consecutive weeks, with
-the first publication being not less than 14 days before the public hearing;
-and
+the notice:
+(A)  in a newspaper published in the municipality or in a newspaper of general
+circulation within the municipality for two consecutive weeks, with the first
+publication being not less than 14 days before the public hearing; and
+(B)  on the Utah Public Notice Website created in Section 63F-1-701, for 14
+days before the public hearing; and
 (ii)  the notice identifies:
 (A)  that the notice is given pursuant to Title 11, Chapter 14, Local
 Government Bonding Act;

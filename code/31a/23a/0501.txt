@@ -100,18 +100,22 @@ type of compensation known to the producer at the time of the disclosure; and
 (ii)  except as provided in Subsection (4)(c):
 (A)  obtains the customer's signed acknowledgment that the disclosure under
 Subsection (4)(b)(i) was made to the customer; or
-(B)  certifies to the insurer that the disclosure required by Subsection
-(4)(b)(i) was made to the customer.
+(B) (I)  signs a statement that the disclosure required by Subsection
+(4)(b)(i) was made to the customer; and
+(II)  keeps the signed statement on file in the producer's office while the
+health benefit plan placed with the customer is in force.
 (c)  If the compensation to the producer from an insurer or third party
 administrator is for the renewal of a health benefit plan, once the producer
 has made an initial disclosure that complies with Subsection (4)(b), the
 producer does not have to disclose compensation received for the subsequent
 yearly renewals in accordance with Subsection (4)(b) until the renewal period
 immediately following 36 months after the initial disclosure.
-(d) (i)  A copy of the signed acknowledgment required by Subsection (4)(b)
-must be maintained by the licensee who collects or receives any part of the
-compensation from an insurer or third party administrator in a manner that
-facilitates an audit.
+(d) (i) A licensee who collects or receives any part of the compensation from
+an insurer or third party administrator in a manner that facilitates an audit
+shall, while the health benefit plan placed with the customer is in force,
+maintain a copy of:
+(A)  the signed acknowledgment described in Subsection (4)(b)(i); or
+(B)  the signed statement described in Subsection (4)(b)(ii).
 (ii)  The standard application developed in accordance with Section 31A-22-635
 shall include a place for a producer to provide the disclosure required by
 this Subsection (4), and if completed, shall satisfy the requirement of

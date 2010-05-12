@@ -8,7 +8,7 @@ or whose health approval has been canceled or denied prior to July 1, 2007 may
 seek health approval without submitting or complying with a biosecurity plan
 required by rule by submitting a new health inspection report to the
 department.
-(2) (a)  The inspections must be done by an individual who has received
+(2) (a)  The inspections shall be done by an individual who has received
 certification from the American Fisheries Society as a fish health inspector.
 (b)  An inspection of an aquaculture facility may not be done by an inspector
 who is employed by, or has pecuniary interest in, the facility being
@@ -23,6 +23,6 @@ shall notify the department of the date and time of the inspection at least
 five business days before the date on which the inspection will occur.
 (ii)  The department may be present for the inspection.
 (3)  To receive a health approval number, inspection reports and other
-evidence of the disease status of a source facility must be submitted to the
+evidence of the disease status of a source facility shall be submitted to the
 agency responsible for certifying the source as health approved pursuant to
 Section 4-37-501.

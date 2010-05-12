@@ -1,40 +1,124 @@
-57-22-6.   Renter's remedies -- Compliance required -- Notice to owner or
-agent-renter entitled to judicial remedy -- Attorney fees.
-(1)  A renter is not entitled to the remedies set forth in this section unless
-the renter is in compliance with all provisions of Section 57-22-5.
-(2)  If a reasonable time has elapsed after the renter has served written
-notice on the owner under Section 57-22-4 and the condition described in the
-notice has not been corrected, the renter may cause a "notice to repair or
-correct condition" to be prepared and served on the owner pursuant to Section
-78B-6-805.  This notice shall:
-(a)  recite the previous notice served under Subsection 57-22-4(2);
-(b)  recite the number of days that have elapsed since the notice was served
-and state that under the circumstances such a period of time constitutes the
-reasonable time allowed under Section 57-22-4;
-(c)  state the conditions included in the previous notice which have not been
-corrected;
-(d)  make demand that the uncorrected conditions be corrected; and
-(e)  state that in the event of failure of the owner to commence reasonable
-corrective action within three days the renter will seek redress in the
-courts.
-(3) (a)  If the owner has not corrected or used due diligence to correct the
-conditions following the notice under this section, the renter is entitled to
-bring an action in district court.
-(b)  The court shall endorse on the summons the number of days within which
-the owner is required to appear and defend the action, which shall not be less
-than three nor more than 20 days from the date of service.
-(c)  Upon a showing of an unjustified refusal to correct or the failure to use
-due diligence to correct a condition described in this chapter, the renter is
-entitled to damages and injunctive relief as determined by the court.
-(d)  The damages available to the renter include rent improperly retained or
-collected.  Injunctive relief includes a declaration of the court terminating
-the rental agreement and an order for the repayment of any deposit and rent
-due.
-(e)  The prevailing party shall be awarded attorney fees commensurate with the
-cost of the action brought.
-(4) (a)  If the renter is notified that the owner intends to terminate the
-rental agreement pursuant to Section 57-22-4, the renter is entitled to
-receive the balance of the rent due and the deposit on the rental unit within
-10 days of the date the agreement is terminated.
-(b)  No renter may be required to move sooner than 10 days after the date of
-notice.
+57-22-6.   Renter remedies for deficient condition of residential rental
+unit.
+(1)  As used in this section:
+(a)  "Corrective period" means:
+(i)  for a standard of habitability, three calendar days; and
+(ii)  for a requirement imposed by a rental agreement, 10 calendar days.
+(b)  "Deficient condition" means a condition of a residential rental unit
+that:
+(i)  violates a standard of habitability or a requirement of the rental
+agreement; and
+(ii)  is not caused by:
+(A)  the renter, the renter's family, or the renter's guest or invitee; and
+(B)  a use that would violate:
+(I)  the rental agreement; or
+(II)  a law applicable to the renter's use of the residential rental unit.
+(c)  "Notice of deficient condition" means the notice described in Subsection
+(2).
+(d)  "Rent abatement remedy" means the remedy described in Subsection
+(4)(a)(i).
+(e)  "Renter remedy" means:
+(i)  a rent abatement remedy; or
+(ii)  a repair and deduct remedy.
+(f)  "Repair and deduct remedy" means the remedy described in Subsection
+(4)(a)(ii).
+(g)  "Standard of habitability" means a standard:
+(i)  relating to the condition of a residential rental unit; and
+(ii)  that an owner is required to ensure that the residential rental unit
+meets as required under Subsection 57-22-3(1) or Subsection 57-22-4(1)(a) or
+(b)(i), (ii), or (iii).
+(2) (a)  If a renter believes that the renter's residential rental unit has a
+deficient condition, the renter may give the owner written notice as provided
+in Subsection (2)(b).
+(b)  A notice under Subsection (2)(a) shall:
+(i)  describe each deficient condition;
+(ii)  state that the owner has the corrective period, stated in terms of the
+applicable number of days, to correct each deficient condition;
+(iii)  state the renter remedy that the renter has chosen if the owner does
+not, within the corrective period, take substantial action toward correcting
+each deficient condition;
+(iv)  provide the owner permission to enter the residential rental unit to
+make corrective action; and
+(v)  be served on the owner as provided in:
+(A)  Section 78B-6-805; or
+(B)  the rental agreement.
+(3) (a)  As used in this Subsection (3), "dangerous condition" means a
+deficient condition that poses a substantial risk of:
+(i)  imminent loss of life; or
+(ii)  significant physical harm.
+(b)  If a renter believes that the renter's residential rental unit has a
+dangerous condition, the renter may notify the owner of the dangerous
+condition by any means that is reasonable under the circumstances.
+(c)  An owner shall:
+(i)  within 24 hours after receiving notice under Subsection (3)(b) of a
+dangerous condition, commence remedial action to correct the dangerous
+condition; and
+(ii)  diligently pursue remedial action to completion.
+(d)  Notice under Subsection (3)(b) of a dangerous condition does not
+constitute a notice of deficient condition, unless the notice also meets the
+requirements of Subsection (2).
+(4) (a)  Subject to Subsection (4)(b), if an owner fails to take substantial
+action, before the end of the corrective period, toward correcting a deficient
+condition described in a notice of deficient condition:
+(i)  if the renter chose the rent abatement remedy in the notice of deficient
+condition:
+(A)  the renter's rent is abated as of the date of the notice of deficient
+condition to the owner;
+(B)  the rental agreement is terminated;
+(C)  the owner shall immediately pay to the renter:
+(I)  the entire security deposit that the renter paid under the rental
+agreement; and
+(II)  a prorated refund for any prepaid rent, including any rent the renter
+paid for the period after the date on which the renter gave the owner the
+notice of deficient condition; and
+(D)  the renter shall vacate the residential rental unit within 10 calendar
+days after the expiration of the corrective period; or
+(ii)  if the renter chose the repair and deduct remedy in the notice of
+deficient condition, and subject to Subsection (4)(c), the renter:
+(A)  may:
+(I)  correct the deficient condition described in the notice of deficient
+condition; and
+(II)  deduct from future rent the amount the renter paid to correct the
+deficient condition, not to exceed an amount equal to two months' rent; and
+(B)  shall:
+(I)  maintain all receipts documenting the amount the renter paid to correct
+the deficient condition; and
+(II)  provide a copy of those receipts to the owner within five calendar days
+after the beginning of the next rental period.
+(b)  A renter is not entitled to a renter remedy if the renter is not in
+compliance with all requirements under Section 57-22-5.
+(c) (i)  If a residential rental unit is not fit for occupancy, an owner may:
+(A)  determine not to correct a deficient condition described in a notice of
+deficient condition; and
+(B)  terminate the rental agreement.
+(ii)  If an owner determines not to correct a deficient condition and
+terminates the rental agreement under Subsection (4)(c)(i):
+(A)  the owner shall:
+(I)  notify the renter in writing no later than the end of the corrective
+period; and
+(II)  within 10 calendar days after the owner terminates the rental agreement,
+pay to the renter:
+(Aa)  any prepaid rent, prorated as provided in Subsection (4)(c)(ii)(B); and
+(Bb)  any deposit due the renter;
+(B)  the rent shall be prorated to the date the owner terminates the rental
+agreement under Subsection (4)(c)(i); and
+(C)  the renter may not be required to vacate the residential rental unit
+sooner than 10 calendar days after the owner notifies the renter under
+Subsection (4)(c)(ii)(A)(I).
+(5) (a)  After the corrective period expires, a renter may bring an action in
+district court to enforce the renter remedy that the renter chose in the
+notice of deficient condition.
+(b)  In an action under Subsection (5)(a), the court shall endorse on the
+summons that the owner is required to appear and defend the action within
+three business days.
+(c)  If, in an action under Subsection (5)(a), the court finds that the owner
+unjustifiably refused to correct a deficient condition or failed to use due
+diligence to correct a deficient condition, the renter is entitled, in
+addition to the applicable renter remedy, to:
+(i)  any damages; and
+(ii)  court costs and a reasonable attorney fee.
+(d)  An owner who disputes that a condition of the residential rental unit
+violates a requirement of the rental agreement may file a counterclaim in an
+action brought against the owner under Subsection (5)(a).
+(6)  An owner may not be held liable under this chapter for a claim for mental
+suffering or anguish.

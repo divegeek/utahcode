@@ -1,13 +1,13 @@
 61-2b-3.   License or certification required.
 (1)  Except as provided in Subsection (2) and in Subsection 61-2b-6(2), it is
-unlawful for anyone to prepare, for valuable consideration, an appraisal, an
+unlawful for a person to prepare, for valuable consideration, an appraisal, an
 appraisal report, a certified appraisal report, or perform a consultation
 service relating to real estate or real property in this state without first
 being licensed or certified in accordance with this chapter.
 (2)  This section does not apply to:
-(a)  a real estate broker or sales agent as defined by Section 61-2-2 licensed
-by this state who, in the ordinary course of the real estate broker's or sales
-agent's business, gives an opinion:
+(a)  a principal broker, associate broker, or sales agent as defined by
+Section 61-2f-102 licensed by this state who, in the ordinary course of the
+broker's or sales agent's business, gives an opinion:
 (i)  regarding the value of real estate;
 (ii)  to a potential seller or third party recommending a listing price of
 real estate; or
@@ -16,9 +16,9 @@ real estate;
 (b)  an employee of a company who states an opinion of value or prepares a
 report containing value conclusions relating to real estate or real property
 solely for the company's use;
-(c)  any official or employee of a government agency while acting solely
-within the scope of the official's or employee's duties, unless otherwise
-required by Utah law;
+(c)  an official or employee of a government agency while acting solely within
+the scope of the official's or employee's duties, unless otherwise required by
+Utah law;
 (d)  an auditor or accountant who states an opinion of value or prepares a
 report containing value conclusions relating to real estate or real property
 while performing an audit;

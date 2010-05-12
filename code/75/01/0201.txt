@@ -148,9 +148,12 @@ appointed.  A "minor protected person" means a minor for whom a conservator
 has been appointed because of minority.
 (41)  "Protective proceeding" means a proceeding described in Section
 75-5-401.
-(42)  "Registrar" refers to the official of the court designated to perform
+(42)  "Record" means information that is inscribed on a tangible medium or
+that is stored in an electronic or other medium and is retrievable in
+perceivable form.
+(43)  "Registrar" refers to the official of the court designated to perform
 the functions of registrar as provided in Section 75-1-307.
-(43)  "Security" includes any note, stock, treasury stock, bond, debenture,
+(44)  "Security" includes any note, stock, treasury stock, bond, debenture,
 evidence of indebtedness, certificate of interest, or participation in an oil,
 gas, or mining title or lease or in payments out of production under such a
 title or lease, collateral trust certificate, transferable share, voting trust
@@ -158,30 +161,35 @@ certificate, and, in general, any interest or instrument commonly known as a
 security, or any certificate of interest or participation, any temporary or
 interim certificate, receipt, or certificate of deposit for, or any warrant or
 right to subscribe to or purchase, any of the foregoing.
-(44)  "Settlement," in reference to a decedent's estate, includes the full
+(45)  "Settlement," in reference to a decedent's estate, includes the full
 process of administration, distribution, and closing.
-(45)  "Special administrator" means a personal representative as described in
+(46)  "Sign" means, with present intent to authenticate or adopt a record
+other than a will:
+(a)  to execute or adopt a tangible symbol; or
+(b)  to attach to or logically associate with the record an electronic symbol,
+sound, or process.
+(47)  "Special administrator" means a personal representative as described in
 Sections 75-3-614 through 75-3-618.
-(46)  "State" means a state of the United States, the District of Columbia,
+(48)  "State" means a state of the United States, the District of Columbia,
 the Commonwealth of Puerto Rico, any territory or insular possession subject
 to the jurisdiction of the United States, or a Native American tribe or band
 recognized by federal law or formally acknowledged by a state.
-(47)  "Successor personal representative" means a personal representative,
+(49)  "Successor personal representative" means a personal representative,
 other than a special administrator, who is appointed to succeed a previously
 appointed personal representative.
-(48)  "Successors" means persons, other than creditors, who are entitled to
+(50)  "Successors" means persons, other than creditors, who are entitled to
 property of a decedent under the decedent's will or this title.
-(49)  "Supervised administration" refers to the proceedings described in Title
+(51)  "Supervised administration" refers to the proceedings described in Title
 75, Chapter 3, Part 5, Supervised Administration.
-(50)  "Survive," except for purposes of Part 3 of Article VI, Uniform TOD
+(52)  "Survive," except for purposes of Part 3 of Article VI, Uniform TOD
 Security Registration Act, means that an individual has neither predeceased an
 event, including the death of another individual, nor is considered to have
 predeceased an event under Section 75-2-104 or 75-2-702.  The term includes
 its derivatives, such as "survives," "survived," "survivor," and "surviving."
-(51)  "Testacy proceeding" means a proceeding to establish a will or determine
+(53)  "Testacy proceeding" means a proceeding to establish a will or determine
 intestacy.
-(52)  "Testator" includes an individual of either sex.
-(53)  "Trust" includes a health savings account, as defined in Section 223,
+(54)  "Testator" includes an individual of either sex.
+(55)  "Trust" includes a health savings account, as defined in Section 223,
 Internal Revenue Code, any express trust, private or charitable, with
 additions thereto, wherever and however created.  The term also includes a
 trust created or determined by judgment or decree under which the trust is to
@@ -196,12 +204,12 @@ liquidation trusts, and trusts for the primary purpose of paying debts,
 dividends, interest, salaries, wages, profits, pensions, or employee benefits
 of any kind, and any arrangement under which a person is nominee or escrowee
 for another.
-(54)  "Trustee" includes an original, additional, and successor trustee, and
+(56)  "Trustee" includes an original, additional, and successor trustee, and
 cotrustee, whether or not appointed or confirmed by the court.
-(55)  "Ward" means a person for whom a guardian has been appointed.  A "minor
+(57)  "Ward" means a person for whom a guardian has been appointed.  A "minor
 ward" is a minor for whom a guardian has been appointed solely because of
 minority.
-(56)  "Will" includes codicil and any testamentary instrument which merely
+(58)  "Will" includes codicil and any testamentary instrument which merely
 appoints an executor, revokes or revises another will, nominates a guardian,
 or expressly excludes or limits the right of an individual or class to succeed
 to property of the decedent passing by intestate succession.

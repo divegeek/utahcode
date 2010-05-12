@@ -13,7 +13,7 @@ the tax, fee, or charge; and
 (B)  that, at the time the commission implements the GenTax system with
 respect to the tax, fee, or charge:
 (I)  a person that files a return after the due date as described in
-Subsection (2)(b) is subject to the penalty described in Subsection
+Subsection (2)(a) is subject to the penalty described in Subsection
 (2)(c)(ii); and
 (II)  a person that fails to pay the tax, fee, or charge as described in
 Subsection (3)(a) is subject to the penalty described in Subsection
@@ -24,21 +24,30 @@ fee, or charge, the later of:
 system with respect to the tax, fee, or charge; or
 (ii)  30 days after the date the commission provides the notice described in
 Subsection (1)(a)(ii) with respect to the tax, fee, or charge.
-(c)  "Tax, fee, or charge" means:
-(i)  a tax, fee, or charge the commission administers under:
-(A)  this title;
-(B)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
-(C)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax
+(c) (i)  Except as provided in Subsection (1)(c)(ii), "tax, fee, or charge"
+means:
+(A)  a tax, fee, or charge the commission administers under:
+(I)  this title;
+(II)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+(III)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax
 Act;
-(D)  Section 19-6-410.5;
-(E)  Section 19-6-714;
-(F)  Section 19-6-805;
-(G)  Section 40-6-14;
-(H)  Section 69-2-5;
-(I)  Section 69-2-5.5; or
-(J)  Section 69-2-5.6; or
-(ii)  another amount that by statute is subject to a penalty imposed under
-this section.
+(IV)  Section 19-6-410.5;
+(V)  Section 19-6-714;
+(VI)  Section 19-6-805;
+(VII)  Section 34A-2-202;
+(VIII)  Section 40-6-14;
+(IX)  Section 69-2-5;
+(X)  Section 69-2-5.5; or
+(XI)  Section 69-2-5.6; or
+(B)  another amount that by statute is subject to a penalty imposed under this
+section.
+(ii)  "Tax, fee, or charge" does not include a tax, fee, or charge imposed
+under:
+(A)  Title 41, Chapter 1a, Motor Vehicle Act, except for Section 41-1a-301;
+(B)  Title 41, Chapter 3, Motor Vehicle Business Regulation Act;
+(C)  Chapter 2, Property Tax Act, except for Section 59-2-1309;
+(D)  Chapter 3, Tax Equivalent Property Act; or
+(E)  Chapter 4, Privilege Tax.
 (d)  "Unactivated tax, fee, or charge" means a tax, fee, or charge except for
 an activated tax, fee, or charge.
 (2) (a)  The due date for filing a return is:

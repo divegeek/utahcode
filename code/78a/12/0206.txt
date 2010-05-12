@@ -1,6 +1,6 @@
 78A-12-206.   Publication of the judicial performance evaluation.
-(1) (a)  The commission shall compile a report of its judicial performance
-evaluation of a judge.
+(1) (a)  The commission shall compile a retention report of its judicial
+performance evaluation of a judge.
 (b)  The report of a judicial performance evaluation nearest the judge's next
 scheduled retention election shall be provided to the judge at least 45 days
 before the last day on which the judge may file a declaration of the judge's
@@ -14,8 +14,9 @@ election if the judge declares the judge's candidacy for the retention
 election.
 (d)  A report that is not public under Subsection (1)(c) is a protected record
 under Title 63G, Chapter 2, Government Records Access and Management Act.
-(2)  A judge who is the subject of a report under this section, within 15 days
-of receiving a copy of the commission's report under Subsection (1)(b), may:
+(2)  A judge who is the subject of a retention report under this section,
+within 15 days of receiving a copy of the commission's report under Subsection
+(1)(b), may:
 (a)  provide a written response to the report; and
 (b)  request an interview with the commission for the purpose of addressing
 the report.
@@ -25,7 +26,7 @@ recommend the judge not be retained.
 (b)  If the commission does not change its decision to recommend the judge not
 be retained, the judge may provide a written statement, not to exceed 100
 words, that shall be included in the commission's report.
-(4)  The report of a judicial performance evaluation shall include:
+(4)  The retention report of a judicial performance evaluation shall include:
 (a)  the results of the judicial performance survey, in both raw and summary
 form;
 (b)  information concerning the judge's compliance with the minimum
@@ -40,13 +41,13 @@ recommendation;
 (f)  the number of votes for and against the commission's recommendation; and
 (g)  any other information the commission considers appropriate to include in
 the report.
-(5) (a)  The commission may not include in its report specific information
-concerning an earlier judicial performance evaluation.
+(5) (a)  The commission may not include in its retention report specific
+information concerning an earlier judicial performance evaluation.
 (b)  The commission may refer to information from an earlier judicial
 performance evaluation concerning the judge in the commission's report only if
 the reference is in general terms.
-(6)  The report of the commission's judicial performance evaluation shall be
-made publicly available on an Internet website.
+(6)  The retention report of the commission's judicial performance evaluation
+shall be made publicly available on an Internet website.
 (7)  The commission may make the report of the judicial performance evaluation
 immediately preceding the judge's retention election publicly available
 through other means within budgetary constraints.
@@ -60,6 +61,6 @@ judge's retention election to the public to the extent that information is not
 otherwise subject to restrictions on disclosure.
 (10)  The commission shall provide the Judicial Council with:
 (a)  the judicial performance survey results for each judge; and
-(b)  a copy of the report of each judicial performance evaluation.
+(b)  a copy of the retention report of each judicial performance evaluation.
 (11)  The Judicial Council shall provide information obtained concerning a
 judge under Subsection (10) to the subject judge's presiding judge, if any.

@@ -10,13 +10,12 @@ or amendment.
 (c) (i)  If the association fails to submit a suitable amendment to the plan,
 the commissioner, after notice and hearing, shall adopt reasonable rules that
 are necessary or advisable to effectuate the provisions of this part.
-(ii)  The rules described in Subsection (1)(c)(i) shall continue in force
-until:
+(ii)  The rules described in Subsection (1)(c)(i) continue in force until:
 (A)  modified by the commissioner; or
 (B)  superseded by an amendment to the plan:
 (I)  submitted by the association; and
 (II)  approved by the commissioner.
-(2)  All member insurers shall comply with the plan of operation.
+(2)  A member insurer shall comply with the plan of operation.
 (3)  The plan of operation shall, in addition to any other requirement in this
 part:
 (a)  establish procedures for handling the assets of the association;
@@ -24,7 +23,7 @@ part:
 directors under Section 31A-28-107;
 (c)  establish regular places and times for meetings of the board of
 directors, including telephone conference calls;
-(d)  establish procedures for records to be kept of all financial transactions
+(d)  establish procedures for records to be kept of the financial transactions
 of:
 (i)  the association;
 (ii)  the association's agents; and
@@ -34,8 +33,13 @@ for:
 (i)  selecting members to the board of directors; and
 (ii)  submitting the selected members to the commissioner for approval;
 (f)  establish any additional procedures for assessments under Section
-31A-28-109; and
-(g)  contain additional provisions necessary or proper for the execution of
+31A-28-109;
+(g)  establish procedures under which a member insurer may be removed from the
+board of directors for cause, including when the member insurer becomes an
+impaired or insolvent insurer;
+(h)  require the board of directors to establish policies and procedures that
+address conflicts of interests; and
+(i)  contain additional provisions necessary or proper for the execution of
 the powers and duties of the association.
 (4) (a)  The plan of operation may provide that any or all powers and duties
 of the association, except those under Subsection 31A-28-108(14)(d) and
@@ -47,7 +51,7 @@ or its equivalent, in two or more states.
 (i)  reimbursed for any payments made on behalf of the association; and
 (ii)  paid for its performance of any function of the association.
 (c)  A delegation under this Subsection (4):
-(i)  shall take effect only with the approval of:
+(i)  takes effect only with the approval of:
 (A)  the board of directors; and
 (B)  the commissioner; and
 (ii)  may be made only to a corporation, association, or organization that

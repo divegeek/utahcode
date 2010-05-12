@@ -7,12 +7,13 @@ security;
 (b)  with respect to an instruction, the registered owner of an uncertificated
 security;
 (c)  with respect to an entitlement order, the entitlement holder;
-(d)  if the person designated in Subsection (a), (b), or (c) is deceased, the
-designated person's successor taking under other law or the designated
+(d)  if the person designated in Subsection (1)(a), (b), or (c) is deceased,
+the designated person's successor taking under other law or the designated
 person's personal representative acting for the estate of the decedent; or
-(e)  if the person designated in Subsection (a), (b), or (c) lacks capacity,
-the designated person's guardian, conservator, or other similar representative
-who has power under other law to transfer the security or financial asset.
+(e)  if the person designated in Subsection (1)(a), (b), or (c) lacks
+capacity, the designated person's guardian, conservator, or other similar
+representative who has power under other law to transfer the security or
+financial asset.
 (2)  An indorsement, instruction, or entitlement order is effective if:
 (a)  it is made by the appropriate person;
 (b)  it is made by a person who has power under the law of agency to transfer

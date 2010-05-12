@@ -10,12 +10,12 @@ entitled to vote thereon were present and voted.
 (2) (a)  Unless the written consents of all shareholders entitled to vote have
 been obtained, notice of any shareholder approval without a meeting shall be
 given at least 10 days before the consummation of the transaction, action, or
-event authorized by the  shareholder action to:
+event authorized by the shareholder action to:
 (i)  those shareholders entitled to vote who have not consented in writing;
 and
 (ii)  those shareholders not entitled to vote and to whom this chapter
 requires that notice of the proposed action be given.
-(b)  The notice must contain or be accompanied by the same material that,
+(b)  The notice shall contain or be accompanied by the same material that,
 under this chapter, would have been required to be sent in a notice of meeting
 at which the proposed action would have been submitted to the shareholders for
 action.
@@ -28,16 +28,16 @@ effectiveness of the action.
 (4)  A shareholder action taken pursuant to this section is not effective
 unless all written consents on which the corporation relies for the taking of
 an action pursuant to Subsection (1) are received by the corporation within a
-60-day period and not revoked pursuant to Subsection (3). Action taken by the
+60-day period and not revoked pursuant to Subsection (3).  Action taken by the
 shareholders pursuant to this section is effective as of the date the last
 written consent necessary to effect the action is received by the corporation,
 unless all of the written consents necessary to effect the action specify a
 later date as the effective date of the action, in which case the later date
-shall be the effective date of the action. If the corporation has received
+shall be the effective date of the action.  If the corporation has received
 written consents as contemplated by Subsection (1) signed by all shareholders
 entitled to vote with respect to the action, the effective date of the
 shareholder action may be any date that is specified in all the written
-consents as the effective date of the shareholder action. Unless otherwise
+consents as the effective date of the shareholder action.  Unless otherwise
 provided by the bylaws, the writing may be received by the corporation by
 electronically transmitted facsimile or other form of communication providing
 the corporation with a complete copy thereof, including a copy of the

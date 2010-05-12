@@ -1,22 +1,22 @@
 53A-3-602.5.   School performance report -- Components -- Annual filing.
-(1)  The State Board of Education in collaboration with the state's school
-districts and charter schools shall develop a school performance report to
-inform the state's residents of the quality of schools and the educational
-achievement of students in the state's public education system.
-(2)  The report shall be written and include the following statistical data
-for each school in each school district and each charter school, as
-applicable, and shall also aggregate the data at the district and state level:
-(a)  except as provided in Subsection (2)(a)(ii), test scores over the
-previous year on:
-(i)  norm-referenced achievement tests;
-(ii)  criterion-referenced tests to include the scores aggregated for all
-students:
+(1) For a school year beginning with or after the 2012-13 school year, the
+State Board of Education in collaboration with the state's school districts
+and charter schools shall develop a school performance report to inform the
+state's residents of the quality of schools and the educational achievement of
+students in the state's public education system.
+(2)  The report described in Subsection (1) shall be written and include the
+following statistical data for each school in a school district and each
+charter school, as applicable, except as provided by Subsection (2)(g), and
+shall also aggregate the data at the school district and state level:
+(a) test scores over the previous year on:
+(i)  criterion-referenced or online computer adaptive tests to include the
+scores aggregated for all students:
 (A)  by grade level or course for the previous two years and an indication of
 whether there was a sufficient magnitude of gain in the scores between the two
 years; and
 (B)  by class;
-(iii)  online writing assessments required under Section 53A-1-603; and
-(iv)  tenth grade basic skills competency tests required under Section
+(ii)  online writing assessments required under Section 53A-1-603; and
+(iii)  tenth grade basic skills competency tests required under Section
 53A-1-603;
 (b)  college entrance examinations data, including the number and percentage
 of each graduating class taking the examinations for the previous four years;
@@ -36,8 +36,8 @@ level;
 more during the school year;
 (f)  achievement gaps that reflect the differences in achievement of various
 student groups as defined by State Board of Education rule;
-(g)  the number and percent of "student dropouts" within the district as
-defined by State Board of Education rule;
+(g)  the number and percent of "student dropouts" within the school district
+as defined by State Board of Education rule;
 (h)  course-taking patterns and trends in secondary schools;
 (i)  student mobility;
 (j)  staff qualifications, to include years of professional service and the
@@ -45,54 +45,78 @@ number and percent of staff who have a degree or endorsement in their assigned
 teaching area and the number and percent of staff who have a graduate degree;
 (k)  the number and percent of parents who participate in SEP, SEOP, and
 parent-teacher conferences;
-(l)  average class size by grade level and subject;
+(l)  average class size calculated in accordance with State Board of Education
+rule adopted under Subsection (4);
 (m)  average daily attendance as defined by State Board of Education rule,
 including every period in secondary schools; and
 (n)  enrollment totals disaggregated with respect to race, ethnicity, gender,
 limited English proficiency, and those students who qualify for free or
 reduced price school lunch.
-(3)  The State Board of Education, in collaboration with the state's school
-districts and charter schools, shall provide for the collection and electronic
-reporting of the following data for each school in each school district and
-each charter school:
+(3) For a school year beginning with or after the 2012-13 school year, the
+State Board of Education, in collaboration with the state's school districts
+and charter schools, shall provide for the collection and electronic reporting
+of the following data for a school in each school district and each charter
+school:
 (a)  test scores and trends over the previous four years on the tests referred
 to in Subsection (2)(a);
 (b)  the average grade given in each math, science, and English course in
-grades 9 through 12 for which criteria-referenced tests are required under
-Section 53A-1-603;
+grades 9 through 12 for which criterion-referenced or online computer adaptive
+tests are required under Section 53A-1-603;
 (c)  incidents of student discipline as defined by State Board of Education
 rule, including suspensions, expulsions, and court referrals; and
 (d)  the number and percent of students receiving fee waivers and the total
 dollar amount of fees waived.
-(4) (a) (i)  The State Board of Education shall adopt common definitions and
-data collection procedures for local school boards and charter schools to use
-in collecting and forwarding the data required under Subsections (2) and (3)
-to the state superintendent of public instruction.
-(ii)  Average class size by grade and subject shall be calculated for the
-purposes of Subsection (2)(l) in accordance with the following:
-(A)  for kindergarten through grade six, average class size by grade shall be
-calculated by dividing grade membership on October 1 by the number of classes
-in the corresponding grade; and
-(B)  for grades seven through 12, average class size shall be calculated for
-core language arts, mathematics, and science courses by dividing membership on
-October 1 in core language arts, mathematics, or science course classes by the
-number of classes for the corresponding course.
-(b)  The state board, through the state superintendent of public instruction,
-shall adopt standard reporting forms and provide a common template for
-collecting and reporting the data, which shall be used by all school districts
-and charter schools.
-(c)  The state superintendent shall use the automated decision support system
+(4) (a)  The State Board of Education shall adopt common definitions and data
+collection procedures for local school boards and charter schools to use in
+collecting and forwarding the data required under Subsections (2) and (3) to
+the state superintendent of public instruction.
+(b) (i)  In accordance with Subsections (4)(b)(ii) through (4)(b)(iv), the
+State Board of Education shall adopt rules specifying how average class size
+shall be calculated.
+(ii) (A)  Except as provided by Subsections (4)(b)(ii)(B) through
+(4)(b)(ii)(D) or for nontraditional classes identified by rule, average class
+size at the elementary school level shall:
+(I)  be calculated by grade level; and
+(II)  indicate the average number of students who are assigned to a teacher
+for instruction together during a designated time period.
+(B)  If students at the elementary school level receive instruction in core
+classes from different teachers, average class size may be calculated as
+provided by Subsection (4)(b)(iii) for secondary school students.
+(C)  An elementary school class that includes students from multiple grade
+levels shall be counted as a single class.
+(D)  An extended day class in which a portion of the class arrives early and
+the other portion stays late shall be counted as a single class.
+(iii) (A)  Except as provided by Subsection (4)(b)(iii)(B) or for
+nontraditional classes identified by rule, average class size at the secondary
+school level shall:
+(I)  be calculated for core language arts, mathematics, and science courses;
+and
+(II)  indicate the average number of students who are assigned to a teacher
+for instruction together during a designated time period.
+(B)  A secondary school class in which a teacher provides instruction in
+multiple courses shall be counted as a single class.
+(iv)  Special education classes and online classes shall be excluded when
+determining average class size by grade at the elementary school level or the
+average class size of core language arts, mathematics, and science courses at
+the secondary level.
+(c)  The State Board of Education, through the state superintendent of public
+instruction, shall adopt standard reporting forms and provide a common
+template for collecting and reporting the data, which shall be used by all
+school districts and charter schools.
+(d)  The state superintendent shall use the automated decision support system
 referred to in Section 53A-1-301 to collect and report the data required under
 Subsections (2) and (3).
-(5)  The state board, through the state superintendent of public instruction,
-shall issue its report annually by October 1 to include the required data from
-the previous school year or years as indicated in Subsections (2) and (3).
+(5) For a school year beginning with or after the 2012-13 school year, the
+State Board of Education, through the state superintendent of public
+instruction, shall issue its report annually by October 1 to include the
+required data from the previous school year or years as indicated in
+Subsections (2) and (3).
 (6) (a)  Each local school board and each charter school shall receive a
 written or an electronic copy of the report from the state superintendent of
 public instruction containing the data for that school district or charter
 school in a clear summary format and have it distributed, on a one per
 household basis, to the residence of students enrolled in the school district
-before November 30th of each year.
-(b)  Each local school board, each charter school, and the state board shall
-have a complete report of the statewide data available for copying or in an
-electronic format at their respective offices.
+or charter school before November 30th of each year.
+(b)  Each local school board, each charter school, and the State Board of
+Education shall have a complete report of the statewide data available for
+copying or in an electronic format at their respective offices.

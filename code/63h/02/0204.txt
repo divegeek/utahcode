@@ -12,8 +12,10 @@ following:
 state.
 (3)  Upon the dissolution of the authority:
 (a)  the Governor's Office of Economic Development shall publish a notice of
-dissolution in a newspaper of general circulation in each county in which a
-qualifying transmission project is located;
+dissolution:
+(i)  in a newspaper of general circulation in each county in which a
+qualifying transmission project is located; and
+(ii)  electronically, in accordance with Section 45-1-101;
 (b)  the authority shall deposit its records with the state auditor, to be
 retained for the time period determined by the state auditor; and
 (c)  the assets of the authority shall revert to the state.

@@ -1,22 +1,33 @@
 49-21-403.   Termination of disability benefits -- Calculation of retirement
 benefit.
 (1)  An eligible employee covered by this chapter and eligible for service
-credit under a system, including an eligible employee who relinquishes rights
-to retirement benefits under Section 49-11-619, who applies and is qualified
-for a monthly disability benefit shall receive a monthly disability benefit
-until the earlier of:
-(a)  the date the eligible employee is no longer disabled;
-(b)  the date the eligible employee has accumulated:
+credit under a system, or a participant in the Tier II Defined Contribution
+Plan, created in Chapter 22, Part 4, Tier II Defined Contribution Plan, or
+Chapter 23, Part 4, Tier II Defined Contribution Plan, including an eligible
+employee who relinquishes rights to retirement benefits under Section
+49-11-619, who applies and is qualified for a monthly disability benefit shall
+receive a monthly disability benefit until the earlier of:
+(a)  the date of the eligible employee's death;
+(b)  the date the eligible employee is no longer disabled;
+(c)  the date the eligible employee has accumulated:
 (i)  20 years of service credit if the eligible employee is covered by Chapter
 14, Public Safety Contributory Retirement Act, or Chapter 15, Public Safety
 Noncontributory Retirement Act;
 (ii)  25 years of service credit if the eligible employee is covered by
 Chapter 17, Judges' Contributory Retirement Act, or Chapter 18, Judges'
-Noncontributory Retirement Act; or
+Noncontributory Retirement Act;
 (iii)  30 years of service credit if the eligible employee is covered by
 Chapter 12, Public Employees' Contributory Retirement Act, or Chapter 13,
-Public Employees' Noncontributory Retirement Act; or
-(c)  the date the eligible employee has received a monthly disability benefit
+Public Employees' Noncontributory Retirement Act;
+(iv)  35 years of service credit if the eligible employee is covered by the
+defined benefit portion under Chapter 22, Part 3, Tier II Hybrid Retirement
+System, or is covered by the defined contribution plan under Chapter 22, Part
+4, Tier II Defined Contribution Plan; or
+(v)  25 years of service credit if the eligible employee is covered by the
+defined benefit portion under Chapter 23, Part 3, Tier II Hybrid Retirement
+System, or is covered by the defined contribution plan under Chapter 23, Part
+4, Tier II Defined Contribution Plan; or
+(d)  the date the eligible employee has received a monthly disability benefit
 for the following applicable time periods:
 (i)  if the eligible employee is under age 60, the monthly disability benefit
 is payable until age 65;
@@ -53,5 +64,5 @@ eligible for service credit under a system shall terminate at the earliest of:
 (a)  the date the eligible employee would be eligible for an unreduced
 allowance;
 (b)  the date the eligible employee has received a monthly disability benefit
-for the applicable time period as set forth in Subsection (1)(b); or
+for the applicable time period as set forth in Subsection (1)(c); or
 (c)  the date the eligible employee receives a reduced allowance.

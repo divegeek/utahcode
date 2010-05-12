@@ -1,25 +1,31 @@
-31A-30-208.   Enrollment periods for the defined contribution market.
-(1)  From November 1 to November 30 of each year, an insurer offering a
-product in the defined contribution market shall administer an open enrollment
-period for plans effective January 1 following the November open enrollment
-period, during which an eligible employee may enroll in a health benefit plan
-offered through the defined contribution market and may not be declined
-coverage.
-(2) (a)  Except as provided in Subsection (4), the period of open enrollment
-is the time in which an insurer may:
-(i)  enter or exit the defined contribution market;
-(ii)  offer new or modify existing products in the defined contribution
-market; or
-(iii)  withdraw products from the defined contribution market.
-(b)  Ninety days prior to an open enrollment period under Subsection (1), an
-insurer shall notify the Internet portal and the risk adjuster board created
-in Chapter 42, Defined Contribution Risk Adjuster Act, regarding any of the
-events described in Subsection (2)(a).
-(3)  An eligible employee may enroll in a health benefit plan offered in the
-defined contribution market and may not be declined coverage, at a time other
-than the annual open enrollment period for any of the circumstances recognized
-as permissible under federal tax law, provided the individual does so within
-63 days of the permissible circumstance.
-(4)  When an insurer elects to participate in the defined contribution market,
-the insurer shall participate in the defined contribution market for no less
-than two years.
+31A-30-208.   Enrollment for defined contribution arrangements.
+(1)  An insurer offering a health benefit plan in the defined contribution
+arrangement market:
+(a)  beginning on or after January 1, 2011, shall allow an employer to enroll
+in a small employer defined contribution arrangement plan;
+(b)  may not impose a surcharge under Section 31A-30-106.7 for a small
+employer group selecting a defined contribution arrangement health benefit
+plan on or before January 1, 2012;
+(c)  shall offer a limited pilot program in which a large employer group may
+enroll in a defined contribution arrangement market plan that takes effect
+January 1, 2011;
+(d)  beginning January 1, 2012, shall allow a large employer group to enroll
+in the defined contribution arrangement market; and
+(e)  shall otherwise comply with the requirements of this part, Chapter 42,
+Defined Contribution Risk Adjuster Act, and Title 63M, Chapter 1, Part 25,
+Health System Reform Act.
+(2) (a)  Except as provided in Subsection 31A-30-202.5(2), in accordance with
+Subsection (2)(b), on January 1 of each year, an insurer may enter or exit the
+defined contribution arrangement market.
+(b)  An insurer may offer new or modify existing products in the defined
+contribution arrangement market:
+(i)  on January 1 of each year;
+(ii)  when required by changes in other law; and
+(iii)  at other times as established by the risk adjuster board created in
+Section 31A-42-201.
+(c) (i)  An insurer shall give the department, the Health Insurance Exchange,
+and the risk adjuster board 90 days' advance written notice of any event
+described in Subsection (2)(a) or (b).
+(ii)  When an insurer elects to participate in the defined contribution
+arrangement market, the insurer shall participate in the defined contribution
+arrangement market for no less than two years.

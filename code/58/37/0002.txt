@@ -1,4 +1,4 @@
-58-37-2.   Definitions.
+58-37-2 (Superseded 07/01/11).   Definitions.
 (1)  As used in this chapter:
 (a)  "Administer" means the direct application of a controlled substance,
 whether by injection, inhalation, ingestion, or any other means, to the body
@@ -18,31 +18,36 @@ proprietorship, partnership, corporation, business trust, association, or
 other legal entity, and any union or groups of individuals associated in fact
 although not a legal entity, and includes illicit as well as licit entities
 created or maintained for the purpose of engaging in conduct which constitutes
-the commission of episodes of activity made unlawful by Title 58, Chapters 37,
-37a, 37b, 37c, or 37d, which episodes are not isolated, but have the same or
-similar purposes, results, participants, victims, methods of commission, or
-otherwise are interrelated by distinguishing characteristics.  Taken together,
-the episodes shall demonstrate continuing unlawful conduct and be related
-either to each other or to the enterprise.
+the commission of episodes of activity made unlawful by Title 58, Chapter 37,
+Utah Controlled Substances Act, Chapter 37a, Utah Drug Paraphernalia Act,
+Chapter 37b, Imitation Controlled Substances Act, Chapter 37c, Utah Controlled
+Substance Precursor Act, or Chapter 37d, Clandestine Drug Lab Act, which
+episodes are not isolated, but have the same or similar purposes, results,
+participants, victims, methods of commission, or otherwise are interrelated by
+distinguishing characteristics.  Taken together, the episodes shall
+demonstrate continuing unlawful conduct and be related either to each other or
+to the enterprise.
 (e)  "Control" means to add, remove, or change the placement of a drug,
 substance, or immediate precursor under Section 58-37-3.
-(f) (i)  "Controlled substance" means a drug or substance included in
-Schedules I, II, III, IV, or V of Section 58-37-4, and also includes a drug or
-substance included in Schedules I, II, III, IV, or V of the federal Controlled
-Substances Act, Title II, P.L. 91-513, or any controlled substance analog.
+(f) (i)  "Controlled substance" means a drug or substance:
+(A)  included in Schedules I, II, III, IV, or V of Section 58-37-4;
+(B)  included in Schedules I, II, III, IV, or V of the federal Controlled
+Substances Act, Title II, P.L. 91-513; or
+(C)  that is a controlled substance analog.
 (ii)  "Controlled substance" does not include:
-(A)  distilled spirits, wine, or malt beverages, as those terms are defined or
-used in Title 32A, Alcoholic Beverage Control Act, regarding tobacco or food;
+(A)  distilled spirits, wine, or malt beverages, as those terms are defined in
+Title 32A, Alcoholic Beverage Control Act;
 (B)  any drug intended for lawful use in the diagnosis, cure, mitigation,
-treatment, or prevention of disease in man or other animals, which contains
+treatment, or prevention of disease in human or other animals, which contains
 ephedrine, pseudoephedrine, norpseudoephedrine, or phenylpropanolamine if the
 drug is lawfully purchased, sold, transferred, or furnished as an over-the-
 counter medication without prescription; or
 (C)  dietary supplements, vitamins, minerals, herbs, or other similar
-substances including concentrates or extracts, which are not otherwise
-regulated by law, which may contain naturally occurring amounts of chemical or
-substances listed in this chapter, or in rules adopted pursuant to Title 63G,
-Chapter 3, Utah Administrative Rulemaking Act.
+substances including concentrates or extracts, which:
+(I)  are not otherwise regulated by law; and
+(II)  may contain naturally occurring amounts of chemical or substances listed
+in this chapter, or in rules adopted pursuant to Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act.
 (g) (i)  "Controlled substance analog" means a substance the chemical
 structure of which is substantially similar to the chemical structure of a
 controlled substance listed in Schedules I and II of Section 58-37-4, or in
@@ -83,14 +88,23 @@ Title 58, Chapters 37, 37a, 37b, 37c, or 37d, or for any offense under the
 laws of the United States and any other state which, if committed in this
 state, would be an offense under Title 58, Chapters 37, 37a, 37b, 37c, or 37d.
 (i)  "Counterfeit substance" means:
-(i)  any substance or container or labeling of any substance that without
-authorization bears the trademark, trade name, or other identifying mark,
-imprint, number, device, or any likeness of them, of a manufacturer,
-distributor, or dispenser other than the person or persons who in fact
-manufactured, distributed, or dispensed the substance which falsely purports
-to be a controlled substance distributed by, any other manufacturer,
-distributor, or dispenser; or
-(ii)  any substance that is represented to be a controlled substance.
+(i)  any controlled substance or container or labeling of any controlled
+substance that:
+(A)  without authorization bears the trademark, trade name, or other
+identifying mark, imprint, number, device, or any likeness of them, of a
+manufacturer, distributor, or dispenser other than the person or persons who
+in fact manufactured, distributed, or dispensed the substance which falsely
+purports to be a controlled substance distributed by any other manufacturer,
+distributor, or dispenser; and
+(B)  a reasonable person would believe to be a controlled substance
+distributed by an authorized manufacturer, distributor, or dispenser based on
+the appearance of the substance as described under Subsection (1)(i)(i)(A) or
+the appearance of the container of that controlled substance; or
+(ii)  any substance other than under Subsection (1)(i)(i) that:
+(A)  is falsely represented to be any legally or illegally manufactured
+controlled substance; and
+(B)  a reasonable person would believe to be a legal or illegal controlled
+substance.
 (j)  "Deliver" or "delivery" means the actual, constructive, or attempted
 transfer of a controlled substance or a listed chemical, whether or not an
 agency relationship exists.
@@ -123,17 +137,20 @@ controlled substance or a listed chemical.
 (p)  "Distributor" means a person who distributes controlled substances.
 (q)  "Division" means the Division of Occupational and Professional Licensing
 created in Section 58-1-103.
-(r)  "Drug" means:
-(i)  articles recognized in the official United States Pharmacopoeia, Official
-Homeopathic Pharmacopoeia of the United States, or Official National
-Formulary, or any supplement to any of them;
-(ii)  articles intended for use in the diagnosis, cure, mitigation, treatment,
-or prevention of disease in man or other animals;
-(iii)  articles, other than food, intended to affect the structure or function
-of man or other animals; and
-(iv)  articles intended for use as a component of any articles specified in
-Subsection (1)(r)(i), (ii), or (iii); but does not include devices or their
-components, parts, or accessories.
+(r) (i)  "Drug" means:
+(A)  a substance recognized in the official United States Pharmacopoeia,
+Official Homeopathic Pharmacopoeia of the United States, or Official National
+Formulary, or any supplement to any of them, intended for use in the
+diagnosis, cure, mitigation, treatment, or prevention of disease in humans or
+animals;
+(B)  a substance that is required by any applicable federal or state law or
+rule to be dispensed by prescription only or is restricted to administration
+by practitioners only;
+(C)  a substance other than food intended to affect the structure or any
+function of the body of humans or other animals; and
+(D)  substances intended for use as a component of any substance specified in
+Subsections (1)(r)(i)(A), (B), (C), and (D).
+(ii)  "Drug" does not include dietary supplements.
 (s)  "Drug dependent person" means any individual who unlawfully and
 habitually uses any controlled substance to endanger the public morals,
 health, safety, or welfare, or who is so dependent upon the use of controlled
@@ -236,13 +253,15 @@ other person licensed, registered, or otherwise permitted to distribute,
 dispense, conduct research with respect to, administer, or use in teaching or
 chemical analysis a controlled substance in the course of professional
 practice or research in this state.
-(kk)  "Prescribe" means to issue a prescription orally or in writing.
-(ll)  "Prescription" means an order issued by a licensed practitioner, in the
-course of that practitioner's professional practice, for a controlled
-substance, other drug, or device which it dispenses or administers for use by
-a patient or an animal.  The order may be issued by word of mouth, written
-document, telephone, facsimile transmission, computer, or other electronic
-means of communication as defined by rule.
+(kk)  "Prescribe" means to issue a prescription:
+(i)  orally or in writing; or
+(ii)  by telephone, facsimile transmission, computer, or other electronic
+means of communication as defined by division rule.
+(ll)  "Prescription" means an order issued:
+(i)  by a licensed practitioner, in the course of that practitioner's
+professional practice or by collaborative pharmacy practice agreement; and
+(ii)  for a controlled substance or other prescription drug or device for use
+by a patient or an animal.
 (mm)  "Production" means the manufacture, planting, cultivation, growing, or
 harvesting of a controlled substance.
 (nn)  "Securities" means any stocks, bonds, notes, or other evidences of debt

@@ -4,10 +4,10 @@ association.
 may dispose of the known claims against it by following the procedure in
 Subsections (2) and (3).
 (2)  A dissolved limited cooperative association may notify its known
-claimants of the dissolution in a record.  The notice must:
+claimants of the dissolution in a record.  The notice shall:
 (a)  specify that a claim be in a record;
 (b)  specify the information required to be included in the claim;
-(c)  provide an address to which the claim must be sent;
+(c)  provide an address to which the claim shall be sent;
 (d)  state the deadline for receipt of the claim, which may not be less than
 120 days after the date the notice is received by the claimant; and
 (e)  state that the claim will be barred if not received by the deadline.

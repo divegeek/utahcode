@@ -1,5 +1,6 @@
-57-22-5.1.   Crime victim's right to new locks.
-(1)  For purposes of this section, "crime victim" means a victim of:
+57-22-5.1.   Crime victim's right to new locks -- Domestic violence victim's
+right to terminate rental agreement.
+(1)  As used in this section, "crime victim" means a victim of:
 (a)  domestic violence, as defined in Section 77-36-1;
 (b)  stalking as defined in Section 76-5-106.5;
 (c)  a crime under Title 76, Chapter 5, Part 4, Sexual Offenses;
@@ -11,7 +12,7 @@ is:
 (a)  a protective order protecting the renter issued pursuant to Title 78B,
 Chapter 7, Part 1, Cohabitant Abuse Act, subsequent to a hearing of which the
 petitioner and respondent have been given notice under Title 78B, Chapter 7,
-Part 1; or
+Part 1, Cohabitant Abuse Act; or
 (b)  a copy of a police report documenting an act listed in Subsection (1).
 (3) (a)  A renter who is a crime victim may require the renter's owner to
 install a new lock to the renter's residential rental unit if the renter:
@@ -41,3 +42,16 @@ the residential rental unit.
 of further liability under the rental agreement if the perpetrator is found by
 the court to have committed the act upon which the landlord's exclusion of the
 perpetrator is based.
+(4)  A renter who is a victim of domestic violence, as defined in Section
+77-36-1, may terminate a rental agreement if the renter:
+(a)  is in compliance with:
+(i)  all provisions of Section 57-22-5; and
+(ii)  all obligations under the rental agreement;
+(b)  provides the owner:
+(i)  written notice of termination; and
+(ii)  a protective order protecting the renter from a domestic violence
+perpetrator; and
+(c)  no later than the date that the renter provides a notice of termination
+under Subsection (4)(b)(i), pays the owner the equivalent of 45 days' rent for
+the period beginning on the date that the renter provides the notice of
+termination.

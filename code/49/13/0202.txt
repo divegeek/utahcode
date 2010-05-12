@@ -10,7 +10,7 @@ indirectly, for their employees.
 (2)  The following employers may be excluded from participation in this
 system:
 (a)  an employer not initially admitted or included as a participating
-employer in this system prior to January 1, 1982 if:
+employer in this system before January 1, 1982 if:
 (i)  the employer elects not to provide or participate in any type of private
 or public retirement, supplemental or defined contribution plan, either
 directly or indirectly, for its employees, except for Social Security; or
@@ -20,10 +20,14 @@ and has continued to do so on an uninterrupted basis since that date;
 Education or a school district that makes an election of nonparticipation in
 accordance with Section 53A-1a-512 unless the charter school makes a one-time,
 irrevocable retraction of the election of nonparticipation in accordance with
-Subsection 53A-1a-512(9); or
+Subsection 53A-1a-512(9);
 (c)  an employer that is a hospital created as a special service district
 under Title 17D, Chapter 1, Special Service District Act, that makes an
-election of nonparticipation in accordance with Subsection (5).
+election of nonparticipation in accordance with Subsection (5); or
+(d)  an employer that is a risk management association initially created by
+interlocal agreement before 1986 for the purpose of implementing a self-
+insurance joint protection program for the benefit of member municipalities of
+the association.
 (3)  If an employer that may be excluded under Subsection (2)(a)(i) elects at
 any time to provide or participate in any type of public or private
 retirement, supplemental or defined contribution plan, either directly or
@@ -33,20 +37,23 @@ employer in this system.
 admission to this system.
 (b)  Upon approval of the resolution by the board, the employer is a
 participating employer in this system and is subject to this title.
-(5) (a)  Until June 30, 2009, a employer that is a hospital created as a
+(5) (a) (i)  Until June 30, 2009, a employer that is a hospital created as a
 special service district under Title 17D, Chapter 1, Special Service District
 Act, may make an election of nonparticipation as an employer for retirement
+programs under this chapter.
+(ii)  On or before July 1, 2010, an employer described in Subsection (2)(d)
+may make an election of nonparticipation as an employer for retirement
 programs under this chapter.
 (b)  An election provided under Subsection (5)(a):
 (i)  is a one-time election made no later than the time specified under
 Subsection (5)(a);
 (ii)  shall be documented by a resolution adopted by the governing body of the
-special service district;
+employer;
 (iii)  is irrevocable; and
-(iv)  applies to the special service district as the employer and to all
-employees of the special service district.
-(c)  The governing body of the special service district may offer employee
-benefit plans for its employees:
+(iv)  applies to the employer described in Subsection (5)(a) and to all
+employees of that employer.
+(c)  The employer making an election under Subsection (5)(a) may offer
+employee benefit plans for its employees:
 (i)  under Title 49, Chapter 20, Public Employees' Benefit and Insurance
 Program Act; or
 (ii)  under any other program.

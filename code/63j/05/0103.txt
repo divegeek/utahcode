@@ -8,15 +8,16 @@ federal funds request.
 (b)  the Children's Health Insurance Program;
 (c)  the Women, Infant, and Children program;
 (d)  the Temporary Assistance to Needy Families program;
-(e)  Social Security Act monies;
+(e)  Social Security Act money;
 (f)  the Substance Abuse Prevention and Treatment program;
 (g)  Child Care Block grants;
-(h)  Food Stamp Administration and Training monies;
-(i)  Unemployment Insurance Operations monies;
-(j)  Federal Highway Administration monies;
+(h)  Food Stamp Administration and Training money;
+(i)  Unemployment Insurance Operations money;
+(j)  Federal Highway Administration money;
 (k)  the Utah National Guard; or
 (l)  pass-through federal funds.
 (3)  The governor need not seek legislative review or approval of federal
-funds received by the state when the governor has declared a state of
-emergency and the federal funds are received to assist disaster victims under
-Subsection 63K-4-201(2).
+funds received by the state if:
+(a)  the governor has declared a state of emergency; and
+(b)  the federal funds are received to assist victims of the state of
+emergency under Subsection 63K-4-201(1).

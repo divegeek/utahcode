@@ -2,23 +2,32 @@
 As used in this chapter:
 (1)  "Authority" means the Military Installation Development Authority,
 created under Section 63H-1-201.
-(2)  "Base taxable value" means the taxable value of the property within any
-portion of the project area, as designated by board resolution, from which tax
-increment will be collected, as shown upon the assessment roll last equalized
-before the year in which the authority issues a certificate of occupancy for a
-building within that portion of the project area.
+(2)  "Base taxable value" means:
+(a)  for military land or other land that was exempt from a property tax at
+the time that a project area was created that included the military land or
+other land, a taxable value of zero; or
+(b)  for private property that is included in a project area, the taxable
+value of the property within any portion of the project area, as designated by
+board resolution, from which tax increment will be collected, as shown upon
+the assessment roll last equalized before the year in which the authority
+issues a building permit for a building within that portion of the project
+area.
 (3)  "Board" means the governing body of the authority created under Section
 63H-1-301.
-(4)  "Dedicated supplemental tax increment" means supplemental tax increment
-that results from a property tax levied by:
-(a)  a county, including any district the county has established under
+(4) (a)  "Dedicated supplemental tax increment" means supplemental tax
+increment that results from a property tax levied by:
+(i)  a county, including any district the county has established under
 Subsection 17-34-3(2) to levy a property tax under Title 17, Chapter 34,
 Municipal-Type Services to Unincorporated Areas; or
-(b)  an included municipality.
+(ii)  an included municipality.
+(b)  "Dedicated supplemental tax increment" does not include a property tax
+levied by a county to assess and collect property taxes under Subsections
+59-2-1602(1) and (4).
 (5)  "Development project" means a project to develop land within a project
 area.
 (6)  "Elected member" means a member of the authority board who:
-(a)  is a mayor appointed under Subsection 63H-1-302(2)(b); or
+(a)  is a mayor or member of a legislative body appointed under Subsection
+63H-1-302(2)(b); or
 (b) (i)  is appointed to the authority board under Subsection 63H-1-302(2)(a)
 or (3); and
 (ii)  concurrently serves in an elected state, county, or municipal office.
@@ -33,12 +42,13 @@ Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act.
 (10)  "Municipal services revenue" means revenue that the authority:
 (a)  collects from the authority's:
 (i)  levy of a municipal energy tax;
-(ii)  levy of a telecommunications tax; and
-(iii)  imposition of a transient room tax;
+(ii)  levy of a telecommunications tax;
+(iii)  imposition of a transient room tax; and
+(iv)  imposition of a resort communities tax;
 (b)  receives under Subsection 59-12-205(2)(b)(ii); and
 (c)  receives as dedicated supplemental tax increment.
-(11)  "Municipal tax" means a municipal energy tax, telecommunications tax, or
-transient room tax.
+(11)  "Municipal tax" means a municipal energy tax, telecommunications tax,
+transient room tax, or resort communities tax.
 (12)  "Project area" means the land, including military land, whether
 consisting of a single contiguous area or multiple noncontiguous areas,
 described in a project area plan or draft project area plan where the
@@ -82,25 +92,31 @@ cooperation entity.
 storm drainage, electrical, telecommunications, and other similar systems and
 lines, streets, roads, curb, gutter, sidewalk, walkways, parking facilities,
 public transportation facilities, and other buildings, facilities,
-infrastructure, and improvements benefitting the public and to be publicly
-owned or publicly maintained or operated.
+infrastructure, and improvements that:
+(a)  benefit the public; and
+(b)  are:
+(i)  publicly owned or owned by a utility; or
+(ii)  publicly owned or publicly maintained or operated by the authority or
+another public entity.
 (18)  "Remaining municipal services revenue" means municipal services revenue
 that the authority has not spent during its fiscal year for municipal services
 as provided in Subsection 63H-1-503(1).
-(19)  "Supplemental tax increment" means tax increment remaining after the
+(19)  "Resort communities tax" means a sales and use tax imposed under Section
+59-12-401.
+(20)  "Supplemental tax increment" means tax increment remaining after the
 authority is paid the tax increment it is entitled to receive under Subsection
 63H-1-501(1).
-(20)  "Taxable value" means the value of property as shown on the last
+(21)  "Taxable value" means the value of property as shown on the last
 equalized assessment roll as certified by the county assessor.
-(21)  "Tax increment" means the difference between:
+(22)  "Tax increment" means the difference between:
 (a)  the amount of property tax revenues generated each tax year by all taxing
 entities from the area within a project area designated in the project area
 plan as the area from which tax increment is to be collected, using the
 current assessed value of the property; and
 (b)  the amount of property tax revenues that would be generated from that
 same area using the base taxable value of the property.
-(22)  "Taxing entity" means a public entity that levies a tax on property
+(23)  "Taxing entity" means a public entity that levies a tax on property
 within a project area.
-(23)  "Telecommunications tax" means a telecommunications license tax under
+(24)  "Telecommunications tax" means a telecommunications license tax under
 Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act.
-(24)  "Transient room tax" means a tax under Section 59-12-352.
+(25)  "Transient room tax" means a tax under Section 59-12-352.

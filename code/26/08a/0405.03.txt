@@ -1,8 +1,9 @@
 26-8a-405.3.   Use of competitive sealed proposals -- Procedure -- Appeal
 rights.
 (1) (a)  Competitive sealed proposals for paramedic or 911 ambulance services
-under Section 26-8a-405.2 shall be solicited through a request for proposal
-and the provisions of this section.
+under Section 26-8a-405.2, or for non-911 services under Section 26-8a-405.4,
+shall be solicited through a request for proposal and the provisions of this
+section.
 (b)  The governing body of the political subdivision shall approve the request
 for proposal prior to the notice of the request for proposals under Subsection
 (1)(c).
@@ -54,8 +55,9 @@ the performance standards, including:
 (i)  requiring ambulance medical personnel to also be a firefighter; or
 (ii)  mandating that offerors use fire stations or dispatch services of the
 political subdivision;
-(d) (i)  shall require an applicant to submit the proposal based on full cost
-accounting in accordance with generally accepted accounting principals; and
+(d)  shall require an applicant to submit the proposal:
+(i)  based on full cost accounting in accordance with generally accepted
+accounting principals; and
 (ii)  if the applicant is a governmental entity, in addition to the
 requirements of Subsection (4)(e)(i), in accordance with generally accepted
 government auditing standards and in compliance with the State of Utah Legal

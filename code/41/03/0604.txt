@@ -24,6 +24,5 @@ Subsections (2)(a)(i) through (vii).
 the procedures and requirements of Section 63J-1-504.
 (4)  A fee imposed under this section:
 (a)  shall be used by the division as a dedicated credit to cover the costs of
-electronic payments;
-(b)  is nonlapsing; and
-(c)  is not subject to Subsection 63J-2-202(2).
+electronic payments; and
+(b)  is not subject to Subsection 63J-2-202(2).

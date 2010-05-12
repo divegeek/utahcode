@@ -1,9 +1,10 @@
 3-1-2.   Definitions.
 As used in this act, unless the context or subject matter requires otherwise:
-(a)  "Agricultural products" includes floricultural, horticultural,
+(1)  "Agricultural products" includes floricultural, horticultural,
 viticultural, forestry, nut, seed, ground stock, dairy, livestock, poultry,
 bee and any and all farm products.
-(b)  "Association" means a corporation organized under this act, or a similar
+(2)  "Articles" means the articles of incorporation.
+(3)  "Association" means a corporation organized under this act, or a similar
 domestic corporation, or a foreign association or corporation if authorized to
 do business in this state, organized under any general or special act as a
 cooperative association for the mutual benefit of its members, as agricultural
@@ -11,22 +12,22 @@ producers, and which confines its operation to purposes authorized by this act
 and restricts the return on the stock or membership capital and the amount of
 its business with nonmembers to the limits placed thereon by this act for
 associations organized hereunder.
-(c)  "Domestic associations" means an association or corporation formed under
+(4)  "Board" means the board of directors.
+(5)  "Domestic associations" means an association or corporation formed under
 the laws of this state.
-(d)  "Foreign association" means an association or corporation not formed
+(6)  "Foreign association" means an association or corporation not formed
 under the laws of this state.
-(e)  "This act" means the "Uniform Agricultural Cooperative Association Act."
-(f)  Associations shall be classified as and deemed to be nonprofit
+(7)  "Member" includes the holder of a membership of which there shall be but
+one class, in an association without stock and the holder of common stock in
+an association organized with stock.
+(8)  "Person" includes an individual, a partnership, a corporation and an
+association.
+(9)  "Producer" means a person who produces agricultural products, or an
+association of such persons.
+(10) (a)  "This act" means the "Uniform Agricultural Cooperative Association
+Act."
+(b)  Associations shall be classified as and deemed to be nonprofit
 corporations, inasmuch as their primary object is not to pay dividends on
 invested capital, but to render service and provide means and facilities by or
 through which the producers of agricultural products may receive a reasonable
 and fair return for their products.
-(g)  "Member" includes the holder of a membership of which there shall be but
-one class, in an association without stock and the holder of common stock in
-an association organized with stock.
-(h)  "Producer" means a person who produces agricultural products, or an
-association of such persons.
-(i)  "Person" includes an individual, a partnership, a corporation and an
-association.
-(j)  "Board" means the board of directors.
-(k)  "Articles" means the articles of incorporation.

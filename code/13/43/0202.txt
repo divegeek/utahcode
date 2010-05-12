@@ -34,23 +34,16 @@ rules for the organization and operation of the board.
 board's business.
 (c)  The affirmative vote of five members is required to constitute the
 decision of the board on any matter.
-(6) (a)  No member may receive compensation or benefits for the member's
-service on the board.
-(b) (i)  A member who is not a government officer or employee may be
-reimbursed for reasonable expenses incurred in the performance of the member's
-official duties at the rates established by the Division of Finance under
-Sections 63A-3-106 and 63A-3-107.
-(ii)  A member who is a government officer or employee and who does not
-receive expenses from the member's agency may be reimbursed for reasonable
-expenses incurred in the performance of the member's official duties at the
-rates established by the Division of Finance under Sections 63A-3-106 and
+(6)  A member may not receive compensation or benefits for the member's
+service, but may receive per diem and travel expenses in accordance with:
+(a)  Section 63A-3-106;
+(b)  Section 63A-3-107; and
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and
 63A-3-107.
-(c)  A member may decline to be reimbursed for reasonable expenses incurred in
-the performance of the member's official duties.
-(d)  A member need not give a bond for the performance of official duties.
-(7)  The Office of the Property Rights Ombudsman shall provide staff to the
+(7)  A member need not give a bond for the performance of official duties.
+(8)  The Office of the Property Rights Ombudsman shall provide staff to the
 board.
-(8)  The board shall:
+(9)  The board shall:
 (a)  receive reports from the Office of the Property Rights Ombudsman that are
 requested by the board;
 (b)  establish rules of conduct and performance for the Office of the Property
@@ -58,11 +51,11 @@ Rights Ombudsman;
 (c)  receive donations or contributions from any source for the Office of the
 Property Rights Ombudsman's benefit;
 (d)  subject to any restriction placed on a donation or contribution received
-under Subsection (8)(c), authorize the expenditure of donations or
+under Subsection (9)(c), authorize the expenditure of donations or
 contributions for the Office of the Property Rights Ombudsman's benefit;
 (e)  receive budget recommendations from the Office of the Property Rights
 Ombudsman; and
-(f)  revise budget recommendations received under Subsection (8)(e).
-(9)  The board shall maintain a resource list of qualified arbitrators and
+(f)  revise budget recommendations received under Subsection (9)(e).
+(10)  The board shall maintain a resource list of qualified arbitrators and
 mediators who may be appointed under Section 13-43-204 and qualified persons
 who may be appointed to render advisory opinions under Section 13-43-205.

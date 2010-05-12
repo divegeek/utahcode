@@ -173,17 +173,17 @@ selling a type of tangible personal property or product transferred
 electronically;
 (14) (a)  except as provided in Subsection (14)(b), amounts paid or charged on
 or after July 1, 2006, for a purchase or lease by a manufacturing facility
-except for a cogeneration facility, for the following:
+except for a cogeneration facility, of the following:
 (i)  machinery and equipment that:
 (A)  are used:
 (I)  for a manufacturing facility except for a manufacturing facility that is
-a scrap recycler described in Subsection 59-12-102(52)(b):
+a scrap recycler described in Subsection 59-12-102(54)(b):
 (Aa)  in the manufacturing process;
 (Bb)  to manufacture an item sold as tangible personal property; and
 (Cc)  beginning on July 1, 2009, in a manufacturing facility described in this
 Subsection (14)(a)(i)(A)(I) in the state; or
 (II)  for a manufacturing facility that is a scrap recycler described in
-Subsection 59-12-102(52)(b):
+Subsection 59-12-102(54)(b):
 (Aa)  to process an item sold as tangible personal property; and
 (Bb)  beginning on July 1, 2009, in a manufacturing facility described in this
 Subsection (14)(a)(i)(A)(II) in the state; and
@@ -192,18 +192,18 @@ Subsection (14)(a)(i)(A)(II) in the state; and
 (A)  have an economic life of three or more years; and
 (B)  are used:
 (I)  for a manufacturing facility except for a manufacturing facility that is
-a scrap recycler described in Subsection 59-12-102(52)(b):
+a scrap recycler described in Subsection 59-12-102(54)(b):
 (Aa)  in the manufacturing process; and
 (Bb)  in a manufacturing facility described in this Subsection
 (14)(a)(ii)(B)(I) in the state; or
 (II)  for a manufacturing facility that is a scrap recycler described in
-Subsection 59-12-102(52)(b):
+Subsection 59-12-102(54)(b):
 (Aa)  to process an item sold as tangible personal property; and
 (Bb)  in a manufacturing facility described in this Subsection
 (14)(a)(ii)(B)(II) in the state;
 (b)  amounts paid or charged on or after July 1, 2005, for a purchase or lease
 by a manufacturing facility that is a cogeneration facility placed in service
-on or after May 1, 2006, for the following:
+on or after May 1, 2006, of the following:
 (i)  machinery and equipment that:
 (A)  are used:
 (I)  in the manufacturing process;
@@ -223,7 +223,7 @@ Oil and Gas), or NAICS Code 213113, Support Activities for Coal Mining,
 213114, Support Activities for Metal Mining, or 213115, Support Activities for
 Nonmetallic Minerals (except Fuels) Mining, of the 2002 North American
 Industry Classification System of the federal Executive Office of the
-President, Office of Management and Budget:
+President, Office of Management and Budget, of the following:
 (i)  machinery and equipment that:
 (A)  are used:
 (I) (Aa)  in the production process, other than the production of real
@@ -240,14 +240,42 @@ and
 (Bb)  an establishment described in this Subsection (14)(c) in the state; or
 (II) (Aa)  research and development; and
 (Bb)  in an establishment described in this Subsection (14)(c) in the state;
-(d)  for purposes of this Subsection (14) and in accordance with Title 63G,
+(d) (i)  amounts paid or charged for a purchase or lease made on or after July
+1, 2010, but on or before June 30, 2014, by an establishment described in
+NAICS Code 518112, Web Search Portals, of the 2002 North American Industry
+Classification System of the federal Executive Office of the President, Office
+of Management and Budget, of the following:
+(A)  machinery and equipment that:
+(I)  are used in the operation of the web search portal;
+(II)  have an economic life of three or more years; and
+(III)  are used in a new or expanding establishment described in this
+Subsection (14)(d) in the state; and
+(B)  normal operating repair or replacement parts that:
+(I)  are used in the operation of the web search portal;
+(II)  have an economic life of three or more years; and
+(III)  are used in a new or expanding establishment described in this
+Subsection (14)(d) in the state; or
+(ii)  amounts paid or charged for a purchase or lease made on or after July 1,
+2014, by an establishment described in NAICS Code 518112, Web Search Portals,
+of the 2002 North American Industry Classification System of the federal
+Executive Office of the President, Office of Management and Budget, of the
+following:
+(A)  machinery and equipment that:
+(I)  are used in the operation of the web search portal; and
+(II)  have an economic life of three or more years; and
+(B)  normal operating repair or replacement parts that:
+(I)  are used in the operation of the web search portal; and
+(II)  have an economic life of three or more years;
+(e)  for purposes of this Subsection (14) and in accordance with Title 63G,
 Chapter 3, Utah Administrative Rulemaking Act, the commission:
 (i)  shall by rule define the term "establishment"; and
 (ii)  may by rule define what constitutes:
 (A)  processing an item sold as tangible personal property;
-(B)  the production process, except for the production of real property; or
-(C)  research and development; and
-(e)  on or before October 1, 2011, and every five years after October 1, 2011,
+(B)  the production process, except for the production of real property;
+(C)  research and development; or
+(D)  a new or expanding establishment described in Subsection (14)(d) in the
+state; and
+(f)  on or before October 1, 2011, and every five years after October 1, 2011,
 the commission shall:
 (i)  review the exemptions described in this Subsection (14) and make
 recommendations to the Revenue and Taxation Interim Committee concerning
@@ -777,6 +805,19 @@ Section 59-2-102 is headquartered; and
 (A)  owned or operated by the new airport described in Subsection (67)(b);
 (B)  located at the new airport described in Subsection (67)(b); and
 (C)  as part of the construction of the new airport described in Subsection
-(67)(b); and
+(67)(b);
 (68)  sales of fuel to a common carrier that is a railroad for use in a
-locomotive engine.
+locomotive engine;
+(69)  purchases and sales described in Section 9-3-511; and
+(70) (a)  sales of tangible personal property to an aircraft maintenance,
+repair, and overhaul provider for use in the maintenance, repair, overhaul, or
+refurbishment in this state of a fixed wing turbine powered aircraft if that
+fixed wing turbine powered aircraft's registration lists a state or country
+other than this state as the location of registry of the fixed wing turbine
+powered aircraft; or
+(b)  sales of tangible personal property by an aircraft maintenance, repair,
+and overhaul provider in connection with the maintenance, repair, overhaul, or
+refurbishment in this state of a fixed wing turbine powered aircraft if that
+fixed wing turbine powered aircraft's registration lists a state or country
+other than this state as the location of registry of the fixed wing turbine
+powered aircraft.

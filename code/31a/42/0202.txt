@@ -1,9 +1,14 @@
 31A-42-202.   Contents of plan.
 (1)  The board shall submit a plan of operation for the risk adjuster to the
 commissioner.  The plan shall:
-(a)  establish the methodology for implementing Subsection (2) for the defined
-contribution arrangement market established under Chapter 30, Part 2, Defined
-Contribution Arrangements;
+(a)  establish the methodology for implementing:
+(i)  Subsection (2) for the defined contribution arrangement market
+established under Chapter 30, Part 2, Defined Contribution Arrangements; and
+(ii)  the participation of:
+(A)  small employer group defined contribution arrangement health benefit
+plans; and
+(B)  large employer group defined contribution arrangement health benefit
+plans;
 (b)  establish regular times and places for meetings of the board;
 (c)  establish procedures for keeping records of all financial transactions
 and for sending annual fiscal reports to the commissioner;
@@ -29,13 +34,14 @@ on:
 (ii)  the identification of a group risk factor to be applied to the initial
 age rate of a qualified individual based on the health conditions of all
 qualified individuals in the same employer group and, for small employers, in
-accordance with Sections 31A-30-105 and 31A-30-106.
+accordance with Sections 31A-30-105 and 31A-30-106.1.
 (c)  The plan adopted under Subsection (2)(a) shall outline how:
 (i)  premium contributions for qualified individuals shall be submitted to the
-Internet portal in the amount determined under Subsection (2)(b); and
-(ii)  the Internet portal shall distribute premiums to the insurers selected
-by qualified individuals within an employer group based on each individual's
-health risk factor determined in accordance with the plan.
+Health Insurance Exchange in the amount determined under Subsection (2)(b);
+and
+(ii)  the Health Insurance Exchange shall distribute premiums to the insurers
+selected by qualified individuals within an employer group based on each
+individual's rating factor determined in accordance with the plan.
 (d)  The plan adopted under Subsection (2)(a) shall outline a mechanism for
 adjusting risk between insurers that:
 (i)  identifies health care conditions subject to risk adjustment;
@@ -45,6 +51,44 @@ condition;
 with an identified health condition than would be expected; and
 (iv)  computes all risk adjustments.
 (e)  The board may amend the plan if necessary to:
-(i)  maintain the solvency of the defined contribution market;
-(ii)  mitigate significant issues of risk selection; or
-(iii)  improve the administration of the risk adjuster mechanism.
+(i)  incorporate large group defined contribution arrangement health benefit
+plans into the defined contribution arrangement market risk adjuster mechanism
+created by this chapter;
+(ii)  maintain the proper functioning and solvency of the defined contribution
+arrangement market and the risk adjuster mechanism;
+(iii)  mitigate significant issues of risk selection; or
+(iv)  improve the administration of the risk adjuster mechanism including
+opening enrollment periodically until January 1, 2011, for the purpose of
+testing the enrollment and risk adjusting process.
+(3) (a)  The board shall establish a mechanism in which the participating
+carriers shall submit their plan base rates, rating factors, and premiums to
+an independent actuary, appointed by the board, for review prior to the
+publication of the premium rates on the Health Insurance Exchange.
+(b)  The actuary appointed by the board shall:
+(i)  be compensated for the analysis under this section from fees established
+in accordance with Section 63J-1-504:
+(A)  assessed by the board; and
+(B)  paid by all small employer carriers participating in the defined
+contribution arrangement market and small employer carriers offering health
+benefit plans under Chapter 30, Part 1, Individual and Small Employer Group;
+and
+(ii)  review the information submitted:
+(A)  under Subsection (3)(a) for the purpose of verifying the validity of the
+rates, rating factors, and premiums; and
+(B)  from carriers offering health benefit plans under Chapter 30, Part 1,
+Individual and Small Employer Group:
+(I)  for the purpose of verifying underwriting and rating practices; and
+(II)  as the actuary determines is necessary.
+(c)  Fees collected under Subsection (3)(b) shall be used to pay the actuary
+for the purpose of overseeing market conduct.
+(d)  The actuary shall:
+(i)  report aggregate data to the risk adjuster board;
+(ii)  contact carriers:
+(A)  to inform a carrier of the actuary's findings regarding the particular
+carrier; and
+(B)  to request a carrier to re-calculate or verify base rates, rating
+factors, and premiums; and
+(iii)  share the actuary's analysis and data with the department for the
+purposes described in Section 31A-30-106.1.
+(e)  A carrier shall re-submit premium rates if the department contacts the
+carrier under Subsection (3).

@@ -183,9 +183,17 @@ Reinsurance Intermediaries;
 Insurance Holding Companies.
 (b)  "Stock corporation" means a stock insurance corporation.
 (c)  "Mutual" or "mutual corporation" means a mutual insurance corporation.
-(33)  "Creditable coverage" has the same meaning as provided in federal
+(33) (a)  "Creditable coverage" has the same meaning as provided in federal
 regulations adopted pursuant to the Health Insurance Portability and
 Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936.
+(b)  "Creditable coverage" includes coverage that is offered through a public
+health plan such as:
+(i)  the Primary Care Network Program under a Medicaid primary care network
+demonstration waiver obtained subject to Section 26-18-3;
+(ii)  the Children's Health Insurance Program under Section 26-40-106; or
+(iii)  the Ryan White Program Comprehensive AIDS Resources Emergency Act, Pub.
+L. 101-381, and Ryan White HIV/AIDS Treatment Modernization Act of 2006, Pub.
+L. 109-415.
 (34)  "Credit accident and health insurance" means insurance on a debtor to
 provide indemnity for payments coming due on a specific loan or other credit
 transaction while the debtor is disabled.
@@ -533,9 +541,10 @@ including:
 (i)  solicitation;
 (ii)  negotiation preliminary to execution;
 (iii)  execution of a contract of title insurance;
-(iv)  insuring; and
+(iv)  insuring;
 (v)  transacting matters subsequent to the execution of the contract and
 arising out of the contract, including reinsurance; and
+(vi)  transacting or proposing a life settlement; and
 (h)  doing, or proposing to do, any business in substance equivalent to
 Subsections (85)(a) through (g) in a manner designed to evade this title.
 (86)  "Insurance consultant" or "consultant" means a person who:
@@ -792,7 +801,7 @@ insurer.
 (117)  "Ocean marine insurance" means insurance against loss of or damage to:
 (a)  ships or hulls of ships;
 (b)  goods, freight, cargoes, merchandise, effects, disbursements, profits,
-moneys, securities, choses in action, evidences of debt, valuable papers,
+money, securities, choses in action, evidences of debt, valuable papers,
 bottomry, respondentia interests, or other cargoes in or awaiting transit over
 the oceans or inland waterways;
 (c)  earnings such as freight, passage money, commissions, or profits derived
@@ -847,7 +856,7 @@ yearly basis; or
 (B) (I)  the plan is not insured; or
 (II)  the insurance policy is not renewed on an annual basis; or
 (c)  in a case not described in Subsection (125)(a) or (b), the calendar year.
-(126) (a)  "Policy" means a document, including any attached endorsement or
+(126) (a)  "Policy" means a document, including an attached endorsement or
 application that:
 (i)  purports to be an enforceable contract; and
 (ii)  memorializes in writing some or all of the terms of an insurance
@@ -1059,7 +1068,7 @@ and
 (b)  employs at least two employees on the first day of the plan year.
 (155)  "Special enrollment period," in connection with a health benefit plan,
 has the same meaning as provided in federal regulations adopted pursuant to
-the Health Insurance Portability and Accountability Act of 1996, Pub. L. No.
+the Health Insurance Portability and Accountability Act of 1996, Pub. L.
 104-191, 110 Stat. 1936.
 (156) (a)  "Subsidiary" of a person means an affiliate controlled by that
 person either directly or indirectly through one or more affiliates or

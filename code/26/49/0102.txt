@@ -15,8 +15,8 @@ Subsection (2)(a) under a disaster response and recovery plan adopted by:
 (ii)  the Department of Health; or
 (iii)  a local health department.
 (3)  "Emergency" means a "state of emergency" as defined in Section 63K-4-103.
-(4)  "Emergency declaration" shall have the meaning provided for in Sections
-63K-4-203 and 63K-4-301.
+(4)  "Emergency declaration" means a declaration made in accordance with
+Section 63K-4-203 or 63K-4-301.
 (5)  "Emergency Management Assistance Compact" means the interstate compact
 approved by Congress by Public Law No. 104-321, 110 Stat. 3877 and adopted by
 Utah in Title 53, Chapter 2, Part 2, Emergency Management Assistance Compact.

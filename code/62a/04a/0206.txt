@@ -23,22 +23,28 @@ within the preference period described in Subsection 78A-6-307(18)(a); or
 (iv)  placing an Indian child in accordance with preplacement preferences and
 other requirements described in the Indian Child Welfare Act, 25 U.S.C. Sec.
 1915.
-(2) (a) The division shall maintain and utilize due process procedures for
+(2) (a)  The division shall maintain and utilize due process procedures for
 removal of a foster child from a foster home, in accordance with the
 procedures and requirements of Title 63G, Chapter 4, Administrative Procedures
 Act.
 (b)  Those procedures shall include requirements for:
-(i)  personal communication with and explanation to foster parents prior to
-removal of the child; and
+(i)  personal communication with, and a written explanation of the reasons for
+the removal to, the foster parents prior to removal of the child; and
 (ii)  an opportunity for foster parents to present their information and
-concerns to the division and to request a review by a third party neutral fact
-finder prior to removal of the child.
+concerns to the division and to:
+(A)  request a review, to be held before removal of the child, by a third
+party neutral fact finder; or
+(B)  if the child has been placed with the foster parents for a period of at
+least two years, request a review, to be held before removal of the child, by:
+(I)  the juvenile court judge currently assigned to the child's case; or
+(II)  if the juvenile court judge currently assigned to the child's case is
+not available, another juvenile court judge.
 (c)  If the division determines that there is a reasonable basis to believe
 that the child is in danger or that there is a substantial threat of danger to
 the health or welfare of the child, it shall place the child in emergency
 foster care during the pendency of the procedures described in this
 subsection, instead of making another foster care placement.
-(3) If the division removes a child from a foster home based upon the child's
+(3)  If the division removes a child from a foster home based upon the child's
 statement alone, the division shall initiate and expedite the processes
 described in Subsection (2).  The division may take no formal action with
 regard to that foster parent's license until after those processes, in
@@ -60,3 +66,9 @@ has been in their custody for 12 months or longer, in accordance with the
 limitations and requirements of Section 78A-6-318.
 (6)  The requirements of this section do not apply to the removal of a child
 based on a foster parent's request for that removal.
+(7)  It is unlawful for a person, with the intent to avoid compliance with the
+requirements of this section, to:
+(a)  take action, or encourage another to take action, against the license of
+a foster parent; or
+(b)  remove a child from a foster home before the child has been placed with
+the foster parents for two years.

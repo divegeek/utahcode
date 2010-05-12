@@ -20,8 +20,8 @@ publish notice of the hearing at the applicant's expense:
 (i)  in a newspaper of general circulation within the county where the
 applicant is located at least once a week for three successive weeks before
 the date of the hearing; and
-(ii)  as required in Section 45-1-101 for three weeks before the date of the
-hearing.
+(ii)  on the Utah Public Notice Website created in Section 63F-1-701, for
+three weeks before the date of the hearing.
 (b)  The notice required by Subsection (4)(a) shall include the information
 required by the department's rules.
 (c)  The commissioner shall act upon the request within 30 days after the
@@ -36,7 +36,7 @@ conclusions, and an order, and shall mail a copy of each to:
 (i)  the applicant;
 (ii)  all persons who have filed protests to the granting of the application;
 and
-(iii) other persons that the commissioner considers should receive copies.
+(iii)  other persons that the commissioner considers should receive copies.
 (6)  The commissioner may impose any conditions or limitations on the approval
 or disapproval of a request that the commissioner considers proper to:
 (a)  protect the interest of creditors, depositors, and other customers of an

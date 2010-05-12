@@ -1,6 +1,6 @@
 78A-6-113.   Placement of minor in detention or shelter facility -- Grounds
 -- Detention hearings -- Period of detention -- Notice -- Confinement for
-criminal proceedings -- Bail laws inapplicable, exception.
+criminal proceedings -- Bail laws inapplicable -- Exception.
 (1) (a)  A minor may not be placed or kept in a secure detention facility
 pending court proceedings unless it is unsafe for the public to leave the
 minor with the minor's parents, guardian, or custodian and the minor is
@@ -110,12 +110,12 @@ be under 18 years of age is received at the facility and shall make
 arrangements for the transfer of the person to a detention facility, unless
 otherwise ordered by the juvenile court.
 (10)  This section does not apply to a minor who is brought to the adult
-facility under charges pursuant to Section 78A-6-702 or by order of the
+facility under charges pursuant to Section 78A-6-701 or by order of the
 juvenile court to be held for criminal proceedings in the district court under
-Section 78A-6-703.
-(11)  A minor held for criminal proceedings under Section 78A-6-702 or
-78A-6-703 may be detained in a jail or other place of detention used for
-adults charged with crime.
+Section 78A-6-702 or 78A-6-703.
+(11)  A minor held for criminal proceedings under Section 78A-6-701,
+78A-6-702, or 78A-6-703 may be detained in a jail or other place of detention
+used for adults charged with crime.
 (12)  Provisions of law regarding bail are not applicable to minors detained
 or taken into custody under this chapter, except that bail may be allowed:
 (a)  if a minor who need not be detained lives outside this state; or

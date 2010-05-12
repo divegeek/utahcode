@@ -50,15 +50,36 @@ entity in the manner provided for in Section 63G-7-401.
 (11)  An advisory opinion issued by the Office of the Property Rights
 Ombudsman is not binding on any party to, nor admissible as evidence in, a
 dispute involving land use law except as provided in Subsection (12).
-(12) (a)  If the same issue that is the subject of an advisory opinion is
-listed as a cause of action in litigation, and that cause of action is
-litigated on the same facts and circumstances and is resolved consistent with
-the advisory opinion, the substantially prevailing party on that cause of
-action may collect reasonable attorney fees and court costs pertaining to the
+(12) (a)  Subject to Subsection (12)(d), if the same issue that is the subject
+of an advisory opinion is listed as a cause of action in litigation, and that
+cause of action is litigated on the same facts and circumstances and is
+resolved consistent with the advisory opinion:
+(i)  the substantially prevailing party on that cause of action:
+(A)  may collect reasonable attorney fees and court costs pertaining to the
 development of that cause of action from the date of the delivery of the
-advisory opinion to the date of the court's resolution.
-(b)  Nothing in this Subsection (12) is intended to create any new cause of
+advisory opinion to the date of the court's resolution; and
+(B)  shall be refunded an impact fee held to be in violation of Title 11,
+Chapter 36, Impact Fees Act, based on the difference between the impact fee
+paid and what the impact fee should have been if the government entity had
+correctly calculated the impact fee; and
+(ii)  in accordance with Subsection (12)(b), a government entity shall refund
+an impact fee held to be in violation of Title 11, Chapter 36, Impact Fees
+Act, to the person who was in record title of the property on the day on which
+the impact fee for the property was paid if:
+(A)  the impact fee was paid on or after the day on which the advisory opinion
+on the impact fee was issued but before the day on which the final court
+ruling on the impact fee is issued; and
+(B)  the person described in Subsection (12)(a)(ii) requests the impact fee
+refund from the government entity within 30 days after the day on which the
+court issued the final ruling on the impact fee.
+(b)  A government entity subject to Subsection (12)(a)(ii) shall refund the
+impact fee based on the difference between the impact fee paid and what the
+impact fee should have been if the government entity had correctly calculated
+the impact fee.
+(c)  Nothing in this Subsection (12) is intended to create any new cause of
 action under land use law.
+(d)  Subsection (12)(a) does not apply unless the resolution described in
+Subsection (12)(a) is final.
 (13)  Unless filed by the local government, a request for an advisory opinion
 under Section 13-43-205 does not stay the progress of a land use application,
 or the effect of a land use decision.

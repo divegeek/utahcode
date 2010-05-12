@@ -23,8 +23,9 @@ provided as valid voter identification were inadequate and the poll worker
 recorded that fact in the official register; and
 (iii) (A)  the county clerk verifies the voter's identity and residence
 through some other means as reliable as photo identification; or
-(B)  the voter provides valid voter identification to the county clerk within
-five business days after the date of the election.
+(B)  the voter provides valid voter identification to the county clerk or an
+election officer who is administering the election by the close of normal
+office hours on Monday after the date of the election.
 (2) (a)  Upon receipt of provisional ballot envelopes, the election officer
 shall review the affirmation on the face of each provisional ballot envelope
 and determine if the person signing the affirmation is a registered voter and

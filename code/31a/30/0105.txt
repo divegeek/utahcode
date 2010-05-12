@@ -1,19 +1,35 @@
 31A-30-105.   Establishment of classes of business.
-(1)  A covered carrier may establish a separate class of business only to
-reflect substantial differences in either expected claims experience or
-administrative costs related to the following reasons:
-(a)  the covered carrier uses more than one type of system for the marketing
+(1)  For policies that go into effect on or after January 1, 2011, a covered
+carrier may not establish a separate class of business unless:
+(a)  the covered carrier submits an application to the department to establish
+a separate class of business;
+(b)  the covered carrier demonstrates to the satisfaction of the department
+that a separate class of business is justified under the provisions of this
+section; and
+(c)  the department approves the carrier's application for the use of a
+separate class of business.
+(2) (a)  The presumption of the department shall be against the use of a
+separate class of business by a covered insured, except when the covered
+carrier demonstrates that the provisions of this Subsection (2) apply.
+(b)  The department may approve the use of a separate class of business only
+if the covered carrier can demonstrate that the use of a separate class of
+business is necessary due to substantial differences in either expected claims
+experience or administrative costs related to the following reasons:
+(i)  the covered carrier uses more than one type of system for the marketing
 and sale of health benefit plans to covered insureds;
-(b)  the covered carrier has acquired a class of business from another covered
-carrier; or
-(c)  the covered carrier provides coverage to one or more association groups.
-(2)  A covered carrier may establish up to nine separate classes of business
-under Subsection (1).
+(ii)  the covered carrier has acquired a class of business from another
+covered carrier; or
+(iii)  the covered carrier provides coverage to one or more association
+groups.
 (3)  The commissioner may establish regulations to provide for a period of
 transition in order for a covered carrier to come into compliance with
 Subsection (2) in the instance of acquisition of an additional class of
 business from another covered carrier.
-(4)  The commissioner may approve the establishment of additional classes of
-business upon application to the commissioner and a finding by the
-commissioner that such action would substantially enhance the efficiency and
-fairness of the health insurance marketplace subject to this chapter.
+(4)  The commissioner may approve the establishment of up to five classes of
+business per covered carrier upon application to the commissioner and a
+finding by the commissioner that such action would substantially enhance the
+efficiency and fairness of the health insurance marketplace subject to this
+chapter.
+(5)  A covered carrier may not establish a class of business based solely on
+the marketing or sale of a health benefit plan as a defined contribution
+arrangement health benefit plan, or through the Health Insurance Exchange.

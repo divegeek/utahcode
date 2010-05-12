@@ -2,7 +2,7 @@
 (1)  If a proposed corporate action creating dissenters' rights under Section
 16-10a-1302 is submitted to a vote at a shareholders' meeting, a shareholder
 who wishes to assert dissenters' rights:
-(a)  must cause the corporation to receive, before the vote is taken, written
+(a) shall cause the corporation to receive, before the vote is taken, written
 notice of his intent to demand payment for shares if the proposed action is
 effectuated; and
 (b)  may not vote any of his shares in favor of the proposed action.
@@ -12,7 +12,7 @@ Section 16-10a-704, a shareholder who wishes to assert dissenters' rights may
 not execute a writing consenting to the proposed corporate action.
 (3)  In order to be entitled to payment for shares under this part, unless
 otherwise provided in the articles of incorporation, bylaws, or a resolution
-adopted by the board of directors, a shareholder must have been a shareholder
+adopted by the board of directors, a shareholder shall have been a shareholder
 with respect to the shares for which payment is demanded as of the date the
 proposed corporate action creating dissenters' rights under Section
 16-10a-1302 is approved by the shareholders, if shareholder approval is

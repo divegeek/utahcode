@@ -225,7 +225,7 @@ personal property under Section 59-2-1503.
 (20)  "Intangible property" means:
 (a)  property that is capable of private ownership separate from tangible
 property, including:
-(i)  moneys;
+(i)  money;
 (ii)  credits;
 (iii)  bonds;
 (iv)  stocks;
@@ -235,8 +235,16 @@ property, including:
 (viii)  trade names;
 (ix)  copyrights; and
 (x)  patents;
-(b)  a low-income housing tax credit; or
-(c)  goodwill.
+(b)  a low-income housing tax credit;
+(c)  goodwill; or
+(d)  a renewable energy tax credit or incentive, including:
+(i)  a federal renewable energy production tax credit under Section 45,
+Internal Revenue Code;
+(ii)  a federal energy credit for qualified renewable electricity production
+facilities under Section 48, Internal Revenue Code;
+(iii)  a federal grant for a renewable energy property under American Recovery
+and Reinvestment Act of 2009, Pub. L. No. 111-5, Section 1603; and
+(iv)  a tax credit under Subsection 59-7-614(2)(c).
 (21)  "Low-income housing tax credit" means:
 (a)  a federal low-income housing tax credit under Section 42, Internal
 Revenue Code; or

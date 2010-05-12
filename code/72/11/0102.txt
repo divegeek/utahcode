@@ -23,21 +23,30 @@ ropeway.
 (9)  "Operator" means a person, including any political subdivision or
 instrumentality of the political subdivision, who owns, manages, or directs
 the operation of a passenger ropeway.
-(10)  "Passenger ropeway"  means a device, excluding an elevator, used to
+(10) (a)  "Passenger ropeway"  means a device, excluding an elevator, used to
 transport passengers along a level, inclined or declined path by means of a
 haul rope or other flexible elements that is driven by a power unit that
-remains essentially at a single location.  Passenger ropeways include the
-following:
-(a)  an aerial tramway;
-(b)  an aerial lift, including a detachable grip lift and chair lift;
-(c)  a conveyor;
-(d)  a funicular;
-(e) a surface lift, including a J-bar, T-bar, or platter pull; and
-(f)  a  rope tow, including a wire rope and fiber rope tow.
-(11)  "Rope tow" means a ropeway on which passengers remain in contact with
+remains essentially at a single location.
+(b)  Passenger ropeways include the following:
+(i)  an aerial tramway;
+(ii)  an aerial lift, including a detachable grip lift and chair lift;
+(iii)  a conveyor;
+(iv)  a funicular;
+(v)  a surface lift, including a J-bar, T-bar, or platter pull; and
+(vi)  a  rope tow, including a wire rope and fiber rope tow.
+(11)  "Private residence passenger ropeway" means a passenger ropeway that:
+(a)  is installed at a private residence;
+(b)  is not accessible to the general public;
+(c)  is not used for commercial purposes; and
+(d) (i)  is owned by one single owner; and
+(ii)  the owner described in Subsection (11)(d)(i) is not:
+(A)  a unit or homeowner's association; or
+(B)  a planned unit development or a planned residential unit development
+organization or entity.
+(12)  "Rope tow" means a ropeway on which passengers remain in contact with
 the ground or snow surface and are pulled in one direction only by a towing
 device attached to a circulating wire rope.
-(12)  "Surface lift" means a ropeway on which passengers remain in contact
+(13)  "Surface lift" means a ropeway on which passengers remain in contact
 with the ground or snow surface and are pulled by a towing device attached to
 a circulating overhead wire rope, and includes a J-bar, T-bar, or platter
 pull.

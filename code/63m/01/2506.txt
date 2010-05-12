@@ -1,67 +1,97 @@
-63M-1-2506.    Health benefit plan information on Internet portal -- Insurer
-transparency.
+63M-1-2506.    Health benefit plan information on Health Insurance Exchange
+-- Insurer transparency.
 (1) (a)  The office shall adopt administrative rules in accordance with Title
 63G, Chapter 3, Utah Administrative Rulemaking Act, that:
 (i)  establish uniform electronic standards for:
 (A)  a health insurer to use when:
-(I)  transmitting information to the Internet portal; or
-(II)  receiving information from the Internet portal; and
+(I)  transmitting information to:
+(Aa)  the Insurance Department under Subsection 31A-22-613.5(2)(a)(ii); and
+(Bb)  the Health Insurance Exchange as required by this section;
+(II)  receiving information from the Health Insurance Exchange;
+(III)  receiving or transmitting the universal health application to or from
+the Health Insurance Exchange;
 (B)  facilitating the transmission and receipt of premium payments from
-multiple sources in the defined contribution arrangement market;
+multiple sources in the defined contribution arrangement market; and
+(C)  the use of the uniform health insurance application required by Section
+31A-22-635 on the Health Insurance Exchange;
 (ii)  designate the level of detail that would be helpful for a concise
-consumer comparison of the items described in Subsections (4)(a) through (d)
-on the Internet portal; and
+consumer comparison of the items described in Subsections (4) and (5) on the
+Health Insurance Exchange;
 (iii)  assist the risk adjuster board created under Title 31A, Chapter 42,
 Defined Contribution Risk Adjuster Act, and carriers participating in the
-defined contribution market on the Internet portal with the determination of
-when an employer is eligible to participate in the Internet portal defined
-contribution market under Title 31A, Chapter 30, Part 2, Defined Contribution
-Arrangements.
+defined contribution market on the Health Insurance Exchange with the
+determination of when an employer is eligible to participate in the Health
+Insurance Exchange under Title 31A, Chapter 30, Part 2, Defined Contribution
+Arrangements; and
+(iv)  create an advisory board to advise the exchange concerning the operation
+of the exchange and transparency issues with the following members:
+(A)  two health producers who are registered with the Health Insurance
+Exchange;
+(B)  two consumers;
+(C)  one representative from a large insurer who participates on the exchange;
+(D)  one representative from a small insurer who participates on the exchange;
+(E)  one representative from the Insurance Department; and
+(F)  one representative from the Department of Health.
 (b)  The office shall post or facilitate the posting of:
-(i)   the information required by this section on the Internet portal created
-by this part; and
+(i)   the information required by this section on the Health Insurance
+Exchange created by this part; and
 (ii)  links to websites that provide cost and quality information from the
 Department of Health Data Committee or neutral entities with a broad base of
 support from the provider and payer communities.
 (2)  A health insurer shall use the uniform electronic standards when
-transmitting information to the Internet portal or receiving information from
-the Internet portal.
-(3) (a)  An insurer who participates in the defined contribution arrangement
-market under Title 31A, Chapter 30, Part 2, Defined Contribution Arrangements,
-shall post all plans offered in that market on the Internet portal and shall
-comply with the provisions of this section.
-(b)  An insurer who offers products under Title 31A, Chapter 30, Part 1,
-Individual and Small Employer Group:
-(i)  shall post the basic benefit plan required by Section 31A-22-613.5 for
-individual and small employer group plans on the Internet portal if the
-insurer's plans are offered to the general public;
-(ii)  may publish any other health benefit plans that it offers on the
-Internet portal; and
-(iii)  shall comply with the provisions of this section for every health
-benefit plan it posts on the Internet portal.
-(4)  A health insurer shall provide the Internet portal with the following
-information for each health benefit plan submitted to the Internet portal:
+transmitting information to the Health Insurance Exchange or receiving
+information from the Health Insurance Exchange.
+(3) (a) (i)  An insurer who participates in the defined contribution
+arrangement market under Title 31A, Chapter 30, Part 2, Defined Contribution
+Arrangements, shall post all plans offered in the defined contribution
+arrangement market on the Health Insurance Exchange and shall comply with the
+provisions of this section.
+(ii)  Beginning January 1, 2013, an insurer who offers a health benefit plan
+to a small employer group in the state shall:
+(A)  post the health benefit plans in which the insurer is enrolling new
+groups on the Health Insurance Exchange; and
+(B)  comply with the provisions of this section.
+(b)  An insurer who offers individual health benefit plans under Title 31A,
+Chapter 30, Part 1, Individual and Small Employer Group:
+(i)  shall post on the Health Insurance Exchange the basic benefit plan
+required by Section 31A-22-613.5; and
+(ii)  may publish on the Health Insurance Exchange any other health benefit
+plans that it offers in the individual market.
+(c)  An insurer who posts a health benefit plan on the Health Insurance
+Exchange:
+(i)  shall comply with the provisions of this section for every health benefit
+plan it posts on the Health Insurance Exchange; and
+(ii)  may not offer products on the Health Insurance Exchange that are not
+health benefit plans.
+(4)  A health insurer shall provide the Health Insurance Exchange with the
+following information for each health benefit plan submitted to the Health
+Insurance Exchange:
 (a)  plan design, benefits, and options offered by the health benefit plan
 including state mandates the plan does not cover;
 (b)  provider networks;
-(c)  wellness programs and incentives;
-(d)  descriptions of prescription drug benefits, exclusions, or limitations;
-and
-(e)  at the same time as information is submitted under Subsection
-31A-30-208(2), the following operational measures for each health insurer that
-submits information to the Internet portal:
+(c)  wellness programs and incentives; and
+(d)  descriptions of prescription drug benefits, exclusions, or limitations.
+(5) (a)  An insurer offering any health benefit plan in the state shall submit
+the information described in Subsection (5)(b) to the Insurance Department in
+the electronic format required by Subsection (1).
+(b)  An insurer who offers a health benefit plan in the state shall submit to
+the Health Insurance Exchange the following operational measures:
 (i)  the percentage of claims paid by the insurer within 30 days of the date a
 claim is submitted to the insurer for the prior year; and
-(ii)  the number of adverse benefit determinations by the insurer which were
-subsequently overturned on independent review under Section 31A-22-629 as a
-percentage of total claims paid by the insurer for the prior year.
-(5)  The Insurance Department shall post on the Internet portal the Insurance
-Department's solvency rating for each insurer who posts a health benefit plan
-on the Internet portal.  The solvency rating for each carrier shall be based
-on methodology established by the Insurance Department by administrative rule
-and shall be updated each calendar year.
-(6)  The commissioner may request information from an insurer under Section
-31A-22-613.5 to verify the data submitted to the Internet portal under this
-section.
-(7)  A health insurer shall accept and process an application for a health
-benefit plan from the Internet portal in accordance with Section 31A-22-635.
+(ii)  for all health benefit plans offered by the insurer in the state, the
+claims denial and insurer transparency information developed in accordance
+with Subsection 31A-22-613.5(5).
+(c)  The Insurance Department shall forward to the Health Insurance Exchange
+the information submitted by an insurer in accordance with this section and
+Section 31A-22-613.5.
+(6)  The Insurance Department shall post on the Health Insurance Exchange the
+Insurance Department's solvency rating for each insurer who posts a health
+benefit plan on the Health Insurance Exchange.  The solvency rating for each
+carrier shall be based on methodology established by the Insurance Department
+by administrative rule and shall be updated each calendar year.
+(7)  The commissioner may request information from an insurer under Section
+31A-22-613.5 to verify the data submitted to the Insurance Department and to
+the Health Insurance Exchange under this section.
+(8)  A health insurer shall accept and process an application for a health
+benefit plan from the Health Insurance Exchange in accordance with this
+section and Section 31A-22-635.

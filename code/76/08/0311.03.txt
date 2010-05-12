@@ -14,13 +14,13 @@ criminal offenders;
 (iii)  any juvenile detention facility; and
 (iv)  any building or grounds appurtenant to the facility or lands granted to
 the state, municipality, or county for use as a correctional facility.
-(d)  "Medicine" means any prescription drug as defined in Title 58, Chapter
+(d)  "Electronic cigarette" is as defined in Section 76-10-101.
+(e)  "Medicine" means any prescription drug as defined in Title 58, Chapter
 17b, Pharmacy Practice Act, but does not include any controlled substances as
 defined in Title 58, Chapter 37, Utah Controlled Substances Act.
-(e)  "Mental health facility" has the same meaning as defined in Section
-62A-15-602.
-(f)  "Offender" means a person in custody at a correctional facility.
-(g)  "Secure area" has the same meaning as provided in Section 76-8-311.1.
+(f)  "Mental health facility" is as defined in Section 62A-15-602.
+(g)  "Offender" means a person in custody at a correctional facility.
+(h)  "Secure area" is as defined in Section 76-8-311.1.
 (2)  Notwithstanding Section 76-10-500, a correctional or mental health
 facility may provide by rule that no firearm, ammunition, dangerous weapon,
 implement of escape, explosive, controlled substance, spirituous or fermented
@@ -32,15 +32,15 @@ facility; or
 (d)  knowingly or intentionally possessed at a correctional or mental health
 facility.
 (3)  It is a defense to any prosecution under this section if the accused in
-committing the act made criminal by this section:
-(a)  with respect to a correctional facility operated by the Department of
-Corrections, acted in conformity with departmental rule or policy;
-(b)  with respect to a correctional facility operated by a municipality, acted
-in conformity with the policy of the municipality;
-(c)  with respect to a correctional facility operated by a county, acted in
-conformity with the policy of the county; or
-(d)  with respect to a mental health facility, acted in conformity with the
-policy of the mental health facility.
+committing the act made criminal by this section with respect to:
+(a)  a correctional facility operated by the Department of Corrections, acted
+in conformity with departmental rule or policy;
+(b)  a correctional facility operated by a municipality, acted in conformity
+with the policy of the municipality;
+(c)  a correctional facility operated by a county, acted in conformity with
+the policy of the county; or
+(d)  a mental health facility, acted in conformity with the policy of the
+mental health facility.
 (4) (a)  Any person who transports to or upon a correctional facility, or into
 a secure area of a mental health facility, any firearm, ammunition, dangerous
 weapon, or implement of escape with intent to provide or sell it to any
@@ -83,17 +83,17 @@ correctional facility or in a secure area of a mental health facility any:
 providers in compliance with facility policy; or
 (iii)  poison in any quantity.
 (d)  A person is guilty of a class A misdemeanor who, with the intent to
-directly or indirectly provide or sell any tobacco product to an offender,
-directly or indirectly:
-(i)  transports, delivers, or distributes any tobacco product to an offender
-or on the grounds of any correctional facility;
+directly or indirectly provide or sell any tobacco product or electronic
+cigarette to an offender, directly or indirectly:
+(i)  transports, delivers, or distributes any tobacco product or electronic
+cigarette to an offender or on the grounds of any correctional facility;
 (ii)  solicits, requests, commands, coerces, encourages, or intentionally aids
-another person to transport any tobacco product to an offender or on any
-correctional facility, if the person is acting with the mental state required
-for the commission of an offense; or
+another person to transport any tobacco product or electronic cigarette to an
+offender or on any correctional facility, if the person is acting with the
+mental state required for the commission of an offense; or
 (iii)  facilitates, arranges, or causes the transport of any tobacco product
-in violation of this section to an offender or on the grounds of any
-correctional facility.
+or electronic cigarette in violation of this section to an offender or on the
+grounds of any correctional facility.
 (e)  A person is guilty of a class A misdemeanor who, without the permission
 of the authority operating the correctional or mental health facility, fails
 to declare or knowingly possesses at a correctional facility or in a secure
@@ -105,7 +105,8 @@ area of a mental health facility any:
 of the authority operating the correctional facility, knowingly engages in any
 activity that would facilitate the possession of any contraband by an offender
 in a correctional facility.  The provisions of Subsection (5)(d) regarding any
-tobacco product take precedence over this Subsection (5)(f).
+tobacco product or electronic cigarette take precedence over this Subsection
+(5)(f).
 (g)  Exemptions may be granted for worship for Native American inmates
 pursuant to Section 64-13-40.
 (6)  The possession, distribution, or use of a controlled substance at a
@@ -114,5 +115,5 @@ prosecuted in accordance with Title 58, Chapter 37, Utah Controlled Substances
 Act.
 (7)  The department shall make rules under Title 63G, Chapter 3, Utah
 Administrative Rulemaking Act, to establish guidelines for providing written
-notice to visitors that providing any tobacco product to offenders is a class
-A misdemeanor.
+notice to visitors that providing any tobacco product or electronic cigarette
+to offenders is a class A misdemeanor.

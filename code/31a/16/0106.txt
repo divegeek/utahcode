@@ -60,10 +60,10 @@ threshold amount and thus to avoid the review by the commissioner that would
 occur otherwise.  If the commissioner determines that the separate
 transactions were entered into over any 12 month period for such a purpose, he
 may exercise his authority under Section 31A-16-110.
-(d)  The commissioner, in reviewing transactions pursuant to Subsection (b),
-shall consider whether the transactions comply with the standards set forth in
-Subsection (a) and whether they may adversely affect the interests of
-policyholders.
+(d)  The commissioner, in reviewing transactions pursuant to Subsection
+(1)(b), shall consider whether the transactions comply with the standards set
+forth in Subsection (1)(a) and whether they may adversely affect the interests
+of policyholders.
 (e)  The commissioner shall be notified within 30 days of any investment of
 the domestic insurer in any one corporation, if the total investment in the
 corporation by the insurance holding company system exceeds 10% of the

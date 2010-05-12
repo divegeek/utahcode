@@ -40,9 +40,9 @@ bodily injury or death, or is conduct which is or would be punishable under
 Title 76, Chapter 5, Offenses Against the Person, or as any offense chargeable
 as driving under the influence of alcohol or drugs.
 (b)  "Criminally injurious conduct" includes an act of terrorism, as defined
-in 18 U.S.C. 2331 committed outside of the United States against a resident of
-this state.  "Terrorism" does not include an "act of war" as defined in 18
-U.S.C. 2331.
+in 18 U.S.C. Sec. 2331 committed outside of the United States against a
+resident of this state.  "Terrorism" does not include an "act of war" as
+defined in 18 U.S.C. Sec. 2331.
 (10)  "Dependent" means a natural person to whom the victim is wholly or
 partially legally responsible for care or support and includes a child of the
 victim born after the victim's death.
@@ -103,30 +103,28 @@ reparations staff for the purpose of carrying out the provisions of this
 chapter.
 (28)  "Perpetrator" means the person who actually participated in the
 criminally injurious conduct.
-(29)  "Personal property" has the same definition as provided in Section
-68-3-12.
-(30)  "Reparations officer" means a person employed by the office to
+(29)  "Reparations officer" means a person employed by the office to
 investigate claims of victims and award reparations under this chapter, and
 includes the director when the director is acting as a reparations officer.
-(31)  "Reparations staff" means the director, the reparations officers, and
+(30)  "Reparations staff" means the director, the reparations officers, and
 any other staff employed to administer the Crime Victim Reparations Act.
-(32)  "Replacement service loss" means expenses reasonably and necessarily
+(31)  "Replacement service loss" means expenses reasonably and necessarily
 incurred in obtaining ordinary and necessary services in lieu of those the
 injured person would have performed, not for income but the benefit of the
 injured person or the injured person's dependents if the injured person had
 not been injured.
-(33)  "Representative" means the victim, immediate family member, legal
+(32)  "Representative" means the victim, immediate family member, legal
 guardian, attorney, conservator, executor, or an heir of a person but does not
 include service providers.
-(34)  "Restitution" means money or services an appropriate authority orders an
+(33)  "Restitution" means money or services an appropriate authority orders an
 offender to pay or render to a victim of the offender's conduct.
-(35)  "Secondary victim" means a person who is traumatically affected by the
+(34)  "Secondary victim" means a person who is traumatically affected by the
 criminally injurious conduct subject to rules promulgated by the board
 pursuant to Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
-(36)  "Service provider" means a person or agency who provides a service to
+(35)  "Service provider" means a person or agency who provides a service to
 crime victims for a monetary fee except attorneys as provided in Section
 63M-7-524.
-(37) (a)  "Victim" means a person who suffers bodily or psychological injury
+(36) (a)  "Victim" means a person who suffers bodily or psychological injury
 or death as a direct result of criminally injurious conduct or of the
 production of pornography in violation of Sections 76-5a-1 through 76-5a-4 if
 the person is a minor.
@@ -136,7 +134,7 @@ or rule.
 (c)  "Victim" includes a resident of this state who is injured or killed by an
 act of terrorism, as defined in 18 U.S.C. 2331, committed outside of the
 United States.
-(38)  "Work loss" means loss of income from work the injured victim would have
+(37)  "Work loss" means loss of income from work the injured victim would have
 performed if the injured victim had not been injured and expenses reasonably
 incurred by the injured victim in obtaining services in lieu of those the
 injured victim would have performed for income, reduced by any income from

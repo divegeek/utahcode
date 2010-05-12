@@ -12,8 +12,12 @@ residents and are at least 18 years old; and
 who is not at least 18 years old to the attorney general and county attorney.
 (3)  No later than 55 days after the end of the legislative session at which
 the law passed, the county clerk shall:
-(a) determine whether or not each signer is a registered voter according to
+(a)  determine whether or not each signer is a registered voter according to
 the requirements of Section 20A-7-306.3;
 (b)  certify on the referendum petition whether or not each name is that of a
 registered voter; and
 (c)  deliver all of the referendum packets to the lieutenant governor.
+(4)  Upon receipt of a referendum packet under Subsection (3) and any
+statement submitted under Subsection 20A-7-305(3), the lieutenant governor
+shall remove from the referendum petition a voter's signature if the voter has
+requested the removal in accordance with Subsection 20A-7-305(3).

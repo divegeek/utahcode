@@ -7,24 +7,24 @@ the plan of merger to its shareholders for approval, except as provided in:
 (b)  Section 16-10a-1104; or
 (c)  the plan of share exchange.
 (2)  For a plan of merger or share exchange to be approved:
-(a)  the board of directors must recommend the plan of merger or share
+(a)  the board of directors shall recommend the plan of merger or share
 exchange to the shareholders, unless the board of directors determines that
 because of conflict of interest or other special circumstances it should make
 no recommendation and communicates the basis for its determination to the
 shareholders with the plan; and
 (b)  the shareholders entitled to vote on the plan of merger or share exchange
-must approve the plan as provided in Subsection (5).
+shall approve the plan as provided in Subsection (5).
 (3)  The board of directors may condition its submission of the proposed
 merger or share exchange on any basis.
 (4)  The corporation shall give notice of the shareholders' meeting in
 accordance with Section 16-10a-705 to each shareholder entitled to vote on the
-plan of merger or share exchange. The notice must state that one of the
+plan of merger or share exchange.  The notice shall state that one of the
 purposes of the meeting is to consider the plan of merger or share exchange
 and contain or be accompanied by a copy or summary of the plan.
 (5)  Unless this chapter, the articles of incorporation, the initial bylaws,
 the amended bylaws, or the board of directors acting pursuant to Subsection
 (3) requires a greater vote, the plan of merger or share exchange to be
-authorized must be approved by each voting group entitled to vote separately
+authorized shall be approved by each voting group entitled to vote separately
 on the plan by a majority of all the votes entitled to be cast on the plan by
 that voting group.
 (6)  Separate voting by voting groups is required on a plan of:
@@ -71,5 +71,5 @@ specifying a delayed effective date, the merger or share exchange may be
 prevented from becoming effective by delivering to the division for filing
 prior to the specified effective time and date a statement of abandonment
 stating that by appropriate corporate action the merger or share exchange has
-been abandoned. The statement of abandonment shall be executed in the same
+been abandoned.  The statement of abandonment shall be executed in the same
 manner as the articles of merger or share exchange.

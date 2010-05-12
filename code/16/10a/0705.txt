@@ -7,21 +7,20 @@ give notice only to shareholders entitled to vote at the meeting.
 (2)  Unless this chapter or the articles of incorporation require otherwise,
 notice of an annual meeting need not include a description of the purpose or
 purposes for which the meeting is called.
-(3)  Notice of a special meeting must include a description of the purpose or
+(3)  Notice of a special meeting shall include a description of the purpose or
 purposes for which the meeting is called.
-(4) (a)  Subject to Subsection (b), unless the bylaws require otherwise, if an
-annual or special shareholders' meeting is adjourned to a different date,
+(4) (a)  Subject to Subsection (4)(b), unless the bylaws require otherwise, if
+an annual or special shareholders' meeting is adjourned to a different date,
 time, or place, notice need not be given of the new date, time, or place if
 the new date, time, or place is announced at the meeting before adjournment.
 (b)  If the adjournment is for more than 30 days, or if after the adjournment
-a new record date for the adjourned meeting is or must be fixed under Section
-16-10a-707, notice of the adjourned meeting must be given pursuant to the
+a new record date for the adjourned meeting is or shall be fixed under Section
+16-10a-707, notice of the adjourned meeting shall be given pursuant to the
 requirements of this section to shareholders of record who are entitled to
 vote at the meeting.
 (5) (a)  Notwithstanding a requirement that notice be given under any
 provision of this chapter, the articles of incorporation, or bylaws of any
-corporation, notice shall not be required to be given to any shareholder to
-whom:
+corporation, notice is not required to be given to any shareholder to whom:
 (i)  a notice of two consecutive annual meetings, and all notices of meetings
 or of the taking of action by written consent without a meeting during the
 period between the two consecutive annual meetings, have been mailed,
@@ -40,4 +39,4 @@ otherwise made known to the corporation, the requirement that notice be given
 to the shareholder is reinstated. In the event that the action taken by the
 corporation requires the filing of a certificate under any provision of this
 chapter, the certificate need not state that notice was not given to
-shareholders to whom notice was not required pursuant to this subsection.
+shareholders to whom notice was not required pursuant to this Subsection (5).

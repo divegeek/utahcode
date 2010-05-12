@@ -5,11 +5,11 @@ Office of Consumer Health Services.
 (a)  in cooperation with the Insurance Department, the Department of Health,
 and the Department of Workforce Services, and in accordance with the
 electronic standards developed under Sections 31A-22-635 and 63M-1-2506,
-create an Internet portal that:
+create a Health Insurance Exchange that:
 (i)  is capable of providing access to private and government health insurance
 websites and their electronic application forms and submission procedures;
 (ii)  provides a consumer comparison of and enrollment in a health benefit
-plan posted on the Internet portal by an insurer for the:
+plan posted on the Health Insurance Exchange by an insurer for the:
 (A)  small employer group market;
 (B)  the individual market; and
 (C)  the defined contribution arrangement market; and
@@ -26,10 +26,15 @@ mechanisms for the purchase of health insurance by employees using pre-tax
 dollars;
 (d)  periodically convene health care providers, payers, and consumers to
 monitor the progress being made regarding demonstration projects for health
-care delivery and payment reform; and
-(e)  report to the Business and Labor Interim Committee and the Health Reform
-Task Force prior to November 1, 2009 and November 1, 2010 regarding:
-(i)  the operations of the Internet portal required by this chapter; and
+care delivery and payment reform;
+(e)  establish a list on the Health Insurance Exchange of insurance producers
+who, in accordance with Section 31A-30-209, are appointed producers for the
+defined contribution arrangement market on the Health Insurance Exchange; and
+(f)  report to the Business and Labor Interim Committee and the Health System
+Reform Task Force prior to November 1, 2010, and prior to the Legislative
+interim day in November of each year thereafter regarding:
+(i)  the operations of the Health Insurance Exchange required by this chapter;
+and
 (ii)  the progress of the demonstration projects for health care payment and
 delivery reform.
 (3)  The office:

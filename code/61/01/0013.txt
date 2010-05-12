@@ -54,12 +54,12 @@ three or fewer limited partnerships, of which the person is the general
 partner, in any period of 12 consecutive months;
 (F)  a person whose participation in transactions in securities is confined to
 those transactions made by or through a broker-dealer licensed in this state;
-(G)  a person who is a real estate broker licensed in this state and who
-effects transactions in a bond or other evidence of indebtedness secured by a
-real or chattel mortgage or deed of trust, or by an agreement for the sale of
-real estate or chattels, if the entire mortgage, deed or trust, or agreement,
-together with all the bonds or other evidences of indebtedness secured
-thereby, is offered and sold as a unit;
+(G)  a person who is a principal broker or associate broker licensed in this
+state and who effects transactions in a bond or other evidence of indebtedness
+secured by a real or chattel mortgage or deed of trust, or by an agreement for
+the sale of real estate or chattels, if the entire mortgage, deed of trust, or
+agreement, together with all the bonds or other evidences of indebtedness
+secured thereby, is offered and sold as a unit;
 (H)  a person effecting transactions in commodity contracts or commodity
 options;
 (I)  a person described in Subsection (3); or
@@ -143,7 +143,7 @@ promulgates analyses or reports concerning securities.
 (A)  as an integral component of other financially related services, provides
 the investment advisory services described in Subsection (1)(q)(i) to others
 for compensation and as part of a business; or
-(B) holds the person out as providing the investment advisory services
+(B)  holds the person out as providing the investment advisory services
 described in Subsection (1)(q)(i) to others for compensation.
 (iii)  "Investment adviser" does not include:
 (A)  an investment adviser representative;
@@ -347,7 +347,7 @@ of the proceeds earned from the real property estate or the use or pledge of
 its assets to a person or entity affiliated with or under common control of
 the manager; and
 (Cc)  the management agreement complies with any other requirement imposed by
-rule by the Real Estate Commission under Section 61-2-26.
+rule by the Real Estate Commission under Section 61-2f-103.
         (iii)  For purposes of Subsection (1)(ee)(ii)(B), evidence that
 members vote or have the right to vote, or the right to information concerning
 the business and affairs of the limited liability company, or the right to
@@ -384,10 +384,10 @@ is the offer of a security.
 with the offer or sale as provided in this Subsection (3) of a real property
 estate is not an agent, broker-dealer, investment adviser, or investment
 adviser representative under this chapter if that person is licensed under
-Chapter 2, Division of Real Estate, as:
-(i)  a principal real estate broker;
-(ii)  an associate real estate broker; or
-(iii)  a real estate sales agent.
+Chapter 2f, Real Estate Licensing and Practices Act, as:
+(i)  a principal broker;
+(ii)  an associate broker; or
+(iii)  a sales agent.
 (4)  The list of real property estates excluded from the definition of
 securities under Subsection (1)(ee)(ii)(C) is not an exclusive list of real
 property estates or interests that are not a security.

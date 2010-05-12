@@ -1,4 +1,4 @@
-53A-1-301.   Appointment -- Qualifications -- Duties.
+53A-1-301 (Superseded 10/01/10).   Appointment -- Qualifications -- Duties.
 (1) (a)  The State Board of Education shall appoint a superintendent of public
 instruction, hereinafter called the state superintendent, who is the executive
 officer of the board and serves at the pleasure of the board.
@@ -44,12 +44,12 @@ considered desirable for specific programs;
 (iii)  a complete statement of revenues by fund and source;
 (iv)  a complete statement of adjusted expenditures by fund, the status of
 bonded indebtedness, the cost of new school plants, and school levies;
-(v)  a complete statement of state funds allocated to each of the state's 40
-school districts by source, including supplemental appropriations, and a
-complete statement of expenditures by each district, including supplemental
-appropriations, by function and object as outlined in the U.S. Department of
-Education publication "Financial Accounting for Local and State School
-Systems";
+(v)  a complete statement of state funds allocated to each school district and
+charter school by source, including supplemental appropriations, and a
+complete statement of expenditures by each school district and charter school,
+including supplemental appropriations, by function and object as outlined in
+the U.S. Department of Education publication "Financial Accounting for Local
+and State School Systems";
 (vi)  a complete statement, by school district and charter school, of the
 amount of and percentage increase or decrease in expenditures from the
 previous year attributed to:
@@ -57,9 +57,10 @@ previous year attributed to:
 identified separately from step and lane expenditures;
 (B)  medical and dental premium cost adjustments; and
 (C)  adjustments in the number of teachers and other staff;
-(vii)  a statement that includes fall enrollments, average membership, high
-school graduates, licensed and classified employees, pupil-teacher ratios by
-grade, pupil-adult ratios by grade, class sizes by grade, average salaries,
+(vii)  a statement that includes data on fall enrollments, average membership,
+high school graduates, licensed and classified employees, pupil-teacher
+ratios, average class sizes calculated in accordance with State Board of
+Education rules adopted under Subsection 53A-3-602.5(4), average salaries,
 applicable private school data, and data from standardized norm-referenced
 tests in grades 5, 8, and 11 on each school and district;
 (viii)  statistical information regarding incidents of delinquent activity in
@@ -74,14 +75,14 @@ academics;
 (B)  the development and implementation of competency-based education and
 progress-based assessments; and
 (C)  the results being achieved under Subsections (3)(d)(ix)(A) and (B), as
-measured by individual progress-based assessments and the comparison of Utah
-Students' progress with the progress of students in other states using
+measured by individual progress-based assessments and a comparison of Utah
+students' progress with the progress of students in other states using
 standardized norm-referenced tests as benchmarks; and
 (x)  other statistical and financial information about the school system which
-the superintendent considers pertinent;
+the state superintendent considers pertinent;
 (e)  collecting and organizing education data into an automated decision
 support system to facilitate school district and school improvement planning,
-accountability reporting and performance recognition, and the evaluation of
+accountability reporting, performance recognition, and the evaluation of
 educational policy and program effectiveness to include:
 (i)  data that are:
 (A)  comparable across schools and school districts;
@@ -103,20 +104,31 @@ analyzing education data;
 contamination of the data; and
 (IV)  protect the confidentiality of data under state and federal privacy
 laws; and
-(B)  require all school districts to comply with the data collection and
-management procedures established under Subsection (3)(e);
+(B)  require all school districts and schools to comply with the data
+collection and management procedures established under Subsection (3)(e);
 (f)  administering and implementing federal educational programs in accordance
 with Title 53A, Chapter 1, Part 9, Implementing Federal Programs Act; and
 (g)  with the approval of the board, preparing and submitting to the governor
 a budget for the board to be included in the budget that the governor submits
 to the Legislature.
-(4)  Upon leaving office, the state superintendent shall deliver to his
-successor all books, records, documents, maps, reports, papers, and other
-articles pertaining to his office.
-(5)  For the purpose of Subsection (3)(d)(vii):
-(a)  a pupil-teacher ratio shall be calculated by dividing the total number of
-students in a grade at a school by the total number of licensed classroom
-teachers in that grade at the school; and
-(b)  an adult-student ratio shall be calculated by dividing the total number
-of students in a grade at a school by the total number of adults who work with
-students in an instructional setting in that grade at the school.
+(4)  Upon leaving office, the state superintendent shall deliver to the state
+superintendent's successor all books, records, documents, maps, reports,
+papers, and other articles pertaining to the state superintendent's office.
+(5) (a)  For the purpose of Subsection (3)(d)(vii):
+(i)  the pupil-teacher ratio for a school shall be calculated by dividing the
+number of students enrolled in a school by the number of full-time equivalent
+teachers assigned to the school, including regular classroom teachers, school-
+based specialists, and special education teachers;
+(ii)  the pupil-teacher ratio for a school district shall be the median pupil-
+teacher ratio of the schools within a school district;
+(iii)  the pupil-teacher ratio for charter schools aggregated shall be the
+median pupil-teacher ratio of charter schools in the state; and
+(iv)  the pupil-teacher ratio for the state's public schools aggregated shall
+be the median pupil-teacher ratio of public schools in the state.
+(b)  The printed copy of the report required by Subsection (3)(d) shall:
+(i)  include the pupil-teacher ratio for:
+(A)  each school district;
+(B)  the charter schools aggregated; and
+(C)  the state's public schools aggregated; and
+(ii)  indicate the Internet website where pupil-teacher ratios for each school
+in the state may be accessed.

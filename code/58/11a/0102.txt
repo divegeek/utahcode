@@ -27,7 +27,7 @@ defined in Section 58-11a-306.
 and Nail Technology Licensing Board created in Section 58-11a-201.
 (8)   "Cosmetologist/barber" means a person who is licensed under this chapter
 to engage in the practice of cosmetology/barbering.
-(9)   "Cosmetologist/barber  instructor" means a cosmetologist/barber who is
+(9)   "Cosmetologist/barber instructor" means a cosmetologist/barber who is
 licensed under this chapter to teach cosmetology/barbering at a licensed
 cosmetology/barber school, licensed barber school, licensed nail technology
 school, or in an apprenticeship program as defined in Subsection
@@ -81,10 +81,13 @@ eyelashes for cosmetic purposes and not for the treatment of medical,
 physical, or mental ailments:
 (a)  cleansing, stimulating, manipulating, exercising, applying oils,
 antiseptics, clays, or masks, manual extraction, including a comodone
-extractor, depilatories, waxes, tweezing, natural nail manicures or pedicures,
-or callous removal by buffing or filing;
+extractor, depilatories, waxes, tweezing, the application of eyelash
+extensions, natural nail manicures or pedicures, or callous removal by buffing
+or filing;
 (b)  limited chemical exfoliation as defined by rule;
-(c)  removing superfluous hair by means other than electrolysis;
+(c)  removing superfluous hair by means other than electrolysis, except that
+an individual is not required to be licensed as an esthetician to engage in
+the practice of threading;
 (d)  other esthetic preparations or procedures with the use of the hands, a
 high-frequency or galvanic electrical apparatus, or a heat lamp for cosmetic
 purposes and not for the treatment of medical, physical, or mental ailments;
@@ -95,13 +98,14 @@ care practitioner as defined by rule, limited to the following:
 (ii)  anti-aging resurfacing enhancements;
 (iii)  photo rejuvenation; or
 (iv)  tattoo removal.
-(26) (a)  "Practice of cosmetology/barbering"  means:
+(26) (a)  "Practice of cosmetology/barbering" means:
 (i)  styling, arranging, dressing, curling, waving, permanent waving,
 cleansing, singeing, bleaching, dyeing, tinting, coloring, or similarly
 treating the hair of the head of a person;
 (ii)  cutting, clipping, or trimming the hair by the use of scissors, shears,
 clippers, or other appliances;
-(iii)  arching eyebrows, or tinting eyebrows or eyelashes, or both;
+(iii)  arching eyebrows, or tinting eyebrows or eyelashes, applying eyelash
+extensions, or any combination of these procedures;
 (iv)   removing hair from the face, neck, shoulders, arms, back, torso, feet,
 bikini line, or legs of a person by the use of depilatories, waxing, or
 shaving equipment;
@@ -112,6 +116,8 @@ medically implanted hair.
 (b)  The term "practice of cosmetology/barbering" includes:
 (i)  the practice of basic esthetics; and
 (ii)  the practice of nail technology.
+(c)  An individual is not required to be licensed as a cosmetologist/barber to
+engage in the practice of threading.
 (27)   "Practice of cosmetology/barbering instruction" means instructing
 cosmetology/barbering as defined in Subsection (26) in a licensed
 cosmetology/barber school or in an apprenticeship program as defined in
@@ -159,7 +165,8 @@ noncosmetic purposes if done under the supervision of a licensed health care
 practitioner acting within the scope of the licensed health care
 practitioner’s license as defined by rule.
 (c)  The term "practice of master-level esthetics" includes the practice of
-esthetics.
+esthetics, but an individual is not required to be licensed as an esthetician
+or master-level esthetician to engage in the practice of threading.
 (32)  "Practice of nail technology" means to trim, cut, clean, manicure,
 shape, massage, or enhance the appearance of the hands, feet, and nails of an
 individual by the use of hands, mechanical, or electrical preparation,

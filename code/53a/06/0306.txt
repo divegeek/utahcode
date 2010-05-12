@@ -24,7 +24,7 @@ UPPAC authorization may:
 (i)  administer oaths and issue subpoenas which may be enforced through the
 state district courts;
 (ii)  receive any evidence related to an alleged offense, including sealed or
-expunged records released to the board under Section 77-18-15; and
+expunged records released to the board under Section 77-40-109; and
 (iii)  where reasonable cause exists, initiate a criminal background check on
 a license holder.
 (d) (i)  A license holder shall receive written notice if a fingerprint check
@@ -34,7 +34,7 @@ and Technical Services Division of the Department of Public Safety shall
 release the individual's full record, as shown on state, regional, and
 national records, to UPPAC.
 (iii)  UPPAC shall pay the cost of the background check except as provided
-under Section 53A-6-401, and the moneys collected shall be credited to the Law
+under Section 53A-6-401, and the money collected shall be credited to the Law
 Enforcement and Technical Services Division to offset its expenses.
 (3)  UPPAC is entitled to a rebuttable evidentiary presumption that a person
 has committed a sexual offense against a minor child if the person has:

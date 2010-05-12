@@ -98,28 +98,7 @@ Subsection (2).
 compensation described in Subsection (4) by reasonably offsetting the
 overpayment against future liability paid before or after the initial 312
 weeks.
-(5) (a)  Subject to Subsection (5)(b) and notwithstanding the minimum rate
-established in Subsection (2), an employer, its insurance carrier, or the
-Employers' Reinsurance Fund, after an employee receives compensation from the
-employer or the employer's insurance carrier for any combination of
-disabilities amounting to 312 weeks of compensation at the applicable total
-disability compensation rate, shall reduce the compensation payable:
-(i)  to the extent allowable by law;
-(ii)  by the dollar amount of 50% of the Social Security retirement benefits
-the employee is eligible to receive for a four week period as of the first day
-the employee is eligible to receive a Social Security retirement benefit; and
-(iii)  that the employee receives during the same period as the Social
-Security retirement benefits.
-(b) (i)  An employer, its insurance carrier, or the Employers' Reinsurance
-Fund may not reduce compensation payable under this section on or after May 5,
-2008, to an employee by an amount related to a cost-of-living increase to the
-Social Security retirement benefit that the employee is first eligible to
-receive for a four week period, notwithstanding whether the employee is
-injured on or before May 4, 2008.
-(ii)  For purposes of an employee whose compensation payable is reduced under
-this Subsection (5) on or before May 4, 2008, the reduction is limited to the
-amount of the reduction as of May 4, 2008.
-(6) (a)  A finding by the commission of permanent total disability is not
+(5) (a)  A finding by the commission of permanent total disability is not
 final, unless otherwise agreed to by the parties, until:
 (i)  an administrative law judge reviews a summary of reemployment activities
 undertaken pursuant to Chapter 8a, Utah Injured Worker Reemployment Act;
@@ -133,23 +112,23 @@ and
 hearing, unless otherwise stipulated, to:
 (A)  consider evidence regarding rehabilitation; and
 (B)  review any reemployment plan submitted by the employer or its insurance
-carrier under Subsection (6)(a)(ii).
-(b)  Before commencing the procedure required by Subsection (6)(a), the
+carrier under Subsection (5)(a)(ii).
+(b)  Before commencing the procedure required by Subsection (5)(a), the
 administrative law judge shall order:
 (i)  the initiation of permanent total disability compensation payments to
 provide for the employee's subsistence; and
 (ii)  the payment of any undisputed disability or medical benefits due the
 employee.
-(c)  Notwithstanding Subsection (6)(a), an order for payment of benefits
-described in Subsection (6)(b) is considered a final order for purposes of
+(c)  Notwithstanding Subsection (5)(a), an order for payment of benefits
+described in Subsection (5)(b) is considered a final order for purposes of
 Section 34A-2-212.
 (d)  The employer or its insurance carrier shall be given credit for any
-disability payments made under Subsection (6)(b) against its ultimate
+disability payments made under Subsection (5)(b) against its ultimate
 disability compensation liability under this chapter or Chapter 3, Utah
 Occupational Disease Act.
 (e)  An employer or its insurance carrier may not be ordered to submit a
 reemployment plan.  If the employer or its insurance carrier voluntarily
-submits a plan, the plan is subject to Subsections (6)(e)(i) through (iii).
+submits a plan, the plan is subject to Subsections (5)(e)(i) through (iii).
 (i)  The plan may include, but not require an employee to pay for:
 (A)  retraining;
 (B)  education;
@@ -168,7 +147,7 @@ is not possible, the administrative law judge shall order that the employee be
 paid weekly permanent total disability compensation benefits.
 (g)  If a preponderance of the evidence shows that pursuant to a reemployment
 plan, as prepared by a qualified rehabilitation provider and presented under
-Subsection (6)(e), an employee could immediately or without unreasonable delay
+Subsection (5)(e), an employee could immediately or without unreasonable delay
 return to work but for the following, an administrative law judge shall order
 that the employee be denied the payment of weekly permanent total disability
 compensation benefits:
@@ -177,7 +156,7 @@ state, county, or municipal government to house a criminal offender in either
 a secure or nonsecure setting; or
 (ii)  not being legally eligible to be employed because of a reason unrelated
 to the impairment or combination of impairments.
-(7) (a)  The period of benefits commences on the date the employee became
+(6) (a)  The period of benefits commences on the date the employee became
 permanently totally disabled, as determined by a final order of the commission
 based on the facts and evidence, and ends:
 (i)  with the death of the employee; or
@@ -191,16 +170,16 @@ employee from Social Security disability benefits.
 (i)  fully cooperate in the placement and employment process; and
 (ii)  accept the reasonable, medically appropriate, part-time work.
 (d)  In a consecutive four-week period when an employee's gross income from
-the work provided under Subsection (7)(b) exceeds $500, the employer or
+the work provided under Subsection (6)(b) exceeds $500, the employer or
 insurance carrier may reduce the employee's permanent total disability
 compensation by 50% of the employee's income in excess of $500.
 (e)  If a work opportunity is not provided by the employer or its insurance
 carrier, a permanently totally disabled employee may obtain medically
 appropriate, part-time work subject to the offset provisions of Subsection
-(7)(d).
+(6)(d).
 (f) (i)  The commission shall establish rules regarding the part-time work and
 offset.
-(ii)  The adjudication of disputes arising under this Subsection (7) is
+(ii)  The adjudication of disputes arising under this Subsection (6) is
 governed by Part 8, Adjudication.
 (g)  The employer or its insurance carrier has the burden of proof to show
 that medically appropriate part-time work is available.
@@ -212,13 +191,13 @@ employee's:
 (II)  residual functional capacity; or
 (B)  for good cause; or
 (ii)  allow the employer or its insurance carrier to reduce permanent total
-disability benefits as provided in Subsection (7)(d) when reasonable,
+disability benefits as provided in Subsection (6)(d) when reasonable,
 medically appropriate, part-time work is offered, but the employee fails to
 fully cooperate.
-(8)  When an employee is rehabilitated or the employee's rehabilitation is
+(7)  When an employee is rehabilitated or the employee's rehabilitation is
 possible but the employee has some loss of bodily function, the award shall be
 for permanent partial disability.
-(9)  As determined by an administrative law judge, an employee is not entitled
+(8)  As determined by an administrative law judge, an employee is not entitled
 to disability compensation, unless the employee fully cooperates with any
 evaluation or reemployment plan under this chapter or Chapter 3, Utah
 Occupational Disease Act.  The administrative law judge shall dismiss without
@@ -226,7 +205,7 @@ prejudice the claim for benefits of an employee if the administrative law
 judge finds that the employee fails to fully cooperate, unless the
 administrative law judge states specific findings on the record justifying
 dismissal with prejudice.
-(10) (a)  The loss or permanent and complete loss of the use of the following
+(9) (a)  The loss or permanent and complete loss of the use of the following
 constitutes total and permanent disability that is compensated according to
 this section:
 (i)  both hands;
@@ -234,12 +213,11 @@ this section:
 (iii)  both feet;
 (iv)  both legs;
 (v)  both eyes; or
-(vi)  any combination of two body members described in this Subsection
-(10)(a).
-(b)  A finding of permanent total disability pursuant to Subsection (10)(a) is
+(vi)  any combination of two body members described in this Subsection (9)(a).
+(b)  A finding of permanent total disability pursuant to Subsection (9)(a) is
 final.
-(11) (a)  An insurer or self-insured employer may periodically reexamine a
-permanent total disability claim, except those based on Subsection (10), for
+(10) (a)  An insurer or self-insured employer may periodically reexamine a
+permanent total disability claim, except those based on Subsection (9), for
 which the insurer or self-insured employer had or has payment responsibility
 to determine whether the employee remains permanently totally disabled.
 (b)  Reexamination may be conducted no more than once every three years after
@@ -270,13 +248,13 @@ self-insured employer may petition the Division of Adjudication for a
 rehearing on that issue.  The insurer or self-insured employer shall include
 with the petition, documentation supporting the insurer's or self-insured
 employer's belief that the employee is no longer permanently totally disabled.
-(ii)  If the petition under Subsection (11)(f)(i) demonstrates good cause, as
+(ii)  If the petition under Subsection (10)(f)(i) demonstrates good cause, as
 determined by the Division of Adjudication, an administrative law judge shall
 adjudicate the issue at a hearing.
 (iii)  Evidence of an employee's participation in medically appropriate, part-
 time work may not be the sole basis for termination of an employee's permanent
 total disability entitlement, but the evidence of the employee's participation
-in medically appropriate, part-time work under Subsection (7) may be
+in medically appropriate, part-time work under Subsection (6) may be
 considered in the reexamination or hearing with other evidence relating to the
 employee's status and condition.
 (g)  In accordance with Section 34A-1-309, the administrative law judge may
@@ -290,6 +268,6 @@ total disability compensation benefits due.
 cooperates, each insurer, self-insured employer, or the Employers' Reinsurance
 Fund shall continue to pay the permanent total disability compensation
 benefits due the employee.
-(12)  If any provision of this section, or the application of any provision to
+(11)  If any provision of this section, or the application of any provision to
 any person or circumstance, is held invalid, the remainder of this section is
 given effect without the invalid provision or application.

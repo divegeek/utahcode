@@ -25,37 +25,32 @@ Whenever possible, the team shall include representatives of:
 (iii)  parent and family support groups unless the parent is alleged to be the
 perpetrator; and
 (iv)  other appropriate agencies or individuals.
-(5)  In any case where the division supervises, governs, or directs the
-affairs of any individual, institution, or facility that is alleged to be
-involved in acts or omissions of abuse or neglect, the investigation of the
-reported abuse or neglect shall be conducted by an agency other than the
-division.
-(6)  If a report of neglect is based upon or includes an allegation of
+(5)  If a report of neglect is based upon or includes an allegation of
 educational neglect, the division shall immediately consult with school
 authorities to verify the child's status in accordance with Sections
 53A-11-101 through 53A-11-103.
-(7)  When the division completes its initial investigation under this part, it
+(6)  When the division completes its initial investigation under this part, it
 shall give notice of that completion to the person who made the initial
 report.
-(8)  Division workers or other child protection team members have authority to
+(7)  Division workers or other child protection team members have authority to
 enter upon public or private premises, using appropriate legal processes, to
 investigate reports of alleged abuse or neglect, upon notice to parents of
 their rights under the Child Abuse Prevention and Treatment Act, 42 U.S.C.
 Sec. 5106, or any successor thereof.
-(9)  With regard to any interview of a child prior to removal of that child
+(8)  With regard to any interview of a child prior to removal of that child
 from the child's home:
-(a)  except as provided in Subsection (9)(b) or (c), the division shall inform
+(a)  except as provided in Subsection (8)(b) or (c), the division shall inform
 a parent of the child prior to the interview of:
 (i)  the specific allegations concerning the child; and
 (ii)  the time and place of the interview;
 (b)  if a child's parent or stepparent, or a parent's paramour has been
 identified as the alleged perpetrator, the division is not required to comply
-with Subsection (9)(a);
+with Subsection (8)(a);
 (c)  if the perpetrator is unknown, or if the perpetrator's relationship to
 the child's family is unknown, the division may conduct a minimal interview or
 conversation, not to exceed 15 minutes, with the child prior to complying with
-Subsection (9)(a);
-(d)  in all cases described in Subsection (9)(b) or (c), a parent of the child
+Subsection (8)(a);
+(d)  in all cases described in Subsection (8)(b) or (c), a parent of the child
 shall be notified as soon as practicable after the child has been interviewed,
 but in no case later than 24 hours after the interview has taken place;
 (e)  a child's parents shall be notified of the time and place of all
@@ -72,7 +67,7 @@ present, who:
 (G)  clergy; and
 (ii)  may not be a person who is alleged to be, or potentially may be, the
 perpetrator.
-(10)  In accordance with the procedures and requirements of Sections 62A-
+(9)  In accordance with the procedures and requirements of Sections 62A-
 4a-202.1 through 62A-4a-202.3, a division worker or child protection team
 member may take a child into protective custody and deliver the child to a law
 enforcement officer, or place the child in an emergency shelter facility
@@ -80,7 +75,7 @@ approved by the juvenile court, at the earliest opportunity subsequent to the
 child's removal from the child's original environment. Control and
 jurisdiction over the child is determined by the provisions of Title 78A,
 Chapter 6, Juvenile Court Act of 1996, and as otherwise provided by law.
-(11)  With regard to cases in which law enforcement has or is conducting an
+(10)  With regard to cases in which law enforcement has or is conducting an
 investigation of alleged abuse or neglect of a child:
 (a)  the division shall coordinate with law enforcement to ensure that there
 is an adequate safety plan to protect the child from further abuse or neglect;

@@ -3,7 +3,7 @@ corporation.
 (1)  Except as provided in Subsection (2), if the corporate name of a foreign
 corporation does not satisfy the requirements of Section 16-10a-401, which
 applies to domestic corporations, the foreign corporation, in order to obtain
-authority to transact business in this state, must assume for use in this
+authority to transact business in this state, shall assume for use in this
 state a name that satisfies the requirements of Section 16-10a-401.
 (2)  A foreign corporation may obtain authority to transact business in this
 state with a name that does not meet the requirements of Subsection (1)
@@ -27,7 +27,7 @@ authorized to transact business in this state and the foreign corporation:
 whether under its corporate name or an assumed corporate name, changes its
 corporate name to one that does not satisfy the requirements of Subsections
 (1) through (3), or the requirements of Section 16-10a-401, it may not
-transact business in this state under the changed name but must use an assumed
-corporate name that does meet the requirements of this section and must
-deliver to the division for filing an amended application for authority to
-transact business pursuant to Section 16-10a-1504.
+transact business in this state under the changed name but shall use an
+assumed corporate name that does meet the requirements of this section and
+shall deliver to the division for filing an amended application for authority
+to transact business pursuant to Section 16-10a-1504.

@@ -14,8 +14,8 @@ an application described in Subsection (1), the medical examiner shall:
 (b) (i)  issue a permit to render the dead body unavailable for postmortem
 investigation in the manner specified in the application; or
 (ii)  deny the permit.
-(3)  The medical examiner may only deny a permit to render a dead body
-unavailable for postmortem investigation if:
+(3)  The medical examiner may deny a permit to render a dead body unavailable
+for postmortem investigation only if:
 (a)  the applicant is not authorized by law to render the dead body
 unavailable for postmortem investigation in the manner specified in the
 application;

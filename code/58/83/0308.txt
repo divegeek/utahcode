@@ -1,0 +1,33 @@
+58-83-308.   Audits.
+(1)  Each licensee under this chapter shall allow and facilitate an audit by
+the division regarding the licensee's delivery of online pharmaceutical
+services to ensure compliance with state and federal statutes, rules, and
+regulations including ensuring that:
+(a)  a comprehensive history and assessment have been obtained and a diagnosis
+has been made for a patient before any medications are prescribed; and
+(b)  only the approved medications are being prescribed and dispensed.
+(2)  The division shall be provided with the following, in the manner that
+allows access from the division's office for the purpose of conducting an
+audit:
+(a)  full remote, read-only access rights to the data related to the online
+prescribing and dispensing of a drug under this chapter and that is used and
+stored in the Internet facilitator's system; and
+(b)  the information available to the online prescriber.
+(3)  An Internet facilitator licensed under this chapter shall provide to the
+division, at the times designated by the division by administrative rule, a
+report containing the following information:
+(a)  the number of prescriptions issued by the online prescribers associated
+with the Internet facilitator by drug name;
+(b)  the number of comprehensive histories/assessments received by the
+Internet facilitator;
+(c)  the number of comprehensive histories/assessments reviewed by an online
+prescriber;
+(d)  the demographic data of the patients receiving prescriptions through the
+Internet facilitator;
+(e)  the number of prescriptions:
+(i)  dispensed by the online contract pharmacy; or
+(ii)  transferred to a different pharmacy at the patient's request; and
+(f)  any other information specified by the division by administrative rule.
+(4)  The division's authority to conduct an audit pursuant to this chapter
+shall survive any termination or expiration of any prescriptive authority for
+online prescribing, dispensing, or facilitation.

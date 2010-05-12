@@ -1,84 +1,81 @@
 61-2c-202.   Licensure procedures.
-(1)  To apply for licensure under this chapter an applicant shall:
-(a)  submit to the division a licensure statement that:
-(i)  lists any name under which the applicant will transact business in this
+(1)  To apply for licensure under this chapter an applicant shall in a manner
+provided by the division by rule:
+(a)  if the applicant is an entity, submit a licensure statement that:
+(i)  lists any name under which the entity will transact business in this
 state;
-(ii)  lists the address of the principal business location of the applicant;
-(iii)  if the applicant is an entity:
-(A)  lists the principal lending manager of the entity; and
-(B)  contains the signature of the principal lending manager;
-(iv)  demonstrates that the applicant meets the qualifications listed in
-Section 61-2c-203;
-(v)  if the applicant is an entity, lists:
-(A)  all jurisdictions in which the entity is registered, licensed, or
-otherwise regulated in the business of residential mortgage loans; and
-(B)  the history of any disciplinary action or adverse administrative action
-taken against the entity by a regulatory agency; and
-(vi)  includes any information required by the division by rule;
-(b)  if the applicant is an individual, the applicant shall provide:
-(i) (A)  a fingerprint card in a form acceptable to the division; and
-(B)  consent to a criminal background check by:
-(I)  the Utah Bureau of Criminal Identification; and
-(II)  the Federal Bureau of Investigation;
-(ii)  evidence using a method approved by the division of having successfully
-completed approved prelicensing education in accordance with Section
-61-2c-204.1;
-(iii)  evidence using a method approved by the division by rule of having
-successfully passed a licensing examination in accordance with Section
-61-2c-204.1; and
-(iv)  if the applicant will engage in an activity as a loan originator:
-(A)  the individual's unique identifier;
-(B)  any other evidence required by the division by rule demonstrating that
-the individual has submitted the following to the nationwide database:
-(I)  a fingerprint card in a form acceptable to the nationwide database;
-(II)  consent to a criminal background check by:
-(Aa)  the Utah Bureau of Criminal Identification; and
-(Bb)  the Federal Bureau of Investigation; and
-(III)  information requested by the nationwide database regarding personal
-history and experience including authorization for the nationwide database and
-division to obtain:
-(Aa)  an independent credit report obtained from a consumer reporting agency
-described in 15 U.S.C. Sec. 1681 et seq.; and
-(Bb)  information related to an administrative, civil, or criminal finding of
-a governmental jurisdiction; and
-(c)  pay:
+(ii)  lists the address of the principal business location of the entity;
+(iii)  identifies the principal lending manager of the entity;
+(iv)  contains the signature of the principal lending manager;
+(v)  identifies the one or more control persons for the entity;
+(vi)  identifies the jurisdictions in which the entity is registered,
+licensed, or otherwise regulated in the business of residential mortgage
+loans;
+(vii)  discloses any adverse administrative action taken by an administrative
+agency against:
+(A)  the entity; or
+(B)  any control person for the entity;
+(viii)  discloses any history of criminal proceedings involving any control
+person for the entity; and
+(ix)  includes any information required by the division by rule;
+(b)  if the applicant is an individual:
+(i)  submit a licensure statement that identifies the entity with which the
+applicant is sponsored;
+(ii)  authorize a criminal background check through the nationwide database
+accessing:
+(A)  the Utah Bureau of Criminal Identification, if the nationwide database is
+able to obtain information from the Utah Bureau of Criminal Identification;
+and
+(B)  the Federal Bureau of Investigation;
+(iii)  submit evidence using a method approved by the division by rule of
+having successfully completed approved prelicensing education in accordance
+with Section 61-2c-204.1;
+(iv)  submit evidence using a method approved by the division by rule of
+having successfully passed any required licensing examination in accordance
+with Section 61-2c-204.1; and
+(v)  submit evidence using a method approved by the division by rule of having
+successfully registered in the nationwide database, including paying a fee
+required by the nationwide database; and
+(c)  pay to the division:
 (i)  an application fee established by the division in accordance with Section
 63J-1-504; and
-(ii)  the reasonable expenses incurred in processing the application for
-licensure, including the costs incurred by the division under Subsection (4).
-        (2) (a)  The division shall issue a license to an applicant if the
-division, with the concurrence of the commission, finds that the applicant:
-(i)  meets the qualifications of Sections 61-2c-203 and 61-2c-204.1; and
+(ii)  the reasonable expenses incurred by the division in processing the
+application for licensure.
+(2) (a)  Upon receiving an application, the division, with the concurrence of
+the commission, shall determine whether the applicant:
+(i)  meets the qualifications for licensure; and
 (ii)  complies with this section.
-(b)  The commission may delegate to the division the authority to:
+(b)  If the division, with the concurrence of the commission, determines that
+an applicant meets the qualifications for licensure and complies with this
+section, the division shall issue the applicant a license.
+(c)  If the division, with the concurrence of the commission, determines that
+the division requires more information to make a determination under
+Subsection (2)(a), the division may:
+(i)  hold the application pending further information about an applicant's
+criminal background or history related to adverse administrative action in any
+jurisdiction; or
+(ii)  issue a conditional license:
+(A)  pending the completion of a criminal background check; and
+(B)  subject to suspension or revocation if the criminal background check
+reveals that the applicant did not truthfully or accurately disclose on the
+licensing application a criminal history or other history related to adverse
+administrative action.
+(3) (a)  The commission may delegate to the division the authority to:
 (i)  review a class or category of application for an initial or renewed
 license;
-(ii)  determine whether an applicant meets the licensing criteria in Sections
-61-2c-203 and 61-2c-204.1;
+(ii)  determine whether an applicant meets the qualifications for licensure;
 (iii)  conduct a necessary hearing on an application; and
 (iv)  approve or deny a license application without concurrence by the
 commission.
-(c)  If the commission delegates to the division the authority to approve or
+(b)  If the commission delegates to the division the authority to approve or
 deny an application without concurrence by the commission and the division
 denies an application for licensure, the applicant who is denied licensure may
 petition the commission for review of the denial.
-(d)  An applicant who is denied licensure under Subsection (2)(b) may seek
+(c)  An applicant who is denied licensure under Subsection (3)(b) may seek
 agency review by the executive director only after the commission reviews the
 division's denial of the applicant's application.
-(3)  Subject to Subsection (2)(d) and in accordance with Title 63G, Chapter 4,
+(d)  Subject to Subsection (3)(c) and in accordance with Title 63G, Chapter 4,
 Administrative Procedures Act, an applicant who is denied licensure under this
 chapter may submit a request for agency review to the executive director
 within 30 days following the day on which the commission order denying the
 licensure is issued.
-(4) (a)  The division shall request the Department of Public Safety to
-complete:
-(i)  for an applicant who will engage in an activity as a loan originator, a
-criminal background check by the Utah Bureau of Criminal Identification; or
-(ii)  for an applicant who will not engage in an activity as a loan
-originator, a Federal Bureau of Investigation criminal background check
-through a national criminal history system.
-(b)  An applicant shall pay the cost of:
-(i)  the fingerprinting required by this section; and
-(ii)  the criminal background check required by this section.
-(c)  The funds paid by an applicant for the cost of the criminal background
-check shall be nonlapsing.

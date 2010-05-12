@@ -1,9 +1,11 @@
 78B-6-103.   Definitions.
 As used in this part:
 (1)  "Adoptee" means a person who has been legally adopted.
-(2)  "Adoption" means the judicial act which creates the relationship of
-parent and child where it did not previously exist and which permanently
-deprives a birth parent of parental rights.
+(2)  "Adoption" means the judicial act that:
+(a)  creates the relationship of parent and child where it did not previously
+exist; and
+(b)  except as provided in Subsection 78B-6-138(2), terminates the parental
+rights of any other person with respect to the child.
 (3)  "Adoption service provider" means a:
 (a)  child-placing agency; or
 (b)  licensed counselor who has at least one year of experience providing
@@ -15,10 +17,13 @@ professional social work services to:
 (6)  "Adult sibling" means a brother or sister of the adoptee, who is 18 years
 of age or older and whose birth mother or father is the same as that of the
 adoptee.
-(7)  "Birth parent" means a biological mother, a person whose paternity of a
-child is established, or an alleged father, who has been identified as the
-father of a child by the child's birth mother, and who has not denied
-paternity.
+(7)  "Birth parent" means:
+(a)  a biological mother;
+(b)  a person whose paternity of a child is established; or
+(c)  an alleged father who:
+(i)  has been identified as the father of a child by the child's birth mother;
+and
+(ii)  has not denied paternity.
 (8)  "Bureau" means the Bureau of Vital Statistics within the Department of
 Health operating under Title 26, Chapter 2, Utah Vital Statistics Act.
 (9)  "Child-placing agency" means an agency licensed to place children for
@@ -43,8 +48,8 @@ which contains the following information:
 (14)  "Health history" means a comprehensive report of the adoptee's health
 status at the time of placement for adoption, and medical history, including
 neonatal, psychological, physiological, and medical care history.
-(15)  "Identifying information" means the name and address of a birth parent
-or adult adoptee, or other specific information which by itself or in
+(15)  "Identifying information" means the name and address of a pre-existing
+parent or adult adoptee, or other specific information which by itself or in
 reasonable conjunction with other information may be used to identify that
 person.
 (16)  "Licensed counselor" means a person who is licensed by the state, or
@@ -60,9 +65,13 @@ territory of the United States.
 in Subsections 78B-6-120(1)(b) through (f) from whom consent for adoption or
 relinquishment for adoption is required under Sections 78B-6-120 through
 78B-6-122.
-(18)  "Unmarried biological father" means a person who:
+(18)  "Pre-existing parent" means:
+(a)  a birth parent; or
+(b)  a person who, before an adoption decree is entered, is, due to an earlier
+adoption decree, legally the parent of the child being adopted.
+(19)  "Unmarried biological father" means a person who:
 (a)  is the biological father of a child; and
 (b)  was not married to the biological mother of the child described in
-Subsection (18)(a) at the time of the child's:
+Subsection (19)(a) at the time of the child's:
 (i)  conception; or
 (ii)  birth.

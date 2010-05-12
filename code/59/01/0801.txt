@@ -1,8 +1,8 @@
 59-1-801.   Purpose of compact -- Definitions -- Elements of income tax laws
--- Division of income -- Elements of sales and use tax laws -- The commission
--- Uniform regulations and forms -- Interstate audits -- Arbitration -- Entry
-into force and withdrawal -- Effect on other laws and jurisdiction --
-Construction and severability.
+-- Allocation and apportionment of income -- Elements of sales and use tax
+laws -- The commission -- Uniform regulations and forms -- Interstate audits
+-- Arbitration -- Entry into force and withdrawal -- Effect on other laws and
+jurisdiction -- Construction and severability.
 The "Multistate Tax Compact" is hereby enacted into law and entered into with
 all jurisdictions legally joining therein, in the form substantially as
 follows:
@@ -183,8 +183,7 @@ royalties does not permit allocation to states or if the accounting procedures
 do not reflect states of utilization, the copyright is utilized in the state
 in which the taxpayer's commercial domicile is located.
 9.  All business income shall be apportioned to this state by multiplying the
-income by a fraction, the numerator of which is the property factor plus the
-payroll factor plus the sales factor and the denominator of which is three.
+income by a fraction determined in accordance with Section 59-7-311.
 10.  The property factor is a fraction, the numerator of which is the average
 value of the taxpayer's real and tangible personal property owned or rented
 and used in this state during the tax period and the denominator of which is

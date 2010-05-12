@@ -1,14 +1,11 @@
 58-70a-201.   Board.
 (1)  There is created the Physician Assistant Licensing Board, which consists
 of seven members:
-(a)  four licensed physicians, at least two of whom are individuals who are
-supervising or who have supervised a physician assistant, and one of whom may
-be a member of a physician licensing board under Section 58-67-201 or
-58-68-201;
-(b)  one physician assistant;
-(c)  one person who is involved in the administration of an approved physician
-assistant education program within the state; and
-(d)  one person from the general public.
+(a)  three licensed physicians, at least two of whom are individuals who are
+supervising or who have supervised a physician assistant;
+(b)  three physician assistants, one of whom is involved in the administration
+of an approved physician assistant education program within the state; and
+(c)  one person from the general public.
 (2)  The board shall be appointed and serve in accordance with Section
 58-1-201.
 (3)  The duties and responsibilities of the board are in accordance with
@@ -21,7 +18,7 @@ unprofessional conduct of a licensee; and
 advised in its investigation may be disqualified from participating with the
 board when the board serves as a presiding officer in an adjudicative
 proceeding concerning the complaint.  The board member may be disqualified:
-(a)  on his own motion, due to actual or perceived bias or lack of
+(a)  on the member's own motion, due to actual or perceived bias or lack of
 objectivity; or
 (b)  upon challenge for cause raised on the record by any party to the
 adjudicative proceeding.

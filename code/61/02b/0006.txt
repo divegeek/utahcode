@@ -8,8 +8,8 @@ application for licensure, certification, or registration;
 this chapter; and
 (iv)  register an individual who applies and qualifies for registration as a
 trainee under this chapter.
-(b) (i)  The division shall require an individual to register as a trainee
-with the division before the individual acts in the capacity of a trainee
+(b) (i)  The division shall require an individual to register with the
+division as a trainee before the individual acts in the capacity of a trainee
 earning experience for licensure.
 (ii)  Subject to Subsection (4), the board shall adopt rules in accordance
 with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for:
@@ -19,8 +19,7 @@ with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for:
 (d)  The division may:
 (i)  solicit bids and enter into contracts with one or more educational
 testing services or organizations for the preparation of a bank of questions
-and answers approved by the board for licensing and certification
-examinations; and
+and answers; and
 (ii)  administer or contract for the administration of licensing and
 certification examinations as may be required to carry out the division's
 responsibilities under this chapter.
@@ -28,29 +27,36 @@ responsibilities under this chapter.
 providing to the board the facilities, equipment, supplies, and personnel that
 are required to enable the board to carry out the board's responsibilities
 under this chapter.
-(f)  The division shall assist the board in upgrading and improving the
-quality of the education and examinations required under this chapter.
-(g)  The division shall assist the board in improving the quality of the
-continuing education available to a person licensed and certified under this
-chapter.
-(h)  The division shall assist the board with respect to the proper
+(f)  The division shall assist the board in improving the quality of the
+continuing education available to a person licensed, certified, or registered
+under this chapter.
+(g)  The division shall assist the board with respect to the proper
 interpretation or explanation of the Uniform Standards of Professional
 Appraisal Practice as required by Section 61-2b-27 when an interpretation or
 explanation becomes necessary in the enforcement of this chapter.
-(i)  The division shall establish fees in accordance with Section 63J-1-504:
+(h)  The division shall establish fees in accordance with Section 63J-1-504:
 (i)  for processing:
-(A)  a trainee registration;
-(B)  an application for licensing and certification; and
-(C)  approval of an expert witness; and
-(ii)  for all other functions required or permitted by this chapter.
+(A)  an application for licensing, certification, or registration; and
+(B)  approval of an expert witness; and
+(ii)  for any other function required or permitted by this chapter.
+(i)  If a person pays a fee or costs to the division with a negotiable
+instrument and the negotiable instrument is not honored for payment:
+(i)  the transaction for which the payment is submitted is voidable by the
+division;
+(ii)  the division may reverse the transaction if payment of the applicable
+fee or costs is not received in full; and
+(iii)  the person's license, certification, or registration is automatically
+suspended:
+(A)  beginning the day on which the payment is due; and
+(B)  ending the day on which payment is made in full.
 (j)  The division may:
 (i)  investigate a complaint against:
-(A)  a trainee;
-(B)  a person licensed or certified under this chapter; or
-(C)  a person required to be licensed, certified, or registered under this
+(A)  a person licensed, certified, or registered under this chapter; or
+(B)  a person required to be licensed, certified, or registered under this
 chapter;
 (ii)  subpoena a witness;
-(iii)  subpoena the production of a book, document, record, or other paper;
+(iii)  subpoena the production of a book, paper, document, record, contract,
+or evidence;
 (iv)  administer an oath; and
 (v)  take testimony and receive evidence concerning a matter within the
 division's jurisdiction.
@@ -68,18 +74,19 @@ chapter fails to comply with this chapter.
 (n)  The division may employ other professional, clerical, and technical staff
 as may be necessary to properly administer the work of the division under this
 chapter.
-(o)  The division may make available, at a reasonable cost determined by the
-division, a list of the names and addresses of all persons licensed or
-certified by the division under this chapter to the extent the information is
-a public record under Title 63G, Chapter 2, Government Records Access and
-Management Act.
+(o) (i)  Upon request, the division shall make available, either directly or
+through a third party, a list of the names and addresses of the persons
+licensed, registered, or certified by the division under this chapter.
+(ii)  A person who requests a list under this Subsection (1)(o) shall pay the
+costs incurred by the division to make the list available.
 (2) (a)  The division shall approve an expert witness who is not otherwise
 licensed or certified under this chapter to appear in an administrative or
 judicial tax proceeding to provide evidence related to the valuation of real
-property that is assessed by the State Tax Commission, provided that the:
+property that is assessed by the State Tax Commission, if the:
 (i)  approval is limited to a specific proceeding;
 (ii)  approval is valid until the proceeding becomes final;
-(iii)  applicant pays an approval fee to the division;
+(iii)  applicant pays to the division an approval fee set by the division in
+accordance with Section 63J-1-504;
 (iv)  applicant provides the applicant's name, address, occupation, and
 professional credentials; and
 (v)  applicant provides a notarized statement that:
@@ -87,9 +94,9 @@ professional credentials; and
 expert witness in the proceeding; and
 (B)  the appraisal and testimony to be offered shall be in accordance with the
 Uniform Standards of Professional Appraisal Practice adopted by the board.
-(b)  Subsection (2)(a) is effective for an administrative or judicial property
-tax proceeding related to the valuation of real property that is assessed by
-the State Tax Commission.
+(b)  Subsection (2)(a) applies to an administrative or judicial property tax
+proceeding related to the valuation of real property that is assessed by the
+State Tax Commission.
 (3) (a)  If the conditions of Subsection (3)(b) are met, the division is
 immune from any civil action or criminal prosecution for initiating or
 assisting in a lawful investigation of an act of, or participating in a
@@ -116,18 +123,34 @@ through a national criminal history system.
 (ii)  the criminal background check required by this section.
 (d) (i)  A registration as a trainee under this chapter is conditional pending
 completion of the criminal background check required by this Subsection (4).
-(ii)  If a criminal background check discloses that an applicant fails to
-accurately disclose a criminal history, the registration is immediately and
-automatically revoked.
-(iii)  An individual whose conditional registration is revoked under
-Subsection (4)(d)(ii) may appeal the revocation in a hearing conducted by the
-board:
-(A)  after the revocation; and
+(ii)  A registration is immediately and automatically revoked if a criminal
+background check discloses that the applicant fails to accurately disclose a
+criminal history involving:
+(A)  the appraisal industry;
+(B)  fraud;
+(C)  misrepresentation; or
+(D)  deceit.
+(iii)  If a criminal background check discloses that an applicant fails to
+accurately disclose a criminal history other than one described in Subsection
+(4)(d)(ii), the division:
+(A)  shall review the application; and
+(B)  in accordance with rules made by the division pursuant to Title 63G,
+Chapter 3, Utah Administrative Rulemaking Act, may:
+(I)  place one or more conditions on a registration;
+(II)  place one or more restrictions on a registration;
+(III)  revoke a registration; or
+(IV)  refer the application to the board for a decision.
+(iv)  An individual whose conditional registration is automatically revoked
+under Subsection (4)(d)(ii) or whose registration is conditioned, restricted,
+or revoked under Subsection (4)(d)(iii) may appeal the action in a hearing
+conducted by the board:
+(A)  after the action is taken; and
 (B)  in accordance with Title 63G, Chapter 4, Administrative Procedures Act.
-(iv)  The board may delegate to the division or an administrative law judge
-the authority to conduct a hearing described in Subsection (4)(d)(iii).
-(v)  Relief from a revocation may be granted only if:
-(A)  the criminal history upon which the division based the revocation:
+(v)  The board may delegate to the division or an administrative law judge the
+authority to conduct a hearing described in Subsection (4)(d)(iv).
+(vi)  Relief from an automatic revocation under Subsection (4)(d)(ii) may be
+granted only if:
+(A)  the criminal history upon which the division bases the revocation:
 (I)  did not occur; or
 (II)  is the criminal history of another person;
 (B) (I)  the revocation is based on a failure to accurately disclose a
@@ -136,10 +159,10 @@ criminal history; and
 application that there was no criminal history to be disclosed; or
 (C)  the division fails to follow the prescribed procedure for the revocation.
 (e)  If a registration is revoked or a revocation is upheld after a hearing
-described in Subsection (4)(d)(iii), the individual may not apply for a new
-license for a period of 12 months after the day on which the registration is
-revoked.
+described in Subsection (4)(d)(iv), the individual may not apply for a new
+registration for a period of 12 months after the day on which the registration
+is revoked.
 (f)  The board may delegate to the division the authority to make a decision
 on whether relief from a revocation should be granted.
-(g)  The funds paid by an applicant for the cost of the criminal background
-check shall be nonlapsing.
+(g) Money paid by an applicant for the cost of the criminal background check
+is nonlapsing.

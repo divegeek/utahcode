@@ -5,19 +5,21 @@ fund types.
 be accounted for within one of these major fund types.
 (b) (i)  All funds or subfunds shall be consolidated into one of the state's
 major fund types.
-(ii)  Where a specific statute requires that a restricted fund be established,
-that fund shall be accounted for as an individual fund or subfund within the
-major fund type to meet generally accepted accounting principles.
+(ii)  Where a specific statute requires that a restricted fund or account be
+established, that fund or account shall be accounted for as an individual
+fund, subfund, or account within the major fund type to meet generally
+accepted accounting principles.
 (iii)  Existing and new activities of state government authorized by the
 Legislature shall be accounted for within the framework of the major fund
 types established in this section.
 (c)  The Division of Finance shall determine the accounting classification
-that complies with generally accepted accounting principles for all funds or
-subfunds created by the Legislature.
+that complies with generally accepted accounting principles for all funds,
+subfunds, or accounts created by the Legislature.
 (d) (i)  Major fund types shall be added by amending this chapter.
-(ii)  Whenever a new act creates or establishes a fund without amending this
-chapter, the reference to a fund in the new act shall be classified within one
-of the major fund types established by this section.
+(ii)  Whenever a new act creates or establishes a fund, subfund, or account
+without amending this chapter, the reference to a fund, subfund, or account in
+the new act shall be classified within one of the major fund types established
+by this section.
 (2)  Major Fund Type Titles:
 (a)  General Fund;
 (b)  Special Revenue Funds;
@@ -37,9 +39,10 @@ that are legally restricted to expenditures for a specific purpose.
 (i)  receives all revenues from taxes on intangible property or from a tax on
 income; and
 (ii)  is designated for public and higher education.
-(b)  The Uniform School Fund is a Special Revenue Fund that accounts for all
-revenues that are required by law to be expended for the public school
-programs of the state.
+(b)  The Transportation Investment Fund of 2005 is a Special Revenue Fund that
+accounts for revenues that are required by law to be expended for the
+maintenance, construction, reconstruction, or renovation of certain state and
+federal highways.
 (c)  The Transportation Fund is a Special Revenue Fund that accounts for all
 revenues that are required by law to be expended for highway purposes.
 (d) (i)  A Restricted Special Revenue Fund is a Special Revenue Fund created
@@ -61,7 +64,7 @@ review by the appropriate legislative appropriations subcommittee.
 the acquisition or construction of major capital facilities, except that when
 financing for the acquisition or construction of a major capital facility is
 obtained from a trust fund or a proprietary type fund within one of the major
-fund types, the monies shall be accounted for in those accounts.
+fund types, the money shall be accounted for in those accounts.
 (6)  Debt Service Funds account for the accumulation of resources for, and the
 payment of, the principal and interest on general long-term obligations.
 (7)  Permanent Funds account for assets that are legally restricted to the

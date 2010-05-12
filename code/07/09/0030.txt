@@ -6,11 +6,11 @@ the following:
 associations, and credit unions;
 (c)  assets which are insured by any agency of the federal government, the
 Federal National Mortgage Association, or the Government Mortgage Association;
-(d)  loans to students insured under Title IV, Part  B of the Higher Education
-Act of 1965, 20 U.S.C.  Sections 1071 et seq.  or similar state insurance
+(d)  loans to students insured under Title IV, Part B of the Higher Education
+Act of 1965, 20 U.S.C. Sections 1071 et seq. or similar state insurance
 programs;
 (e)  loans insured under Title 1 of the National Housing Act, 12 U.S.C.
-Sections 1702 et seq.  by the Federal Housing Administration;
+Sections 1702 et seq. by the Federal Housing Administration;
 (f)  shares or deposits in corporate credit unions as provided in Section
 7-9-44, or of any other state act, or of the Federal Credit Union Act;
 (g)  accrued interest on nonrisk investments; and
@@ -18,7 +18,7 @@ Sections 1702 et seq.  by the Federal Housing Administration;
 (2)  At the end of each accounting period, after payment of any interest
 refunds, the credit union shall determine the gross income from member loans
 and from this amount shall set aside a regular reserve in accordance with
-Subsections (a), (b), and (c).
+Subsections (2)(a), (b), and (c).
 (a)  A credit union in operation for more than four years and having assets of
 $500,000 or more shall set aside a minimum of 10% of gross income from member
 loans until the regular reserve equals at least 4% of the total of outstanding

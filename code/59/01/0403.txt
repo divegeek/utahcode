@@ -170,10 +170,17 @@ allowing the Driver License Division access to the information.
 State 911 Committee the information requested by the Utah State 911 Committee
 under Subsection 53-10-602(3).
 (s)  Notwithstanding Subsection (1), the commission may provide to the Utah
-Educational Savings Plan Trust information related to a resident or
-nonresident individual's contribution to a Utah Educational Savings Plan
-account as designated on the resident or nonresident's individual income tax
-return under Section 59-10-1313.
+Educational Savings Plan information related to a resident or nonresident
+individual's contribution to a Utah Educational Savings Plan account as
+designated on the resident or nonresident's individual income tax return under
+Section 59-10-1313.
+(t)  Notwithstanding Subsection (1), the commission shall provide an
+eligibility worker with the Children's Health Insurance Program with the
+adjusted gross income of an individual if:
+(i)  an eligibility worker with the Children's Health Insurance Program
+requests the information from the Utah State Tax Commission; and
+(ii)  the eligibility worker has complied with the identity verification and
+consent provisions of Section 26-40-105.
 (4) (a)  Reports and returns shall be preserved for at least three years.
 (b)  After the three-year period provided in Subsection (4)(a) the commission
 may destroy a report or return.

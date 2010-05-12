@@ -1,9 +1,9 @@
 20A-3-104.5.   Voting -- Regular primary election and Western States
 Presidential Primary.
 (1) (a)  Any registered voter desiring to vote at the regular primary election
-or Utah's Western States Presidential Primary shall give his name, the name of
-the registered political party whose ballot the voter wishes to vote, and, if
-requested, his residence, to one of the poll workers.
+or Utah's Western States Presidential Primary shall give the voter's name, the
+name of the registered political party whose ballot the voter wishes to vote,
+and, if requested, the voter's residence, to one of the poll workers.
 (b)  The voter shall present valid voter identification to one of the poll
 workers.
 (c) (i)  The poll worker shall follow the procedures and requirements of
@@ -13,11 +13,14 @@ identification; or
 (B)  the voter's right to vote is challenged under Section 20A-3-202.
 (ii)  The poll worker shall notify a voter casting a provisional ballot under
 Section 20A-3-105.5 because of failure to present valid voter identification
-that the voter has five days after the day of the election to present valid
-voter identification to the county clerk at the county clerk's office.
+that the voter has until the close of normal office hours on Monday after the
+day of the election to:
+(A)  present valid voter identification to the county clerk at the county
+clerk's office; or
+(B)  an election officer who is administering the election.
 (2) (a) (i)  If the voter is properly identified, the poll worker in charge of
 the official register shall check the official register to determine:
-(A)  whether or not the voter is registered to vote; and
+(A)  whether or not the person is registered to vote; and
 (B)  whether or not the voter's party affiliation designation in the official
 register allows the voter to vote the ballot that the voter requested.
 (ii)  If the official register does not affirmatively identify the voter as
@@ -77,12 +80,12 @@ under Subsection (2), to vote the ballot that the voter requested and:
 (A)  write the ballot number and the name of the registered political party
 whose ballot the voter voted opposite the name of the voter in the official
 register; and
-(B)  direct the voter to sign his name in the election column in the official
-register;
+(B)  direct the voter to sign the voter's name in the election column in the
+official register;
 (ii)  another poll worker shall list the ballot number and voter's name in the
 pollbook; and
 (iii)  the poll worker having charge of the ballots shall:
-(A)  endorse his initials on the stub;
+(A)  endorse the voter's initials on the stub;
 (B)  check the name of the voter on the pollbook list with the number of the
 stub;
 (C)  hand the voter the ballot for the registered political party that the
@@ -90,7 +93,7 @@ voter requested and for which the voter is authorized to vote; and
 (D)  allow the voter to enter the voting booth; or
 (b)  if the ballot is an electronic ballot:
 (i)  the poll worker in charge of the official register shall direct the voter
-to sign his name in the official register;
+to sign the voter's name in the official register;
 (ii)  another poll worker shall list the voter's name in the pollbook; and
 (iii)  the poll worker having charge of the ballots shall:
 (A)  provide the voter access to the electronic ballot for the registered

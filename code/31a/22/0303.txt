@@ -10,8 +10,8 @@ premium charged, the policy period, and the limits of liability;
 the motor vehicles on which coverage is granted, insure the person named in
 the policy, insure any other person using any named motor vehicle with the
 express or implied permission of the named insured, and, except as provided in
-Subsection (7), insure any person included in Subsection (1)(a)(iii) against
-loss from the liability imposed by law for damages arising out of the
+Section 31A-22-302.5, insure any person included in Subsection (1)(a)(iii)
+against loss from the liability imposed by law for damages arising out of the
 ownership, maintenance, or use of these motor vehicles within the United
 States and Canada, subject to limits exclusive of interest and costs, for each
 motor vehicle, in amounts not less than the minimum limits specified under
@@ -21,11 +21,11 @@ loss from the liability imposed upon him by law for damages arising out of the
 insured's use of any motor vehicle not owned by him, within the same
 territorial limits and with the same limits of liability as in an owner's
 policy under Subsection (1)(a)(ii)(A);
-(iii)  except as provided in Subsection (7), insure persons related to the
-named insured by blood, marriage, adoption, or guardianship who are residents
-of the named insured's household, including those who usually make their home
-in the same household but temporarily live elsewhere, to the same extent as
-the named insured;
+(iii)  except as provided in Section 31A-22-302.5, insure persons related to
+the named insured by blood, marriage, adoption, or guardianship who are
+residents of the named insured's household, including those who usually make
+their home in the same household but temporarily live elsewhere, to the same
+extent as the named insured;
 (iv)  where a claim is brought by the named insured or a person described in
 Subsection (1)(a)(iii), the available coverage of the policy may not be
 reduced or stepped-down because:
@@ -100,36 +100,24 @@ claimant, after payment, the insurer is subrogated to the injured person's
 claim against the insured to the extent of the payment and is entitled to
 reimbursement by the insured after the injured third person has been made
 whole with respect to the claim against the insured.
-(7)  A policy of motor vehicle liability coverage under Subsection
-31A-22-302(1) may specifically exclude from coverage a person who is a
-resident of the named insured's household, including a person who usually
-makes his home in the same household but temporarily lives elsewhere, if:
-(a)  at the time of the proposed exclusion, each person excluded from coverage
-satisfies the owner's or operator's security requirement of Section
-41-12a-301, independently of the named insured's proof of owner's or
-operator's security;
-(b)  the named insured and the person excluded from coverage each provide
-written consent to the exclusion; and
-(c)  the insurer includes the name of each person excluded from coverage in
-the evidence of insurance provided to an additional insured or loss payee.
-(8)  A policy of motor vehicle liability coverage may limit coverage to the
+(7)  A policy of motor vehicle liability coverage may limit coverage to the
 policy minimum limits under Section 31A-22-304 if the insured motor vehicle is
 operated by a person who has consumed any alcohol or any illegal drug or
 illegal substance if the policy or a specifically reduced premium was extended
 to the insured upon express written declaration executed by the insured that
 the insured motor vehicle would not be so operated.
-(9) (a)  When a claim is brought exclusively by a named insured or a person
+(8) (a)  When a claim is brought exclusively by a named insured or a person
 described in Subsection (1)(a)(iii) and asserted exclusively against a named
 insured or an individual described in Subsection (1)(a)(iii), the claimant may
 elect to resolve the claim:
 (i)  by submitting the claim to binding arbitration; or
 (ii)  through litigation.
 (b)  Once the claimant has elected to commence litigation under Subsection
-(9)(a)(ii), the claimant may not elect to resolve the claim through binding
+(8)(a)(ii), the claimant may not elect to resolve the claim through binding
 arbitration under this section without the written consent of both parties and
 the defendant's liability insurer.
 (c) (i)  Unless otherwise agreed on in writing by the parties, a claim that is
-submitted to binding arbitration under Subsection (9)(a)(i) shall be resolved
+submitted to binding arbitration under Subsection (8)(a)(i) shall be resolved
 by a panel of three arbitrators.
 (ii)  Unless otherwise agreed on in writing by the parties, each party shall
 select an arbitrator.  The arbitrators selected by the parties shall select a
@@ -165,8 +153,8 @@ costs against the party that failed to bring, pursue, or defend the claim in
 good faith.
 (l)  Nothing in this section is intended to limit any claim under any other
 portion of an applicable insurance policy.
-(10)  An at-fault driver or an insurer issuing a policy of insurance under
-this part that is covering an at-fault driver may not reduce compensation to
-an injured party based on the injured party not being covered by a policy of
+(9)  An at-fault driver or an insurer issuing a policy of insurance under this
+part that is covering an at-fault driver may not reduce compensation to an
+injured party based on the injured party not being covered by a policy of
 insurance that provides personal injury protection coverage under Sections
 31A-22-306 through 31A-22-309.

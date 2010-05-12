@@ -3,14 +3,21 @@
 Section 78B-12-102.
 (2) (a)  Any individual or group accident and health insurance policy or
 health maintenance organization contract that provides coverage for a
-policyholder's or certificate holder's dependent shall not terminate coverage
-of an unmarried dependent by reason of the dependent's age before the
-dependent's 26th birthday and shall, upon application, provide coverage for
-all unmarried dependents up to age 26.
+policyholder's or certificate holder's dependent may not terminate coverage of
+an unmarried dependent by reason of the dependent's age before the dependent's
+26th birthday and shall, upon application, provide coverage for all unmarried
+dependents up to age 26.
 (b)  The cost of coverage for unmarried dependents 19 to 26 years of age shall
 be included in the premium on the same basis as other dependent coverage.
 (c)  This section does not prohibit the employer from requiring the employee
 to pay all or part of the cost of coverage for unmarried dependents.
+(d)  An individual health insurance policy, group health insurance policy, or
+health maintenance organization, shall continue in force coverage for a
+dependent through the last day of the month in which the dependent ceases to
+be a dependent:
+(i)  if premiums are paid; and
+(ii)  notwithstanding Section 31A-8-402.3, 31A-8-402.5, 31A-22-721,
+31A-30-107.1, or 31A-30-107.3.
 (3)  An individual or group accident and health insurance policy or health
 maintenance organization contract shall reinstate dependent coverage, and for
 purposes of all exclusions and limitations, shall treat the dependent as if
@@ -57,8 +64,8 @@ restrictions;
 (b)  if the parent is enrolled but fails to make application to obtain
 coverage for the child, enroll the child under family coverage upon
 application of the child's other parent, the state agency administering the
-Medicaid program, or the state agency administering 42 U.S.C. 651 through 669,
-the child support enforcement program; and
+Medicaid program, or the state agency administering 42 U.S.C. Sec. 651 through
+669, the child support enforcement program; and
 (c) (i)  when the child is covered by an individual policy, not disenroll or
 eliminate coverage of the child unless the insurer is provided satisfactory
 written evidence that:
@@ -86,7 +93,7 @@ restrictions;
 (b)  if the parent is enrolled but fails to make application to obtain
 coverage of the child, enroll the child under family coverage upon application
 by the child's other parent, by the state agency administering the Medicaid
-program, or the state agency administering 42 U.S.C. 651 through 669, the
+program, or the state agency administering 42 U.S.C. Sec. 651 through 669, the
 child support enforcement program;
 (c)  not disenroll or eliminate coverage of the child unless the employer is
 provided satisfactory written evidence that:

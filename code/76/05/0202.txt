@@ -98,7 +98,9 @@ death;
 (s)  the actor dismembers, mutilates, or disfigures the victim's body, whether
 before or after death, in a manner demonstrating the actor's depravity of
 mind; or
-(t)  the victim was younger than 14 years of age.
+(t)  the victim, at the time of the death of the victim:
+(i)  was younger than 14 years of age; and
+(ii)  was not an unborn child.
 (2)  Criminal homicide constitutes aggravated murder if the actor, with
 reckless indifference to human life, causes the death of another incident to
 an act, scheme, course of conduct, or criminal episode during which the actor
@@ -112,9 +114,8 @@ is a major participant in the commission or attempted commission of:
 (3) (a)  If a notice of intent to seek the death penalty has been filed,
 aggravated murder is a capital felony.
 (b)  If a notice of intent to seek the death penalty has not been filed,
-aggravated murder is a noncapital first degree felony punishable by
-imprisonment for life without parole or by an indeterminate term of not less
-than 20 years and which may be for life.
+aggravated murder is a noncapital first degree felony punishable as provided
+in Section 76-3-207.7.
 (c) (i)  Within 60 days after arraignment of the defendant, the prosecutor may
 file notice of intent to seek the death penalty.  The notice shall be served
 on the defendant or defense counsel and filed with the court.

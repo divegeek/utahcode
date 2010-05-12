@@ -68,8 +68,7 @@ grade 12, including kindergarten and a program for children with disabilities;
 administrative personnel; and
 (b)  does not include land or a structure, including land or a structure for
 inventory storage, equipment storage, food processing or preparing, vehicle
-storage or maintenance, or other use in support of providing instruction to
-pupils, that is:
+storage or maintenance, or similar use that is:
 (i)  not located on the same property as a building described in Subsection
 (10)(a)(i); and
 (ii)  used in support of the purposes of a building described in Subsection
@@ -130,44 +129,51 @@ before actual construction of required improvements, to:
 workmanship of improvements:
 (a)  comport with standards that the municipality has officially adopted; and
 (b)  will not fail in any material respect within a warranty period.
-(21)  "Land use application" means an application required by a municipality's
+(21)  "Internal lot restriction" means a platted note, platted demarcation, or
+platted designation that:
+(a)  runs with the land; and
+(b) (i)  creates a restriction that is enclosed within the perimeter of a lot
+described on the plat; or
+(ii)  designates a development condition that is enclosed within the perimeter
+of a lot described on the plat.
+(22)  "Land use application" means an application required by a municipality's
 land use ordinance.
-(22)  "Land use authority" means a person, board, commission, agency, or other
+(23)  "Land use authority" means a person, board, commission, agency, or other
 body designated by the local legislative body to act upon a land use
 application.
-(23)  "Land use ordinance" means a planning, zoning, development, or
+(24)  "Land use ordinance" means a planning, zoning, development, or
 subdivision ordinance of the municipality, but does not include the general
 plan.
-(24)  "Land use permit" means a permit issued by a land use authority.
-(25)  "Legislative body" means the municipal council.
-(26)  "Local district" means an entity under Title 17B, Limited Purpose Local
+(25)  "Land use permit" means a permit issued by a land use authority.
+(26)  "Legislative body" means the municipal council.
+(27)  "Local district" means an entity under Title 17B, Limited Purpose Local
 Government Entities - Local Districts, and any other governmental or quasi-
 governmental entity that is not a county, municipality, school district, or
 the state.
-(27)  "Lot line adjustment" means the relocation of the property boundary line
+(28)  "Lot line adjustment" means the relocation of the property boundary line
 in a subdivision between two adjoining lots with the consent of the owners of
 record.
-(28)  "Moderate income housing" means housing occupied or reserved for
+(29)  "Moderate income housing" means housing occupied or reserved for
 occupancy by households with a gross household income equal to or less than
 80% of the median gross income for households of the same size in the county
 in which the city is located.
-(29)  "Nominal fee" means a fee that reasonably reimburses a municipality only
+(30)  "Nominal fee" means a fee that reasonably reimburses a municipality only
 for time spent and expenses incurred in:
 (a)  verifying that building plans are identical plans; and
 (b)  reviewing and approving those minor aspects of identical plans that
 differ from the previously reviewed and approved building plans.
-(30)  "Noncomplying structure" means a structure that:
+(31)  "Noncomplying structure" means a structure that:
 (a)  legally existed before its current land use designation; and
 (b)  because of one or more subsequent land use ordinance changes, does not
 conform to the setback, height restrictions, or other regulations, excluding
 those regulations, which govern the use of land.
-(31)  "Nonconforming use" means a use of land that:
+(32)  "Nonconforming use" means a use of land that:
 (a)  legally existed before its current land use designation;
 (b)  has been maintained continuously since the time the land use ordinance
 governing the land changed; and
 (c)  because of one or more subsequent land use ordinance changes, does not
 conform to the regulations that now govern the use of the land.
-(32)  "Official map" means a map drawn by municipal authorities and recorded
+(33)  "Official map" means a map drawn by municipal authorities and recorded
 in a county recorder's office that:
 (a)  shows actual and proposed rights-of-way, centerline alignments, and
 setbacks for highways and other transportation facilities;
@@ -175,9 +181,9 @@ setbacks for highways and other transportation facilities;
 or between designated setbacks to allow the government authorities time to
 purchase or otherwise reserve the land; and
 (c)  has been adopted as an element of the municipality's general plan.
-(33)  "Person" means an individual, corporation, partnership, organization,
+(34)  "Person" means an individual, corporation, partnership, organization,
 association, trust, governmental agency, or any other legal entity.
-(34)  "Plan for moderate income housing" means a written document adopted by a
+(35)  "Plan for moderate income housing" means a written document adopted by a
 city legislative body that includes:
 (a)  an estimate of the existing supply of moderate income housing located
 within the city;
@@ -188,59 +194,59 @@ next five years as revised biennially;
 for moderate income housing; and
 (e)  a description of the city's program to encourage an adequate supply of
 moderate income housing.
-(35)  "Plat" means a map or other graphical representation of lands being laid
+(36)  "Plat" means a map or other graphical representation of lands being laid
 out and prepared in accordance with Section 10-9a-603, 17-23-17, or 57-8-13.
-(36)  "Potential geologic hazard area" means an area that:
+(37)  "Potential geologic hazard area" means an area that:
 (a)  is designated by a Utah Geological Survey map, county geologist map, or
 other relevant map or report as needing further study to determine the area's
 potential for geologic hazard; or
 (b)  has not been studied by the Utah Geological Survey or a county geologist
 but presents the potential of geologic hazard because the area has
 characteristics similar to those of a designated geologic hazard area.
-(37)  "Public agency" means:
+(38)  "Public agency" means:
 (a)  the federal government;
 (b)  the state;
 (c)  a county, municipality, school district, local district, special service
 district, or other political subdivision of the state; or
 (d)  a charter school.
-(38)  "Public hearing" means a hearing at which members of the public are
+(39)  "Public hearing" means a hearing at which members of the public are
 provided a reasonable opportunity to comment on the subject of the hearing.
-(39)  "Public meeting" means a meeting that is required to be open to the
+(40)  "Public meeting" means a meeting that is required to be open to the
 public under Title 52, Chapter 4, Open and Public Meetings Act.
-(40)  "Record of survey map" means a map of a survey of land prepared in
+(41)  "Record of survey map" means a map of a survey of land prepared in
 accordance with Section 17-23-17.
-(41)  "Receiving zone" means an area of a municipality that the municipality's
+(42)  "Receiving zone" means an area of a municipality that the municipality's
 land use authority designates as an area in which an owner of land may receive
 transferrable development rights.
-(42)  "Residential facility for elderly persons" means a single-family or
+(43)  "Residential facility for elderly persons" means a single-family or
 multiple-family dwelling unit that meets the requirements of Section
 10-9a-516, but does not include a health care facility as defined by Section
 26-21-2.
-(43)  "Residential facility for persons with a disability" means a residence:
+(44)  "Residential facility for persons with a disability" means a residence:
 (a)  in which more than one person with a disability resides; and
 (b) (i)  is licensed or certified by the Department of Human Services under
 Title 62A, Chapter 2, Licensure of Programs and Facilities; or
 (ii)  is licensed or certified by the Department of Health under Title 26,
 Chapter 21, Health Care Facility Licensing and Inspection Act.
-(44)  "Sanitary sewer authority" means the department, agency, or public
+(45)  "Sanitary sewer authority" means the department, agency, or public
 entity with responsibility to review and approve the feasibility of sanitary
 sewer services or onsite wastewater systems.
-(45)  "Sending zone" means an area of a municipality that the municipality's
+(46)  "Sending zone" means an area of a municipality that the municipality's
 land use authority designates as an area from which an owner of land may
 transfer transferrable development rights to an owner of land in a receiving
 zone.
-(46)  "Specified public agency" means:
+(47)  "Specified public agency" means:
 (a)  the state;
 (b)  a school district; or
 (c)  a charter school.
-(47)  "Specified public utility" means an electrical corporation, gas
+(48)  "Specified public utility" means an electrical corporation, gas
 corporation, or telephone corporation, as those terms are defined in Section
 54-2-1.
-(48)  "State" includes any department, division, or agency of the state.
-(49)  "Street" means a public right-of-way, including a highway, avenue,
+(49)  "State" includes any department, division, or agency of the state.
+(50)  "Street" means a public right-of-way, including a highway, avenue,
 boulevard, parkway, road, lane, walk, alley, viaduct, subway, tunnel, bridge,
 public easement, or other way.
-(50) (a)  "Subdivision" means any land that is divided, resubdivided or
+(51) (a)  "Subdivision" means any land that is divided, resubdivided or
 proposed to be divided into two or more lots, parcels, sites, units, plots, or
 other division of land for the purpose, whether immediate or future, for
 offer, sale, lease, or development either on the installment plan or upon any
@@ -248,7 +254,7 @@ and all other plans, terms, and conditions.
 (b)  "Subdivision" includes:
 (i)  the division or development of land whether by deed, metes and bounds
 description, devise and testacy, map, plat, or other recorded instrument; and
-(ii)  except as provided in Subsection (50)(c), divisions of land for
+(ii)  except as provided in Subsection (51)(c), divisions of land for
 residential and nonresidential uses, including land used or to be used for
 commercial, agricultural, and industrial purposes.
 (c)  "Subdivision" does not include:
@@ -267,27 +273,30 @@ parcel of property into one legal description encompassing all such parcels of
 property; or
 (B)  joining a subdivided parcel of property to another parcel of property
 that has not been subdivided, if the joinder does not violate applicable land
-use ordinances; or
+use ordinances;
 (iv)  a recorded agreement between owners of adjoining subdivided properties
 adjusting their mutual boundary if:
 (A)  no new dwelling lot or housing unit will result from the adjustment; and
-(B)  the adjustment will not violate any applicable land use ordinance.
+(B)  the adjustment will not violate any applicable land use ordinance; or
+(v)  a bona fide division or partition of land by deed or other instrument
+where the land use authority expressly approves in writing the division in
+anticipation of further land use approvals on the parcel or parcels.
 (d)  The joining of a subdivided parcel of property to another parcel of
 property that has not been subdivided does not constitute a subdivision under
-this Subsection (50) as to the unsubdivided parcel of property or subject the
+this Subsection (51) as to the unsubdivided parcel of property or subject the
 unsubdivided parcel to the municipality's subdivision ordinance.
-(51)  "Transferrable development right" means the entitlement to develop land
+(52)  "Transferrable development right" means the entitlement to develop land
 within a sending zone that would vest according to the municipality's existing
 land use ordinances on the date that a completed land use application is filed
 seeking the approval of development activity on the land.
-(52)  "Unincorporated" means the area outside of the incorporated area of a
+(53)  "Unincorporated" means the area outside of the incorporated area of a
 city or town.
-(53)  "Water interest" means any right to the beneficial use of water,
+(54)  "Water interest" means any right to the beneficial use of water,
 including:
 (a)  each of the rights listed in Section 73-1-11; and
 (b)  an ownership interest in the right to the beneficial use of water
 represented by:
 (i)  a contract; or
 (ii)  a share in a water company, as defined in Section 73-3-3.5.
-(54)  "Zoning map" means a map, adopted as part of a land use ordinance, that
+(55)  "Zoning map" means a map, adopted as part of a land use ordinance, that
 depicts land use zones, overlays, or districts.

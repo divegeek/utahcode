@@ -51,20 +51,19 @@ making a permanent home.
 (b)  To create a new domicile an individual must:
 (i)  abandon the old domicile; and
 (ii)  be able to prove that a new domicile has been established.
-(14)  "Endangered" means wildlife designated as such according to Section 3 of
-the federal Endangered Species Act of 1973.
+(14)  "Endangered" means wildlife designated as endangered according to
+Section 3 of the federal Endangered Species Act of 1973.
 (15)  "Fee fishing facility" has the meaning provided in Section 4-37-103.
-(16)  "Feral" means an animal which is normally domesticated but has reverted
+(16)  "Feral" means an animal that is normally domesticated but has reverted
 to the wild.
 (17)  "Fishing" means to take fish or crayfish by any means.
 (18)  "Furbearer" means species of the Bassariscidae, Canidae, Felidae,
 Mustelidae, and Castoridae families, except coyote and cougar.
 (19)  "Game" means wildlife normally pursued, caught, or taken by sporting
 means for human use.
-(20) (a)  "Guide" means a person who receives compensation or advertises
-services for assisting another person to take protected wildlife.
-(b)  Assistance under Subsection (20)(a) includes the provision of food,
-shelter, or transportation, or any combination of these.
+(20)  "Guide" means a person who receives compensation or advertises services
+for assisting another person to take protected wildlife, including the
+provision of food, shelter, or transportation, or any combination of these.
 (21)  "Guide's agent" means a person who is employed by a guide to assist
 another person to take protected wildlife.
 (22)  "Hunting" means to take or pursue a reptile, amphibian, bird, or mammal
@@ -77,7 +76,7 @@ officer's duty.
 may be legally taken.
 (26)  "Pecuniary gain" means the acquisition of money or something of monetary
 value.
-(27)  "Permit" means a document, including a stamp, which grants authority to
+(27)  "Permit" means a document, including a stamp, that grants authority to
 engage in specified activities under this title or a rule or proclamation of
 the Wildlife Board.
 (28)  "Person" means an individual, association, partnership, government
@@ -87,7 +86,7 @@ agency, corporation, or an agent of the foregoing.
 legally possess.
 (31) (a)  "Private fish pond" means a body of water where privately owned,
 protected aquatic wildlife are propagated or kept for a noncommercial purpose.
-(b)  "Private fish pond" does not include any aquaculture facility or fee
+(b)  "Private fish pond" does not include an aquaculture facility or fee
 fishing facility.
 (32)  "Private wildlife farm" means an enclosed place where privately owned
 birds or furbearers are propagated or kept and that restricts the birds or
@@ -112,7 +111,7 @@ state or country.
 (b)  A Utah resident retains Utah residency if that person leaves this state:
 (i)  to serve in the armed forces of the United States or for religious or
 educational purposes; and
-(ii)  complies with Subsection (37)(a)(ii).
+(ii)  the person complies with Subsection (37)(a)(ii).
 (c) (i)  A member of the armed forces of the United States and dependents are
 residents for the purposes of this chapter as of the date the member reports
 for duty under assigned orders in the state if the member:
@@ -152,21 +151,19 @@ kill any protected wildlife; or
 the federal Endangered Species Act of 1973.
 (45)  "Trapping" means taking protected wildlife with a trapping device.
 (46)  "Trophy animal" means an animal described as follows:
-(a)  deer - any buck with an outside antler measurement of 24 inches or
-greater;
-(b)  elk - any bull with six points on at least one side;
-(c)  bighorn, desert, or rocky mountain sheep - any ram with a curl exceeding
+(a)  deer - a buck with an outside antler measurement of 24 inches or greater;
+(b)  elk - a bull with six points on at least one side;
+(c)  bighorn, desert, or rocky mountain sheep - a ram with a curl exceeding
 half curl;
-(d)  moose - any bull with at least one antler exceeding five inches in
-length;
-(e)  mountain goat - any male or female;
-(f)  pronghorn antelope - any buck with horns exceeding 14 inches; or
-(g)  bison - any bull.
+(d)  moose - a bull with at least one antler exceeding five inches in length;
+(e)  mountain goat - a male or female;
+(f)  pronghorn antelope - a buck with horns exceeding 14 inches; or
+(g)  bison - a bull.
 (47)  "Waste" means to abandon protected wildlife or to allow protected
 wildlife to spoil or to be used in a manner not normally associated with its
 beneficial use.
 (48)  "Water pollution" means the introduction of matter or thermal energy to
-waters within this state which:
+waters within this state that:
 (a)  exceeds state water quality standards; or
 (b)  could be harmful to protected wildlife.
 (49)  "Wildlife" means:

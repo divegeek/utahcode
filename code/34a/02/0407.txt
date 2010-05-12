@@ -1,7 +1,7 @@
-34A-2-407 (Superseded 07/01/10).   Reporting of industrial injuries --
-Regulation of health care providers -- Funeral expenses.
+34A-2-407.   Reporting of industrial injuries -- Regulation of health care
+providers -- Funeral expenses.
 (1)  As used in this section, "physician" is as defined in Section 34A-2-111.
-(2) (a)  Any employee sustaining an injury arising out of and in the course of
+(2) (a)  An employee sustaining an injury arising out of and in the course of
 employment shall provide notification to the employee's employer promptly of
 the injury.
 (b)  If the employee is unable to provide the notification required by
@@ -31,8 +31,8 @@ in Section 34A-2-506.
 (b)  the payment of any medical or disability benefits by:
 (i)  the employer; or
 (ii)  the employer's insurance carrier.
-(5) (a)  In the form prescribed by the division, each employer shall file a
-report with the division of any:
+(5) (a)  In the form prescribed by the division, an employer shall file a
+report with the division of a:
 (i)  work-related fatality; or
 (ii)  work-related injury resulting in:
 (A)  medical treatment;
@@ -43,16 +43,16 @@ report with the division of any:
 (b)  The employer shall file the report required by Subsection (5)(a) within
 seven days after:
 (i)  the occurrence of a fatality or injury;
-(ii)  the employer's first knowledge of the fatality or injury; or
-(iii)  the employee's notification of the fatality or injury.
-(c) (i)  An employer shall file a subsequent report with the division of any
+(ii)  the employer's first knowledge of a fatality or injury; or
+(iii)  the employee's notification of a fatality or injury.
+(c) (i)  An employer shall file a subsequent report with the division of a
 previously reported injury that later results in death.
 (ii)  The subsequent report required by this Subsection (5)(c) shall be filed
 with the division within seven days following:
 (A)  the death; or
 (B)  the employer's first knowledge or notification of the death.
-(d)  A report is not required to be filed under this Subsection (5) for minor
-injuries, such as cuts or scratches that require first-aid treatment only,
+(d)  A report is not required to be filed under this Subsection (5) for a
+minor injury, such as a cut or scratch that requires first-aid treatment only,
 unless:
 (i)  a treating physician files a report with the division in accordance with
 Subsection (9); or
@@ -63,7 +63,7 @@ the employee with:
 (a)  a copy of the report submitted to the division; and
 (b)  a statement, as prepared by the division, of the employee's rights and
 responsibilities related to the industrial injury.
-(7)  Each employer shall maintain a record in a manner prescribed by the
+(7)  An employer shall maintain a record in a manner prescribed by the
 commission by rule of all:
 (a)  work-related fatalities; or
 (b)  work-related injuries resulting in:
@@ -73,7 +73,7 @@ commission by rule of all:
 (iv)  restriction of work; or
 (v)  transfer to another job.
 (8) (a)  Except as provided in Subsection (8)(b), an employer who refuses or
-neglects to make reports, to maintain records, or to file reports with the
+neglects to make a report, maintain a record, or file a report with the
 division as required by this section is:
 (i)  guilty of a class C misdemeanor; and
 (ii)  subject to a civil assessment:
@@ -85,8 +85,12 @@ misdemeanor under this Subsection (8) if:
 (i)  the employer submits a report later than required by this section; and
 (ii)  the division finds that the employer has shown good cause for submitting
 a report later than required by this section.
-(c)  A civil assessment collected under this Subsection (8) shall be deposited
-into the Uninsured Employers' Fund created in Section 34A-2-704.
+(c) (i)  A civil assessment collected under this Subsection (8) shall be
+deposited into the Uninsured Employers' Fund created in Section 34A-2-704 to
+be used for a purpose specified in Section 34A-2-704.
+(ii)  The administrator of the Uninsured Employers' Fund shall collect money
+required to be deposited into the Uninsured Employers' Fund under this
+Subsection (8)(c) in accordance with Section 34A-2-704.
 (9) (a)  A physician attending an injured employee shall comply with rules
 established by the commission regarding:
 (i)  fees for physician's services;
@@ -127,7 +131,7 @@ Act, including:
 described in Subsection (11)(a)(i); and
 (iii)  collection issues related to a good or service described in Subsection
 (11)(a)(i).
-(b)  Except as provided in Subsection (11)(a), Subsection 34A-2-211(7), or
+(b)  Except as provided in Subsection (11)(a), Subsection 34A-2-211 (6), or
 Section 34A-2-212, a person may not maintain a cause of action in any forum
 within this state other than the commission for collection or payment for
 goods or services described in Subsection (11)(a) that are compensable under

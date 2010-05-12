@@ -2,20 +2,19 @@
 program appropriation -- Appropriation for special education programs in state
 institutions.
 (1) (a)  Money appropriated to the State Board of Education for the preschool
-special education program in Section 53A-17a-104 shall be allocated to school
-districts to provide a free, appropriate public education to preschool
-students with a disability, ages three through five.
-(b)  The monies shall be distributed on the basis of a school district's
+special education program shall be allocated to school districts to provide a
+free, appropriate public education to preschool students with a disability,
+ages three through five.
+(b)  The money shall be distributed on the basis of a school district's
 previous year December 1 disabled preschool child count as mandated by federal
 law.
-(2)  Monies appropriated for the extended school year program for the severely
-disabled in Section 53A-17a-104 shall be limited to students with severe
-disabilities with education program goals identifying significant regression
-and recoupment disability as approved by the State Board of Education.
-(3) (a)  Monies appropriated in Section 53A-17a-104 for self-contained regular
-special education programs may not be used to supplement other school
-programs.
-(b)  Monies in any of the other restricted line item appropriations may not be
+(2)  Money appropriated for the extended school year program for the severely
+disabled shall be limited to students with severe disabilities with education
+program goals identifying significant regression and recoupment disability as
+approved by the State Board of Education.
+(3) (a)  Money appropriated for self-contained regular special education
+programs may not be used to supplement other school programs.
+(b)  Money in any of the other restricted line item appropriations may not be
 reduced more than 2% to be used for purposes other than those specified by the
 appropriation, unless otherwise provided by law.
 (4) (a)  The State Board of Education shall compute preschool funding by a
@@ -24,4 +23,4 @@ aged three, four, and five-year-olds times the WPU value, limited to 8% growth
 over the prior year December 1 count.
 (b)  The board shall develop guidelines to implement the funding formula for
 preschool special education, and establish prevalence limits for distribution
-of the monies.
+of the money.

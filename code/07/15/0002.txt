@@ -1,7 +1,7 @@
 7-15-2.   Notice -- Form.
 (1) (a)  "Notice" means notice given to the issuer of a check either orally or
 in writing.
-(b) Written notice may be given by United States mail that is:
+(b)  Written notice may be given by United States mail that is:
 (i)  first class; and
 (ii)  postage prepaid.
 (c)  Notwithstanding Subsection (1)(b), written notice is conclusively
@@ -15,7 +15,7 @@ presumed to have been given when the notice is:
 (B)  last-known address.
 (2)  Written notice under Subsection 7-15-1(5) shall take substantially the
 following form:
-Date: ____
+"Date: ____
 To: _____
 You are hereby notified that the check(s) described below issued by you has
 (have) been returned to us unpaid:
@@ -56,10 +56,9 @@ services, wages, salary, labor, or rent, knowing it will not be paid by the
 drawee and payment is refused by the drawee, is guilty of issuing a bad check.
 The civil action referred to in this notice does not preclude the right to
 prosecute under the criminal code of the state.
-(Signed)        _____________________________________________________________
-Name of Holder:
-_______________________________________________________
-Address of Holder:      _____________________________________________________
-Telephone Number:       ____________________________________________________
+(Signed)                ____________________________________________________
+Name of Holder:         ____________________________________________________
+Address of Holder:      ____________________________________________________
+Telephone Number:       ___________________________________________________"
 (3)  Notwithstanding the other provisions of this section, a holder exempt
 under Subsection 7-15-1(9) is exempt from this section.

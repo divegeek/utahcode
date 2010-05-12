@@ -5,12 +5,20 @@ from the lieutenant governor by completing the form required by this section.
 (c)  The lieutenant governor shall prepare a Lobbyist License Application Form
 that includes:
 (i)  a place for the lobbyist's name and business address;
-(ii)  a place for the name and business address of each principal for whom the
-lobbyist works or is hired as an independent contractor;
+(ii)  a place for the following information for each principal for whom the
+lobbyist works or is hired as an independent contractor:
+(A)  the principal's name;
+(B)  the principal's business address;
+(C)  the name of each public official that the principal employs and the
+nature of the employment with the public official; and
+(D)  the general purposes, interests, and nature of the principal;
 (iii)  a place for the name and address of the person who paid or will pay the
 lobbyist's registration fee, if the fee is not paid by the lobbyist;
-(iv)  a place for the lobbyist to disclose any elected or appointed position
-that the lobbyist holds in state or local government, if any;
+(iv)  a place for the lobbyist to disclose:
+(A)  any elected or appointed position that the lobbyist holds in state or
+local government, if any; and
+(B)  the name of each public official that the lobbyist employs and the nature
+of the employment with the public official, if any;
 (v)  a place for the lobbyist to disclose the types of expenditures for which
 the lobbyist will be reimbursed; and
 (vi)  a certification to be signed by the lobbyist that certifies that the
@@ -23,7 +31,7 @@ new client.
 grant a lobbying license to an applicant who:
 (i)  files an application with the lieutenant governor that contains the
 information required by this section; and
-(ii)  pays a $25 filing fee.
+(ii)  pays a $100 filing fee.
 (b)  A license entitles a person to serve as a lobbyist on behalf of one or
 more principals and expires on December 31 of each even-numbered year.
 (4) (a)  The lieutenant governor may disapprove an application for a lobbying

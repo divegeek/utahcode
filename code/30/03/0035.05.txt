@@ -14,7 +14,7 @@ noncustodial parent preferably:
 (B)  in the custodial home, established child care setting, or other
 environment familiar to the child; and
 (ii)  two hours on holidays and in the years specified in Subsections
-30-3-35(2)(f) through (i) preferably in the custodial home, the established
+30-3-35(2)(f) through (j) preferably in the custodial home, the established
 child care setting, or other environment familiar to the child.
 (b)  For children five months of age or older, but younger than nine months of
 age:
@@ -24,7 +24,7 @@ noncustodial parent preferably:
 (B)  in the custodial home, established child care setting, or other
 environment familiar to the child; and
 (ii)  two hours on the holidays and in the years specified in Subsections
-30-3-35(2)(f) through (i) preferably in the custodial home, the established
+30-3-35(2)(f) through (j) preferably in the custodial home, the established
 child care setting, or other environment familiar to the child.
 (c)  For children nine months of age or older, but younger than 12 months of
 age:
@@ -33,7 +33,7 @@ or court;
 (ii)  one three hour visit per week to be specified by the noncustodial parent
 or court;
 (iii)  eight hours on the holidays and in the years specified in Subsections
-30-3-35(2)(f) through (i); and
+30-3-35(2)(f) through (j); and
 (iv)  brief telephone contact and other virtual parent-time, if the equipment
 is reasonably available, with the noncustodial parent at least two times per
 week, provided that if the parties cannot agree on whether the equipment is
@@ -47,12 +47,12 @@ parent-time; and
 age:
 (i)  one eight-hour visit per alternating weekend to be specified by the
 noncustodial parent or court;
-(ii)  on opposite weekends from Subsection (2)(d)(i), from 6 p.m. on Friday
+(ii)  on opposite weekends from Subsection (3)(d)(i), from 6 p.m. on Friday
 until noon on Saturday;
 (iii)  one three-hour visit per week to be specified by the noncustodial
 parent or court;
 (iv)  eight hours on the holidays and in the years specified in Subsections
-30-3-35(2)(f) through (i); and
+30-3-35(2)(f) through (j); and
 (v)  brief telephone contact and other virtual parent-time, if the equipment
 is reasonably available, with the noncustodial parent at least two times per
 week, provided that if the parties cannot agree on whether the equipment is
@@ -73,7 +73,7 @@ p.m.;
 (ii)  alternative weekends beginning on the first weekend after the entry of
 the decree from 6 p.m. on Friday until 7 p.m. on Sunday continuing each year;
 (iii)  parent-time on holidays as specified in Subsections 30-3-35(2)(c)
-through (i);
+through (j);
 (iv)  extended parent-time may be:
 (A)  two one-week periods, separated by at least four weeks, at the option of
 the noncustodial parent;
@@ -102,7 +102,7 @@ p.m.;
 (ii)  alternative weekends beginning on the first weekend after the entry of
 the decree from 6 p.m. on Friday until 7 p.m. on Sunday continuing each year;
 (iii)  parent-time on holidays as specified in Subsections 30-3-35(2)(c)
-through (i);
+through (j);
 (iv)  extended parent-time with the noncustodial parent may be:
 (A)  two two-week periods, separated by at least four weeks, at the option of
 the noncustodial parent;

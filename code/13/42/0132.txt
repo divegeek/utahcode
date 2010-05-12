@@ -9,8 +9,8 @@ records of a person that provides or offers to provide debt-management
 services, or a person to which a provider has delegated its obligations under
 an agreement or this chapter, to determine compliance with this chapter.
 Information that identifies individuals who have agreements with the provider
-shall not be disclosed to the public.  In connection with the investigation,
-the administrator may:
+may not be disclosed to the public.  In connection with the investigation, the
+administrator may:
 (a)  charge the person the reasonable expenses necessarily incurred to conduct
 the examination;
 (b)  require or permit a person to file a statement under oath as to all the
@@ -37,8 +37,8 @@ or, if that index is not available, another index adopted by rule by the
 administrator.  The administrator shall adopt a base year and adjust the
 dollar amounts, effective on July 1 of each year, if the change in the index
 from the base year, as of December 31 of the preceding year, is at least 10%.
-The dollar amount must be rounded to the nearest $100, except that the amounts
-in Section 13-42-123 must be rounded to the nearest dollar.
+The dollar amount shall be rounded to the nearest $100, except that the
+amounts in Section 13-42-123 shall be rounded to the nearest dollar.
 (7)  The administrator shall notify registered providers of any change in
 dollar amounts made pursuant to Subsection (6) and make that information
 available to the public.

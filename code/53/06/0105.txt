@@ -28,7 +28,9 @@ programs within the state;
 council requires;
 (j)  recommend peace officer standards and training requirements to the
 commissioner, governor, and the Legislature; and
-(k)  make rules as provided in this chapter.
+(k) in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, the director shall, with the advice of the council, make rules necessary
+to administer this chapter.
 (2)  With the permission of the commissioner, the director may execute
 contracts on behalf of the division with criminal justice agencies to provide
 training for employees of those agencies if:
@@ -40,10 +42,7 @@ primary responsibility of providing training for peace officers of the state.
 (a)  revoke certification of a certified academy for cause; and
 (b)  make training aids and materials available to local law enforcement
 agencies.
-(4)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, and consistent with Title 53, Chapter 6, Part 3, Dispatcher Training and
-Certification Act, the director shall, with the advice of the council, make
-rules:
+(4)  The director shall, with the advice of the council, make rules:
 (a)  establishing minimum requirements for the certification of dispatcher
 training instructors in a certified academy or interagency program and
 standards for revocation of this certification;

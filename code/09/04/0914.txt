@@ -1,7 +1,7 @@
 9-4-914.   Capital reserve funds -- Capital reserve fund requirement --
 Establishment of other funds.
 (1) (a) (i)  The corporation may create and establish one or more reserve
-funds, herein referred to as "capital reserve funds", from:
+funds, herein referred to as "capital reserve funds," from:
 (A)  any proceeds of sale of notes or bonds, to the extent provided in the
 resolution or resolutions of the corporation authorizing the issuance thereof;
 (B)  any monies appropriated and made available by the state for the purpose
@@ -31,7 +31,7 @@ amount in the capital reserve fund which will secure the bonds shall be less
 than the capital reserve fund requirement, unless the corporation at the time
 of issuance of the bonds shall deposit in the fund from the proceeds of the
 bonds to be so issued, or other sources, an amount which, together with the
-amount then in the fund, shall not be less than the capital reserve fund
+amount then in the fund, may not be less than the capital reserve fund
 requirement.
 (d)  In computing the amount of the capital reserve funds for the purpose of
 this part, securities in which all or a portion of the funds shall be invested

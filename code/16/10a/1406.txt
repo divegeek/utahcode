@@ -3,7 +3,8 @@
 following the procedures described in this section.
 (2)  A dissolved corporation electing to dispose of known claims pursuant to
 this section may give written notice of the dissolution to known claimants at
-any time after the effective date of the dissolution. The written notice must:
+any time after the effective date of the dissolution.  The written notice
+shall:
 (a)  describe the information that must be included in a claim;
 (b)  provide an address to which written notice of any claim must be given to
 the corporation;

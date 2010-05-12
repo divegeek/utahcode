@@ -15,7 +15,7 @@ for the make, model, and year of the vehicle;
 (B)  the motor vehicle's emissions of regulated pollutants, when operating on
 fuels listed in Subsection (2)(c)(i) or (ii), is less than the emissions were
 before the installation of conversion equipment; and
-(C)  a reduction in emissions under Subsection (1)(d)(i)(B) is demonstrated
+(C)  a reduction in emissions under Subsection (1)(c)(i)(B) is demonstrated
 by:
 (I)  certification of the conversion equipment by the federal Environmental
 Protection Agency or by a state whose certification standards are recognized
@@ -24,7 +24,10 @@ by the board;
 conversion equipment, in accordance with 40 C.F.R. Part 86, Control Emissions
 from New and In-use Highway Vehicles and Engines, using all fuels the motor
 vehicle is capable of using; or
-(III)  any other test or standard recognized by board rule; or
+(III)  any other test or standard recognized by board rule, which may not
+include a retrofit compressed natural gas vehicle that is retrofit in
+accordance with Section 19-1-406, unless that motor vehicle also satisfies
+Subsection (1)(c)(i)(C)(I); or
 (ii)  special mobile equipment on which conversion equipment has been
 installed meets the following criteria:
 (A)  the special mobile equipment's emissions of regulated pollutants, when

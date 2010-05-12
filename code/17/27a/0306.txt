@@ -20,14 +20,14 @@ petition with the clerk of the county in which the proposed township is
 located.
 (ii)  A petition to establish a township may not be filed if it proposes the
 establishment of a township that includes an area within a proposed township
-in a petition that has previously been certified under Subsection (1)(f),
+in a petition that has previously been certified under Subsection (1)(g),
 until after the canvass of an election on the proposed township under
-Subsection (1)(h).
+Subsection (1)(j).
 (d)  A petition under Subsection (1)(c) to establish a township shall:
 (i)  be signed by the owners of private real property that:
 (A)  is located within the proposed township;
 (B)  covers at least 10% of the total private land area within the proposed
-township;
+township; and
 (C)  is equal in value to at least 10% of the value of all private real
 property within the proposed township;
 (ii)  be accompanied by an accurate plat or map showing the boundary of the
@@ -103,7 +103,7 @@ that area as practicable.
 (1)(h)(i), the county legislative body shall publish notice of the petition
 and the time, date, and place of the public hearing:
 (A)  at least once in a newspaper of general circulation in the county; and
-(B)  as required in Section 45-1-101.
+(B) on the Utah Public Notice Website created in Section 63F-1-701.
 (i)  Following the public hearing under Subsection (1)(h)(i), the county
 legislative body shall arrange for the proposal to establish a township to be
 submitted to voters residing within the proposed township at the next regular
@@ -187,7 +187,8 @@ legislative body shall:
 public hearing:
 (I)  at least once a week for three consecutive weeks in a newspaper of
 general circulation in the township; and
-(II)  as required in Section 45-1-101 for three consecutive weeks; and
+(II) on the Utah Public Notice Website created in Section 63F-1-701, for three
+consecutive weeks; and
 (B)  mail a notice of the petition and the time, date, and place of the public
 hearing to each owner of private real property within the area proposed to be
 withdrawn.
@@ -263,8 +264,11 @@ proposal to dissolve the township.
 that area as practicable.
 (iii)  Before holding a public hearing under Subsection (4)(e)(i), the county
 legislative body shall publish notice of the petition and the time, date, and
-place of the public hearing at least once a week for three consecutive weeks
-in a newspaper of general circulation in the township.
+place of the public hearing:
+(A)  at least once a week for three consecutive weeks in a newspaper of
+general circulation in the township; and
+(B)  on the Utah Public Notice Website created in Section 63F-1-701, for three
+consecutive weeks immediately before the public hearing.
 (f)  Following the public hearing under Subsection (4)(e)(i), the county
 legislative body shall arrange for the proposal to dissolve the township to be
 submitted to voters residing within the township at the next regular general

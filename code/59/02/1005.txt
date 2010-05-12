@@ -1,25 +1,23 @@
 59-2-1005.   Procedures for appeal of personal property valuation -- Time
 for appeal -- Hearing -- Decision -- Appeal to commission.
-(1) For personal property assessed by a county assessor in accordance with
-Section 59-2-301, the county legislative body shall include with the signed
-statement required by Section 59-2-306 a notice of procedures for an appeal
-relating to the value of the personal property.
-(2) (a)  If personal property is subject to a fee in lieu of tax or the
-uniform tax under Article XIII, Sec. 2, Utah Constitution, and the fee or tax
-is based upon the value of the property, the basis of the value may be
-appealed to the commission.
-(b)  For the personal property described in Subsection (2)(a), a taxpayer may
-make an appeal relating to the value of the personal property by filing an
-application with the county legislative body no later than 30 days after the
-mailing of the tax notice.
-(3) (a)  After giving reasonable notice, the county legislative body shall
-hear an appeal filed in accordance with Subsection (2) and render a written
-decision.
-(b)  The written decision described in Subsection (3)(a) shall be rendered no
-later than 60 days after receipt of the appeal.
-(4)  If any taxpayer is dissatisfied with a decision rendered in accordance
-with Subsection (3) by the county legislative body, the taxpayer may file an
-appeal with the commission in accordance with Section 59-2-1006.
-(5)  For personal property assessed by the commission in accordance with
-Section 59-2-201, a taxpayer may make an appeal relating to the personal
-property in accordance with Section 59-2-1007.
+(1)(a)  A taxpayer owning personal property assessed by a county assessor
+under Section 59-2-301 may make an appeal relating to the value of the
+personal property by filing an application with the county legislative body no
+later than:
+(i)  the expiration of the time allowed under Section 59-2-306 for filing a
+signed statement, if the county assessor requests a signed statement under
+Section 59-2-306; or
+(ii)  60 days after the mailing of the tax notice, for each other taxpayer.
+(b)  A county legislative body shall:
+(i)  after giving reasonable notice, hear an appeal filed under Subsection
+(1)(a); and
+(ii)  render a written decision on the appeal within 60 days after receiving
+the appeal.
+(c)  If the taxpayer is dissatisfied with a county legislative body decision
+under Subsection (1)(b), the taxpayer may file an appeal with the commission
+in accordance with Section 59-2-1006.
+(2)  A taxpayer owning personal property subject to a fee in lieu of tax or a
+uniform tax under Article XIII, Section 2 of the Utah Constitution that is
+based on the value of the property may appeal the basis of the value by filing
+an appeal with the commission within 30 days after the mailing of the tax
+notice.

@@ -19,9 +19,9 @@ provider or others and conduct its own analysis of any issue relevant to the
 application, including economic development.
 (4)  After review of all applications for any rural area in accordance with
 Subsection (3), the director may approve an application and enter into a
-written agreement with a provider to provide a grant from the fund if the
-director, with the advice of the board, is satisfied that the provider's
-application establishes that:
+written agreement with a provider to provide a grant from the restricted
+account if the director, with the advice of the board, is satisfied that the
+provider's application establishes that:
 (a)  the provider has the financial, managerial, and technical ability to
 deploy broadband service in the rural area in accordance with the application;
 (b)  the territory in which the provider proposes to deploy broadband service
@@ -42,8 +42,8 @@ to make adjustments to the application or agree to reasonable conditions
 consistent with the purposes of this part before approving the application.
 (b)  Any adjustments and conditions required by the director shall be included
 in the written agreement entered into with the provider.
-(6)  The amount of any grant provided from the fund shall be no greater than
-the lesser of 1/2 of:
+(6)  The amount of any grant provided from the restricted account shall be no
+greater than the lesser of 1/2 of:
 (a)  the actual cost of deployment of broadband service in the rural area as
 established by verified accounts filed with the office after completion of
 deployment; or
@@ -53,7 +53,7 @@ as provided in the verified application.
 (7)  Upon completion of deployment of broadband service by a provider in
 accordance with the terms of an agreement as provided in Subsection (4), the
 director shall pay the amount of the grant agreed upon consistent with
-Subsection (6) to the provider from the fund.
+Subsection (6) to the provider from the restricted account.
 (8)  In making any determination required under this section, the director,
 the office, and the board:
 (a)  may not discriminate against any accepted technology for provision of

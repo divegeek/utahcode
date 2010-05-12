@@ -1,10 +1,11 @@
-53-3-220.   Offenses requiring mandatory revocation, denial, suspension, or
-disqualification of license -- Offense requiring an extension of period --
-Hearing -- Limited driving privileges.
-(1) (a)  The division shall immediately revoke or, when this chapter or Title
-41, Chapter 6a, Traffic Code, specifically provides for denial, suspension, or
-disqualification, the division shall deny, suspend, or disqualify the license
-of a person upon receiving a record of the person's conviction for:
+53-3-220 (Superseded 07/01/11).   Offenses requiring mandatory revocation,
+denial, suspension, or disqualification of license -- Offense requiring an
+extension of period -- Hearing -- Limited driving privileges.
+(1) (a)  The division shall immediately revoke or, when this chapter, Title
+41, Chapter 6a, Traffic Code, or Section 76-5-303, specifically provides for
+denial, suspension, or disqualification, the division shall deny, suspend, or
+disqualify the license of a person upon receiving a record of the person's
+conviction for:
 (i)  manslaughter or negligent homicide resulting from driving a motor
 vehicle, or automobile homicide under Section 76-5-207 or 76-5-207.5;
 (ii)  driving or being in actual physical control of a motor vehicle while
@@ -50,10 +51,20 @@ Section 53-3-232;
 having any measurable or detectable amount of alcohol in the person's body in
 violation of Section 41-6a-530;
 (xvi)  engaging in a motor vehicle speed contest or exhibition of speed on a
-highway in violation of Section 41-6a-606; or
+highway in violation of Section 41-6a-606;
 (xvii)  operating or being in actual physical control of a motor vehicle in
 this state without an ignition interlock system in violation of Section
-41-6a-518.2.
+41-6a-518.2; or
+(xviii)  custodial interference, under:
+(A)  Subsection 76-5-303(3), which suspension shall be for a period of 30
+days, unless the court provides the division with an order of suspension for a
+shorter period of time;
+(B)  Subsection 76-5-303(4), which suspension shall be for a period of 90
+days, unless the court provides the division with an order of suspension for a
+shorter period of time; or
+(C)  Subsection 76-5-303(5), which suspension shall be for a period of 180
+days, unless the court provides the division with an order of suspension for a
+shorter period of time.
 (b)  The division shall immediately revoke the license of a person upon
 receiving a record of an adjudication under Title 78A, Chapter 6, Juvenile
 Court Act of 1996, for:
@@ -137,8 +148,8 @@ specified limits on recommendation of the judge in any case where a person is
 convicted of any of the offenses referred to in Subsections (1) and (2)
 except:
 (i)  automobile homicide under Subsection (1)(a)(i);
-(ii)  those offenses referred to in Subsections (1)(a)(ii), (a)(iii), (a)(xi),
-(a)(xii), (a)(xiii), (1)(b), and (1)(c); and
+(ii)  those offenses referred to in Subsections
+(1)(a)(ii),(iii),(xi),(xii),(xiii), (1)(b), and (1)(c); and
 (iii)  those offenses referred to in Subsection (2) when the original denial,
 suspension, revocation, or disqualification was imposed because of a violation
 of Section 41-6a-502, 41-6a-517, a local ordinance which complies with the

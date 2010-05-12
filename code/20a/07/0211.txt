@@ -10,8 +10,7 @@ proposed by the initiative petition.
 (i)  gives the total number of votes cast in the state for and against each
 law proposed by an initiative petition; and
 (ii)  declares those laws proposed by an initiative petition that were
-approved by majority vote to be in full force and effect as the law of the
-state of Utah.
+approved by majority vote to be in full force and effect as the law of Utah.
 (b)  When the governor believes that two proposed laws, or that parts of two
 proposed laws approved by the people at the same election are entirely in
 conflict, he shall proclaim that measure to be law that has received the
@@ -22,11 +21,11 @@ who signed the initiative petition proposing the law that is declared by the
 governor to be superseded by another measure approved at the same election may
 apply to the Supreme Court to review the governor's decision.
 (ii)  The court shall:
-(A)  immediately consider the matter and decide whether or not the proposed
-laws are in conflict; and
-(B)  within 10 days after the matter is submitted to it for decision, certify
-its decision to the governor.
-(4)  Within 30 days after his previous proclamation, the governor shall:
+(A)  consider the matter and decide whether or not the proposed laws are in
+conflict; and
+(B)  certify its decision to the governor.
+(4)  Within 10 days after the Supreme Court certifies its decision, the
+governor shall:
 (a)  proclaim all those measures approved by the people as law that the
 Supreme Court has determined are not in conflict; and
 (b)  of all those measures approved by the people as law that the Supreme

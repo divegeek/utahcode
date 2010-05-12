@@ -65,7 +65,8 @@ before the effective date of the charge being levied.
 (ii)  For purposes of this Subsection (3)(e):
 (A)  "Annexation" means an annexation to:
 (I)  a city or town under Title 10, Chapter 2, Part 4, Annexation; or
-(II)  a county under Title 17, Chapter 2, Annexation to County.
+(II)  a county under Title 17, Chapter 2, County Consolidations and
+Annexations.
 (B)  "Annexing area" means an area that is annexed into a county, city, or
 town.
 (iii) (A)  Except as provided in Subsection (3)(e)(iii)(C) or (D), if on or
@@ -162,7 +163,7 @@ enforcement of the state sales and use taxes under:
 (III)  Section 59-12-104.2;
 (IV)  Section 59-12-107.1; and
 (V)  Section 59-12-123;
-(ii)  transmit monies collected under this Subsection (3):
+(ii)  transmit money collected under this Subsection (3):
 (A)  monthly; and
 (B)  by electronic funds transfer by the commission to the county, city, or
 town that imposes the charge; and
@@ -175,32 +176,42 @@ this Subsection (3).
 (4) (a)  Any money received by a public agency for the provision of 911
 emergency telecommunications service shall be deposited in a special emergency
 telecommunications service fund.
-(b) (i)  Except as provided in Subsection (5), the money in the emergency
+(b) (i)  Except as provided in Subsection (5)(b), the money in the emergency
 telecommunications service fund shall be expended by the public agency to pay
-the costs of establishing, installing, maintaining, and operating a 911
-emergency telecommunications system or integrating a 911 system into an
-established public safety dispatch center, including contracting with the
-providers of local exchange service, radio communications service, and vendors
-of appropriate terminal equipment as necessary to implement the 911 emergency
-telecommunications service.
+the costs of:
+(A)  establishing, installing, maintaining, and operating a 911 emergency
+telecommunications system;
+(B)  receiving and processing emergency calls from the 911 system or other
+calls or requests for emergency services;
+(C)  integrating a 911 system into an established public safety dispatch
+center, including contracting with the providers of local exchange service,
+radio communications service, and vendors of appropriate terminal equipment as
+necessary to implement the 911 emergency telecommunications service; or
+(D)  indirect costs associated with the maintaining and operating of a 911
+emergency telecommunications system.
 (ii)  Revenues derived for the funding of 911 emergency telecommunications
-service may only be used for that portion of costs related to the operation of
-the 911 emergency telecommunications system when such a system is integrated
-with any public safety dispatch system.
+service may be used by the public agency for personnel costs associated with
+receiving and processing calls and deploying emergency response resources when
+the system is integrated with any public safety dispatch system.
 (c)  Any unexpended money in the emergency telecommunications service fund at
 the end of a fiscal year does not lapse, and must be carried forward to be
 used for the purposes described in this section.
 (5) (a)  Revenue received by a local entity from an increase in the levy
-imposed under Subsection (3) after the 2004 Annual General Session, or from
-grants from the Utah 911 Committee pursuant to Section 53-10-605:
+imposed under Subsection (3) after the 2004 Annual General Session:
+(i)  may be used by the public agency for the purposes under Subsection
+(4)(b); and
+(ii)  shall be deposited into the special emergency telecommunications service
+fund described in Subsection (4)(a).
+(b)  Revenue received by a local entity from grants from the Utah 911
+Committee under Section 53-10-605:
 (i)  shall be deposited into the special emergency telecommunications service
-fund described in Subsection (4)(a); and
+fund under Subsection (4)(a); and
 (ii)  shall only be used for that portion of the costs related to the
 development and operation of wireless and land-based enhanced 911 emergency
 telecommunications service and the implementation of wireless E-911 Phase I
-and Phase II services as provided in Subsection (5)(b).
-(b)  The costs allowed under Subsection (5)(a)(ii) shall include the public
-service answering point's or local entity's costs for:
+and Phase II services as provided in Subsection (5)(c).
+(c)  The costs allowed under Subsection (5)(b)(ii) include the public safety
+answering point's or local entity's costs for:
 (i)  acquisition, upgrade, modification, maintenance, and operation of public
 service answering point equipment capable of receiving E-911 information;
 (ii)  database development, operation, and maintenance; and

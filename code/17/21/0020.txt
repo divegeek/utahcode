@@ -3,7 +3,7 @@ documents to be recorded -- Prerequisites -- Additional fee for noncomplying
 documents -- Recorder may require tax serial number -- Exceptions --
 Requirements for recording final local entity plat.
 (1)  Subject to Subsections (2), (3), and (4), each paper, notice, and
-instrument required by law to be filed in the office of the county recorder
+instrument required by law to be recorded in the office of the county recorder
 shall be recorded unless otherwise provided.
 (2)  Each document executed on or after July 1, 2007 that is submitted for
 recording to a county recorder's office shall:
@@ -48,8 +48,8 @@ that:
 noncomplying documents; and
 (ii)  may not exceed $2 per page.
 (4) (a)  To facilitate the abstracting of an instrument, a county recorder may
-require that the applicable tax serial number of each parcel affected by the
-instrument appear on each instrument before it may be accepted for recording.
+require that the applicable tax serial number of each parcel described in the
+instrument be noted on the instrument before it may be accepted for recording.
 (b)  If a county recorder requires the applicable tax serial number to be on
 an instrument before it may be recorded:
 (i)  the county recorder shall post a notice of that requirement in a

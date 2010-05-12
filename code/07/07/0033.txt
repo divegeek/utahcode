@@ -1,9 +1,9 @@
 7-7-33.   Investments in loans -- Payments to protect real estate loans --
-Requiring borrower to pay taxes, insurance and other charges on real estate in
-advance.
+Requiring borrower to pay taxes, insurance, and other charges on real estate
+in advance.
 (1)  An association may invest in or otherwise acquire loans and interests in
 loans, secured or unsecured, of any type, amount, and for any purpose,
-including, but not limited to:
+including:
 (a)  loans evidenced by a participation certificate, mortgage-backed bond or
 note, or mortgage pass-through certificate;
 (b)  personal loans evidenced by promissory notes;
@@ -28,7 +28,7 @@ specified in Subsections (2) and (3); and
 operated for profit.
 (2)  No association shall make a loan to one person if the sum of (a) the
 amount of the loan and (b) the total balance of all outstanding loans owed to
-the association and its service corporation  subsidiaries by that person
+the association and its service corporation subsidiaries by that person
 exceeds an amount equal to 15% of the association's equity capital.
 (3)  No association shall make any loan authorized by this section unless it
 first has determined that the type, amount, purpose, and repayment provisions

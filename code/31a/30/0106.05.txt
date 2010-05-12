@@ -1,8 +1,7 @@
 31A-30-106.5.   Conversion policy -- Premiums -- Rating restrictions.
-(1)  All provisions of Section 31A-30-106, except Subsection 31A-30-106(1)(b),
-apply to conversion policies.
+(1)  All provisions of Section 31A-30-106.1 apply to conversion policies.
 (2)  Conversion policy premium rates may not exceed by more than 35% the index
-rate for individuals with similar case characteristics for any class of
+rate for small employers with similar case characteristics for any class of
 business in which the policy form has been approved.
 (3)  An insurer may not consider pregnancy of a covered insured in determining
 its conversion policy premium rates.

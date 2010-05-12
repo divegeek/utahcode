@@ -1,9 +1,11 @@
 53-5-702.   Definitions.
 (1)  As used in this part:
-(a)  "Board" means the Concealed Weapon Review Board created in Section
+(a)  "Board" means the Concealed Firearm Review Board created in Section
 53-5-703.
-(b)  "Commissioner" means the commissioner of the Department of Public Safety.
-(c)  "Conviction" means criminal conduct where the filing of a criminal charge
+(b)  "Bureau" means the Bureau of Criminal Identification created in Section
+53-10-201 within the Department of Public Safety.
+(c)  "Commissioner" means the commissioner of the Department of Public Safety.
+(d)  "Conviction" means criminal conduct where the filing of a criminal charge
 has resulted in:
 (i)  a finding of guilt based on evidence presented to a judge or jury;
 (ii)  a guilty plea;
@@ -12,6 +14,4 @@ has resulted in:
 the successful completion of probation;
 (v)  a pending diversion agreement; or
 (vi)  a conviction which has been reduced pursuant to Section 76-3-402.
-(d)  "Division" means the Criminal Investigations and Technical Services
-Division created in Section 53-10-103.
 (2)  The definitions in Section 76-10-501 apply to this part.

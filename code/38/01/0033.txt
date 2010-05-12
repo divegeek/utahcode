@@ -5,12 +5,8 @@ with the database may file a notice of completion with the database:
 (i)  an owner of the construction project;
 (ii)  an original contractor of the construction project;
 (iii)  a lender that has provided financing for the construction project;
-(iv)  a surety that has provided bonding for the construction project;
+(iv)  a surety that has provided bonding for the construction project; or
 (v)  a title company issuing a title insurance policy on the construction
-project;
-(vi)  a lender that has provided financing for the construction project;
-(vii)  a surety that has provided bonding for the construction project; or
-(viii)  a title company issuing a title insurance policy on the construction
 project.
 (b)  Notwithstanding Section 38-1-2, if a subcontractor performs substantial
 work after the applicable dates established by Subsection (1)(a), that

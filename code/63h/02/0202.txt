@@ -1,17 +1,18 @@
 63H-2-202.   Authority board.
-(1)  There is created a board of the authority that consists of seven members,
-appointed by the governor, except that the governor shall appoint:
+(1)  There is created the Utah Generated Renewable Energy Electricity Network
+Authority Board that consists of seven members, appointed by the governor as
+follows:
 (a)  one member from the Governor's Office of Economic Development;
 (b)  three members from a public utility or electric interlocal entity that
 operates electric transmission facilities within the state as follows:
-(i)  one member is to be appointed from recommendations from an investor-owned
-electric corporation that operates in this state;
-(ii)  one member is to be appointed from recommendations from a wholesale
-electrical cooperative in the state; and
-(iii)  one member is to be appointed from recommendations from an electric
-interlocal entity;
-(c)  one member of the School and Institutional Trust Lands Board of Trustees
-created in Section 53C-1-202;
+(i)  one member selected by the governor from recommendations from an
+investor-owned electric corporation that operates in this state;
+(ii)  one member selected by the governor from recommendations from a
+wholesale electrical cooperative in the state; and
+(iii)  one member selected by the governor from recommendations from an
+electric interlocal entity;
+(c) the director of the School and Institutional Trust Lands Administration
+created in Section 53C-1-201;
 (d)  one representative of a business entity that produces a renewable energy
 source; and
 (e)  one member of the general public.
@@ -26,26 +27,17 @@ this section as the appointment of the member whose vacancy is being filled.
 (e)  An individual appointed to fill a vacancy shall serve the remaining
 unexpired term of the member whose vacancy the individual is filling.
 (f)  A board member shall serve until a successor is appointed and qualified.
-(3)  The governor shall appoint a member of the board to be the chair of the
-board, except that the member appointed as chair must be the member appointed
-under Subsection (1)(a).
+(3)  The board member appointed under Subsection (1)(a) shall serve as chair
+of the board.
 (4) (a)  Four members of the board is a quorum for conducting board business.
 (b)  A majority vote of the quorum present is required for an action to be
 taken by the board.
 (5) (a)  The board shall meet at least quarterly on a date the board sets.
 (b)  The chair of the board or any two members of the board may call
 additional meetings.
-(6) (a) (i)  A member who is not a government employee may not receive
-compensation or benefits for the member's service, but may receive per diem
-and expenses incurred in the performance of the member's official duties at
-the rates established by the Division of Finance under Sections 63A-3-106 and
+(6)  A member may not receive compensation or benefits for the member's
+service, but may receive per diem and travel expenses in accordance with:
+(a)  Section 63A-3-106;
+(b)  Section 63A-3-107; and
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and
 63A-3-107.
-(ii)  A member who is not a government employee may decline to receive per
-diem and expenses for the member's service.
-(b) (i)  A state government officer or employee member who does not receive
-salary, per diem, or expenses from the agency the member represents for the
-member's service may receive per diem and expenses incurred in the performance
-of the member's official duties at the rates established by the Division of
-Finance under Sections 63A-3-106 and 63A-3-107.
-(ii)  A state government officer or employee member may decline to receive per
-diem and expenses for the member's service.

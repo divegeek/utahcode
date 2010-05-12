@@ -104,10 +104,17 @@ improve forest or rangeland ecological health and to reduce wildfire risk;
 (E)  landfill gas or biogas produced from organic matter, wastewater,
 anaerobic digesters, or municipal solid waste;
 (v)  geothermal energy located outside the state;
-(vi)  waste gas and waste heat capture or recovery; or
+(vi)  waste gas and waste heat capture or recovery whether or not it is
+renewable, including methane gas from:
+(A)  an abandoned coal mine; or
+(B)  a coal degassing operation associated with a state-approved mine permit;
 (vii)  efficiency upgrades to a hydroelectric facility, without regard to the
 date upon which the facility became operational, if the upgrades become
 operational on or after January 1, 1995;
+(viii)  compressed air, if:
+(A)  the compressed air is taken from compressed air energy storage; and
+(B)  the energy used to compress the air is a renewable energy source; or
+(ix)  municipal solid waste;
 (b)  any of the following:
 (i)  up to 50 average megawatts of electricity per year per electrical
 corporation from a certified low-impact hydroelectric facility, without regard

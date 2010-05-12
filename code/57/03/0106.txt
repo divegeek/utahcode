@@ -42,7 +42,7 @@ contain the appropriate acknowledgment, proof of execution, jurat, or other
 notarial certification for all parties who are reexecuting the document as
 required by Title 46, Chapter 1, Notaries Public Reform Act, and Title 57,
 Chapter 2, Acknowledgments.
-(iii) A document submitted for rerecording shall contain a brief statement
+(iii)  A document submitted for rerecording shall contain a brief statement
 explaining the reason for rerecording.
 (b)  A person may not present and a county recorder may refuse to accept a
 document for rerecording if that document does not conform to this section.
@@ -50,9 +50,16 @@ document for rerecording if that document does not conform to this section.
 1998.
 (9)  Minor typographical or clerical errors in a document of record may be
 corrected by the recording of an affidavit or other appropriate instrument.
-(10)  Subject to federal bankruptcy law, neither the recordation of an
-affidavit under Subsection (9) nor the reexecution and rerecording of a
-document under Subsection (8):
-(a) divests a grantee of any real property interest;
-(b) alters an interest in real property; or
-(c)  returns to the grantor an interest in real property conveyed by statute.
+(10) (a)  Except as required by federal law, or by agreement between a
+borrower under the trust deed and a grantee under the trustee's deed, and
+subject to Subsection (10)(b), neither the recordation of an affidavit under
+Subsection (9) nor the reexecution and rerecording of a document under
+Subsection (8):
+(i)  divests a grantee of any real property interest;
+(ii)  alters an interest in real property; or
+(iii)  returns to the grantor an interest in real property conveyed by
+statute.
+(b)  A person who reexecutes and rerecords a document under Subsection (8), or
+records an affidavit under Subsection (9), shall include with the document or
+affidavit a notice containing the name and address to which real property
+valuation and tax notices shall be mailed.

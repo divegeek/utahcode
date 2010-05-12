@@ -32,7 +32,7 @@ in the election of their right to join in the election to purchase shares in
 accordance with this section, and of the date by which any notice of intent to
 participate must be filed with the court.
 (c)  Shareholders who wish to participate in the purchase of shares from the
-petitioning shareholder must file notice of their intention to join in the
+petitioning shareholder shall file notice of their intention to join in the
 purchase by the electing shareholders, no later than 30 days after the
 effective date of the corporation's notice of their right to join in the
 election to purchase.
@@ -78,7 +78,7 @@ shareholders if the shares are to be purchased by shareholders.
 different classes of shares, the court shall attempt to preserve the existing
 distribution of voting rights among holders of different share classes to the
 extent practicable.  The court may direct that holders of a specific class or
-classes shall not participate in the purchase.  The court may not require any
+classes may not participate in the purchase.  The court may not require any
 electing shareholder to purchase more of the shares of the corporation owned
 by the petitioning shareholder than the number of shares that the purchasing
 shareholder may have set forth in his election or notice of intent to

@@ -3,22 +3,22 @@
 the articles of incorporation for submission to the shareholders.
 (2)  For an amendment to the articles of incorporation proposed pursuant to
 Subsection (1) to be adopted:
-(a)  the board of directors must recommend the amendment to the shareholders
+(a)  the board of directors shall recommend the amendment to the shareholders
 unless the board determines that, because of conflicts of interest or other
 special circumstances, it should make no recommendation and communicates the
 basis for its determination to the shareholders with the amendment; and
-(b)  shareholders entitled to vote on the amendment must approve the amendment
-as provided in Subsection (5).
+(b)  shareholders entitled to vote on the amendment shall approve the
+amendment as provided in Subsection (5).
 (3)  The board of directors may condition its submission of the proposed
 amendment on any basis.
 (4)  The corporation shall give notice, in accordance with Section 16-10a-705,
 of the shareholders' meeting at which the amendment will be voted upon, to
 each shareholder entitled to vote on the proposed amendment.  The notice of
-the meeting must state that one of the purposes of the meeting is to consider
-the proposed amendment and it must contain or be accompanied by a copy or
+the meeting shall state that one of the purposes of the meeting is to consider
+the proposed amendment and it shall contain or be accompanied by a copy or
 summary of the amendment.
-(5)  Unless this chapter, the articles of incorporation, the bylaws (if
-authorized by the articles of incorporation) or the board of directors acting
+(5)  Unless this chapter, the articles of incorporation, the bylaws, if
+authorized by the articles of incorporation, or the board of directors acting
 pursuant to Subsection (3) require a greater vote or a vote by voting groups,
 the amendment to be adopted must be approved by:
 (a)  a majority of the votes entitled to be cast on the amendment by any

@@ -50,7 +50,7 @@ person and the defendant's participation was relatively minor; and
 penalty.  Except as provided in Subsection 76-3-207.5(2), in all proceedings
 before a jury, under this section, it shall be instructed as to the punishment
 to be imposed upon a unanimous decision for death and that the penalty of
-either an indeterminate prison term of not less than 20 years and which may be
+either an indeterminate prison term of not less than 25 years and which may be
 for life or life in prison without parole, shall be imposed if a unanimous
 decision for death is not found.
 (b)  The death penalty shall only be imposed if, after considering the
@@ -71,7 +71,7 @@ impose the sentence of life in prison without parole, the court shall
 discharge the jury and shall impose the sentence of life in prison without
 parole.  If 10 jurors or more do not agree upon a sentence of life in prison
 without parole, the court shall discharge the jury and impose an indeterminate
-prison term of not less than 20 years and which may be for life.
+prison term of not less than 25 years and which may be for life.
 (d)  If the defendant waives hearing before the jury as to sentencing, with
 the approval of the court and the consent of the prosecution, the court shall
 determine the appropriate penalty according to the standards of Subsections
@@ -121,4 +121,4 @@ defendant to life in prison without parole is likely to result in a manifest
 injustice, it may remand the case to the sentencing court for further
 sentencing proceedings to determine if the defendant should serve a sentence
 of life in prison without parole or an indeterminate prison term of not less
-than 20 years and which may be for life.
+than 25 years and which may be for life.

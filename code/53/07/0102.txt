@@ -1,10 +1,12 @@
 53-7-102.   Definitions.
 As used in this chapter:
-(1)  "Director" means the state fire marshal appointed in accordance with
+(1)  "Board" means the Utah Fire Prevention Board created in Section 53-7-203,
+except as provided in Part 3, Liquefied Petroleum Gas Act.
+(2)  "Director" means the state fire marshal appointed in accordance with
 Section 53-7-103.
-(2)  "Division" means the State Fire Marshal Division created in Section
+(3)  "Division" means the State Fire Marshal Division created in Section
 53-7-103.
-(3)  "Fire officer" means:
+(4)  "Fire officer" means:
 (a)  the state fire marshal;
 (b)  the state fire marshal's deputies or salaried assistants;
 (c)  the fire chief or fire marshal of any county, city, or town fire
@@ -12,7 +14,12 @@ department;
 (d)  the fire officer of any fire district;
 (e)  the fire officer of any special service district organized for fire
 protection purposes; and
-(f)  authorized personnel of any of the persons specified in Subsections (a)
-through (e).
-(4)  "State fire marshal" means the fire marshal appointed director by the
+(f)  authorized personnel of any of the persons specified in Subsections
+(4)(a) through (e).
+(5)  "Legislative action" includes legislation that:
+(a)  adopts a state fire code;
+(b)  amends a state fire code; or
+(c)  repeals one or more provisions of a state fire code.
+(6)  "State fire code" means the code adopted under Section 53-7-106.
+(7)  "State fire marshal" means the fire marshal appointed director by the
 commissioner under Section 53-7-103.

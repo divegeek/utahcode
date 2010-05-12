@@ -13,7 +13,19 @@ standard, quality, grade, style, or model, if it is not;
 if it is not, or has been used to an extent that is materially different from
 the fact;
 (d)  indicates that the subject of a consumer transaction is available to the
-consumer for a reason that does not exist;
+consumer for a reason that does not exist, including any of the following
+reasons falsely used in an advertisement:
+(i)  "going out of business";
+(ii)  "bankruptcy sale";
+(iii)  "lost our lease";
+(iv)  "building coming down";
+(v)  "forced out of business";
+(vi)  "final days";
+(vii)  "liquidation sale";
+(viii)  "fire sale";
+(ix)  "quitting business"; or
+(x)  an expression similar to any of the expressions in Subsections (2)(d)(i)
+through (ix);
 (e)  indicates that the subject of a consumer transaction has been supplied in
 accordance with a previous representation, if it has not;
 (f)  indicates that the subject of a consumer transaction will be supplied in
@@ -59,7 +71,7 @@ charitable solicitation will be donated or used for a particular purpose or
 will be donated to or used by a particular organization, if the representation
 is false;
 (p)  if a consumer indicates the consumer's intention of making a claim for a
-motor vehicle repair against the consumer's  motor vehicle insurance policy:
+motor vehicle repair against the consumer's motor vehicle insurance policy:
 (i)  commences the repair without first giving the consumer oral and written
 notice of:
 (A)  the total estimated cost of the repair; and

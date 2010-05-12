@@ -4,7 +4,7 @@ As used in this chapter:
 Advisory Board created in Section 13-14-103.
 (2)  "Affiliate" has the meaning set forth in Section 16-10a-102.
 (3)  "Aftermarket product" means any product or service not included in the
-manufacturer's suggested retail price of the new motor vehicle, as that price
+franchisor's suggested retail price of the new motor vehicle, as that price
 appears on the label required by 15 U.S.C. Sec. 1232(f).
 (4)  "Dealership" means a site or location in this state:
 (a)  at which a franchisee conducts the business of a new motor vehicle
@@ -30,9 +30,10 @@ motor vehicles manufactured, produced, represented, or distributed by the
 franchisor.
 (9)  "Franchisor" means a person who has, in writing or in practice, agreed
 with or permits a franchisee to purchase, sell, or offer for sale new motor
-vehicles manufactured, produced, represented, or distributed by the
+vehicles manufactured, produced, assembled, represented, or distributed by the
 franchisor, and includes:
-(a)  the manufacturer or distributor of the new motor vehicles;
+(a)  the manufacturer, producer, assembler, or distributor of the new motor
+vehicles;
 (b)  an intermediate distributor; and
 (c)  an agent, officer, or field or area representative of the franchisor.
 (10)  "Lead" means the referral by a franchisor to a franchisee of a potential
@@ -42,8 +43,7 @@ a new motor vehicle, or for service work related to the franchisor's vehicles.
 (11)  "Line-make" means:
 (a)  for other than a recreational vehicle, the motor vehicles that are
 offered for sale, lease, or distribution under a common name, trademark,
-service mark, or brand name of the franchisor, or manufacturer of the motor
-vehicle; or
+service mark, or brand name of the franchisor; or
 (b)  for a recreational vehicle, a specific series of recreational vehicle
 product that:
 (i)  is identified by a common series trade name or trademark;
@@ -61,7 +61,7 @@ the chassis, frame, and body; and
 temporary dwelling for travel, recreational, or vacation use.
 (14) (a)  "Motor vehicle" means:
 (i)  a travel trailer;
-(ii) except as provided in Subsection (14)(b), a motor vehicle as defined in
+(ii)  except as provided in Subsection (14)(b), a motor vehicle as defined in
 Section 41-3-102;
 (iii)  a semitrailer as defined in Section 41-1a-102;
 (iv)  a trailer as defined in Section 41-1a-102; and
@@ -91,7 +91,7 @@ vacation use, that is either self-propelled or pulled by another vehicle.
 (19) (a)  "Relevant market area," except with respect to recreational
 vehicles, means:
 (i)  the county in which a dealership is to be established or relocated; and
-(ii)  the area within a ten-mile radius from the site of the new or relocated
+(ii)  the area within a 15-mile radius from the site of the new or relocated
 dealership.
 (b)  "Relevant market area," with respect to recreational vehicles, means:
 (i)  the county in which the dealership is to be established or relocated; and
@@ -102,9 +102,22 @@ an interest in a franchise, with or without consideration, including a
 bequest, inheritance, gift, exchange, lease, or license.
 (21)  "Serve" or "served," unless expressly indicated otherwise by statute or
 rule, includes any reliable form of communication.
-(22)  "Travel trailer," "camping trailer," or "fifth wheel trailer" means a
+(22)  "Site-control agreement" means an agreement, however denominated and
+regardless of its form or of the parties to it, that has the effect of:
+(a)  controlling in any way the use and development of the premises upon which
+a franchisee's business operations are located;
+(b)  requiring a franchisee to establish or maintain an exclusive dealership
+facility on the premises upon which the franchisee's business operations are
+located; or
+(c)  restricting the ability of the franchisee or, if the franchisee leases
+the dealership premises, the franchisee's lessor to transfer, sell, lease,
+develop, redevelop, or change the use of some or all of the dealership
+premises, whether by sublease, lease, collateral pledge of lease, right of
+first refusal to purchase or lease, option to purchase or lease, or any
+similar arrangement.
+(23)  "Travel trailer," "camping trailer," or "fifth wheel trailer" means a
 portable vehicle without motive power, designed as a temporary dwelling for
 travel, recreational, or vacation use that does not require a special highway
 movement permit when drawn by a self-propelled motor vehicle.
-(23)  "Written," "write," "in writing," or other variations of those terms
+(24)  "Written," "write," "in writing," or other variations of those terms
 shall include all reliable forms of electronic communication.

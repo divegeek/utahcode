@@ -13,19 +13,26 @@ holiday shall be substituted in Subsection (1)(a) and Subsection 59-2-1332(1)
 for November 30; and
 (ii)  the date of the day occurring 30 days after the date under Subsection
 (1)(b)(i) shall be substituted in Subsection 59-2-1332(1) for December 30.
-(2) (a)  For each parcel, all delinquent taxes on each separately assessed
-parcel are subject to a penalty of 2% of the amount of the taxes or $10,
-whichever is greater.
-(b)  Unless the delinquent taxes, together with the penalty, are paid before
-January 16, the amount of taxes and penalty shall bear interest on a per annum
-basis from January 1 following the delinquency date.
-(c)  For purposes of Subsection (2)(b), the interest rate is equal to the sum
-of:
+(2) (a) Except as provided in Subsection (2)(e), for each parcel, all
+delinquent taxes on each separately assessed parcel are subject to a penalty
+of 2.5% of the amount of the delinquent taxes or $10, whichever is greater.
+(b)  Unless the delinquent taxes, together with the penalty, are paid on or
+before January 31, the amount of taxes and penalty shall bear interest on a
+per annum basis from the January 1 immediately following the delinquency date.
+(c) Except as provided in Subsection (2)(d), for purposes of Subsection
+(2)(b), the interest rate is equal to the sum of:
 (i)  6%; and
 (ii)  the federal funds rate target:
 (A)  established by the Federal Open Markets Committee; and
 (B)  that exists on the January 1 immediately following the date of
 delinquency.
+(d)  The interest rate described in Subsection (2)(c) may not be:
+(i)  less than 7%; or
+(ii)  more than 10%.
+(e)  The penalty described in Subsection (2)(a) is 1% of the amount of the
+delinquent taxes or $10, whichever is greater, if all delinquent taxes and the
+penalty are paid on or before the January 31 immediately following the
+delinquency date.
 (3)  If the delinquency exceeds one year, the amount of taxes and penalties
 for that year and all succeeding years shall bear interest until settled in
 full through redemption or tax sale.  The interest rate to be applied shall be

@@ -39,8 +39,13 @@ visible to a person seeking to operate the vehicle.
 (ii)  a phone number that the owner of the vehicle may call to arrange for
 release of the vehicle; and
 (iii)  applicable fees.
-(4)  The maximum fee that a vehicle immobilizer may charge to remove a vehicle
-immobilization device may not exceed $75.
+(4) (a)  The maximum fee that a vehicle immobilizer may charge to remove a
+vehicle immobilization device may not exceed:
+(i)  $75 for the first 24-hour period a vehicle is immobilized; plus
+(ii)  $25 for each additional 24-hour period a vehicle is immobilized.
+(b)  Notwithstanding Subsection (4)(a), the maximum fee that a vehicle
+immobilizer may charge to remove a vehicle immobilization device may not
+exceed $150 for each instance.
 (5)  A county or municipal legislative or governing body may not enact or
 enforce any ordinance, regulation, rule, or fee pertaining to a vehicle
 immobilization device that conflicts with this part.

@@ -1,11 +1,11 @@
 20A-7-101.   Definitions.
 As used in this chapter:
 (1)  "Budget officer" means:
-(a)  for counties, the person designated as budget officer in Section
+(a)  for a county, the person designated as budget officer in Section
 17-19-19;
-(b)  for cities, the person designated as budget officer in Subsection
+(b)  for a city, the person designated as budget officer in Subsection
 10-6-106(5); or
-(c)  for towns, the town council.
+(c)  for a town, the town council.
 (2)  "Certified" means that the county clerk has acknowledged a signature as
 being the signature of a registered voter.
 (3)  "Circulation" means the process of submitting an initiative or referendum
@@ -28,24 +28,25 @@ together as a unit.
 (a)  is registered to vote; or
 (b)  becomes registered to vote before the county clerk certifies the
 signatures on an initiative or referendum petition.
-(10) (a)  "Local law" includes an ordinance, resolution, master plan, and any
-comprehensive zoning regulations adopted by ordinance or resolution.
-(b)  "Local law" does not include individual property zoning decisions.
-(11)  "Local attorney" means the county attorney, city attorney, or town
+(10)  "Local attorney" means the county attorney, city attorney, or town
 attorney in whose jurisdiction a local initiative or referendum petition is
 circulated.
-(12)  "Local clerk" means the county clerk, city recorder, or town clerk in
+(11)  "Local clerk" means the county clerk, city recorder, or town clerk in
 whose jurisdiction a local initiative or referendum petition is circulated.
+(12) (a)  "Local law" includes an ordinance, resolution, master plan, and any
+comprehensive zoning regulation adopted by ordinance or resolution.
+(b)  "Local law" does not include an individual property zoning decision.
 (13)  "Local legislative body" means the legislative body of a county, city,
 or town.
 (14)  "Measure" means a proposed constitutional amendment, an initiative, or
 referendum.
-(15)  "Referendum" means a law passed by the Legislature or by a local
-legislative body that is being submitted to the voters for their approval or
-rejection.
+(15)  "Referendum" means a process by which a law passed by the Legislature or
+by a local legislative body is submitted or referred to the voters for their
+approval or rejection.
 (16)  "Referendum packet" means a copy of the referendum petition, a copy of
-the law being submitted to the voters for their approval or rejection, and the
-signature sheets, all of which have been bound together as a unit.
+the law being submitted or referred to the voters for their approval or
+rejection, and the signature sheets, all of which have been bound together as
+a unit.
 (17)  "Signature sheets" means sheets in the form required by this chapter
 that are used to collect signatures in support of an initiative or referendum.
 (18)  "Sponsors" means the legal voters who support the initiative or

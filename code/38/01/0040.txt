@@ -1,12 +1,9 @@
-38-1-40.   Notice of intent to file notice of completion.
-(1)  An owner, as defined in Section 14-2-1, of a construction project that is
-registered with the database who intends to file a notice of completion in
-accordance with the provisions of Subsection 38-1-33(1)(a), or a contractor of
-a commercial nonresidential construction project that is registered with the
-database who intends to file a notice of completion in accordance with the
-provisions of Subsection 38-1-33(1)(a), shall first file a notice of intent to
-file a notice of completion with the database in accordance with the
-provisions of Section 38-1-40 if:
+38-1-40.   Notice of intent to obtain final completion.
+(1)  An owner, as defined in Section 14-2-1, of a nonresidential construction
+project that is registered with the database, or a contractor of a commercial
+nonresidential construction project that is registered with the database under
+Section 38-1-33, shall file with the database a notice of intent to obtain
+final completion as provided in this section if:
 (a)  the completion of performance time under the original contract is greater
 than 120 days;
 (b)  the total original construction contract price exceeds $500,000; and

@@ -12,8 +12,8 @@ general circulation within the agency's boundaries; or
 (B)  if there is no newspaper of general circulation within the agency's
 boundaries, causing a notice to be posted in at least three public places
 within the agency's boundaries; and
-(ii)  publishing or causing to be published in accordance with Section
-45-1-101.
+(ii)  publishing or causing to be published a notice on the Utah Public Notice
+Website created in Section 63F-1-701.
 (b)  Each notice under Subsection (2)(a) shall:
 (i)  set forth a summary of the resolution or interlocal agreement; and
 (ii)  include a statement that the resolution or interlocal agreement is
@@ -29,8 +29,12 @@ interlocal agreement under Subsection (3), any person in interest may contest
 the resolution or interlocal agreement or the procedure used to adopt the
 resolution or interlocal agreement if the resolution or interlocal agreement
 or procedure fails to comply with applicable statutory requirements.
-(b)  After the 30-day period under Subsection (4)(a) expires, no person may
-contest the resolution or interlocal agreement for any cause.
+(b)  After the 30-day period under Subsection (4)(a) expires, a person may
+not, for any cause, contest:
+(i)  the resolution or interlocal agreement;
+(ii)  a payment to the agency under the resolution or interlocal agreement; or
+(iii)  the agency's use of tax increment under the resolution or interlocal
+agreement.
 (5)  Each agency that is to receive funds under a resolution or interlocal
 agreement under Section 17C-4-201 and each taxing entity or public entity that
 approves a resolution or enters into an interlocal agreement under Section

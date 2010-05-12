@@ -28,7 +28,7 @@ the action is based.
 (b)  If an act or practice that violates this chapter unjustly enriches a
 supplier and the damages can be computed with reasonable certainty, damages
 recoverable on behalf of consumers who cannot be located with due diligence
-shall be transferred to the state treasurer pursuant to Title 67, Chapter  4a,
+shall be transferred to the state treasurer pursuant to Title 67, Chapter 4a,
 Unclaimed Property Act.
 (c)  If a supplier shows by a preponderance of the evidence that a violation
 of this chapter resulted from a bona fide error notwithstanding the
@@ -51,7 +51,7 @@ with him.
 (7)  When a judgment under this section becomes final, the prevailing party
 shall mail a copy to the enforcing authority for inclusion in the public file
 maintained under Subsection 13-11-7(1)(e).
-(8)  An action under this section must be brought within two years after
+(8)  An action under this section shall be brought within two years after
 occurrence of a violation of this chapter, or within one year after the
 termination of proceedings by the enforcing authority with respect to a
 violation of this chapter, whichever is later. When a supplier sues a

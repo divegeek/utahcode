@@ -81,11 +81,12 @@ portion of the trust for federal income tax purposes.
 during the taxable year, but only for the duration of the period during which
 the individual is domiciled in this state; or
 (B)  an individual who is not domiciled in this state but:
-(I)  maintains a permanent place of abode in this state; and
+(I)  maintains a place of abode in this state; and
 (II)  spends in the aggregate 183 or more days of the taxable year in this
 state.
-(ii)  For purposes of Subsection (1)(q)(i)(B), a fraction of a calendar day
-shall be counted as a whole day.
+(ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, and for purposes of Subsection (1)(q)(i)(B), the commission shall by rule
+define what constitutes spending a day of the taxable year in the state.
 (r)  "Resident estate" or "resident trust" is as defined in Section 75-7-103.
 (s)  "Servicemember" is as defined in Pub. L. No. 108-189, Sec. 101.
 (t)  "State income tax percentage for a nonresident estate or trust" means a

@@ -5,7 +5,8 @@ As used in this chapter:
 an entity;
 (b)  the power to vote more than 5% of the voting shares of an entity; or
 (c)  the ability to influence the management of an entity.
-(2)  "Cyber-terrorism" means:
+(2)  "Depository institution" is as defined in Section 7-1-103.
+(3)  "Malicious cyber activity" means:
 (a)  the unlawful use of computing resources to intimidate or coerce others;
 (b)  accessing a computer without authorization or exceeding authorized
 access;
@@ -17,13 +18,12 @@ authorized access;
 computing resources or to the owner of any computing resources; or
 (ii)  intends to materially cause damage or disruption to any computing
 resources indirectly through another party's computing resources.
-(3)  "Depository institution" is as defined in Section 7-1-103.
 (4) (a)  Except as provided in Subsection (4)(b), "unfair competition" means
 an intentional business act or practice that:
 (i) (A)  is unlawful, unfair, or fraudulent; and
 (B)  leads to a material diminution in value of intellectual property; and
 (ii)  is one of the following:
-(A)  cyber-terrorism;
+(A) malicious cyber activity;
 (B)  infringement of a patent, trademark, or trade name;
 (C)  a software license violation; or
 (D)  predatory hiring practices.

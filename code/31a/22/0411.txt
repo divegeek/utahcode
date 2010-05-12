@@ -1,26 +1,31 @@
 31A-22-411.   Contracts providing variable benefits.
-(1) (a)  Any contract which provides for payment of benefits in variable
-amounts shall contain a statement of the essential features of the procedure
-to be followed by the insurer in determining the dollar amount of the variable
-benefits.  The contract shall contain:
-(i)  appropriate nonforfeiture benefits in lieu of those required by either
+(1) An insurance policy that provides for payment of a benefit in a variable
+amount shall contain a statement of the essential features of the procedure to
+be followed by the insurer in determining the dollar amount of the variable
+benefits.
+(2)  A variable insurance policy shall contain:
+(a)  an appropriate nonforfeiture benefit in lieu of those required by either
 Section 31A-22-408 or 31A-22-409;
-(ii)  appropriate reinstatement provisions in lieu of those required by
+(b)  an appropriate reinstatement provision in lieu of those required by
 Section 31A-22-407; and
-(iii)  grace period provisions appropriate to that type of contract in lieu of
-those required by Section 31A-22-402.
-(b)  This individual contract and any certificate issued under a group
-contract shall state that the dollar amount may decrease or increase and shall
-conspicuously display on its first page a statement that the benefits under
-the contract are payable on a variable basis, with a statement specifying
-where the details of the variable provisions are found in the contract.
-(c)  Life insurance and annuity policies with variable benefits issued under a
-separate account shall, on either the application or the policy, state that
-the insurer's liabilities with respect to variable benefits under the policy
-are subject to satisfaction only out of the insurer's variable account assets.
-(2)  Any contract subject to Subsection (1) shall state whether it may be
-amended as to investment policy, voting rights, and conduct of the business
-and affairs of any segregated account.  Subject to any preemptive provision of
-federal law, this type of amendment is subject to filing under Section
-31A-21-201 and approval by a majority of the policyholders in the segregated
-account.
+(c)  a grace period provision appropriate to that type of insurance policy in
+lieu of those required by Section 31A-22-402.
+(3)  An individual insurance policy and a certificate issued under a group
+insurance policy shall conspicuously state on its first page that:
+(a)  the dollar amount may decrease or increase according to investment
+experience; and
+(b)  a benefit under the insurance policy is payable on a variable basis.
+(4)  A life insurance or annuity policy with a variable benefit issued under a
+separate account shall, on either the application or the insurance policy,
+state that the insurer's liabilities with respect to a variable benefit under
+the insurance policy are subject to satisfaction only out of the insurer's
+variable account assets.
+(5)(a)  A variable insurance policy shall state whether it may be amended as
+to:
+(i)  investment policy;
+(ii)  voting rights; and
+(iii)  conduct of the business and affairs of a separate account.
+(b)  Subject to any preemptive provision of federal law, an amendment of the
+type described in this Subsection (5) is subject to:
+(i)  filing under Section 31A-21-201; and
+(ii)  approval by a majority of the policyholders in the separate account.

@@ -1,7 +1,7 @@
 16-10a-401.   Corporate name.
 (1)  The name of a corporation:
 (a)  except for the name of a depository institution as defined in Section
-7-1-103, must contain:
+7-1-103, shall contain:
 (i)  the word:
 (A)  "corporation";
 (B)  "incorporated"; or
@@ -16,18 +16,18 @@ listed in Subsections (1)(a)(i) and (ii) in another language;
 organized for a purpose other than that permitted by:
 (i)  Section 16-10a-301; and
 (ii)  the corporation's articles of incorporation;
-(c) without the written consent of the United States Olympic Committee, may
+(c)  without the written consent of the United States Olympic Committee, may
 not contain the words:
 (i)  "Olympic";
 (ii)  "Olympiad"; or
 (iii)  "Citius Altius Fortius"; and
-(d) without the written consent of the Division of Consumer Protection issued
+(d)  without the written consent of the Division of Consumer Protection issued
 in accordance with Section 13-34-114, may not contain the words:
 (i)  "university";
 (ii)  "college"; or
-(iii)  "institute."
+(iii)  "institute" or "institution."
 (2)  Except as authorized by Subsections (3) and (4), the name of a
-corporation must be distinguishable, as defined in Subsection (5), upon the
+corporation shall be distinguishable, as defined in Subsection (5), upon the
 records of the division from:
 (a)  the name of any domestic corporation incorporated in or foreign
 corporation authorized to transact business in this state;
@@ -67,7 +67,7 @@ in this state; and
 (ii)  has been formed by reorganization of the other corporation.
 (5) (a)  A name is distinguishable from other names, trademarks, and service
 marks on the records of the division if it:
-(i) contains one or more different letters or numerals; or
+(i)  contains one or more different letters or numerals; or
 (ii)  has a different sequence of letters or numerals from the other names on
 the division's records.
 (b)  Differences which are not distinguishing are:
@@ -87,7 +87,7 @@ the division's records.
 "and," or "a";
 (iii)  differences in punctuation and special characters;
 (iv)  differences in capitalization;
-(v) differences between singular and plural forms of words for a corporation:
+(v)  differences between singular and plural forms of words for a corporation:
 (A)  incorporated in or authorized to do business in this state on or after
 May 4, 1998; or
 (B)  that changes its name on or after May 4, 1998;

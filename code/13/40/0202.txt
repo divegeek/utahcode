@@ -1,15 +1,10 @@
-13-40-202.   Permissive removal of potentially harmful software.
-If a provider of computer software or an interactive computer service provides
-prior notice to a user with whom the provider has an established business
-relationship, that provider is not liable under the law of this state, or a
-political subdivision of this state, for identifying, removing, or disabling,
-preventing installation of a program on the user's computer that is used to,
-or that the provider reasonably or in good faith believes will likely be used
-to:
-(1)  violate a provision of this chapter; or
-(2)  to engage in surreptitious collection of information concerning the
-user's use of the computer without the consent of the owner of the computer,
-except that no notice is required for:
-(a)  preventing the installation of a program; or
-(b)  in the case of an enterprise network, removing, disabling, or preventing
-the installation of a program on the computer of an employee.
+13-40-202.   Removal of domain name or content -- Liability.
+If an Internet registrar or Internet service provider believes in good faith
+that an Internet domain name controlled or operated by the Internet registrar
+or Internet service provider, or content residing on an Internet website or
+other online location controlled or operated by the Internet registrar or
+Internet service provider, is used to engage in a violation of this part, the
+Internet registrar or Internet service provider is not liable under any
+provision of the laws of this state or of any political subdivision of the
+state for removing or disabling access to the Internet domain name or other
+content.

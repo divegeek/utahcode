@@ -20,8 +20,8 @@ either before or after the issuance of shares of the series, provided that the
 number may not be decreased below the number of shares of the series then
 outstanding, or increased above the total number of authorized shares of the
 applicable class of shares available for designation as a part of the series.
-(2)  Each series of a class must be given a distinguishing designation.
-(3)  All shares of a series must have preferences, limitations, and relative
+(2)  Each series of a class shall be given a distinguishing designation.
+(3)  All shares of a series shall have preferences, limitations, and relative
 rights identical with those of other shares of the same series and, except to
 the extent otherwise provided in the description of the series, with those of
 other series of the same class.
@@ -29,7 +29,7 @@ other series of the same class.
 section, or having preferences, limitations, or relative rights designated by
 the board of directors as provided in this section, and before any amendment
 to articles of incorporation contemplated by Subsection (1) shall be
-effective, the corporation must deliver to the division for filing, in
+effective, the corporation shall deliver to the division for filing, in
 accordance with the procedure set forth in Section 16-10a-1006, articles of
 amendment that set forth:
 (a)  the name of the corporation;

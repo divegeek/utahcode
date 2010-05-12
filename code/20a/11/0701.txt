@@ -1,5 +1,6 @@
-20A-11-701.   Campaign financial reporting of candidate campaign
-contributions by corporations -- Filing requirements -- Statement contents.
+20A-11-701 (Superseded 01/01/11).   Campaign financial reporting of
+candidate campaign contributions by corporations -- Filing requirements --
+Statement contents.
 (1) (a)  Each corporation that has made expenditures for political purposes
 that total at least $750 during a calendar year shall file a verified
 financial statement with the lieutenant governor's office on:
@@ -10,7 +11,7 @@ year;
 (b)  The corporation shall report:
 (i)  a detailed listing of all expenditures made since the last statement; and
 (ii)  for financial statements filed on August 31 and before the general
-election, all expenditures as of three days before the required filing date of
+election, all expenditures as of five days before the required filing date of
 the financial statement.
 (c)  The corporation need not file a statement under this section if it made
 no expenditures during the reporting period.

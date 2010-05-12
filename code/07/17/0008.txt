@@ -1,8 +1,8 @@
 7-17-8.   Damages for lender's violation of act -- Limitations on recovery.
-(1) Except as otherwise provided in this act, a lender who violates this act
+(1)  Except as otherwise provided in this act, a lender who violates this act
 is liable to the borrower, his successors or assigns, for the actual damages
 suffered by the borrower, his assigns or successors, or $100, whichever is
-greater. If an action is commenced, the prevailing party may be awarded
+greater.  If an action is commenced, the prevailing party may be awarded
 reasonable attorney's fees as determined by the court.
 (2)  A lender has no liability under this section if the court finds that
 written demand for payment of the claim of the borrower, his successors or
@@ -16,7 +16,7 @@ resulted from a bona fide error notwithstanding the maintenance of procedures
 to avoid such errors.
 (4)  A reserve account established or maintained in violation of this act is
 voidable, at the option of the borrower, his successors or assigns, at any
-time, but shall not otherwise affect the validity of the loan, the security
+time, but does not otherwise affect the validity of the loan, the security
 interest in the real property or any other obligation of the borrower.
 (5)  No action under this section may be brought more than one year after the
 date of the violation.

@@ -13,11 +13,11 @@ chapter.
 (c)  The names of all persons appointed to boards shall be submitted to the
 governor for confirmation or rejection.  If an appointee is rejected by the
 governor, the executive director shall appoint another person in the same
-manner as set forth in Subsection (a).
-(2) (a)  Except as required by Subsection (b), as terms of current board
+manner as set forth in Subsection (1)(a).
+(2) (a)  Except as required by Subsection (2)(b), as terms of current board
 members expire, the executive director shall appoint each new member or
 reappointed member to a four-year term.
-(b)  Notwithstanding the requirements of Subsection (a), the executive
+(b)  Notwithstanding the requirements of Subsection (2)(a), the executive
 director shall, at the time of appointment or reappointment, adjust the length
 of terms to ensure that the terms of board members are staggered so that
 approximately half of the board is appointed every two years.
@@ -35,19 +35,12 @@ executive director with the approval of the board may remove the board member
 and replace the member in accordance with this section.
 (3)  A majority of the board members constitutes a quorum.  A quorum is
 sufficient authority for the board to act.
-(4) (a) (i)  Members who are not government employees shall receive no
-compensation or benefits for their services, but may receive per diem and
-expenses incurred in the performance of the member’s official duties at the
-rates established by the Division of Finance under Sections 63A-3-106 and
+(4)  A member may not receive compensation or benefits for the member's
+service, but may receive per diem and travel expenses in accordance with:
+(a)  Section 63A-3-106;
+(b)  Section 63A-3-107; and
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and
 63A-3-107.
-(ii)  Members may decline to receive per diem and expenses for their service.
-(b) (i)  State government officer and employee members who do not receive
-salary, per diem, or expenses from their agency for their service may receive
-per diem and expenses incurred in the performance of their official duties
-from the board at the rates established by the Division of Finance under
-Sections 63A-3-106 and 63A-3-107.
-(ii)  State government officer and employee members may decline to receive per
-diem and expenses for their service.
 (5)  Each board shall annually designate one of its members to serve as chair
 for a one-year period.
 (6)  A board member may not be a member of the faculty of or have any

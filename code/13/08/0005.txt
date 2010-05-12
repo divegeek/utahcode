@@ -16,7 +16,7 @@ is nonresidential.
 savings bank, industrial bank, land bank, safe deposit company, private
 banker, savings and loan association, credit union, cooperative bank, small
 loan company, sales finance company, investment company, or any other
-financial institution that advances monies to a borrower for the purpose of
+financial institution that advances money to a borrower for the purpose of
 making alterations or improvements to real property.  A construction lender
 does not include a person or entity who is acting in the capacity of
 contractor, original contractor, or subcontractor.
@@ -37,7 +37,7 @@ state that enters into a construction contract for an improvement of public
 property.
 (g)  "Retention payment" means release of retention proceeds as defined in
 Subsection (1)(h).
-(h)  "Retention proceeds" means monies earned by a contractor or subcontractor
+(h)  "Retention proceeds" means money earned by a contractor or subcontractor
 but retained by the owner or public agency pursuant to the terms of a
 construction contract to guarantee payment or performance by the contractor or
 subcontractor of the construction contract.

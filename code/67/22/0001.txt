@@ -24,11 +24,15 @@ noncareer service employees.
 (b)  Lieutenant governor, attorney general, state auditor, and state
 treasurer:
 (i)  a vehicle for official and personal use;
-(ii)  the option of participating in a state retirement system established by
-Title 49, Chapter 12, Public Employees' Contributory Retirement Act, or
-Chapter 13, Public Employees' Noncontributory Retirement Act, or in a deferred
-compensation plan administered by the State Retirement Office, in accordance
-with the Internal Revenue Code and its accompanying rules and regulations;
+(ii)  the option of participating in a:
+(A)  state retirement system in accordance with Title 49:
+(I)  Chapter 12, Public Employees' Contributory Retirement Act;
+(II)  Chapter 13, Public Employees' Noncontributory Retirement Act; or
+(III)  Chapter 22, New Public Employees' Tier II Contributory Retirement Act;
+or
+(B)  deferred compensation plan administered by the State Retirement Office,
+in accordance with the Internal Revenue Code and its accompanying rules and
+regulations;
 (iii)  health insurance;
 (iv)  dental insurance;
 (v)  basic life insurance;

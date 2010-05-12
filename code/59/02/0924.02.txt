@@ -141,10 +141,10 @@ Assessment; and
 (8) (a)  The taxable value for the base year under Subsection 17C-1-102(6)
 shall be reduced for any year to the extent necessary to provide a community
 development and renewal agency established under Title 17C, Limited Purpose
-Local Government Entities - Community Development and Renewal Agencies, with
-approximately the same amount of money the agency would have received without
-a reduction in the county's certified tax rate, calculated in accordance with
-Section 59-2-924, if:
+Local Government Entities - Community Development and Renewal Agencies Act,
+with approximately the same amount of money the agency would have received
+without a reduction in the county's certified tax rate, calculated in
+accordance with Section 59-2-924, if:
 (i)  in that year there is a decrease in the certified tax rate under
 Subsection (2) or (3)(a);
 (ii)  the amount of the decrease is more than 20% of the county's certified
@@ -165,6 +165,6 @@ taxable value of the base year.
 or (3)(a), the amount of money allocated and, when collected, paid each year
 to a community development and renewal agency established under Title 17C,
 Limited Purpose Local Government Entities - Community Development and Renewal
-Agencies, for the payment of bonds or other contract indebtedness, but not for
-administrative costs, may not be less than that amount would have been without
-a decrease in the certified tax rate under Subsection (2) or (3)(a).
+Agencies Act, for the payment of bonds or other contract indebtedness, but not
+for administrative costs, may not be less than that amount would have been
+without a decrease in the certified tax rate under Subsection (2) or (3)(a).

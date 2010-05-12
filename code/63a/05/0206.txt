@@ -29,7 +29,10 @@ provide electricity to a building.
 exercise direct supervision over the design and construction of all new
 facilities, and all alterations, repairs, and improvements to existing
 facilities if the total project construction cost, regardless of the funding
-source, is greater than $100,000.
+source, is greater than $100,000, unless there is memorandum of understanding
+between the director and an institution of higher education that permits the
+institution of higher education to exercise direct supervision for a project
+with a total project construction cost of not greater than $250,000.
 (ii)  A state entity may exercise direct supervision over the design and
 construction of all new facilities, and all alterations, repairs, and
 improvements to existing facilities if:

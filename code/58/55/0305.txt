@@ -15,7 +15,7 @@ agriculture, livestock or poultry raising, metal and coal mining, quarries,
 sand and gravel excavations, well drilling, as defined in Section 73-3-25,
 hauling to and from construction sites, and lumbering;
 (c)  public utilities operating under the rules of the Public Service
-Commission on construction work incidental to their own business;
+Commission on work incidental to their own business;
 (d)  sole owners of property engaged in building:
 (i)  no more than one residential structure per year and no more than three
 residential structures per five years on their property for their own
@@ -98,10 +98,11 @@ significantly impacting the public's health, safety, and welfare;
 by owners or lessees of property or their agents for the purpose of
 maintaining the property, are exempt from this chapter when doing work upon
 the property;
-(k) (i)  a person engaged in minor plumbing work incidental to the replacement
-or repair of a fixture or an appliance in a residential or small commercial
-building, or structure used for agricultural use, as defined in Section
-58-56-4, provided that no modification is made to:
+(k) (i)  a person engaged in minor plumbing work that is incidental, as
+defined by the division by rule, to the replacement or repair of a fixture or
+an appliance in a residential or small commercial building, or structure used
+for agricultural use, as defined in Section 58-56-3, provided that no
+modification is made to:
 (A)  existing culinary water, soil, waste, or vent piping; or
 (B)  a gas appliance or combustion system; and
 (ii)  except as provided in Subsection (1)(e), installation for the first time
@@ -131,15 +132,21 @@ the condition that:
 (i)  all work intended as a part of a finished product on which there would
 normally be an inspection by a building inspector is, in fact, inspected and
 found acceptable by a licensed building inspector; and
-(ii)  a licensed contractor obtains the necessary building permits; and
+(ii)  a licensed contractor obtains the necessary building permits;
 (p)  a delivery person when replacing any of the following existing equipment
 with a new gas appliance, provided there is an existing gas shutoff valve at
 the appliance:
 (i)  gas range;
 (ii)  gas dryer;
 (iii)  outdoor gas barbeque; or
-(iv)  outdoor gas patio heater.
-(2)  A compliance agency as defined in Subsection 58-56-3(4) that issues a
-building permit to a person requesting a permit as a sole owner of property
-referred to in Subsection (1)(d) shall notify the division, in writing or
-through electronic transmission, of the issuance of the permit.
+(iv)  outdoor gas patio heater;
+(q)  a person performing maintenance on an elevator as defined in Subsection
+58-55-102(14), if the maintenance is not related to the operating integrity of
+the elevator; and
+(r)  an apprentice or helper of an elevator mechanic licensed under this
+chapter when working under the general direction of the licensed elevator
+mechanic.
+(2)  A compliance agency as defined in Section 58-56-3 that issues a building
+permit to a person requesting a permit as a sole owner of property referred to
+in Subsection (1)(d) shall notify the division, in writing or through
+electronic transmission, of the issuance of the permit.

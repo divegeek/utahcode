@@ -11,7 +11,7 @@ or registration of the vehicle under this chapter;
 stolen vehicle or that the granting of registration or the issuance of a
 certificate of title would constitute a fraud against the rightful owner or
 other person having a valid lien upon the vehicle;
-(e)  the registration of the vehicle  is suspended or revoked for any reason
+(e)  the registration of the vehicle is suspended or revoked for any reason
 provided in the motor vehicle laws of this state; or
 (f)  the required fees have not been paid.
 (2)  The division shall also refuse registration or any transfer of
@@ -25,7 +25,7 @@ Safety Act.
 vehicle is revoked under Subsection 41-1a-110(2) until the applicant provides
 proof:
 (a)  of owner's or operator's security in a form allowed under Subsection
-41-12a-303.2(4);
+41-12a-303.2(2)(b);
 (b)  of exemption from the owner's or operator's security requirements; or
 (c)  that the applicant was not an owner of the vehicle at the time of the
 alleged violation or on the day following the time limit provided after the

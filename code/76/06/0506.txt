@@ -1,10 +1,9 @@
 76-6-506.   Financial transaction card offenses -- Definitions.
 As used in this part:
-(1)  "Authorized credit card merchant" means a person as defined in Section
-68-3-12 who is authorized by an issuer to furnish money, goods, services, or
-anything else of value upon presentation of a financial transaction card by a
-card holder and to present valid credit card sales drafts to the issuer for
-payment.
+(1)  "Authorized credit card merchant" means a person who is authorized by an
+issuer to furnish money, goods, services, or anything else of value upon
+presentation of a financial transaction card by a card holder and to present
+valid credit card sales drafts to the issuer for payment.
 (2)  "Automated banking device" means any machine which, when properly
 activated by a financial transaction card or a personal identification code,
 may be used for any of the purposes for which a financial transaction card may

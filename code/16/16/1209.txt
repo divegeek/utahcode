@@ -3,7 +3,7 @@ association.
 (1)  A dissolved limited cooperative association may publish notice of its
 dissolution and request persons having claims against the association to
 present them in accordance with the notice.
-(2)  A notice under Subsection (1) must:
+(2)  A notice under Subsection (1) shall:
 (a)  be published:
 (i)  at least once in a newspaper of general circulation in the county in
 which the dissolved limited cooperative association's principal office is
@@ -32,5 +32,5 @@ winding up the association's activities against a member or holder of
 financial rights to the extent of that person's proportionate share of the
 claim or the association's assets distributed to the person in connection with
 the winding up, whichever is less.  The person's total liability for all
-claims under this Subsection (4) shall not exceed the total amount of assets
+claims under this Subsection (4) may not exceed the total amount of assets
 distributed to the person as part of the winding up of the association.

@@ -2,7 +2,7 @@
 A food is adulterated:
 (1) (a)  if it bears or contains any poisonous or deleterious substance that
 may render it injurious to health; but in case the substance is not an added
-substance the food shall not be considered adulterated under this Subsection
+substance the food may not be considered adulterated under this Subsection
 (1)(a) if the quantity of the substance in such food does not ordinarily
 render it injurious to health;
 (b) (i)  if it bears or contains any added poisonous or added deleterious
@@ -55,14 +55,14 @@ increase its bulk or weight, or reduce its quality or strength or make it
 appear better or of greater value than it is; or
 (3)  if it is confectionery, and:
 (a)  has partially or completely imbedded therein any nonnutritive object;
-provided that this Subsection (3)(a) shall not apply in the case of any
+provided that this Subsection (3)(a) does not apply in the case of any
 nonnutritive objective if, in the judgment of the department such object is of
 practical functional value to the confectionery product and would not render
 the product injurious or hazardous to health;
 (b)  bears or contains any alcohol other than alcohol not in excess of .05% by
 volume derived solely from the use of flavoring extracts; or
 (c)  bears or contains any nonnutritive substance; provided, that this
-Subsection (3)(c) shall not apply to a safe nonnutritive substance that is in
+Subsection (3)(c) does not apply to a safe nonnutritive substance that is in
 or on confectionery by reason of its use for some practical functional purpose
 in the manufacture, packaging, or storing of such confectionery if the use of
 the substance does not promote deception of the consumer or otherwise result

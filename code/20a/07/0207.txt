@@ -1,20 +1,20 @@
 20A-7-207.   Evaluation by the lieutenant governor.
 (1)  When each initiative packet is received from a county clerk, the
-lieutenant governor shall check off from his record the number of each
+lieutenant governor shall check off from the record the number of each
 initiative packet filed.
 (2) (a)  After all of the initiative packets have been received by the
-lieutenant governor, the lieutenant governor shall:
-(i)  count the number of the names certified by the county clerks that appear
+lieutenant governor and the lieutenant governor has removed the signatures as
+required by Section 20A-7-206, the lieutenant governor shall:
+(i)  count the number of the names certified by the county clerks that remain
 on each verified signature sheet; and
 (ii)  declare the petition to be sufficient or insufficient by June 1 before
 the regular general election.
-(b)  If the total number of certified names from each verified signature sheet
-equals or exceeds the number of names required by Section 20A-7-201, the
+(b)  If the total number of names counted under Subsection (2)(a)(i) equals or
+exceeds the number of names required by Section 20A-7-201, the lieutenant
+governor shall mark upon the front of the petition the word "sufficient."
+(c)  If the total number of names counted under Subsection (2)(a)(i) does not
+equal or exceed the number of names required by Section 20A-7-201, the
 lieutenant governor shall mark upon the front of the petition the word
-"sufficient."
-(c)  If the total number of certified names from each verified signature sheet
-does not equal or exceed the number of names required by Section 20A-7-201,
-the lieutenant governor shall mark upon the front of the petition the word
 "insufficient."
 (d)  The lieutenant governor shall immediately notify any one of the sponsors
 of his finding.
@@ -25,10 +25,10 @@ election.
 petition that a sponsor believes is legally sufficient, any voter may, by June
 15, apply to the supreme court for an extraordinary writ to compel the
 lieutenant governor to do so.
-(b)   The supreme court shall:
+(b)  The supreme court shall:
 (i)  determine whether or not the initiative petition is legally sufficient;
 and
-(ii)  certify its findings to the lieutenant governor by July 30.
+(ii)  certify its findings to the lieutenant governor.
 (c)  If the supreme court certifies that the initiative petition is legally
 sufficient, the lieutenant governor shall file it, with a verified copy of the
 judgment attached to it, as of the date on which it was originally offered for

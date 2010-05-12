@@ -21,17 +21,17 @@ jurisdiction to govern:
 payment orders transmitted or processed through the system; or
 (ii)  the rights and obligations of some or all parties to a funds transfer,
 any part of which is carried out by means of the system.
-(b)  A choice of law made pursuant to Subsection (a)(i) is binding on
-participating banks.  A choice of law made pursuant to Subsection (a)(ii) is
-binding on the originator, other sender, or a receiving bank having notice
+(b)  A choice of law made pursuant to Subsection (3)(a)(i) is binding on
+participating banks.  A choice of law made pursuant to Subsection (3)(a)(ii)
+is binding on the originator, other sender, or a receiving bank having notice
 that the funds transfer system might be used in the funds transfer and of the
 choice of law by the system when the originator, other sender, or receiving
 bank issued or accepted a payment order.  The beneficiary of a funds transfer
 is bound by the choice of law if, at the time the funds transfer is initiated,
 the beneficiary has notice that the funds transfer system might be used in the
 funds transfer and of the choice of law by the system.  The law of a
-jurisdiction selected pursuant to this subsection may govern whether or not
-that law bears a reasonable relation to the matter in issue.
+jurisdiction selected pursuant to this Subsection (3) may govern whether or
+not that law bears a reasonable relation to the matter in issue.
 (4)  In the event of inconsistency between an agreement under Subsection (2)
 and a choice of law rule under Subsection (3), the agreement under Subsection
 (2) prevails.

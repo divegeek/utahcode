@@ -53,7 +53,7 @@ has become contaminated by the release; or
 executive secretary to be more cost-effective, of persons whose dwellings have
 been determined by the executive secretary to be no longer habitable due to
 the release.
-(9)  "Costs" means any monies expended for:
+(9)  "Costs" means any money expended for:
 (a)  investigation;
 (b)  abatement action;
 (c)  corrective action;
@@ -131,8 +131,8 @@ refining, and marketing, holds indicia of ownership:
 under an employee benefit plan; or
 (ii)  governmental ownership or control of property by involuntary transfers
 as provided in CERCLA Section 101(20)(D), 42 U.S.C. Sec. 9601(20)(D).
-(c)  The exemption created by Subsection (b)(i)(B) does not apply to actions
-taken by the state or its officials or agencies under this part.
+(c)  The exemption created by Subsection (26)(b)(i)(B) does not apply to
+actions taken by the state or its officials or agencies under this part.
 (d)  The terms and activities "indicia of ownership," "primarily to protect a
 security interest," "participation in management," and "security interest"
 under this part are in accordance with 40 CFR Part 280, Subpart I, as amended,

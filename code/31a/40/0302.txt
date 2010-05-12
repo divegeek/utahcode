@@ -1,13 +1,14 @@
-31A-40-302.   Licensing process -- Grandfathering.
+31A-40-302.   Licensing process.
 (1)  To apply for an initial or renewal license under this chapter, a person
 shall:
-(a) (i)  file an application with the commissioner on a form and in a manner
+(a) (i)  submit an application with the commissioner on a form and in a manner
 the commissioner shall determine by rule made in accordance with Title 63G,
 Chapter 3, Utah Administrative Rulemaking Act; and
 (ii)  pay a license fee determined in accordance with Section 31A-3-103 that
 is not refunded if the application:
-(A)  is denied; or
-(B)  if incomplete, is never completed by the person filing the application;
+(A)  is denied;
+(B)  does not comply with Section 31A-40-303; or
+(C)  if incomplete, is never completed by the person filing the application;
 or
 (b)  comply with Section 31A-40-303.
 (2)  In the application described in Subsection (1)(a), the person shall
@@ -22,7 +23,7 @@ maintains in this state;
 identification number;
 (e)  the following information by jurisdiction of each name under which the
 professional employer organization operated in the five years preceding the
-day on which the person files the application:
+day on which the person submits the application:
 (i)  the name;
 (ii)  an alternative name, if any;
 (iii)  a name of a predecessor; and
@@ -32,7 +33,7 @@ business experience of a person that, individually or acting in concert with
 one or more other persons, owns or controls, directly or indirectly, 10% or
 more of the equity interests of the professional employer organization;
 (g)  a statement of management that includes the name and evidence of the
-business experience of a person who:
+business experience of an individual who:
 (i)  serves as president of the professional employer organization;
 (ii)  serves as chief executive officer of the professional employer
 organization; or
@@ -46,12 +47,5 @@ employer organization is a member;
 (ii)  states whether or not the professional employer organization complies
 with Section 31A-40-205; and
 (iii)  complies with Section 31A-40-305.
-(3)  A professional employer organization that is registered by the Division
-of Occupations and Professional Licensing as of May 4, 2008 shall comply with
-this section by no later than November 5, 2008.  An initial license obtained
-under this Subsection (3) is valid until the end of the professional employer
-organization's first full fiscal year that immediately follows the day on
-which the initial license application is filed.
-(4)  Within 180 days after the day on which a professional employer
-organization's fiscal year ends, a professional employer organization shall
-renew its license by complying with Subsection (1).
+(3)  A professional employer organization shall renew its license by no later
+than October 1 of each year.

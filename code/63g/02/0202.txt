@@ -66,7 +66,7 @@ that:
 (a)  the record deals with a matter in controversy over which the court has
 jurisdiction;
 (b)  the court has considered the merits of the request for access to the
-record; and
+record;
 (c)  the court has considered and, where appropriate, limited the requester's
 use and further disclosure of the record in order to protect:
 (i)  privacy interests in the case of private or controlled records;
@@ -136,3 +136,9 @@ alleged in the report to be a perpetrator of abuse, neglect, or dependency.
 disclosed as provided in Subsection (1)(e).
 (b)  A protected record described in Subsection 63G-2-305(43) may only be
 disclosed as provided in Subsection (4)(c) or Section 62A-3-312.
+(12) (a)  A private, protected, or controlled record described in Section
+62A-16-301 shall be disclosed as required under:
+(i)  Subsections 62A-16-301(1)(b), (2), and (4)(c); and
+(ii)  Subsection 62A-16-302(1).
+(b)  A record disclosed under Subsection (12)(a) shall retain its character as
+private, protected, or controlled.

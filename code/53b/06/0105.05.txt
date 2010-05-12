@@ -11,13 +11,16 @@ engineering, computer science, and related technologies.
 (c)  The advisory board shall meet at the call of the chair.
 (d)  The State Board of Regents, through the commissioner of higher education,
 shall provide staff support for the advisory board.
-(3)  Members of the advisory board shall receive no compensation for their
-service on the board, but may receive per diem and expenses incurred in the
-performance of their duties at rates established by the Division of Finance
-under Sections 63A-3-106 and 63A-3-107.
+(3)  A member of an advisory board may not receive compensation or benefits
+for the member's service, but may receive per diem and travel expenses in
+accordance with:
+(a)  Section 63A-3-106;
+(b)  Section 63A-3-107; and
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and
+63A-3-107.
 (4)  The advisory board shall:
 (a)  make recommendations to the State Board of Regents on the allocation and
-distribution of monies appropriated to fund:
+distribution of money appropriated to fund:
 (i)  the faculty incentive program established in Section 53B-6-105.9;
 (ii)  equipment purchases required to improve the quality of instructional
 programs in engineering, computer science, and related technology; and
@@ -32,7 +35,7 @@ impact on the economic prosperity of the state;
 that:
 (i)  measures results against expectations under the initiative, including
 verification of the matching requirements for institutions of higher education
-to receive monies under Section 53B-6-105.9; and
+to receive money under Section 53B-6-105.9; and
 (ii)  includes an analysis of market demand for technical employment, program
 articulation among higher education institutions in engineering, computer
 science, and related technology, tracking of student placement, student

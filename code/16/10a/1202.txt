@@ -22,12 +22,12 @@ the corporation shall consent to the transaction only if the board of
 directors proposes and the shareholders approve the consent.
 (3)  For a transaction described in Subsection (1) or a consent described in
 Subsection (2) to be authorized:
-(a)  the board of directors must recommend the transaction or the consent to
+(a)  the board of directors shall recommend the transaction or the consent to
 the shareholders unless the board of directors determines that because of
 conflict of interest or other special circumstances it should make no
 recommendation and communicates the basis for its determination to the
 shareholders with the submission of the proposed transaction; and
-(b)  the shareholders entitled to vote on the transaction or the consent must
+(b)  the shareholders entitled to vote on the transaction or the consent shall
 approve the transaction or the consent as provided in Subsections (5) and (6).
 (4)  The board of directors may condition the effectiveness of the transaction
 or the consent on any basis.
@@ -35,7 +35,7 @@ or the consent on any basis.
 to each shareholder entitled to vote on the transaction described in
 Subsection (1) or the consent described in Subsection (2), of the
 shareholders' meeting at which the transaction or the consent will be voted
-upon.  The notice must:
+upon.  The notice shall:
 (a)  state that the purpose, or one of the purposes, of the meeting is to
 consider:
 (i)  in the case of action pursuant to Subsection (1), the sale, lease,
@@ -43,8 +43,8 @@ exchange, or other disposition of all, or substantially all, of the property
 of the corporation; or
 (ii)  in the case of action pursuant to Subsection (2), the corporation's
 consent to the sale, lease, exchange, or other disposition of all, or
-substantially all, of the property of another entity (which shall be
-identified in the notice) the shares or other interests of which held by the
+substantially all, of the property of another entity, which shall be
+identified in the notice, the shares or other interests of which held by the
 corporation constitute all, or substantially all, of the property of the
 corporation; and
 (b)  contain or be accompanied by a description of the transaction, in the
@@ -55,7 +55,7 @@ Subsection (2).
 the bylaws as amended pursuant to Section 16-10a-1021, or the board of
 directors acting pursuant to Subsection (4) requires a greater vote, the
 transaction described in Subsection (1) or the consent described in Subsection
-(2) must be approved by each voting group entitled to vote on the transaction
+(2) shall be approved by each voting group entitled to vote on the transaction
 or the consent by a majority of all the votes entitled to be cast on the
 transaction or the consent by that voting group.
 (7)  After a transaction described in Subsection (1) or a consent described in

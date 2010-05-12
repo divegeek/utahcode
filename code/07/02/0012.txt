@@ -53,7 +53,7 @@ possession of the commissioner.  All deposit instruments issued by the
 acquiring institution shall be considered new deposit obligations of the
 acquiring institution.  The original deposit instruments issued by the
 institution in the possession of the commissioner are not liabilities of the
-acquiring institution, unless assumed by the acquiring institution. Unpaid
+acquiring institution, unless assumed by the acquiring institution.  Unpaid
 claims of depositors against the institution in the possession of the
 commissioner continue, and may be provided for in the plan of reorganization
 or liquidation.
@@ -64,7 +64,7 @@ unexpired employment contracts, to which the institution or other person is a
 party.  If the termination of an executory contract or unexpired lease
 constitutes a breach of the contract or lease, the date of the breach is the
 date on which the commissioner took possession of the institution.  Claims for
-damages for breach of an executory contract must be filed within 30 days of
+damages for breach of an executory contract shall be filed within 30 days of
 receipt of notice of the termination, and if allowed, shall be paid in the
 same manner as all other allowable claims of the same priority out of the
 assets of the institution available to pay claims.
@@ -123,10 +123,10 @@ any federal deposit insurance agency appointed by him as receiver or
 liquidator of a depository institution closed by the commissioner under the
 provisions of this chapter may setoff against the deposits or other
 liabilities of the institution any debts or other obligations of the depositor
-or claimant due and owing to the institution.   The amount of any setoff
+or claimant due and owing to the institution.  The amount of any setoff
 against the liabilities of the institution shall be no greater than the amount
 the depositor or claimant would receive pursuant to Section 7-2-15 after final
-liquidation of the institution.   When the liquidation value of a depositor's
+liquidation of the institution.  When the liquidation value of a depositor's
 or claimant's claim against the institution will or may be less than the full
 amount of the claim, setoff may be made prior to final liquidation if the
 commissioner or any receiver or liquidator appointed by him can reasonably
@@ -139,14 +139,14 @@ claimant of the amount setoff.
 between the institution and its depositor or claimant and the right to the
 proceeds in a deposit account shall be determined solely by the books and
 records of the institution.
-(c)  Any contract purporting to affect the right of setoff must be in writing
+(c)  Any contract purporting to affect the right of setoff shall be in writing
 and signed by the depositor-debtor and an authorized officer of the
 institution and be maintained as a part of the records of the institution.
 (d)  Any claim that a deposit account is a special account not subject to
 setoff because it was maintained for a specific purpose or to satisfy a
 particular obligation other than satisfaction of or as security for an
 indebtedness to the institution or that the right to the deposit actually
-belongs to a third party shall not affect the right to setoff of the
+belongs to a third party does not affect the right to setoff of the
 commissioner or any receiver or liquidator appointed by him unless the special
 nature of the account is clearly shown in the books and records of the
 institution.
@@ -157,7 +157,7 @@ determinative of the right of setoff by the commissioner or any receiver or
 liquidator appointed by him.
 (f)  Knowledge of the institution or of any director, officer, or employee of
 the institution that the nature of the account is other than as shown in the
-books and records of the institution shall not affect the right of setoff by
+books and records of the institution does not affect the right of setoff by
 the commissioner or any receiver or liquidator appointed by him.
 (g)  The liability of the commissioner or any receiver or liquidator appointed
 by him for exercising a right of setoff other than as authorized by this

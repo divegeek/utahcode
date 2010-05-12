@@ -1,12 +1,25 @@
 49-20-202.   Establishment of separate risk pools.
 (1)  The program shall establish separate risk pools for:
 (a)  state employees; and
-(b)   the Utah Children's Health Insurance Program.
+(b)  the Utah Children's Health Insurance Program.
 (2)  In accordance with participation standards established by the program,
 the following entities may elect to participate in the risk pool established
 under Subsection (1)(a):
-(a)  an institution of higher education designated under Section 53B-1-102
-with a total full-time equivalent enrollment of less than 12,000; and
-(b)  an independent entity as defined in Section 63E-1-102.
-(3)  The program shall create risk pools for other covered employers separate
-from those created in Subsection (1) as determined by the program.
+(a)  in accordance with Subsection (3)(b), an institution of higher education
+designated under Section 53B-1-102 with a total full-time equivalent
+enrollment of less than 18,000;
+(b)  an independent entity as defined in Section 63E-1-102; and
+(c)  a comprehensive regional college.
+(3) (a)  The program shall create risk pools for other covered employers
+separate from those created in Subsection (1) as determined by the program.
+(b) (i)  If an institution of higher education described in Subsection (2)(a)
+has 1,000 or more plan enrollees, the program shall establish a rate for the
+institution of higher education based 100% on experience; and
+(ii)  if the rate established under Subsection (3)(b)(i) is:
+(A)  less than the risk pool rate established for the state employees' risk
+pool, the program may include the institution of higher education in the state
+employees' risk pool described in Subsection (1)(a); or
+(B)  more than the risk pool rate established for the state employees' risk
+pool, the program shall create a risk pool for the institution of higher
+education that is separate from the state employees' risk pool under
+Subsection (1)(a).

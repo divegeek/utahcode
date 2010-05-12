@@ -1,5 +1,5 @@
-72-2-117.5.   Local Transportation Corridor Preservation Fund --
-Distribution.
+72-2-117.5.   Definitions -- Local Transportation Corridor Preservation Fund
+-- Disposition of fund monies.
 (1)  As used in this section:
 (a)  "Council of governments" means a decision-making body in each county
 composed of the county governing body and the mayors of each municipality in
@@ -19,10 +19,10 @@ fund monies;
 (e)  proceeds from general obligation bonds, revenue bonds, or other
 obligations issued as authorized by Title 63B, Bonds;
 (f)  the portion of the sales and use tax described in Subsection
-59-12-1703(4)(a)(ii) and required by Subsection 59-12-1703(7)(b)(i) to be
-deposited into the fund; and
+59-12-2217(2)(b) and required by Subsection 59-12-2217(8)(a) to be deposited
+into the fund; and
 (g)  sales and use tax revenues deposited into the fund in accordance with
-Section 59-12-1903.
+Section 59-12-2218.
 (4) (a)  The fund shall earn interest.
 (b)  All interest earned on fund monies shall be deposited into the fund.
 (c)  All monies appropriated to the Local Transportation Corridor Preservation
@@ -32,11 +32,11 @@ data for the department to allocate the revenues:
 (i)  provided under Subsection (3)(a) to each county imposing a local option
 highway construction and transportation corridor preservation fee under
 Section 41-1a-1222;
-(ii)  provided under Subsection 59-12-1703(4)(a)(ii) to each county imposing a
+(ii)  provided under Subsection 59-12-2217(2)(b) to each county imposing a
 county option sales and use tax for transportation; and
-(iii)  provided under Subsection (3) (g) to each county of the second class or
+(iii)  provided under Subsection (3)(g) to each county of the second class or
 city or town within a county of the second class that imposes the sales and
-use tax authorized by Section 59-12-1903.
+use tax authorized by Section 59-12-2218.
 (e) (i)  The department shall annually allocate the interest earned on fund
 monies to each county based on the proportionate amount of interest earned on
 each county's allocation of funds under Subsection (4)(d) on an average
@@ -80,7 +80,7 @@ preservation, right-of-way acquisition, and project programming;
 used for transportation planning under this Subsection (5)(d); and
 (iv)  the county otherwise qualifies to use the fund monies as provided under
 this section.
-(e) (i) Subject to Subsection (11), fund monies allocated under Subsections
+(e) (i)  Subject to Subsection (11), fund monies allocated under Subsections
 (4)(d) and (e) may be used by a county highway authority for transportation
 corridor planning that is part of the corridor elements of an ongoing work
 program of transportation projects.

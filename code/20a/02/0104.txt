@@ -14,8 +14,9 @@ form.
 Name of Voter
 _________________________________________________________________
 First                   Middle                      Last
-Driver License or Identification Card  Number____________________________
-State of issuance of Driver License or Identification Card
+Utah Driver License or Utah Identification Card
+Number____________________________
+
 Date of Birth ______________________________________________________
 Street Address of Principal Place of Residence
 ____________________________________________________________________________
@@ -69,8 +70,11 @@ Voting Precinct _________________________
 Voting I.D. Number _____________________
 ------------------------------------------------------------------------------
 -------------------------------------
-(2)  The county clerk shall retain a copy in a permanent countywide
+(2) (a)  Except as provided under Subsection (2)(b), the county clerk shall
+retain a copy of each voter registration form in a permanent countywide
 alphabetical file, which may be electronic or some other recognized system.
+(b)  The county clerk may transfer a superceded voter registration form to the
+Division of Archives and Records Service created under Section 63A-12-101.
 (3) (a)  Each county clerk shall retain lists of currently registered voters.
 (b)  The lieutenant governor shall maintain a list of registered voters in
 electronic form.

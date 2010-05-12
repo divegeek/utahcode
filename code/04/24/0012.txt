@@ -1,6 +1,6 @@
 4-24-12.   Livestock -- Verification of ownership through brand inspection
 -- Issuance of certificate of brand inspection -- Brand inspector may demand
-evidence of ownership-- Brand inspection of livestock seized by the federal
+evidence of ownership -- Brand inspection of livestock seized by the federal
 government prohibited -- Exception.
 (1)  A brand inspector, as an agent of the department, shall verify livestock
 ownership by conducting a brand inspection during daylight hours.
@@ -14,7 +14,7 @@ mark on each animal inspected together with the owner's name.
 that of the owner or, if no brand or mark appears on such livestock, the brand
 inspector may demand evidence of ownership such as a bill of sale or other
 evidence of ownership before issuing a brand inspection certificate.
-(5)  A brand inspector shall not issue a brand inspection certificate for any
+(5)  A brand inspector may not issue a brand inspection certificate for any
 privately owned livestock seized by the federal government unless:
 (a)  the brand inspector receives consent from the livestock's owner;
 (b)  the owner is unknown; or

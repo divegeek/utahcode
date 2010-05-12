@@ -1,6 +1,6 @@
 20A-3-104.   Manner of voting.
-(1) (a)  Any registered voter desiring to vote shall give his name, and, if
-requested, his residence, to one of the poll workers.
+(1) (a)  Any registered voter desiring to vote shall give the voter's name,
+and, if requested, the voter's residence, to one of the poll workers.
 (b)  The voter shall present valid voter identification to one of the poll
 workers.
 (c)  If the poll worker is not satisfied that the voter has presented valid
@@ -8,28 +8,30 @@ voter identification, the poll worker shall:
 (i)  indicate on the official register that the voter was not properly
 identified;
 (ii)  issue the voter a provisional ballot;
-(iii)  notify the voter that the voter will have five days after the day of
-the election to present valid voter identification to the county clerk at the
-county clerk's office; and
+(iii)  notify the voter that the voter will have until the close of normal
+office hours on Monday after the day of the election to present valid voter
+identification:
+(A)  to the county clerk at the county clerk's office; or
+(B)  to an election officer who is administering the election; and
 (iv)  follow the procedures and requirements of Section 20A-3-105.5.
 (d)  If the person's right to vote is challenged as provided in Section
 20A-3-202, the poll worker shall follow the procedures and requirements of
 Section 20A-3-105.5.
 (2) (a) The poll worker in charge of the official register shall check the
-official register to determine whether or not the voter is registered to vote.
+official register to determine whether or not a person is registered to vote.
 (b)  If the voter's name is not found on the official register, the poll
-worker shall  follow the procedures and requirements of Section 20A-3-105.5.
+worker shall follow the procedures and requirements of Section 20A-3-105.5.
 (3)  If the poll worker determines that the voter is registered and:
 (a)  if the ballot is a paper ballot or a ballot sheet:
 (i)  the poll worker in charge of the official register shall:
 (A)  write the ballot number opposite the name of the voter in the official
 register; and
-(B)  direct the voter to sign his name in the election column in the official
-register;
+(B)  direct the voter to sign the voter's name in the election column in the
+official register;
 (ii)  another poll worker shall list the ballot number and voter's name in the
 pollbook; and
 (iii)  the poll worker having charge of the ballots shall:
-(A)  endorse his initials on the stub;
+(A)  endorse the poll worker's initials on the stub;
 (B)  check the name of the voter on the pollbook list with the number of the
 stub;
 (C)  hand the voter a ballot; and

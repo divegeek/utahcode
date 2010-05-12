@@ -5,7 +5,7 @@ Unclaimed credits.
 for, but bylaws may provide that a member may vote and hold office prior to
 payment in full for his membership or stock.
 (2)  Dividends in excess of eight per centum per annum on the actual cash
-value of the consideration received by the association shall not be paid on
+value of the consideration received by the association may not be paid on
 common stock or membership capital, but dividends may be cumulative if so
 provided in the articles or bylaws.
 (3) (a)  Savings in excess of dividends and additions to reserves and surplus
@@ -38,9 +38,9 @@ member is entitled pursuant to Subsection 3-1-20(3)(d).
 (b)  Preferred stock may be redeemed or retired by the association on the
 terms and conditions as are provided in the articles or bylaws and printed on
 the stock certificates.
-(c)  Preferred stockholders shall not be entitled to vote, but no change in
-their priority or preference rights shall be effective until the written
-consent of the holders of a majority of the preferred stock has been obtained.
+(c)  Preferred stockholders may not vote, but no change in their priority or
+preference rights shall be effective until the written consent of the holders
+of a majority of the preferred stock has been obtained.
 (d)  Payment for preferred stock may be made in cash, services, or property on
 the basis of the fair value of the stock, services, and property, as
 determined by the board.

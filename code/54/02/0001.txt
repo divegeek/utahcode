@@ -1,19 +1,19 @@
 54-2-1.   Definitions.
 As used in this title:
 (1)  "Avoided costs" means the incremental costs to an electrical corporation
-of electric energy or capacity or both which, due to the purchase of electric
+of electric energy or capacity or both that, due to the purchase of electric
 energy or capacity or both from small power production or cogeneration
 facilities, the electrical corporation would not have to generate itself or
 purchase from another electrical corporation.
 (2)  "Cogeneration facility":
-(a)  means a facility which produces:
+(a)  means a facility that produces:
 (i)  electric energy; and
-(ii)  steam or forms of useful energy, including heat, which are used for
+(ii)  steam or forms of useful energy, including heat, that are used for
 industrial, commercial, heating, or cooling purposes; and
 (b)  is a qualifying cogeneration facility under federal law.
 (3)  "Commission" means the Public Service Commission of Utah.
 (4)  "Commissioner" means a member of the commission.
-(5) (a)  "Corporation" includes an association, and a joint stock company
+(5) (a)  "Corporation" includes an association and a joint stock company
 having any powers or privileges not possessed by individuals or partnerships.
 (b)  "Corporation" does not include towns, cities, counties, conservancy
 districts, improvement districts, or other governmental units created or
@@ -36,7 +36,13 @@ independent energy producers, and except where electricity is generated on or
 distributed by the producer solely for the producer's own use, or the use of
 the producer's tenants, or for the use of members of an association of unit
 owners formed under Title 57, Chapter 8, Condominium Ownership Act, and not
-for sale to the public generally.
+for sale to the public generally, and except where the electricity generated
+is consumed by an owner, lessor, or interest holder, or by an affiliate of an
+owner, lessor, or interest holder, who has provided at least $25,000,000 in
+value, including credit support, relating to the electric plant furnishing the
+electricity and whose consumption does not exceed its long-term entitlement in
+the plant under a long-term arrangement other than a power purchase agreement,
+except a power purchase agreement with an electrical corporation.
 (8)  "Electric plant" includes all real estate, fixtures, and personal
 property owned, controlled, operated, or managed in connection with or to
 facilitate the production, generation, transmission, delivery, or furnishing
@@ -115,22 +121,55 @@ to the public utility owned, controlled, operated, or managed by the
 corporation or person, and not in respect to any other business or pursuit.
 (d)  An independent energy producer is exempt from the jurisdiction and
 regulations of the commission with respect to an independent power production
-facility if it meets the requirements of Subsection (16)(d)(i), (ii), or
-(iii), or any combination of these:
+facility if it meets the requirements of Subsection (16)(d)(i), (ii), (iii),
+or (iv), or any combination of these:
 (i)  the commodity or service is produced or delivered, or both, by an
 independent energy producer solely for the uses exempted in Subsection (7) or
 for the use of state-owned facilities;
 (ii)  the commodity or service is sold by an independent energy producer
-solely to an electrical corporation or other wholesale purchaser; or
-(iii) (A)  the commodity or service delivered by the independent energy
-producer is delivered to an entity which controls, is controlled by, or
+solely to an electrical corporation or other wholesale purchaser;
+(iii) (A)  the commodity or service produced or delivered by the independent
+energy producer is delivered to an entity that controls, is controlled by, or
 affiliated with the independent energy producer or to a user located on real
-property managed by the independent energy producer; and
+property managed or controlled by the independent energy producer; and
 (B)  the real property on which the service or commodity is used is contiguous
 to real property which is owned or controlled by the independent energy
 producer.  Parcels of real property separated solely by public roads or
 easements for public roads shall be considered as contiguous for purposes of
-this Subsection (16).
+this Subsection (16); or
+(iv)  the independent energy producer:
+(A)  supplies energy for direct consumption by a customer that is:
+(I)  a county, municipality, city, town, other political subdivision, local
+district, special service district, state institution of higher education,
+school district, charter school, or any entity within the state system of
+public education; or
+(II)  an entity qualifying as a charitable organization under 26 U.S.C. Sec.
+501(c)(3) operated for religious, charitable, or educational purposes that is
+exempt from federal income tax and able to demonstrate its tax-exempt status;
+(B)  supplies energy to the customer through use of a customer generation
+system, as defined in Section 54-15-102, for use on the real property where
+the customer generation system is located;
+(C)  supplies energy using a customer generation system designed to supply the
+lesser of:
+(I)  no more than 90% of the average annual consumption of electricity by the
+customer at that site, based on an annualized billing period; or
+(II)  the maximum size allowable under net metering provisions, defined in
+Section 54-15-102;
+(D)  notifies the customer before installing the customer generation system
+of:
+(I)  all costs the customer is required to pay for the customer generation
+system, including any interconnection costs; and
+(II)  the potential for future changes in amounts paid by the customer for
+energy received from the public utility and the possibility of changes to the
+customer fees or charges to the customer associated with net metering and
+generation;
+(E)  enters into and performs in accordance with an interconnection agreement
+with a public utility providing retail electric service where the real
+property on which the customer generation system is located, with the rates,
+terms, and conditions of the retail service and interconnection agreement
+subject to approval by the governing authority of the public utility, as
+defined in Subsection 54-15-102(8); and
+(F)  installs the relevant customer generation system by December 31, 2015.
 (e)  Any person or corporation defined as an electrical corporation or public
 utility under this section may continue to serve its existing customers
 subject to any order or future determination of the commission in reference to
@@ -185,6 +224,16 @@ vehicle fuel may not cause the seller to be a "public utility."
 distributors or transporters, the commission shall consider, among other
 things, the impact of the regulation on the availability and price of natural
 gas for use as a motor fuel.
+(i)  "Public utility" does not include any corporation, cooperative
+association, or person, their affiliates, lessees, trustees, or receivers,
+owning, controlling, operating, or managing an electric plant or in any way
+furnishing electricity if the electricity is consumed by an owner, lessor, or
+interest holder or by an affiliate of an owner, lessor, or interest holder,
+who has provided at least $25,000,000 in value, including credit support,
+relating to the electric plant furnishing the electricity and whose
+consumption does not exceed its long-term entitlement in the plant under a
+long-term arrangement other than a power purchase agreement, except a power
+purchase agreement with an electrical corporation.
 (17)  "Purchasing utility" means any electrical corporation that is required
 to purchase electricity from small power production or cogeneration facilities
 pursuant to the Public Utility Regulatory Policies Act, 16 U.S.C. Section

@@ -22,11 +22,11 @@ operation;
 (f)  NOW accounts; and
 (g)  other instruments;
 (8)  allow withdrawal of shares and deposits, as requested by a member orally
-to a third party with prior authorization in writing, including, but not
-limited to, drafts drawn on the credit union for payment to the member or any
-third party, in accordance with the procedures established by the board of
-directors, including, but not limited to, drafts, third-party instruments, and
-other transaction instruments, as provided in the bylaws;
+to a third party with prior authorization in writing, including drafts drawn
+on the credit union for payment to the member or any third party, in
+accordance with the procedures established by the board of directors,
+including drafts, third-party instruments, and other transaction instruments,
+as provided in the bylaws;
 (9)  charge fees for its services;
 (10)  extend credit to its members, at rates established in accordance with
 the bylaws or by the board of directors;
@@ -87,16 +87,16 @@ bylaws;
 scientific, or educational purposes as authorized by the board of directors or
 provided in its bylaws;
 (25)  act as trustee of funds permitted by federal law to be deposited in a
-credit union as a deferred compensation or tax deferred device, including, but
-not limited to, individual retirement accounts as defined by Section 408,
-Internal Revenue Code;
+credit union as a deferred compensation or tax deferred device, including
+individual retirement accounts as defined by Section 408, Internal Revenue
+Code;
 (26)  purchase reasonable accident and health insurance, including accidental
 death benefits, for directors and committee members through insurance
 companies licensed in this state as provided in its bylaws;
 (27)  provide reasonable protection through insurance or other means to
 protect board members, committee members, and employees from liability arising
-out of consumer legislation such as, but not limited to, truth-in-lending and
-equal credit laws and as provided in its bylaws;
+out of consumer legislation including truth-in-lending and equal credit laws
+and as provided in its bylaws;
 (28)  reimburse directors and committee members for reasonable and necessary
 expenses incurred in the performance of their duties;
 (29)  participate in systems which allow the transfer, withdrawal, or deposit

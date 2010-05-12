@@ -1,6 +1,6 @@
 49-15-201.   System membership -- Eligibility.
 (1) (a)  A public safety service employee employed by the state after July 1,
-1989, is eligible for service credit in this system.
+1989, but before July 1, 2011, is eligible for service credit in this system.
 (b)  A public safety service employee employed by the state prior to July 1,
 1989, may either elect to receive service credit in this system or continue to
 receive service credit under the system established under Chapter 14, Public
@@ -17,10 +17,13 @@ either this system or the Public Safety Contributory Retirement System.
 (ii)  Except as expressly allowed by this title, the election of the public
 safety service employee is final and may not be changed.
 (c)  A public safety service employee hired by a participating employer other
-than the state after July 1, 1989, shall become a member in this system.
+than the state after July 1, 1989, but before July 1, 2011, shall become a
+member in this system.
 (d)  A public safety service employee of a participating employer other than
-the state who began participation in this system after July 1, 1989, is only
-eligible for service credit in this system.
+the state who began participation in this system after July 1, 1989, but
+before July 1, 2011, is only eligible for service credit in this system.
+(e)  A person initially entering employment with a participating employer on
+or after July 1, 2011, may not participate in this system.
 (3) (a) (i)  A participating employer that has public safety service and
 firefighter service employees that require cross-training and duty shall
 enroll those dual purpose employees in the system in which the greatest amount
@@ -112,3 +115,6 @@ retirement system under Subsection (14)(a):
 service employees to a public safety retirement system;
 (ii)  documented by written notice to the participating employer; and
 (iii)  is irrevocable.
+(15)  Notwithstanding any other provision of this section, a person initially
+entering employment with a participating employer on or after July 1, 2011,
+may not participate in this system.

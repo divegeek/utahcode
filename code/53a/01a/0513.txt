@@ -54,10 +54,7 @@ revenues for each resident student of the school district who is enrolled in a
 charter school on October 1 equal to 25% of the lesser of:
 (A)  district per pupil local revenues; or
 (B)  charter school students' average local revenues.
-(ii)  For the purpose of allocating school district revenues under Subsection
-(4)(a)(i) in fiscal year 2008-09 only, a kindergarten student who is enrolled
-in less than a full-day kindergarten program is weighted as .55 of a student.
-(iii)  Nothing in this Subsection (4)(a) affects the school bond guarantee
+(ii)  Nothing in this Subsection (4)(a) affects the school bond guarantee
 program established under Chapter 28, Utah School Bond Guaranty Act.
 (b)  The State Board of Education shall:
 (i)  deduct an amount equal to the allocation provided under Subsection (4)(a)
@@ -84,7 +81,16 @@ student under Subsection (4)(a) and the amount provided by the state under
 Subsection (4)(d)(ii) is less than $1427, the state shall provide an
 additional supplement so that a charter school receives at least $1427 per
 student under this Subsection (4).
-(e)  Of the monies provided to a charter school under this Subsection (4), 10%
+(iv) (A)  If the appropriation provided under this Subsection (4)(d) is less
+than the amount prescribed by Subsection (4)(d)(ii) or (4)(d)(iii), the
+appropriation shall be allocated among charter schools in proportion to each
+charter school's enrollment as a percentage of the total enrollment in charter
+schools.
+(B)  If the State Board of Education makes adjustments to Minimum School
+Program allocations as provided under Section 53A-17a-105, the allocation
+provided in Subsection (4)(d)(iv)(A) shall be determined after adjustments are
+made under Section 53A-17a-105.
+(e)  Of the money provided to a charter school under this Subsection (4), 10%
 shall be expended for funding school facilities only.
 (5)  Charter schools are eligible to receive federal funds if they meet all
 applicable federal requirements and comply with relevant federal regulations.
@@ -100,7 +106,7 @@ through an agreement or contract with the local school board, a private
 provider, or with parents.
 (8) (a) (i)  The state superintendent of public instruction may allocate
 grants for both start-up and ongoing costs to eligible charter school
-applicants from monies appropriated for the implementation of this part.
+applicants from money appropriated for the implementation of this part.
 (ii)  Applications for the grants shall be filed on a form determined by the
 state superintendent and in conjunction with the application for a charter.
 (iii)  The amount of a grant may vary based upon the size, scope, and special
@@ -108,8 +114,8 @@ circumstances of the charter school.
 (iv)  The governing board of the charter school shall use the grant to meet
 the expenses of the school as established in the school's charter.
 (b)  The State Board of Education shall coordinate the distribution of federal
-monies appropriated to help fund costs for establishing and maintaining
-charter schools within the state.
+money appropriated to help fund costs for establishing and maintaining charter
+schools within the state.
 (9) (a)  A charter school may receive, hold, manage and use any devise,
 bequest, grant, endowment, gift, or donation of any property made to the
 school for any of the purposes of this part.

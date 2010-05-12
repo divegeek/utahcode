@@ -26,7 +26,7 @@ the supplier's behalf; and
 (ii)  For purposes of Subsection (4)(a)(i)(C), "extraordinary freight and
 handling costs" mean costs that are above and beyond the normal reimbursement
 policy of the supplier for warranty repair work.
-(b) (i)  The supplier must give due consideration to any extraordinary
+(b) (i)  The supplier shall give due consideration to any extraordinary
 expenses incurred by the dealer in performing necessary warranty repairs.
 (ii)  If the repair work is for safety or mandatory modifications ordered by
 the supplier, the supplier shall reimburse the dealer for transportation costs
@@ -52,5 +52,5 @@ chapter on to a dealer through any means including:
 where a written dealer agreement provides for compensation to a dealer for
 warranty labor and parts costs either as part of the pricing of the equipment
 to the dealer or in the form of a lump-sum payment.
-(b)  The lump-sum payment under Subsection (8)(a) must be at least 5% of the
+(b)  The lump-sum payment under Subsection (8)(a) shall be at least 5% of the
 suggested retail price of the equipment.

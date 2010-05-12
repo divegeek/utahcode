@@ -142,15 +142,19 @@ medical doctor," "naturopathic medicine," "naturopathic health care,"
 "naturopathy," "N.D.," "N.M.D.," or any combination of these designations in
 any manner that might cause a reasonable person to believe the individual
 using the designation is a licensed naturopathic physician.
-(13)  "Prescription drug or device" means:
-(a)  a drug or device which, under federal law, is required to be labeled with
-either of the following statements or their equivalent:
-(i)  "CAUTION: Federal law prohibits dispensing without prescription"; or
-(ii)  "CAUTION: Federal law restricts this drug to use by or on the order of a
-licensed veterinarian"; or
-(b)  a drug or device that is required by any applicable federal or state law
-or rule to be dispensed on prescription only or is restricted to use by
-practitioners only.
-(14)  "Unlawful conduct" is as defined in Sections 58-1-501 and 58-71-501.
-(15)  "Unprofessional conduct" is as defined in Sections 58-1-501 and
+(13)  "Prescribe" means to issue a prescription:
+(a)  orally or in writing; or
+(b)  by telephone, facsimile transmission, computer, or other electronic means
+of communication as defined by division rule.
+(14)  "Prescription device" means an instrument, apparatus, implement,
+machine, contrivance, implant, in vitro reagent, or other similar or related
+article, and any component part or accessory, which is required under federal
+or state law to be prescribed by a practitioner and dispensed by or through a
+person or entity licensed under this chapter or exempt from licensure under
+this chapter.
+(15)  "Prescription drug" means a drug that is required by federal or state
+law or rule to be dispensed only by prescription or is restricted to
+administration only by practitioners.
+(16) "Unlawful conduct" is as defined in Sections 58-1-501 and 58-71-501.
+(17)  "Unprofessional conduct" is as defined in Sections 58-1-501 and
 58-71-502, and as may be further defined by division rule.

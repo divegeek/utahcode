@@ -2,7 +2,7 @@
 -- Transportation of dead fish.
 (1)  A fishing license is not required to take fish from fee fishing
 facilities.
-(2)  To transport dead fish from fee fishing facilities the fish must be
+(2)  To transport dead fish from fee fishing facilities the fish shall be
 accompanied by the seller's receipt containing the following information:
 (a)  species and number of fish;
 (b)  date caught;

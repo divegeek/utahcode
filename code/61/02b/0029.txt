@@ -7,18 +7,34 @@ action, board action may include:
 (i)  revoking, suspending, or placing a person's registration, license, or
 certification on probation;
 (ii)  denying a person's original registration, license, or certification;
-(iii)  denying a person's renewal license or certification;
+(iii)  denying a person's renewal license, certification, or registration;
 (iv)  in the case of denial or revocation of a registration, license, or
 certification, setting a waiting period for an applicant to apply for a
 registration, license, or certification under this chapter;
 (v)  ordering remedial education;
 (vi)  imposing a civil penalty upon a person not to exceed the greater of:
-(A)  $2,500 for each violation; or
+(A)  $5,000 for each violation; or
 (B)  the amount of any gain or economic benefit from a violation;
 (vii)  issuing a cease and desist order;
 (viii)  modifying an action described in Subsections (1)(b)(i) through (vii)
 if the board finds that the person complies with court ordered restitution; or
 (ix)  doing any combination of Subsections (1)(b)(i) through (viii).
+(c) (i)  If the board or division issues an order that orders a fine or
+educational requirements as part of the disciplinary action against a person,
+including a stipulation and order, the board or division shall state in the
+order the deadline by which the person shall comply with the fine or
+educational requirements.
+(ii)  If a person fails to comply with a stated deadline:
+(A)  the person's license, certificate, or registration is automatically
+suspended:
+(I)  beginning on the day specified in the order as the deadline for
+compliance; and
+(II)  ending the day on which the person complies in full with the order; and
+(B)  if the person fails to pay a fine required by an order, the division may
+begin a collection process:
+(I)  established by the division by rule made in accordance with Title 63G,
+Chapter 3, Utah Administrative Rulemaking Act; and
+(II)  subject to Title 63A, Chapter 8, Office of State Debt Collection.
 (2)  The following are grounds for disciplinary action under this section:
 (a)  procuring or attempting to procure a registration, license, or
 certification under this chapter:
@@ -46,15 +62,15 @@ real property in this state;
 qualifications; or
 (ii)  testimony concerning professional qualifications;
 (i)  violating or disregarding:
-(i)  a provision of this chapter;
+(i) this chapter;
 (ii)  an order of the board; or
 (iii)  a rule issued under this chapter;
 (j)  violating the confidential nature of governmental records to which a
 person registered, licensed, certified, or approved as an expert under this
 chapter gained access through employment or engagement as an appraiser by a
 governmental agency;
-(k)  accepting a contingent fee for performing an appraisal as defined in
-Subsection 61-2b-2(1)(a) if in fact the fee is or was contingent upon:
+(k)  accepting a contingent fee for performing an appraisal if in fact the fee
+is or was contingent upon:
 (i)  the appraiser reporting a predetermined analysis, opinion, or conclusion;
 (ii)  the analysis, opinion, conclusion, or valuation reached; or
 (iii)  the consequences resulting from the appraisal assignment;

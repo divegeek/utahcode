@@ -8,27 +8,23 @@ classified service.
 (2)  The following employees are exempt from this section:
 (a)  members of the Legislature and legislative employees;
 (b)  members of the judiciary and judicial employees;
-(c)  elected members of the executive branch and their direct staff who meet
-career service exempt criteria as defined in Subsection 67-19-15(1)(k);
+(c)  elected members of the executive branch and employees under schedule AC
+as provided under Subsection 67-19-15(1)(c);
 (d)  employees of the State Board of Education who are licensed by the State
 Board of Education;
 (e)  officers, faculty, and other employees of state institutions of higher
 education;
-(f)  employees in any position that is determined by statute to be exempt from
+(f)  employees in a position that is specified by statute to be exempt from
 this Subsection (2);
 (g)  employees in the Office of the Attorney General;
-(h)  department heads and other persons appointed by the governor pursuant to
+(h)  department heads and other persons appointed by the governor under
 statute;
-(i)  employees of the Department of Community and Culture whose positions are
-designated as executive/professional positions by the executive director of
-the Department of Community and Culture with the concurrence of the executive
-director;
-(j)  employees of the Governor's Office of Economic Development whose
-positions are designated as executive/professional positions by the director
-of the office;
-(k)  employees of the Medical Education Council; and
-(l)  educators as defined by Section 53A-25b-102 who are employed by the Utah
-Schools for the Deaf and the Blind.
+(i)  exempt employees as provided under Subsection 67-19-15(1)(l);
+(j)  employees of the Utah Schools for the Deaf and the Blind who are:
+(i)  educators as defined by Section 53A-25b-102; or
+(ii)  educational interpreters as classified by the department; and
+(k)  temporary employees under schedule IN or TL as provided under Subsections
+67-19-15(1)(o) and (p).
 (3) (a)  The executive director shall prepare, maintain, and revise a position
 classification plan for each employee position not exempted under Subsection
 (2) to provide equal pay for equal work.
@@ -61,8 +57,7 @@ classification plan to a salary range and shall set the width of the salary
 range to reflect the normal growth and productivity potential of employees in
 that class.
 (B)  The width of the ranges need not be uniform for all classes of positions
-in the plan, but each range shall contain merit steps in increments of 2.75%
-salary increases.
+in the plan.
 (iii) (A)  The executive director shall issue rules for the administration of
 pay plans.
 (B)  The rules may provide for exceptional performance increases and for a
@@ -70,9 +65,10 @@ program of incentive awards for cost-saving suggestions and other commendable
 acts of employees.
 (C)  The executive director shall issue rules providing for salary
 adjustments.
-(iv)  Merit step increases shall be granted, if funds are available, to
-employees who receive a rating of "successful" or higher in an annual
-evaluation of their productivity and performance.
+(iv)  Merit increases shall be granted, on a uniform and consistent basis in
+accordance with appropriations made by the Legislature, to employees who
+receive a rating of "successful" or higher in an annual evaluation of their
+productivity and performance.
 (v)  By October 31 of each year, the executive director shall submit market
 comparability adjustments to the director of the Governor's Office of Planning
 and Budget for consideration to be included as part of the affected agency's
@@ -89,8 +85,8 @@ employers in conducting the survey.
 (viii) (A)  The executive director shall establish criteria to assure the
 adequacy and accuracy of the survey and shall use methods and techniques
 similar to and consistent with those used in private sector surveys.
-(B)  Except as provided under Section 67-19-12.3, the survey shall include a
-reasonable cross section of employers.
+(B)  Except as provided under Sections 67-19-12.1 and 67-19-12.3, the survey
+shall include a reasonable cross section of employers.
 (C)  The executive director may cooperate with or participate in any survey
 conducted by other public and private employers.
 (D)  The executive director shall obtain information for the purpose of
@@ -102,8 +98,7 @@ if available.
 with the provisions of Section 35A-4-312.
 (ix)  The establishing of a salary range is a nondelegable activity and is not
 appealable under the grievance procedures of Sections 67-19-30 through
-67-19-32, Title 67, Chapter 19a, Grievance and Appeal Procedures, or
-otherwise.
+67-19-32, Chapter 19a, Grievance Procedures, or otherwise.
 (x)  The governor shall:
 (A)  consider salary adjustments recommended under Subsection (4)(c)(vi) in
 preparing the executive budget and shall recommend the method of distributing

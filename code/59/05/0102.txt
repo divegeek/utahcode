@@ -1,6 +1,5 @@
 59-5-102.   Severance tax -- Rate -- Computation -- Annual exemption -- Tax
-credit  -- Tax rate reduction -- Study by Tax Review Commission -- Study by
-commission.
+credit  -- Tax rate reduction -- Study by Tax Review Commission.
 (1)  Each person owning an interest, working interest, royalty interest,
 payments out of production, or any other interest, in oil or gas produced from
 a well in the state, or in the proceeds of the production, shall pay to the
@@ -61,11 +60,6 @@ increased or decreased as provided in this Subsection (2)(d), the commission
 shall mail a notice to each person required to file a return under this part
 stating the tax rate in effect on January 1, 2005 as a result of the increase
 or decrease.
-(v)  The Office of the Legislative Fiscal Analyst and the Governor's Office of
-Planning and Budget shall report the estimates prepared in the revenue
-forecast required by Subsection (2)(d)(i) to the:
-(A)  commission on or before December 15, 2004; and
-(B)  Executive Appropriations Committee on or before January 31, 2005.
 (3)  If oil or gas is shipped outside the state:
 (a)  the shipment constitutes a sale; and
 (b)  the oil or gas is subject to the tax imposed by this section.
@@ -115,60 +109,12 @@ oil or gas is produced.
 (11)  Each producer shall deduct the tax imposed by this section from the
 amounts due to other owners for the production or the proceeds of the
 production.
-(12) (a)  The Tax Review Commission shall review the tax provided for in this
-part on or before the October 2008 interim meeting.
-(b)  The Tax Review Commission shall address in its review the following
-statutory provisions:
-(i)  the severance tax rate structure provided for in this section;
-(ii)  the exemptions provided for in Subsection (5);
-(iii)  the tax credit provided for in Subsection (6), including:
-(A)  the cost of the tax credit;
-(B)  the purpose and effectiveness of the tax credit; and
-(C)  whether the tax credit benefits the state;
-(iv)  the tax rate reduction provided for in Subsection (7);
-(v)  other statutory provisions or issues as determined by the Tax Review
-Commission; and
-(vi)  whether the statutory provisions the Tax Review Commission reviews under
-this Subsection (12) should be:
-(A)  continued;
-(B)  modified; or
-(C)  repealed.
-(c)  The Tax Review Commission shall report its findings and recommendations
-regarding the tax provided for in this part to the Revenue and Taxation
-Interim Committee on or before the November 2008 interim meeting.
-(d) (i)  The Tax Review Commission shall review the applicability of the tax
+(12) (a)  The Tax Review Commission shall review the applicability of the tax
 provided for in this chapter to coal-to-liquids, oil shale, and tar sands
 technology on or before the October 2011 interim meeting.
-(ii)  The Tax Review Commission shall address in its review the cost and
+(b)  The Tax Review Commission shall address in its review the cost and
 benefit of not applying the tax provided for in this chapter to coal-to-
 liquids, oil shale, and tar sands technology.
-(iii)  The Tax Review Commission shall report its findings and recommendations
-under Subsections (12)(d)(i) and (ii) to the Revenue and Taxation Interim
-Committee on or before the November 2011 interim meeting.
-(13) (a)  The commission shall during the 2004 interim:
-(i)  subject to Subsection (13)(b), conduct a study of the effective tax
-burden for the taxes imposed by this part per barrel of oil or MCF of gas for
-the time period beginning on January 1, 1984 and ending on September 30, 2004;
-(ii)  study whether the effective tax burden studied under Subsection
-(13)(a)(i) has increased or decreased;
-(iii)  receive input from the oil and gas industry in conducting the study
-required by Subsections (13)(a)(i) and (ii);
-(iv)  make findings and recommendations regarding whether any provision of
-this part should be amended, including:
-(A)  whether any tax rate under this part should be amended;
-(B)  whether a minimum value of oil or gas should be established by statute;
-(C)  whether a limit should be established by statute on the amount of
-processing costs that may be deducted under Section 59-5-103.1; and
-(D)  whether a limit other than the limit established in Section 59-5-103.1
-should be established by statute on the amount of transportation costs that
-may be deducted under Section 59-5-103.1; and
-(v)  report the findings and recommendations required by Subsection
-(13)(a)(iv) on or before the October 2004 interim meeting to:
-(A)  the Revenue and Taxation Interim Committee; and
-(B)  the Utah Tax Review Commission.
-(b)  In conducting the study required by Subsections (13)(a)(i) and (ii), the
-commission shall take into account factors including:
-(i)  the production volume of oil and gas;
-(ii)  the sales price of oil and gas; and
-(iii)  the revenues raised by the taxes imposed by this part for the time
-period described in Subsection (13)(a)(i).
+(c)  The Tax Review Commission shall report its findings and recommendations
+under this Subsection (12) to the Revenue and Taxation Interim Committee on or
+before the November 2011 interim meeting.

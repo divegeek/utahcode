@@ -2,7 +2,7 @@
 (1)  A shareholder may vote his shares in person or by proxy.
 (2)  A shareholder, his agent, or attorney-in-fact, may appoint a proxy to
 vote or otherwise act for the shareholder by signing an appointment form or by
-an electronic transmission.  An electronic transmission must contain or be
+an electronic transmission.  An electronic transmission shall contain or be
 accompanied by information that indicates that the shareholder, the
 shareholder's agent, or the shareholder's attorney-in-fact authorized the
 transmission.
@@ -43,7 +43,7 @@ irrevocable under Subsection (4) if it has received a writing revoking the
 appointment signed by the shareholder either personally or by the
 shareholder's attorney-in-fact, notwithstanding that the revocation may be a
 breach of an obligation of the shareholder to another person not to revoke the
-appointment.  This provision shall not affect any claim the other person may
+appointment.  This provision does not affect any claim the other person may
 have against the shareholder with respect to the revocation.
 (8)  A transferee for value of shares subject to an irrevocable appointment
 may revoke the appointment if the transferee did not know of its existence

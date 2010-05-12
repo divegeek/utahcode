@@ -1,7 +1,14 @@
 58-57-7.   Exemptions from licensure.
-(1)  For purposes of Subsection (2)(b),"qualified" means an individual who is
-a registered polysomnographic technologist or a Diplomate certified by the
-American Board of Sleep Medicine.
+(1) (a)  For purposes of Subsection (2)(b), "qualified" means an individual
+who is a registered polysomnographic technologist or a Diplomate certified by
+the American Board of Sleep Medicine.
+(b)  For purposes of Subsections (2)(f) and (g), "supervision" means one of
+the following will be immediately available for consultation in person or by
+phone:
+(i)  a practitioner;
+(ii)  a respiratory therapist;
+(iii)  a Diplomate of the American Board of Sleep Medicine; or
+(iv)  a registered polysomnographic technologist.
 (2)  In addition to the exemptions from licensure in Section 58-1-307, the
 following persons may engage in the practice of respiratory therapy subject to
 the stated circumstances and limitations without being licensed under this
@@ -18,21 +25,14 @@ other agency of the federal government and is engaged in the performance of
 his official duties;
 (d)  any person who acts under a certification issued pursuant to Title 26,
 Chapter 8a, Utah Emergency Medical Services System Act, while providing
-emergency medical services; and
+emergency medical services;
 (e)  any person who delivers, installs, or maintains respiratory related
 durable medical equipment and who gives instructions regarding the use of that
 equipment in accordance with Subsections 58-57-2(3) and (6), except that this
 exemption does not include any clinical evaluation or treatment of the
 patient;
-(f) (i)  any person who is working in a practitioner's office, acting under
+(f)  any person who is working in a practitioner's office, acting under
 supervision; and
-(ii)  for purposes of this Subsection (2)(f) and Subsection (g), "supervision"
-means one of the following will be immediately available for consultation in
-person or by phone:
-(A)  a practitioner;
-(B)  a respiratory therapist;
-(C)  a Diplomate of the American Board of Sleep Medicine; or
-(D)  a registered polysomnographic technologist; and
 (g)  a polysomnographic technician or trainee, acting under supervision, as
 long as they only administer the following in a sleep lab, sleep center, or
 sleep facility:

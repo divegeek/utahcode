@@ -56,8 +56,8 @@ shall provide the employee or employment applicant an opportunity to:
 (ii)  respond to any information received.
 (f)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
 Act, the division may make rules to implement this Subsection (3).
-(g) (i)  The applicant fingerprint card fee under Subsection (1)(g) is $15.
-(ii)  The name check fee under Subsection (1)(g) is $10.
+(g) (i)  The applicant fingerprint card fee under Subsection (1)(g) is $20.
+(ii)  The name check fee under Subsection (1)(g) is $15.
 (iii)  These fees remain in effect until changed by the division through the
 process under Section 63J-1-504.
 (iv)  Funds generated under Subsections (3)(g)(i), (3)(g)(ii), and (8)(b)
@@ -66,18 +66,19 @@ to cover the costs incurred in providing the information.
 (h)  The division or its employees are not liable for defamation, invasion of
 privacy, negligence, or any other claim in connection with the contents of
 information disseminated under Subsection (1)(g).
-(4)  Any criminal history record information obtained from division files may
-be used only for the purposes for which it was provided and may not be further
-disseminated, except that a criminal history provided to an agency pursuant to
-Subsection (1)(e) may be provided by the agency to the person who is the
-subject of the history, another licensed child-placing agency, or the attorney
-for the adoptive parents for the purpose of facilitating an adoption.
+(4) (a)  Any criminal history record information obtained from division files
+may be used only for the purposes for which it was provided and may not be
+further disseminated, except under Subsection (4)(b).
+(b)  A criminal history provided to an agency pursuant to Subsection (1)(e)
+may be provided by the agency to the person who is the subject of the history,
+another licensed child-placing agency, or the attorney for the adoptive
+parents for the purpose of facilitating an adoption.
 (5)  If an individual has no prior criminal convictions, criminal history
 record information contained in the division's computerized criminal history
 files may not include arrest or disposition data concerning an individual who
 has been acquitted, the person's charges dismissed, or when no complaint
-against  him has been filed.
-(6) (a)  This section does not preclude the use of the  division's central
+against the person has been filed.
+(6) (a)  This section does not preclude the use of the division's central
 computing facilities for the storage and retrieval of criminal history record
 information.
 (b)  This information shall be stored so it cannot be modified, destroyed, or
@@ -91,7 +92,7 @@ right of access to review and receive a copy of the individual's criminal
 history report.
 (b)  A processing fee for the right of access service, including obtaining a
 copy of the individual's criminal history report under Subsection (8)(a) is
-$10.  This fee remains in effect until changed by the commissioner through the
+$15.  This fee remains in effect until changed by the commissioner through the
 process under Section 63J-1-504.
 (c) (i)  The commissioner shall establish procedures for an individual to
 challenge the completeness and accuracy of criminal history record information

@@ -4,7 +4,7 @@ of filing -- Statement in lieu of proof of appropriation or change.
 (1)  Sixty days before the date set for the proof of appropriation or proof of
 change to be made, the state engineer shall notify the applicant by mail when
 proof of completion of the works and application of the water to a beneficial
-use will be due.
+use is due.
 (2)  On or before the date set for completing the proof in accordance with the
 application, the applicant shall file proof with the state engineer on forms
 furnished by the state engineer.
@@ -17,30 +17,45 @@ or both;
 (d) (i)  detailed measurements of water put to beneficial use;
 (ii)  the date the measurements were made; and
 (iii)  the name of the person making the measurements.
-(4) (a)  On applications filed for appropriation or permanent change of use of
-water to provide a water supply for state projects constructed pursuant to
-Title 73, Chapter 10, Board of Water Resources - Division of Water Resources,
-or for federal projects constructed by the United States Bureau of Reclamation
-for the use and benefit of the state, any of its agencies, its political
-subdivisions, public and quasi-municipal corporations, or water users'
-associations of which the state, its agencies, political subdivisions, or
-public and quasi-municipal corporations are stockholders, the proof shall
+(4) (a) (i)  On applications filed for appropriation or permanent change of
+use of water to provide a water supply for state projects constructed pursuant
+to Title 73, Chapter 10, Board of Water Resources - Division of Water
+Resources, or for federal projects constructed by the United States Bureau of
+Reclamation for the use and benefit of the state, any of its agencies, its
+political subdivisions, public and quasi-municipal corporations, or water
+users' associations of which the state, its agencies, political subdivisions,
+or public and quasi-municipal corporations are stockholders, the proof shall
 include:
-(i) a statement indicating construction of the project works has been
+(A)  a statement indicating construction of the project works has been
 completed;
-(ii)  a description of the major features with appropriate maps, profiles,
+(B)  a description of the major features with appropriate maps, profiles,
 drawings, and reservoir area-capacity curves;
-(iii)  a description of the point or points of diversion and rediversion;
-(iv)  project operation data;
-(v)  a map showing the place of use of water and a statement of the purpose
+(C)  a description of the point or points of diversion and rediversion;
+(D)  project operation data;
+(E)  a map showing the place of use of water and a statement of the purpose
 and method of use;
-(vi)  the project plan for beneficial use of water under the applications and
+(F)  the project plan for beneficial use of water under the applications and
 the quantity of water required; and
-(vii)  a statement indicating what type of measuring devices have been
+(G)  a statement indicating what type of measuring devices have been
 installed.
-(b)  The director of the Division of Water Resources shall sign proofs for the
-state projects and an authorized official of the Bureau of Reclamation shall
-sign proofs for the federal projects specified in Subsection (4)(a).
+(ii)  The director of the Division of Water Resources shall sign proofs for
+the state projects and an authorized official of the Bureau of Reclamation
+shall sign proofs for the federal projects specified in Subsection (4)(a).
+(b)  Proof on an application for appropriation or permanent change for a
+surface storage facility in excess of 1,000 acre-feet constructed by a public
+water supplier to provide a water supply for the reasonable requirements of
+the public shall include:
+(i)  a description of the completed water storage facility;
+(ii)  a description of the major project features and appropriate maps,
+profiles, drawings, and reservoir area-capacity curves as required by the
+state engineer;
+(iii)  the quantity of water stored in acre-feet;
+(iv)  a description of the water distribution facility for the delivery of the
+water; and
+(v)  the project plan for beneficial use of water including any existing
+contracts for water delivery.
+(c)  The completed proof shall conform to rules established by the state
+engineer.
 (5)  The proof on all applications shall be sworn to by the applicant or the
 applicant's appointed representative and proof engineer.
 (6) (a)  Except as provided in Subsection (6)(b), when filing proof, the

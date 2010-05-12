@@ -21,12 +21,12 @@ without notice of the particular defect unless the defect involves a violation
 of a constitutional provision.  In that case, the security is valid in the
 hands of a purchaser for value and without notice of the defect, other than
 one who takes by original issue.
-(b)  Subsection (a) applies to an issuer that is a government or governmental
-subdivision, agency, or instrumentality only if there has been substantial
-compliance with the legal requirements governing the issue or the issuer has
-received a substantial consideration for the issue as a whole or for the
-particular security and a stated purpose of the issue is one for which the
-issuer has power to borrow money or issue the security.
+(b)  Subsection (2)(a) applies to an issuer that is a government or
+governmental subdivision, agency, or instrumentality only if there has been
+substantial compliance with the legal requirements governing the issue or the
+issuer has received a substantial consideration for the issue as a whole or
+for the particular security and a stated purpose of the issue is one for which
+the issuer has power to borrow money or issue the security.
 (3)  Except as otherwise provided in Section 70A-8-205, lack of genuineness of
 a certificated security is a complete defense, even against a purchaser for
 value and without notice.

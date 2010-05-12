@@ -1,22 +1,20 @@
 77-27-2.   Board of Pardons and Parole -- Creation -- Compensation --
 Functions.
 (1)  There is created the Board of Pardons and Parole.  The board shall
-consist of five full-time members and five pro tempore members to be appointed
-by the governor with the consent of the Senate as provided in this section.
-The members of the board shall be resident citizens of the state.  The
-governor shall establish salaries for the members of the board within the
-salary range fixed by the Legislature in Title 67, Chapter 22, State Officer
-Compensation.
+consist of five full-time members and not more than five pro tempore members
+to be appointed by the governor with the consent of the Senate as provided in
+this section.  The members of the board shall be resident citizens of the
+state.  The governor shall establish salaries for the members of the board
+within the salary range fixed by the Legislature in Title 67, Chapter 22,
+State Officer Compensation.
 (2) (a) (i)  The full-time board members shall serve terms of five years.  The
 terms of the full-time members shall be staggered so one board member is
 appointed for a term of five years on March 1 of each year.
-(ii)  The pro tempore members shall serve terms of five years.  The five pro
-tempore members added by Subsection (1) shall be appointed to terms that both
-commence on May 1, 1996, and respectively end on February 28, 1999, and
-February 29, 2000.  These terms are reduced by two and one years respectively
-so that the appointment of one pro tempore member expires every year beginning
-in 1996.  Terms previously set to expire will now expire the last day of
-February of their respective years.
+(ii)  The pro tempore members shall serve terms of five years, beginning on
+March 1 of the year of appointment, with no more than one pro tempore member
+term beginning or expiring in the same calendar year.  If a pro tempore member
+vacancy occurs, the board may submit the names of not fewer than three or more
+than five persons to the governor for appointment to fill the vacancy.
 (b)  All vacancies occurring on the board for any cause shall be filled by the
 governor with the consent of the Senate pursuant to this section for the
 unexpired term of the vacating member.
@@ -26,12 +24,12 @@ cause upon a hearing.
 (d)  A member of the board may not hold any other office in the government of
 the United States, this state or any other state, or of any county government
 or municipal corporation within a state.  A member may not engage in any
-occupation or business inconsistent with his duties.
+occupation or business inconsistent with the member's duties.
 (e)  A majority of the board constitutes a quorum for the transaction of
-business, including the holding of hearings at any time or any place within or
-without the state, or for the purpose of exercising any duty or authority of
-the board.  Action taken by a majority of the board regarding whether parole,
-pardon, commutation, termination of sentence, or remission of fines or
+business, including the holding of hearings at any time or any location within
+or without the state, or for the purpose of exercising any duty or authority
+of the board.  Action taken by a majority of the board regarding whether
+parole, pardon, commutation, termination of sentence, or remission of fines or
 forfeitures may be granted or restitution ordered in individual cases is
 deemed the action of the board.  A majority vote of the five full-time members
 of the board is required for adoption of rules or policies of general
@@ -51,10 +49,10 @@ compensation as established by the Division of Finance and all actual and
 necessary expenses incurred in attending to official business.
 (h)  The chair may request staff and administrative support as necessary from
 the Department of Corrections.
-(3) (a)  Except as provided in Subsection (3)(c), the Commission on Criminal
+(3) (a)  Except as provided in Subsection (3)(b), the Commission on Criminal
 and Juvenile Justice shall:
-(i)  recommend five applicants to the governor for appointment to the Board of
-Pardons and Parole; and
+(i)  recommend five applicants to the governor for a full-time member
+appointment to the Board of Pardons and Parole; and
 (ii)  consider applicants' knowledge of the criminal justice system, state and
 federal criminal law, judicial procedure, corrections policies and procedures,
 and behavioral sciences.

@@ -1,6 +1,6 @@
 57-1-28.   Sale of trust property by trustee -- Payment of bid -- Trustee's
 deed delivered to purchaser -- Recitals -- Effect.
-(1) (a) The purchaser at the sale shall pay the price bid as directed by the
+(1) (a)  The purchaser at the sale shall pay the price bid as directed by the
 trustee.
 (b)  The beneficiary shall receive a credit on the beneficiary's bid in an
 amount not to exceed the amount representing:
@@ -38,3 +38,7 @@ including all right, title, interest, and claim in and to the property
 acquired by the trustor or the trustor's successors in interest subsequent to
 the execution of the trust deed, which trustee's deed shall be considered
 effective and relate back to the time of the sale.
+(4)  In accordance with Section 57-3-106, an interest of a purchaser in a
+trustee's deed that is recorded with the county recorder may not be divested
+if a person records an affidavit or other document purporting to rescind or
+cancel the trustee's deed.

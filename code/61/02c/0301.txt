@@ -38,7 +38,7 @@ with respect to the same residential mortgage loan transaction:
 (ii)  escrow agent;
 (iii)  real estate agent;
 (iv)  general contractor; or
-(v)  title insurance agent;
+(v)  title insurance producer;
 (j)  order a title insurance report or hold a title insurance policy unless
 the person provides to the title insurer a copy of a valid, current license
 under this chapter;
@@ -46,12 +46,12 @@ under this chapter;
 (l)  engage in an act or omission in transacting the business of residential
 mortgage loans that constitutes dishonesty, fraud, or misrepresentation;
 (m)  engage in false or misleading advertising;
-(n) (i)  fail to account for monies received in connection with a residential
+(n) (i)  fail to account for money received in connection with a residential
 mortgage loan;
-(ii)  use monies for a different purpose from the purpose for which the monies
-are received; or
-(iii)  except as provided in Subsection (4), retain monies paid for services
-if the services are not performed;
+(ii)  use money for a different purpose from the purpose for which the money
+is received; or
+(iii)  except as provided in Subsection (4), retain money paid for services if
+the services are not performed;
 (o)  fail, within 90 calendar days of a request from a borrower who has paid
 for an appraisal, to give a copy of an appraisal ordered and used for a
 transaction to the borrower;
@@ -66,7 +66,8 @@ refinance all or part of the indebtedness;
 office of an entity, fail to exercise reasonable supervision over the
 activities of:
 (i)  unlicensed staff; and
-(ii)  a mortgage officer who is licensed with the principal lending manager;
+(ii)  a mortgage loan originator who is affiliated with the principal lending
+manager;
 (s)  pay or offer to pay an individual who does not hold a license under this
 chapter for work that requires the individual to hold a license under this
 chapter;
@@ -75,17 +76,57 @@ chapter;
 (i)  provide a title insurance product or service without the approval
 required by Section 31A-2-405; or
 (ii)  knowingly provide false or misleading information in the statement
-required by Subsection 31A-2-405(2); or
+required by Subsection 31A-2-405(2);
 (u)  represent to the public that the person can or will perform any act of a
-loan originator if that person is not licensed under this chapter because the
-person is exempt under Subsection 61-2c-102(1)(f)(ii)(A), including through:
+mortgage loan originator if that person is not licensed under this chapter
+because the person is exempt under Subsection 61-2c-102(1)(g)(ii)(A),
+including through:
 (i)  advertising;
 (ii)  a business card;
-(iii)  stationary;
+(iii) stationery;
 (iv)  a brochure;
 (v)  a sign;
 (vi)  a rate list; or
-(vii)  other promotional item.
+(vii)  other promotional item; or
+(v) (i)  engage in an act of loan modification assistance without being
+licensed under this chapter;
+(ii)  engage in an act of foreclosure rescue that requires licensure as a real
+estate agent or real estate broker under Chapter 2, Division of Real Estate,
+without being licensed under that chapter;
+(iii)  request or require a person to pay a fee if:
+(A)  the person is required to pay the fee before entering into a written
+agreement specifying what one or more acts of loan modification assistance
+will be completed if the fee is paid; or
+(B)  in a case when the residential mortgage loan that is the subject of the
+loan modification assistance is foreclosed within one year of the day on which
+the person enters into a written agreement, the person is required to forfeit
+the fee for any reason;
+(iv)  induce a person seeking a loan modification to hire the licensee to
+engage in an act of loan modification assistance by:
+(A)  suggesting to the person that the licensee has a special relationship
+with the person's lender or loan servicer; or
+(B)  falsely representing or advertising that the licensee is acting on behalf
+of:
+(I)  a government agency;
+(II)  the person's lender or loan servicer; or
+(III)  a nonprofit or charitable institution;
+(v)  recommend or participate in a loan modification that requires a person
+to:
+(A)  transfer title to real property to the licensee or to a third party with
+whom the licensee has a business relationship or financial interest;
+(B)  make a mortgage payment to a person other than the person's loan
+servicer; or
+(C)  refrain from contacting the person's:
+(I)  lender;
+(II)  loan servicer;
+(III)  attorney;
+(IV)  credit counselor; or
+(V)  housing counselor; or
+(vi)  for an agreement for loan modification assistance entered into on or
+after May 11, 2010, engage in an act of loan modification assistance without
+offering in writing to the person entering into the agreement for loan
+modification assistance a right to cancel the agreement within three business
+days after the day on which the person enters the agreement.
 (2)  Whether or not the crime is related to the business of residential
 mortgage loans, it is a violation of this chapter for a licensee or a person
 who is a certified education provider to do any of the following with respect

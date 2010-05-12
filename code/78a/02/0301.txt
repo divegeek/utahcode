@@ -37,7 +37,7 @@ Divorce, or Title 30, Chapter 4, Separate Maintenance.
 (i)  $50 if the claim for relief exclusive of court costs, interest, and
 attorney fees is $2,000 or less;
 (ii)  $70 if the claim for relief exclusive of court costs, interest, and
-attorney fees is greater than $2,000, but less than $7,500;
+attorney fees is greater than $2,000, but less than $7,500; and
 (iii)  $120 if the claim for relief exclusive of court costs, interest, and
 attorney fees is $7,500 or more.
 (f)  The fee for depositing funds under Section 57-1-29 when not associated
@@ -50,9 +50,7 @@ small claims department; and
 accordance with Section 10-3-703.7.
 (h)  The fee for filing a notice of appeal, petition for appeal of an
 interlocutory order, or petition for writ of certiorari is $225.
-(i) (i)  Except for a petition filed under Subsection 77-18-10(2), the fee for
-filing a petition for expungement is $135.
-(ii)  There is no fee for a petition filed under Subsection 77-18-10(2).
+(i) The fee for filing a petition for expungement is $135.
 (j) (i)  Fifteen dollars of the fees established by Subsections (1)(a) through
 (i) shall be allocated to and between the Judges' Contributory Retirement
 Trust Fund and the Judges' Noncontributory Retirement Trust Fund, as provided
@@ -63,7 +61,7 @@ shall be allocated by the state treasurer to be deposited in the restricted
 account, Children's Legal Defense Account, as provided in Section 51-9-408.
 (iii)  Three dollars of the fees established under Subsections (1)(a) through
 (e), (1)(g), and (1)(r) shall be allocated to and deposited with the Dispute
-Resolution Fund as provided in Section 78B-6-209.
+Resolution Account as provided in Section 78B-6-209.
 (iv)  Fifteen dollars of the fees established by Subsections (1)(a),
 (1)(b)(iii) and (iv), (1)(d)(iii) and (iv), (1)(g)(ii), (1)(h), and (1)(i)
 shall be allocated by the state treasurer to be deposited in the restricted
@@ -148,7 +146,7 @@ Capital Projects Fund under this Subsection (2)(a)(ii) to construct a courts
 complex in Salt Lake City.
 (C)  After the courts complex is completed and all bills connected with its
 construction have been paid, the Division of Facilities Construction and
-Management shall use any monies remaining in the Capital Projects Fund under
+Management shall use any money remaining in the Capital Projects Fund under
 this Subsection (2)(a)(ii) to fund the Vernal District Court building.
 (iii)  The Division of Facilities Construction and Management may enter into
 agreements and make expenditures related to this project before the receipt of
@@ -178,7 +176,7 @@ division of money pursuant to Section 78A-5-110 shall be calculated on the
 balance of the fine or bail forfeiture paid.
 (3) (a)  There is created within the General Fund a restricted account known
 as the State Courts Complex Account.
-(b)  The Legislature may appropriate monies from the restricted account to the
+(b)  The Legislature may appropriate money from the restricted account to the
 administrator of the courts for the following purposes only:
 (i)  to repay costs associated with the construction of the court complex that
 were funded from sources other than revenues provided for under this

@@ -14,7 +14,7 @@ under this Subsection (2).
 by a licensed firearm dealer in the state.
 (4) (a)  An individual, except a dealer, purchasing a firearm from a dealer
 shall consent in writing to a criminal background check, on a form provided by
-the division.
+the bureau.
 (b)  The form shall contain the following information:
 (i)  the dealer identification number;
 (ii)  the name and address of the individual receiving the firearm;
@@ -23,16 +23,16 @@ individual receiving the firearm; and
 (iv)  the Social Security number or any other identification number of the
 individual receiving the firearm.
 (5) (a)  The dealer shall send the form required by Subsection (4) to the
-division immediately upon its completion.
-(b)  No dealer shall sell or transfer any firearm to an individual until the
-dealer has provided the division with the information in Subsection (4) and
-has received approval from the division under Subsection (7).
+bureau immediately upon its completion.
+(b)  A dealer may not sell or transfer a firearm to an individual until the
+dealer has provided the bureau with the information in Subsection (4) and has
+received approval from the bureau under Subsection (7).
 (6)  The dealer shall make a request for criminal history background
-information by telephone or other electronic means to the division and shall
+information by telephone or other electronic means to the bureau and shall
 receive approval or denial of the inquiry by telephone or other electronic
 means.
 (7)  When the dealer calls for or requests a criminal history background
-check, the division shall:
+check, the bureau shall:
 (a)  review the criminal history files, including juvenile court records, to
 determine if the individual is prohibited from purchasing, possessing, or
 transferring a firearm by state or federal law;
@@ -44,43 +44,43 @@ firearm;
 (d)  provide a response to the requesting dealer during the call for a
 criminal background, or by return call, or other electronic means, without
 delay, except in case of electronic failure or other circumstances beyond the
-control of the division, the division shall advise the dealer of the reason
-for the delay and give the dealer an estimate of the length of the delay.
-(8) (a)  The division shall not maintain any records of the criminal history
+control of the bureau, the bureau shall advise the dealer of the reason for
+the delay and give the dealer an estimate of the length of the delay.
+(8) (a)  The bureau may not maintain any records of the criminal history
 background check longer than 20 days from the date of the dealer's request if
-the division determines that the individual receiving the gun is not
-prohibited from purchasing, possessing, or transferring the firearm under
-state or federal law.
-(b)  However, the division shall maintain a log of requests containing the
+the bureau determines that the individual receiving the gun is not prohibited
+from purchasing, possessing, or transferring the firearm under state or
+federal law.
+(b)  However, the bureau shall maintain a log of requests containing the
 dealer's federal firearms number, the transaction number, and the transaction
 date for a period of 12 months.
 (9)  If the criminal history background check discloses information indicating
 that the individual attempting to purchase the firearm is prohibited from
-purchasing, possessing, or transferring a firearm, the division shall inform
-the law enforcement agency in the jurisdiction where the person resides.
+purchasing, possessing, or transferring a firearm, the bureau shall inform the
+law enforcement agency in the jurisdiction where the person resides.
 (10)  If an individual is denied the right to purchase a firearm under this
 section, the individual may review the individual's criminal history
 information and may challenge or amend the information as provided in Section
 53-10-108.
-(11)  The division shall make rules as provided in Title 63G, Chapter 3, Utah
+(11)  The bureau shall make rules as provided in Title 63G, Chapter 3, Utah
 Administrative Rulemaking Act, to ensure the identity, confidentiality, and
 security of all records provided by the division pursuant to this part are in
 conformance with the requirements of the Brady Handgun Violence Prevention
 Act, Pub. L. No. 103-159, 107 Stat. 1536 (1993).
-(12) (a) (i)  All dealers shall collect a criminal history background check
-fee which is $7.50.
-(ii)  This fee remains in effect until changed by the division through the
+(12) (a) (i)  A dealer shall collect a criminal history background check fee
+related to the sale of a firearm under this section, which is $7.50.
+(ii)  This fee remains in effect until changed by the bureau through the
 process under Section 63J-1-504.
 (b) (i)  The dealer shall forward at one time all fees collected for criminal
-history background checks performed during the month to the division by the
-last day of the month following the sale of a firearm.
-(ii)  The division shall deposit the fees in the General Fund as dedicated
+history background checks performed during the month to the bureau by the last
+day of the month following the sale of a firearm.
+(ii)  The bureau shall deposit the fees in the General Fund as dedicated
 credits to cover the cost of administering and conducting the criminal history
 background check program.
 (13)  An individual with a concealed firearm permit issued pursuant to Title
-53, Chapter 5, Part 7, Concealed Weapon Act, shall be exempt from the
-background check and corresponding fee required in this section for the
-purchase of a firearm if:
+53, Chapter 5, Part 7, Concealed Firearm Act, is exempt from the background
+check and corresponding fee required in this section for the purchase of a
+firearm if:
 (a)  the individual presents the individual's concealed firearm permit to the
 dealer prior to purchase of the firearm; and
 (b)  the dealer verifies with the division that the individual's concealed

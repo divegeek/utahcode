@@ -9,9 +9,10 @@ their territorial jurisdiction by a person 16 years of age or older:
 (a)  Title 23, Wildlife Resources Code of Utah;
 (b)  Title 41, Chapter 1a, Motor Vehicle Act;
 (c)  Title 41, Chapter 6a, Traffic Code;
-(d)  Title 41, Chapter 12a, Motor Vehicle Financial Responsibility Act;
+(d)  Title 41, Chapter 12a, Financial Responsibility of Motor Vehicle Owners
+and Operators Act;
 (e)  Title 41, Chapter 22, Off-Highway Vehicles;
-(f)  Title 73, Chapter 18, Safe Boating Act;
+(f)  Title 73, Chapter 18, State Boating Act;
 (g)  Title 73, Chapter 18a, Boating - Litter and Pollution Control;
 (h)  Title 73, Chapter 18b, Water Safety; and
 (i)  Title 73, Chapter 18c, Financial Responsibility of Motorboat Owners and
@@ -41,7 +42,7 @@ watercraft, or aircraft passing within the court's jurisdiction;
 (ii) (A)  the offense is committed on or in any body of water bordering on or
 within this state if the territorial limits of the justice court are adjacent
 to the body of water; and
-(B)  as used in Subsection (3)(f)(ii)(A), "body of water" includes any stream,
+(B)  as used in Subsection (5)(f)(ii)(A), "body of water" includes any stream,
 river, lake, or reservoir, whether natural or man-made;
 (iii)  a person who commits theft exercises control over the affected property
 within the court's jurisdiction; or
@@ -54,5 +55,8 @@ received within the court's jurisdiction; or
 Chapter 8, Small Claims Courts, if a defendant resides in or the debt arose
 within the territorial jurisdiction of the justice court.
 (7)  A justice court judge may transfer a matter in which the defendant is a
-child to the juvenile court for further proceedings after judgment in the
-justice court.
+child to the juvenile court for further proceedings if the justice court judge
+determines and the juvenile court concurs that the best interests of the child
+would be served by the continuing jurisdiction of the juvenile court.
+(8)  The court may issue all extraordinary writs and other writs necessary to
+carry into effect its orders, judgments, and decrees.

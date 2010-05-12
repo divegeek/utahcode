@@ -5,13 +5,15 @@ a taxing entity:
 under this title;
 (ii)  for administrative, overhead, legal, and other operating expenses of the
 agency, including consultant fees and expenses under Subsection
-17C-2-102(1)(b)(ii)(B); or
+17C-2-102(1)(b)(ii)(B);
 (iii)  to pay for, including financing or refinancing, all or part of:
-(A) urban renewal activities in the project area from which the tax increment
+(A)  urban renewal activities in the project area from which the tax increment
 funds are collected, including environmental remediation activities occurring
 before or after adoption of the project area plan;
-(B)  economic development or community development activities in the project
-area from which the tax increment funds are collected;
+(B)  economic development or community development activities, including
+environmental remediation activities occurring before or after adoption of the
+project area plan, in the project area from which the tax increment funds are
+collected;
 (C)  housing expenditures, projects, or programs as provided in Section
 17C-1-411 or 17C-1-412;
 (D)  subject to Subsections (1)(c) and (6), the value of the land for and the
@@ -22,7 +24,15 @@ from which the tax increment funds were collected; and
 owned infrastructure and improvements outside the project area from which the
 tax increment funds were collected if the agency board and the community
 legislative body determine by resolution that the publicly owned
-infrastructure and improvements are of benefit to the project area.
+infrastructure and improvements are of benefit to the project area; or
+(iv)  in an urban renewal project area that includes some or all of an
+inactive industrial site and subject to Subsection (1)(f), to reimburse the
+Department of Transportation created under Section 72-1-201, or a public
+transit district created under Title 17B, Chapter 2a, Part 8, Public Transit
+District Act, for the cost of:
+(A)  construction of a public road, bridge, or overpass;
+(B)  relocation of a railroad track within the urban renewal project area; or
+(C)  relocation of a railroad facility within the urban renewal project area.
 (b)  The determination of the agency board and the community legislative body
 under Subsection (1)(a)(iii)(E) regarding benefit to the project area shall be
 final and conclusive.
@@ -34,6 +44,28 @@ the community legislative body.
 taxing entity for the purposes stated in Subsection (1)(a)(iii)(E) under an
 urban renewal or economic development project area plan without the consent of
 the community legislative body and the taxing entity committee.
+(e) (i)  Subject to Subsection (1)(e)(ii), an agency may loan tax increment or
+sales tax proceeds, or a combination of tax increment and sales tax proceeds,
+from a project area fund to another project area fund if:
+(A)  the agency's board approves; and
+(B)  the legislative body of each community that created the agency approves.
+(ii)  An agency may not loan tax increment or sales tax proceeds, or a
+combination of tax increment and sales tax proceeds, under Subsection
+(1)(e)(i) unless the projections for the future tax increment or sales tax
+proceeds of the borrowing project area are sufficient to repay the loan amount
+prior to when the tax increment or sales tax proceeds are intended for use
+under the loaning project area's plan.
+(iii)  If a borrowing project area's funds are not sufficient to repay a loan
+made under Subsection (1)(e)(i) prior to when the tax increment or sales tax
+proceeds are intended for use under the loaning project area's plan, the
+community that created the agency shall repay the loan to the loaning project
+area's fund prior to when the tax increment or sales tax proceeds are intended
+for use under the loaning project area's plan.
+(f)  Before an agency may pay any tax increment or sales tax revenue under
+Subsection (1)(a)(iv), the agency shall enter into an interlocal agreement
+defining the terms of the reimbursement with:
+(i)  the Department of Transportation; or
+(ii)  a public transit district.
 (2)  Sales tax proceeds that an agency receives from another public entity are
 not subject to the prohibition or limitations of Title 11, Chapter 41,
 Prohibition on Sales and Use Tax Incentive Payments Act.

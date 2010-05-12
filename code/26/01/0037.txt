@@ -23,7 +23,15 @@ Act.
 (ii)  affiliated third party payers; and
 (iii)  other arrangement between organizations or providers as described by
 the department by administrative rule.
-(f)  "Third party payer" means:
+(f)  "Qualified network" means an entity that:
+(i)  is a non-profit organization;
+(ii)  is accredited by the Electronic Healthcare Network Accreditation
+Commission, or another national accrediting organization recognized by the
+department; and
+(iii)  performs the electronic exchange of clinical health information among
+multiple health care providers not under common control, multiple third party
+payers not under common control, the department, and local health departments.
+(g)  "Third party payer" means:
 (i)  all insurers offering health insurance who are subject to Section
 31A-22-614.5; and
 (ii)  the state Medicaid program.
@@ -35,8 +43,9 @@ Act:
 (B)  "health system arrangements between providers or organizations" as
 described in Subsection (1)(e)(iii); and
 (ii)   adopt standards for the electronic exchange of clinical health
-information between health care providers and third party payers that are in
-compliance with 45 C.F.R. Parts 160, 162, and 164, Health Insurance Reform:
+information between health care providers and third party payers that are for
+treatment, payment, health care operations, or public health reporting, as
+provided for in 45 C.F.R. Parts 160, 162, and 164, Health Insurance Reform:
 Security Standards.
 (b)  The department shall coordinate its rule making authority under the
 provisions of this section with the rule making authority of the Insurance
@@ -44,12 +53,24 @@ Department under Section 31A-22-614.5.  The department shall establish
 procedures for developing the rules adopted under this section, which ensure
 that the Insurance Department is given the opportunity to comment on proposed
 rules.
-(3) (a)  Except as provided in Subsection (3)(b), a health care provider or
+(3) (a)  Except as provided in Subsection (3)(e), a health care provider or
 third party payer in Utah is required to use the standards adopted by the
 department under the provisions of Subsection (2) if the health care provider
 or third party payer elects to engage in an electronic exchange of clinical
 health information with another health care provider or third party payer.
-(b)  A health care provider or third party payer is not required to use the
+(b)  A health care provider or third party payer may disclose information to
+the department or a local health department, by electronic exchange of
+clinical health information, as permitted by Subsection 45 C.F.R. 164.512(b).
+(c)  When functioning in its capacity as a health care provider or payer, the
+department or a local health department may disclose clinical health
+information by electronic exchange to another health care provider or third
+party payer.
+(d)  An electronic exchange of clinical health information by a health care
+provider, a third party payer, the department, or a local health department is
+a disclosure for treatment, payment, or health care operations if it complies
+with Subsection (3)(a) or (c) and is for treatment, payment, or health care
+operations, as those terms are defined in 45 C.F.R. Parts 160, 162, and 164.
+(e)  A health care provider or third party payer is not required to use the
 standards adopted by the department under the provisions of Subsection (2) if
 the health care provider or third party payer engage in the electronic
 exchange of clinical health information within a particular health care
@@ -57,10 +78,19 @@ system.
 (4)  Nothing in this section shall limit the number of networks eligible to
 engage in the electronic data interchange of clinical health information using
 the standards adopted by the department under Subsection (2)(a)(ii).
-(5)  The department shall report on the use of the standards for the
+(5)  The department, a local health department, a health care provider, a
+third party payer, or a qualified network is not subject to civil liability
+for a disclosure of clinical health information if the disclosure is in
+accordance both with Subsection (3)(a) and with Subsection (3)(b), (3)(c), or
+(3)(d).
+(6)  Within a qualified network, information generated or disclosed in the
+electronic exchange of clinical health information is not subject to
+discovery, use, or receipt in evidence in any legal proceeding of any kind or
+character.
+(7)  The department shall report on the use of the standards for the
 electronic exchange of clinical health information to the legislative Health
-and Human Services Interim Committee no later than October 15, 2008 and no
-later than every October 15th thereafter.  The report shall include publicly
-available information concerning the costs and savings for the department,
-third party payers, and health care providers associated with the standards
-for the electronic exchange of clinical health records.
+and Human Services Interim Committee no later than October 15 of each year.
+The report shall include publicly available information concerning the costs
+and savings for the department, third party payers, and health care providers
+associated with the standards for the electronic exchange of clinical health
+records.

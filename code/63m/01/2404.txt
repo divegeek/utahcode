@@ -1,19 +1,20 @@
-63M-1-2404.   Creation of economic development zones -- Tax credits.
+63M-1-2404.   Creation of economic development zones -- Tax credits --
+Assignment of tax credit.
 (1)  The office, with advice from the board, may create an economic
 development zone in the state that satisfies all of the following
 requirements:
 (a)  the area is zoned commercial, industrial, manufacturing, business park,
 research park, or other appropriate use in a community-approved master plan;
-and
 (b)  the request to create a development zone has been forwarded to the office
-after first being approved by an appropriate local government entity that has
-committed or will commit to provide local incentives.
+after first being approved by an appropriate local government entity; and
+(c)  local incentives have been committed or will be committed to be provided
+within the area.
 (2) (a)  By following the procedures and requirements of Title 63G, Chapter 3,
 Utah Administrative Rulemaking Act, the office shall make rules establishing
-the conditions that a business entity must meet to qualify for a tax credit
-under this part.
-(b)  The office shall ensure that those conditions include the following
-requirements:
+the conditions that a business entity or local government entity shall meet to
+qualify for a tax credit under this part.
+(b)  The office shall ensure that the conditions described in Subsection
+(2)(a) include the following requirements:
 (i)  the new commercial project must be within the development zone;
 (ii)  the new commercial project includes direct investment within the
 geographic boundaries of the development zone;
@@ -22,28 +23,60 @@ geographic boundaries of the development zone;
 creation of high paying jobs, or significant purchases from Utah vendors and
 providers, or any combination of these three economic factors;
 (v)  the new commercial project generates new state revenues; and
-(vi)  the business entity qualifying for the tax credit meets the requirements
-of Section 63M-1-2405.
-(3) (a)  The office, with advice from the board, may enter into an agreement
-with a business entity authorizing a tax credit to a business entity that
+(vi) (A)  a business entity or local government entity qualifying for the tax
+credit meets the requirements of Section 63M-1-2405; or
+(B)  a community development and renewal agency to which a local government
+entity assigns a tax credit under this section meets the requirements of
+Section 63M-1-2405.
+(3) (a)  Subject to the other provisions of this Subsection (3), the office,
+with advice from the board, may enter into an agreement with a business entity
+or local government entity authorizing a tax credit to the business entity or
+local government entity if the business entity or local government entity
 meets the standards established under Subsection (2).
-(b)  The office may not authorize or commit to authorize a tax credit to a
-business entity if that tax credit exceeds:
-(i)  50% of the new state revenues from the business entity's new commercial
-project in any given year; or
-(ii)  30% of the new state revenues from the business entity's new commercial
-project over the life of a new commercial project or 20 years, whichever is
-less.
-(4)  The office shall ensure that the agreement with the business entity that
-is described in Subsection (3):
-(a)  details the requirements that the business entity must meet to qualify
-for a tax credit under this part;
-(b)  specifies the maximum amount of tax credit that the business entity may
-earn for a taxable year and over the life of the new commercial project;
-(c)  establishes the length of time the business entity may claim a tax
-credit;
-(d)  requires the business entity to retain records supporting its claim for a
-tax credit for at least four years after the business entity claims a tax
-credit under this part; and
-(e)  requires the business entity to submit to audits for verification of the
-tax credit claimed.
+(b) (i)  With respect to one new commercial project, the office may authorize
+a tax credit to a business entity or a local government entity, but not both.
+(ii)  In determining whether to authorize a tax credit with respect to one new
+commercial project to a business entity or a local government entity, the
+office shall authorize the tax credit in a manner that the office determines
+will result in providing the most effective incentive for the new commercial
+project.
+(c)  The office may not authorize or commit to authorize a tax credit if that
+tax credit exceeds:
+(i)  50% of the new state revenues from the new commercial project in any
+given year; or
+(ii)  30% of the new state revenues from the new commercial project over the
+life of a new commercial project or 20 years, whichever is less.
+(d) (i)  A local government entity may by resolution assign a tax credit that
+the office authorizes to the local government entity to a community
+development and renewal agency.
+(ii)  The local government entity shall provide a copy of the resolution
+described in Subsection (3)(d)(i) to the office.
+(iii)  If a local government entity assigns a tax credit to a community
+development and renewal agency:
+(A)  the agreement described in this section shall:
+(I)  be among the office, the local government entity, and the community
+development and renewal agency; and
+(II)  establish:
+(Aa)  the obligations of the local government entity and the community
+development and renewal agency; and
+(Bb)  the extent to which any of the local government entity's obligations are
+transferred to the community development and renewal agency;
+(B)  the community development and renewal agency shall retain records as
+described in Subsection (4)(d); and
+(C)  a tax credit certificate issued in accordance with Section 63M-1-2406
+shall list the community development and renewal agency as the name of the
+applicant.
+(4)  Subject to Subsection (3), the office shall ensure that the agreement
+described in Subsection (3):
+(a)  details the requirements that the business entity or local government
+entity shall meet to qualify for a tax credit under this part;
+(b)  specifies the maximum amount of tax credit that the business entity or
+local government entity may be authorized for a taxable year and over the life
+of the new commercial project;
+(c)  establishes the length of time the business entity or local government
+entity may claim a tax credit;
+(d)  requires the business entity or local government entity to retain records
+supporting a claim for a tax credit for at least four years after the business
+entity or local government entity claims a tax credit under this part; and
+(e)  requires the business entity or local government entity to submit to
+audits for verification of the tax credit claimed.

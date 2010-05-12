@@ -8,9 +8,15 @@ and revocation of bail bond surety license.
 service of notice upon the company from a prosecutor of the entry of the
 judgment.
 (ii)  A company may pay a bond forfeiture to the court prior to judgment.
-(b)  A prosecutor who does not receive proof of or notice of payment of the
-judgment within 15 days after the service of notice to the company of a
+(b) (i)  A prosecutor who does not receive proof of or notice of payment of
+the judgment within 15 days after the service of notice to the company of a
 judgment shall notify the commissioner of the failure to pay the judgment.
+(ii)  The commissioner shall notify the company, by the most expeditious means
+available, of the nonpayment of the judgment.
+(iii)  The company shall satisfy the judgment within five business days after
+receiving notice under Subsection (2)(b)(ii).  If the judgment is not
+satisfied at the end of the five days, the commissioner may suspend the
+company's license under Subsection (3).
 (c)  If notice of entry of judgment is served upon the company by mail, three
 additional days are added to the 15 days provided in Subsections (2)(a),
 (2)(b), and (2)(d).
@@ -20,15 +26,15 @@ additional days are added to the 15 days provided in Subsections (2)(a),
 extraordinary writ; and
 (ii)  provides proof that the surety has posted the judgment amount with the
 court in the form of cash, a cashier's check, or certified funds.
-(e) As used in this section, the filing of the following tolls the time within
-which a company is required to pay a judgment if the motion or application is
-filed within 15 days after the day on which service of notice of the entry of
-a judgment is served:
+(e)  As used in this section, the filing of the following tolls the time
+within which a company is required to pay a judgment if the motion or
+application is filed within 15 days after the day on which service of notice
+of the entry of a judgment is served:
 (i)  a motion to set aside a judgment; or
 (ii)  an application for extraordinary writ.
 (3)  The commissioner shall suspend the license of the company not later than
-five days following receipt of notice from a prosecutor of the company's
-failure to pay the judgment.
+five days following the company's failure to satisfy the judgment as required
+under Subsection (2)(b).
 (4)  If the prosecutor receives proof of or notice of payment of the judgment
 during the suspension period under Subsection (3), the prosecutor shall
 immediately notify the commissioner of the payment.  The notice shall be in

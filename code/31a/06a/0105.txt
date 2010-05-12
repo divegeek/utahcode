@@ -23,8 +23,9 @@ advertisement of a service contract.
 institution may not require the purchase of a service contract as a condition
 of a loan.
 (4)  Except for a bank, savings and loan association, industrial bank, or
-credit union, a service contract provider, unless licensed by the department,
-may not sell, or be the obligated party for:
-(a)  a guaranteed asset protection waiver;
-(b)  a debt cancellation agreement; or
-(c)  a debt suspension agreement.
+credit union, a service contract provider may not sell, or be the obligated
+party for:
+(a)  a guaranteed asset protection waiver, unless registered with the
+commissioner under Chapter 6b, Guaranteed Asset Protection Waiver Act;
+(b)  a debt cancellation agreement, unless licensed by the commissioner; or
+(c)  a debt suspension agreement, unless licensed by the commissioner.

@@ -24,8 +24,9 @@ Culture, the Department of Health, the National Guard, the Department of
 Environmental Quality, the Department of Public Safety, the Department of
 Human Resource Management, the Commission on Criminal and Juvenile Justice,
 all merit employees except attorneys in the Office of the Attorney General,
-merit employees in the Office of the State Treasurer, and merit employees in
-the Office of the State Auditor.
+merit employees in the Office of the State Treasurer, merit employees in the
+Office of the State Auditor, Department of Veterans' Affairs, and the Board of
+Pardons and Parole.
 (d)  "Elected official" means any person who is an employee of the state
 because the person was elected by the registered voters of Utah to a position
 in state government.
@@ -44,13 +45,12 @@ work period.
 (j)  "Overtime year" means the year determined by a department under
 Subsection (4)(b) at the end of which an exempt employee's accrued overtime
 lapses.
-(k) (i)  "State employee" means every person employed by a department who is
-not an appointed official or an elected official.
-(ii)  "State employee" does not mean:
-(A)  certificated employees of the State Board of Education; and
-(B)  employees of the Department of Community and Culture or the Governor's
-Office of Economic Development, whose positions are designated as schedule AM
-exempt employees under Section 67-19-15.
+(k)  "State employee" means every person employed by a department who is not:
+(i)  an appointed official;
+(ii)  an elected official;
+(iii)  a member of a board or commission who is paid only on a per diem or
+travel expenses basis; or
+(iv)  employed on a contractual basis at the State Office of Education.
 (l)  "Uniform annual date" means the date when an exempt employee's accrued
 overtime lapses.
 (m)  "Work period" means:

@@ -30,8 +30,8 @@ similar communications media; and
 (n)  assigning a life settlement;
 (o)  pledging a life settlement;
 (p)  hypothecating a life settlement; or
-(q)  in any other manner acquiring an interest in a policy by means of a life
-settlement.
+(q)  in any other manner acquiring an interest in an insurance policy by means
+of a life settlement.
 (3)  "Chronically ill" means:
 (a)  being unable to perform at least two activities of daily living, such as
 eating, toileting, moving from one place to another, bathing, dressing, or
@@ -71,10 +71,10 @@ under a policy to be settled can be expected to live considering medical
 records and appropriate experiential data.
 (8) (a)  "Life settlement" means a written agreement:
 (i)  between an owner and a life settlement provider; and
-(ii)  for the payment of anything of value, that is less than the expected
-death benefit of the policy, in exchange for the owner assigning, selling,
-transferring, devising, releasing, or bequeathing, at the time of or after the
-exchange, the death benefit or ownership of:
+(ii) that establishes the terms for the payment of anything of value in
+exchange for the owner assigning, selling, transferring, devising, releasing,
+or bequeathing, at the time of or after the exchange, the death benefit or
+ownership of:
 (A)  any portion of a policy; or
 (B)  a beneficial interest in the policy.
 (b)  "Life settlement" includes:
@@ -91,7 +91,7 @@ portion of the policy's death benefit on a date following the issuance of the
 policy.
 (c)  An agreement described in Subsection (8)(a) is a "life settlement" even
 if it is referred to by a different name, including:
-(i)  a "life settlement"; or
+(i)  a "viatical settlement"; or
 (ii)  a "senior settlement."
 (d)  "Life settlement" does not include:
 (i)  a loan or accelerated death benefit by an insurer pursuant to the terms
@@ -194,10 +194,10 @@ Sec. 230.501;
 (12) (a)  "Owner" means any of the following who resides in this state and
 seeks to enter into a life settlement:
 (i)  the owner of a policy; or
-(ii)  the holder of a certificate of insurance under a policy of group
-insurance.
-(b)  "Owner" is not limited to a person who is terminally ill or chronically
-ill except when the limitation is expressly provided in this chapter.
+(ii)  the holder of a certificate of a group policy.
+(b)  "Owner" is not limited to an individual who is terminally ill or
+chronically ill except when the limitation is expressly provided in this
+chapter.
 (c)  "Owner" does not include:
 (i)  a life settlement provider;
 (ii)  a life settlement producer;
@@ -208,8 +208,10 @@ ill except when the limitation is expressly provided in this chapter.
 (vi)  a related provider trust.
 (13)  "Policy" means:
 (a)  an individual or group life insurance policy;
-(b)  a group certificate for life insurance; or
-(c)  a contract or arrangement of life insurance, whether or not delivered or
+(b)  an individual or group annuity policy;
+(c)  a group life insurance certificate;
+(d)  a group annuity certificate; or
+(e)  a life insurance policy or an annuity policy, whether or not delivered or
 issued for delivery in Utah:
 (i)  affecting the rights of a resident of Utah; or
 (ii)  bearing a reasonable relation to Utah.

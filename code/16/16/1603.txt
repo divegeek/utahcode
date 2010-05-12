@@ -1,11 +1,11 @@
 16-16-1603.   Action on plan of conversion by converting limited cooperative
 association.
 (1)  For a limited cooperative association to convert to another entity, a
-plan of conversion must be approved by a majority of the board of directors,
+plan of conversion shall be approved by a majority of the board of directors,
 or a greater percentage if required by the organic rules, and the board of
-directors must call a members meeting to consider the plan of conversion, hold
-the meeting not later than 90 days after approval of the plan by the board,
-and mail or otherwise transmit or deliver in a record to each member:
+directors shall call a members meeting to consider the plan of conversion,
+hold the meeting not later than 90 days after approval of the plan by the
+board, and mail or otherwise transmit or deliver in a record to each member:
 (a)  the plan, or a summary of the plan and a statement of the manner in which
 a copy of the plan in a record may be reasonably obtained by a member;
 (b)  a recommendation that the members approve the plan of conversion, or if
@@ -15,10 +15,10 @@ that determination;
 (c)  a statement of any condition of the board's submission of the plan of
 conversion to the members; and
 (d)  notice of the meeting at which the plan of conversion will be considered,
-which must be given in the same manner as notice of a special meeting of
+which shall be given in the same manner as notice of a special meeting of
 members.
-(2)  Subject to Subsections (3) and (4), a plan of conversion must be approved
-by:
+(2)  Subject to Subsections (3) and (4), a plan of conversion shall be
+approved by:
 (a)  at least two-thirds of the voting power of members present at a members
 meeting called under Subsection (1); and
 (b)  if the limited cooperative association has investor members, at least a
@@ -33,9 +33,10 @@ at the meeting;
 (4)  The vote required to approve a plan of conversion may not be less than
 the vote required for the members of the limited cooperative association to
 amend the articles of organization.
-(5)  Consent in a record to a plan of conversion by a member must be delivered
-to the limited cooperative association before delivery of articles of
-conversion for filing if as a result of the conversion the member will have:
+(5)  Consent in a record to a plan of conversion by a member shall be
+delivered to the limited cooperative association before delivery of articles
+of conversion for filing if as a result of the conversion the member will
+have:
 (a)  personal liability for an obligation of the association; or
 (b)  an obligation or liability for an additional contribution.
 (6)  Subject to Subsection (5) and any contractual rights, after a conversion

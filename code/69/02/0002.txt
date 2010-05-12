@@ -22,11 +22,16 @@ emergency services.
 (6)  "Public safety agency" means a functional division of a public agency
 which provides fire fighting, law enforcement, medical, or other emergency
 services.
-(7)  "Radio communications access line" means the radio equipment and assigned
+(7)  "Public safety answering point" means a facility that:
+(a)  is equipped and staffed under the authority of a political subdivision;
+and
+(b)  receives 911 calls, other calls for emergency services, and asynchronous
+event notifications for a defined geographic area.
+(8)  "Radio communications access line" means the radio equipment and assigned
 customer identification number used to connect a mobile or fixed radio
 customer in Utah to a radio communication service provider’s network for
 two-way interactive voice, or voice capable, services.
-(8)  "Radio communications service" means a public telecommunications service
+(9)  "Radio communications service" means a public telecommunications service
 providing the capability of two-way interactive telecommunications between
 mobile and fixed radio customers, and between mobile or fixed radio customers
 and the local exchange service network customers of a wireline common carrier.
@@ -35,6 +40,6 @@ entities offering cellular telephone service, enhanced specialized mobile
 radio service, rural radio service, radio common carrier services, personal
 communications services, and any equivalent wireless public telecommunications
 service, as defined in 47 CFR, parts 20, 21, 22, 24, and 90.
-(9)  "Wireline common carrier" means a public telecommunications service
+(10)  "Wireline common carrier" means a public telecommunications service
 provider that primarily uses metallic or nonmetallic cables and wires for
 connecting customers to its local exchange service networks.

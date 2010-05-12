@@ -161,7 +161,7 @@ extracts (Interprets 21 USC 812(c), Schedule I(c) (12));
 in the plant, or in the resinous extractives of Cannabis, sp. and/or synthetic
 substances, derivatives, and their isomers with similar chemical structure and
 pharmacological activity such as the following: Δ1 cis or trans
-tetrahydrocannabinol, and their optical isomers  Δ6 cis or trans
+tetrahydrocannabinol, and their optical isomers Δ6 cis or trans
 tetrahydrocannabinol, and their optical isomers Δ3,4 cis or trans
 tetrahydrocannabinol, and its optical isomers, and since nomenclature of these
 substances is not internationally standardized, compounds of these structures,
@@ -305,11 +305,11 @@ designation:
 (E)  Phencyclidine immediate precursors: 1-phenylcyclohexylamine and
 1-piperidinocyclohexanecarbonitrile (PCC); and
 (F)  Secobarbital.
-(v)  Unless specifically excepted or unless listed in another schedule, any
-material, compound, mixture, or preparation which contains any quantity of
+(v) (A)  Unless specifically excepted or unless listed in another schedule,
+any material, compound, mixture, or preparation which contains any quantity of
 Phenylacetone.
-Some of these substances may be known by trade or other names:
-phenyl-2-propanone, P2P; benzyl methyl ketone, methyl benzyl ketone.
+(B)  Some of these substances may be known by trade or other names:
+phenyl-2-propanone; P2P; benzyl methyl ketone; and methyl benzyl ketone.
 (vi)  Nabilone, another name for nabilone:
 (±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6, 6
 -dimethyl-9H-dibenzo[b,d]pyran-9-one.
@@ -425,9 +425,10 @@ or derivative of the following that promotes muscle growth:
 (Y)  Testolactone;
 (Z)  Testosterone; and
 (AA)  Trenbolone.
-Anabolic steroids expressly intended for administration through implants to
-cattle or other nonhuman species, and approved by the Secretary of Health and
-Human Services for use, may not be classified as a controlled substance.
+(vii)  Anabolic steroids expressly intended for administration through
+implants to cattle or other nonhuman species, and approved by the Secretary of
+Health and Human Services for use, may not be classified as a controlled
+substance.
 (d)  Schedule IV:
 (i)  Unless specifically excepted or unless listed in another schedule, any
 material, compound, mixture, or preparation containing not more than 1
@@ -443,53 +444,54 @@ the specific chemical designation:
 (C)  Bromazepam;
 (D)  Butorphanol;
 (E)  Camazepam;
-(F)  Chloral betaine;
-(G)  Chloral hydrate;
-(H)  Chlordiazepoxide;
-(I)  Clobazam;
-(J)  Clonazepam;
-(K)  Clorazepate;
-(L)  Clotiazepam;
-(M)  Cloxazolam;
-(N)  Delorazepam;
-(O)  Diazepam;
-(P)  Dichloralphenazone;
-(Q)  Estazolam;
-(R)  Ethchlorvynol;
-(S)  Ethinamate;
-(T)  Ethyl loflazepate;
-(U)  Fludiazepam;
-(V)  Flunitrazepam;
-(W)  Flurazepam;
-(X)  Halazepam;
-(Y)  Haloxazolam;
-(Z)  Ketazolam;
-(AA)  Loprazolam;
-(BB)  Lorazepam;
-(CC)  Lormetazepam;
-(DD)  Mebutamate;
-(EE)  Medazepam;
-(FF)  Meprobamate;
-(GG)  Methohexital;
-(HH)  Methylphenobarbital (mephobarbital);
-(II)  Midazolam;
-(JJ)  Nimetazepam;
-(KK)  Nitrazepam;
-(LL)  Nordiazepam;
-(MM)  Oxazepam;
-(NN)  Oxazolam;
-(OO)  Paraldehyde;
-(PP)  Pentazocine;
-(QQ)  Petrichloral;
-(RR)  Phenobarbital;
-(SS)  Pinazepam;
-(TT)  Prazepam;
-(UU)  Quazepam;
-(VV)  Temazepam;
-(WW)  Tetrazepam;
-(XX)  Triazolam;
-(YY)  Zaleplon; and
-(ZZ)  Zolpidem.
+(F)  Carisoprodol;
+(G)  Chloral betaine;
+(H)  Chloral hydrate;
+(I)  Chlordiazepoxide;
+(J)  Clobazam;
+(K)  Clonazepam;
+(L)  Clorazepate;
+(M)  Clotiazepam;
+(N)  Cloxazolam;
+(O)  Delorazepam;
+(P)  Diazepam;
+(Q)  Dichloralphenazone;
+(R)  Estazolam;
+(S)  Ethchlorvynol;
+(T)  Ethinamate;
+(U)  Ethyl loflazepate;
+(V)  Fludiazepam;
+(W)  Flunitrazepam;
+(X)  Flurazepam;
+(Y)  Halazepam;
+(Z)  Haloxazolam;
+(AA)  Ketazolam;
+(BB)  Loprazolam;
+(CC)  Lorazepam;
+(DD)  Lormetazepam;
+(EE)  Mebutamate;
+(FF)  Medazepam;
+(GG)  Meprobamate;
+(HH)  Methohexital;
+(II)  Methylphenobarbital (mephobarbital);
+(JJ)  Midazolam;
+(KK)  Nimetazepam;
+(LL)  Nitrazepam;
+(MM)  Nordiazepam;
+(NN)  Oxazepam;
+(OO)  Oxazolam;
+(PP)  Paraldehyde;
+(QQ)  Pentazocine;
+(RR)  Petrichloral;
+(SS)  Phenobarbital;
+(TT)  Pinazepam;
+(UU)  Prazepam;
+(VV)  Quazepam;
+(WW)  Temazepam;
+(XX)  Tetrazepam;
+(YY)   Triazolam;
+(ZZ)   Zaleplon; and
+(AAA)   Zolpidem.
 (iii)  Any material, compound, mixture, or preparation of fenfluramine which
 contains any quantity of the following substances, including its salts,
 isomers whether optical, position, or geometric, and salts of the isomers when

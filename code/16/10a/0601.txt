@@ -1,14 +1,14 @@
 16-10a-601.   Authorized shares.
-(1)  The articles of incorporation must prescribe the classes of shares and
+(1)  The articles of incorporation shall prescribe the classes of shares and
 the number of shares of each class that the corporation is authorized to
 issue.  If more than one class of shares is authorized, the articles of
-incorporation must prescribe a distinguishing designation for each class, and
+incorporation shall prescribe a distinguishing designation for each class, and
 prior to the issuance of shares of a class the preferences, limitations, and
-relative rights of that class must be described in the articles of
-incorporation.  All shares of a class must have preferences, limitations, and
+relative rights of that class shall be described in the articles of
+incorporation.  All shares of a class shall have preferences, limitations, and
 relative rights identical with those of other shares of the same class except
 to the extent otherwise permitted by this section and Section 16-10a-602.
-(2)  The articles of incorporation must authorize:
+(2)  The articles of incorporation shall authorize:
 (a)  one or more classes of shares that together have unlimited voting rights;
 and
 (b)  one or more classes of shares, which may be the same class or classes as

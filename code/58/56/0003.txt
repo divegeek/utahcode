@@ -1,35 +1,16 @@
 58-56-3.   Definitions.
 In addition to the definitions in Section 58-1-102, as used in this chapter:
-(1) (a)  "Adopted code" means:
-(i) (A)  a new edition of or amendment to an existing code, including the
-standards and specifications contained in the code, adopted by the Legislature
-under Section 58-56-7; and
-(B)  administered by the division under Section 58-56-6; and
-(ii)  adopted by a nationally recognized code authority, including:
-(A)  a building code;
-(B)  the National Electrical Code promulgated by the National Fire Protection
-Association;
-(C)  a residential one and two family dwelling code;
-(D)  a plumbing code;
-(E)  a mechanical code;
-(F)  a fuel gas code;
-(G)  an energy conservation code; and
-(H)  a manufactured housing installation standard code.
-(b)  "Adopted code" includes:
-(i)  a fire code administered by the Fire Prevention Board under Section
-53-7-204; and
-(ii)  a code listed in Subsection (1)(a)(ii) that was adopted or amended by
-the division and Uniform Building Code Commission or the Fire Protection Board
-before May 12, 2009.
-(2) (a) (i)  "Approved code" means a code, including the standards and
+(1)  "Agricultural use" means a use that relates to the tilling of soil and
+raising of crops, or keeping or raising domestic animals.
+(2) (a)  "Approved code" means a code, including the standards and
 specifications contained in the code, approved by the division under Section
-58-56-4 for use by a compliance agency; and
-(ii)  administered by the division under Section 58-56-6.
-(b)  "Approved code" does not include an adopted code listed under Subsection
-(1)(b).
-(3)  "Board" means the Fire Prevention Board created in Section 53-7-203.
-(4)  "Building" means a structure used or intended for supporting or
+58-56-4 for use by a compliance agency.
+(b)  "Approved code" does not include a state construction code.
+(3)  "Building" means a structure used or intended for supporting or
 sheltering any use or occupancy and any improvements attached to it.
+(4)  "Code" means:
+(a)  a state construction code; or
+(b)  an approved code.
 (5)  "Commission" means the Uniform Building Code Commission created under
 this chapter.
 (6)  "Compliance agency" means:
@@ -40,8 +21,19 @@ empowered to enforce compliance with the codes; or
 (c)  any other state agency which chooses to enforce codes adopted under this
 chapter by authority given the agency under a title other than Title 58,
 Occupations and Professions.
-(7)  "Factory built housing" means manufactured homes or mobile homes.
-(8) (a)  "Factory built housing set-up contractor" means an individual
+(7)  "Construction code" means standards and specifications published by a
+nationally recognized code authority for use in circumstances described in
+Subsection 58-56-4(1), including:
+(a)  a building code;
+(b)  an electrical code;
+(c)  a residential one and two family dwelling code;
+(d)  a plumbing code;
+(e)  a mechanical code;
+(f)  a fuel gas code;
+(g)  an energy conservation code; and
+(h)  a manufactured housing installation standard code.
+(8)  "Factory built housing" means manufactured homes or mobile homes.
+(9) (a)  "Factory built housing set-up contractor" means an individual
 licensed by the division to set up or install factory built housing on a
 temporary or permanent basis.
 (b)  The scope of the work included under the license includes the placement
@@ -55,17 +47,16 @@ housing unit.
 that individual must subcontract the connection services to individuals who
 are licensed by the division to perform those specific functions under Title
 58, Chapter 55, Utah Construction Trades Licensing Act.
-(9)  "HUD code" means the National Manufactured Housing Construction and
+(10)  "HUD code" means the National Manufactured Housing Construction and
 Safety Standards Act, 42 U.S.C. Sec. 5401 et seq.
-(10)  "Legislative action" means the Legislature's:
-(a)  adoption of a new adopted code;
-(b)  adoption of an amendment to an existing adopted code;
-(c)  repeal of an adopted code; or
-(d)  repeal of a provision of an adopted code.
-(11)  "Local regulator" means each political subdivision of the state which is
+(11)  "Legislative action" includes legislation that:
+(a) adopts a new state construction code;
+(b) amends a state construction code; or
+(c) repeals one or more provisions of a state construction code.
+(12)  "Local regulator" means a political subdivision of the state that is
 empowered to engage in the regulation of construction, alteration, remodeling,
 building, repair, and other activities subject to the codes.
-(12) (a)  "Manufactured home" means a transportable factory built housing unit
+(13) (a)  "Manufactured home" means a transportable factory built housing unit
 constructed on or after June 15, 1976, according to the HUD Code, in one or
 more sections, which:
 (i)  in the traveling mode, is eight body feet or more in width or 40 body
@@ -79,18 +70,26 @@ electrical systems.
 identifiable by the manufacturer's data plate bearing the date the unit was
 manufactured and a HUD label attached to the exterior of the home certifying
 the home was manufactured to HUD standards.
-(13)  "Mobile home" means a transportable factory built housing unit built
+(14)  "Mobile home" means a transportable factory built housing unit built
 prior to June 15, 1976, in accordance with a state mobile home code which
 existed prior to the HUD Code.
-(14)  "Modular unit" means a structure built from sections which are
-manufactured in accordance with the construction standards adopted pursuant to
-Section 58-56-4 and transported to a building site, the purpose of which is
+(15)  "Modular unit" means a structure built from sections which are
+manufactured in accordance with the state construction code adopted pursuant
+to Section 58-56-4 and transported to a building site, the purpose of which is
 for human habitation, occupancy, or use.
-(15)  "Opinion" means a written, nonbinding, and advisory statement issued by
+(16)  "Not for human occupancy" means use of a structure for purposes other
+than protection or comfort of human beings, but allows people to enter the
+structure for:
+(a)  maintenance and repair; and
+(b)  the care of livestock, crops, or equipment intended for agricultural use
+which are kept there.
+(17)  "Opinion" means a written, nonbinding, and advisory statement issued by
 the commission concerning an interpretation of the meaning of the codes or the
 application of the codes in a specific circumstance issued in response to a
 specific request by a party to the issue.
-(16)  "State regulator" means an agency of the state which is empowered to
+(18)  "State construction code" means a construction code adopted by the
+Legislature in accordance with Section 58-56-4.
+(19)  "State regulator" means an agency of the state which is empowered to
 engage in the regulation of construction, alteration, remodeling, building,
 repair, and other activities subject to the codes adopted pursuant to this
 chapter.

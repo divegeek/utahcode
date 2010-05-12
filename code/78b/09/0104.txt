@@ -41,4 +41,7 @@ sentencing.
 (3)  The court may not grant relief from a conviction based on a claim that
 the petitioner is innocent of the crime for which convicted except as provided
 in Title 78B, Chapter 9, Part 3, Postconviction Testing of DNA , or Part 4,
-Post-Conviction Determination of Factual Innocence.
+Postconviction Determination of Factual Innocence.  Claims under Part 3 or
+Part 4 of this chapter may not be filed as part of a petition under this part,
+but shall be filed separately and in conformity with the provisions of Part 3
+or Part 4.

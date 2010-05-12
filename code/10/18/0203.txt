@@ -16,7 +16,7 @@ consider:
 (a) (i)  if the municipality is proposing to provide cable television services
 to subscribers, whether the municipality providing cable television services
 in the manner proposed by the municipality will hinder or advance competition
-for cable television services in the municipality;
+for cable television services in the municipality; or
 (ii)  if the municipality is proposing to provide public telecommunications
 services to subscribers, whether the municipality providing public
 telecommunications services in the manner proposed by the municipality will
@@ -69,8 +69,9 @@ publish notice of the public hearings required under Subsection (4):
 (i)  at least once a week for three consecutive weeks in a newspaper of
 general circulation in the municipality and at least three days before the
 first public hearing required under Subsection (4); and
-(ii)  in accordance with Section 45-1-101 for three weeks, at least three days
-before the first public hearing required under Subsection (4).
+(ii) on the Utah Public Notice Website created in Section 63F-1-701, for three
+weeks, at least three days before the first public hearing required under
+Subsection (4).
 (b) (i)  In accordance with Subsection (5)(a)(i), if there is no newspaper of
 general circulation in the municipality, for each 1,000 residents, the
 municipality shall post at least one notice of the hearings in a conspicuous

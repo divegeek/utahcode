@@ -10,7 +10,7 @@ for use under Section 16-10a-401: "corporation," "incorporated," "company,"
 (2)  A foreign corporation registers its corporate name, or its corporate name
 with any addition permitted by Subsection (1), by delivering to the division
 for filing an application for registration:
-(a)  setting forth its corporate name, the name to be registered which must
+(a)  setting forth its corporate name, the name to be registered which shall
 meet the requirements of Section 16-10a-401 that apply to domestic
 corporations, the state or country and date of incorporation, and a brief
 description of the nature of the business in which it is engaged; and
@@ -36,7 +36,7 @@ the division for filing an assignment of the registration that states the
 registered name, the name of the assigning foreign corporation, and the name
 of the assignee, concurrently with the delivery to the division for filing of
 the assignee's application for registration of the name.  The assignee's
-application must meet the requirements of this part.
+application shall meet the requirements of this part.
 (6) (a)  A foreign corporation that has in effect registration of its
 corporate name may terminate the registration at any time by delivering to the
 division for filing a statement of termination setting forth the corporate

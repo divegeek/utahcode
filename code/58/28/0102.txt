@@ -1,6 +1,6 @@
 58-28-102.   Definitions.
 In addition to the definitions in Section 58-1-102, as used in this chapter:
-(1)  "Abandonment" means to forsake entirely or refuse to provide care and
+(1)  "Abandonment" means to forsake entirely or to refuse to provide care and
 support for an animal placed in the custody of a licensed veterinarian.
 (2)  "Administer" means:
 (a)  the direct application by a person of a prescription drug or device by
@@ -12,7 +12,7 @@ other means to the body of the animal by the owner or caretaker in accordance
 with the veterinarian's written directions.
 (3)  "Animal" means any animal other than a human.
 (4)  "AVMA" means American Veterinary Medical Association.
-(5)  "Board" means the Veterinary Board established  in Section 58-28-201.
+(5)  "Board" means the Veterinary Board established in Section 58-28-201.
 (6)  "Client" means the patient's owner, the owner's agent, or other person
 responsible for the patient.
 (7)  "Direct supervision" means a veterinarian licensed under this chapter is
@@ -32,21 +32,22 @@ veterinary care is given to the patient.
 (11)  "Practice of veterinary medicine, surgery, and dentistry" means to:
 (a)  diagnose, prognose, or treat any disease, defect, deformity, wound,
 injury, or physical condition of any animal;
-(b)  administer or prescribe any drug, medicine, treatment, method, or
-practice, or perform any operation or manipulation, or apply any apparatus or
+(b)  administer, prescribe or dispense any drug, medicine, treatment, method,
+or practice, perform any operation or manipulation, apply any apparatus or
 appliance for the cure, relief, or correction of any animal disease,
 deformity, defect, wound, or injury, or otherwise practice any veterinary
 medicine, dentistry, or surgery on any animal;
 (c)  represent by verbal or written claim, sign, word, title, letterhead,
-card, or in any other manner that one is a licensed veterinarian, or one
-qualified to practice veterinary medicine, surgery, or dentistry, or hold
-oneself out as able to practice veterinary medicine, surgery, or dentistry;
-(d)  solicit, sell, or furnish any parenterally administered animal disease
+card, or any other manner that one is a licensed veterinarian or qualified to
+practice veterinary medicine, surgery, or dentistry;
+(d)  hold oneself out as able to practice veterinary medicine, surgery, or
+dentistry;
+(e)  solicit, sell, or furnish any parenterally administered animal disease
 cures, preventions, or treatments, with or without the necessary instruments
-for the administration of them, or any and all worm and other internal
+for the  administration of them, or any and all worm and other internal
 parasitic remedies, upon any agreement, express or implied, to administer
 these cures, preventions, treatments, or remedies; or
-(e)  assume or use the title or designation, "veterinary," "veterinarian,"
+(f)  assume or use the title or designation, "veterinary," "veterinarian,"
 "animal doctor," "animal surgeon," or any other title, designation, words,
 letters, abbreviations, sign, card, or device tending to indicate that such
 person is qualified to practice veterinary medicine, surgery, or dentistry.
@@ -66,8 +67,8 @@ AVMA that is at least a two-year program; and
 (A)  has graduated from a four-year program of veterinary technology
 accredited by the AVMA; and
 (B)  is working under indirect supervision.
-(14)  "Unprofessional conduct" is defined in Sections 58-1-501 and 58-28-502
-and may be further defined by rule.
+(14)  "Unprofessional conduct" is as defined in Sections 58-1-501 and
+58-28-502 and may be further defined by rule.
 (15)  "Veterinarian-client-patient relationship" means:
 (a)  a veterinarian licensed under this chapter has assumed responsibility for
 making clinical judgements regarding the health of an animal and the need for

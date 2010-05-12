@@ -1,7 +1,11 @@
 78B-12-212.   Medical expenses.
-(1)  The court shall order that insurance for the medical expenses of the
+(1) (a)  The court shall order that insurance for the medical expenses of the
 minor children be provided by a parent if it is available at a reasonable
 cost.
+(b)  The court shall, in accordance with Section 30-3-5, designate which
+health, hospital, or dental insurance plan is primary and which health,
+hospital, or dental insurance plan is secondary if at any time a dependent
+child is covered by both parents' health, hospital, or dental insurance plans.
 (2)  In determining which parent shall be ordered to maintain insurance for
 medical expenses, the court or administrative agency may consider the:
 (a)  reasonableness of the cost;
@@ -10,7 +14,7 @@ medical expenses, the court or administrative agency may consider the:
 (d)  preference of the custodial parent.
 (3)  The order shall require each parent to share equally the out-of-pocket
 costs of the premium actually paid by a parent for the children's portion of
-insurance.
+insurance unless the court finds good cause to order otherwise.
 (4)  The parent who provides the insurance coverage may receive credit against
 the base child support award or recover the other parent's share of the
 children's portion of the premium.  In cases in which the parent does not have
@@ -23,10 +27,12 @@ premium actually paid.  The premium expense for the children shall be
 calculated by dividing the premium amount by the number of persons covered
 under the policy and multiplying the result by the number of children in the
 instant case.
-(6)  The order shall include a cash medical support provision that requires
-each parent to equally share all reasonable and necessary uninsured and
-unreimbursed medical and dental expenses incurred for the dependent children,
-including but not limited to deductibles and copayments.
+(6)  The order shall, in accordance with Subsection 30-3-5(1)(b), include a
+cash medical support provision that requires each parent to equally share all
+reasonable and necessary uninsured and unreimbursed medical and dental
+expenses incurred for the dependent children, including but not limited to
+deductibles and copayments unless the court finds good cause to order
+otherwise.
 (7)  The parent ordered to maintain insurance shall provide verification of
 coverage to the other parent, or to the Office of Recovery Services under
 Title IV of the Social Security Act, 42 U.S.C. Section 601 et seq., upon

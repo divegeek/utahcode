@@ -38,16 +38,17 @@ chemical, or incendiary device.
 pistol, or shotgun ammunition, or any signaling device customarily used in
 operation of railroad equipment.
 (2)  The provisions in Subsections (3) and (6) do not apply to:
-(a)  any public safety officer while acting in his official capacity
+(a)  any public safety officer while acting in an official capacity
 transporting or otherwise handling explosives, chemical, or incendiary
 devices;
 (b)  any member of the armed forces of the United States or Utah National
-Guard while acting in his official capacity;
+Guard while acting in an official capacity;
 (c)  any person possessing a valid permit issued under the provisions of
 Uniform Fire Code, Article 77, or any employee of the permittee acting within
-the scope of his employment;
-(d)  any person possessing a valid license as an importer, wholesaler, or
-display operator under the provisions of Sections 11-3-3.5 and 53-7-223; and
+the scope of employment;
+(d)  any person possessing a valid license as an importer, wholesaler, display
+operator, special effects operator, or flame effects operator under the
+provisions of Sections 11-3-3.5 and 53-7-223; and
 (e)  any person or entity possessing or controlling an explosive, chemical, or
 incendiary device as part of its lawful business operations.
 (3)  Any person is guilty of a second degree felony who, under circumstances
@@ -59,8 +60,8 @@ not amounting to a violation of Title 76, Chapter 10, Part 4, Weapons of Mass
 Destruction, knowingly or intentionally:
 (a)  uses or causes to be used an explosive, chemical, or incendiary device in
 the commission of or an attempt to commit a felony;
-(b)  injures another or attempts to injure another in his person or property
-through the use of an explosive, chemical, or incendiary device; or
+(b)  injures another or attempts to injure another person or another person's
+property through the use of an explosive, chemical, or incendiary device; or
 (c)  transports, possesses, distributes, or sells any explosive, chemical, or
 incendiary device in a secure area established pursuant to Section 76-8-311.1,
 76-8-311.3, 76-10-529, or 78A-2-203.
@@ -74,4 +75,4 @@ possessor is guilty of a second degree felony.
 (6)  Any person who, under circumstances not amounting to a violation of Title
 76, Chapter 10, Part 4,Weapons of Mass Destruction, knowingly, intentionally,
 or recklessly possesses any explosive, chemical, or incendiary parts is guilty
-of a felony of the third degree.
+of a third degree felony.

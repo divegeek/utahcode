@@ -1,0 +1,35 @@
+58-37f-203.   Submission, collection, and maintenance of data.
+(1)  The pharmacist in charge of the drug outlet where a controlled substance
+is dispensed shall submit the data described in this section to the division:
+(a)  in accordance with the requirements of this section;
+(b)  in accordance with the procedures established by the division; and
+(c)  in the format established by the division.
+(2)  The pharmacist described in Subsection (1) shall, for each controlled
+substance dispensed by a pharmacist under the pharmacist's supervision other
+than those dispensed for an inpatient at a health care facility, submit to the
+division the following information:
+(a)  the name of the prescribing practitioner;
+(b)  the date of the prescription;
+(c)  the date the prescription was filled;
+(d)  the name of the individual for whom the prescription was written;
+(e)  positive identification of the individual receiving the prescription,
+including the type of identification and any identifying numbers on the
+identification;
+(f)  the name of the controlled substance;
+(g)  the quantity of the controlled substance prescribed;
+(h)  the strength of the controlled substance;
+(i)  the quantity of the controlled substance dispensed;
+(j)  the dosage quantity and frequency as prescribed;
+(k)  the name of the drug outlet dispensing the controlled substance;
+(l)  the name of the pharmacist dispensing the controlled substance; and
+(m)  other relevant information as required by division rule.
+(3) (a)  The division shall make rules, in accordance with Title 63G, Chapter
+3, Utah Administrative Rulemaking Act, to establish the electronic format in
+which the information required under this section shall be submitted to the
+division.
+(b)  The division shall ensure that the database system records and maintains
+for reference:
+(i)  the identification of each individual who requests or receives
+information from the database;
+(ii)  the information provided to each individual; and
+(iii)  the date and time that the information is requested or provided.

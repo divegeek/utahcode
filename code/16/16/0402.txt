@@ -7,9 +7,9 @@ by the organic rules; or
 (b)  one or more petitions signed by at least 10% of the patron members or at
 least 10% of the investor members.
 (2)  The board of directors shall call a members meeting to consider an
-amendment proposed pursuant to Subsection (1).  The meeting must be held not
+amendment proposed pursuant to Subsection (1).  The meeting shall be held not
 later than 90 days following the proposal of the amendment by the board or
-receipt of a petition.  The board must mail or otherwise transmit or deliver
+receipt of a petition.  The board shall mail or otherwise transmit or deliver
 in a record to each member:
 (a)  the proposed amendment, or a summary of the proposed amendment and a
 statement of the manner in which a copy of the amendment in a record may be
@@ -21,5 +21,5 @@ determination;
 (c)  a statement of any condition of the board's submission of the amendment
 to the members; and
 (d)  notice of the meeting at which the proposed amendment will be considered,
-which must be given in the same manner as notice for a special meeting of
+which shall be given in the same manner as notice for a special meeting of
 members.

@@ -18,15 +18,15 @@ nondeceptive terms the net quantity of contents.
 term qualifying a unit of weight, measure, or count that tends to exaggerate
 the amount of the commodity contained in the package.
 (4) (a)  Whenever the department determines that rules other than those
-prescribed by Subsection(1) are necessary to prevent the deception of
+prescribed by Subsection (1) are necessary to prevent the deception of
 consumers or to facilitate value comparisons as to any consumer commodity, the
 department shall promulgate rules effective to:
 (i)  establish and define standards for the characterization of the size of a
 package enclosing any consumer commodity, which may be used to supplement the
 label statement of net quantity of contents of packages containing the
-commodity, but this Subsection (4) shall not be construed as authorizing any
-limitation on the size, shape, weight, dimensions, or number of packages that
-may be used to enclose any commodity;
+commodity, but this Subsection (4) does not authorize any limitation on the
+size, shape, weight, dimensions, or number of packages that may be used to
+enclose any commodity;
 (ii)  regulate the placement upon any package containing any commodity, or
 upon any label affixed to a commodity, of any printed matter stating or
 representing by implication that the commodity is offered for retail sale at a
@@ -35,7 +35,7 @@ sale price advantage is accorded to purchasers by reason of the size of that
 package or the quantity of its contents;
 (iii)  require that the label on each package of a consumer commodity bear:
 (A)  the common or usual name of such consumer commodity, if any; and
-(B) if the consumer commodity consists of two or more ingredients, the common
+(B)  if the consumer commodity consists of two or more ingredients, the common
 or usual name of each such ingredient listed in order of decreasing
 predominance, but nothing in this Subsection (4) shall be considered to
 require that any trade secret be divulged; or

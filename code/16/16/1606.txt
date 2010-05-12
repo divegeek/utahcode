@@ -7,7 +7,7 @@ merger;
 any of those governing statutes; and
 (c)  each of the other entities complies with its governing statute in
 effecting the merger.
-(2)  A plan of merger must be in a record and must include:
+(2)  A plan of merger shall be in a record and shall include:
 (a)  the name and form of each constituent entity;
 (b)  the name and form of the surviving entity and, if the surviving entity is
 to be created by the merger, a statement to that effect;

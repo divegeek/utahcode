@@ -1,27 +1,36 @@
 13-14-307.   Franchisor's obligations upon termination or noncontinuation of
 franchise or line-make.
-(1)  Upon the termination or noncontinuation of a franchise or a line-make by
-the franchisor, the franchisor shall pay the franchisee:
-(a)  the franchisee's cost of new, undamaged, and unsold motor vehicles in the
-franchisee's inventory acquired from the franchisor or another franchisee of
-the same line-make representing both the current model year at the time of
-termination or noncontinuation and the immediately prior model year vehicles:
-(i)  plus any charges made by the franchisor, for distribution, delivery, or
-taxes;
-(ii)  plus the franchisee's cost of any accessories added on the vehicle,
-except only those recreational vehicle accessories that are listed in the
-franchisor's wholesale product literature as options for that vehicle shall be
-repurchased; and
-(iii)  less all allowances paid or credited to the franchisee by the
+(1)  Upon the termination or noncontinuation of a franchise or a line-make,
+the franchisor shall pay the franchisee:
+(a)  an amount calculated by:
+(i)  including the franchisee's cost of unsold motor vehicles that:
+(A)  are in the franchisee's inventory;
+(B)  were acquired:
+(I)  from the franchisor; or
+(II)  in the ordinary course of business from another franchisee of the same
+line-make;
+(C)  are new, undamaged, and, except for franchisor accessories, unaltered; or
+(D)  represent the current model year at the time of termination or
+noncontinuation, or the two model years immediately before the time of
+termination or noncontinuation;
+(ii)  reducing the amount in Subsection (1)(a)(i) by a prorated 1% for each
+1,000 miles over 500 miles registered on a new vehicle's odometer;
+(iii)  adding any charges made by the franchisor, for distribution, delivery,
+or taxes;
+(iv)  adding the franchisee's cost of any franchisor accessories added on the
+vehicle, except only those recreational vehicle accessories that are listed in
+the franchisor's wholesale product literature as options for that vehicle
+shall be repurchased; and
+(v)  subtracting all allowances paid or credited to the franchisee by the
 franchisor;
 (b)  the franchisee's cost of new and undamaged motor vehicles in the
-franchisee's inventory of demonstrator vehicles, reduced by 1% for each 1000
-miles registered on the demonstrator vehicle's odometer, except recreational
-vehicles whose cost shall be reduced by 2% for each 1,000 miles registered on
-the odometer of demonstrator self-propelled recreational vehicles, exclusive
-of miles incurred in delivery of the vehicle, and the cost of demonstrator
-nonself-propelled recreational vehicles shall be reduced by 10% of the
-franchisee's vehicle cost:
+franchisee's inventory of demonstrator vehicles, reduced by a prorated 1% for
+each 1000 miles over 500 miles registered on the demonstrator vehicle's
+odometer, except recreational vehicles whose cost shall be reduced by 2% for
+each 1,000 miles registered on the odometer of demonstrator self-propelled
+recreational vehicles, exclusive of miles incurred in delivery of the vehicle,
+and the cost of demonstrator nonself-propelled recreational vehicles shall be
+reduced by 10% of the franchisee's vehicle cost:
 (i)  plus any charges made by the franchisor for distribution, delivery, or
 taxes;
 (ii)  plus the franchisee's cost of any accessories added on the vehicles,
@@ -41,16 +50,15 @@ sign was recommended or required by the franchisor.  If a recreational vehicle
 franchisee has a sign with multiple manufacturers listed, the franchisor is
 only responsible for its pro rata portion of the sign;
 (e)  the fair market value, but not less than the franchisee's depreciated
-acquisition cost of all special tools, equipment, and furnishings acquired
-from the franchisor or sources approved by the franchisor that were
-recommended or required by the franchisor and are in good and usable
-condition;
+acquisition cost, of all special tools, equipment, and furnishings acquired
+from the franchisor or sources approved by the franchisor that were required
+by the franchisor and are in good and usable condition;
 (f)  the cost of transporting, handling, packing, and loading motor vehicles,
 supplies, parts, accessories, signs, special tools, equipment, and
 furnishings;
-(g)  reasonable compensation to the franchisee for any cost incurred
-pertaining to the unexpired term of a lease agreement for the dealership's
-existing location;
+(g)  subject to Subsection (5), reasonable compensation to the franchisee for
+any cost incurred pertaining to the unexpired term of a lease agreement for
+the dealership's existing location;
 (h)  the negotiated fair market value of the dealership premises, based on the
 fair market value of the real property, if the dealer opts to sell the
 dealership premises; and
@@ -75,3 +83,18 @@ franchisor if the franchisee:
 (4)  If repurchased inventory, equipment, or demonstrator vehicles are subject
 to a security interest, the franchisor may make payment jointly to the
 franchisee and to the holder of the security interest.
+(5)  Subsection (1)(g) does not relieve the franchisee or its lessor from an
+obligation under their lease agreement to mitigate damages.
+(6) (a)  This section does not apply to a franchisee's voluntary termination
+or noncontinuation of its franchise that occurs as a result of the
+franchisee's sale of its dealership business entity or substantially all of
+the assets of that entity to a third party if the franchisor contemporaneously
+grants a franchise to the third party on terms and conditions that are
+comparable to those of the terminating or noncontinuing franchise.
+(b)  Subsection (6)(a) may not be construed to impair a contractual right of a
+terminating or noncontinuing franchisee under a franchise or related agreement
+with a franchisor or its affiliate, including a right to return unsold parts.
+(7)  This section does not apply to a termination, cancellation, or nonrenewal
+of:
+(a)  a recreational vehicle franchise; or
+(b)  a line-make by a recreational vehicle franchisor.

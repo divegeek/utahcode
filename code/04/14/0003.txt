@@ -48,7 +48,7 @@ pursuant to an experimental use permit issued by the EPA or under Section
 4-14-5.
 (7)  No pesticide dealer may distribute a restricted use pesticide in this
 state without a license.
-(8)  A person must receive a license before applying:
+(8)  A person shall receive a license before applying:
 (a)  a restricted use pesticide; or
 (b)  a general use pesticide for hire or in exchange for compensation.
 (9) (a)  A license to engage in an activity listed in Subsection (7) or (8)
@@ -61,8 +61,6 @@ Subsection 4-2-2(2); and
 (i)  of the calendar year in which the license is issued; or
 (ii)  of the second calendar year after the calendar year in which the license
 is issued.
-(c) (i)  Notwithstanding Section 63J-1-504, the department shall retain the
-fees as dedicated credits and may only use the fees to administer and enforce
-this chapter.
-(ii)  The Legislature may annually designate the revenue generated from the
-fee as nonlapsing in an appropriations act.
+(c)  Notwithstanding Section 63J-1-504, the department shall retain the fees
+as dedicated credits and may only use the fees to administer and enforce this
+chapter.

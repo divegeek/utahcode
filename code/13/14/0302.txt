@@ -64,10 +64,11 @@ the executive director determines that there is not good cause for permitting
 the establishment or relocation of the dealership.
 (5)  If multiple protests are filed under Subsection (4), hearings may be
 consolidated to expedite the disposition of the issue.
-(6)  Subsections (1) through (5) do not apply to a relocation that is:
-(a)  less than one aeronautical mile from the existing location of the
-franchisee’s dealership; and
-(b)  within the same county.
+(6)  Subsections (1) through (5) do not apply to a relocation of an existing
+or successor dealer to a location that is:
+(a)  within the same county and less than two aeronautical miles from the
+existing location of the existing or successor franchisee’s dealership; or
+(b)  further away from a dealership of a franchisee of the same line-make.
 (7)  For purposes of this section:
 (a)  relocation of an existing franchisee’s dealership in excess of one mile
 from its existing location is considered the establishment of an additional

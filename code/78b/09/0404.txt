@@ -10,8 +10,8 @@ and
 (b)  hearsay evidence, and may consider that the evidence is hearsay in
 evaluating its weight and credibility.
 (3)  In making its determination the court shall consider, in addition to the
-evidence presented at the hearing under this part, all the evidence presented
-at the original trial and at any postconviction proceedings in the case.
+evidence presented at the hearing under this part, the record of the original
+criminal case and at any postconviction proceedings in the case.
 (4)  If the court, after considering all the evidence, determines by clear and
 convincing evidence that the petitioner:
 (a)  is factually innocent of one or more offenses of which the petitioner was
@@ -33,3 +33,13 @@ offense or offenses.
 enter the finding on the record, and the petitioner may not file a second or
 successive petition under this section without first applying to and obtaining
 permission from the court which denied the prior petition.
+(6)  At least 30 days prior to a hearing on a petition to determine factual
+innocence, the petitioner and the respondent shall exchange information
+regarding the evidence each intends to present at the hearing.  This
+information shall include:
+(a)  a list of witnesses to be called at the hearing; and
+(b)  a summary of the testimony or other evidence to be introduced through
+each witness, including any expert witnesses.
+(7)  Each party is entitled to a copy of any expert report to be introduced or
+relied upon by that expert or another expert at least 30 days prior to
+hearing.

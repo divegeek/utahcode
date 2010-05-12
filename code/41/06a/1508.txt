@@ -6,9 +6,8 @@ requirements for:
 (b)  driver licensing under Title 53, Chapter 3, Uniform Driver License Act;
 (c)  motor vehicle insurance under Title 41, Chapter 12a, Financial
 Responsibility of Motor Vehicle Owners and Operators Act;
-(d)  vehicle registration, titling, odometer statements, vehicle
-identification numbers, license plates, and registration fees under Title 41,
-Chapter 1a, Motor Vehicle Act;
+(d)  vehicle registration, titling, vehicle identification numbers, license
+plates, and registration fees under Title 41, Chapter 1a, Motor Vehicle Act;
 (e)  vehicle taxation under Title 59, Chapter 13, Motor and Special Fuel Tax
 Act, and fee in lieu of property taxes or in lieu fees under Section 59-2-405;
 (f)  motor vehicle dealer licensing under Title 41, Chapter 3, Motor Vehicle
@@ -26,11 +25,9 @@ right side and as far to the rear of the vehicle as practical;
 (v)  a parking brake;
 (vi)  a windshield that meets the standards under Section 41-6a-1635,
 including a device for cleaning rain, snow, or other moisture from the
-windshield;
+windshield; and
 (vii)  an exterior rearview mirror on the driver's side and either an interior
-rearview mirror or an exterior rearview mirror on the passenger side;
-(viii)  a speedometer and odometer; and
-(ix)  braking for each wheel.
+rearview mirror or an exterior rearview mirror on the passenger side.
 (b)  A low-speed vehicle that complies with this Subsection (2) and Subsection
 (3) and that is not altered from the manufacturer is considered to comply with
 equipment requirements under Part 16, Vehicle Equipment.

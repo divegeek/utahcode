@@ -15,12 +15,12 @@ vote in favor of the creation of a local district;
 (ii)  certification of a petition as to which the election requirement of
 Subsection 17B-1-214(1) does not apply because of Subsection 17B-1-214(3)(a)
 or (b); or
-(iii)  adoption of a resolution under Subsection 17B-1-213(4) approving the
+(iii)  adoption of a resolution, under Subsection 17B-1-213(4) approving the
 creation of a local district for which an election was not required under
-Subsection 17B-1-214(3)(c) or (d), by the legislative body of each county
-whose unincorporated area is included within and the legislative body of each
-municipality whose area is included within the proposed local district, or by
-the board of trustees of the initiating local district.
+Subsection 17B-1-214(3)(c), (d), or (e), by the legislative body of each
+county whose unincorporated area is included within and the legislative body
+of each municipality whose area is included within the proposed local
+district, or by the board of trustees of the initiating local district.
 (2)  Upon the lieutenant governor's issuance of a certificate of incorporation
 under Section 67-1a-6.5, the responsible body shall:
 (a)  if the local district is located within the boundary of a single county,
@@ -48,9 +48,9 @@ Subsection 17B-1-213(4).
 local district as approved at the election;
 (b)  if an election was not required because of Subsection 17B-1-214(3)(a) or
 (b), the area of the proposed local district as described in the petition; or
-(c)  if an election was not required because of Subsection 17B-1-214(3)(c) or
-(d), the area of the new local district as described in the resolution adopted
-under Subsection 17B-1-213(4).
+(c)  if an election was not required because of Subsection 17B-1-214(3)(c),
+(d), or (e), the area of the new local district as described in the resolution
+adopted under Subsection 17B-1-213(4).
 (4) (a)  Upon the lieutenant governor's issuance of the certificate of
 incorporation under Section 67-1a-6.5, the local district is created and
 incorporated as:

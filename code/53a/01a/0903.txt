@@ -1,6 +1,6 @@
 53A-1a-903.    Voluntary extended-day kindergarten program funding.
 (1)  As used in this section, "Title I school" means a school receiving
-federal monies under Title I of the No Child Left Behind Act of 2001, Pub. L.
+federal money under Title I of the No Child Left Behind Act of 2001, Pub. L.
 No. 107-110, for a schoolwide or targeted assistance program.
 (2)  If funds are appropriated for this purpose, the State Board of Education
 shall allocate funds to charter schools and school districts.
@@ -20,8 +20,8 @@ charter school amount calculated under Subsection (3)(a) from the total amount
 of available funds; and
 (b)  allocate the resulting amount to applicant school districts by:
 (i)  allocating to each school district the amount calculated by:
-(A)  multiplying the value of the weighted pupil unit under Subsection 53A-
-17a-103(1) by 0.45; and
+(A)  multiplying the value of the weighted pupil unit established each year in
+statute by 0.45; and
 (B)  multiplying the result by 20; and
 (ii)  allocating any remaining funds after the allocation under Subsection
 (4)(b)(i) by:

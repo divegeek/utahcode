@@ -18,14 +18,17 @@ of the following entities:
 taxable income is derived from stock:
 (i)  in an S corporation; and
 (ii)  that is held by an electing small business trust;
-(d)  the amount withdrawn under Title 53B, Chapter 8a, Higher Education
-Savings Incentive Program, from the account of a resident or nonresident
-estate or trust that is an account owner as defined in Section 53B-8a-102, for
-the taxable year for which the amount is withdrawn, if that amount withdrawn
-from the account of the resident or nonresident estate or trust that is the
-account owner:
-(i)  is not expended for higher education costs as defined in Section 53B-
-8a-102; and
+(d)  the amount withdrawn under Title 53B, Chapter 8a, Utah Educational
+Savings Plan, from the account of a resident or nonresident estate or trust
+that is an account owner as defined in Section 53B-8a-102, for the taxable
+year for which the amount is withdrawn, if that amount withdrawn from the
+account of the resident or nonresident estate or trust that is the account
+owner:
+(i)  is not expended for:
+(A)  higher education costs as defined in Section 53B-8a-102; or
+(B)  a payment or distribution that qualifies as an exception to the
+additional tax for distributions not used for educational expenses provided in
+Sections 529(c) and 530(d), Internal Revenue Code; and
 (ii)  is:
 (A)  subtracted by the resident or nonresident estate or trust:
 (I)  that is the account owner; and

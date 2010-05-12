@@ -8,13 +8,15 @@ that:
 relief or could have been, but was not, raised in a previous request for post-
 conviction relief; or
 (e)  is barred by the limitation period established in Section 78B-9-107.
-(2)  The state may raise any of the procedural bars or time bar at any time,
-including during the state's appeal from an order granting post-conviction
-relief, unless the court determines that the state should have raised the time
-bar or procedural bar at an earlier time. Any court may raise a procedural bar
-or time bar on its own motion, provided that it gives the parties notice and
-an opportunity to be heard.
+(2) (a)  The state may raise any of the procedural bars or time bar at any
+time, including during the state's appeal from an order granting post-
+conviction relief, unless the court determines that the state should have
+raised the time bar or procedural bar at an earlier time.
+(b)  Any court may raise a procedural bar or time bar on its own motion,
+provided that it gives the parties notice and an opportunity to be heard.
 (3)  Notwithstanding Subsection (1)(c), a person may be eligible for relief on
 a basis that the ground could have been but was not raised at trial or on
 appeal, if the failure to raise that ground was due to ineffective assistance
 of counsel.
+(4)  This section authorizes a merits review only to the extent required to
+address the exception set forth in Subsection (3).

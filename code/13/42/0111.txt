@@ -1,6 +1,6 @@
 13-42-111.    Renewal of registration.
-(1)  A provider must obtain a renewal of its registration annually.
-(2)  An application for renewal of registration as a provider must be in a
+(1)  A provider shall obtain a renewal of its registration annually.
+(2)  An application for renewal of registration as a provider shall be in a
 form prescribed by the administrator, signed under penalty of perjury, and:
 (a)  be filed no fewer than 30 and no more than 60 days before the
 registration expires;
@@ -56,7 +56,7 @@ agreements until, with the approval of the administrator, it transfers the
 agreements to another registered provider or returns to the individuals all
 unexpended money that is under the applicant's control.
 (6) (a)  The administrator may waive or reduce the insurance requirement in
-Subsection 13-42-111(1)(e) if the provider does not:
+Subsection (2)(e) if the provider does not:
 (i)  maintain control of a trust account or receive money paid by an
 individual pursuant to a plan for distribution to creditors;
 (ii)  make payments to creditors on behalf of individuals;

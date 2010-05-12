@@ -21,7 +21,7 @@ any instruments of conveyance, assignment, transfer, or endorsement.
 (b)  If a federal deposit insurance agency accepts an appointment as receiver,
 it has all the powers and privileges provided by the laws of this state and
 the United States with respect to the conservatorship, receivership, or
-liquidation  of an institution and the rights of its depositors, and other
+liquidation of an institution and the rights of its depositors, and other
 creditors, including authority to make an agreement for the purchase of assets
 and assumption of deposit and other liabilities by another depository
 institution or take other action authorized by Title 12 of the United States
@@ -33,7 +33,7 @@ actions of the receiver are arbitrary, capricious, fraudulent, or contrary to
 law.  In the event of any conflict between state and federal law, including
 provisions for adjudicating claims against the institution or receiver, the
 receiver shall comply with the federal law and any resulting violation of
-state law shall not by itself constitute grounds for the court to disapprove
+state law does not by itself constitute grounds for the court to disapprove
 the actions of the receiver or impose any penalty for such violation.
 (c)  The commissioner or any receiver appointed by him shall possess all the
 rights and claims of the institution against any person whose breach of
@@ -65,7 +65,7 @@ compensation to be paid such assistants, agents, accountants, and legal
 counsel shall be approved by the commissioner.  All expenses incident to the
 receivership shall be paid out of the assets of the institution.  If a
 receiver is not a federal deposit insurance agency, the receiver and any
-assistants and agents shall provide bond or other security  specified by the
+assistants and agents shall provide bond or other security specified by the
 commissioner and approved by the court for the faithful discharge of all
 duties and responsibilities in connection with the receivership including the
 accounting for money received and paid.  The cost of the bond shall be paid
@@ -77,7 +77,7 @@ pursuant to this chapter, the commissioner and the department are exempt from
 liability or damages for any act or omission of any receiver appointed
 pursuant to this section.
 (b)  This section does not limit the right of the commissioner to prescribe
-and enforce rules regulating a  receiver in carrying out its duties with
+and enforce rules regulating a receiver in carrying out its duties with
 respect to an institution subject to the jurisdiction of the department.
 (c)  Any act or omission of the commissioner or of any federal deposit
 insurance agency as a receiver appointed by him while acting pursuant to this

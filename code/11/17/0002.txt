@@ -37,9 +37,9 @@ these facilities are incidental to the use of the land as an industrial park.
 (5)  "Mortgage" means a mortgage, trust deed, or other security device.
 (6)  "Municipality" means any incorporated city or town in the state,
 including cities or towns operating under home rule charters.
-(7)  "Pollution" means any form of environmental pollution including, but not
-limited to, water pollution, air pollution, pollution caused by solid waste
-disposal, thermal pollution, radiation contamination, or noise pollution.
+(7)  "Pollution" means any form of environmental pollution including water
+pollution, air pollution, pollution caused by solid waste disposal, thermal
+pollution, radiation contamination, or noise pollution.
 (8)  "Project" means:
 (a)  any industrial park, land, interest in land, building, structure,
 facility, system, fixture, improvement, appurtenance, machinery, equipment, or
@@ -64,18 +64,17 @@ fixture, improvement, appurtenance, machinery, equipment, or any combination
 of them, used by any individual, partnership, firm, company, corporation,
 public utility, association, trust, estate, political subdivision, state
 agency, or any other legal entity, or its legal representative, agent, or
-assigns, for the reduction, abatement, or prevention of pollution, including,
-but not limited to, the removal or treatment of any substance in process
-material, if that material would cause pollution if used without the removal
-or treatment;
+assigns, for the reduction, abatement, or prevention of pollution, including
+the removal or treatment of any substance in process material, if that
+material would cause pollution if used without the removal or treatment;
 (c)  facilities, machinery, or equipment, the manufacturing and financing of
 which will maintain or enlarge domestic or foreign markets for Utah industrial
 products; or
 (d)  any economic development or new venture investment fund to be raised
 other than from:
-(i)  municipal or county general fund moneys;
-(ii)  moneys raised under the taxing power of any county or municipality; or
-(iii)  moneys raised against the general credit of any county or municipality.
+(i)  municipal or county general fund money;
+(ii)  money raised under the taxing power of any county or municipality; or
+(iii)  money raised against the general credit of any county or municipality.
 (9)  "State university" means the University of Utah and Utah State University
 and includes any nonprofit corporation or foundation created by and operating
 under their authority.

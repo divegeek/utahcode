@@ -28,7 +28,7 @@ whole unit formed.
 (2) (a)  Subject to Section 17B-2a-807.5, if more than 200,000 people reside
 within the boundaries of a public transit district, the board of trustees
 shall consist of:
-(i)  10 members:
+(i) 11 members:
 (A)  appointed as described under this Subsection (2); or
 (B)  retained in accordance with Section 17B-2a-807.5;
 (ii)  three members appointed as described in Subsection (4); and
@@ -37,31 +37,30 @@ shall consist of:
 apportion voting members to each county within the district using an average
 of:
 (i)  the proportion of population included in the district and residing within
-each county, rounded to the nearest 1/10 of the total transit district
+each county, rounded to the nearest 1/11 of the total transit district
 population; and
 (ii)  the cumulative proportion of transit sales and use tax collected from
 areas included in the district and within each county, rounded to the nearest
-1/10 of the total cumulative transit sales and use tax collected for the
+1/11 of the total cumulative transit sales and use tax collected for the
 transit district.
 (c)  The board shall join an entire or partial county not apportioned a voting
 member under this Subsection (2) with an adjacent county for representation.
 The combined apportionment basis included in the district of both counties
 shall be used for the apportionment.
-(d) (i)  If rounding to the nearest 1/10 of the total public transit district
+(d) (i)  If rounding to the nearest 1/11 of the total public transit district
 apportionment basis under Subsection (2)(b) results in an apportionment of
-more than 10 members, the county or combination of counties with the smallest
+more than 11 members, the county or combination of counties with the smallest
 additional fraction of a whole member proportion shall have one less member
 apportioned to it.
-(ii)  If rounding to the nearest 1/10 of the total public transit district
+(ii)  If rounding to the nearest 1/11 of the total public transit district
 apportionment basis under Subsection (2)(b) results in an apportionment of
-less than 10 members, the county or combination of counties with the largest
+less than 11 members, the county or combination of counties with the largest
 additional fraction of a whole member proportion shall have one more member
 apportioned to it.
-(e)  If the population in the unincorporated area of a county is at least 1/10
-of the district's population, the county executive, with the advice and
-consent of the county legislative body, shall appoint one voting member to
-represent each 1/10 of the district's population within a county's
-unincorporated area population.
+(e)  If the population in the unincorporated area of a county is at least
+140,000, the county executive, with the advice and consent of the county
+legislative body, shall appoint one voting member to represent the population
+within a county's unincorporated area.
 (f)  If a municipality's population is at least 160,000, the chief municipal
 executive, with the advice and consent of the municipal legislative body,
 shall appoint one voting member to represent the population within a
@@ -87,7 +86,7 @@ simple majority of the chief executives of the municipalities within the
 county or combinations of counties if Subsection (2)(c) applies.
 (ii)  The appointments shall be made by joint written agreement of the
 appointing municipalities, with the consent and approval of the county
-legislative body of the county that has at least 1/10 of the district's
+legislative body of the county that has at least 1/11 of the district's
 apportionment basis.
 (k)  Voting members representing a municipality or combination of
 municipalities shall be designated and appointed by the chief executive

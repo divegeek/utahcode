@@ -27,7 +27,7 @@ in Subsection (2)(b)(i) is:
 (A)  the immediate family of a member of the credit union;
 (B)  the employees of the credit union;
 (C)  residents of the one county in which the credit union has its main office
-or branches as of January 1, 1999, and
+or branches as of January 1, 1999; and
 (D)  any association that as of January 1, 1999, is in the field of membership
 of the credit union;
 (c) (i)  the field of membership of a credit union as of May 3, 1999, is as
@@ -37,11 +37,13 @@ credit union as of January 1, 1999, includes residents of more than one
 county;
 (B)  as of January 1, 1999, the credit union has a main office or branch in
 more than one county; and
-(C)  as a result of a merger pursuant to a supervisory action under Chapter 2
-or 19 that is effective on or after January 1, 1983, but before January 1,
-1994, the credit union acquired a branch in a county in the field of
-membership of the credit union and the credit union did not have a branch in
-the county before the merger;
+(C)  as a result of a merger pursuant to a supervisory action under Chapter 2,
+Possession of Depository Institution by Commissioner, or Chapter 19,
+Acquisition of Failing Depository Institutions or Holding Companies, that is
+effective on or after January 1, 1983, but before January 1, 1994, the credit
+union acquired a branch in a county in the field of membership of the credit
+union and the credit union did not have a branch in the county before the
+merger;
 (ii)  as of May 3, 1999, the field of membership of a credit union described
 in Subsection (2)(c)(i) is the same field of membership that the credit union
 would have had under Subsection (2)(d) except that the credit union:
@@ -123,7 +125,7 @@ located; and
 membership of the credit union, regardless of whether the association resides
 in the domicile-county of the credit union.
 (5) (a)  Notwithstanding Subsections (1) through (4), after May 3, 1999, a
-credit union described in Subsection (2)(c) or (2)(d) may:
+credit union described in Subsection (2)(c) or (d) may:
 (i)  operate an office or branch that is operated by the credit union on May
 3, 1999, but that is not located in a county that is in the credit union's
 field of membership as of May 3, 1999; and

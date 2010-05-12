@@ -20,7 +20,7 @@ loan banks, federal reserve banks, state banks performing similar reserve
 functions, or in commercial banks, which cash is withdrawable upon not more
 than 30 days notice and which is not pledged as security for indebtedness.
 Any deposits in a financial institution under the control or in the possession
-of any supervisory authority shall not be considered as liquid assets.  Liquid
+of any supervisory authority may not be considered as liquid assets.  Liquid
 assets also means obligations of, or obligations that are fully guaranteed as
 to principal and interest by, the United States, the Federal National Mortgage
 Association, the Government National Mortgage Association, any federal home

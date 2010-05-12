@@ -2,10 +2,10 @@
 from required immunizations.
 (1)  A student may not enter school without a certificate of immunization,
 except as provided in this section.
-(2)  Except as provided in Subsection 53A-11-1402(4), a student who at the
-time of school enrollment has not been completely immunized against each
-specified disease may attend school under a conditional enrollment if the
-student has received one dose of each specified vaccine prior to enrollment.
+(2)  Except as provided in Section 53A-1-1001, a student who at the time of
+school enrollment has not been completely immunized against each specified
+disease may attend school under a conditional enrollment if the student has
+received one dose of each specified vaccine prior to enrollment.
 (3)  A student is exempt from receiving the required immunizations if there is
 presented to the appropriate official of the school one or more of the
 following:

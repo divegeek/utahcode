@@ -53,23 +53,29 @@ Section 6213(g)(2), Internal Revenue Code.
 the taxable year; or
 (ii)  a corresponding or comparable provision of the Internal Revenue Code as
 amended, redesignated, or reenacted.
-(7) (a)  Except as provided in Subsection (7)(b), "tax, fee, or charge" means
-a tax, fee, or charge the commission administers under:
-(i)  this title;
-(ii)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
-(iii)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax
+(7) (a)  Except as provided in Subsection (7)(b), "tax, fee, or charge" means:
+(i)  a tax, fee, or charge the commission administers under:
+(A)  this title;
+(B)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+(C)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax
 Act;
-(iv)  Section 19-6-410.5;
-(v)  Section 19-6-714;
-(vi)  Section 19-6-805;
-(vii)  Section 69-2-5;
-(viii)  Section 69-2-5.5; or
-(ix)  Section 69-2-5.6.
+(D)  Section 19-6-410.5;
+(E)  Section 19-6-714;
+(F)  Section 19-6-805;
+(G)  Section 34A-2-202;
+(H)  Section 40-6-14;
+(I)  Section 69-2-5;
+(J)  Section 69-2-5.5; or
+(K)  Section 69-2-5.6; or
+(ii)  another amount that by statute is administered by the commission.
 (b)  "Tax, fee, or charge" does not include a tax, fee, or charge imposed
 under:
-(i)  Chapter 2, Property Tax Act;
-(ii)  Chapter 3, Tax Equivalent Property Act; or
-(iii)  Chapter 4, Privilege Tax.
+(i)  Title 41, Chapter 1a, Motor Vehicle Act, except for Section 41-1a-301;
+(ii)  Title 41, Chapter 3, Motor Vehicle Business Regulation Act;
+(iii)  Chapter 2, Property Tax Act;
+(iv)  Chapter 3, Tax Equivalent Property Act;
+(v)  Chapter 4, Privilege Tax; or
+(vi)  Chapter 13, Part 5, Interstate Agreements.
 (8)  "Transferee" means:
 (a)  a devisee;
 (b)  a distributee;

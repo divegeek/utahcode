@@ -1,7 +1,7 @@
 13-42-113.   Bond required.
 (1)  Except as otherwise provided in Section 13-42-114, a provider that is
 required to be registered under this chapter shall file a surety bond with the
-administrator, which must:
+administrator, which shall:
 (a)  be in effect during the period of registration and for two years after
 the provider ceases providing debt-management services to individuals in this
 state; and
@@ -9,7 +9,7 @@ state; and
 reside in this state when they agree to receive debt-management services from
 the provider, as their interests may appear.
 (2)  Subject to adjustment of the dollar amount pursuant to Subsection
-13-42-132(6), a surety bond filed pursuant to Subsection (1) must:
+13-42-132(6), a surety bond filed pursuant to Subsection (1) shall:
 (a)  be in the amount of $100,000;
 (b)  be issued by a bonding, surety, or insurance company authorized to do
 business in this state and rated at least A by a nationally recognized rating

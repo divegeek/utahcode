@@ -3,8 +3,8 @@
 powers and duties of the association, the board of directors shall assess the
 member insurers, separately for each class or subclass, at the time and for
 the amounts that the board of directors finds necessary.
-(b)  Member liability for an assessment is established as of the coverage
-date.
+(b)  Member insurer liability for an assessment is established as of the
+coverage date.
 (c)  Subject to Subsection (1)(d), a called assessment:
 (i)  is due not less than 30 days after prior written notice to the member
 insurer; and
@@ -17,7 +17,7 @@ insurer; and
 (i)  has the force and effect of a judgment lien against the member insurer;
 and
 (ii)  may not be extinguished until paid.
-(2) The two classes of assessment are described in Subsections (2)(a) and
+(2)  The two classes of assessment are described in Subsections (2)(a) and
 (2)(b).
 (a)  A Class A assessment shall be authorized and called for the purpose of
 meeting administrative and legal costs and other expenses.  A Class A
@@ -31,7 +31,7 @@ necessary to carry out the powers and duties of the association under Section
 (B)  may be authorized and called on a pro rata or non-pro rata basis.
 (ii)  If the Class A assessment is pro rata, the board of directors may credit
 the assessment against future Class B assessments.
-(iii)  The total of all non-pro rata assessments may not exceed $300 per
+(iii)  The total of the non-pro rata assessments may not exceed $300 per
 member insurer in any one calendar year.
 (b)  The amount of a Class B assessment shall be allocated for assessment
 purposes among subclasses pursuant to an allocation formula that may be based
@@ -46,14 +46,14 @@ in the proportion that the premiums received on business in this state by the
 member insurer on policies or contracts included in the subclass for the three
 most recent calendar years for which information is available preceding the
 year which includes the coverage date bears to the premiums received on
-business in this state for the same period by all assessed member insurers.
-(ii) A Class B assessment against a member insurer for an accident and health
+business in this state for the same period by the assessed member insurers.
+(ii)  A Class B assessment against a member insurer for an accident and health
 insurance subclass shall be in the proportion that the premiums received on
 business in this state by each assessed member insurer on policies or
 contracts included in the subclass for the most recent calendar year for which
 information is available preceding the year in which the assessment is made
 bears to the premiums received on business in this state on policies or
-contracts included in the subclass for that calendar year by all assessed
+contracts included in the subclass for that calendar year by the assessed
 member insurers.
 (d)  Assessments for funds to meet the requirements of the association with
 respect to an impaired or insolvent insurer may not be authorized or called
@@ -62,6 +62,9 @@ until necessary to implement the purposes of this part.
 computation of assessments under this Subsection (3) shall be made with a
 reasonable degree of accuracy, recognizing that exact determinations may not
 always be possible.
+(f)  The association shall notify each member insurer of its anticipated pro
+rata share of an authorized assessment not yet called within 180 days after
+the day on which the assessment is authorized.
 (4) (a)  The association may abate or defer, in whole or in part, the
 assessment of a member insurer if, in the opinion of the board of directors,
 payment of the assessment would endanger the ability of the member insurer to
@@ -71,9 +74,9 @@ or in part under Subsection (4)(a), the amount by which the assessment is
 abated or deferred may be assessed against the other member insurers in a
 manner consistent with the basis for assessments set forth in this section.
 (c)  Once a condition that caused a deferral is removed or rectified, the
-member insurer shall pay all assessments that were deferred pursuant to a
+member insurer shall pay the assessments that were deferred pursuant to a
 repayment plan approved by the association.
-(5) (a) (i) Subject to Subsection (5)(b), the total of all assessments
+(5) (a) (i)  Subject to Subsection (5)(b), the total of the assessments
 authorized by the association on a member insurer for each subclass may not in
 any one calendar year exceed 2% of that member's total average annual
 assessable premium in that subclass as defined in Subsection (3).
@@ -111,7 +114,7 @@ assets accruing from:
 (b)  Notwithstanding Subsection (6)(a), a reasonable amount may be retained to
 provide funds for the continuing expenses of the association and for future
 losses.
-(7) A member insurer, in determining its premium rates and policyowner
+(7)  A member insurer, in determining its premium rates and policyowner
 dividends as to any kind of insurance within the scope of this part, may
 consider the amount reasonably necessary to meet its assessment obligations
 under this part.
@@ -119,7 +122,7 @@ under this part.
 under this part, other than a Class A assessment, a certificate of
 contribution, in a form approved by the commissioner, for the amount of the
 assessment paid.
-(b)  All outstanding certificates described in Subsection (8)(a) shall be of
+(b) The outstanding certificates described in Subsection (8)(a) shall be of
 equal dignity and priority without reference to amounts or dates of issue.
 (c) (i)  A certificate of contribution described in Subsection (8)(a) may be
 shown by the insurer in its financial statement as an asset in the amount of
@@ -128,3 +131,7 @@ taxes have already been reduced with respect to the certificate.
 (ii)  For good cause shown, the commissioner may order the insurer to show a
 different amount in its financial statement than the amount under Subsection
 (8)(c)(i).
+(9) (a)  The association may request information from a member insurer to aid
+in the exercise of the association's power under this part.
+(b)  A member insurer shall comply promptly with a request of the association
+under this Subsection (9).

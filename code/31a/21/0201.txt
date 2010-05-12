@@ -1,7 +1,7 @@
 31A-21-201.   Filing of forms.
 (1) (a)  Except as exempted under Subsections 31A-21-101(2) through (6), a
-form may not be used, sold, or offered for sale unless the form has been filed
-with the commissioner.
+form may not be used, sold, or offered for sale until the form is filed with
+the commissioner.
 (b)  A form is considered filed with the commissioner when the commissioner
 receives:
 (i)  the form;
@@ -12,62 +12,64 @@ assuring that the form is in compliance with this title and rules adopted by
 the commissioner.
 (3) (a)  The commissioner may prohibit the use of a form at any time upon a
 finding that:
-(i)  the form is:
-(A)  inequitable;
-(B)  unfairly discriminatory;
-(C)  misleading;
-(D)  deceptive;
-(E)  obscure;
-(F)  unfair;
+(i)  the form:
+(A)  is inequitable;
+(B)  is unfairly discriminatory;
+(C)  is misleading;
+(D)  is deceptive;
+(E)  is obscure;
+(F)  is unfair;
 (G)  encourages misrepresentation; or
-(H)  not in the public interest;
-(ii)  the form provides benefits or contains other provisions that endanger
+(H)  is not in the public interest;
+(ii)  the form provides benefits or contains another provision that endangers
 the solidity of the insurer;
-(iii)  in the case of the basic policy and the application for a basic policy,
-the basic policy or application for the basic policy fails to conspicuously,
-as defined by rule, provide:
+(iii) except an application required by Section 31A-22-635, the form is an
+insurance policy or application for an insurance policy that fails to
+conspicuously, as defined by rule, provide:
 (A)  the exact name of the insurer;
-(B)  the state of domicile of the insurer filing the basic policy or
-application for the basic policy; and
-(C)  for life insurance and annuity policies only, the address of the
-administrative office of the insurer filing the basic policy or application
-for the basic policy;
+(B)  the state of domicile of the insurer filing the insurance policy or
+application for the insurance policy; and
+(C)  for a life insurance and annuity insurance policy only, the address of
+the administrative office of the insurer filing the insurance policy or
+application for the insurance policy;
 (iv)  the form violates a statute or a rule adopted by the commissioner; or
 (v)  the form is otherwise contrary to law.
-(b)  Subsection (3)(a)(iii) does not apply to riders and endorsements to a
-basic policy.
-(c) (i)  Whenever the commissioner prohibits the use of a form under
-Subsection (3)(a), the commissioner may order that, on or before a date not
-less than 15 days after the order, the use of the form be discontinued.
-(ii)  Once a form has been prohibited, the form may not be used unless
+(b)  Subsection (3)(a)(iii) does not apply to an endorsement to an insurance
+policy.
+(c) (i) When the commissioner prohibits the use of a form under Subsection
+(3)(a), the commissioner may order that, on or before a date not less than 15
+days after the order, the use of the form be discontinued.
+(ii)  Once use of a form is prohibited, the form may not be used until
 appropriate changes are filed with and reviewed by the commissioner.
-(iii)  Whenever the commissioner prohibits the use of a form under Subsection
+(iii) When the commissioner prohibits the use of a form under Subsection
 (3)(a), the commissioner may require the insurer to disclose contract
-deficiencies to existing policyholders.
+deficiencies to the existing policyholders.
 (d)  If the commissioner prohibits use of a form under this Subsection (3),
 the prohibition shall:
 (i)  be in writing;
 (ii)  constitute an order; and
 (iii)  state the reasons for the prohibition.
 (4) (a)  If, after a hearing, the commissioner determines that it is in the
-public interest, the commissioner may require by rule or order that certain
-forms be subject to the commissioner's approval prior to their use.
+public interest, the commissioner may require by rule or order that a form be
+subject to the commissioner's approval before its use.
 (b)  The rule or order described in Subsection (4)(a) shall prescribe the
-filing procedures for the forms if the procedures are different than the
+filing procedures for a form if the procedures are different from the
 procedures stated in this section.
-(c)  The types of forms that may be addressed under Subsection (4)(a) include:
+(c)  The type of form that under Subsection (4)(a) the commissioner may
+require approval of before use includes:
 (i)  a form for a particular class of insurance;
 (ii)  a form for a specific line of insurance;
 (iii)  a specific type of form; or
 (iv)  a form for a specific market segment.
 (5) (a)  An insurer shall maintain a complete and accurate record of the
 following for the time period described in Subsection (5)(b):
-(i)  any form:
-(A)  filed under this section for use; and
+(i) a form:
+(A)  filed under this section for use; or
 (B)  that is in use; and
-(ii)  any document filed under this section with a form described in
-Subsection (5)(a)(i).
+(ii) a document filed under this section with a form described in Subsection
+(5)(a)(i).
 (b)  The insurer shall maintain a record required under Subsection (5)(a) for
 the balance of the current year, plus five years from:
 (i)  the last day on which the form is used; or
-(ii)  the last day any policy that is issued using the form is in effect.
+(ii)  the last day an insurance policy that is issued using the form is in
+effect.

@@ -13,26 +13,28 @@ given by the state the right to exist and conduct its affairs as an:
 (ii)  independent corporation.
 (b)  "Independent entity" includes the:
 (i)  Dairy Commission created in Title 4, Chapter 22, Dairy Promotion Act;
-(ii)  Heber Valley Railroad Authority created in Title 9, Chapter 3, Part 3,
+(ii)  Heber Valley Railroad Authority created in Title 9, Chapter 3, Part 5,
 Heber Valley Historic Railroad Authority;
-(iii)  Utah Science Center Authority created in Title 9, Chapter 3, Part 4,
+(iii)  Utah State Railroad Museum Authority created in Title 9, Chapter 3,
+Part 6, Utah State Railroad Museum Authority;
+(iv)  Utah Science Center Authority created in Title 9, Chapter 3, Part 4,
 Utah Science Center Authority;
-(iv)  Utah Housing Corporation created in Title 9, Chapter 4, Part 9, Utah
+(v)  Utah Housing Corporation created in Title 9, Chapter 4, Part 9, Utah
 Housing Corporation Act;
-(v)  Utah State Fair Corporation created in Title 9, Chapter 4, Part 11, Utah
+(vi)  Utah State Fair Corporation created in Title 9, Chapter 4, Part 11, Utah
 State Fair Corporation Act;
-(vi)  Workers' Compensation Fund created in Title 31A, Chapter 33, Workers'
+(vii)  Workers' Compensation Fund created in Title 31A, Chapter 33, Workers'
 Compensation Fund;
-(vii)  Utah State Retirement Office created in Title 49, Chapter 11, Utah
+(viii)  Utah State Retirement Office created in Title 49, Chapter 11, Utah
 State Retirement Systems Administration;
-(viii)  School and Institutional Trust Lands Administration created in Title
+(ix)  School and Institutional Trust Lands Administration created in Title
 53C, Chapter 1, Part 2, School and Institutional Trust Lands Administration;
-(ix)  Utah Communications Agency Network created in Title 63C, Chapter 7, Utah
+(x)  Utah Communications Agency Network created in Title 63C, Chapter 7, Utah
 Communications Agency Network Act;
-(x)  Utah Generated Renewable Energy Electricity Network Authority created in
+(xi)  Utah Generated Renewable Energy Electricity Network Authority created in
 Title 63H, Chapter 2, Utah Generated Renewable Energy Electricity Network
 Authority Act; and
-(xi)  Utah Capital Investment Corporation created in Title 63M, Chapter 1,
+(xii)  Utah Capital Investment Corporation created in Title 63M, Chapter 1,
 Part 12, Utah Venture Capital Enhancement Act.
 (c)  Notwithstanding this Subsection (4), "independent entity" does not
 include:
@@ -46,7 +48,7 @@ Entities - Local Districts; or
 District Act.
 (5)  "Independent state agency" means an entity that is created by the state,
 but is independent of the governor's direct supervisory control.
-(6)  "Monies held in trust" means monies maintained for the benefit of:
+(6)  "Money held in trust" means money maintained for the benefit of:
 (a)  one or more private individuals, including public employees;
 (b)  one or more public or private entities; or
 (c)  the owners of a quasi-public corporation.

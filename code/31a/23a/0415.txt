@@ -1,4 +1,5 @@
-31A-23a-415.   Assessment on title insurance agencies or title insurers.
+31A-23a-415.   Assessment on title insurance agencies or title insurers --
+Account created.
 (1)  For purposes of this section:
 (a)  "Premium" is as defined in Subsection 59-9-101(3).
 (b)  "Title insurer" means a person:
@@ -26,8 +27,8 @@ interested in the property against loss or damage suffered by reason of:
 title to the property; or
 (ii)  invalidity or unenforceability of any liens or encumbrances on the
 property.
-(2) (a)  Beginning on July 1, 1998, the commissioner may assess each title
-insurer and each title insurance agency an annual assessment:
+(2) (a) The commissioner may assess each title insurer and each title
+insurance agency an annual assessment:
 (i)  determined by the Title and Escrow Commission:
 (A)  after consultation with the commissioner; and
 (B)  in accordance with this Subsection (2); and
@@ -57,14 +58,21 @@ Title and Escrow Commission by rule shall establish the amount of costs and
 expenses described under Subsection (3) that will be covered by the
 assessment, except the costs or expenses to be covered by the assessment may
 not exceed $75,000 annually.
-(3)  All money received by the state under this section:
-(a)  shall be deposited in the General Fund as a dedicated credit of the
-department; and
-(b)  may be expended by the department only to pay for any cost or expense
-incurred by the department in the administration, investigation, and
-enforcement of this part and Part 5, Compensation of Producers and
-Consultants, related to:
+(3) (a) Money received by the state under this section shall be deposited into
+the Title Licensee Enforcement Restricted Account.
+(b)  There is created in the General Fund a restricted account known as the
+"Title Licensee Enforcement Restricted Account."
+(c)  The Title Licensee Enforcement Restricted Account shall consist of the
+money received by the state under this section.
+(d)  The commissioner shall administer the Title Licensee Enforcement
+Restricted Account.  Subject to appropriations by the Legislature, the
+commissioner shall use the money deposited into the Title Licensee Enforcement
+Restricted Account only to pay for a cost or expense incurred by the
+department in the administration, investigation, and enforcement of this part
+and Part 5, Compensation of Producers and Consultants, related to:
 (i)  the marketing of title insurance; and
 (ii)  audits of agencies.
+(e)  An appropriation from the Title Licensee Enforcement Restricted Account
+is nonlapsing.
 (4)  The assessment imposed by this section shall be in addition to any
 premium assessment imposed under Subsection 59-9-101(3).

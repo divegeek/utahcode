@@ -28,7 +28,19 @@ expectable public demand, unless:
 quantity; or
 (ii)  the person issues rainchecks for the advertised goods or services;
 (k)  makes false or misleading statements of fact concerning the reasons for,
-existence of, or amounts of price reductions;
+existence of, or amounts of price reductions, including the false use of any
+of the following expressions in an advertisement:
+(i)  "going out of business";
+(ii)  "bankruptcy sale";
+(iii)  "lost our lease";
+(iv)  "building coming down";
+(v)  "forced out of business";
+(vi)  "final days";
+(vii)  "liquidation sale";
+(viii)  "fire sale";
+(ix)  "quitting business"; or
+(x)  an expression similar to any of the expressions in Subsections (1)(k)(i)
+through (ix);
 (l)  makes a comparison between the person's own sale or discount price and a
 competitor's nondiscounted price without clearly and conspicuously disclosing
 that fact;
@@ -64,12 +76,12 @@ conspicuously disclosed in the advertisements; or
 confusion or of misunderstanding.
 (2) (a)  For purposes of Subsection (1)(i), if a specific advertised price
 will be in effect for less than one week from the advertisement date, the
-advertisement must clearly and conspicuously disclose the specific time period
-during which the price will be in effect.
+advertisement shall clearly and conspicuously disclose the specific time
+period during which the price will be in effect.
 (b)  For purposes of Subsection (1)(n), with respect to the price of a
-competitor, the price must be one at which the competitor offered the goods or
-services for sale in the product area at the time of the price assessment, and
-must not be an isolated price.
+competitor, the price shall be one at which the competitor offered the goods
+or services for sale in the product area at the time of the price assessment,
+and may not be an isolated price.
 (c)  For purposes of Subsection (1)(o), an audit, accounting, price
 assessment, or comparison shall be independent if the price assessor randomly
 selects the goods to be compared, and the time and place of the comparison,

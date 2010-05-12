@@ -81,17 +81,16 @@ operated as a mosquito abatement district under the law in effect before April
 30, 2007.
 (14)  "Municipal" means of or relating to a municipality.
 (15)  "Municipality" means a city or town.
-(16)  "Person" has the same meaning as defined in Section 68-3-12.
-(17)  "Political subdivision" means a county, city, town, local district under
+(16)  "Political subdivision" means a county, city, town, local district under
 this title, special service district under Title 17D, Chapter 1, Special
 Service District Act, an entity created by interlocal cooperation agreement
 under Title 11, Chapter 13, Interlocal Cooperation Act, or any other
 governmental entity designated in statute as a political subdivision of the
 state.
-(18)  "Private," with respect to real property, means not owned by the United
+(17)  "Private," with respect to real property, means not owned by the United
 States or any agency of the federal government, the state, a county, or a
 political subdivision.
-(19)  "Public entity" means:
+(18)  "Public entity" means:
 (a)  the United States or an agency of the United States;
 (b)  the state or an agency of the state;
 (c)  a political subdivision of the state or an agency of a political
@@ -99,11 +98,11 @@ subdivision of the state;
 (d)  another state or an agency of that state; or
 (e)  a political subdivision of another state or an agency of that political
 subdivision.
-(20)  "Public transit district" means a local district that operates under and
+(19)  "Public transit district" means a local district that operates under and
 is subject to the provisions of this chapter and Chapter 2a, Part 8, Public
 Transit District Act, including an entity that was created and operated as a
 public transit district under the law in effect before April 30, 2007.
-(21)  "Revenue bond":
+(20)  "Revenue bond":
 (a)  means a bond payable from designated taxes or other revenues other than
 the local district's ad valorem property taxes; and
 (b)  does not include:
@@ -111,35 +110,35 @@ the local district's ad valorem property taxes; and
 applicable constitutional or statutory debt limit;
 (ii)  a tax and revenue anticipation bond; or
 (iii)  a special assessment bond.
-(22)  "Service area" means a local district that operates under and is subject
+(21)  "Service area" means a local district that operates under and is subject
 to the provisions of this chapter and Chapter 2a, Part 9, Service Area Act,
 including an entity that was created and operated as a county service area or
 a regional service area under the law in effect before April 30, 2007.
-(23)  "Short-term bond" means a bond that is required to be repaid during the
+(22)  "Short-term bond" means a bond that is required to be repaid during the
 fiscal year in which the bond is issued.
-(24)  "Special assessment" means an assessment levied against property to pay
+(23)  "Special assessment" means an assessment levied against property to pay
 all or a portion of the costs of making improvements that benefit the
 property.
-(25)  "Special assessment bond" means a bond payable from special assessments.
-(26)  "Specialized local district" means a local district that is a cemetery
+(24)  "Special assessment bond" means a bond payable from special assessments.
+(25)  "Specialized local district" means a local district that is a cemetery
 maintenance district, a drainage district, a fire protection district, an
 improvement district, an irrigation district, a metropolitan water district, a
 mosquito abatement district, a public transit district, a service area, or a
 water conservancy district.
-(27)  "Taxable value" means the taxable value of property as computed from the
+(26)  "Taxable value" means the taxable value of property as computed from the
 most recent equalized assessment roll for county purposes.
-(28)  "Tax and revenue anticipation bond" means a bond:
+(27)  "Tax and revenue anticipation bond" means a bond:
 (a)  issued in anticipation of the collection of taxes or other revenues or a
 combination of taxes and other revenues; and
 (b)  that matures within the same fiscal year as the fiscal year in which the
 bond is issued.
-(29)  "Unincorporated" means not included within a municipality.
-(30)  "Water conservancy district" means a local district that operates under
+(28)  "Unincorporated" means not included within a municipality.
+(29)  "Water conservancy district" means a local district that operates under
 and is subject to the provisions of this chapter and Chapter 2a, Part 10,
 Water Conservancy District Act, including an entity that was created and
 operated as a water conservancy district under the law in effect before April
 30, 2007.
-(31)  "Works" includes a dam, reservoir, well, canal, conduit, pipeline,
+(30)  "Works" includes a dam, reservoir, well, canal, conduit, pipeline,
 drain, tunnel, power plant, and any facility, improvement, or property
 necessary or convenient for supplying or treating water for any beneficial
 use, and for otherwise accomplishing the purposes of a local district.

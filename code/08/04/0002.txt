@@ -1,8 +1,8 @@
 8-4-2.   Endowment care cemetery trust funds -- Deposits in endowment fund
--- Reports -- Penalties for failure to file -- Investment of trust fund monies
+-- Reports -- Penalties for failure to file -- Investment of trust fund money
 -- Attestation.
 (1)  An endowment care cemetery shall establish an endowment care trust fund
-pursuant to Title 75, Chapter 7, Trust Administration.
+pursuant to Title 75, Chapter 7, Utah Uniform Trust Code.
 (a)  Any newly established endowment care cemetery or existing cemetery
 converting to an  endowment care cemetery shall deposit a minimum of $25,000
 in the endowment care trust fund.
@@ -26,7 +26,7 @@ with the provisions of this chapter;
 (ii)  the number and square feet of grave space;
 (iii)  the number of crypts and niches sold or disposed of under endowment
 care during a specific period; and
-(iv)  the dollar amount  of sales, amounts paid, amounts receivable, and
+(iv)  the dollar amount of sales, amounts paid, amounts receivable, and
 amounts deposited in endowment care funds for crypts, niches, and grave space
 during a specific period, set forth on the accrual basis as determined by the
 cemetery authority.
@@ -39,7 +39,7 @@ following the end of the endowment care cemetery's fiscal year.
 (4)  An officer, director, partner, proprietor, or other person having control
 of the records of an endowment care cemetery shall provide the reports and
 records necessary to comply with the provisions of this chapter.
-(5) A person is guilty of a class A misdemeanor who willfully and
+(5)  A person is guilty of a class A misdemeanor who willfully and
 intentionally fails to:
 (a)  deposit funds collected as endowment care funds into the endowment care
 trust within 30 days of receipt of the funds; or
@@ -48,7 +48,7 @@ trust within 30 days of receipt of the funds; or
 investment income shall be divided between the funds in the proportion that
 each contributed to the invested amount.
 (7)  Endowment care funds shall be invested in accordance with Section
-31A-18-105 and Title 75, Chapter 7, Trust Administration.
+31A-18-105 and Title 75, Chapter 7, Utah Uniform Trust Code.
 (8) (a)  An endowment care cemetery shall place endowment care funds with an
 independent trustee appointed by the endowment care cemetery.
 (b)  A trustee may be independent even if it has common ownership with the
@@ -65,7 +65,7 @@ by law;
 the special endowment care funds are invested;
 (iv)  the value of any securities held in the endowment care fund; and
 (v)  the actual financial condition of the funds.
-(10) (a) A trustee may not receive compensation for services and expenses,
+(10) (a)  A trustee may not receive compensation for services and expenses,
 including audits, in excess of 5% of the income derived from an endowment care
 fund in any year.
 (b)  If there are insufficient funds from the income derived from the

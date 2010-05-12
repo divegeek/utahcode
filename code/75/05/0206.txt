@@ -7,7 +7,7 @@ minor's physical, mental, moral, and emotional health needs.
 (2)  Except as provided in Subsection (3), the court shall appoint a person
 nominated by the minor, if the minor is 14 years of age or older, unless the
 court finds the appointment contrary to the best interests of the minor.
-(3)  The court may deny the appointment of  a guardian for a minor of school
+(3)  The court may deny the appointment of a guardian for a minor of school
 age if it finds that:
 (a)  if the minor is older than 11 years of age:
 (i)  the minor has not secured a certificate from the local police authority
@@ -32,3 +32,8 @@ Utah public school; or
 (c)  after consideration of relevant evidence, including any presented by the
 school district in which the petitioner resides, the minor's behavior
 indicates an ongoing unwillingness to abide by applicable law or school rules.
+(4)  If a school district files an objection for reasons described in
+Subsection (3)(b), and the court does not find in favor of the school
+district, the court may award the petitioner attorney fees and costs if the
+court finds that the school district's arguments lack a reasonable basis in
+law or fact.

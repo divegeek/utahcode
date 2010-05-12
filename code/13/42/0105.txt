@@ -1,9 +1,9 @@
 13-42-105.    Application for registration -- Form, fee, and accompanying
 documents.
-(1)  An application for registration as a provider must be in a form
+(1)  An application for registration as a provider shall be in a form
 prescribed by the administrator.
 (2)  Subject to adjustment of dollar amounts pursuant to Subsection
-13-42-132(6), an application for registration as a provider must be
+13-42-132(6), an application for registration as a provider shall be
 accompanied by:
 (a)  the fee established by the administrator in accordance with Section
 63J-1-504;

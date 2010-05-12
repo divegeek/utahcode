@@ -14,19 +14,22 @@ under this chapter:
 (G)  Chapter 19a, Utah Rate Regulation Act; and
 (H)  Chapter 28, Guaranty Associations; and
 (ii)  is not subject to:
-(A)  Chapter 3, Department Funding, Fees, and Taxes, except for Part 1;
+(A)  Chapter 3, Department Funding, Fees, and Taxes, except for Part 1,
+Funding the Insurance Department;
 (B)  Section 31A-4-107;
 (C)  Chapter 5, Domestic Stock and Mutual Insurance Corporations, except for
 provisions specifically made applicable by this chapter;
 (D)  Chapter 14, Foreign Insurers, except for provisions specifically made
 applicable by this chapter;
 (E)  Chapter 17, Determination of Financial Condition, except:
-(I)  Parts 2 and 6; or
+(I) Part 2, Qualified Assets, and Part 6, Risk-Based Capital; or
 (II)  as made applicable by the commissioner by rule consistent with this
 chapter;
 (F)  Chapter 18, Investments, except as made applicable by the commissioner by
 rule consistent with this chapter; and
-(G)  Chapter 22, Contracts in Specific Lines, except for Parts 6, 7, and 12.
+(G)  Chapter 22, Contracts in Specific Lines, except for Part 6, Accident and
+Health Insurance, Part 7, Group Accident and Health Insurance, and Part 12,
+Reinsurance.
 (2)  The commissioner may by rule waive other specific provisions of this
 title that the commissioner considers inapplicable to health maintenance
 organizations or limited health plans, upon a finding that the waiver will not
@@ -41,13 +44,15 @@ organization except as specifically made applicable by:
 (b)  a provision referenced under this chapter; or
 (c)  a rule adopted by the commissioner to deal with corporate law issues of
 health maintenance organizations that are not settled under this chapter.
-(4) (a)  Whenever in this chapter, Chapter 5, or Chapter 14 is made applicable
-to an organization, the application is:
+(4) (a)  Whenever in this chapter, Chapter 5, Domestic Stock and Mutual
+Insurance Corporations, or Chapter 14, Foreign Insurers, is made applicable to
+an organization, the application is:
 (i)  of those provisions that apply to a mutual corporation if the
 organization is nonprofit; and
 (ii)  of those that apply to a stock corporation if the organization is for
 profit.
-(b)  When Chapter 5 or 14 is made applicable to an organization under this
+(b)  When Chapter 5, Domestic Stock and Mutual Insurance Corporations, or
+Chapter 14, Foreign Insurers, is made applicable to an organization under this
 chapter, "mutual" means nonprofit organization.
 (5)  Solicitation of enrollees by an organization is not a violation of any
 provision of law relating to solicitation or advertising by health

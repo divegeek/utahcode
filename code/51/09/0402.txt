@@ -7,9 +7,9 @@ shall be collected before any fine and deposited with the state treasurer.
 and forfeitures imposed under this part by courts not of record shall be
 collected concurrently.
 (a)  As monies are collected on criminal fines, penalties, and forfeitures
-subject to the 85% surcharge, the monies shall be divided pro rata so that the
-local governmental collecting entity retains 54% of the collected monies and
-the state retains 46% of the collected monies.
+subject to the 90% surcharge, the monies shall be divided pro rata so that the
+local governmental collecting entity retains 53% of the collected monies and
+the state retains 47% of the collected monies.
 (b)  As monies are collected on criminal fines, penalties, and forfeitures
 subject to the 35% surcharge, the monies shall be divided pro rata so that the
 local governmental collecting entity retains 74% of the collected monies and
@@ -22,7 +22,7 @@ proceedings shall collect financial information to determine:
 (i)  a final judgment has been rendered;
 (ii)  surcharges and fines are paid by partial or installment payment; and
 (iii)  the judgment is fulfilled by an alternative method upon the court's
-order;
+order; and
 (b)  the total dollar amounts of surcharges owed to the state and fines owed
 to the state and county or municipality, including:
 (i)  waived surcharges;
@@ -31,7 +31,7 @@ to the state and county or municipality, including:
 (4)  The courts of record, courts not of record, and administrative traffic
 proceedings shall report all collected financial information monthly to the
 Administrative Office of the Courts.  The collected information shall be
-categorized by cases subject to the 85% and 35% surcharge.
+categorized by cases subject to the 90% and 35% surcharge.
 (5)  The purpose of the surcharge is to finance the trust funds and support
 accounts as provided in this part.
 (6) (a)  From the surcharge, the Division of Finance shall allocate in the

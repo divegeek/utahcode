@@ -2,9 +2,13 @@
 (1)  The county clerks shall ensure that the number and ballot title verified
 to them by the lieutenant governor are presented upon the official ballot
 with, immediately adjacent to them, the words "For" and "Against," each word
-presented with an adjacent square in which the elector may indicate his vote.
-(2)  Voters desiring to vote in favor of preventing the law that is the
-subject of the referendum from taking effect shall mark the square adjacent to
-the word "For," and those desiring to vote against preventing the law that is
-the subject of the referendum petition from taking effect shall mark the
-square adjacent to the word "Against."
+presented with an adjacent square in which the elector may indicate the
+elector's vote.
+(2) (a) (i)  A voter desiring to vote in favor of the law that is the subject
+of the referendum shall mark the square adjacent to the word "For."
+(ii)  The law that is the subject of the referendum takes effect if a majority
+of voters mark "For."
+(b) (i)  A voter desiring to vote against the law that is the subject of the
+referendum petition shall mark the square adjacent to the word "Against."
+(ii)  The law that is the subject of the referendum does not take effect if a
+majority of voters mark "Against."

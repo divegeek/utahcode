@@ -1,19 +1,21 @@
 45-1-101.   Legal notice publication requirements.
 (1)  As used in this section:
-(a) (i)  "Legal notice" means:
-(A)  a communication required to be made public by a state statute or state
+(a)  "Legal notice" means:
+(i)  a communication required to be made public by a state statute or state
 agency rule; or
-(B)  a notice required for judicial proceedings or by judicial decision.
-(ii)  "Legal notice" does not include a public notice published by a public
+(ii)  a notice required for judicial proceedings or by judicial decision.
+(b)  "Legal notice" does not include a public notice published by a public
 body in accordance with the provisions of Sections 52-4-202 and 63F-1-701.
-(b)  "Person" is as defined in Section 68-3-12.
-(2)  Notwithstanding any other legal notice provision established in this Utah
-Code, a person required to publish legal notice:
-(a)  until January 1, 2010, shall publish as required by the state statute
+(2) (a)  Notwithstanding any other legal notice provision established in this
+Utah Code, a person required to publish legal notice:
+(i)  until January 1, 2010, shall publish as required by the statute
 establishing the legal notice requirement; and
-(b)  beginning on January 1, 2010, shall publish legal notice:
-(i)  as required by the statute establishing the notice requirement; and
-(ii)  on a website established by the collective efforts of Utah's newspapers.
+(ii)  beginning on January 1, 2010, shall publish legal notice:
+(A)  as required by the statute establishing the legal notice requirement; and
+(B)  on a website established by the collective efforts of Utah's newspapers.
+(b)  A person's publishing legal notice as required under Subsection (2)(a)
+does not relieve the person from complying with an otherwise applicable
+requirement under Title 52, Chapter 4, Open and Public Meetings Act.
 (3)  Beginning on January 1, 2012, notwithstanding any provision of law
 requiring publication of legal notice in a newspaper, a person who publishes
 legal notice that is required to be given in a county of the first or second
@@ -21,10 +23,10 @@ class:
 (a)  is not required to comply with the requirement to publish legal notice in
 a newspaper;
 (b)  is required to publish legal notice on the website described in
-Subsection (2)(b)(ii); and
+Subsection (2)(a)(ii)(B); and
 (c)  may, in addition to complying with Subsection (3)(b), publish legal
 notice in a newspaper.
-(4)  The website described in Subsection (2)(b)(ii) may not:
+(4)  The website described in Subsection (2)(a)(ii)(B) may not:
 (a)  charge a fee to publish a legal notice on the website before January 1,
 2012; and
 (b)  charge more than $10 to publish a legal notice on the website on or after

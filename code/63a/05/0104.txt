@@ -26,7 +26,7 @@ replacement space is less than $2,500,000; or
 (d)  "Replacement cost of existing state facilities" means the replacement
 cost, as determined by the Division of Risk Management, of state facilities,
 excluding auxiliary facilities as defined by the State Building Board.
-(e)  "State funds" means public monies appropriated by the Legislature.
+(e)  "State funds" means public money appropriated by the Legislature.
 (2)  The State Building Board, on behalf of all state agencies, commissions,
 departments, and institutions shall submit its capital development
 recommendations and priorities to the Legislature for approval and
@@ -57,11 +57,11 @@ a record of facilities constructed under the exemption provided in Subsection
 (d)  Legislative approval is not required for:
 (i)  the renovation, remodeling, or retrofitting of an existing facility with
 nonstate funds;
-(ii) a facility to be built with nonstate funds and owned by nonstate entities
-within research park areas at the University of Utah and Utah State
+(ii)  a facility to be built with nonstate funds and owned by nonstate
+entities within research park areas at the University of Utah and Utah State
 University;
-(iii) a facility to be built at This is the Place State Park by This is the
-Place Foundation with funds of the foundation, including grant monies from the
+(iii)  a facility to be built at This is the Place State Park by This is the
+Place Foundation with funds of the foundation, including grant money from the
 state, or with donated services or materials;
 (iv)  a capital project that:
 (A)  is funded by:
@@ -135,7 +135,7 @@ General Fund budget deficit exists, the Legislature may, in eliminating the
 deficit, reduce the amount appropriated to capital improvements to 0.9% of the
 replacement cost of state buildings.
 (c)  The requirements under Subsections (6)(a) and (b) do not apply to the
-2008-09 and 2009-10 fiscal years.
+2008-09, 2009-10, and 2010-11 fiscal years.
 (7) (a)  If, after approval of capital development and capital improvement
 priorities by the Legislature under this section, emergencies arise that
 create unforeseen critical capital improvement projects, the State Building

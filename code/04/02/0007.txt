@@ -1,6 +1,6 @@
 4-2-7.   Agricultural Advisory Board created -- Composition --
 Responsibility -- Terms of office -- Compensation.
-(1)  There is created the Agricultural Advisory Board composed of 13 members
+(1)  There is created the Agricultural Advisory Board composed of 14 members
 representing each of the following:
 (a)  Utah Farm Bureau Federation;
 (b)  Utah Farmers Union;
@@ -8,19 +8,26 @@ representing each of the following:
 (d)  Utah Wool Growers' Association;
 (e)  Utah Dairymen's Association;
 (f)  Utah Pork Producer's Association;
-(g)  Utah Veterinary Medical Association;
-(h)  Livestock Auction Marketing Association;
-(i)  Utah Association of Conservation Districts;
-(j)  the Utah horse industry;
-(k)  the food processing industry;
-(l)  manufacturers of food supplements; and
-(m)  a consumer affairs group.
-(2)  The Agricultural Advisory Board shall advise the commissioner regarding
-the planning, implementation, and administration of the department's programs.
+(g)  egg and poultry producers;
+(h)  Utah Veterinary Medical Association;
+(i)  Livestock Auction Marketing Association;
+(j)  Utah Association of Conservation Districts;
+(k)  the Utah horse industry;
+(l)  the food processing industry;
+(m)  manufacturers of food supplements; and
+(n)  a consumer affairs group.
+(2)  The Agricultural Advisory Board shall advise the commissioner regarding:
+(a)  the planning, implementation, and administration of the department's
+programs; and
+(b)  the establishment of standards governing the care of livestock and
+poultry, as part of which the Agricultural Advisory Board may consider:
+(i)  food safety;
+(ii)  local availability and affordability of food; and
+(iii)  acceptable practices for livestock and farm management.
 (3) (a)  Except as required by Subsection (3)(c), members are appointed by the
 commissioner to four-year terms of office.
-(b)  Representatives of the organizations cited in Subsections (1)(a) through
-(1)(h) shall be appointed to the Agricultural Advisory Board by the
+(b)  Representatives of the organizations cited in Subsections (1)(a)
+through(h) shall be appointed to the Agricultural Advisory Board by the
 commissioner from a list of nominees submitted by each organization.
 (c)  Notwithstanding the requirements of Subsection (3)(a), the commissioner
 shall, at the time of appointment or reappointment, adjust the length of terms
@@ -36,8 +43,10 @@ Advisory Board for a term of one year.
 the discretion of the chair.
 (b)  Attendance of seven members at a duly called meeting constitutes a quorum
 for the transaction of official business.
-(6) (a)  Members shall receive no compensation or benefits for their services,
-but may receive per diem and expenses incurred in the performance of the
-member’s official duties at the rates established by the Division of Finance
-under Sections 63A-3-106 and 63A-3-107.
-(b)  Members may decline to receive per diem and expenses for their service.
+
+(6)  A member may not receive compensation or benefits for the member's
+service, but may receive per diem and travel expenses in accordance with:
+(a)  Section 63A-3-106;
+(b)  Section 63A-3-107; and
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and
+63A-3-107.

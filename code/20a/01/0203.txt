@@ -1,4 +1,5 @@
-20A-1-203.   Calling and purpose of special elections.
+20A-1-203.   Calling and purpose of special elections -- Two-thirds vote
+limitations.
 (1)  Statewide and local special elections may be held for any purpose
 authorized by law.
 (2) (a)  Statewide special elections shall be conducted using the procedure
@@ -16,8 +17,8 @@ or concurrent resolution that designates:
 (5) (a)  The legislative body of a local political subdivision may call a
 local special election only for:
 (i)  a vote on a bond or debt issue;
-(ii)  a vote on a voted leeway program authorized by Section 53A-17a-133 or
-53A-17a-134;
+(ii)  a vote on a voted leeway or levy program authorized by Section
+53A-16-110, 53A-17a-133, or 53A-17a-134;
 (iii) an initiative authorized by Chapter 7, Part 5, Local Initiatives -
 Procedure;
 (iv)  a referendum authorized by Chapter 7, Part 6, Local Referenda -
@@ -35,3 +36,12 @@ Subsection 10-2-125(9).
 special election by adopting an ordinance or resolution that designates:
 (i)  the date for the local special election; and
 (ii)  the purpose for the local special election.
+(c)  A local political subdivision may not call a local special election
+unless the ordinance or resolution calling a local special election under
+Subsection (5)(b) is adopted by a two-thirds majority of all members of the
+legislative body, if the local special election is for:
+(i)  a vote on a bond or debt issue as described in Subsection (5)(a)(i);
+(ii)  a vote on a voted leeway or levy program as described in Subsection
+(5)(a)(ii); or
+(iii)  a vote authorized or required for a sales tax issue as described in
+Subsection (5)(a)(vi).

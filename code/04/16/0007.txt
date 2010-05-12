@@ -6,7 +6,8 @@ from which seeds are distributed, offered, or exposed for sale to sample,
 inspect, analyze, and test agricultural, vegetable, flower, or tree and shrub
 seeds or seeds for sprouting distributed within this state to determine
 compliance with this chapter.
-(b)  To perform the duties specified in Subsection (a), the department shall:
+(b)  To perform the duties specified in Subsection (1)(a), the department
+shall:
 (i)  establish and maintain facilities for testing the purity and germination
 of seeds;
 (ii)  prescribe by rule uniform methods for sampling and testing seeds; and

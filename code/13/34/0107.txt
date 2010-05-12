@@ -47,8 +47,8 @@ effective for a period of two years after the date of filing and issuance.
 of registration statements by various classifications of institutions pursuant
 to Section 63J-1-504.
 (b)  Fees are not refundable.
-(c)  Fees shall be deposited in the Commerce Service Fund pursuant to Section
-13-1-2.
+(c)  Fees shall be deposited in the Commerce Service Account created by
+Section 13-1-2.
 (6) (a)  Each proprietary school shall:
 (i)  demonstrate fiscal responsibility at the time the proprietary school
 files its registration statement as prescribed by rules of the division; and
@@ -60,7 +60,7 @@ school has incurred with students and creditors.
 to operate shall prepare and submit financial statements and supporting
 documentation as requested by the division.
 (c)  A proprietary school applying for renewal of a certificate of
-registration to operate or renewal under new ownership must provide audited
+registration to operate or renewal under new ownership shall provide audited
 financial statements.
 (d)  The division may require evidence of financial status at other times when
 it is in the best interest of students to require such information.

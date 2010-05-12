@@ -6,10 +6,12 @@
 (iii)  a political subdivision of the state; and
 (b)  may sue and be sued.
 (2)  A local district may:
-(a)  acquire, by any lawful means, or lease any real or personal property
-necessary or convenient to the full exercise of the district's powers;
-(b)  acquire, by any lawful means, any interest in real or personal property
-necessary or convenient to the full exercise of the district's powers;
+(a)  acquire, by any lawful means, or lease any real property, personal
+property, or a groundwater right necessary or convenient to the full exercise
+of the district's powers;
+(b)  acquire, by any lawful means, any interest in real property, personal
+property, or a groundwater right necessary or convenient to the full exercise
+of the district's powers;
 (c)  transfer an interest in or dispose of any property or interest described
 in Subsections (2)(a) and (b);
 (d)  acquire or construct works, facilities, and improvements necessary or
@@ -68,15 +70,19 @@ consents; or
 (iii)  across any stream of water or watercourse, subject to Section 73-3-29;
 (q)  perform any act or exercise any power reasonably necessary for the
 efficient operation of the local district in carrying out its purposes;
-(r)  designate an assessment area and levy an assessment on land within the
-assessment area, as provided in Title 11, Chapter 42, Assessment Area Act;
+(r) (i)  except for a local district described in Subsection (2)(r)(ii),
+designate an assessment area and levy an assessment on land within the
+assessment area, as provided in Title 11, Chapter 42, Assessment Area Act; or
+(ii)  for a local district in a critical management area described in
+Subsection 17B-1-202(1)(c), designate an assessment area and levy an
+assessment on a groundwater right to facilitate a groundwater management plan;
 (s)  contract with another political subdivision of the state to allow the
 other political subdivision to use the district's surplus water or capacity or
 have an ownership interest in the district's works or facilities, upon the
 terms and for the consideration, whether monetary or nonmonetary consideration
 or no consideration, that the district's board of trustees considers to be in
 the best interests of the district and the public; and
-(t) upon the terms and for the consideration, whether monetary or nonmonetary
+(t)  upon the terms and for the consideration, whether monetary or nonmonetary
 consideration or no consideration, that the district's board of trustees
 considers to be in the best interests of the district and the public, agree:
 (i)  with:

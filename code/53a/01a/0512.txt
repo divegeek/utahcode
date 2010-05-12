@@ -24,14 +24,18 @@ order to work in a charter school upon approval of the local school board.
 district and may continue to be covered by the benefit program of the district
 if the charter school and the locally elected school board mutually agree.
 (7)  Except as provided under Subsection (8), an employee of a charter school
-shall be a member of a retirement system under Title 49, Utah State Retirement
-and Insurance Benefit Act.
+shall be a member of a retirement system or plan under Title 49, Utah State
+Retirement and Insurance Benefit Act.
 (8) (a)  At the time of application for a charter school, whether the
-chartering entity is the State Charter School Board or a school district, a
-proposed charter school may make an election of nonparticipation as an
-employer for retirement programs under Title 49, Chapter 12, Public Employees'
-Contributory Retirement Act and under Title 49, Chapter 13, Public Employees'
-Noncontributory Retirement Act.
+chartering entity is the State Charter School Board, a local school board, or
+a board of trustees of a higher education institution, a proposed charter
+school may make an election of nonparticipation as an employer for retirement
+programs under:
+(i)  Title 49, Chapter 12, Public Employees' Contributory Retirement Act;
+(ii)  Title 49, Chapter 13, Public Employees' Noncontributory Retirement Act;
+and
+(iii)  Title 49, Chapter 22, New Public Employees' Tier II Contributory
+Retirement Act.
 (b)  A charter school that was approved prior to July 1, 2004 may make an
 election of nonparticipation prior to December 31, 2004.
 (c)  An election provided under this Subsection (8):
@@ -48,10 +52,13 @@ for its employees:
 Program Act; or
 (ii)  under any other program.
 (9) (a)  A charter school that made an election of nonparticipation as an
-employer for retirement programs under Title 49, Chapter 12, Public Employees'
-Contributory Retirement Act and under Title 49, Chapter 13, Public Employees'
-Noncontributory Retirement Act, may subsequently make an irrevocable
-retraction of the election of nonparticipation.
+employer for the following retirement programs may subsequently make an
+irrevocable retraction of the election of nonparticipation:
+(i)  Title 49, Chapter 12, Public Employees' Contributory Retirement Act;
+(ii)  Title 49, Chapter 13, Public Employees' Noncontributory Retirement Act;
+or
+(iii)  Title 49, Chapter 22, New Public Employees' Tier II Contributory
+Retirement Act.
 (b)  A retraction provided under this Subsection (9):
 (i)  shall be documented by a resolution adopted by the governing body of the
 charter school;

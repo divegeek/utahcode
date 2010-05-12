@@ -11,14 +11,13 @@ community that created the agency.
 public hearing on the annual budget.
 (b)  Each agency shall provide notice of the public hearing on the annual
 budget by:
-(i)  publishing:
-(A) (I)  at least one notice in a newspaper of general circulation within the
-agency boundaries, one week before the public hearing; or
-(II)  if there is no newspaper of general circulation within the agency
+(i) (A)  publishing at least one notice in a newspaper of general circulation
+within the agency boundaries, one week before the public hearing; or
+(B)  if there is no newspaper of general circulation within the agency
 boundaries, posting a notice of the public hearing in at least three public
 places within the agency boundaries; and
-(B)  in accordance with Section 45-1-101, at least one week before the public
-hearing.
+(ii) publishing notice on the Utah Public Notice Website created in Section
+63F-1-701, at least one week before the public hearing.
 (c)  Each agency shall make the annual budget available for public inspection
 at least three days before the date of the public hearing.
 (5)  The state auditor shall prescribe the budget forms and the categories to
@@ -26,7 +25,7 @@ be contained in each agency budget, including:
 (a)  revenues and expenditures for the budget year;
 (b)  legal fees; and
 (c)  administrative costs, including rent, supplies, and other materials, and
-salaries of  agency personnel.
+salaries of agency personnel.
 (6) (a)  Within 90 days after adopting an annual budget, each agency board
 shall file a copy of the annual budget with the auditor of the county in which
 the agency is located, the State Tax Commission, the state auditor, the State

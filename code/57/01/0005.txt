@@ -1,5 +1,6 @@
 57-1-5.   Creation of joint tenancy presumed -- Tenancy in common --
-Severance of joint tenancy -- Tenants by the entirety.
+Severance of joint tenancy -- Tenants by the entirety -- Tenants holding as
+community property.
 (1) (a)  Beginning on May 5, 1997, every ownership interest in real estate
 granted to two persons in their own right who are designated as husband and
 wife in the granting documents is presumed to be a joint tenancy interest with
@@ -32,3 +33,5 @@ continue to hold their interest in joint tenancy.
 retrospective operation and shall govern instruments executed and recorded on
 or after May 5, 1997.
 (7)  Tenants by the entirety are considered to be joint tenants.
+(8)  Tenants holding title as community property are considered to be joint
+tenants.

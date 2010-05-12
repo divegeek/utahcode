@@ -19,7 +19,7 @@ the individual claims benefits;
 (ii)  if benefits have been paid for the claim; or
 (iii)  unless the individual was eligible for benefits for the week as
 provided in this section and Sections 35A-4-401 and 35A-4-405, except for the
-requirement of Subsection (1)(d);
+requirement of this Subsection (1)(d);
 (e) (i)  the individual has furnished the division separation and other
 information the department may prescribe by rule, or proves to the
 satisfaction of the division that the individual had good cause for failing to
@@ -32,12 +32,13 @@ the employer is not considered to be an interested party to the determination;
 (f) (i)  the individual's base period wages were at least 1-1/2 times the
 individual's wages for insured work paid during that quarter of the
 individual's base period in which the individual's wages were highest; or
-(ii)  the individual shows to the satisfaction of the division that the
+(ii)  for any claimant whose benefit year is effective on or before January 1,
+2011, the individual shows to the satisfaction of the division that the
 individual worked at least 20 weeks in insured work during the individual's
 base period and earned wages of at least 5% of the monetary base period wage
 requirement each week, rounded to the nearest whole dollar, provided that the
 individual's total base-period wages were not less than the monetary base
-period wage requirement as defined in Section 35A-4-201;
+period wage requirement as defined in Section 35A-4-201; and
 (g) (i)  the individual applying for benefits in a successive benefit year has
 had subsequent employment since the effective date of the preceding benefit
 year equal to at least six times the individual's weekly benefit amount, in
@@ -81,3 +82,16 @@ and
 (c)  cases or situations when it finds that compliance with the requirements
 would be oppressive, or would be inconsistent with the purposes of this
 chapter, as long as the rule does not conflict with Subsection 35A-4-401(1).
+(4) (a)  The director of the division or the director's designee shall make an
+annual report to the Workforce Employment Advisory Council and to the
+Legislature's Workforce Services and Community and Economic Development
+Interim Committee no later than November 30, 2011, and annually thereafter,
+concerning the impact on individuals applying for unemployment compensation
+and the unemployment trust insurance fund as a result of amendments made to
+Subsections (1)(f) and 35A-4-201(1) during the Legislature's 2010 General
+Session.
+(b)  The interim committee shall make recommendations to the Legislature from
+the annual report it receives under Subsection (4)(a) that may include:
+(i)  further modifications to the amendments made to Subsections (1)(f) and
+35A-4-201(1) during the 2010 General Session; or
+(ii)  the repeal of those amendments.

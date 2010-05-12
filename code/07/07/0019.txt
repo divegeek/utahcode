@@ -1,7 +1,7 @@
 7-7-19.   Record and accounting requirements -- Valuation of assets.
 (1)  Every association shall keep at the home office correct and complete
 books of accounts, membership or stockholder records, and minutes of the
-proceedings of members, stockholders, and directors. Complete records of all
+proceedings of members, stockholders, and directors.  Complete records of all
 business transacted at the home office shall be maintained at the home office.
 Control records of all business transacted at each branch office or agency
 shall be maintained at the home office.
@@ -23,7 +23,7 @@ this chapter, may order that assets, individually or in the aggregate, to the
 extent that the assets are overvalued on an association's books, be charged
 off, or that a special reserve or reserves equal to the overvaluation be set
 up by transfers from undivided profits or reserves.
-(7)  An association shall not carry any real estate on its books at a sum in
+(7)  An association may not carry any real estate on its books at a sum in
 excess of the total amount invested by the association on account of that real
 estate, including advances, costs, and improvements but excluding accrued but
 uncollected interest.

@@ -1,11 +1,11 @@
 16-10a-720.   Shareholders' list for meeting.
 (1)  After fixing a record date for a shareholders' meeting, a corporation
 shall prepare a list of the names of all its shareholders who are entitled to
-be given notice of the meeting.  The list must be arranged by voting group,
-and within each voting group by class or series of shares.  The list must be
-alphabetical within each class or series and must show the address of, and the
-number of shares held by, each shareholder.
-(2)  The shareholders' list must be available for inspection by any
+be given notice of the meeting.  The list shall be arranged by voting group,
+and within each voting group by class or series of shares.  The list shall be
+alphabetical within each class or series and shall show the address of, and
+the number of shares held by, each shareholder.
+(2)  The shareholders' list shall be available for inspection by any
 shareholder, beginning on the earlier of 10 days before the meeting for which
 the list was prepared or two business days after notice of the meeting is
 given and continuing through the meeting and any meeting adjournments, at the

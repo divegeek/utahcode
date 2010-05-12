@@ -1,18 +1,58 @@
-31A-22-635.   Development of uniform health insurance applications.
+31A-22-635.   Development of uniform health insurance application -- Uniform
+waiver of coverage.
 (1)  For purposes of this section, "insurer":
 (a)  is defined in Subsection 31A-22-634(1); and
 (b)  includes the state employee's risk pool under Section 49-20-202.
-(2)  Beginning July 1, 2009, all insurers offering health insurance shall use
-a uniform application form.
-(3)  The uniform application form shall be adopted and approved by the
-commissioner in accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act.  The commissioner shall consult with the health insurance
-industry when adopting the uniform application form.
-(4) (a)  Beginning July 1, 2010, all insurers shall offer compatible systems
-of electronic submission of application forms, approved by the commissioner in
-accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.  The
-systems approved by the commissioner may include monitoring and disseminating
-information concerning eligibility and coverage of individuals.
+(2) (a) Insurers offering a health benefit plan to an individual or small
+employer shall:
+(i)  except as provided in Subsection (6), use a uniform application form,
+which, beginning October 1, 2010:
+(A)  except for cancer and transplants, may not include questions about an
+applicant's health history prior to the previous 10 years; and
+(B)  shall be shortened and simplified in accordance with rules adopted by the
+department; and
+(ii)  use a uniform waiver of coverage form, which:
+(A)  may not include health status related questions other than pregnancy; and
+(B)  is limited to:
+(I)  information that identifies the employee;
+(II)  proof of the employee's insurance coverage; and
+(III)  a statement that the employee declines coverage with a particular
+employer group.
+(b)  Notwithstanding the requirements of Subsection (2)(a), the uniform
+application and uniform waiver of coverage forms may be combined or modified
+to facilitate:
+(i)  the electronic submission and processing of an application through the
+Health Insurance Exchange created pursuant to Section 63M-1-2504 or directly
+to all carriers; and
+(ii)  a more efficient and understandable experience for a consumer submitting
+an application in the Health Insurance Exchange or directly to all carriers.
+(3)  An insurer offering a defined contribution arrangement health benefit
+plan in the Health Insurance Exchange to a large group shall use a large group
+uniform application, and uniform waiver of coverage form, that is adopted by
+the department by administrative rule.
+(4) (a) (i)  The uniform application form, and uniform waiver form, shall be
+adopted and approved by the commissioner in accordance with Title 63G, Chapter
+3, Utah Administrative Rulemaking Act.
+(ii)  Modifications to the uniform application necessary to facilitate the
+electronic submission and processing of an application through the Health
+Insurance Exchange shall be adopted by administrative rule adopted by the
+Office of Consumer Health Services in accordance with Section 63M-1-2506.
+(b)  The commissioner shall convene the health insurance industry, the Office
+of Consumer Health Services, and consumers to review the uniform application
+for the individual and small group market, and the large group market, and
+make recommendations regarding the uniform applications.  The department shall
+report the findings of the group convened pursuant to this Subsection (4)(b)
+to the Legislature no later than July 1, 2010.
+(5) (a)  Beginning October 1, 2010, an insurer who offers a health benefit
+plan on the Health Insurance Exchange created in Section 63M-1-2504, shall:
+(i)  accept and process an electronic submission of the uniform application or
+uniform waiver from the Health Insurance Exchange using the electronic
+standards adopted pursuant to Section 63M-1-2506; and
+(ii)  if requested, provide the applicant with a copy of the completed
+application either by mail or electronically.
 (b)  The commissioner shall regulate any fees charged by insurers to an
 enrollee for a uniform application form or electronic submission of the
 application forms.
+(6)  An insurer offering a health benefit plan outside the Health Insurance
+Exchange may use the uniform application in effect prior to May 15, 2010,
+until January 1, 2011.

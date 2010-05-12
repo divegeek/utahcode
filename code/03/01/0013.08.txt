@@ -2,9 +2,9 @@
 (1) (a)  Unless otherwise provided by the articles of incorporation or bylaws,
 a board of directors may create one or more committees and appoint members of
 the board of directors to serve on them.
-(b)  Each committee must have two or more members who serve at the discretion
+(b)  Each committee shall have two or more members who serve at the discretion
 of the board of directors.
-(2)  The creation of a committee and appointment of members to it must be
+(2)  The creation of a committee and appointment of members to it shall be
 approved by the greater of:
 (a)  a majority of all the directors in office when the action is taken; or
 (b)  the number of directors required by the articles of incorporation or

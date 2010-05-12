@@ -20,10 +20,10 @@ of agricultural land is exempt from the plat requirements of Section
 (ii)  meets the minimum size requirement of applicable land use ordinances;
 and
 (iii)  is not used and will not be used for any nonagricultural purpose.
-(b)  The boundaries of each lot or parcel exempted under Subsection (1) shall
-be graphically illustrated on a record of survey map that, after receiving the
-same approvals as are required for a plat under Section 17-27a-604, shall be
-recorded with the county recorder.
+(b)  The boundaries of each lot or parcel exempted under Subsection (2)(a)
+shall be graphically illustrated on a record of survey map that, after
+receiving the same approvals as are required for a plat under Section
+17-27a-604, shall be recorded with the county recorder.
 (c)  If a lot or parcel exempted under Subsection (2)(a) is used for a
 nonagricultural purpose, the county may require the lot or parcel to comply
 with the requirements of Section 17-27a-603.
@@ -33,7 +33,9 @@ description does not create an approved subdivision allowed by this part
 unless the land use authority's certificate of written approval required by
 Subsection (1) is attached to the document.
 (b)  The absence of the certificate or written approval required by Subsection
-(1) does not affect the validity of a recorded document.
+(1) does not:
+(i)  prohibit the county recorder from recording a document; or
+(ii)  affect the validity of a recorded document.
 (c)  A document which does not meet the requirements of Subsection (1) may be
 corrected by the recording of an affidavit to which the required certificate
 or written approval is attached in accordance with Section 57-3-106.

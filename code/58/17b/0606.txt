@@ -2,9 +2,8 @@
 (1)  As used in this section:
 (a)  "Generic form" means a prescription drug that is available in generic
 form and has an A rating in the United States Pharmacopeia and Drug Index.
-(b)  "Legend drug" means any drug that requires a prescription under state or
-federal law.
-(c)  "Restrictive drug formulary" means a list of legend drugs, other than
+(b)  "Legend drug" has the same meaning as prescription drug.
+(b)  "Restrictive drug formulary" means a list of legend drugs, other than
 drugs for cosmetic purposes, that are prohibited by the Department of Health
 from dispensation, but are approved by the Federal Food and Drug
 Administration.

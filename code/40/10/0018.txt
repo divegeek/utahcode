@@ -7,7 +7,7 @@ in this section.  In adopting any rules, the board shall consider the distinct
 difference between surface coal mining and underground coal mining methods.
 (2)  Each permit relating to underground coal mining issued pursuant to this
 chapter shall require the operator to comply with this section.
-(3)  (a) Except in those instances where the mining technology used requires
+(3) (a)  Except in those instances where the mining technology used requires
 planned subsidence in a predictable and controlled manner, the operator shall
 adopt measures consistent with known technology to:
 (i)  prevent subsidence from causing material damage, to the extent
@@ -35,7 +35,7 @@ quality standards established pursuant to applicable federal and state law;
 natural surroundings; and
 (iii)  the site is stabilized and revegetated according to the provisions of
 this section.
-(7) In accordance with the standards and criteria developed pursuant to
+(7)  In accordance with the standards and criteria developed pursuant to
 Section 40-10-17, the operator shall design, locate, construct, operate,
 maintain, enlarge, modify, and remove or abandon all existing and new coal
 mine waste piles consisting of mine wastes, tailings, coal processing wastes,
@@ -85,11 +85,11 @@ between surface and underground coal mining methods.
 minimize disturbances and adverse impacts of the operation on fish, wildlife,
 and related environmental values, and achieve enhancement of these resources
 where practicable.
-(14) The operator shall locate openings for all new drift mines working acid
+(14)  The operator shall locate openings for all new drift mines working acid
 producing or iron producing coal seams in a manner as to prevent a gravity
 discharge of water from the mine.
 (15) (a)  Underground coal mining operations conducted after October 24, 1992,
-shall be subject to the requirements specified in Subsections (b) and (c).
+shall be subject to the requirements specified in Subsections (15)(b) and (c).
 (b) (i)  The permittee shall promptly repair, or compensate for, material
 damage resulting from subsidence caused to any occupied residential dwelling
 and related structures or noncommercial building due to underground coal
@@ -110,5 +110,5 @@ affected by contamination, diminution, or interruption resulting from
 underground coal mining operations.
 (d)  Nothing in this Subsection (15) shall be construed to prohibit or
 interrupt underground coal mining operations.
-(e)  Within one year after the date of enactment of this Subsection 15, the
+(e)  Within one year after the date of enactment of this Subsection (15), the
 board shall adopt final rules to implement this Subsection (15).

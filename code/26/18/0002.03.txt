@@ -13,7 +13,7 @@ and
 economical and cost-effective manner possible, with regard to both publicly
 and privately provided services.
 (2)  The division shall implement and utilize cost-containment methods, where
-possible, which may include, but are not limited to:
+possible, which may include:
 (a)  prepayment and postpayment review systems to determine if utilization is
 reasonable and necessary;
 (b)  preadmission certification of nonemergency admissions;
@@ -32,3 +32,13 @@ effectiveness and health implications of the existing Medicaid program, and
 consider alternative approaches to the provision of covered health and medical
 services through the Medicaid program, in order to reduce unnecessary or
 unreasonable utilization.
+(4)  The department shall ensure Medicaid program integrity by conducting
+internal audits of the Medicaid program for efficiencies, best practices,
+fraud, waste, abuse, and cost recovery, at least in proportion to the percent
+of funding for the program that comes from state funds.
+(5)  The department shall, by December 31 of each year, report to the Health
+and Human Services Appropriations Subcommittee regarding:
+(a)  measures taken under this section to increase:
+(i)  efficiencies within the program; and
+(ii)  cost avoidance and cost recovery efforts in the program; and
+(b)  results of program integrity efforts under Subsection (4).

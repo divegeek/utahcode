@@ -10,9 +10,9 @@ any violent felony and who on at least two previous occasions has been
 convicted of a violent felony and committed to either prison in Utah or an
 equivalent correctional institution of another state or of the United States
 either at initial sentencing or after revocation of probation.
-(c) (i)  "Violent felony" means any of the following offenses, or any attempt,
-solicitation, or conspiracy to commit any of these offenses punishable as a
-felony:
+(c)  "Violent felony" means:
+(i)  any of the following offenses, or any attempt, solicitation, or
+conspiracy to commit any of the following offenses punishable as a felony:
 (A)  aggravated arson, arson, knowingly causing a catastrophe, and criminal
 mischief, Title 76, Chapter 6, Part 1, Property Destruction;
 (B)  assault by prisoner, Section 76-5-102.5;
@@ -21,7 +21,7 @@ mischief, Title 76, Chapter 6, Part 1, Property Destruction;
 (E)  aggravated assault by prisoner, Section 76-5-103.5;
 (F)  mayhem, Section 76-5-105;
 (G)  stalking, Subsection 76-5-106.5(2) or (3);
-(H)  terroristic threat, Section 76-5-107;
+(H) threat of terrorism, Section 76-5-107.3;
 (I)  child abuse, Subsection 76-5-109(2)(a) or (b);
 (J)  commission of domestic violence in the presence of a child, Section
 76-5-109.1;

@@ -11,8 +11,8 @@ negotiation with the prosecutor, and the defendant did not reserve the right
 to appeal as part of the plea negotiation, the negotiation is voided by the
 appeal.
 (3)  A defendant convicted and sentenced in justice court is entitled to a
-hearing de novo in the district court on the following matters, if he files a
-notice of appeal within 30 days of:
+hearing de novo in the district court on the following matters, if the
+defendant files a notice of appeal within 30 days of:
 (a)  an order revoking probation;
 (b)  an order entering a judgment of guilt pursuant to the person's failure to
 fulfil the terms of a plea in abeyance agreement;
@@ -25,16 +25,23 @@ fulfil the terms of a plea in abeyance agreement;
 jeopardy or denial of a speedy trial;
 (d)  a judgment holding invalid any part of a statute or ordinance;
 (e)  a pretrial order excluding evidence, when the prosecutor certifies that
-exclusion of that evidence prevents continued prosecution; or
-(f)  an order granting a motion to withdraw a plea of guilty or no contest.
-(5)  Upon entering a decision in a hearing de novo, the district court shall
+exclusion of that evidence prevents continued prosecution of an infraction or
+class C misdemeanor;
+(f)  a pretrial order excluding evidence, when the prosecutor certifies that
+exclusion of that evidence impairs continued prosecution of a class B
+misdemeanor; or
+(g)  an order granting a motion to withdraw a plea of guilty or no contest.
+(5)  A notice of appeal for a hearing de novo in the district court on a
+pretrial order excluding evidence under Subsection (4)(e) or (f) shall be
+filed within 30 days of the order excluding the evidence.
+(6)  Upon entering a decision in a hearing de novo, the district court shall
 remand the case to the justice court unless:
 (a)  the decision results in immediate dismissal of the case;
 (b)  with agreement of the parties, the district court consents to retain
 jurisdiction; or
 (c)  the defendant enters a plea of guilty in the district court.
-(6)  The district court shall retain jurisdiction over the case on trial de
+(7)  The district court shall retain jurisdiction over the case on trial de
 novo.
-(7)  The decision of the district court is final and may not be appealed
+(8)  The decision of the district court is final and may not be appealed
 unless the district court rules on the constitutionality of a statute or
 ordinance.

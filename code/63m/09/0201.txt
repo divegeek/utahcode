@@ -16,7 +16,7 @@ four-year term;
 (c)  If a vacancy occurs with respect to a council member appointed under
 Subsection (1)(b), council members listed in Subsection (1)(a) shall appoint a
 replacement for the unexpired term.
-(d)  Appointments and reappointments under Subsection (1)(b) and (c) shall be
+(d)  Appointments and reappointments under Subsections (1)(b) and (c) shall be
 made within 60 days of a vacancy.
 (2) (a)  The council shall annually elect a chair from its membership.
 (b)  All voting members of the council are necessary to constitute a quorum at
@@ -26,17 +26,12 @@ that a unanimous vote of the council is required to appoint or remove a
 nonvoting council member.
 (d)  The council shall meet quarterly or more frequently as determined by the
 chair.
-(3) (a)  State government officer and employee members who do not receive
-salary, per diem, or expenses from their agency for their service may receive
-per diem and expenses incurred in the performance of their official duties
-from the council at the rates established by the Division of Finance under
-Sections 63A-3-106 and 63A-3-107.
-(b)  Members who are not government employees may not receive compensation or
-benefits for their services, but may receive per diem and expenses incurred in
-the performance of the member's official duties from the council at rates
-established by the Division of Finance under Sections 63A-3-106 and 63A-3-107.
-(c) Council members may decline to receive per diem and expenses for their
-service.
+(3)  A member may not receive compensation or benefits for the member's
+service, but may receive per diem and travel expenses in accordance with:
+(a)  Section 63A-3-106;
+(b)  Section 63A-3-107; and
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and
+63A-3-107.
 (4)  The council shall:
 (a)  provide leadership to increase and enhance efficient and effective
 services to Utah's children and youth at risk by:
@@ -60,24 +55,19 @@ Section 63M-9-402 and adopt performance goals for those systems;
 (e)  recommend to the governor for each fiscal year funds contained in an
 agency’s base budget and building block request that can be identified for
 collaborative service delivery systems established under Section 63M-9-402;
-(f) (i)  develop model administrative and governance structures to be
-established by communities that at least:
-(A)  ensure accountability for public funds;
-(B)  are voluntarily adopted and modified by communities, based on community
+(f)  develop model administrative and governance structures to be established
+by communities that at least:
+(i)  ensure accountability for public funds;
+(ii)  are voluntarily adopted and modified by communities, based on community
 needs;
-(C)  ensure collaboration on matters of policy and administrative processes in
-operating programs under this chapter between the state, school districts, and
-counties;
-(D)  establish a board consisting of heads of state and local government
+(iii)  ensure collaboration on matters of policy and administrative processes
+in operating programs under this chapter between the state, school districts,
+and counties;
+(iv)  establish a board consisting of heads of state and local government
 agencies, private agencies, and school districts that provide services under
 this chapter; and
-(E)  ensure equity in the scope, duration, and level of services throughout a
+(v)  ensure equity in the scope, duration, and level of services throughout a
 prescribed geographical area;
-(ii)  the council may, through contracts that provide funding for programs
-under this chapter, give incentives to communities to establish an
-administrative and governance structure that meets the requirements of
-Subsection (4)(f)(i) and to designate the geographical area within which that
-administrative and governance structure will operate;
 (g)  review the structure and function of the steering committee before
 December 1, 1999, to determine the effectiveness of the steering committee in:
 (i)  achieving the purposes and carrying out the responsibilities of the
@@ -88,7 +78,12 @@ systems;
 for restructuring the size, membership, and function of the steering committee
 based on the review conducted under Subsection (4)(g); and
 (i)  report to the governor and the Legislature on an annual basis.
-(5)  The council shall ensure that projects selected under Section 63M-9-401
+(5)  The council may, through contracts that provide funding for programs
+under this chapter, give incentives to communities to establish an
+administrative and governance structure that meets the requirements of
+Subsection (4)(f) and to designate the geographical area within which that
+administrative and governance structure will operate.
+(6)  The council shall ensure that projects selected under Section 63M-9-401
 have outcomes that:
 (a)  focus all project activities on the prevention of academic failure and
 social misbehaviors;
@@ -98,7 +93,7 @@ school administrators, and representatives of agencies and community-based
 service organizations that provide services; and
 (d)  provide frequent monitoring and assessment of each child's and youth's
 progress.
-(6) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative
+(7) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative
 Rulemaking Act, the council shall make rules to ensure cooperative development
 of individualized and coordinated service plans by local interagency councils
 and case management teams for children or youth at risk and their families who

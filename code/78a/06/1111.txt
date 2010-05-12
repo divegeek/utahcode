@@ -5,10 +5,10 @@ noncontracting attorney -- Rate of pay.
 be informed that they have the right to be represented by counsel at every
 stage of the proceedings.  They have the right to employ counsel of their own
 choice and if any of them requests an attorney and is found by the court to be
-indigent, counsel shall be appointed by the court as provided in Subsection
-(3).  The court may appoint counsel without a request if it considers
-representation by counsel necessary to protect the interest of the minor or of
-other parties.
+indigent, counsel shall be appointed by the court, subject to the provisions
+of this section.  The court may appoint counsel without a request if it
+considers representation by counsel necessary to protect the interest of the
+minor or of other parties.
 (b)  The cost of appointed counsel for an indigent minor or other indigent
 party, including the cost of counsel and expense of appeal, shall be paid by
 the county in which the trial court proceedings are held.  Counties may levy
@@ -35,8 +35,25 @@ before the court may make the appointment, it shall:
 Welfare Parental Defense created in Section 63A-11-103; and
 (c)  make findings that there is a compelling reason to appoint a
 noncontracting attorney before it may make such appointment.
-(5)  The indigent's mere preference for other counsel shall not be considered
-a compelling reason justifying the appointment of a noncontracting attorney.
+(5)  The indigent's mere preference for other counsel may not be considered a
+compelling reason justifying the appointment of a noncontracting attorney.
 (6)  The court may order a minor, parent, guardian, or custodian for whom
 counsel is appointed and the parents or guardian of any child for whom counsel
-is appointed to reimburse the county for the cost of appointed counsel.
+is appointed to reimburse the county for some or all of the cost of appointed
+counsel.
+(7) (a)  Except as provided in Subsections (7)(b) and (c), the court shall
+order a minor, parent, guardian, or custodian for whom counsel is appointed
+and the parents or guardian of any child for whom counsel is appointed to
+reimburse the county for the cost of appointed counsel arising from any work
+of counsel that is not primarily directed at the state or the guardian ad
+litem.
+(b)  The court may not order reimbursement of the county pursuant to
+Subsection (7)(a) for the cost of appointed counsel arising from any work of
+counsel:
+(i)  that is specifically undertaken to defend against the filing of a
+petition to terminate parental rights, regardless of who filed the petition;
+and
+(ii)  that is undertaken after the petition to terminate parental rights has
+been filed.
+(c)  The state, or an agency of the state, may not be ordered to reimburse the
+county pursuant to Subsection (7)(a).

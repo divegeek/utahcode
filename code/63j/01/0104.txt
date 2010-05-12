@@ -17,18 +17,22 @@ appropriated by the Legislature.
 (c)  Any free revenue funds appropriated by the Legislature to an agency that
 remain unexpended at the end of the fiscal year lapse to the source fund
 unless the Legislature provides by law that those funds are nonlapsing.
-(3) (a)  Each agency shall deposit its restricted revenues into a restricted
-fund.
-(b)  The Legislature may appropriate restricted revenues from a restricted
-fund for the specific purpose or program designated by law.
-(c)  If the fund equity of a restricted fund is insufficient to provide the
-funds appropriated from it by the Legislature, the Division of Finance may
-reduce the appropriation to a level that ensures that the fund equity is not
-less than zero.
-(d)  Any restricted revenue funds appropriated by the Legislature to an agency
-that remain unexpended at the end of the fiscal year lapse to the restricted
-fund unless the Legislature provides by law that those funds, or the program
-or line item financed by those funds, are nonlapsing.
+(3) (a)  Each agency shall deposit its restricted revenues into the applicable
+restricted account or fund.
+(b)  Revenues in a restricted account or fund do not lapse to another account
+or fund unless otherwise specifically provided for by law or legislative
+appropriation.
+(c)  The Legislature may appropriate restricted revenues from a restricted
+account or fund for the specific purpose or program designated by law.
+(d)  If the fund equity of a restricted account or fund is insufficient to
+provide the accounts appropriated from it by the Legislature, the Division of
+Finance may reduce the appropriation to a level that ensures that the fund
+equity is not less than zero.
+(e)  Any restricted revenues appropriated by the Legislature to an agency that
+remain unexpended at the end of the fiscal year lapse to the applicable
+restricted account or fund unless the Legislature provides by law that those
+appropriations, or the program or line item financed by those appropriations,
+are nonlapsing.
 (4) (a)  An agency may expend dedicated credits for any purpose within the
 program or line item.
 (b) (i)  Except as provided in Subsection (4)(b)(ii), an agency may not expend
@@ -49,7 +53,6 @@ work program to the Division of Finance.
 (B)  The Division of Finance shall process the new work program with written
 justification and make this information available to the Governor's Office of
 Planning and Budget and the legislative fiscal analyst.
-
 (iii)  An expenditure of dedicated credits in excess of amounts appropriated
 as dedicated credits by the Legislature may not be used to permanently
 increase personnel within the agency unless:
@@ -71,9 +74,9 @@ collections established by law, the agency's authority to expend is limited to
 the amount of fixed collections that it receives.
 (c)  If an agency receives fixed collections greater than the maximum amount
 of expendable fixed collections established by law, those excess amounts lapse
-to the General Fund, the Education Fund, the Uniform School Fund, or the
-Transportation Fund as designated by the director of the Division of Finance
-at the end of the fiscal year.
+to the General Fund, the Education Fund, the Transportation Fund, or the
+Transportation Investment Fund of 2005 as designated by the director of the
+Division of Finance at the end of the fiscal year.
 (6)  Unless otherwise specifically provided by law, when an agency has a
 program or line item that is funded by more than one major revenue type:
 (a)  the agency shall expend its dedicated credits and fixed collections

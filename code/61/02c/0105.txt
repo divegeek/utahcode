@@ -1,7 +1,8 @@
 61-2c-105.   Scope of chapter -- Exemptions.
-(1) (a)  Except as to an individual who will engage in an activity as a loan
-originator, this chapter applies to a closed-end residential mortgage loan
-secured by a first lien or equivalent security interest on a dwelling.
+(1) (a)  Except as to an individual who will engage in an activity as a
+mortgage loan originator, this chapter applies to a closed-end residential
+mortgage loan secured by a first lien or equivalent security interest on a
+dwelling.
 (b)  This chapter does not apply to a transaction covered by Title 70C, Utah
 Consumer Credit Code.
 (2)  The following are exempt from this chapter:
@@ -22,7 +23,8 @@ Housing Corporation Act;
 (ix)  the Farmers Home Administration; and
 (x)  the United States Department of Veterans Affairs;
 (e)  a depository institution;
-(f)  an affiliate of a depository institution;
+(f)  an entity that controls, is controlled by, or is under common control
+with a depository institution;
 (g)  an employee or agent of an entity described in Subsections (2)(a) through
 (f):
 (i)  when that person acts on behalf of the entity described in Subsections
@@ -71,9 +73,9 @@ small business investment company;
 residential mortgage loans; and
 (ii)  when the attorney renders services in the course of the attorney's
 practice as an attorney.
-(3)  An individual who will engage in an activity as a loan originator is
-exempt from this chapter only if the individual is an employee or agent exempt
-under Subsection (2)(g).
+(3)  An individual who will engage in an activity as a mortgage loan
+originator is exempt from this chapter only if the individual is an employee
+or agent exempt under Subsection (2)(g).
 (4) (a)  Notwithstanding Subsection (2)(m), an attorney exempt from this
 chapter may not engage in conduct described in Section 61-2c-301 when
 transacting business of residential mortgage loans.

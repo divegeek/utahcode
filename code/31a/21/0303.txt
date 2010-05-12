@@ -158,16 +158,28 @@ information within 10 working days after receipt of a written request by the
 policyholder.
 (b)  A notice under Subsection (2)(c) is not effective unless it contains
 information about the policyholder's right to make the request.
-(8)  If a risk-sharing plan under Section 31A-2-214 exists for the kind of
+(8) (a)  An insurer that gives a notice of nonrenewal or cancellation of
+insurance on a motor vehicle insurance policy issued in accordance with the
+requirements of Chapter 22, Part 3, Motor Vehicle Insurance, for nonpayment of
+a premium shall provide notice of nonrenewal or cancellation to a lienholder
+if the insurer has been provided the name and mailing address of the
+lienholder.
+(b)  The notice described in Subsection (8)(a) shall be provided to the
+lienholder by first class mail or, if agreed by the parties, any electronic
+means of communication.
+(c)  A lienholder shall provide a current physical address of notification or
+an electronic address of notification to an insurer that is required to make a
+notification under Subsection (8)(a).
+(9)  If a risk-sharing plan under Section 31A-2-214 exists for the kind of
 coverage provided by the insurance being cancelled or nonrenewed, a notice of
 cancellation or nonrenewal required under Subsection (2)(c) or (4)(b)(i) may
 not be effective unless it contains instructions to the policyholder for
 applying for insurance through the available risk-sharing plan.
-(9)  There is no liability on the part of, and no cause of action against, any
-insurer, its authorized representatives, agents, employees, or any other
+(10)  There is no liability on the part of, and no cause of action against,
+any insurer, its authorized representatives, agents, employees, or any other
 person furnishing to the insurer information relating to the reasons for
 cancellation or nonrenewal or for any statement made or information given by
 them in complying or enabling the insurer to comply with this section unless
 actual malice is proved by clear and convincing evidence.
-(10)  This section does not alter any common law right of contract rescission
+(11)  This section does not alter any common law right of contract rescission
 for material misrepresentation.

@@ -6,8 +6,8 @@ is duly made to the maker and the note is not paid on the day of presentment.
 or the terms of the note require presentment, the note is dishonored if
 presentment is duly made and the note is not paid on the day it becomes
 payable or the day of presentment, whichever is later.
-(c)  If the note is not payable on demand and Subsection (b) does not apply,
-the note is dishonored if it is not paid on the day it becomes payable.
+(c)  If the note is not payable on demand and Subsection (1)(b) does not
+apply, the note is dishonored if it is not paid on the day it becomes payable.
 (2)  Dishonor of an unaccepted draft other than a documentary draft is
 governed by the following rules:
 (a)  If a check is duly presented for payment to the payor bank otherwise than
@@ -15,7 +15,7 @@ for immediate payment over the counter, the check is dishonored if the payor
 bank makes timely return of the check or sends timely notice of dishonor or
 nonpayment under Section 70A-4-301 or 70A-4-302, or becomes accountable for
 the amount of the check under Section 70A-4-302.
-(b)  If a draft is payable on demand and Subsection (a) does not apply, the
+(b)  If a draft is payable on demand and Subsection (2)(a) does not apply, the
 draft is dishonored if presentment for payment is duly made to the drawee and
 the draft is not paid on the day of presentment.
 (c)  If a draft is payable on a date stated in the draft, the draft is

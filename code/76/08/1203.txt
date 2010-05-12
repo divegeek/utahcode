@@ -6,10 +6,14 @@ assistance, including the person's current:
 (a)  marital status;
 (b)  household composition;
 (c)  employment;
-(d)  income;
-(e)  receipt of monetary and in-kind gifts, which would affect the person's
-eligibility; and
-(f) assets, which would affect the person's eligibility.
+(d)  earned and unearned income, as defined by rule;
+(e)  receipt of monetary and in-kind gifts that may affect the person's
+eligibility;
+(f)  assets that may affect the person's eligibility; and
+(g)  any other material fact or change in circumstance that may affect the
+determination of that person's eligibility to receive public assistance
+benefits, or may affect the amount of benefits for which the person is
+eligible.
 (2)  A person applying for public assistance who intentionally, knowingly, or
 recklessly fails to disclose a material fact required to be disclosed under
 Subsection (1) is guilty of public assistance fraud as provided in Section

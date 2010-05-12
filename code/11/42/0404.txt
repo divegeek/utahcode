@@ -5,10 +5,19 @@ of assessment interest.
 Subsection 11-42-403(5) or, if applicable, after the time for filing an appeal
 under Subsection 11-42-403(6) has passed, the governing body may adopt a
 resolution or ordinance levying an assessment against benefitted property
-within the assessment area.
-(b)  Each local entity that levies an assessment under this chapter shall levy
-the assessment at one time only, unless the assessment is to pay operation and
-maintenance costs or the costs of economic promotion activities.
+within the assessment area designated in accordance with Part 2, Designating
+an Assessment Area.
+(b) (i)  Except as provided in Subsection (1)(b)(ii), a local entity may not
+levy more than one assessment under this chapter for an assessment area
+designated in accordance with Part 2, Designating an Assessment Area.
+(ii)  A local entity may levy more than one assessment in an assessment area
+designated in accordance with Part 2, Designating an Assessment Area, if:
+(A)  the local entity has adopted a designation resolution or designation
+ordinance for each assessment in accordance with Section 11-42-201; and
+(B)  the assessment is levied to pay:
+(I)  subject to Section 11-42-401, operation and maintenance costs; or
+(II)  subject to Section 11-42-406, the costs of economic promotion
+activities.
 (c)  An assessment resolution or ordinance adopted under Subsection (1)(a):
 (i)  need not describe each tract, block, lot, part of block or lot, or parcel
 of property to be assessed;
@@ -18,14 +27,14 @@ the parcels of property assessed in the assessment area; and
 within the assessment area if the assessment resolution or ordinance
 incorporates by reference the corrected assessment list that describes the
 property assessed by legal description and tax identification number.
-(2) (a)  Each local entity that adopts an assessment resolution or ordinance
+(2) (a)  A local entity that adopts an assessment resolution or ordinance
 shall give notice of the adoption by:
 (i) (A)  publishing a copy of the resolution or ordinance, or a summary of the
 resolution or ordinance, once in a newspaper of general circulation within the
 local entity's jurisdictional boundaries; or
 (B)  if there is no newspaper of general circulation with the local entity's
-jurisdictional boundaries as described in Subsection (2)(a)(i)(A), posting a
-copy of the resolution or ordinance in at least three public places within the
+jurisdictional boundaries as described in Subsection (2)(a)(i), posting a copy
+of the resolution or ordinance in at least three public places within the
 local entity's jurisdictional boundaries for at least 21 days; and
 (ii)  publishing, in accordance with Section 45-1-101, a copy of the
 resolution or ordinance for at least 21 days.
@@ -39,9 +48,9 @@ or
 (b)  at a later date provided in the resolution or ordinance.
 (4) (a)  The governing body of each local entity that has adopted an
 assessment resolution or ordinance under Subsection (1) shall, within five
-days after the 25-day prepayment period under Subsection 11-42-411(6) has
-passed, file a notice of assessment interest with the recorder of the county
-in which the assessed property is located.
+days after the day on which the 25-day prepayment period under Subsection
+11-42-411(6) has passed, file a notice of assessment interest with the
+recorder of the county in which the assessed property is located.
 (b)  Each notice of assessment interest under Subsection (4)(a) shall:
 (i)  state that the local entity has an assessment interest in the assessed
 property;

@@ -2,8 +2,8 @@
 For a limited cooperative association to dispose of assets under Section
 16-16-1502:
 (1)  a majority of the board of directors, or a greater percentage if required
-by the organic rules, must approve the proposed disposition; and
-(2)  the board of directors must call a members meeting to consider the
+by the organic rules, shall approve the proposed disposition; and
+(2)  the board of directors shall call a members meeting to consider the
 proposed disposition, hold the meeting not later than 90 days after approval
 of the proposed disposition by the board, and mail or otherwise transmit or
 deliver in a record to each member:
@@ -15,5 +15,5 @@ that determination;
 (c)  a statement of any condition of the board's submission of the proposed
 disposition to the members; and
 (d)  notice of the meeting at which the proposed disposition will be
-considered, which must be given in the same manner as notice of a special
+considered, which shall be given in the same manner as notice of a special
 meeting of members.

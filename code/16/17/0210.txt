@@ -19,7 +19,7 @@ service of process does not make the name of the entity filing the statement
 unavailable for use by another entity.
 (5)  An entity that has filed a statement appointing an agent for service of
 process may cancel the statement by filing a statement of cancellation, which
-shall take effect upon filing, and must state the name of the entity and that
+shall take effect upon filing, and shall state the name of the entity and that
 the entity is canceling its appointment of an agent for service of process in
 this state.  A statement appointing an agent for service of process which has
 not been canceled earlier is effective for a period of five years after the

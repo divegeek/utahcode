@@ -3,33 +3,50 @@ coverage.
 (1)  As used in this section:
 (a)  "Capital developments" has the same meaning as provided in Section
 63A-5-104.
-(b)  "Capital improvements" has  the same meaning as provided in Section
+(b)  "Capital improvements" has the same meaning as provided in Section
 63A-5-104.
 (c)  "Employee" means an "employee," "worker," or "operative" as defined in
 Section 34A-2-104 who:
 (i)  works at least 30 hours per calendar week; and
 (ii)  meets employer eligibility waiting requirements for health care
-insurance which may not exceed 90 days from the date of hire.
+insurance which may not exceed the first day of the calendar month following
+90 days from the date of hire.
 (d)  "Health benefit plan" has the same meaning as provided in Section
 31A-1-301.
-(e)  "Qualified health insurance coverage" means a health benefit plan that at
-the time the contract is entered into or renewed:
-(i) (A)  provides coverage that is actuarially equivalent to the current
-benefit plan determined by the Children's Health Insurance Program under
-Section 26-40-106; and
-(B)  under which the employer pays at least 50% of the premium for the
-employee and the dependents of the employee;
-(ii) (A)  is a federally qualified high deductible health plan that has:
+(e)  "Qualified health insurance coverage" means at the time the contract is
+entered into or renewed:
+(i)  a health benefit plan and employer contribution level with a combined
+actuarial value at least actuarially equivalent to the combined actuarial
+value of the benchmark plan determined by the Children's Health Insurance
+Program under Subsection 26-40-106(2)(a), and a contribution level of 50% of
+the premium for the employee and the dependents of the employee who reside or
+work in the state, in which:
+(A)  the employer pays at least 50% of the premium for the employee and the
+dependents of the employee who reside or work in the state; and
+(B)  for purposes of calculating actuarial equivalency under this Subsection
+(1)(e)(i):
+(I)  rather that the benchmark plan's deductible, and the benchmark plan's
+out-of-pocket maximum based on income levels:
+(Aa)  the deductible is $750 per individual and $2,250 per family; and
+(Bb)  the out-of-pocket maximum is $3,000 per individual and $9,000 per
+family;
+(II)  dental coverage is not required; and
+(III)  other than Subsection 26-40-106(2)(a), the provisions of Section
+26-40-106 do not apply; or
+(ii) (A)  is a federally qualified high deductible health plan that, at a
+minimum, has a deductible that is either:
 (I)  the lowest deductible permitted for a federally qualified high deductible
-health plan; and
-(II)  an out of pocket maximum that does not exceed three times the amount of
+health plan; or
+(II)  a deductible that is higher than the lowest deductible permitted for a
+federally qualified high deductible health plan, but includes an employer
+contribution to a health savings account in a dollar amount at least equal to
+the dollar amount difference between the lowest deductible permitted for a
+federally qualified high deductible plan and the deductible for the employer
+offered federally qualified high deductible plan;
+(B)  an out-of-pocket maximum that does not exceed three times the amount of
 the annual deductible; and
-(B)  under which the employer pays 75% of the premium for the employee and the
-dependents of the employee; or
-(iii) (A)  provides coverage that is actuarially equivalent to 75% of the
-benefit plan determined under Subsection (1)(e)(i); and
-(B)  under which the employer pays at least 75% of the premium of the employee
-and the dependents of the employee.
+(C)  under which the employer pays 75% of the premium for the employee and the
+dependents of the employee who work or reside in the state.
 (f)  "Subcontractor" has the same meaning provided for in Section 63A-5-208.
 (2)  In accordance with Title 63G, Chapter 6, Utah Procurement Code, the
 director may:
@@ -40,11 +57,12 @@ have done; and
 prohibit the architect or engineer from retaining a sales or agent engineer
 for the necessary design work.
 (3) (a)  Except as provided in Subsection (3)(b), this Subsection (3) applies
-to all contracts entered into by the division or the State Building Board on
-or after July 1, 2009, if:
-(i)  the contract is for design or construction; and
-(ii) (A)  the prime contract is in the amount of $1,500,000 or greater; or
-(B)  a subcontract is in the amount of $750,000 or greater.
+to all design or construction contracts entered into by the division or the
+State Building Board on or after July 1, 2009, and:
+(i)  applies to a prime contractor if the prime contract is in the amount of
+$1,500,000 or greater; and
+(ii)  applies to a subcontractor if the subcontract is in the amount of
+$750,000 or greater.
 (b)  This Subsection (3) does not apply:
 (i)  if the application of this Subsection (3) jeopardizes the receipt of
 federal funds;
@@ -77,7 +95,7 @@ accordance with administrative rules adopted by the division under Subsection
 (B)  A subcontractor is not subject to penalties for the failure of a
 contractor to meet the requirements of Subsection (3)(d)(i).
 (f)  The division shall adopt administrative rules:
-(i)   in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+(i)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
 Act;
 (ii)  in coordination with:
 (A)  the Department of Environmental Quality in accordance with Section
@@ -93,12 +111,14 @@ and
 (A)  the requirements and procedures a contractor must follow to demonstrate
 to the director compliance with this Subsection (3) which shall include:
 (I)  that a contractor will not have to demonstrate compliance with Subsection
-(5)(a) or (b) more than twice in any 12-month period; and
+(3)(d)(i) or (ii) more than twice in any 12-month period; and
 (II)  that the actuarially equivalent determination required in Subsection (1)
 is met by the contractor if the contractor provides the department or division
-with a written statement of actuarial equivalency from either the Utah
-Insurance Department or an actuary selected by the contractor or the
-contractor's insurer; and
+with a written statement of actuarial equivalency from either:
+(Aa)  the Utah Insurance Department;
+(Bb)  an actuary selected by the contractor or the contractor's insurer; or
+(Cc) an underwriter who is responsible for developing the employer group's
+premium rates;
 (B)  the penalties that may be imposed if a contractor or subcontractor
 intentionally violates the provisions of this Subsection (3), which may
 include:
@@ -112,16 +132,28 @@ accordance with Section 63G-6-804 upon the third or subsequent violation; and
 purchase qualified health insurance coverage for an employee and the
 dependents of an employee of the contractor or subcontractor who was not
 offered qualified health insurance coverage during the duration of the
-contract.
+contract; and
+(C)  a website on which the department shall post the benchmark for the
+qualified health insurance coverage identified in Subsection (1)(e)(i).
 (g) (i)  In addition to the penalties imposed under Subsection (3)(f)(iii), a
-contractor or subcontractor who violates the provisions of this section shall
-be liable to the employee for health care costs not covered by insurance.
-(ii)  An employee has a private right of action only against the employee's
+contractor or subcontractor who intentionally violates the provisions of this
+section shall be liable to the employee for health care costs that would have
+been covered by qualified health insurance coverage.
+(ii)  An employer has an affirmative defense to a cause of action under
+Subsection (3)(g)(i) if:
+(A)  the employer relied in good faith on a written statement of actuarial
+equivalency provided by:
+(I)  an actuary; or
+(II)  an underwriter who is responsible for developing the employer group's
+premium rates; or
+(B)  the department determines that compliance with this section is not
+required under the provisions of Subsection (3)(b).
+(iii)  An employee has a private right of action only against the employee's
 employer to enforce the provisions of this Subsection (3)(g).
 (h)  Any penalties imposed and collected under this section shall be deposited
 into the Medicaid Restricted Account created by Section 26-18-402.
-(i)  The failure of a contractor or subcontractor to provide health insurance
-as required by this section:
+(i)  The failure of a contractor or subcontractor to provide qualified health
+insurance coverage as required by this section:
 (i)  may not be the basis for a protest or other action from a prospective
 bidder, offeror, or contractor under Section 63G-6-801 or any other provision
 in Title 63G, Chapter 6, Part 8, Legal and Contractual Remedies; and

@@ -10,9 +10,9 @@ any portion of that county of the first or second class.
 first or second class if within all of the cities, towns, and the
 unincorporated area of the county of the first or second class there is
 imposed a sales and use tax of:
-(a)  .30% under Section 59-12-501;
-(b)  .30% under Section 59-12-1001; or
-(c)  .30% under Section 59-12-1503.
+(a)  .30% under Section 59-12-2213;
+(b)  .30% under Section 59-12-2215; or
+(c)  .30% under Section 59-12-2216.
 (3) (a)  Subject to Subsection (3)(b), if the state imposes a tax under this
 part, the tax rate imposed within a city, town, or the unincorporated area of
 a county of the first or second class is a percentage equal to the difference
@@ -20,22 +20,22 @@ between:
 (i)  .30%; and
 (ii) (A)  for a city within the county of the first or second class, the
 highest tax rate imposed within that city under:
-(I)  Section 59-12-501;
-(II)  Section 59-12-1001; or
-(III)  Section 59-12-1503;
+(I)  Section 59-12-2213;
+(II)  Section 59-12-2215; or
+(III)  Section 59-12-2216;
 (B)  for a town within the county of the first or second class, the highest
 tax rate imposed within that town under:
-(I)  Section 59-12-501;
-(II)  Section 59-12-1001; or
-(III)  Section 59-12-1503; or
+(I)  Section 59-12-2213;
+(II)  Section 59-12-2215; or
+(III)  Section 59-12-2216; or
 (C)  for the unincorporated area of the county of the first or second class,
 the highest tax rate imposed within that unincorporated area under:
-(I)  Section 59-12-501;
-(II)  Section 59-12-1001; or
-(III)  Section 59-12-1503.
+(I)  Section 59-12-2213;
+(II)  Section 59-12-2215; or
+(III)  Section 59-12-2216.
 (b)  For purposes of Subsection (3)(a), if for a city, town, or the
 unincorporated area of a county of the first or second class, the highest tax
-rate imposed under Section 59-12-501, 59-12-1001, or 59-12-1503 within that
+rate imposed under Section 59-12-2213, 59-12-2215, or 59-12-2216 within that
 city, town, or unincorporated area of the county of the first or second class
 is .30%, the state may not impose a tax under this part within that city,
 town, or unincorporated area.

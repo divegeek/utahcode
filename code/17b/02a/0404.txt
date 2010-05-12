@@ -54,7 +54,7 @@ provides for remaining area or county members to be elected;
 (b)  the district holds an election to approve the district's issuance of
 bonds;
 (c)  for a regular district, an included municipality elects, under Subsection
-(4)(a)(i)(B), not to appoint a member to the board of trustees; or
+(4)(a)(ii), not to appoint a member to the board of trustees; or
 (d) (i)  at least 90 days before the municipal general election, a petition is
 filed with the district's board of trustees requesting remaining area members
 or county members, as the case may be, to be elected; and
@@ -75,9 +75,17 @@ municipalities within the district is even; and
 (7) (a)  Except as provided in Subsection (7)(b), each remaining area member
 of the board of trustees of a regular district shall reside within the
 remaining area.
-(b)  Notwithstanding Subsection (7)(a), if the population of the remaining
-area is less than 5% of the total district population, each remaining area
-member shall be chosen from the district at large.
+(b)  Notwithstanding Subsection (7)(a) and subject to Subsection (7)(c), each
+remaining area member shall be chosen from the district at large if:
+(i)  the population of the remaining area is less than 5% of the total
+district population; or
+(ii) (A)  the population of the remaining area is less than 50% of the total
+district population; and
+(B)  the majority of the members of the board of trustees are remaining area
+members.
+(c)  Application of Subsection (7)(b) may not prematurely shorten the term of
+any remaining area member serving the remaining area member's elected or
+appointed term on May 11, 2010.
 (8)  If the election of remaining area or county members of the board of
 trustees is required because of a bond election, as provided in Subsection
 (5)(b):

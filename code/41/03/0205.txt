@@ -3,10 +3,10 @@ against surety -- Loss of bond.
 (1) (a)  Before a dealer's, special equipment dealer's, crusher's, or body
 shop's license is issued, the applicant shall file with the administrator a
 corporate surety bond in the amount of:
-(i)  $50,000 until June 30, 2006, and $75,000 on or after July 1, 2006, for a
+(i)  $50,000 until June 30, 2006, and $75,000 on or after July 1, 2006 , for a
 motor vehicle dealer's license;
-(ii)  $20,000 until June 30, 2006, and $75,000 on or after July 1, 2006, for a
-special equipment dealer's license;
+(ii)  $20,000 until June 30, 2006, and $75,000 on or after July 1, 2006 , for
+a special equipment dealer's license;
 (iii)  $10,000 for a motorcycle, off-highway vehicle, or small trailer
 dealer's or crusher's license; or
 (iv)  $20,000 for a body shop's license.
@@ -17,9 +17,11 @@ and have a rating of at least B+ by the A.M. Best Company.
 (ii)  shall be conditioned upon the  applicant's conducting business as a
 dealer without:
 (A)  fraud;
-(B)  fraudulent representation; or
+(B)  fraudulent representation;
 (C)  violating Subsection 41-3-301(1) which requires a dealer to submit or
-deliver a certificate of title or manufacturer's certificate of origin; and
+deliver a certificate of title or manufacturer's certificate of origin; or
+(D)  violating Subsection 41-3-402(1) which requires payoff of liens on motor
+vehicles traded in; and
 (iii)  may be continuous in form.
 (d)  The total aggregate liability on the bond to all persons making claims,
 regardless of the number of claimants or the number of years a bond remains in
@@ -50,8 +52,8 @@ shall be distributed pro rata to the bond claimants of valid claims.
 approved by the claimants of all valid claims on the bond, the principal or
 surety shall file an interpleader action in the state district court where the
 defaulting dealer was licensed.
-(4) (a)  A person making a claim on the bond shall be awarded attorneys' fees
-in cases successfully prosecuted or settled against the surety or principal if
+(4) (a)  A person making a claim on the bond shall be awarded attorney fees in
+cases successfully prosecuted or settled against the surety or principal if
 the bond has not been depleted.
 (b)  A surety or principal may not be awarded attorney fees that exceed $2,500
 for an interpleader action filed under Subsection (3)(d).

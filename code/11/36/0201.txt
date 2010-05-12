@@ -51,41 +51,17 @@ capital facilities plan.
 (A)  indicate that the local political subdivision or private entity intends
 to prepare or amend a capital facilities plan;
 (B)  describe or provide a map of the geographic area where the proposed
-capital facilities will be located;
-(C)  be:
-(I)  sent to each county in whose unincorporated area and each municipality in
-whose boundaries is located the land on which the proposed facilities will be
-located;
-(II)  sent to each affected entity;
-(III)  sent to the Automated Geographic Reference Center created in Section
-63F-1-506;
-(IV)  sent to the association of governments, established pursuant to an
-interlocal agreement under Chapter 13, Interlocal Cooperation Act, in which
-the facilities are proposed to be located;
-(V) (Aa)  placed on the Utah Public Notice Website created under Section
-63F-1-701, if the local political subdivision:
-(Ii)  is required under Subsection 52-4-203(3) to use that website to provide
-public notice of a meeting; or
-(IIii)  voluntarily chooses to place notice on that website despite not being
-required to do so under Subsection (2)(b)(iii)(C)(V)(Aa)(Ii); or
-(Bb)  sent to the state planning coordinator appointed under Section
-63J-4-202, if the local political subdivision does not provide notice on the
-Utah Public Notice Website under Subsection (2)(b)(iii)(C)(V)(Aa) or for a
-private entity;
-(VI)  sent to the registered agent of the Utah Home Builders Association;
-(VII)  sent to the registered agent of the Utah Association of Realtors; and
-(VIII)  sent to the registered agent of the Utah Chapter of the Associated
-General Contractors of America; and
-(D)  with respect to the notice to an affected entity, invite the affected
-entity to provide information for the local political subdivision or private
-entity to consider in the process of preparing, adopting, and implementing or
-amending a capital facilities plan concerning:
-(I)  impacts that the facilities proposed in the capital facilities plan may
-have on the affected entity; and
-(II)  facilities or uses of land that the affected entity is planning or
-considering that may conflict with the facilities proposed in the capital
-facilities plan.
-(c)  The plan shall identify:
+capital facilities will be located; and
+(C)  subject to Subsection (2)(b)(iv), be posted on the Utah Public Notice
+Website created under Section 63F-1-701.
+(iv)  For a private entity required to post notice on the Utah Public Notice
+Website under Subsection (2)(b)(iii):
+(A)  the private entity shall give notice to the general purpose local
+government in which the private entity's primary business office is located;
+and
+(B)  the general purpose local government described in Subsection
+(2)(b)(iv)(A) shall post the notice on the Utah Public Notice Website.
+(c)  The capital facilities plan shall identify:
 (i)  demands placed upon existing public facilities by new development
 activity; and
 (ii)  the proposed means by which the local political subdivision will meet
@@ -95,29 +71,18 @@ plan if the general plan required by Section 10-9a-401 or 17-27a-401,
 respectively, contains the elements required by Subsection (2)(c).
 (e) (i)  If a local political subdivision chooses to prepare an independent
 capital facilities plan rather than include a capital facilities element in
-the general plan, the local political subdivision shall:
-(A)  before preparing or contracting to prepare or amending or contracting to
-amend the independent capital facilities plan, send written notice:
-(I)  to:
-(Aa)  the registered agent of the Utah Home Builders Association;
-(Bb)  the registered agent of the Utah Association of Realtors; and
-(Cc)  the registered agent of the Utah Chapter of the Associated General
-Contractors of America;
-(II)  stating the local political subdivision's intent to prepare or amend a
-capital facilities plan; and
-(III)  inviting each of the notice recipients to participate in the
-preparation of or amendment to the capital facilities plan; and
-(B)  before adopting or amending the capital facilities plan:
-(I)  give public notice of the plan or amendment according to Subsection
+the general plan, the local political subdivision shall before adopting or
+amending the capital facilities plan:
+(A)  give public notice of the plan or amendment according to Subsection
 (2)(e)(ii)(A), (B), or (C), as the case may be, at least 10 days before the
 date of the public hearing;
-(II)  make a copy of the plan or amendment, together with a summary designed
-to be understood by a lay person, available to the public;
-(III)  place a copy of the plan or amendment and summary in each public
-library within the local political subdivision; and
-(IV)  hold a public hearing to hear public comment on the plan or amendment.
+(B)  make a copy of the plan or amendment, together with a summary designed to
+be understood by a lay person, available to the public;
+(C)  place a copy of the plan or amendment and summary in each public library
+within the local political subdivision; and
+(D)  hold a public hearing to hear public comment on the plan or amendment.
 (ii)  With respect to the public notice required under Subsection
-(2)(e)(i)(B)(I):
+(2)(e)(i)(A):
 (A)  each municipality shall comply with the notice and hearing requirements
 of, and, except as provided in Subsection 11-36-401(4)(f), receive the
 protections of Sections 10-9a-205 and 10-9a-801 and Subsection 10-9a-502(2);
@@ -139,6 +104,21 @@ that:
 upon a reasonable plan; and
 (B)  each applicable notice required by this chapter is given.
 (ii)  Subsection (2)(f)(i) does not apply to private entities.
+(g) (i)  Subject to Subsection (2)(g)(iii), the plan shall include a public
+facility for which an impact fee may be charged or required for a school
+district or charter school if the local political subdivision is aware of the
+planned location of the school district facility or charter school:
+(A)  through the planning process; or
+(B)  after receiving a written request from a school district or charter
+school that the public facility be included in the plan.
+(ii)  If necessary, the plan shall be amended to reflect a public facility
+described in Subsection (2)(g)(i).
+(iii) (A)  In accordance with Subsections 10-9a-305(4) and 17-27a-305(4), a
+local political subdivision may not require a school district or charter
+school to participate in the cost of any roadway or sidewalk.
+(B)  Notwithstanding Subsection (2)(g)(iii)(A), if a school district or
+charter school agrees to build a roadway or sidewalk, the roadway or sidewalk
+shall be included in the plan.
 (3)  In preparing the plan, each local political subdivision shall generally
 consider all revenue sources, including impact fees and anticipated dedication
 of system improvements, to finance the impacts on system improvements.
@@ -163,20 +143,19 @@ the anticipated development activity;
 to the new development activity; and
 (v)  based upon those factors and the requirements of this chapter, identifies
 how the impact fee was calculated.
-(b)  Before preparing or contracting to prepare the written analysis required
-under Subsection (5)(a), each local political subdivision or private entity
-shall provide:
-(i)  public notice; and
-(ii)  written notice:
-(A)  to:
-(I)  the registered agent of the Utah Home Builders Association;
-(II)  the registered agent of the Utah Association of Realtors; and
-(III)  the registered agent of the Utah Chapter of the Associated General
-Contractors of America;
-(B)  indicating the local political subdivision or private entity's intent to
-prepare or contract to prepare a written analysis of an impact fee; and
-(C)  inviting each notice recipient to participate in the preparation of the
-written analysis.
+(b) (i)  Before preparing or contracting to prepare the written analysis
+required under Subsection (5)(a), each local political subdivision or private
+entity shall, subject to Subsection (5)(b)(ii), post a public notice on the
+Utah Public Notice Website created under Section 63F-1-701 indicating the
+local political subdivision or private entity's intent to prepare or contract
+to prepare a written analysis of an impact fee.
+(ii)  For a private entity required to post notice on the Utah Public Notice
+Website under Subsection (5)(b)(i):
+(A)  the private entity shall give notice to the general purpose local
+government in which the private entity's primary business office is located;
+and
+(B)  the general purpose local government described in Subsection
+(5)(b)(ii)(A) shall post the notice on the Utah Public Notice Website.
 (c)  In analyzing whether or not the proportionate share of the costs of
 public facilities are reasonably related to the new development activity, the
 local political subdivision or private entity, as the case may be, shall
@@ -208,12 +187,8 @@ written analysis, designed to be understood by a lay person.
 under Section 11-36-202 on or after July 1, 2000 shall, at least 10 days
 before adopting the enactment:
 (a)  submit a copy of the written analysis required by Subsection (5)(a) and a
-copy of the summary required by Subsection (5)(d) to:
-(i)  each public library within the local political subdivision;
-(ii)  the registered agent of the Utah Home Builders Association;
-(iii)  the registered agent of the Utah Association of Realtors; and
-(iv)  the registered agent of the Utah Chapter of the Associated General
-Contractors of America; and
+copy of the summary required by Subsection (5)(d) to each public library
+within the local political subdivision; and
 (b)  obtain a written certification from the person or entity that prepares
 the written analysis which states as follows:
 "I certify that the attached impact fee analysis:

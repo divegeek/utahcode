@@ -17,7 +17,7 @@ enable the lessee to take delivery.
 (b)  If the goods are held by a bailee to be delivered without being moved,
 the risk of loss passes to the lessee on acknowledgment by the bailee of the
 lessee's right to possession of the goods.
-(c)  In any case not within Subsection (a) or (b), the risk of loss passes to
-the lessee on the lessee's receipt of the goods if the lessor, or, in the case
-of a finance lease, the supplier, is a merchant; otherwise the risk passes to
-the lessee on tender of delivery.
+(c)  In any case not within Subsection (2)(a) or (b), the risk of loss passes
+to the lessee on the lessee's receipt of the goods if the lessor, or, in the
+case of a finance lease, the supplier, is a merchant; otherwise the risk
+passes to the lessee on tender of delivery.

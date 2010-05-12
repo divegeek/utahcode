@@ -4,8 +4,8 @@ disputes -- Cease and desist order -- Enforcement -- Review.
 (1)  For the purpose of enforcing this chapter the department may, upon its
 own motion, or shall, upon the verified complaint of an interested consignor,
 investigate, examine, or inspect any transaction involving:
-(a)  the solicitation, receipt, sale, or attempted sale of  any product of
-agriculture by a dealer or person assuming to act as a  dealer;
+(a)  the solicitation, receipt, sale, or attempted sale of any product of
+agriculture by a dealer or person assuming to act as a dealer;
 (b)  the failure to make a correct account of sales;
 (c)  the intentional making of a false statement about market conditions or
 the condition or quantity of any product of agriculture consigned;
@@ -42,5 +42,5 @@ where the action complained of occurred to enforce its order.
 judicial review of the order.
 (6) (a)  The department may not act upon a verified complaint submitted to the
 department more than six months after the consignor allegedly suffered damage.
-(b)  A livestock claim must be made in writing within 120 days from the date
+(b)  A livestock claim shall be made in writing within 120 days from the date
 of the transaction.

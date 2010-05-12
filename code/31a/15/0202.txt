@@ -70,14 +70,15 @@ property damage, including damages resulting from the loss of use of property,
 if the liability arises out of the manufacture, design, importation,
 distribution, packaging, labeling, lease, or sale of a product.
 (b)  "Product liability" does not include the liability of any person for
-those damages described in Subsection (a) if the product involved was in the
-possession of the person when the incident giving rise to the claim occurred.
+those damages described in Subsection (9)(a) if the product involved was in
+the possession of the person when the incident giving rise to the claim
+occurred.
 (10)  "Purchasing group" means any group which:
 (a)  has as one of its purposes the purchase of liability insurance on a group
 basis;
 (b)  purchases liability insurance only for its group members and only to
 cover their similar or related liability exposure, as described in Subsection
-(c);
+(10)(c);
 (c)  is composed of members whose businesses or activities are similar or
 related with respect to the liability to which members are exposed by virtue
 of any related, similar, or common business, trade, products, services,
@@ -88,7 +89,7 @@ association:
 (a)  whose primary activity consists of assuming and spreading all, or any
 portion of, the liability exposure of its group members;
 (b)  which is organized for the primary purpose of conducting the activity
-described under Subsection (a);
+described under Subsection (11)(a);
 (c)  which:
 (i)  is chartered and licensed as a liability insurance company and authorized
 to engage in the business of insurance under the laws of any state; or
@@ -97,8 +98,8 @@ engage in the business of insurance under the laws of Bermuda or the Cayman
 Islands and, before January 1, 1985, had certified to the insurance
 commissioner of at least one state that it satisfied the capitalization
 requirements of that state;
-(B)  however, any such group as described in Subsection (ii)(A) shall be
-considered to be a risk retention group only if it has been engaged in
+(B)  however, any such group as described in Subsection (11)(c)(ii)(A) shall
+be considered to be a risk retention group only if it has been engaged in
 business continuously since January 1, 1985, and only for the purpose of
 continuing to provide insurance to cover product liability or completed
 operations liability, as these terms were defined in the Product Liability
@@ -125,6 +126,6 @@ liability of its group members; and
 (ii)  reinsurance with respect to the liability of any other risk retention
 group, or any members of the other group, which is engaged in businesses or
 activities so that the group or member meets the requirement described in
-Subsection (f) for membership in the risk retention group which provides the
-reinsurance; and
+Subsection (11)(f) for membership in the risk retention group which provides
+the reinsurance; and
 (h)  the name of which includes the phrase "risk retention group."

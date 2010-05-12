@@ -2,70 +2,71 @@
 service positions -- Coverage of career service provisions.
 (1)  Except as otherwise provided by law or by rules and regulations
 established for federally aided programs, the following positions are exempt
-from the career service provisions of this chapter:
-(a)  the governor, members of the Legislature, and all other elected state
-officers, designated as Schedule AA;
-(b) appointed executives and board or commission executives enumerated in
-Section 67-22-2, and commissioners designated as Schedule AB;
-(c)  all employees and officers in the office and at the residence of the
-governor, designated as Schedule AC;
-(d)  employees who are in a confidential relationship to an agency head or
-commissioner and who report directly to, and are supervised by, a department
-head, commissioner, or deputy director of an agency or its equivalent,
-designated as Schedule AD;
-(e)  unskilled employees in positions requiring little or no specialized skill
-or training, designated as Schedule AE;
-(f)  part-time professional noncareer persons who are paid for any form of
-medical and other professional service and who are not engaged in the
-performance of administrative duties, designated as Schedule AF;
-(g)  employees in the Office of the Attorney General who are under their own
-career service pay plan under Sections 67-5-7 through 67-5-13, designated as
-Schedule AG;
-(h)  teaching staff of all state institutions, including educators as defined
-by Section 53A-25b-102 who are employed by the Utah Schools for the Deaf and
-the Blind, designated as Schedule AH;
-(i)  persons appointed to a position vacated by an employee who has a right to
-return under federal or state law or policy, designated as Schedule AI;
-(j)  noncareer employees compensated for their services on a seasonal or
-contractual basis who are hired for limited periods of less than nine
-consecutive months or who are employed on less than 1/2 time basis, designated
-as Schedule AJ;
-(k)  those employees in a personal and confidential relationship to elected
-officials, designated as Schedule AK;
-(l)  employees appointed to perform work of a limited duration not exceeding
-two years or to perform work with time-limited funding, designated as Schedule
-AL;
-(m)  employees of the Department of Community and Culture whose positions are
+from the career service provisions of this chapter and are designated under
+the following schedules:
+(a)  schedule AA includes the governor, members of the Legislature, and all
+other elected state officers;
+(b)  schedule AB includes appointed executives and board or commission
+executives enumerated in Section 67-22-2;
+(c)  schedule AC includes all employees and officers in:
+(i)  the office and at the residence of the governor;
+(ii)  the Utah Science Technology and Research Initiative (USTAR);
+(iii)  the Public Lands Policy Coordinating Council;
+(iv)  the Office of the State Auditor; and
+(v)  the Office of the State Treasurer;
+(d)  schedule AD includes employees who:
+(i)  are in a confidential relationship to an agency head or commissioner; and
+(ii)  report directly to, and are supervised by, a department head,
+commissioner, or deputy director of an agency or its equivalent;
+(e)  schedule AG includes employees in the Office of the Attorney General who
+are under their own career service pay plan under Sections 67-5-7 through
+67-5-13;
+(f)  schedule AH includes:
+(i)  teaching staff of all state institutions; and
+(ii)  employees of the Utah Schools for the Deaf and the Blind who are:
+(A)  educational interpreters as classified by the department; or
+(B) educators as defined by Section 53A-25b-102;
+(g)  schedule AN includes employees of the Legislature;
+(h)  schedule AO includes employees of the judiciary;
+(i)  schedule AP includes all judges in the judiciary;
+(j)  schedule AQ includes:
+(i)  members of state and local boards and councils appointed by the governor
+and governing bodies of agencies;
+(ii)  other local officials serving in an ex officio capacity; and
+(iii)  officers, faculty, and other employees of state universities and other
+state institutions of higher education;
+(k)  schedule AR includes employees in positions which involve responsibility:
+(i)  for determining policy;
+(ii)  for determining the way in which a policy is carried out; or
+(iii)  of a type not appropriate for career service, as determined by the
+agency head with the concurrence of the executive director;
+(l)  schedule AS includes any other employee:
+(i)  whose appointment is required by statute to be career service exempt;
+(ii)  whose agency is not subject to this chapter; or
+(iii)  whose agency has authority to make rules regarding the performance,
+compensation, and bonuses for its employees;
+(m)  schedule AT includes employees of the Department of Technology Services,
 designated as executive/professional positions by the executive director of
-the Department of Community and Culture with the concurrence of the executive
-director, and employees of the Governor's Office of Economic Development whose
-positions are designated as executive/professional positions by the director
-of the office, designated as Schedule AM;
-(n)  employees of the Legislature, designated as Schedule AN;
-(o)  employees of the judiciary, designated as Schedule AO;
-(p)  all judges in the judiciary, designated as Schedule AP;
-(q)  members of state and local boards and councils appointed by the governor
-and governing bodies of agencies, other local officials serving in an ex
-officio capacity, officers, faculty, and other employees of state universities
-and other state institutions of higher education, designated as Schedule AQ;
-(r)  employees who make statewide policy, designated as Schedule AR;
-(s)  any other employee whose appointment is required by statute to be career
-service exempt, designated as Schedule AS;
-(t)  employees of the Department of Technology Services, designated as
-executive/professional positions by the executive director of the Department
-of Technology Services with the concurrence of the executive director,
-designated as Schedule AT; and
-(u)  patients and inmates employed in state institutions, designated as
-Schedule AU.
+the Department of Technology Services with the concurrence of the executive
+director;
+(n)  schedule AU includes patients and inmates employed in state institutions;
+(o)  schedule IN includes employees who are:
+(i)  hired to work part time on an indefinite basis; and
+(ii)  considered to be temporary noncareer employees; and
+(p)  schedule TL includes employees who are:
+(i)  hired to work on a time-limited basis; and
+(ii)  considered to be temporary noncareer employees.
 (2)  The civil service shall consist of two schedules as follows:
-(a) (i)  Schedule A is the schedule consisting of positions exempted by
-Subsection (1).
-(ii)  Removal from any appointive position under Schedule A, unless otherwise
+(a) (i)  Schedule A is the schedule consisting of positions under Subsection
+(1).
+(ii)  Removal from any appointive position under schedule A, unless otherwise
 regulated by statute, is at the pleasure of the appointing officers without
 regard to tenure.
-(b)  Schedule B is the competitive career service schedule, consisting of all
-positions filled through competitive selection procedures as defined by the
-executive director.
+(b)  Schedule B is the competitive career service schedule, consisting of:
+(i)  all positions filled through competitive selection procedures as defined
+by the executive director; or
+(ii)  positions filled through a department approved on the job examination
+intended to appoint a qualified person with a disability.
 (3) (a)  The executive director, after consultation with the heads of
 concerned executive branch departments and agencies and with the approval of
 the governor, shall allocate positions to the appropriate schedules under this
@@ -84,10 +85,13 @@ state court administrator in accordance with Section 78A-2-107.
 universities and institutions of higher education shall be established as
 provided in Title 53B, Chapters 1, Governance, Powers, Rights, and
 Responsibilities, and 2, Institutions of Higher Education.
-(d)  Unless otherwise provided by law, compensation for all other Schedule A
+(d)  Unless otherwise provided by law, compensation for all other schedule A
 employees shall be established by their appointing authorities, within ranges
 approved by, and after consultation with the executive director of the
 Department of Human Resource Management.
-(5)  All employees of the Office of State Auditor, the Office of State
-Treasurer, and employees who are not exempt under this section are covered by
-the career service provisions of this chapter.
+(5)  An employee who is in a position designated schedule AC and who holds
+career service status on June 30, 2010, shall retain the career service status
+if the employee:
+(a)  remains in the position that the employee is in on June 30, 2010; and
+(b)  does not elect to convert to career service exempt status in accordance
+with a rule made by the department.

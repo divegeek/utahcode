@@ -1,5 +1,6 @@
 16-16-1608.   Approval or abandonment of merger by members.
-(1)  Subject to Subsections (2) and (3), a plan of merger must be approved by:
+(1)  Subject to Subsections (2) and (3), a plan of merger shall be approved
+by:
 (a)  at least two-thirds of the voting power of members present at a members
 meeting called under Subsection 16-16-1607(2); and
 (b)  if the limited cooperative association has investor members, at least a
@@ -14,7 +15,7 @@ at the meeting;
 (3)  The vote required to approve a plan of merger may not be less than the
 vote required for the members of the limited cooperative association to amend
 the articles of organization.
-(4)  Consent in a record to a plan of merger by a member must be delivered to
+(4)  Consent in a record to a plan of merger by a member shall be delivered to
 the limited cooperative association before delivery of articles of merger for
 filing pursuant to Section 16-16-1609 if as a result of the merger the member
 will have:

@@ -25,7 +25,8 @@ Offenses, and Title 76, Chapter 5a, Sexual Exploitation of Children;
 (k)  violation of a protective order or ex parte protective order, as
 described in Section 76-5-108;
 (l)  any offense against property described in Title 76, Chapter 6, Part 1,
-Property Destruction, 2, Burglary and Criminal Trespass, or 3, Robbery;
+Property Destruction, Part 2, Burglary and Criminal Trespass, or Part 3,
+Robbery;
 (m)  possession of a deadly weapon with intent to assault, as described in
 Section 76-10-507;
 (n)  discharge of a firearm from a vehicle, near a highway, or in the
@@ -34,20 +35,42 @@ direction of any person, building, or vehicle, as described in Section
 (o)  disorderly conduct, as defined in Section 76-9-102, if a conviction of
 disorderly conduct is the result of a plea agreement in which the defendant
 was originally charged with any of the domestic violence offenses otherwise
-described in this Subsection (2).  Conviction of disorderly conduct as a
-domestic violence offense, in the manner described in this Subsection (2)(o),
+described in this Subsection (4).  Conviction of disorderly conduct as a
+domestic violence offense, in the manner described in this Subsection (4)(o),
 does not constitute a misdemeanor crime of domestic violence under 18 U.S.C.
 Section 921, and is exempt from the provisions of the federal Firearms Act, 18
 U.S.C. Section 921 et seq.; or
-(p)  child abuse as described in Section 76-5-109.1.
-(5)  "Marital status" means married and living together, divorced, separated,
+(5)  "Jail release agreement" means a written agreement:
+(a)  specifying and limiting the contact a person arrested for a domestic
+violence offense may have with an alleged victim or other specified
+individuals; and
+(b)  specifying other conditions of release from jail as required in
+Subsection 77-36-2.5 (1).
+(6)  "Jail release court order" means a written court order:
+(a)  specifying and limiting the contact a person arrested for a domestic
+violence offense may have with an alleged victim or other specified
+individuals; and
+(b)  specifying other conditions of release from jail as required in
+Subsection 77-36-2.5(1).
+(7)  "Marital status" means married and living together, divorced, separated,
 or not married.
-(6)  "Married and living together" means a man and a woman whose marriage was
+(8)  "Married and living together" means a man and a woman whose marriage was
 solemnized under Section 30-1-4 or 30-1-6 and who are living in the same
 residence.
-(7)  "Not married" means any living arrangement other than married and living
+(9)  "Not married" means any living arrangement other than married and living
 together, divorced, or separated.
-(8)  "Separated" means a man and a woman who have had their marriage
+(10)  "Pretrial protective order" means a written order:
+(a)  specifying and limiting the contact a person who has been charged with a
+domestic violence offense may have with an alleged victim or other specified
+individuals; and
+(b)  specifying other conditions of release pursuant to Subsection
+77-36-2.5(2)(c), Subsection 77-36-2.6(3), or Section 77-36-2.7, pending trial
+in the criminal case.
+(11)  "Sentencing protective order" means a written order of the court as part
+of sentencing in a domestic violence case that limits the contact a person who
+has been convicted of a domestic violence offense may have with a victim or
+other specified individuals pursuant to Sections 77-36-5 and 77-36-5.1.
+(12)  "Separated" means a man and a woman who have had their marriage
 solemnized under Section 30-1-4 or 30-1-6 and who are not living in the same
 residence.
-(9)  "Victim" means a cohabitant who has been subjected to domestic violence.
+(13)  "Victim" means a cohabitant who has been subjected to domestic violence.

@@ -1,21 +1,24 @@
 76-7-305.   Informed consent requirements for abortion -- 24-hour wait
-mandatory -- Emergency exceptions.
-(1)  No abortion may be performed unless a voluntary and informed written
-consent, consistent with Section 8.08 of the American Medical Association's
-Code of Medical Ethics, Current Opinions, and the provisions of this section
-is first obtained by the attending physician from the woman upon whom the
-abortion is to be performed.
-(2)  Except in the case of a medical emergency, consent to an abortion is
-voluntary and informed only if:
-(a)  at least 24 hours prior to the abortion, the physician who is to perform
+mandatory -- Exceptions.
+(1)  A person may not perform an abortion, unless, before performing the
+abortion, the physician who will perform the abortion obtains a voluntary and
+informed written consent from the woman on whom the abortion is performed,
+that is consistent with:
+(a)  Section 8.08 of the American Medical Association's Code of Medical
+Ethics, Current Opinions; and
+(b)  the provisions of this section.
+(2)  Except as provided in Subsection (8), consent to an abortion is voluntary
+and informed only if:
+(a)  at least 24 hours before the abortion, the physician who is to perform
 the abortion, the referring physician, a registered nurse, nurse practitioner,
-advanced practice registered nurse, certified nurse midwife, or physician's
-assistant, in a face-to-face consultation, orally informs the woman:
-(i)  consistent with Subsection (3)(a), of the nature of the proposed abortion
-procedure or treatment, specifically how that procedure will affect the fetus,
-and the risks and alternatives to an abortion procedure or treatment that any
-person would consider material to the decision of whether or not to undergo an
-abortion;
+advanced practice registered nurse, certified nurse midwife, genetic
+counselor, or physician's assistant, in a face-to-face consultation, orally
+informs the woman:
+(i)  consistent with Subsection (3)(a), of:
+(A)  the nature of the proposed abortion procedure;
+(B)  specifically how the procedure described in Subsection (2)(a)(i)(A) will
+affect the fetus; and
+(C)  the risks and alternatives to an abortion procedure or treatment;
 (ii)  of the probable gestational age and a description of the development of
 the unborn child at the time the abortion would be performed;
 (iii)  of the medical risks associated with carrying her child to term; and
@@ -32,27 +35,28 @@ the abortion, the referring physician, or, as specifically delegated by either
 of those physicians, a registered nurse, licensed practical nurse, certified
 nurse-midwife, advanced practice registered nurse, clinical laboratory
 technologist, psychologist, marriage and family therapist, clinical social
-worker, or certified social worker has orally, in a face-to-face consultation,
-informed the pregnant woman that:
+worker, genetic counselor, or certified social worker orally, in a face-to-
+face consultation, informs the pregnant woman that:
 (i)  the Department of Health, in accordance with Section 76-7-305.5,
 publishes printed material and an informational video that:
-(A) provides medically accurate information regarding all abortion procedures
+(A)  provides medically accurate information regarding all abortion procedures
 that may be used;
 (B)  describes the gestational stages of an unborn child; and
 (C)  includes information regarding public and private services and agencies
 available to assist her through pregnancy, at childbirth, and while the child
 is dependent, including private and agency adoption alternatives;
 (ii)  the printed material and a viewing of or a copy of the informational
-video shall be provided to her free of charge;
+video shall be made available to her, free of charge, on the Department of
+Health's website;
 (iii)  medical assistance benefits may be available for prenatal care,
 childbirth, and neonatal care, and that more detailed information on the
 availability of that assistance is contained in the printed materials and the
 informational video published by the Department of Health;
-(iv)  except as provided in Subsection (3)(c), the father of the unborn child
-is legally required to assist in the support of her child, even in instances
-where he has offered to pay for the abortion, and that the Office of Recovery
-Services within the Department of Human Services will assist her in collecting
-child support; and
+(iv)  except as provided in Subsection (3)(c):
+(A)  the father of the unborn child is legally required to assist in the
+support of her child, even if he has offered to pay for the abortion; and
+(B)  the Office of Recovery Services within the Department of Human Services
+will assist her in collecting child support; and
 (v)  she has the right to view an ultrasound of the unborn child, at no
 expense to her, upon her request;
 (c)  the information required to be provided to the pregnant woman under
@@ -68,18 +72,15 @@ provided to the pregnant woman in accordance with Subsection (4); and
 the information required to be provided under Subsections (2)(a) through (e)
 was provided, in accordance with the requirements of those subsections.
 (3) (a)  The alternatives required to be provided under Subsection (2)(a)(i)
-shall include:
+include:
 (i)  a description of adoption services, including private and agency adoption
 methods; and
 (ii)  a statement that it is legal for adoptive parents to financially assist
 in pregnancy and birth expenses.
 (b)  The information described in Subsection (2)(a)(iv) may be omitted from
 the information required to be provided to a pregnant woman under this section
-if:
-(i)  the abortion is performed for a reason described in Subsection
-76-7-302(3)(b)(i); and
-(ii)  due to a serious medical emergency, time does not permit compliance with
-the requirement to provide the information described in Subsection (2)(a)(iv).
+if the abortion is performed for a reason described in Subsection
+76-7-302(3)(b)(i).
 (c)  The information described in Subsection (2)(b)(iv) may be omitted from
 the information required to be provided to a pregnant woman under this section
 if the woman is pregnant as the result of rape.
@@ -92,15 +93,38 @@ regarding:
 unborn child; or
 (iii)  any other matter related to fetal pain.
 (4)  When the informational video described in Section 76-7-305.5 is provided
-to a pregnant woman, the person providing the information shall first request
-that the woman view the video at that time or at another specifically
-designated time and location.  If the woman chooses not to do so, a copy of
-the video shall be provided to her.
+to a pregnant woman, the person providing the information shall:
+(a)  request that the woman view the video at that time or at another
+specifically designated time and location; or
+(b)  if the woman chooses not to view the video at a time described in
+Subsection (4)(a), inform the woman that she can access the video on the
+Department of Health's website.
 (5)  When a serious medical emergency compels the performance of an abortion,
 the physician shall inform the woman prior to the abortion, if possible, of
 the medical indications supporting the physician's judgment that an abortion
 is necessary.
-(6)  Any physician who violates the provisions of this section:
+(6)  If an ultrasound is performed on a woman before an abortion is performed,
+the person who performs the ultrasound, or another qualified person, shall:
+(a)  inform the woman that the ultrasound images will be simultaneously
+displayed in a manner to permit her to:
+(i)  view the images, if she chooses to view the images; or
+(ii)  not view the images, if she chooses not to view the images;
+(b)  simultaneously display the ultrasound images in order to permit the woman
+to:
+(i)  view the images, if she chooses to view the images; or
+(ii)  not view the images, if she chooses not to view the images;
+(c)  inform the woman that, if she desires, the person performing the
+ultrasound, or another qualified person shall provide a detailed description
+of the ultrasound images, including:
+(i)  the dimensions of the unborn child;
+(ii)  the presence of cardiac activity in the unborn child, if present and
+viewable; and
+(iii)  the presence of external body parts or internal organs, if present and
+viewable; and
+(d)  provide the detailed description described in Subsection (6)(c), if the
+woman requests it.
+(7)  In addition to the criminal penalties described in this part, a physician
+who violates the provisions of this section:
 (a)  is guilty of unprofessional conduct as defined in Section 58-67-102 or
 58-68-102; and
 (b)  shall be subject to:
@@ -108,19 +132,28 @@ is necessary.
 medicine and surgery in accordance with Section 58-67-401 or 58-68-401; and
 (ii)  administrative penalties in accordance with Section 58-67-402 or
 58-68-402.
-(7)  A physician is not guilty of violating this section for failure to
-furnish any of the information described in Subsection (2), if:
-(a) the physician can demonstrate by a preponderance of the evidence that the
+(8)  A physician is not guilty of violating this section for failure to
+furnish any of the information described in Subsection (2), or for failing to
+comply with Subsection (6), if:
+(a)  the physician can demonstrate by a preponderance of the evidence that the
 physician reasonably believed that furnishing the information would have
 resulted in a severely adverse effect on the physical or mental health of the
 pregnant woman;
 (b)  in the physician's professional judgment, the abortion was necessary to
-save the pregnant woman's life;
+avert:
+(i)  the death of the woman on whom the abortion is performed; or
+(ii)  a serious risk of substantial and irreversible impairment of a major
+bodily function of the woman on whom the abortion is performed;
 (c)  the pregnancy was the result of rape or rape of a child, as defined in
 Sections 76-5-402 and 76-5-402.1;
 (d)  the pregnancy was the result of incest, as defined in Subsection
 76-5-406(10) and Section 76-7-102; or
-(e)  the pregnant woman was 14 years of age or younger.
-(8)  A physician who complies with the provisions of this section and Section
+(e)  at the time of the abortion, the pregnant woman was 14 years of age or
+younger.
+(9)  A physician who complies with the provisions of this section and Section
 76-7-304.5 may not be held civilly liable to the physician's patient for
 failure to obtain informed consent under Section 78B-3-406.
+(10) (a)  The Department of Health shall provide an ultrasound, in accordance
+with the provisions of Subsection (2)(b), at no expense to the pregnant woman.
+(b)  A local health department shall refer a person who requests an ultrasound
+described in Subsection (10)(a) to the Department of Health.

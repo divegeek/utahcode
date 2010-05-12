@@ -1,7 +1,7 @@
 78B-6-501.   Eminent domain -- Uses for which right may be exercised.
 Subject to the provisions of this part, the right of eminent domain may be
 exercised on behalf of the following public uses:
-(1)  all public uses authorized by the Government of the United States;
+(1)  all public uses authorized by the federal government;
 (2)  public buildings and grounds for the use of the state, and all other
 public uses authorized by the Legislature;
 (3) (a)  public buildings and grounds for the use of any county, city, town,
@@ -29,9 +29,9 @@ irrigation purposes, or for the draining and reclaiming of lands, or for the
 floating of logs and lumber on streams not navigable, or for solar evaporation
 ponds and other facilities for the recovery of minerals in solution;
 (6) (a)  roads, railroads, tramways, tunnels, ditches, flumes, pipes, and
-dumping places to facilitate the milling, smelting, or other reduction of
-ores, or the working of mines, quarries, coal mines, or mineral deposits
-including minerals in solution;
+dumping places to access or facilitate the milling, smelting, or other
+reduction of ores, or the working of mines, quarries, coal mines, or mineral
+deposits including minerals in solution;
 (b)  outlets, natural or otherwise, for the deposit or conduct of tailings,
 refuse or water from mills, smelters or other works for the reduction of ores,
 or from mines, quarries, coal mines or mineral deposits including minerals in
@@ -48,12 +48,17 @@ in solution; and
 quarries, coal mines, mineral deposits, mills, smelters, or other places for
 the reduction of ores, or any place for the flow, deposit or conduct of
 tailings or refuse matter;
-(7)  byroads leading from highways to residences and farms;
+(7)  byroads leading from a highway to an existing or proposed:
+(a)  residence;
+(b)  development; or
+(c)  farm;
 (8)  telegraph, telephone, electric light and electric power lines, and sites
 for electric light and power plants;
-(9)  sewerage of any city or town, or of any settlement of not less than 10
-families, or of any public building belonging to the state, or of any college
-or university;
+(9)  sewage service for:
+(a)  a city, town, or any settlement of not less than 10 families;
+(b)  an existing or proposed development;
+(c)  a public building belonging to the state; or
+(d)  a college or university;
 (10)  canals, reservoirs, dams, ditches, flumes, aqueducts, and pipes for
 supplying and storing water for the operation of machinery for the purpose of
 generating and transmitting electricity for power, light or heat;

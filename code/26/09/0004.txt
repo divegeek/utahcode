@@ -1,4 +1,4 @@
-26-9-4.   Rural Health Care Facilities Fund -- Source of revenues --
+26-9-4.   Rural Health Care Facilities Account -- Source of revenues --
 Interest -- Distribution of revenues -- Expenditure of revenues -- Unexpended
 revenues lapse into the General Fund.
 (1)  As used in this section:
@@ -7,27 +7,27 @@ revenues lapse into the General Fund.
 1395x.
 (c)   "Fiscal year" means a one-year period beginning on July 1 of each year.
 (d)  "Freestanding urgent care center" is as defined in Section 59-12-801.
-(e)  "Fund" means the Rural Health Care Facilities Fund created by this
-section.
-(f)  "Nursing care facility" is as defined in Section 26-21-2.
-(g)  "Rural city hospital" is as defined in Section 59-12-801.
-(h)  "Rural county health care facility" is as defined in Section 59-12-801.
-(i)  "Rural county hospital" is as defined in Section 59-12-801.
-(j)  "Rural county nursing care facility" is as defined in Section 59-12-801.
-(k)  "Rural emergency medical services" is as defined in Section 59-12-801.
-(l)  "Rural health clinic" is as defined in 42 U.S.C. Sec. 1395x.
-(2)  There is created a general fund restricted account known as the Rural
-Health Care Facilities Fund.
-(3) (a)  The fund shall be funded by amounts appropriated by the Legislature.
-(b)  Any interest earned on the fund shall be deposited into the General Fund.
-(4)  Subject to Subsection (5), the State Tax Commission shall for a fiscal
-year distribute monies deposited into the fund to each:
+(e)  "Nursing care facility" is as defined in Section 26-21-2.
+(f)  "Rural city hospital" is as defined in Section 59-12-801.
+(g)  "Rural county health care facility" is as defined in Section 59-12-801.
+(h)  "Rural county hospital" is as defined in Section 59-12-801.
+(i)  "Rural county nursing care facility" is as defined in Section 59-12-801.
+(j)  "Rural emergency medical services" is as defined in Section 59-12-801.
+(k)  "Rural health clinic" is as defined in 42 U.S.C. Sec. 1395x.
+(2)  There is created a restricted account within the General Fund known as
+the "Rural Health Care Facilities Account."
+(3) (a)  The restricted account shall be funded by amounts appropriated by the
+Legislature.
+(b)  Any interest earned on the restricted account shall be deposited into the
+General Fund.
+(4)  Subject to Subsections (5) and (6), the State Tax Commission shall for a
+fiscal year distribute money deposited into the restricted account to each:
 (a)  county legislative body of a county that, on January 1, 2007, imposes a
 tax in accordance with Section 59-12-802; or
 (b)  city legislative body of a city that, on January 1, 2007, imposes a tax
 in accordance with Section 59-12-804.
-(5) (a)  For purposes of the distribution required by Subsection (4), the
-State Tax Commission shall:
+(5) (a) Subject to Subsection (6), for purposes of the distribution required
+by Subsection (4), the State Tax Commission shall:
 (i)  estimate for each county and city described in Subsection (4) the amount
 by which the revenues collected from the taxes imposed under Sections
 59-12-802 and 59-12-804 for fiscal year 2005-06 would have been reduced had:
@@ -42,14 +42,56 @@ with Subsection (5)(a)(i) by $555,000; and
 (iii)  distribute to each county and city described in Subsection (4) an
 amount equal to the product of:
 (A)  the percentage calculated in accordance with Subsection (5)(a)(ii); and
-(B)  the amount appropriated by the Legislature to the fund for the fiscal
-year.
+(B)  the amount appropriated by the Legislature to the restricted account for
+the fiscal year.
 (b)  The State Tax Commission shall make the estimations, calculations, and
 distributions required by Subsection (5)(a) on the basis of data collected by
 the State Tax Commission.
-(6) (a)  Subject to Subsection (6)(b), a county legislative body shall
-distribute the monies the county legislative body receives in accordance with
-Subsection (5):
+(6)  If a county legislative body repeals a tax imposed under Section
+59-12-802 or a city legislative body repeals a tax imposed under Section
+59-12-804:
+(a)  the commission shall determine in accordance with Subsection (5) the
+distribution that, but for this Subsection (6), the county legislative body or
+city legislative body would receive; and
+(b)  after making the determination required by Subsection (6)(a), the
+commission shall:
+(i)  if the effective date of the repeal of a tax imposed under Section
+59-12-802 or 59-12-804 is October 1:
+(A) (I)  distribute to the county legislative body or city legislative body
+25% of the distribution determined in accordance with Subsection (6)(a); and
+(II)  deposit 75% of the distribution determined in accordance with Subsection
+(6)(a) into the General Fund; and
+(B)  beginning with the first fiscal year after the effective date of the
+repeal and for each subsequent fiscal year, deposit the entire amount of the
+distribution determined in accordance with Subsection (6)(a) into the General
+Fund;
+(ii)  if the effective date of the repeal of a tax imposed under Section
+59-12-802 or 59-12-804 is January 1:
+(A) (I)  distribute to the county legislative body or city legislative body
+50% of the distribution determined in accordance with Subsection (6)(a); and
+(II)  deposit 50% of the distribution determined in accordance with Subsection
+(6)(a) into the General Fund; and
+(B)  beginning with the first fiscal year after the effective date of the
+repeal and for each subsequent fiscal year, deposit the entire amount of the
+distribution determined in accordance with Subsection (6)(a) into the General
+Fund;
+(iii)  if the effective date of the repeal of a tax imposed under Section
+59-12-802 or 59-12-804 is April 1:
+(A) (I)  distribute to the county legislative body or city legislative body
+75% of the distribution determined in accordance with Subsection (6)(a); and
+(II)  deposit 25% of the distribution determined in accordance with Subsection
+(6)(a) into the General Fund; and
+(B)  beginning with the first fiscal year after the effective date of the
+repeal and for each subsequent fiscal year, deposit the entire amount of the
+distribution determined in accordance with Subsection (6)(a) into the General
+Fund; or
+(iv)  if the effective date of the repeal of a tax imposed under Section
+59-12-802 or 59-12-804 is July 1, beginning on that effective date and for
+each subsequent fiscal year, deposit the entire amount of the distribution
+determined in accordance with Subsection (6)(a) into the General Fund.
+(7) (a)  Subject to Subsection (7)(b), a county legislative body shall
+distribute the money the county legislative body receives in accordance with
+Subsection (5) or (6):
 (i)  for a county of the third, fourth, or fifth class, to fund rural county
 health care facilities in that county; and
 (ii)  for a county of the sixth class, to fund:
@@ -58,32 +100,33 @@ health care facilities in that county; and
 (C)  freestanding urgent care centers in that county;
 (D)  rural county health care facilities in that county;
 (E)  rural health clinics in that county; or
-(F)  a combination of Subsections (6)(a)(ii)(A) through (E).
-(b)  A county legislative body shall distribute a percentage of the monies the
-county legislative body receives in accordance with Subsection (5) to each
-center, clinic, facility, or service described in Subsection (6)(a) equal to
-the same percentage that the county legislative body distributes to that
+(F)  a combination of Subsections (7)(a)(ii)(A) through (E).
+(b)  A county legislative body shall distribute a percentage of the money the
+county legislative body receives in accordance with Subsection (5) or (6) to
+each center, clinic, facility, or service described in Subsection (7)(a) equal
+to the same percentage that the county legislative body distributes to that
 center, clinic, facility, or service in accordance with Section 59-12-803 for
 the calendar year ending on the December 31 immediately preceding the first
 day of the fiscal year for which the county legislative body receives the
-distribution in accordance with Subsection (5).
+distribution in accordance with Subsection (5) or (6).
 (c)  A center, clinic, facility, or service that receives a distribution in
-accordance with this Subsection (6) shall expend that distribution for the
-same purposes for which monies generated by a tax under Section 59-12-802 may
+accordance with this Subsection (7) shall expend that distribution for the
+same purposes for which money generated by a tax under Section 59-12-802 may
 be expended.
-(7) (a)  Subject to Subsection (7)(b), a city legislative body shall
-distribute the monies the city legislative body receives in accordance with
-Subsection (5) to fund rural city hospitals in that city.
-(b)  A city legislative body shall distribute a percentage of the monies the
-city legislative body receives in accordance with Subsection (5) to each rural
-city hospital described in Subsection (7)(a) equal to the same percentage that
-the city legislative body distributes to that rural city hospital in
-accordance with Section 59-12-805 for the calendar year ending on the December
-31 immediately preceding the first day of the fiscal year for which the city
-legislative body receives the distribution in accordance with Subsection (5).
+(8) (a)  Subject to Subsection (8)(b), a city legislative body shall
+distribute the money the city legislative body receives in accordance with
+Subsection (5) or (6) to fund rural city hospitals in that city.
+(b)  A city legislative body shall distribute a percentage of the money the
+city legislative body receives in accordance with Subsection (5) or (6) to
+each rural city hospital described in Subsection (8)(a) equal to the same
+percentage that the city legislative body distributes to that rural city
+hospital in accordance with Section 59-12-805 for the calendar year ending on
+the December 31 immediately preceding the first day of the fiscal year for
+which the city legislative body receives the distribution in accordance with
+Subsection (5) or (6).
 (c)  A rural city hospital that receives a distribution in accordance with
-this Subsection (7) shall expend that distribution for the same purposes for
-which monies generated by a tax under Section 59-12-804 may be expended.
-(8)  Any monies remaining in the Rural Health Care Facilities Fund at the end
-of a fiscal year after the State Tax Commission makes the distributions
+this Subsection (8) shall expend that distribution for the same purposes for
+which money generated by a tax under Section 59-12-804 may be expended.
+(9)  Any money remaining in the Rural Health Care Facilities Account at the
+end of a fiscal year after the State Tax Commission makes the distributions
 required by this section shall lapse into the General Fund.

@@ -36,10 +36,10 @@ agency;
 (j)  an education provider certified by the Division of Real Estate under
 Section 61-2c-204.1;
 (k)  an institution that offers aviation training if the institution:
-(i) (A)  is approved under Part 141, Federal Aviation Regulations, 14 C.F.R.
-Chapter 141; or
-(B)  provides aviation training under Part 61, Federal Aviation Regulations,
-14 C.F.R. Chapter 61; and
+(i) (A)  is approved under Federal Aviation Regulations, 14 C.F.R. Part 141;
+or
+(B)  provides aviation training under Federal Aviation Regulations, 14 C.F.R.
+Part 61; and
 (ii)  exclusively offers aviation training that a student fully receives
 within 24 hours after the student pays any tuition, fee, or other charge for
 the aviation training; and
@@ -54,7 +54,7 @@ request corrective action.
 (b)  Subsection (2)(a) does not apply to an institution exempted under
 Subsection (1)(e).
 (3)  An institution, branch, extension, or facility operating within the state
-that is affiliated with an institution operating in another state must be
+that is affiliated with an institution operating in another state shall be
 separately approved by the affiliate's regional or national accrediting agency
 to qualify for the exemption described in Subsection (1)(e).
 (4)  For purposes of Subsection (1)(f), a business organization, trade or

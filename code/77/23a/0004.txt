@@ -9,9 +9,9 @@ procures any other person to intercept or endeavor to intercept any wire,
 electronic, or oral communication;
 (ii)  intentionally or knowingly uses, endeavors to use, or procures any other
 person to use or endeavor to use any electronic, mechanical, or other device
-to intercept any oral communication, when   the device is affixed to, or
+to intercept any oral communication, when the device is affixed to, or
 otherwise transmits a signal through a wire, cable, or other like connection
-used in wire communication or when   the device transmits communications by
+used in wire communication or when the device transmits communications by
 radio, or interferes with the transmission of the communication;
 (iii)  intentionally or knowingly discloses or endeavors to disclose to any
 other person the contents of any wire, electronic, or oral communication,
@@ -102,7 +102,7 @@ interference; or
 communication made through a system that utilizes frequencies monitored by
 individuals engaged in the provision or the use of the system, if the
 communication is not scrambled or encrypted.
-(9) (a)  Except under Subsection (b), a person or entity providing an
+(9) (a)  Except under Subsection (9)(b), a person or entity providing an
 electronic communications service to the public may not intentionally divulge
 the contents of any communication, while in transmission of that service, to
 any person or entity other than an addressee or intended recipient of the
@@ -117,8 +117,8 @@ forward the communication to its destination; or
 (iv)  that is inadvertently obtained by the service provider and appears to
 pertain to the commission of a crime, if the divulgence is made to a law
 enforcement agency.
-(10) (a)  Except under Subsection (b) or Subsection (11), a violation of
-Subsection (1) is a third degree felony.
+(10) (a)  Except under Subsection (10)(b) or (11), a violation of Subsection
+(1) is a third degree felony.
 (b)  If the offense is a first offense under this section and is not for a
 tortious or illegal purpose or for purposes of direct or indirect commercial
 advantage or private commercial gain, and the wire or electronic communication
@@ -153,7 +153,7 @@ Subpart D, Part 74, Rules of the Federal Communication Commission, that is not
 scrambled or encrypted and the conduct in violation of this chapter is not for
 a tortious or illegal purpose or for purposes of direct or indirect commercial
 advantage or private commercial gain.
-(b)  In an action under Subsection (a):
+(b)  In an action under Subsection (11)(a):
 (i)  if the violation of this chapter is a first offense under this section
 and the person is not found liable in a civil action under Section 77-23a-11,
 the state may seek appropriate injunctive relief;
@@ -162,5 +162,5 @@ this section, or the person has been found liable in any prior civil action
 under Section 77-23a-11, the person is subject to a mandatory $500 civil
 penalty.
 (c)  The court may use any means within its authority to enforce an injunction
-issued under Subsection (b)(i), and shall impose a civil fine of not less than
-$500 for each violation of the injunction.
+issued under Subsection (11)(b)(i), and shall impose a civil fine of not less
+than $500 for each violation of the injunction.

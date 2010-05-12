@@ -4,9 +4,9 @@ business day after the individual assents to it, unless the agreement does not
 comply with Subsection (2) or Section 13-42-119 or Section 13-42-128, in which
 event the individual may cancel the agreement within 30 days after the
 individual assents to it.  To exercise the right to cancel, the individual
-must give notice in a record to the provider.  Notice by mail is given when
+shall give notice in a record to the provider.  Notice by mail is given when
 mailed.
-(2)  An agreement must be accompanied by a form that contains in bold-face
+(2)  An agreement shall be accompanied by a form that contains in bold-face
 type, surrounded by bold black lines:
 Notice of Right to Cancel
 You may cancel this agreement, without any penalty or obligation, at any time
@@ -33,7 +33,7 @@ __________________________________
 (3)  If a personal financial emergency necessitates the disbursement of an
 individual's money to one or more of the individual's creditors before the
 expiration of three days after an agreement is signed, an individual may waive
-the right to cancel.  To waive the right, the individual must send or deliver
+the right to cancel.  To waive the right, the individual shall send or deliver
 a signed, dated statement in the individual's own words describing the
-circumstances that necessitate a waiver.  The waiver must explicitly waive the
-right to cancel.  A waiver by means of a standard form record is void.
+circumstances that necessitate a waiver.  The waiver shall explicitly waive
+the right to cancel.  A waiver by means of a standard form record is void.

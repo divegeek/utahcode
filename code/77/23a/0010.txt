@@ -139,8 +139,8 @@ application.
 (9) (a)  The contents of any wire, electronic, or oral communication
 intercepted by any means authorized by this chapter shall, if possible, be
 recorded on tape or wire or other comparable device.  The recording of the
-contents of any wire, electronic, or oral communication under this subsection
-shall be done so as to protect the recording from editing or other
+contents of any wire, electronic, or oral communication under this Subsection
+(9)(a) shall be done so as to protect the recording from editing or other
 alterations.  Immediately upon the expiration of the period of an order, or
 extension, the recordings shall be made available to the judge issuing the
 order and sealed under his directions.  Custody of the recordings shall be
@@ -148,10 +148,10 @@ where the judge orders.  The recordings may not be destroyed, except upon an
 order of the issuing or denying judge.  In any event, it shall be kept for 10
 years.  Duplicate recordings may be made for use or disclosure under
 Subsections 77-23a-9(1) and (2) for investigations.  The presence of the seal
-provided by this subsection, or a satisfactory explanation for the absence of
-one, is a prerequisite for the use or disclosure of the contents of any wire,
-electronic, or oral communication or evidence derived from it under Subsection
-77-23a-9(3).
+provided by this Subsection (9)(a), or a satisfactory explanation for the
+absence of one, is a prerequisite for the use or disclosure of the contents of
+any wire, electronic, or oral communication or evidence derived from it under
+Subsection 77-23a-9(3).
 (b)  Applications made and orders granted under this chapter shall be sealed
 by the judge.  Custody of the applications and orders shall be where the judge
 directs.  The applications and orders shall be disclosed only upon a showing
@@ -177,7 +177,7 @@ to the person or his counsel for inspection the portions of the intercepted
 communications, applications, and orders the judge determines to be in the
 interest of justice.  On an ex parte showing of good cause to a judge of
 competent jurisdiction the serving of the inventory required by this
-subsection may be postponed.
+Subsection (9)(e) may be postponed.
 (10)  The contents of any intercepted wire, electronic, or oral communication,
 or evidence derived from any of them, may not be received in evidence or
 otherwise disclosed in any trial, hearing, or other proceeding in a federal or
@@ -209,16 +209,16 @@ for inspection portions of the intercepted communication or evidence derived
 from them as the judge determines to be in the interests of justice.
 (c)  In addition to any other right to appeal, the state or its political
 subdivision may appeal from an order granting a motion to suppress made under
-Subsection (a), or the denial of an application for an order of approval, if
-the attorney bringing the appeal certifies to the judge or other official
+Subsection (11)(a), or the denial of an application for an order of approval,
+if the attorney bringing the appeal certifies to the judge or other official
 granting the motion or denying the application that the appeal is not taken
 for the purposes of delay.  The appeal shall be taken within 30 days after the
 date the order was entered and shall be diligently prosecuted.
-(12)  The requirements of Subsections (1)(b)(ii), and (2)(d), and (3)(b) of
-this section relating to the specification of the facilities from which, or
-the place where, the communication is to be intercepted do not apply if:
+(12)  The requirements of Subsections (1)(b)(ii), (2)(d), and (3)(b) relating
+to the specification of the facilities from which, or the place where, the
+communication is to be intercepted do not apply if:
 (a)  in the case of an applicant regarding the interception of an oral
-communication;
+communication:
 (i)  the application is by a law enforcement officer and is approved by the
 state attorney general, a deputy attorney general, a county attorney or
 district attorney, or a deputy county attorney or deputy district attorney;

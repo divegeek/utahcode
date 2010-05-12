@@ -10,10 +10,10 @@ discretion of the Multicounty Appraisal Trust.
 (c) (i)  "County parcel count" means the total number of residential parcels,
 commercial parcels, and other parcels within a county.
 (ii)  "County parcel count" does not include a county's parcel factor as
-described in Subsection 59-2-1603(3)(d).
+described in Subsection 59-2-1603(3)(c).
 (d)  "Factored parcel count" means the product of:
 (i)  a county's parcel count; and
-(ii)  the county's class factor described in Subsection 59-2-1603(3)(e).
+(ii)  the county's class factor described in Subsection 59-2-1603(3)(d).
 (e)  "Multicounty Appraisal Trust" means the Multicounty Appraisal Trust
 created by interlocal agreement by all 29 counties in the state.
 (2)  For a calendar year beginning on or after January 1, 2009, before

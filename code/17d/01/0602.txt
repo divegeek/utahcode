@@ -1,11 +1,50 @@
 17D-1-602.   Limitations on adoption of withdrawal, dissolution, or
 discontinuance resolution.
-(1)  A resolution under Subsection 17D-1-601(1) or (2) to approve the
+(1) (a)  A resolution under Subsection 17D-1-601(1) or (2) to approve the
 withdrawal of an area from a special service district or the dissolution of a
 special service district may not be adopted if:
-(a)  any bond, note, or other obligation of the special service district is
+(i)  any bond, note, or other obligation of the special service district is
 outstanding and unpaid; or
-(b)  any contractual obligation to provide service exists.
+(ii)  any contractual obligation to provide service exists.
+(b)  Notwithstanding Subsection (1)(a)(i), a resolution approving the
+withdrawal of an area from a special service district may be adopted if:
+(i)  each holder of or obligee under each outstanding and unpaid bond, note,
+or other obligation consents to the withdrawal;
+(ii)  the bond, note, or other obligation is payable from and secured by
+solely:
+(A)  federal mineral lease payments appropriated to the special service
+district; or
+(B)  other special service district revenue, the amount of which is not
+subject to reduction as a result of the withdrawal;
+(iii)  adequate provision is made for payment of the bond, note, or other
+obligation in accordance with the terms of the bond, note, or other
+obligation, respectively; or
+(iv) (A)  the area proposed to be withdrawn has been annexed by a municipality
+that receives from another special service district the service provided by
+the special service district from which the area is proposed to be withdrawn;
+(B)  the other special service district adopts a resolution proposing to annex
+the area;
+(C)  the municipality adopts a resolution consenting to the area being
+included within the proposed annexing special service district;
+(D)  the proposed annexing special service district and the special service
+district from which the area is proposed to be withdrawn make adequate
+arrangements for the proposed annexing special service district to provide the
+service to the area; and
+(E)  for a special service district from which the area to be withdrawn has
+any bond, note, or other obligation outstanding that is secured by revenue
+derived from taxes, rates, fees, or other charges paid by the owners of
+property within the area proposed to be withdrawn:
+(I)  the proposed annexing special service district agrees to provide for the
+payment of a proportional share of the amounts payable with respect to the
+bond, note, or other obligation, on terms that are mutually agreeable to the
+proposed annexing special service district and the special service district
+from which the area is to be withdrawn; and
+(II)  the withdrawal of the area and the payment arrangement under Subsection
+(1)(b)(iv)(E)(I) do not violate any covenant of any agreement or instrument
+with respect to the bond, note, or other obligation.
+(c)  Notwithstanding Subsection (1)(a)(ii), a resolution to withdraw an area
+from a special service district may be adopted if all parties to the contract
+consent to the withdrawal.
 (2) (a)  A resolution under Subsection 17D-1-601(3) to discontinue a service
 may not be adopted if the special service district:
 (i)  has an outstanding bond payable in whole or in part from fees and charges

@@ -35,7 +35,7 @@ Criminal Investigations and Technical Services Division, if the background
 check of the applicant is being conducted for the purpose of:
 (i)  licensing a prospective foster home; or
 (ii)  approving a prospective adoptive placement of a child in state custody.
-(g) Except as provided in Subsection (1)(h), in addition to the other
+(g)  Except as provided in Subsection (1)(h), in addition to the other
 requirements of this section, if the background check of an applicant
 described in Subsection (1)(a) is being conducted for the purpose of licensing
 a prospective foster home or approving a prospective adoptive placement of a
@@ -259,3 +259,5 @@ Substances Act;
 Substance Precursor Act; or
 (viii)  an offense described in Title 58, Chapter 37d, Clandestine Drug Lab
 Act.
+(9)  If any provision of this section conflicts with a provision of Section
+62A-2-120.5, the conflicting provision of Section 62A-2-120.5 shall govern.

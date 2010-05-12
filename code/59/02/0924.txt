@@ -98,12 +98,16 @@ county assessor in accordance with Part 3, County Assessment.
 (vii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
 Act, the commission may prescribe rules for calculating redevelopment
 adjustments for a calendar year.
-(viii) (A)  For purposes of Subsection (3)(c)(i), for a calendar year
+(viii) (A) (I)  For purposes of Subsection (3)(c)(i), for a calendar year
 beginning on or after January 1, 2010, a taxing entity's ad valorem property
 tax revenues budgeted for the prior year shall be decreased by an amount of
 revenue equal to the five-year average of the most recent prior five years of
 redemptions as reported on the county treasurer's final annual settlement
 required under Subsection 59-2-1365(2).
+(II)  A decrease under Subsection (3)(c)(viii)(A)(I) does not apply to the
+multicounty assessing and collecting levy authorized in Subsection
+59-2-1602(2)(a), the certified revenue levy, or the minimum basic tax rate
+established in Section 53A-17a-135.
 (B)  For the calendar year beginning on January 1, 2010 and ending on December
 31, 2010, a taxing entity is exempt from the notice and public hearing
 provisions of Section 59-2-919 if the taxing entity budgets an increased

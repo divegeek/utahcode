@@ -32,12 +32,14 @@ exemption.
 (e)  An employee of the Department of Workforce Services who is covered under
 another retirement system allowed under Title 35A, Chapter 4, Employment
 Security Act.
-(f) (i)  An employee who is employed on or after July 1, 2009 with an employer
-that has elected, prior to July 1, 2009, to be excluded from participation in
-this system under Subsection 49-13-202(2)(c).
+(f) (i)  An employee who is employed with an employer that has elected to be
+excluded from participation in this system under Subsection 49-13-202(5),
+effective on or after the date of the employer's election under Subsection
+49-13-202(5).
 (ii)  Notwithstanding the provisions of this Subsection (1)(f), any
 eligibility for service credit earned by an employee under this chapter before
-July 1, 2009 is not affected under this Subsection (1)(f).
+the date of the election under Subsection 49-13-202(5) is not affected under
+this Subsection (1)(f).
 (2)  Upon filing a written request for exemption with the office, the
 following employees shall be exempt from coverage under this system:
 (a)  a full-time student or the spouse of a full-time student and individuals
@@ -56,11 +58,14 @@ time or part-time board or commission;
 49-11-406;
 (k)  a person appointed as a city manager or chief city administrator or
 another person employed by a municipality, county, or other political
-subdivision, who is an at-will employee; and
+subdivision, who is an at-will employee;
 (l)  an employee of an interlocal cooperative agency created under Title 11,
 Chapter 13, Interlocal Cooperation Act, who is engaged in a specialized trade
 customarily provided through membership in a labor organization that provides
-retirement benefits to its members.
+retirement benefits to its members; and
+(m)  an employee of the Utah Science Technology and Research Initiative
+created under Title 63M, Chapter 2, Utah Technology Research and Governing
+Authority Act.
 (3) (a)  Each participating employer shall prepare a list designating those
 positions eligible for exemption under Subsection (2).
 (b)  An employee may not be exempted unless the employee is employed in a

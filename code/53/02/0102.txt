@@ -18,8 +18,7 @@ any substance that because of its quantity, concentration, or physical,
 chemical, or infectious characteristics presents a direct and immediate threat
 to public safety or the environment and requires immediate action to mitigate
 the threat.
-(8)  "Internal disturbance" means a riot, prison break, disruptive terrorism,
-or strike.
+(8)  "Internal disturbance" means a riot, prison break, terrorism, or strike.
 (9)  "Natural phenomena" means any earthquake, tornado, storm, flood,
 landslide, avalanche, forest or range fire, drought, or epidemic.
 (10)  "State of emergency" means a condition in any part of this state that
@@ -30,3 +29,12 @@ reduce the threat of a disaster.
 (11)  "Technological hazard" means any hazardous materials accident, mine
 accident, train derailment, air crash, radiation incident, pollution,
 structural fire, or explosion.
+(12)  "Terrorism" means activities that:
+(a)  involve acts dangerous to human life;
+(b)  are a violation of the criminal laws of the United States or of this
+state; and
+(c)  to a reasonable person, would appear to be intended to:
+(i)  intimidate or coerce a civilian population;
+(ii)  influence the policy of a government by intimidation or coercion; or
+(iii)  affect the conduct of a government by mass destruction, assassination,
+or kidnapping.

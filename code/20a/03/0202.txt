@@ -1,50 +1,26 @@
-20A-3-202.   Challenges -- Recorded in official register and in pollbook.
-(1) (a)  When any person applies for a ballot or when a person offers a ballot
-for deposit in the ballot box, the person's right to vote in that voting
-precinct and in that election may be orally challenged by a poll worker or any
-challenger orally stating the challenged voter's name and the basis for the
-challenge.
-(b)  A person may challenge another person's right to vote by alleging that:
-(i)  the voter is not the person whose name appears in the official register
-and under which name the right to vote is claimed;
-(ii)  the voter is not a resident of Utah;
-(iii)  the voter is not a citizen of the United States;
-(iv)  the voter has not or will not have resided in Utah for 30 days
+20A-3-202.   Challenges to a voter's eligibility -- Basis for challenge --
+Procedures.
+(1)  A person's right to vote may be challenged because:
+(a)  the voter is not the person whose name appears in the official register
+or under which name the right to vote is claimed;
+(b)  the voter is not a resident of Utah;
+(c)  the voter is not a citizen of the United States;
+(d)  the voter has not or will not have resided in Utah for 30 days
 immediately before the date of the election;
-(v)  the voter does not live in the voting precinct;
-(vi)  the voter does not live within the geographic boundaries of the entity
-holding the election;
-(vii)  the voter's principal place of residence is not in the voting precinct;
-(viii)  the voter's principal place of residence is not in the geographic
+(e)  the voter's principal place of residence is not in the voting precinct
+claimed;
+(f)  the voter's principal place of residence is not in the geographic
 boundaries of the election area;
-(ix)  the voter has voted before in the election;
-(x)  the voter is not at least 18 years old;
-(xi)  the voter is involuntarily confined or incarcerated in jail or prison
-and was not a resident of the entity holding the election before the voter was
-confined or incarcerated;
-(xii)  the voter is a convicted felon and is incarcerated for the commission
-of a felony; or
-(xiii)  in a regular primary election, the voter does not meet the political
-party affiliation criteria established by the political party whose ballot the
-voter seeks to vote.
-(2) (a)  Any person may challenge the right to vote of any person whose name
-appears on the official register by filing a written signed statement
-identifying the challenged voter's name and the basis for the challenge with
-the county clerk during regular business hours and not later than the date
-that falls two business days before the date voting commences.
-(b)  The person challenging a person's right to vote shall allege one or more
-of the grounds established in Subsection (1)(b) as the basis for the
-challenge.
-(c)  The county clerk shall:
-(i)  carefully preserve the written challenges;
-(ii)  write in the appropriate official register opposite the name of any
-person for whom the county clerk received a written challenge, the words "To
-be challenged"; and
-(iii)  transmit the written challenges to poll workers of that voting
-precinct.
-(d) The poll workers shall raise the written challenge with the voter when the
-voter requests a ballot.
-(3)  The poll workers shall record all challenges in the official register and
-on the challenge sheets in the pollbook.
-(4)  If a person's right to vote is challenged under this section, the poll
-worker shall follow the procedures and requirements of Section 20A-3-105.5.
+(g)  the voter has already voted in the election;
+(h)  the voter is not at least 18 years of age;
+(i)  the voter is a convicted felon and the voter's right to vote in an
+election has not been restored under Section 20A-2-101.5; or
+(j)  in a regular primary election or in the Western States Presidential
+Primary, the voter does not meet the political party affiliation requirements
+for the ballot the voter seeks to vote.
+(2)  A person who challenges another person's right to vote at an election
+shall do so according to the procedures and requirements of:
+(a)  Section 20A-3-202.3, for challenges issued in writing more than 21 days
+before the day on which early voting commences; or
+(b)  Section 20A-3-202.5, for challenges issued in person at the time of
+voting.

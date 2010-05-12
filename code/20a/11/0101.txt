@@ -1,4 +1,4 @@
-20A-11-101.   Definitions.
+20A-11-101 (Superseded 01/01/11).   Definitions.
 As used in this chapter:
 (1)  "Address" means the number and street where an individual resides or
 where a reporting entity has its principal office.
@@ -106,7 +106,8 @@ ordinary course of business; or
 reporting entity to candidates for office or officeholders in states other
 than Utah.
 (12)  "Filing entity" means the reporting entity that is filing a financial
-statement required by this chapter.
+statement required by this chapter or Chapter 12, Part 2, Judicial Retention
+Elections.
 (13)  "Financial statement" includes any summary report, interim report,
 verified financial statement, or other statement disclosing contributions,
 expenditures, receipts, donations, or disbursements that is required by this
@@ -134,7 +135,7 @@ representative;
 (b)  declares himself to be a candidate for, or actively campaigns for, the
 position of speaker of the House of Representatives, president of the Senate,
 or the leader, whip, and assistant whip of any party caucus in either house of
-the Legislature; and
+the Legislature; or
 (c)  receives contributions, makes expenditures, or gives consent for any
 other person to receive contributions or make expenditures to bring about the
 person's nomination or election to a legislative office.
@@ -150,7 +151,9 @@ political action committees, political issues committees, labor unions, and
 labor organizations.
 (26)  "Personal campaign committee" means the committee appointed by a
 candidate to act for the candidate as provided in this chapter.
-(27) (a)  "Political action committee" means an entity, or any group of
+(27)  "Personal use expenditure" has the same meaning as provided under
+Section 20A-11-104.
+(28) (a)  "Political action committee" means an entity, or any group of
 individuals or entities within or outside this state, a major purpose of which
 is to:
 (i)  solicit or receive contributions from any other person, group, or entity
@@ -173,9 +176,9 @@ checking account;
 (v)  a corporation, except a corporation a major purpose of which is to act as
 a political action committee; or
 (vi)  a personal campaign committee.
-(28)  "Political convention" means a county or state political convention held
+(29)  "Political convention" means a county or state political convention held
 by a registered political party to select candidates.
-(29) (a)  "Political issues committee" means an entity, or any group of
+(30) (a)  "Political issues committee" means an entity, or any group of
 individuals or entities within or outside this state, a major purpose of which
 is to:
 (i)  solicit or receive donations from any other person, group, or entity to
@@ -199,7 +202,7 @@ to the general public;
 checking account; or
 (v)  a corporation, except a corporation a major purpose of which is to act as
 a political issues committee.
-(30) (a)  "Political issues contribution" means any of the following:
+(31) (a)  "Political issues contribution" means any of the following:
 (i)  a gift, subscription, unpaid or partially unpaid loan, advance, or
 deposit of money or anything of value given to a political issues committee;
 (ii)  an express, legally enforceable contract, promise, or agreement to make
@@ -216,7 +219,7 @@ committee at less than fair market value.
 portion or all of their time on behalf of a political issues committee; or
 (ii)  money lent to a political issues committee by a financial institution in
 the ordinary course of business.
-(31) (a)  "Political issues expenditure" means any of the following:
+(32) (a)  "Political issues expenditure" means any of the following:
 (i)  any payment from political issues contributions made for the purpose of
 influencing the approval or the defeat of:
 (A)  a ballot proposition; or
@@ -237,19 +240,19 @@ entity at less than fair market value.
 portion or all of their time on behalf of a political issues committee; or
 (ii)  money lent to a political issues committee by a financial institution in
 the ordinary course of business.
-(32)  "Political purposes" means an act done with the intent or in a way to
+(33)  "Political purposes" means an act done with the intent or in a way to
 influence or tend to influence, directly or indirectly, any person to refrain
 from voting or to vote for or against any candidate for public office or
 municipal or county office at any caucus, political convention, primary, or
 election.
-(33)  "Primary election" means any regular primary election held under the
+(34)  "Primary election" means any regular primary election held under the
 election laws.
-(34)  "Public office" means the office of governor, lieutenant governor, state
+(35)  "Public office" means the office of governor, lieutenant governor, state
 auditor, state treasurer, attorney general, state or local school board
 member, state senator, state representative, speaker of the House of
 Representatives, president of the Senate, and the leader, whip, and assistant
 whip of any party caucus in either house of the Legislature.
-(35) (a)  "Public service assistance" means the following when given or
+(36) (a)  "Public service assistance" means the following when given or
 provided to an officeholder to defray the costs of functioning in a public
 office or aid the officeholder to communicate with the officeholder's
 constituents:
@@ -267,44 +270,44 @@ ordinary course of business;
 (v)  any article, story, or other coverage as part of any regular publication
 of any organization unless substantially all the publication is devoted to
 information about the officeholder.
-(36)  "Publicly identified class of individuals" means a group of 50 or more
+(37)  "Publicly identified class of individuals" means a group of 50 or more
 individuals sharing a common occupation, interest, or association that
 contribute to a political action committee or political issues committee and
 whose names can be obtained by contacting the political action committee or
 political issues committee upon whose financial report they are listed.
-(37)  "Receipts" means contributions and public service assistance.
-(38)  "Registered lobbyist" means a person registered under Title 36, Chapter
+(38)  "Receipts" means contributions and public service assistance.
+(39)  "Registered lobbyist" means a person registered under Title 36, Chapter
 11, Lobbyist Disclosure and Regulation Act.
-(39)  "Registered political action committee" means any political action
+(40)  "Registered political action committee" means any political action
 committee that is required by this chapter to file a statement of organization
 with the lieutenant governor's office.
-(40)  "Registered political issues committee" means any political issues
+(41)  "Registered political issues committee" means any political issues
 committee that is required by this chapter to file a statement of organization
 with the lieutenant governor's office.
-(41)  "Registered political party" means an organization of voters that:
+(42)  "Registered political party" means an organization of voters that:
 (a)  participated in the last regular general election and polled a total vote
 equal to 2% or more of the total votes cast for all candidates for the United
 States House of Representatives for any of its candidates for any office; or
 (b)  has complied with the petition and organizing procedures of this chapter.
-(42)  "Reporting entity" means a candidate, a candidate's personal campaign
-committee, an officeholder, a party committee, a political action committee,
-and a political issues committee.
-(43)  "School board office" means the office of state school board or local
+(43)  "Reporting entity" means a candidate, a candidate's personal campaign
+committee, an officeholder, a party committee, a political action committee, a
+political issues committee, or a corporation.
+(44)  "School board office" means the office of state school board or local
 school board.
-(44) (a)  "Source" means the person or entity that is the legal owner of the
+(45) (a)  "Source" means the person or entity that is the legal owner of the
 tangible or intangible asset that comprises the contribution.
 (b)  "Source" means, for political action committees and corporations, the
 political action committee and the corporation as entities, not the
 contributors to the political action committee or the owners or shareholders
 of the corporation.
-(45)  "State office" means the offices of governor, lieutenant governor,
+(46)  "State office" means the offices of governor, lieutenant governor,
 attorney general, state auditor, and state treasurer.
-(46)  "State office candidate" means a person who:
+(47)  "State office candidate" means a person who:
 (a)  files a declaration of candidacy for a state office; or
 (b)  receives contributions, makes expenditures, or gives consent for any
 other person to receive contributions or make expenditures to bring about the
 person's nomination or election to a state office.
-(47)  "Summary report" means the year end report containing the summary of a
+(48)  "Summary report" means the year end report containing the summary of a
 reporting entity's contributions and expenditures.
-(48)  "Supervisory board" means the individual or group of individuals that
+(49)  "Supervisory board" means the individual or group of individuals that
 allocate expenditures from a political issues committee.

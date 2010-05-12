@@ -21,18 +21,18 @@ which he has indicated his intention to subscribe; and
 (iv)  a description of any material interest in any material transaction with
 the issuer or any significant subsidiary affected within the past three years
 or proposed to be affected;
-(c)  with respect to persons covered by Subsection (b), the remuneration paid
-during the past 12 months and estimated to be paid during the next 12 months,
-directly or indirectly, by the issuer, together with all predecessors,
+(c)  with respect to persons covered by Subsection (2)(b), the remuneration
+paid during the past 12 months and estimated to be paid during the next 12
+months, directly or indirectly, by the issuer, together with all predecessors,
 parents, subsidiaries, and affiliates, to all those persons in the aggregate;
 (d)  with respect to any person owning of record, or beneficially if known,
 10% or more of the outstanding shares of any class of equity security of the
-issuer, the information specified in Subsection (b) other than the person's
+issuer, the information specified in Subsection (2)(b) other than the person's
 occupation;
 (e)  with respect to every promoter if the issuer was organized within the
-past three years, the information specified in Subsection (b), any amount paid
-to the promoter within that period or intended to be paid to the promoter, and
-the consideration for any such payment;
+past three years, the information specified in Subsection (2)(b), any amount
+paid to the promoter within that period or intended to be paid to the
+promoter, and the consideration for any such payment;
 (f)  with respect to any person on whose behalf any part of the offering is to
 be made in a nonissuer distribution:
 (i)  the person's name and address;
@@ -88,8 +88,8 @@ acquisition;
 (j)  a description of any stock options or other security options outstanding,
 or to be created in connection with the offering, together with the amount of
 any such option held or to be held by every person required to be named in
-clause (b), (d), (e), (f), or (h) and by any person who holds or will hold 10%
-or more in the aggregate of any such options;
+Subsection (2)(b), (d), (e), (f), or (h) and by any person who holds or will
+hold 10% or more in the aggregate of any such options;
 (k) (i)  the dates of, parties to, and general effect concisely stated of,
 every management or other material contract made or to be made otherwise than
 in the ordinary course of business if it is to be performed in whole or in
@@ -133,9 +133,8 @@ division requires by rule or order.
 division so orders.
 (4)  As a condition of registration under this section, a prospectus
 containing the information, but not containing copies of contracts or
-agreements specified in Subsections (2)(a), (b), (c), (d), (e), (f), (g), (h),
-(i), (j), (k), and (p) shall be sent or given to each person to whom an offer
-is made before or concurrently with:
+agreements specified in Subsections (2)(a) through (k) and (p) shall be sent
+or given to each person to whom an offer is made before or concurrently with:
 (a)  the first written offer made to the person, otherwise than by means of a
 public advertisement, by or for the account of the issuer or any other person
 on whose behalf the offering is being made, or by any underwriter or broker-

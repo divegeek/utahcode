@@ -23,9 +23,10 @@ gravity hot-draining;
 (C)  dismantling and gravity hot-draining; or
 (D)  any other equivalent gravity hot-draining method that will remove used
 oil from the filter at least as effectively as the methods listed in this
-subsection.
-(ii)  As used in this subsection, "gravity hot-drained" means drained for not
-less than 12 hours near operating temperature but above 60 degrees Fahrenheit.
+Subsection (2)(b)(i).
+(ii)  As used in this Subsection (2), "gravity hot-drained" means drained for
+not less than 12 hours near operating temperature but above 60 degrees
+Fahrenheit.
 (3)  A person may not mix or commingle used oil with the following substances,
 except as incidental to the normal course of processing, mechanical, or
 industrial operations:
@@ -43,7 +44,7 @@ made by the board under this part prohibiting the release of de minimis
 quantities of used oil to the land or water from tanks, pipes, or other
 equipment in which used oil is processed, stored, or otherwise managed by used
 oil handlers, except wastewater under Subsection 19-6-708(2)(j).
-(b)  As used in this subsection, "de minimis quantities of used oil:"
+(b)  As used in this Subsection (4), "de minimis quantities of used oil:"
 (i)  means small spills, leaks, or drippings from pumps, machinery, pipes, and
 other similar equipment during normal operations; and
 (ii)  does not include used oil discarded as a result of abnormal operations
@@ -55,9 +56,9 @@ environment, except in compliance with Section 19-6-711 and board rule.
 section may apply to the executive secretary for an extension of time beyond
 that date to meet the requirements of this section.
 (ii)  The executive secretary may grant an extension of time beyond July 1,
-1993, upon a finding of need under Subsection (b) or (c).
+1993, upon a finding of need under Subsection (6)(b) or (c).
 (iii)  The total of all extensions of time granted to one applicant under this
-subsection may not extend beyond January 1, 1995.
+Subsection (6)(a) may not extend beyond January 1, 1995.
 (b)  The executive secretary upon receipt of a request for an extension of
 time may request from the facility any information the executive secretary
 finds reasonably necessary to evaluate the need for an extension. This

@@ -45,11 +45,13 @@ substitute care for the child;
 or persons making the initial report of abuse or neglect or any others
 involved in the subsequent investigation;
 (iv)  disclosure of the record would jeopardize the life or physical safety of
-a person who has been a victim of domestic violence; or
+a person who has been a victim of domestic violence;
 (v)  the record is a report maintained in the Management Information System,
 for which a finding of unsubstantiated, unsupported, or without merit has been
 made, unless the person requesting the information is the alleged perpetrator
-in the report or counsel for the alleged perpetrator in the report.
+in the report or counsel for the alleged perpetrator in the report; or
+(vi)  the record is a Children's Justice Center investigative interview, video
+or audio, the release of which is governed by Section 77-37-4.
 (c)  If a disclosure is denied under Subsection (5)(b)(i), the division shall
 inform the person making the request of the following:
 (i)  the existence of all records in the possession of the division or any

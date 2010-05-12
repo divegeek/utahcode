@@ -60,14 +60,18 @@ entity, as the case may be, to adjust the standard impact fee at the time the
 fee is charged to:
 (A)  respond to:
 (I)  unusual circumstances in specific cases; or
-(II)  a request for a prompt and individualized impact fee review for the
-development activity of the state or a school district or charter school; and
+(II)  a request for a prompt and individualized impact fee review for:
+(Aa)  the development activity of the state or a school district or charter
+school; and
+(Bb)  an offset or credit for a public facility for which an impact fee has
+been or will be collected; and
 (B)  ensure that the impact fees are imposed fairly; and
 (iv)  a provision governing calculation of the amount of the impact fee to be
 imposed on a particular development that permits adjustment of the amount of
 the fee based upon studies and data submitted by the developer; and
-(b)  allows a developer to receive a credit against or proportionate
-reimbursement of an impact fee if the developer:
+(b)  allows a developer, including a school district or charter school, to
+receive a credit against or proportionate reimbursement of an impact fee if
+the developer:
 (i)  dedicates land for a system improvement;
 (ii)  builds and dedicates some or all of a system improvement; or
 (iii)  dedicates a public facility that the local political subdivision or
@@ -95,10 +99,13 @@ improvements provided by the developer if the facilities:
 (a)  are system improvements; or
 (b) (i)  are dedicated to the public; and
 (ii)  offset the need for an identified system improvement.
-(5)  A local political subdivision may not impose an impact fee to:
-(a)  cure deficiencies in a public facility serving existing development; or
-(b)  raise the established level of service of a public facility serving
-existing development.
+(5)  A local political subdivision may not:
+(a)  impose an impact fee to:
+(i)  cure deficiencies in a public facility serving existing development; or
+(ii)  raise the established level of service of a public facility serving
+existing development; or
+(b)  delay the construction of a school or charter school because of a dispute
+with the school or charter school over impact fees.
 (6)  Notwithstanding the requirements and prohibitions of this chapter, a
 local political subdivision may impose and assess an impact fee for
 environmental mitigation when:
@@ -131,7 +138,9 @@ school, if:
 (A)  the school is intended to replace another school, whether on the same or
 a different parcel;
 (B)  the new school creates no greater demand or need for public facilities
-than the school being replaced; and
+than the school or school facilities, including any portable or modular
+classrooms that are on the site of the replaced school at the time that the
+new school is proposed; and
 (C)  the new school and the school being replaced are both within:
 (I)  the boundary of the local political subdivision; or
 (II)  the jurisdiction of the private entity;

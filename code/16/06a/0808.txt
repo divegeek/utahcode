@@ -26,7 +26,7 @@ voting members but not the board of directors.
 (g)  Notwithstanding Subsections (1)(a) through (f), if provided in the
 bylaws, any director no longer qualified to serve, under standards set forth
 in the bylaws, may be removed by a vote of a majority of the directors then in
-office or such greater number as set  forth in the bylaws.
+office or such greater number as set forth in the bylaws.
 (h)  A director who is removed pursuant to this section may deliver to the
 division for filing a statement to that effect pursuant to Section 16-6a-1608.
 (2)  Unless otherwise provided in the bylaws:
@@ -43,5 +43,5 @@ both:
 (ii)  the nonprofit corporation.
 (3)  A designated director, as provided in Subsection 16-6a-804(5), may be
 removed by an amendment to the bylaws deleting or changing the designation.
-(4)  Removal of a director under this section shall not be affected by
-Subsection 16-6a-805(5).
+(4)  Removal of a director under this section is not affected by Subsection
+16-6a-805(5).

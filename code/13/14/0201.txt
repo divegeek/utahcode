@@ -38,8 +38,8 @@ agreement with the franchisor or do any other act that is unfair or
 prejudicial to the franchisee, by threatening to cancel a franchise agreement
 or other contractual agreement or understanding existing between the
 franchisor and franchisee;
-(i)  adopt, change, establish, modify, or implement a plan or system for the
-allocation, scheduling, or delivery of new motor vehicles, parts, or
+(i)  adopt, change, establish, enforce, modify, or implement a plan or system
+for the allocation, scheduling, or delivery of new motor vehicles, parts, or
 accessories to its franchisees so that the plan or system is not fair,
 reasonable, and equitable;
 (j)  increase the price of any new motor vehicle that the franchisee has
@@ -78,12 +78,14 @@ franchise or line-make in an existing facility owned or occupied by the
 franchisee that includes the selling or servicing of another franchise or
 line-make at the facility provided that the franchisee gives the franchisor
 written notice of the franchise co-location;
-(o)  fail to include in any franchise agreement the following language or
-language to the effect that: "If any provision in this agreement contravenes
-the laws or regulations of any state or other jurisdiction where this
-agreement is to be performed, or provided for by such laws or regulations, the
-provision is considered to be modified to conform to such laws or regulations,
-and all other terms and provisions shall remain in full force.";
+(o)  fail to include in any franchise agreement or other agreement governing a
+franchisee's ownership of a dealership or a franchisee's conduct of business
+under a franchise the following language or language to the effect that: "If
+any provision in this agreement contravenes the laws or regulations of any
+state or other jurisdiction where this agreement is to be performed, or
+provided for by such laws or regulations, the provision is considered to be
+modified to conform to such laws or regulations, and all other terms and
+provisions shall remain in full force.";
 (p)  engage in the distribution, sale, offer for sale, or lease of a new motor
 vehicle to purchasers who acquire the vehicle in this state except through a
 franchisee with whom the franchisor has established a written franchise
@@ -101,8 +103,8 @@ repairs:
 (i)  by a franchisee with whom the franchisor has entered into a franchise
 agreement for the sale and service of the franchisor’s motor vehicles; or
 (ii)  on owned motor vehicles by a person or government entity who has
-purchased new motor vehicles pursuant to a franchisor's or manufacturer's
-fleet discount program;
+purchased new motor vehicles pursuant to a franchisor's fleet discount
+program;
 (s)  fail to provide a franchisee with a written franchise agreement;
 (t) (i)  except as provided in Subsection (1)(t)(ii) and notwithstanding any
 other provisions of this chapter:
@@ -113,9 +115,8 @@ dealers all models manufactured for that line-make;
 facilities; or
 (II)  purchase unreasonable advertising displays or other materials as a
 prerequisite to receiving a model or series of vehicles;
-(ii)  notwithstanding Subsection (1)(t)(i), a recreational vehicle
-manufacturer may split a line-make between motor home and travel trailer
-products;
+(ii)  notwithstanding Subsection (1)(t)(i), a recreational vehicle franchisor
+may split a line-make between motor home and travel trailer products;
 (u)  except as provided in Subsection (6), directly or indirectly:
 (i)  own an interest in a new motor vehicle dealer or dealership;
 (ii)  operate or control a new motor vehicle dealer or dealership;
@@ -196,17 +197,17 @@ lead in a fair, equitable, and timely manner; or
 (iv)  if the franchisee complies with any reasonable requirement concerning
 the sale of new motor vehicles, by using or considering the performance of any
 of its franchisees located in this state relating to the sale of the
-manufacturer's new motor vehicles in determining the:
+franchisor's new motor vehicles in determining the:
 (A)  dealer's eligibility to purchase program, certified, or other used motor
-vehicles from the manufacturer;
+vehicles from the franchisor;
 (B)  volume, type, or model of program, certified, or other used motor
-vehicles the dealer is eligible to purchase from the manufacturer;
+vehicles the dealer is eligible to purchase from the franchisor;
 (C)  price of any program, certified, or other used motor vehicles that the
-dealer is eligible to purchase from the manufacturer; or
+dealer is eligible to purchase from the franchisor; or
 (D)  availability or amount of any discount, credit, rebate, or sales
 incentive the dealer is eligible to receive from the manufacturer for the
 purchase of any program, certified, or other motor vehicle offered for sale by
-the manufacturer;
+the franchisor;
 (gg) (i)  take control over funds owned or under the control of a franchisee
 based on the findings of a warranty audit or sales incentive audit unless the
 following conditions are satisfied:
@@ -236,9 +237,9 @@ sales incentive audits;
 reasonably believes that the amount of the claim or charge back is related to
 a fraudulent act by the franchisee; and
 (H)  the costs of the mediator or arbitrator instituted under this Subsection
-(1)(gg) shall be shared equally by the franchisor and the franchisee.
-(ii)  A franchisor may not require a franchisee to execute a written waiver of
-the requirements of Subsection (1)(gg)(i);
+(1)(gg) shall be shared equally by the franchisor and the franchisee; or
+(ii) require a franchisee to execute a written waiver of the requirements of
+Subsection (1)(gg)(i);
 (hh)  coerce, or attempt to coerce a franchisee to purchase or sell an
 aftermarket product manufactured by the franchisor, or obtained by the
 franchisor for resale from a third-party supplier and the franchisor or its
@@ -246,10 +247,37 @@ affiliate derives a financial benefit from the franchisee's sale or purchase
 of the aftermarket product as a condition to obtaining preferential status
 from the franchisor;
 (ii)  through an affiliate, take any action that would otherwise be prohibited
-under this chapter; or
+under this chapter;
 (jj)  impose any fee, surcharge, or other charge on a franchisee designed to
 recover the cost of a warranty repair for which the franchisee is paid by the
-franchisor.
+franchisor;
+(kk)  directly or indirectly condition any of the following actions on the
+willingness of a franchisee, prospective new franchisee, or owner of an
+interest in a dealership facility to enter into a site-control agreement:
+(i)  the awarding of a franchise to a prospective new franchisee;
+(ii)  the addition of a line-make or franchise to an existing franchisee;
+(iii)  the renewal of an existing franchisee's franchise;
+(iv)  the approval of the relocation of an existing franchisee's dealership
+facility, unless the franchisor pays, and the franchisee voluntarily accepts,
+additional specified cash consideration to facilitate the relocation; or
+(v)  the approval of the sale or transfer of a franchise's ownership, unless
+the franchisor pays, and the buyer voluntarily accepts, additional specified
+cash consideration to facilitate the sale or transfer;
+(ll)  subject to Subsection (11), deny a franchisee the right to return any or
+all parts or accessories that:
+(i)  were specified for and sold to the franchisee under an automated ordering
+system required by the franchisor; and
+(ii) (A)  are in good, resalable condition; and
+(B) (I)  the franchisee received within the previous 12 months; or
+(II)  are listed in the current parts catalog; or
+(mm)  subject to Subsection (12), obtain from a franchisee a waiver of a
+franchisee's right, by threatening:
+(i)  to impose a detriment upon the franchisee's business; or
+(ii)  to withhold any entitlement, benefit, or service:
+(A)  to which the franchisee is entitled under a franchise agreement,
+contract, statute, rule, regulation, or law; or
+(B)  that has been granted to more than one other franchisee of the franchisor
+in the state.
 (2)  Notwithstanding Subsection (1)(r), a franchisor may authorize or permit a
 person to perform warranty service repairs on motor vehicles if the warranty
 services is for a franchisor of recreational vehicles.
@@ -322,3 +350,17 @@ potential customer in providing or directing a lead.
 (10)  Subsection (1)(ii) does not limit the right of an affiliate to engage in
 business practices in accordance with the usage of trade in which the
 affiliate is engaged.
+(11) (a)  Subsection (1)(ll) does not apply to parts or accessories that the
+franchisee ordered and purchased outside of an automated parts ordering system
+required by the franchisor.
+(b)  In determining whether parts or accessories in a franchisee's inventory
+were specified and sold under an automated ordering system required by the
+franchisor, the parts and accessories in the franchisee's inventory are
+presumed to be the most recent parts and accessories that the franchisor sold
+to the franchisee.
+(12) (a)  Subsection (1)(mm) does not apply to a good faith settlement of a
+dispute, including a dispute relating to contract negotiations, in which the
+franchisee gives a waiver in exchange for fair consideration in the form of a
+benefit conferred on the franchisee.
+(b)  Subsection (12)(a) may not be construed to defeat a franchisee's claim
+that a waiver has been obtained in violation of Subsection (1)(mm).

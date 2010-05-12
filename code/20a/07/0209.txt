@@ -42,8 +42,7 @@ that the ballot title is patently false or biased.
 (c)  The Supreme Court shall:
 (i)  examine the ballot title;
 (ii)  hear arguments; and
-(iii)  by August 10, certify to the lieutenant governor a ballot title for the
-measure that meets the requirements of this section.
-(d) The lieutenant governor shall, no later than September 8, certify the
-title verified by the Supreme Court to the county clerks to be printed on the
-official ballot.
+(iii) certify to the lieutenant governor a ballot title for the measure that
+meets the requirements of this section.
+(d) The lieutenant governor shall certify the title verified by the Supreme
+Court to the county clerks to be printed on the official ballot.

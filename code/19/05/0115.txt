@@ -17,9 +17,9 @@ Subsection 19-5-107(3);
 publicly owned treatment works; or
 (iv)  manages sewage sludge in violation of this chapter or rules adopted
 under it.
-(b) A person is guilty of a third degree felony and is subject to imprisonment
-under Section 76-3-203 and a fine not to exceed $50,000 per day of violation
-who knowingly:
+(b)  A person is guilty of a third degree felony and is subject to
+imprisonment under Section 76-3-203 and a fine not to exceed $50,000 per day
+of violation who knowingly:
 (i)  discharges pollutants in violation of Subsection 19-5-107(1) or in
 violation of any condition or limitation included in a permit issued under
 Subsection 19-5-107(3);
@@ -54,7 +54,7 @@ under it; and
 (ii)  knows at that time that he is placing another person in imminent danger
 of death or serious bodily injury.
 (c)  If a person is an organization, it shall, upon conviction of violating
-Subsection (a), be subject to a fine of not more than $1,000,000.
+Subsection (5)(a), be subject to a fine of not more than $1,000,000.
 (d) (i)  A defendant who is an individual is considered to have acted
 knowingly if:
 (A)  the defendant's conduct placed another person in imminent danger of death
@@ -74,7 +74,7 @@ danger and conduct charged were reasonably foreseeable hazards of:
 professionally approved methods and the other person was aware of the risks
 involved prior to giving consent.
 (ii)  The defendant has the burden of proof to establish any affirmative
-defense under this Subsection (e) and must prove that defense by a
+defense under this Subsection (5)(e) and must prove that defense by a
 preponderance of the evidence.
 (6)  For purposes of Subsections 19-5-115(3) through (5), a single operational
 upset which leads to simultaneous violations of more than one pollutant
@@ -102,10 +102,10 @@ injunctive relief to prevent any further or continued violation of the order.
 (10)  Any political subdivision of the state may enact and enforce ordinances
 or rules for the implementation of this chapter that are not inconsistent with
 this chapter.
-(11) (a)  Except as provided in Subsection (b), all penalties assessed and
+(11) (a)  Except as provided in Subsection (11)(b), all penalties assessed and
 collected under the authority of this section shall be deposited in the
 General Fund.
-(b)  The department may reimburse itself and local governments from monies
+(b)  The department may reimburse itself and local governments from money
 collected from civil penalties for extraordinary expenses incurred in
 environmental enforcement activities.
 (c)  The department shall regulate reimbursements by making rules that:

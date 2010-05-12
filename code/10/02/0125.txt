@@ -54,25 +54,20 @@ town; or
 at another nearby public facility or at the county seat; and
 (II)  within 20 days after the clerk provides the last notice required under
 Subsection (3)(e)(i)(B); and
-(B)  subject to Subsection (3)(e)(ii), give notice of the public hearing on
-the proposed incorporation by:
+(B) no later than 10 days after the clerk determines that a request complies
+with the requirements of Subsection (3)(b), give notice of the public hearing
+on the proposed incorporation by:
 (I)  posting notice of the public hearing on the county's Internet website, if
-the county has an Internet website; and
-(II) (Aa) (Ii)  publishing notice of the public hearing at least once a week
-for two consecutive weeks in a newspaper of general circulation within the
-proposed town; and
-(IIii)  publishing notice of the public hearing in accordance with Section
-45-1-101 for two weeks; or
-(Bb)  in accordance with Subsection (3)(e)(i)(B)(II)(Aa)(Ii), if there is no
-newspaper of general circulation within the proposed town, posting notice of
-the public hearing in at least five conspicuous public places within the
-proposed town.
-(ii)  The posting of notice required under Subsection (3)(e)(i)(B)(I) and, if
-applicable, Subsection (3)(e)(i)(B)(II)(Bb) and the first publishing of notice
-required under Subsection (3)(e)(i)(B)(II)(Aa), if applicable, shall occur no
-later than 10 days after the clerk determines that a request complies with the
-requirements of Subsection (3)(b).
-(iii)  Each public hearing under Subsection (3)(e)(i)(A) shall be conducted by
+the county has an Internet website;
+(II) (Aa)  publishing notice of the public hearing at least once a week for
+two consecutive weeks in a newspaper of general circulation within the
+proposed town; or
+(Bb) if there is no newspaper of general circulation within the proposed town,
+posting notice of the public hearing in at least five conspicuous public
+places within the proposed town; and
+(III)  publishing notice of the public hearing on the Utah Public Notice
+Website created in Section 63F-1-701.
+(ii)  Each public hearing under Subsection (3)(e)(i)(A) shall be conducted by
 the chair of the county commission or council, or the chair's designee, to:
 (A)  introduce the concept of the proposed incorporation to the public;
 (B)  allow the public to review the map or plat of the boundary of the
@@ -198,55 +193,71 @@ engage a feasibility consultant; and
 study and submit written results of the study to the county legislative body
 no later than 30 days after the feasibility consultant is engaged to conduct
 the financial feasibility study.
-(b)  The county legislative body shall approve a petition proposing the
-incorporation of a town and hold an election for town officers, as provided in
-Subsection (9), if:
+(b) If the county legislative body has commissioned a financial feasibility
+study under Subsection (8)(a)(i), the county legislative body shall approve a
+petition proposing the incorporation of a town and hold an election for town
+officers, as provided in Subsection (9), if:
 (i)  the county clerk has certified the petition under Subsection (6); and
-(ii) (A) (I)  the county legislative body has commissioned a financial
-feasibility study under Subsection (8)(a); and
-(II)  the results of the financial feasibility study show that the average
-annual amount of revenues described in Subsection (1)(b)(i) does not exceed
-the average annual amount of costs described in Subsection (1)(b)(ii) by more
-than 10%; or
-(B)  the county legislative body chooses not to commission a financial
-feasibility study.
-(c) (i)  If the county legislative body commissions a financial feasibility
-study under Subsection (8)(a) and the results of the financial feasibility
-study show that the average annual amount of revenues described in Subsection
-(1)(b)(i) exceeds the average annual amount of costs described in Subsection
-(1)(b)(ii) by more than 10%, the county legislative body may:
-(A)  deny the petition, subject to Subsection (8)(c)(ii), if the results of
-the financial feasibility study show that the average annual amount of
-revenues described in Subsection (1)(b)(i) exceeds the average annual amount
-of costs described in Subsection (1)(b)(ii) by 25% or more;
-(B)  approve the petition and hold an election for town officers, as provided
-in Subsection (9); or
-(C) (I)  with the consent of the petition sponsors:
-(Aa)  impose conditions to mitigate the fiscal inequities identified in the
-financial feasibility study; or
+(ii) (A) the results of the financial feasibility study described in
+Subsection (8)(a)(i) show that the average annual amount of revenues described
+in Subsection (1)(b)(i) does not exceed the average annual amount of costs
+described in Subsection (1)(b)(ii) by more than 15%; or
+(B)  the results of the financial feasibility study described in Subsection
+(8)(a)(i) show that the average annual amount of costs described in Subsection
+(1)(b)(ii) does not exceed the average annual amount of revenues described in
+Subsection (1)(b)(i) by more than 15%.
+(c) (i)  If the results of the financial feasibility study described in
+Subsection (8)(a)(i) show that the average annual amount of revenues described
+in Subsection (1)(b)(i) exceeds the average annual amount of costs described
+in Subsection (1)(b)(ii) by more than 15%, the county legislative body may:
+(A)  deny the petition, in accordance with Subsection (8)(c)(iii), if the
+results of the financial feasibility study show that the average annual amount
+of revenues described in Subsection (1)(b)(i) exceeds the average annual
+amount of costs described in Subsection (1)(b)(ii) by more than 15%; or
+(B) (I)  with the consent of the petition sponsors:
+(Aa)  impose conditions to prevent the average annual amount of revenues
+described in Subsection (1)(b)(i) from exceeding the average annual amount of
+costs described in Subsection (1)(b)(ii) by more than 15%; or
 (Bb)  alter the boundaries of the area proposed to be incorporated as a town
 to approximate the boundaries necessary to prevent the average annual amount
 of revenues described in Subsection (1)(b)(i) from exceeding the average
-annual amount of costs described in Subsection (1)(b)(ii); and
+annual amount of costs described in Subsection (1)(b)(ii) by more than 15%;
+and
 (II)  approve the incorporation petition and hold an election for town
 officers, as provided in Subsection (9).
-(ii)  A county legislative body intending to deny a petition under Subsection
-(8)(c)(i)(A) shall deny the petition within 20 days after the feasibility
-consultant submits the written results of the financial feasibility study.
+(ii)  If the results of the financial feasibility study described in
+Subsection (8)(a)(i) show that the average annual amount of costs described in
+Subsection (1)(b)(ii) exceeds the average annual amount of revenues described
+in Subsection (1)(b)(i) by more than 15%, the county legislative body shall:
+(A)  approve the petition;
+(B)  deny the petition in accordance with Subsection (8)(c)(iii); or
+(C) (I)  with the consent of the petition sponsors:
+(Aa)  impose conditions to prevent the average annual amount of costs
+described in Subsection (1)(b)(ii) from exceeding the average annual amount of
+revenues described in Subsection (1)(b)(i) by more than 15%; or
+(Bb)  alter the boundaries of the area proposed to be incorporated as a town
+to approximate the boundaries necessary to prevent the average annual amount
+of costs described in Subsection (1)(b)(ii) from exceeding the average annual
+amount of revenues described in Subsection (1)(b)(i) by more than 15%; and
+(II)  approve the incorporation petition and hold an election for town
+officers, as provided in Subsection (9).
+(iii)  A county legislative body intending to deny a petition under Subsection
+(8)(c)(i)(A) or (8)(c)(ii)(B) shall deny the petition within 20 days after the
+feasibility consultant submits the written results of the financial
+feasibility study.
 (d)  Each town that incorporates pursuant to a petition approved after the
-county legislative body imposes conditions under Subsection (8)(c)(i)(C)(I)
-shall comply with those conditions.
+county legislative body imposes conditions under Subsection
+(8)(c)(i)(B)(I)(Aa) or (8)(c)(ii)(C)(I)(Aa) shall comply with those
+conditions.
 (9) (a)  The legislative body of the county in which the proposed new town is
 located shall hold the election for town officers provided for in Subsection
 (8) within:
-(i)  45 days after the petition is certified, for an election under Subsection
-(8)(b)(ii)(B);
-(ii)  45 days after the feasibility consultant submits the written results of
-the financial feasibility study, for an election under Subsection
-(8)(b)(ii)(A) or (8)(c)(i)(B); or
-(iii)  60 days after the feasibility consultant submits the written results of
-the financial feasibility study, for an election under Subsection
-(8)(c)(i)(C).
+(i)  45 days after the day on which the feasibility consultant submits the
+written results of the financial feasibility study, for an election under
+Subsection (8)(b); or
+(ii)  60 days after the day on which the feasibility consultant submits the
+written results of the financial feasibility study, for an election under
+Subsection (8)(c)(i)(B)(II) or (8)(c)(ii)(B)(II).
 (b)  The officers elected at an election under Subsection (9)(a) shall take
 office:
 (i)  at noon on the first Monday in January next following the election, if

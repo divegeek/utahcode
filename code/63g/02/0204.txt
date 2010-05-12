@@ -22,28 +22,34 @@ record.
 (d)  A governmental entity may make rules in accordance with Title 63G,
 Chapter 3, Utah Administrative Rulemaking Act, specifying where and to whom
 requests for access shall be directed.
-(3) (a)  As soon as reasonably possible, but no later than 10 business days
-after receiving a written request, or five business days after receiving a
-written request if the requester demonstrates that expedited response to the
-record request benefits the public rather than the person, the governmental
-entity shall respond to the request by:
-(i)  approving the request and providing the record;
-(ii)  denying the request;
-(iii)  notifying the requester that it does not maintain the record and
-providing, if known, the name and address of the governmental entity that does
+(3)  After receiving a request for a record, a governmental entity shall:
+(a)  review each request that seeks an expedited response and notify, within
+five business days after receiving the request, each requester that has not
+demonstrated that their record request benefits the public rather than the
+person that their response will not be expedited; and
+(b)  as soon as reasonably possible, but no later than 10 business days after
+receiving a written request, or five business days after receiving a written
+request if the requester demonstrates that expedited response to the record
+request benefits the public rather than the person:
+(i)  approve the request and provide a copy of the record;
+(ii)  deny the request in accordance with the procedures and requirements of
+Section 63G-2-205;
+(iii)  notify the requester that it does not maintain the record requested and
+provide, if known, the name and address of the governmental entity that does
 maintain the record; or
-(iv)  notifying the requester that because of one of the extraordinary
-circumstances listed in Subsection (4), it cannot immediately approve or deny
-the request.
-(b)  The notice described in Subsection (3)(a)(iv) shall:
-(i)  describe the circumstances relied upon; and
-(ii)  specify the date when the records will be available.
-(c)  Any person who requests a record to obtain information for a story or
+(iv)  notify the requester that because of one of the extraordinary
+circumstances listed in Subsection (5), it cannot immediately approve or deny
+the request, and include with the notice:
+(A)  a description of the circumstances that constitute the extraordinary
+circumstances; and
+(B)  the date when the records will be available, consistent with the
+requirements of Subsection (6).
+(4)  Any person who requests a record to obtain information for a story or
 report for publication or broadcast to the general public is presumed to be
 acting to benefit the public rather than a person.
-(4)  The following circumstances constitute "extraordinary circumstances" that
+(5)  The following circumstances constitute "extraordinary circumstances" that
 allow a governmental entity to delay approval or denial by an additional
-period of time as specified in Subsection (5) if the governmental entity
+period of time as specified in Subsection (6) if the governmental entity
 determines that due to the extraordinary circumstances it cannot respond
 within the time limits provided in Subsection (3):
 (a)  another governmental entity is using the record, in which case the
@@ -69,17 +75,17 @@ editing; or
 (h)  segregating information that the requester is entitled to inspect from
 information that the requester is not entitled to inspect requires computer
 programming.
-(5)  If one of the extraordinary circumstances listed in Subsection (4)
+(6)  If one of the extraordinary circumstances listed in Subsection (5)
 precludes approval or denial within the time specified in Subsection (3), the
 following time limits apply to the extraordinary circumstances:
-(a)  for claims under Subsection (4)(a), the governmental entity currently in
+(a)  for claims under Subsection (5)(a), the governmental entity currently in
 possession of the record shall return the record to the originating entity
 within five business days of the request for the return unless returning the
 record would impair the holder's work;
-(b)  for claims under Subsection (4)(b), the originating governmental entity
+(b)  for claims under Subsection (5)(b), the originating governmental entity
 shall notify the requester when the record is available for inspection and
 copying;
-(c)  for claims under Subsections (4)(c), (d), and (e), the governmental
+(c)  for claims under Subsections (5)(c), (d), and (e), the governmental
 entity shall:
 (i)  disclose the records that it has located which the requester is entitled
 to inspect;
@@ -93,19 +99,19 @@ as authorized by Subsection (3)(a), a governmental entity may choose to:
 Subsection 63G-2-201(9); or
 (B)  treat a request for multiple records as separate record requests, and
 respond sequentially to each request;
-(d)  for claims under Subsection (4)(f), the governmental entity shall either
+(d)  for claims under Subsection (5)(f), the governmental entity shall either
 approve or deny the request within five business days after the response time
 specified for the original request has expired;
-(e)  for claims under Subsection (4)(g), the governmental entity shall fulfill
+(e)  for claims under Subsection (5)(g), the governmental entity shall fulfill
 the request within 15 business days from the date of the original request; or
-(f)  for claims under Subsection (4)(h), the governmental entity shall
+(f)  for claims under Subsection (5)(h), the governmental entity shall
 complete its programming and disclose the requested records as soon as
 reasonably possible.
-(6) (a)  If a request for access is submitted to an office of a governmental
+(7) (a)  If a request for access is submitted to an office of a governmental
 entity other than that specified by rule in accordance with Subsection (2),
 the office shall promptly forward the request to the appropriate office.
 (b)  If the request is forwarded promptly, the time limit for response begins
 when the record is received by the office specified by rule.
-(7)  If the governmental entity fails to provide the requested records or
+(8)  If the governmental entity fails to provide the requested records or
 issue a denial within the specified time period, that failure is considered
 the equivalent of a determination denying access to the record.

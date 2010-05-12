@@ -1,13 +1,10 @@
 26-8b-303.   Duties of emergency medical dispatch centers.
-Beginning on September 1, 2009, an emergency medical dispatch center shall:
+An emergency medical dispatch center shall:
 (1)  implement a system to receive and manage the information reported to the
-emergency medical dispatch center under Section 26-8a-209 or 26-8b-301;
+emergency medical dispatch center under Section 26-8b-301;
 (2)  record in the system described in Subsection (1), all information
-received under Section 26-8a-209 or 26-8b-301 as follows:
-(a)  if the information is received under Subsection 26-8a-209(5), within 30
-days after the day on which the information is received; or
-(b)  if the information is received under Subsection 26-8a-209(6) or Section
-26-8b-301, within 14 days after the day on which the information is received;
+received under Section 26-8b-301 within 14 days after the day on which the
+information is received;
 (3)  inform a person who calls to report a potential incident of sudden
 cardiac arrest of the location of any nearby AED; and
 (4)  provide the information contained in the system described in Subsection

@@ -51,8 +51,9 @@ and
 (B)  an explanation of the effect of abandoning or modifying the primary
 permanency goal.
 (ii)  A permanency hearing shall be conducted in accordance with Subsection
-78A-6-314(1)(b) within 30 days if something other than reunification is
-initially established as a minor's primary permanency goal.
+78A-6-314(1)(b) within 30 days after the day on which the dispositional
+hearing ends if something other than reunification is initially established as
+a minor's primary permanency goal.
 (iii) (A)  The court may amend a minor's primary permanency goal before the
 establishment of a final permanency plan under Section 78A-6-314.
 (B)  The court is not limited to the terms of the concurrent permanency goal
@@ -60,10 +61,10 @@ in the event that the primary permanency goal is abandoned.
 (C)  If, at any time, the court determines that reunification is no longer a
 minor's primary permanency goal, the court shall conduct a permanency hearing
 in accordance with Section 78A-6-314 on or before the earlier of:
-(I)  30 days from the day on which the court makes the determination described
-in this Subsection (2)(c)(iii)(C); or
-(II)  12 months from the day on which the minor was first removed from the
-minor's home.
+(I)  30 days after the day on which the court makes the determination
+described in this Subsection (2)(c)(iii)(C); or
+(II)  the day on which the provision of reunification services, described in
+Section 78A-6-314, ends.
 (d) (i) (A)  If the court determines that reunification services are
 appropriate, it shall order that the division make reasonable efforts to
 provide services to the minor and the minor's parent for the purpose of
@@ -82,7 +83,8 @@ and family plan in accordance with Subsection 62A-4a-205(6)(e); and
 regarding the provision of reasonable efforts, in accordance with state and
 federal law.
 (iii) (A)  The time period for reunification services may not exceed 12 months
-from the date that the minor was initially removed from the minor's home.
+from the date that the minor was initially removed from the minor's home,
+unless the time period is extended under Subsection 78A-6-314(8).
 (B)  Nothing in this section may be construed to entitle any parent to an
 entire 12 months of reunification services.
 (iv)  If reunification services are ordered, the court may terminate those
@@ -175,7 +177,7 @@ reunification efforts or services.
 evidence from at least two medical or mental health professionals, who are not
 associates, establishing that, even with the provision of services, the parent
 is not likely to be capable of adequately caring for the minor within 12
-months from the day on which the court finding is made.
+months after the day on which the court finding is made.
 (4)  In determining whether reunification services are appropriate, the court
 shall take into consideration:
 (a)  failure of the parent to respond to previous services or comply with a
@@ -192,10 +194,10 @@ repeated abuse;
 unlikely to be successful; and
 (g)  whether the parent has expressed an interest in reunification with the
 minor.
-(5) (a)  If reunification services are not ordered pursuant to Subsection
-(3)(a), and the whereabouts of a parent become known within six months of the
-out-of-home placement of the minor, the court may order the division to
-provide reunification services.
+(5) (a)  If reunification services are not ordered pursuant to Subsection (3),
+and the whereabouts of a parent become known within six months after the day
+on which the out-of-home placement of the minor is made, the court may order
+the division to provide reunification services.
 (b)  The time limits described in Subsection (2) are not tolled by the
 parent's absence.
 (6) (a)  If a parent is incarcerated or institutionalized, the court shall
@@ -212,11 +214,11 @@ shall consider:
 (vii)  for a minor 10 years of age or older, the minor's attitude toward the
 implementation of family reunification services; and
 (viii)  any other appropriate factors.
-(c)  Reunification services for an incarcerated parent are subject to the
-12-month limitation imposed in Subsection (2).
+(c)  Reunification services for an incarcerated parent are subject to the time
+limitation imposed in Subsection (2).
 (d)  Reunification services for an institutionalized parent are subject to the
-12-month limitation imposed in Subsection (2), unless the court determines
-that continued reunification services would be in the minor's best interest.
+time limitation imposed in Subsection (2), unless the court determines that
+continued reunification services would be in the minor's best interest.
 (7)  If, pursuant to Subsections (3)(d)(i)(B) through (K), the court does not
 order reunification services, a permanency hearing shall be conducted within
 30 days, in accordance with Section 78A-6-314.

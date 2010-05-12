@@ -18,12 +18,8 @@ single county;
 members be elected, and the petition is signed by registered voters within the
 service area equal in number to at least 10% of the number of registered
 voters within the service area who voted at the last gubernatorial election;
-(C)  an election is held to authorize the service area's issuance of bonds; or
-(D) (I)  two-thirds of all members of the board of trustees of the service
-area vote in favor of changing to an elected board; and
-(II)  the legislative body of each county and municipality that appoints a
-member to the board of trustees adopts a resolution approving the change to an
-elected board.
+or
+(C)  an election is held to authorize the service area's issuance of bonds.
 (b)  If members of the board of trustees of a service area are required to be
 elected under Subsection (1)(a)(iii)(C) because of a bond election:
 (i)  board members shall be elected in conjunction with the bond election;
@@ -34,9 +30,6 @@ of candidacy sufficiently in advance of the election; and
 ballot; and
 (iii)  except as provided in this Subsection (1)(b), the election shall be
 held as provided in Section 17B-1-306.
-(c)  A change to an elected board of trustees under Subsection (1)(a)(iii)(D)
-may not shorten the term of any member of the board of trustees serving at the
-time of the change.
 (2) (a)  This Subsection (2) applies to a service area created on or after May
 5, 2003 if:
 (i)  the service area was created to provide:

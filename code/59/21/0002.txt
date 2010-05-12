@@ -1,7 +1,8 @@
 59-21-2.   Mineral Bonus Account created -- Contents -- Use of Mineral Bonus
 Account money -- Mineral Lease Account created -- Contents -- Appropriation of
 monies from Mineral Lease Account.
-(1) (a)  The Mineral Bonus Account is created within the General Fund.
+(1) (a) There is created a restricted account within the General Fund known as
+the "Mineral Bonus Account."
 (b)  The Mineral Bonus Account consists of federal mineral lease bonus
 payments deposited pursuant to Subsection 59-21-1(3).
 (c)  The Legislature shall make appropriations from the Mineral Bonus Account
@@ -12,7 +13,8 @@ U.S.C. Sec. 191.
 and requirements of Title 51, Chapter 7, State Money Management Act; and
 (ii)  deposit all interest or other earnings derived from the account into the
 Mineral Bonus Account.
-(2) (a)  The Mineral Lease Account is created within the General Fund.
+(2) (a)  There is created a restricted account within the General Fund known
+as the "Mineral Lease Account."
 (b)  The Mineral Lease Account consists of federal mineral lease money
 deposited pursuant to Subsection 59-21-1(1).
 (c)  The Legislature shall make appropriations from the Mineral Lease Account
@@ -70,7 +72,7 @@ counties:
 (B)  in which 4.5% or less of the mineral lease moneys within the state are
 generated; and
 (C)  that are significantly socially or economically impacted as provided in
-Subsection (3)(i)(iii) by the development of minerals under the Mineral Lands
+Subsection (2)(i)(iii) by the development of minerals under the Mineral Lands
 Leasing Act, 30 U.S.C. Sec. 181 et seq.
 (iii)  The significant social or economic impact required under Subsection
 (2)(i)(ii)(C) shall be as a result of:

@@ -1,4 +1,5 @@
-41-6a-502.5.    Impaired driving -- Penalty -- Sentencing requirements.
+41-6a-502.5.    Impaired driving -- Penalty -- Reporting of convictions --
+Sentencing requirements.
 (1)  With the agreement of the prosecutor, a plea to a class B misdemeanor
 violation of Section 41-6a-502 committed on or after July 1, 2008, may be
 entered as a conviction of impaired driving under this section if:
@@ -20,8 +21,14 @@ Subsection (1)(b).
 (4)  For purposes of Section 76-3-402, the entry of a plea to a class B
 misdemeanor violation of Section 41-6a-502 as impaired driving under this
 section is a reduction of one degree.
-(5)  The court shall notify the Driver License Division of each conviction
+(5) (a)  The court shall notify the Driver License Division of each conviction
 entered under this section.
+(b)  Beginning on July 1, 2012, a court shall, monthly, send to the Division
+of Occupational and Professional Licensing, created in Section 58-1-103, a
+report containing the name, case number, and, if known, the date of birth of
+each person convicted during the preceding month of a violation of this
+section for whom there is evidence that the person was driving while impaired,
+in whole or in part, by a prescribed controlled substance.
 (6) (a)  The provisions in Subsections 41-6a-505(1), (2), and (3) that require
 a sentencing court to order a convicted person to participate in a screening,
 an assessment, or an educational series, or obtain substance abuse treatment

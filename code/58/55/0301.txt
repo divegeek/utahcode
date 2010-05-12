@@ -22,25 +22,27 @@ in the following classifications:
 (a)  general engineering contractor;
 (b)  general building contractor;
 (c)  residential and small commercial contractor;
-(d)  specialty contractor;
-(e)  master plumber;
-(f)  residential master plumber;
-(g)  journeyman plumber;
-(h)  apprentice plumber;
-(i)  residential journeyman plumber;
-(j)  master electrician;
-(k)  residential master electrician;
-(l)  journeyman electrician;
-(m)  residential journeyman electrician;
-(n)  apprentice electrician;
-(o)  construction trades instructor:
+(d)  elevator contractor;
+(e)  specialty contractor;
+(f)  master plumber;
+(g)  residential master plumber;
+(h)  journeyman plumber;
+(i)  apprentice plumber;
+(j)  residential journeyman plumber;
+(k)  master electrician;
+(l)  residential master electrician;
+(m)  journeyman electrician;
+(n)  residential journeyman electrician;
+(o)  apprentice electrician;
+(p)  construction trades instructor:
 (i)  general engineering classification;
 (ii)  general building classification;
 (iii)  electrical classification;
 (iv)  plumbing classification; and
 (v)  mechanical classification;
-(p)  alarm company; and
-(q)  alarm company agent.
+(q)  alarm company;
+(r)  alarm company agent; and
+(s)  elevator mechanic.
 (3) (a)  An applicant may apply for a license in one or more classification or
 specialty contractor subclassification.
 (b)  A license shall be granted in each classification or subclassification

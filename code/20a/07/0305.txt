@@ -1,5 +1,5 @@
 20A-7-305.   Obtaining signatures -- Verification -- Removal of signature.
-(1)  Any Utah voter may sign a referendum petition if the voter is a legal
+(1)  A Utah voter may sign a referendum petition if the voter is a legal
 voter.
 (2)  The sponsors shall ensure that the person in whose presence each
 signature sheet was signed:
@@ -7,13 +7,23 @@ signature sheet was signed:
 20A-2-105; and
 (b)  verifies each signature sheet by completing the verification printed on
 the last page of each signature sheet.
-(3) (a) (i)  Any voter who has signed a referendum petition may have his
-signature removed from the petition by submitting a notarized statement to
-that effect to the county clerk.
-(ii)  In order for the signature to be removed, the statement must be received
-by the county clerk before he delivers the petition to the lieutenant
-governor.
-(b)  Upon receipt of the statement, the county clerk shall remove the
-signature of the person submitting the statement from the referendum petition.
-(c)  No one may remove signatures from a referendum petition after the
-petition is submitted to the lieutenant governor.
+(3) (a) (i)  A voter who has signed a referendum petition may have the voter's
+signature removed from the petition by submitting to the county clerk a
+statement requesting that the voter's signature be removed.
+(b)  The statement shall include:
+(i)  the name of the voter;
+(ii)  the resident address at which the voter is registered to vote;
+(iii)  the last four digits of the voter's Social Security number;
+(iv)  the driver license or identification card number; and
+(v)  the signature of the voter.
+(c)  A voter may not submit a statement by email or other electronic means.
+(d)  In order for the signature to be removed, the statement must be received
+by the county clerk before the day which is 55 days after the end of the
+legislative session at which the law passed.
+(e)  The county clerk shall deliver all statements received under this
+Subsection (3):
+(i)  with the referendum petition packets to the lieutenant governor; or
+(ii)  in a supplemental delivery to the lieutenant governor for a statement
+submitted after the county clerk delivered the referendum petition packets.
+(f)  A person may only remove a signature from a referendum petition in
+accordance with this Subsection (3).

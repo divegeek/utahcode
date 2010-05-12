@@ -1,4 +1,4 @@
-34A-8a-203 (Superseded 07/01/10).   Reporting.
+34A-8a-203.   Reporting.
 (1)  As used in this section, "reporting entity" means one of the following
 that provides benefits under Chapter 2, Workers' Compensation Act, or Chapter
 3, Utah Occupational Disease Act:
@@ -45,5 +45,10 @@ Administrative Rulemaking Act, regarding:
 section, the commission shall, pursuant to Title 63G, Chapter 4,
 Administrative Procedures Act, impose a civil assessment of up to $500 for
 each quarter that a reporting entity fails to make a report.
-(b)  A civil assessment collected under this section shall be deposited in the
-Uninsured Employers' Fund.
+(b) (i)  The commission shall deposit a civil assessment imposed under this
+Subsection (4) into the Uninsured Employers' Fund created by Section 34A-2-704
+to be used for the purposes of the Uninsured Employers' Fund specified in
+Section 34A-2-704.
+(ii)  The administrator of the Uninsured Employers' Fund shall collect money
+required to be deposited into the Uninsured Employers' Fund under this
+Subsection (4) in accordance with Section 34A-2-704.

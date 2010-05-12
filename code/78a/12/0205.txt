@@ -7,13 +7,13 @@ the judge's current term; and
 (b)  the judge receive a minimum score on the judicial performance survey as
 follows:
 (i)  an average score of at least a 3.0 on at least 80% of the questions,
-excluding litigant and witness respondents, for questions scored on the
-numerical scale; and
+excluding litigant respondents, for questions scored on the numerical scale;
+and
 (ii)  if the commission includes a question on the survey that does not use
 the numerical scale, the commission shall establish the minimum performance
-standard for all questions, excluding any question to litigant and witness
-respondents, that do not use the numerical scale to be substantially
-equivalent to the standard required under Subsection (1)(b)(i).
+standard for all questions, excluding any question to litigant respondents,
+that do not use the numerical scale to be substantially equivalent to the
+standard required under Subsection (1)(b)(i).
 (2)  The commission may establish an additional minimum performance standard
 if the commission by at least two-thirds vote:
 (a)  determines that satisfaction of the standard is necessary to the

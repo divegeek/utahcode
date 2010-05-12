@@ -1,5 +1,5 @@
 76-3-201.   Definitions -- Sentences or combination of sentences allowed --
-Civil penalties -- Hearing.
+Civil penalties.
 (1)  As used in this section:
 (a)  "Conviction" includes a:
 (i)  judgment of guilt; and
@@ -47,9 +47,9 @@ agreement.
 (b)  In determining whether restitution is appropriate, the court shall follow
 the criteria and procedures as provided in Title 77, Chapter 38a, Crime
 Victims Restitution Act.
-(5) (a)  In addition to any other sentence the court may impose, the court
-shall order the defendant to pay restitution of governmental transportation
-expenses if the defendant was:
+(5) (a)  In addition to any other sentence the court may impose, and unless
+otherwise ordered by the court, the defendant shall pay restitution of
+governmental transportation expenses if the defendant was:
 (i)  transported pursuant to court order from one county to another within the
 state at governmental expense to resolve pending criminal charges;
 (ii)  charged with a felony or a class A, B, or C misdemeanor; and
@@ -61,9 +61,9 @@ appear a warrant is issued for an infraction; or
 (ii)  the defendant was not transported pursuant to a court order.
 (c) (i)  Restitution of governmental transportation expenses under Subsection
 (5)(a)(i) shall be calculated according to the following schedule:
-(A)  $75 for up to 100 miles a defendant is transported;
-(B)  $125 for 100 up to 200 miles a defendant is transported; and
-(C)  $250 for 200 miles or more a defendant is transported.
+(A) $100 for up to 100 miles a defendant is transported;
+(B) $200 for 100 up to 200 miles a defendant is transported; and
+(C) $350 for 200 miles or more a defendant is transported.
 (ii)  The schedule of restitution under Subsection (5)(c)(i) applies to each
 defendant transported regardless of the number of defendants actually
 transported in a single trip.

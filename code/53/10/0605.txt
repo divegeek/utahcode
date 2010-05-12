@@ -1,5 +1,7 @@
-53-10-605.   Use of money in fund -- Criteria -- Administration.
-(1)  Subject to an annual legislative appropriation from the fund to:
+53-10-605.   Use of money in restricted account -- Criteria --
+Administration.
+(1)  Subject to an annual legislative appropriation from the restricted
+account to:
 (a)  the committee, the committee shall:
 (i)  authorize the use of the money in the fund, by grant to a local entity or
 state agency in accordance with this Subsection (1) and Subsection (2);
@@ -28,11 +30,11 @@ equal to 1 cent per month levied on telecommunications service under Section
 69-2-5.6 shall be used to enhance and upgrade statewide digital mapping
 standards.
 (2) (a)  Beginning July 1, 2007, the committee may not grant the money in the
-fund to a local entity unless the local entity is in compliance with Phase I,
-wireless E-911 service.
-(b)  Beginning July 1, 2009, the committee may not grant money in the fund to
-a local entity unless the local entity is in compliance with Phase II,
-wireless E-911 service.
+restricted account to a local entity unless the local entity is in compliance
+with Phase I, wireless E-911 service.
+(b)  Beginning July 1, 2009, the committee may not grant money in the
+restricted account to a local entity unless the local entity is in compliance
+with Phase II, wireless E-911 service.
 (3)  A local entity must deposit any money it receives from the committee into
 a special emergency telecommunications service fund in accordance with
 Subsection 69-2-5(4).

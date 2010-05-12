@@ -1,11 +1,18 @@
 73-3b-102.   Definitions.
 As used in this chapter:
-(1)  "Artificially recharge" means to place water underground by means of
-injection, surface infiltration, or other method for the purposes of storing
-and recovering the water.
+(1)  "Artificially recharge" means to place water in an aquifer:
+(a)  by means of:
+(i)  injection;
+(ii)  surface infiltration; or
+(iii)  another method; and
+(b)  for the purposes of:
+(i)  storing the water; and
+(ii)  recovering the water.
 (2)  "Division" means Division of Water Rights.
-(3)  "Recharge permit" means a permit issued by the state engineer to inject
-water into an underground aquifer for the purpose of storing the water.
-(4)  "Recovery permit" means a permit issued by the state engineer to withdraw
-from an underground aquifer water that has been injected and stored in the
-aquifer pursuant to a recharge permit.
+(3)  "Recharge permit" means a permit issued by the state engineer to
+construct and operate a recharge project.
+(4)  "Recharge project" means to artificially recharge water into an aquifer.
+(5)  "Recovery permit" means a permit issued by the state engineer to
+construct and operate a recovery project.
+(6)  "Recovery project" means to withdraw from an aquifer water that has been
+artificially recharged pursuant to a recharge permit.

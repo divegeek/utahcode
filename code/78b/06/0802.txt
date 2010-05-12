@@ -1,13 +1,14 @@
-78B-6-802.   Unlawful detainer by tenant for term less than life.
+78B-6-802.   Unlawful detainer by tenant for a term less than life.
 (1)  A tenant holding real property for a term less than life, is guilty of an
 unlawful detainer if the tenant:
-(a)  continues in possession, in person or by subtenant, of the property or
-any part of it, after the expiration of the specified term or period for which
-it is let to him, which specified term or period, whether established by
-express or implied contract, or whether written or parol, shall be terminated
-without notice at the expiration of the specified term or period;
+(a)  except as provided in Subsection (1)(i), continues in possession, in
+person or by subtenant, of the property or any part of it, after the
+expiration of the specified term or period for which it is let to him, which
+specified term or period, whether established by express or implied contract,
+or whether written or parol, shall be terminated without notice at the
+expiration of the specified term or period;
 (b)  having leased real property for an indefinite time with monthly or other
-periodic rent reserved:
+periodic rent reserved and except as provided in Subsection (1)(i):
 (i)  continues in possession of it in person or by subtenant after the end of
 any month or period, in cases where the owner, the owner's designated agent,
 or any successor in estate of the owner, 15 calendar days or more prior to the
@@ -30,14 +31,19 @@ service of a three calendar days' notice to quit;
 including nuisance as defined in Section 78B-6-1107 after service of a three
 calendar days' notice to quit;
 (g)  commits a criminal act on the premises and remains in possession after
-service of a three calendar days' notice to quit; or
+service of a three calendar days' notice to quit;
 (h)  continues in possession, in person or by subtenant, after a neglect or
 failure to perform any condition or covenant of the lease or agreement under
 which the property is held, other than those previously mentioned, and after
 notice in writing requiring in the alternative the performance of the
 conditions or covenant or the surrender of the property, served upon the
 tenant and upon any subtenant in actual occupation of the premises remains
-uncomplied with for three calendar days after service.
+uncomplied with for three calendar days after service; or
+(i) (i)  is a tenant under a bona fide tenancy as provided in Section 702 of
+the Protecting Tenants at Foreclosure Act of 2009, Pub. L. 111-22; and
+(ii)  continues in possession after the effective date of a notice to vacate
+given in accordance with Section 702 of the Protecting Tenants at Foreclosure
+Act of 2009, Pub. L. 111-22.
 (2)  Within three calendar days after the service of the notice, the tenant,
 any subtenant in actual occupation of the premises, any mortgagee of the term,
 or other person interested in its continuance may perform the condition or

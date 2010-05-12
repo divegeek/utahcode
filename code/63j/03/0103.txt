@@ -1,40 +1,43 @@
 63J-3-103.   Definitions.
 As used in this chapter:
 (1) (a)  "Appropriations" means actual unrestricted capital and operating
-appropriations from unrestricted General Fund sources and from non-Uniform
-School Fund income tax revenues as presented in the governor's executive
-budgets.
+appropriations from unrestricted General Fund and Education Fund sources.
 (b)  "Appropriations" includes appropriations that are contingent upon
-available surpluses in the General Fund.
+available surpluses in the General Fund and Education Fund.
 (c)  "Appropriations" does not mean:
-(i)  debt service expenditures;
-(ii)  emergency expenditures;
-(iii)  expenditures from all other fund or subfund sources presented in the
-executive budgets;
-(iv)  transfers or appropriations from the Education Fund to the Uniform
+(i)  public education expenditures;
+(ii)  Utah Education Network expenditures in support of public education;
+(iii)  Utah College of Applied Technology expenditures in support of public
+education;
+(iv)  Tax Commission expenditures related to collection of income taxes in
+support of public education;
+(v)  debt service expenditures;
+(vi)  emergency expenditures;
+(vii)  expenditures from all other fund or subfund sources;
+(viii)  transfers or appropriations from the Education Fund to the Uniform
 School Fund;
-(v)  transfers into, or appropriations made to, the General Fund Budget
+(ix)  transfers into, or appropriations made to, the General Fund Budget
 Reserve Account established in Section 63J-1-312;
-(vi)  transfers into, or appropriations made to, the Education Budget Reserve
+(x)  transfers into, or appropriations made to, the Education Budget Reserve
 Account established in Section 63J-1-313;
-(vii)  transfers in accordance with Section 63J-1-314 into, or appropriations
+(xi)  transfers in accordance with Section 63J-1-314 into, or appropriations
 made to the State Disaster Recovery Restricted Account created in Section
 53-2-403;
-(viii)  monies appropriated to fund the total one-time project costs for the
+(xii)  money appropriated to fund the total one-time project costs for the
 construction of capital developments as defined in Section 63A-5-104;
-(ix)  transfers or deposits into or appropriations made to the Centennial
+(xiii)  transfers or deposits into or appropriations made to the Centennial
 Highway Fund Restricted Account created by Section 72-2-118;
-(x)  transfers or deposits into or appropriations made to the Transportation
+(xiv)  transfers or deposits into or appropriations made to the Transportation
 Investment Fund of 2005 created by Section 72-2-124;
-(xi)  transfers or deposits into or appropriations made to:
+(xv)  transfers or deposits into or appropriations made to:
 (A)  the Department of Transportation from any source; or
 (B)  any transportation-related account or fund from any source; or
-(xii)  supplemental appropriations from the General Fund to the Division of
-Forestry, Fire, and State Lands to provide monies for wildland fire control
+(xvi)  supplemental appropriations from the General Fund to the Division of
+Forestry, Fire, and State Lands to provide money for wildland fire control
 expenses incurred during the current or previous fire years.
 (2)  "Base year real per capita appropriations" means the result obtained for
 the state by dividing the fiscal year 1985 actual appropriations of the state
-less debt monies by:
+less debt money by:
 (a)  the state's July 1, 1983 population; and
 (b)  the fiscal year 1983 inflation index divided by 100.
 (3)  "Calendar year" means the time period beginning on January 1 of any given
@@ -46,7 +49,7 @@ Special Session, Chapter 4.
 and ending on June 30 of the subsequent year.
 (6)  "Fiscal year 1985 actual base year appropriations" means fiscal year 1985
 actual capital and operations appropriations from General Fund and non-Uniform
-School Fund income tax revenue sources, less debt monies.
+School Fund income tax revenue sources, less debt money.
 (7)  "Inflation index" means the change in the general price level of goods
 and services as measured by the Gross National Product Implicit Price Deflator
 of the Bureau of Economic Analysis, U.S. Department of Commerce calculated as

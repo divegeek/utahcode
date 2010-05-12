@@ -5,8 +5,8 @@ share;
 (b)  arrange for disposition of fractional shares by the shareholders; or
 (c)  issue scrip in registered or bearer form entitling the holder to receive
 a full share upon surrendering enough scrip to equal a full share.
-(2)  Each certificate representing scrip must be conspicuously labeled "scrip"
-and must contain the information required to be included on a share
+(2)  Each certificate representing scrip shall be conspicuously labeled
+"scrip" and shall contain the information required to be included on a share
 certificate by Subsections 16-10a-625(2) and (3) and Section 16-10a-627.
 (3)  The holder of a fractional share is entitled to exercise the rights of a
 shareholder, including the right to vote, to receive dividends, and to

@@ -19,10 +19,13 @@ business as a contractor, reasonably necessary for the protection of the
 public health, safety, and welfare; and
 (iii)  be a licensed master electrician if an applicant for an electrical
 contractor's license or a licensed master residential electrician if an
-applicant for a residential electrical contractor's license; or
+applicant for a residential electrical contractor's license;
 (iv)  be a licensed master plumber if an applicant for a plumbing contractor's
 license or a licensed master residential plumber if an applicant for a
-residential plumbing contractor's license; and
+residential plumbing contractor's license; or
+(v)  be a licensed elevator mechanic and produce satisfactory evidence of
+three years experience as an elevator mechanic if an applicant for an elevator
+contractor's license; and
 (f)  if an applicant for a construction trades instructor license, satisfy any
 additional requirements established by rule.
 (2)  After approval of an applicant for a contractor's license by the
@@ -188,30 +191,35 @@ managing operations of the applicant within the state; and
 (B)  the names, addresses, dates of birth, Social Security numbers, and
 fingerprint cards of all individuals owning 5% or more of the equity of the
 company;
-(iv)  if a partnership, the names, addresses, dates of birth, Social Security
-numbers, and fingerprint cards of all general partners, and those responsible
-management personnel employed within the state or having direct responsibility
-for managing operations of the applicant within the state;
-(v)  if a proprietorship, the names, addresses, dates of birth, Social
+(iv)  if a partnership, provide the names, addresses, dates of birth, Social
+Security numbers, and fingerprint cards of all general partners, and those
+responsible management personnel employed within the state or having direct
+responsibility for managing operations of the applicant within the state;
+(v)  if a proprietorship, provide the names, addresses, dates of birth, Social
 Security numbers, and fingerprint cards of the proprietor, and those
 responsible management personnel employed within the state or having direct
 responsibility for managing operations of the applicant within the state;
-(vi)  be of good moral character in that officers, directors, shareholders
-described in Subsection (3)(k)(ii)(B), partners, proprietors, and responsible
-management personnel have not been convicted of a felony, a misdemeanor
-involving moral turpitude, or any other crime that when considered with the
-duties and responsibilities of an alarm company is considered by the board to
-indicate that the best interests of the public are served by granting the
-applicant a license;
-(vii)  document that none of the applicant's officers, directors, shareholders
-described in Subsection (3)(k)(ii)(B), partners, proprietors, and responsible
-management personnel have been declared by any court of competent jurisdiction
-incompetent by reason of mental defect or disease and not been restored;
+(vi)  if a trust, provide the names, addresses, dates of birth, Social
+Security numbers, and fingerprint cards of the trustee, and those responsible
+management personnel employed within the state or having direct responsibility
+for managing operations of the applicant within the state;
+(vii)  be of good moral character in that officers, directors, shareholders
+described in Subsection (3)(k)(ii)(B), partners, proprietors, trustees, and
+responsible management personnel have not been convicted of a felony, a
+misdemeanor involving moral turpitude, or any other crime that when considered
+with the duties and responsibilities of an alarm company is considered by the
+board to indicate that the best interests of the public are served by granting
+the applicant a license;
 (viii)  document that none of the applicant's officers, directors,
-shareholders described in Subsection (3)(k)(ii)(B), partners, proprietors, and
-responsible management personnel are currently suffering from habitual
-drunkenness or from drug addiction or dependence;
-(ix)  file and maintain with the division evidence of:
+shareholders described in Subsection (3)(k)(ii)(B), partners, proprietors,
+trustees, and responsible management personnel have been declared by any court
+of competent jurisdiction incompetent by reason of mental defect or disease
+and not been restored;
+(ix)  document that none of the applicant's officers, directors, shareholders
+described in Subsection (3)(k)(ii)(B), partners, proprietors, and responsible
+management personnel are currently suffering from habitual drunkenness or from
+drug addiction or dependence;
+(x)  file and maintain with the division evidence of:
 (A)  comprehensive general liability insurance in form and in amounts to be
 established by rule by the commission with the concurrence of the director;
 (B)  workers' compensation insurance that covers employees of the applicant in
@@ -222,7 +230,7 @@ accordance with applicable Utah law; and
 for purposes of Title 35A, Chapter 4, Employment Security Act;
 (III)  State Tax Commission; and
 (IV)  Internal Revenue Service; and
-(x)  meet with the division and board.
+(xi)  meet with the division and board.
 (l)  Each applicant for licensure as an alarm company agent shall:
 (i)  submit an application in a form prescribed by the division accompanied by
 fingerprint cards;
@@ -238,12 +246,39 @@ incompetent by reason of mental defect or disease and not been restored;
 addiction or dependence; and
 (vi)  meet with the division and board if requested by the division or the
 board.
+(m) (i)  Each applicant for licensure as an elevator mechanic shall:
+(A)  provide documentation of experience and education credits of not less
+than three years work experience in the elevator industry, in construction,
+maintenance, or service and repair; and
+(B)  satisfactorily complete a written examination administered by the
+division established by rule under Section 58-1-203; or
+(C)  provide certificates of completion of an apprenticeship program for
+elevator mechanics, having standards substantially equal to those of this
+chapter and registered with the United States Department of Labor Bureau
+Apprenticeship and Training or a state apprenticeship council.
+(ii) (A)  If an elevator contractor licensed under this chapter cannot find a
+licensed elevator mechanic to perform the work of erecting, constructing,
+installing, altering, servicing, repairing, or maintaining an elevator, the
+contractor may:
+(I)  notify the division of the unavailability of licensed personnel; and
+(II)  request the division issue a temporary elevator mechanic license to an
+individual certified by the contractor as having an acceptable combination of
+documented experience and education to perform the work described in
+Subsection (3)(m)(ii)(A).
+(B) (I)  The division may issue a temporary elevator mechanic license to an
+individual certified under Subsection (3)(m)(ii)(A)(II) upon application by
+the individual, accompanied by the appropriate fee as determined by the
+department under Section 63J-1-504.
+(II)  The division shall specify the time period for which the license is
+valid and may renew the license for an additional time period upon its
+determination that a shortage of licensed elevator mechanics continues to
+exist.
 (4)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
 Act, the division may make rules establishing when Federal Bureau of
 Investigation records shall be checked for applicants as an alarm company or
 alarm company agent.
 (5)  To determine if an applicant meets the qualifications of Subsections
-(3)(k)(vi) and (3)(l)(iii), the division shall provide an appropriate number
+(3)(k)(vii) and (3)(l)(iii), the division shall provide an appropriate number
 of copies of fingerprint cards to the Department of Public Safety with the
 division's request to:
 (a)  conduct a search of records of the Department of Public Safety for

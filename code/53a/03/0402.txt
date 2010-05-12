@@ -35,9 +35,9 @@ in other districts either within or outside the state.
 (iii)  be filed with the State Board of Education.
 (5)  A board may establish, locate, and maintain elementary, secondary, and
 applied technology schools.
-(6)  Except as provided in Subsection 53A-11-1402(3), a board may enroll
-children in school who are at least five years of age before September 2 of
-the year in which admission is sought.
+(6)  Except as provided in Section 53A-1-1001, a board may enroll children in
+school who are at least five years of age before September 2 of the year in
+which admission is sought.
 (7)  A board may establish and support school libraries.
 (8)  A board may collect damages for the loss, injury, or destruction of
 school property.
@@ -160,6 +160,8 @@ board shall:
 (ii)  at least 10 days prior to the public hearing, be:
 (A)  published:
 (I)  in a newspaper of general circulation in the area; and
-(II)  as required in Section 45-1-101; and
+(II) on the Utah Public Notice Website created in Section 63F-1-701; and
 (B)  posted in at least three public locations within the municipality or on
 the district's official website.
+(22)  A board may implement a facility energy efficiency program established
+under Title 11, Chapter 44, Facility Energy Efficiency Act.

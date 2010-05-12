@@ -24,7 +24,10 @@ by the board;
 conversion equipment, in accordance with 40 C.F.R. Part 86, Control of
 Emissions from New and In-use Highway Vehicles and Engines, using all fuel the
 motor vehicle is capable of using; or
-(III)  any other test or standard recognized by board rule; or
+(III)  any other test or standard recognized by board rule, which may not
+include a retrofit compressed natural gas vehicle that is retrofit in
+accordance with Section 19-1-406, unless that motor vehicle also satisfies
+Subsection (1)(c)(i)(C)(I); or
 (ii)  special mobile equipment on which conversion equipment has been
 installed meets the following criteria:
 (A)  the special mobile equipment's emissions of regulated pollutants, when
@@ -59,7 +62,7 @@ titled or registered and has been driven less than 7,500 miles.
 (i)  means any mobile equipment or vehicle that is not designed or used
 primarily for the transportation of persons or property; and
 (ii)  includes construction or maintenance equipment.
-(2) For taxable years beginning on or after January 1, 2009, but beginning on
+(2)  For taxable years beginning on or after January 1, 2009, but beginning on
 or before December 31, 2013, a taxpayer may claim a tax credit against tax
 otherwise due under this chapter or Chapter 8, Gross Receipts Tax on Certain
 Corporations Not Required to Pay Corporate Franchise or Income Tax Act, in an

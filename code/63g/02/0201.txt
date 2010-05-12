@@ -97,5 +97,16 @@ patent law as a result of its ownership of the intellectual property right.
 otherwise, in which a record is stored to deny, or unreasonably hinder the
 rights of a person to inspect and receive a copy of a record under this
 chapter.
-(12)  A governmental entity may provide access to an electronic copy of a
-record in lieu of providing access to its paper equivalent.
+(12)  Subject to the requirements of Subsection (8), a governmental entity
+shall provide access to an electronic copy of a record in lieu of providing
+access to its paper equivalent if:
+(a)  the person making the request requests or states a preference for an
+electronic copy;
+(b)  the governmental entity currently maintains the record in an electronic
+format that is reproducible and may be provided without reformatting or
+conversion; and
+(c)  the electronic copy of the record:
+(i)  does not disclose other records that are exempt from disclosure; or
+(ii)  may be segregated to protect private, protected, or controlled
+information from disclosure without the undue expenditure of public resources
+or funds.

@@ -1,10 +1,21 @@
 17-50-302.   General county powers.
-(1)  A county may:
-(a)  as prescribed by statute, levy, assess, and collect taxes, borrow money,
-and levy and collect special assessments for benefits conferred; and
-(b)  provide services, exercise powers, and perform functions that are
-reasonably related to the safety, health, morals, and welfare of their
+(1) (a)  Except as provided in Subsection (1)(b), a county may:
+(i)  as prescribed by statute:
+(A)  levy a tax;
+(B)  perform an assessment;
+(C)  collect a tax;
+(D)  borrow money; or
+(E)  levy and collect a special assessment for a conferred benefit; or
+(ii)  provide a service, exercise a power, or perform a function that is
+reasonably related to the safety, health, morals, and welfare of county
 inhabitants, except as limited or prohibited by statute.
+(b)  A county or a governmental instrumentality of a county may not perform an
+action described in Subsection (1)(a)(i) or provide a service, exercise a
+power, or perform a function described in Subsection (1)(a)(ii) in another
+county or a municipality within the other county without first entering into
+an agreement under Title 11, Chapter 13, Interlocal Cooperation Act, or other
+contract with the other county to perform the action, provide the service,
+exercise the power, or perform the function.
 (2) (a)  A county may:
 (i)  sue and be sued;
 (ii)  subject to Subsection (2)(c), acquire real property by tax sale,

@@ -6,9 +6,9 @@ and orders issued by the board are enforced by:
 (2) (a)  A person who knowingly violates or fails to comply with this part is
 guilty of a class B misdemeanor and is punishable by a fine of not less than
 $50 nor more than $500.
-(b)  A person previously convicted under Subsection (a) who knowingly violates
-or fails to comply with this part is guilty of a class B misdemeanor and is
-punishable by a fine of not less than $200 nor more than $2,000.
+(b)  A person previously convicted under Subsection (2)(a) who knowingly
+violates or fails to comply with this part is guilty of a class B misdemeanor
+and is punishable by a fine of not less than $200 nor more than $2,000.
 (c)  Each day the violation or failure to comply continues constitutes a
 separate offense.
 (3)  The enforcing authority may enter the premises of a licensee under this
@@ -37,7 +37,7 @@ issued by the board.  The fee shall be reasonable and may not exceed the
 amount of the cost of service or inspection provided. Fees collected under
 this subsection may be retained by the enforcing authority, and shall be
 applied to the expenses of providing these services.
-(6) (a)  Except as provided in Subsection (c), a person who fills a leased
+(6) (a)  Except as provided in Subsection (6)(c), a person who fills a leased
 container in violation of the terms of a written lease is liable in an action
 by the container lessor for the greater of:
 (i)  the actual damages to the container lessor, including incidental and
@@ -55,9 +55,9 @@ lease does not prohibit the person from filling the container; or
 terms prohibiting the filling of the container without the lessor's
 permission.
 (c)  If a lessee or lessor misrepresents his ownership or the terms of his
-written lease under Subsection (b), the lessee or lessor who made the
+written lease under Subsection (6)(b), the lessee or lessor who made the
 misrepresentation, and not the person filling the tank, is liable for the
-damages under Subsection (a).
+damages under Subsection (6)(a).
 (7)  If a written container lease entered into after May 1, 1992, restricts
 the right to fill a leased container, the restriction shall be plainly stated
 in the lease in any manner designed to draw the attention of the lessee to the

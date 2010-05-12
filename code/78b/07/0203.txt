@@ -1,6 +1,8 @@
 78B-7-203.   Hearing.
-(1)  The court shall schedule a hearing within 20 days after the ex parte
-determination.
+(1) If an ex parte order is granted, the court shall schedule a hearing within
+20 days after the ex parte determination.  If an ex parte order is denied, the
+court, upon the request of the petitioner, shall schedule a hearing within 20
+days after the ex parte determination.
 (2)  The petition, ex parte child protective order, and notice of hearing
 shall be served on the respondent, the minor's parent or guardian, and, if
 appointed, the guardian ad litem.  The notice shall contain:
@@ -20,4 +22,4 @@ the minor is being abused or is in imminent danger of being abused, the court
 shall enter a child protective order.  With the exception of the provisions of
 Section 78A-6-323, a child protective order does not constitute an
 adjudication of abuse, neglect, or dependency under Title 78A, Chapter 6, Part
-3, Abuse Neglect and Dependency Proceedings.
+3, Abuse, Neglect, and Dependency Proceedings.

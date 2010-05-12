@@ -12,11 +12,11 @@ provider obtains a consumer's consent in the manner provided by Section
 and 13-42-127 shall be presented in a form that is capable of being accurately
 reproduced for later reference.
 (4)  With respect to disclosure by means of an Internet website, the
-disclosure of the information required by Subsection 13-42-117(4) must appear
+disclosure of the information required by Subsection 13-42-117(4) shall appear
 on one or more screens that:
 (a)  contain no other information; and
-(b)  the individual must see before proceeding to assent to formation of an
-agreement.
+(b)  the individual is able to see before proceeding to assent to formation of
+an agreement.
 (5)  At the time of providing the materials and agreement required by
 Subsections 13-42-117(3) and (4), Section 13-42-119, and Section 13-42-127, a
 provider shall inform the individual that upon electronic, telephonic, or

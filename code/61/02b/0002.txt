@@ -25,12 +25,16 @@ definitions provided in Subsection (1)(a)(ii).
 (iii)  The testimony of a person relating to the person’s analyses,
 conclusions, or opinions concerning identified real estate or identified real
 property is considered to be an oral appraisal report.
-(d)  "Board" means the Real Estate Appraiser Licensing and Certification Board
+(d)  "Appraisal Qualification Board" means the Appraisal Qualification Board
+of the Appraisal Foundation.
+(e)  "Board" means the Real Estate Appraiser Licensing and Certification Board
 that is established in Section 61-2b-7.
-(e)  "Certified appraisal report" means a written or oral appraisal report
+(f)  "Certified appraisal report" means a written or oral appraisal report
 that is certified by a state-certified general appraiser or state-certified
 residential appraiser.
-(f) (i) (A)  "Consultation service" means an engagement to provide a real
+(g)  "Concurrence" means that the entities that are given a concurring role
+jointly agree to an action.
+(h) (i) (A)  "Consultation service" means an engagement to provide a real
 estate valuation service analysis, opinion, conclusion, or other service that
 does not fall within the definition of appraisal.
 (B)  "Consultation service" does not mean a valuation appraisal, analysis
@@ -38,46 +42,46 @@ assignment, or review assignment.
 (ii)  Regardless of the intention of the client or employer, if a person
 prepares an unbiased analysis, opinion, or conclusion, the analysis, opinion,
 or conclusion is considered to be an appraisal and not a consultation service.
-(g)  "Contingent fee" means a fee or other form of compensation, payment of
+(i)  "Contingent fee" means a fee or other form of compensation, payment of
 which is dependent on or conditioned by:
 (i)  the reporting of a predetermined analysis, opinion, or conclusion by the
 person performing the analysis, opinion, or conclusion; or
 (ii)  achieving a result specified by the person requesting the analysis,
 opinion, or conclusion.
-(h)  "Division" means the Division of Real Estate of the Department of
+(j)  "Division" means the Division of Real Estate of the Department of
 Commerce.
-(i)  "Federally related transaction" means a real estate related transaction
+(k)  "Federally related transaction" means a real estate related transaction
 that is required by federal law or by federal regulation to be supported by an
 appraisal prepared by:
 (i)  a state-licensed appraiser; or
 (ii)  a state-certified appraiser.
-(j)  "Real estate" means an identified parcel or tract of land including
+(l)  "Real estate" means an identified parcel or tract of land including
 improvements if any.
-(k)  "Real estate appraisal activity" means the act or process of making an
+(m)  "Real estate appraisal activity" means the act or process of making an
 appraisal of real estate or real property and preparing an appraisal report.
-(l)  "Real estate related transaction" means:
+(n)  "Real estate related transaction" means:
 (i)  the sale, lease, purchase, investment in, or exchange of real property or
 an interest in real property, or the financing of such a transaction;
 (ii)  the refinancing of real property or an interest in real property; or
 (iii)  the use of real property or an interest in real property as security
 for a loan or investment, including mortgage-backed securities.
-(m)  "Real property" means one or more defined interests, benefits, or rights
+(o)  "Real property" means one or more defined interests, benefits, or rights
 inherent in the ownership of real estate.
-(n)  "State-certified general appraiser" means a person who holds a current,
+(p)  "State-certified general appraiser" means a person who holds a current,
 valid certification as a state-certified general appraiser issued under this
 chapter.
-(o)  "State-certified residential appraiser" means a person who holds a
+(q)  "State-certified residential appraiser" means a person who holds a
 current, valid certification as a state-certified residential real estate
 appraiser issued under this chapter.
-(p)  "State-licensed appraiser" means a person who holds a current, valid
+(r)  "State-licensed appraiser" means a person who holds a current, valid
 license as a state-licensed appraiser issued under this chapter.
-(q)  "Trainee" means an individual who:
+(s)  "Trainee" means an individual who:
 (i)  does not hold an appraiser license or appraiser certification issued
 under this chapter;
 (ii)  works under the direct supervision of a state-certified appraiser to
 earn experience for licensure; and
 (iii)  is registered as a trainee under this chapter.
-(r)  "Unbiased analysis, opinion, or conclusion" means an analysis, opinion,
+(t)  "Unbiased analysis, opinion, or conclusion" means an analysis, opinion,
 or conclusion relating to the nature, quality, value, or utility of identified
 real estate or identified real property that is prepared by a person who is
 employed or retained to act, or would be perceived by third parties or the

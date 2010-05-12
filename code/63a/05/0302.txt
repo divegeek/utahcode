@@ -6,10 +6,10 @@ occupied by an agency;
 (i)  Title 63G, Chapter 6, Utah Procurement Code; and
 (ii)  any legislative mandates contained in the appropriations act or other
 specific legislation;
-(c)  apply the criteria contained in Subsection (e) to prepare a report
+(c)  apply the criteria contained in Subsection (1)(e) to prepare a report
 evaluating each high-cost lease at least 12 months before it expires;
 (d)  evaluate each lease under the division's control and apply the criteria
-contained in Subsection (e), when appropriate, to evaluate those leases;
+contained in Subsection (1)(e), when appropriate, to evaluate those leases;
 (e)  in evaluating leases:
 (i)  determine whether or not the lease is cost-effective when the needs of
 the agency to be housed in the leased facilities are considered;
@@ -23,7 +23,7 @@ liability;
 evaluate whether or not the proposed lease payments are reasonable under
 current market conditions;
 (v)  compare proposed significant lease terms to the current market, and
-recommend  whether or not these proposed terms are reasonable under current
+recommend whether or not these proposed terms are reasonable under current
 market conditions; and
 (vi)  if applicable, recommend that the lease or modification to a lease be
 approved or disapproved;
@@ -32,7 +32,7 @@ identify viable alternatives to:
 (i)  make the lease cost-effective; or
 (ii)  meet the agency's needs when the lease expires; and
 (g)  upon request, provide the information included in the report to:
-(i)  the agency benefited by the lease; and
+(i)  the agency benefitted by the lease; and
 (ii)  the Office of Legislative Fiscal Analyst.
 (2)  The director may:
 (a)  subject to legislative appropriation, enter into facility leases with

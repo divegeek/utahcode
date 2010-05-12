@@ -278,3 +278,145 @@ portion of an applicable insurance policy.
 (u)  If there are multiple uninsured motorist policies, as set forth in
 Subsection (7), the claimant may elect to arbitrate in one hearing the claims
 against all the uninsured motorist carriers.
+(9) (a)  Within 30 days after a covered person elects to submit a claim for
+uninsured motorist benefits to binding arbitration or files litigation, the
+covered person shall provide to the uninsured motorist carrier:
+(i)  a written demand for payment of uninsured motorist coverage benefits,
+setting forth:
+(A)  the specific monetary amount of the demand; and
+(B)  the factual and legal basis and any supporting documentation for the
+demand;
+(ii)  a written statement under oath disclosing:
+(A) (I)  the names and last known addresses of all health care providers who
+have rendered health care services to the covered person that are material to
+the claims for which uninsured motorist benefits are sought for a period of
+five years preceding the date of the event giving rise to the claim for
+uninsured motorist benefits up to the time the election for arbitration or
+litigation has been exercised; and
+(II)  whether the covered person has seen other health care providers who have
+rendered health care services to the covered person, which the covered person
+claims are immaterial to the claims for which uninsured motorist benefits are
+sought, for a period of five years preceding the date of the event giving rise
+to the claim for uninsured motorist benefits up to the time the election for
+arbitration or litigation has been exercised that have not been disclosed
+under Subsection (9)(a)(ii)(A)(I);
+(B) (I)  the names and last known addresses of all health insurers or other
+entities to whom the covered person has submitted claims for health care
+services or benefits material to the claims for which uninsured motorist
+benefits are sought, for a period of five years preceding the date of the
+event giving rise to the claim for uninsured motorist benefits up to the time
+the election for arbitration or litigation has been exercised; and
+(II)  whether the identity of any health insurers or other entities to whom
+the covered person has submitted claims for health care services or benefits,
+which the covered person claims are immaterial to the claims for which
+uninsured motorist benefits are sought, for a period of five years preceding
+the date of the event giving rise to the claim for uninsured motorist benefits
+up to the time the election for arbitration or litigation have not been
+disclosed;
+(C)  if lost wages, diminished earning capacity, or similar damages are
+claimed, all employers of the covered person for a period of five years
+preceding the date of the event giving rise to the claim for uninsured
+motorist benefits up to the time the election for arbitration or litigation
+has been exercised;
+(D)  other documents to reasonably support the claims being asserted; and
+(E)  all state and federal statutory lienholders including a statement as to
+whether the covered person is a recipient of Medicare or Medicaid benefits or
+Utah Children's Health Insurance Program benefits under Title 26, Chapter 40,
+Utah Children's Health Insurance Act, or if the claim is subject to any other
+state or federal statutory liens; and
+(iii)  signed authorizations to allow the uninsured motorist carrier to only
+obtain records and billings from the individuals or entities disclosed.
+(b) (i)  If the uninsured motorist carrier determines that the disclosure of
+undisclosed health care providers or health care insurers under Subsection
+(9)(a)(ii) is reasonably necessary, the uninsured motorist carrier may:
+(A)  make a request for the disclosure of the identity of the health care
+providers or health care insurers; and
+(B)  make a request for authorizations to allow the uninsured motorist carrier
+to only obtain records and billings from the individuals or entities not
+disclosed.
+(ii)  If the covered person does not provide the requested information within
+10 days:
+(A)  the covered person shall disclose, in writing, the legal or factual basis
+for the failure to disclose the health care providers or health care insurers;
+and
+(B)  either the covered person or the uninsured motorist carrier may request
+the arbitrator or arbitration panel to resolve the issue of whether the
+identities or records are to be provided if the covered person has elected
+arbitration.
+(iii)  The time periods imposed by Subsection (9)(c)(i) are tolled pending
+resolution of the dispute concerning the disclosure and production of records
+of the health care providers or health care insurers.
+(c) (i)  An uninsured motorist carrier that receives an election for
+arbitration or a notice of filing litigation and the demand for payment of
+uninsured motorist benefits under Subsection (9)(a)(i) shall have a reasonable
+time, not to exceed 60 days from the date of the demand and receipt of the
+items specified in Subsections (9)(a)(i) through (iii), to:
+(A)  provide a written response to the written demand for payment provided for
+in Subsection (9)(a)(i);
+(B)  except as provided in Subsection (9)(c)(i)(C), tender the amount, if any,
+of the uninsured motorist carrier's determination of the amount owed to the
+covered person; and
+(C)  if the covered person is a recipient of Medicare or Medicaid benefits or
+Utah Children's Health Insurance Program benefits under Title 26, Chapter 40,
+Utah Children's Health Insurance Act, or if the claim is subject to any other
+state or federal statutory liens, tender the amount, if any, of the uninsured
+motorist carrier's determination of the amount owed to the covered person
+less:
+(I)  if the amount of the state or federal statutory lien is established, the
+amount of the lien; or
+(II)  if the amount of the state or federal statutory lien is not established,
+two times the amount of the medical expenses subject to the state or federal
+statutory lien until such time as the amount of the state or federal statutory
+lien is established.
+(ii)  If the amount tendered by the uninsured motorist carrier under
+Subsection (9)(c)(i) is the total amount of the uninsured motorist policy
+limits, the tendered amount shall be accepted by the covered person.
+(d)  A covered person who receives a written response from an uninsured
+motorist carrier as provided for in Subsection (9)(c)(i), may:
+(i)  elect to accept the amount tendered in Subsection (9)(c)(i) as payment in
+full of all uninsured motorist claims; or
+(ii)  elect to:
+(A)  accept the amount tendered in Subsection (9)(c)(i) as partial payment of
+all uninsured motorist claims; and
+(B)  litigate or arbitrate the remaining claim.
+(e)  If a covered person elects to accept the amount tendered under Subsection
+(9)(c)(i) as partial payment of all uninsured motorist claims, the final award
+obtained through arbitration, litigation, or later settlement shall be reduced
+by any payment made by the uninsured motorist carrier under Subsection
+(9)(c)(i).
+(f)  In an arbitration proceeding on the remaining uninsured claims:
+(i)  the parties may not disclose to the arbitrator or arbitration panel the
+amount paid under Subsection (9)(c)(i) until after the arbitration award has
+been rendered; and
+(ii)  the parties may not disclose the amount of the limits of uninsured
+motorist benefits provided by the policy.
+(g)  If the final award obtained through arbitration or litigation is greater
+than the average of the covered person's initial written demand for payment
+provided for in Subsection (9)(a)(i) and the uninsured motorist carrier's
+initial written response provided for in Subsection (9)(c)(i), the uninsured
+motorist carrier shall pay:
+(i)  the final award obtained through arbitration or litigation, except that
+if the award exceeds the policy limits of the subject uninsured motorist
+policy by more than $15,000, the amount shall be reduced to an amount equal to
+the policy limits plus $15,000; and
+(ii)  any of the following applicable costs:
+(A)  any costs as set forth in Rule 54(d), Utah Rules of Civil Procedure;
+(B)  the arbitrator or arbitration panel's fee; and
+(C)  the reasonable costs of expert witnesses and depositions used in the
+presentation of evidence during arbitration or litigation.
+(h) (i)  The covered person shall provide an affidavit of costs within five
+days of an arbitration award.
+(ii) (A)  Objection to the affidavit of costs shall specify with particularity
+the costs to which the uninsured motorist carrier objects.
+(B)  The objection shall be resolved by the arbitrator or arbitration panel.
+(iii)  The award of costs by the arbitrator or arbitration panel under
+Subsection (9)(g)(ii) may not exceed $5,000.
+(i) (i)  A covered person shall disclose all material information, other than
+rebuttal evidence, as specified in Subsection (9)(a).
+(ii)   If the information under Subsection (9)(i)(i) is not disclosed, the
+covered person may not recover costs or any amounts in excess of the policy
+under Subsection (9)(g).
+(j)  This Subsection (9) does not limit any other cause of action that arose
+or may arise against the uninsured motorist carrier from the same dispute.
+(k)  The provisions of this Subsection (9) only apply to motor vehicle
+accidents that occur on or after March 30, 2010.

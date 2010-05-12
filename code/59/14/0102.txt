@@ -14,8 +14,8 @@ substance or material except tobacco.
 (a)  under Section 59-14-201 to obtain a license under Section 59-14-202; or
 (b)  under Section 59-14-301 to obtain a license under Section 59-14-202.
 (3)  "Counterfeit cigarette" means:
-(a) a cigarette that has a false manufacturing label; or
-(b) a package of cigarettes bearing a counterfeit tax stamp.
+(a)  a cigarette that has a false manufacturing label; or
+(b)  a package of cigarettes bearing a counterfeit tax stamp.
 (4)  "Importer" means a person who imports into the United States, either
 directly or indirectly, a finished cigarette for sale or distribution.
 (5)  "Indian tribal entity" means a federally recognized Indian tribe, tribal
@@ -23,14 +23,24 @@ entity, or any other person doing business as a distributor or retailer of
 cigarettes on tribal lands located in the state.
 (6)  "Manufacturer" means a person who manufactures, fabricates, assembles,
 processes, or labels a finished cigarette.
-(7)  "Moist snuff" means tobacco that is:
-(a)  finely:
+(7)  "Moist snuff" means tobacco that:
+(a)  is finely:
 (i)  cut;
 (ii)  ground; or
-(iii)  powdered; and
-(b)  not intended to be:
+(iii)  powdered;
+(b)  has at least 45% moisture content, as determined by the commission by
+rule made in accordance with Title 63G, Chapter 3, Utah Administrative
+Rulemaking Act;
+(c)  is not intended to be:
 (i)  smoked; or
-(ii)  placed in the nasal cavity.
+(ii)  placed in the nasal cavity; and
+(d)  except for single-use pouches of loose tobacco, is not packaged,
+produced, sold, or distributed in single-use units, including:
+(i)  tablets;
+(ii)  lozenges;
+(iii)  strips;
+(iv)  sticks; or
+(v)  packages containing multiple single-use units.
 (8)  "Retailer" means a person that:
 (a)  sells or distributes a cigarette to a consumer in the state; or
 (b)  intends to sell or distribute a cigarette to a consumer in the state.

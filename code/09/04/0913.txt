@@ -33,12 +33,12 @@ the bonds to be refunded; or
 (ii)  exchanged for the bonds to be refunded.
 (3) (a)  Except as may otherwise be expressly provided by the corporation,
 every issue of its notes or bonds shall be general obligations of the
-corporation payable solely out of any revenues or monies of the corporation,
+corporation payable solely out of any revenues or money of the corporation,
 subject only to any agreements with the holders of particular notes or bonds
-pledging any particular monies or revenues.
+pledging any particular money or revenues.
 (b)  These bonds or notes may be additionally secured by a pledge of any grant
 or contribution from the federal government or any corporation, association,
-institution, or person or a pledge of any monies, income, or revenues of the
+institution, or person or a pledge of any money, income, or revenues of the
 corporation from any source.
 (4) (a)  The notes and bonds shall be authorized by resolution or resolutions
 of the corporation, shall bear the date or dates, and shall mature at the time
@@ -96,7 +96,7 @@ and
 noteholders or bondholders may be amended or abrogated, the amount of notes or
 bonds to which the holders must consent, and the manner in which the consent
 may be given;
-(h)  limitations on the amount of monies to be expended by the corporation for
+(h)  limitations on the amount of money to be expended by the corporation for
 operating expenses of the corporation;
 (i)  vesting in a trustee or trustees the property, rights, powers, and duties
 in trust as the corporation may determine, which may include any or all of the
@@ -117,7 +117,7 @@ binding from the time when the pledge is made and shall have a lien priority
 based on the time of grant or, if more than one lien is granted at a given
 time, as set forth in the resolution or instrument pursuant to which the
 pledge is made.
-(b)  The revenues, monies, or property so pledged and thereafter received by
+(b)  The revenues, money, or property so pledged and thereafter received by
 the corporation shall immediately be subject to the lien of the pledge and
 shall constitute a perfected lien without any physical delivery thereof or
 further act, and the lien of any such pledge shall be valid and binding as
@@ -142,7 +142,7 @@ the power of a trust company or any trust company within or without the state.
 the rights and remedies of the noteholders or bondholders as may be reasonable
 and proper and not in violation of law, including covenants setting forth the
 duties of the corporation in relation to the exercise of its corporate powers
-and the custody, safeguarding, and application of all monies.
+and the custody, safeguarding, and application of all money.
 (c)  The corporation may provide by the trust indenture for the payment of the
 proceeds of the notes or bonds and the revenues to the trustee under the trust
 indenture or other depository, and for the method of their disbursement, with

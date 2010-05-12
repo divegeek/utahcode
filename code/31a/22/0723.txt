@@ -119,3 +119,13 @@ under the terms of the coverage; or
 related factor relating to any covered individual.
 (13)  Conditions pertaining to health may not be used as a basis for
 classification under this section.
+(14)  An insurer is only required to offer a conversion policy that complies
+with Subsection 31A-22-724(1)(b) and, notwithstanding Sections 31A-8-402.5 and
+31A-30-107.1, may discontinue any other conversion policy if:
+(a)  the discontinued conversion policy is discontinued uniformly without
+regard to any health related factor;
+(b)  any affected individual is provided with 90 days' advanced written notice
+of the discontinuation of the existing conversion policy;
+(c)  the policy holder is offered the insurer's conversion policy that
+complies with Subsection 31A-22-724(1)(b); and
+(d)  the policy holder is not re-rated for purposes of premium calculation.

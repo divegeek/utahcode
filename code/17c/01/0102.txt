@@ -233,8 +233,8 @@ area unless:
 project area plan was subsequently amended; and
 (ii)  the taxes were pledged to support bond indebtedness or other contractual
 obligations of the agency.
-(45)  "Taxing entity" means a public entity that levies a tax on property
-within a community.
+(45)  "Taxing entity" means a public entity that levies a tax on a parcel or
+parcels of property located within a community.
 (46)  "Taxing entity committee" means a committee representing the interests
 of taxing entities, created as provided in Section 17C-1-402.
 (47)  "Unincorporated" means not within a city or town.
@@ -255,5 +255,5 @@ space around buildings;
 improvements; and
 (vi)  providing improvements of public or private recreation areas and other
 public grounds.
-(b) "Urban renewal" means "redevelopment," as defined under the law in effect
+(b)  "Urban renewal" means "redevelopment," as defined under the law in effect
 before May 1, 2006, if the context requires.

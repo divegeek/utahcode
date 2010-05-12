@@ -1,6 +1,6 @@
 78A-6-701.   Jurisdiction of district court.
-(1)  The district court shall have exclusive original jurisdiction over all
-persons 16 years of age or older charged by information or indictment with:
+(1)  The district court has exclusive original jurisdiction over all persons
+16 years of age or older charged with:
 (a)  an offense which would be murder or aggravated murder if committed by an
 adult; or
 (b)  an offense which would be a felony if committed by an adult if the minor
@@ -21,5 +21,5 @@ justice court having jurisdiction.
 (b)  If the qualifying charge under Subsection (1) results in an acquittal, a
 finding of not guilty, or a dismissal of the charge in the district court, the
 juvenile court under Section 78A-6-103 and the Division of Juvenile Justice
-Services regain jurisdiction and any authority previously exercised over the
+Services regain any jurisdiction and authority previously exercised over the
 minor.

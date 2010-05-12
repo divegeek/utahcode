@@ -1,33 +1,33 @@
-61-2b-20.   Renewal of license or certification.
-(1)  To obtain a renewal of a license or certification under this chapter, the
-holder of a current, valid license or certification shall, in compliance with
-procedures established by the division and the board, make application and pay
-the prescribed fee to the division before the expiration date of the license
-or certification.
-(2)  An application for renewal of a license or certification shall be
-accompanied by evidence in the form prescribed by the division of having
-completed the continuing education requirements for renewal specified in this
-chapter.
-(3) (a)  A license or certification expires if it is not renewed on or before
-its expiration date.
-(b)  For a period of 30 days after the expiration date, a license or
-certification may be reinstated upon:
+61-2b-20.   Renewal of license, certification, or registration.
+(1)  To renew a license, certification, or registration, before the license,
+certification, or registration expires, the holder of the license,
+certification, or registration shall submit to the division in compliance with
+procedures set by the division and the board:
+(a)  an application for renewal;
+(b)  a fee established by the division and the board, in accordance with
+Section 63J-1-504; and
+(c)  evidence in the form prescribed by the division of having completed the
+continuing education requirements for renewal specified in this chapter.
+(2) (a)  A license, certification, or registration expires if it is not
+renewed on or before its expiration date.
+(b)  For a period of 30 days after the expiration date, a license,
+certification, or registration may be reinstated upon:
 (i)  payment of a renewal fee and a late fee determined by the division and
 the board; and
 (ii)  satisfying the continuing education requirements specified in Section
 61-2b-40.
-(c)  After the 30-day period described in Subsection (3)(b), and until six
-months after the expiration date, the license or certification may be
-reinstated by:
+(c)  After the 30-day period described in Subsection (2)(b), and until six
+months after the expiration date, a license, certification, or registration
+may be reinstated by:
 (i)  paying a renewal fee and a reinstatement fee determined by the division
 and the board; and
 (ii)  satisfying the continuing education requirements specified in Section
 61-2b-40.
-(d)  After the six-month period described in Subsection (3)(c), and until one
-year after the expiration date, the license or certification may be reinstated
-by:
+(d)  After the six-month period described in Subsection (2)(c), and until one
+year after the expiration date, a license, certification, or registration may
+be reinstated by:
 (i)  paying a renewal fee and a reinstatement fee determined by the division
-and the board;
+and the board in accordance with Section 63J-1-504;
 (ii)  providing proof acceptable to the division and the board of the person
 having satisfied the continuing education requirements of Section 61-2b-40;
 and
@@ -36,17 +36,19 @@ completing 24 hours of continuing education:
 (A)  in addition to the requirements in Section 61-2b-40; and
 (B)  on a subject determined by the division by rule made in accordance with
 Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
-(e)  The division shall relicense or recertify a person who does not renew
-that person's license or certification within one year after the expiration
-date as prescribed for an original application.
-(f)  Notwithstanding Subsection (3)(a), the division may extend the term of a
-license that would expire under Subsection (3)(a) except for the extension if:
+(e)  The division shall relicense, recertify, or reregister a person who does
+not renew that person's license, certification, or registration within one
+year after the expiration date as prescribed for an original application.
+(f)  Notwithstanding Subsection (2)(a), the division may extend the term of a
+license, certification, or registration that would expire under Subsection
+(2)(a) except for the extension if:
 (i)  the person complies with the requirements of this section to renew the
-license; and
+license, certification, or registration; and
 (ii)  at the time of the extension, there is pending under this chapter:
-(A)  the application for renewal of the license; or
+(A)  the application for renewal of the license, certification, or
+registration; or
 (B)  a disciplinary action.
-(4)  A person who is licensed, certified, or registered under this chapter
+(3)  A person who is licensed, certified, or registered under this chapter
 shall notify the division of the following by sending the division a signed
 statement within 10 business days of:
 (a) (i)  a conviction of a criminal offense;
@@ -62,7 +64,7 @@ the license, certification, or registration is issued by this state or another
 jurisdiction; or
 (d)  the entry of a cease and desist order or a temporary or permanent
 injunction:
-(i)  against the person by a court or licensing agency; and
+(i)  against the person by a court or administrative agency; and
 (ii)  on the basis of:
 (A)  conduct or a practice involving an act regulated by this chapter; or
 (B)  conduct involving fraud, misrepresentation, or deceit.

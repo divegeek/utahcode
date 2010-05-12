@@ -1,6 +1,6 @@
 35A-4-502.   Administration of Employment Security Act.
 (1) (a)  The department shall administer this chapter through the division.
-(b)  The department may  make, amend, or rescind any rules and special orders
+(b)  The department may make, amend, or rescind any rules and special orders
 necessary for the administration of this chapter.
 (c)  The division may:
 (i)  employ persons;
@@ -16,7 +16,7 @@ this chapter during the preceding calendar year and shall make any
 recommendations for amendments to this chapter as the department considers
 proper.
 (e) (i)  The report required under Subsection (1)(d) shall include a balance
-sheet of the moneys in the fund in which there shall be provided, if possible,
+sheet of the money in the fund in which there shall be provided, if possible,
 a reserve against liability in future years to pay benefits in excess of the
 then current contributions, which reserve shall be set up by the division in
 accordance with accepted actuarial principles on the basis of statistics of
@@ -43,8 +43,8 @@ designee considers relevant and suitable and shall furnish them to any person
 upon application.
 (4) (a)  The division may delegate to any person so appointed the power and
 authority it considers reasonable and proper for the effective administration
-of this chapter and may bond any person handling moneys or signing checks
-under this authority.
+of this chapter and may bond any person handling money or signing checks under
+this authority.
 (b)  The department may, when permissible under federal and state law, make
 arrangements to voluntarily elect coverage under the United States Civil
 Service Retirement System or a comparable private retirement plan with respect
@@ -55,10 +55,15 @@ who:
 the employees' services for the department.
 (c)  An employee of the department who no longer may participate in a federal
 or other retirement system as a result of a change in status or appropriation
-under this chapter may purchase credit in a retirement system created under
-Title 49, Chapter 13, Public Employees' Noncontributory Retirement Act, with
-the employee’s assets from the federal or other retirement system in which
-the employee may no longer participate.
+under this chapter may purchase credit with the employee's assets from the
+federal or other retirement system in which the employee may no longer
+participate in a retirement system created under:
+(i)  Title 49, Chapter 13, Public Employees' Noncontributory Retirement Act
+for a purchase made under this Subsection (4)(c) made prior to July 1, 2011;
+or
+(ii)  Title 49, Chapter 22, Public Employees' Tier II Contributory Retirement
+Act, if the date of purchase under this Subsection (4)(c) is on or after July
+1, 2011.
 (5)  There is created an Employment Advisory Council composed of the members
 listed in Subsections (5)(a) and (b).
 (a)  The executive director shall appoint:
@@ -101,12 +106,12 @@ and
 in the solution of the problems listed in Subsection (5)(h).
 (j)  The executive director or the executive director's designee shall serve
 as chair of the council and call the necessary meetings.
-(k) (i) A member shall receive no compensation or benefits for the member's
-services, but may receive per diem and expenses incurred in the performance of
-the member’s official duties at the rates established by the Division of
-Finance under Sections 63A-3-106 and 63A-3-107.
-(ii) A member may decline to receive per diem and expenses for the member's
-service.
+(k)  A member may not receive compensation or benefits for the member's
+service, but may receive per diem and travel expenses in accordance with:
+(i)  Section 63A-3-106;
+(ii)  Section 63A-3-107; and
+(iii)  rules made by the Division of Finance pursuant to Sections 63A-3-106
+and 63A-3-107.
 (l)  The department shall provide staff support to the council.
 (6)  In the discharge of the duties imposed by this chapter, the division
 director or the director's designee as designated by department rule, may in
@@ -147,7 +152,7 @@ advantages available under the provisions of:
 (iii)  the Federal-State Extended Unemployment Compensation Act of 1970.
 (b)  In the administration of Section 35A-4-402, which is enacted to conform
 with the requirements of the Federal-State Extended Unemployment Compensation
-Act of 1970, 26 U.S.C.  3304, the division shall take any action necessary to
+Act of 1970, 26 U.S.C. 3304, the division shall take any action necessary to
 ensure that the section is interpreted and applied to meet the requirements of
 the federal act, as interpreted by the United States Department of Labor and
 to secure to this state the full reimbursement of the federal share of

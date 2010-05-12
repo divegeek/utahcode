@@ -17,50 +17,53 @@ requiring that an authorized assessment be paid within the time frame set
 forth in the notice.
 (b)  All or part of an authorized assessment becomes a called assessment when
 notice is mailed by the association to member insurers.
-(5)  "Contractual obligation" means an obligation under any of the following
+(5)  "Cash surrender value" means the cash surrender value without reduction
+for an outstanding policy loan or surrender charge.
+(6)  "Contractual obligation" means an obligation under any of the following
 for which coverage is provided under Section 31A-28-103:
 (a)  a policy or contract;
 (b)  a certificate under a group policy or contract; or
 (c)  a portion of a policy or contract.
-(6)  "Coverage date" means the date on which the association becomes
+(7)  "Coverage date" means the date on which the association becomes
 responsible for the obligations of a member insurer.
-(7)  "Covered policy" means any of the following for which coverage is
+(8)  "Covered policy" means any of the following for which coverage is
 provided in Section 31A-28-103:
 (a)  a policy or contract; or
 (b)  a portion of a policy or contract.
-(8) (a)  "Covered portion" means:
-(i)  for any covered policy that has a cash surrender value, a fraction
-obtained by dividing:
-(A)  the lesser of:
-(I)  $200,000; or
-(II)  the cash surrender value of the policy; by
-(B)  the cash surrender value of the policy; and
-(ii)  for any covered policy that does not have a cash surrender value, a
-fraction obtained by dividing:
-(A)  the lesser of:
-(I)  $200,000; or
-(II)  the policy's minimum statutory reserve; by
-(B)  the policy's minimum statutory reserve.
+(9) (a)  "Covered portion" means:
+(i)  for a covered policy that has a cash surrender value, a fraction
+calculated with:
+(A)  the numerator being the lesser of:
+(I) (Aa)  $200,000 for a life insurance policy; and
+(Bb)  $250,000 for a covered policy that is not a life insurance policy; or
+(II)  the cash surrender value of the policy; and
+(B)  the denominator being the cash surrender value of the policy; and
+(ii)  for a covered policy that does not have a cash surrender value, a
+fraction calculated with:
+(A)  the numerator being the lesser of:
+(I) (Aa)  $200,000 for a life insurance policy; or
+(Bb)  $250,000 for a covered policy that is not a life insurance policy; or
+(II)  the policy's minimum statutory reserve; and
+(B)  the denominator being the policy's minimum statutory reserve.
 (b)  The cash surrender value and the minimum statutory reserve are determined
 as of the coverage date in accordance with the exclusions in Subsection
 31A-28-103(2)(b)(iii).
-(9)  "Extra-contractual claim" includes a claim relating to:
+(10)  "Extra-contractual claim" includes a claim relating to:
 (a)  bad faith in the payment of a claim;
 (b)  punitive or exemplary damages; or
-(c)  attorneys' fees and costs.
-(10)  "Impaired insurer" means a member insurer that is not an insolvent
+(c)  attorney fees and costs.
+(11)  "Impaired insurer" means a member insurer that is not an insolvent
 insurer and:
 (a)  is considered by the commissioner to be hazardous pursuant to this title;
 or
 (b)  is placed under an order of rehabilitation or conservation by a court of
 competent jurisdiction.
-(11)  "Insolvent insurer" means a member insurer that is placed under an order
+(12)  "Insolvent insurer" means a member insurer that is placed under an order
 of liquidation by a court of competent jurisdiction with a finding of
 insolvency.
-(12) (a)  "Member insurer" means a person that:
-(i)  is an insurer; and
-(ii)  holds a certificate of authority to transact in this state any kind of
-insurance for which coverage is provided under Section 31A-28-103.
+(13) (a)  "Member insurer" means an insurer that holds a certificate of
+authority to transact in this state any kind of insurance for which coverage
+is provided under Section 31A-28-103.
 (b)  "Member insurer" includes an insurer whose license or certificate of
 authority in this state may have been:
 (i)  suspended;
@@ -68,19 +71,24 @@ authority in this state may have been:
 (iii)  not renewed; or
 (iv)  voluntarily withdrawn.
 (c)  "Member insurer" does not include:
-(i)  a health maintenance organization;
-(ii)  a fraternal benefit society;
-(iii)  a mandatory state pooling plan;
-(iv)  a mutual assessment company or other person that operates on an
+(i)  a for-profit or nonprofit:
+(A)  hospital;
+(B)  hospital service organization; or
+(C)  medical service organization;
+(ii)  a health maintenance organization;
+(iii)  a fraternal benefit society;
+(vi)  a mandatory state pooling plan;
+(v)  a mutual assessment company or other person that operates on an
 assessment basis;
-(v)  an insurance exchange; or
-(vi) an entity similar to an entity described in Subsections (12)(c)(i)
-through (v).
-(13)  "Moody's Corporate Bond Yield Average" means the Monthly Average
+(vi)  an insurance exchange;
+(vii)  an organization described in Subsection 31A-22-1305(2); or
+(viii) an entity similar to an entity described in Subsections (13)(c)(i)
+through (vii).
+(14)  "Moody's Corporate Bond Yield Average" means the Monthly Average
 Corporates as published by Moody's Investors Service, Inc., or any successor
 to Moody's Investors Service, Inc.
-(14) (a)  "Owner" of a policy or contract, "policy owner," or "contract owner"
-means the person who:
+(15) (a)  "Owner" of a policy or contract, "policy owner," or "contract owner"
+means a person who:
 (i)  is identified as the legal owner under the terms of the policy or
 contract; or
 (ii)  is otherwise vested with legal title to the policy or contract through a
@@ -89,15 +97,16 @@ valid assignment:
 (B)  properly recorded as the owner on the books of the insurer.
 (b)  "Owner," "policy owner," or "contract owner" does not include a person
 with only a beneficial interest in a policy or contract.
-(15)  "Person" means any:
-(a)  individual;
-(b)  corporation;
-(c)  limited liability company;
-(d)  partnership;
-(e)  association;
-(f)  governmental body or entity; or
-(g)  voluntary organization.
-(16)  "Plan sponsor" means:
+(16)  "Person" means:
+(a)  an individual;
+(b)  a corporation;
+(c)  a limited liability company;
+(d)  a partnership;
+(e)  an association;
+(f)  a governmental body or entity;
+(g)  a trust; or
+(h)  a voluntary organization.
+(17)  "Plan sponsor" means:
 (a)  the employer, in the case of a benefit plan established or maintained by
 a single employer;
 (b)  the employee organization, in the case of a benefit plan established or
@@ -109,7 +118,7 @@ plan, in the case of a benefit plan established or maintained by:
 (ii)  jointly by:
 (A)  one or more employers; and
 (B)  one or more employee organizations.
-(17) (a)  "Premiums" means an amount or consideration received on covered
+(18) (a)  "Premiums" means an amount or consideration received on covered
 policies or contracts, less:
 (i)  returned:
 (A)  premiums;
@@ -121,24 +130,24 @@ policies or contracts, less:
 31A-28-103(2); or
 (B)  the portion of a policy or contract for which coverage is not provided
 under Subsection 31A-28-103(2).
-(ii)  Notwithstanding Subsection (17)(b)(i), an assessable premium may not be
+(ii)  Notwithstanding Subsection (18)(b)(i), an assessable premium may not be
 reduced on account of:
 (A)  Subsection 31A-28-103(2)(b)(iii) relating to interest limitations; and
 (B)  Subsection 31A-28-103(3) relating to limitations for:
 (I)  one individual;
 (II)  any one participant; and
 (III)  any one contract owner.
-(c)  "Premiums" may not include any premiums in excess of $5,000,000:
-(i)  on any unallocated annuity contract not issued under a governmental
+(c)  "Premiums" does not include premiums in excess of $5,000,000:
+(i)  on an unallocated annuity contract not issued under a governmental
 retirement plan established under Section 401, 403(b), or 457, Internal
 Revenue Code; or
 (ii)  for multiple nongroup policies of life insurance owned by one owner:
-(A) whether the policy owner is an individual, firm, corporation, or other
+(A)  whether the policy owner is an individual, firm, corporation, or other
 person;
 (B)  whether the persons insured are officers, managers, employees, or other
 persons; and
 (C)  regardless of the number of policies or contracts held by the owner.
-(18) (a)  Except as provided in Subsection (18)(b), "principal place of
+(19) (a)  Except as provided in Subsection (19)(b), "principal place of
 business" of a plan sponsor or a person other than a natural person means the
 single state:
 (i)  in which the natural persons who establish policy for the direction,
@@ -160,8 +169,8 @@ entity is directed; and
 (F)  in the case of a benefit plan sponsored by affiliated companies
 comprising a consolidated corporation, the state in which the holding company
 or controlling affiliate has its principal place of business as determined
-using the factors described in Subsections (18)(a)(ii)(A) through (E).
-(b)  Notwithstanding Subsection (18)(a), in the case of a plan sponsor, if
+using the factors described in Subsections (19)(a)(ii)(A) through (E).
+(b)  Notwithstanding Subsection (19)(a), in the case of a plan sponsor, if
 more than 50% of the participants in the benefit plan are employed in a single
 state, the state where more than 50% of the participants are employed is
 considered to be the principal place of business of the plan sponsor.
@@ -172,39 +181,45 @@ similar group of representatives of the parties who establish or maintain the
 benefit plan.
 (ii)  If for a benefit plan described in Subsection (3) there is not a
 specific or clear designation of a principal place of business under
-Subsection (18)(c)(i), the principal place of business is considered to be the
+Subsection (19)(c)(i), the principal place of business is considered to be the
 principal place of business of the employer or employee organization that has
 the largest investment in the benefit plan.
-(19)  "Receivership court" means the court in the insolvent or impaired
+(20)  "Receiver" means, as the context requires:
+(a)  a rehabilitator;
+(b)  a liquidator;
+(c)  an ancillary receiver; or
+(d)  a conservator.
+(21)  "Receivership court" means the court in the insolvent or impaired
 insurer's state having jurisdiction over the conservation, rehabilitation, or
 liquidation of the insurer.
-(20) (a)  "Resident" means a person:
+(22) (a)  "Resident" means a person:
 (i)  to whom a contractual obligation is owed; and
 (ii)  who resides in this state on the earlier of the date a member insurer is
 an:
 (A)  impaired insurer; or
 (B)  insolvent insurer.
 (b)  A person may be a resident of only one state, which in the case of a
-person other than a natural person shall be its principal place of business.
+person other than a natural person is where its principal place of business is
+located.
 (c)  A citizen of the United States that is either a resident of a foreign
 country or a resident of a United States possession, territory, or
 protectorate that does not have an association similar to the association
 created by this part, is considered a resident of the state of domicile of the
 insurer that issued the policy or contract.
-(21)  "State" means:
+(23)  "State" means:
 (a)  a state;
 (b)  the District of Columbia;
 (c)  Puerto Rico; and
 (d)  a United States possession, territory, or protectorate.
-(22)  "Structured settlement annuity" means an annuity purchased to fund
+(24)  "Structured settlement annuity" means an annuity purchased to fund
 periodic payments for a plaintiff or other claimant in payment for personal
 injury suffered by the plaintiff or other claimant.
-(23)  "Supplemental contract" means a written agreement entered into for the
+(25)  "Supplemental contract" means a written agreement entered into for the
 distribution of proceeds under a policy or contract for:
 (a)  life;
 (b)  accident and health; or
 (c)  annuity.
-(24)  "Unallocated annuity contract" means an annuity contract or group
+(26)  "Unallocated annuity contract" means an annuity contract or group
 annuity certificate that is not issued to and owned by an individual, except
 to the extent of any annuity benefits guaranteed to an individual by an
 insurer under the contract or certificate.

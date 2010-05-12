@@ -17,8 +17,8 @@ in compliance with Subsections 23-15-10(2) and (3)(c); and
 animal authorized by the Wildlife Board in accordance with Section 23-15-10
 for stocking in the area where the private fish pond is located.
 (2)  An aquatic animal sold or transferred by the owner or operator of an
-aquaculture facility must be accompanied by the seller's receipt that contains
-the following information:
+aquaculture facility shall be accompanied by the seller's receipt that
+contains the following information:
 (a)  date of transaction;
 (b)  name, address, certificate of registration number, health approval
 number, and signature of seller;
@@ -28,11 +28,11 @@ number, and signature of seller;
 (iii)  reproductive capability; and
 (d)  name and address of the receiver.
 (3) (a)  A person holding a certificate of registration for an aquaculture
-facility must submit to the department an annual report of each sale of live
+facility shall submit to the department an annual report of each sale of live
 aquatic animals or each transfer of live aquatic animals to:
 (i)  another aquaculture facility; or
 (ii)  a fee fishing facility.
-(b)  The report must contain the following information:
+(b)  The report shall contain the following information:
 (i)  name, address, and certificate of registration number of the seller or
 supplier;
 (ii)  number and weight by species;
@@ -54,7 +54,8 @@ operator;
 (v)  the private fish pond's location; and
 (vi)  verification that the private fish pond was inspected and is in
 compliance with Subsections 23-15-10(2) and (3)(c).
-(5)  The reports required by Subsections (3) and (4) must be submitted before:
+(5)  The reports required by Subsections (3) and (4) shall be submitted
+before:
 (a)  a certificate of registration is renewed or a subsequent certificate of
 registration is issued for an aquaculture facility in the state; or
 (b)  a health approval number is issued for an out-of-state source.

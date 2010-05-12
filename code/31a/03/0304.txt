@@ -1,10 +1,9 @@
-31A-3-304 (Superseded 07/01/10).   Annual fees -- Other taxes or fees
-prohibited.
+31A-3-304.   Annual fees -- Other taxes or fees prohibited -- Captive
+Insurance Restricted Account.
 (1) (a)  A captive insurance company shall pay an annual fee imposed under
 this section to obtain or renew a certificate of authority.
 (b)  The commissioner shall:
-(i)  determine the annual fee pursuant to Sections 31A-3-103 and 63J-1-504;
-and
+(i)  determine the annual fee pursuant to Section 31A-3-103; and
 (ii)  consider whether the annual fee is competitive with fees imposed by
 other states on captive insurance companies.
 (2)  A captive insurance company that fails to pay the fee required by this
@@ -19,10 +18,19 @@ state.
 (b)  Notwithstanding Subsection (3)(a), a captive insurance company is subject
 to real and personal property taxes.
 (4)  A captive insurance company shall pay the fee imposed by this section to
-the department by March 31 of each year.
-(5) (a)  The funds received pursuant to Subsection (2) shall be deposited into
-the General Fund as a dedicated credit to be used by the department to:
+the commissioner by March 31 of each year.
+(5) (a)  Money received pursuant to Subsection (2) shall be deposited into the
+Captive Insurance Restricted Account.
+(b)  There is created in the General Fund a restricted account known as the
+"Captive Insurance Restricted Account."
+(c)  The Captive Insurance Restricted Account shall consist of the fees
+imposed by the commissioner in accordance with this section.
+(d)  The commissioner shall administer the Captive Insurance Restricted
+Account.  Subject to appropriations by the Legislature, the commissioner shall
+use the money deposited into the Captive Insurance Restricted Account to:
 (i)  administer and enforce Chapter 37, Captive Insurance Companies Act; and
 (ii)  promote the captive insurance industry in Utah.
-(b)  At the end of each fiscal year, funds received by the department in
-excess of $250,000 shall be treated as free revenue in the General Fund.
+(e)  An appropriation from the Captive Insurance Restricted Account is
+nonlapsing, except that at the end of each fiscal year, money received by the
+commissioner in excess of $600,000 shall be treated as free revenue in the
+General Fund.

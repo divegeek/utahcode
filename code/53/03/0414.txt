@@ -17,8 +17,8 @@ in an accident resulting in:
 (f)  refusal to submit to a test to determine the concentration of alcohol in
 the person's blood, breath, or urine;
 (g)  driving a commercial motor vehicle while the person's commercial driver
-license is disqualified, suspended, canceled, withdrawn, barred, denied, or
-revoked; or
+license is disqualified in accordance with the provisions of this section for
+violating an offense described in this section; or
 (h)  operating a commercial motor vehicle in a negligent manner causing the
 death of another including the offenses of automobile homicide under Section
 76-5-207, manslaughter under Section 76-5-205, or negligent homicide under
@@ -76,26 +76,27 @@ period.
 an out-of-service order while driving a commercial motor vehicle is
 disqualified from driving a commercial motor vehicle for a period not less
 than:
-(i)  90 days but not more than one year if the driver is convicted of a first
-violation;
-(ii)  one year but not more than five years if, during any ten-year period,
-the driver is convicted of two violations of out-of-service orders in separate
-incidents;
-(iii)  three years but not more than five years if, during any ten-year
-period, the driver is convicted of three or more violations of out-of-service
-orders in separate incidents;
+(i) 180 days if the driver is convicted of a first violation;
+(ii) two years if, during any 10 year period, the driver is convicted of two
+violations of out-of-service orders in separate incidents;
+(iii)  three years but not more than five years if, during any 10 year period,
+the driver is convicted of three or more violations of out-of-service orders
+in separate incidents;
 (iv)  180 days but not more than two years if the driver is convicted of a
 first violation of an out-of-service order while transporting hazardous
 materials required to be placarded or while operating a motor vehicle designed
 to transport 16 or more passengers, including the driver; or
-(v)  three years but not more than five years if, during any ten-year period,
+(v)  three years but not more than five years if, during any 10 year period,
 the driver is convicted of two or more violations, in separate incidents, of
 an out-of-service order while transporting hazardous materials required to be
 placarded or while operating a motor vehicle designed to transport 16 or more
 passengers, including the driver.
-(b)  A driver of a commercial motor vehicle who is convicted of violating an
-out-of-service order is subject to a civil penalty of not less than $1,100 nor
-more than $2,750.
+(b)  A driver of a commercial motor vehicle who is convicted of a first
+violation of an out-of-service order is subject to a civil penalty of not less
+than $2,500.
+(c)  A driver of a commercial motor vehicle who is convicted of a second or
+subsequent violation of an out-of-service order is subject to a civil penalty
+of not less than $5,000.
 (8)  A driver of a commercial motor vehicle who holds or is required to hold a
 CDL is disqualified for not less than 60 days if the division determines, in
 its check of the driver's driver license status, application, and record prior
@@ -165,7 +166,7 @@ driving record for 10 years from the date of the plea in abeyance agreement,
 even if the charge is:
 (i)  reduced or dismissed in accordance with the plea in abeyance agreement;
 or
-(ii)  expunged under Section 77-18-11.
+(ii)  expunged under Section 77-40-105.
 (14)  The division shall disqualify the CDL of a driver for an arrest of a
 violation of Section 41-6a-502 when administrative action is taken against the
 operator's driving privilege pursuant to Section 53-3-223 for a period of:

@@ -1,6 +1,7 @@
 59-12-402.   Additional resort communities sales and use tax -- Base -- Rate
 -- Collection fees -- Resolution and voter approval requirements -- Election
-requirements -- Notice requirements -- Ordinance requirements.
+requirements -- Notice requirements -- Ordinance requirements -- Prohibition
+of military installation development authority.
 (1) (a)  Subject to Subsections (2) through (6), the governing body of a
 municipality in which the transient room capacity as defined in Section
 59-12-405 is greater than or equal to 66% of the municipality's permanent
@@ -62,3 +63,6 @@ businesses based on gross receipts pursuant to Section 10-1-203.
 does not apply to a municipality that, on or before January 1, 1996, imposed a
 license fee or tax on only one class of businesses based on gross receipts
 pursuant to Section 10-1-203.
+(7)  A military installation development authority authorized to impose a
+resort communities tax under Section 59-12-401 may not impose an additional
+resort communities sales tax under this section.

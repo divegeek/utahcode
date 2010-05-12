@@ -5,8 +5,8 @@ to prevent further transfer or negotiation of the instrument.
 (2)  An indorsement stating a condition to the right of the indorsee to
 receive payment does not affect the right of the indorsee to enforce the
 instrument.  A person paying the instrument or taking it for value or
-collection may disregard the condition,  and the rights and liabilities of
-that person are not affected by whether the condition has been fulfilled.
+collection may disregard the condition, and the rights and liabilities of that
+person are not affected by whether the condition has been fulfilled.
 (3)  If an instrument bears an indorsement described in Subsection
 70A-4-201(2), or in blank or to a particular bank using the words "for
 deposit," "for collection," or other words indicating a purpose of having the
@@ -23,7 +23,7 @@ consistently with the indorsement.
 instrument for immediate payment over the counter from a person other than a
 collecting bank converts the instrument unless the proceeds of the instrument
 are received by the indorser or applied consistently with the indorsement.
-(d)  Except as otherwise provided in Subsection (c), a payor bank or
+(d)  Except as otherwise provided in Subsection (3)(c), a payor bank or
 intermediary bank may disregard the indorsement and is not liable if the
 proceeds of the instrument are not received by the indorser or applied
 consistently with the indorsement.

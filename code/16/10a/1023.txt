@@ -13,7 +13,7 @@ follows:
 (a)  Each vote entitled to be cast may be voted for or against up to that
 number of candidates that is equal to the number of directors to be elected,
 or the shareholder may indicate abstention, but without cumulating the votes.
-(b)  To be elected, a nominee must receive a plurality of the votes cast by
+(b)  To be elected, a nominee shall receive a plurality of the votes cast by
 shareholders of shares entitled to vote in the election at a meeting at which
 a quorum is present.
 (c)  Notwithstanding Subsection (2)(b), a nominee who is elected but receives

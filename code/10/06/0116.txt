@@ -16,8 +16,8 @@ unavoidable shortfall in revenues.   This provision does not permit the
 appropriation of any fund balance to avoid an operating deficit during any
 budget period except as provided under Subsection (4), or for emergency
 purposes under Section 10-6-129.
-(2)  The accumulation of a fund balance in the General Fund shall not exceed
-18% of the total estimated revenue of the General Fund.
+(2)  The accumulation of a fund balance in the General Fund may not exceed 18%
+of the total estimated revenue of the General Fund.
 (3)  If the fund balance at the close of any fiscal period exceeds the amount
 permitted under Subsection (2), the excess shall be appropriated in the manner
 provided in Section 10-6-117.
@@ -28,8 +28,8 @@ budget period, appropriate from estimated revenue or fund balance to a reserve
 for capital improvements for the purpose of financing future specific capital
 improvements, under a formal long-range capital plan adopted by the governing
 body.
-(b)  The reserves may accumulate from  fiscal period to fiscal period until
-the accumulated total is sufficient to permit economical expenditure for the
+(b)  The reserves may accumulate from fiscal period to fiscal period until the
+accumulated total is sufficient to permit economical expenditure for the
 specified purposes.
 (c)  Disbursements from these reserves shall be made only by transfer to a
 revenue or transfer account within the capital improvements fund, under a

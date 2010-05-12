@@ -1,7 +1,6 @@
 63M-7-305.   Drug Offender Reform Act -- Coordination.
 (1)  As used in this section:
-(a)  "Council" means the Utah Substance Abuse and Anti-Violence Coordinating
-Council.
+(a)  "Council" means the Utah Substance Abuse Advisory Council.
 (b)  "Drug Offender Reform Act" and "act" mean the screening, assessment,
 substance abuse treatment, and supervision provided to convicted offenders
 under Subsection 77-18-1.1(2) to:
@@ -34,12 +33,12 @@ to implement the act shall establish a local planning group and shall submit a
 plan to the council detailing how the authority proposes to use the act funds.
 The uses shall be in accordance with the guidelines established by the council
 under Subsection (3).
-(b)  Upon approval of the plan by the council, the Department of Human
-Services shall allocate the funds.
+(b)  Upon approval of the plan by the council, the Division of Substance Abuse
+and Mental Health shall allocate the funds.
 (c)  Local substance abuse authorities shall annually, on or before October 1,
-submit to the Department of Human Services and to the council reports
-detailing use of the funds and the impact and results of the use of the funds
-during the prior fiscal year ending June 30.
+submit to the Division of Substance Abuse and Mental Health and to the council
+reports detailing use of the funds and the impact and results of the use of
+the funds during the prior fiscal year ending June 30.
 (5) (a)  The Department of Corrections shall establish a planning group and
 shall submit a plan to the council detailing how the department proposes to
 use the act funds.  The uses shall be in accordance with the guidelines
@@ -47,7 +46,7 @@ established by the council under Subsection (3).
 (b)  The Department of Corrections shall annually, on or before October 1,
 submit to the council a report detailing use of the funds and the impact and
 results of the use of the funds during the prior fiscal year ending June 30.
-(6)  The Council shall monitor the progress and evaluation of the act and
+(6)  The council shall monitor the progress and evaluation of the act and
 shall provide a written report on the implementation, impact, and results of
 the act to the Law Enforcement and Criminal Justice and the Health and Human
-Services legislative interim committees annually on or before November 1.
+Services legislative interim committees annually on or before November 30.

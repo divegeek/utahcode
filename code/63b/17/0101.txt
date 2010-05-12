@@ -1,16 +1,10 @@
 63B-17-101.   Capital facilities bonds -- Maximum amount -- Projects
 authorized.
-(1) (a)  The total amount of bonds issued under this section may not exceed
-$43,750,000.
-(b)  When Utah State University provides written certification to the
-commission that the President of the United States has signed a federal
-appropriations bill appropriating monies for the United States Department of
-Agriculture - Agricultural Research Service's portion of the Agricultural
-Science Classroom Building and that those monies are available for
-expenditure, the commission may issue and sell general obligation bonds in a
-total amount not to exceed 71.85% of the amount of unexpended and available
-federal monies in the federal appropriations bill or $43,111,000, whichever is
-less.
+(1)  The total amount of bonds issued under this section may not exceed
+$43,111,000 for acquisition and construction proceeds, plus additional amounts
+necessary to pay costs of issuance, to pay capitalized interest, and to fund
+any debt service reserve requirements, with the total amount of the bonds not
+to exceed $43,542,100.
 (2) (a)  Proceeds from the issuance of bonds shall be provided to the division
 to provide funds to pay all or part of the cost of acquiring and constructing
 the projects listed in this Subsection (2).
@@ -36,11 +30,13 @@ USU Agricultural Science
 Classroom Building                      $493,400                $43,111,000
 TOTAL CAPITAL
 DEVELOPMENT
-PROJECTS                                                        $43,111,000
+PROJECTS
+$43,111,000
 ------------------------------------------------------------------------------
 -------------------------------------
+ADDITIONAL AUTHORIZED AMOUNTS           $431,100
 TOTAL GENERAL OBLIGATION BOND AUTHORIZATION
-FOR CAPITAL DEVELOPMENT PROJECTS                                $43,111,000
+FOR CAPITAL DEVELOPMENT PROJECTS                        $43,542,100
 ------------------------------------------------------------------------------
 -------------------------------------
 (d)  For purposes of this section, operations and maintenance costs:

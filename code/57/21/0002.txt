@@ -30,7 +30,7 @@ having a record of such an impairment or being regarded as having such an
 impairment.
 (b)  "Disability" does not include current illegal use of, or addiction to,
 any federally controlled substance, as defined in Section 102 of the
-Controlled Substances Act, 21 U.S.C. 802.
+Controlled Substances Act, 21 U.S.C. Sec. 802.
 (10)  "Discriminate" includes segregate or separate.
 (11)  "Discriminatory housing practice" means an act that is unlawful under
 this chapter.
@@ -63,9 +63,9 @@ unincorporated organizations, trustees, trustees in cases under the United
 States Bankruptcy Code, receivers, and fiduciaries.
 (17)  "Presiding officer" has the same meaning as provided in Section
 63G-4-103.
-(18)  "Real estate broker" or "salesperson" means a principal real estate
-broker, an associate real estate broker, or a real estate sales agent as those
-terms are defined in Section 61-2-2.
+(18)  "Real estate broker" or "salesperson" means a principal broker, an
+associate broker, or a sales agent as those terms are defined in Section
+61-2f-102.
 (19)  "Respondent" means a person against whom a complaint of housing
 discrimination has been initiated.
 (20)  "Sex" means gender and includes pregnancy, childbirth, and disabilities

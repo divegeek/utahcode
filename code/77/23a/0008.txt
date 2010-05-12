@@ -26,8 +26,8 @@ than one year;
 (B)  conspiracy, Section 76-4-201;
 (C)  solicitation, Section 76-4-203; and
 (ii)  punishable by a term of imprisonment of more than one year;
-(d)  terroristic threat offense punishable by a maximum term of imprisonment
-of more than one year, Section 76-5-107;
+(d)  a threat of terrorism offense punishable by a maximum term of
+imprisonment of more than one year, Section 76-5-107.3;
 (e) (i)  aggravated murder, Section 76-5-202;
 (ii)  murder, Section 76-5-203; or
 (iii)  manslaughter, Section 76-5-205;
@@ -59,10 +59,11 @@ imprisonment of more than one year, Section 76-6-518;
 (p)  criminal usury, Section 76-6-520;
 (q)  a fraudulent insurance act offense punishable by a maximum term of
 imprisonment of more than one year, Section 76-6-521;
-(r)  a violation of Chapter 6, Part 7, Computer Crimes Act, punishable by a
-maximum term of imprisonment of more than one year, Section 76-6-703;
+(r)  a violation of Title 76, Chapter 6, Part 7, Utah Computer Crimes Act,
+punishable by a maximum term of imprisonment of more than one year, Section
+76-6-703;
 (s)  bribery to influence official or political actions, Section 76-8-103;
-(t)  misusing public moneys, Section 76-8-402;
+(t)  misusing public money, Section 76-8-402;
 (u)  tampering with a witness or soliciting or receiving a bribe, Section
 76-8-508;
 (v)  retaliation against a witness, victim, or informant, Section 76-8-508.3;
@@ -71,7 +72,7 @@ maximum term of imprisonment of more than one year, Section 76-6-703;
 (y)  obstruction of justice, Section 76-8-306;
 (z)  destruction of property to interfere with preparation for defense or war,
 Section 76-8-802;
-(aa) an attempt to commit crimes of sabotage, Section 76-8-804;
+(aa)  an attempt to commit crimes of sabotage, Section 76-8-804;
 (bb)  conspiracy to commit crimes of sabotage, Section 76-8-805;
 (cc)  advocating criminal syndicalism or sabotage, Section 76-8-902;
 (dd)  assembly for advocating criminal syndicalism or sabotage, Section

@@ -23,23 +23,25 @@ ammunition by replacing the:
 (B)  bolt;
 (C)  breechblock; or
 (D)  any combination of Subsection (1)(b)(iii)(A), (B), or (C).
-(2) (a)  "Concealed dangerous weapon" means a dangerous weapon that is
+(2)  "Bureau" means the Bureau of Criminal Identification created in Section
+53-10-201 within the Department of Public Safety.
+(3) (a)  "Concealed dangerous weapon" means a dangerous weapon that is
 covered, hidden, or secreted in a manner that the public would not be aware of
 its presence and is readily accessible for immediate use.
-(b) A dangerous weapon shall not be considered a concealed dangerous weapon if
-it is a firearm which is unloaded and is securely encased.
-(3)  "Criminal history background check" means a criminal background check
+(b)  A dangerous weapon shall not be considered a concealed dangerous weapon
+if it is a firearm which is unloaded and is securely encased.
+(4)  "Criminal history background check" means a criminal background check
 conducted by a licensed firearms dealer on every purchaser of a handgun
 through the division or the local law enforcement agency where the firearms
 dealer conducts business.
-(4)  "Curio or relic firearm" means any firearm that:
+(5)  "Curio or relic firearm" means any firearm that:
 (a)  is of special interest to a collector because of a quality that is not
 associated with firearms intended for:
 (i)  sporting use;
 (ii)  use as an offensive weapon; or
 (iii)  use as a defensive weapon;
 (b) (i)  was manufactured at least 50 years prior to the current date; and
-(ii)  is not a replica of a firearm described in Subsection (4)(b)(i);
+(ii)  is not a replica of a firearm described in Subsection (5)(b)(i);
 (c)  is certified by the curator of a municipal, state, or federal museum that
 exhibits firearms to be a curio or relic of museum interest;
 (d)  derives a substantial part of its monetary value:
@@ -54,28 +56,26 @@ exhibits firearms to be a curio or relic of museum interest;
 (e)  has been designated as a curio or relic firearm by the director of the
 United States Treasury Department Bureau of Alcohol, Tobacco, and Firearms
 under 27 C.F.R. Sec. 178.11.
-(5) (a)  "Dangerous weapon" means any item that in the manner of its use or
-intended use is capable of causing death or serious bodily injury.  The
-following factors shall be used in determining whether a knife, or any other
-item, object, or thing not commonly known as a dangerous weapon is a dangerous
-weapon:
+(6) (a)  "Dangerous weapon" means any item that in the manner of its use or
+intended use is capable of causing death or serious bodily injury.
+(b)  The following factors shall be used in determining whether a knife, or
+any other item, object, or thing not commonly known as a dangerous weapon is a
+dangerous weapon:
 (i)  the character of the instrument, object, or thing;
 (ii)  the character of the wound produced, if any;
 (iii)  the manner in which the instrument, object, or thing was used; and
 (iv)  the other lawful purposes for which the instrument, object, or thing may
 be used.
-(b)  "Dangerous weapon" does not include any explosive, chemical, or
+(c)  "Dangerous weapon" does not include any explosive, chemical, or
 incendiary device as defined by Section 76-10-306.
-(6)  "Dealer" means every person who is licensed under crimes and criminal
+(7)  "Dealer" means a person who is licensed under crimes and criminal
 procedure, 18 U.S.C. 923 and engaged in the business of selling, leasing, or
 otherwise transferring a handgun, whether the person is a retail or wholesale
 dealer, pawnbroker, or otherwise.
-(7)  "Division" means the Criminal Investigations and Technical Services
-Division of the Department of Public Safety, created in Section 53-10-103.
 (8)  "Enter" means intrusion of the entire body.
-(9) (a)  "Firearm" means a pistol, revolver, shotgun, sawed-off  shotgun,
-rifle or sawed-off rifle, or any device that could be used as a dangerous
-weapon from which is expelled a projectile by  action of an explosive.
+(9) (a)  "Firearm" means a pistol, revolver, shotgun, sawed-off shotgun, rifle
+or sawed-off rifle, or a device that could be used as a dangerous weapon from
+which is expelled a projectile by action of an explosive.
 (b)  As used in Sections 76-10-526 and 76-10-527, "firearm" does not include
 an antique firearm.
 (10)  "Firearms transaction record form" means a form created by the division
@@ -85,7 +85,7 @@ from a dealer in the state.
 fire, or can be readily restored to fire, automatically more than one shot
 without manual reloading by a single function of the trigger.
 (12) (a)  "Handgun" means a pistol, revolver, or other firearm of any
-description, loaded or unloaded, from which any shot, bullet, or other missile
+description, loaded or unloaded, from which a shot, bullet, or other missile
 can be discharged, the length of which, not including any revolving,
 detachable, or magazine breech, does not exceed 12 inches.
 (b)  As used in Sections 76-10-520, 76-10-521, and 76-10-522, "handgun" and
@@ -94,7 +94,7 @@ detachable, or magazine breech, does not exceed 12 inches.
 building set apart primarily for the purpose of worship in which religious
 services are held and the main body of which is kept for that use and not put
 to any other use inconsistent with its primary purpose.
-(14)  "Prohibited area" means any place where it is unlawful to discharge a
+(14)  "Prohibited area" means a place where it is unlawful to discharge a
 firearm.
 (15)  "Readily accessible for immediate use" means that a firearm or other
 dangerous weapon is carried on the person or within such close proximity and
@@ -111,8 +111,8 @@ if the weapon as modified has an overall length of fewer than 26 inches.
 as held in a gun rack, or in a closed case or container, whether or not
 locked, or in a trunk or other storage area of a motor vehicle, not including
 a glove box or console box.
-(19)  "State entity" means each department, commission, board, council,
-agency, institution, officer, corporation, fund, division, office, committee,
+(19)  "State entity" means a department, commission, board, council, agency,
+institution, officer, corporation, fund, division, office, committee,
 authority, laboratory, library, unit, bureau, panel, or other administrative
 unit of the state.
-(20)  "Violent felony" means the same as defined in Section 76-3-203.5.
+(20)  "Violent felony" has the same meaning as defined in Section 76-3-203.5.

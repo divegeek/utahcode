@@ -25,14 +25,16 @@ tax credit under Section 59-10-1021;
 accordance with Subsection 31A-32a-105(3); or
 (iii)  an amount required to be added to adjusted gross income in accordance
 with Subsection 31A-32a-105(5)(c);
-(d)  the amount withdrawn under Title 53B, Chapter 8a, Higher Education
-Savings Incentive Program, from the account of a resident or nonresident
-individual who is an account owner as defined in Section 53B-8a-102, for the
-taxable year for which the amount is withdrawn, if that amount withdrawn from
-the account of the resident or nonresident individual who is the account
-owner:
-(i)  is not expended for higher education costs as defined in Section 53B-
-8a-102; and
+(d)  the amount withdrawn under Title 53B, Chapter 8a, Utah Educational
+Savings Plan, from the account of a resident or nonresident individual who is
+an account owner as defined in Section 53B-8a-102, for the taxable year for
+which the amount is withdrawn, if that amount withdrawn from the account of
+the resident or nonresident individual who is the account owner:
+(i)  is not expended for:
+(A)  higher education costs as defined in Section 53B-8a-102; or
+(B)  a payment or distribution that qualifies as an exception to the
+additional tax for distributions not used for educational expenses provided in
+Sections 529(c) and 530(d), Internal Revenue Code; and
 (ii)  is:
 (A)  subtracted by the resident or nonresident individual:
 (I)  who is the account owner; and
@@ -40,7 +42,7 @@ owner:
 chapter for a taxable year beginning on or before December 31, 2007; or
 (B)  used as the basis for the resident or nonresident individual who is the
 account owner to claim a tax credit under Section 59-10-1017;
-(e)  except as provided in Subsection (6), for bonds, notes, and other
+(e)  except as provided in Subsection (5), for bonds, notes, and other
 evidences of indebtedness acquired on or after January 1, 2003, the interest
 from bonds, notes, and other evidences of indebtedness issued by one or more
 of the following entities:

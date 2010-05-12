@@ -2,12 +2,12 @@
 Qualifications to receive compensation -- Qualifications to receive a
 certificate of compliance.
 (1)  To claim recovery from the fund a person shall:
-(a)  meet the requirements of either Subsection (4) or (7);
+(a)  meet the requirements of Subsection (4) or (6);
 (b)  pay an application fee determined by the division under Section
 63J-1-504; and
 (c)  file with the division a completed application on a form provided by the
 division accompanied by supporting documents establishing:
-(i)  that the person meets the requirements of either Subsection (4) or (7);
+(i)  that the person meets the requirements of Subsection (4) or (6);
 (ii)  that the person was a qualified beneficiary or laborer during the
 construction on the owner-occupied residence; and
 (iii)  the basis for the claim.
@@ -20,9 +20,8 @@ Subsection (4)(d) because the nonpaying party filed bankruptcy within one year
 after the entry of judgment; or
 (c)  from the date the laborer, trying to recover from the fund, completed the
 laborer's qualified services.
-(3)  To obtain a certificate of compliance an owner or agent of the owner
-shall establish with the division that the owner meets the requirements of
-Subsections (4)(a) and (4)(b).
+(3)  The issuance of a certificate of compliance is governed by Section
+38-11-110.
 (4)  To recover from the fund, regardless of whether the residence is occupied
 by the owner, a subsequent owner, or the owner or subsequent owner's tenant or
 lessee, a qualified beneficiary shall establish that:
@@ -62,8 +61,8 @@ to pay a qualified beneficiary who is entitled to payment under an agreement
 with that subcontractor or supplier;
 (d) (i)  unless precluded from doing so by the nonpaying party's bankruptcy
 filing within the applicable time, the qualified beneficiary filed an action
-against the nonpaying party to recover monies owed to the qualified
-beneficiary within the earlier of:
+against the nonpaying party to recover money owed to the qualified beneficiary
+within the earlier of:
 (A)  180 days from the date the qualified beneficiary filed a notice of claim
 under Section 38-1-7; or
 (B)  270 days from the completion of the original contract pursuant to
@@ -100,7 +99,7 @@ performed at the site of a construction on an owner-occupied residence; and
 division.
 (7)  A fee determined by the division under Section 63J-1-504 shall be
 deducted from any recovery from the fund received by a laborer.
-(8)  The requirements of Subsections (4)(a) and (4)(b) may be satisfied if an
+(8)  The requirements of Subsections (4)(a) and (b) may be satisfied if an
 owner or agent of the owner establishes to the satisfaction of the director
 that the owner of the owner-occupied residence or the owner's agent entered
 into a written contract with an original contractor who:
@@ -113,6 +112,6 @@ Utah Construction Trades Licensing Act, but who was the sole or partial owner
 and qualifier of a business entity that was licensed under Title 58, Chapter
 55, Utah Construction Trades Licensing Act.
 (9)  The director shall have equitable power to determine if the requirements
-of Subsections (4)(a) and (4)(b) have been met, but any decision by the
-director under this chapter shall not alter or have any effect on any other
-decision by the division under Title 58, Occupations and Professions.
+of Subsections (4)(a) and (b) have been met, but any decision by the director
+under this chapter shall not alter or have any effect on any other decision by
+the division under Title 58, Occupations and Professions.

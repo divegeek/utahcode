@@ -34,13 +34,13 @@ exercised in the testator's will.
 descendant of a grandparent, or a stepchild of either the testator or the
 donor of a power of appointment exercised by the testator's will, the
 following apply:
-(a)  Except as provided in Subsection (d), if the devise is not in the form of
-a class gift and the deceased devisee leaves surviving descendants, a
+(a)  Except as provided in Subsection (2)(d), if the devise is not in the form
+of a class gift and the deceased devisee leaves surviving descendants, a
 substitute gift is created in the devisee's surviving descendants.  They take
 per capita at each generation the property to which the devisee would have
 been entitled had the devisee survived the testator.
-(b)  Except as provided in Subsection (d), if the devise is in the form of a
-class gift, other than a devise to "issue," "descendants," "heirs of the
+(b)  Except as provided in Subsection (2)(d), if the devise is in the form of
+a class gift, other than a devise to "issue," "descendants," "heirs of the
 body," "heirs," "next-of-kin," "relatives," or "family," or a class described
 by language of similar import, a substitute gift is created in the surviving
 descendant's of any deceased devisee.  The property to which the devisees
@@ -51,14 +51,14 @@ had the deceased devisees survived the testator.  Each deceased devisee's
 surviving descendants who are substituted for the deceased devisee take per
 capita at each generation the share to which the deceased devisee would have
 been entitled had the deceased devisee survived the testator.  For the
-purposes of this subsection, "deceased devisee" means a class member who
-failed to survive the testator and left one or more surviving descendants.
+purposes of this Subsection (2)(b), "deceased devisee" means a class member
+who failed to survive the testator and left one or more surviving descendants.
 (c)  For the purposes of Section 75-2-601, words of survivorship, such as in a
 devise to an individual "if he survives me," or in a devise to "my surviving
 children," are, in the absence of clear and convincing evidence, a sufficient
 indication of an intent contrary to the application of this section.
 (d)  If the will creates an alternative devise with respect to a devise for
-which a substitute gift is created by Subsection (a) or (b), the substitute
+which a substitute gift is created by Subsection (2)(a) or (b), the substitute
 gift is superseded by the alternative devise only if an expressly designated
 devisee of the alternative devise is entitled to take under the will.
 (e)  Unless the language creating a power of appointment expressly excludes

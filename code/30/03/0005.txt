@@ -6,10 +6,17 @@ for modification.
 equitable orders relating to the children, property, debts or obligations, and
 parties.  The court shall include the following in every decree of divorce:
 (a)  an order assigning responsibility for the payment of reasonable and
-necessary medical and dental expenses of the dependent children;
-(b)  if coverage is or becomes available at a reasonable cost, an order
+necessary medical and dental expenses of the dependent children including
+responsibility for health insurance out-of-pocket expenses such as co-
+payments, co-insurance, and deductibles;
+(b) (i)  if coverage is or becomes available at a reasonable cost, an order
 requiring the purchase and maintenance of appropriate health, hospital, and
-dental care insurance for the dependent children;
+dental care insurance for the dependent children; and
+(ii)  a designation of which health, hospital, or dental insurance plan is
+primary and which health, hospital, or dental insurance plan is secondary in
+accordance with the provisions of Section 30-3-5.4 which will take effect if
+at any time a dependent child is covered by both parents' health, hospital, or
+dental insurance plans;
 (c)  pursuant to Section 15-4-6.5:
 (i)  an order specifying which party is responsible for the payment of joint
 debts, obligations, or liabilities of the parties contracted or incurred

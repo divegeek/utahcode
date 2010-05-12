@@ -4,18 +4,23 @@ the location, manner and conditions of the disposition, and arrangements for
 funeral goods and services to be provided vest in the following degrees of
 relationship in the order named, provided the person is at least 18 and is
 mentally competent:
-(1)  a person designated in a written instrument, excluding a power of
-attorney that terminates at death under Sections 75-5-501 and 75-5-502, if the
-written instrument contains:
-(a)  the name and address of the decedent;
-(b)  the name and address of the person designated under this Subsection (1);
-(c)  directions that the person designated in this Subsection (1) is
+(1)  a person designated:
+(a)  in a written instrument, excluding a power of attorney that terminates at
+death under Sections 75-5-501 and 75-5-502, if the written instrument
+contains:
+(i)  the name and address of the decedent;
+(ii)  the name and address of the person designated under this Subsection
+(1)(a);
+(iii)  directions that the person designated in this Subsection (1) is
 authorized to carry out the disposition of the decedent's remains;
-(d)  the signature of the decedent;
-(e)  the signatures of at least two unrelated individuals who are not the
+(iv)  the signature of the decedent;
+(v)  the signatures of at least two unrelated individuals who are not the
 person designated under this Subsection (1), each of whom signed within a
 reasonable time after witnessing the signing of the form by the decedent; and
-(f)  the date or dates the written instrument was prepared and signed;
+(vi)  the date or dates the written instrument was prepared and signed; or
+(b)  by a service member while serving in a branch of the United States Armed
+Forces as defined in 10 U.S.C. Sec. 1481 in a federal Record of Emergency
+Data, DD Form 93 or subsequent form;
 (2)  the surviving, legally recognized spouse of the decedent;
 (3) (a)  the sole surviving child of the decedent, or if there is more than
 one child of the decedent, the majority of the surviving children;

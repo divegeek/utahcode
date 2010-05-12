@@ -10,12 +10,11 @@ the state's noncontributory retirement program is determined under Section
 (b)  The same contribution rate used under Subsection (3)(a) shall be used to
 calculate the appropriation for charter schools described under Subsection
 (5).
-(4) (a)  Money appropriated to the State Board of Education in Section 53A-
-17a-104 for retirement and Social Security monies shall be allocated to school
-districts and charter schools based on a district's or charter school's total
-weighted pupil units compared to the total weighted pupil units for all
-districts in the state.
-(b)  Subject to budget constraints, monies needed to support retirement and
+(4) (a)  Money appropriated to the State Board of Education for retirement and
+Social Security money shall be allocated to school districts and charter
+schools based on a district's or charter school's total weighted pupil units
+compared to the total weighted pupil units for all districts in the state.
+(b)  Subject to budget constraints, money needed to support retirement and
 Social Security shall be determined by taking the district's prior year
 allocation and adjusting it for:
 (i)  student growth;

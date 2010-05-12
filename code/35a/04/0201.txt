@@ -1,9 +1,17 @@
 35A-4-201.   General definitions.
 As used in this chapter:
-(1)  "Base-period" means the first four of the last five completed calendar
-quarters next preceding the first day of the individual's benefit year with
-respect to any individual whose benefit year commences on or after January 5,
-1986.
+(1) (a) Except as otherwise provided in Subsection (1)(b), "base period" means
+the first four of the last five completed calendar quarters next preceding the
+first day of the individual's benefit year with respect to any individual
+whose benefit year commences on or after January 5, 1986.
+(b) (i)  For a claimant whose benefit year is effective on or after January 2,
+2011, and who does not have sufficient wages in the first four of the last
+five completed calendar quarters to otherwise qualify for benefits under
+Subsection (1)(a), the base period is the last four completed calendar
+quarters.
+(ii)  Wages used to establish eligibility regardless of how the base period is
+calculated are not available for qualifying benefits in any subsequent benefit
+year.
 (2)  "Benefit year" means the 52 consecutive week period beginning with the
 first week with respect to which an individual files for benefits and is found
 to have an insured status.
@@ -21,43 +29,40 @@ operated by this or any other state as a part of a state-controlled system of
 public employment offices or by a federal agency charged with the
 administration of an unemployment compensation program or free public
 employment offices.
-(8)  "Employment Security Administration Fund" means the fund established by
-Section 35A-4-505, and from which administrative expenses under this chapter
-shall be paid.
-(9)  "Extended benefits" has the meaning specified in Subsection
+(8)  "Extended benefits" has the meaning specified in Subsection
 35A-4-402(7)(f).
-(10)  "Fund" means the Unemployment Compensation Fund established by this
+(9)  "Fund" means the Unemployment Compensation Fund established by this
 chapter.
-(11)  "Insured average annual wage" means on or before the 15th day of May of
+(10)  "Insured average annual wage" means on or before the 15th day of May of
 each year, the total wages of insured workers for the preceding calendar year,
 divided by the average monthly number of insured workers, determined by
 dividing by 12 the total insured workers for the preceding calendar year as
 determined under the rules of the department calculated to two decimal places,
 disregarding any fraction of one cent.
-(12)  "Insured average fiscal year wage" means on or before the 15th day of
+(11)  "Insured average fiscal year wage" means on or before the 15th day of
 November of each year, the total wages of insured workers for the preceding
 fiscal year, divided by the average monthly number of insured workers,
 determined by dividing by 12 the total insured workers for the preceding
 fiscal year as determined under the rules of the department calculated to two
 decimal places, disregarding any fraction of one cent.
-(13)  "Insured average fiscal year weekly wage" means the insured average
-fiscal year wage determined in Subsection (12), divided by 52, calculated to
+(12)  "Insured average fiscal year weekly wage" means the insured average
+fiscal year wage determined in Subsection (11), divided by 52, calculated to
 two decimal places, disregarding any fraction of one cent.
-(14)  "Insured average weekly wage" means the insured average annual wage
-determined in Subsection (11), divided by 52, calculated to two decimal
+(13)  "Insured average weekly wage" means the insured average annual wage
+determined in Subsection (10), divided by 52, calculated to two decimal
 places, disregarding any fraction of one cent.
-(15)  "Insured status" means that an individual has, during the individual's
+(14)  "Insured status" means that an individual has, during the individual's
 base-period, performed services and earned wages in employment sufficient to
 qualify for benefits under Section 35A-4-403.
-(16)  "Insured work" means employment for an employer, as defined in Section
+(15)  "Insured work" means employment for an employer, as defined in Section
 35A-4-203.
-(17)  "Monetary base period wage requirement" means 8% of the insured average
+(16)  "Monetary base period wage requirement" means 8% of the insured average
 fiscal year wage for the preceding fiscal year, for example, fiscal year 1990
 for individuals establishing benefit years in 1991, rounded up to the next
 higher multiple of $100.
-(18)  "State" includes the Commonwealth of Puerto Rico, the Virgin Islands,
+(17)  "State" includes the Commonwealth of Puerto Rico, the Virgin Islands,
 and the District of Columbia.
-(19)  "Tribal unit" means a subdivision, subsidiary, or business enterprise
+(18)  "Tribal unit" means a subdivision, subsidiary, or business enterprise
 wholly owned by an American Indian tribe.
-(20)  "Week" means the period or periods of seven consecutive calendar days as
+(19)  "Week" means the period or periods of seven consecutive calendar days as
 the department may prescribe by rule.

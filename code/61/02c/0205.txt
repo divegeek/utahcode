@@ -1,21 +1,30 @@
 61-2c-205.   Term of licensure -- Renewal -- Reporting of changes.
-(1) (a)  A license under this chapter is valid for one year.
+(1) (a)  A license issued under this chapter expires as follows:
+(i)  for the calendar year the license is issued:
+(A)  if the license is issued on or before October 31, the license expires on
+December 31 of the same calendar year; and
+(B)  if the license is issued on or after November 1, the license expires on
+December 31 of the following calendar year; and
+(ii)  after the December 31 on which a license expires under Subsection
+(1)(a)(i), a license expires annually on December 31.
 (b)  Notwithstanding Subsection (1)(a), the time period of a license may be
 extended or shortened by as much as one year to maintain or change a renewal
 cycle established by rule by the division.
 (2)  To renew a license, no later than the date the license expires, a
-licensee shall:
-(a) (i)  file the renewal form required by the division; and
-(ii)  furnish the information required by Subsection 61-2c-202(1);
-(b)  pay a fee to the division established by the division in accordance with
+licensee shall in a manner provided by the division by rule:
+(a)  file a renewal statement;
+(b)  furnish the information required by Subsection 61-2c-202(1);
+(c)  renew the licensee's registration with the nationwide database, including
+the payment of a fee required by the nationwide database;
+(d)  pay a fee to the division established by the division in accordance with
 Section 63J-1-504; and
-(c)  if the licensee is an individual and the individual's license is in
-active status at the time of application for renewal, submit proof using forms
-approved by the division of having completed during the year before
-application the continuing education required under Section 61-2c-204.1.
-(3) (a)  A licensee under this chapter shall notify the division using the
-form required by the division within 10 days of the date on which there is a
-change in:
+(e)  if the licensee is an individual and the individual's license is in
+active status at the time of application for renewal, submit proof of having
+completed during the year before application the continuing education required
+under Section 61-2c-204.1.
+(3) (a)  A licensee under this chapter shall notify the division in a manner
+provided by the division by rule within 10 days of the date on which there is
+a change in:
 (i)  a name under which the licensee transacts the business of residential
 mortgage loans in this state;
 (ii) (A)  if the licensee is an entity, the business location of the licensee;
@@ -29,6 +38,9 @@ business of residential mortgage loans; or
 division.
 (b)  Failure to notify the division of a change described in Subsection (3)(a)
 is separate grounds for disciplinary action against a licensee.
+(c)  The division may charge a fee established in accordance with Section
+63J-1-504 for processing a change that a licensee is required to report to the
+division under Subsection (3)(a).
 (4)  A licensee shall notify the division by sending the division a signed
 statement within 10 business days of:
 (a) (i)  a conviction of a criminal offense;
@@ -51,37 +63,10 @@ loans; or
 (B)  conduct involving fraud, misrepresentation, or deceit.
 (5) (a)  A license under this chapter expires if the licensee does not apply
 to renew the license on or before the expiration date of the license.
-(b)  Within 30 calendar days after the expiration date, a licensee whose
-license has expired may apply to reinstate the expired license by:
-(i)  paying a renewal fee and a late fee determined by the division under
-Section 63J-1-504; and
-(ii)  if the licensee is an individual and is applying to reinstate a license
-to active status, providing proof using forms approved by the division of
-having completed, during the year before application, the continuing education
-required under Section 61-2c-204.1.
-(c)  After the 30 calendar days described in Subsection (5)(b) and within six
-months after the expiration date, a licensee whose license has expired may
-apply to reinstate an expired license by:
-(i)  paying a renewal fee and a late fee determined by the division under
-Section 63J-1-504;
-(ii)  if the licensee is an individual and is applying to reinstate a license
-to active status, providing proof using forms approved by the division of
-having completed, during the year before application, the continuing education
-required under Section 61-2c-204.1; and
-(iii)  in addition to the continuing education described in Subsection
-(5)(c)(ii), providing proof of completing an additional 12 hours of continuing
-education meeting the requirements of Section 61-2c-204.1.
-(d)  The division shall issue a license to a licensee whose license expires
-under this Subsection (5) for more than six months as if the licensee is a new
-applicant filing an application for an original license under Section
-61-2c-202.
-(e)  Notwithstanding Subsection (5)(a), the division may extend the term of a
-license that would expire under Subsection (5)(a) except for the extension if:
-(i)  the person complies with the requirements of this section to renew the
-license; and
-(ii)  at the time of the extension, there is pending under this chapter:
-(A)  the application for renewal of the license; or
-(B)  a disciplinary action.
-(6)  The division may charge a fee established in accordance with Section
-63J-1-504 for processing a change that a licensee is required to report to the
-division under this section.
+(b)  A licensee whose license has expired may apply to reinstate the expired
+license, in a manner provided by the division by rule by:
+(i)  requesting reinstatement;
+(ii)  paying to the division a renewal fee and a late fee determined by the
+division under Section 63J-1-504; and
+(iii)  reinstating the licensee's registration with the nationwide database,
+including the payment of a fee required by the nationwide database.

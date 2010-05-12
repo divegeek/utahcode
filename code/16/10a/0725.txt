@@ -8,7 +8,7 @@ matter.
 (2)  Once a share is represented for any purpose at a meeting, including the
 purpose of determining that a quorum exists, it is deemed present for quorum
 purposes for the remainder of the meeting and for any adjournment of that
-meeting, unless a new record date is or must be set for that adjourned
+meeting, unless a new record date is or shall be set for that adjourned
 meeting.
 (3)  If a quorum exists, action on a matter, other than the election of
 directors, by a voting group is approved if the votes cast within the voting

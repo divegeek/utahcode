@@ -1,26 +1,62 @@
 31A-22-614.5.   Uniform claims processing -- Electronic exchange of health
 information.
-(1)  Beginning July 1, 1993, all insurers offering health insurance shall use
-a uniform claim form and uniform billing and claim codes.
-(2)  The uniform claim forms and billing codes shall be adopted and approved
-by the commissioner in accordance with Title 63G, Chapter 3, Utah
-Administrative Rulemaking Act.  The commissioner shall consult with the
-director of the Division of Health Care Financing, the National Uniform Claim
-Form Task Force, and the National Uniform Billing Committee when adopting the
-uniform claims and billing codes.
-(3) (a) (i)  Beginning July 1, 1995, all insurers shall offer compatible
-systems of electronic billing approved by the commissioner in accordance with
-Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
-(ii)  The systems approved by the commissioner may include monitoring and
-disseminating information concerning eligibility and coverage of individuals.
-(iii)  The commissioner shall coordinate the administrative rules adopted
+(1) (a)  Except as provided in Subsection (1)(c), all insurers offering health
+insurance shall use a uniform claim form and uniform billing and claim codes.
+(b)  Beginning January 1, 2011, all health benefit plans, and dental and
+vision plans, shall provide for the electronic exchange of uniform:
+(i)  eligibility and coverage information; and
+(ii)  coordination of benefits information.
+(c)  For purposes of Subsection (1)(a), "health insurance" does not include a
+policy or certificate that provides benefits solely for:
+(i)  income replacement; or
+(ii)  long-term care.
+(2) (a)  The uniform electronic standards and information required in
+Subsection (1) shall be adopted and approved by the commissioner in accordance
+with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+(b)  When adopting rules under this section the commissioner:
+(i)  shall:
+(A)  consult with national and state organizations involved with the
+standardized exchange of health data, and the electronic exchange of health
+data, to develop the standards for the use and electronic exchange of uniform:
+(I)  claim forms;
+(II)  billing and claim codes;
+(III)  insurance eligibility and coverage information; and
+(IV)  coordination of benefits information; and
+(B)  meet federal mandatory minimum standards following the adoption of
+national requirements for transaction and data elements in the federal Health
+Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110
+Stat. 1936;
+(ii)  may not require an insurer or administrator to use a specific software
+product or vendor; and
+(iii)  may require an insurer who participates in the all payer database
+created under Section 26-33a-106.1 to allow data regarding demographic and
+insurance coverage information  to be electronically shared with the state's
+designated secure health information master person index to be used:
+(A)  in compliance with data security standards established by:
+(I)  the federal Health Insurance Portability and Accountability Act of 1996,
+Pub. L. 104-191, 110 Stat. 1936; and
+(II)  the electronic commerce agreements established in a business associate
+agreement; and
+(B)  for the purpose of coordination of health benefit plans.
+(3) (a)  The commissioner shall coordinate the administrative rules adopted
 under the provisions of this section with the administrative rules adopted by
 the Department of Health for the implementation of the standards for the
 electronic exchange of clinical health information under Section 26-1-37.  The
 department shall establish procedures for developing the rules adopted under
 this section, which ensure that the Department of Health is given the
 opportunity to comment on proposed rules.
-(b)  The commissioner shall regulate any fees charged by insurers to the
+(b) (i)  The commissioner may provide information to health care providers
+regarding resources available to a health care provider to verify whether a
+health care provider's practice management software system meets the uniform
+electronic standards for data exchange required by this section.
+(ii)  The commissioner may provide the information described in Subsection
+(3)(b)(i) by partnering with:
+(A)  a not-for-profit, broad based coalition of state health care insurers and
+health care providers who are involved in the electronic exchange of the data
+required by this section; or
+(B)  some other person that the commissioner determines is appropriate to
+provide the information described in Subsection (3)(b)(i).
+(c)  The commissioner shall regulate any fees charged by insurers to the
 providers for:
 (i)  uniform claim forms;
 (ii)  electronic billing; or

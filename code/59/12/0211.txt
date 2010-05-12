@@ -32,7 +32,7 @@ certificated:
 foreign authority; and
 (B)  to engage in carrying a person or property in interstate commerce; or
 (v)  a container designed for use on, or a component part attached or secured
-on an item of equipment listed in, Subsections (1)(b)(i) through (iv).
+on, an item of equipment listed in Subsections (1)(b)(i) through (iv).
 (2)  Except as provided in Subsections (8) and (13), if tangible personal
 property, a product transferred electronically, or a service that is subject
 to taxation under this chapter is received by a purchaser at a business
@@ -64,17 +64,21 @@ purchaser's payment instrument if no other address is available.
 (6)  Subject to Subsection (10), and except as provided in Subsections (7),
 (8), (9), (11), and (13), if Subsection (2), (3), (4), or (5) does not apply
 or if a seller does not have sufficient information to apply Subsection (2),
-(3), (4), or (5), the location of the transaction is the location indicated by
-the address from which:
-(a)  except as provided in Subsection (6)(b), for tangible personal property
-that is subject to taxation under this chapter, the tangible personal property
-is shipped;
-(b)  for computer software delivered electronically or for a product
+(3), (4), or (5), the location of the transaction is the location:
+(a)  indicated by the address from which:
+(i)  except as provided in Subsection (6)(a)(ii), for tangible personal
+property that is subject to taxation under this chapter, the tangible personal
+property is shipped;
+(ii)  for computer software delivered electronically or for a product
 transferred electronically that is subject to taxation under this chapter, the
 computer software or product transferred electronically is first available for
 transmission by the seller; or
-(c)  for a service that is subject to taxation under this chapter, the service
-is provided.
+(iii)  for a service that is subject to taxation under this chapter, the
+service is provided; or
+(b)  as determined by the seller with respect to a prepaid wireless calling
+service:
+(i)  provided in Subsection (6)(a)(iii); or
+(ii)  associated with the mobile telephone number.
 (7) (a)  For purposes of this Subsection (7), "shared ZIP Code" means a nine-
 digit ZIP Code that is located within two or more local taxing jurisdictions.
 (b)  If the location of a transaction determined under Subsections (3) through
@@ -88,25 +92,11 @@ combined tax rate for the shared ZIP Code, the local taxing jurisdiction that:
 and
 (B)  has located within the local taxing jurisdiction the largest number of
 street addresses within the shared ZIP Code.
-(c)  For purposes of Subsection (7)(b), a seller shall collect a tax imposed
-under this chapter at the lowest agreement combined tax rate imposed within
-the local taxing jurisdiction in which the transaction is located under
-Subsection (7)(b) notwithstanding:
-(i)  Section 59-12-204;
-(ii)  Section 59-12-401;
-(iii)  Section 59-12-402;
-(iv)  Section 59-12-501;
-(v)  Section 59-12-502;
-(vi)  Section 59-12-703;
-(vii)  Section 59-12-802;
-(viii)  Section 59-12-804;
-(ix)  Section 59-12-1001;
-(x)  Section 59-12-1102;
-(xi)  Section 59-12-1302;
-(xii)  Section 59-12-1402;
-(xiii)  Section 59-12-1503;
-(xiv)  Section 59-12-1703; or
-(xv)  Section 59-12-1802.
+(c) Notwithstanding any provision under this chapter authorizing or requiring
+the imposition of a sales and use tax, for purposes of Subsection (7)(b), a
+seller shall collect a sales and use tax imposed under this chapter at the
+lowest agreement combined tax rate imposed within the local taxing
+jurisdiction in which the transaction is located under Subsection (7)(b).
 (d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
 Act, the commission may make rules:
 (i)  providing for the circumstances under which a seller has exercised due
@@ -118,12 +108,8 @@ located under Subsection (7)(b).
 (8)  The location of a transaction made with a direct payment permit described
 in Section 59-12-107.1 is the location where receipt of the tangible personal
 property, product, or service by the purchaser occurs.
-(9)  The location of a purchase of direct mail is the location described in
-Subsection (6), if the purchaser of the direct mail:
-(a)  has not been issued a direct payment permit under Section 59-12-107.1;
-and
-(b)  does not provide the seller the form or information described in
-Subsection 59-12-123(1).
+(9)  The location of a purchase of direct mail is the location determined in
+accordance with Section 59-12-123.
 (10) (a)  Except as provided in Subsection (10)(b), the location of a
 transaction determined under Subsections (3) through (6), (8), or (9), is the
 local taxing jurisdiction within which:
@@ -169,7 +155,9 @@ occurs during the return filing period.
 commission as required under this chapter.
 (13)  This section does not apply to:
 (a)  amounts charged by a seller for:
-(i)  telecommunications service; or
+(i)  telecommunications service except for a prepaid calling service or a
+prepaid wireless calling service as provided in Subsection (6)(b) or Section
+59-12-215; or
 (ii)  the retail sale or transfer of:
 (A)  a motor vehicle other than a motor vehicle that is transportation
 equipment;
@@ -181,9 +169,7 @@ equipment;
 (iii)  except as provided in Section 59-12-214, the lease or rental of
 tangible personal property other than tangible personal property that is
 transportation equipment;
-(b)  a tax paid under this chapter:
-(i)  by a seller; and
-(ii)  for the seller's purchases; or
+(b)  a tax a person pays in accordance with Subsection 59-12-107(1)(d); or
 (c)  a retail sale of tangible personal property or a product transferred
 electronically if:
 (i)  the seller receives the order for the tangible personal property or

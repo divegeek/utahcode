@@ -24,13 +24,16 @@ rolled over without the person receiving the deferred deposit loan requesting
 the rollover of the deferred deposit loan;
 (iv)  that under Subsection (4)(c), the deferred deposit loan may not be
 rolled over if the rollover requires the person to pay the amount owed by the
-person under the deferred deposit loan in whole or in part more than 12 weeks
+person under the deferred deposit loan in whole or in part more than 10 weeks
 after the day on which the deferred deposit loan is executed; and
 (v) (A)  the name and address of a designated agent required to be provided
 the department under Subsection 7-23-201(2)(d)(vi); and
 (B)  a statement that service of process may be made to the designated agent;
-(d)  provide the person seeking the deferred deposit loan a copy of the
-deferred deposit contract;
+(d)  provide the person seeking the deferred deposit loan:
+(i)  a copy of the written contract described in Subsection (1)(c); and
+(ii)  written notice that if the person seeking the deferred deposit loan is
+eligible to enter into an extended payment plan, the deferred deposit lender
+provides an extended payment plan described in Section 7-23-403;
 (e)  orally review with the person seeking the deferred deposit loan the terms
 of the deferred deposit loan including:
 (i)  the amount of any interest rate or fee;
@@ -47,7 +50,7 @@ over without the person receiving the deferred deposit loan requesting the
 rollover of the deferred deposit loan; and
 (vi)  that under Subsection (4)(c), the deferred deposit loan may not be
 rolled over if the rollover requires the person to pay the amount owed by the
-person under the deferred deposit loan in whole or in part more than 12 weeks
+person under the deferred deposit loan in whole or in part more than 10 weeks
 after the day on which the deferred deposit loan is executed; and
 (f)  comply with the following as in effect on the date the deferred deposit
 loan is extended:
@@ -77,24 +80,29 @@ transaction.
 (4)  A deferred deposit lender that engages in a deferred deposit loan may
 not:
 (a)  collect additional interest on a deferred deposit loan with an
-outstanding principal balance 12 weeks after the day on which the deferred
+outstanding principal balance 10 weeks after the day on which the deferred
 deposit loan is executed;
 (b)  roll over a deferred deposit loan without the person receiving the
 deferred deposit loan requesting the rollover of the deferred deposit loan;
 (c)  roll over a deferred deposit loan if the rollover requires a person to
 pay the amount owed by the person under a deferred deposit loan in whole or in
-part more than 12 weeks from the day on which the deferred deposit loan is
+part more than 10 weeks from the day on which the deferred deposit loan is
 first executed;
 (d)  extend a new deferred deposit loan to a person on the same business day
 that the person makes a payment on another deferred deposit loan if the
 payment:
-(i)  is made at least 12 weeks after the day on which that deferred deposit
+(i)  is made at least 10 weeks after the day on which that deferred deposit
 loan is extended; and
 (ii)  results in the principal of that deferred deposit loan being paid in
-full; or
+full;
 (e)  threaten to use or use the criminal process in any state to collect on
-the deferred deposit loan.
-(5)  Notwithstanding Subsections (4)(a) and (4) (e), a deferred deposit lender
+the deferred deposit loan; or
+(f)  in connection with the collection of money owed on a deferred deposit
+loan, communicate with a person who owes money on a deferred deposit loan at
+the person's place of employment if the person or the person's employer
+communicates, orally or in writing, to the deferred deposit lender that the
+person's employer prohibits the person from receiving these communications.
+(5)  Notwithstanding Subsections (4)(a) and (e), a deferred deposit lender
 that is the holder of a check used to obtain a deferred deposit loan that is
 dishonored may use the remedies and notice procedures provided in Chapter 15,
 Dishonored Instruments, except that the issuer, as defined in Section 7-15-1,

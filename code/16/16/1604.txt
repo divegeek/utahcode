@@ -1,7 +1,7 @@
 16-16-1604.   Filings required for conversion -- Effective date.
 (1)  After a plan of conversion is approved:
 (a)  a converting limited cooperative association shall deliver to the
-division for filing articles of conversion, which must include:
+division for filing articles of conversion, which shall include:
 (i)  a statement that the limited cooperative association has been converted
 into another entity;
 (ii)  the name and form of the converted entity and the jurisdiction of its
@@ -18,7 +18,7 @@ street address and, if different, mailing address of an office which the
 division may use for purposes of Section 16-16-120; and
 (b)  if the converting entity is not a converting limited cooperative
 association, the converting entity shall deliver to the division for filing
-articles of organization, which must include, in addition to the information
+articles of organization, which shall include, in addition to the information
 required by Section 16-16-302:
 (i)  a statement that the association was converted from another entity;
 (ii)  the name and form of the converting entity and the jurisdiction of its

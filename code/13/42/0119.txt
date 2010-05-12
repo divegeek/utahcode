@@ -1,5 +1,5 @@
 13-42-119.   Form and contents of agreement.
-(1)  An agreement must:
+(1)  An agreement shall:
 (a)  be in a record;
 (b)  be dated and signed by the provider and the individual;
 (c)  include the name of the individual and the address where the individual
@@ -39,7 +39,7 @@ available.
 (3)  If the administrator supplies the provider with any information required
 under Subsection (1)(f)(x), the provider may comply with that requirement only
 by disclosing the information supplied by the administrator.
-(4)  An agreement must provide that:
+(4)  An agreement shall provide that:
 (a)  the individual has a right to terminate the agreement at any time,
 without penalty or obligation, by giving the provider written or electronic
 notice, in which event:
@@ -64,7 +64,7 @@ notice will include:
 individual's debt for no more than 50% of the principal amount of the debt.
 An agreement may not confer a power of attorney to settle a debt for more than
 50% of that amount, but may confer a power of attorney to negotiate with
-creditors of the individual on behalf of the individual.  An agreement must
+creditors of the individual on behalf of the individual.  An agreement shall
 provide that the provider will obtain the assent of the individual after a
 creditor has assented to a settlement for more than 50% of the principal
 amount of the debt.

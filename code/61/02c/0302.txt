@@ -17,9 +17,11 @@ records described in Subsection (3)(a) that are related to an investigation
 being conducted by the division at the division office for inspection and
 copying by the division.
 (4)  A licensee who is an entity shall maintain and produce for inspection by
-the division a current list of all individuals whose licenses are affiliated
-with the entity.
-(5)  A licensee who engages in an activity as a loan originator shall maintain
-and produce for inspection by the division a report of condition submitted to
-the nationwide database as required by 12 U.S.C. Sec. 5104(e) for at least
-four years from the day on which the licensee submits the report of condition.
+the division a current list of all individuals whose licenses are sponsored by
+the entity.
+(5) (a)  A licensee who engages in an activity as a mortgage loan originator
+shall maintain a report of condition submitted to the nationwide database as
+required by 12 U.S.C. Sec. 5104(e) for at least four years from the day on
+which the licensee submits the report of condition to the nationwide database.
+(b)  Upon request by the division, a mortgage loan originator shall produce a
+report of condition for inspection by the division.

@@ -3,16 +3,17 @@ Funding for foreign exchange students -- Annual report -- Requirements for
 exchange student agencies.
 (1)  A school district or charter school may include the following students in
 the district's or school's membership and attendance count for the purpose of
-apportionment of state monies:
+apportionment of state money:
 (a)  a student enrolled under an interstate compact, established between the
 State Board of Education and the state education authority of another state,
 under which a student from one compact state would be permitted to enroll in a
 public school in the other compact state on the same basis as a resident
 student of the receiving state; or
-(b)  a student receiving services under the Compact on Placement of Children.
+(b)  a student receiving services under Title 62A, Chapter 4a, Part 7,
+Interstate Compact on Placement of Children.
 (2) (a)  A school district or charter school may include foreign exchange
 students in the district's or school's membership and attendance count for the
-purpose of apportionment of state monies, except as provided in Subsections
+purpose of apportionment of state money, except as provided in Subsections
 (2)(b) through (e).
 (b) (i)  Notwithstanding Section 53A-17a-106, foreign exchange students may
 not be included in average daily membership for the purpose of determining the
@@ -25,15 +26,15 @@ previous fiscal year; and
 (B)  sponsored by an agency approved by the district's local school board or
 charter school's governing board.
 (c) (i)  The total number of foreign exchange students in the state that may
-be counted for the purpose of apportioning state monies under Subsection
-(2)(b) shall be the lesser of:
+be counted for the purpose of apportioning state money under Subsection (2)(b)
+shall be the lesser of:
 (A)  the number of foreign exchange students enrolled in public schools in the
 state on October 1 of the previous fiscal year; or
 (B)  328 foreign exchange students.
 (ii)  The State Board of Education shall make rules in accordance with Title
 63G, Chapter 3, Utah Administrative Rulemaking Act, to administer the cap on
 the number of foreign exchange students that may be counted for the purpose of
-apportioning state monies under Subsection (2)(b).
+apportioning state money under Subsection (2)(b).
 (d)  Notwithstanding Sections 53A-17a-133 and 53A-17a-134, weighted pupil
 units in the grades 1-12 basic program for foreign exchange students, as
 determined by Subsections (2)(b) and (c), may not be included for the purposes
@@ -43,8 +44,7 @@ board leeway programs.
 included in enrollment when calculating student growth for the purpose of
 adjusting the annual appropriation for retirement and Social Security.
 (3)  A school district or charter school may:
-(a)  enroll foreign exchange students that do not qualify for state monies;
-and
+(a)  enroll foreign exchange students that do not qualify for state money; and
 (b)  pay for the costs of those students with other funds available to the
 school district or charter school.
 (4)  Due to the benefits to all students of having the opportunity to become
@@ -87,3 +87,11 @@ numbers of individuals not associated with the agency who could be called by
 an exchange student in the event of a serious problem.
 (b)  The agency shall make a copy of the list available to each of its
 exchange students in the exchange student's native language.
+(8)  Notwithstanding Subsection (2)(c)(i), a school district or charter school
+shall enroll a foreign exchange student if the foreign exchange student:
+(a)  is sponsored by an agency approved by the State Board of Education;
+(b)  attends the same school during the same time period that another student
+from the school is:
+(i)  sponsored by the same agency; and
+(ii)  enrolled in a school in a foreign country; and
+(c)  is enrolled in the school for one year or less.

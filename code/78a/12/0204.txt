@@ -7,9 +7,8 @@ contract to the commission.
 each of the following groups as applicable:
 (a)  attorneys who have appeared before the judge as counsel;
 (b)  jurors who have served in a case before the judge;
-(c)  litigants whose cases have been considered by the judge;
-(d)  witnesses who have testified in cases considered by the judge; and
-(e)  court staff who have worked with the judge.
+(c)  litigants whose cases have been considered by the judge; and
+(d)  court staff who have worked with the judge.
 (3)  The commission may include an additional classification of respondents if
 the commission:
 (a)  considers a survey of that classification of respondents helpful to
@@ -41,8 +40,10 @@ written rulings;
 (d)  judicial temperament, including the following:
 (i)  demonstration of courtesy toward attorneys, court staff, and others in
 the judge's court;
-(ii)  maintenance of decorum in the courtroom; and
-(iii)  preparedness for oral argument; and
+(ii)  maintenance of decorum in the courtroom;
+(iii)  demonstration of judicial demeanor and personal attributes that promote
+public trust and confidence in the judicial system; and
+(iv)  preparedness for oral argument; and
 (e)  administrative performance, including the following:
 (i)  management of workload;
 (ii)  sharing proportionally the workload within the court or district; and
@@ -50,9 +51,10 @@ the judge's court;
 (8) (a)  If the commission determines that a certain survey question or topic
 is not appropriate for a category of respondents, the commission may omit that
 question or topic from the survey provided to that category of respondents.
-(b)  Litigants and witnesses may be surveyed only about judicial temperament.
-(c)  The commission shall, by rule, determine appropriate litigants and
-witnesses to be surveyed.
+(b)  Litigants may be surveyed only about judicial temperament, integrity, and
+communication skills.
+(c)  The commission shall, by rule, determine appropriate litigants to be
+surveyed.
 (9)  The survey shall allow respondents to indicate responses in a manner
 determined by the commission, which shall be:
 (a)  on a numerical scale from one to five, with one representing inadequate
