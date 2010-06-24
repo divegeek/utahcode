@@ -1,8 +1,6 @@
 70A-4-108.   Time of receipt of items.
-(1)  For the purpose of allowing time to process items, prove balances, and
-make the necessary entries on the books to determine its position for the day,
-a bank may fix an afternoon hour of 2 p.m. or later as a cutoff hour for the
-handling of money and items and the making of entries on its books.
-(2)  An item or deposit of money received on any day after a cutoff hour so
-fixed or after the close of the banking day may be treated as being received
-at the opening of the next banking day.
+
+(1)  For the purpose of allowing time to process items, prove balances, and make the necessary entries on the books to determine its position for the day, a bank may fix an afternoon hour of 2 p.m. or later as a cutoff hour for the handling of money and items and the making of entries on its books.
+
+(2)  An item or deposit of money received on any day after a cutoff hour so fixed or after the close of the banking day may be treated as being received at the opening of the next banking day.
+

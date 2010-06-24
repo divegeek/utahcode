@@ -1,53 +1,42 @@
-46-4-501.   Creation and retention of electronic records and conversion of
-written records by governmental agencies.
-(1)  A state governmental agency may, by following the procedures and
-requirements of Title 63G, Chapter 3, Utah Administrative Rulemaking Act, make
-rules that:
-(a)  identify specific transactions that the agency is willing to conduct by
-electronic means;
-(b)  identify specific transactions that the agency will never conduct by
-electronic means;
-(c)  specify the manner and format in which electronic records must be
-created, generated, sent, communicated, received, and stored, and the systems
-established for those purposes;
-(d)  if law or rule requires that the electronic records must be signed by
-electronic means, specify the type of electronic signature required, the
-manner and format in which the electronic signature must be affixed to the
-electronic record, and the identity of, or criteria that must be met, by any
-third party used by a person filing a document to facilitate the process;
-(e)  specify control processes and procedures as appropriate to ensure
-adequate preservation, disposition, integrity, security, confidentiality, and
-auditability of electronic records; and
-(f)  identify any other required attributes for electronic records that are
-specified for corresponding nonelectronic records or that are reasonably
-necessary under the circumstances.
-(2)  A state governmental agency that makes rules under this section shall
-submit copies of those rules, and any amendments to those rules, to:
+46-4-501.   Creation and retention of electronic records and conversion of written records by governmental agencies.
+
+(1)  A state governmental agency may, by following the procedures and requirements of Title 63G, Chapter 3, Utah Administrative Rulemaking Act, make rules that:
+
+(a)  identify specific transactions that the agency is willing to conduct by electronic means;
+
+(b)  identify specific transactions that the agency will never conduct by electronic means;
+
+(c)  specify the manner and format in which electronic records must be created, generated, sent, communicated, received, and stored, and the systems established for those purposes;
+
+(d)  if law or rule requires that the electronic records must be signed by electronic means, specify the type of electronic signature required, the manner and format in which the electronic signature must be affixed to the electronic record, and the identity of, or criteria that must be met, by any third party used by a person filing a document to facilitate the process;
+
+(e)  specify control processes and procedures as appropriate to ensure adequate preservation, disposition, integrity, security, confidentiality, and auditability of electronic records; and
+
+(f)  identify any other required attributes for electronic records that are specified for corresponding nonelectronic records or that are reasonably necessary under the circumstances.
+
+(2)  A state governmental agency that makes rules under this section shall submit copies of those rules, and any amendments to those rules, to:
+
 (a)  the chief information officer established by Section 63F-1-201; and
+
 (b)  the Utah Technology Commission established by Section 63D-1a-201.
-(3) (a)  The chief information officer may prepare model rules and standards
-relating to electronic transactions that encourage and promote consistency and
-interoperability with similar requirements adopted by other Utah government
-agencies, other states, the federal government, and nongovernmental persons
-interacting with Utah governmental agencies.
-(b)  In preparing those model rules and standards, the chief information
-officer may specify different levels of standards from which governmental
-agencies may choose in order to implement the most appropriate standard for a
-particular application.
-(c)  Before submitting any model rules or standards to state governmental
-agencies for their adoption as permanent rules, the chief information officer
-shall submit the model rules and standards to the Utah Technology Commission
-for its review and suggestions.
-(d)  Nothing in this Subsection (3) requires a state agency to use the model
-rules and standards prepared by the chief information officer when making
-rules under this section.
-(4)  Except as provided in Subsection 46-4-301(6), nothing in this chapter
-requires any state governmental agency to:
+
+(3) (a)  The chief information officer may prepare model rules and standards relating to electronic transactions that encourage and promote consistency and interoperability with similar requirements adopted by other Utah government agencies, other states, the federal government, and nongovernmental persons interacting with Utah governmental agencies.
+
+(b)  In preparing those model rules and standards, the chief information officer may specify different levels of standards from which governmental agencies may choose in order to implement the most appropriate standard for a particular application.
+
+(c)  Before submitting any model rules or standards to state governmental agencies for their adoption as permanent rules, the chief information officer shall submit the model rules and standards to the Utah Technology Commission for its review and suggestions.
+
+(d)  Nothing in this Subsection (3) requires a state agency to use the model rules and standards prepared by the chief information officer when making rules under this section.
+
+(4)  Except as provided in Subsection 46-4-301(6), nothing in this chapter requires any state governmental agency to:
+
 (a)  conduct transactions by electronic means; or
+
 (b)  use or permit the use of electronic records or electronic signatures.
+
 (5)  Each state governmental agency shall:
-(a)  establish record retention schedules for any electronic records created
-or received in an electronic transaction according to the standards developed
-by the Division of Archives under Subsection 63A-12-101(2)(e); and
-(b)  obtain approval of those schedules from the State Records Committee as
-required by Subsection 63G-2-502(1)(b).
+
+(a)  establish record retention schedules for any electronic records created or received in an electronic transaction according to the standards developed by the Division of Archives under Subsection 63A-12-101(2)(e); and
+
+(b)  obtain approval of those schedules from the State Records Committee as required by Subsection 63G-2-502(1)(b).
+

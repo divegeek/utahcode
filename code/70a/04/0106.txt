@@ -1,13 +1,16 @@
 70A-4-106.   Payable through or payable at bank -- Collecting bank.
-(1)  If an item states that it is "payable through" a bank identified in the
-item:
-(a)  the item designates the bank as a collecting bank and does not by itself
-authorize the bank to pay the item; and
+
+(1)  If an item states that it is "payable through" a bank identified in the item:
+
+(a)  the item designates the bank as a collecting bank and does not by itself authorize the bank to pay the item; and
+
 (b)  the item may be presented for payment only by or through the bank.
+
 (2)  If an item states that it is "payable at" a bank identified in the item:
-(a)  the item designates the bank as a collecting bank and does not by itself
-authorize the bank to pay the item; and
+
+(a)  the item designates the bank as a collecting bank and does not by itself authorize the bank to pay the item; and
+
 (b)  the item may be presented for payment only by or through the bank.
-(3)  If a draft names a nonbank drawee and it is unclear whether a bank named
-in the draft is a codrawee or a collecting bank, the bank is a collecting
-bank.
+
+(3)  If a draft names a nonbank drawee and it is unclear whether a bank named in the draft is a codrawee or a collecting bank, the bank is a collecting bank.
+

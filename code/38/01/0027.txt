@@ -1,134 +1,144 @@
-38-1-27.   State Construction Registry -- Form and contents of notice of
-commencement, preliminary notice, and notice of completion.
-(1)  As used in this section, Sections 38-1-30 through 38-1-37, and Section
-38-1-40:
-(a)  "Alternate filing" means a legible and complete filing made in a manner
-established by the division under Subsection (2)(e) other than an electronic
-filing.
+38-1-27.   State Construction Registry -- Form and contents of notice of commencement, preliminary notice, and notice of completion.
+
+(1)  As used in this section, Sections 38-1-30 through 38-1-37, and Section 38-1-40:
+
+(a)  "Alternate filing" means a legible and complete filing made in a manner established by the division under Subsection (2)(e) other than an electronic filing.
+
 (b)  "Cancel" means to indicate that a filing is no longer given effect.
-(c)  "Construction project," "project," or "improvement" means all labor,
-equipment, and materials provided:
+
+(c)  "Construction project," "project," or "improvement" means all labor, equipment, and materials provided:
+
 (i)  under an original contract; or
+
 (ii)  by, or under contracts with, an owner-builder.
+
 (d)  "Database" means the State Construction Registry created in this section.
-(e) (i)  "Designated agent" means the third party the Division of Occupational
-and Professional Licensing contracts with to create and maintain the State
-Construction Registry.
-(ii)  The designated agent is not an agency, instrumentality, or a political
-subdivision of the state.
+
+(e) (i)  "Designated agent" means the third party the Division of Occupational and Professional Licensing contracts with to create and maintain the State Construction Registry.
+
+(ii)  The designated agent is not an agency, instrumentality, or a political subdivision of the state.
+
 (f)  "Division" means the Division of Occupational and Professional Licensing.
-(g)  "Interested person" means a person who may be affected by a construction
-project.
-(h)  "Program" means the State Construction Registry Program created in this
-section.
-(2)  Subject to receiving adequate funding through a legislative appropriation
-and contracting with an approved third party vendor who meets the requirements
-of Sections 38-1-30 through 38-1-37, there is created the State Construction
-Registry Program that shall:
+
+(g)  "Interested person" means a person who may be affected by a construction project.
+
+(h)  "Program" means the State Construction Registry Program created in this section.
+
+(2)  Subject to receiving adequate funding through a legislative appropriation and contracting with an approved third party vendor who meets the requirements of Sections 38-1-30 through 38-1-37, there is created the State Construction Registry Program that shall:
+
 (a) (i)  assist in protecting public health, safety, and welfare; and
+
 (ii)  promote a fair working environment;
+
 (b)  be overseen by the division with the assistance of the designated agent;
-(c)  provide a central repository for notices of commencement, preliminary
-notices, and notices of completion filed in connection with all privately
-owned construction projects as well as all state and local government owned
-construction projects throughout Utah;
-(d)  be accessible for filing and review by way of the program Internet
-website of:
+
+(c)  provide a central repository for notices of commencement, preliminary notices, and notices of completion filed in connection with all privately owned construction projects as well as all state and local government owned construction projects throughout Utah;
+
+(d)  be accessible for filing and review by way of the program Internet website of:
+
 (i)  notices of commencement;
+
 (ii)  preliminary notices;
+
 (iii)  a notice of intent to file notice of final completion;
+
 (iv)  a notice for remaining amounts due to complete the contract; and
+
 (v)  notices of completion;
+
 (e)  accommodate:
+
 (i)  electronic filing of the notices described in Subsection (2)(d); and
-(ii)  alternate filing of the notices described in Subsection (2)(d) by U.S.
-mail, telefax, or any other alternate method as provided by rule made by the
-division in accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act;
-(f) (i)  provide electronic notification for up to three e-mail addresses for
-each interested person or company who requests notice from the construction
-notice registry; and
-(ii)  provide alternate means of notification for a person who makes an
-alternate filing, including U.S. mail, telefax, or any other method as
-prescribed by rule made by the division in accordance with Title 63G, Chapter
-3, Utah Administrative Rulemaking Act; and
-(g)  provide hard-copy printing of electronic receipts for an individual
-filing evidencing the date and time of the individual filing and the content
-of the individual filing.
-(3) (a)  The designated agent shall provide notice of all other filings for a
-project to any person who files a notice of commencement, preliminary notice,
-or notice of completion for that project, unless the person:
+
+(ii)  alternate filing of the notices described in Subsection (2)(d) by U.S. mail, telefax, or any other alternate method as provided by rule made by the division in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act;
+
+(f) (i)  provide electronic notification for up to three e-mail addresses for each interested person or company who requests notice from the construction notice registry; and
+
+(ii)  provide alternate means of notification for a person who makes an alternate filing, including U.S. mail, telefax, or any other method as prescribed by rule made by the division in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; and
+
+(g)  provide hard-copy printing of electronic receipts for an individual filing evidencing the date and time of the individual filing and the content of the individual filing.
+
+(3) (a)  The designated agent shall provide notice of all other filings for a project to any person who files a notice of commencement, preliminary notice, or notice of completion for that project, unless the person:
+
 (i)  requests that the person not receive notice of other filings; or
-(ii)  does not provide the designated agent with the person's contact
-information in a manner that adequately informs the designated agent.
+
+(ii)  does not provide the designated agent with the person's contact information in a manner that adequately informs the designated agent.
+
 (b)  An interested person may request notice of filings related to a project.
+
 (c)  The database shall be indexed by:
+
 (i)  owner name;
+
 (ii)  original contractor name;
+
 (iii)  subdivision, development, or other project name, if any;
+
 (iv)  project address;
+
 (v)  lot or parcel number;
+
 (vi)  unique project number assigned by the designated agent; and
-(vii)  any other identifier that the division considers reasonably appropriate
-in collaboration with the designated agent.
-(4) (a)  In accordance with the process required by Section 63J-1-504, the
-division shall establish the fees for:
+
+(vii)  any other identifier that the division considers reasonably appropriate in collaboration with the designated agent.
+
+(4) (a)  In accordance with the process required by Section 63J-1-504, the division shall establish the fees for:
+
 (i)  a notice of commencement;
+
 (ii)  a preliminary notice;
+
 (iii)  a notice of intent to file notice of final completion;
+
 (iv)  a notice for remaining amounts due to complete the contract;
+
 (v)  a notice of completion;
+
 (vi)  a request for notice;
+
 (vii)  providing a required notice by an alternate method of delivery;
+
 (viii)  a duplicate receipt of a filing; and
-(ix)  account setup for a person who wishes to be billed periodically for
-filings with the database.
-(b)  The fees allowed under Subsection (4)(a) may not exceed the amount
-reasonably necessary to create and maintain the database.
-(c)  The fees established by the division may vary by method of filing if one
-form of filing is more costly to process than another form of filing.
-(d)  The division may provide by contract that the designated agent may retain
-all fees collected by the designated agent except that the designated agent
-shall remit to the division the cost of the division's oversight under
-Subsection (2)(b).
-(5) (a)  The database is classified as a public record under Title 63G,
-Chapter 2, Government Records Access and Management Act, unless otherwise
-classified by the division.
-(b)  A request for information submitted to the designated agent is not
-subject to Title 63G, Chapter 2, Government Records Access and Management Act.
-(c)  Information contained in a public record contained in the database shall
-be requested from the designated agent.
-(d)  The designated agent may charge a commercially reasonable fee allowed by
-the designated agent's contract with the division for providing information
-under Subsection (5)(c).
-(e)  Notwithstanding Title 63G, Chapter 2, Government Records Access and
-Management Act, if information is available in a public record contained in
-the database, a person may not request the information from the division.
-(f) (i)  A person may request information that is not a public record
-contained in the database from the division in accordance with Title 63G,
-Chapter 2, Government Records Access and Management Act.
-(ii)  The division shall inform the designated agent of how to direct
-inquiries made to the designated agent for information that is not a public
-record contained in the database.
-(6)  The following are not an adjudicative proceeding under Title 63G, Chapter
-4, Administrative Procedures Act:
+
+(ix)  account setup for a person who wishes to be billed periodically for filings with the database.
+
+(b)  The fees allowed under Subsection (4)(a) may not exceed the amount reasonably necessary to create and maintain the database.
+
+(c)  The fees established by the division may vary by method of filing if one form of filing is more costly to process than another form of filing.
+
+(d)  The division may provide by contract that the designated agent may retain all fees collected by the designated agent except that the designated agent shall remit to the division the cost of the division's oversight under Subsection (2)(b).
+
+(5) (a)  The database is classified as a public record under Title 63G, Chapter 2, Government Records Access and Management Act, unless otherwise classified by the division.
+
+(b)  A request for information submitted to the designated agent is not subject to Title 63G, Chapter 2, Government Records Access and Management Act.
+
+(c)  Information contained in a public record contained in the database shall be requested from the designated agent.
+
+(d)  The designated agent may charge a commercially reasonable fee allowed by the designated agent's contract with the division for providing information under Subsection (5)(c).
+
+(e)  Notwithstanding Title 63G, Chapter 2, Government Records Access and Management Act, if information is available in a public record contained in the database, a person may not request the information from the division.
+
+(f) (i)  A person may request information that is not a public record contained in the database from the division in accordance with Title 63G, Chapter 2, Government Records Access and Management Act.
+
+(ii)  The division shall inform the designated agent of how to direct inquiries made to the designated agent for information that is not a public record contained in the database.
+
+(6)  The following are not an adjudicative proceeding under Title 63G, Chapter 4, Administrative Procedures Act:
+
 (a)  the filing of a notice permitted by this chapter;
+
 (b)  the rejection of a filing permitted by this chapter; or
-(c)  other action by the designated agent in connection with a filing of any
-notice permitted by this chapter.
-(7)  The division and the designated agent need not determine the timeliness
-of any notice before filing the notice in the database.
-(8) (a)  A person who is delinquent on the payment of a fee established under
-Subsection (4) may not file a notice with the database.
-(b)  A determination that a person is delinquent on the payment of a fee for
-filing established under Subsection (4) shall be made in accordance with Title
-63G, Chapter 4, Administrative Procedures Act.
-(c)  Any order issued in a proceeding described in Subsection (8)(b) may
-prescribe the method of that person's payment of fees for filing notices with
-the database after issuance of the order.
-(9)  If a notice is filed by a third party on behalf of another, the notice is
-considered to be filed by the person on whose behalf the notice is filed.
-(10)  A person filing a notice of commencement, preliminary notice, or notice
-of completion is responsible for verifying the accuracy of information entered
-into the database, whether the person files electronically or by alternate or
-third party filing.
+
+(c)  other action by the designated agent in connection with a filing of any notice permitted by this chapter.
+
+(7)  The division and the designated agent need not determine the timeliness of any notice before filing the notice in the database.
+
+(8) (a)  A person who is delinquent on the payment of a fee established under Subsection (4) may not file a notice with the database.
+
+(b)  A determination that a person is delinquent on the payment of a fee for filing established under Subsection (4) shall be made in accordance with Title 63G, Chapter 4, Administrative Procedures Act.
+
+(c)  Any order issued in a proceeding described in Subsection (8)(b) may prescribe the method of that person's payment of fees for filing notices with the database after issuance of the order.
+
+(9)  If a notice is filed by a third party on behalf of another, the notice is considered to be filed by the person on whose behalf the notice is filed.
+
+(10)  A person filing a notice of commencement, preliminary notice, or notice of completion is responsible for verifying the accuracy of information entered into the database, whether the person files electronically or by alternate or third party filing.
+

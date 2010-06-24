@@ -1,9 +1,4 @@
 22-1-10.   Deposits in name of several trustees.
-When a deposit is made in a bank in the name of two or more persons as
-trustees and a check is drawn upon the trust account by any trustee or
-trustees authorized by the other trustee or trustees to draw checks upon the
-trust account, neither the payee nor other holder nor the bank is bound to
-inquire whether it is a breach of trust to authorize such trustee or trustees
-to draw checks upon the trust account, and is not liable, unless the
-circumstances are such that the action of the payee or other holder or the
-bank amounts to bad faith.
+
+When a deposit is made in a bank in the name of two or more persons as trustees and a check is drawn upon the trust account by any trustee or trustees authorized by the other trustee or trustees to draw checks upon the trust account, neither the payee nor other holder nor the bank is bound to inquire whether it is a breach of trust to authorize such trustee or trustees to draw checks upon the trust account, and is not liable, unless the circumstances are such that the action of the payee or other holder or the bank amounts to bad faith.
+

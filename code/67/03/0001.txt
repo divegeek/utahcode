@@ -1,202 +1,158 @@
 67-3-1.   Functions and duties.
-(1) (a)  The state auditor is the auditor of public accounts and is
-independent of any executive or administrative officers of the state.
-(b)  The state auditor is not limited in the selection of personnel or in the
-determination of the reasonable and necessary expenses of the state auditor's
-office.
-(2)  The state auditor shall examine and certify annually in respect to each
-fiscal year, financial statements showing:
+
+(1) (a)  The state auditor is the auditor of public accounts and is independent of any executive or administrative officers of the state.
+
+(b)  The state auditor is not limited in the selection of personnel or in the determination of the reasonable and necessary expenses of the state auditor's office.
+
+(2)  The state auditor shall examine and certify annually in respect to each fiscal year, financial statements showing:
+
 (a)  the condition of the state's finances;
+
 (b)  the revenues received or accrued;
+
 (c)  expenditures paid or accrued;
-(d)  the amount of unexpended or unencumbered balances of the appropriations
-to the agencies, departments, divisions, commissions, and institutions; and
+
+(d)  the amount of unexpended or unencumbered balances of the appropriations to the agencies, departments, divisions, commissions, and institutions; and
+
 (e)  the cash balances of the funds in the custody of the state treasurer.
+
 (3) (a)  The state auditor shall:
-(i)  audit each permanent fund, each special fund, the General Fund, and the
-accounts of any department of state government or any independent agency or
-public corporation as the law requires, as the auditor determines is
-necessary, or upon request of the governor or the Legislature;
-(ii)  perform the audits in accordance with generally accepted auditing
-standards and other auditing procedures as promulgated by recognized
-authoritative bodies;
-(iii)  as the auditor determines is necessary, conduct the audits to
-determine:
+
+(i)  audit each permanent fund, each special fund, the General Fund, and the accounts of any department of state government or any independent agency or public corporation as the law requires, as the auditor determines is necessary, or upon request of the governor or the Legislature;
+
+(ii)  perform the audits in accordance with generally accepted auditing standards and other auditing procedures as promulgated by recognized authoritative bodies;
+
+(iii)  as the auditor determines is necessary, conduct the audits to determine:
+
 (A)  honesty and integrity in fiscal affairs;
+
 (B)  accuracy and reliability of financial statements;
+
 (C)  effectiveness and adequacy of financial controls; and
+
 (D)  compliance with the law.
-(b)  If any state entity receives federal funding, the state auditor shall
-ensure that the audit is performed in accordance with federal audit
-requirements.
-(c) (i)  The costs of the federal compliance portion of the audit may be paid
-from an appropriation to the state auditor from the General Fund.
-(ii)  If an appropriation is not provided, or if the federal government does
-not specifically provide for payment of audit costs, the costs of the federal
-compliance portions of the audit shall be allocated on the basis of the
-percentage that each state entity's federal funding bears to the total federal
-funds received by the state.
-(iii)  The allocation shall be adjusted to reflect any reduced audit time
-required to audit funds passed through the state to local governments and to
-reflect any reduction in audit time obtained through the use of internal
-auditors working under the direction of the state auditor.
-(4) (a)  Except as provided in Subsection (4)(b), the state auditor shall, in
-addition to financial audits, and as the auditor determines is necessary,
-conduct performance and special purpose audits, examinations, and reviews of
-any entity that receives public funds, including a determination of any or all
-of the following:
+
+(b)  If any state entity receives federal funding, the state auditor shall ensure that the audit is performed in accordance with federal audit requirements.
+
+(c) (i)  The costs of the federal compliance portion of the audit may be paid from an appropriation to the state auditor from the General Fund.
+
+(ii)  If an appropriation is not provided, or if the federal government does not specifically provide for payment of audit costs, the costs of the federal compliance portions of the audit shall be allocated on the basis of the percentage that each state entity's federal funding bears to the total federal funds received by the state.
+
+(iii)  The allocation shall be adjusted to reflect any reduced audit time required to audit funds passed through the state to local governments and to reflect any reduction in audit time obtained through the use of internal auditors working under the direction of the state auditor.
+
+(4) (a)  Except as provided in Subsection (4)(b), the state auditor shall, in addition to financial audits, and as the auditor determines is necessary, conduct performance and special purpose audits, examinations, and reviews of any entity that receives public funds, including a determination of any or all of the following:
+
 (i)  the honesty and integrity of all its fiscal affairs;
-(ii)  whether or not its administrators have faithfully complied with
-legislative intent;
-(iii)  whether or not its operations have been conducted in an efficient,
-effective, and cost-efficient manner;
-(iv)  whether or not its programs have been effective in accomplishing the
-intended objectives; and
-(v)  whether or not its management, control, and information systems are
-adequate and effective.
-(b)  The auditor may not conduct performance and special purpose audits,
-examinations, and reviews of any entity that receives public funds if the
-entity:
+
+(ii)  whether or not its administrators have faithfully complied with legislative intent;
+
+(iii)  whether or not its operations have been conducted in an efficient, effective, and cost-efficient manner;
+
+(iv)  whether or not its programs have been effective in accomplishing the intended objectives; and
+
+(v)  whether or not its management, control, and information systems are adequate and effective.
+
+(b)  The auditor may not conduct performance and special purpose audits, examinations, and reviews of any entity that receives public funds if the entity:
+
 (i)  has an elected auditor; and
-(ii)  has, within the entity's last budget year, had its financial statements
-or performance formally reviewed by another outside auditor.
-(5)  The state auditor shall administer any oath or affirmation necessary to
-the performance of the duties of the auditor's office, and may subpoena
-witnesses and documents, whether electronic or otherwise, and examine into any
-matter that the auditor considers necessary.
-(6)  The state auditor may require all persons who have had the disposition or
-management of any property of this state or its political subdivisions to
-submit statements regarding it at the time and in the form that the auditor
-requires.
+
+(ii)  has, within the entity's last budget year, had its financial statements or performance formally reviewed by another outside auditor.
+
+(5)  The state auditor shall administer any oath or affirmation necessary to the performance of the duties of the auditor's office, and may subpoena witnesses and documents, whether electronic or otherwise, and examine into any matter that the auditor considers necessary.
+
+(6)  The state auditor may require all persons who have had the disposition or management of any property of this state or its political subdivisions to submit statements regarding it at the time and in the form that the auditor requires.
+
 (7)  The state auditor shall:
-(a)  except where otherwise provided by law, institute suits in Salt Lake
-County in relation to the assessment, collection, and payment of its revenues
-against:
-(i)  persons who by any means have become entrusted with public monies or
-property and have failed to pay over or deliver those monies or property; and
+
+(a)  except where otherwise provided by law, institute suits in Salt Lake County in relation to the assessment, collection, and payment of its revenues against:
+
+(i)  persons who by any means have become entrusted with public monies or property and have failed to pay over or deliver those monies or property; and
+
 (ii)  all debtors of the state;
-(b)  collect and pay into the state treasury all fees received by the state
-auditor;
-(c)  perform the duties of a member of all boards of which the state auditor
-is a member by the constitution or laws of the state, and any other duties
-that are prescribed by the constitution and by law;
-(d)  stop the payment of the salary of any state official or state employee
-who:
-(i)  refuses to settle accounts or provide required statements about the
-custody and disposition of public funds or other state property;
-(ii)  refuses, neglects, or ignores the instruction of the state auditor or
-any controlling board or department head with respect to the manner of keeping
-prescribed accounts or funds; or
-(iii)  fails to correct any delinquencies, improper procedures, and errors
-brought to the official's or employee's attention;
-(e)  establish accounting systems, methods, and forms for public accounts in
-all taxing or fee-assessing units of the state in the interest of uniformity,
-efficiency, and economy;
+
+(b)  collect and pay into the state treasury all fees received by the state auditor;
+
+(c)  perform the duties of a member of all boards of which the state auditor is a member by the constitution or laws of the state, and any other duties that are prescribed by the constitution and by law;
+
+(d)  stop the payment of the salary of any state official or state employee who:
+
+(i)  refuses to settle accounts or provide required statements about the custody and disposition of public funds or other state property;
+
+(ii)  refuses, neglects, or ignores the instruction of the state auditor or any controlling board or department head with respect to the manner of keeping prescribed accounts or funds; or
+
+(iii)  fails to correct any delinquencies, improper procedures, and errors brought to the official's or employee's attention;
+
+(e)  establish accounting systems, methods, and forms for public accounts in all taxing or fee-assessing units of the state in the interest of uniformity, efficiency, and economy;
+
 (f)  superintend the contractual auditing of all state accounts;
-(g)  subject to Subsection (8), withhold state allocated funds or the
-disbursement of property taxes from any state taxing or fee-assessing unit, if
-necessary, to ensure that officials and employees in those taxing units of the
-state comply with state laws and procedures in the budgeting, expenditures,
-and financial reporting of public funds; and
-(h)  subject to Subsection (9), withhold the disbursement of tax monies from
-any county, if necessary, to ensure that officials and employees in the county
-comply with Section 59-2-303.1.
-(8)  Except as otherwise provided by law, the state auditor may not withhold
-funds under Subsection (7)(g) until a taxing or fee-assessing unit has
-received formal written notice of noncompliance from the auditor and has been
-given 60 days to make the specified corrections.
-(9)  The state auditor may not withhold funds under Subsection (7)(h) until a
-county has received formal written notice of noncompliance from the auditor
-and has been given 60 days to make the specified corrections.
+
+(g)  subject to Subsection (8), withhold state allocated funds or the disbursement of property taxes from any state taxing or fee-assessing unit, if necessary, to ensure that officials and employees in those taxing units of the state comply with state laws and procedures in the budgeting, expenditures, and financial reporting of public funds; and
+
+(h)  subject to Subsection (9), withhold the disbursement of tax monies from any county, if necessary, to ensure that officials and employees in the county comply with Section 59-2-303.1.
+
+(8)  Except as otherwise provided by law, the state auditor may not withhold funds under Subsection (7)(g) until a taxing or fee-assessing unit has received formal written notice of noncompliance from the auditor and has been given 60 days to make the specified corrections.
+
+(9)  The state auditor may not withhold funds under Subsection (7)(h) until a county has received formal written notice of noncompliance from the auditor and has been given 60 days to make the specified corrections.
+
 (10)  The state auditor shall:
-(a)  establish audit guidelines and procedures for audits of local mental
-health and substance abuse authorities and their contract providers, conducted
-pursuant to Title 17, Chapter 43, Parts 2, Local Substance Abuse Authorities
-and 3, Local Mental Health Authorities, Title 51, Chapter 2a, Accounting
-Reports from Political Subdivisions, Interlocal Organizations, and Other Local
-Entities Act, and Title 62A, Chapter 15, Substance Abuse and Mental Health
-Act; and
-(b)  ensure that those guidelines and procedures provide assurances to the
-state that:
-(i)  state and federal funds appropriated to local mental health authorities
-are used for mental health purposes;
-(ii)  a private provider under an annual or otherwise ongoing contract to
-provide comprehensive mental health programs or services for a local mental
-health authority is in compliance with state and local contract requirements,
-and state and federal law;
-(iii)  state and federal funds appropriated to local substance abuse
-authorities are used for substance abuse programs and services; and
-(iv)  a private provider under an annual or otherwise ongoing contract to
-provide comprehensive substance abuse programs or services for a local
-substance abuse authority is in compliance with state and local contract
-requirements, and state and federal law.
-(11)  The state auditor may, in accordance with the auditor's responsibilities
-for political subdivisions of the state as provided in Title 51, Chapter 2a,
-Accounting Reports from Political Subdivisions, Interlocal Organizations, and
-Other Local Entities Act, initiate audits or investigations of any political
-subdivision that are necessary to determine honesty and integrity in fiscal
-affairs, accuracy and reliability of financial statements, effectiveness, and
-adequacy of financial controls and compliance with the law.
-(12) (a)  The state auditor may not audit work that the state auditor
-performed before becoming state auditor.
-(b)  If the state auditor has previously been a responsible official in state
-government whose work has not yet been audited, the Legislature shall:
+
+(a)  establish audit guidelines and procedures for audits of local mental health and substance abuse authorities and their contract providers, conducted pursuant to Title 17, Chapter 43, Parts 2, Local Substance Abuse Authorities and 3, Local Mental Health Authorities, Title 51, Chapter 2a, Accounting Reports from Political Subdivisions, Interlocal Organizations, and Other Local Entities Act, and Title 62A, Chapter 15, Substance Abuse and Mental Health Act; and
+
+(b)  ensure that those guidelines and procedures provide assurances to the state that:
+
+(i)  state and federal funds appropriated to local mental health authorities are used for mental health purposes;
+
+(ii)  a private provider under an annual or otherwise ongoing contract to provide comprehensive mental health programs or services for a local mental health authority is in compliance with state and local contract requirements, and state and federal law;
+
+(iii)  state and federal funds appropriated to local substance abuse authorities are used for substance abuse programs and services; and
+
+(iv)  a private provider under an annual or otherwise ongoing contract to provide comprehensive substance abuse programs or services for a local substance abuse authority is in compliance with state and local contract requirements, and state and federal law.
+
+(11)  The state auditor may, in accordance with the auditor's responsibilities for political subdivisions of the state as provided in Title 51, Chapter 2a, Accounting Reports from Political Subdivisions, Interlocal Organizations, and Other Local Entities Act, initiate audits or investigations of any political subdivision that are necessary to determine honesty and integrity in fiscal affairs, accuracy and reliability of financial statements, effectiveness, and adequacy of financial controls and compliance with the law.
+
+(12) (a)  The state auditor may not audit work that the state auditor performed before becoming state auditor.
+
+(b)  If the state auditor has previously been a responsible official in state government whose work has not yet been audited, the Legislature shall:
+
 (i)  designate how that work shall be audited; and
+
 (ii)  provide additional funding for those audits, if necessary.
+
 (13)  The state auditor shall:
-(a)  with the assistance, advice, and recommendations of an advisory committee
-appointed by the state auditor from among local district boards of trustees,
-officers, and employees and special service district boards, officers, and
-employees:
+
+(a)  with the assistance, advice, and recommendations of an advisory committee appointed by the state auditor from among local district boards of trustees, officers, and employees and special service district boards, officers, and employees:
+
 (i)  prepare a Uniform Accounting Manual for Local Districts that:
-(A)  prescribes a uniform system of accounting and uniform budgeting and
-reporting procedures for local districts under Title 17B, Limited Purpose
-Local Government Entities - Local Districts, and special service districts
-under Title 17D, Chapter 1, Special Service District Act;
+
+(A)  prescribes a uniform system of accounting and uniform budgeting and reporting procedures for local districts under Title 17B, Limited Purpose Local Government Entities - Local Districts, and special service districts under Title 17D, Chapter 1, Special Service District Act;
+
 (B)  conforms with generally accepted accounting principles; and
-(C)  prescribes reasonable exceptions and modifications for smaller districts
-to the uniform system of accounting, budgeting, and reporting;
-(ii)  maintain the manual under Subsection (13)(a) so that it continues to
-reflect generally accepted accounting principles;
-(iii)  conduct a continuing review and modification of procedures in order to
-improve them;
-(iv)  prepare and supply each district with suitable budget and reporting
-forms; and
-(v)  prepare instructional materials, conduct training programs, and render
-other services considered necessary to assist local districts and special
-service districts in implementing the uniform accounting, budgeting, and
-reporting procedures; and
-(b)  continually analyze and evaluate the accounting, budgeting, and reporting
-practices and experiences of specific local districts and special service
-districts selected by the state auditor and make the information available to
-all districts.
-(14) (a)  The following records in the custody or control of the state auditor
-are protected records under Title 63G, Chapter 2, Government Records Access
-and Management Act:
-(i)  records that would disclose information relating to allegations of
-personal misconduct, gross mismanagement, or illegal activity of a past or
-present governmental employee if the information or allegation cannot be
-corroborated by the state auditor through other documents or evidence, and the
-records relating to the allegation are not relied upon by the state auditor in
-preparing a final audit report;
-(ii)  records and audit workpapers to the extent they would disclose the
-identity of a person who during the course of an audit, communicated the
-existence of any waste of public funds, property, or manpower, or a violation
-or suspected violation of a law, rule, or regulation adopted under the laws of
-this state, a political subdivision of the state, or any recognized entity of
-the United States, if the information was disclosed on the condition that the
-identity of the person be protected;
-(iii)  before an audit is completed and the final audit report is released,
-records or drafts circulated to a person who is not an employee or head of a
-governmental entity for their response or information;
-(iv)  records that would disclose an outline or part of any audit survey plans
-or audit program; and
+
+(C)  prescribes reasonable exceptions and modifications for smaller districts to the uniform system of accounting, budgeting, and reporting;
+
+(ii)  maintain the manual under Subsection (13)(a) so that it continues to reflect generally accepted accounting principles;
+
+(iii)  conduct a continuing review and modification of procedures in order to improve them;
+
+(iv)  prepare and supply each district with suitable budget and reporting forms; and
+
+(v)  prepare instructional materials, conduct training programs, and render other services considered necessary to assist local districts and special service districts in implementing the uniform accounting, budgeting, and reporting procedures; and
+
+(b)  continually analyze and evaluate the accounting, budgeting, and reporting practices and experiences of specific local districts and special service districts selected by the state auditor and make the information available to all districts.
+
+(14) (a)  The following records in the custody or control of the state auditor are protected records under Title 63G, Chapter 2, Government Records Access and Management Act:
+
+(i)  records that would disclose information relating to allegations of personal misconduct, gross mismanagement, or illegal activity of a past or present governmental employee if the information or allegation cannot be corroborated by the state auditor through other documents or evidence, and the records relating to the allegation are not relied upon by the state auditor in preparing a final audit report;
+
+(ii)  records and audit workpapers to the extent they would disclose the identity of a person who during the course of an audit, communicated the existence of any waste of public funds, property, or manpower, or a violation or suspected violation of a law, rule, or regulation adopted under the laws of this state, a political subdivision of the state, or any recognized entity of the United States, if the information was disclosed on the condition that the identity of the person be protected;
+
+(iii)  before an audit is completed and the final audit report is released, records or drafts circulated to a person who is not an employee or head of a governmental entity for their response or information;
+
+(iv)  records that would disclose an outline or part of any audit survey plans or audit program; and
+
 (v)  requests for audits, if disclosure would risk circumvention of an audit.
-(b)  The provisions of Subsections (14)(a)(i), (ii), and (iii) do not prohibit
-the disclosure of records or information that relate to a violation of the law
-by a governmental entity or employee to a government prosecutor or peace
-officer.
-(c)  The provisions of this Subsection (14) do not limit the authority
-otherwise given to the state auditor to classify a document as public,
-private, controlled, or protected under Title 63G, Chapter 2, Government
-Records Access and Management Act.
+
+(b)  The provisions of Subsections (14)(a)(i), (ii), and (iii) do not prohibit the disclosure of records or information that relate to a violation of the law by a governmental entity or employee to a government prosecutor or peace officer.
+
+(c)  The provisions of this Subsection (14) do not limit the authority otherwise given to the state auditor to classify a document as public, private, controlled, or protected under Title 63G, Chapter 2, Government Records Access and Management Act.
+

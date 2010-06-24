@@ -1,21 +1,18 @@
 70A-3-504.   Excused presentment and notice of dishonor.
+
 (1)  Presentment for payment or acceptance of an instrument is excused if:
-(a)  the person entitled to present the instrument cannot with reasonable
-diligence make presentment;
-(b)  the maker or acceptor has repudiated an obligation to pay the instrument,
-is dead, or is in insolvency proceedings;
-(c)  by the terms of the instrument presentment is not necessary to enforce
-the obligation of indorsers or the drawer;
-(d)  the drawer or indorser whose obligation is being enforced has waived
-presentment or otherwise has no reason to expect or right to require that the
-instrument be paid or accepted; or
-(e)  the drawer instructed the drawee not to pay or accept the draft or the
-drawee was not obligated to the drawer to pay the draft.
-(2)  Notice of dishonor is excused if by the terms of the instrument notice of
-dishonor is not necessary to enforce the obligation of a party to pay the
-instrument, or the party whose obligation is being enforced waived notice of
-dishonor.  A waiver of presentment is also a waiver of notice of dishonor.
-(3)  Delay in giving notice of dishonor is excused if the delay was caused by
-circumstances beyond the control of the person giving the notice and the
-person giving the notice exercised reasonable diligence after the cause of the
-delay ceased to operate.
+
+(a)  the person entitled to present the instrument cannot with reasonable diligence make presentment;
+
+(b)  the maker or acceptor has repudiated an obligation to pay the instrument, is dead, or is in insolvency proceedings;
+
+(c)  by the terms of the instrument presentment is not necessary to enforce the obligation of indorsers or the drawer;
+
+(d)  the drawer or indorser whose obligation is being enforced has waived presentment or otherwise has no reason to expect or right to require that the instrument be paid or accepted; or
+
+(e)  the drawer instructed the drawee not to pay or accept the draft or the drawee was not obligated to the drawer to pay the draft.
+
+(2)  Notice of dishonor is excused if by the terms of the instrument notice of dishonor is not necessary to enforce the obligation of a party to pay the instrument, or the party whose obligation is being enforced waived notice of dishonor.  A waiver of presentment is also a waiver of notice of dishonor.
+
+(3)  Delay in giving notice of dishonor is excused if the delay was caused by circumstances beyond the control of the person giving the notice and the person giving the notice exercised reasonable diligence after the cause of the delay ceased to operate.
+

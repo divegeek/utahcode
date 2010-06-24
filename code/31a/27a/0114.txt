@@ -1,141 +1,122 @@
 31A-27a-114.   Immunity and indemnification.
+
 (1)  For purposes of this section:
+
 (a)  "Receiver's assistant" includes:
-(i)  a present or former special deputy or assistant special deputy engaged by
-contract or otherwise;
-(ii)  a person whom the receiver, a special deputy, or an assistant special
-deputy employs to assist in a delinquency proceeding under this chapter; and
-(iii)  a state employee acting with respect to a delinquency proceeding under
-this chapter.
-(b)  "Receiver's contractor" includes a person with whom the receiver, a
-special deputy, or an assistant special deputy contracts to assist in a
-delinquency proceeding under this chapter such as:
+
+(i)  a present or former special deputy or assistant special deputy engaged by contract or otherwise;
+
+(ii)  a person whom the receiver, a special deputy, or an assistant special deputy employs to assist in a delinquency proceeding under this chapter; and
+
+(iii)  a state employee acting with respect to a delinquency proceeding under this chapter.
+
+(b)  "Receiver's contractor" includes a person with whom the receiver, a special deputy, or an assistant special deputy contracts to assist in a delinquency proceeding under this chapter such as:
+
 (i)  an attorney;
+
 (ii)  an accountant;
+
 (iii)  an auditor;
+
 (iv)  an actuary;
+
 (v)  an investment banker;
+
 (vi)  a financial advisor;
-(vii)  any other professional or firm who is retained or contracted with by
-the receiver as an independent contractor; and
+
+(vii)  any other professional or firm who is retained or contracted with by the receiver as an independent contractor; and
+
 (viii)  an employee of a person described in this Subsection (1)(b).
-(2)  For the purposes of this section, the following persons are entitled to
-immunity and indemnification, or only immunity, as applicable:
-(a)  a present or former receiver responsible for the conduct of a delinquency
-proceeding under this chapter;
+
+(2)  For the purposes of this section, the following persons are entitled to immunity and indemnification, or only immunity, as applicable:
+
+(a)  a present or former receiver responsible for the conduct of a delinquency proceeding under this chapter;
+
 (b)  a present or former receiver's assistant; and
+
 (c)  a present or former receiver's contractor.
-(3)  The receiver, a receiver's assistant, and a receiver's contractor have
-immunity under this chapter, as follows:
-(a)  the receiver, a receiver's assistant, and a receiver's contractor have
-official immunity and are immune from suit and liability, both personally and
-in their official capacities, for any claim for damage to or loss of property,
-personal injury, or other civil liability caused by or resulting from an
-alleged act, error, or omission of the receiver, a receiver's assistant, or a
-receiver's contractor arising out of or by reason of the receiver's,
-receiver's assistant's, or receiver's contractor's duties or employment;
-(b)  the receiver, a receiver's assistant, and a receiver's contractor have
-absolute judicial immunity and are immune from suit and liability, both
-personally and in their official capacities, for any claim for damage to or
-loss of property, personal injury, or other civil liability caused by or
-resulting from any alleged act, error, or omission of the receiver, a
-receiver's assistant, or a receiver's contractor arising out of or by reason
-of any matter that is subject to review by the receivership court after notice
-and opportunity to be heard, if the alleged act, error, or omission is not
-disapproved or disallowed by the receivership court; and
-(c)  this chapter may not be construed to provide official immunity, to
-provide judicial immunity, or to otherwise hold the receiver, a receiver's
-assistant, or a receiver's contractor immune from suit and liability for any
-damage, loss, injury, or liability caused by the intentional or willful and
-wanton misconduct of the receiver, a receiver's assistant, or a receiver's
-contractor.
-(4)  The receiver or a receiver's assistant is entitled to indemnification
-under this chapter, as follows:
-(a)  the receiver and a receiver's assistant shall be indemnified from the
-assets of the insurer:
-(i)  if any legal action is commenced against the receiver or a receiver's
-assistant:
-(A)  whether against the receiver or receiver's assistant personally or in the
-official capacity; and
-(B)  alleging property damage, property loss, personal injury, or other civil
-liability caused by or resulting from any alleged act, error, or omission of
-the receiver or a receiver's assistant arising out of or by reason of the
-receiver's or receiver's assistant's duties or employment;
-(ii)  for all expenses, attorney fees, judgments, settlements, decrees, or
-amounts due and owing or paid in satisfaction of or incurred in the defense of
-the legal action; and
-(iii)  unless it is determined upon a final adjudication on the merits that
-the alleged act, error, or omission of the receiver or receiver's assistant
-giving rise to the claim:
-(A)  does not arise out of or by reason of the receiver's or receiver's
-assistant's duties or employment; or
+
+(3)  The receiver, a receiver's assistant, and a receiver's contractor have immunity under this chapter, as follows:
+
+(a)  the receiver, a receiver's assistant, and a receiver's contractor have official immunity and are immune from suit and liability, both personally and in their official capacities, for any claim for damage to or loss of property, personal injury, or other civil liability caused by or resulting from an alleged act, error, or omission of the receiver, a receiver's assistant, or a receiver's contractor arising out of or by reason of the receiver's, receiver's assistant's, or receiver's contractor's duties or employment;
+
+(b)  the receiver, a receiver's assistant, and a receiver's contractor have absolute judicial immunity and are immune from suit and liability, both personally and in their official capacities, for any claim for damage to or loss of property, personal injury, or other civil liability caused by or resulting from any alleged act, error, or omission of the receiver, a receiver's assistant, or a receiver's contractor arising out of or by reason of any matter that is subject to review by the receivership court after notice and opportunity to be heard, if the alleged act, error, or omission is not disapproved or disallowed by the receivership court; and
+
+(c)  this chapter may not be construed to provide official immunity, to provide judicial immunity, or to otherwise hold the receiver, a receiver's assistant, or a receiver's contractor immune from suit and liability for any damage, loss, injury, or liability caused by the intentional or willful and wanton misconduct of the receiver, a receiver's assistant, or a receiver's contractor.
+
+(4)  The receiver or a receiver's assistant is entitled to indemnification under this chapter, as follows:
+
+(a)  the receiver and a receiver's assistant shall be indemnified from the assets of the insurer:
+
+(i)  if any legal action is commenced against the receiver or a receiver's assistant:
+
+(A)  whether against the receiver or receiver's assistant personally or in the official capacity; and
+
+(B)  alleging property damage, property loss, personal injury, or other civil liability caused by or resulting from any alleged act, error, or omission of the receiver or a receiver's assistant arising out of or by reason of the receiver's or receiver's assistant's duties or employment;
+
+(ii)  for all expenses, attorney fees, judgments, settlements, decrees, or amounts due and owing or paid in satisfaction of or incurred in the defense of the legal action; and
+
+(iii)  unless it is determined upon a final adjudication on the merits that the alleged act, error, or omission of the receiver or receiver's assistant giving rise to the claim:
+
+(A)  does not arise out of or by reason of the receiver's or receiver's assistant's duties or employment; or
+
 (B)  is caused by intentional or willful and wanton misconduct;
-(b)  attorney fees and related expenses incurred in defending a legal action
-for which immunity or indemnity is available under this section shall be paid
-from the assets of the insurer as they are incurred, in advance of the final
-disposition of the action upon receipt of an agreement by or on behalf of the
-receiver or receiver's assistant to repay the attorney fees and expenses if it
-is ultimately determined upon a final adjudication on the merits that the
-receiver or receiver's assistant is not entitled to immunity or indemnity
-under this section;
-(c)  the following paid pursuant to this section are an administrative expense
-of the insurer, an indemnification for:
+
+(b)  attorney fees and related expenses incurred in defending a legal action for which immunity or indemnity is available under this section shall be paid from the assets of the insurer as they are incurred, in advance of the final disposition of the action upon receipt of an agreement by or on behalf of the receiver or receiver's assistant to repay the attorney fees and expenses if it is ultimately determined upon a final adjudication on the merits that the receiver or receiver's assistant is not entitled to immunity or indemnity under this section;
+
+(c)  the following paid pursuant to this section are an administrative expense of the insurer, an indemnification for:
+
 (i)  an expense payment;
+
 (ii)  a judgment;
+
 (iii)  a settlement;
+
 (iv)  a decree;
+
 (v)  attorney fees;
+
 (vi)  a surety bond premium; or
-(vii)  other amounts paid or to be paid from the insurer's assets pursuant to
-this section;
-(d)  in the event of actual or threatened litigation against a receiver or a
-receiver's assistant for which immunity or indemnity may be available under
-this section, a reasonable amount of funds which in the judgment of the
-receiver may be needed to provide immunity or indemnity shall be segregated
-and reserved from the assets of the insurer:
+
+(vii)  other amounts paid or to be paid from the insurer's assets pursuant to this section;
+
+(d)  in the event of actual or threatened litigation against a receiver or a receiver's assistant for which immunity or indemnity may be available under this section, a reasonable amount of funds which in the judgment of the receiver may be needed to provide immunity or indemnity shall be segregated and reserved from the assets of the insurer:
+
 (i)  as security for the payment of indemnity; and
+
 (ii)  until:
+
 (A)  all applicable statutes of limitations run;
-(B)  all actual or threatened actions against the receiver or a receiver's
-assistant are completely and finally resolved; and
+
+(B)  all actual or threatened actions against the receiver or a receiver's assistant are completely and finally resolved; and
+
 (C)  all obligations under this section are satisfied;
-(e)  in lieu of segregation and reserving of funds, the receiver may, in the
-receiver's discretion, obtain a surety bond or make other arrangements that
-will enable the receiver to fully secure the payment of all obligations under
-this section;
-(f)  if a legal action against a receiver's assistant for which indemnity may
-be available under this section is settled before final adjudication on the
-merits, the receiver shall pay the settlement amount on behalf of the
-receiver's assistant, or indemnify the receiver's assistant for the settlement
-amount, unless the receiver determines that the claim:
-(i)  does not arise out of or by reason of the receiver's assistant's duties
-or employment; or
-(ii)  is caused by the intentional or willful and wanton misconduct of the
-receiver's assistant; and
+
+(e)  in lieu of segregation and reserving of funds, the receiver may, in the receiver's discretion, obtain a surety bond or make other arrangements that will enable the receiver to fully secure the payment of all obligations under this section;
+
+(f)  if a legal action against a receiver's assistant for which indemnity may be available under this section is settled before final adjudication on the merits, the receiver shall pay the settlement amount on behalf of the receiver's assistant, or indemnify the receiver's assistant for the settlement amount, unless the receiver determines that the claim:
+
+(i)  does not arise out of or by reason of the receiver's assistant's duties or employment; or
+
+(ii)  is caused by the intentional or willful and wanton misconduct of the receiver's assistant; and
+
 (g)  in a legal action in which a claim is asserted against the receiver:
-(i)  that portion of any settlement relating to the alleged act, error, or
-omission of the receiver is subject to the approval of the receivership court;
-and
-(ii)  the receivership court may not approve that portion of the settlement if
-the receivership court determines that the claim:
-(A)  does not arise out of or by reason of the receiver's duties or
-employment; or
-(B)  is caused by the intentional or willful and wanton misconduct of the
-receiver.
-(5)  Nothing contained or implied in this section shall operate, or be
-construed or applied to deprive the receiver, a receiver's assistant, or a
-receiver's contractor of any immunity, indemnity, benefits of law, rights, or
-any defense otherwise available.
-(6)  The immunity and indemnification provided to a receiver's assistant and
-the immunity provided to a receiver's contractor under this section does not
-apply to an action by the receiver against the receiver's assistant or
-receiver's contractor.
-(7) (a)  Subsection (3) applies to any suit based in whole or in part on an
-alleged act, error, or omission that takes place on or after April 30, 2007.
-(b)  A legal action may not lie against the receiver or a receiver's assistant
-based in whole or in part on an alleged act, error, or omission that takes
-place before April 30, 2007, unless suit is filed and valid service of process
-is obtained on or after April 30, 2007, but on or before April 30, 2008.
-(8)  Subsection (4) applies to a suit that is pending on or filed after April
-30, 2007, without regard to when the alleged act, error, or omission takes
-place.
+
+(i)  that portion of any settlement relating to the alleged act, error, or omission of the receiver is subject to the approval of the receivership court; and
+
+(ii)  the receivership court may not approve that portion of the settlement if the receivership court determines that the claim:
+
+(A)  does not arise out of or by reason of the receiver's duties or employment; or
+
+(B)  is caused by the intentional or willful and wanton misconduct of the receiver.
+
+(5)  Nothing contained or implied in this section shall operate, or be construed or applied to deprive the receiver, a receiver's assistant, or a receiver's contractor of any immunity, indemnity, benefits of law, rights, or any defense otherwise available.
+
+(6)  The immunity and indemnification provided to a receiver's assistant and the immunity provided to a receiver's contractor under this section does not apply to an action by the receiver against the receiver's assistant or receiver's contractor.
+
+(7) (a)  Subsection (3) applies to any suit based in whole or in part on an alleged act, error, or omission that takes place on or after April 30, 2007.
+
+(b)  A legal action may not lie against the receiver or a receiver's assistant based in whole or in part on an alleged act, error, or omission that takes place before April 30, 2007, unless suit is filed and valid service of process is obtained on or after April 30, 2007, but on or before April 30, 2008.
+
+(8)  Subsection (4) applies to a suit that is pending on or filed after April 30, 2007, without regard to when the alleged act, error, or omission takes place.
+

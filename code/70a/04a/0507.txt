@@ -1,41 +1,24 @@
 70A-4a-507.   Choice of law.
-(1)  The following rules apply unless the affected parties otherwise agree or
-Subsection (3) applies:
-(a)  The rights and obligations between the sender of a payment order and the
-receiving bank are governed by the law of the jurisdiction in which the
-receiving bank is located.
-(b)  The rights and obligations between the beneficiary's bank and the
-beneficiary are governed by the law of the jurisdiction in which the
-beneficiary's bank is located.
-(c)  The issue of when payment is made pursuant to a funds transfer by the
-originator to the beneficiary is governed by the law of the jurisdiction in
-which the beneficiary's bank is located.
-(2)  If the parties described in Subsections (1)(a), (b), and (c) have made an
-agreement selecting the law of a particular jurisdiction to govern rights and
-obligations between each other, the law of that jurisdiction governs those
-rights and obligations, whether or not the payment order or the funds transfer
-bears a reasonable relation to that jurisdiction.
-(3) (a)  A funds transfer system rule may select the law of a particular
-jurisdiction to govern:
-(i)  rights and obligations between participating banks with respect to
-payment orders transmitted or processed through the system; or
-(ii)  the rights and obligations of some or all parties to a funds transfer,
-any part of which is carried out by means of the system.
-(b)  A choice of law made pursuant to Subsection (3)(a)(i) is binding on
-participating banks.  A choice of law made pursuant to Subsection (3)(a)(ii)
-is binding on the originator, other sender, or a receiving bank having notice
-that the funds transfer system might be used in the funds transfer and of the
-choice of law by the system when the originator, other sender, or receiving
-bank issued or accepted a payment order.  The beneficiary of a funds transfer
-is bound by the choice of law if, at the time the funds transfer is initiated,
-the beneficiary has notice that the funds transfer system might be used in the
-funds transfer and of the choice of law by the system.  The law of a
-jurisdiction selected pursuant to this Subsection (3) may govern whether or
-not that law bears a reasonable relation to the matter in issue.
-(4)  In the event of inconsistency between an agreement under Subsection (2)
-and a choice of law rule under Subsection (3), the agreement under Subsection
-(2) prevails.
-(5)  If a funds transfer is made by use of more than one funds transfer system
-and there is inconsistency between choice of law rules of the systems, the
-matter in issue is governed by the law of the selected jurisdiction that has
-the most significant relationship to the matter in issue.
+
+(1)  The following rules apply unless the affected parties otherwise agree or Subsection (3) applies:
+
+(a)  The rights and obligations between the sender of a payment order and the receiving bank are governed by the law of the jurisdiction in which the receiving bank is located.
+
+(b)  The rights and obligations between the beneficiary's bank and the beneficiary are governed by the law of the jurisdiction in which the beneficiary's bank is located.
+
+(c)  The issue of when payment is made pursuant to a funds transfer by the originator to the beneficiary is governed by the law of the jurisdiction in which the beneficiary's bank is located.
+
+(2)  If the parties described in Subsections (1)(a), (b), and (c) have made an agreement selecting the law of a particular jurisdiction to govern rights and obligations between each other, the law of that jurisdiction governs those rights and obligations, whether or not the payment order or the funds transfer bears a reasonable relation to that jurisdiction.
+
+(3) (a)  A funds transfer system rule may select the law of a particular jurisdiction to govern:
+
+(i)  rights and obligations between participating banks with respect to payment orders transmitted or processed through the system; or
+
+(ii)  the rights and obligations of some or all parties to a funds transfer, any part of which is carried out by means of the system.
+
+(b)  A choice of law made pursuant to Subsection (3)(a)(i) is binding on participating banks.  A choice of law made pursuant to Subsection (3)(a)(ii) is binding on the originator, other sender, or a receiving bank having notice that the funds transfer system might be used in the funds transfer and of the choice of law by the system when the originator, other sender, or receiving bank issued or accepted a payment order.  The beneficiary of a funds transfer is bound by the choice of law if, at the time the funds transfer is initiated, the beneficiary has notice that the funds transfer system might be used in the funds transfer and of the choice of law by the system.  The law of a jurisdiction selected pursuant to this Subsection (3) may govern whether or not that law bears a reasonable relation to the matter in issue.
+
+(4)  In the event of inconsistency between an agreement under Subsection (2) and a choice of law rule under Subsection (3), the agreement under Subsection (2) prevails.
+
+(5)  If a funds transfer is made by use of more than one funds transfer system and there is inconsistency between choice of law rules of the systems, the matter in issue is governed by the law of the selected jurisdiction that has the most significant relationship to the matter in issue.
+

@@ -1,53 +1,36 @@
 61-6-3.   Control share acquisition defined.
+
 (1) (a)  As used in this chapter, "control share acquisition" means:
-(i)  the acquisition, directly or indirectly, by any person of ownership of
-issued and outstanding control shares; or
-(ii)  the acquisition of power to direct the exercise of voting power with
-respect to issued and outstanding control shares, including the acquisition of
-voting power pursuant to a revocable proxy except as provided in Subsection
-(1)(b).
-(b)  "Control share acquisition" does not mean the acquisition of voting power
-pursuant to a revocable proxy if the revocable proxy is solicited by the
-issuing public corporation or the board of directors of the issuing public
-corporation in connection with shareholders' meetings or actions of the
-issuing public corporation.
-(2)  For purposes of this section, shares acquired within 90 days or shares
-acquired pursuant to a plan to make a control share acquisition are considered
-to have been acquired in the same acquisition.
-(3)  For purposes of this section, a person who acquires shares in the
-ordinary course of business for the benefit of others in good faith and not
-for the purpose of circumventing this chapter has voting power only of shares
-in respect of which that person would be able to exercise or direct the
-exercise of votes without further instruction from others.
-(4)  The acquisition of any shares of an issuing public corporation does not
-constitute a control share acquisition if the acquisition is consummated in
-any of the following circumstances:
+
+(i)  the acquisition, directly or indirectly, by any person of ownership of issued and outstanding control shares; or
+
+(ii)  the acquisition of power to direct the exercise of voting power with respect to issued and outstanding control shares, including the acquisition of voting power pursuant to a revocable proxy except as provided in Subsection (1)(b).
+
+(b)  "Control share acquisition" does not mean the acquisition of voting power pursuant to a revocable proxy if the revocable proxy is solicited by the issuing public corporation or the board of directors of the issuing public corporation in connection with shareholders' meetings or actions of the issuing public corporation.
+
+(2)  For purposes of this section, shares acquired within 90 days or shares acquired pursuant to a plan to make a control share acquisition are considered to have been acquired in the same acquisition.
+
+(3)  For purposes of this section, a person who acquires shares in the ordinary course of business for the benefit of others in good faith and not for the purpose of circumventing this chapter has voting power only of shares in respect of which that person would be able to exercise or direct the exercise of votes without further instruction from others.
+
+(4)  The acquisition of any shares of an issuing public corporation does not constitute a control share acquisition if the acquisition is consummated in any of the following circumstances:
+
 (a)  before May 29, 1987;
+
 (b)  pursuant to a contract existing before May 29, 1987;
+
 (c)  pursuant to the laws of descent and distribution;
-(d)  pursuant to the satisfaction of a pledge or other security interest
-created in good faith and not for the purpose of circumventing this chapter;
-(e)  pursuant to a direct issue by or transfer from the issuing public
-corporation of its own shares, except that shares issued or transferred upon
-the conversion of a convertible security or upon exercising an option,
-warrant, or other right to purchase shares constitutes a control share
-acquisition unless the convertible security, option, warrant, or other right
-was acquired directly from the issuing public corporation by the acquiring
-person; or
-(f)  pursuant to a merger or plan of share exchange effected in compliance
-with Title 16, Chapter 10a, Part 11, Merger and Share Exchange, or Title 16,
-Chapter 10a, Part 12, Sale of Property, if the issuing public corporation is a
-party to the agreement of merger or plan of share exchange.
-(5) (a)  The acquisition of shares of an issuing public corporation in good
-faith and not for the purpose of circumventing this chapter does not
-constitute a control share acquisition if the acquisition of shares is by or
-from:
-(i)  any person whose voting rights had previously been authorized by
-shareholders in compliance with this chapter; or
-(ii)  any person whose previous acquisition of shares of an issuing public
-corporation would have constituted a control share acquisition were it not for
-Subsection (4).
-(b)  Subsection (5)(a) does not apply if the acquisition entitles any person
-(directly or indirectly, alone or as part of a group) to exercise or direct
-the exercise of voting power of the corporation in the election of directors
-in excess of the range of the voting power otherwise authorized.
+
+(d)  pursuant to the satisfaction of a pledge or other security interest created in good faith and not for the purpose of circumventing this chapter;
+
+(e)  pursuant to a direct issue by or transfer from the issuing public corporation of its own shares, except that shares issued or transferred upon the conversion of a convertible security or upon exercising an option, warrant, or other right to purchase shares constitutes a control share acquisition unless the convertible security, option, warrant, or other right was acquired directly from the issuing public corporation by the acquiring person; or
+
+(f)  pursuant to a merger or plan of share exchange effected in compliance with Title 16, Chapter 10a, Part 11, Merger and Share Exchange, or Title 16, Chapter 10a, Part 12, Sale of Property, if the issuing public corporation is a party to the agreement of merger or plan of share exchange.
+
+(5) (a)  The acquisition of shares of an issuing public corporation in good faith and not for the purpose of circumventing this chapter does not constitute a control share acquisition if the acquisition of shares is by or from:
+
+(i)  any person whose voting rights had previously been authorized by shareholders in compliance with this chapter; or
+
+(ii)  any person whose previous acquisition of shares of an issuing public corporation would have constituted a control share acquisition were it not for Subsection (4).
+
+(b)  Subsection (5)(a) does not apply if the acquisition entitles any person (directly or indirectly, alone or as part of a group) to exercise or direct the exercise of voting power of the corporation in the election of directors in excess of the range of the voting power otherwise authorized.
+

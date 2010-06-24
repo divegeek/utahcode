@@ -1,33 +1,26 @@
-49-11-801.   Defined contribution plans authorized -- Subject to federal and
-state laws -- Rules to implement this provision -- Costs of administration --
-Limitations on eligibility -- Protection of tax status.
-(1) (a)  The board shall establish and administer defined contribution plans
-established under the Internal Revenue Code.
-(b)  Voluntary deferrals and nonelective contributions shall be permitted
-according to the provisions of these plans as established by the board.
-(c)  Except as provided in Subsections 49-22-302(2)(a), 49-22-401(3)(a),
-49-23-302(2)(a), and 49-23-401(3)(a), the defined contribution account balance
-is vested in the participant.
-(2) (a)  Voluntary deferrals and nonelective contributions shall be posted to
-the participant's account.
-(b)  Except as provided in Subsections 49-22-303(3), 49-22-401(4),
-49-23-302(3), and 49-23-401(4), participants may direct the investment of
-their account in the investment options established by the board and in
-accordance with federal and state law.
-(3) (a)  The board may make rules and create plan documents to implement and
-administer this section.
-(b)  The board may adopt rules under which a participant may put money into a
-defined contribution plan as permitted by federal law.
-(c)  The office may reject any payments if the office determines the tax
-status of the systems, plans, or programs would be jeopardized by allowing the
-payment.
+49-11-801.   Defined contribution plans authorized -- Subject to federal and state laws -- Rules to implement this provision -- Costs of administration -- Limitations on eligibility -- Protection of tax status.
+
+(1) (a)  The board shall establish and administer defined contribution plans established under the Internal Revenue Code.
+
+(b)  Voluntary deferrals and nonelective contributions shall be permitted according to the provisions of these plans as established by the board.
+
+(c)  Except as provided in Subsections 49-22-302(2)(a), 49-22-401(3)(a), 49-23-302(2)(a), and 49-23-401(3)(a), the defined contribution account balance is vested in the participant.
+
+(2) (a)  Voluntary deferrals and nonelective contributions shall be posted to the participant's account.
+
+(b)  Except as provided in Subsections 49-22-303(3), 49-22-401(4), 49-23-302(3), and 49-23-401(4), participants may direct the investment of their account in the investment options established by the board and in accordance with federal and state law.
+
+(3) (a)  The board may make rules and create plan documents to implement and administer this section.
+
+(b)  The board may adopt rules under which a participant may put money into a defined contribution plan as permitted by federal law.
+
+(c)  The office may reject any payments if the office determines the tax status of the systems, plans, or programs would be jeopardized by allowing the payment.
+
 (d)  Costs of administration shall be paid as established by the board.
-(4)  Voluntary deferrals and nonelective contributions may be invested
-separately or in conjunction with the Utah State Retirement Investment Fund.
-(5)  The board or office may take actions necessary to protect the tax
-qualified status of the systems, plans, and programs under its control,
-including the movement of individuals from defined contribution plans to
-defined benefit systems or the creation of excess benefit plans authorized by
-federal law.
-(6)  The office may, at its sole discretion, correct errors made in the
-administration of its defined contribution plans.
+
+(4)  Voluntary deferrals and nonelective contributions may be invested separately or in conjunction with the Utah State Retirement Investment Fund.
+
+(5)  The board or office may take actions necessary to protect the tax qualified status of the systems, plans, and programs under its control, including the movement of individuals from defined contribution plans to defined benefit systems or the creation of excess benefit plans authorized by federal law.
+
+(6)  The office may, at its sole discretion, correct errors made in the administration of its defined contribution plans.
+

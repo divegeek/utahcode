@@ -1,63 +1,46 @@
 31A-37a-502.   Delinquency.
-(1)  Except as otherwise provided in this section, Chapter 27a, Insurer
-Receivership Act, applies to a special purpose financial captive insurance
-company.
-(2)  Upon an order of supervision, rehabilitation, or liquidation of a special
-purpose financial captive insurance company, the receiver shall manage the
-assets and liabilities of the special purpose financial captive insurance
-company pursuant to this chapter.
-(3)  An amount recoverable by the receiver of a special purpose financial
-captive insurance company under a reinsurance contract may not be reduced or
-diminished as a result of the entry of an order of conservation,
-rehabilitation, or liquidation with respect to a ceding insurer,
-notwithstanding a contract or other documentation governing the special
-purpose financial captive insurance company insurance securitization.
-(4)  The following applies notwithstanding Chapter 27a, Insurer Receivership
-Act, or another law of this state:
-(a)  An application, petition, a temporary restraining order, or injunction
-issued pursuant to Chapter 27a, Insurer Receivership Act, with respect to a
-ceding insurer does not prohibit the transaction of business by a special
-purpose financial captive insurance company, including:
-(i)  a payment by a special purpose financial captive insurance company made
-with respect to a special purpose financial captive insurance company
-security; or
-(ii)  an action or proceeding against a special purpose financial captive
-insurance company or its assets.
-(b) (i)  Subject to Subsection (4)(b)(ii), the commencement of a summary
-proceeding with respect to a special purpose financial captive insurance
-company and an order issued by the court in the summary proceeding may not
-prohibit:
+
+(1)  Except as otherwise provided in this section, Chapter 27a, Insurer Receivership Act, applies to a special purpose financial captive insurance company.
+
+(2)  Upon an order of supervision, rehabilitation, or liquidation of a special purpose financial captive insurance company, the receiver shall manage the assets and liabilities of the special purpose financial captive insurance company pursuant to this chapter.
+
+(3)  An amount recoverable by the receiver of a special purpose financial captive insurance company under a reinsurance contract may not be reduced or diminished as a result of the entry of an order of conservation, rehabilitation, or liquidation with respect to a ceding insurer, notwithstanding a contract or other documentation governing the special purpose financial captive insurance company insurance securitization.
+
+(4)  The following applies notwithstanding Chapter 27a, Insurer Receivership Act, or another law of this state:
+
+(a)  An application, petition, a temporary restraining order, or injunction issued pursuant to Chapter 27a, Insurer Receivership Act, with respect to a ceding insurer does not prohibit the transaction of business by a special purpose financial captive insurance company, including:
+
+(i)  a payment by a special purpose financial captive insurance company made with respect to a special purpose financial captive insurance company security; or
+
+(ii)  an action or proceeding against a special purpose financial captive insurance company or its assets.
+
+(b) (i)  Subject to Subsection (4)(b)(ii), the commencement of a summary proceeding with respect to a special purpose financial captive insurance company and an order issued by the court in the summary proceeding may not prohibit:
+
 (A)  a payment by a special purpose financial captive insurance company; or
-(B)  the special purpose financial captive insurance company from taking an
-action required to make a payment described in this Subsection (4)(b)(i).
+
+(B)  the special purpose financial captive insurance company from taking an action required to make a payment described in this Subsection (4)(b)(i).
+
 (ii)  Subsection (4)(b)(i) applies only if the payment is made:
-(A)  pursuant to a special purpose financial captive insurance company
-security or reinsurance contract; and
-(B)  consistent with the special purpose financial captive insurance company's
-plan of operation and any order issued to the special purpose financial
-captive insurance company pursuant to Section 31A-37a-201.
-(c)  A receiver of a ceding insurer may not void a nonfraudulent transfer by a
-ceding insurer to a special purpose financial captive insurance company of
-money or other property made pursuant to a reinsurance contract.
-(d)  A receiver of a special purpose financial captive insurance company may
-not void a nonfraudulent transfer by the special purpose financial captive
-insurance company of money or other property:
+
+(A)  pursuant to a special purpose financial captive insurance company security or reinsurance contract; and
+
+(B)  consistent with the special purpose financial captive insurance company's plan of operation and any order issued to the special purpose financial captive insurance company pursuant to Section 31A-37a-201.
+
+(c)  A receiver of a ceding insurer may not void a nonfraudulent transfer by a ceding insurer to a special purpose financial captive insurance company of money or other property made pursuant to a reinsurance contract.
+
+(d)  A receiver of a special purpose financial captive insurance company may not void a nonfraudulent transfer by the special purpose financial captive insurance company of money or other property:
+
 (i) (A)  made to a ceding insurer pursuant to a reinsurance contract; or
-(B)  made to or for the benefit of a holder of a special purpose financial
-captive insurance company security with respect to the special purpose
-financial captive insurance company security; and
-(ii)  made consistent with the special purpose financial captive insurance
-company's plan of operation and an order issued to the special purpose
-financial captive insurance company pursuant to Section 31A-37a-201.
-(5) (a)  Except to fulfill an obligation under a reinsurance contract and
-notwithstanding another provision of this chapter, Chapter 37, Captive
-Insurance Companies Act, or other laws of this state, the assets of a special
-purpose financial captive insurance company may not be consolidated with or
-included in the estate of a ceding insurer in a delinquency proceeding against
-the ceding insurer pursuant to this chapter for any purpose including a
-distribution to a creditor of the ceding insurer.
-(b)  This Subsection (5) applies to assets that include an asset held in
-trust:
+
+(B)  made to or for the benefit of a holder of a special purpose financial captive insurance company security with respect to the special purpose financial captive insurance company security; and
+
+(ii)  made consistent with the special purpose financial captive insurance company's plan of operation and an order issued to the special purpose financial captive insurance company pursuant to Section 31A-37a-201.
+
+(5) (a)  Except to fulfill an obligation under a reinsurance contract and notwithstanding another provision of this chapter, Chapter 37, Captive Insurance Companies Act, or other laws of this state, the assets of a special purpose financial captive insurance company may not be consolidated with or included in the estate of a ceding insurer in a delinquency proceeding against the ceding insurer pursuant to this chapter for any purpose including a distribution to a creditor of the ceding insurer.
+
+(b)  This Subsection (5) applies to assets that include an asset held in trust:
+
 (i)  on a funds-withheld basis; or
-(ii)  under another arrangement to secure the special purpose financial
-captive insurance company's obligations under a reinsurance contract.
+
+(ii)  under another arrangement to secure the special purpose financial captive insurance company's obligations under a reinsurance contract.
+

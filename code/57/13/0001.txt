@@ -1,19 +1,12 @@
 57-13-1.   Definitions.
+
 As used in this act:
-(1)  "Solar easement" means a right, whether or not stated in the form of
-restriction, easement, covenant, or conditions in any deed, will, or other
-instrument executed by or on behalf of any owner of land or solar skyspace for
-the purpose of ensuring adequate exposure of a solar energy system as defined
-herein.
-(2)  "Solar energy system" means a system of apparatus and equipment capable
-of collecting and converting incident solar radiation into heat, or mechanical
-or electrical energy, and transferring these forms of energy by a separate
-apparatus to storage or to point of use, including, but not limited to, water
-heating, space heating or cooling, electric energy generation or mechanical
-energy generation.
-(3)  "Passive solar system" means a system which uses structural elements of
-the building, to provide for collection, storage, and distribution of solar
-energy for heating or cooling.
-(4)  "Solar skyspace" means the space between a solar energy collector and the
-sun which must remain unobstructed such that on any given clear day of the
-year, not more than 10 percent of the collectable insolation shall be blocked.
+
+(1)  "Solar easement" means a right, whether or not stated in the form of restriction, easement, covenant, or conditions in any deed, will, or other instrument executed by or on behalf of any owner of land or solar skyspace for the purpose of ensuring adequate exposure of a solar energy system as defined herein.
+
+(2)  "Solar energy system" means a system of apparatus and equipment capable of collecting and converting incident solar radiation into heat, or mechanical or electrical energy, and transferring these forms of energy by a separate apparatus to storage or to point of use, including, but not limited to, water heating, space heating or cooling, electric energy generation or mechanical energy generation.
+
+(3)  "Passive solar system" means a system which uses structural elements of the building, to provide for collection, storage, and distribution of solar energy for heating or cooling.
+
+(4)  "Solar skyspace" means the space between a solar energy collector and the sun which must remain unobstructed such that on any given clear day of the year, not more than 10 percent of the collectable insolation shall be blocked.
+

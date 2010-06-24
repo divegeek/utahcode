@@ -1,43 +1,28 @@
 16-10a-630.   Shareholders' preemptive rights.
-(1)  Subject to the provisions of Subsection 16-10a-1704(3), the shareholders
-of a corporation do not have a preemptive right to acquire the corporation's
-unissued shares except to the extent the articles of incorporation so provide.
-(2)  A statement included in the articles of incorporation that "the
-corporation elects to have preemptive rights," or words of similar import,
-means that the following principles apply except to the extent the articles of
-incorporation expressly provide otherwise:
-(a)  Upon the decision of the board of directors to issue shares, the
-shareholders of the corporation have a preemptive right, subject to any
-uniform terms and conditions prescribed by the board of directors, to provide
-a fair and reasonable opportunity to exercise the right, to acquire a number
-of the shares proposed to be issued in an amount proportional to their
-percentage ownership of the corporation's outstanding shares.
-(b)  A shareholder may waive a preemptive right.  A waiver evidenced by a
-writing is irrevocable even though it is not supported by consideration.
+
+(1)  Subject to the provisions of Subsection 16-10a-1704(3), the shareholders of a corporation do not have a preemptive right to acquire the corporation's unissued shares except to the extent the articles of incorporation so provide.
+
+(2)  A statement included in the articles of incorporation that "the corporation elects to have preemptive rights," or words of similar import, means that the following principles apply except to the extent the articles of incorporation expressly provide otherwise:
+
+(a)  Upon the decision of the board of directors to issue shares, the shareholders of the corporation have a preemptive right, subject to any uniform terms and conditions prescribed by the board of directors, to provide a fair and reasonable opportunity to exercise the right, to acquire a number of the shares proposed to be issued in an amount proportional to their percentage ownership of the corporation's outstanding shares.
+
+(b)  A shareholder may waive a preemptive right.  A waiver evidenced by a writing is irrevocable even though it is not supported by consideration.
+
 (c)  There is no preemptive right with respect to:
-(i)  shares issued as compensation for services to directors, officers,
-agents, or employees of the corporation, its subsidiaries, or affiliates;
-(ii)  shares issued to satisfy conversion or option rights created to provide
-compensation for services to directors, officers, agents, or employees of the
-corporation, its subsidiaries, or affiliates;
-(iii)  shares issued within six months from the effective date of
-incorporation; or
+
+(i)  shares issued as compensation for services to directors, officers, agents, or employees of the corporation, its subsidiaries, or affiliates;
+
+(ii)  shares issued to satisfy conversion or option rights created to provide compensation for services to directors, officers, agents, or employees of the corporation, its subsidiaries, or affiliates;
+
+(iii)  shares issued within six months from the effective date of incorporation; or
+
 (iv)  shares sold otherwise than for cash.
-(d)  Holders of shares of any class without general voting rights but with
-preferential rights to distributions have no preemptive rights with respect to
-shares of any other class.
-(e)  Holders of shares of any class with general voting rights but without
-preferential rights to distributions have no preemptive rights with respect to
-shares of any class without general voting rights but with preferential rights
-to distributions unless the shares without general voting rights but with
-preferential rights are convertible into or carry a right to subscribe for or
-acquire shares with general voting rights or without preferential rights.
-(f)  Shares subject to preemptive rights that are not acquired by shareholders
-may be issued to any person for a period of one year after being offered to
-shareholders pursuant to the preemptive rights, at a consideration set by the
-board of directors that is not lower than the consideration set for the
-exercise of preemptive rights.  An offer at a lower consideration or after the
-expiration of the one year period is subject to the shareholders' preemptive
-rights.
-(3)  For purposes of this section, "shares" includes a security convertible
-into or carrying a right to subscribe for or acquire shares.
+
+(d)  Holders of shares of any class without general voting rights but with preferential rights to distributions have no preemptive rights with respect to shares of any other class.
+
+(e)  Holders of shares of any class with general voting rights but without preferential rights to distributions have no preemptive rights with respect to shares of any class without general voting rights but with preferential rights to distributions unless the shares without general voting rights but with preferential rights are convertible into or carry a right to subscribe for or acquire shares with general voting rights or without preferential rights.
+
+(f)  Shares subject to preemptive rights that are not acquired by shareholders may be issued to any person for a period of one year after being offered to shareholders pursuant to the preemptive rights, at a consideration set by the board of directors that is not lower than the consideration set for the exercise of preemptive rights.  An offer at a lower consideration or after the expiration of the one year period is subject to the shareholders' preemptive rights.
+
+(3)  For purposes of this section, "shares" includes a security convertible into or carrying a right to subscribe for or acquire shares.
+

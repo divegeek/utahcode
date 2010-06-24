@@ -1,21 +1,12 @@
 54-3-8.   Preferences forbidden -- Power of commission to determine facts.
-(1)  Except as provided in Chapter 8b, Public Telecommunications Law, a public
-utility may not:
-(a)  as to rates, charges, service, facilities or in any other respect, make
-or grant any preference or advantage to any person, or subject any person to
-any prejudice or disadvantage; and
-(b)  establish or maintain any unreasonable difference as to rates, charges,
-service or facilities, or in any other respect, either as between localities
-or as between classes of service.
-(2)  The commission shall have power to determine any question of fact arising
-under this section.
-(3)  This section does not apply to, and the commission may not enforce this
-chapter concerning, a schedule, classification, rate, price, charge, fare,
-toll, rental, rule, service, facility, or contract of a public utility or
-electrical corporation furnishing electricity, if the electricity is consumed
-by an owner, lessor, or interest holder or by an affiliate of an owner,
-lessor, or interest holder, who has provided at least $25,000,000 in value,
-including credit support, relating to the electric plant furnishing the
-electricity and whose consumption does not exceed its long-term entitlement in
-the plant under a long-term arrangement other than a power purchase agreement,
-except a power purchase agreement with an electrical corporation.
+
+(1)  Except as provided in Chapter 8b, Public Telecommunications Law, a public utility may not:
+
+(a)  as to rates, charges, service, facilities or in any other respect, make or grant any preference or advantage to any person, or subject any person to any prejudice or disadvantage; and
+
+(b)  establish or maintain any unreasonable difference as to rates, charges, service or facilities, or in any other respect, either as between localities or as between classes of service.
+
+(2)  The commission shall have power to determine any question of fact arising under this section.
+
+(3)  This section does not apply to, and the commission may not enforce this chapter concerning, a schedule, classification, rate, price, charge, fare, toll, rental, rule, service, facility, or contract of a public utility or electrical corporation furnishing electricity, if the electricity is consumed by an owner, lessor, or interest holder or by an affiliate of an owner, lessor, or interest holder, who has provided at least $25,000,000 in value, including credit support, relating to the electric plant furnishing the electricity and whose consumption does not exceed its long-term entitlement in the plant under a long-term arrangement other than a power purchase agreement, except a power purchase agreement with an electrical corporation.
+

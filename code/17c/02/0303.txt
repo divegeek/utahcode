@@ -1,52 +1,42 @@
-17C-2-303.   Conditions on board determination of blight -- Conditions of
-blight caused by the developer.
-(1)  An agency board may not make a finding of blight in a resolution under
-Subsection 17C-2-102(1)(a)(ii)(B) unless the board finds that:
-(a) (i)  the proposed project area consists predominantly of nongreenfield
-parcels;
-(ii)  the proposed project area is currently zoned for urban purposes and
-generally served by utilities;
-(iii)  at least 50% of the parcels within the proposed project area contain
-nonagricultural or nonaccessory buildings or improvements used or intended for
-residential, commercial, industrial, or other urban purposes, or any
-combination of those uses;
-(iv)  the present condition or use of the proposed project area substantially
-impairs the sound growth of the municipality, retards the provision of housing
-accommodations, or constitutes an economic liability or is detrimental to the
-public health, safety, or welfare, as shown by the existence within the
-proposed project area of at least four of the following factors:
-(A)  one of the following, although sometimes interspersed with well
-maintained buildings and infrastructure:
-(I)  substantial physical dilapidation, deterioration, or defective
-construction of buildings or infrastructure; or
-(II)  significant noncompliance with current building code, safety code,
-health code, or fire code requirements or local ordinances;
-(B)  unsanitary or unsafe conditions in the proposed project area that
-threaten the health, safety, or welfare of the community;
-(C)  environmental hazards, as defined in state or federal law, that require
-remediation as a condition for current or future use and development;
-(D)  excessive vacancy, abandoned buildings, or vacant lots within an area
-zoned for urban use and served by utilities;
-(E)  abandoned or outdated facilities that pose a threat to public health,
-safety, or welfare;
-(F)  criminal activity in the project area, higher than that of comparable
-nonblighted areas in the municipality or county; and
-(G)  defective or unusual conditions of title rendering the title
-nonmarketable; and
-(v) (A)  at least 50% of the parcels within the proposed project area are
-affected by at least one of the factors, but not necessarily the same factor,
-listed in Subsection (1)(a)(iv); and
-(B)  the affected parcels comprise at least 66% of the acreage of the proposed
-project area; or
-(b)  the proposed project area includes some or all of a superfund site,
-inactive industrial site, or inactive airport site.
-(2)  No single parcel comprising 10% or more of the acreage of the proposed
-project area may be counted as satisfying Subsection (1)(a)(iii) or (iv)
-unless at least 50% of the area of that parcel is occupied by buildings or
-improvements.
-(3) (a)  For purposes of Subsection (1), if a developer involved in the urban
-renewal project has caused a condition listed in Subsection (1)(a)(iv) within
-the proposed project area, that condition may not be used in the determination
-of blight.
-(b)  Subsection (3)(a) does not apply to a condition that was caused by an
-owner or tenant who becomes a developer.
+17C-2-303.   Conditions on board determination of blight -- Conditions of blight caused by the developer.
+
+(1)  An agency board may not make a finding of blight in a resolution under Subsection 17C-2-102(1)(a)(ii)(B) unless the board finds that:
+
+(a) (i)  the proposed project area consists predominantly of nongreenfield parcels;
+
+(ii)  the proposed project area is currently zoned for urban purposes and generally served by utilities;
+
+(iii)  at least 50% of the parcels within the proposed project area contain nonagricultural or nonaccessory buildings or improvements used or intended for residential, commercial, industrial, or other urban purposes, or any combination of those uses;
+
+(iv)  the present condition or use of the proposed project area substantially impairs the sound growth of the municipality, retards the provision of housing accommodations, or constitutes an economic liability or is detrimental to the public health, safety, or welfare, as shown by the existence within the proposed project area of at least four of the following factors:
+
+(A)  one of the following, although sometimes interspersed with well maintained buildings and infrastructure:
+
+(I)  substantial physical dilapidation, deterioration, or defective construction of buildings or infrastructure; or
+
+(II)  significant noncompliance with current building code, safety code, health code, or fire code requirements or local ordinances;
+
+(B)  unsanitary or unsafe conditions in the proposed project area that threaten the health, safety, or welfare of the community;
+
+(C)  environmental hazards, as defined in state or federal law, that require remediation as a condition for current or future use and development;
+
+(D)  excessive vacancy, abandoned buildings, or vacant lots within an area zoned for urban use and served by utilities;
+
+(E)  abandoned or outdated facilities that pose a threat to public health, safety, or welfare;
+
+(F)  criminal activity in the project area, higher than that of comparable nonblighted areas in the municipality or county; and
+
+(G)  defective or unusual conditions of title rendering the title nonmarketable; and
+
+(v) (A)  at least 50% of the parcels within the proposed project area are affected by at least one of the factors, but not necessarily the same factor, listed in Subsection (1)(a)(iv); and
+
+(B)  the affected parcels comprise at least 66% of the acreage of the proposed project area; or
+
+(b)  the proposed project area includes some or all of a superfund site, inactive industrial site, or inactive airport site.
+
+(2)  No single parcel comprising 10% or more of the acreage of the proposed project area may be counted as satisfying Subsection (1)(a)(iii) or (iv) unless at least 50% of the area of that parcel is occupied by buildings or improvements.
+
+(3) (a)  For purposes of Subsection (1), if a developer involved in the urban renewal project has caused a condition listed in Subsection (1)(a)(iv) within the proposed project area, that condition may not be used in the determination of blight.
+
+(b)  Subsection (3)(a) does not apply to a condition that was caused by an owner or tenant who becomes a developer.
+

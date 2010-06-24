@@ -1,41 +1,20 @@
-70A-2-401.   Passing of title -- Reservation for security -- Limited
-application of this section.
-Each provision of this chapter with regard to the rights, obligations and
-remedies of the seller, the buyer, purchasers or other third parties applies
-irrespective of title to the goods except where the provision refers to such
-title.  In so far as situations are not covered by the other provisions of
-this chapter and matters concerning title become material the following rules
-apply:
-(1)  Title to goods cannot pass under a contract for sale prior to their
-identification to the contract (Section 70A-2-501), and unless otherwise
-explicitly agreed the buyer acquires by their identification a special
-property as limited by this act.  Any retention or reservation by the seller
-of the title (property) in goods shipped or delivered to the buyer is limited
-in effect to a reservation of a security interest.  Subject to these
-provisions and to the provisions of the chapter on Secured Transactions
-(Chapter 9a), title to goods passes from the seller to the buyer in any manner
-and on any conditions explicitly agreed on by the parties.
-(2)  Unless otherwise explicitly agreed, title passes to the buyer at the time
-and place at which the seller completes his performance with reference to the
-physical delivery of the goods, despite any reservation of a security interest
-and even though a document of title is to be delivered at a different time or
-place; and in particular and despite any reservation of a security interest by
-the bill of lading:
-(a)  if the contract requires or authorizes the seller to send the goods to
-the buyer but does not require him to deliver them at destination, title
-passes to the buyer at the time and place of shipment; but
-(b)  if the contract requires delivery at destination, title passes on tender
-there.
-(3)  Unless otherwise explicitly agreed where delivery is to be made without
-moving the goods:
-(a)  if the seller is to deliver a tangible document of title, title passes at
-the time when and the place where he delivers such documents and if the seller
-is to deliver an electronic document of title, title passes when the seller
-delivers the document; or
-(b)  if the goods are at the time of contracting already identified and no
-documents of title are to be delivered, title passes at the time and place of
-contracting.
-(4)  A rejection or other refusal by the buyer to receive or retain the goods,
-whether or not justified, or a justified revocation of acceptance revests
-title to the goods in the seller.  Such revesting occurs by operation of law
-and is not a "sale."
+70A-2-401.   Passing of title -- Reservation for security -- Limited application of this section.
+
+Each provision of this chapter with regard to the rights, obligations and remedies of the seller, the buyer, purchasers or other third parties applies irrespective of title to the goods except where the provision refers to such title.  In so far as situations are not covered by the other provisions of this chapter and matters concerning title become material the following rules apply:
+
+(1)  Title to goods cannot pass under a contract for sale prior to their identification to the contract (Section 70A-2-501), and unless otherwise explicitly agreed the buyer acquires by their identification a special property as limited by this act.  Any retention or reservation by the seller of the title (property) in goods shipped or delivered to the buyer is limited in effect to a reservation of a security interest.  Subject to these provisions and to the provisions of the chapter on Secured Transactions (Chapter 9a), title to goods passes from the seller to the buyer in any manner and on any conditions explicitly agreed on by the parties.
+
+(2)  Unless otherwise explicitly agreed, title passes to the buyer at the time and place at which the seller completes his performance with reference to the physical delivery of the goods, despite any reservation of a security interest and even though a document of title is to be delivered at a different time or place; and in particular and despite any reservation of a security interest by the bill of lading:
+
+(a)  if the contract requires or authorizes the seller to send the goods to the buyer but does not require him to deliver them at destination, title passes to the buyer at the time and place of shipment; but
+
+(b)  if the contract requires delivery at destination, title passes on tender there.
+
+(3)  Unless otherwise explicitly agreed where delivery is to be made without moving the goods:
+
+(a)  if the seller is to deliver a tangible document of title, title passes at the time when and the place where he delivers such documents and if the seller is to deliver an electronic document of title, title passes when the seller delivers the document; or
+
+(b)  if the goods are at the time of contracting already identified and no documents of title are to be delivered, title passes at the time and place of contracting.
+
+(4)  A rejection or other refusal by the buyer to receive or retain the goods, whether or not justified, or a justified revocation of acceptance revests title to the goods in the seller.  Such revesting occurs by operation of law and is not a "sale."
+

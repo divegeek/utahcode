@@ -1,29 +1,22 @@
 16-10a-803.   Number and election of directors.
-(1) (a)  Except as provided in Subsection (1)(b), a corporation's board of
-directors shall consist of a minimum of three individuals.
-(b) (i)  Before any shares are issued, a corporation's board of directors may
-consist of one or more individuals.
-(ii)  After shares are issued and for as long as a corporation has fewer than
-three shareholders entitled to vote for the election of directors, its board
-of directors may consist of a number of individuals equal to or greater than
-the number of those shareholders.
-(c)  The number of directors shall be specified in or fixed in accordance with
-the bylaws.  Unless otherwise provided in the articles of incorporation, the
-number of initial directors stated in the articles of incorporation as
-originally filed with the division, if initial directors are so named in the
-articles of incorporation, shall be superseded by a provision in the bylaws
-specifying the number of authorized directors.
-(d)  The number of directors may be increased or decreased from time to time
-by amendment to the bylaws, but no decrease may have the effect of shortening
-the term of any incumbent director.
-(e)  In the absence of a provision in the bylaws or articles of incorporation
-fixing the number of individuals composing a board of directors, the number
-shall be the greater of:
+
+(1) (a)  Except as provided in Subsection (1)(b), a corporation's board of directors shall consist of a minimum of three individuals.
+
+(b) (i)  Before any shares are issued, a corporation's board of directors may consist of one or more individuals.
+
+(ii)  After shares are issued and for as long as a corporation has fewer than three shareholders entitled to vote for the election of directors, its board of directors may consist of a number of individuals equal to or greater than the number of those shareholders.
+
+(c)  The number of directors shall be specified in or fixed in accordance with the bylaws.  Unless otherwise provided in the articles of incorporation, the number of initial directors stated in the articles of incorporation as originally filed with the division, if initial directors are so named in the articles of incorporation, shall be superseded by a provision in the bylaws specifying the number of authorized directors.
+
+(d)  The number of directors may be increased or decreased from time to time by amendment to the bylaws, but no decrease may have the effect of shortening the term of any incumbent director.
+
+(e)  In the absence of a provision in the bylaws or articles of incorporation fixing the number of individuals composing a board of directors, the number shall be the greater of:
+
 (i)  the number of directors then in office; or
+
 (ii)  the minimum number of directors permitted by this section.
-(2)  The bylaws may establish a variable range for the size of the board of
-directors by fixing a minimum and maximum number of directors.  If a range is
-established, the number of directors may be fixed or changed from time to time
-within the range by the shareholders or the board of directors.
-(3)  Directors are elected at each annual meeting of the shareholders except
-as provided in Section 16-10a-806.
+
+(2)  The bylaws may establish a variable range for the size of the board of directors by fixing a minimum and maximum number of directors.  If a range is established, the number of directors may be fixed or changed from time to time within the range by the shareholders or the board of directors.
+
+(3)  Directors are elected at each annual meeting of the shareholders except as provided in Section 16-10a-806.
+

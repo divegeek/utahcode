@@ -1,42 +1,56 @@
 31A-17-601.   Definitions.
+
 As used in this part:
-(1)  "Adjusted RBC report" means an RBC report that has been adjusted by the
-commissioner in accordance with Subsection 31A-17-602(5).
-(2)  "Corrective order" means an order issued by the commissioner specifying
-corrective action that the commissioner determines is required.
+
+(1)  "Adjusted RBC report" means an RBC report that has been adjusted by the commissioner in accordance with Subsection 31A-17-602(5).
+
+(2)  "Corrective order" means an order issued by the commissioner specifying corrective action that the commissioner determines is required.
+
 (3)  "Health organization" means:
+
 (a)  an entity that is authorized under Chapter 7 or 8; and
+
 (b)  that is:
+
 (i)  a health maintenance organization;
+
 (ii)  a limited health service organization;
+
 (iii)  a dental or vision plan;
+
 (iv)  a hospital, medical, and dental indemnity or service corporation; or
+
 (v)  other managed care organization.
+
 (4)  "Life or accident and health insurer" means:
-(a)  an insurance company licensed to write life insurance, disability
-insurance, or both; or
+
+(a)  an insurance company licensed to write life insurance, disability insurance, or both; or
+
 (b)  a licensed property casualty insurer writing only disability insurance.
-(5)  "Property and casualty insurer" means any insurance company licensed to
-write lines of insurance other than life but does not include a monoline
-mortgage guaranty insurer, financial guaranty insurer, or title insurer.
+
+(5)  "Property and casualty insurer" means any insurance company licensed to write lines of insurance other than life but does not include a monoline mortgage guaranty insurer, financial guaranty insurer, or title insurer.
+
 (6)  "RBC" means risk-based capital.
-(7)  "RBC instructions" means the RBC report including risk-based capital
-instructions adopted by the department by rule.
-(8)  "RBC level" means an insurer's or health organization's authorized
-control level RBC, company action level RBC, mandatory control level RBC, or
-regulatory action level RBC.
-(a)  "Authorized control level RBC" means the number determined under the
-risk-based capital formula in accordance with the RBC instructions;
-(b)  "Company action level RBC" means the product of 2.0 and its authorized
-control level RBC;
-(c)  "Mandatory control level RBC" means the product of .70 and the authorized
-control level RBC; and
-(d)  "Regulatory action level RBC" means the product of 1.5 and its authorized
-control level RBC.
-(9) (a)  "RBC plan" means a comprehensive financial plan containing the
-elements specified in Subsection 31A-17-603(2).
+
+(7)  "RBC instructions" means the RBC report including risk-based capital instructions adopted by the department by rule.
+
+(8)  "RBC level" means an insurer's or health organization's authorized control level RBC, company action level RBC, mandatory control level RBC, or regulatory action level RBC.
+
+(a)  "Authorized control level RBC" means the number determined under the risk-based capital formula in accordance with the RBC instructions;
+
+(b)  "Company action level RBC" means the product of 2.0 and its authorized control level RBC;
+
+(c)  "Mandatory control level RBC" means the product of .70 and the authorized control level RBC; and
+
+(d)  "Regulatory action level RBC" means the product of 1.5 and its authorized control level RBC.
+
+(9) (a)  "RBC plan" means a comprehensive financial plan containing the elements specified in Subsection 31A-17-603(2).
+
 (b)  Notwithstanding Subsection (9)(a), the plan is a "revised RBC plan" if:
+
 (i)  the commissioner rejects the RBC plan; and
-(ii)  the plan is revised by the insurer or health organization, with or
-without the commissioner's recommendation.
+
+(ii)  the plan is revised by the insurer or health organization, with or without the commissioner's recommendation.
+
 (10)  "RBC report" means the report required in Section 31A-17-602.
+

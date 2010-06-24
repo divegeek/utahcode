@@ -1,32 +1,14 @@
-7-17-9.   Actions on accounts established prior to 1979 -- Limitations on
-recovery.
-(1)  With respect to any reserve account established prior to July 1, 1979 and
-for which no legal action is pending as of January 1, 1979, no recovery shall
-be had in any action brought to require payment of interest on, or other
-compensation for, the use prior to July 1, 1979, of the funds in such account
-unless:
-(a)  An agreement in writing expressly so providing was executed by the
-borrower and the lender; or
-(b)  The borrower, or his successors or assigns, establishes by clear and
-convincing evidence an agreement between the parties that the lender would pay
-interest on or to otherwise compensate the borrower for the use of the funds
-in such account.  Use in the loan documents of such words as "trust" or
-"pledge" alone does not establish the intent of the parties; and
-(c)  There is no federal law or regulation prohibiting the payment of interest
-on or otherwise compensating the borrower for the use of the funds in such an
-account.
-(2)  No action seeking payment of interest on or other compensation for the
-use of the funds in any reserve account for any period prior to July 1, 1979,
-shall be brought after June 30, 1981.  Any recovery in any such action shall
-be limited to the four-year period immediately preceding the commencement of
-the action.  No recovery shall be had in respect of any reserve account
-established prior to July 1, 1979 greater than if the provisions of Section
-7-17-3 of this act were applicable to such accounts.
-(3)  With respect to any reserve account established prior to July 1, 1979, an
-agreement in writing between the lender and the borrower, or his successors or
-assigns, that (a) the provisions of Section 7-17-3 of this act shall apply to
-all payments made subsequent to July 1, 1979, or (b) the borrower may
-exercise, for the period subsequent to July 1, 1979, either of the options
-provided in Section 7-17-4 of this act, shall bar any recovery by the
-borrower, his successors or assigns, for interest on or other compensation for
-the use of the funds in such account for any period prior to July 1, 1979.
+7-17-9.   Actions on accounts established prior to 1979 -- Limitations on recovery.
+
+(1)  With respect to any reserve account established prior to July 1, 1979 and for which no legal action is pending as of January 1, 1979, no recovery shall be had in any action brought to require payment of interest on, or other compensation for, the use prior to July 1, 1979, of the funds in such account unless:
+
+(a)  An agreement in writing expressly so providing was executed by the borrower and the lender; or
+
+(b)  The borrower, or his successors or assigns, establishes by clear and convincing evidence an agreement between the parties that the lender would pay interest on or to otherwise compensate the borrower for the use of the funds in such account.  Use in the loan documents of such words as "trust" or "pledge" alone does not establish the intent of the parties; and
+
+(c)  There is no federal law or regulation prohibiting the payment of interest on or otherwise compensating the borrower for the use of the funds in such an account.
+
+(2)  No action seeking payment of interest on or other compensation for the use of the funds in any reserve account for any period prior to July 1, 1979, shall be brought after June 30, 1981.  Any recovery in any such action shall be limited to the four-year period immediately preceding the commencement of the action.  No recovery shall be had in respect of any reserve account established prior to July 1, 1979 greater than if the provisions of Section 7-17-3 of this act were applicable to such accounts.
+
+(3)  With respect to any reserve account established prior to July 1, 1979, an agreement in writing between the lender and the borrower, or his successors or assigns, that (a) the provisions of Section 7-17-3 of this act shall apply to all payments made subsequent to July 1, 1979, or (b) the borrower may exercise, for the period subsequent to July 1, 1979, either of the options provided in Section 7-17-4 of this act, shall bar any recovery by the borrower, his successors or assigns, for interest on or other compensation for the use of the funds in such account for any period prior to July 1, 1979.
+

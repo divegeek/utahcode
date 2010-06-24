@@ -1,218 +1,296 @@
 62A-2-101.   Definitions.
+
 As used in this chapter:
+
 (1)  "Adult day care" means nonresidential care and supervision:
-(a)  for three or more adults for at least four but less than 24 hours a day;
-and
-(b)  that meets the needs of functionally impaired adults through a
-comprehensive program that provides a variety of health, social, recreational,
-and related support services in a protective setting.
+
+(a)  for three or more adults for at least four but less than 24 hours a day; and
+
+(b)  that meets the needs of functionally impaired adults through a comprehensive program that provides a variety of health, social, recreational, and related support services in a protective setting.
+
 (2) (a)  "Boarding school" means a private school that:
+
 (i)  uses a regionally accredited education program;
+
 (ii)  provides a residence to the school's students:
-(A)  for the purpose of enabling the school's students to attend classes at
-the school; and
+
+(A)  for the purpose of enabling the school's students to attend classes at the school; and
+
 (B)  as an ancillary service to educating the students at the school;
-(iii)  has the primary purpose of providing the school's students with an
-education, as defined in Subsection (2)(b)(i); and
-(iv) (A)  does not provide the treatment or services described in Subsection
-(26)(a); or
-(B)  provides the treatment or services described in Subsection (26)(a) on a
-limited basis, as described in Subsection (2)(b)(ii).
-(b) (i)  For purposes of Subsection (2)(a)(iii), "education" means a course of
-study for one or more of grades kindergarten through 12th grade.
-(ii)  For purposes of Subsection (2)(a)(iv)(B), a private school provides the
-treatment or services described in Subsection (26)(a) on a limited basis if:
-(A)  the treatment or services described in Subsection (26)(a) are provided
-only as an incidental service to a student; and
+
+(iii)  has the primary purpose of providing the school's students with an education, as defined in Subsection (2)(b)(i); and
+
+(iv) (A)  does not provide the treatment or services described in Subsection (26)(a); or
+
+(B)  provides the treatment or services described in Subsection (26)(a) on a limited basis, as described in Subsection (2)(b)(ii).
+
+(b) (i)  For purposes of Subsection (2)(a)(iii), "education" means a course of study for one or more of grades kindergarten through 12th grade.
+
+(ii)  For purposes of Subsection (2)(a)(iv)(B), a private school provides the treatment or services described in Subsection (26)(a) on a limited basis if:
+
+(A)  the treatment or services described in Subsection (26)(a) are provided only as an incidental service to a student; and
+
 (B)  the school does not:
-(I)  specifically solicit a student for the purpose of providing the treatment
-or services described in Subsection (26)(a); or
-(II)  have a primary purpose of providing the services described in Subsection
-(26)(a).
+
+(I)  specifically solicit a student for the purpose of providing the treatment or services described in Subsection (26)(a); or
+
+(II)  have a primary purpose of providing the services described in Subsection (26)(a).
+
 (c)  "Boarding school" does not include a therapeutic school.
-(3)  "Certified local inspector" means a person certified by the office,
-pursuant to Subsection 62A-2-108.3(1), to conduct an inspection described in
-Subsection 62A-2-108.3(4).
-(4)  "Certified local inspector applicant" means a person for which
-designation as a certified local inspector is sought under Section
-62A-2-108.3.
+
+(3)  "Certified local inspector" means a person certified by the office, pursuant to Subsection 62A-2-108.3(1), to conduct an inspection described in Subsection 62A-2-108.3(4).
+
+(4)  "Certified local inspector applicant" means a person for which designation as a certified local inspector is sought under Section 62A-2-108.3.
+
 (5)  "Child" means a person under 18 years of age.
-(6)  "Child placing" means receiving, accepting, or providing custody or care
-for any child, temporarily or permanently, for the purpose of:
+
+(6)  "Child placing" means receiving, accepting, or providing custody or care for any child, temporarily or permanently, for the purpose of:
+
 (a)  finding a person to adopt the child;
+
 (b)  placing the child in a home for adoption; or
+
 (c)  foster home placement.
-(7)  "Client" means an individual who receives or has received services from a
-licensee.
+
+(7)  "Client" means an individual who receives or has received services from a licensee.
+
 (8)  "Day treatment" means specialized treatment that is provided to:
+
 (a)  a client less than 24 hours a day; and
+
 (b)  four or more persons who:
+
 (i)  are unrelated to the owner or provider; and
-(ii)  have emotional, psychological, developmental, physical, or behavioral
-dysfunctions, impairments, or chemical dependencies.
+
+(ii)  have emotional, psychological, developmental, physical, or behavioral dysfunctions, impairments, or chemical dependencies. 
+
 (9)  "Department" means the Department of Human Services.
-(10)  "Direct access" means that an individual has, or likely will have,
-contact with or access to a child or vulnerable adult that provides the
-individual with an opportunity for personal communication or touch.
+
+(10)  "Direct access" means that an individual has, or likely will have, contact with or access to a child or vulnerable adult that provides the individual with an opportunity for personal communication or touch.
+
 (11)  "Director" means the director of the Office of Licensing.
+
 (12)  "Domestic violence" is as defined in Section 77-36-1.
-(13)  "Domestic violence treatment program" means a nonresidential program
-designed to provide psychological treatment and educational services to
-perpetrators and victims of domestic violence.
+
+(13)  "Domestic violence treatment program" means a nonresidential program designed to provide psychological treatment and educational services to perpetrators and victims of domestic violence.
+
 (14)  "Elder adult" means a person 65 years of age or older.
+
 (15)  "Executive director" means the executive director of the department.
-(16)  "Foster home" means a temporary residential living environment for the
-care of:
-(a)  fewer than four foster children in the home of a licensed or certified
-foster parent; or
-(b)  four or more children in the home of a licensed or certified foster
-parent if the children are siblings.
+
+(16)  "Foster home" means a temporary residential living environment for the care of:
+
+(a)  fewer than four foster children in the home of a licensed or certified foster parent; or
+
+(b)  four or more children in the home of a licensed or certified foster parent if the children are siblings.
+
 (17) (a)  "Human services program" means a:
+
 (i)  foster home;
+
 (ii)  therapeutic school;
+
 (iii)  youth program;
+
 (iv)  resource family home; or
+
 (v)  facility or program that provides:
+
 (A)  secure treatment;
+
 (B)  inpatient treatment;
+
 (C)  residential treatment;
+
 (D)  residential support;
+
 (E)  adult day care;
+
 (F)  day treatment;
+
 (G)  outpatient treatment;
+
 (H)  domestic violence treatment;
+
 (I)  child placing services;
+
 (J)  social detoxification; or
-(K)  any other human services that are required by contract with the
-department to be licensed with the department.
+
+(K)  any other human services that are required by contract with the department to be licensed with the department.
+
 (b)  "Human services program" does not include a boarding school.
-(18)  "Licensee" means a person or human services program licensed by the
-office.
+
+(18)  "Licensee" means a person or human services program licensed by the office.
+
 (19)  "Local government" means a:
+
 (a)  city; or
+
 (b)  county.
+
 (20)  "Minor" has the same meaning as "child."
-(21)  "Office" means the Office of Licensing within the Department of Human
-Services.
-(22)  "Outpatient treatment" means individual, family, or group therapy or
-counseling designed to improve and enhance social or psychological functioning
-for those whose physical and emotional status allows them to continue
-functioning in their usual living environment.
+
+(21)  "Office" means the Office of Licensing within the Department of Human Services.
+
+(22)  "Outpatient treatment" means individual, family, or group therapy or counseling designed to improve and enhance social or psychological functioning for those whose physical and emotional status allows them to continue functioning in their usual living environment.
+
 (23) (a)  "Person associated with the licensee" means a person:
-(i)  affiliated with a licensee as an owner, director, member of the governing
-body, employee, agent, provider of care, or volunteer; or
-(ii)  applying to become affiliated with a licensee in any capacity listed
-under Subsection (23)(a)(i).
-(b)  Notwithstanding Subsection (23)(a), "person associated with the licensee"
-does not include an individual serving on the following bodies unless that
-individual has direct access to children or vulnerable adults:
+
+(i)  affiliated with a licensee as an owner, director, member of the governing body, employee, agent, provider of care, or volunteer; or
+
+(ii)  applying to become affiliated with a licensee in any capacity listed under Subsection (23)(a)(i).
+
+(b)  Notwithstanding Subsection (23)(a), "person associated with the licensee" does not include an individual serving on the following bodies unless that individual has direct access to children or vulnerable adults:
+
 (i)  a local mental health authority under Section 17-43-301;
+
 (ii)  a local substance abuse authority under Section 17-43-201; or
+
 (iii)  a board of an organization operating under a contract to provide:
+
 (A)  mental health or substance abuse programs; or
-(B)  services for the local mental health authority or substance abuse
-authority.
-(c)  "Person associated with the licensee" does not include a guest or visitor
-whose access to children or vulnerable adults is directly supervised by the
-licensee at all times.
+
+(B)  services for the local mental health authority or substance abuse authority.
+
+(c)  "Person associated with the licensee" does not include a guest or visitor whose access to children or vulnerable adults is directly supervised by the licensee at all times.
+
 (24)  "Regular business hours" means:
+
 (a)  the hours during which services of any kind are provided to a client; or
+
 (b)  the hours during which a client is present at the facility of a licensee.
-(25) (a)  "Residential support" means arranging for or providing the
-necessities of life as a protective service to individuals or families who are
-disabled or who are experiencing a dislocation or emergency that prevents them
-from providing these services for themselves or their families.
-(b)  "Residential support" includes providing a supervised living environment
-for persons with:
+
+(25) (a)  "Residential support" means arranging for or providing the necessities of life as a protective service to individuals or families who are disabled or who are experiencing a dislocation or emergency that prevents them from providing these services for themselves or their families. 
+
+(b)  "Residential support" includes providing a supervised living environment for persons with:
+
 (i)  dysfunctions or impairments that are:
+
 (A)  emotional;
+
 (B)  psychological;
+
 (C)  developmental; or
+
 (D)  behavioral; or
+
 (ii)  chemical dependencies.
+
 (c)  Treatment is not a necessary component of residential support.
-(d)  "Residential support" does not include residential services that are
-performed:
-(i)  exclusively under contract with the Division of Services for People with
-Disabilities; and
+
+(d)  "Residential support" does not include residential services that are performed:
+
+(i)  exclusively under contract with the Division of Services for People with Disabilities; and
+
 (ii)  in a facility that serves less than four individuals.
-(26) (a)  "Residential treatment" means a 24-hour group living environment for
-four or more individuals unrelated to the owner or provider that offers room
-or board and specialized treatment, behavior modification, rehabilitation,
-discipline, emotional growth, or habilitation services for persons with
-emotional, psychological, developmental, or behavioral dysfunctions,
-impairments, or chemical dependencies.
+
+(26) (a)  "Residential treatment" means a 24-hour group living environment for four or more individuals unrelated to the owner or provider that offers room or board and specialized treatment, behavior modification, rehabilitation, discipline, emotional growth, or habilitation services for persons with emotional, psychological, developmental, or behavioral dysfunctions, impairments, or chemical dependencies. 
+
 (b)  "Residential treatment" does not include a:
+
 (i)  boarding school; or
+
 (ii)  foster home.
-(27)  "Residential treatment program" means a human services program that
-provides:
+
+(27)  "Residential treatment program" means a human services program that provides:
+
 (a)  residential treatment; or
+
 (b)  secure treatment.
-(28) (a)  "Secure treatment" means 24-hour specialized residential treatment
-or care for persons whose current functioning is such that they cannot live
-independently or in a less restrictive environment.
-(b)  "Secure treatment" differs from residential treatment to the extent that
-it requires intensive supervision, locked doors, and other security measures
-that are imposed on residents with neither their consent nor control.
-(29)  "Social detoxification" means short-term residential services for
-persons who are experiencing or have recently experienced drug or alcohol
-intoxication, that are provided outside of a health care facility licensed
-under Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act,
-and that include:
-(a)  room and board for persons who are unrelated to the owner or manager of
-the facility;
+
+(28) (a)  "Secure treatment" means 24-hour specialized residential treatment or care for persons whose current functioning is such that they cannot live independently or in a less restrictive environment.
+
+(b)  "Secure treatment" differs from residential treatment to the extent that it requires intensive supervision, locked doors, and other security measures that are imposed on residents with neither their consent nor control.
+
+(29)  "Social detoxification" means short-term residential services for persons who are experiencing or have recently experienced drug or alcohol intoxication, that are provided outside of a health care facility licensed under Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act, and that include:
+
+(a)  room and board for persons who are unrelated to the owner or manager of the facility;
+
 (b)  specialized rehabilitation to acquire sobriety; and
+
 (c)  aftercare services.
+
 (30)  "Substance abuse treatment program" means a program:
+
 (a)  designed to provide:
+
 (i)  specialized drug or alcohol treatment;
+
 (ii)  rehabilitation; or
+
 (iii)  habilitation services; and
-(b)  that provides the treatment or services described in Subsection (30)(a)
-to persons with:
+
+(b)  that provides the treatment or services described in Subsection (30)(a) to persons with:
+
 (i)  a diagnosed substance abuse disorder; or
+
 (ii)  chemical dependency disorder.
+
 (31)  "Therapeutic school" means a residential group living facility:
+
 (a)  for four or more individuals that are not related to:
+
 (i)  the owner of the facility; or
+
 (ii)  the primary service provider of the facility;
+
 (b)  that serves students who have a history of failing to function:
+
 (i)  at home;
+
 (ii)  in a public school; or
+
 (iii)  in a nonresidential private school; and
+
 (c)  that offers:
+
 (i)  room and board; and
+
 (ii)  an academic education integrated with:
+
 (A)  specialized structure and supervision; or
+
 (B)  services or treatment related to:
+
 (I)  a disability;
+
 (II)  emotional development;
+
 (III)  behavioral development;
+
 (IV)  familial development; or
+
 (V)  social development.
-(32)  "Unrelated persons" means persons other than parents, legal guardians,
-grandparents, brothers, sisters, uncles, or aunts.
-(33)  "Vulnerable adult" means an elder adult or an adult who has a temporary
-or permanent mental or physical impairment that substantially affects the
-person's ability to:
+
+(32)  "Unrelated persons" means persons other than parents, legal guardians, grandparents, brothers, sisters, uncles, or aunts.
+
+(33)  "Vulnerable adult" means an elder adult or an adult who has a temporary or permanent mental or physical impairment that substantially affects the person's ability to:
+
 (a)  provide personal protection;
-(b)  provide necessities such as food, shelter, clothing, or mental or other
-health care;
+
+(b)  provide necessities such as food, shelter, clothing, or mental or other health care;
+
 (c)  obtain services necessary for health, safety, or welfare;
+
 (d)  carry out the activities of daily living;
+
 (e)  manage the adult's own resources; or
-(f)  comprehend the nature and consequences of remaining in a situation of
-abuse, neglect, or exploitation.
-(34) (a)  "Youth program" means a nonresidential program designed to provide
-behavioral, substance abuse, or mental health services to minors that:
+
+(f)  comprehend the nature and consequences of remaining in a situation of abuse, neglect, or exploitation.
+
+(34) (a)  "Youth program" means a nonresidential program designed to provide behavioral, substance abuse, or mental health services to minors that:
+
 (i)  serves adjudicated or nonadjudicated youth;
+
 (ii)  charges a fee for its services;
-(iii)  may or may not provide host homes or other arrangements for overnight
-accommodation of the youth;
+
+(iii)  may or may not provide host homes or other arrangements for overnight accommodation of the youth;
+
 (iv)  may or may not provide all or part of its services in the outdoors;
+
 (v)  may or may not limit or censor access to parents or guardians; and
-(vi)  prohibits or restricts a minor's ability to leave the program at any
-time of the minor's own free will.
-(b)  "Youth program" does not include recreational programs such as Boy
-Scouts, Girl Scouts, 4-H, and other such organizations.
+
+(vi)  prohibits or restricts a minor's ability to leave the program at any time of the minor's own free will.
+
+(b)  "Youth program" does not include recreational programs such as Boy Scouts, Girl Scouts, 4-H, and other such organizations.
+

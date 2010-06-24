@@ -1,126 +1,94 @@
-57-1-40.   Reconveyance of trust deed or release of mortgage -- Procedures
--- Forms.
-(1)  A title insurer or title agent may reconvey a trust deed or release a
-mortgage in accordance with the provisions of Subsections (2) through (6) if:
-(a)  the obligation secured by the trust deed or mortgage has been fully paid
-by the title insurer or title agent; or
-(b)  the title insurer or title agent possesses satisfactory evidence of the
-full payment of the obligation secured by a trust deed or mortgage.
-(2)  A title insurer or title agent may reconvey a trust deed or release a
-mortgage under Subsection (1) regardless of whether the title insurer or title
-agent is named as a trustee under a trust deed or has the authority to release
-a mortgage.
-(3)  At the time the obligation secured by the trust deed or mortgage is paid
-in full, or at any time thereafter, the title insurer or title agent shall
-deliver a notice of intent to release or reconvey, as described in Subsection
-(4), to the beneficiary, mortgagee, or servicer at:
+57-1-40.   Reconveyance of trust deed or release of mortgage -- Procedures -- Forms.
+
+(1)  A title insurer or title agent may reconvey a trust deed or release a mortgage in accordance with the provisions of Subsections (2) through (6) if:
+
+(a)  the obligation secured by the trust deed or mortgage has been fully paid by the title insurer or title agent; or
+
+(b)  the title insurer or title agent possesses satisfactory evidence of the full payment of the obligation secured by a trust deed or mortgage.
+
+(2)  A title insurer or title agent may reconvey a trust deed or release a mortgage under Subsection (1) regardless of whether the title insurer or title agent is named as a trustee under a trust deed or has the authority to release a mortgage.
+
+(3)  At the time the obligation secured by the trust deed or mortgage is paid in full, or at any time thereafter, the title insurer or title agent shall deliver a notice of intent to release or reconvey, as described in Subsection (4), to the beneficiary, mortgagee, or servicer at:
+
 (a)  the address specified in the trust deed or mortgage;
-(b)  any address for the beneficiary or mortgagee specified in the last
-recorded assignment of the trust deed or mortgage;
-(c)  any address for the beneficiary, mortgagee, or servicer specified in a
-request for notice recorded under Section 57-1-26; or
-(d)  the address shown on any payoff statement received by the title insurer
-or agent from the beneficiary, mortgagee, or servicer.
-(4)  The notice of intent to release or reconvey shall contain the name of the
-beneficiary or mortgagee and the servicer if loan payments on the trust deed
-or mortgage are collected by a servicer, the name of the title insurer or
-title agent, the date, and be substantially in the following form:
+
+(b)  any address for the beneficiary or mortgagee specified in the last recorded assignment of the trust deed or mortgage;
+
+(c)  any address for the beneficiary, mortgagee, or servicer specified in a request for notice recorded under Section 57-1-26; or
+
+(d)  the address shown on any payoff statement received by the title insurer or agent from the beneficiary, mortgagee, or servicer.
+
+(4)  The notice of intent to release or reconvey shall contain the name of the beneficiary or mortgagee and the servicer if loan payments on the trust deed or mortgage are collected by a servicer, the name of the title insurer or title agent, the date, and be substantially in the following form:
+
 NOTICE OF INTENT TO RELEASE OR RECONVEY
+
 Notice is hereby given to you as follows:
+
 1.  This notice concerns the (trust deed or mortgage) described as follows:
+
 (Trustor or Mortgagor): ___________________________________________
+
 (Beneficiary or Mortgagee): _______________________________________
+
 Recording information: ___________________________________________
+
 Entry Number: __________________________________________________
+
 Book Number: __________________________________________________
+
 Page Number: ___________________________________________________
-2.  The undersigned claims to have paid in full or possesses satisfactory
-evidence of the full payment of the obligation secured by the trust deed or
-mortgage described above.
-3.  The undersigned will fully release the mortgage or reconvey the trust deed
-described in this notice unless, within 60 days from the date stated on this
-notice, the undersigned has received by certified mail a notice stating that
-the obligation secured by the trust deed or mortgage has not been paid in full
-or that you otherwise object to the release of the mortgage or the
-reconveyance of the trust deed.  Notice shall be mailed to the address stated
-on this form.
+
+2.  The undersigned claims to have paid in full or possesses satisfactory evidence of the full payment of the obligation secured by the trust deed or mortgage described above.
+
+3.  The undersigned will fully release the mortgage or reconvey the trust deed described in this notice unless, within 60 days from the date stated on this notice, the undersigned has received by certified mail a notice stating that the obligation secured by the trust deed or mortgage has not been paid in full or that you otherwise object to the release of the mortgage or the reconveyance of the trust deed.  Notice shall be mailed to the address stated on this form.
+
 (Signature of title insurer or title agent)
+
 (Address of title insurer or title agent)
-(5) (a)  If, within 60 days from the day on which the title insurer or title
-agent delivered the notice of intent to release or reconvey in accordance with
-Subsections (3) and (4), a reconveyance of trust deed or release of mortgage
-is not recorded, and the beneficiary, mortgagee, or servicer does not send by
-certified mail to the title insurer or title agent a notice that the
-obligation secured by the trust deed or mortgage has not been paid in full or
-that the beneficiary, mortgagee, or servicer objects to the release of the
-mortgage or reconveyance of the trust deed, the title insurer or title agent
-may execute, acknowledge, and record a reconveyance of a trust deed or release
-of a mortgage.
-(b)  A reconveyance of a trust deed under Subsection (5)(a) shall be in
-substantially the following form:
+
+(5) (a)  If, within 60 days from the day on which the title insurer or title agent delivered the notice of intent to release or reconvey in accordance with Subsections (3) and (4), a reconveyance of trust deed or release of mortgage is not recorded, and the beneficiary, mortgagee, or servicer does not send by certified mail to the title insurer or title agent a notice that the obligation secured by the trust deed or mortgage has not been paid in full or that the beneficiary, mortgagee, or servicer objects to the release of the mortgage or reconveyance of the trust deed, the title insurer or title agent may execute, acknowledge, and record a reconveyance of a trust deed or release of a mortgage.
+
+(b)  A reconveyance of a trust deed under Subsection (5)(a) shall be in substantially the following form:
+
 RECONVEYANCE OF TRUST DEED
-(Name of title insurer or title agent), a (title insurer or title agent)
-authorized to conduct business in the state does hereby reconvey, without
-warranty, the following trust property located in (name of county) County,
-state of Utah, that is covered by a trust deed naming (name of trustor) as
-trustor, and (name of beneficiary) as beneficiary and was recorded on (date)
-in Book ________ at Page _________ as Entry Number _________: (insert a
-description of the trust property.)
+
+(Name of title insurer or title agent), a (title insurer or title agent) authorized to conduct business in the state does hereby reconvey, without warranty, the following trust property located in (name of county) County, state of Utah, that is covered by a trust deed naming (name of trustor) as trustor, and (name of beneficiary) as beneficiary and was recorded on (date) in Book ________ at Page _________ as Entry Number _________: (insert a description of the trust property.)
+
 The undersigned title insurer or title agent certifies as follows:
-1.  The undersigned title insurer or title agent has fully paid the obligation
-secured by the trust deed or possesses satisfactory evidence of the full
-payment of the obligation secured by the trust deed.
-2.  In accordance with the requirements of Utah Code Annotated Subsections
-57-1-40(3) and (4), the title insurer or title agent delivered to the
-beneficiary or servicer, a notice of intent to release or reconvey and a copy
-of the reconveyance.
-3.  The trust deed has not been reconveyed and the title insurer or title
-agent did not receive, within 60 days from the day on which the title insurer
-or title agent delivered the notice of intent to release or reconvey, a notice
-from the beneficiary or servicer sent by certified mail that the obligation
-secured by the trust deed has not been paid in full or that the beneficiary or
-servicer objects to the reconveyance of the trust deed.
-___________________________________
-__________________________________
-(Notarization)  (Signature of title insurer or title agent)
-(c)  A release of a mortgage under Subsection (5)(a) shall be in substantially
-the following form:
+
+1.  The undersigned title insurer or title agent has fully paid the obligation secured by the trust deed or possesses satisfactory evidence of the full payment of the obligation secured by the trust deed.
+
+2.  In accordance with the requirements of Utah Code Annotated Subsections 57-1-40(3) and (4), the title insurer or title agent delivered to the beneficiary or servicer, a notice of intent to release or reconvey and a copy of the reconveyance.
+
+3.  The trust deed has not been reconveyed and the title insurer or title agent did not receive, within 60 days from the day on which the title insurer or title agent delivered the notice of intent to release or reconvey, a notice from the beneficiary or servicer sent by certified mail that the obligation secured by the trust deed has not been paid in full or that the beneficiary or servicer objects to the reconveyance of the trust deed.
+
+___________________________________		__________________________________
+
+(Notarization)	(Signature of title insurer or title agent)
+
+(c)  A release of a mortgage under Subsection (5)(a) shall be in substantially the following form:
+
 RELEASE OF MORTGAGE
-(Name of title insurer or title agent), a (title insurer or title agent)
-authorized to conduct business in the state does hereby release the mortgage
-on the following property located in (name of county) County, state of Utah,
-that is covered by a mortgage naming (name of mortgagor) as mortgagor, and
-(name of mortgagee) as mortgagee and was recorded on (date) in Book ________
-at Page _________ as Entry Number _________: (insert a description of the
-trust property.)
+
+(Name of title insurer or title agent), a (title insurer or title agent) authorized to conduct business in the state does hereby release the mortgage on the following property located in (name of county) County, state of Utah, that is covered by a mortgage naming (name of mortgagor) as mortgagor, and (name of mortgagee) as mortgagee and was recorded on (date) in Book ________ at Page _________ as Entry Number _________: (insert a description of the trust property.)
+
 The undersigned title insurer or title agent certifies as follows:
-1.  The undersigned title insurer or title agent has fully paid the obligation
-secured by the mortgage or possesses satisfactory evidence of the full payment
-of the obligation secured by the mortgage.
-2.  In accordance with the requirements of Utah Code Annotated Subsections
-57-1-40(3) and (4), the title insurer or title agent delivered to the
-mortgagee or servicer a notice of intent to release or reconvey.
-3.  The mortgage has not been released and the title insurer or title agent
-did not receive, within 60 days from the day on which the title insurer or
-title agent delivered the notice of intent to release or reconvey, a notice
-from the mortgagee or servicer sent by certified mail that the obligation
-secured by the mortgage has not been paid in full or that the mortgagee or
-servicer objects to the release of the mortgage.
-___________________________________
-__________________________________
-(Notarization)  (Signature of title insurer or title agent)
-(d) (i)  A release of mortgage or reconveyance of trust deed that is executed
-and notarized in accordance with Subsection (5)(b) or (c) is entitled to
-recordation.
-(ii) (A)  Except as provided in Subsection (5)(d)(ii)(B), a reconveyance of a
-trust deed or release of a mortgage that is recorded under Subsection
-(5)(d)(i) is valid regardless of any deficiency in the release or reconveyance
-procedure not disclosed in the release of mortgage or reconveyance of trust
-deed.
-(B)  If the title insurer's or title agent's signature on a release of
-mortgage or reconveyance of trust deed recorded under Subsection (5)(d)(ii)(A)
-is forged, the release of mortgage or reconveyance of trust deed is void.
-(6)  A release of mortgage or reconveyance of trust deed under this section
-does not, by itself, discharge any promissory note or other obligation that
-was secured by the trust deed or mortgage at the time the trust deed was
-reconveyed or the mortgage was released.
+
+1.  The undersigned title insurer or title agent has fully paid the obligation secured by the mortgage or possesses satisfactory evidence of the full payment of the obligation secured by the mortgage.
+
+2.  In accordance with the requirements of Utah Code Annotated Subsections 57-1-40(3) and (4), the title insurer or title agent delivered to the mortgagee or servicer a notice of intent to release or reconvey.
+
+3.  The mortgage has not been released and the title insurer or title agent did not receive, within 60 days from the day on which the title insurer or title agent delivered the notice of intent to release or reconvey, a notice from the mortgagee or servicer sent by certified mail that the obligation secured by the mortgage has not been paid in full or that the mortgagee or servicer objects to the release of the mortgage.
+
+___________________________________		__________________________________
+
+(Notarization)	(Signature of title insurer or title agent)
+
+(d) (i)  A release of mortgage or reconveyance of trust deed that is executed and notarized in accordance with Subsection (5)(b) or (c) is entitled to recordation.
+
+(ii) (A)  Except as provided in Subsection (5)(d)(ii)(B), a reconveyance of a trust deed or release of a mortgage that is recorded under Subsection (5)(d)(i) is valid regardless of any deficiency in the release or reconveyance procedure not disclosed in the release of mortgage or reconveyance of trust deed.
+
+(B)  If the title insurer's or title agent's signature on a release of mortgage or reconveyance of trust deed recorded under Subsection (5)(d)(ii)(A) is forged, the release of mortgage or reconveyance of trust deed is void.
+
+(6)  A release of mortgage or reconveyance of trust deed under this section does not, by itself, discharge any promissory note or other obligation that was secured by the trust deed or mortgage at the time the trust deed was reconveyed or the mortgage was released.
+

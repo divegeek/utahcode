@@ -1,18 +1,10 @@
 16-10a-725.   Quorum and voting requirements for voting groups.
-(1)  Shares entitled to vote as a separate voting group may take action on a
-matter at a meeting only if a quorum of those shares exists with respect to
-that matter.  Unless the articles of incorporation or this chapter provide
-otherwise, a majority of the votes entitled to be cast on the matter by the
-voting group constitutes a quorum of that voting group for action on that
-matter.
-(2)  Once a share is represented for any purpose at a meeting, including the
-purpose of determining that a quorum exists, it is deemed present for quorum
-purposes for the remainder of the meeting and for any adjournment of that
-meeting, unless a new record date is or shall be set for that adjourned
-meeting.
-(3)  If a quorum exists, action on a matter, other than the election of
-directors, by a voting group is approved if the votes cast within the voting
-group favoring the action exceed the votes cast within the voting group
-opposing the action, unless the articles of incorporation or this chapter
-requires a greater number of affirmative votes.
+
+(1)  Shares entitled to vote as a separate voting group may take action on a matter at a meeting only if a quorum of those shares exists with respect to that matter.  Unless the articles of incorporation or this chapter provide otherwise, a majority of the votes entitled to be cast on the matter by the voting group constitutes a quorum of that voting group for action on that matter.
+
+(2)  Once a share is represented for any purpose at a meeting, including the purpose of determining that a quorum exists, it is deemed present for quorum purposes for the remainder of the meeting and for any adjournment of that meeting, unless a new record date is or shall be set for that adjourned meeting.
+
+(3)  If a quorum exists, action on a matter, other than the election of directors, by a voting group is approved if the votes cast within the voting group favoring the action exceed the votes cast within the voting group opposing the action, unless the articles of incorporation or this chapter requires a greater number of affirmative votes.
+
 (4)  The election of directors is governed by Section 16-10a-728.
+

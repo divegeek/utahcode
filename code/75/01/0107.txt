@@ -1,31 +1,18 @@
 75-1-107.   Evidence of death or status.
-(1)  In addition to the rules of evidence in courts of general jurisdiction,
-the following rules relating to a determination of death and status apply:
-(a)  Death occurs when an individual is determined to be dead as provided in
-Title 26, Chapter 34, Uniform Determination of Death Act.
-(b)  A certified or authenticated copy of a death certificate purporting to be
-issued by an official or agency of the place where the death purportedly
-occurred is prima facie evidence of the fact, place, date, and time of death
-and the identity of the decedent.
-(c)  A certified or authenticated copy of any record or report of a
-governmental agency, domestic or foreign, that an individual is missing,
-detained, dead, or alive is prima facie evidence of the status and of the
-dates, circumstances, and places disclosed by the record or report.
-(d)  In the absence of prima facie evidence of death under Subsection (1)(b)
-or (c), the fact of death may be established by clear and convincing evidence,
-including circumstantial evidence.
-(e)  An individual whose death is not established under Subsection (1)(a),
-(b), (c) or (d) who is absent for a continuous period of five years, during
-which the individual has not been heard from, and whose absence is not
-satisfactorily explained after diligent search or inquiry, is presumed to be
-dead.  The individual's death is presumed to have occurred at the end of the
-period unless there is sufficient evidence for determining that death occurred
-earlier.
-(f)  In the absence of evidence disputing the time of death stated on a
-document described in Subsection (1)(b) or (c), a document described in
-Subsection (1)(b) or (c) that states a time of death 120 hours or more after
-the time of death of another individual, however the time of death of the
-other individual is determined, establishes by clear and convincing evidence
-that the individual survived the other individual by 120 hours.
-(2)  The right and duty to control the disposition of a deceased person shall
-be governed by Sections 58-9-601 through 58-9-604.
+
+(1)  In addition to the rules of evidence in courts of general jurisdiction, the following rules relating to a determination of death and status apply:
+
+(a)  Death occurs when an individual is determined to be dead as provided in Title 26, Chapter 34, Uniform Determination of Death Act.
+
+(b)  A certified or authenticated copy of a death certificate purporting to be issued by an official or agency of the place where the death purportedly occurred is prima facie evidence of the fact, place, date, and time of death and the identity of the decedent.
+
+(c)  A certified or authenticated copy of any record or report of a governmental agency, domestic or foreign, that an individual is missing, detained, dead, or alive is prima facie evidence of the status and of the dates, circumstances, and places disclosed by the record or report.
+
+(d)  In the absence of prima facie evidence of death under Subsection (1)(b) or (c), the fact of death may be established by clear and convincing evidence, including circumstantial evidence.
+
+(e)  An individual whose death is not established under Subsection (1)(a), (b), (c) or (d) who is absent for a continuous period of five years, during which the individual has not been heard from, and whose absence is not satisfactorily explained after diligent search or inquiry, is presumed to be dead.  The individual's death is presumed to have occurred at the end of the period unless there is sufficient evidence for determining that death occurred earlier.
+
+(f)  In the absence of evidence disputing the time of death stated on a document described in Subsection (1)(b) or (c), a document described in Subsection (1)(b) or (c) that states a time of death 120 hours or more after the time of death of another individual, however the time of death of the other individual is determined, establishes by clear and convincing evidence that the individual survived the other individual by 120 hours.
+
+(2)  The right and duty to control the disposition of a deceased person shall be governed by Sections 58-9-601 through 58-9-604.
+

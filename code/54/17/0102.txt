@@ -1,54 +1,66 @@
 54-17-102.   Definitions.
+
 As used in this chapter:
-(1)  "Affected electrical utility" means an electrical corporation with at
-least 200,000 retail customers in the state.
-(2)  "Benchmark option" means an energy resource against which bids in an open
-bid process may be evaluated that:
+
+(1)  "Affected electrical utility" means an electrical corporation with at least 200,000 retail customers in the state.
+
+(2)  "Benchmark option" means an energy resource against which bids in an open bid process may be evaluated that:
+
 (a)  could be constructed or owned by:
+
 (i)  an affected electrical utility; or
+
 (ii)  an affiliate of an affected electrical utility; or
+
 (b)  may be a purchase of:
+
 (i)  electricity;
+
 (ii)  electric generating capacity; or
+
 (iii)  electricity and electric generating capacity.
+
 (3)  "Integrated resource plan" means a plan that contains:
-(a)  the demand and energy forecast by the affected electrical utility for at
-least a ten-year period;
-(b)  the affected electrical utility's options for meeting the requirements
-shown in its load and resource forecast in an economic and reliable manner,
-including:
+
+(a)  the demand and energy forecast by the affected electrical utility for at least a ten-year period;
+
+(b)  the affected electrical utility's options for meeting the requirements shown in its load and resource forecast in an economic and reliable manner, including:
+
 (i)  demand-side and supply-side options; and
-(ii)  a brief description and summary cost-benefit analysis, if available, of
-each option that was considered;
-(c)  the affected electrical utility's assumptions and conclusions with
-respect to the effect of the plan on the cost and reliability of energy
-service;
-(d)  a description of the external environmental and economic consequences of
-the plan to the extent practicable; and
+
+(ii)  a brief description and summary cost-benefit analysis, if available, of each option that was considered;
+
+(c)  the affected electrical utility's assumptions and conclusions with respect to the effect of the plan on the cost and reliability of energy service;
+
+(d)  a description of the external environmental and economic consequences of the plan to the extent practicable; and
+
 (e)  any other data and analyses as the commission may require.
-(4)  "Significant energy resource" for an affected electrical utility means a
-resource that consists of:
-(a)  a total of 100 megawatts or more of new generating capacity that has a
-dependable life of 10 or more years;
-(b)  a purchase of the following if the contract is for a term of 10 or more
-years and not less than 100 megawatts:
+
+(4)  "Significant energy resource" for an affected electrical utility means a resource that consists of:
+
+(a)  a total of 100 megawatts or more of new generating capacity that has a dependable life of 10 or more years;
+
+(b)  a purchase of the following if the contract is for a term of 10 or more years and not less than 100 megawatts:
+
 (i)  electricity;
+
 (ii)  electric generating capacity; or
+
 (iii)  electricity and electrical generating capacity;
-(c)  the purchase or lease by an affected electrical utility from an
-affiliated company of:
+
+(c)  the purchase or lease by an affected electrical utility from an affiliated company of:
+
 (i)  a generating facility;
+
 (ii)  electricity;
+
 (iii)  electrical generating capacity; or
+
 (iv)  electricity and electrical generating capacity;
-(d)  a contract with an option for the affected electrical utility or an
-affiliate to purchase a resource that consists of not less than 100 megawatts
-or more of new generating capacity that has a remaining dependable life of 10
-or more years; or
-(e)  a type of resource designated by the commission as a significant energy
-resource in rules made by the commission in accordance with Title 63G, Chapter
-3, Utah Administrative Rulemaking Act, after considering the affected
-electrical utility's integrated resource plan and action plan.
-(5)  "Solicitation" means a request for proposals or other invitation for
-persons to submit a bid or proposal through an open bid process for
-construction or acquisition of a significant energy resource.
+
+(d)  a contract with an option for the affected electrical utility or an affiliate to purchase a resource that consists of not less than 100 megawatts or more of new generating capacity that has a remaining dependable life of 10 or more years; or
+
+(e)  a type of resource designated by the commission as a significant energy resource in rules made by the commission in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, after considering the affected electrical utility's integrated resource plan and action plan.
+
+(5)  "Solicitation" means a request for proposals or other invitation for persons to submit a bid or proposal through an open bid process for construction or acquisition of a significant energy resource.
+

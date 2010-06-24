@@ -1,68 +1,56 @@
 59-10-406.   Collection and payment of tax.
-(1) (a)  Each employer shall, on or before the last day of April, July,
-October, and January, pay to the commission the amount required to be deducted
-and withheld from wages paid to any employee during the preceding calendar
-quarter under this part.
-(b)  The commission may change the time or period for making reports and
-payments if:
+
+(1) (a)  Each employer shall, on or before the last day of April, July, October, and January, pay to the commission the amount required to be deducted and withheld from wages paid to any employee during the preceding calendar quarter under this part.
+
+(b)  The commission may change the time or period for making reports and payments if:
+
 (i)  in its opinion, the tax is in jeopardy; or
-(ii)  a different time or period will facilitate the collection and payment of
-the tax by the employer.
-(2)  Each employer shall file a return, in a form the commission prescribes,
-with each payment  of the amount deducted and withheld under this part
-showing:
+
+(ii)  a different time or period will facilitate the collection and payment of the tax by the employer.
+
+(2)  Each employer shall file a return, in a form the commission prescribes, with each payment  of the amount deducted and withheld under this part showing:
+
 (a)  the total amount of wages paid to his employees;
+
 (b)  the amount of federal income tax deducted and withheld;
+
 (c)  the amount of tax under this part deducted and withheld; and
+
 (d)  any other information the commission may require.
-(3) (a)  Each employer shall file an annual return, in a form the commission
-prescribes, summarizing:
+
+(3) (a)  Each employer shall file an annual return, in a form the commission prescribes, summarizing:
+
 (i)  the total compensation paid;
+
 (ii)  the federal income tax deducted and withheld; and
-(iii)  the state tax deducted and withheld for each employee during the
-calendar year.
-(b) (i)  Except as provided in Subsection (3)(b)(ii), the return required by
-Subsection (3)(a) shall be filed with the commission on or before February 28
-of the year following that for which the report is made.
-(ii)  An annual return described in Subsection (3)(a) that is filed
-electronically shall be filed with the commission on or before the date
-established in Section 6071(b), Internal Revenue Code, for filing returns.
-(4) (a)  Each employer shall also, in accordance with rules prescribed by the
-commission, provide each employee from whom state income tax has been withheld
-with a statement of the amounts of total compensation paid and the amounts
-deducted and withheld for that employee during the preceding calendar year in
-accordance with this part.
-(b)  The statement shall be made available to each employee described in
-Subsection (4)(a) on or before January 31 of the year following that for which
-the report is made.
-(5) (a)  The employer is liable to the commission for the payment of the tax
-required to be deducted and withheld under this part.
-(b)  If an employer pays the tax required to be deducted and withheld under
-this part:
-(i)  an employee of the employer is not liable for the amount of any payment
-described in Subsection (5)(a); and
-(ii)  the employer is not liable to any person or to any employee for the
-amount of any such payment described in Subsection (5)(a).
-(c)  For the purpose of making penal provisions of this title applicable, any
-amount deducted or required to be deducted and remitted to the commission
-under this part is considered to be the tax of the employer and with respect
-to such amounts the employer is considered to be the taxpayer.
-(6) (a)  Each employer that deducts and withholds any amount under this part
-shall hold the amount in trust for the state for the payment of the amount to
-the commission in the manner and at the time provided for in this part.
-(b)  So long as any delinquency continues, the state shall have a lien to
-secure the payment of any amounts withheld, and not remitted as provided under
-this section, upon all of the assets of the employer and all property owned or
-used by the employer in the conduct of the employer's business, including
-stock-in-trade, business fixtures, and equipment.
-(c)  The lien described in Subsection (6)(b) shall be prior to any lien of any
-kind, including existing liens for taxes.
-(7)  To the extent consistent with this section, the commission may use all
-the provisions of this chapter relating to records, penalties, interest,
-deficiencies, redetermination of deficiencies, overpayments, refunds,
-assessments, and venue to enforce this section.
-(8)  For all taxable years beginning on or after January 1, 2001, an employer
-that is required to file a federal Form W-2 in an electronic format with the
-Federal Department of the Treasury Internal Revenue Service shall file each
-Form W-2 that is required to be filed with the commission in an electronic
-format approved by the commission.
+
+(iii)  the state tax deducted and withheld for each employee during the calendar year.
+
+(b) (i)  Except as provided in Subsection (3)(b)(ii), the return required by Subsection (3)(a) shall be filed with the commission on or before February 28 of the year following that for which the report is made.
+
+(ii)  An annual return described in Subsection (3)(a) that is filed electronically shall be filed with the commission on or before the date established in Section 6071(b), Internal Revenue Code, for filing returns.
+
+(4) (a)  Each employer shall also, in accordance with rules prescribed by the commission, provide each employee from whom state income tax has been withheld with a statement of the amounts of total compensation paid and the amounts deducted and withheld for that employee during the preceding calendar year in accordance with this part.
+
+(b)  The statement shall be made available to each employee described in Subsection (4)(a) on or before January 31 of the year following that for which the report is made.
+
+(5) (a)  The employer is liable to the commission for the payment of the tax required to be deducted and withheld under this part. 
+
+(b)  If an employer pays the tax required to be deducted and withheld under this part:
+
+(i)  an employee of the employer is not liable for the amount of any payment described in Subsection (5)(a); and
+
+(ii)  the employer is not liable to any person or to any employee for the amount of any such payment described in Subsection (5)(a).
+
+(c)  For the purpose of making penal provisions of this title applicable, any amount deducted or required to be deducted and remitted to the commission under this part is considered to be the tax of the employer and with respect to such amounts the employer is considered to be the taxpayer.
+
+(6) (a)  Each employer that deducts and withholds any amount under this part shall hold the amount in trust for the state for the payment of the amount to the commission in the manner and at the time provided for in this part.
+
+(b)  So long as any delinquency continues, the state shall have a lien to secure the payment of any amounts withheld, and not remitted as provided under this section, upon all of the assets of the employer and all property owned or used by the employer in the conduct of the employer's business, including stock-in-trade, business fixtures, and equipment. 
+
+(c)  The lien described in Subsection (6)(b) shall be prior to any lien of any kind, including existing liens for taxes.
+
+(7)  To the extent consistent with this section, the commission may use all the provisions of this chapter relating to records, penalties, interest, deficiencies, redetermination of deficiencies, overpayments, refunds, assessments, and venue to enforce this section.
+
+(8)  For all taxable years beginning on or after January 1, 2001, an employer that is required to file a federal Form W-2 in an electronic format with the Federal Department of the Treasury Internal Revenue Service shall file each Form W-2 that is required to be filed with the commission in an electronic format approved by the commission.
+

@@ -1,160 +1,100 @@
 31A-22-303.   Motor vehicle liability coverage.
-(1) (a)  In addition to complying with the requirements of Chapter 21,
-Insurance Contracts in General, and Chapter 22, Part 2, Liability Insurance in
-General, a policy of motor vehicle liability coverage under Subsection
-31A-22-302(1)(a) shall:
-(i)  name the motor vehicle owner or operator in whose name the policy was
-purchased, state that named insured's address, the coverage afforded, the
-premium charged, the policy period, and the limits of liability;
-(ii) (A)  if it is an owner's policy, designate by appropriate reference all
-the motor vehicles on which coverage is granted, insure the person named in
-the policy, insure any other person using any named motor vehicle with the
-express or implied permission of the named insured, and, except as provided in
-Section 31A-22-302.5, insure any person included in Subsection (1)(a)(iii)
-against loss from the liability imposed by law for damages arising out of the
-ownership, maintenance, or use of these motor vehicles within the United
-States and Canada, subject to limits exclusive of interest and costs, for each
-motor vehicle, in amounts not less than the minimum limits specified under
-Section 31A-22-304; or
-(B)  if it is an operator's policy, insure the person named as insured against
-loss from the liability imposed upon him by law for damages arising out of the
-insured's use of any motor vehicle not owned by him, within the same
-territorial limits and with the same limits of liability as in an owner's
-policy under Subsection (1)(a)(ii)(A);
-(iii)  except as provided in Section 31A-22-302.5, insure persons related to
-the named insured by blood, marriage, adoption, or guardianship who are
-residents of the named insured's household, including those who usually make
-their home in the same household but temporarily live elsewhere, to the same
-extent as the named insured;
-(iv)  where a claim is brought by the named insured or a person described in
-Subsection (1)(a)(iii), the available coverage of the policy may not be
-reduced or stepped-down because:
-(A)  a permissive user driving a covered motor vehicle is at fault in causing
-an accident; or
-(B)  the named insured or any of the persons described in this Subsection
-(1)(a)(iii) driving a covered motor vehicle is at fault in causing an
-accident; and
-(v)  cover damages or injury resulting from a covered driver of a motor
-vehicle who is stricken by an unforeseeable paralysis, seizure, or other
-unconscious condition and who is not reasonably aware that paralysis, seizure,
-or other unconscious condition is about to occur to the extent that a person
-of ordinary prudence would not attempt to continue driving.
-(b)  The driver's liability under Subsection (1)(a)(v) is limited to the
-insurance coverage.
-(c) (i)  "Guardianship" under Subsection (1)(a)(iii) includes the relationship
-between a foster parent and a minor who is in the legal custody of the
-Division of Child and Family Services if:
-(A)  the minor resides in a foster home, as defined in Section 62A-2-101, with
-a foster parent who is the named insured; and
-(B)  the foster parent has signed to be jointly and severally liable for
-compensatory damages caused by the minor's operation of a motor vehicle in
-accordance with Section 53-3-211.
-(ii)  "Guardianship" as defined under this Subsection (1)(c) ceases to exist
-when a minor described in Subsection (1)(c)(i)(A) is no longer a resident of
-the named insured's household.
-(2) (a)  A policy containing motor vehicle liability coverage under Subsection
-31A-22-302(1)(a) may:
-(i)  provide for the prorating of the insurance under that policy with other
-valid and collectible insurance;
-(ii)  grant any lawful coverage in addition to the required motor vehicle
-liability coverage;
-(iii)  if the policy is issued to a person other than a motor vehicle
-business, limit the coverage afforded to a motor vehicle business or its
-officers, agents, or employees to the minimum limits under Section 31A-22-304,
-and to those instances when there is no other valid and collectible insurance
-with at least those limits, whether the other insurance is primary, excess, or
-contingent; and
-(iv)  if issued to a motor vehicle business, restrict coverage afforded to
-anyone other than the motor vehicle business or its officers, agents, or
-employees to the minimum limits under Section 31A-22-304, and to those
-instances when there is no other valid and collectible insurance with at least
-those limits, whether the other insurance is primary, excess, or contingent.
-(b) (i)  The liability insurance coverage of a permissive user of a motor
-vehicle owned by a motor vehicle business shall be primary coverage.
-(ii)  The liability insurance coverage of a motor vehicle business shall be
-secondary to the liability insurance coverage of a permissive user as
-specified under Subsection (2)(b)(i).
+
+(1) (a)  In addition to complying with the requirements of Chapter 21, Insurance Contracts in General, and Chapter 22, Part 2, Liability Insurance in General, a policy of motor vehicle liability coverage under Subsection 31A-22-302(1)(a) shall:
+
+(i)  name the motor vehicle owner or operator in whose name the policy was purchased, state that named insured's address, the coverage afforded, the premium charged, the policy period, and the limits of liability;
+
+(ii) (A)  if it is an owner's policy, designate by appropriate reference all the motor vehicles on which coverage is granted, insure the person named in the policy, insure any other person using any named motor vehicle with the express or implied permission of the named insured, and, except as provided in Section 31A-22-302.5, insure any person included in Subsection (1)(a)(iii) against loss from the liability imposed by law for damages arising out of the ownership, maintenance, or use of these motor vehicles within the United States and Canada, subject to limits exclusive of interest and costs, for each motor vehicle, in amounts not less than the minimum limits specified under Section 31A-22-304; or
+
+(B)  if it is an operator's policy, insure the person named as insured against loss from the liability imposed upon him by law for damages arising out of the insured's use of any motor vehicle not owned by him, within the same territorial limits and with the same limits of liability as in an owner's policy under Subsection (1)(a)(ii)(A);
+
+(iii)  except as provided in Section 31A-22-302.5, insure persons related to the named insured by blood, marriage, adoption, or guardianship who are residents of the named insured's household, including those who usually make their home in the same household but temporarily live elsewhere, to the same extent as the named insured;
+
+(iv)  where a claim is brought by the named insured or a person described in Subsection (1)(a)(iii), the available coverage of the policy may not be reduced or stepped-down because:
+
+(A)  a permissive user driving a covered motor vehicle is at fault in causing an accident; or
+
+(B)  the named insured or any of the persons described in this Subsection (1)(a)(iii) driving a covered motor vehicle is at fault in causing an accident; and
+
+(v)  cover damages or injury resulting from a covered driver of a motor vehicle who is stricken by an unforeseeable paralysis, seizure, or other unconscious condition and who is not reasonably aware that paralysis, seizure, or other unconscious condition is about to occur to the extent that a person of ordinary prudence would not attempt to continue driving.
+
+(b)  The driver's liability under Subsection (1)(a)(v) is limited to the insurance coverage.
+
+(c) (i)  "Guardianship" under Subsection (1)(a)(iii) includes the relationship between a foster parent and a minor who is in the legal custody of the Division of Child and Family Services if:
+
+(A)  the minor resides in a foster home, as defined in Section 62A-2-101, with a foster parent who is the named insured; and
+
+(B)  the foster parent has signed to be jointly and severally liable for compensatory damages caused by the minor's operation of a motor vehicle in accordance with Section 53-3-211.
+
+(ii)  "Guardianship" as defined under this Subsection (1)(c) ceases to exist when a minor described in Subsection (1)(c)(i)(A) is no longer a resident of the named insured's household.
+
+(2) (a)  A policy containing motor vehicle liability coverage under Subsection 31A-22-302(1)(a) may:
+
+(i)  provide for the prorating of the insurance under that policy with other valid and collectible insurance;
+
+(ii)  grant any lawful coverage in addition to the required motor vehicle liability coverage;
+
+(iii)  if the policy is issued to a person other than a motor vehicle business, limit the coverage afforded to a motor vehicle business or its officers, agents, or employees to the minimum limits under Section 31A-22-304, and to those instances when there is no other valid and collectible insurance with at least those limits, whether the other insurance is primary, excess, or contingent; and
+
+(iv)  if issued to a motor vehicle business, restrict coverage afforded to anyone other than the motor vehicle business or its officers, agents, or employees to the minimum limits under Section 31A-22-304, and to those instances when there is no other valid and collectible insurance with at least those limits, whether the other insurance is primary, excess, or contingent.
+
+(b) (i)  The liability insurance coverage of a permissive user of a motor vehicle owned by a motor vehicle business shall be primary coverage.
+
+(ii)  The liability insurance coverage of a motor vehicle business shall be secondary to the liability insurance coverage of a permissive user as specified under Subsection (2)(b)(i).
+
 (3)  Motor vehicle liability coverage need not insure any liability:
+
 (a)  under any workers' compensation law under Title 34A, Utah Labor Code;
-(b)  resulting from bodily injury to or death of an employee of the named
-insured, other than a domestic employee, while engaged in the employment of
-the insured, or while engaged in the operation, maintenance, or repair of a
-designated vehicle; or
-(c)  resulting from damage to property owned by, rented to, bailed to, or
-transported by the insured.
-(4)  An insurance carrier providing motor vehicle liability coverage has the
-right to settle any claim covered by the policy, and if the settlement is made
-in good faith, the amount of the settlement is deductible from the limits of
-liability specified under Section 31A-22-304.
-(5)  A policy containing motor vehicle liability coverage imposes on the
-insurer the duty to defend, in good faith, any person insured under the policy
-against any claim or suit seeking damages which would be payable under the
-policy.
-(6) (a)  If a policy containing motor vehicle liability coverage provides an
-insurer with the defense of lack of cooperation on the part of the insured,
-that defense is not effective against a third person making a claim against
-the insurer, unless there was collusion between the third person and the
-insured.
-(b)  If the defense of lack of cooperation is not effective against the
-claimant, after payment, the insurer is subrogated to the injured person's
-claim against the insured to the extent of the payment and is entitled to
-reimbursement by the insured after the injured third person has been made
-whole with respect to the claim against the insured.
-(7)  A policy of motor vehicle liability coverage may limit coverage to the
-policy minimum limits under Section 31A-22-304 if the insured motor vehicle is
-operated by a person who has consumed any alcohol or any illegal drug or
-illegal substance if the policy or a specifically reduced premium was extended
-to the insured upon express written declaration executed by the insured that
-the insured motor vehicle would not be so operated.
-(8) (a)  When a claim is brought exclusively by a named insured or a person
-described in Subsection (1)(a)(iii) and asserted exclusively against a named
-insured or an individual described in Subsection (1)(a)(iii), the claimant may
-elect to resolve the claim:
+
+(b)  resulting from bodily injury to or death of an employee of the named insured, other than a domestic employee, while engaged in the employment of the insured, or while engaged in the operation, maintenance, or repair of a designated vehicle; or
+
+(c)  resulting from damage to property owned by, rented to, bailed to, or transported by the insured.
+
+(4)  An insurance carrier providing motor vehicle liability coverage has the right to settle any claim covered by the policy, and if the settlement is made in good faith, the amount of the settlement is deductible from the limits of liability specified under Section 31A-22-304.
+
+(5)  A policy containing motor vehicle liability coverage imposes on the insurer the duty to defend, in good faith, any person insured under the policy against any claim or suit seeking damages which would be payable under the policy.
+
+(6) (a)  If a policy containing motor vehicle liability coverage provides an insurer with the defense of lack of cooperation on the part of the insured, that defense is not effective against a third person making a claim against the insurer, unless there was collusion between the third person and the insured.
+
+(b)  If the defense of lack of cooperation is not effective against the claimant, after payment, the insurer is subrogated to the injured person's claim against the insured to the extent of the payment and is entitled to reimbursement by the insured after the injured third person has been made whole with respect to the claim against the insured.
+
+(7)  A policy of motor vehicle liability coverage may limit coverage to the policy minimum limits under Section 31A-22-304 if the insured motor vehicle is operated by a person who has consumed any alcohol or any illegal drug or illegal substance if the policy or a specifically reduced premium was extended to the insured upon express written declaration executed by the insured that the insured motor vehicle would not be so operated.
+
+(8) (a)  When a claim is brought exclusively by a named insured or a person described in Subsection (1)(a)(iii) and asserted exclusively against a named insured or an individual described in Subsection (1)(a)(iii), the claimant may elect to resolve the claim:
+
 (i)  by submitting the claim to binding arbitration; or
+
 (ii)  through litigation.
-(b)  Once the claimant has elected to commence litigation under Subsection
-(8)(a)(ii), the claimant may not elect to resolve the claim through binding
-arbitration under this section without the written consent of both parties and
-the defendant's liability insurer.
-(c) (i)  Unless otherwise agreed on in writing by the parties, a claim that is
-submitted to binding arbitration under Subsection (8)(a)(i) shall be resolved
-by a panel of three arbitrators.
-(ii)  Unless otherwise agreed on in writing by the parties, each party shall
-select an arbitrator.  The arbitrators selected by the parties shall select a
-third arbitrator.
-(d)  Unless otherwise agreed on in writing by the parties, each party will pay
-the fees and costs of the arbitrator that party selects.  Both parties shall
-share equally the fees and costs of the third arbitrator.
-(e)  Except as otherwise provided in this section, an arbitration procedure
-conducted under this section shall be governed by Title 78B, Chapter 11, Utah
-Uniform Arbitration Act, unless otherwise agreed on in writing by the parties.
-(f) (i)  Discovery shall be conducted in accordance with Rules 26b through 36,
-Utah Rules of Civil Procedure.
+
+(b)  Once the claimant has elected to commence litigation under Subsection (8)(a)(ii), the claimant may not elect to resolve the claim through binding arbitration under this section without the written consent of both parties and the defendant's liability insurer.
+
+(c) (i)  Unless otherwise agreed on in writing by the parties, a claim that is submitted to binding arbitration under Subsection (8)(a)(i) shall be resolved by a panel of three arbitrators.
+
+(ii)  Unless otherwise agreed on in writing by the parties, each party shall select an arbitrator.  The arbitrators selected by the parties shall select a third arbitrator.
+
+(d)  Unless otherwise agreed on in writing by the parties, each party will pay the fees and costs of the arbitrator that party selects.  Both parties shall share equally the fees and costs of the third arbitrator.
+
+(e)  Except as otherwise provided in this section, an arbitration procedure conducted under this section shall be governed by Title 78B, Chapter 11, Utah Uniform Arbitration Act, unless otherwise agreed on in writing by the parties.
+
+(f) (i)  Discovery shall be conducted in accordance with Rules 26b through 36, Utah Rules of Civil Procedure.
+
 (ii)  All issues of discovery shall be resolved by the arbitration panel.
-(g)  A written decision of two of the three arbitrators shall constitute a
-final decision of the arbitration panel.
+
+(g)  A written decision of two of the three arbitrators shall constitute a final decision of the arbitration panel.
+
 (h)  Prior to the rendering of the arbitration award:
-(i)  the existence of a liability insurance policy may be disclosed to the
-arbitration panel; and
-(ii)  the amount of all applicable liability insurance policy limits may not
-be disclosed to the arbitration panel.
-(i)  The amount of the arbitration award may not exceed the liability limits
-of all the defendant's applicable liability insurance policies, including
-applicable liability umbrella policies.  If the initial arbitration award
-exceeds the liability limits of all applicable liability insurance policies,
-the arbitration award shall be reduced to an amount equal to the liability
-limits of all applicable liability insurance policies.
-(j)  The arbitration award is the final resolution of all claims between the
-parties unless the award was procured by corruption, fraud, or other undue
-means.
-(k)  If the arbitration panel finds that the action was not brought, pursued,
-or defended in good faith, the arbitration panel may award reasonable fees and
-costs against the party that failed to bring, pursue, or defend the claim in
-good faith.
-(l)  Nothing in this section is intended to limit any claim under any other
-portion of an applicable insurance policy.
-(9)  An at-fault driver or an insurer issuing a policy of insurance under this
-part that is covering an at-fault driver may not reduce compensation to an
-injured party based on the injured party not being covered by a policy of
-insurance that provides personal injury protection coverage under Sections
-31A-22-306 through 31A-22-309.
+
+(i)  the existence of a liability insurance policy may be disclosed to the arbitration panel; and
+
+(ii)  the amount of all applicable liability insurance policy limits may not be disclosed to the arbitration panel.
+
+(i)  The amount of the arbitration award may not exceed the liability limits of all the defendant's applicable liability insurance policies, including applicable liability umbrella policies.  If the initial arbitration award exceeds the liability limits of all applicable liability insurance policies, the arbitration award shall be reduced to an amount equal to the liability limits of all applicable liability insurance policies.
+
+(j)  The arbitration award is the final resolution of all claims between the parties unless the award was procured by corruption, fraud, or other undue means.
+
+(k)  If the arbitration panel finds that the action was not brought, pursued, or defended in good faith, the arbitration panel may award reasonable fees and costs against the party that failed to bring, pursue, or defend the claim in good faith.
+
+(l)  Nothing in this section is intended to limit any claim under any other portion of an applicable insurance policy.
+
+(9)  An at-fault driver or an insurer issuing a policy of insurance under this part that is covering an at-fault driver may not reduce compensation to an injured party based on the injured party not being covered by a policy of insurance that provides personal injury protection coverage under Sections 31A-22-306 through 31A-22-309.
+

@@ -11,7 +11,7 @@ wrapper = textwrap.TextWrapper(width=78)
 def wrap_file_contents(in_file, out_file):
     
     for line in in_file:
-        out_file.write(wrapper.fill(line)+'\n')
+        out_file.write(line+'\n')
 
 def wrap_file(in_path, out_path):
     in_file  = open(in_path, "rt")

@@ -1,21 +1,6 @@
-7-22-108.   Segregation of accounts -- Duties specified by agreement --
-Duties generally.
-(1)  Each escrow agent shall place all funds received in escrow into separate
-federally insured depository accounts specifically denominated as trust
-accounts and shall allow no other funds to be placed into a trust account for
-any purpose.  Funds may be paid from trust accounts only in accordance with
-the terms and conditions of the escrow agreement.  An agent may maintain a
-general trust account and individual accounts for specific escrows in the
-agent's discretion, subject to any specific terms and conditions of an escrow
-agreement.  Earnings on funds held in an escrow trust account may be
-periodically dispersed to the escrow agent if the escrow contract specifically
-provides for such disbursements.  Otherwise, earnings on funds held in escrow
-may be paid out of the escrow account to any other party in accordance with
-the provisions of the escrow agreement if the agreement does not otherwise
-provide for payment of the earnings or any portion of the earnings on the
-escrow funds.
-(2)  All other assets or property received by an escrow agent in accordance
-with an escrow agreement shall be maintained in a manner which will reasonably
-preserve and protect the property from loss, theft, or damage, and which will
-otherwise comply with all duties and responsibilities of a fiduciary or bailee
-generally.
+7-22-108.   Segregation of accounts -- Duties specified by agreement -- Duties generally.
+
+(1)  Each escrow agent shall place all funds received in escrow into separate federally insured depository accounts specifically denominated as trust accounts and shall allow no other funds to be placed into a trust account for any purpose.  Funds may be paid from trust accounts only in accordance with the terms and conditions of the escrow agreement.  An agent may maintain a general trust account and individual accounts for specific escrows in the agent's discretion, subject to any specific terms and conditions of an escrow agreement.  Earnings on funds held in an escrow trust account may be periodically dispersed to the escrow agent if the escrow contract specifically provides for such disbursements.  Otherwise, earnings on funds held in escrow may be paid out of the escrow account to any other party in accordance with the provisions of the escrow agreement if the agreement does not otherwise provide for payment of the earnings or any portion of the earnings on the escrow funds.
+
+(2)  All other assets or property received by an escrow agent in accordance with an escrow agreement shall be maintained in a manner which will reasonably preserve and protect the property from loss, theft, or damage, and which will otherwise comply with all duties and responsibilities of a fiduciary or bailee generally.
+

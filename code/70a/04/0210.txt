@@ -1,27 +1,20 @@
-70A-4-210.   Security interest of collecting bank in items, accompanying
-documents, and proceeds.
-(1)  A collecting bank has a security interest in an item and any accompanying
-documents or the proceeds of either:
-(a)  in case of an item deposited in an account, to the extent to which credit
-given for the item has been withdrawn or applied;
-(b)  in case of an item for which it has given credit available for withdrawal
-as of right, to the extent of the credit given, whether or not the credit is
-drawn upon or there is a right of charge-back; or
+70A-4-210.   Security interest of collecting bank in items, accompanying documents, and proceeds.
+
+(1)  A collecting bank has a security interest in an item and any accompanying documents or the proceeds of either:
+
+(a)  in case of an item deposited in an account, to the extent to which credit given for the item has been withdrawn or applied;
+
+(b)  in case of an item for which it has given credit available for withdrawal as of right, to the extent of the credit given, whether or not the credit is drawn upon or there is a right of charge-back; or
+
 (c)  if it makes an advance on or against the item.
-(2)  If credit given for several items received at one time or pursuant to a
-single agreement is withdrawn or applied in part, the security interest
-remains upon all the items, any accompanying documents or the proceeds of
-either.  For the purpose of this section, credits first given are first
-withdrawn.
-(3)  Receipt by a collecting bank of a final settlement for an item is a
-realization on its security interest in the item, accompanying documents, and
-proceeds.  So long as the bank does not receive final settlement for the item
-or give up possession of the item or possession or control of the accompanying
-documents for purposes other than collection, the security interest continues
-to that extent and is subject to Chapter 9a, Uniform Commercial Code - Secured
-Transactions, but:
-(a)  no security agreement is necessary to make the security interest
-enforceable, Subsection 70A-9a-203(2)(c)(i);
+
+(2)  If credit given for several items received at one time or pursuant to a single agreement is withdrawn or applied in part, the security interest remains upon all the items, any accompanying documents or the proceeds of either.  For the purpose of this section, credits first given are first withdrawn.
+
+(3)  Receipt by a collecting bank of a final settlement for an item is a realization on its security interest in the item, accompanying documents, and proceeds.  So long as the bank does not receive final settlement for the item or give up possession of the item or possession or control of the accompanying documents for purposes other than collection, the security interest continues to that extent and is subject to Chapter 9a, Uniform Commercial Code - Secured Transactions, but:
+
+(a)  no security agreement is necessary to make the security interest enforceable, Subsection 70A-9a-203(2)(c)(i);
+
 (b)  no filing is required to perfect the security interest; and
-(c)  the security interest has priority over conflicting perfected security
-interests in the item, accompanying documents, or proceeds.
+
+(c)  the security interest has priority over conflicting perfected security interests in the item, accompanying documents, or proceeds.
+

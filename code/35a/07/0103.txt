@@ -1,10 +1,8 @@
 35A-7-103.   Establishment of registry.
-(1) (a)  The Department of Workforce Services, through contract with the
-Office of Recovery Services, shall establish a centralized new hire registry
-database for the purpose of receiving and maintaining information on newly
-hired or rehired employees.
-(b)  The database shall be formatted to conduct automatic comparisons as
-described in Section 35A-7-105 by October 1, 1997.
-(2)  Information in the registry will be used to match the employee's
-employment records with other databases to allow for the rapid implementation
-of support orders and verification of employment status.
+
+(1) (a)  The Department of Workforce Services, through contract with the Office of Recovery Services, shall establish a centralized new hire registry database for the purpose of receiving and maintaining information on newly hired or rehired employees.
+
+(b)  The database shall be formatted to conduct automatic comparisons as described in Section 35A-7-105 by October 1, 1997.
+
+(2)  Information in the registry will be used to match the employee's employment records with other databases to allow for the rapid implementation of support orders and verification of employment status.
+

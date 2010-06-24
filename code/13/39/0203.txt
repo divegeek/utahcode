@@ -1,23 +1,24 @@
 13-39-203.   Rulemaking authority.
-In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
-the division shall make rules to establish procedures under which:
-(1) (a)  a person may register a contact point with the division under Section
-13-39-201, including:
+
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division shall make rules to establish procedures under which:
+
+(1) (a)  a person may register a contact point with the division under Section 13-39-201, including:
+
 (i)  the information necessary to register an instant message identity; and
-(ii)  for purposes of Subsection 13-39-102(1)(b)(iv), an electronic address
-that is similar to a contact point listed in Subsection 13-39-102(1); and
-(b)  a school or other institution that primarily serves minors may register
-its domain name with the division under Section 13-39-201;
+
+(ii)  for purposes of Subsection 13-39-102(1)(b)(iv), an electronic address that is similar to a contact point listed in Subsection 13-39-102(1); and
+
+(b)  a school or other institution that primarily serves minors may register its domain name with the division under Section 13-39-201;
+
 (2)  the division shall:
-(a)  provide a mechanism under which a person described in Subsection
-13-39-201(4) may verify compliance with the registry to remove registered
-contact points from the person's communications; and
-(b)  establish the mechanism described in Subsection (2)(a) in a manner that
-protects the privacy and security of a contact point registered with the
-division under Section 13-39-201; and
+
+(a)  provide a mechanism under which a person described in Subsection 13-39-201(4) may verify compliance with the registry to remove registered contact points from the person's communications; and
+
+(b)  establish the mechanism described in Subsection (2)(a) in a manner that protects the privacy and security of a contact point registered with the division under Section 13-39-201; and
+
 (3)  the division may:
-(a)  implement a program offering discounted fees to a sender who meets
-enhanced security conditions established and verified by the division, the
-third party registry provider, or a designee; and
-(b)  allow the third party registry provider to assist in any public or
-industry awareness campaign promoting the registry.
+
+(a)  implement a program offering discounted fees to a sender who meets enhanced security conditions established and verified by the division, the third party registry provider, or a designee; and
+
+(b)  allow the third party registry provider to assist in any public or industry awareness campaign promoting the registry.
+

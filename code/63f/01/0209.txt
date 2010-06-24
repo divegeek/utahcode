@@ -1,36 +1,26 @@
-63F-1-209.   Delegation of department staff to executive branch agencies --
-Prohibition against executive branch agency information technology staff.
-(1) (a)  The chief information officer shall assign department staff to serve
-an agency in-house if the chief information officer and the executive branch
-agency director jointly determine it is appropriate to provide information
-technology services to:
+63F-1-209.   Delegation of department staff to executive branch agencies -- Prohibition against executive branch agency information technology staff.
+
+(1) (a)  The chief information officer shall assign department staff to serve an agency in-house if the chief information officer and the executive branch agency director jointly determine it is appropriate to provide information technology services to:
+
 (i)  the agency's unique mission critical functions and applications;
-(ii)  the agency's participation in and use of statewide enterprise
-architecture under the Division of Enterprise Technology; and
-(iii)  the agency's use of coordinated technology services with other agencies
-that share similar characteristics with the agency under the Division of
-Integrated Technology.
-(b) (i)  An agency may request the chief information officer to assign in-
-house staff support from the department.
-(ii)  The chief information officer shall respond to the agency's request for
-in-house staff support in accordance with Subsection (1)(a).
-(c)  The department shall enter into service agreements with an agency when
-department staff is assigned in-house to the agency under the provisions of
-this section.
-(d)  An agency that receives in-house staff support assigned from the
-department under the provision of this section is responsible for paying the
-rates charged by the department for that staff as established under Section
-63F-1-301.
-(2) (a)  After July 1, 2006, an executive branch agency may not create a full-
-time equivalent position or part-time position, or request an appropriation to
-fund a full-time equivalent position or part-time position under the
-provisions of Section 63J-1-201 for the purpose of providing information
-technology services to the agency unless:
-(i)  the chief information officer has approved a delegation under Section
-63F-1-208; and
-(ii)  the Division of Agency Services conducts an audit under Section
-63F-1-604 and finds that the delegation of information technology services to
-the agency meets the requirements of Section 63F-1-208.
-(b)  The prohibition against a request for appropriation under Subsection
-(2)(a) does not apply to a request for appropriation needed to pay rates
-imposed under Subsection (1)(d).
+
+(ii)  the agency's participation in and use of statewide enterprise architecture under the Division of Enterprise Technology; and
+
+(iii)  the agency's use of coordinated technology services with other agencies that share similar characteristics with the agency under the Division of Integrated Technology.
+
+(b) (i)  An agency may request the chief information officer to assign in-house staff support from the department.
+
+(ii)  The chief information officer shall respond to the agency's request for in-house staff support in accordance with Subsection (1)(a).
+
+(c)  The department shall enter into service agreements with an agency when department staff is assigned in-house to the agency under the provisions of this section.
+
+(d)  An agency that receives in-house staff support assigned from the department under the provision of this section is responsible for paying the rates charged by the department for that staff as established under Section 63F-1-301.
+
+(2) (a)  After July 1, 2006, an executive branch agency may not create a full-time equivalent position or part-time position, or request an appropriation to fund a full-time equivalent position or part-time position under the provisions of Section 63J-1-201 for the purpose of providing information technology services to the agency unless:
+
+(i)  the chief information officer has approved a delegation under Section 63F-1-208; and
+
+(ii)  the Division of Agency Services conducts an audit under Section 63F-1-604 and finds that the delegation of information technology services to the agency meets the requirements of Section 63F-1-208.
+
+(b)  The prohibition against a request for appropriation under Subsection (2)(a) does not apply to a request for appropriation needed to pay rates imposed under Subsection (1)(d).
+

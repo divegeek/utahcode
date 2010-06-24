@@ -1,36 +1,50 @@
 63M-1-402.   Definitions.
+
 As used in this part:
+
 (1)  "Business entity" means an entity:
+
 (a)  including a claimant, estate, or trust; and
+
 (b)  under which business is conducted or transacted.
+
 (2) (a)  "Claimant" means a resident or nonresident person that has:
+
 (i)  Utah taxable income as defined in Section 59-7-101; or
-(ii)  state taxable income under Title 59, Chapter 10, Part 1, Determination
-and Reporting of Tax Liability or Information.
+
+(ii)  state taxable income under Title 59, Chapter 10, Part 1, Determination and Reporting of Tax Liability or Information.
+
 (b)  "Claimant" does not include an estate or trust.
-(3)  "County applicant" means the governing authority of a county that meets
-the requirements for designation as an enterprise zone under Section
-63M-1-404.
-(4)  "Estate" means a nonresident estate or a resident estate that has state
-taxable income under Title 59, Chapter 10, Part 2, Trusts and Estates.
-(5)  "Municipal applicant" means the governing authority of a city or town
-that meets the requirements for designation as an enterprise zone under
-Section 63M-1-404.
-(6)  "Nonrefundable tax credit" or "tax credit" means a tax credit that a
-claimant, estate, or trust may:
+
+(3)  "County applicant" means the governing authority of a county that meets the requirements for designation as an enterprise zone under Section 63M-1-404.
+
+(4)  "Estate" means a nonresident estate or a resident estate that has state taxable income under Title 59, Chapter 10, Part 2, Trusts and Estates.
+
+(5)  "Municipal applicant" means the governing authority of a city or town that meets the requirements for designation as an enterprise zone under Section 63M-1-404.
+
+(6)  "Nonrefundable tax credit" or "tax credit" means a tax credit that a claimant, estate, or trust may:
+
 (a)  claim:
+
 (i)  as provided by statute; and
-(ii)  in an amount that does not exceed the claimant's, estate's, or trust's
-tax liability for a taxable year under:
+
+(ii)  in an amount that does not exceed the claimant's, estate's, or trust's tax liability for a taxable year under:
+
 (A)  Title 59, Chapter 7, Corporate Franchise and Income Taxes; or
+
 (B)  Title 59, Chapter 10, Individual Income Tax Act; and
+
 (b)  carry forward or carry back:
+
 (i)  if allowed by statute; and
-(ii)  to the extent that the amount of the tax credit exceeds the claimant's,
-estate's, or trust's tax liability for a taxable year under:
+
+(ii)  to the extent that the amount of the tax credit exceeds the claimant's, estate's, or trust's tax liability for a taxable year under:
+
 (A)  Title 59, Chapter 7, Corporate Franchise and Income Taxes; or
+
 (B)  Title 59, Chapter 10, Individual Income Tax Act.
-(7)  "Tax incentives" or "tax benefits" means the nonrefundable tax credits
-described in Section 63M-1-413.
-(8)  "Trust" means a nonresident trust or a resident trust that has state
-taxable income under Title 59, Chapter 10, Part 2, Trusts and Estates.
+
+(7)  "Tax incentives" or "tax benefits" means the nonrefundable tax credits described in Section 63M-1-413.
+
+(8)  "Trust" means a nonresident trust or a resident trust that has state taxable income under Title 59, Chapter 10, Part 2, Trusts and Estates.
+

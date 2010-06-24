@@ -1,30 +1,20 @@
 31A-25-305.   Fiduciary requirements for third party administrators.
-(1)  All money received by a third party administrator in that capacity shall
-be held by the third party administrator as a fiduciary.  The money shall be
-paid in a timely manner to the persons entitled to it.  While any money is
-being held by the third party administrator, it shall be deposited promptly in
-one or more fiduciary bank accounts maintained by the third party
-administrator pursuant to any rules the commissioner adopts to protect the
-integrity of the funds.
-(2)  If premiums deposited in a fiduciary account have been collected on
-behalf of more than one insurer or more than one class of insureds, the third
-party administrator shall keep records clearly recording the deposits and
-withdrawals from the account by or for the benefit of persons beneficially
-entitled to them, if there are not separate accounts for that purpose.  The
-third party administrator shall furnish the insurer or policyholder with
-copies of the records pertaining to deposits and withdrawals on behalf of the
-insurer or policyholder.
-(3)  The third party administrator may not pay any claim by withdrawals from a
-fiduciary account.  Withdrawals from the account may be made as provided in
-the written agreement between the third party administrator and the insurer,
-or between the third party administrator and the policyholders, as required
-under this chapter, for the following:
+
+(1)  All money received by a third party administrator in that capacity shall be held by the third party administrator as a fiduciary.  The money shall be paid in a timely manner to the persons entitled to it.  While any money is being held by the third party administrator, it shall be deposited promptly in one or more fiduciary bank accounts maintained by the third party administrator pursuant to any rules the commissioner adopts to protect the integrity of the funds.
+
+(2)  If premiums deposited in a fiduciary account have been collected on behalf of more than one insurer or more than one class of insureds, the third party administrator shall keep records clearly recording the deposits and withdrawals from the account by or for the benefit of persons beneficially entitled to them, if there are not separate accounts for that purpose.  The third party administrator shall furnish the insurer or policyholder with copies of the records pertaining to deposits and withdrawals on behalf of the insurer or policyholder.
+
+(3)  The third party administrator may not pay any claim by withdrawals from a fiduciary account.  Withdrawals from the account may be made as provided in the written agreement between the third party administrator and the insurer, or between the third party administrator and the policyholders, as required under this chapter, for the following:
+
 (a)  remittance to an insurer entitled to the remittance;
+
 (b)  deposit in an account maintained in the name of the insurer;
-(c)  transfer to and deposit in a claims-paying account, with claims to be
-paid as provided by Section 31A-25-306;
-(d)  payment to a group policyholder for remittance to the insurer entitled to
-the remittance;
-(e)  payment to the third party administrator of its commission, fees, or
-charges; or
+
+(c)  transfer to and deposit in a claims-paying account, with claims to be paid as provided by Section 31A-25-306;
+
+(d)  payment to a group policyholder for remittance to the insurer entitled to the remittance;
+
+(e)  payment to the third party administrator of its commission, fees, or charges; or
+
 (f)  remittance of return premiums to the persons entitled to them.
+

@@ -1,190 +1,200 @@
-73-1-4.   Reversion to the public by abandonment or forfeiture for nonuse
-within seven years -- Nonuse application.
+73-1-4.   Reversion to the public by abandonment or forfeiture for nonuse within seven years -- Nonuse application.
+
 (1)  As used in this section:
+
 (a)  "Public entity" means:
+
 (i)  the United States;
+
 (ii)  an agency of the United States;
+
 (iii)  the state;
+
 (iv)  a state agency;
+
 (v)  a political subdivision of the state; or
+
 (vi)  an agency of a political subdivision of the state.
+
 (b)  "Public water supplier" means an entity that:
-(i)  supplies water, directly or indirectly, to the public for municipal,
-domestic, or industrial use; and
+
+(i)  supplies water, directly or indirectly, to the public for municipal, domestic, or industrial use; and
+
 (ii)  is:
+
 (A)  a public entity;
-(B)  a water corporation, as defined in Section 54-2-1, that is regulated by
-the Public Service Commission;
+
+(B)  a water corporation, as defined in Section 54-2-1, that is regulated by the Public Service Commission;
+
 (C)  a community water system:
+
 (I)  that:
-(Aa)  supplies water to at least 100 service connections used by year-round
-residents; or
+
+(Aa)  supplies water to at least 100 service connections used by year-round residents; or
+
 (Bb)  regularly serves at least 200 year-round residents; and
+
 (II)  whose voting members:
+
 (Aa)  own a share in the community water system;
-(Bb)  receive water from the community water system in proportion to the
-member's share in the community water system; and
-(Cc)  pay the rate set by the community water system based on the water the
-member receives; or
+
+(Bb)  receive water from the community water system in proportion to the member's share in the community water system; and
+
+(Cc)  pay the rate set by the community water system based on the water the member receives; or
+
 (D)  a water users association:
-(I)  in which one or more public entities own at least 70% of the outstanding
-shares; and
-(II)  that is a local sponsor of a water project constructed by the United
-States Bureau of Reclamation.
+
+(I)  in which one or more public entities own at least 70% of the outstanding shares; and
+
+(II)  that is a local sponsor of a water project constructed by the United States Bureau of Reclamation.
+
 (c)  "Shareholder" is as defined in Section 73-3-3.5.
+
 (d)  "Water company" is as defined in Section 73-3-3.5.
-(e)  "Water supply entity" means an entity that supplies water as a utility
-service or for irrigation purposes and is also:
-(i)  a municipality, water conservancy district, metropolitan water district,
-irrigation district, or other public agency;
+
+(e)  "Water supply entity" means an entity that supplies water as a utility service or for irrigation purposes and is also:
+
+(i)  a municipality, water conservancy district, metropolitan water district, irrigation district, or other public agency;
+
 (ii)  a water company regulated by the Public Service Commission; or
+
 (iii)  any other owner of a community water system.
-(2) (a)  When an appropriator or the appropriator’s successor in interest
-abandons or ceases to use all or a portion of a water right for a period of
-seven years, the water right or the unused portion of that water right is
-subject to forfeiture in accordance with Subsection (2)(c), unless the
-appropriator or the appropriator’s successor in interest files a nonuse
-application with the state engineer.
-(b) (i)  A nonuse application may be filed on all or a portion of the water
-right, including water rights held by a water company.
-(ii)  After giving written notice to the water company, a shareholder may file
-a nonuse application with the state engineer on the water represented by the
-stock.
-(c) (i)  A water right or a portion of the water right may not be forfeited
-unless a judicial action to declare the right forfeited is commenced within 15
-years from the end of the latest period of nonuse of at least seven years.
-(ii)  If forfeiture is asserted in an action for general determination of
-rights in conformance with the provisions of Chapter 4, Determination of Water
-Rights, the 15-year limitation period shall commence to run back in time from
-the date the state engineer’s proposed determination of rights is served
-upon each claimant.
-(iii)  A decree entered in an action for general determination of rights under
-Chapter 4, Determination of Water Rights, shall bar any claim of forfeiture
-for prior nonuse against any right determined to be valid in the decree, but
-does not bar a claim for periods of nonuse that occur after the entry of the
-decree.
-(iv)  A proposed determination by the state engineer in an action for general
-determination of rights under Chapter 4, Determination of Water Rights, bars a
-claim of forfeiture for prior nonuse against any right proposed to be valid,
-unless a timely objection has been filed within the time allowed in Chapter 4,
-Determination of Water Rights.
-(v)  If in a judicial action a court declares a water right forfeited, on the
-date on which the water right is forfeited:
+
+(2) (a)  When an appropriator or the appropriator’s successor in interest abandons or ceases to use all or a portion of a water right for a period of seven years, the water right or the unused portion of that water right is subject to forfeiture in accordance with Subsection (2)(c), unless the appropriator or the appropriator’s successor in interest files a nonuse application with the state engineer.
+
+(b) (i)  A nonuse application may be filed on all or a portion of the water right, including water rights held by a water company.
+
+(ii)  After giving written notice to the water company, a shareholder may file a nonuse application with the state engineer on the water represented by the stock.
+
+(c) (i)  A water right or a portion of the water right may not be forfeited unless a judicial action to declare the right forfeited is commenced within 15 years from the end of the latest period of nonuse of at least seven years.
+
+(ii)  If forfeiture is asserted in an action for general determination of rights in conformance with the provisions of Chapter 4, Determination of Water Rights, the 15-year limitation period shall commence to run back in time from the date the state engineer’s proposed determination of rights is served upon each claimant.
+
+(iii)  A decree entered in an action for general determination of rights under Chapter 4, Determination of Water Rights, shall bar any claim of forfeiture for prior nonuse against any right determined to be valid in the decree, but does not bar a claim for periods of nonuse that occur after the entry of the decree.
+
+(iv)  A proposed determination by the state engineer in an action for general determination of rights under Chapter 4, Determination of Water Rights, bars a claim of forfeiture for prior nonuse against any right proposed to be valid, unless a timely objection has been filed within the time allowed in Chapter 4, Determination of Water Rights.
+
+(v)  If in a judicial action a court declares a water right forfeited, on the date on which the water right is forfeited:
+
 (A)  the right to use the water reverts to the public; and
+
 (B)  the water made available by the forfeiture:
-(I)  first, satisfies other water rights in the hydrologic system in order of
-priority date; and
+
+(I)  first, satisfies other water rights in the hydrologic system in order of priority date; and
+
 (II)  second, may be appropriated as provided in this title.
-(d)  This section applies whether the unused or abandoned water or a portion
-of the water is:
+
+(d)  This section applies whether the unused or abandoned water or a portion of the water is:
+
 (i)  permitted to run to waste; or
-(ii)  used by others without right with the knowledge of the water right
-holder.
+
+(ii)  used by others without right with the knowledge of the water right holder.
+
 (e)  This section does not apply to:
-(i)  the use of water according to a lease or other agreement with the
-appropriator or the appropriator's successor in interest;
-(ii)  a water right if its place of use is contracted under an approved state
-agreement or federal conservation fallowing program;
-(iii)  those periods of time when a surface water or groundwater source fails
-to yield sufficient water to satisfy the water right;
-(iv)  a water right when water is unavailable because of the water right's
-priority date;
-(v)  a water right to store water in a surface reservoir or an aquifer, in
-accordance with Title 73, Chapter 3b, Groundwater Recharge and Recovery Act,
-if:
+
+(i)  the use of water according to a lease or other agreement with the appropriator or the appropriator's successor in interest;
+
+(ii)  a water right if its place of use is contracted under an approved state agreement or federal conservation fallowing program;
+
+(iii)  those periods of time when a surface water or groundwater source fails to yield sufficient water to satisfy the water right;
+
+(iv)  a water right when water is unavailable because of the water right's priority date;
+
+(v)  a water right to store water in a surface reservoir or an aquifer, in accordance with Title 73, Chapter 3b, Groundwater Recharge and Recovery Act, if:
+
 (A)  the water is stored for present or future use; or
-(B)  storage is limited by a safety, regulatory, or engineering restraint that
-the appropriator or the appropriator's successor in interest cannot reasonably
-correct;
-(vi)  a water right if a water user has beneficially used substantially all of
-the water right within a seven-year period, provided that this exemption does
-not apply to the adjudication of a water right in a general determination of
-water rights under Chapter 4, Determination of Water Rights;
+
+(B)  storage is limited by a safety, regulatory, or engineering restraint that the appropriator or the appropriator's successor in interest cannot reasonably correct;
+
+(vi)  a water right if a water user has beneficially used substantially all of the water right within a seven-year period, provided that this exemption does not apply to the adjudication of a water right in a general determination of water rights under Chapter 4, Determination of Water Rights;
+
 (vii)  except as provided by Subsection (2)(g), a water right:
+
 (A) (I)  owned by a public water supplier;
-(II)  represented by a public water supplier's ownership interest in a water
-company; or
+
+(II)  represented by a public water supplier's ownership interest in a water company; or
+
 (III)  to which a public water supplier owns the right of use; and
-(B)  conserved or held for the reasonable future water requirement of the
-public, which is determined according to Subsection (2)(f);
-(viii)  a supplemental water right during a period of time when another water
-right available to the appropriator or the appropriator's successor in
-interest provides sufficient water so as to not require use of the
-supplemental water right; or
-(ix)  a water right subject to an approved change application where the
-applicant is diligently pursuing certification.
-(f) (i)  The reasonable future water requirement of the public is the amount
-of water needed in the next 40 years by the persons within the public water
-supplier's projected service area based on projected population growth or
-other water use demand.
-(ii)  For purposes of Subsection (2)(f)(i), a community water system's
-projected service area:
-(A)  is the area served by the community water system's distribution
-facilities; and
-(B)  expands as the community water system expands the distribution facilities
-in accordance with Title 19, Chapter 4, Safe Drinking Water Act.
-(g)  For a water right acquired by a public water supplier on or after May 5,
-2008, Subsection (2)(e)(vii) applies if:
-(i)  the public water supplier submits a change application under Section
-73-3-3; and
+
+(B)  conserved or held for the reasonable future water requirement of the public, which is determined according to Subsection (2)(f);
+
+(viii)  a supplemental water right during a period of time when another water right available to the appropriator or the appropriator's successor in interest provides sufficient water so as to not require use of the supplemental water right; or
+
+(ix)  a water right subject to an approved change application where the applicant is diligently pursuing certification.
+
+(f) (i)  The reasonable future water requirement of the public is the amount of water needed in the next 40 years by the persons within the public water supplier's projected service area based on projected population growth or other water use demand.
+
+(ii)  For purposes of Subsection (2)(f)(i), a community water system's projected service area:
+
+(A)  is the area served by the community water system's distribution facilities; and
+
+(B)  expands as the community water system expands the distribution facilities in accordance with Title 19, Chapter 4, Safe Drinking Water Act.
+
+(g)  For a water right acquired by a public water supplier on or after May 5, 2008, Subsection (2)(e)(vii) applies if:
+
+(i)  the public water supplier submits a change application under Section 73-3-3; and
+
 (ii)  the state engineer approves the change application.
-(3) (a)  The state engineer shall furnish a nonuse application form requiring
-the following information:
+
+(3) (a)  The state engineer shall furnish a nonuse application form requiring the following information:
+
 (i)  the name and address of the applicant;
-(ii)  a description of the water right or a portion of the water right,
-including the point of diversion, place of use, and priority;
+
+(ii)  a description of the water right or a portion of the water right, including the point of diversion, place of use, and priority;
+
 (iii)  the quantity of water;
+
 (iv)  the period of use;
+
 (v)  the extension of time applied for;
+
 (vi)  a statement of the reason for the nonuse of the water; and
+
 (vii)  any other information that the state engineer requires.
-(b) (i)  Filing the nonuse application extends the time during which nonuse
-may continue until the state engineer issues an order on the nonuse
-application.
-(ii)  Approval of a nonuse application protects a water right from forfeiture
-for nonuse from the application's filing date until the approved application's
-expiration date.
-(c) (i)  Upon receipt of the application, the state engineer shall publish a
-notice of the application once a week for two successive weeks:
-(A)  in a newspaper of general circulation in the county in which the source
-of the water supply is located and where the water is to be used; and
+
+(b) (i)  Filing the nonuse application extends the time during which nonuse may continue until the state engineer issues an order on the nonuse application.
+
+(ii)  Approval of a nonuse application protects a water right from forfeiture for nonuse from the application's filing date until the approved application's expiration date.
+
+(c) (i)  Upon receipt of the application, the state engineer shall publish a notice of the application once a week for two successive weeks:
+
+(A)  in a newspaper of general circulation in the county in which the source of the water supply is located and where the water is to be used; and
+
 (B)  as required in Section 45-1-101.
+
 (ii)  The notice shall:
+
 (A)  state that an application has been made; and
-(B)  specify where the interested party may obtain additional information
-relating to the application.
-(d)  Any interested person may file a written protest with the state engineer
-against the granting of the application:
-(i)  within 20 days after the notice is published, if the adjudicative
-proceeding is informal; and
-(ii)  within 30 days after the notice is published, if the adjudicative
-proceeding is formal.
-(e)  In any proceedings to determine whether the nonuse application should be
-approved or rejected, the state engineer shall follow the procedures and
-requirements of Title 63G, Chapter 4, Administrative Procedures Act.
-(f)  After further investigation, the state engineer may approve or reject the
-application.
-(4) (a)  The state engineer shall grant a nonuse application on all or a
-portion of a water right for a period of time not exceeding seven years if the
-applicant shows a reasonable cause for nonuse.
+
+(B)  specify where the interested party may obtain additional information relating to the application.
+
+(d)  Any interested person may file a written protest with the state engineer against the granting of the application:
+
+(i)  within 20 days after the notice is published, if the adjudicative proceeding is informal; and
+
+(ii)  within 30 days after the notice is published, if the adjudicative proceeding is formal.
+
+(e)  In any proceedings to determine whether the nonuse application should be approved or rejected, the state engineer shall follow the procedures and requirements of Title 63G, Chapter 4, Administrative Procedures Act.
+
+(f)  After further investigation, the state engineer may approve or reject the application.
+
+(4) (a)  The state engineer shall grant a nonuse application on all or a portion of a water right for a period of time not exceeding seven years if the applicant shows a reasonable cause for nonuse.
+
 (b)  A reasonable cause for nonuse includes:
+
 (i)  a demonstrable financial hardship or economic depression;
-(ii)  the initiation of water conservation or efficiency practices, or the
-operation of a groundwater recharge recovery program approved by the state
-engineer;
+
+(ii)  the initiation of water conservation or efficiency practices, or the operation of a groundwater recharge recovery program approved by the state engineer;
+
 (iii)  operation of legal proceedings;
-(iv)  the holding of a water right or stock in a mutual water company without
-use by any water supply entity to meet the reasonable future requirements of
-the public;
-(v)  situations where, in the opinion of the state engineer, the nonuse would
-assist in implementing an existing, approved water management plan; or
-(vi)  the loss of capacity caused by deterioration of the water supply or
-delivery equipment if the applicant submits, with the application, a specific
-plan to resume full use of the water right by replacing, restoring, or
-improving the equipment.
-(5) (a)  Sixty days before the expiration of a nonuse application, the state
-engineer shall notify the applicant by mail or by any form of electronic
-communication through which receipt is verifiable, of the date when the nonuse
-application will expire.
-(b)  An applicant may file a subsequent nonuse application in accordance with
-this section.
+
+(iv)  the holding of a water right or stock in a mutual water company without use by any water supply entity to meet the reasonable future requirements of the public;
+
+(v)  situations where, in the opinion of the state engineer, the nonuse would assist in implementing an existing, approved water management plan; or
+
+(vi)  the loss of capacity caused by deterioration of the water supply or delivery equipment if the applicant submits, with the application, a specific plan to resume full use of the water right by replacing, restoring, or improving the equipment.
+
+(5) (a)  Sixty days before the expiration of a nonuse application, the state engineer shall notify the applicant by mail or by any form of electronic communication through which receipt is verifiable, of the date when the nonuse application will expire.
+
+(b)  An applicant may file a subsequent nonuse application in accordance with this section.
+

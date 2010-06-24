@@ -1,16 +1,14 @@
 16-10a-303.   Ultra vires.
-(1)  Except as provided in Subsection (2), the validity of corporate action
-may not be challenged on the ground that the corporation lacks or lacked power
-to act.
+
+(1)  Except as provided in Subsection (2), the validity of corporate action may not be challenged on the ground that the corporation lacks or lacked power to act.
+
 (2)  A corporation's power to act may be challenged:
-(a)  in a proceeding by a shareholder against the corporation to enjoin the
-act;
-(b)  in a proceeding by the corporation, directly, derivatively, or through a
-receiver, trustee, or other legal representative, against an incumbent or
-former director, officer, employee, or agent of the corporation; or
+
+(a)  in a proceeding by a shareholder against the corporation to enjoin the act;
+
+(b)  in a proceeding by the corporation, directly, derivatively, or through a receiver, trustee, or other legal representative, against an incumbent or former director, officer, employee, or agent of the corporation; or
+
 (c)  in a proceeding by the attorney general under Section 16-10a-1430.
-(3)  In a shareholder's proceeding under Subsection (2)(a) to enjoin an
-unauthorized corporate act, the court may enjoin or set aside the act, if
-equitable and if all affected persons are parties to the proceeding, and may
-award damages for loss, other than anticipated profits, suffered by the
-corporation or another party because of enjoining the unauthorized act.
+
+(3)  In a shareholder's proceeding under Subsection (2)(a) to enjoin an unauthorized corporate act, the court may enjoin or set aside the act, if equitable and if all affected persons are parties to the proceeding, and may award damages for loss, other than anticipated profits, suffered by the corporation or another party because of enjoining the unauthorized act.
+

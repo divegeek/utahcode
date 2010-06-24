@@ -1,45 +1,28 @@
 54-17-303.   Cost recovery.
-(1) (a)  Except as otherwise provided in this section, if the commission
-approves a significant energy resource decision under Section 54-17-302, the
-commission shall, in a general rate case or other appropriate commission
-proceeding, include in the affected electrical utility's retail electric rates
-the state's share of costs:
+
+(1) (a)  Except as otherwise provided in this section, if the commission approves a significant energy resource decision under Section 54-17-302, the commission shall, in a general rate case or other appropriate commission proceeding, include in the affected electrical utility's retail electric rates the state's share of costs:
+
 (i)  relevant to the proceeding;
-(ii)  incurred by the affected electrical utility in constructing or acquiring
-the approved significant energy resource; and
-(iii)  up to the projected costs specified in the commission's order issued
-under Section 54-17-302.
-(b) (i)  The commission shall, in a general rate case or other appropriate
-commission proceeding, include in the affected electrical utility's retail
-electric rates the state's share of the incremental cost relevant to the
-proceeding that were prudently incurred by the affected electrical utility to
-identify, evaluate, and submit a reasonable benchmark option, whether or not
-the benchmark option is selected or becomes operational.
-(ii)  A recoverable cost under Subsection (1)(b)(i) shall be included in the
-affected electrical utility's project costs for the purpose of evaluating the
-project's cost-effectiveness.
-(iii)  A recoverable cost under Subsection (1)(b)(i) may not be added to the
-cost or otherwise considered in the evaluation of a project proposed by any
-person other than the affected electrical utility for the purpose of
-evaluating that person's proposal.
-(c)  Except to the extent that the commission enters an order under Section
-54-17-304, an increase from the projected costs specified in the commission's
-order issued under Section 54-17-302 shall be subject to review by the
-commission as part of a rate hearing under Section 54-7-12.
-(2) (a)  Subsequent to the commission issuing an order described in Subsection
-(2)(a)(i) or (ii),  the commission may disallow some or all costs incurred in
-connection with an approved significant energy resource decision if the
-commission finds that an affected electrical utility's actions in implementing
-an approved significant energy resource decision are not prudent because of
-new information or changed circumstances that occur after:
-(i)  the commission's approval of the significant energy resource decisions
-under Section 54-17-302; or
+
+(ii)  incurred by the affected electrical utility in constructing or acquiring the approved significant energy resource; and
+
+(iii)  up to the projected costs specified in the commission's order issued under Section 54-17-302.
+
+(b) (i)  The commission shall, in a general rate case or other appropriate commission proceeding, include in the affected electrical utility's retail electric rates the state's share of the incremental cost relevant to the proceeding that were prudently incurred by the affected electrical utility to identify, evaluate, and submit a reasonable benchmark option, whether or not the benchmark option is selected or becomes operational.
+
+(ii)  A recoverable cost under Subsection (1)(b)(i) shall be included in the affected electrical utility's project costs for the purpose of evaluating the project's cost-effectiveness.
+
+(iii)  A recoverable cost under Subsection (1)(b)(i) may not be added to the cost or otherwise considered in the evaluation of a project proposed by any person other than the affected electrical utility for the purpose of evaluating that person's proposal.
+
+(c)  Except to the extent that the commission enters an order under Section 54-17-304, an increase from the projected costs specified in the commission's order issued under Section 54-17-302 shall be subject to review by the commission as part of a rate hearing under Section 54-7-12.
+
+(2) (a)  Subsequent to the commission issuing an order described in Subsection (2)(a)(i) or (ii),  the commission may disallow some or all costs incurred in connection with an approved significant energy resource decision if the commission finds that an affected electrical utility's actions in implementing an approved significant energy resource decision are not prudent because of new information or changed circumstances that occur after:
+
+(i)  the commission's approval of the significant energy resource decisions under Section 54-17-302; or
+
 (ii)  a commission order to proceed under Section 54-17-304.
-(b)  In making a determination of prudence under Subsection (2)(a), the
-commission shall use the standards identified in Section 54-4-4.
-(3)  Notwithstanding any other provision of this chapter, the commission may
-disallow some or all of the costs incurred by an affected electrical utility
-in connection with an approved significant energy resource decision upon a
-finding by the commission that the affected electrical utility is responsible
-for a material misrepresentation or concealment in connection with an approval
-process under this chapter.
+
+(b)  In making a determination of prudence under Subsection (2)(a), the commission shall use the standards identified in Section 54-4-4.
+
+(3)  Notwithstanding any other provision of this chapter, the commission may disallow some or all of the costs incurred by an affected electrical utility in connection with an approved significant energy resource decision upon a finding by the commission that the affected electrical utility is responsible for a material misrepresentation or concealment in connection with an approval process under this chapter.
+

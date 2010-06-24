@@ -1,19 +1,22 @@
 76-6-1001.   Definitions.
+
 As used in this part:
-(1)  "Key" means any instrument used by the postal service and postal
-customer, and which is designed to operate the lock on a mail receptacle.
-(2)  "Mail" means any letter, card, parcel, or other material, along with its
-contents, that:
+
+(1)  "Key" means any instrument used by the postal service and postal customer, and which is designed to operate the lock on a mail receptacle.
+
+(2)  "Mail" means any letter, card, parcel, or other material, along with its contents, that:
+
 (a)  has postage affixed by the postal customer or postal service;
+
 (b)  has been accepted for delivery by the postal service;
+
 (c)  the postal customer leaves for collection by the postal service; or
+
 (d)  the postal service delivers to the postal customer.
-(3)  "Mail receptacle" means a mail box, post office box, rural box, or any
-place intended or used by postal customers or the postal service for the
-collection or delivery of mail.
-(4)  "Postage" means a postal service stamp, permit imprint, meter strip, or
-other indication of either prepayment for postal service provided or
-authorization by the postal service for collection and delivery of mail.
-(5)  "Postal service" means the United States Postal Service and any motor
-carrier engaged in the business of collecting, transporting, and delivering
-mail.
+
+(3)  "Mail receptacle" means a mail box, post office box, rural box, or any place intended or used by postal customers or the postal service for the collection or delivery of mail.
+
+(4)  "Postage" means a postal service stamp, permit imprint, meter strip, or other indication of either prepayment for postal service provided or authorization by the postal service for collection and delivery of mail.
+
+(5)  "Postal service" means the United States Postal Service and any motor carrier engaged in the business of collecting, transporting, and delivering mail.
+

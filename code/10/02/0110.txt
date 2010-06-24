@@ -1,29 +1,20 @@
-10-2-110.    Processing of petition by county clerk -- Certification or
-rejection -- Processing priority.
-(1)  Within 45 days of the filing of a petition under Section 10-2-109, the
-county clerk shall:
-(a)  with the assistance of other county officers from whom the clerk requests
-assistance, determine whether the petition meets the requirements of Section
-10-2-109; and
-(b) (i)  if the clerk determines that the petition meets those requirements,
-certify the petition, deliver it to the county legislative body, and notify in
-writing the contact sponsor of the certification; or
-(ii)  if the clerk determines that the petition fails to meet any of those
-requirements, reject the petition and notify the contact sponsor in writing of
-the rejection and the reasons for the rejection.
-(2) (a)  If the county clerk rejects a petition under Subsection (1)(b)(ii),
-the petition may be modified to correct the deficiencies for which it was
-rejected and then refiled with the county clerk.
-(b)  A modified petition under Subsection (2)(a) may be filed at any time
-until 30 days after the county clerk notifies the contact sponsor under
-Subsection (1)(b)(ii), even though the modified petition is filed after the
-expiration of the deadline provided in Subsection 10-2-109(1).
-(c)  A signature on an incorporation petition under Section 10-2-109 may be
-used toward fulfilling the signature requirement of Subsection 10-2-109(2)(a)
-for the petition as modified under Subsection (2)(a).
-(3) (a)  Within 20 days of the county clerk's receipt of a modified petition
-under Subsection (2)(a), the county clerk shall follow the same procedure for
-the modified petition as provided under Subsection (1) for an original
-petition.
-(b)  If a county clerk rejects a modified petition under Subsection
-(1)(b)(ii), no further modification of that petition may be filed.
+10-2-110.    Processing of petition by county clerk -- Certification or rejection -- Processing priority.
+
+(1)  Within 45 days of the filing of a petition under Section 10-2-109, the county clerk shall:
+
+(a)  with the assistance of other county officers from whom the clerk requests assistance, determine whether the petition meets the requirements of Section 10-2-109; and
+
+(b) (i)  if the clerk determines that the petition meets those requirements, certify the petition, deliver it to the county legislative body, and notify in writing the contact sponsor of the certification; or
+
+(ii)  if the clerk determines that the petition fails to meet any of those requirements, reject the petition and notify the contact sponsor in writing of the rejection and the reasons for the rejection.
+
+(2) (a)  If the county clerk rejects a petition under Subsection (1)(b)(ii), the petition may be modified to correct the deficiencies for which it was rejected and then refiled with the county clerk.
+
+(b)  A modified petition under Subsection (2)(a) may be filed at any time until 30 days after the county clerk notifies the contact sponsor under Subsection (1)(b)(ii), even though the modified petition is filed after the expiration of the deadline provided in Subsection 10-2-109(1).
+
+(c)  A signature on an incorporation petition under Section 10-2-109 may be used toward fulfilling the signature requirement of Subsection 10-2-109(2)(a) for the petition as modified under Subsection (2)(a).
+
+(3) (a)  Within 20 days of the county clerk's receipt of a modified petition under Subsection (2)(a), the county clerk shall follow the same procedure for the modified petition as provided under Subsection (1) for an original petition.
+
+(b)  If a county clerk rejects a modified petition under Subsection (1)(b)(ii), no further modification of that petition may be filed.
+

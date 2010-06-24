@@ -1,29 +1,30 @@
-26-33a-109.   Exceptions to prohibition on disclosure of identifiable health
-data.
+26-33a-109.   Exceptions to prohibition on disclosure of identifiable health data.
+
 (1)  The committee may not disclose any identifiable health data unless:
+
 (a)  the individual has authorized the disclosure; or
+
 (b)  the disclosure complies with the provisions of this section.
-(2)  The committee shall consider the following when responding to a request
-for disclosure of information that may include identifiable health data:
-(a)  whether the request comes from a person after that person has received
-approval to do the specific research and statistical work from an
-institutional review board; and
-(b)  whether the requesting entity complies with the provisions of Subsection
-(3).
-(3)  A request for disclosure of information that may include identifiable
-health data shall:
+
+(2)  The committee shall consider the following when responding to a request for disclosure of information that may include identifiable health data:
+
+(a)  whether the request comes from a person after that person has received approval to do the specific research and statistical work from an institutional review board; and
+
+(b)  whether the requesting entity complies with the provisions of Subsection (3).
+
+(3)  A request for disclosure of information that may include identifiable health data shall:
+
 (a)  be for a specified period; or
-(b)  be solely for bona fide research and statistical purposes as determined
-in accordance with administrative rules adopted by the department, which shall
-require:
-(i)  the requesting entity to demonstrate to the department that the data is
-required for the research and statistical purposes proposed by the requesting
-entity; and
-(ii)  the requesting entity to enter into a written agreement satisfactory to
-the department to protect the data in accordance with this chapter or other
-applicable law.
-(4)  A person accessing identifiable health data pursuant to Subsection (3)
-may not further disclose the identifiable health data:
+
+(b)  be solely for bona fide research and statistical purposes as determined in accordance with administrative rules adopted by the department, which shall require:
+
+(i)  the requesting entity to demonstrate to the department that the data is required for the research and statistical purposes proposed by the requesting entity; and
+
+(ii)  the requesting entity to enter into a written agreement satisfactory to the department to protect the data in accordance with this chapter or other applicable law.
+
+(4)  A person accessing identifiable health data pursuant to Subsection (3) may not further disclose the identifiable health data:
+
 (a)  without prior approval of the department; and
-(b)  unless the identifiable health data is disclosed or identified by control
-number only.
+
+(b)  unless the identifiable health data is disclosed or identified by control number only.
+

@@ -1,6 +1,8 @@
 70A-9a-504.   Indication of collateral.
-A financing statement sufficiently indicates the collateral that it covers if
-the financing statement provides:
+
+A financing statement sufficiently indicates the collateral that it covers if the financing statement provides:
+
 (1)  a description of the collateral pursuant to Section 70A-9a-108; or
-(2)  an indication that the financing statement covers all assets or all
-personal property.
+
+(2)  an indication that the financing statement covers all assets or all personal property.
+

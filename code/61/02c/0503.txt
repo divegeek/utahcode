@@ -1,72 +1,84 @@
-61-2c-503.   Notice to division -- Judgment against mortgage licensee --
-Fraud, misrepresentation, or deceit -- Verified petition for order directing
-payment from fund -- Limitations and procedure.
+61-2c-503.   Notice to division -- Judgment against mortgage licensee -- Fraud, misrepresentation, or deceit -- Verified petition for order directing payment from fund -- Limitations and procedure.
+
 (1)  A person may bring a claim against the fund if:
+
 (a)  the person obtains a final judgment;
+
 (b)  the person complies with the requirements under this part;
-(c)  the person is not complicit in the fraud, misrepresentation, or deceit
-that is the basis of the claim; and
+
+(c)  the person is not complicit in the fraud, misrepresentation, or deceit that is the basis of the claim; and
+
 (d)  the final judgment that is the basis for the claim:
+
 (i)  has not been discharged in bankruptcy; and
-(ii)  when a bankruptcy proceeding is open or commenced during the pendency of
-the claim, the person obtains an order from the bankruptcy court declaring the
-final judgment and related debt to be nondischargeable.
-(2) (a)  A person may not bring a claim against the fund for money owed under
-a civil judgment unless, within 10 business days of the day on which the
-person brings the civil action that results in the civil judgment, the person
-sends to the division a signed notification alleging fraud, misrepresentation,
-or deceit.
-(b)  Within 30 calendar days of the day on which the division receives a
-notice under Subsection (1), the division may intervene in the action.
-(3) (a)  After obtaining a final judgment, to file a claim against the fund, a
-person shall:
-(i)  file a verified petition in the court where the final judgment is entered
-seeking an order directing payment from the fund of an amount equal to the
-uncollected actual damages owed under the final judgment that are unpaid;
-(ii)  serve a copy of the verified petition described in Subsection (3)(a)(i)
-on the division; and
-(iii)  file a copy of the affidavit of service of the verified petition with
-the court.
+
+(ii)  when a bankruptcy proceeding is open or commenced during the pendency of the claim, the person obtains an order from the bankruptcy court declaring the final judgment and related debt to be nondischargeable.
+
+(2) (a)  A person may not bring a claim against the fund for money owed under a civil judgment unless, within 10 business days of the day on which the person brings the civil action that results in the civil judgment, the person sends to the division a signed notification alleging fraud, misrepresentation, or deceit.
+
+(b)  Within 30 calendar days of the day on which the division receives a notice under Subsection (1), the division may intervene in the action.
+
+(3) (a)  After obtaining a final judgment, to file a claim against the fund, a person shall:
+
+(i)  file a verified petition in the court where the final judgment is entered seeking an order directing payment from the fund of an amount equal to the uncollected actual damages owed under the final judgment that are unpaid;
+
+(ii)  serve a copy of the verified petition described in Subsection (3)(a)(i) on the division; and
+
+(iii)  file a copy of the affidavit of service of the verified petition with the court.
+
 (b)  A recovery from the fund may not include:
+
 (i)  punitive damages;
+
 (ii)  attorney fees;
+
 (iii)  interest; or
+
 (iv)  court costs.
-(c)  Regardless of the number of claimants or number of loans involved in a
-transaction, the liability of the fund may not exceed:
+
+(c)  Regardless of the number of claimants or number of loans involved in a transaction, the liability of the fund may not exceed:
+
 (i)  $15,000 for a single transaction;
+
 (ii)  $45,000 for an individual licensee; or
+
 (iii)  $45,000 for an entity.
-(4)  A court shall conduct a hearing on a petition filed under Subsection (3)
-as scheduled by the court.
-(5)  Subject to Subsection (6), a court may order payment from the fund under
-this section only if the person who files the petition shows that the person:
+
+(4)  A court shall conduct a hearing on a petition filed under Subsection (3) as scheduled by the court.
+
+(5)  Subject to Subsection (6), a court may order payment from the fund under this section only if the person who files the petition shows that the person:
+
 (a)  is not:
+
 (i)  in the case of a civil judgment, the spouse of the judgment debtor;
-(ii)  in the case of a criminal judgment, the spouse of the criminal
-defendant; or
-(iii)  a personal representative of an individual described in Subsection
-(5)(a)(i) or (ii);
+
+(ii)  in the case of a criminal judgment, the spouse of the criminal defendant; or
+
+(iii)  a personal representative of an individual described in Subsection (5)(a)(i) or (ii);
+
 (b)  has complied with this chapter;
+
 (c)  is owed damages under a final judgment that:
+
 (i)  is issued by the court in the manner prescribed under this section; and
+
 (ii)  indicates the amount of the final judgment awarded;
-(d)  has proved the amount still owing on the final judgment on the day on
-which the petition is filed;
+
+(d)  has proved the amount still owing on the final judgment on the day on which the petition is filed;
+
 (e) (i) (A)  has a writ of execution issued upon the final judgment; and
-(B)  has received a return made by the officer executing the writ showing that
-no property subject to execution in satisfaction of the final judgment could
-be found; or
-(ii)  if execution is levied against the property of the judgment debtor or
-criminal defendant:
+
+(B)  has received a return made by the officer executing the writ showing that no property subject to execution in satisfaction of the final judgment could be found; or
+
+(ii)  if execution is levied against the property of the judgment debtor or criminal defendant:
+
 (A)  has not realized an amount sufficient to satisfy the final judgment; and
-(B)  is owed a balance on the final judgment after application of the amount
-realized;
-(f)  has made reasonable searches and inquiries to ascertain whether the
-judgment debtor or criminal defendant has any interest in property, real or
-personal, that may satisfy the final judgment; and
-(g)  has exercised reasonable diligence to secure payment of the final
-judgment from the assets of the judgment debtor or criminal defendant.
-(6)  If a person satisfies the court that it is not practicable for the person
-to comply with one or more of the requirements in Subsections (5)(e) through
-(g), the court may waive those requirements.
+
+(B)  is owed a balance on the final judgment after application of the amount realized;
+
+(f)  has made reasonable searches and inquiries to ascertain whether the judgment debtor or criminal defendant has any interest in property, real or personal, that may satisfy the final judgment; and
+
+(g)  has exercised reasonable diligence to secure payment of the final judgment from the assets of the judgment debtor or criminal defendant.
+
+(6)  If a person satisfies the court that it is not practicable for the person to comply with one or more of the requirements in Subsections (5)(e) through (g), the court may waive those requirements.
+

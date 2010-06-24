@@ -1,11 +1,12 @@
 70A-9a-110.   Security interests arising under Chapter 2 or 2a.
-A security interest arising under Section 70A-2-401 or 70A-2-505, or
-Subsection 70A-2-711(3) or 70A-2a-508(5) is subject to this chapter.  However,
-until the debtor obtains possession of the goods:
-(1)  the security interest is enforceable, even if Subsection 70A-9a-203(2)(c)
-has not been satisfied;
+
+A security interest arising under Section 70A-2-401 or 70A-2-505, or Subsection 70A-2-711(3) or 70A-2a-508(5) is subject to this chapter.  However, until the debtor obtains possession of the goods:
+
+(1)  the security interest is enforceable, even if Subsection 70A-9a-203(2)(c) has not been satisfied;
+
 (2)  filing is not required to perfect the security interest;
-(3)  the rights of the secured party after default by the debtor are governed
-by Chapter 2 or 2a; and
-(4)  the security interest has priority over a conflicting security interest
-created by the debtor.
+
+(3)  the rights of the secured party after default by the debtor are governed by Chapter 2 or 2a; and
+
+(4)  the security interest has priority over a conflicting security interest created by the debtor.
+

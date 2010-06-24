@@ -1,110 +1,32 @@
-7-2-9.   Conservatorship, receivership, or liquidation of institution --
-Appointment of receiver -- Review of actions.
-(1)  Upon taking possession of the institution, the commissioner may appoint a
-receiver to perform the duties of the commissioner.  Subject to any
-limitations, conditions, or requirements specified by the commissioner and
-approved by the court, a receiver shall have all the powers and duties of the
-commissioner under this chapter and the laws of this state to act as a
-conservator, receiver, or liquidator of the institution.  Actions of the
-commissioner in appointing a receiver shall be subject to review only as
-provided in Section 7-2-2.
-(2) (a)  If the deposits of the institution are to any extent insured by a
-federal deposit insurance agency, the commissioner may appoint that agency as
-receiver.  After receiving notice in writing of the acceptance of the
-appointment, the commissioner shall file a certificate of appointment in the
-commissioner's office and with the clerk of the district court.  After the
-filing of the certificate, the possession of all assets, business, and
-property of the institution is considered transferred from the institution and
-the commissioner to the agency, and title to all assets, business, and
-property of the institution is vested in the agency without the execution of
-any instruments of conveyance, assignment, transfer, or endorsement.
-(b)  If a federal deposit insurance agency accepts an appointment as receiver,
-it has all the powers and privileges provided by the laws of this state and
-the United States with respect to the conservatorship, receivership, or
-liquidation of an institution and the rights of its depositors, and other
-creditors, including authority to make an agreement for the purchase of assets
-and assumption of deposit and other liabilities by another depository
-institution or take other action authorized by Title 12 of the United States
-Code to maintain the stability of the banking system.  Such action by a
-federal deposit insurance agency may be taken upon approval by the court, with
-or without prior notice.  Such actions or agreements may be disapproved,
-amended, or rescinded only upon a finding by the court that the decisions or
-actions of the receiver are arbitrary, capricious, fraudulent, or contrary to
-law.  In the event of any conflict between state and federal law, including
-provisions for adjudicating claims against the institution or receiver, the
-receiver shall comply with the federal law and any resulting violation of
-state law does not by itself constitute grounds for the court to disapprove
-the actions of the receiver or impose any penalty for such violation.
-(c)  The commissioner or any receiver appointed by him shall possess all the
-rights and claims of the institution against any person whose breach of
-fiduciary duty or violations of the laws of this state or the United States
-applicable to depository institutions may have caused or contributed to a
-condition which resulted in any loss incurred by the institution or to its
-assets in the possession of the commissioner or receiver.  As used in this
-Subsection (2)(c), fiduciary duty includes those duties and standards
-applicable under statutes and laws of this state and the United States to a
-director, officer, or other party employed by or rendering professional
-services to a depository institution whose deposits are insured by a federal
-deposit insurance agency.  Upon taking possession of an institution, no person
-other than the commissioner or receiver shall have standing to assert any such
-right or claim of the institution, including its depositors, creditors, or
-shareholders unless the right or claim has been abandoned by the commissioner
-or receiver with approval of the court.  Any judgment based on the rights and
-claims of the commissioner or receiver shall have priority in payment from the
-assets of the judgment debtors.
-(d)  For the purposes of this section, the term "federal deposit insurance
-agency" shall include the Federal Deposit Insurance Corporation, the National
-Credit Union Administration and any departments thereof or successors thereto,
-and any other federal agency authorized by federal law to act as a
-conservator, receiver, and liquidator of a federally insured depository
-institution, including the Resolution Trust Corporation and any department
-thereof or successor thereto.
-(3)  The receiver may employ assistants, agents, accountants, and legal
-counsel.  If the receiver is not a federal deposit insurance agency, the
-compensation to be paid such assistants, agents, accountants, and legal
-counsel shall be approved by the commissioner.  All expenses incident to the
-receivership shall be paid out of the assets of the institution.  If a
-receiver is not a federal deposit insurance agency, the receiver and any
-assistants and agents shall provide bond or other security specified by the
-commissioner and approved by the court for the faithful discharge of all
-duties and responsibilities in connection with the receivership including the
-accounting for money received and paid.  The cost of the bond shall be paid
-from the assets of the institution.  Suit may be maintained on the bond by the
-commissioner or by any person injured by a breach of the condition of the
-bond.
-(4) (a)  Upon the appointment of a receiver for an institution in possession
-pursuant to this chapter, the commissioner and the department are exempt from
-liability or damages for any act or omission of any receiver appointed
-pursuant to this section.
-(b)  This section does not limit the right of the commissioner to prescribe
-and enforce rules regulating a receiver in carrying out its duties with
-respect to an institution subject to the jurisdiction of the department.
-(c)  Any act or omission of the commissioner or of any federal deposit
-insurance agency as a receiver appointed by him while acting pursuant to this
-chapter shall be deemed to be the exercise of a discretionary function within
-the meaning of Section 63G-7-301 of the laws of this state or Section 28
-U.S.C. 2680(a) of the laws of the United States.
-(5)  Actions, decisions, or agreements of a receiver under this chapter, other
-than allowance or disallowance of claims under Section 7-2-6, shall be subject
-to judicial review only as follows:
-(a)  A petition for review shall be filed with the court having jurisdiction
-under Section 7-2-2 not more than 90 days after the date the act, decision, or
-agreement became effective or its terms are filed with the court.
-(b)  The petition shall state in simple, concise, and direct terms the facts
-and principles of law upon which the petitioner claims the act, decision, or
-agreement of the receiver was or would be arbitrary, capricious, fraudulent,
-or contrary to law and how the petitioner is or may be damaged thereby.  The
-court shall dismiss any petition which fails to allege that the petitioner
-would be directly injured or damaged by the act, decision, or agreement which
-is the subject of the petition.  Rule 11 of the Utah Rules of Civil Procedure
-shall apply to all parties with respect to the allegations set forth in a
-petition or response.
-(c)  The receiver shall have 30 days after service of the petition within
-which to respond.
-(d)  All further proceedings are to be conducted in accordance with the Utah
-Rules of Civil Procedure.
-(6)  All notices required under this section shall be made in accordance with
-the Utah Rules of Civil Procedure and served upon the attorney general of the
-state of Utah, the commissioner of financial institutions, the receiver of the
-institution appointed under this chapter, and upon the designated
-representative of any party in interest who requests in writing such notice.
+7-2-9.   Conservatorship, receivership, or liquidation of institution -- Appointment of receiver -- Review of actions.
+
+(1)  Upon taking possession of the institution, the commissioner may appoint a receiver to perform the duties of the commissioner.  Subject to any limitations, conditions, or requirements specified by the commissioner and approved by the court, a receiver shall have all the powers and duties of the commissioner under this chapter and the laws of this state to act as a conservator, receiver, or liquidator of the institution.  Actions of the commissioner in appointing a receiver shall be subject to review only as provided in Section 7-2-2.
+
+(2) (a)  If the deposits of the institution are to any extent insured by a federal deposit insurance agency, the commissioner may appoint that agency as receiver.  After receiving notice in writing of the acceptance of the appointment, the commissioner shall file a certificate of appointment in the commissioner's office and with the clerk of the district court.  After the filing of the certificate, the possession of all assets, business, and property of the institution is considered transferred from the institution and the commissioner to the agency, and title to all assets, business, and property of the institution is vested in the agency without the execution of any instruments of conveyance, assignment, transfer, or endorsement.
+
+(b)  If a federal deposit insurance agency accepts an appointment as receiver, it has all the powers and privileges provided by the laws of this state and the United States with respect to the conservatorship, receivership, or liquidation of an institution and the rights of its depositors, and other creditors, including authority to make an agreement for the purchase of assets and assumption of deposit and other liabilities by another depository institution or take other action authorized by Title 12 of the United States Code to maintain the stability of the banking system.  Such action by a federal deposit insurance agency may be taken upon approval by the court, with or without prior notice.  Such actions or agreements may be disapproved, amended, or rescinded only upon a finding by the court that the decisions or actions of the receiver are arbitrary, capricious, fraudulent, or contrary to law.  In the event of any conflict between state and federal law, including provisions for adjudicating claims against the institution or receiver, the receiver shall comply with the federal law and any resulting violation of state law does not by itself constitute grounds for the court to disapprove the actions of the receiver or impose any penalty for such violation.
+
+(c)  The commissioner or any receiver appointed by him shall possess all the rights and claims of the institution against any person whose breach of fiduciary duty or violations of the laws of this state or the United States applicable to depository institutions may have caused or contributed to a condition which resulted in any loss incurred by the institution or to its assets in the possession of the commissioner or receiver.  As used in this Subsection (2)(c), fiduciary duty includes those duties and standards applicable under statutes and laws of this state and the United States to a director, officer, or other party employed by or rendering professional services to a depository institution whose deposits are insured by a federal deposit insurance agency.  Upon taking possession of an institution, no person other than the commissioner or receiver shall have standing to assert any such right or claim of the institution, including its depositors, creditors, or shareholders unless the right or claim has been abandoned by the commissioner or receiver with approval of the court.  Any judgment based on the rights and claims of the commissioner or receiver shall have priority in payment from the assets of the judgment debtors.
+
+(d)  For the purposes of this section, the term "federal deposit insurance agency" shall include the Federal Deposit Insurance Corporation, the National Credit Union Administration and any departments thereof or successors thereto, and any other federal agency authorized by federal law to act as a conservator, receiver, and liquidator of a federally insured depository institution, including the Resolution Trust Corporation and any department thereof or successor thereto.
+
+(3)  The receiver may employ assistants, agents, accountants, and legal counsel.  If the receiver is not a federal deposit insurance agency, the compensation to be paid such assistants, agents, accountants, and legal counsel shall be approved by the commissioner.  All expenses incident to the receivership shall be paid out of the assets of the institution.  If a receiver is not a federal deposit insurance agency, the receiver and any assistants and agents shall provide bond or other security specified by the commissioner and approved by the court for the faithful discharge of all duties and responsibilities in connection with the receivership including the accounting for money received and paid.  The cost of the bond shall be paid from the assets of the institution.  Suit may be maintained on the bond by the commissioner or by any person injured by a breach of the condition of the bond.
+
+(4) (a)  Upon the appointment of a receiver for an institution in possession pursuant to this chapter, the commissioner and the department are exempt from liability or damages for any act or omission of any receiver appointed pursuant to this section.
+
+(b)  This section does not limit the right of the commissioner to prescribe and enforce rules regulating a receiver in carrying out its duties with respect to an institution subject to the jurisdiction of the department.
+
+(c)  Any act or omission of the commissioner or of any federal deposit insurance agency as a receiver appointed by him while acting pursuant to this chapter shall be deemed to be the exercise of a discretionary function within the meaning of Section 63G-7-301 of the laws of this state or Section 28 U.S.C. 2680(a) of the laws of the United States.
+
+(5)  Actions, decisions, or agreements of a receiver under this chapter, other than allowance or disallowance of claims under Section 7-2-6, shall be subject to judicial review only as follows:
+
+(a)  A petition for review shall be filed with the court having jurisdiction under Section 7-2-2 not more than 90 days after the date the act, decision, or agreement became effective or its terms are filed with the court.
+
+(b)  The petition shall state in simple, concise, and direct terms the facts and principles of law upon which the petitioner claims the act, decision, or agreement of the receiver was or would be arbitrary, capricious, fraudulent, or contrary to law and how the petitioner is or may be damaged thereby.  The court shall dismiss any petition which fails to allege that the petitioner would be directly injured or damaged by the act, decision, or agreement which is the subject of the petition.  Rule 11 of the Utah Rules of Civil Procedure shall apply to all parties with respect to the allegations set forth in a petition or response.
+
+(c)  The receiver shall have 30 days after service of the petition within which to respond.
+
+(d)  All further proceedings are to be conducted in accordance with the Utah Rules of Civil Procedure.
+
+(6)  All notices required under this section shall be made in accordance with the Utah Rules of Civil Procedure and served upon the attorney general of the state of Utah, the commissioner of financial institutions, the receiver of the institution appointed under this chapter, and upon the designated representative of any party in interest who requests in writing such notice.
+

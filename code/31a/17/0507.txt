@@ -1,61 +1,28 @@
-31A-17-507.   Reserve valuation method -- Life insurance and endowment
-benefits.
-(1)  Except as otherwise provided in Sections 31A-17-508, 31A-17-511, and
-31A-17-513, reserves according to the commissioner's reserve valuation method,
-for the life insurance and endowment benefits of policies providing for a
-uniform amount of insurance and requiring the payment of uniform premiums
-shall be the excess, if any, of the present value, at the date of valuation,
-of such future guaranteed benefits provided for by such policies, over the
-then present value of any future modified net premiums therefor.  The modified
-net premiums for any such policy shall be such uniform percentage of the
-respective contract premiums for such benefits that the present value, at the
-date of issue of the policy, of all such modified net premiums shall be equal
-to the sum of the then present value of such benefits provided for by the
-policy and the excess of Subsection (1)(a) over Subsection (1)(b), as follows:
-(a)  A net level annual premium equal to the present value, at the date of
-issue, of such benefits provided for after the first policy year, divided by
-the present value, at the date of issue, of an annuity of one per annum
-payable on the first and each subsequent anniversary of such policy on which a
-premium falls due; provided, however, that such net level annual premium shall
-not exceed the net level annual premium on the 19 year premium whole life plan
-for insurance of the same amount at an age one year higher than the age at
-issue of such policy.
-(b)  A net one year term premium for such benefits provided for in the first
-policy year.
-(2)  Provided that for any life insurance policy issued on or after January 1,
-1997, for which the contract premium in the first policy year exceeds that of
-the second year and for which no comparable additional benefit is provided in
-the first year for such excess and which provides an endowment benefit or a
-cash surrender value or a combination thereof in an amount greater than such
-excess premium, the reserve according to the commissioner's reserve valuation
-method as of any policy anniversary occurring on or before the assumed ending
-date defined herein as the first policy anniversary on which the sum of any
-endowment benefit and any cash surrender value then available is greater than
-such excess premium shall, except as otherwise provided in Section 31A-17-511,
-be the greater of the reserve as of such policy anniversary calculated as
-described in Subsection (1) and the reserve as of such policy anniversary
-calculated as described in that subsection, but with:
-(a)  the value defined in Subsection (1)(a) being reduced by 15% of the amount
-of such excess first year premium;
-(b)  all present values of benefits and premiums being determined without
-reference to premiums or benefits provided for by the policy after the assumed
-ending date;
+31A-17-507.   Reserve valuation method -- Life insurance and endowment benefits.
+
+(1)  Except as otherwise provided in Sections 31A-17-508, 31A-17-511, and 31A-17-513, reserves according to the commissioner's reserve valuation method, for the life insurance and endowment benefits of policies providing for a uniform amount of insurance and requiring the payment of uniform premiums shall be the excess, if any, of the present value, at the date of valuation, of such future guaranteed benefits provided for by such policies, over the then present value of any future modified net premiums therefor.  The modified net premiums for any such policy shall be such uniform percentage of the respective contract premiums for such benefits that the present value, at the date of issue of the policy, of all such modified net premiums shall be equal to the sum of the then present value of such benefits provided for by the policy and the excess of Subsection (1)(a) over Subsection (1)(b), as follows:
+
+(a)  A net level annual premium equal to the present value, at the date of issue, of such benefits provided for after the first policy year, divided by the present value, at the date of issue, of an annuity of one per annum payable on the first and each subsequent anniversary of such policy on which a premium falls due; provided, however, that such net level annual premium shall not exceed the net level annual premium on the 19 year premium whole life plan for insurance of the same amount at an age one year higher than the age at issue of such policy.
+
+(b)  A net one year term premium for such benefits provided for in the first policy year.
+
+(2)  Provided that for any life insurance policy issued on or after January 1, 1997, for which the contract premium in the first policy year exceeds that of the second year and for which no comparable additional benefit is provided in the first year for such excess and which provides an endowment benefit or a cash surrender value or a combination thereof in an amount greater than such excess premium, the reserve according to the commissioner's reserve valuation method as of any policy anniversary occurring on or before the assumed ending date defined herein as the first policy anniversary on which the sum of any endowment benefit and any cash surrender value then available is greater than such excess premium shall, except as otherwise provided in Section 31A-17-511, be the greater of the reserve as of such policy anniversary calculated as described in Subsection (1) and the reserve as of such policy anniversary calculated as described in that subsection, but with:
+
+(a)  the value defined in Subsection (1)(a) being reduced by 15% of the amount of such excess first year premium;
+
+(b)  all present values of benefits and premiums being determined without reference to premiums or benefits provided for by the policy after the assumed ending date;
+
 (c)  the policy being assumed to mature on such date as an endowment; and
-(d)  the cash surrender value provided on such date being considered as an
-endowment benefit.  In making the above comparison the mortality and interest
-bases stated in Sections 31A-17-504 and 31A-17-506 shall be used.
+
+(d)  the cash surrender value provided on such date being considered as an endowment benefit.  In making the above comparison the mortality and interest bases stated in Sections 31A-17-504 and 31A-17-506 shall be used.
+
 (3)  Reserves according to the commissioner's reserve valuation method for:
-(a) life insurance policies providing for a varying amount of insurance or
-requiring the payment of varying premiums;
-(b) group annuity and pure endowment contracts  purchased under a retirement
-plan or plan of deferred compensation, established or maintained by an
-employer, including a partnership or sole proprietorship, or by an employee
-organization, or by both, other than a plan providing individual retirement
-accounts or individual retirement annuities under Section 408, Internal
-Revenue Code;
-(c) accident and health and accidental death benefits in all policies and
-contracts; and
-(d) all other benefits, except life insurance and endowment benefits in life
-insurance policies and benefits provided by all other annuity and pure
-endowment contracts, shall be calculated by a method consistent with the
-principles of Subsections (1) and (2).
+
+(a) life insurance policies providing for a varying amount of insurance or requiring the payment of varying premiums;
+
+(b) group annuity and pure endowment contracts  purchased under a retirement plan or plan of deferred compensation, established or maintained by an employer, including a partnership or sole proprietorship, or by an employee organization, or by both, other than a plan providing individual retirement accounts or individual retirement annuities under Section 408, Internal Revenue Code;
+
+(c) accident and health and accidental death benefits in all policies and contracts; and
+
+(d) all other benefits, except life insurance and endowment benefits in life insurance policies and benefits provided by all other annuity and pure endowment contracts, shall be calculated by a method consistent with the principles of Subsections (1) and (2).
+

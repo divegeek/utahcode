@@ -1,69 +1,56 @@
 17-50-319.   County charges enumerated.
+
 (1)  County charges are:
+
 (a)  those incurred against the county by any law;
-(b)  the necessary expenses of the county attorney or district attorney
-incurred in criminal cases arising in the county, and all other expenses
-necessarily incurred by the county or district attorney in the prosecution of
-criminal cases, except jury and witness fees;
-(c)  the medical needs and other expenses necessarily incurred in the support
-of persons charged with or convicted of a criminal offense and committed to
-the county jail, except as provided in Subsection (2);
-(d)  for a county not within the state district court administrative system,
-the sum required by law to be paid jurors in civil cases;
-(e)  all charges and accounts for services rendered by any justice court judge
-for services in the trial and examination of persons charged with a criminal
-offense not otherwise provided for by law;
-(f)  the contingent expenses necessarily incurred for the use and benefit of
-the county;
-(g)  every other sum directed by law to be raised for any county purposes
-under the direction of the county legislative body or declared a county
-charge;
+
+(b)  the necessary expenses of the county attorney or district attorney incurred in criminal cases arising in the county, and all other expenses necessarily incurred by the county or district attorney in the prosecution of criminal cases, except jury and witness fees;
+
+(c)  the medical needs and other expenses necessarily incurred in the support of persons charged with or convicted of a criminal offense and committed to the county jail, except as provided in Subsection (2);
+
+(d)  for a county not within the state district court administrative system, the sum required by law to be paid jurors in civil cases;
+
+(e)  all charges and accounts for services rendered by any justice court judge for services in the trial and examination of persons charged with a criminal offense not otherwise provided for by law;
+
+(f)  the contingent expenses necessarily incurred for the use and benefit of the county;
+
+(g)  every other sum directed by law to be raised for any county purposes under the direction of the county legislative body or declared a county charge;
+
 (h)  the fees of constables for services rendered in criminal cases;
-(i)  the necessary expenses of the sheriff and deputies incurred in civil and
-criminal cases arising in the county, and all other expenses necessarily
-incurred by the sheriff and deputies in performing the duties imposed upon
-them by law;
-(j)  the sums required by law to be paid by the county to jurors and witnesses
-serving at inquests and in criminal cases in justice courts; and
-(k)  subject to Subsection (2), expenses incurred by a health care facility or
-provider in providing medical services, treatment, hospitalization, or related
-transportation, at the request of a county sheriff for:
+
+(i)  the necessary expenses of the sheriff and deputies incurred in civil and criminal cases arising in the county, and all other expenses necessarily incurred by the sheriff and deputies in performing the duties imposed upon them by law;
+
+(j)  the sums required by law to be paid by the county to jurors and witnesses serving at inquests and in criminal cases in justice courts; and
+
+(k)  subject to Subsection (2), expenses incurred by a health care facility or provider in providing medical services, treatment, hospitalization, or related transportation, at the request of a county sheriff for:
+
 (i)  persons booked into a county jail on a charge of a criminal offense; or
+
 (ii)  persons convicted of a criminal offense and committed to a county jail.
-(2) (a)  Expenses described in Subsections (1)(c) and (1)(k) are a charge to
-the county only to the extent that they exceed any private insurance in effect
-that covers those expenses.
-(b)  Subject to the priorities for payment under Subsection 64-13-30(1), the
-county may collect costs of medical care, treatment, hospitalization, and
-related transportation provided to the person described in Subsection (1)(k)
-who has the resources or the ability to pay.
-(c)  A county may seek reimbursement from a person described in Subsection
-(1)(k) for expenses incurred by the county in behalf of the inmate for medical
-care, treatment, hospitalization, or related transportation by:
-(i)  deducting the cost from the inmate's cash account on deposit with the
-detention facility during the inmate's incarceration or during a subsequent
-incarceration if the subsequent incarceration occurs within the same county
-and the incarceration is within three years of the date of the expense in
-behalf of the inmate; or
-(ii)  placing a lien for the amount of the expense against the inmate's
-personal property held by the jail.
-(d)  An inmate who receives medical care, treatment, hospitalization, or
-related transportation shall cooperate with the jail facility seeking payment
-or reimbursement under this section for the inmate's expenses.
-(e)  If there is no contract between a county jail and a health care facility
-or provider that establishes a fee schedule for medical services rendered,
-expenses under Subsection (1)(k) shall be commensurate with:
-(i)  for a health care facility, the current noncapitated state Medicaid
-rates; and
-(ii)  for a health care provider, 65% of the amount that would be paid to the
-health care provider:
-(A)  under the Public Employees' Benefit and Insurance Program, created in
-Section 49-20-103; and
-(B)  if the person receiving the medical service were a covered employee under
-the Public Employees' Benefit and Insurance Program.
-(f)  Subsection (1)(k) does not apply to expenses of a person held at the jail
-at the request of an agency of the United States.
-(g)  A county that receives information from the Public Employees' Benefit and
-Insurance Program to enable the county to calculate the amount to be paid to a
-health care provider under Subsection (2)(e)(ii) shall keep that information
-confidential.
+
+(2) (a)  Expenses described in Subsections (1)(c) and (1)(k) are a charge to the county only to the extent that they exceed any private insurance in effect that covers those expenses.
+
+(b)  Subject to the priorities for payment under Subsection 64-13-30(1), the county may collect costs of medical care, treatment, hospitalization, and related transportation provided to the person described in Subsection (1)(k) who has the resources or the ability to pay.
+
+(c)  A county may seek reimbursement from a person described in Subsection (1)(k) for expenses incurred by the county in behalf of the inmate for medical care, treatment, hospitalization, or related transportation by:
+
+(i)  deducting the cost from the inmate's cash account on deposit with the detention facility during the inmate's incarceration or during a subsequent incarceration if the subsequent incarceration occurs within the same county and the incarceration is within three years of the date of the expense in behalf of the inmate; or
+
+(ii)  placing a lien for the amount of the expense against the inmate's personal property held by the jail.
+
+(d)  An inmate who receives medical care, treatment, hospitalization, or related transportation shall cooperate with the jail facility seeking payment or reimbursement under this section for the inmate's expenses.
+
+(e)  If there is no contract between a county jail and a health care facility or provider that establishes a fee schedule for medical services rendered, expenses under Subsection (1)(k) shall be commensurate with:
+
+(i)  for a health care facility, the current noncapitated state Medicaid rates; and
+
+(ii)  for a health care provider, 65% of the amount that would be paid to the health care provider:
+
+(A)  under the Public Employees' Benefit and Insurance Program, created in Section 49-20-103; and
+
+(B)  if the person receiving the medical service were a covered employee under the Public Employees' Benefit and Insurance Program.
+
+(f)  Subsection (1)(k) does not apply to expenses of a person held at the jail at the request of an agency of the United States.
+
+(g)  A county that receives information from the Public Employees' Benefit and Insurance Program to enable the county to calculate the amount to be paid to a health care provider under Subsection (2)(e)(ii) shall keep that information confidential.
+

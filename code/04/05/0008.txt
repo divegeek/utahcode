@@ -1,90 +1,72 @@
 4-5-8.   Misbranded food specified.
+
 (1)  Food is misbranded if:
+
 (a)  its label is false or misleading in any way;
-(b)  its labeling or packaging fails to conform with the requirements of
-Section 4-5-15;
+
+(b)  its labeling or packaging fails to conform with the requirements of Section 4-5-15;
+
 (c)  it is offered for sale under the name of another food;
-(d)  its container is so made, formed, or filled with packing material or air
-as to be misleading; or
+
+(d)  its container is so made, formed, or filled with packing material or air as to be misleading; or
+
 (e)  it fails to conform with any requirement specified in this section.
-(2)  A food that is an imitation of another food shall bear a label, in type
-of uniform size and prominence, stating the word "imitation," and, immediately
-thereafter, the name of the food imitated.
+
+(2)  A food that is an imitation of another food shall bear a label, in type of uniform size and prominence, stating the word "imitation," and, immediately thereafter, the name of the food imitated.
+
 (3) (a)  A food in package form shall bear a label containing:
-(i)  the name and place of business of the manufacturer, packer, or
-distributor; and
-(ii)  an accurate statement of the quantity of the contents in terms of
-weight, measure, or numerical count.
-(b)  The statement required by Subsection (3)(a)(ii) shall be separately and
-accurately stated in a uniform location upon the principal display panel of
-the label unless reasonable variations and exemptions for small packages are
-established by a rule made by the department.
-(c)  A manufacturer or distributor of carbonated beverages who utilizes
-proprietary stock or a proprietary crown is exempt from Subsection (3)(a)(i)
-if he files with the department:
-(i)  a sworn affidavit giving a full and complete description of each area
-within the state in which beverages of his manufacturing or distributing are
-to be distributed; and
-(ii)  the name and address of the person responsible for compliance with this
-chapter within each of those areas.
-(4)  Any word, statement, or other information required by this chapter to
-appear on the label or labeling shall be:
+
+(i)  the name and place of business of the manufacturer, packer, or distributor; and
+
+(ii)  an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count.
+
+(b)  The statement required by Subsection (3)(a)(ii) shall be separately and accurately stated in a uniform location upon the principal display panel of the label unless reasonable variations and exemptions for small packages are established by a rule made by the department.
+
+(c)  A manufacturer or distributor of carbonated beverages who utilizes proprietary stock or a proprietary crown is exempt from Subsection (3)(a)(i) if he files with the department:
+
+(i)  a sworn affidavit giving a full and complete description of each area within the state in which beverages of his manufacturing or distributing are to be distributed; and
+
+(ii)  the name and address of the person responsible for compliance with this chapter within each of those areas.
+
+(4)  Any word, statement, or other information required by this chapter to appear on the label or labeling shall be:
+
 (a)  prominently placed on the label;
-(b)  conspicuous in comparison with other words, statements, designs, or
-devices in the labeling; and
-(c)  in terms which render it likely to be read and understood by the ordinary
-individual under customary conditions of purchase and use.
-(5)  If a food is represented as a food for which a definition and standard of
-identity has been prescribed by federal regulations or department rules as
-provided by Section 4-5-6, it shall:
+
+(b)  conspicuous in comparison with other words, statements, designs, or devices in the labeling; and
+
+(c)  in terms which render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+
+(5)  If a food is represented as a food for which a definition and standard of identity has been prescribed by federal regulations or department rules as provided by Section 4-5-6, it shall:
+
 (a)  conform to the definition and standard; and
+
 (b)  have a label bearing:
+
 (i)  the name of the food specified in the definition and standard; and
-(ii)  insofar as may be required by the rules, the common names of optional
-ingredients, other than spices, flavorings, and colorings, present in the
-food.
-(6)  If a food is represented as a food for which a standard of quality has
-been prescribed by federal regulations or department rules as provided by
-Section 4-5-6, and its quality falls below the standard, its label shall bear,
-in the manner and form as the regulations or rules specify, a statement
-indicating that it falls below the standards.
-(7)  If a food is represented as a food for which a standard of fill of
-container has been prescribed by federal regulations or department rules as
-provided by Section 4-5-6, and it falls below the applicable standard of fill,
-its label shall bear, in the manner and form as the regulations or rules
-specify, a statement indicating that it falls below the standard.
-(8) (a)  Any food for which neither a definition nor standard of identity has
-been prescribed by federal regulations or department rules as provided by
-Section 4-5-6 shall bear labeling clearly giving:
+
+(ii)  insofar as may be required by the rules, the common names of optional ingredients, other than spices, flavorings, and colorings, present in the food.
+
+(6)  If a food is represented as a food for which a standard of quality has been prescribed by federal regulations or department rules as provided by Section 4-5-6, and its quality falls below the standard, its label shall bear, in the manner and form as the regulations or rules specify, a statement indicating that it falls below the standards.
+
+(7)  If a food is represented as a food for which a standard of fill of container has been prescribed by federal regulations or department rules as provided by Section 4-5-6, and it falls below the applicable standard of fill, its label shall bear, in the manner and form as the regulations or rules specify, a statement indicating that it falls below the standard.
+
+(8) (a)  Any food for which neither a definition nor standard of identity has been prescribed by federal regulations or department rules as provided by Section 4-5-6 shall bear labeling clearly giving:
+
 (i)  the common or usual name of the food, if any; and
-(ii)  in case it is fabricated from two or more ingredients, the common or
-usual name of each ingredient, except that spices, flavorings, and colorings,
-other than those sold as such, may be designated as spices, flavorings, and
-colorings without naming each.
-(b)  To the extent that compliance with the requirements of Subsection
-(8)(a)(ii) is impractical or results in deception or unfair competition,
-exemptions shall be established by rules made by the department.
-(9)  If a food is represented as a food for special dietary uses, its label
-shall bear the information concerning its vitamin, mineral, and other dietary
-properties as the department by rule prescribes.
-(10)  If a food bears or contains any artificial flavoring, artificial
-coloring, or chemical preservatives, its label shall state that fact.  If
-compliance with the requirements of this subsection is impracticable,
-exemptions shall be established by rules made by the department.
-(11)  The shipping container of any raw agricultural commodity bearing or
-containing a pesticide chemical applied after harvest shall bear labeling
-which declares the presence of the chemical in or on the commodity and the
-common or usual name and function of the chemical.  The declaration is not
-required while the commodity, having been removed from the shipping container,
-is being held or displaced for sale at retail out of the container in
-accordance with the custom of the trade.
-(12)  A product intended as an ingredient of another food, when used according
-to the directions of the purveyor, may not result in the final food product
-being adulterated or misbranded.
-(13)  The packaging and labeling of a color additive shall be in conformity
-with the packaging and labeling requirements applicable to the color additive
-prescribed under the federal act.
-(14)  Subsections (5), (8), and (10) with respect to artificial coloring do
-not apply to butter, cheese, or ice cream.  Subsection (10) with respect to
-chemical preservatives does not apply to a pesticide chemical when used in or
-on a raw agricultural commodity.
+
+(ii)  in case it is fabricated from two or more ingredients, the common or usual name of each ingredient, except that spices, flavorings, and colorings, other than those sold as such, may be designated as spices, flavorings, and colorings without naming each.
+
+(b)  To the extent that compliance with the requirements of Subsection (8)(a)(ii) is impractical or results in deception or unfair competition, exemptions shall be established by rules made by the department.
+
+(9)  If a food is represented as a food for special dietary uses, its label shall bear the information concerning its vitamin, mineral, and other dietary properties as the department by rule prescribes.
+
+(10)  If a food bears or contains any artificial flavoring, artificial coloring, or chemical preservatives, its label shall state that fact.  If compliance with the requirements of this subsection is impracticable, exemptions shall be established by rules made by the department.
+
+(11)  The shipping container of any raw agricultural commodity bearing or containing a pesticide chemical applied after harvest shall bear labeling which declares the presence of the chemical in or on the commodity and the common or usual name and function of the chemical.  The declaration is not required while the commodity, having been removed from the shipping container, is being held or displaced for sale at retail out of the container in accordance with the custom of the trade.
+
+(12)  A product intended as an ingredient of another food, when used according to the directions of the purveyor, may not result in the final food product being adulterated or misbranded.
+
+(13)  The packaging and labeling of a color additive shall be in conformity with the packaging and labeling requirements applicable to the color additive prescribed under the federal act.
+
+(14)  Subsections (5), (8), and (10) with respect to artificial coloring do not apply to butter, cheese, or ice cream.  Subsection (10) with respect to chemical preservatives does not apply to a pesticide chemical when used in or on a raw agricultural commodity.
+

@@ -1,24 +1,24 @@
 78B-5-502.   Definitions.
+
 As used in this part:
-(1)  "Debt" means a legally enforceable monetary obligation or liability of an
-individual, whether arising out of contract, tort, or otherwise.
-(2)  "Dependent" means the spouse of an individual, and the grandchild or the
-natural or adoptive child of an individual who derives support primarily from
-that individual.
-(3)  "Exempt" means protected, and "exemption" means protection from
-subjection to a judicial process to collect an unsecured debt.
-(4)  "Judicial lien" means a lien on property obtained by judgment or other
-legal process instituted for the purpose of collecting an unsecured debt.
-(5)  "Levy" means the seizure of property pursuant to any legal process issued
-for the purpose of collecting an unsecured debt.
-(6)  "Lien" means a judicial, or statutory lien, in property securing payment
-of a debt or performance of an obligation.
-(7)  "Liquid assets" means deposits, securities, notes, drafts, unpaid
-earnings not otherwise exempt, accrued vacation pay, refunds, prepayments, and
-other receivables.
-(8)  "Security interest" means an interest in property created by contract to
-secure payment or performance of an obligation.
-(9)  "Statutory lien" means a lien arising by force of a statute, but does not
-include a security interest or a judicial lien.
-(10)  "Value" means fair market value of an individual's interest in property,
-exclusive of valid liens.
+
+(1)  "Debt" means a legally enforceable monetary obligation or liability of an individual, whether arising out of contract, tort, or otherwise.
+
+(2)  "Dependent" means the spouse of an individual, and the grandchild or the natural or adoptive child of an individual who derives support primarily from that individual.
+
+(3)  "Exempt" means protected, and "exemption" means protection from subjection to a judicial process to collect an unsecured debt.
+
+(4)  "Judicial lien" means a lien on property obtained by judgment or other legal process instituted for the purpose of collecting an unsecured debt.
+
+(5)  "Levy" means the seizure of property pursuant to any legal process issued for the purpose of collecting an unsecured debt.
+
+(6)  "Lien" means a judicial, or statutory lien, in property securing payment of a debt or performance of an obligation.
+
+(7)  "Liquid assets" means deposits, securities, notes, drafts, unpaid earnings not otherwise exempt, accrued vacation pay, refunds, prepayments, and other receivables.
+
+(8)  "Security interest" means an interest in property created by contract to secure payment or performance of an obligation.
+
+(9)  "Statutory lien" means a lien arising by force of a statute, but does not include a security interest or a judicial lien.
+
+(10)  "Value" means fair market value of an individual's interest in property, exclusive of valid liens.
+

@@ -1,52 +1,24 @@
 75-1-109.   Duty to comply with environmental laws -- Definitions.
-(1)  From the inception of the trust or estate, a fiduciary shall have the
-following powers, without court authorization, which it may use in its sole
-discretion to comply with environmental law:
-(a)  to inspect and monitor property held by the fiduciary, including
-interests in sole proprietorships, partnerships, or corporations and any
-assets owned by any such business enterprise, for the purpose of determining
-compliance with environmental law affecting the property and to respond to any
-actual or threatened violation of any environmental law affecting the property
-held by the fiduciary;
-(b)  to take, on behalf of the estate or trust, any action necessary to
-prevent, abate, or otherwise remedy any actual or threatened violation of any
-environmental law affecting property held by the fiduciary, either before or
-after the initiation of an enforcement action by any governmental body;
-(c)  to refuse to accept property if the fiduciary determines that any
-property to be donated to the trust or estate either is contaminated by any
-hazardous substance or is being used or has been used for any activity
-directly or indirectly involving hazardous substance which could result in
-liability to the trust or estate or otherwise impair the value of the assets
-held in the trust or estate;
-(d)  to settle or compromise at any time any and all claims against the trust
-or estate which may be asserted by any governmental body or private party
-involving the alleged violation of any environmental law affecting property
-held in trust or in an estate;
-(e)  to disclaim any power granted by any document, statute, or rule of law
-which, in the sole discretion of the fiduciary, may cause the fiduciary to
-incur personal liability under any environmental law; or
-(f)  to decline to serve as a fiduciary if the fiduciary reasonably believes
-that there is or may be a conflict of interest between it in its fiduciary
-capacity and in its individual capacity because of potential claims or
-liabilities which may be asserted against it on behalf of the trust or estate
-because of the type or condition of assets held in the trust or estate.
-(2)  For purposes of this section "environmental law" means any federal,
-state, or local law, rule, regulation or ordinance relating to protection of
-the environment or human health.  For purposes of this section, "hazardous
-substances" means any substance defined as hazardous or toxic or which is
-otherwise regulated by any environmental law.
-(3)  The fiduciary is entitled to charge the cost of any inspection, review,
-abatement, response, cleanup, or remedial action authorized in this section
-against the income or principal of the trust or estate.  A fiduciary shall not
-be personally liable to any beneficiary or other party for any decrease in
-value of assets in trust or in an estate by reason of the fiduciary's
-compliance with any environmental law, specifically including any reporting
-requirement under the law.  Neither the acceptance by the fiduciary of
-property or a failure by the fiduciary to inspect property shall be considered
-to create any inference as to whether or not there is or may be any liability
-under any environmental law with respect to the property.
-(4)  This section applies to all estates and trusts in existence upon and
-created after July 1, 1991.
-(5)  No exercise by a fiduciary of any of the powers granted in this section
-shall constitute a transaction which is affected by a substantial conflict of
-interest on the part of the fiduciary.
+
+(1)  From the inception of the trust or estate, a fiduciary shall have the following powers, without court authorization, which it may use in its sole discretion to comply with environmental law:
+
+(a)  to inspect and monitor property held by the fiduciary, including interests in sole proprietorships, partnerships, or corporations and any assets owned by any such business enterprise, for the purpose of determining compliance with environmental law affecting the property and to respond to any actual or threatened violation of any environmental law affecting the property held by the fiduciary;
+
+(b)  to take, on behalf of the estate or trust, any action necessary to prevent, abate, or otherwise remedy any actual or threatened violation of any environmental law affecting property held by the fiduciary, either before or after the initiation of an enforcement action by any governmental body;
+
+(c)  to refuse to accept property if the fiduciary determines that any property to be donated to the trust or estate either is contaminated by any hazardous substance or is being used or has been used for any activity directly or indirectly involving hazardous substance which could result in liability to the trust or estate or otherwise impair the value of the assets held in the trust or estate;
+
+(d)  to settle or compromise at any time any and all claims against the trust or estate which may be asserted by any governmental body or private party involving the alleged violation of any environmental law affecting property held in trust or in an estate;
+
+(e)  to disclaim any power granted by any document, statute, or rule of law which, in the sole discretion of the fiduciary, may cause the fiduciary to incur personal liability under any environmental law; or
+
+(f)  to decline to serve as a fiduciary if the fiduciary reasonably believes that there is or may be a conflict of interest between it in its fiduciary capacity and in its individual capacity because of potential claims or liabilities which may be asserted against it on behalf of the trust or estate because of the type or condition of assets held in the trust or estate.
+
+(2)  For purposes of this section "environmental law" means any federal, state, or local law, rule, regulation or ordinance relating to protection of the environment or human health.  For purposes of this section, "hazardous substances" means any substance defined as hazardous or toxic or which is otherwise regulated by any environmental law.
+
+(3)  The fiduciary is entitled to charge the cost of any inspection, review, abatement, response, cleanup, or remedial action authorized in this section against the income or principal of the trust or estate.  A fiduciary shall not be personally liable to any beneficiary or other party for any decrease in value of assets in trust or in an estate by reason of the fiduciary's compliance with any environmental law, specifically including any reporting requirement under the law.  Neither the acceptance by the fiduciary of property or a failure by the fiduciary to inspect property shall be considered to create any inference as to whether or not there is or may be any liability under any environmental law with respect to the property.
+
+(4)  This section applies to all estates and trusts in existence upon and created after July 1, 1991.
+
+(5)  No exercise by a fiduciary of any of the powers granted in this section shall constitute a transaction which is affected by a substantial conflict of interest on the part of the fiduciary.
+

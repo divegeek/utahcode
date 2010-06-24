@@ -1,25 +1,20 @@
 78B-7-203.   Hearing.
-(1) If an ex parte order is granted, the court shall schedule a hearing within
-20 days after the ex parte determination.  If an ex parte order is denied, the
-court, upon the request of the petitioner, shall schedule a hearing within 20
-days after the ex parte determination.
-(2)  The petition, ex parte child protective order, and notice of hearing
-shall be served on the respondent, the minor's parent or guardian, and, if
-appointed, the guardian ad litem.  The notice shall contain:
+
+(1) If an ex parte order is granted, the court shall schedule a hearing within 20 days after the ex parte determination.  If an ex parte order is denied, the court, upon the request of the petitioner, shall schedule a hearing within 20 days after the ex parte determination.
+
+(2)  The petition, ex parte child protective order, and notice of hearing shall be served on the respondent, the minor's parent or guardian, and, if appointed, the guardian ad litem.  The notice shall contain:
+
 (a)  the name and address of the person to whom it is directed;
+
 (b)  the date, time, and place of the hearing;
+
 (c)  the name of the minor on whose behalf a petition is being brought; and
-(d)  a statement that a person is entitled to have an attorney present at the
-hearing.
-(3)  The court shall provide an opportunity for any person having relevant
-knowledge to present evidence or information.  The court may hear statements
-by counsel.
-(4)  An agent of the division served with a subpoena in compliance with the
-Utah Rules of Civil Procedure shall testify in accordance with the Utah Rules
-of Evidence.
-(5)  If the court determines, based on a preponderance of the evidence, that
-the minor is being abused or is in imminent danger of being abused, the court
-shall enter a child protective order.  With the exception of the provisions of
-Section 78A-6-323, a child protective order does not constitute an
-adjudication of abuse, neglect, or dependency under Title 78A, Chapter 6, Part
-3, Abuse, Neglect, and Dependency Proceedings.
+
+(d)  a statement that a person is entitled to have an attorney present at the hearing.
+
+(3)  The court shall provide an opportunity for any person having relevant knowledge to present evidence or information.  The court may hear statements by counsel.
+
+(4)  An agent of the division served with a subpoena in compliance with the Utah Rules of Civil Procedure shall testify in accordance with the Utah Rules of Evidence.
+
+(5)  If the court determines, based on a preponderance of the evidence, that the minor is being abused or is in imminent danger of being abused, the court shall enter a child protective order.  With the exception of the provisions of Section 78A-6-323, a child protective order does not constitute an adjudication of abuse, neglect, or dependency under Title 78A, Chapter 6, Part 3, Abuse, Neglect, and Dependency Proceedings.
+

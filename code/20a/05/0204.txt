@@ -1,7 +1,10 @@
 20A-5-204.   Duplicate registration.
-(1)  Upon finding duplicate registration, the county clerk shall first check
-for errors in the record.
+
+(1)  Upon finding duplicate registration, the county clerk shall first check for errors in the record.
+
 (2)  If duplicate registration does exist, the clerk shall:
+
 (a)  eliminate one registration entry; and
-(b)  change the date of voter registration on the voter's file to the most
-recent registration date.
+
+(b)  change the date of voter registration on the voter's file to the most recent registration date.
+

@@ -1,104 +1,98 @@
 70A-8-101.   Definitions.
+
 (1)  As used in this chapter:
-(a)  "Adverse claim" means a claim that a claimant has a property interest in
-a financial asset and that it is a violation of the rights of the claimant for
-another person to hold, transfer, or deal with the financial asset.
-(b)  "Bearer form," as applied to a certificated security, means a form in
-which the security is payable to the bearer of the security certificate
-according to its terms but not by reason of an indorsement.
-(c)  "Broker" means a person defined as a broker or dealer under the federal
-securities laws, but without excluding a bank acting in that capacity.
-(d)  "Certificated security" means a security that is represented by a
-certificate.
+
+(a)  "Adverse claim" means a claim that a claimant has a property interest in a financial asset and that it is a violation of the rights of the claimant for another person to hold, transfer, or deal with the financial asset.
+
+(b)  "Bearer form," as applied to a certificated security, means a form in which the security is payable to the bearer of the security certificate according to its terms but not by reason of an indorsement.
+
+(c)  "Broker" means a person defined as a broker or dealer under the federal securities laws, but without excluding a bank acting in that capacity.
+
+(d)  "Certificated security" means a security that is represented by a certificate.
+
 (e)  "Clearing corporation" means:
-(i)  a person that is registered as a "clearing agency" under the federal
-securities laws;
+
+(i)  a person that is registered as a "clearing agency" under the federal securities laws;
+
 (ii)  a federal reserve bank; or
-(iii)  any other person that provides clearance or settlement services with
-respect to financial assets that would require it to register as a clearing
-agency under the federal securities laws but for an exclusion or exemption
-from the registration requirement, if its activities as a clearing
-corporation, including promulgation of rules, are subject to regulation by a
-federal or state governmental authority.
+
+(iii)  any other person that provides clearance or settlement services with respect to financial assets that would require it to register as a clearing agency under the federal securities laws but for an exclusion or exemption from the registration requirement, if its activities as a clearing corporation, including promulgation of rules, are subject to regulation by a federal or state governmental authority.
+
 (f)  "Communicate" means to:
+
 (i)  send a signed writing; or
-(ii)  transmit information by any mechanism agreed upon by the persons
-transmitting and receiving the information.
-(g)  "Entitlement holder" means a person identified in the records of a
-securities intermediary as the person having a security entitlement against
-the securities intermediary.  If a person acquired a security entitlement by
-virtue of Subsection 70A-8-501(2)(b) or (c), that person is the entitlement
-holder.
-(h)  "Entitlement order" means a notification communicated to a securities
-intermediary directing transfer or redemption of a financial asset to which
-the entitlement holder has a security entitlement.
-(i) (i)  "Financial asset," except as otherwise provided in Section 70A-8-102,
-means:
+
+(ii)  transmit information by any mechanism agreed upon by the persons transmitting and receiving the information.
+
+(g)  "Entitlement holder" means a person identified in the records of a securities intermediary as the person having a security entitlement against the securities intermediary.  If a person acquired a security entitlement by virtue of Subsection 70A-8-501(2)(b) or (c), that person is the entitlement holder.
+
+(h)  "Entitlement order" means a notification communicated to a securities intermediary directing transfer or redemption of a financial asset to which the entitlement holder has a security entitlement.
+
+(i) (i)  "Financial asset," except as otherwise provided in Section 70A-8-102, means:
+
 (A)  a security;
-(B)  an obligation of a person or a share, participation, or other interest in
-a person or in property or an enterprise of a person, which is or is of a
-type, dealt in or traded on financial markets, or which is recognized in any
-area in which it is issued or dealt in as a medium for investment; or
-(C)  any property that is held by a securities intermediary for another person
-in a securities account if that securities intermediary has expressly agreed
-with the other person that the property is to be treated as a financial asset
-under this chapter.
-(ii)  As context requires, the term means either the interest itself or the
-means by which a person's claim to it is evidenced, including a certificated
-or uncertificated security, a security certificate, or a security entitlement.
-(j)  "Good faith," for purposes of the obligation of good faith in the
-performance or enforcement of contracts or duties within this chapter, means
-honesty in fact and the observance of reasonable commercial standards of fair
-dealing.
-(k)  "Indorsement" means a signature that alone or accompanied by other words
-is made on a security certificate in registered form or on a separate document
-for the purpose of assigning, transferring, or redeeming the security or
-granting a power to assign, transfer, or redeem it.
-(l)  "Instruction" means a notification communicated to the issuer of an
-uncertificated security which directs that the transfer of the security be
-registered or that the security be redeemed.
-(m)  "Registered form," as applied to a certificated security, means a form in
-which:
+
+(B)  an obligation of a person or a share, participation, or other interest in a person or in property or an enterprise of a person, which is or is of a type, dealt in or traded on financial markets, or which is recognized in any area in which it is issued or dealt in as a medium for investment; or
+
+(C)  any property that is held by a securities intermediary for another person in a securities account if that securities intermediary has expressly agreed with the other person that the property is to be treated as a financial asset under this chapter.
+
+(ii)  As context requires, the term means either the interest itself or the means by which a person's claim to it is evidenced, including a certificated or uncertificated security, a security certificate, or a security entitlement.
+
+(j)  "Good faith," for purposes of the obligation of good faith in the performance or enforcement of contracts or duties within this chapter, means honesty in fact and the observance of reasonable commercial standards of fair dealing.
+
+(k)  "Indorsement" means a signature that alone or accompanied by other words is made on a security certificate in registered form or on a separate document for the purpose of assigning, transferring, or redeeming the security or granting a power to assign, transfer, or redeem it.
+
+(l)  "Instruction" means a notification communicated to the issuer of an uncertificated security which directs that the transfer of the security be registered or that the security be redeemed.
+
+(m)  "Registered form," as applied to a certificated security, means a form in which:
+
 (i)  the security certificate specifies a person entitled to the security; and
-(ii)  a transfer of the security may be registered upon books maintained for
-that purpose by or on behalf of the issuer, or the security certificate so
-states.
+
+(ii)  a transfer of the security may be registered upon books maintained for that purpose by or on behalf of the issuer, or the security certificate so states.
+
 (n)  "Securities intermediary" means:
+
 (i)  a clearing corporation; or
-(ii)  a person, including a bank or broker, that in the ordinary course of its
-business maintains securities accounts for others and is acting in that
-capacity.
-(o)  "Security," except as otherwise provided in Section 70A-8-102, means an
-obligation of an issuer or a share, participation, or other interest in an
-issuer or in property or an enterprise of an issuer:
-(i)  which is represented by a security certificate in bearer or registered
-form, or the transfer of which may be registered upon books maintained for
-that purpose by or on behalf of the issuer;
-(ii)  which is one of a class or series or by its terms is divisible into a
-class or series of shares, participations, interests, or obligations; and
+
+(ii)  a person, including a bank or broker, that in the ordinary course of its business maintains securities accounts for others and is acting in that capacity.
+
+(o)  "Security," except as otherwise provided in Section 70A-8-102, means an obligation of an issuer or a share, participation, or other interest in an issuer or in property or an enterprise of an issuer:
+
+(i)  which is represented by a security certificate in bearer or registered form, or the transfer of which may be registered upon books maintained for that purpose by or on behalf of the issuer;
+
+(ii)  which is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations; and
+
 (iii)  which:
-(A)  is, or is of a type, dealt in or traded on securities exchanges or
-securities markets; or
-(B)  is a medium for investment and by its terms expressly provides that it is
-a security governed by this chapter.
+
+(A)  is, or is of a type, dealt in or traded on securities exchanges or securities markets; or
+
+(B)  is a medium for investment and by its terms expressly provides that it is a security governed by this chapter.
+
 (p)  "Security certificate" means a certificate representing a security.
-(q)  "Security entitlement" means the rights and property interest of an
-entitlement holder with respect to a financial asset specified in Part 5.
-(r)  "Uncertificated security" means a security that is not represented by a
-certificate.
-(2)  Other definitions applying to this chapter and the sections in which they
-appear are:
+
+(q)  "Security entitlement" means the rights and property interest of an entitlement holder with respect to a financial asset specified in Part 5.
+
+(r)  "Uncertificated security" means a security that is not represented by a certificate.
+
+(2)  Other definitions applying to this chapter and the sections in which they appear are:
+
 (a)  "Appropriate person," Section 70A-8-106.
+
 (b)  "Control," Section 70A-8-105.
+
 (c)  "Delivery," Section 70A-8-301.
+
 (d)  "Investment company security," Section 70A-8-102.
+
 (e)  "Issuer," Section 70A-8-201.
+
 (f)  "Overissue," Section 70A-8-210.
+
 (g)  "Protected purchaser," Section 70A-8-303.
+
 (h)  "Securities account," Section 70A-8-501.
-(3)  In addition, Chapter 1a, Uniform Commercial Code - General Provisions,
-contains general definitions and principles of construction and interpretation
-applicable throughout this chapter.
-(4)  The characterization of a person, business, or transaction for purposes
-of this chapter does not determine the characterization of the person,
-business, or transaction for purposes of any other law, regulation, or rule.
+
+(3)  In addition, Chapter 1a, Uniform Commercial Code - General Provisions, contains general definitions and principles of construction and interpretation applicable throughout this chapter.
+
+(4)  The characterization of a person, business, or transaction for purposes of this chapter does not determine the characterization of the person, business, or transaction for purposes of any other law, regulation, or rule.
+

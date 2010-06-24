@@ -1,28 +1,14 @@
 48-2c-208.   Effective time and date of filed documents.
-(1)  Except as provided in Subsection (2) and in Subsection 48-2c-209(4), a
-document submitted to the division for filing under this chapter shall be
-considered effective at the time of filing on the date it is filed with the
-division, as evidenced by the division's stamp or endorsement on the document
-as described in Subsection 48-2c-210(2).
-(2)  Unless otherwise provided in this chapter, a document, other than an
-application to reserve the right to register a name, may specify conspicuously
-on its face a delayed effective time or date, or both an effective time and
-date, and if it does so, the document becomes effective as specified.
-(a)  If a delayed effective time but no date is specified, the document is
-effective on the date it is filed with the division, as that date is specified
-in the division's time and date stamp or endorsement on the document, at the
-later of the time specified on the document as its effective time or the time
-specified in the time and date stamp or endorsement.
-(b)  If a delayed effective date but no time is specified, the document is
-effective at the close of business on that date.
-(c)  A delayed effective date for a document may not be later than the 90th
-day after the date it is filed with the division.  If a document specifies a
-delayed effective date that is later than the 90th day after the document is
-filed with the division, the document is effective on the 90th day after it is
-filed with the division.
-(3)  If a document specified a delayed effective date pursuant to Subsection
-(2), the document may be prevented from becoming effective by delivering to
-the division, prior to the specified effective date of the document, a
-certificate of withdrawal, signed in the same manner as the document being
-withdrawn, stating that the document has been revoked by appropriate action
-and is void.
+
+(1)  Except as provided in Subsection (2) and in Subsection 48-2c-209(4), a document submitted to the division for filing under this chapter shall be considered effective at the time of filing on the date it is filed with the division, as evidenced by the division's stamp or endorsement on the document as described in Subsection 48-2c-210(2).
+
+(2)  Unless otherwise provided in this chapter, a document, other than an application to reserve the right to register a name, may specify conspicuously on its face a delayed effective time or date, or both an effective time and date, and if it does so, the document becomes effective as specified.
+
+(a)  If a delayed effective time but no date is specified, the document is effective on the date it is filed with the division, as that date is specified in the division's time and date stamp or endorsement on the document, at the later of the time specified on the document as its effective time or the time specified in the time and date stamp or endorsement.
+
+(b)  If a delayed effective date but no time is specified, the document is effective at the close of business on that date.
+
+(c)  A delayed effective date for a document may not be later than the 90th day after the date it is filed with the division.  If a document specifies a delayed effective date that is later than the 90th day after the document is filed with the division, the document is effective on the 90th day after it is filed with the division.
+
+(3)  If a document specified a delayed effective date pursuant to Subsection (2), the document may be prevented from becoming effective by delivering to the division, prior to the specified effective date of the document, a certificate of withdrawal, signed in the same manner as the document being withdrawn, stating that the document has been revoked by appropriate action and is void.
+

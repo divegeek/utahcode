@@ -1,51 +1,38 @@
 35A-3-603.   Civil liability for overpayment.
-(1)  As used in this section, "intentionally, knowingly, and recklessly" mean
-the same as those terms are defined in Section 76-2-103.
-(2)  Each provider, client, or other person who receives an overpayment shall,
-regardless of fault, return the overpayment or repay its value to the
-department immediately:
+
+(1)  As used in this section, "intentionally, knowingly, and recklessly" mean the same as those terms are defined in Section 76-2-103.
+
+(2)  Each provider, client, or other person who receives an overpayment shall, regardless of fault, return the overpayment or repay its value to the department immediately:
+
 (a)  upon receiving written notice of the overpayment from the department; or
-(b)  upon discovering the overpayment, if that occurs prior to receiving
-notice.
-(3) (a)  Except as provided under Subsection (3)(b), interest on the
-unreturned balance of the overpayment shall accrue at the rate of 1% a month.
-(b)  If the overpayment was not the fault of the person receiving it, that
-person is not liable for interest on the unreturned balance.
-(c)  In accordance with federal law and rules made by the department, an
-overpayment may be recovered through deductions from cash assistance, general
-assistance, food stamps, other cash-related assistance provided to a client
-under this chapter, or any other means provided by federal law.
-(4)  Each person who knowingly assists a client, provider, or other person in
-obtaining an overpayment is jointly and severally liable for the overpayment.
-(5) (a)  In proving civil liability for overpayment under this section or
-Section 35A-3-605 when fault is alleged, the department shall prove by clear
-and convincing evidence that the overpayment was obtained intentionally,
-knowingly, recklessly, by false statement, misrepresentation, impersonation,
-or other fraudulent means, such as by committing any of the acts or omissions
-described in Sections 76-8-1203 through 76-8-1205.
-(b)  If fault is established under Subsection (5)(a), Section 35A-3-605, or
-Title 76, Chapter 8, Part 12, Public Assistance Fraud, any person who obtained
-or helped another obtain an overpayment shall be subject to:
+
+(b)  upon discovering the overpayment, if that occurs prior to receiving notice.
+
+(3) (a)  Except as provided under Subsection (3)(b), interest on the unreturned balance of the overpayment shall accrue at the rate of 1% a month.
+
+(b)  If the overpayment was not the fault of the person receiving it, that person is not liable for interest on the unreturned balance.
+
+(c)  In accordance with federal law and rules made by the department, an overpayment may be recovered through deductions from cash assistance, general assistance, food stamps, other cash-related assistance provided to a client under this chapter, or any other means provided by federal law.
+
+(4)  Each person who knowingly assists a client, provider, or other person in obtaining an overpayment is jointly and severally liable for the overpayment.
+
+(5) (a)  In proving civil liability for overpayment under this section or Section 35A-3-605 when fault is alleged, the department shall prove by clear and convincing evidence that the overpayment was obtained intentionally, knowingly, recklessly, by false statement, misrepresentation, impersonation, or other fraudulent means, such as by committing any of the acts or omissions described in Sections 76-8-1203 through 76-8-1205.
+
+(b)  If fault is established under Subsection (5)(a), Section 35A-3-605, or Title 76, Chapter 8, Part 12, Public Assistance Fraud, any person who obtained or helped another obtain an overpayment shall be subject to:
+
 (i)  a  civil penalty of 10% of the amount of the overpayment; and
-(ii)  disqualification from receiving cash assistance from the Family
-Employment Program and the general assistance program, if the overpayment was
-obtained from either of those programs, for 12 months for the first offense,
-24 months for the second offense, and permanently for the third offense, or as
-otherwise provided by federal law; or
-(iii)  disqualification from the food stamp program, if that is the program
-from which the overpayment was received, for 12 months for the first offense,
-24 months for the second offense, and permanently for the third offense, or as
-otherwise provided by federal law.
-(6)  If an action is filed, the department may recover, in addition to the
-principal sum plus interest, reasonable attorneys' fees and costs unless the
-repayment obligation arose from an administrative error by the department.
-(7)  If a court finds that funds or benefits were secured, in whole or part,
-by fraud by the person from whom repayment is sought, the court shall assess
-an additional sum as considered appropriate as punitive damages up to the
-amount of repayment being sought.
-(8)  Criminal actions for public assistance fraud are governed by Title 76,
-Chapter 8, Part 12, Public Assistance Fraud.
+
+(ii)  disqualification from receiving cash assistance from the Family Employment Program and the general assistance program, if the overpayment was obtained from either of those programs, for 12 months for the first offense, 24 months for the second offense, and permanently for the third offense, or as otherwise provided by federal law; or
+
+(iii)  disqualification from the food stamp program, if that is the program from which the overpayment was received, for 12 months for the first offense, 24 months for the second offense, and permanently for the third offense, or as otherwise provided by federal law.
+
+(6)  If an action is filed, the department may recover, in addition to the principal sum plus interest, reasonable attorneys' fees and costs unless the repayment obligation arose from an administrative error by the department.
+
+(7)  If a court finds that funds or benefits were secured, in whole or part, by fraud by the person from whom repayment is sought, the court shall assess an additional sum as considered appropriate as punitive damages up to the amount of repayment being sought.
+
+(8)  Criminal actions for public assistance fraud are governed by Title 76, Chapter 8, Part 12, Public Assistance Fraud.
+
 (9)  Jurisdiction over benefits is continuous.
-(10)  This chapter does not preclude the Department of Health from carrying
-out its responsibilities under Title 26, Chapter 19, Medical Benefits Recovery
-Act, and Chapter 20, False Claims Act.
+
+(10)  This chapter does not preclude the Department of Health from carrying out its responsibilities under Title 26, Chapter 19, Medical Benefits Recovery Act, and Chapter 20, False Claims Act.
+

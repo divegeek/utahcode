@@ -1,53 +1,56 @@
 59-10-210.   Fiduciary adjustments.
-(1)  A share of the fiduciary adjustments described in Subsection (2) shall be
-added to or subtracted from unadjusted income:
+
+(1)  A share of the fiduciary adjustments described in Subsection (2) shall be added to or subtracted from unadjusted income:
+
 (a)  of:
+
 (i)  a resident or nonresident estate or trust; or
-(ii)  a resident or nonresident beneficiary of a resident or nonresident
-estate or trust; and
+
+(ii)  a resident or nonresident beneficiary of a resident or nonresident estate or trust; and
+
 (b)  as provided in this section.
-(2)  For purposes of Subsection (1), the fiduciary adjustments are the
-following amounts:
-(a)  the additions to and subtractions from unadjusted income of a resident or
-nonresident estate or trust required by Section 59-10-202; and
-(b)  a tax credit claimed by a resident or nonresident estate or trust as
-allowed by:
+
+(2)  For purposes of Subsection (1), the fiduciary adjustments are the following amounts:
+
+(a)  the additions to and subtractions from unadjusted income of a resident or nonresident estate or trust required by Section 59-10-202; and
+
+(b)  a tax credit claimed by a resident or nonresident estate or trust as allowed by:
+
 (i)  Section 59-6-102;
+
 (ii)  Part 10, Nonrefundable Tax Credit Act;
+
 (iii)  Part 11, Refundable Tax Credit Act;
+
 (iv)  Section 59-13-202;
+
 (v)  Section 63M-1-413; or
+
 (vi)  Section 63M-1-504.
-(3) (a)  The respective shares of an estate or trust and its beneficiaries,
-including for the purpose of this allocation a nonresident beneficiary, in the
-state fiduciary adjustments, shall be allocated in proportion to their
-respective shares of federal distributable net income of the estate or trust.
-(b)  If the estate or trust described in Subsection (3)(a) has no federal
-distributable net income for the taxable year, the share of each beneficiary
-in the fiduciary adjustments shall be allocated in proportion to that
-beneficiary's share of the estate or trust income for the taxable year that
-is, under state law or the governing instrument, required to be distributed
-currently plus any other amounts of that income distributed in that taxable
-year.
-(c)  After making the allocations required by Subsections (3)(a) and (b), any
-balance of the fiduciary adjustments shall be allocated to the estate or
-trust.
-(4) (a)  The commission shall allow a fiduciary to use a method for
-determining the allocation of the fiduciary adjustments described in
-Subsection (2) other than the method described in Subsection (3) if using the
-method described in Subsection (3) results in an inequity:
+
+(3) (a)  The respective shares of an estate or trust and its beneficiaries, including for the purpose of this allocation a nonresident beneficiary, in the state fiduciary adjustments, shall be allocated in proportion to their respective shares of federal distributable net income of the estate or trust.
+
+(b)  If the estate or trust described in Subsection (3)(a) has no federal distributable net income for the taxable year, the share of each beneficiary in the fiduciary adjustments shall be allocated in proportion to that beneficiary's share of the estate or trust income for the taxable year that is, under state law or the governing instrument, required to be distributed currently plus any other amounts of that income distributed in that taxable year.
+
+(c)  After making the allocations required by Subsections (3)(a) and (b), any balance of the fiduciary adjustments shall be allocated to the estate or trust.
+
+(4) (a)  The commission shall allow a fiduciary to use a method for determining the allocation of the fiduciary adjustments described in Subsection (2) other than the method described in Subsection (3) if using the method described in Subsection (3) results in an inequity:
+
 (i)  in allocating the fiduciary adjustments described in Subsection (2); and
+
 (ii)  if the inequity is substantial:
+
 (A)  in amount; and
-(B)  in relation to the total amount of the fiduciary adjustments described in
-Subsection (2).
-(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may make rules authorizing a fiduciary to use a method for
-determining the allocation of the fiduciary adjustments described in
-Subsection (2) other than the method described in Subsection (3) if using the
-method described in Subsection (3) results in an inequity:
+
+(B)  in relation to the total amount of the fiduciary adjustments described in Subsection (2).
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules authorizing a fiduciary to use a method for determining the allocation of the fiduciary adjustments described in Subsection (2) other than the method described in Subsection (3) if using the method described in Subsection (3) results in an inequity:
+
 (i)  in allocating the fiduciary adjustments described in Subsection (2); and
+
 (ii)  if the inequity is substantial:
+
 (A)  in amount; and
-(B)  in relation to the total amount of the fiduciary adjustments described in
-Subsection (2).
+
+(B)  in relation to the total amount of the fiduciary adjustments described in Subsection (2).
+

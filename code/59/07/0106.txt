@@ -1,101 +1,58 @@
 59-7-106 (Superseded 01/01/11).   Subtractions from unadjusted income.
-In computing adjusted income the following amounts shall be subtracted from
-unadjusted income:
-(1)  the foreign dividend gross-up included in gross income for federal income
-tax purposes under Section 78, Internal Revenue Code;
-(2)  the net capital loss, as defined for federal purposes, if the taxpayer
-elects to deduct the loss on the current Utah return.  The deduction shall be
-made by claiming the deduction on the current Utah return which shall be filed
-by the due date of the return, including extensions.  For the purposes of this
-Subsection (2) all capital losses in a given year must be:
+
+In computing adjusted income the following amounts shall be subtracted from unadjusted income:
+
+(1)  the foreign dividend gross-up included in gross income for federal income tax purposes under Section 78, Internal Revenue Code;
+
+(2)  the net capital loss, as defined for federal purposes, if the taxpayer elects to deduct the loss on the current Utah return.  The deduction shall be made by claiming the deduction on the current Utah return which shall be filed by the due date of the return, including extensions.  For the purposes of this Subsection (2) all capital losses in a given year must be:
+
 (a)  deducted in the year incurred; or
-(b)  carried forward as provided in Sections 1212(a)(1)(B) and (C), Internal
-Revenue Code;
-(3)  the decrease in salary expense deduction for federal income tax purposes
-due to claiming the federal jobs credit under Section 51, Internal Revenue
-Code;
-(4)  the decrease in qualified research and basic research expense deduction
-for federal income tax purposes due to claiming the federal research and
-development credit under Section 41, Internal Revenue Code;
-(5)  the decrease in qualified clinical testing expense deduction for federal
-income tax purposes due to claiming the federal orphan drug credit under
-Section 28, Internal Revenue Code;
-(6)  any decrease in any expense deduction for federal income tax purposes due
-to claiming any other federal credit;
-(7)  the safe harbor lease adjustment required under Subsections
-59-7-111(1)(b) and (2)(b);
-(8)  any income on the federal corporate return that has been previously taxed
-by Utah;
-(9)  amounts included in federal taxable income that are due to refunds of
-taxes imposed for the privilege of doing business, or exercising a corporate
-franchise, including income, franchise, corporate stock and business and
-occupation taxes paid by the corporation to Utah, another state of the United
-States, a foreign country, a United States possession, or the Commonwealth of
-Puerto Rico to the extent that the taxes were added to unadjusted income under
-Section 59-7-105;
-(10)  charitable contributions, to the extent allowed as a subtraction under
-Section 59-7-109;
-(11) (a)  50% of the dividends deemed received or received from subsidiaries
-which are members of the unitary group and are organized or incorporated
-outside of the United States unless such subsidiaries are included in a
-combined report under Section 59-7-402 or 59-7-403.  In arriving at the amount
-of the dividend exclusion, the taxpayer shall first deduct from the dividends
-deemed received or received, the expense directly attributable to those
-dividends.  Interest expense attributable to excluded dividends shall be
-determined by multiplying interest expense by a fraction, the numerator of
-which is the taxpayer's average investment in such dividend paying
-subsidiaries, and the denominator of which is the taxpayer's average total
-investment in assets;
-(b)  in determining income apportionable to this state, a portion of the
-factors of a foreign subsidiary whose dividends are partially excluded under
-Subsection (11)(a) shall be included in the combined report factors.  The
-portion to be included shall be determined by multiplying each factor of the
-foreign subsidiary by a fraction, but not to exceed 100%, the numerator of
-which is the amount of the dividend paid by the foreign subsidiary which is
-included in adjusted income, and the denominator of which is the current year
-earnings and profits of the foreign subsidiary as determined under the
-Internal Revenue Code;
-(12) (a)  50% of the adjusted income of a foreign operating company unless the
-taxpayer has elected to file a worldwide combined report as provided in
-Section 59-7-403.  For purposes of this Subsection (12), when calculating the
-adjusted income of a foreign operating company, a foreign operating company
-may not deduct the subtractions allowable under this Subsection (12) and
-Subsection (11);
-(b)  in determining income apportionable to this state, the factors for a
-foreign operating company shall be included in the combined report factors in
-the same percentage its adjusted income is included in the combined adjusted
-income;
-(13)  the amount of gain or loss which is included in unadjusted income but
-not recognized for federal purposes on stock sold or exchanged by a member of
-a selling consolidated group as defined in Section 338, Internal Revenue Code,
-if an election has been made pursuant to Section 338(h)(10), Internal Revenue
-Code;
-(14)  the amount of gain or loss which is included in unadjusted income but
-not recognized for federal purposes on stock sold, exchanged, or distributed
-by a corporation pursuant to Section 336(e), Internal Revenue Code, if an
-election under Section 336(e), Internal Revenue Code, has been made for
-federal purposes;
-(15) (a)  adjustments to gains, losses, depreciation expense, amortization
-expense, and similar items due to a difference between basis for federal
-purposes and basis as computed under Section 59-7-107; and
-(b)  if there has been a reduction in federal basis for a federal tax credit
-where there is no corresponding Utah tax credit, the amount of the reduction
-in basis shall be allowed as an expense in the year of the federal credit;
-(16)  any interest expense not deducted on the federal corporate return under
-Section 265(b) or 291(e), Internal Revenue Code;
-(17)  100% of the dividends received from subsidiaries which are insurance
-companies exempt from this chapter under Subsection 59-7-102(1)(c) and are
-under common ownership;
-(18)  subject to Subsection 59-7-105(12), the amount of a qualified investment
-as defined in Section 53B-8a-102 that:
-(a)  a corporation that is an account owner as defined in Section 53B-8a-102
-makes during the taxable year;
-(b)  the corporation described in Subsection (18)(a) does not deduct on a
-federal corporation income tax return; and
-(c)  does not exceed the maximum amount of the qualified investment that may
-be subtracted from unadjusted income for a taxable year in accordance with
-Subsection 53B-8a-106(1); and
-(19)  for purposes of income included in a combined report under Part 4,
-Combined Reporting, the entire amount of the dividends a member of a unitary
-group receives or is considered to receive from a captive real estate
-investment trust.
+
+(b)  carried forward as provided in Sections 1212(a)(1)(B) and (C), Internal Revenue Code;
+
+(3)  the decrease in salary expense deduction for federal income tax purposes due to claiming the federal jobs credit under Section 51, Internal Revenue Code;
+
+(4)  the decrease in qualified research and basic research expense deduction for federal income tax purposes due to claiming the federal research and development credit under Section 41, Internal Revenue Code;
+
+(5)  the decrease in qualified clinical testing expense deduction for federal income tax purposes due to claiming the federal orphan drug credit under Section 28, Internal Revenue Code;
+
+(6)  any decrease in any expense deduction for federal income tax purposes due to claiming any other federal credit;
+
+(7)  the safe harbor lease adjustment required under Subsections 59-7-111(1)(b) and (2)(b);
+
+(8)  any income on the federal corporate return that has been previously taxed by Utah;
+
+(9)  amounts included in federal taxable income that are due to refunds of taxes imposed for the privilege of doing business, or exercising a corporate franchise, including income, franchise, corporate stock and business and occupation taxes paid by the corporation to Utah, another state of the United States, a foreign country, a United States possession, or the Commonwealth of Puerto Rico to the extent that the taxes were added to unadjusted income under Section 59-7-105;
+
+(10)  charitable contributions, to the extent allowed as a subtraction under Section 59-7-109;
+
+(11) (a)  50% of the dividends deemed received or received from subsidiaries which are members of the unitary group and are organized or incorporated outside of the United States unless such subsidiaries are included in a combined report under Section 59-7-402 or 59-7-403.  In arriving at the amount of the dividend exclusion, the taxpayer shall first deduct from the dividends deemed received or received, the expense directly attributable to those dividends.  Interest expense attributable to excluded dividends shall be determined by multiplying interest expense by a fraction, the numerator of which is the taxpayer's average investment in such dividend paying subsidiaries, and the denominator of which is the taxpayer's average total investment in assets;
+
+(b)  in determining income apportionable to this state, a portion of the factors of a foreign subsidiary whose dividends are partially excluded under Subsection (11)(a) shall be included in the combined report factors.  The portion to be included shall be determined by multiplying each factor of the foreign subsidiary by a fraction, but not to exceed 100%, the numerator of which is the amount of the dividend paid by the foreign subsidiary which is included in adjusted income, and the denominator of which is the current year earnings and profits of the foreign subsidiary as determined under the Internal Revenue Code;
+
+(12) (a)  50% of the adjusted income of a foreign operating company unless the taxpayer has elected to file a worldwide combined report as provided in Section 59-7-403.  For purposes of this Subsection (12), when calculating the adjusted income of a foreign operating company, a foreign operating company may not deduct the subtractions allowable under this Subsection (12) and Subsection (11);
+
+(b)  in determining income apportionable to this state, the factors for a foreign operating company shall be included in the combined report factors in the same percentage its adjusted income is included in the combined adjusted income;
+
+(13)  the amount of gain or loss which is included in unadjusted income but not recognized for federal purposes on stock sold or exchanged by a member of a selling consolidated group as defined in Section 338, Internal Revenue Code, if an election has been made pursuant to Section 338(h)(10), Internal Revenue Code;
+
+(14)  the amount of gain or loss which is included in unadjusted income but not recognized for federal purposes on stock sold, exchanged, or distributed by a corporation pursuant to Section 336(e), Internal Revenue Code, if an election under Section 336(e), Internal Revenue Code, has been made for federal purposes;
+
+(15) (a)  adjustments to gains, losses, depreciation expense, amortization expense, and similar items due to a difference between basis for federal purposes and basis as computed under Section 59-7-107; and
+
+(b)  if there has been a reduction in federal basis for a federal tax credit where there is no corresponding Utah tax credit, the amount of the reduction in basis shall be allowed as an expense in the year of the federal credit;
+
+(16)  any interest expense not deducted on the federal corporate return under Section 265(b) or 291(e), Internal Revenue Code;
+
+(17)  100% of the dividends received from subsidiaries which are insurance companies exempt from this chapter under Subsection 59-7-102(1)(c) and are under common ownership;
+
+(18)  subject to Subsection 59-7-105(12), the amount of a qualified investment as defined in Section 53B-8a-102 that:
+
+(a)  a corporation that is an account owner as defined in Section 53B-8a-102 makes during the taxable year;
+
+(b)  the corporation described in Subsection (18)(a) does not deduct on a federal corporation income tax return; and
+
+(c)  does not exceed the maximum amount of the qualified investment that may be subtracted from unadjusted income for a taxable year in accordance with Subsection 53B-8a-106(1); and
+
+(19)  for purposes of income included in a combined report under Part 4, Combined Reporting, the entire amount of the dividends a member of a unitary group receives or is considered to receive from a captive real estate investment trust.
+

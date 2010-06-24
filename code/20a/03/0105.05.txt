@@ -1,54 +1,64 @@
 20A-3-105.5.   Manner of voting -- Provisional ballot.
-(1)  The poll workers shall follow the procedures and requirements of this
-section when:
-(a)  the person's right to vote is challenged as provided in Section 20A-3-202
-or 20A-3-202.5;
+
+(1)  The poll workers shall follow the procedures and requirements of this section when:
+
+(a)  the person's right to vote is challenged as provided in Section 20A-3-202 or 20A-3-202.5;
+
 (b)  the person's name is not found on the official register; or
-(c)  the poll worker is not satisfied that the voter has provided valid voter
-identification.
-(2)  When faced with one of the circumstances outlined in Subsection (1)(a)
-or(b), the poll worker shall:
+
+(c)  the poll worker is not satisfied that the voter has provided valid voter identification.
+
+(2)  When faced with one of the circumstances outlined in Subsection (1)(a) or(b), the poll worker shall:
+
 (a)  request that the person provide valid voter identification; and
+
 (b)  review the identification provided by the person.
-(3)  If the poll worker is satisfied that the person has provided valid voter
-identification that establishes the person's identity and residence in the
-voting precinct:
+
+(3)  If the poll worker is satisfied that the person has provided valid voter identification that establishes the person's identity and residence in the voting precinct:
+
 (a)  the poll worker in charge of the official register shall:
-(i)  record in the official register the type of identification that
-established the person's identity and place of residence;
-(ii)  write the provisional ballot envelope number opposite the name of the
-voter in the official register; and
-(iii)  direct the voter to sign his name in the election column in the
-official register;
-(b)  another poll worker shall list the ballot number and voter's name in the
-pollbook; and
+
+(i)  record in the official register the type of identification that established the person's identity and place of residence;
+
+(ii)  write the provisional ballot envelope number opposite the name of the voter in the official register; and
+
+(iii)  direct the voter to sign his name in the election column in the official register;
+
+(b)  another poll worker shall list the ballot number and voter's name in the pollbook; and
+
 (c)  the poll worker having charge of the ballots shall:
+
 (i)  endorse his initials on the stub;
-(ii)  check the name of the voter on the pollbook list with the number of the
-stub;
+
+(ii)  check the name of the voter on the pollbook list with the number of the stub;
+
 (iii)  give the voter a ballot and a provisional ballot envelope; and
+
 (iv)  allow the voter to enter the voting booth.
-(4)  If the poll worker is not satisfied that the voter has provided valid
-voter identification that establishes the person's identity and residence in
-the voting precinct:
+
+(4)  If the poll worker is not satisfied that the voter has provided valid voter identification that establishes the person's identity and residence in the voting precinct:
+
 (a)  the poll worker in charge of the official register shall:
-(i)  record in the official register that the voter did not provide valid
-voter identification;
-(ii)  record in the official register the type of identification that was
-provided by the voter, if any;
-(iii)  write the provisional ballot envelope number opposite the name of the
-voter in the official register; and
-(iv)  direct the voter to sign his name in the election column in the official
-register;
-(b)  another poll worker shall list the ballot number and voter's name in the
-pollbook; and
+
+(i)  record in the official register that the voter did not provide valid voter identification;
+
+(ii)  record in the official register the type of identification that was provided by the voter, if any;
+
+(iii)  write the provisional ballot envelope number opposite the name of the voter in the official register; and
+
+(iv)  direct the voter to sign his name in the election column in the official register;
+
+(b)  another poll worker shall list the ballot number and voter's name in the pollbook; and
+
 (c)  the poll worker having charge of the ballots shall:
+
 (i)  endorse his initials on the stub;
-(ii)  check the name of the voter on the pollbook list with the number of the
-stub;
+
+(ii)  check the name of the voter on the pollbook list with the number of the stub;
+
 (iii)  give the voter a ballot and a provisional ballot envelope; and
+
 (iv)  allow the voter to enter the voting booth.
-(5)  Whenever the election officer is required to furnish more than one kind
-of official ballot to a voting precinct, the poll workers of that voting
-precinct shall give the registered voter the kind of ballot that the voter is
-qualified to vote.
+
+(5)  Whenever the election officer is required to furnish more than one kind of official ballot to a voting precinct, the poll workers of that voting precinct shall give the registered voter the kind of ballot that the voter is qualified to vote.
+

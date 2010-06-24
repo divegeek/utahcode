@@ -1,57 +1,44 @@
 19-3-103.5.   Board authority and duties.
+
 (1)  The board may:
-(a)  require submittal of specifications or other information relating to
-licensing applications for radioactive materials or registration of radiation
-sources for review, approval, disapproval, or termination;
-(b)  issue orders necessary to enforce the provisions of this part, enforce
-the orders by appropriate administrative and judicial proceedings, and
-institute judicial proceedings to secure compliance with this part;
-(c) (i)  hold a hearing that is not an adjudicative proceeding and compel the
-attendance of witnesses, the production of documents, and other evidence,
-administer oaths and take testimony, and receive evidence it finds proper, or
-appoint hearing officers to conduct a hearing that is not an adjudicative
-proceeding and authorize them to exercise the powers under this Subsection
-(1);
-(ii)  receive a proposed dispositive action from an administrative law judge
-as provided by Section 19-1-301; and
-(iii) (A)  approve, approve with modifications, or disapprove a proposed
-dispositive action; or
-(B)  return the proposed dispositive action to the administrative law judge
-for further action as directed;
-(d)  settle or compromise any administrative or civil action initiated to
-compel compliance with this part or any rules adopted under this part;
-(e)  advise, consult, cooperate with, and provide technical assistance to
-other agencies of the state and federal government, other states, interstate
-agencies, and affected groups, political subdivisions, industries, and other
-persons in carrying out the provisions of this part;
-(f)  promote the planning and application of pollution prevention and
-radioactive waste minimization measures to prevent the unnecessary waste and
-depletion of natural resources;
-(g)  cooperate with any persons in studies, research, or demonstration
-projects regarding radioactive waste management or control of radiation
-sources;
-(h)  accept, receive, and administer grants or other funds or gifts from
-public and private agencies, including the federal government, for the purpose
-of carrying out any of the functions of this part;
-(i)  exercise all incidental powers necessary to carry out the purposes of
-this part;
-(j)  submit an application to the U.S. Food and Drug Administration for
-approval as an accrediting body in accordance with 42 U.S.C. 263b, Mammography
-Quality Standards Act of 1992;
-(k)  accredit mammography facilities, pursuant to approval as an accrediting
-body from the U.S. Food and Drug Administration, in accordance with 42 U.S.C.
-263b, Mammography Quality Standards Act of 1992; and
-(l)  review the qualifications of and issue certificates of approval to
-individuals who survey mammography equipment and oversee quality assurance
-practices at mammography facilities.
+
+(a)  require submittal of specifications or other information relating to licensing applications for radioactive materials or registration of radiation sources for review, approval, disapproval, or termination;
+
+(b)  issue orders necessary to enforce the provisions of this part, enforce the orders by appropriate administrative and judicial proceedings, and institute judicial proceedings to secure compliance with this part;
+
+(c) (i)  hold a hearing that is not an adjudicative proceeding and compel the attendance of witnesses, the production of documents, and other evidence, administer oaths and take testimony, and receive evidence it finds proper, or appoint hearing officers to conduct a hearing that is not an adjudicative proceeding and authorize them to exercise the powers under this Subsection (1);
+
+(ii)  receive a proposed dispositive action from an administrative law judge as provided by Section 19-1-301; and
+
+(iii) (A)  approve, approve with modifications, or disapprove a proposed dispositive action; or
+
+(B)  return the proposed dispositive action to the administrative law judge for further action as directed;
+
+(d)  settle or compromise any administrative or civil action initiated to compel compliance with this part or any rules adopted under this part;
+
+(e)  advise, consult, cooperate with, and provide technical assistance to other agencies of the state and federal government, other states, interstate agencies, and affected groups, political subdivisions, industries, and other persons in carrying out the provisions of this part;
+
+(f)  promote the planning and application of pollution prevention and radioactive waste minimization measures to prevent the unnecessary waste and depletion of natural resources;
+
+(g)  cooperate with any persons in studies, research, or demonstration projects regarding radioactive waste management or control of radiation sources;
+
+(h)  accept, receive, and administer grants or other funds or gifts from public and private agencies, including the federal government, for the purpose of carrying out any of the functions of this part;
+
+(i)  exercise all incidental powers necessary to carry out the purposes of this part;
+
+(j)  submit an application to the U.S. Food and Drug Administration for approval as an accrediting body in accordance with 42 U.S.C. 263b, Mammography Quality Standards Act of 1992;
+
+(k)  accredit mammography facilities, pursuant to approval as an accrediting body from the U.S. Food and Drug Administration, in accordance with 42 U.S.C. 263b, Mammography Quality Standards Act of 1992; and
+
+(l)  review the qualifications of and issue certificates of approval to individuals who survey mammography equipment and oversee quality assurance practices at mammography facilities.
+
 (2)  The board shall:
-(a)  receive a proposed dispositive action from an administrative law judge on
-an appeal of final decisions made by the executive secretary as provided by
-Section 19-1-301;
-(b)  prepare a radioactive waste management plan in compliance with Section
-19-3-107 as soon as practicable; and
+
+(a)  receive a proposed dispositive action from an administrative law judge on an appeal of final decisions made by the executive secretary as provided by Section 19-1-301;
+
+(b)  prepare a radioactive waste management plan in compliance with Section 19-3-107 as soon as practicable; and
+
 (c)  impound radioactive material as authorized in Section 19-3-111.
-(3)  Representatives of the board upon presentation of appropriate credentials
-may enter at reasonable times upon the premises of public and private
-properties subject to regulation under this part to perform inspections to
-insure compliance with this part and rules made by the board.
+
+(3)  Representatives of the board upon presentation of appropriate credentials may enter at reasonable times upon the premises of public and private properties subject to regulation under this part to perform inspections to insure compliance with this part and rules made by the board.
+

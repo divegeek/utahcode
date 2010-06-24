@@ -1,29 +1,26 @@
-78B-14-502.   Employer's compliance with income withholding of another
-state.
-(1)  Upon receipt of an income-withholding order, the obligor's employer shall
-immediately provide a copy of the order to the obligor.
-(2)  The employer shall treat an income-withholding order issued in another
-state which appears regular on its face as if it had been issued by a tribunal
-of this state.
-(3)  Except as otherwise provided in Subsection (4) and Section 78B-14-503,
-the employer shall withhold and distribute the funds as directed in the
-withholding order by complying with terms of the order which specify:
-(a)  the duration and amount of periodic payments of current child-support,
-stated as a sum certain;
-(b)  the person designated to receive payments and the address to which the
-payments are to be forwarded;
-(c)  medical support, whether in the form of periodic cash payment, stated as
-a sum certain, or ordering the obligor to provide health insurance coverage
-for the child under a policy available through the obligor's employment;
-(d)  the amount of periodic payments of fees and costs for a support-
-enforcement agency, the issuing tribunal, and the obligee's attorney, stated
-as sums certain; and
-(e)  the amount of periodic payments of arrearages and interest on arrearages,
-stated as sums certain.
-(4)  An employer shall comply with the law of the state of the obligor's
-principal place of employment for withholding from income with respect to:
+78B-14-502.   Employer's compliance with income withholding of another state.
+
+(1)  Upon receipt of an income-withholding order, the obligor's employer shall immediately provide a copy of the order to the obligor.
+
+(2)  The employer shall treat an income-withholding order issued in another state which appears regular on its face as if it had been issued by a tribunal of this state.
+
+(3)  Except as otherwise provided in Subsection (4) and Section 78B-14-503, the employer shall withhold and distribute the funds as directed in the withholding order by complying with terms of the order which specify:
+
+(a)  the duration and amount of periodic payments of current child-support, stated as a sum certain;
+
+(b)  the person designated to receive payments and the address to which the payments are to be forwarded;
+
+(c)  medical support, whether in the form of periodic cash payment, stated as a sum certain, or ordering the obligor to provide health insurance coverage for the child under a policy available through the obligor's employment;
+
+(d)  the amount of periodic payments of fees and costs for a support-enforcement agency, the issuing tribunal, and the obligee's attorney, stated as sums certain; and
+
+(e)  the amount of periodic payments of arrearages and interest on arrearages, stated as sums certain.
+
+(4)  An employer shall comply with the law of the state of the obligor's principal place of employment for withholding from income with respect to:
+
 (a)  the employer's fee for processing an income withholding order;
-(b)  the maximum amount permitted to be withheld from the obligor's income;
-and
-(c)  the times within which the employer must implement the withholding order
-and forward the child-support payment.
+
+(b)  the maximum amount permitted to be withheld from the obligor's income; and
+
+(c)  the times within which the employer must implement the withholding order and forward the child-support payment.
+

@@ -1,84 +1,54 @@
 11-17-2.   Definitions.
+
 As used in this chapter:
+
 (1)  "Bonds" means bonds, notes, or other evidences of indebtedness.
-(2)  "Finance" or "financing" includes the issuing of bonds by a municipality,
-county, or state university for the purpose of using a portion, or all or
-substantially all of the proceeds to pay for or to reimburse the user or its
-designee for the costs of the acquisition of facilities of a project, or to
-create funds for the project itself where appropriate, whether these costs are
-incurred by the municipality, the county, the state university, the user, or a
-designee of the user.  If title to or in these facilities at all times remains
-in the user, the bonds of the municipality or county shall be secured by a
-pledge of one or more notes, debentures, bonds, other secured or unsecured
-debt obligations of the user, or such sinking fund or other arrangement as in
-the judgment of the governing body is appropriate for the purpose of assuring
-repayment of the bond obligations to investors in accordance with their terms.
+
+(2)  "Finance" or "financing" includes the issuing of bonds by a municipality, county, or state university for the purpose of using a portion, or all or substantially all of the proceeds to pay for or to reimburse the user or its designee for the costs of the acquisition of facilities of a project, or to create funds for the project itself where appropriate, whether these costs are incurred by the municipality, the county, the state university, the user, or a designee of the user.  If title to or in these facilities at all times remains in the user, the bonds of the municipality or county shall be secured by a pledge of one or more notes, debentures, bonds, other secured or unsecured debt obligations of the user, or such sinking fund or other arrangement as in the judgment of the governing body is appropriate for the purpose of assuring repayment of the bond obligations to investors in accordance with their terms.
+
 (3)  "Governing body" means:
-(a)  for a county, city, or town, the legislative body of the county, city, or
-town;
-(b)  for the military installation development authority created in Section
-63H-1-201, the authority board, as defined in Section 63H-1-102;
-(c)  for the University of Utah and Utah State University, the board or body
-having the control and supervision of the University of Utah and Utah State
-University; and
-(d)  for a nonprofit corporation or foundation created by and operating under
-the auspices of a state university, the board of directors or board of
-trustees of that corporation or foundation.
-(4)  "Industrial park" means land, including all necessary rights,
-appurtenances, easements, and franchises relating to it, acquired and
-developed by any municipality, county, or state university for the
-establishment and location of a series of sites for plants and other buildings
-for industrial, distribution, and wholesale use.  There may be included as
-part of the development of the land for any industrial park under this chapter
-the acquisition and provision of water, sewerage, drainage, street, road,
-sidewalk, curb, gutter, street lighting, electrical distribution, railroad, or
-docking facilities, or any combination of them, but only to the extent that
-these facilities are incidental to the use of the land as an industrial park.
+
+(a)  for a county, city, or town, the legislative body of the county, city, or town;
+
+(b)  for the military installation development authority created in Section 63H-1-201, the authority board, as defined in Section 63H-1-102;
+
+(c)  for the University of Utah and Utah State University, the board or body having the control and supervision of the University of Utah and Utah State University; and
+
+(d)  for a nonprofit corporation or foundation created by and operating under the auspices of a state university, the board of directors or board of trustees of that corporation or foundation.
+
+(4)  "Industrial park" means land, including all necessary rights, appurtenances, easements, and franchises relating to it, acquired and developed by any municipality, county, or state university for the establishment and location of a series of sites for plants and other buildings for industrial, distribution, and wholesale use.  There may be included as part of the development of the land for any industrial park under this chapter the acquisition and provision of water, sewerage, drainage, street, road, sidewalk, curb, gutter, street lighting, electrical distribution, railroad, or docking facilities, or any combination of them, but only to the extent that these facilities are incidental to the use of the land as an industrial park.
+
 (5)  "Mortgage" means a mortgage, trust deed, or other security device.
-(6)  "Municipality" means any incorporated city or town in the state,
-including cities or towns operating under home rule charters.
-(7)  "Pollution" means any form of environmental pollution including water
-pollution, air pollution, pollution caused by solid waste disposal, thermal
-pollution, radiation contamination, or noise pollution.
+
+(6)  "Municipality" means any incorporated city or town in the state, including cities or towns operating under home rule charters.
+
+(7)  "Pollution" means any form of environmental pollution including water pollution, air pollution, pollution caused by solid waste disposal, thermal pollution, radiation contamination, or noise pollution.
+
 (8)  "Project" means:
-(a)  any industrial park, land, interest in land, building, structure,
-facility, system, fixture, improvement, appurtenance, machinery, equipment, or
-any combination of them, whether or not in existence or under construction:
-(i)  that is suitable for industrial, manufacturing, warehousing, research,
-business, and professional office building facilities, commercial, shopping
-services, food, lodging, low income rental housing, recreational, or any other
-business purposes;
+
+(a)  any industrial park, land, interest in land, building, structure, facility, system, fixture, improvement, appurtenance, machinery, equipment, or any combination of them, whether or not in existence or under construction:
+
+(i)  that is suitable for industrial, manufacturing, warehousing, research, business, and professional office building facilities, commercial, shopping services, food, lodging, low income rental housing, recreational, or any other business purposes;
+
 (ii)  that is suitable to provide services to the general public;
-(iii)  that is suitable for use by any corporation, person, or entity engaged
-in health care services, including hospitals, nursing homes, extended care
-facilities, facilities for the care of persons with a physical or mental
-disability, and administrative and support facilities; or
-(iv)  that is suitable for use by a state university for the purpose of aiding
-in the accomplishment of its authorized academic, scientific, engineering,
-technical, and economic development functions, but "project" does not include
-any property, real, personal, or mixed, for the purpose of the construction,
-reconstruction, improvement, or maintenance of a public utility as defined in
-Section 54-2-1, and except as provided in Subsection (8)(b);
-(b)  any land, interest in land, building, structure, facility, system,
-fixture, improvement, appurtenance, machinery, equipment, or any combination
-of them, used by any individual, partnership, firm, company, corporation,
-public utility, association, trust, estate, political subdivision, state
-agency, or any other legal entity, or its legal representative, agent, or
-assigns, for the reduction, abatement, or prevention of pollution, including
-the removal or treatment of any substance in process material, if that
-material would cause pollution if used without the removal or treatment;
-(c)  facilities, machinery, or equipment, the manufacturing and financing of
-which will maintain or enlarge domestic or foreign markets for Utah industrial
-products; or
-(d)  any economic development or new venture investment fund to be raised
-other than from:
+
+(iii)  that is suitable for use by any corporation, person, or entity engaged in health care services, including hospitals, nursing homes, extended care facilities, facilities for the care of persons with a physical or mental disability, and administrative and support facilities; or
+
+(iv)  that is suitable for use by a state university for the purpose of aiding in the accomplishment of its authorized academic, scientific, engineering, technical, and economic development functions, but "project" does not include any property, real, personal, or mixed, for the purpose of the construction, reconstruction, improvement, or maintenance of a public utility as defined in Section 54-2-1, and except as provided in Subsection (8)(b);
+
+(b)  any land, interest in land, building, structure, facility, system, fixture, improvement, appurtenance, machinery, equipment, or any combination of them, used by any individual, partnership, firm, company, corporation, public utility, association, trust, estate, political subdivision, state agency, or any other legal entity, or its legal representative, agent, or assigns, for the reduction, abatement, or prevention of pollution, including the removal or treatment of any substance in process material, if that material would cause pollution if used without the removal or treatment;
+
+(c)  facilities, machinery, or equipment, the manufacturing and financing of which will maintain or enlarge domestic or foreign markets for Utah industrial products; or
+
+(d)  any economic development or new venture investment fund to be raised other than from:
+
 (i)  municipal or county general fund money;
+
 (ii)  money raised under the taxing power of any county or municipality; or
+
 (iii)  money raised against the general credit of any county or municipality.
-(9)  "State university" means the University of Utah and Utah State University
-and includes any nonprofit corporation or foundation created by and operating
-under their authority.
-(10)  "User" means the person, whether natural or corporate, who will occupy,
-operate, maintain, and employ the facilities of, or manage and administer a
-project after the financing, acquisition, or construction of it, whether as
-owner, manager, purchaser, lessee, or otherwise.
+
+(9)  "State university" means the University of Utah and Utah State University and includes any nonprofit corporation or foundation created by and operating under their authority.
+
+(10)  "User" means the person, whether natural or corporate, who will occupy, operate, maintain, and employ the facilities of, or manage and administer a project after the financing, acquisition, or construction of it, whether as owner, manager, purchaser, lessee, or otherwise.
+

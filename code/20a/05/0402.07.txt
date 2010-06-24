@@ -1,36 +1,44 @@
 20A-5-402.7.   Voting Equipment Selection Committee.
-(1)  As used in this section, "new voting equipment system" means voting
-equipment that is operated in a materially different way or that functions in
-a materially different way than the equipment being replaced.
-(2)  Before selecting or purchasing a new voting equipment system after
-January 1, 2007, the lieutenant governor shall:
+
+(1)  As used in this section, "new voting equipment system" means voting equipment that is operated in a materially different way or that functions in a materially different way than the equipment being replaced.
+
+(2)  Before selecting or purchasing a new voting equipment system after January 1, 2007, the lieutenant governor shall:
+
 (a)  appoint a Voting Equipment Selection Committee; and
+
 (b)  ensure that the committee includes persons having experience in:
+
 (i)  election procedures and administration;
+
 (ii)  computer technology;
+
 (iii)  data security;
+
 (iv)  auditing; and
+
 (v)  access for persons with disabilities.
-(3)  A member may not receive compensation or benefits for the member's
-service, but may receive per diem and travel expenses in accordance with:
+
+(3)  A member may not receive compensation or benefits for the member's service, but may receive per diem and travel expenses in accordance with:
+
 (a)  Section 63A-3-106;
+
 (b)  Section 63A-3-107; and
-(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and
-63A-3-107.
-(4)  The lieutenant governor shall select a chair from the committee
-membership.
-(5)  The lieutenant governor may fill any vacancies that occur on the
-committee.
-(6)  The lieutenant governor's office shall provide staffing for the
-committee.
+
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and 63A-3-107.
+
+(4)  The lieutenant governor shall select a chair from the committee membership.
+
+(5)  The lieutenant governor may fill any vacancies that occur on the committee.
+
+(6)  The lieutenant governor's office shall provide staffing for the committee.
+
 (7)  The Voting Equipment Selection Committee shall:
-(a)  evaluate new voting equipment systems proposed for purchase by the state;
-and
-(b)  provide information and recommendations to assist the lieutenant governor
-with the purchase of new voting equipment systems.
-(8)  The lieutenant governor may designate individuals, including committee
-members, to inspect and review proprietary software as part of an evaluation
-of new voting equipment systems under consideration for purchase.
-(9)  Before making any selection or purchase, the lieutenant governor shall
-provide for a period of public review and comment on new voting equipment
-systems under consideration for purchase by the state.
+
+(a)  evaluate new voting equipment systems proposed for purchase by the state; and
+
+(b)  provide information and recommendations to assist the lieutenant governor with the purchase of new voting equipment systems.
+
+(8)  The lieutenant governor may designate individuals, including committee members, to inspect and review proprietary software as part of an evaluation of new voting equipment systems under consideration for purchase.
+
+(9)  Before making any selection or purchase, the lieutenant governor shall provide for a period of public review and comment on new voting equipment systems under consideration for purchase by the state.
+

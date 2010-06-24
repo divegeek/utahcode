@@ -1,141 +1,70 @@
 7-7-21.   Powers of associations.
-(1)  Every association incorporated or operating under the provisions of this
-chapter shall have all the powers enumerated, authorized, and permitted by
-this chapter and such other rights, privileges, and powers as may be
-incidental to or reasonably necessary or appropriate for the accomplishment of
-the objects and purposes of the association.
-(2)  Among others, and except as otherwise limited by the provisions of this
-chapter, every association shall have the following powers:
-(a)  to have perpetual existence, to adopt and use a corporate seal, which may
-be affixed by imprint, facsimile, or otherwise; and to adopt and amend bylaws
-as provided in this chapter;
+
+(1)  Every association incorporated or operating under the provisions of this chapter shall have all the powers enumerated, authorized, and permitted by this chapter and such other rights, privileges, and powers as may be incidental to or reasonably necessary or appropriate for the accomplishment of the objects and purposes of the association.
+
+(2)  Among others, and except as otherwise limited by the provisions of this chapter, every association shall have the following powers:
+
+(a)  to have perpetual existence, to adopt and use a corporate seal, which may be affixed by imprint, facsimile, or otherwise; and to adopt and amend bylaws as provided in this chapter;
+
 (b)  to sue, be sued, complain, and defend in any court;
-(c) (i)  to acquire, hold, sell, dispose of, and convey real and personal
-estate consistent with the association's objects and powers;
+
+(c) (i)  to acquire, hold, sell, dispose of, and convey real and personal estate consistent with the association's objects and powers;
+
 (ii)  to mortgage, pledge, or lease any real or personal estate; and
+
 (iii)  to take property by gift, devise, or bequest;
-(d)  if and when an association is not a member of a federal home loan bank,
-to borrow from sources, individual or corporate, in addition to its savings
-liability and other accounts, not more than an aggregate amount equal to 25%
-of its assets on the date of borrowing.  If and when an association is a
-member of a federal home loan bank, to borrow from sources, individual or
-corporate, in addition to its savings liability and other accounts, not more
-than an aggregate amount equal to 60% of its assets on the date of borrowing
-or a greater amount approved by the commissioner to insure parity between
-state chartered savings and loan associations and federal associations.  It is
-not a violation of this section if the borrowing limits are exceeded because
-of a subsequent reduction in assets of an association.  Any association may
-borrow such additional sums as the commissioner may approve in writing.  All
-such loans and advances may be secured by property of the association, may be
-made with convertible features, and may be evidenced by such notes, bonds,
-debentures, commercial paper, bankers' acceptances, or other obligations or
-securities (except capital stock and capital certificates) as may be generally
-authorized by the commissioner, except that no authorization shall be required
-for securities guaranteed under Section 306(g) of the National Housing Act of
-1934;
-(e)  to issue and sell, directly or through underwriters, capital certificates
-containing a stated maturity date which represent nonwithdrawable capital
-contributions, and constitute part of the reserves and net worth of the
-association.  These certificates shall have no voting rights, shall be
-subordinate to all savings accounts, debt obligations, and claims of creditors
-of the association and shall constitute a claim in liquidation against any
-reserves, surplus, and other net worth accounts remaining after the payment in
-full of all savings accounts, debt obligations, and claims of creditors.  The
-capital certificates shall be entitled to the payment of earnings prior to the
-allocation of any income to surplus or other net worth accounts of the
-association and may be issued with a fixed rate of earnings or with a prior
-claim to distribution of a specified percentage of any net income remaining
-after required allocations to reserves, or a combination thereof.  Losses
-shall be charged against capital certificates only after reserves, surplus,
-and other net worth accounts have been exhausted;
-(f) (i)  to appoint and remove such officers, agents, and employees as its
-business shall require and to provide them suitable compensation;
-(ii)  to enter into employment contracts not to exceed 10 years without the
-consent of the supervisor;
-(iii)  to provide for life, health, and casualty insurance for officers and
-employees;
-(iv)  to adopt and operate reasonable bonus and incentive plans and retirement
-benefits for those officers and employees; and
-(v)  to provide for indemnification of its officers, employees, and directors
-as required or permitted in this chapter, whether by insurance or otherwise;
-(g)  to obtain and maintain insurance of its deposits by the Federal Deposit
-Insurance Corporation or other federal deposit insurance agency;
+
+(d)  if and when an association is not a member of a federal home loan bank, to borrow from sources, individual or corporate, in addition to its savings liability and other accounts, not more than an aggregate amount equal to 25% of its assets on the date of borrowing.  If and when an association is a member of a federal home loan bank, to borrow from sources, individual or corporate, in addition to its savings liability and other accounts, not more than an aggregate amount equal to 60% of its assets on the date of borrowing or a greater amount approved by the commissioner to insure parity between state chartered savings and loan associations and federal associations.  It is not a violation of this section if the borrowing limits are exceeded because of a subsequent reduction in assets of an association.  Any association may borrow such additional sums as the commissioner may approve in writing.  All such loans and advances may be secured by property of the association, may be made with convertible features, and may be evidenced by such notes, bonds, debentures, commercial paper, bankers' acceptances, or other obligations or securities (except capital stock and capital certificates) as may be generally authorized by the commissioner, except that no authorization shall be required for securities guaranteed under Section 306(g) of the National Housing Act of 1934;
+
+(e)  to issue and sell, directly or through underwriters, capital certificates containing a stated maturity date which represent nonwithdrawable capital contributions, and constitute part of the reserves and net worth of the association.  These certificates shall have no voting rights, shall be subordinate to all savings accounts, debt obligations, and claims of creditors of the association and shall constitute a claim in liquidation against any reserves, surplus, and other net worth accounts remaining after the payment in full of all savings accounts, debt obligations, and claims of creditors.  The capital certificates shall be entitled to the payment of earnings prior to the allocation of any income to surplus or other net worth accounts of the association and may be issued with a fixed rate of earnings or with a prior claim to distribution of a specified percentage of any net income remaining after required allocations to reserves, or a combination thereof.  Losses shall be charged against capital certificates only after reserves, surplus, and other net worth accounts have been exhausted;
+
+(f) (i)  to appoint and remove such officers, agents, and employees as its business shall require and to provide them suitable compensation;
+
+(ii)  to enter into employment contracts not to exceed 10 years without the consent of the supervisor;
+
+(iii)  to provide for life, health, and casualty insurance for officers and employees;
+
+(iv)  to adopt and operate reasonable bonus and incentive plans and retirement benefits for those officers and employees; and
+
+(v)  to provide for indemnification of its officers, employees, and directors as required or permitted in this chapter, whether by insurance or otherwise;
+
+(g)  to obtain and maintain insurance of its deposits by the Federal Deposit Insurance Corporation or other federal deposit insurance agency;
+
 (h)  to qualify as and become a member of any federal home loan bank;
-(i) (i)  to act as fiscal agent of the United States, and, when so designated
-by the Secretary of the Treasury, to perform, under such regulations as the
-Secretary of the Treasury may prescribe, all such reasonable duties as fiscal
-agent of the United States as the Secretary of the Treasury may require; and
-(ii)  to act as agent for any instrumentality of the United States; and when
-so designated by the state treasurer or other appropriate state officer, to
-act as agent of that state or any instrumentality of that state;
-(j)  to become a member of, deal with, maintain reserves or deposits with, or
-make reasonable payments or contributions to any organization or
-instrumentality, government or private, to the extent that the organization or
-instrumentality assists in furthering or facilitating the association's
-purposes, powers, services, or community responsibilities, and to comply with
-any reasonable requirements or conditions of eligibility;
-(k)  to act as depository for receipt of payments of federal or state taxes
-and loan funds, and satisfy any federal or state statutory or regulatory
-requirements in connection therewith, including:
+
+(i) (i)  to act as fiscal agent of the United States, and, when so designated by the Secretary of the Treasury, to perform, under such regulations as the Secretary of the Treasury may prescribe, all such reasonable duties as fiscal agent of the United States as the Secretary of the Treasury may require; and
+
+(ii)  to act as agent for any instrumentality of the United States; and when so designated by the state treasurer or other appropriate state officer, to act as agent of that state or any instrumentality of that state;
+
+(j)  to become a member of, deal with, maintain reserves or deposits with, or make reasonable payments or contributions to any organization or instrumentality, government or private, to the extent that the organization or instrumentality assists in furthering or facilitating the association's purposes, powers, services, or community responsibilities, and to comply with any reasonable requirements or conditions of eligibility;
+
+(k)  to act as depository for receipt of payments of federal or state taxes and loan funds, and satisfy any federal or state statutory or regulatory requirements in connection therewith, including:
+
 (i)  pledging of assets as collateral;
+
 (ii)  payment of earnings at prescribed rates; and
-(iii)  notwithstanding any other provision of this chapter, issuing the
-account subject to rights of immediate withdrawal;
-(l)  to sell or assign any loan, including any participating interest therein,
-at any time;
+
+(iii)  notwithstanding any other provision of this chapter, issuing the account subject to rights of immediate withdrawal;
+
+(l)  to sell or assign any loan, including any participating interest therein, at any time;
+
 (m)  to service loans and investments for others;
-(n)  to act and receive compensation as trustee of any trust created or
-organized in the United States and forming a part of a stock bonus, pension,
-or profit-sharing plan which qualifies or qualified for specific tax treatment
-under Section 401 of the Internal Revenue Code of 1986, and to act as trustee
-or custodian of an individual retirement account within the meaning of Section
-408 of that code.  All funds held in fiduciary capacity by any such
-association under the authority of this subsection may be commingled and
-consolidated for appropriate purposes of investment, so long as records
-reflecting each separate beneficial interest are maintained by the fiduciary,
-unless that responsibility is lawfully assumed by another appropriate party;
-(o)  to act as assignee, agent, receiver, trustee, executor, administrator,
-conservator, guardian, custodian, personal representative, or in any other
-fiduciary capacity, and to execute trusts of every description not
-inconsistent with law, and to receive reasonable compensation therefor.  An
-association exercising trust or other fiduciary powers under this subsection
-shall have all powers, privileges, and immunities granted in Chapter 5.  Funds
-held by an association as fiduciary under this subsection may be commingled
-and consolidated for appropriate purposes of investment, provided that records
-reflecting the separate interest of each beneficiary shall be maintained by
-the fiduciary, unless that responsibility is lawfully assumed by another
-appropriate party.  Trust funds available for investment shall be invested at
-the time and in the manner specified by the agreement, instrument, or order
-creating or defining the fiduciary estate, but may be invested in savings
-accounts of the associations, unless the instrument, agreement, or order
-prohibits such investment;
-(p)  subject to Chapter 16a, Automated Teller Machine Act, to engage in
-financial transactions effected by electronic means;
-(q)  to maintain and let safes, boxes, or other receptacles or premises for
-the safekeeping of personal property upon such terms and conditions as may be
-agreed upon;
-(r)  to offer money orders, travel checks, and similar instruments for its own
-account or as agent for any organization empowered to sell such instruments
-through agents within this state;
+
+(n)  to act and receive compensation as trustee of any trust created or organized in the United States and forming a part of a stock bonus, pension, or profit-sharing plan which qualifies or qualified for specific tax treatment under Section 401 of the Internal Revenue Code of 1986, and to act as trustee or custodian of an individual retirement account within the meaning of Section 408 of that code.  All funds held in fiduciary capacity by any such association under the authority of this subsection may be commingled and consolidated for appropriate purposes of investment, so long as records reflecting each separate beneficial interest are maintained by the fiduciary, unless that responsibility is lawfully assumed by another appropriate party;
+
+(o)  to act as assignee, agent, receiver, trustee, executor, administrator, conservator, guardian, custodian, personal representative, or in any other fiduciary capacity, and to execute trusts of every description not inconsistent with law, and to receive reasonable compensation therefor.  An association exercising trust or other fiduciary powers under this subsection shall have all powers, privileges, and immunities granted in Chapter 5.  Funds held by an association as fiduciary under this subsection may be commingled and consolidated for appropriate purposes of investment, provided that records reflecting the separate interest of each beneficiary shall be maintained by the fiduciary, unless that responsibility is lawfully assumed by another appropriate party.  Trust funds available for investment shall be invested at the time and in the manner specified by the agreement, instrument, or order creating or defining the fiduciary estate, but may be invested in savings accounts of the associations, unless the instrument, agreement, or order prohibits such investment;
+
+(p)  subject to Chapter 16a, Automated Teller Machine Act, to engage in financial transactions effected by electronic means;
+
+(q)  to maintain and let safes, boxes, or other receptacles or premises for the safekeeping of personal property upon such terms and conditions as may be agreed upon;
+
+(r)  to offer money orders, travel checks, and similar instruments for its own account or as agent for any organization empowered to sell such instruments through agents within this state;
+
 (s)  to act as agent or escrowee for others;
-(t)  to declare and pay dividends on capital stock in cash or property out of
-the unreserved and unrestricted earned surplus of the association, or in its
-own shares, from time to time, except when there is a deficiency in the
-reserves or net worth of the association under rules issued by the
-commissioner under Section 7-7-20, and except when the association is in an
-impaired condition or when the payment thereof would cause the association to
-be in an impaired condition.  A split-up or division of the issued shares of
-capital stock into a greater number of shares without increasing the stated
-capital of the association is authorized, and may not be construed to be a
-dividend within the meaning of this section;
-(u)  to acquire deposits from any individual or entity and pay earnings
-thereon, to offer interest bearing or noninterest bearing accounts from which
-withdrawals may be made by negotiable or transferable instruments for the
-purpose of making transfers to third parties, and to lend, and commit to lend,
-extend credit, and invest its funds as provided for in this chapter; and
-(v)  to engage in other activities, exercise other powers and to enjoy other
-rights, privileges, benefits, and immunities authorized by rules of the
-commissioner and, particularly, under the authority given to the commissioner
-in Subsection 7-1-301(3), which authority shall be exercised to prevent
-competitive disparities between associations chartered in this state and
-federal associations.
+
+(t)  to declare and pay dividends on capital stock in cash or property out of the unreserved and unrestricted earned surplus of the association, or in its own shares, from time to time, except when there is a deficiency in the reserves or net worth of the association under rules issued by the commissioner under Section 7-7-20, and except when the association is in an impaired condition or when the payment thereof would cause the association to be in an impaired condition.  A split-up or division of the issued shares of capital stock into a greater number of shares without increasing the stated capital of the association is authorized, and may not be construed to be a dividend within the meaning of this section;
+
+(u)  to acquire deposits from any individual or entity and pay earnings thereon, to offer interest bearing or noninterest bearing accounts from which withdrawals may be made by negotiable or transferable instruments for the purpose of making transfers to third parties, and to lend, and commit to lend, extend credit, and invest its funds as provided for in this chapter; and
+
+(v)  to engage in other activities, exercise other powers and to enjoy other rights, privileges, benefits, and immunities authorized by rules of the commissioner and, particularly, under the authority given to the commissioner in Subsection 7-1-301(3), which authority shall be exercised to prevent competitive disparities between associations chartered in this state and federal associations.
+

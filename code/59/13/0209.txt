@@ -1,33 +1,24 @@
-59-13-209.   Due date -- Delinquency -- Penalties -- Interest -- Collection
-procedure.
-(1) (a)  The motor fuel tax is due and payable by the distributor on or before
-the last day of each month to the commission for the number of gallons of
-motor fuel sold, used, or received for sale or use by the distributor during
-the preceding calendar month.
-(b)  The commission shall receipt the distributor for taxes paid and shall
-promptly deposit all revenue with the state treasurer.
-(2) (a)  If any distributor fails or refuses to pay any tax when it becomes
-due and payable, the tax is delinquent.
-(b)  If a distributor is delinquent in tax payments, the commission shall
-impose a penalty as provided under Section 59-1-401.
-(c)  The amount of the tax shall bear interest at the rate and in the manner
-prescribed in Section 59-1-402.
-(3) (a)  A report or payment of tax is not considered delinquent if the
-envelope in which the report or remittance is enclosed bears a post office
-cancellation mark dated on or before the date on which the report or payment
-is due.
-(b)  The commission, upon receipt of a report or remittance described in
-Subsection (3)(a), shall treat the report or payment as if it had been
-received on the date it was due.
-(4)  If any part of a tax due is deficient or delinquent because of negligence
-or disregard of this part, or in the case of false or fraudulent monthly
-reports, or intent to evade the tax, a penalty shall be added to the tax due
-as provided in Section 59-1-401.
-(5) (a)  A tax due and unpaid under this part constitutes a debt due the state
-and may be collected, together with interest, penalty, and costs, by
-appropriate judicial proceeding.
-(b)  The remedy described in Subsection (5)(a) is in addition to all other
-remedies.
-(6)  If the tax imposed by this part is not paid when it is due, collection
-may be made in accordance with Chapter 1, Part 14, Assessment, Collections,
-and Refunds Act.
+59-13-209.   Due date -- Delinquency -- Penalties -- Interest -- Collection procedure.
+
+(1) (a)  The motor fuel tax is due and payable by the distributor on or before the last day of each month to the commission for the number of gallons of motor fuel sold, used, or received for sale or use by the distributor during the preceding calendar month.
+
+(b)  The commission shall receipt the distributor for taxes paid and shall promptly deposit all revenue with the state treasurer.
+
+(2) (a)  If any distributor fails or refuses to pay any tax when it becomes due and payable, the tax is delinquent.
+
+(b)  If a distributor is delinquent in tax payments, the commission shall impose a penalty as provided under Section 59-1-401.
+
+(c)  The amount of the tax shall bear interest at the rate and in the manner prescribed in Section 59-1-402.
+
+(3) (a)  A report or payment of tax is not considered delinquent if the envelope in which the report or remittance is enclosed bears a post office cancellation mark dated on or before the date on which the report or payment is due.
+
+(b)  The commission, upon receipt of a report or remittance described in Subsection (3)(a), shall treat the report or payment as if it had been received on the date it was due.
+
+(4)  If any part of a tax due is deficient or delinquent because of negligence or disregard of this part, or in the case of false or fraudulent monthly reports, or intent to evade the tax, a penalty shall be added to the tax due as provided in Section 59-1-401.
+
+(5) (a)  A tax due and unpaid under this part constitutes a debt due the state and may be collected, together with interest, penalty, and costs, by appropriate judicial proceeding. 
+
+(b)  The remedy described in Subsection (5)(a) is in addition to all other remedies.
+
+(6)  If the tax imposed by this part is not paid when it is due, collection may be made in accordance with Chapter 1, Part 14, Assessment, Collections, and Refunds Act.
+

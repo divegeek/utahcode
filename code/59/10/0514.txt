@@ -1,35 +1,30 @@
 59-10-514.   Return filing requirements -- Rulemaking authority.
+
 (1)  Subject to Subsection (3):
-(a)  an individual income tax return filed for a tax imposed in accordance
-with Part 1, Determination and Reporting of Tax Liability and Information,
-shall be filed with the commission:
-(i)  except as provided in Subsection (1)(a)(ii), on or before the 15th day of
-the fourth month following the last day of the taxpayer's taxable year; or
-(ii)  on or before the day on which a federal individual income tax return is
-due under the Internal Revenue Code if the Internal Revenue Code provides a
-due date for filing that federal individual income tax return that is
-different from the due date described in Subsection (1)(a)(i);
-(b)  a fiduciary income tax return filed for a tax imposed in accordance with
-Part 2, Trusts and Estates, shall be filed with the commission:
-(i)  except as provided in Subsection (1)(b)(ii), on or before the 15th day of
-the fourth month following the last day of the taxpayer's taxable year; or
-(ii)  on or before the day on which a federal tax return for estates and
-trusts is due under the Internal Revenue Code if the Internal Revenue Code
-provides a due date for filing that federal tax return for estates and trusts
-that is different from the due date described in Subsection (1)(b)(i); or
-(c)  a return filed in accordance with Section 59-10-507, shall be filed with
-the commission:
-(i)  except as provided in Subsection (1)(c)(ii), in accordance with Section
-59-10-507; or
-(ii)  on or before the day on which a federal return of partnership income is
-due under the Internal Revenue Code if the Internal Revenue Code provides a
-due date for filing that federal return of partnership income that is
-different from the due date described in Subsection (1)(c)(i).
-(2)  A person required to make and file a return under this chapter shall,
-without assessment, notice, or demand, pay any tax due:
+
+(a)  an individual income tax return filed for a tax imposed in accordance with Part 1, Determination and Reporting of Tax Liability and Information, shall be filed with the commission:
+
+(i)  except as provided in Subsection (1)(a)(ii), on or before the 15th day of the fourth month following the last day of the taxpayer's taxable year; or
+
+(ii)  on or before the day on which a federal individual income tax return is due under the Internal Revenue Code if the Internal Revenue Code provides a due date for filing that federal individual income tax return that is different from the due date described in Subsection (1)(a)(i);
+
+(b)  a fiduciary income tax return filed for a tax imposed in accordance with Part 2, Trusts and Estates, shall be filed with the commission:
+
+(i)  except as provided in Subsection (1)(b)(ii), on or before the 15th day of the fourth month following the last day of the taxpayer's taxable year; or
+
+(ii)  on or before the day on which a federal tax return for estates and trusts is due under the Internal Revenue Code if the Internal Revenue Code provides a due date for filing that federal tax return for estates and trusts that is different from the due date described in Subsection (1)(b)(i); or
+
+(c)  a return filed in accordance with Section 59-10-507, shall be filed with the commission:
+
+(i)  except as provided in Subsection (1)(c)(ii), in accordance with Section 59-10-507; or
+
+(ii)  on or before the day on which a federal return of partnership income is due under the Internal Revenue Code if the Internal Revenue Code provides a due date for filing that federal return of partnership income that is different from the due date described in Subsection (1)(c)(i).
+
+(2)  A person required to make and file a return under this chapter shall, without assessment, notice, or demand, pay any tax due:
+
 (a)  to the commission; and
-(b)  before the due date for filing the return determined without regard to
-any extension of time for filing the return.
-(3)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may make rules prescribing what constitutes filing a
-return with the commission.
+
+(b)  before the due date for filing the return determined without regard to any extension of time for filing the return.
+
+(3)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules prescribing what constitutes filing a return with the commission.
+

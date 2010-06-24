@@ -1,9 +1,6 @@
 16-10a-726.   Action by single and multiple voting groups.
-(1)  If the articles of incorporation or this chapter provide for voting by a
-single voting group on a matter, action on that matter is taken when voted
-upon by that voting group as provided in Section 16-10a-725.
-(2)  If the articles of incorporation or this chapter provide for voting by
-two or more voting groups on a matter, action on that matter is taken only
-when voted upon by each of those voting groups counted separately as provided
-in Section 16-10a-725.  One voting group may vote on a matter even though
-another voting group entitled to vote on the matter has not voted.
+
+(1)  If the articles of incorporation or this chapter provide for voting by a single voting group on a matter, action on that matter is taken when voted upon by that voting group as provided in Section 16-10a-725.
+
+(2)  If the articles of incorporation or this chapter provide for voting by two or more voting groups on a matter, action on that matter is taken only when voted upon by each of those voting groups counted separately as provided in Section 16-10a-725.  One voting group may vote on a matter even though another voting group entitled to vote on the matter has not voted.
+

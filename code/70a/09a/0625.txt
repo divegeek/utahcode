@@ -1,47 +1,32 @@
 70A-9a-625.   Remedies for secured party's failure to comply with chapter.
-(1)  If it is established that a secured party is not proceeding in accordance
-with this chapter, a court may order or restrain collection, enforcement, or
-disposition of collateral on appropriate terms and conditions.
-(2)  Subject to Subsections (3), (4), and (5), a person is liable for damages
-in the amount of any loss caused by a failure to comply with this chapter.
-Loss caused by a failure to comply may include loss resulting from the
-debtor's inability to obtain, or increased costs of, alternative financing.
+
+(1)  If it is established that a secured party is not proceeding in accordance with this chapter, a court may order or restrain collection, enforcement, or disposition of collateral on appropriate terms and conditions.
+
+(2)  Subject to Subsections (3), (4), and (5), a person is liable for damages in the amount of any loss caused by a failure to comply with this chapter.  Loss caused by a failure to comply may include loss resulting from the debtor's inability to obtain, or increased costs of, alternative financing.
+
 (3) Except as otherwise provided in Section 70A-9a-628:
-(a)  a person that, at the time of the failure, was a debtor, was an obligor,
-or held a security interest in or other lien on the collateral may recover
-damages under Subsection (2) for its loss; and
-(b)  if the collateral is consumer goods, a person that was a debtor or a
-secondary obligor at the time a secured party failed to comply with this part
-may recover for that failure in any event an amount not less than the credit
-service charge plus 10% of the principal amount of the obligation or the time-
-price differential plus 10% of the cash price.
-(4)  A debtor whose deficiency is eliminated under Section 70A-9a-626 may
-recover damages for the loss of any surplus.  However, a debtor or secondary
-obligor whose deficiency is eliminated or reduced under Section 70A-9a-626 may
-not otherwise recover under Subsection (2) for noncompliance with the
-provisions of this part relating to collection, enforcement, disposition, or
-acceptance.
-(5)  In addition to any damages recoverable under Subsection (2), the debtor,
-consumer obligor, or person named as a debtor in a filed record, as
-applicable, may recover $500 in each case from a person that:
+
+(a)  a person that, at the time of the failure, was a debtor, was an obligor, or held a security interest in or other lien on the collateral may recover damages under Subsection (2) for its loss; and
+
+(b)  if the collateral is consumer goods, a person that was a debtor or a secondary obligor at the time a secured party failed to comply with this part may recover for that failure in any event an amount not less than the credit service charge plus 10% of the principal amount of the obligation or the time-price differential plus 10% of the cash price.
+
+(4)  A debtor whose deficiency is eliminated under Section 70A-9a-626 may recover damages for the loss of any surplus.  However, a debtor or secondary obligor whose deficiency is eliminated or reduced under Section 70A-9a-626 may not otherwise recover under Subsection (2) for noncompliance with the provisions of this part relating to collection, enforcement, disposition, or acceptance.
+
+(5)  In addition to any damages recoverable under Subsection (2), the debtor, consumer obligor, or person named as a debtor in a filed record, as applicable, may recover $500 in each case from a person that:
+
 (a)  fails to comply with Section 70A-9a-208;
+
 (b)  fails to comply with Section 70A-9a-209;
-(c)  files a record that the person is not entitled to file under Subsection
-70A-9a-509(1);
-(d)  fails to cause the secured party of record to file or send a termination
-statement as required by Subsection 70A-9a-513(1) or (3);
-(e)  fails to comply with Subsection 70A-9a-616(2)(a) and whose failure is
-part of a pattern, or consistent with a practice, of noncompliance; or
+
+(c)  files a record that the person is not entitled to file under Subsection 70A-9a-509(1);
+
+(d)  fails to cause the secured party of record to file or send a termination statement as required by Subsection 70A-9a-513(1) or (3);
+
+(e)  fails to comply with Subsection 70A-9a-616(2)(a) and whose failure is part of a pattern, or consistent with a practice, of noncompliance; or
+
 (f)  fails to comply with Subsection 70A-9a-616(2)(b).
-(6)  A debtor or consumer obligor may recover damages under Subsection (2)
-and, in addition, $500 in each case from a person that, without reasonable
-cause, fails to comply with a request under Section 70A-9a-210.  A recipient
-of a request under Section 70A-9a-210 which never claimed an interest in the
-collateral or obligations that are the subject of a request under that section
-has a reasonable excuse for failure to comply with the request within the
-meaning of this Subsection (6).
-(7)  If a secured party fails to comply with a request regarding a list of
-collateral or a statement of account under Section 70A-9a-210, the secured
-party may claim a security interest only as shown in the list or statement
-included in the request as against a person that is reasonably misled by the
-failure.
+
+(6)  A debtor or consumer obligor may recover damages under Subsection (2) and, in addition, $500 in each case from a person that, without reasonable cause, fails to comply with a request under Section 70A-9a-210.  A recipient of a request under Section 70A-9a-210 which never claimed an interest in the collateral or obligations that are the subject of a request under that section has a reasonable excuse for failure to comply with the request within the meaning of this Subsection (6).
+
+(7)  If a secured party fails to comply with a request regarding a list of collateral or a statement of account under Section 70A-9a-210, the secured party may claim a security interest only as shown in the list or statement included in the request as against a person that is reasonably misled by the failure.
+

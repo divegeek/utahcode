@@ -1,41 +1,30 @@
-20A-7-601.   Referenda -- General signature requirements -- Signature
-requirements for land use laws -- Time requirements.
-(1)  Except as provided in Subsection (2), a person seeking to have a law
-passed by the local legislative body submitted to a vote of the people shall
-obtain legal signatures equal to:
-(a)  10% of all the votes cast in the county, city, or town for all candidates
-for governor at the last election at which a governor was elected if the total
-number of votes exceeds 25,000;
-(b)  12-1/2% of all the votes cast in the county, city, or town for all
-candidates for governor at the last election at which a governor was elected
-if the total number of votes does not exceed 25,000 but is more than 10,000;
-(c)  15% of all the votes cast in the county, city, or town for all candidates
-for governor at the last election at which a governor was elected if the total
-number of votes does not exceed 10,000 but is more than 2,500;
-(d)  20% of all the votes cast in the county, city, or town for all candidates
-for governor at the last election at which a governor was elected if the total
-number of votes does not exceed 2,500 but is more than 500;
-(e)  25% of all the votes cast in the county, city, or town for all candidates
-for governor at the last election at which a governor was elected if the total
-number of votes does not exceed 500 but is more than 250; and
-(f)  30% of all the votes cast in the county, city, or town for all candidates
-for governor at the last election at which a governor was elected if the total
-number of votes does not exceed 250.
-(2) (a)  As used in this Subsection (2), "land use law" includes a land use
-development code, an annexation ordinance, and comprehensive zoning
-ordinances.
-(b)  A person seeking to have a land use law passed by the local legislative
-body submitted to a vote of the people shall obtain legal signatures equal to:
-(i)  in a county or in a city of the first or second class, 20% of all votes
-cast in the county or city for all candidates for governor at the last
-election at which a governor was elected; and
-(ii)  in a city of the third, fourth, or fifth class or a town, 35% of all the
-votes cast in the city or town for all candidates for governor at the last
-election at which a governor was elected.
-(3) (a)  Sponsors of any referendum petition challenging, under Subsection (1)
-or (2), any local law passed by a local legislative body shall file the
-petition within 45 days after the passage of the local law.
-(b)  The local law remains in effect until repealed by the voters via
-referendum.
-(4)  If the referendum passes, the local law that was challenged by the
-referendum is repealed as of the date of the election.
+20A-7-601.   Referenda -- General signature requirements -- Signature requirements for land use laws -- Time requirements.
+
+(1)  Except as provided in Subsection (2), a person seeking to have a law passed by the local legislative body submitted to a vote of the people shall obtain legal signatures equal to:
+
+(a)  10% of all the votes cast in the county, city, or town for all candidates for governor at the last election at which a governor was elected if the total number of votes exceeds 25,000;
+
+(b)  12-1/2% of all the votes cast in the county, city, or town for all candidates for governor at the last election at which a governor was elected if the total number of votes does not exceed 25,000 but is more than 10,000;
+
+(c)  15% of all the votes cast in the county, city, or town for all candidates for governor at the last election at which a governor was elected if the total number of votes does not exceed 10,000 but is more than 2,500;
+
+(d)  20% of all the votes cast in the county, city, or town for all candidates for governor at the last election at which a governor was elected if the total number of votes does not exceed 2,500 but is more than 500;
+
+(e)  25% of all the votes cast in the county, city, or town for all candidates for governor at the last election at which a governor was elected if the total number of votes does not exceed 500 but is more than 250; and
+
+(f)  30% of all the votes cast in the county, city, or town for all candidates for governor at the last election at which a governor was elected if the total number of votes does not exceed 250.
+
+(2) (a)  As used in this Subsection (2), "land use law" includes a land use development code, an annexation ordinance, and comprehensive zoning ordinances.
+
+(b)  A person seeking to have a land use law passed by the local legislative body submitted to a vote of the people shall obtain legal signatures equal to:
+
+(i)  in a county or in a city of the first or second class, 20% of all votes cast in the county or city for all candidates for governor at the last election at which a governor was elected; and
+
+(ii)  in a city of the third, fourth, or fifth class or a town, 35% of all the votes cast in the city or town for all candidates for governor at the last election at which a governor was elected.
+
+(3) (a)  Sponsors of any referendum petition challenging, under Subsection (1) or (2), any local law passed by a local legislative body shall file the petition within 45 days after the passage of the local law.
+
+(b)  The local law remains in effect until repealed by the voters via referendum.
+
+(4)  If the referendum passes, the local law that was challenged by the referendum is repealed as of the date of the election.
+

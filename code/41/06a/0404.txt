@@ -1,104 +1,110 @@
-41-6a-404.   Accident reports -- When confidential -- Insurance policy
-information -- Use as evidence -- Penalty for false information.
+41-6a-404.   Accident reports -- When confidential -- Insurance policy information -- Use as evidence -- Penalty for false information.
+
 (1)  As used in this section:
+
 (a)  "Agent" means:
+
 (i)  a person's attorney;
+
 (ii)  a person's insurer;
+
 (iii)  a general acute hospital, as defined in Section 26-21-2, that:
+
 (A)  has an emergency room; and
-(B)  is providing or has provided emergency services to the person in relation
-to the accident; or
-(iv)  any other individual or entity with signed permission from the person to
-receive the person's accident report.
-(b)  "Accompanying data" means all materials gathered by the investigating
-peace officer in an accident investigation including:
+
+(B)  is providing or has provided emergency services to the person in relation to the accident; or
+
+(iv)  any other individual or entity with signed permission from the person to receive the person's accident report.
+
+(b)  "Accompanying data" means all materials gathered by the investigating peace officer in an accident investigation including:
+
 (i)  the identity of witnesses and, if known, contact information;
+
 (ii)  witness statements;
+
 (iii)  photographs and videotapes;
+
 (iv)  diagrams; and
+
 (v)  field notes.
-(2) (a)  Except as provided in Subsection (3), all accident reports required
-in this part to be filed with the department:
+
+(2) (a)  Except as provided in Subsection (3), all accident reports required in this part to be filed with the department:
+
 (i)  are without prejudice to the reporting individual;
-(ii)  are protected and for the confidential use of the department or other
-state, local, or federal agencies having use for the records for official
-governmental statistical, investigative, and accident prevention purposes; and
-(iii)  may be disclosed only in a statistical form that protects the privacy
-of any person involved in the accident.
-(b)  An investigating peace officer shall include in an accident report an
-indication as to whether the accident occurred on a highway designated as a
-livestock highway in accordance with Section 72-3-112 if the accident resulted
-in the injury or death of livestock.
-(3) (a)  Subject to the provisions of this section, the department or the
-responsible law enforcement agency employing the peace officer that
-investigated the accident shall disclose an accident report to:
+
+(ii)  are protected and for the confidential use of the department or other state, local, or federal agencies having use for the records for official governmental statistical, investigative, and accident prevention purposes; and
+
+(iii)  may be disclosed only in a statistical form that protects the privacy of any person involved in the accident.
+
+(b)  An investigating peace officer shall include in an accident report an indication as to whether the accident occurred on a highway designated as a livestock highway in accordance with Section 72-3-112 if the accident resulted in the injury or death of livestock.
+
+(3) (a)  Subject to the provisions of this section, the department or the responsible law enforcement agency employing the peace officer that investigated the accident shall disclose an accident report to:
+
 (i)  a person involved in the accident, excluding a witness to the accident;
+
 (ii)  a person suffering loss or injury in the accident;
-(iii)  an agent, parent, or legal guardian of a person described in
-Subsections (3)(a)(i) and (ii);
-(iv)  subject to Subsection (3)(d), a member of the press or broadcast news
-media;
-(v)  a state, local, or federal agency that uses the records for official
-governmental, investigative, or accident prevention purposes;
-(vi)  law enforcement personnel when acting in their official governmental
-capacity; and
+
+(iii)  an agent, parent, or legal guardian of a person described in Subsections (3)(a)(i) and (ii);
+
+(iv)  subject to Subsection (3)(d), a member of the press or broadcast news media;
+
+(v)  a state, local, or federal agency that uses the records for official governmental, investigative, or accident prevention purposes;
+
+(vi)  law enforcement personnel when acting in their official governmental capacity; and
+
 (vii)  a licensed private investigator.
-(b)  The responsible law enforcement agency employing the peace officer that
-investigated the accident:
+
+(b)  The responsible law enforcement agency employing the peace officer that investigated the accident:
+
 (i)  shall in compliance with Subsection (3)(a):
+
 (A)  disclose an accident report; or
-(B)  upon written request disclose an accident report and its accompanying
-data within 10 business days from receipt of a written request for disclosure;
-or
-(ii)  may withhold an accident report, and any of its accompanying data if
-disclosure would jeopardize an ongoing criminal investigation or criminal
-prosecution.
-(c)  In accordance with Subsection (3)(a), the department or the responsible
-law enforcement agency employing the investigating peace officer shall
-disclose whether any person or vehicle involved in an accident reported under
-this section was covered by a vehicle insurance policy, and the name of the
-insurer.
-(d)  Information provided to a member of the press or broadcast news media
-under Subsection (3)(a)(iv) may only include:
-(i)  the name, age, sex, and city of residence of each person involved in the
-accident;
+
+(B)  upon written request disclose an accident report and its accompanying data within 10 business days from receipt of a written request for disclosure; or
+
+(ii)  may withhold an accident report, and any of its accompanying data if disclosure would jeopardize an ongoing criminal investigation or criminal prosecution.
+
+(c)  In accordance with Subsection (3)(a), the department or the responsible law enforcement agency employing the investigating peace officer shall disclose whether any person or vehicle involved in an accident reported under this section was covered by a vehicle insurance policy, and the name of the insurer.
+
+(d)  Information provided to a member of the press or broadcast news media under Subsection (3)(a)(iv) may only include:
+
+(i)  the name, age, sex, and city of residence of each person involved in the accident;
+
 (ii)  the make and model year of each vehicle involved in the accident;
-(iii)  whether or not each person involved in the accident was covered by a
-vehicle insurance policy;
+
+(iii)  whether or not each person involved in the accident was covered by a vehicle insurance policy;
+
 (iv)  the location of the accident; and
-(v)  a description of the accident that excludes personal identifying
-information not listed in Subsection (3)(d)(i).
-(e)  The department shall disclose to any requesting person the following
-vehicle accident history information, excluding personal identifying
-information, in bulk electronic form:
-(i)  any vehicle identifying information that is electronically available,
-including the make, model year, and vehicle identification number of each
-vehicle involved in an accident;
+
+(v)  a description of the accident that excludes personal identifying information not listed in Subsection (3)(d)(i).
+
+(e)  The department shall disclose to any requesting person the following vehicle accident history information, excluding personal identifying information, in bulk electronic form:
+
+(i)  any vehicle identifying information that is electronically available, including the make, model year, and vehicle identification number of each vehicle involved in an accident;
+
 (ii)  the date of the accident; and
-(iii)  any electronically available data which describes the accident,
-including a description of any physical damage to the vehicle.
-(f)  The department may establish a fee under Section 63J-1-504 based on the
-fair market value of the information for providing bulk vehicle accident
-history information under Subsection (3)(e).
-(4) (a)  Except as provided in Subsection (4)(b), accident reports filed under
-this section may not be used as evidence in any civil or criminal trial
-arising out of an accident.
-(b) (i)  Upon demand of any party to the trial or upon demand of any court,
-the department shall furnish a certificate showing that a specified accident
-report has or has not been made to the department in compliance with law.
-(ii)  If the report has been made, the certificate furnished by the department
-shall show:
+
+(iii)  any electronically available data which describes the accident, including a description of any physical damage to the vehicle.
+
+(f)  The department may establish a fee under Section 63J-1-504 based on the fair market value of the information for providing bulk vehicle accident history information under Subsection (3)(e).
+
+(4) (a)  Except as provided in Subsection (4)(b), accident reports filed under this section may not be used as evidence in any civil or criminal trial arising out of an accident.
+
+(b) (i)  Upon demand of any party to the trial or upon demand of any court, the department shall furnish a certificate showing that a specified accident report has or has not been made to the department in compliance with law.
+
+(ii)  If the report has been made, the certificate furnished by the department shall show:
+
 (A)  the date, time, and location of the accident;
+
 (B)  the names and addresses of the drivers;
+
 (C)  the owners of the vehicles involved; and
+
 (D)  the investigating peace officers.
-(iii)  The reports may be used as evidence when necessary to prosecute charges
-filed in connection with a violation of Subsection (5).
-(5)  A person who gives information in reports as required in this part
-knowing or having reason to believe that the information is false is guilty of
-a class A misdemeanor.
-(6)  The department and the responsible law enforcement agency employing the
-investigating peace officer may charge a reasonable fee determined by the
-department under Section 63J-1-504 for the cost incurred in disclosing an
-accident report or an accident report and any of its accompanying data under
-Subsections (3)(a) and (b).
+
+(iii)  The reports may be used as evidence when necessary to prosecute charges filed in connection with a violation of Subsection (5).
+
+(5)  A person who gives information in reports as required in this part knowing or having reason to believe that the information is false is guilty of a class A misdemeanor.
+
+(6)  The department and the responsible law enforcement agency employing the investigating peace officer may charge a reasonable fee determined by the department under Section 63J-1-504 for the cost incurred in disclosing an accident report or an accident report and any of its accompanying data under Subsections (3)(a) and (b).
+

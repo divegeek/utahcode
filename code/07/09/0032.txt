@@ -1,51 +1,14 @@
-7-9-32.   Joint accounts -- Accounts providing for payment to designated
-person on death of owner or owners.
-(1)  If a deposit or share account is opened in any credit union in the name
-of two or more persons, whether minor or adult, in such form that the money in
-the account is payable to the survivor or survivors, the account and all
-additions to it are considered held by these persons as joint tenants or
-owners.
-(2)  The money in a joint account may be paid to or on the receipt or
-withdrawal order of any one of the joint owners during their lifetimes or to
-or on receipt of withdrawal order of any one of the survivors of them after
-the death of any one or more of them upon presentation of the pass or account
-book or other evidence of ownership as required by the bylaws of the credit
-union.  The opening of the account in such form shall, in the absence of
-fraud, undue influence, or legal proof of other intent, be conclusive evidence
-in any action or proceedings concerning said account of the intention of the
-parties to the account to vest title to such account and the additions thereto
-in such survivor and survivors.
-(3)  By written instructions given to the credit union by all parties to the
-account, the signature of more than one of such persons during their lifetime
-or of more than one of the survivors after the death of any one of them may be
-required on a receipt or withdrawal order, in which case the credit union
-shall pay the money in the account only in accordance with such instructions,
-but no such instructions shall limit the right of the survivor or survivors to
-receive the money in the account.
-(4)  Payment of all or part of the money in a joint account as provided in
-Subsections (2) and (3) shall discharge the credit union from liability with
-respect to the money paid prior to receipt by the credit union of a written
-notice from any one of the joint owners directing the credit union not to
-permit withdrawals in accordance with the terms of the account or the
-instructions.  After receipt of such notice a credit union may refuse, without
-incurring liability, to honor any receipt or withdrawal on the account pending
-determination of the rights of the parties.  No credit union paying any
-survivor shall be liable for any estate, inheritance, or succession taxes.
-(5)  The pledge to a credit union of all or part of a share account in joint
-tenancy or ownership signed by that person or those persons who are authorized
-in writing to make withdrawals from the account shall, unless the terms of the
-share account provide specifically to the contrary, be a valid pledge and
-transfer to the credit union of that part of the account pledged, and does not
-operate to sever or terminate the joint and surviving ownership quality of all
-or any part of the account.
-(6)  Any credit union may issue share or deposit accounts in the name of one
-or more persons with the provision that upon the death of the owner or owners
-thereof the proceeds shall be the property of the person or persons designated
-by the owner or owners and shown by the records of such credit union, but such
-proceeds shall be subject to the debts of the decedent and the payment of Utah
-inheritance tax, if any.  However, upon the receipt of acquittance of the
-person so designated or six months having elapsed from the date of death and
-no claim on the account having been made for taxes, the credit union may make
-payment to the persons designated by the deceased owner or owners and having
-done so is discharged from further obligation and relieved from all further
-liability for payment made under this subsection.
+7-9-32.   Joint accounts -- Accounts providing for payment to designated person on death of owner or owners.
+
+(1)  If a deposit or share account is opened in any credit union in the name of two or more persons, whether minor or adult, in such form that the money in the account is payable to the survivor or survivors, the account and all additions to it are considered held by these persons as joint tenants or owners.
+
+(2)  The money in a joint account may be paid to or on the receipt or withdrawal order of any one of the joint owners during their lifetimes or to or on receipt of withdrawal order of any one of the survivors of them after the death of any one or more of them upon presentation of the pass or account book or other evidence of ownership as required by the bylaws of the credit union.  The opening of the account in such form shall, in the absence of fraud, undue influence, or legal proof of other intent, be conclusive evidence in any action or proceedings concerning said account of the intention of the parties to the account to vest title to such account and the additions thereto in such survivor and survivors.
+
+(3)  By written instructions given to the credit union by all parties to the account, the signature of more than one of such persons during their lifetime or of more than one of the survivors after the death of any one of them may be required on a receipt or withdrawal order, in which case the credit union shall pay the money in the account only in accordance with such instructions, but no such instructions shall limit the right of the survivor or survivors to receive the money in the account.
+
+(4)  Payment of all or part of the money in a joint account as provided in Subsections (2) and (3) shall discharge the credit union from liability with respect to the money paid prior to receipt by the credit union of a written notice from any one of the joint owners directing the credit union not to permit withdrawals in accordance with the terms of the account or the instructions.  After receipt of such notice a credit union may refuse, without incurring liability, to honor any receipt or withdrawal on the account pending determination of the rights of the parties.  No credit union paying any survivor shall be liable for any estate, inheritance, or succession taxes.
+
+(5)  The pledge to a credit union of all or part of a share account in joint tenancy or ownership signed by that person or those persons who are authorized in writing to make withdrawals from the account shall, unless the terms of the share account provide specifically to the contrary, be a valid pledge and transfer to the credit union of that part of the account pledged, and does not operate to sever or terminate the joint and surviving ownership quality of all or any part of the account.
+
+(6)  Any credit union may issue share or deposit accounts in the name of one or more persons with the provision that upon the death of the owner or owners thereof the proceeds shall be the property of the person or persons designated by the owner or owners and shown by the records of such credit union, but such proceeds shall be subject to the debts of the decedent and the payment of Utah inheritance tax, if any.  However, upon the receipt of acquittance of the person so designated or six months having elapsed from the date of death and no claim on the account having been made for taxes, the credit union may make payment to the persons designated by the deceased owner or owners and having done so is discharged from further obligation and relieved from all further liability for payment made under this subsection.
+

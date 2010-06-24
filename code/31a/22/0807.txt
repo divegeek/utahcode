@@ -1,35 +1,30 @@
 31A-22-807.   Filing and approval of forms -- Loss ratio standards.
-(1)  A policy, certificate of insurance, statement of insurance, or
-endorsement form intended for use in Utah is subject to Section 31A-21-201.
-(2)  In addition to the grounds for prohibiting use of a form under Subsection
-31A-21-201(3), it is a ground to prohibit the use of a form that the benefits
-provided in the form are not reasonable in relation to the premium charge.
-(3) (a)  In ascertaining whether the benefits are reasonable in relation to
-the premium charged, the commissioner shall consider:
+
+(1)  A policy, certificate of insurance, statement of insurance, or endorsement form intended for use in Utah is subject to Section 31A-21-201.
+
+(2)  In addition to the grounds for prohibiting use of a form under Subsection 31A-21-201(3), it is a ground to prohibit the use of a form that the benefits provided in the form are not reasonable in relation to the premium charge.
+
+(3) (a)  In ascertaining whether the benefits are reasonable in relation to the premium charged, the commissioner shall consider:
+
 (i)  the mortality cost of the life insurance;
+
 (ii)  the morbidity cost of the accident and health insurance; and
-(iii)  the reserves set up for the payment of claims unreported or in the
-process of settlement.
-(b)  For purposes of this section, benefits are considered reasonable in
-relation to the premium charged if, given the costs described in this
-Subsection (3), the premium rate charged develops or may reasonably be
-expected to develop a loss ratio of:
+
+(iii)  the reserves set up for the payment of claims unreported or in the process of settlement. 
+
+(b)  For purposes of this section, benefits are considered reasonable in relation to the premium charged if, given the costs described in this Subsection (3), the premium rate charged develops or may reasonably be expected to develop a loss ratio of:
+
 (i)  not less than 50% for credit life insurance; and
+
 (ii)  not less than 55% for credit accident and health insurance.
-(4)  Benefits are considered reasonable in relation to premium charged if the
-ratio of claims incurred to premium earned during the most recent four-year
-period at the rates in use produces a loss ratio that is equal to or exceeds
-the minimum loss ratio standard specified in Subsection (3).
-(5)  If the minimum loss ratio test produces a loss ratio that exceeds the
-minimum loss ratio standard in Subsection (4) by five percentage points or
-more, the insurer may file for approval and use a rate that is higher than the
-prima facie rate, if it can be expected that the use of the higher rate will
-continue to produce a loss ratio for an account to which it is applied that
-will satisfy the minimum loss ratio test.
-(6)  If the minimum loss ratio test produces a loss ratio that is lower than
-the minimum loss standard in Subsection (4) by five percentage points or more,
-the commissioner may require that the insurer:
-(a)  file an adjusted rate that can be expected to produce a loss ratio that
-will satisfy the minimum loss ratio test; or
-(b)  submit reasons acceptable to the commissioner why the insurer should not
-be required to file an adjusted rate.
+
+(4)  Benefits are considered reasonable in relation to premium charged if the ratio of claims incurred to premium earned during the most recent four-year period at the rates in use produces a loss ratio that is equal to or exceeds the minimum loss ratio standard specified in Subsection (3).
+
+(5)  If the minimum loss ratio test produces a loss ratio that exceeds the minimum loss ratio standard in Subsection (4) by five percentage points or more, the insurer may file for approval and use a rate that is higher than the prima facie rate, if it can be expected that the use of the higher rate will continue to produce a loss ratio for an account to which it is applied that will satisfy the minimum loss ratio test.
+
+(6)  If the minimum loss ratio test produces a loss ratio that is lower than the minimum loss standard in Subsection (4) by five percentage points or more, the commissioner may require that the insurer:
+
+(a)  file an adjusted rate that can be expected to produce a loss ratio that will satisfy the minimum loss ratio test; or
+
+(b)  submit reasons acceptable to the commissioner why the insurer should not be required to file an adjusted rate.
+

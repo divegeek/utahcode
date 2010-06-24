@@ -1,40 +1,24 @@
-26A-1-115.   Apportionment of costs -- Contracts to provide services --
-Percentage match of state funds -- Audit.
-(1) (a)  The cost of establishing and maintaining a multicounty local health
-department may be apportioned among the participating counties on the basis of
-population in proportion to the total population of all counties within the
-boundaries of the local health department, or upon other bases agreeable to
-the participating counties.
-(b)  Costs of establishing and maintaining a county health department shall be
-a charge of the county creating the local health department.
-(c)  Money available from fees, contracts, surpluses, grants, and donations
-may also be used to establish and maintain local health departments.
-(d)  As used in this Subsection (1), "population" means population estimates
-prepared by the Utah Population Estimates Committee.
-(2)  The cost of providing, equipping, and maintaining suitable offices and
-facilities for a local health department is the responsibility of
-participating governing bodies.
-(3)  Local health departments that comply with all department rules and secure
-advance approval of proposed service boundaries from the department may by
-contract receive funds  under Section 26A-1-116 from the department to provide
-specified public health services.
-(4)  Contract funds distributed under Subsection (3) shall be in accordance
-with Section 26A-1-116 and policies and procedures adopted by the department.
-(5)  Department rules shall  require that contract funds be used for public
-health services and not replace other funds used for local public health
-services.
-(6)  All state funds distributed by contract from the department to local
-health departments for public health services shall be matched by those local
-health departments at a percentage determined by the department in
-consultation with local health departments.  Counties shall have no legal
-obligation to match state funds at percentages in excess of those established
-by the department and shall suffer no penalty or reduction in state funding
-for failing to exceed the required funding match.
-(7) (a)  Each local health department shall cause an annual financial and
-compliance audit to be made of its operations by a certified public
-accountant.  The audit may be conducted as part of an annual county government
-audit of the county where the local health department headquarters are
-located.
-(b)  The local health department shall provide a copy of the audit report to
-the department and the local governing bodies of counties participating in the
-local health department.
+26A-1-115.   Apportionment of costs -- Contracts to provide services -- Percentage match of state funds -- Audit.
+
+(1) (a)  The cost of establishing and maintaining a multicounty local health department may be apportioned among the participating counties on the basis of population in proportion to the total population of all counties within the  boundaries of the local health department, or upon other bases agreeable to the participating counties.
+
+(b)  Costs of establishing and maintaining a county health department shall be a charge of the county creating the local health department.
+
+(c)  Money available from fees, contracts, surpluses, grants, and donations may also be used to establish and maintain local health departments.
+
+(d)  As used in this Subsection (1), "population" means population estimates prepared by the Utah Population Estimates Committee.
+
+(2)  The cost of providing, equipping, and maintaining suitable offices and facilities for a local health department is the responsibility of participating governing bodies.
+
+(3)  Local health departments that comply with all department rules and secure advance approval of proposed service boundaries from the department may by contract receive funds  under Section 26A-1-116 from the department to provide specified public health services.
+
+(4)  Contract funds distributed under Subsection (3) shall be in accordance with Section 26A-1-116 and policies and procedures adopted by the department.
+
+(5)  Department rules shall  require that contract funds be used for public health services and not replace other funds used for local public health services.
+
+(6)  All state funds distributed by contract from the department to local health departments for public health services shall be matched by those local health departments at a percentage determined by the department in consultation with local health departments.  Counties shall have no legal obligation to match state funds at percentages in excess of those established by the department and shall suffer no penalty or reduction in state funding for failing to exceed the required funding match.
+
+(7) (a)  Each local health department shall cause an annual financial and compliance audit to be made of its operations by a certified public accountant.  The audit may be conducted as part of an annual county government audit of the county where the local health department headquarters are located.
+
+(b)  The local health department shall provide a copy of the audit report to the department and the local governing bodies of counties participating in the local health department.
+

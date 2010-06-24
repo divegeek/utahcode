@@ -1,165 +1,200 @@
-62A-2-108.3.   Local government -- Certified local inspector -- Local
-inspection of a residential treatment facility -- Reporting violations.
-(1) (a)  Subject to this Subsection (1) and Subsection (3), the office shall
-designate, or renew the designation of, a local government employee as a
-certified local inspector if:
+62A-2-108.3.   Local government -- Certified local inspector -- Local inspection of a residential treatment facility -- Reporting violations.
+
+(1) (a)  Subject to this Subsection (1) and Subsection (3), the office shall designate, or renew the designation of, a local government employee as a certified local inspector if:
+
 (i)  the governing body of a local government gives the office written notice:
+
 (A)  of the name of an employee of the local government; and
-(B)  requesting that the office designate the employee described in Subsection
-(1)(a)(i)(A) as a certified local inspector; and
-(ii)  the employee described in Subsection (1)(a)(i) successfully completes
-the training described in Subsection (1)(b).
-(b)  Before designating a local government employee as a certified local
-inspector, the office shall:
+
+(B)  requesting that the office designate the employee described in Subsection (1)(a)(i)(A) as a certified local inspector; and
+
+(ii)  the employee described in Subsection (1)(a)(i) successfully completes the training described in Subsection (1)(b).
+
+(b)  Before designating a local government employee as a certified local inspector, the office shall:
+
 (i)  provide training to the local government employee on:
+
 (A)  this chapter;
+
 (B)  the rules established under:
+
 (I)  Subsection (2); and
+
 (II)  Subsection 62A-2-106(1)(a);
+
 (C)  the Fourth Amendment to the Constitution of the United States; and
-(D)  other issues relating to conducting the inspections described in
-Subsection (4); and
-(ii)  conduct a criminal background check of the local government employee
-pursuant to the same procedures established for a criminal background check of
-an applicant for an initial license under Section 62A-2-120.
-(c)  Subject to Subsection (6), the office may not designate a person as a
-certified local inspector:
-(i)  unless the office approves the person to have direct access to children
-or vulnerable adults pursuant to Section 62A-2-120; or
-(ii)  if the office determines that, based on the conduct of the person, it is
-not in the public's best interest to designate the person as a certified local
-inspector.
-(d)  The office shall provide to a certified local inspector identification
-that:
+
+(D)  other issues relating to conducting the inspections described in Subsection (4); and
+
+(ii)  conduct a criminal background check of the local government employee pursuant to the same procedures established for a criminal background check of an applicant for an initial license under Section 62A-2-120.
+
+(c)  Subject to Subsection (6), the office may not designate a person as a certified local inspector:
+
+(i)  unless the office approves the person to have direct access to children or vulnerable adults pursuant to Section 62A-2-120; or
+
+(ii)  if the office determines that, based on the conduct of the person, it is not in the public's best interest to designate the person as a certified local inspector.
+
+(d)  The office shall provide to a certified local inspector identification that:
+
 (i)  identifies the person as a certified local inspector;
+
 (ii)  contains a photograph of the certified local inspector;
-(iii)  states the date on which the certification of the certified local
-inspector expires; and
-(iv)  identifies the geographic location where the certified local inspector
-is authorized to conduct an inspection.
-(e)  Nothing in this section shall be construed to require a local government
-to employ a certified local inspector.
-(2)  The office shall make rules in accordance with Title 63G, Chapter 3, Utah
-Administrative Rulemaking Act, to establish procedures for:
+
+(iii)  states the date on which the certification of the certified local inspector expires; and
+
+(iv)  identifies the geographic location where the certified local inspector is authorized to conduct an inspection.
+
+(e)  Nothing in this section shall be construed to require a local government to employ a certified local inspector.
+
+(2)  The office shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to establish procedures for:
+
 (a)  complying with this section; and
+
 (b)  the conduct of inspections by a certified local inspector.
+
 (3)  For purposes of Subsection (1):
-(a)  the designation of a person as a certified local inspector shall expire
-one calendar year from the day on which the designation is made;
-(b)  the designation of a person as a certified local inspector may not be
-renewed unless Subsection (1) is complied with, including:
-(i)  providing a refresher course on the training described in Subsection
-(1)(b)(i); and
-(ii)  conducting a new criminal background check pursuant to Subsection
-(1)(b)(ii); and
+
+(a)  the designation of a person as a certified local inspector shall expire one calendar year from the day on which the designation is made;
+
+(b)  the designation of a person as a certified local inspector may not be renewed unless Subsection (1) is complied with, including:
+
+(i)  providing a refresher course on the training described in Subsection (1)(b)(i); and
+
+(ii)  conducting a new criminal background check pursuant to Subsection (1)(b)(ii); and
+
 (c)  the office:
+
 (i)  shall revoke a person's designation as a certified local inspector if:
-(A)  subject to Subsection (6), the person commits an act that is grounds for
-refusing to designate a person as a certified local inspector;
-(B)  the person's local government employer requests that the designation
-described in this Subsection (3)(c)(i) be revoked; or
+
+(A)  subject to Subsection (6), the person commits an act that is grounds for refusing to designate a person as a certified local inspector;
+
+(B)  the person's local government employer requests that the designation described in this Subsection (3)(c)(i) be revoked; or
+
 (C)  the person is no longer employed by a local government, unless:
+
 (I)  the person is employed by another local government; and
-(II)  the governing body of the local government described in Subsection
-(3)(c)(i)(C)(I), requests, in writing, that the person's designation as a
-certified local inspector continue; and
-(ii)  subject to Subsection (6), may revoke a person's designation as a
-certified local inspector if the person violates:
+
+(II)  the governing body of the local government described in Subsection (3)(c)(i)(C)(I), requests, in writing, that the person's designation as a certified local inspector continue; and
+
+(ii)  subject to Subsection (6), may revoke a person's designation as a certified local inspector if the person violates:
+
 (A)  this section; or
+
 (B)  a rule made by the department that relates to this section.
-(4) (a)  Subject to Subsection (4)(b), a certified local inspector may inspect
-a residential treatment facility of a licensee:
-(i)  if the certified local inspector is an employee of a local government
-that is a:
+
+(4) (a)  Subject to Subsection (4)(b), a certified local inspector may inspect a residential treatment facility of a licensee:
+
+(i)  if the certified local inspector is an employee of a local government that is a:
+
 (A) (I)  city; and
+
 (II)  the residential treatment facility is located within the city; or
+
 (B) (I)  county; and
-(II)  the residential treatment facility is located within the unincorporated
-area of the county;
+
+(II)  the residential treatment facility is located within the unincorporated area of the county;
+
 (ii)  only during regular business hours;
+
 (iii)  pursuant to:
+
 (A)  this section; and
+
 (B)  the rules made by the office under this section; and
-(iv)  to determine whether the residential treatment facility is in compliance
-with the requirements of:
+
+(iv)  to determine whether the residential treatment facility is in compliance with the requirements of:
+
 (A)  this chapter; and
+
 (B)  the rules made pursuant to this chapter.
+
 (b)  Notwithstanding Subsection (4)(a), a certified local inspector, may not:
+
 (i)  inspect a residential treatment facility of a licensee:
-(A)  if the office instructs the certified local inspector to not conduct an
-inspection; or
-(B)  except in an emergency, without giving the office prior notice of the
-inspection; and
-(ii)  unless otherwise authorized by law, examine or obtain any record of a
-residential treatment facility, including a record relating to:
+
+(A)  if the office instructs the certified local inspector to not conduct an inspection; or
+
+(B)  except in an emergency, without giving the office prior notice of the inspection; and
+
+(ii)  unless otherwise authorized by law, examine or obtain any record of a residential treatment facility, including a record relating to:
+
 (A)  a client of the residential treatment facility;
+
 (B)  an employee of the residential treatment facility; or
+
 (C)  an incident that occurs at the residential treatment facility.
-(c)  Within 24 hours, excluding weekends and holidays, of conducting an
-inspection under this Subsection (4), the inspector shall provide the office
-with a written report informing the office of the details of the inspection,
-including any violation by the licensee of:
+
+(c)  Within 24 hours, excluding weekends and holidays, of conducting an inspection under this Subsection (4), the inspector shall provide the office with a written report informing the office of the details of the inspection, including any violation by the licensee of:
+
 (i)  this chapter; or
+
 (ii)  the rules made pursuant to this chapter.
+
 (5) (a)  A local government employee who is a certified local inspector:
-(i)  may not take any action pursuant to this section without approval from
-the certified local inspector's local government employer;
-(ii)  when taking any action pursuant to this section, shall at all times be
-considered an employee of the certified local inspector's local government
-employer; and
+
+(i)  may not take any action pursuant to this section without approval from the certified local inspector's local government employer;
+
+(ii)  when taking any action pursuant to this section, shall at all times be considered an employee of the certified local inspector's local government employer; and
+
 (iii)  is not an employee of the:
+
 (A)  office; or
+
 (B)  department.
-(b)  If a certified local inspector acts or fails to act in a way that would
-otherwise incur any liability to the office or the department, the certified
-local inspector's local government employer shall indemnify, defend, and hold
-harmless the office and the department for that liability.
-(c) (i)  A local government employer of a certified local inspector is
-primarily responsible for the training of the local government employer's
-certified local inspector.
-(ii)  The training described in Subsection (1)(b)(i) that is provided by the
-office is supplemental to the primary training responsibility of the certified
-local inspector's local government employer.
-(d)  The local government employer of a certified local inspector shall be
-responsible to pay the certified local inspector for all action taken by the
-certified local inspector under this section, including:
+
+(b)  If a certified local inspector acts or fails to act in a way that would otherwise incur any liability to the office or the department, the certified local inspector's local government employer shall indemnify, defend, and hold harmless the office and the department for that liability.
+
+(c) (i)  A local government employer of a certified local inspector is primarily responsible for the training of the local government employer's certified local inspector.
+
+(ii)  The training described in Subsection (1)(b)(i) that is provided by the office is supplemental to the primary training responsibility of the certified local inspector's local government employer.
+
+(d)  The local government employer of a certified local inspector shall be responsible to pay the certified local inspector for all action taken by the certified local inspector under this section, including:
+
 (i)  conducting an inspection;
+
 (ii)  preparing an inspection report for the office; and
+
 (iii)  participating in training.
-(6) (a)  For purposes of Subsection (1), and Subsections (3)(c)(i)(A) and
-(3)(c)(ii), if the office determines to not designate or renew the designation
-of a person as a certified local inspector, the office shall notify the person
-and the governing body of the local government that employs the person:
+
+(6) (a)  For purposes of Subsection (1), and Subsections (3)(c)(i)(A) and (3)(c)(ii), if the office determines to not designate or renew the designation of a person as a certified local inspector, the office shall notify the person and the governing body of the local government that employs the person:
+
 (i)  of the determination described in this Subsection (6)(a);
-(ii)  of the reasons for the determination described in this Subsection
-(6)(a); and
-(iii)  that the person or the local government, or both, may request a hearing
-in the department's Office of Administrative Hearings, to challenge the
-office's decision.
-(b)  A person for whom a hearing is requested under Subsection (6)(a)(iii) is
-not a certified local inspector until:
-(i)  a final decision is made that the office should designate the person as a
-certified local inspector; and
-(ii) (A)  all appeals of the determination described in Subsection (6)(a) are
-exhausted; or
+
+(ii)  of the reasons for the determination described in this Subsection (6)(a); and
+
+(iii)  that the person or the local government, or both, may request a hearing in the department's Office of Administrative Hearings, to challenge the office's decision.
+
+(b)  A person for whom a hearing is requested under Subsection (6)(a)(iii) is not a certified local inspector until:
+
+(i)  a final decision is made that the office should designate the person as a certified local inspector; and
+
+(ii) (A)  all appeals of the determination described in Subsection (6)(a) are exhausted; or
+
 (B)  the time for an appeal described in Subsection (6)(b)(ii)(A) has expired.
-(7) (a)  If the office determines that a residential treatment facility has
-violated this chapter or the rules made pursuant to this chapter, the office
-shall provide written notice of the violation to the governing body of:
+
+(7) (a)  If the office determines that a residential treatment facility has violated this chapter or the rules made pursuant to this chapter, the office shall provide written notice of the violation to the governing body of:
+
 (i)  the city that the residential treatment facility is located in; or
-(ii)  the county that the residential treatment facility is located in, if the
-residential treatment facility is located in the unincorporated area of the
-county.
+
+(ii)  the county that the residential treatment facility is located in, if the residential treatment facility is located in the unincorporated area of the county.
+
 (b)  The written notice described in Subsection (7)(a):
+
 (i)  subject to Subsection (7)(b)(ii), shall include:
+
 (A)  the name of the residential treatment facility;
+
 (B)  the location of the residential treatment facility;
+
 (C)  the date and time that the violation occurred; and
+
 (D)  the provision of the statute or rule that is violated; and
+
 (ii)  may not include:
+
 (A)  the name of any person connected with the violation; or
-(B)  any information prohibited from disclosure by Title 63G, Chapter 2,
-Government Records Access and Management Act.
-(c)  A local government may seek additional information relating to a
-violation described in this Subsection (7) to the extent permitted by Title
-63G, Chapter 2, Government Records Access and Management Act.
+
+(B)  any information prohibited from disclosure by Title 63G, Chapter 2, Government Records Access and Management Act.
+
+(c)  A local government may seek additional information relating to a violation described in this Subsection (7) to the extent permitted by Title 63G, Chapter 2, Government Records Access and Management Act.
+

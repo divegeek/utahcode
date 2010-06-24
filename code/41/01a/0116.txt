@@ -1,57 +1,44 @@
 41-1a-116.   Records -- Access to records -- Fees.
-(1) (a)  All motor vehicle title and registration records of the division are
-protected unless the division determines based upon a written request by the
-subject of the record that the record is public.
-(b)  In addition to the provisions of this section, access to all division
-records is permitted for all purposes described in the federal Driver's
-Privacy Protection Act of 1994, 18 U.S.C. Chapter 123.
+
+(1) (a)  All motor vehicle title and registration records of the division are protected unless the division determines based upon a written request by the subject of the record that the record is public.
+
+(b)  In addition to the provisions of this section, access to all division records is permitted for all purposes described in the federal Driver's Privacy Protection Act of 1994, 18 U.S.C. Chapter 123.
+
 (2) (a)  Access to public records is determined by Section 63G-2-201.
-(b)  A record designated as public under Subsection (1)(a) may be used for
-advertising or solicitation purposes.
-(3)  Access to protected records, except as provided in Subsection (4), is
-determined by Section 63G-2-202.
-(4)  In addition to those persons granted access to protected records under
-Section 63G-2-202, the division may disclose a protected record to a licensed
-private investigator, holding a valid agency or registrant license, with a
-legitimate business need, a person with a bona fide security interest, or the
-owner of a mobile home park subject to Subsection (5), only upon receipt of a
-signed acknowledgment that the person receiving that protected record may not:
-(a)  resell or disclose information from that record to any other person
-except as permitted in the federal Driver's Privacy Protection Act of 1994; or
-(b)  use information from that record for advertising or solicitation
-purposes.
-(5)  The division may disclose the name or address, or both, of the lienholder
-or mobile home owner of record, or both of them, to the owner of a mobile home
-park, if all of the following conditions are met:
-(a)  a mobile home located within the mobile home park owner's park has been
-abandoned under Section 57-16-13 or the resident is in default under the
-resident's lease;
-(b)  the mobile home park owner has conducted a reasonable search, but is
-unable to determine the name or address, or both, of the lienholder or mobile
-home owner of record; and
-(c)  the mobile home park owner has submitted a written statement to the
-division explaining the mobile home park owner's efforts to determine the name
-or address, or both, of the lienholder or mobile home owner of record before
-the mobile home park owner contacted the division.
-(6)  The division may provide protected information to a statistic gathering
-entity under Subsection (4) only in summary form.
-(7)  A person allowed access to protected records under Subsection (4) may
-request motor vehicle title or registration information from the division
-regarding any person, entity, or motor vehicle by submitting a written
-application on a form provided by the division.
-(8)  If a person regularly requests information for business purposes, the
-division may by rule allow the information requests to be made by telephone
-and fees as required under Subsection (9) charged to a division billing
-account to facilitate division service.  The rules shall require that the:
-(a)  division determine if the nature of the business and the volume of
-requests merit the dissemination of the information by telephone;
-(b)  division determine if the credit rating of the requesting party justifies
-providing a billing account; and
-(c)  requestor submit to the division an application that includes names and
-signatures of persons authorized to request information by telephone and
-charge the fees to the billing account.
-(9) (a)  The division shall charge a reasonable search fee determined under
-Section 63J-1-504 for the research of each record requested.
-(b)  Fees may not be charged for furnishing information to persons necessary
-for their compliance with this chapter.
+
+(b)  A record designated as public under Subsection (1)(a) may be used for advertising or solicitation purposes.
+
+(3)  Access to protected records, except as provided in Subsection (4), is determined by Section 63G-2-202.
+
+(4)  In addition to those persons granted access to protected records under Section 63G-2-202, the division may disclose a protected record to a licensed private investigator, holding a valid agency or registrant license, with a legitimate business need, a person with a bona fide security interest, or the owner of a mobile home park subject to Subsection (5), only upon receipt of a signed acknowledgment that the person receiving that protected record may not:
+
+(a)  resell or disclose information from that record to any other person except as permitted in the federal Driver's Privacy Protection Act of 1994; or
+
+(b)  use information from that record for advertising or solicitation purposes.
+
+(5)  The division may disclose the name or address, or both, of the lienholder or mobile home owner of record, or both of them, to the owner of a mobile home park, if all of the following conditions are met:
+
+(a)  a mobile home located within the mobile home park owner's park has been abandoned under Section 57-16-13 or the resident is in default under the resident's lease;
+
+(b)  the mobile home park owner has conducted a reasonable search, but is unable to determine the name or address, or both, of the lienholder or mobile home owner of record; and
+
+(c)  the mobile home park owner has submitted a written statement to the division explaining the mobile home park owner's efforts to determine the name or address, or both, of the lienholder or mobile home owner of record before the mobile home park owner contacted the division.
+
+(6)  The division may provide protected information to a statistic gathering entity under Subsection (4) only in summary form.
+
+(7)  A person allowed access to protected records under Subsection (4) may request motor vehicle title or registration information from the division regarding any person, entity, or motor vehicle by submitting a written application on a form provided by the division.
+
+(8)  If a person regularly requests information for business purposes, the division may by rule allow the information requests to be made by telephone and fees as required under Subsection (9) charged to a division billing account to facilitate division service.  The rules shall require that the:
+
+(a)  division determine if the nature of the business and the volume of requests merit the dissemination of the information by telephone;
+
+(b)  division determine if the credit rating of the requesting party justifies providing a billing account; and
+
+(c)  requestor submit to the division an application that includes names and signatures of persons authorized to request information by telephone and charge the fees to the billing account.
+
+(9) (a)  The division shall charge a reasonable search fee determined under Section 63J-1-504 for the research of each record requested.
+
+(b)  Fees may not be charged for furnishing information to persons necessary for their compliance with this chapter.
+
 (c)  Law enforcement agencies have access to division records free of charge.
+

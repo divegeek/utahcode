@@ -1,17 +1,8 @@
 31A-21-307.   Other insurance.
-(1)  When two or more policies promise to indemnify an insured against the
-same loss without intending cumulative coverage, no "other insurance"
-provisions of the policies may reduce the aggregate protection of the insured
-below the lesser of the actual insured loss suffered by the insured and the
-maximum indemnification promised by any policy without regard to any "other
-insurance" provision.
-(2)  Subject to Subsection (1), the policies may by their terms define the
-extent to which each insurance is primary and each is excess, but if the
-"other insurance" terms of the policies are inconsistent, there is joint and
-several liability to the insured on any coverage which overlaps and which has
-inconsistent terms.  Subsequent settlement among the insurers does not alter
-any rights of the insured.  The commissioner may adopt rules consistent with
-this section concerning "other insurance."
-(3)  This section does not apply to accident and health insurance policies.
-Refer to Section 31A-22-619 for the coordination of accident and health
-benefits.
+
+(1)  When two or more policies promise to indemnify an insured against the same loss without intending cumulative coverage, no "other insurance" provisions of the policies may reduce the aggregate protection of the insured below the lesser of the actual insured loss suffered by the insured and the maximum indemnification promised by any policy without regard to any "other insurance" provision.
+
+(2)  Subject to Subsection (1), the policies may by their terms define the extent to which each insurance is primary and each is excess, but if the "other insurance" terms of the policies are inconsistent, there is joint and several liability to the insured on any coverage which overlaps and which has inconsistent terms.  Subsequent settlement among the insurers does not alter any rights of the insured.  The commissioner may adopt rules consistent with this section concerning "other insurance."
+
+(3)  This section does not apply to accident and health insurance policies.  Refer to Section 31A-22-619 for the coordination of accident and health benefits.
+

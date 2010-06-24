@@ -1,30 +1,24 @@
 20A-2-206.   Electronic registration.
-(1)  The lieutenant governor may create and maintain an electronic system for
-voter registration that is publicly available on the Internet.
+
+(1)  The lieutenant governor may create and maintain an electronic system for voter registration that is publicly available on the Internet.
+
 (2)  An electronic system for voter registration shall require:
-(a)  that an applicant have a valid driver license or identification card,
-issued under Title 53, Chapter 3, Uniform Driver License Act, that reflects
-the person's current principal place of residence;
-(b)  that the applicant provide the information required by Section 20A-2-104,
-except that the applicant's signature may be obtained in the manner described
-in Subsections (2)(d) and (4);
+
+(a)  that an applicant have a valid driver license or identification card, issued under Title 53, Chapter 3, Uniform Driver License Act, that reflects the person's current principal place of residence;
+
+(b)  that the applicant provide the information required by Section 20A-2-104, except that the applicant's signature may be obtained in the manner described in Subsections (2)(d) and (4);
+
 (c)  that the applicant attest to the truth of the information provided; and
-(d)  that the applicant authorize the lieutenant governor's and county clerk's
-use of the applicant's driver license or identification card signature,
-obtained under Title 53, Chapter 3, Uniform Driver License Act, for voter
-registration purposes.
-(3)  Notwithstanding Section 20A-2-104, an applicant using the electronic
-system for voter registration created under this section is not required to
-complete a printed registration form.
-(4)  A system created and maintained under this section shall provide the
-notices concerning a voter's presentation of identification contained in
-Subsection 20A-2-104(1).
-(5)  The lieutenant governor shall obtain a digital copy of the applicant's
-driver license or identification card signature from the Driver License
-Division.
-(6)  Upon receiving all information from an applicant and the Driver License
-Division, the lieutenant governor shall send the information to the county
-clerk for the county in which the applicant's principal place of residence is
-found for further action as required by Section 20A-2-304.
-(7)  The lieutenant governor may use additional security measures to ensure
-the accuracy and integrity of an electronically submitted voter registration.
+
+(d)  that the applicant authorize the lieutenant governor's and county clerk's use of the applicant's driver license or identification card signature, obtained under Title 53, Chapter 3, Uniform Driver License Act, for voter registration purposes.
+
+(3)  Notwithstanding Section 20A-2-104, an applicant using the electronic system for voter registration created under this section is not required to complete a printed registration form.
+
+(4)  A system created and maintained under this section shall provide the notices concerning a voter's presentation of identification contained in Subsection 20A-2-104(1).
+
+(5)  The lieutenant governor shall obtain a digital copy of the applicant's driver license or identification card signature from the Driver License Division.
+
+(6)  Upon receiving all information from an applicant and the Driver License Division, the lieutenant governor shall send the information to the county clerk for the county in which the applicant's principal place of residence is found for further action as required by Section 20A-2-304.
+
+(7)  The lieutenant governor may use additional security measures to ensure the accuracy and integrity of an electronically submitted voter registration.
+

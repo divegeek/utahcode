@@ -1,105 +1,76 @@
-31A-23a-805.   Required contract provisions -- Reinsurance intermediary-
-manager.
-Transactions between a reinsurance intermediary-manager and the reinsurer it
-represents in that capacity may only be entered into pursuant to a written
-contract, which specifies the responsibilities of each party, and which shall
-be approved by the reinsurer's board of directors.  At least 30 days before
-the reinsurer assumes or cedes business through the producer, a true copy of
-the approved contract shall be filed with the commissioner for approval.  The
-contract shall, at a minimum, provide or require the following:
-(1)  The reinsurer may terminate the contract for cause upon written notice to
-the reinsurance intermediary-manager.  The reinsurer may immediately suspend
-the authority of the reinsurance intermediary-manager to assume or cede
-business during the pendency of any dispute regarding the cause for
-termination.
-(2)  The reinsurance intermediary-manager will render accounts to the
-reinsurer accurately detailing all material transactions, including
-information necessary to support all commissions, charges, and other fees
-received by, or owing to the reinsurance intermediary-manager, and he shall
-remit all funds due under the contract to the reinsurer at least monthly.
-(3)  All funds collected for the reinsurer's account will be held by the
-reinsurance intermediary-manager in a fiduciary capacity in a financial
-institution which is a qualified United States financial institution.  The
-reinsurance intermediary-manager may retain no more than three months
-estimated claims payments and allocated loss adjustment expenses.  The
-reinsurance intermediary-manager shall maintain a separate account for each
-reinsurer that it represents.
-(4)  For at least 10 years after expiration of each contract of reinsurance
-transacted by the reinsurance intermediary-manager, he shall keep a complete
-record for each transactions showing:
-(a)  the type of contract, limits, underwriting restrictions, classes of
-risks, and territory;
-(b)  period of coverage, including effective and expiration dates,
-cancellation provisions and notice required of cancellation, and disposition
-of outstanding reserves on covered risks;
+31A-23a-805.   Required contract provisions -- Reinsurance intermediary-manager.
+
+Transactions between a reinsurance intermediary-manager and the reinsurer it represents in that capacity may only be entered into pursuant to a written contract, which specifies the responsibilities of each party, and which shall be approved by the reinsurer's board of directors.  At least 30 days before the reinsurer assumes or cedes business through the producer, a true copy of the approved contract shall be filed with the commissioner for approval.  The contract shall, at a minimum, provide or require the following:
+
+(1)  The reinsurer may terminate the contract for cause upon written notice to the reinsurance intermediary-manager.  The reinsurer may immediately suspend the authority of the reinsurance intermediary-manager to assume or cede business during the pendency of any dispute regarding the cause for termination.
+
+(2)  The reinsurance intermediary-manager will render accounts to the reinsurer accurately detailing all material transactions, including information necessary to support all commissions, charges, and other fees received by, or owing to the reinsurance intermediary-manager, and he shall remit all funds due under the contract to the reinsurer at least monthly.
+
+(3)  All funds collected for the reinsurer's account will be held by the reinsurance intermediary-manager in a fiduciary capacity in a financial institution which is a qualified United States financial institution.  The reinsurance intermediary-manager may retain no more than three months estimated claims payments and allocated loss adjustment expenses.  The reinsurance intermediary-manager shall maintain a separate account for each reinsurer that it represents.
+
+(4)  For at least 10 years after expiration of each contract of reinsurance transacted by the reinsurance intermediary-manager, he shall keep a complete record for each transactions showing:
+
+(a)  the type of contract, limits, underwriting restrictions, classes of risks, and territory;
+
+(b)  period of coverage, including effective and expiration dates, cancellation provisions and notice required of cancellation, and disposition of outstanding reserves on covered risks;
+
 (c)  reporting and settlement requirements of balances;
+
 (d)  rates used to compute the reinsurance premium;
+
 (e)  names and addresses of reinsurers;
-(f)  rates of all reinsurance commissions, including the commissions on any
-retrocessions handled by the reinsurance intermediary-manager;
+
+(f)  rates of all reinsurance commissions, including the commissions on any retrocessions handled by the reinsurance intermediary-manager;
+
 (g)  related correspondence and memoranda;
+
 (h)  proof of placement;
-(i)  details regarding retrocessions handled by the reinsurance intermediary-
-manager, as permitted by Subsection 31A-23a-807(4), including the identity of
-retrocessionaires and percentage of each contract assumed or ceded;
+
+(i)  details regarding retrocessions handled by the reinsurance intermediary-manager, as permitted by Subsection 31A-23a-807(4), including the identity of retrocessionaires and percentage of each contract assumed or ceded;
+
 (j)  financial records, including premium and loss accounts; and
-(k)  when the reinsurance intermediary-manager places a reinsurance contract
-on behalf of a ceding insurer:
-(i)  directly from any assuming reinsurer, written evidence that the assuming
-reinsurer has agreed to assume the risk; or
-(ii)  if placed through a representative of the assuming reinsurer, other than
-an employee, written evidence that the reinsurer has delegated binding
-authority to the representative.
-(5)  The reinsurer will have access and the right to copy all accounts and
-records maintained by the reinsurance intermediary-manager which are related
-to its business, in a form usable by the reinsurer.
-(6)  The contract cannot be assigned in whole or in part by the reinsurance
-intermediary-manager.
-(7)  The reinsurance intermediary-manager will comply with the written
-underwriting and rating standards established by the insurer for the
-acceptance, rejection, or cession of all risks.
-(8)  The contract shall set forth the rates, terms, and purposes of
-commissions, charges, and other fees which the reinsurance intermediary-
-manager may levy against the reinsurer.
-(9)  If the contract permits the reinsurance intermediary-manager to settle
-claims on behalf of the reinsurer:
+
+(k)  when the reinsurance intermediary-manager places a reinsurance contract on behalf of a ceding insurer:
+
+(i)  directly from any assuming reinsurer, written evidence that the assuming reinsurer has agreed to assume the risk; or
+
+(ii)  if placed through a representative of the assuming reinsurer, other than an employee, written evidence that the reinsurer has delegated binding authority to the representative.
+
+(5)  The reinsurer will have access and the right to copy all accounts and records maintained by the reinsurance intermediary-manager which are related to its business, in a form usable by the reinsurer.
+
+(6)  The contract cannot be assigned in whole or in part by the reinsurance intermediary-manager.
+
+(7)  The reinsurance intermediary-manager will comply with the written underwriting and rating standards established by the insurer for the acceptance, rejection, or cession of all risks.
+
+(8)  The contract shall set forth the rates, terms, and purposes of commissions, charges, and other fees which the reinsurance intermediary-manager may levy against the reinsurer.
+
+(9)  If the contract permits the reinsurance intermediary-manager to settle claims on behalf of the reinsurer:
+
 (a)  All claims will be reported to the reinsurer in a timely manner.
-(b)  A copy of the claim file will be sent to the reinsurer at its request or
-as soon as it becomes known that the claim:
-(i)  has the potential to exceed the lesser of an amount determined by the
-commissioner or the limit set by the reinsurer;
+
+(b)  A copy of the claim file will be sent to the reinsurer at its request or as soon as it becomes known that the claim:
+
+(i)  has the potential to exceed the lesser of an amount determined by the commissioner or the limit set by the reinsurer;
+
 (ii)  involves a coverage dispute;
-(iii)  may exceed the reinsurance intermediary-manager claims settlement
-authority;
+
+(iii)  may exceed the reinsurance intermediary-manager claims settlement authority;
+
 (iv)  is open for more than six months; or
-(v)  is closed by payment of the lesser of an amount set by the commissioner
-or an amount set by the reinsurer.
-(c)  All claim files will be the joint property of the reinsurer and
-reinsurance intermediary-manager.  However, upon an order of liquidation of
-the reinsurer the files shall become the sole property of the reinsurer or its
-estate.  The reinsurance intermediary-manager shall have reasonable access to
-and the right to copy the files on a timely basis.
-(d)  Any settlement authority granted to the reinsurance intermediary-manager
-may be terminated for cause upon the reinsurer's written notice to the
-reinsurance intermediary-manager, or upon the termination of the contract.
-The reinsurer may suspend the settlement authority during the pendency of the
-dispute regarding the cause of termination.
-(10)  If the contract provides for a sharing of interim profits by the
-reinsurance intermediary-manager, that the contract shall provide interim
-profits will not be paid until one year after the end of each underwriting
-period for property business and five years after the end of each underwriting
-period for casualty business, or a later time period set by the commissioner
-for specified lines of insurance, and not until the adequacy of reserves on
-remaining claims has been verified pursuant to Subsection 31A-23a-807(3).
-(11)  The reinsurance intermediary-manager will annually provide the reinsurer
-with a statement of its financial condition prepared by an independent
-certified public accountant.
-(12)  The reinsurer shall at least semi-annually conduct an on-site review of
-the underwriting and claims processing operations of the reinsurance
-intermediary-manager.
-(13)  The reinsurance intermediary-manager will disclose to the reinsurer any
-relationship it has with any insurer prior to ceding or assuming any business
-with the insurer pursuant to this contract.
-(14)  Within the scope of its actual or apparent authority the acts of the
-reinsurance intermediary-manager shall be considered to be the acts of the
-reinsurer on whose behalf it is acting.
+
+(v)  is closed by payment of the lesser of an amount set by the commissioner or an amount set by the reinsurer.
+
+(c)  All claim files will be the joint property of the reinsurer and reinsurance intermediary-manager.  However, upon an order of liquidation of the reinsurer the files shall become the sole property of the reinsurer or its estate.  The reinsurance intermediary-manager shall have reasonable access to and the right to copy the files on a timely basis.
+
+(d)  Any settlement authority granted to the reinsurance intermediary-manager may be terminated for cause upon the reinsurer's written notice to the reinsurance intermediary-manager, or upon the termination of the contract.  The reinsurer may suspend the settlement authority during the pendency of the dispute regarding the cause of termination.
+
+(10)  If the contract provides for a sharing of interim profits by the reinsurance intermediary-manager, that the contract shall provide interim profits will not be paid until one year after the end of each underwriting period for property business and five years after the end of each underwriting period for casualty business, or a later time period set by the commissioner for specified lines of insurance, and not until the adequacy of reserves on remaining claims has been verified pursuant to Subsection 31A-23a-807(3).
+
+(11)  The reinsurance intermediary-manager will annually provide the reinsurer with a statement of its financial condition prepared by an independent certified public accountant.
+
+(12)  The reinsurer shall at least semi-annually conduct an on-site review of the underwriting and claims processing operations of the reinsurance intermediary-manager.
+
+(13)  The reinsurance intermediary-manager will disclose to the reinsurer any relationship it has with any insurer prior to ceding or assuming any business with the insurer pursuant to this contract.
+
+(14)  Within the scope of its actual or apparent authority the acts of the reinsurance intermediary-manager shall be considered to be the acts of the reinsurer on whose behalf it is acting.
+

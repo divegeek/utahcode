@@ -1,60 +1,52 @@
 19-5-102.   Definitions.
+
 As used in this chapter:
+
 (1)  "Board" means the Water Quality Board created in Section 19-1-106.
-(2)  "Contaminant" means any physical, chemical, biological, or radiological
-substance or matter in water.
-(3)  "Discharge" means the addition of any pollutant to any waters of the
-state.
+
+(2)  "Contaminant" means any physical, chemical, biological, or radiological substance or matter in water.
+
+(3)  "Discharge" means the addition of any pollutant to any waters of the state.
+
 (4)  "Discharge permit" means a permit issued to a person who:
-(a)  discharges or whose activities would probably result in a discharge of
-pollutants into the waters of the state; or
+
+(a)  discharges or whose activities would probably result in a discharge of pollutants into the waters of the state; or
+
 (b)  generates or manages sewage sludge.
-(5)  "Disposal system" means a system for disposing of wastes, and includes
-sewerage systems and treatment works.
-(6)  "Effluent limitations" means any restrictions, requirements, or
-prohibitions, including schedules of compliance established under this chapter
-which apply to discharges.
+
+(5)  "Disposal system" means a system for disposing of wastes, and includes sewerage systems and treatment works.
+
+(6)  "Effluent limitations" means any restrictions, requirements, or prohibitions, including schedules of compliance established under this chapter which apply to discharges.
+
 (7)  "Executive secretary" means the executive secretary of the board.
+
 (8)  "Point source":
-(a)  means any discernible, confined, and discrete conveyance, including but
-not limited to any pipe, ditch, channel, tunnel, conduit, well, discrete
-fissure, container, rolling stock, concentrated animal feeding operation, or
-vessel or other floating craft, from which pollutants are or may be
-discharged; and
+
+(a)  means any discernible, confined, and discrete conveyance, including but not limited to any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, concentrated animal feeding operation, or vessel or other floating craft, from which pollutants are or may be discharged; and
+
 (b)  does not include return flows from irrigated agriculture.
-(9)  "Pollution" means any man-made or man-induced alteration of the chemical,
-physical, biological, or radiological integrity of any waters of the state,
-unless the alteration is necessary for the public health and safety.
-(10)  "Publicly owned treatment works" means any facility for the treatment of
-pollutants owned by the state, its political subdivisions, or other public
-entity.
-(11)  "Schedule of compliance" means a schedule of remedial measures,
-including an enforceable sequence of actions or operations leading to
-compliance with this chapter.
-(12)  "Sewage sludge" means any solid, semisolid, or liquid residue removed
-during the treatment of municipal wastewater or domestic sewage.
-(13)  "Sewerage system" means pipelines or conduits, pumping stations, and all
-other constructions, devices, appurtenances, and facilities used for
-collecting or conducting wastes to a point of ultimate disposal.
-(14)  "Treatment works" means any plant, disposal field, lagoon, dam, pumping
-station, incinerator, or other works used for the purpose of treating,
-stabilizing, or holding wastes.
-(15)  "Underground injection" means the subsurface emplacement of fluids by
-well injection.
-(16)  "Underground wastewater disposal system" means a system for disposing of
-domestic wastewater discharges as defined by the board and the executive
-director.
-(17)  "Waste" or "pollutant" means dredged spoil, solid waste, incinerator
-residue, sewage, garbage, sewage sludge, munitions, chemical wastes,
-biological materials, radioactive materials, heat, wrecked or discarded
-equipment, rock, sand, cellar dirt, and industrial, municipal, and
-agricultural waste discharged into water.
+
+(9)  "Pollution" means any man-made or man-induced alteration of the chemical, physical, biological, or radiological integrity of any waters of the state, unless the alteration is necessary for the public health and safety.
+
+(10)  "Publicly owned treatment works" means any facility for the treatment of pollutants owned by the state, its political subdivisions, or other public entity.
+
+(11)  "Schedule of compliance" means a schedule of remedial measures, including an enforceable sequence of actions or operations leading to compliance with this chapter.
+
+(12)  "Sewage sludge" means any solid, semisolid, or liquid residue removed during the treatment of municipal wastewater or domestic sewage.
+
+(13)  "Sewerage system" means pipelines or conduits, pumping stations, and all other constructions, devices, appurtenances, and facilities used for collecting or conducting wastes to a point of ultimate disposal.
+
+(14)  "Treatment works" means any plant, disposal field, lagoon, dam, pumping station, incinerator, or other works used for the purpose of treating, stabilizing, or holding wastes.
+
+(15)  "Underground injection" means the subsurface emplacement of fluids by well injection.
+
+(16)  "Underground wastewater disposal system" means a system for disposing of domestic wastewater discharges as defined by the board and the executive director.
+
+(17)  "Waste" or "pollutant" means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt, and industrial, municipal, and agricultural waste discharged into water.
+
 (18)  "Waters of the state":
-(a)  means all streams, lakes, ponds, marshes, watercourses, waterways, wells,
-springs, irrigation systems, drainage systems, and all other bodies or
-accumulations of water, surface and underground, natural or artificial, public
-or private, which are contained within, flow through, or border upon this
-state or any portion of the state; and
-(b)  does not include bodies of water confined to and retained within the
-limits of private property, and which do not develop into or constitute a
-nuisance, a public health hazard, or a menace to fish or wildlife.
+
+(a)  means all streams, lakes, ponds, marshes, watercourses, waterways, wells, springs, irrigation systems, drainage systems, and all other bodies or accumulations of water, surface and underground, natural or artificial, public or private, which are contained within, flow through, or border upon this state or any portion of the state; and
+
+(b)  does not include bodies of water confined to and retained within the limits of private property, and which do not develop into or constitute a nuisance, a public health hazard, or a menace to fish or wildlife.
+

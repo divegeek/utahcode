@@ -1,10 +1,6 @@
 78A-2-217.   Electronic writing.
-(1)  Except as restricted by the Constitution of the United States or of this
-state, any writing required or permitted by this code to be filed with or
-prepared by a court may be filed or prepared in an electronic medium and by
-electronic transmission subject to the ability of the recipient to accept and
-process the electronic writing.
-(2)  Any writing required to be signed that is filed with or prepared by a
-court in an electronic medium or by electronic transmission shall be signed by
-electronic signature in accordance with Title 46, Chapter 4, Uniform
-Electronic Transactions Act.
+
+(1)  Except as restricted by the Constitution of the United States or of this state, any writing required or permitted by this code to be filed with or prepared by a court may be filed or prepared in an electronic medium and by electronic transmission subject to the ability of the recipient to accept and process the electronic writing.
+
+(2)  Any writing required to be signed that is filed with or prepared by a court in an electronic medium or by electronic transmission shall be signed by electronic signature in accordance with Title 46, Chapter 4, Uniform Electronic Transactions Act.
+

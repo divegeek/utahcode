@@ -1,36 +1,20 @@
 77-24-2.   Property not needed as evidence -- Return procedure.
-(1)  Property which is not needed as evidence shall be returned to the owner,
-if the owner may lawfully possess it, or disposed of in accordance with this
-chapter.
-(2) (a)  When the peace officer or the officer's employing agency becomes
-aware that the property is not needed as evidence, the officer or the agency
-shall inform the prosecuting attorney that the property is not needed and
-provide a description and details of ownership.
-(b)  When the prosecuting attorney is informed or otherwise becomes aware that
-the property is not needed as evidence, the prosecutor shall authorize release
-of the property to the owner.
-(c)  When the peace officer or the officer's employing agency becomes aware
-that any property is to be returned to its owner, the officer or employing
-agency shall exercise due diligence in attempting to notify the rightful owner
-that the property is to be returned.
-(d)  If the property is a weapon, the peace officer shall dispose of it in
-accordance with Section 76-10-525.
-(e) (i)  Upon proof of ownership and of lawfulness of possession satisfactory
-to the evidence custodian, the custodian shall release the property to the
-owner.
-(ii)  If the evidence custodian is unable to locate an owner of the property
-or if the owner is not entitled to lawfully possess the property, the agency
-having custody of the property shall dispose of the property in accordance
-with Section 77-24-4.
-(3) (a)  When property is received in evidence, the clerk of the court last
-receiving it shall retain the property or the clerk shall return the property
-to the custody of the peace officer.  The property shall be retained by the
-clerk  or the officer until all direct appeals and retrials are final, at
-which time the property shall be returned to the owner in accordance with this
-chapter.  If the property was seized for forfeiture, it shall be held and
-disposed of as provided in Title 24, Chapter 1, Utah Uniform Forfeiture
-Procedures Act.
-(b)  If the prosecuting attorney considers it necessary to retain control over
-the evidence, in anticipation of possible collateral attacks upon the judgment
-or for use in a potential prosecution, he may decline to authorize return of
-the property to the owner.
+
+(1)  Property which is not needed as evidence shall be returned to the owner, if the owner may lawfully possess it, or disposed of in accordance with this chapter.
+
+(2) (a)  When the peace officer or the officer's employing agency becomes aware that the property is not needed as evidence, the officer or the agency shall inform the prosecuting attorney that the property is not needed and provide a description and details of ownership.
+
+(b)  When the prosecuting attorney is informed or otherwise becomes aware that the property is not needed as evidence, the prosecutor shall authorize release of the property to the owner.
+
+(c)  When the peace officer or the officer's employing agency becomes aware that any property is to be returned to its owner, the officer or employing agency shall exercise due diligence in attempting to notify the rightful owner that the property is to be returned.
+
+(d)  If the property is a weapon, the peace officer shall dispose of it in accordance with Section 76-10-525.
+
+(e) (i)  Upon proof of ownership and of lawfulness of possession satisfactory to the evidence custodian, the custodian shall release the property to the owner.
+
+(ii)  If the evidence custodian is unable to locate an owner of the property or if the owner is not entitled to lawfully possess the property, the agency having custody of the property shall dispose of the property in accordance with Section 77-24-4.
+
+(3) (a)  When property is received in evidence, the clerk of the court last receiving it shall retain the property or the clerk shall return the property to the custody of the peace officer.  The property shall be retained by the clerk  or the officer until all direct appeals and retrials are final, at which time the property shall be returned to the owner in accordance with this chapter.  If the property was seized for forfeiture, it shall be held and disposed of as provided in Title 24, Chapter 1, Utah Uniform Forfeiture Procedures Act.
+
+(b)  If the prosecuting attorney considers it necessary to retain control over the evidence, in anticipation of possible collateral attacks upon the judgment or for use in a potential prosecution, he may decline to authorize return of the property to the owner.
+

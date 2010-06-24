@@ -1,47 +1,48 @@
 77-32-304.5.   Reasonable compensation for defense counsel for indigents.
+
 (1)  This section does not apply to any attorney:
-(a)  under contract with the county or municipality for defense of an indigent
-person;
-(b)  in the legal defender organization, legal aid agency, law firm, or public
-defender association with which that attorney is professionally associated; or
+
+(a)  under contract with the county or municipality for defense of an indigent person;
+
+(b)  in the legal defender organization, legal aid agency, law firm, or public defender association with which that attorney is professionally associated; or
+
 (c)  who is an employee of a county legal defender's office.
-(2) (a)  The county or municipality shall pay reasonable compensation to any
-attorney assigned by the court under Subsection 77-32-306 at the conclusion of
-the representation or any segment of the representation, as provided in
-Subsections (2)(b), (c), (d), and (e):
-(i)  before the district or justice courts, including interlocutory appeals;
-and
+
+(2) (a)  The county or municipality shall pay reasonable compensation to any attorney assigned by the court under Subsection 77-32-306 at the conclusion of the representation or any segment of the representation, as provided in Subsections (2)(b), (c), (d), and (e):
+
+(i)  before the district or justice courts, including interlocutory appeals; and
+
 (ii)  before the appellate court on a first appeal of right.
-(b)  The legislative body of each county and municipality shall establish and
-annually review guidelines for the rate of compensation, taking into account:
+
+(b)  The legislative body of each county and municipality shall establish and annually review guidelines for the rate of compensation, taking into account:
+
 (i)  the nature and complexity of the case;
-(ii)  the competency and years of experience in criminal defense of the
-assigned attorney;
-(iii)  the adjusted net hourly rate incurred by the county or municipality for
-a prosecutor or public defender of equivalent experience and competency; and
-(iv)  the prevailing rates within the judicial district for comparable
-services.
-(c)  If the legislative body of a county or municipality does not establish
-the rate guidelines, the rate of compensation shall be determined by the trial
-judge or a judge other than the trial judge if requested by:
+
+(ii)  the competency and years of experience in criminal defense of the assigned attorney;
+
+(iii)  the adjusted net hourly rate incurred by the county or municipality for a prosecutor or public defender of equivalent experience and competency; and
+
+(iv)  the prevailing rates within the judicial district for comparable services.
+
+(c)  If the legislative body of a county or municipality does not establish the rate guidelines, the rate of compensation shall be determined by the trial judge or a judge other than the trial judge if requested by:
+
 (i)  the assigned attorney; or
+
 (ii)  the county or municipality.
-(d)  If the assigned attorney disagrees with the amount of compensation paid
-or contemplated for payment by the county or municipality, the assigned
-attorney shall nonetheless continue to represent the indigent defendant and
-may file a claim against:
-(i)  the county pursuant to Section 17-50-401, in which event the period for a
-denial by the county shall be 20 days; or
-(ii)  the municipality pursuant to Title 10, Chapter 6, Uniform Fiscal
-Procedures Act for Utah Cities.
-(e)  In determining the reasonable compensation to be paid to defense counsel
-under Subsections (2)(c) and (d), the court shall consider the factors
-contained in Subsections (2)(b)(i) through (iv).
-(f)  The total compensation in a noncapital case may not, without prior court
-approval following a hearing, exceed:
-(i)  $3,500 for each assigned attorney in a case in which one or more felonies
-is charged;
-(ii)  $1,000 for each assigned attorney in a case in which only misdemeanors
-or lesser offenses are charged; or
-(iii)  $2,500 for each assigned attorney in the representation of an indigent
-in an appellate court on a first appeal of right.
+
+(d)  If the assigned attorney disagrees with the amount of compensation paid or contemplated for payment by the county or municipality, the assigned attorney shall nonetheless continue to represent the indigent defendant and may file a claim against:
+
+(i)  the county pursuant to Section 17-50-401, in which event the period for a denial by the county shall be 20 days; or
+
+(ii)  the municipality pursuant to Title 10, Chapter 6, Uniform Fiscal Procedures Act for Utah Cities.
+
+(e)  In determining the reasonable compensation to be paid to defense counsel under Subsections (2)(c) and (d), the court shall consider the factors contained in Subsections (2)(b)(i) through (iv).
+
+(f)  The total compensation in a noncapital case may not, without prior court approval following a hearing, exceed:
+
+(i)  $3,500 for each assigned attorney in a case in which one or more felonies is charged;
+
+(ii)  $1,000 for each assigned attorney in a case in which only misdemeanors or lesser offenses are charged; or
+
+(iii)  $2,500 for each assigned attorney in the representation of an indigent in an appellate court on a first appeal of right.
+

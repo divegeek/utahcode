@@ -1,41 +1,30 @@
 31A-14-205.   Requirements from other applicable chapters.
-(1)  A foreign insurer may not be authorized to do business in this state,
-unless it strictly complies with the following requirements:
-(a)  Foreign insurers shall comply with the solvency standard set forth in
-Chapter 17, Part 6, Risk-Based Capital, including maintenance of minimum
-capital or permanent surplus under Section 31A-5-211.
-(b)  A foreign insurer proposing to market securities in this state shall
-comply with Sections 31A-5-301, 31A-5-302, and 31A-5-305, unless this
-marketing is subject to United States Securities and Exchange Commission
-regulation.
-(c)  Section 16-10a-1506 applies to the corporate name and the change of name
-of foreign stock insurers.  Section 16-6a-1507 applies to the change of name
-of foreign mutual insurers.
-(d)  Subsection 31A-5-203(2)(c) applies to other business of foreign mutual
-insurers.
-(e)  Subsection 31A-5-404(2), as modified by Subsection 31A-5-404(4), applies
-to communications to shareholders, policyholders, or voting members of mutuals
-by foreign insurers.
-(f)  Section 31A-5-413 applies to interlocking directorates of foreign
-insurers.
-(g)  Subsection 31A-5-203(2)(d) applies to assessment liability in foreign
-insurers issuing assessable policies in any state.
-(2)  The commissioner may issue orders imposing and eliminating restrictions
-to foreign insurers under Section 31A-5-103.
-(3)  After a hearing, the commissioner may by order apply any of the
-provisions of Sections 31A-5-307, 31A-5-414, 31A-5-418 to a foreign
-corporation after finding that it is necessary for the protection of the
-interests of its insureds, creditors, or the public in this state.  This
-Subsection (3) may be applied to a foreign insurer without a hearing if done
-under a reciprocal agreement with the domiciliary regulatory authority.
-(4)  If any provision made applicable to a foreign insurer under this section
-conflicts with the law of the insurer's domicile so that it is impossible for
-the corporation to comply with both laws, the law of the domicile governs.
-(5)  This section does not excuse or exempt any foreign insurer from complying
-with the provisions of this title which are otherwise applicable to a foreign
-insurer.
+
+(1)  A foreign insurer may not be authorized to do business in this state, unless it strictly complies with the following requirements:
+
+(a)  Foreign insurers shall comply with the solvency standard set forth in Chapter 17, Part 6, Risk-Based Capital, including maintenance of minimum capital or permanent surplus under Section 31A-5-211.
+
+(b)  A foreign insurer proposing to market securities in this state shall comply with Sections 31A-5-301, 31A-5-302, and 31A-5-305, unless this marketing is subject to United States Securities and Exchange Commission regulation.
+
+(c)  Section 16-10a-1506 applies to the corporate name and the change of name of foreign stock insurers.  Section 16-6a-1507 applies to the change of name of foreign mutual insurers.
+
+(d)  Subsection 31A-5-203(2)(c) applies to other business of foreign mutual insurers.
+
+(e)  Subsection 31A-5-404(2), as modified by Subsection 31A-5-404(4), applies to communications to shareholders, policyholders, or voting members of mutuals by foreign insurers.
+
+(f)  Section 31A-5-413 applies to interlocking directorates of foreign insurers.
+
+(g)  Subsection 31A-5-203(2)(d) applies to assessment liability in foreign insurers issuing assessable policies in any state.
+
+(2)  The commissioner may issue orders imposing and eliminating restrictions to foreign insurers under Section 31A-5-103.
+
+(3)  After a hearing, the commissioner may by order apply any of the provisions of Sections 31A-5-307, 31A-5-414, 31A-5-418 to a foreign corporation after finding that it is necessary for the protection of the interests of its insureds, creditors, or the public in this state.  This Subsection (3) may be applied to a foreign insurer without a hearing if done under a reciprocal agreement with the domiciliary regulatory authority.
+
+(4)  If any provision made applicable to a foreign insurer under this section conflicts with the law of the insurer's domicile so that it is impossible for the corporation to comply with both laws, the law of the domicile governs.
+
+(5)  This section does not excuse or exempt any foreign insurer from complying with the provisions of this title which are otherwise applicable to a foreign insurer.
+
 (6)  This section does not apply to foreign fraternal insurers.
-(7)  If a licensed foreign insurer is in rehabilitation or liquidation
-proceedings or is found to be insolvent in its state of domicile, the
-commissioner may, without hearing, suspend the insurer's certificate of
-authority to do business in this state.
+
+(7)  If a licensed foreign insurer is in rehabilitation or liquidation proceedings or is found to be insolvent in its state of domicile, the commissioner may, without hearing, suspend the insurer's certificate of authority to do business in this state.
+

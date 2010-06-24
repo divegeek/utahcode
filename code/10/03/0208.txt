@@ -1,105 +1,100 @@
 10-3-208.   Campaign finance statement in municipal election.
+
 (1)  As used in this section:
+
 (a)  "Reporting date" means:
-(i)  10 days before a municipal general election, for a campaign finance
-statement required to be filed no later than seven days before a municipal
-general election; and
-(ii)  the day of filing, for a campaign finance statement required to be filed
-no later than 30 days after a municipal primary or general election.
+
+(i)  10 days before a municipal general election, for a campaign finance statement required to be filed no later than seven days before a municipal general election; and
+
+(ii)  the day of filing, for a campaign finance statement required to be filed no later than 30 days after a municipal primary or general election.
+
 (b)  "Reporting limit" means:
+
 (i)  $50; or
-(ii)  an amount lower than $50 that is specified in an ordinance of the
-municipality.
-(2) (a) (i)  Each candidate for municipal office who is not eliminated at a
-municipal primary election shall file with the municipal clerk or recorder a
-campaign finance statement:
-(A)  no later than seven days before the date of the municipal general
-election; and
+
+(ii)  an amount lower than $50 that is specified in an ordinance of the municipality.
+
+(2) (a) (i)  Each candidate for municipal office who is not eliminated at a municipal primary election shall file with the municipal clerk or recorder a campaign finance statement:
+
+(A)  no later than seven days before the date of the municipal general election; and
+
 (B)  no later than 30 days after the date of the municipal general election.
-(ii)  Each candidate for municipal office who is eliminated at a municipal
-primary election shall file with the municipal clerk or recorder a campaign
-finance statement no later than 30 days after the date of the municipal
-primary election.
+
+(ii)  Each candidate for municipal office who is eliminated at a municipal primary election shall file with the municipal clerk or recorder a campaign finance statement no later than 30 days after the date of the municipal primary election.
+
 (b)  Each campaign finance statement under Subsection (2)(a) shall:
+
 (i)  except as provided in Subsection (2)(b)(ii):
+
 (A)  report all of the candidate's itemized and total:
-(I)  campaign contributions, including in-kind and other nonmonetary
-contributions, received before the close of the reporting date; and
+
+(I)  campaign contributions, including in-kind and other nonmonetary contributions, received before the close of the reporting date; and
+
 (II)  campaign expenditures made through the close of the reporting date; and
+
 (B)  identify:
-(I)  for each contribution that exceeds the reporting limit, the amount of the
-contribution and the name of the donor;
-(II)  the aggregate total of all contributions that individually do not exceed
-the reporting limit; and
-(III)  for each campaign expenditure, the amount of the expenditure and the
-name of the recipient of the expenditure; or
-(ii)  report the total amount of all campaign contributions and expenditures
-if the candidate receives $500 or less in campaign contributions and spends
-$500 or less on the candidate's campaign.
+
+(I)  for each contribution that exceeds the reporting limit, the amount of the contribution and the name of the donor;
+
+(II)  the aggregate total of all contributions that individually do not exceed the reporting limit; and
+
+(III)  for each campaign expenditure, the amount of the expenditure and the name of the recipient of the expenditure; or
+
+(ii)  report the total amount of all campaign contributions and expenditures if the candidate receives $500 or less in campaign contributions and spends $500 or less on the candidate's campaign.
+
 (3) (a)  A municipality may, by ordinance:
+
 (i)  provide a reporting limit lower than $50;
-(ii)  require greater disclosure of campaign contributions and expenditures
-than is required in this section; and
-(iii)  impose additional penalties on candidates who fail to comply with the
-applicable requirements beyond those imposed by this section.
-(b)  A candidate for municipal office is subject to the provisions of this
-section and not the provisions of an ordinance adopted by the municipality
-under Subsection (3)(a) if:
-(i)  the municipal ordinance establishes requirements or penalties that differ
-from those established in this section; and
-(ii)  the municipal clerk or recorder fails to notify the candidate of the
-provisions of the ordinance as required in Subsection (4).
-(4)  Each municipal clerk or recorder shall, at the time the candidate for
-municipal office files a declaration of candidacy, and again 14 days before
-each municipal general election, notify the candidate in writing of:
-(a)  the provisions of statute or municipal ordinance governing the disclosure
-of campaign contributions and expenditures;
-(b)  the dates when the candidate's campaign finance statement is required to
-be filed; and
-(c)  the penalties that apply for failure to file a timely campaign finance
-statement, including the statutory provision that requires removal of the
-candidate's name from the ballot for failure to file the required campaign
-finance statement when required.
-(5)  Notwithstanding any provision of Title 63G, Chapter 2, Government Records
-Access and Management Act, the municipal clerk or recorder shall:
-(a)  make each campaign finance statement filed by a candidate available for
-public inspection and copying no later than one business day after the
-statement is filed; and
-(b)  make the campaign finance statement filed by a candidate available for
-public inspection by:
-(i) (A)  posting an electronic copy or the contents of the statement on the
-municipality's website no later than seven business days after the statement
-is filed; and
-(B)  verifying that the address of the municipality's website has been
-provided to the lieutenant governor in order to meet the requirements of
-Subsection 20A-11-103(5); or
-(ii)  submitting a copy of the statement to the lieutenant governor for
-posting on the website established by the lieutenant governor under Section
-20A-11-103 no later than two business days after the statement is filed.
-(6) (a)  If a candidate fails to file a campaign finance statement before the
-municipal general election by the deadline specified in Subsection
-(2)(a)(i)(A), the municipal clerk or recorder shall inform the appropriate
-election official who:
+
+(ii)  require greater disclosure of campaign contributions and expenditures than is required in this section; and
+
+(iii)  impose additional penalties on candidates who fail to comply with the applicable requirements beyond those imposed by this section.
+
+(b)  A candidate for municipal office is subject to the provisions of this section and not the provisions of an ordinance adopted by the municipality under Subsection (3)(a) if:
+
+(i)  the municipal ordinance establishes requirements or penalties that differ from those established in this section; and
+
+(ii)  the municipal clerk or recorder fails to notify the candidate of the provisions of the ordinance as required in Subsection (4).
+
+(4)  Each municipal clerk or recorder shall, at the time the candidate for municipal office files a declaration of candidacy, and again 14 days before each municipal general election, notify the candidate in writing of:
+
+(a)  the provisions of statute or municipal ordinance governing the disclosure of campaign contributions and expenditures;
+
+(b)  the dates when the candidate's campaign finance statement is required to be filed; and
+
+(c)  the penalties that apply for failure to file a timely campaign finance statement, including the statutory provision that requires removal of the candidate's name from the ballot for failure to file the required campaign finance statement when required.
+
+(5)  Notwithstanding any provision of Title 63G, Chapter 2, Government Records Access and Management Act, the municipal clerk or recorder shall:
+
+(a)  make each campaign finance statement filed by a candidate available for public inspection and copying no later than one business day after the statement is filed; and
+
+(b)  make the campaign finance statement filed by a candidate available for public inspection by:
+
+(i) (A)  posting an electronic copy or the contents of the statement on the municipality's website no later than seven business days after the statement is filed; and
+
+(B)  verifying that the address of the municipality's website has been provided to the lieutenant governor in order to meet the requirements of Subsection 20A-11-103(5); or
+
+(ii)  submitting a copy of the statement to the lieutenant governor for posting on the website established by the lieutenant governor under Section 20A-11-103 no later than two business days after the statement is filed.
+
+(6) (a)  If a candidate fails to file a campaign finance statement before the municipal general election by the deadline specified in Subsection (2)(a)(i)(A), the municipal clerk or recorder shall inform the appropriate election official who:
+
 (i)  shall:
-(A)  if practicable, remove the candidate's name from the ballot by blacking
-out the candidate's name before the ballots are delivered to voters; or
-(B)  if removing the candidate's name from the ballot is not practicable,
-inform the voters by any practicable method that the candidate has been
-disqualified and that votes cast for the candidate will not be counted; and
+
+(A)  if practicable, remove the candidate's name from the ballot by blacking out the candidate's name before the ballots are delivered to voters; or
+
+(B)  if removing the candidate's name from the ballot is not practicable, inform the voters by any practicable method that the candidate has been disqualified and that votes cast for the candidate will not be counted; and
+
 (ii)  may not count any votes for that candidate.
-(b)  Notwithstanding Subsection (6)(a), a candidate who files a campaign
-finance statement seven days before a municipal general election is not
-disqualified if:
-(i)  the statement details accurately and completely the information required
-under Subsection (2)(b), except for inadvertent omissions or insignificant
-errors or inaccuracies; and
-(ii)  the omissions, errors, or inaccuracies are corrected in an amended
-report or in the next scheduled report.
-(7)  A campaign finance statement required under this section is considered
-filed if it is received in the municipal clerk or recorder's office by 5 p.m.
-on the date that is it due.
-(8) (a)  A private party in interest may bring a civil action in district
-court to enforce the provisions of this section or an ordinance adopted under
-this section.
-(b)  In a civil action under Subsection (8)(a), the court may award costs and
-attorney's fees to the prevailing party.
+
+(b)  Notwithstanding Subsection (6)(a), a candidate who files a campaign finance statement seven days before a municipal general election is not disqualified if:
+
+(i)  the statement details accurately and completely the information required under Subsection (2)(b), except for inadvertent omissions or insignificant errors or inaccuracies; and
+
+(ii)  the omissions, errors, or inaccuracies are corrected in an amended report or in the next scheduled report.
+
+(7)  A campaign finance statement required under this section is considered filed if it is received in the municipal clerk or recorder's office by 5 p.m. on the date that is it due.
+
+(8) (a)  A private party in interest may bring a civil action in district court to enforce the provisions of this section or an ordinance adopted under this section.
+
+(b)  In a civil action under Subsection (8)(a), the court may award costs and attorney's fees to the prevailing party.
+

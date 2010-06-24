@@ -1,14 +1,10 @@
-59-7-317.   Sales factor for apportionment of business income --
-Transportation revenues of an airline.
-(1)  Except as provided in Subsection (2), the sales factor is a fraction, the
-numerator of which is the total sales of the taxpayer in this state during the
-tax period, and the denominator of which is the total sales of the taxpayer
-everywhere during the tax period.
-(2)  The total sales of an airline in this state during the tax period
-attributable to transportation revenues in this state during the tax period
-for purposes of the numerator of the fraction described in Subsection (1)
-shall be calculated by determining the product of:
-(a)  the total transportation revenues during the tax period of the airline;
-and
-(b)  a fraction, the numerator of which is the Utah revenue ton miles and the
-denominator of which is the airline revenue ton miles.
+59-7-317.   Sales factor for apportionment of business income -- Transportation revenues of an airline.
+
+(1)  Except as provided in Subsection (2), the sales factor is a fraction, the numerator of which is the total sales of the taxpayer in this state during the tax period, and the denominator of which is the total sales of the taxpayer everywhere during the tax period.
+
+(2)  The total sales of an airline in this state during the tax period attributable to transportation revenues in this state during the tax period for purposes of the numerator of the fraction described in Subsection (1) shall be calculated by determining the product of:
+
+(a)  the total transportation revenues during the tax period of the airline; and
+
+(b)  a fraction, the numerator of which is the Utah revenue ton miles and the denominator of which is the airline revenue ton miles.
+

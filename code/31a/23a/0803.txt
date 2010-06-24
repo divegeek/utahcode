@@ -1,29 +1,32 @@
 31A-23a-803.   Books and records -- Reinsurance intermediary-broker.
-(1)  For at least 10 years after expiration of each contract of reinsurance
-transacted by the reinsurance intermediary-broker, he will keep a complete
-record for each transaction showing:
-(a)  the type of contract, limits, underwriting restrictions, classes or
-risks, and territory;
-(b)  the period of coverage, including the effective and expiration dates,
-cancellation provisions, and notice required of cancellation;
+
+(1)  For at least 10 years after expiration of each contract of reinsurance transacted by the reinsurance intermediary-broker, he will keep a complete record for each transaction showing:
+
+(a)  the type of contract, limits, underwriting restrictions, classes or risks, and territory;
+
+(b)  the period of coverage, including the effective and expiration dates, cancellation provisions, and notice required of cancellation;
+
 (c)  reporting and settlement requirements of balances;
+
 (d)  the rate used to compute the reinsurance premium;
+
 (e)  the names and addresses of assuming reinsurers;
-(f)  the rates of all reinsurance commissions, including the commissions on
-any retrocessions handled by the reinsurance intermediary-broker;
+
+(f)  the rates of all reinsurance commissions, including the commissions on any retrocessions handled by the reinsurance intermediary-broker;
+
 (g)  related correspondence and memoranda;
+
 (h)  proof of placement;
-(i)  details regarding retrocessions handled by the reinsurance intermediary-
-broker, including the identity of retrocessionaires and percentage of each
-contract assumed or ceded;
+
+(i)  details regarding retrocessions handled by the reinsurance intermediary-broker, including the identity of retrocessionaires and percentage of each contract assumed or ceded;
+
 (j)  financial records including premium and loss accounts; and
-(k)  when the reinsurance intermediary-broker procures a reinsurance contract
-on behalf of a licensed ceding insurer:
-(i)  directly from any assuming reinsurer, written evidence that the assuming
-reinsurer has agreed to assume the risk; or
-(ii)  if placed through a representative of the assuming reinsurer, other than
-an employee, written evidence that the reinsurer has delegated binding
-authority to the representative.
-(2)  The insurer will have access and the right to copy and audit all accounts
-and records maintained by the reinsurance intermediary-broker related to its
-business in a form usable by the insurer.
+
+(k)  when the reinsurance intermediary-broker procures a reinsurance contract on behalf of a licensed ceding insurer:
+
+(i)  directly from any assuming reinsurer, written evidence that the assuming reinsurer has agreed to assume the risk; or
+
+(ii)  if placed through a representative of the assuming reinsurer, other than an employee, written evidence that the reinsurer has delegated binding authority to the representative.
+
+(2)  The insurer will have access and the right to copy and audit all accounts and records maintained by the reinsurance intermediary-broker related to its business in a form usable by the insurer.
+

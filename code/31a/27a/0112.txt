@@ -1,22 +1,24 @@
 31A-27a-112.   Unrecorded obligations and defenses of affiliates.
+
 (1)  This section applies to a person who in relation to an insurer is:
+
 (a)  an affiliate;
+
 (b)  a controlled or controlling person; or
+
 (c)  a present or former officer, manager, director, trustee, or shareholder.
-(2)  In a proceeding or claim by the receiver, a person described in
-Subsection (1) may not assert a defense unless evidence of the defense:
-(a)  is recorded in the records of the insurer at or about the time the event
-giving rise to the defense occurs; and
-(b)  if required by statutory accounting practices and procedures, is timely
-reported on the insurer's official financial statements filed with the
-commissioner.
-(3)  A person described in Subsection (1) may not assert a claim, unless the
-obligation:
-(a)  is recorded in the records of the insurer at or about the time the
-obligation is incurred; and
-(b)  if required by statutory accounting practices and procedures, is timely
-reported on the insurer's official financial statements filed with the
-commissioner.
-(4)  A claim by the receiver against a person described in Subsection (1) that
-is made on the basis of an unrecorded or unreported transaction is not barred
-by this section.
+
+(2)  In a proceeding or claim by the receiver, a person described in Subsection (1) may not assert a defense unless evidence of the defense:
+
+(a)  is recorded in the records of the insurer at or about the time the event giving rise to the defense occurs; and
+
+(b)  if required by statutory accounting practices and procedures, is timely reported on the insurer's official financial statements filed with the commissioner.
+
+(3)  A person described in Subsection (1) may not assert a claim, unless the obligation:
+
+(a)  is recorded in the records of the insurer at or about the time the obligation is incurred; and
+
+(b)  if required by statutory accounting practices and procedures, is timely reported on the insurer's official financial statements filed with the commissioner.
+
+(4)  A claim by the receiver against a person described in Subsection (1) that is made on the basis of an unrecorded or unreported transaction is not barred by this section.
+

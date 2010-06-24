@@ -1,14 +1,6 @@
 70A-9a-326.   Priority of security interests created by new debtor.
-(1)  Subject to Subsection (2), a security interest created by a new debtor
-which is perfected by a filed financing statement that is effective solely
-under Section 70A-9a-508 in collateral in which a new debtor has or acquires
-rights is subordinate to a security interest in the same collateral which is
-perfected other than by a filed financing statement that is effective solely
-under Section 70A-9a-508.
-(2)  The other provisions of this part determine the priority among
-conflicting security interests in the same collateral perfected by filed
-financing statements that are effective solely under Section 70A-9a-508.
-However, if the security agreements to which a new debtor became bound as
-debtor were not entered into by the same original debtor, the conflicting
-security interests rank according to priority in time of the new debtor's
-having become bound.
+
+(1)  Subject to Subsection (2), a security interest created by a new debtor which is perfected by a filed financing statement that is effective solely under Section 70A-9a-508 in collateral in which a new debtor has or acquires rights is subordinate to a security interest in the same collateral which is perfected other than by a filed financing statement that is effective solely under Section 70A-9a-508.
+
+(2)  The other provisions of this part determine the priority among conflicting security interests in the same collateral perfected by filed financing statements that are effective solely under Section 70A-9a-508.  However, if the security agreements to which a new debtor became bound as debtor were not entered into by the same original debtor, the conflicting security interests rank according to priority in time of the new debtor's having become bound.
+

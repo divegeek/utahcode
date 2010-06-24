@@ -1,96 +1,130 @@
 46-4-503.   Government products and services provided electronically.
-(1)  Notwithstanding Section 46-4-501, a state governmental agency that
-administers one or more of the following transactions shall allow those
-transactions to be conducted electronically:
-(a)  an application for or renewal of a professional or occupational license
-issued under Title 58, Occupations and Professions;
+
+(1)  Notwithstanding Section 46-4-501, a state governmental agency that administers one or more of the following transactions shall allow those transactions to be conducted electronically:
+
+(a)  an application for or renewal of a professional or occupational license issued under Title 58, Occupations and Professions;
+
 (b)  the renewal of a drivers license;
+
 (c)  an application for a hunting or fishing license;
+
 (d)  the filing of:
-(i)  a return under Title 59, Chapter 10, Individual Income Tax Act or 12,
-Sales and Use Tax Act;
+
+(i)  a return under Title 59, Chapter 10, Individual Income Tax Act or 12, Sales and Use Tax Act;
+
 (ii)  a court document, as defined by the Judicial Council; or
+
 (iii)  a document under Title 70A, Uniform Commercial Code;
+
 (e)  a registration for:
+
 (i)  a product; or
+
 (ii)  a brand;
+
 (f)  a renewal of a registration of a motor vehicle;
+
 (g)  a registration under:
+
 (i)  Title 16, Corporations;
+
 (ii)  Title 42, Names; or
+
 (iii)  Title 48, Partnership; or
+
 (h)  submission of an application for benefits:
+
 (i)  under Title 35A, Chapter 3, Employment Support Act;
+
 (ii)  under Title 35A, Chapter 4, Employment Security Act; or
+
 (iii)  related to accident and health insurance.
-(2)  The state system of public education, in coordination with the Utah
-Education Network, shall make reasonable progress toward making the following
-services available electronically:
-(a)  secure access by parents and students to student grades and progress
-reports;
+
+(2)  The state system of public education, in coordination with the Utah Education Network, shall make reasonable progress toward making the following services available electronically:
+
+(a)  secure access by parents and students to student grades and progress reports;
+
 (b)  e-mail communications with:
+
 (i)  teachers;
+
 (ii)  parent-teacher associations; and
+
 (iii)  school administrators;
+
 (c)  access to school calendars and schedules; and
+
 (d)  teaching resources that may include:
+
 (i)  teaching plans;
+
 (ii)  curriculum guides; and
+
 (iii)  media resources.
+
 (3)  A state governmental agency shall:
-(a)  in carrying out the requirements of this section, take reasonable steps
-to ensure the security and privacy of records that are private or controlled
-as defined by Title 63G, Chapter 2, Government Records Access and Management
-Act;
-(b)  in addition to those transactions listed in Subsections (1) and (2),
-determine any additional services that may be made available to the public
-through electronic means; and
-(c)  as part of the agency's information technology plan required by Section
-63F-1-204, report on the progress of compliance with Subsections (1) through
-(3).
-(4)  Notwithstanding the other provisions of this part, a state governmental
-agency is not required by this part to conduct a transaction electronically
-if:
-(a)  conducting the transaction electronically is not required by federal law;
-and
+
+(a)  in carrying out the requirements of this section, take reasonable steps to ensure the security and privacy of records that are private or controlled as defined by Title 63G, Chapter 2, Government Records Access and Management Act;
+
+(b)  in addition to those transactions listed in Subsections (1) and (2), determine any additional services that may be made available to the public through electronic means; and
+
+(c)  as part of the agency's information technology plan required by Section 63F-1-204, report on the progress of compliance with Subsections (1) through (3).
+
+(4)  Notwithstanding the other provisions of this part, a state governmental agency is not required by this part to conduct a transaction electronically if:
+
+(a)  conducting the transaction electronically is not required by federal law; and
+
 (b)  conducting the transaction electronically is:
+
 (i)  impractical;
+
 (ii)  unreasonable; or
+
 (iii)  not permitted by laws pertaining to privacy or security.
-(5) (a)  For purposes of this Subsection (5), "one-stop shop" means the
-consolidation of access to diverse services and agencies at one location
-including virtual colocation.
-(b)  State agencies that provide services or offer direct assistance to the
-business community shall participate in the establishment, maintenance, and
-enhancement of an integrated Utah business web portal known as
-Business.utah.gov.  The purpose of the business web portal is to provide "one-
-stop shop" assistance to businesses.
-(c)  State agencies shall partner with other governmental and nonprofit
-agencies whose primary mission is to provide services or offer direct
-assistance to the business community in Utah in fulfilling the requirements of
-this section.
-(d)  The following state entities shall comply with the provisions of this
-Subsection (5):
-(i) Governor's Office of Economic Development, which shall serve as the
-managing partner for the website;
+
+(5) (a)  For purposes of this Subsection (5), "one-stop shop" means the consolidation of access to diverse services and agencies at one location including virtual colocation.
+
+(b)  State agencies that provide services or offer direct assistance to the business community shall participate in the establishment, maintenance, and enhancement of an integrated Utah business web portal known as Business.utah.gov.  The purpose of the business web portal is to provide "one-stop shop" assistance to businesses.
+
+(c)  State agencies shall partner with other governmental and nonprofit agencies whose primary mission is to provide services or offer direct assistance to the business community in Utah in fulfilling the requirements of this section.
+
+(d)  The following state entities shall comply with the provisions of this Subsection (5):
+
+(i) Governor's Office of Economic Development, which shall serve as the managing partner for the website;
+
 (ii)  Department of Workforce Services;
+
 (iii)  Department of Commerce;
+
 (iv)  Tax Commission;
-(v)  Department of Administrative Services - Division of Purchasing and
-General Services, including other state agencies operating under a grant of
-authority from the division to procure goods and services in excess of $5,000;
+
+(v)  Department of Administrative Services - Division of Purchasing and General Services, including other state agencies operating under a grant of authority from the division to procure goods and services in excess of $5,000;
+
 (vi)  Department of Agriculture;
+
 (vii)  Department of Natural Resources; and
-(viii)  other state agencies that provide services or offer direct assistance
-to the business sector.
+
+(viii)  other state agencies that provide services or offer direct assistance to the business sector.
+
 (e)  The business services available on the business web portal may include:
+
 (i)  business life cycle information;
+
 (ii)  business searches;
+
 (iii)  employment needs and opportunities;
+
 (iv)  motor vehicle registration;
+
 (v)  permit applications and renewal;
+
 (vi)  tax information;
+
 (vii)  government procurement bid notifications;
+
 (viii)  general business information;
+
 (ix)  business directories; and
+
 (x)  business news.
+

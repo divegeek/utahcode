@@ -1,54 +1,12 @@
 59-22-308.   Payments by subsequent participating manufacturers.
-Section XI(i)(2) and IX(i)(3) of the Master Settlement Agreement involve
-payments by subsequent participating manufacturers and providers as follows:
-(1)  A Subsequent Participating Manufacturer shall have payment obligations
-under this Agreement only in the event that its Market Share in any calendar
-year exceeds the greater of (1)  its 1998 Market Share or (2) 125% of its 1997
-Market Share, subject to the provisions of subsection (i)(4).  In the year
-following any such calendar year, such Subsequent Participating Manufacturer
-shall make payments corresponding to those due in that same following year
-from the Original Participating Manufacturers pursuant to subsections VI(c),
-except for the payment due on March 31, 1999, IX(c)(1), IX(c)(2) and IX(e).
-The amounts of such corresponding payments by a Subsequent Participating
-Manufacturer are in addition to the corresponding payments that are due from
-the Original Participating Manufacturers and shall be determined as described
-in subsection (2) and (3) below.  Such payments by a Subsequent Participating
-Manufacturer shall (A) be due on the same dates as the corresponding payments
-are due from Original Participating manufacturers; (B) be for the same purpose
-as such corresponding payments; and (C) be paid, allocated and distributed in
-the same manner as such corresponding payments.
-(2)  The base amount due from a Subsequent Participating Manufacturer on any
-given date shall be determined by multiplying (A) the corresponding base
-amount due on the same date from all of the Original Participating
-Manufacturers, as such base amount is specified in the corresponding
-subsection of this agreement and is adjusted by the Volume Adjustment, except
-for the provisions of subsection (B)(ii) of Exhibit E, but before such base
-amount is modified by any other adjustments, reductions or offsets, by (B) the
-quotient produced by dividing (i) the result of (x) such Subsequent
-Participating Manufacturer's Applicable Market Share, the applicable Market
-Share being that for the calendar year immediately preceding the year in which
-the payment in question is due, minus (y) the greater of (1) its 1998 Market
-Share or (2) 125% of its 1997 Market Share, by (ii) the aggregate Market
-Shares of the Original Participating Manufacturers, the applicable Market
-Shares being those for the calendar year immediately preceding the year in
-which the payment in question is due.
-(3)  Any payment due from a Subsequent Participating Manufacturer under
-subsections (1) and (2) above shall be subject, up to the full amount of such
-payment, to the Inflation Adjustment, the Nonsettling States Reduction, the
-NPM Adjustment, the offset for miscalculated or disputed payments described in
-subsection XI(i), the Federal Tobacco Legislation Offset, the Litigating
-Releasing Parties Offset and the offsets for claims over described in
-subsections XII(a)(4)(B) and XII(a)(8), to the extent that such adjustments,
-reductions or offsets would apply to the corresponding payment due from the
-Original Participating Manufacturers.  Provided, however, that all adjustments
-and offsets to which a Subsequent Participating Manufacturer is entitled may
-only be applied against payments by such Subsequent Participating
-Manufacturer, if any, that are due within 12 months after the date on which
-the Subsequent Participating Manufacturer becomes entitled to such adjustment
-or makes the payment that entitles it to such offset, and shall not be carried
-forward beyond that time even if not fully used.
-(4)  For purposes of this Subsection (i), the 1997, or 1998, as applicable,
-Market Share, and 125% thereof, of those Subsequent Participating
-Manufacturers that either (A) became a signatory to the Agreement more than 60
-days after the MSA Execution Date or (B) had no Market Share in 1997, or 1998,
-as applicable, shall equal zero.
+
+Section XI(i)(2) and IX(i)(3) of the Master Settlement Agreement involve payments by subsequent participating manufacturers and providers as follows:
+
+(1)  A Subsequent Participating Manufacturer shall have payment obligations under this Agreement only in the event that its Market Share in any calendar year exceeds the greater of (1)  its 1998 Market Share or (2) 125% of its 1997 Market Share, subject to the provisions of subsection (i)(4).  In the year following any such calendar year, such Subsequent Participating Manufacturer shall make payments corresponding to those due in that same following year from the Original Participating Manufacturers pursuant to subsections VI(c), except for the payment due on March 31, 1999, IX(c)(1), IX(c)(2) and IX(e).  The amounts of such corresponding payments by a Subsequent Participating Manufacturer are in addition to the corresponding payments that are due from the Original Participating Manufacturers and shall be determined as described in subsection (2) and (3) below.  Such payments by a Subsequent Participating Manufacturer shall (A) be due on the same dates as the corresponding payments are due from Original Participating manufacturers; (B) be for the same purpose as such corresponding payments; and (C) be paid, allocated and distributed in the same manner as such corresponding payments.
+
+(2)  The base amount due from a Subsequent Participating Manufacturer on any given date shall be determined by multiplying (A) the corresponding base amount due on the same date from all of the Original Participating Manufacturers, as such base amount is specified in the corresponding subsection of this agreement and is adjusted by the Volume Adjustment, except for the provisions of subsection (B)(ii) of Exhibit E, but before such base amount is modified by any other adjustments, reductions or offsets, by (B) the quotient produced by dividing (i) the result of (x) such Subsequent Participating Manufacturer's Applicable Market Share, the applicable Market Share being that for the calendar year immediately preceding the year in which the payment in question is due, minus (y) the greater of (1) its 1998 Market Share or (2) 125% of its 1997 Market Share, by (ii) the aggregate Market Shares of the Original Participating Manufacturers, the applicable Market Shares being those for the calendar year immediately preceding the year in which the payment in question is due.
+
+(3)  Any payment due from a Subsequent Participating Manufacturer under subsections (1) and (2) above shall be subject, up to the full amount of such payment, to the Inflation Adjustment, the Nonsettling States Reduction, the NPM Adjustment, the offset for miscalculated or disputed payments described in subsection XI(i), the Federal Tobacco Legislation Offset, the Litigating Releasing Parties Offset and the offsets for claims over described in subsections XII(a)(4)(B) and XII(a)(8), to the extent that such adjustments, reductions or offsets would apply to the corresponding payment due from the Original Participating Manufacturers.  Provided, however, that all adjustments and offsets to which a Subsequent Participating Manufacturer is entitled may only be applied against payments by such Subsequent Participating Manufacturer, if any, that are due within 12 months after the date on which the Subsequent Participating Manufacturer becomes entitled to such adjustment or makes the payment that entitles it to such offset, and shall not be carried forward beyond that time even if not fully used.
+
+(4)  For purposes of this Subsection (i), the 1997, or 1998, as applicable, Market Share, and 125% thereof, of those Subsequent Participating Manufacturers that either (A) became a signatory to the Agreement more than 60 days after the MSA Execution Date or (B) had no Market Share in 1997, or 1998, as applicable, shall equal zero.
+

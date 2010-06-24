@@ -1,67 +1,50 @@
-72-7-102.   Excavations, structures, or objects prohibited within right-of-
-way except in accordance with law -- Permit and fee requirements -- Rulemaking
--- Penalty for violation.
-(1)  As used in this section, "management costs" means the reasonable, direct,
-and actual costs a highway authority incurs in exercising authority over the
-highways under its jurisdiction.
-(2)  Except as provided in Subsection (3) and Section 54-4-15, a person may
-not:
-(a)  dig or excavate, within the right-of-way of any state highway, county
-road, or city street; or
-(b)  place, construct, or maintain any approach road, driveway, pole,
-pipeline, conduit, sewer, ditch, culvert, billboard, advertising sign, or any
-other structure or object of any kind or character within the right-of-way.
-(3) (a)  A highway authority having jurisdiction over the right-of-way may
-allow excavating, installation of utilities and other facilities or access
-under rules made by the highway authority and in compliance with federal,
-state, and local law as applicable.
-(b) (i)  The rules may require a permit for any excavation or installation and
-may require a surety bond or other security.
-(ii)  The application for a permit for excavation or installation on a state
-highway shall be accompanied by a fee established under Subsection (4)(f).
-(iii)  The permit may be revoked and the surety bond or other security may be
-forfeited for cause.
-(4) (a)  Except as provided in Section 72-7-108 with respect to the department
-concerning the interstate highway system, a highway authority may require
-compensation from a utility service provider for access to the right-of-way of
-a highway only as provided in this section.
-(b)  A highway authority may recover from a utility service provider, only
-those management costs caused by the utility service provider's activities in
-the right-of-way of a highway under the jurisdiction of the highway authority.
-(c) (i)  A fee or other compensation under this Subsection (4) shall be
-imposed on a competitively neutral basis.
-(ii)  If a highway authority's management costs cannot be attributed to only
-one entity, the management costs shall be allocated among all privately owned
-and government agencies using the highway right-of-way for utility service
-purposes, including the highway authority itself.  The allocation shall
-reflect proportionately the management costs incurred by the highway authority
-as a result of the various utility uses of the highway.
-(d)  A highway authority may not use the compensation authority granted under
-this Subsection (4) as a basis for generating revenue for the highway
-authority that is in addition to its management costs.
-(e) (i)  A utility service provider that is assessed management costs or a
-franchise fee by a highway authority is entitled to recover those management
-costs.
-(ii)  If the highway authority that assesses the management costs or franchise
-fees is a political subdivision of the state and the utility service provider
-serves customers within the boundaries of that highway authority, the
-management costs may be recovered from those customers.
-(f)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the department shall adopt a schedule of fees to be assessed for
-management costs incurred in connection with issuing and administering a
-permit on a state highway under this section.
-(g)  In addition to the requirements of this Subsection (4), a
-telecommunications tax or fee imposed by a municipality on a
-telecommunications provider, as defined in Section 10-1-402, is subject to
-Section 10-1-406.
-(5)  Permit fees collected by the department under this section shall be
-deposited with the state treasurer and credited to the Transportation Fund.
-(6)  Nothing in this section shall affect the authority of a municipality
-under:
+72-7-102.   Excavations, structures, or objects prohibited within right-of-way except in accordance with law -- Permit and fee requirements -- Rulemaking -- Penalty for violation.
+
+(1)  As used in this section, "management costs" means the reasonable, direct, and actual costs a highway authority incurs in exercising authority over the highways under its jurisdiction.
+
+(2)  Except as provided in Subsection (3) and Section 54-4-15, a person may not:
+
+(a)  dig or excavate, within the right-of-way of any state highway, county road, or city street; or
+
+(b)  place, construct, or maintain any approach road, driveway, pole, pipeline, conduit, sewer, ditch, culvert, billboard, advertising sign, or any other structure or object of any kind or character within the right-of-way.
+
+(3) (a)  A highway authority having jurisdiction over the right-of-way may allow excavating, installation of utilities and other facilities or access under rules made by the highway authority and in compliance with federal, state, and local law as applicable.
+
+(b) (i)  The rules may require a permit for any excavation or installation and may require a surety bond or other security.
+
+(ii)  The application for a permit for excavation or installation on a state highway shall be accompanied by a fee established under Subsection (4)(f).
+
+(iii)  The permit may be revoked and the surety bond or other security may be forfeited for cause.
+
+(4) (a)  Except as provided in Section 72-7-108 with respect to the department concerning the interstate highway system, a highway authority may require compensation from a utility service provider for access to the right-of-way of a highway only as provided in this section.
+
+(b)  A highway authority may recover from a utility service provider, only those management costs caused by the utility service provider's activities in the right-of-way of a highway under the jurisdiction of the highway authority.
+
+(c) (i)  A fee or other compensation under this Subsection (4) shall be imposed on a competitively neutral basis.
+
+(ii)  If a highway authority's management costs cannot be attributed to only one entity, the management costs shall be allocated among all privately owned and government agencies using the highway right-of-way for utility service purposes, including the highway authority itself.  The allocation shall reflect proportionately the management costs incurred by the highway authority as a result of the various utility uses of the highway.
+
+(d)  A highway authority may not use the compensation authority granted under this Subsection (4) as a basis for generating revenue for the highway authority that is in addition to its management costs.
+
+(e) (i)  A utility service provider that is assessed management costs or a franchise fee by a highway authority is entitled to recover those management costs.
+
+(ii)  If the highway authority that assesses the management costs or franchise fees is a political subdivision of the state and the utility service provider serves customers within the boundaries of that highway authority, the management costs may be recovered from those customers.
+
+(f)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the department shall adopt a schedule of fees to be assessed for management costs incurred in connection with issuing and administering a permit on a state highway under this section.
+
+(g)  In addition to the requirements of this Subsection (4), a telecommunications tax or fee imposed by a municipality on a telecommunications provider, as defined in Section 10-1-402, is subject to Section 10-1-406.
+
+(5)  Permit fees collected by the department under this section shall be deposited with the state treasurer and credited to the Transportation Fund.
+
+(6)  Nothing in this section shall affect the authority of a municipality under:
+
 (a)  Section 10-1-203;
+
 (b)  Section 11-26-1;
+
 (c)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act; or
-(d)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax
-Act.
-(7)  A person who violates the provisions of Subsection (2) is guilty of a
-class B misdemeanor.
+
+(d)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act.
+
+(7)  A person who violates the provisions of Subsection (2) is guilty of a class B misdemeanor.
+

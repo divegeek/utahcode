@@ -1,54 +1,50 @@
 16-10a-1421.   Procedure for and effect of administrative dissolution.
-(1)  If the division determines that one or more grounds exist under Section
-16-10a-1420 for dissolving a corporation, it shall mail the corporation
-written notice of:
-(a)  the division's determination that one or more grounds exist for
-dissolving; and
+
+(1)  If the division determines that one or more grounds exist under Section 16-10a-1420 for dissolving a corporation, it shall mail the corporation written notice of:
+
+(a)  the division's determination that one or more grounds exist for dissolving; and
+
 (b)  the grounds for dissolving the corporation.
-(2) (a)  If the corporation does not correct each ground for dissolution, or
-demonstrate to the reasonable satisfaction of the division that each ground
-does not exist, within 60 days after mailing the notice provided by Subsection
-(1), the division shall administratively dissolve the corporation.
-(b)  If a corporation is dissolved under Subsection (2)(a), the division shall
-mail written notice of the administrative dissolution to the dissolved
-corporation, stating the date of dissolution specified in Subsection (2)(d).
-(c)  The division shall mail a copy of the notice of administrative
-dissolution to:
+
+(2) (a)  If the corporation does not correct each ground for dissolution, or demonstrate to the reasonable satisfaction of the division that each ground does not exist, within 60 days after mailing the notice provided by Subsection (1), the division shall administratively dissolve the corporation.
+
+(b)  If a corporation is dissolved under Subsection (2)(a), the division shall mail written notice of the administrative dissolution to the dissolved corporation, stating the date of dissolution specified in Subsection (2)(d).
+
+(c)  The division shall mail a copy of the notice of administrative dissolution to:
+
 (i)  the last registered agent of the dissolved corporation; or
-(ii)  if there is no registered agent of record, at least one officer of the
-corporation.
-(d)  A corporation's date of dissolution is five days after the date the
-division mails the written notice of dissolution under Subsection (2)(b).
-(e)  On the date of dissolution, any assumed names filed on behalf of the
-dissolved corporation under Title 42, Chapter 2, Conducting Business Under
-Assumed Name, are canceled.
-(f)  Notwithstanding Subsection (2)(e), the name of the corporation that is
-dissolved and any assumed names filed on its behalf are not available for two
-years from the date of dissolution for use by any other person:
+
+(ii)  if there is no registered agent of record, at least one officer of the corporation.
+
+(d)  A corporation's date of dissolution is five days after the date the division mails the written notice of dissolution under Subsection (2)(b).
+
+(e)  On the date of dissolution, any assumed names filed on behalf of the dissolved corporation under Title 42, Chapter 2, Conducting Business Under Assumed Name, are canceled.
+
+(f)  Notwithstanding Subsection (2)(e), the name of the corporation that is dissolved and any assumed names filed on its behalf are not available for two years from the date of dissolution for use by any other person:
+
 (i)  transacting business in this state; or
-(ii)  doing business under an assumed name under Title 42, Chapter 2,
-Conducting Business Under Assumed Name.
-(g)  Notwithstanding Subsection (2)(e), if the corporation that is dissolved
-is reinstated in accordance with Section 16-10a-1422, the registration of the
-name of the corporation and any assumed names filed on its behalf are
-reinstated back to the date of dissolution.
-(3) (a)  Except as provided in Subsection (3)(b), a corporation
-administratively dissolved under this section continues its corporate
-existence, but may not carry on any business except:
-(i)  the business necessary to wind up and liquidate its business and affairs
-under Section 16-10a-1405; and
-(ii)  to give notice to claimants in the manner provided in Sections
-16-10a-1406 and 16-10a-1407.
-(b)  If the corporation is reinstated in accordance with Section 16-10a-1422,
-business conducted by the corporation during a period of administrative
-dissolution is unaffected by the dissolution.
-(4)  The administrative dissolution of a corporation does not terminate the
-authority of its registered agent.
+
+(ii)  doing business under an assumed name under Title 42, Chapter 2, Conducting Business Under Assumed Name.
+
+(g)  Notwithstanding Subsection (2)(e), if the corporation that is dissolved is reinstated in accordance with Section 16-10a-1422, the registration of the name of the corporation and any assumed names filed on its behalf are reinstated back to the date of dissolution.
+
+(3) (a)  Except as provided in Subsection (3)(b), a corporation administratively dissolved under this section continues its corporate existence, but may not carry on any business except:
+
+(i)  the business necessary to wind up and liquidate its business and affairs under Section 16-10a-1405; and
+
+(ii)  to give notice to claimants in the manner provided in Sections 16-10a-1406 and 16-10a-1407.
+
+(b)  If the corporation is reinstated in accordance with Section 16-10a-1422, business conducted by the corporation during a period of administrative dissolution is unaffected by the dissolution.
+
+(4)  The administrative dissolution of a corporation does not terminate the authority of its registered agent.
+
 (5)  A notice mailed under this section shall be:
+
 (a)  mailed first-class, postage prepaid; and
-(b)  addressed to the most current mailing address appearing on the records of
-the division for:
-(i)  the registered agent of the corporation, if the notice is required to be
-mailed to the registered agent; or
-(ii)  the officer of the corporation that is mailed the notice, if the notice
-is required to be mailed to an officer of the corporation.
+
+(b)  addressed to the most current mailing address appearing on the records of the division for:
+
+(i)  the registered agent of the corporation, if the notice is required to be mailed to the registered agent; or
+
+(ii)  the officer of the corporation that is mailed the notice, if the notice is required to be mailed to an officer of the corporation.
+

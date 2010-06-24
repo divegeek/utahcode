@@ -1,122 +1,62 @@
 35A-4-402.   Extended benefits.
-(1)  Except when the result would be inconsistent with the other provisions of
-this section or the rules of the department, the provisions of this chapter
-that apply to claims for or payments of regular benefits apply to claims for
-and payments of extended benefits.
-(2)  An individual is eligible to receive extended benefits with respect to
-any week of unemployment in his eligibility period only if the division finds
-that with respect to that week the individual:
+
+(1)  Except when the result would be inconsistent with the other provisions of this section or the rules of the department, the provisions of this chapter that apply to claims for or payments of regular benefits apply to claims for and payments of extended benefits.
+
+(2)  An individual is eligible to receive extended benefits with respect to any week of unemployment in his eligibility period only if the division finds that with respect to that week the individual:
+
 (a)  is an "exhaustee" as defined in this section;
-(b)  has satisfied the requirements of this  chapter for the receipt of
-regular benefits that are applicable to individuals claiming extended
-benefits, including not being subject to a disqualification for the receipt of
-benefits; and
-(c)  has satisfied the federal requirements as adopted by state regulation for
-the receipt of extended benefits.
-(3)  The weekly extended benefit amount payable to an individual for a week of
-total unemployment in his eligibility period is an amount equal to the weekly
-benefit amount payable to him during his applicable benefit year.
-(4)  The total extended benefit amount payable to any eligible individual with
-respect to his applicable benefit year is the lesser of the following amounts:
-(a)  50% of the total amount of regular benefits which were payable to him
-under this chapter in his applicable benefit year;
-(b)  13 times his weekly benefit amount which was payable to him under this
-chapter for a week of total unemployment in the applicable benefit year; or
-(c)  39 times his weekly benefit amount which was payable to him under this
-chapter for a week of total unemployment in the applicable benefit year,
-reduced by the total amount of regular benefits which were paid or deemed paid
-to him under this chapter with respect to the benefit year.
-(5)  Notwithstanding any other provision of this  chapter, if the benefit year
-of any individual ends within an extended benefit period, the remaining
-balance of extended benefits that the individual would, but for this section,
-be entitled to receive in that extended benefit period, with respect to weeks
-of unemployment beginning after the end of the benefit year, shall be reduced,
-but not below zero, by the product of the number of weeks for which the
-individual received any amounts as trade adjustment allowances within that
-benefit year, multiplied by the individual's weekly benefit amount for
-extended benefits.
-(6) (a)  Whenever an extended benefit period is to become effective in this
-state as a result of a state "on" indicator, or an extended benefit period is
-to be terminated in this state as a result of a state "off" indicator, the
-division shall make an appropriate public announcement.
-(b)  Computations required by Subsection (7)(f) shall be made by the division,
-in accordance with regulations prescribed by the United States Secretary of
-Labor.
+
+(b)  has satisfied the requirements of this  chapter for the receipt of regular benefits that are applicable to individuals claiming extended benefits, including not being subject to a disqualification for the receipt of benefits; and
+
+(c)  has satisfied the federal requirements as adopted by state regulation for the receipt of extended benefits.
+
+(3)  The weekly extended benefit amount payable to an individual for a week of total unemployment in his eligibility period is an amount equal to the weekly benefit amount payable to him during his applicable benefit year.
+
+(4)  The total extended benefit amount payable to any eligible individual with respect to his applicable benefit year is the lesser of the following amounts:
+
+(a)  50% of the total amount of regular benefits which were payable to him under this chapter in his applicable benefit year;
+
+(b)  13 times his weekly benefit amount which was payable to him under this chapter for a week of total unemployment in the applicable benefit year; or
+
+(c)  39 times his weekly benefit amount which was payable to him under this chapter for a week of total unemployment in the applicable benefit year, reduced by the total amount of regular benefits which were paid or deemed paid to him under this chapter with respect to the benefit year.
+
+(5)  Notwithstanding any other provision of this  chapter, if the benefit year of any individual ends within an extended benefit period, the remaining balance of extended benefits that the individual would, but for this section, be entitled to receive in that extended benefit period, with respect to weeks of unemployment beginning after the end of the benefit year, shall be reduced, but not below zero, by the product of the number of weeks for which the individual received any amounts as trade adjustment allowances within that benefit year, multiplied by the individual's weekly benefit amount for extended benefits.
+
+(6) (a)  Whenever an extended benefit period is to become effective in this state as a result of a state "on" indicator, or an extended benefit period is to be terminated in this state as a result of a state "off" indicator, the division shall make an appropriate public announcement.
+
+(b)  Computations required by Subsection (7)(f) shall be made by the division, in accordance with regulations prescribed by the United States Secretary of Labor.
+
 (7)  As used in this section:
+
 (a)  "Extended benefit period" means a period  that:
-(i)  begins with the third week after a week for which there is a state "on"
-indicator; and
+
+(i)  begins with the third week after a week for which there is a state "on" indicator; and
+
 (ii)  ends with either:
-(A)  the third week after the first week for which there is a state "off"
-indicator; or
-(B)  after the 13th consecutive week of duration of that period, whichever
-occurs later; however, no extended benefit period may begin by reason of a
-state "on" indicator before the 14th week following the end of a prior
-extended benefit period which was in effect with respect to this state.
-(b)  There is a "state 'on' indicator" for this state for a week if the
-division determines, in accordance with the regulations of the Secretary of
-Labor, that for the period consisting of that week and the immediately
-preceding 12 weeks, the rate of insured unemployment, not seasonally adjusted,
-under this chapter equaled or exceeded 120% of the average of the rates for
-the corresponding 13-week period ending in each of the preceding two calendar
-years and that the rate equaled or exceeded 4% until the weeks beginning after
-September 25, 1982, at which time it will become 5%.
-(c)  There is a "state 'off' indicator" for this state for a week if the
-division determines, in accordance with the regulations of the Secretary of
-Labor, that for the period consisting of that week and the immediately
-preceding 12 weeks, the rate of insured unemployment, not seasonally adjusted,
-under this chapter was less than 120% of the average of the rates for the
-corresponding 13-week period ending in each of the preceding two calendar
-years or that the rate was less than 4% until the weeks beginning after
-September 25, 1982, at which time it will become 5%.
-(d)  "Rate of insured unemployment," for purposes of Subsections (7)(b) and
-(7)(c), means the percentage derived by dividing the average weekly number of
-individuals filing claims for regular compensation in this state for weeks of
-unemployment with respect to the most recent 13-consecutive-week period, as
-determined by the division on the basis of its reports to the Secretary of
-Labor, by the average monthly employment covered under this  chapter for the
-first four of the most recent six completed calendar quarters ending before
-the end of the 13-week period.
-(e)  "Regular benefits" means benefits payable to an individual under this
-chapter or under any other state law, including benefits payable to federal
-civilian employees and to ex-servicemen under 5 U.S.C. Chapter 85, other than
-extended benefits.
-(f)  "Extended benefits" means benefits, including benefits payable to federal
-civilian employees and to ex-servicemen under 5 U.S.C. Chapter 85, payable to
-an individual under the provisions of this section for weeks of unemployment
-in his eligibility period.
-(g)  "Eligibility period" of an individual means the period consisting of the
-weeks in his benefit year which begin in an extended benefit period and, if
-his benefit year ends within the extended benefit period, any weeks thereafter
-which begin in that period.
-(h)  "Exhaustee" means an individual who, with respect to any week of
-unemployment in his eligibility period:
-(i)  has received, prior to that week, all of the regular benefits that were
-available to him under this chapter or any other state law, including
-dependent's allowances and benefits payable to federal civilian employees and
-ex-servicemen under 5 U.S.C. Chapter 85, in his current benefit year that
-includes such week.  An individual, for the purposes of this subsection, shall
-be deemed to have received all of the regular benefits that were available to
-him although, as a result of a pending appeal with respect to wages or
-employment, or both, that were not considered in the original monetary
-determination in his benefit year, he may subsequently be determined to be
-entitled to added regular benefits; or
-(ii)  has no, or insufficient, wages or employment or both on the basis of
-which he could establish a new benefit year that would include that week, his
-benefit year having expired prior to that week; and
-(iii)  has no right to unemployment benefits or allowances, as the case may
-be, under the Railroad Unemployment Insurance Act, the Trade Expansion Act of
-1962, the Automotive Products Trade Act of 1965, or any other federal laws as
-are specified in regulations issued by the Secretary of Labor and has not
-received, and is not seeking, unemployment benefits under the unemployment
-compensation law of the Virgin Islands or of Canada.  However, if that person
-is seeking such benefits and the appropriate agency finally determines that he
-is not entitled to benefits under that law he is considered an "exhaustee,"
-provided that the reference in this  subsection to the Virgin Islands shall be
-inapplicable effective on the day on which the U. S. Secretary of Labor
-approves under Section 3304 (a) of the Internal Revenue Code of 1954, 26
-U.S.C. 3304(a), an unemployment compensation law submitted to the Secretary by
-the Virgin Islands for approval.
-(i)  "State law" means the unemployment insurance law of any state, approved
-by the Secretary of Labor under Section 3304 of the Internal Revenue Code of
-1954, 26 U.S.C. 3304(a).
+
+(A)  the third week after the first week for which there is a state "off" indicator; or
+
+(B)  after the 13th consecutive week of duration of that period, whichever occurs later; however, no extended benefit period may begin by reason of a state "on" indicator before the 14th week following the end of a prior extended benefit period which was in effect with respect to this state.
+
+(b)  There is a "state 'on' indicator" for this state for a week if the division determines, in accordance with the regulations of the Secretary of Labor, that for the period consisting of that week and the immediately preceding 12 weeks, the rate of insured unemployment, not seasonally adjusted, under this chapter equaled or exceeded 120% of the average of the rates for the corresponding 13-week period ending in each of the preceding two calendar years and that the rate equaled or exceeded 4% until the weeks beginning after September 25, 1982, at which time it will become 5%.
+
+(c)  There is a "state 'off' indicator" for this state for a week if the division determines, in accordance with the regulations of the Secretary of Labor, that for the period consisting of that week and the immediately preceding 12 weeks, the rate of insured unemployment, not seasonally adjusted, under this chapter was less than 120% of the average of the rates for the corresponding 13-week period ending in each of the preceding two calendar years or that the rate was less than 4% until the weeks beginning after September 25, 1982, at which time it will become 5%.
+
+(d)  "Rate of insured unemployment," for purposes of Subsections (7)(b) and (7)(c), means the percentage derived by dividing the average weekly number of individuals filing claims for regular compensation in this state for weeks of unemployment with respect to the most recent 13-consecutive-week period, as determined by the division on the basis of its reports to the Secretary of Labor, by the average monthly employment covered under this  chapter for the first four of the most recent six completed calendar quarters ending before the end of the 13-week period.
+
+(e)  "Regular benefits" means benefits payable to an individual under this chapter or under any other state law, including benefits payable to federal civilian employees and to ex-servicemen under 5 U.S.C. Chapter 85, other than extended benefits.
+
+(f)  "Extended benefits" means benefits, including benefits payable to federal civilian employees and to ex-servicemen under 5 U.S.C. Chapter 85, payable to an individual under the provisions of this section for weeks of unemployment in his eligibility period.
+
+(g)  "Eligibility period" of an individual means the period consisting of the weeks in his benefit year which begin in an extended benefit period and, if his benefit year ends within the extended benefit period, any weeks thereafter which begin in that period.
+
+(h)  "Exhaustee" means an individual who, with respect to any week of unemployment in his eligibility period:
+
+(i)  has received, prior to that week, all of the regular benefits that were available to him under this chapter or any other state law, including dependent's allowances and benefits payable to federal civilian employees and ex-servicemen under 5 U.S.C. Chapter 85, in his current benefit year that includes such week.  An individual, for the purposes of this subsection, shall be deemed to have received all of the regular benefits that were available to him although, as a result of a pending appeal with respect to wages or employment, or both, that were not considered in the original monetary determination in his benefit year, he may subsequently be determined to be entitled to added regular benefits; or
+
+(ii)  has no, or insufficient, wages or employment or both on the basis of which he could establish a new benefit year that would include that week, his benefit year having expired prior to that week; and
+
+(iii)  has no right to unemployment benefits or allowances, as the case may be, under the Railroad Unemployment Insurance Act, the Trade Expansion Act of 1962, the Automotive Products Trade Act of 1965, or any other federal laws as are specified in regulations issued by the Secretary of Labor and has not received, and is not seeking, unemployment benefits under the unemployment compensation law of the Virgin Islands or of Canada.  However, if that person is seeking such benefits and the appropriate agency finally determines that he is not entitled to benefits under that law he is considered an "exhaustee," provided that the reference in this  subsection to the Virgin Islands shall be inapplicable effective on the day on which the U. S. Secretary of Labor approves under Section 3304 (a) of the Internal Revenue Code of 1954, 26 U.S.C. 3304(a), an unemployment compensation law submitted to the Secretary by the Virgin Islands for approval.
+
+(i)  "State law" means the unemployment insurance law of any state, approved by the Secretary of Labor under Section 3304 of the Internal Revenue Code of 1954, 26 U.S.C. 3304(a).
+

@@ -1,102 +1,72 @@
 19-2-109.1.   Operating permit required -- Emissions fee -- Implementation.
+
 (1)  As used in this section and Sections 19-2-109.2 and 19-2-109.3:
+
 (a)  "EPA" means the federal Environmental Protection Agency.
+
 (b)  "1990 Clean Air Act" means the federal Clean Air Act as amended in 1990.
-(c)  "Operating permit" means a permit issued by the executive secretary to
-sources of air pollution that meet the requirements of Titles IV and V of the
-1990 Clean Air Act.
-(d)  "Program" means the air pollution operating permit program established
-under this section to comply with Title V of the 1990 Clean Air Act.
-(e)  "Regulated pollutant" has the same meaning as defined in Title V of the
-1990 Clean Air Act and implementing federal regulations.
-(2) (a)  A person may not operate any source of air pollution required to have
-a permit under Title V of the 1990 Clean Air Act without having obtained an
-operating permit from the executive secretary under procedures the board
-establishes by rule.
-(b)  A person is not required to submit an operating permit application until
-the governor has submitted an operating permit program to the EPA.
-(c)  Any operating permit issued under this section may not become effective
-until the day after the EPA issues approval of the permit program or November
-15, 1995, whichever occurs first.
-(3) (a)  Operating permits issued under this section shall be for a period of
-five years unless the board makes a written finding, after public comment and
-hearing, and based on substantial evidence in the record, that an operating
-permit term of less than five years is necessary to protect the public health
-and the environment of the state.
-(b)  The executive secretary may issue, modify, or renew an operating permit
-only after providing public notice, an opportunity for public comment, and an
-opportunity for a public hearing.
-(c)  The executive secretary shall, in conformity with the 1990 Clean Air Act
-and implementing federal regulations, revise the conditions of issued
-operating permits to incorporate applicable federal regulations in conformity
-with Section 502(b)(9) of the 1990 Clean Air Act, if the remaining period of
-the permit is three or more years.
-(d)  The executive secretary may terminate, modify, revoke, or reissue an
-operating permit for cause.
-(4) (a)  The board shall establish a proposed annual emissions fee that
-conforms with Title V of the 1990 Clean Air Act for each ton of regulated
-pollutant, applicable to all sources required to obtain a permit.  The
-emissions fee established under this section is in addition to fees assessed
-under Section 19-2-108 for issuance of an approval order.
-(b)  In establishing the fee the board shall comply with the provisions of
-Section  63J-1-504 that require a public hearing and require the established
-fee to be submitted to the Legislature for its approval as part of the
-department's annual appropriations request.
-(c)  The fee shall cover all reasonable direct and indirect costs required to
-develop and administer the program and the small business assistance program
-established under Section 19-2-109.2.  The board shall prepare an annual
-report of the emissions fees collected and the costs covered by those fees
-under this Subsection (4).
-(d)  The fee shall be established uniformly for all sources required to obtain
-an operating permit under the program and for all regulated pollutants.
-(e)  The fee may not be assessed for emissions of any regulated pollutant if
-the emissions are already accounted for within the emissions of another
-regulated pollutant.
-(f)  An emissions fee may not be assessed for any amount of a regulated
-pollutant emitted by any source in excess of 4,000 tons per year of that
-regulated pollutant.
+
+(c)  "Operating permit" means a permit issued by the executive secretary to sources of air pollution that meet the requirements of Titles IV and V of the 1990 Clean Air Act.
+
+(d)  "Program" means the air pollution operating permit program established under this section to comply with Title V of the 1990 Clean Air Act.
+
+(e)  "Regulated pollutant" has the same meaning as defined in Title V of the 1990 Clean Air Act and implementing federal regulations.
+
+(2) (a)  A person may not operate any source of air pollution required to have a permit under Title V of the 1990 Clean Air Act without having obtained an operating permit from the executive secretary under procedures the board establishes by rule.
+
+(b)  A person is not required to submit an operating permit application until the governor has submitted an operating permit program to the EPA.
+
+(c)  Any operating permit issued under this section may not become effective until the day after the EPA issues approval of the permit program or November 15, 1995, whichever occurs first.
+
+(3) (a)  Operating permits issued under this section shall be for a period of five years unless the board makes a written finding, after public comment and hearing, and based on substantial evidence in the record, that an operating permit term of less than five years is necessary to protect the public health and the environment of the state.
+
+(b)  The executive secretary may issue, modify, or renew an operating permit only after providing public notice, an opportunity for public comment, and an opportunity for a public hearing.
+
+(c)  The executive secretary shall, in conformity with the 1990 Clean Air Act and implementing federal regulations, revise the conditions of issued operating permits to incorporate applicable federal regulations in conformity with Section 502(b)(9) of the 1990 Clean Air Act, if the remaining period of the permit is three or more years.
+
+(d)  The executive secretary may terminate, modify, revoke, or reissue an operating permit for cause.
+
+(4) (a)  The board shall establish a proposed annual emissions fee that conforms with Title V of the 1990 Clean Air Act for each ton of regulated pollutant, applicable to all sources required to obtain a permit.  The emissions fee established under this section is in addition to fees assessed under Section 19-2-108 for issuance of an approval order.
+
+(b)  In establishing the fee the board shall comply with the provisions of Section  63J-1-504 that require a public hearing and require the established fee to be submitted to the Legislature for its approval as part of the department's annual appropriations request.
+
+(c)  The fee shall cover all reasonable direct and indirect costs required to develop and administer the program and the small business assistance program established under Section 19-2-109.2.  The board shall prepare an annual report of the emissions fees collected and the costs covered by those fees under this Subsection (4).
+
+(d)  The fee shall be established uniformly for all sources required to obtain an operating permit under the program and for all regulated pollutants.
+
+(e)  The fee may not be assessed for emissions of any regulated pollutant if the emissions are already accounted for within the emissions of another regulated pollutant.
+
+(f)  An emissions fee may not be assessed for any amount of a regulated pollutant emitted by any source in excess of 4,000 tons per year of that regulated pollutant.
+
 (5)  Emissions fees for the period:
-(a)  of July 1, 1992, through June 30, 1993, shall be based on the most recent
-emissions inventory prepared by the executive secretary; and
-(b)  on and after July 1, 1993, but prior to issuance of an operating permit,
-shall be based on the most recent emissions inventory, unless a source elects
-prior to July 1, 1992, to base the fee on allowable emissions, if applicable
-for a regulated pollutant.
-(6)  After an operating permit is issued the emissions fee shall be based on
-actual emissions for a regulated pollutant unless a source elects, prior to
-the issuance or renewal of a permit, to base the fee during the period of the
-permit on allowable emissions for that regulated pollutant.
-(7)  If the owner or operator of a source subject to this section fails to
-timely pay an annual emissions fee, the executive secretary may:
-(a)  impose a penalty of not more than 50% of the fee, in addition to the fee,
-plus interest on the fee computed at 12% annually; or
+
+(a)  of July 1, 1992, through June 30, 1993, shall be based on the most recent emissions inventory prepared by the executive secretary; and
+
+(b)  on and after July 1, 1993, but prior to issuance of an operating permit, shall be based on the most recent emissions inventory, unless a source elects prior to July 1, 1992, to base the fee on allowable emissions, if applicable for a regulated pollutant.
+
+(6)  After an operating permit is issued the emissions fee shall be based on actual emissions for a regulated pollutant unless a source elects, prior to the issuance or renewal of a permit, to base the fee during the period of the permit on allowable emissions for that regulated pollutant.
+
+(7)  If the owner or operator of a source subject to this section fails to timely pay an annual emissions fee, the executive secretary may:
+
+(a)  impose a penalty of not more than 50% of the fee, in addition to the fee, plus interest on the fee computed at 12% annually; or
+
 (b)  revoke the operating permit.
-(8)  The owner or operator of a source subject to this section may contest an
-emissions fee assessment or associated penalty in an adjudicative hearing
-under the Title 63G, Chapter 4, Administrative Procedures Act, and Section
-19-1-301, as provided in this Subsection (8).
-(a)  The owner or operator must pay the fee under protest prior to being
-entitled to a hearing.  Payment of an emissions fee or penalty under protest
-is not a waiver of the right to contest the fee or penalty under this section.
-(b)  A request for a hearing under this Subsection (8) shall be made after
-payment of the emissions fee and within six months after the emissions fee was
-due.
-(9)  To reinstate an operating permit revoked under Subsection (7) the owner
-or operator shall pay all outstanding emissions fees, a penalty of not more
-than 50% of all outstanding fees, and interest on the outstanding emissions
-fees computed at 12% annually.
-(10)  All emissions fees and penalties collected by the department under this
-section shall be deposited in the General Fund as the Air Pollution Operating
-Permit Program dedicated credit to be used solely to pay for the reasonable
-direct and indirect costs incurred by the department in developing and
-administering the program and the small business assistance program under
-Section 19-2-109.2.
-(11)  Failure of the executive secretary to act on any operating permit
-application or renewal is a final administrative action only for the purpose
-of obtaining judicial review by any of the following persons to require the
-executive secretary to take action on the permit or its renewal without
-additional delay:
+
+(8)  The owner or operator of a source subject to this section may contest an emissions fee assessment or associated penalty in an adjudicative hearing under the Title 63G, Chapter 4, Administrative Procedures Act, and Section 19-1-301, as provided in this Subsection (8).
+
+(a)  The owner or operator must pay the fee under protest prior to being entitled to a hearing.  Payment of an emissions fee or penalty under protest is not a waiver of the right to contest the fee or penalty under this section.
+
+(b)  A request for a hearing under this Subsection (8) shall be made after payment of the emissions fee and within six months after the emissions fee was due.
+
+(9)  To reinstate an operating permit revoked under Subsection (7) the owner or operator shall pay all outstanding emissions fees, a penalty of not more than 50% of all outstanding fees, and interest on the outstanding emissions fees computed at 12% annually.
+
+(10)  All emissions fees and penalties collected by the department under this section shall be deposited in the General Fund as the Air Pollution Operating Permit Program dedicated credit to be used solely to pay for the reasonable direct and indirect costs incurred by the department in developing and administering the program and the small business assistance program under Section 19-2-109.2.
+
+(11)  Failure of the executive secretary to act on any operating permit application or renewal is a final administrative action only for the purpose of obtaining judicial review by any of the following persons to require the executive secretary to take action on the permit or its renewal without additional delay:
+
 (a)  the applicant;
+
 (b)  any person who participated in the public comment process; or
-(c)  any other person who could obtain judicial review of that action under
-applicable law.
+
+(c)  any other person who could obtain judicial review of that action under applicable law.
+

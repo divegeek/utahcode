@@ -1,21 +1,16 @@
 78B-11-111.   Consolidation of separate arbitration proceedings.
-(1)  Except as otherwise provided in Subsection (3), upon motion of a party to
-an agreement to arbitrate or to an arbitration proceeding, the court may order
-consolidation of separate arbitration proceedings as to all or some of the
-claims if:
-(a)  there are separate agreements to arbitrate or separate arbitration
-proceedings between the same persons or one of them is a party to a separate
-agreement to arbitrate or a separate arbitration proceeding with a third
-person;
-(b)  the claims subject to the agreements to arbitrate arise in substantial
-part from the same transaction or series of related transactions;
-(c)  the existence of a common issue of law or fact creates the possibility of
-conflicting decisions in the separate arbitration proceedings; and
-(d)  prejudice resulting from a failure to consolidate is not outweighed by
-the risk of undue delay or prejudice to the rights of or hardship to parties
-opposing consolidation.
-(2)  The court may order consolidation of separate arbitration proceedings as
-to some claims and allow other claims to be resolved in separate arbitration
-proceedings.
-(3)  The court may not order consolidation of the claims of a party to an
-agreement to arbitrate if the agreement prohibits consolidation.
+
+(1)  Except as otherwise provided in Subsection (3), upon motion of a party to an agreement to arbitrate or to an arbitration proceeding, the court may order consolidation of separate arbitration proceedings as to all or some of the claims if:
+
+(a)  there are separate agreements to arbitrate or separate arbitration proceedings between the same persons or one of them is a party to a separate agreement to arbitrate or a separate arbitration proceeding with a third person;
+
+(b)  the claims subject to the agreements to arbitrate arise in substantial part from the same transaction or series of related transactions;
+
+(c)  the existence of a common issue of law or fact creates the possibility of conflicting decisions in the separate arbitration proceedings; and
+
+(d)  prejudice resulting from a failure to consolidate is not outweighed by the risk of undue delay or prejudice to the rights of or hardship to parties opposing consolidation.
+
+(2)  The court may order consolidation of separate arbitration proceedings as to some claims and allow other claims to be resolved in separate arbitration proceedings.
+
+(3)  The court may not order consolidation of the claims of a party to an agreement to arbitrate if the agreement prohibits consolidation.
+

@@ -1,118 +1,112 @@
-77-22-2.   Investigations -- Right to subpoena witnesses and require
-production of evidence -- Contents of subpoena -- Rights of witnesses --
-Interrogation before closed court -- Disclosure of information.
-(1)  As used in this section, "prosecutor" means the attorney general, county
-attorney, district attorney, or municipal attorney.
-(2) (a)  In any matter involving the investigation of a crime or malfeasance
-in office, or any criminal conspiracy or activity, the prosecutor may, upon
-application and approval of the district court and for good cause shown,
-conduct a criminal investigation.
-(b)  The application and statement of good cause shall state whether or not
-any other investigative order related to the investigation at issue has been
-filed in another court.
-(3) (a)  Subject to the conditions established in Subsection (3)(b), the
-prosecutor may:
+77-22-2.   Investigations -- Right to subpoena witnesses and require production of evidence -- Contents of subpoena -- Rights of witnesses -- Interrogation before closed court -- Disclosure of information.
+
+(1)  As used in this section, "prosecutor" means the attorney general, county attorney, district attorney, or municipal attorney.
+
+(2) (a)  In any matter involving the investigation of a crime or malfeasance in office, or any criminal conspiracy or activity, the prosecutor may, upon application and approval of the district court and for good cause shown, conduct a criminal investigation.
+
+(b)  The application and statement of good cause shall state whether or not any other investigative order related to the investigation at issue has been filed in another court.
+
+(3) (a)  Subject to the conditions established in Subsection (3)(b), the prosecutor may:
+
 (i)  subpoena witnesses;
-(ii)  compel their attendance and testimony under oath to be recorded by a
-suitable electronic recording device or to be given before any certified court
-reporter; and
-(iii)  require the production of books, papers, documents, recordings, and any
-other items that constitute evidence or may be relevant to the investigation.
+
+(ii)  compel their attendance and testimony under oath to be recorded by a suitable electronic recording device or to be given before any certified court reporter; and
+
+(iii)  require the production of books, papers, documents, recordings, and any other items that constitute evidence or may be relevant to the investigation.
+
 (b)  The prosecutor shall:
+
 (i)  apply to the district court for each subpoena; and
-(ii)  show that the requested information is reasonably related to the
-criminal investigation authorized by the court.
+
+(ii)  show that the requested information is reasonably related to the criminal investigation authorized by the court.
+
 (4) (a)  The prosecutor shall state in each subpoena:
+
 (i)  the time and place of the examination;
+
 (ii)  that the subpoena is issued in aid of a criminal investigation; and
+
 (iii)  the right of the person subpoenaed to have counsel present.
-(b)  The examination may be conducted anywhere within the jurisdiction of the
-prosecutor issuing the subpoena.
+
+(b)  The examination may be conducted anywhere within the jurisdiction of the prosecutor issuing the subpoena.
+
 (c)  The subpoena need not disclose the names of possible defendants.
+
 (d)  Witness fees and expenses shall be paid as in a civil action.
-(5) (a)  At the beginning of each compelled interrogation, the prosecutor
-shall personally inform each witness:
+
+(5) (a)  At the beginning of each compelled interrogation, the prosecutor shall personally inform each witness:
+
 (i)  of the general subject matter of the investigation;
-(ii)  of the privilege to, at any time during the proceeding, refuse to answer
-any question or produce any evidence of a communicative nature that may result
-in self-incrimination;
-(iii)  that any information provided may be used against the witness in a
-subsequent criminal proceeding; and
+
+(ii)  of the privilege to, at any time during the proceeding, refuse to answer any question or produce any evidence of a communicative nature that may result in self-incrimination;
+
+(iii)  that any information provided may be used against the witness in a subsequent criminal proceeding; and
+
 (iv)  of the right to have counsel present.
-(b)  If the prosecutor has substantial evidence that the subpoenaed witness
-has committed a crime that is under investigation, the prosecutor shall:
-(i)  inform the witness in person before interrogation of that witness's
-target status; and
-(ii)  inform the witness of the nature of the charges under consideration
-against the witness.
-(6) (a) (i)  The prosecutor may make written application to any district court
-showing a reasonable likelihood that publicly releasing information about the
-identity of a witness or the substance of the evidence resulting from a
-subpoena or interrogation would pose a threat of harm to a person or otherwise
-impede the investigation.
+
+(b)  If the prosecutor has substantial evidence that the subpoenaed witness has committed a crime that is under investigation, the prosecutor shall:
+
+(i)  inform the witness in person before interrogation of that witness's target status; and
+
+(ii)  inform the witness of the nature of the charges under consideration against the witness.
+
+(6) (a) (i)  The prosecutor may make written application to any district court showing a reasonable likelihood that publicly releasing information about the identity of a witness or the substance of the evidence resulting from a subpoena or interrogation would pose a threat of harm to a person or otherwise impede the investigation.
+
 (ii)  Upon a finding of reasonable likelihood, the court may order the:
+
 (A)  interrogation of a witness be held in secret;
-(B)  occurrence of the interrogation and other subpoenaing of evidence, the
-identity of the person subpoenaed, and the substance of the evidence obtained
-be kept secret; and
-(C)  record of testimony and other subpoenaed evidence be kept secret unless
-the court for good cause otherwise orders.
-(b)  After application, the court may by order exclude from any investigative
-hearing or proceeding any persons except:
+
+(B)  occurrence of the interrogation and other subpoenaing of evidence, the identity of the person subpoenaed, and the substance of the evidence obtained be kept secret; and
+
+(C)  record of testimony and other subpoenaed evidence be kept secret unless the court for good cause otherwise orders.
+
+(b)  After application, the court may by order exclude from any investigative hearing or proceeding any persons except:
+
 (i)  the attorneys representing the state and members of their staffs;
-(ii)  persons who, in the judgment of the attorneys representing the state,
-are reasonably necessary to assist in the investigative process;
+
+(ii)  persons who, in the judgment of the attorneys representing the state, are reasonably necessary to assist in the investigative process;
+
 (iii)  the court reporter or operator of the electronic recording device; and
+
 (iv)  the attorney for the witness.
-(c)  This chapter does not prevent attorneys representing the state or members
-of their staff from disclosing information obtained pursuant to this chapter
-for the purpose of furthering any official governmental investigation.
-(d) (i)  If a secrecy order has been granted by the court regarding the
-interrogation or disclosure of evidence by a witness under this subsection,
-and if the court finds a further restriction on the witness is appropriate,
-the court may order the witness not to disclose the substance of the witness's
-testimony or evidence given by the witness to others.
-(ii)  Any order to not disclose made under this subsection shall be served
-with the subpoena.
-(iii)  In an appropriate circumstance the court may order that the witness not
-disclose the existence of the investigation to others.
-(iv)  Any order under this Subsection (6)(d) must be based upon a finding by
-the court that one or more of the following risks exist:
+
+(c)  This chapter does not prevent attorneys representing the state or members of their staff from disclosing information obtained pursuant to this chapter for the purpose of furthering any official governmental investigation.
+
+(d) (i)  If a secrecy order has been granted by the court regarding the interrogation or disclosure of evidence by a witness under this subsection, and if the court finds a further restriction on the witness is appropriate, the court may order the witness not to disclose the substance of the witness's testimony or evidence given by the witness to others.
+
+(ii)  Any order to not disclose made under this subsection shall be served with the subpoena.
+
+(iii)  In an appropriate circumstance the court may order that the witness not disclose the existence of the investigation to others.
+
+(iv)  Any order under this Subsection (6)(d) must be based upon a finding by the court that one or more of the following risks exist:
+
 (A)  disclosure by the witness would cause destruction of evidence;
-(B)  disclosure by the witness would taint the evidence provided by other
-witnesses;
-(C)  disclosure by the witness to a target of the investigation would result
-in flight or other conduct to avoid prosecution;
+
+(B)  disclosure by the witness would taint the evidence provided by other witnesses;
+
+(C)  disclosure by the witness to a target of the investigation would result in flight or other conduct to avoid prosecution;
+
 (D)  disclosure by the witness would damage a person's reputation; or
+
 (E)  disclosure by the witness would cause a threat of harm to any person.
-(e) (i)  If the court imposes an order under Subsection (6)(d) authorizing an
-instruction to a witness not to disclose the substance of testimony or
-evidence provided and the prosecuting agency proves by a preponderance of the
-evidence that a witness has violated that order, the court may hold the
-witness in contempt.
-(ii)  An order of secrecy imposed on a witness under this Subsection (6)(e)
-may not infringe on the attorney-client relationship between the witness and
-the witness's attorney or on any other legally recognized privileged
-relationship.
-(7) (a) (i)  The prosecutor may submit to any district court a separate
-written request that the application, statement of good cause, and the court's
-order authorizing the investigation be kept secret.
-(ii)  The request for secrecy is a public record under Title 63G, Chapter 2,
-Government Records Access and Management Act, but need not contain any
-information that would compromise any of the interest listed in Subsection
-(7)(c).
-(b)  With the court's permission, the prosecutor may submit to the court, in
-camera, any additional information to support the request for secrecy if
-necessary to avoid compromising the interests listed in Subsection (7)(c).
-(c)  The court shall consider all information in the application and order
-authorizing the investigation and any information received in camera and shall
-order that all information be placed in the public file except information
-that, if disclosed, would pose:
+
+(e) (i)  If the court imposes an order under Subsection (6)(d) authorizing an instruction to a witness not to disclose the substance of testimony or evidence provided and the prosecuting agency proves by a preponderance of the evidence that a witness has violated that order, the court may hold the witness in contempt.
+
+(ii)  An order of secrecy imposed on a witness under this Subsection (6)(e) may not infringe on the attorney-client relationship between the witness and the witness's attorney or on any other legally recognized privileged relationship.
+
+(7) (a) (i)  The prosecutor may submit to any district court a separate written request that the application, statement of good cause, and the court's order authorizing the investigation be kept secret.
+
+(ii)  The request for secrecy is a public record under Title 63G, Chapter 2, Government Records Access and Management Act, but need not contain any information that would compromise any of the interest listed in Subsection (7)(c).
+
+(b)  With the court's permission, the prosecutor may submit to the court, in camera, any additional information to support the request for secrecy if necessary to avoid compromising the interests listed in Subsection (7)(c).
+
+(c)  The court shall consider all information in the application and order authorizing the investigation and any information received in camera and shall order that all information be placed in the public file except information that, if disclosed, would pose:
+
 (i)  a substantial risk of harm to a person's safety;
-(ii)  a clearly unwarranted invasion of or harm to a person's reputation or
-privacy; or
+
+(ii)  a clearly unwarranted invasion of or harm to a person's reputation or privacy; or
+
 (iii)  a serious impediment to the investigation.
-(d)  Before granting an order keeping secret documents and other information
-received under this section, the court shall narrow the secrecy order as much
-as reasonably possible in order to preserve the openness of court records
-while protecting the interests listed in Subsection (7)(c).
+
+(d)  Before granting an order keeping secret documents and other information received under this section, the court shall narrow the secrecy order as much as reasonably possible in order to preserve the openness of court records while protecting the interests listed in Subsection (7)(c).
+

@@ -1,16 +1,12 @@
-70A-8-405.   Replacement of lost, destroyed, or wrongfully taken security
-certificate.
-(1)  If an owner of a certificated security, whether in registered or bearer
-form, claims that the certificate has been lost, destroyed, or wrongfully
-taken, the issuer shall issue a new certificate if the owner:
-(a)  so requests before the issuer has notice that the certificate has been
-acquired by a protected purchaser;
+70A-8-405.   Replacement of lost, destroyed, or wrongfully taken security certificate.
+
+(1)  If an owner of a certificated security, whether in registered or bearer form, claims that the certificate has been lost, destroyed, or wrongfully taken, the issuer shall issue a new certificate if the owner:
+
+(a)  so requests before the issuer has notice that the certificate has been acquired by a protected purchaser;
+
 (b)  files with the issuer a sufficient indemnity bond; and
+
 (c)  satisfies other reasonable requirements imposed by the issuer.
-(2)  If, after the issue of a new security certificate, a protected purchaser
-of the original certificate presents it for registration of transfer, the
-issuer shall register the transfer unless an overissue would result.  In that
-case, the issuer's liability is governed by Section 70A-8-210.  In addition to
-any rights on the indemnity bond, an issuer may recover the new certificate
-from a person to whom it was issued or any person taking under that person,
-except a protected purchaser.
+
+(2)  If, after the issue of a new security certificate, a protected purchaser of the original certificate presents it for registration of transfer, the issuer shall register the transfer unless an overissue would result.  In that case, the issuer's liability is governed by Section 70A-8-210.  In addition to any rights on the indemnity bond, an issuer may recover the new certificate from a person to whom it was issued or any person taking under that person, except a protected purchaser.
+

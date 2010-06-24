@@ -1,33 +1,16 @@
 75-7-505.   Creditor's claim against settlor.
-(1)  Whether or not the terms of a trust contain a spendthrift provision, the
-following rules apply:
-(a)  During the lifetime of the settlor, the property of a revocable trust is
-subject to the claims of the settlor's creditors.  If a trust has more than
-one settlor, the amount the creditor or assignee of a particular settlor may
-reach may not exceed the settlor's interest in the portion of the trust
-attributable to that settlor's contribution.
-(b)  With respect to an irrevocable trust other than an irrevocable trust that
-meets the requirements of Section 25-6-14, a creditor or assignee of the
-settlor may reach the maximum amount that can be distributed to or for the
-settlor's benefit.  If the trust has more than one settlor, the amount the
-creditor or assignee of a particular settlor may reach may not exceed the
-settlor's interest in the portion of the trust attributable to that settlor's
-contribution.
-(c)  After the death of a settlor, and subject to the settlor's right to
-direct the source from which liabilities will be paid, the property of a trust
-that was revocable at the settlor's death, but not property received by the
-trust as a result of the death of the settlor which is otherwise exempt from
-the claims of the settlor's creditors, is subject to claims of the settlor's
-creditors, costs of administration of the settlor's estate, the expenses of
-the settlor's funeral and disposal of remains, and statutory allowances to a
-surviving spouse and children to the extent the settlor's probate estate is
-inadequate to satisfy those claims, costs, expenses, and allowances.
+
+(1)  Whether or not the terms of a trust contain a spendthrift provision, the following rules apply:
+
+(a)  During the lifetime of the settlor, the property of a revocable trust is subject to the claims of the settlor's creditors.  If a trust has more than one settlor, the amount the creditor or assignee of a particular settlor may reach may not exceed the settlor's interest in the portion of the trust attributable to that settlor's contribution.
+
+(b)  With respect to an irrevocable trust other than an irrevocable trust that meets the requirements of Section 25-6-14, a creditor or assignee of the settlor may reach the maximum amount that can be distributed to or for the settlor's benefit.  If the trust has more than one settlor, the amount the creditor or assignee of a particular settlor may reach may not exceed the settlor's interest in the portion of the trust attributable to that settlor's contribution.
+
+(c)  After the death of a settlor, and subject to the settlor's right to direct the source from which liabilities will be paid, the property of a trust that was revocable at the settlor's death, but not property received by the trust as a result of the death of the settlor which is otherwise exempt from the claims of the settlor's creditors, is subject to claims of the settlor's creditors, costs of administration of the settlor's estate, the expenses of the settlor's funeral and disposal of remains, and statutory allowances to a surviving spouse and children to the extent the settlor's probate estate is inadequate to satisfy those claims, costs, expenses, and allowances.
+
 (2)  For purposes of this section:
-(a)  during the period the power may be exercised, the holder of a power of
-withdrawal is treated in the same manner as the settlor of a revocable trust
-to the extent of the property subject to the power; and
-(b)  upon the lapse, release, or waiver of the power, the holder is treated as
-the settlor of the trust only to the extent the value of the property affected
-by the lapse, release, or waiver exceeds the greater of the amount specified
-in Subsection 2041(b)(2), 2514(e), or Section 2503(b) of the Internal Revenue
-Code of 1986, in each case as in effect on May 1, 2004.
+
+(a)  during the period the power may be exercised, the holder of a power of withdrawal is treated in the same manner as the settlor of a revocable trust to the extent of the property subject to the power; and
+
+(b)  upon the lapse, release, or waiver of the power, the holder is treated as the settlor of the trust only to the extent the value of the property affected by the lapse, release, or waiver exceeds the greater of the amount specified in Subsection 2041(b)(2), 2514(e), or Section 2503(b) of the Internal Revenue Code of 1986, in each case as in effect on May 1, 2004.
+

@@ -1,8 +1,6 @@
 59-12-211.1.   Location of a transaction that is subject to a use tax.
-(1)  Subject to Subsection (2), a person that is required by Subsection
-59-12-107(1)(d) to pay a use tax on a transaction shall report the location of
-that transaction at the person's location.
-(2)  For purposes of Subsection (1), if a person has more than one location in
-this state, the person shall report the location of the transaction at the
-location at which tangible personal property, a product transferred
-electronically, or a service is received.
+
+(1)  Subject to Subsection (2), a person that is required by Subsection 59-12-107(1)(d) to pay a use tax on a transaction shall report the location of that transaction at the person's location.
+
+(2)  For purposes of Subsection (1), if a person has more than one location in this state, the person shall report the location of the transaction at the location at which tangible personal property, a product transferred electronically, or a service is received.
+

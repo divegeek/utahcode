@@ -1,71 +1,54 @@
 53A-1a-706.   Scholarship payments.
-(1) (a)  Scholarships shall be awarded by the board subject to the
-availability of money appropriated by the Legislature for that purpose.
-(b)  The Legislature shall annually appropriate money to the board from the
-General Fund to make scholarship payments.
-(c) (i)  If monies are not available to pay for all scholarships requested,
-the scholarships shall be allocated on a random basis except that preference
-shall be given to students who received scholarships in the previous school
-year.
-(ii)  If monies are insufficient in a school year to pay for all the
-continuing scholarships, new scholarships may not be awarded during that
-school year and the monies available for scholarships shall be prorated among
-the eligible students who received scholarships in the previous year.
+
+(1) (a)  Scholarships shall be awarded by the board subject to the availability of money appropriated by the Legislature for that purpose.
+
+(b)  The Legislature shall annually appropriate money to the board from the General Fund to make scholarship payments.
+
+(c) (i)  If monies are not available to pay for all scholarships requested, the scholarships shall be allocated on a random basis except that preference shall be given to students who received scholarships in the previous school year.
+
+(ii)  If monies are insufficient in a school year to pay for all the continuing scholarships, new scholarships may not be awarded during that school year and the monies available for scholarships shall be prorated among the eligible students who received scholarships in the previous year.
+
 (2)  Full-year scholarships shall be awarded in the following amounts:
-(a)  for a student who received an average of 180 minutes per day or more of
-special education services in a public school before transferring to a private
-school, an amount not to exceed the lesser of:
+
+(a)  for a student who received an average of 180 minutes per day or more of special education services in a public school before transferring to a private school, an amount not to exceed the lesser of:
+
 (i)  the value of the weighted pupil unit multiplied by 2.5; or
+
 (ii)  the private school tuition and fees; and
-(b)  for a student who received an average of less than 180 minutes per day of
-special education services in a public school before transferring to a private
-school, an amount not to exceed the lesser of:
+
+(b)  for a student who received an average of less than 180 minutes per day of special education services in a public school before transferring to a private school, an amount not to exceed the lesser of:
+
 (i)  the value of the weighted pupil unit multiplied by 1.5; or
+
 (ii)  the private school tuition and fees.
-(3)  The scholarship amount for a student enrolled in a half-day kindergarten
-program shall be the amount specified in Subsection (2)(a) or (b) multiplied
-by .55.
-(4) (a)  The scholarship amount for a student who receives a waiver under
-Subsection 53A-1a-704(3) shall be based upon the assessment team's
-determination of the appropriate level of special education services to be
-provided to the student.
-(b) (i)  If the student requires an average of 180 minutes per day or more of
-special education services, a full-year scholarship shall be equal to the
-amount specified in Subsection (2)(a).
-(ii)  If the student requires less than an average of 180 minutes per day of
-special education services, a full-year scholarship shall be equal to the
-amount specified in Subsection (2)(b).
-(iii)  If the student is enrolled in a half-day kindergarten program, a full-
-year scholarship is equal to the amount specified in Subsection (3).
-(5) (a)  Except as provided in Subsection (5)(b), upon review and receipt of
-documentation that verifies a student's admission to, or continuing enrollment
-and attendance at, a private school, the board shall make scholarship payments
-in four equal amounts no later than September 1, November 1, February 1, and
-April 15 of each school year in which a scholarship is in force.
-(b)  In accordance with board rule, the board may make a scholarship payment
-before the first quarterly payment of the school year, if a private school
-requires partial payment of tuition before the start of the school year to
-reserve space for a student admitted to the school.
-(6)  A parent of a scholarship student shall notify the board if the student
-does not have continuing enrollment and attendance at an eligible private
-school.
-(7)  Before scholarship payments are made, the board shall cross-check
-enrollment lists of scholarship students, school districts, and youth in
-custody to ensure that scholarship payments are not erroneously made.
-(8) (a)  Scholarship payments shall be made by the board by individual warrant
-made payable to the student's parent and mailed by the board to the private
-school.  The parent shall restrictively endorse the warrant to the private
-school for deposit into the account of the private school.
-(b)  A person, on behalf of a private school, may not accept a power of
-attorney from a parent to sign a warrant referred to in Subsection (8)(a), and
-a parent of a scholarship student may not give a power of attorney designating
-a person, on behalf of a private school, as the parent's attorney-in-fact.
-(9) (a)  Scholarships shall be retroactively awarded to students with
-disabilities for attendance at a private school in the 2004-05 school year,
-if:
-(i)  the student meets the qualifications for a scholarship under Section 53A-
-1a-704 and is awarded a scholarship under this section; and
-(ii)  the private school meets the eligibility requirements of Section 53A-
-1a-705, including submitting an application to enroll scholarship students in
-the 2005-06 school year.
+
+(3)  The scholarship amount for a student enrolled in a half-day kindergarten program shall be the amount specified in Subsection (2)(a) or (b) multiplied by .55.
+
+(4) (a)  The scholarship amount for a student who receives a waiver under Subsection 53A-1a-704(3) shall be based upon the assessment team's determination of the appropriate level of special education services to be provided to the student.
+
+(b) (i)  If the student requires an average of 180 minutes per day or more of special education services, a full-year scholarship shall be equal to the amount specified in Subsection (2)(a).
+
+(ii)  If the student requires less than an average of 180 minutes per day of special education services, a full-year scholarship shall be equal to the amount specified in Subsection (2)(b).
+
+(iii)  If the student is enrolled in a half-day kindergarten program, a full-year scholarship is equal to the amount specified in Subsection (3).
+
+(5) (a)  Except as provided in Subsection (5)(b), upon review and receipt of documentation that verifies a student's admission to, or continuing enrollment and attendance at, a private school, the board shall make scholarship payments in four equal amounts no later than September 1, November 1, February 1, and April 15 of each school year in which a scholarship is in force.
+
+(b)  In accordance with board rule, the board may make a scholarship payment before the first quarterly payment of the school year, if a private school requires partial payment of tuition before the start of the school year to reserve space for a student admitted to the school.
+
+(6)  A parent of a scholarship student shall notify the board if the student does not have continuing enrollment and attendance at an eligible private school.
+
+(7)  Before scholarship payments are made, the board shall cross-check enrollment lists of scholarship students, school districts, and youth in custody to ensure that scholarship payments are not erroneously made.
+
+(8) (a)  Scholarship payments shall be made by the board by individual warrant made payable to the student's parent and mailed by the board to the private school.  The parent shall restrictively endorse the warrant to the private school for deposit into the account of the private school.
+
+(b)  A person, on behalf of a private school, may not accept a power of attorney from a parent to sign a warrant referred to in Subsection (8)(a), and a parent of a scholarship student may not give a power of attorney designating a person, on behalf of a private school, as the parent's attorney-in-fact.
+
+(9) (a)  Scholarships shall be retroactively awarded to students with disabilities for attendance at a private school in the 2004-05 school year, if:
+
+(i)  the student meets the qualifications for a scholarship under Section 53A-1a-704 and is awarded a scholarship under this section; and
+
+(ii)  the private school meets the eligibility requirements of Section 53A-1a-705, including submitting an application to enroll scholarship students in the 2005-06 school year.
+
 (b)  Subsection (5) does not apply to retroactive scholarship payments.
+

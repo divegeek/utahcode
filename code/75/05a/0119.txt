@@ -1,46 +1,16 @@
-75-5a-119.   Renunciation, resignation, death, or removal of custodian --
-Designation of successor custodian.
-(1)  A person nominated under Section 75-5a-104 or designated under Section
-75-5a-110 as custodian may decline to serve by delivering a valid disclaimer
-to the person who made the nomination or to the transferor or the transferor's
-legal representative.  If the event giving rise to a transfer has not occurred
-and no substitute custodian able, willing, and eligible to serve was nominated
-under Section 75-5a-104, the person who made the nomination may nominate a
-substitute custodian under Section 75-5a-104; otherwise the transferor or the
-transferor's legal representative shall designate a substitute custodian at
-the time of the transfer, in either case from among the persons eligible to
-serve as custodian for that kind of property under Subsection 75-5a-110(1).
-The custodian designated has the rights of a successor custodian.
-(2)  A custodian at any time may designate a trust company or an adult other
-than a transferor under Section 75-5a-105 as successor custodian by executing
-and dating an instrument of designation before a subscribing witness other
-than the successor.  If the instrument of designation does not contain or is
-not accompanied by the resignation of the custodian, the designation of the
-successor does not take effect until the custodian resigns, dies, becomes
-incapacitated, or is removed.
-(3)  A custodian may resign at any time by delivering written notice to the
-minor if the minor is 14 years of age or older and to the successor custodian
-and by delivering the custodial property to the successor custodian.
-(4) (a)  If a custodian is ineligible, dies, or becomes incapacitated without
-having effectively designated a successor and the minor is 14 years of age or
-older, the minor may designate as successor custodian, in the manner
-prescribed in Subsection (2), an adult member of the minor's family, a
-conservator of the minor, or a trust company.  If the minor is not yet 14
-years of age or fails to act within 60 days after the ineligibility, death, or
-incapacity, the conservator of the minor becomes successor custodian.
-(b)  If the minor has no conservator or the conservator declines to act, the
-transferor, the legal representative of the transferor or of the custodian, an
-adult member of the minor's family, or any other interested person may
-petition the court to designate a successor custodian.
-(5)  A custodian who declines to serve under Subsection (1) or resigns under
-Subsection (3), or the legal representative of a deceased or incapacitated
-custodian shall as soon as practicable place the custodial property and
-records in the possession and control of the successor custodian.  The
-successor custodian by action may enforce the obligation to deliver custodial
-property and records and becomes responsible for each item as received.
-(6)  A transferor, the legal representative of a transferor, an adult member
-of the minor's family, a guardian of the person of the minor, the conservator
-of the minor, or the minor if he is 14 years of age or older, may petition the
-court to remove the custodian for cause and to designate a successor custodian
-other than a transferor under Section 75-5a-105 or to require the custodian to
-give appropriate bond.
+75-5a-119.   Renunciation, resignation, death, or removal of custodian -- Designation of successor custodian.
+
+(1)  A person nominated under Section 75-5a-104 or designated under Section 75-5a-110 as custodian may decline to serve by delivering a valid disclaimer to the person who made the nomination or to the transferor or the transferor's legal representative.  If the event giving rise to a transfer has not occurred and no substitute custodian able, willing, and eligible to serve was nominated under Section 75-5a-104, the person who made the nomination may nominate a substitute custodian under Section 75-5a-104; otherwise the transferor or the transferor's legal representative shall designate a substitute custodian at the time of the transfer, in either case from among the persons eligible to serve as custodian for that kind of property under Subsection 75-5a-110(1).  The custodian designated has the rights of a successor custodian.
+
+(2)  A custodian at any time may designate a trust company or an adult other than a transferor under Section 75-5a-105 as successor custodian by executing and dating an instrument of designation before a subscribing witness other than the successor.  If the instrument of designation does not contain or is not accompanied by the resignation of the custodian, the designation of the successor does not take effect until the custodian resigns, dies, becomes incapacitated, or is removed.
+
+(3)  A custodian may resign at any time by delivering written notice to the minor if the minor is 14 years of age or older and to the successor custodian and by delivering the custodial property to the successor custodian.
+
+(4) (a)  If a custodian is ineligible, dies, or becomes incapacitated without having effectively designated a successor and the minor is 14 years of age or older, the minor may designate as successor custodian, in the manner prescribed in Subsection (2), an adult member of the minor's family, a conservator of the minor, or a trust company.  If the minor is not yet 14 years of age or fails to act within 60 days after the ineligibility, death, or incapacity, the conservator of the minor becomes successor custodian.
+
+(b)  If the minor has no conservator or the conservator declines to act, the transferor, the legal representative of the transferor or of the custodian, an adult member of the minor's family, or any other interested person may petition the court to designate a successor custodian.
+
+(5)  A custodian who declines to serve under Subsection (1) or resigns under Subsection (3), or the legal representative of a deceased or incapacitated custodian shall as soon as practicable place the custodial property and records in the possession and control of the successor custodian.  The successor custodian by action may enforce the obligation to deliver custodial property and records and becomes responsible for each item as received.
+
+(6)  A transferor, the legal representative of a transferor, an adult member of the minor's family, a guardian of the person of the minor, the conservator of the minor, or the minor if he is 14 years of age or older, may petition the court to remove the custodian for cause and to designate a successor custodian other than a transferor under Section 75-5a-105 or to require the custodian to give appropriate bond.
+

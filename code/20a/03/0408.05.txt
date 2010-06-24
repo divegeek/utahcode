@@ -1,55 +1,56 @@
-20A-3-408.5.   Electronic registration and voting by military and overseas
-citizen voters in a hostile fire zone -- Procedures for accepting and
-processing a federal postcard application form -- Returned ballot.
-(1)  A military voter, an overseas citizen voter, or other voter covered under
-the federal Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) shall
-be allowed to transmit their federal postcard application form electronically
-to the county clerk in their county of residence if the voter is currently
-deployed in:
+20A-3-408.5.   Electronic registration and voting by military and overseas citizen voters in a hostile fire zone -- Procedures for accepting and processing a federal postcard application form -- Returned ballot.
+
+(1)  A military voter, an overseas citizen voter, or other voter covered under the federal Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) shall be allowed to transmit their federal postcard application form electronically to the county clerk in their county of residence if the voter is currently deployed in:
+
 (a)  a hostile fire zone; or
-(b)  other area where the mail service is unreliable and not sufficient to
-accommodate timely mail service.
-(2)  A voter covered under Subsection (1), shall file the federal postcard
-application form no later than 20 days before the day of the election in
-accordance with Subsection 20A-3-304(3)(b).
-(3)  Upon receiving a federal postcard application form under this section a
-county clerk shall review the federal postcard application form to verify:
+
+(b)  other area where the mail service is unreliable and not sufficient to accommodate timely mail service.
+
+(2)  A voter covered under Subsection (1), shall file the federal postcard application form no later than 20 days before the day of the election in accordance with Subsection 20A-3-304(3)(b).
+
+(3)  Upon receiving a federal postcard application form under this section a county clerk shall review the federal postcard application form to verify:
+
 (a)  compliance with this section; and
+
 (b)  that the form has been properly completed and signed.
-(4)  Upon a determination of compliance under Subsection (3), a county clerk
-shall:
+
+(4)  Upon a determination of compliance under Subsection (3), a county clerk shall:
+
 (a)  register the voter, unless the voter is already registered;
+
 (b)  process the absentee ballot request; and
-(c)  electronically transmit a ballot to the voter who filed the federal
-postcard application form.
-(5)  A voter who receives a ballot under this section may transmit the ballot
-electronically to the county clerk in their county of residence if the voter:
-(a)  agrees to waive the right to a secret ballot in accordance with this
-section; and
+
+(c)  electronically transmit a ballot to the voter who filed the federal postcard application form.
+
+(5)  A voter who receives a ballot under this section may transmit the ballot electronically to the county clerk in their county of residence if the voter:
+
+(a)  agrees to waive the right to a secret ballot in accordance with this section; and
+
 (b)  affirms in writing that the voter is currently deployed in:
+
 (i)  a hostile fire zone; or
-(ii)  other area where the mail service is unreliable and not sufficient to
-accommodate timely mail service.
-(6)  The electronically transmitted ballot shall be accompanied by the
-following statements: "I understand that by electronically transmitting my
-voted ballot I am voluntarily waiving my right to a secret ballot.  Signature
-of voter ________________ Date _______"; and
+
+(ii)  other area where the mail service is unreliable and not sufficient to accommodate timely mail service.
+
+(6)  The electronically transmitted ballot shall be accompanied by the following statements: "I understand that by electronically transmitting my voted ballot I am voluntarily waiving my right to a secret ballot.  Signature of voter ________________ Date _______"; and
+
 "I affirm that I am currently deployed in a hostile fire zone" or
-"I affirm that I am currently deployed in an area where mail service is
-unreliable and not sufficient to accommodate timely mail service."
-(7)  Notwithstanding the provisions of Subsections (5) and (6), the completed
-ballot transmitted under this section is considered a private record under
-Title 63G, Chapter 2, Government Records Access and Management Act.
+
+"I affirm that I am currently deployed in an area where mail service is unreliable and not sufficient to accommodate timely mail service."
+
+(7)  Notwithstanding the provisions of Subsections (5) and (6), the completed ballot transmitted under this section is considered a private record under Title 63G, Chapter 2, Government Records Access and Management Act.
+
 (8)  A ballot transmitted under Subsection (5) shall be:
-(a)  transmitted no later than the date that is one day before the election
-day in accordance with Section 20A-3-406; and
-(b)  received by the county clerk before the date of the official canvass in
-accordance with Subsection 20A-3-306(2)(b).
-(9)  Upon the receipt of an electronically transmitted ballot under this
-section, a county clerk shall:
-(a)  verify the voter's signature from the federal postcard application form
-and ensure that it matches the voter's signature on the return ballot;
-(b)  duplicate the electronically transmitted ballot onto a regular ballot
-used by the county for resident voters; and
-(c)  maintain the electronically transmitted ballot for 22 months in
-accordance with Subsection 20A-4-202(2).
+
+(a)  transmitted no later than the date that is one day before the election day in accordance with Section 20A-3-406; and
+
+(b)  received by the county clerk before the date of the official canvass in accordance with Subsection 20A-3-306(2)(b).
+
+(9)  Upon the receipt of an electronically transmitted ballot under this section, a county clerk shall:
+
+(a)  verify the voter's signature from the federal postcard application form and ensure that it matches the voter's signature on the return ballot;
+
+(b)  duplicate the electronically transmitted ballot onto a regular ballot used by the county for resident voters; and
+
+(c)  maintain the electronically transmitted ballot for 22 months in accordance with Subsection 20A-4-202(2).
+

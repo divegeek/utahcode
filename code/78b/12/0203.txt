@@ -1,76 +1,46 @@
 78B-12-203.   Determination of gross income -- Imputed income.
-(1)  As used in the guidelines, "gross income" includes prospective income
-from any source, including earned and nonearned income sources which may
-include salaries, wages, commissions, royalties, bonuses, rents, gifts from
-anyone, prizes, dividends, severance pay, pensions, interest, trust income,
-alimony from previous marriages, annuities, capital gains, Social Security
-benefits, workers' compensation benefits, unemployment compensation, income
-replacement disability insurance benefits, and payments from "nonmeans-tested"
-government programs.
-(2)  Income from earned income sources is limited to the equivalent of one
-full-time 40-hour job. If and only if during the time prior to the original
-support order, the parent normally and consistently worked more than 40 hours
-at the parent's job, the court may consider this extra time as a pattern in
-calculating the parent's ability to provide child support.
-(3)  Notwithstanding Subsection (1), specifically excluded from gross income
-are:
-(a)  cash assistance provided under Title 35A, Chapter 3, Part 3, Family
-Employment Program;
-(b)  benefits received under a housing subsidy program, the Job Training
-Partnership Act,  Supplemental Security Income, Social Security Disability
-Insurance, Medicaid, Food Stamps, or General Assistance; and
+
+(1)  As used in the guidelines, "gross income" includes prospective income from any source, including earned and nonearned income sources which may include salaries, wages, commissions, royalties, bonuses, rents, gifts from anyone, prizes, dividends, severance pay, pensions, interest, trust income, alimony from previous marriages, annuities, capital gains, Social Security benefits, workers' compensation benefits, unemployment compensation, income replacement disability insurance benefits, and payments from "nonmeans-tested" government programs.
+
+(2)  Income from earned income sources is limited to the equivalent of one full-time 40-hour job. If and only if during the time prior to the original support order, the parent normally and consistently worked more than 40 hours at the parent's job, the court may consider this extra time as a pattern in calculating the parent's ability to provide child support.
+
+(3)  Notwithstanding Subsection (1), specifically excluded from gross income are:
+
+(a)  cash assistance provided under Title 35A, Chapter 3, Part 3, Family Employment Program;
+
+(b)  benefits received under a housing subsidy program, the Job Training Partnership Act,  Supplemental Security Income, Social Security Disability Insurance, Medicaid, Food Stamps, or General Assistance; and
+
 (c)  other similar means-tested welfare benefits received by a parent.
-(4) (a)  Gross income from self-employment or operation of a business shall be
-calculated by subtracting necessary expenses required for self-employment or
-business operation from gross receipts.  The income and expenses from self-
-employment or operation of a business shall be reviewed to determine an
-appropriate level of gross income available to the parent to satisfy a child
-support award.  Only those expenses necessary to allow the business to operate
-at a reasonable level may be deducted from gross receipts.
-(b)  Gross income determined under this subsection may differ from the amount
-of business income determined for tax purposes.
-(5) (a)  When possible, gross income should first be computed on an annual
-basis and then recalculated to determine the average gross monthly income.
-(b)  Each parent shall provide verification of current income.  Each parent
-shall provide year-to-date pay stubs or employer statements and complete
-copies of tax returns from at least the most recent year unless the court
-finds the verification is not reasonably available.  Verification of income
-from records maintained by the Department of Workforce Services may be
-substituted for pay stubs, employer statements, and income tax returns.
-(c)  Historical and current earnings shall be used to determine whether an
-underemployment or overemployment situation exists.
+
+(4) (a)  Gross income from self-employment or operation of a business shall be calculated by subtracting necessary expenses required for self-employment or business operation from gross receipts.  The income and expenses from self-employment or operation of a business shall be reviewed to determine an appropriate level of gross income available to the parent to satisfy a child support award.  Only those expenses necessary to allow the business to operate at a reasonable level may be deducted from gross receipts.
+
+(b)  Gross income determined under this subsection may differ from the amount of business income determined for tax purposes.
+
+(5) (a)  When possible, gross income should first be computed on an annual basis and then recalculated to determine the average gross monthly income.
+
+(b)  Each parent shall provide verification of current income.  Each parent shall provide year-to-date pay stubs or employer statements and complete copies of tax returns from at least the most recent year unless the court finds the verification is not reasonably available.  Verification of income from records maintained by the Department of Workforce Services may be substituted for pay stubs, employer statements, and income tax returns.
+
+(c)  Historical and current earnings shall be used to determine whether an underemployment or overemployment situation exists.
+
 (6)  Gross income includes income imputed to the parent under Subsection (7).
-(7) (a)  Income may not be imputed to a parent unless the parent stipulates to
-the amount imputed, the parent defaults, or, in contested cases, a hearing is
-held and the judge in a judicial proceeding or the presiding officer in an
-administrative proceeding enters findings of fact as to the evidentiary basis
-for the imputation.
-(b)  If income is imputed to a parent, the income shall be based upon
-employment potential and probable earnings as derived from employment
-opportunities, work history, occupation qualifications, and prevailing
-earnings for persons of similar backgrounds in the community, or the median
-earning for persons in the same occupation in the same geographical area as
-found in the statistics maintained by the Bureau of Labor Statistics.
-(c)  If a parent has no recent work history or a parent's occupation is
-unknown, income shall be imputed at least at the federal minimum wage for a
-40-hour work week.  To impute a greater income, the judge in a judicial
-proceeding or the presiding officer in an administrative proceeding shall
-enter specific findings of fact as to the evidentiary basis for the
-imputation.
-(d)  Income may not be imputed if any of the following conditions exist and
-the condition is not of a temporary nature:
-(i)  the reasonable costs of child care for the parents' minor children
-approach or equal the amount of income the custodial parent can earn;
+
+(7) (a)  Income may not be imputed to a parent unless the parent stipulates to the amount imputed, the parent defaults, or, in contested cases, a hearing is held and the judge in a judicial proceeding or the presiding officer in an administrative proceeding enters findings of fact as to the evidentiary basis for the imputation.
+
+(b)  If income is imputed to a parent, the income shall be based upon employment potential and probable earnings as derived from employment opportunities, work history, occupation qualifications, and prevailing earnings for persons of similar backgrounds in the community, or the median earning for persons in the same occupation in the same geographical area as found in the statistics maintained by the Bureau of Labor Statistics.
+
+(c)  If a parent has no recent work history or a parent's occupation is unknown, income shall be imputed at least at the federal minimum wage for a 40-hour work week.  To impute a greater income, the judge in a judicial proceeding or the presiding officer in an administrative proceeding shall enter specific findings of fact as to the evidentiary basis for the imputation.
+
+(d)  Income may not be imputed if any of the following conditions exist and the condition is not of a temporary nature:
+
+(i)  the reasonable costs of child care for the parents' minor children approach or equal the amount of income the custodial parent can earn;
+
 (ii)  a parent is physically or mentally unable to earn minimum wage;
-(iii)  a parent is engaged in career or occupational training to establish
-basic job skills; or
-(iv)  unusual emotional or physical needs of a child require the custodial
-parent's presence in the home.
-(8) (a)  Gross income may not include the earnings of a minor child who is the
-subject of a child support award nor benefits to a minor child in the child's
-own right such as Supplemental Security Income.
-(b)  Social Security benefits received by a child due to the earnings of a
-parent shall be credited as child support to the parent upon whose earning
-record it is based, by crediting the amount against the potential obligation
-of that parent.  Other unearned income of a child may be considered as income
-to a parent depending upon the circumstances of each case.
+
+(iii)  a parent is engaged in career or occupational training to establish basic job skills; or
+
+(iv)  unusual emotional or physical needs of a child require the custodial parent's presence in the home.
+
+(8) (a)  Gross income may not include the earnings of a minor child who is the subject of a child support award nor benefits to a minor child in the child's own right such as Supplemental Security Income.
+
+(b)  Social Security benefits received by a child due to the earnings of a parent shall be credited as child support to the parent upon whose earning record it is based, by crediting the amount against the potential obligation of that parent.  Other unearned income of a child may be considered as income to a parent depending upon the circumstances of each case.
+

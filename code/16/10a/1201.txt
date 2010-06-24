@@ -1,14 +1,12 @@
 16-10a-1201.   Sale or mortgage of property without shareholder approval.
-(1)  A corporation may, on the terms and conditions and for the consideration
-determined by the board of directors:
-(a)  sell, lease, exchange, or otherwise dispose of all, or substantially all,
-of its property in the usual and regular course of business or in a
-transaction not requiring shareholder approval as provided in Section
-16-10a-1202;
-(b)  mortgage, pledge, dedicate to the repayment of indebtedness, whether with
-or without recourse, or otherwise encumber any or all of its property whether
-or not in the usual and regular course of business; or
-(c)  transfer any or all of its property to a corporation all the shares of
-which are owned by the corporation.
-(2)  Unless otherwise provided in the articles of incorporation, approval by
-the shareholders of a transaction described in Subsection (1) is not required.
+
+(1)  A corporation may, on the terms and conditions and for the consideration determined by the board of directors:
+
+(a)  sell, lease, exchange, or otherwise dispose of all, or substantially all, of its property in the usual and regular course of business or in a transaction not requiring shareholder approval as provided in Section 16-10a-1202;
+
+(b)  mortgage, pledge, dedicate to the repayment of indebtedness, whether with or without recourse, or otherwise encumber any or all of its property whether or not in the usual and regular course of business; or
+
+(c)  transfer any or all of its property to a corporation all the shares of which are owned by the corporation.
+
+(2)  Unless otherwise provided in the articles of incorporation, approval by the shareholders of a transaction described in Subsection (1) is not required.
+

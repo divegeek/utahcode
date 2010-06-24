@@ -1,71 +1,48 @@
 77-38a-302.   Restitution criteria.
-(1)  When a defendant is convicted of criminal activity that has resulted in
-pecuniary damages, in addition to any other sentence it may impose, the court
-shall order that the defendant make restitution to victims of crime as
-provided in this chapter, or for conduct for which the defendant has agreed to
-make restitution as part of a plea disposition.  For purposes of restitution,
-a victim has the meaning as defined in Subsection 77-38a-102(14) and in
-determining whether restitution is appropriate, the court shall follow the
-criteria and procedures as provided in Subsections (2) through (5).
-(2)  In determining restitution, the court shall determine complete
-restitution and court-ordered restitution.
-(a)  "Complete restitution" means restitution necessary to compensate a victim
-for all losses caused by the defendant.
-(b)  "Court-ordered restitution" means the restitution the court having
-criminal jurisdiction orders the defendant to pay as a part of the criminal
-sentence at the time of sentencing or within one year after sentencing.
-(c)  Complete restitution and court-ordered restitution shall be determined as
-provided in Subsection (5).
-(3)  If the court determines that restitution is appropriate or inappropriate
-under this part, the court shall make the reasons for the decision part of the
-court record.
-(4)  If the defendant objects to the imposition, amount, or distribution of
-the restitution, the court shall allow the defendant a full hearing on the
-issue.
-(5) (a)  For the purpose of determining restitution for an offense, the
-offense shall include any criminal conduct admitted by the defendant to the
-sentencing court or to which the defendant agrees to pay restitution.  A
-victim of an offense that involves as an element a scheme, a conspiracy, or a
-pattern of criminal activity, includes any person directly harmed by the
-defendant's criminal conduct in the course of the scheme, conspiracy, or
-pattern.
-(b)  In determining the monetary sum and other conditions for complete
-restitution, the court shall consider all relevant facts, including:
-(i)  the cost of the damage or loss if the offense resulted in damage to or
-loss or destruction of property of a victim of the offense;
-(ii)  the cost of necessary medical and related professional services and
-devices relating to physical or mental health care, including nonmedical care
-and treatment rendered in accordance with a method of healing recognized by
-the law of the place of treatment;
-(iii)  the cost of necessary physical and occupational therapy and
-rehabilitation;
-(iv)  the income lost by the victim as a result of the offense if the offense
-resulted in bodily injury to a victim;
-(v)  up to five days of the individual victim's determinable wages that are
-lost due to theft of or damage to tools or equipment items of a trade that
-were owned by the victim and were essential to the victim's current employment
-at the time of the offense; and
-(vi)  the cost of necessary funeral and related services if the offense
-resulted in the death of a victim.
-(c)  In determining the monetary sum and other conditions for court-ordered
-restitution, the court shall consider the factors listed in Subsections (5)(a)
-and (b) and:
-(i)  the financial resources of the defendant and the burden that payment of
-restitution will impose, with regard to the other obligations of the
-defendant;
-(ii)  the ability of the defendant to pay restitution on an installment basis
-or on other conditions to be fixed by the court;
-(iii)  the rehabilitative effect on the defendant of the payment of
-restitution and the method of payment; and
-(iv)  other circumstances which the court determines may make restitution
-inappropriate.
-(d) (i)  Except as provided in Subsection (5)(d)(ii), the court shall
-determine complete restitution and court-ordered restitution, and shall make
-all restitution orders at the time of sentencing if feasible, otherwise within
-one year after sentencing.
-(ii)  Any pecuniary damages that have not been determined by the court within
-one year after sentencing may be determined by the Board of Pardons and
-Parole.
-(e)  The Board of Pardons and Parole may, within one year after sentencing,
-refer an order of judgment and commitment back to the court for determination
-of restitution.
+
+(1)  When a defendant is convicted of criminal activity that has resulted in pecuniary damages, in addition to any other sentence it may impose, the court shall order that the defendant make restitution to victims of crime as provided in this chapter, or for conduct for which the defendant has agreed to make restitution as part of a plea disposition.  For purposes of restitution, a victim has the meaning as defined in Subsection 77-38a-102(14) and in determining whether restitution is appropriate, the court shall follow the criteria and procedures as provided in Subsections (2) through (5).
+
+(2)  In determining restitution, the court shall determine complete restitution and court-ordered restitution.
+
+(a)  "Complete restitution" means restitution necessary to compensate a victim for all losses caused by the defendant.
+
+(b)  "Court-ordered restitution" means the restitution the court having criminal jurisdiction orders the defendant to pay as a part of the criminal sentence at the time of sentencing or within one year after sentencing.
+
+(c)  Complete restitution and court-ordered restitution shall be determined as provided in Subsection (5).
+
+(3)  If the court determines that restitution is appropriate or inappropriate under this part, the court shall make the reasons for the decision part of the court record.
+
+(4)  If the defendant objects to the imposition, amount, or distribution of the restitution, the court shall allow the defendant a full hearing on the issue.
+
+(5) (a)  For the purpose of determining restitution for an offense, the offense shall include any criminal conduct admitted by the defendant to the sentencing court or to which the defendant agrees to pay restitution.  A victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity, includes any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern.
+
+(b)  In determining the monetary sum and other conditions for complete restitution, the court shall consider all relevant facts, including:
+
+(i)  the cost of the damage or loss if the offense resulted in damage to or loss or destruction of property of a victim of the offense;
+
+(ii)  the cost of necessary medical and related professional services and devices relating to physical or mental health care, including nonmedical care and treatment rendered in accordance with a method of healing recognized by the law of the place of treatment;
+
+(iii)  the cost of necessary physical and occupational therapy and rehabilitation;
+
+(iv)  the income lost by the victim as a result of the offense if the offense resulted in bodily injury to a victim;
+
+(v)  up to five days of the individual victim's determinable wages that are lost due to theft of or damage to tools or equipment items of a trade that were owned by the victim and were essential to the victim's current employment at the time of the offense; and
+
+(vi)  the cost of necessary funeral and related services if the offense resulted in the death of a victim.
+
+(c)  In determining the monetary sum and other conditions for court-ordered restitution, the court shall consider the factors listed in Subsections (5)(a) and (b) and:
+
+(i)  the financial resources of the defendant and the burden that payment of restitution will impose, with regard to the other obligations of the defendant;
+
+(ii)  the ability of the defendant to pay restitution on an installment basis or on other conditions to be fixed by the court;
+
+(iii)  the rehabilitative effect on the defendant of the payment of restitution and the method of payment; and
+
+(iv)  other circumstances which the court determines may make restitution inappropriate.
+
+(d) (i)  Except as provided in Subsection (5)(d)(ii), the court shall determine complete restitution and court-ordered restitution, and shall make all restitution orders at the time of sentencing if feasible, otherwise within one year after sentencing.
+
+(ii)  Any pecuniary damages that have not been determined by the court within one year after sentencing may be determined by the Board of Pardons and Parole.
+
+(e)  The Board of Pardons and Parole may, within one year after sentencing, refer an order of judgment and commitment back to the court for determination of restitution.
+

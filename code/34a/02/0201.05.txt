@@ -1,167 +1,180 @@
 34A-2-201.5.   Self-insured employer -- Acceptable security -- Procedures.
+
 (1)  As used in this section:
+
 (a)  "Acceptable security" means one or more of the following:
+
 (i)  cash;
+
 (ii)  a surety bond issued:
+
 (A)  by a person acceptable to the division; and
+
 (B)  in a form approved by the division;
+
 (iii)  an irrevocable letter of credit issued:
+
 (A)  by a depository institution acceptable to the division; and
+
 (B)  in a form approved by the division;
+
 (iv)  a United States Treasury Bill;
+
 (v)  a deposit in a depository institution that:
+
 (A)  has an office located in Utah; and
+
 (B)  is insured by the Federal Deposit Insurance Corporation; or
+
 (vi)  a certificate of deposit in a depository institution that:
+
 (A)  has an office located in Utah; and
+
 (B)  is insured by the Federal Deposit Insurance Corporation.
+
 (b)  "Compensation" is as defined in Section 34A-2-102.
+
 (c)  "Depository institution" is as defined in Section 7-1-103.
-(d)  "Member of a public agency insurance mutual" means a political
-subdivision or public agency that is included within a public agency insurance
-mutual.
+
+(d)  "Member of a public agency insurance mutual" means a political subdivision or public agency that is included within a public agency insurance mutual.
+
 (e)  "Public agency insurance mutual" is as defined in Section 31A-1-103.
-(f)  "Self-insured employer" means one of the following that is authorized by
-the division to pay direct workers' compensation benefits under Subsection
-(2):
+
+(f)  "Self-insured employer" means one of the following that is authorized by the division to pay direct workers' compensation benefits under Subsection (2):
+
 (i)  an employer; or
+
 (ii)  a public agency insurance mutual.
-(2) (a) If approved by the division as a self-insured employer in accordance
-with this section:
-(i)  an employer may directly pay compensation in the amount, in the manner,
-and when due as provided for in this chapter and Chapter 3, Utah Occupational
-Disease Act; and
+
+(2) (a) If approved by the division as a self-insured employer in accordance with this section:
+
+(i)  an employer may directly pay compensation in the amount, in the manner, and when due as provided for in this chapter and Chapter 3, Utah Occupational Disease Act; and
+
 (ii)  a public agency insurance mutual may directly pay compensation:
+
 (A)  on behalf of the members of the public agency insurance mutual; and
-(B)  in the amount, in the manner, and when due as provided in this chapter
-and Chapter 3, Utah Occupational Disease Act.
-(b)  If an employer's or a public agency insurance mutual's application to
-directly pay compensation as a self-insured employer is approved by the
-division, the application is considered acceptance:
-(i)  of the conditions, liabilities, and responsibilities imposed by this
-chapter and Chapter 3, Utah Occupational Disease Act, including the liability
-imposed pursuant to Subsection 34A-2-704(14);
+
+(B)  in the amount, in the manner, and when due as provided in this chapter and Chapter 3, Utah Occupational Disease Act.
+
+(b)  If an employer's or a public agency insurance mutual's application to directly pay compensation as a self-insured employer is approved by the division, the application is considered acceptance:
+
+(i)  of the conditions, liabilities, and responsibilities imposed by this chapter and Chapter 3, Utah Occupational Disease Act, including the liability imposed pursuant to Subsection 34A-2-704(14);
+
 (ii)  by:
+
 (A)  the employer; or
+
 (B) (I)  the public agency insurance mutual; and
+
 (II)  the members of the public agency insurance mutual.
-(c)  The division's denial under this Subsection (2) of an application to
-directly pay compensation as a self-insured employer becomes a final order of
-the commission 30 calendar days from the date of the denial unless within that
-30 days the employer or the public agency insurance mutual that filed the
-application files an application for a hearing in accordance with Part 8,
-Adjudication.
-(3)  To qualify as a self-insured employer, an employer or a public agency
-insurance mutual shall:
-(a)  submit a written application requesting to directly pay compensation as a
-self-insured employer;
-(b)  annually provide the division proof of the employer's or the public
-agency insurance mutual's ability to directly pay compensation in the amount,
-manner, and time provided by this chapter and Chapter 3, Utah Occupational
-Disease Act; and
-(c)  if requested by the division, deposit acceptable security in the amounts
-determined by the division to be sufficient to secure the employer's or the
-public agency insurance mutual's liabilities under this chapter and Chapter 3,
-Utah Occupational Disease Act.
-(4) (a)  Acceptable security deposited by a self-insured employer in
-accordance with Subsection (3)(c) shall be:
-(i)  deposited on behalf of the division by the self-insured employer with the
-state treasurer; and
+
+(c)  The division's denial under this Subsection (2) of an application to directly pay compensation as a self-insured employer becomes a final order of the commission 30 calendar days from the date of the denial unless within that 30 days the employer or the public agency insurance mutual that filed the application files an application for a hearing in accordance with Part 8, Adjudication.
+
+(3)  To qualify as a self-insured employer, an employer or a public agency insurance mutual shall:
+
+(a)  submit a written application requesting to directly pay compensation as a self-insured employer;
+
+(b)  annually provide the division proof of the employer's or the public agency insurance mutual's ability to directly pay compensation in the amount, manner, and time provided by this chapter and Chapter 3, Utah Occupational Disease Act; and
+
+(c)  if requested by the division, deposit acceptable security in the amounts determined by the division to be sufficient to secure the employer's or the public agency insurance mutual's liabilities under this chapter and Chapter 3, Utah Occupational Disease Act.
+
+(4) (a)  Acceptable security deposited by a self-insured employer in accordance with Subsection (3)(c) shall be:
+
+(i)  deposited on behalf of the division by the self-insured employer with the state treasurer; and
+
 (ii)  withdrawn only upon written order of the division.
-(b)  The self-insured employer has no right, title, interest in, or control
-over acceptable security that is deposited in accordance with this section.
-(c)  If the division determines that the amount of acceptable security
-deposited in accordance with this section is in excess of that needed to
-secure payment of the self-insured employer's liability under this chapter and
-Chapter 3, Utah Occupational Disease Act, the division shall return the amount
-that is determined to be excess to the self-insured employer.
+
+(b)  The self-insured employer has no right, title, interest in, or control over acceptable security that is deposited in accordance with this section.
+
+(c)  If the division determines that the amount of acceptable security deposited in accordance with this section is in excess of that needed to secure payment of the self-insured employer's liability under this chapter and Chapter 3, Utah Occupational Disease Act, the division shall return the amount that is determined to be excess to the self-insured employer.
+
 (5) (a)  The division may at any time require a self-insured employer to:
-(i)  increase or decrease the amount of acceptable security required to be
-deposited under Subsection (3)(c); or
-(ii)  modify the type of acceptable security to be deposited under Subsection
-(3)(c).
-(b) (i)  If the division requires a self-insured employer to take an action
-described in Subsection (5)(a), a perfected security interest is created in
-favor of the division in the assets of the self-insured employer to the extent
-necessary to pay any amount owed by the self-insured employer under this
-chapter and Chapter 3, Utah Occupational Disease Act, that cannot be paid by
-acceptable security deposited in accordance with this section.
-(ii)  The perfected security interest created in Subsection (5)(b)(i) ends
-when the self-insured employer complies with the division's request under
-Subsection (5)(a) to the satisfaction of the division.
-(6) (a)  If an employer or a public agency insurance mutual is approved under
-Subsection (2) to directly pay compensation as a self-insured employer, the
-division may revoke the employer's or the public agency insurance mutual's
-approval.
-(b)  The division's revocation of the employer's or the public agency
-insurance mutual's approval under Subsection (6)(a) becomes a final order of
-the commission 30 calendar days from the date of the revocation unless within
-that 30 days the employer or the public agency insurance mutual files an
-application for a hearing in accordance with Part 8, Adjudication.
-(7)  If the division finds that a self-insured employer has failed to pay
-compensation that the self-insured employer was liable to pay under this
-chapter or Chapter 3, Utah Occupational Disease Act, the division may use the
-acceptable security deposited and any interest earned on the acceptable
-security to pay:
-(a)  the self-insured employer's liability under this chapter and Chapter 3,
-Utah Occupational Disease Act; and
-(b)  any costs, including legal fees, associated with the administration of
-the compensation incurred by:
+
+(i)  increase or decrease the amount of acceptable security required to be deposited under Subsection (3)(c); or
+
+(ii)  modify the type of acceptable security to be deposited under Subsection (3)(c).
+
+(b) (i)  If the division requires a self-insured employer to take an action described in Subsection (5)(a), a perfected security interest is created in favor of the division in the assets of the self-insured employer to the extent necessary to pay any amount owed by the self-insured employer under this chapter and Chapter 3, Utah Occupational Disease Act, that cannot be paid by acceptable security deposited in accordance with this section.
+
+(ii)  The perfected security interest created in Subsection (5)(b)(i) ends when the self-insured employer complies with the division's request under Subsection (5)(a) to the satisfaction of the division.
+
+(6) (a)  If an employer or a public agency insurance mutual is approved under Subsection (2) to directly pay compensation as a self-insured employer, the division may revoke the employer's or the public agency insurance mutual's approval.
+
+(b)  The division's revocation of the employer's or the public agency insurance mutual's approval under Subsection (6)(a) becomes a final order of the commission 30 calendar days from the date of the revocation unless within that 30 days the employer or the public agency insurance mutual files an application for a hearing in accordance with Part 8, Adjudication.
+
+(7)  If the division finds that a self-insured employer has failed to pay compensation that the self-insured employer was liable to pay under this chapter or Chapter 3, Utah Occupational Disease Act, the division may use the acceptable security deposited and any interest earned on the acceptable security to pay:
+
+(a)  the self-insured employer's liability under this chapter and Chapter 3, Utah Occupational Disease Act; and
+
+(b)  any costs, including legal fees, associated with the administration of the compensation incurred by:
+
 (i)  the division;
+
 (ii)  a surety;
+
 (iii)  an adjusting agency; or
+
 (iv)  the Uninsured Employers' Fund.
-(8) (a)  If the division determines that the acceptable security deposited
-under Subsection (3)(c) should be available for payment of the self-insured
-employer's liabilities under Subsection (7), the division shall:
-(i)  determine the method of claims administration, which may include
-administration by:
+
+(8) (a)  If the division determines that the acceptable security deposited under Subsection (3)(c) should be available for payment of the self-insured employer's liabilities under Subsection (7), the division shall:
+
+(i)  determine the method of claims administration, which may include administration by:
+
 (A)  a surety;
+
 (B)  an adjusting agency;
+
 (C)  the Uninsured Employers' Fund; or
+
 (D)  any combination of Subsections (8)(a)(i)(A) through (C); and
-(ii)  audit the self-insured employer's liabilities under this chapter and
-Chapter 3, Utah Occupational Disease Act.
-(b)  The following shall cooperate in the division's audit under Subsection
-(8)(a)(ii) and provide any relevant information in its possession:
+
+(ii)  audit the self-insured employer's liabilities under this chapter and Chapter 3, Utah Occupational Disease Act.
+
+(b)  The following shall cooperate in the division's audit under Subsection (8)(a)(ii) and provide any relevant information in its possession:
+
 (i)  the self-insured employer;
-(ii)  if the self-insured employer is a public agency insurance mutual, a
-member of the public agency insurance mutual;
+
+(ii)  if the self-insured employer is a public agency insurance mutual, a member of the public agency insurance mutual;
+
 (iii)  any excess insurer;
+
 (iv)  any adjusting agency;
+
 (v)  a surety;
-(vi)  an employee of a self-insured employer if the employee makes a claim for
-compensation under this chapter or Chapter 3, Utah Occupational Disease Act;
-and
-(vii)  an employee of a member of a public agency insurance mutual that is
-approved as a self-insured employer under this section, if the employee makes
-a claim for compensation under this chapter or Chapter 3, Utah Occupational
-Disease Act.
-(9) (a)  Payment by a surety is a full release of the surety's liability under
-the bond to the extent of that payment, and entitles the surety to full
-reimbursement by the principal or the principal's estate including
-reimbursement of:
+
+(vi)  an employee of a self-insured employer if the employee makes a claim for compensation under this chapter or Chapter 3, Utah Occupational Disease Act; and
+
+(vii)  an employee of a member of a public agency insurance mutual that is approved as a self-insured employer under this section, if the employee makes a claim for compensation under this chapter or Chapter 3, Utah Occupational Disease Act.
+
+(9) (a)  Payment by a surety is a full release of the surety's liability under the bond to the extent of that payment, and entitles the surety to full reimbursement by the principal or the principal's estate including reimbursement of:
+
 (i)  necessary attorney's fees; and
+
 (ii)  other costs and expenses.
-(b)  A payment, settlement, or administration of benefits made in good faith
-pursuant to this section by a surety, an adjusting agency, the Uninsured
-Employers' Fund, or this division is valid and binding as between:
+
+(b)  A payment, settlement, or administration of benefits made in good faith pursuant to this section by a surety, an adjusting agency, the Uninsured Employers' Fund, or this division is valid and binding as between:
+
 (i) (A)  the surety;
+
 (B)  adjusting agency;
+
 (C)  the Uninsured Employers' Fund; or
+
 (D)  the division;
+
 (ii)  the self-insured employer; and
-(iii)  if the self-insured employer is a public agency insurance mutual, the
-members of the public agency insurance mutual.
+
+(iii)  if the self-insured employer is a public agency insurance mutual, the members of the public agency insurance mutual.
+
 (10) (a)  The division shall resolve any dispute concerning:
-(i)  the depositing, renewal, termination, exoneration, or return of all or
-any portion of acceptable security deposited under this section;
-(ii)  any liability arising out of the depositing or failure to deposit
-acceptable security;
+
+(i)  the depositing, renewal, termination, exoneration, or return of all or any portion of acceptable security deposited under this section;
+
+(ii)  any liability arising out of the depositing or failure to deposit acceptable security;
+
 (iii)  the adequacy of the acceptable security; or
-(iv)  the reasonableness of administrative costs under Subsection (7)(b),
-including legal fees.
-(b)  The division's decision under Subsection (10)(a) becomes a final order of
-the commission 30 calendar days from the date of the decision, unless within
-that 30 days the employer or public agency insurance mutual files an
-application for hearing in accordance with Part 8, Adjudication.
+
+(iv)  the reasonableness of administrative costs under Subsection (7)(b), including legal fees.
+
+(b)  The division's decision under Subsection (10)(a) becomes a final order of the commission 30 calendar days from the date of the decision, unless within that 30 days the employer or public agency insurance mutual files an application for hearing in accordance with Part 8, Adjudication.
+

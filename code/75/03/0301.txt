@@ -1,73 +1,40 @@
-75-3-301.   Informal probate or appointment proceedings -- Application --
-Contents.
-(1) Applications for informal probate or informal appointment shall be
-directed to the registrar, and verified by the applicant to be accurate and
-complete to the best of his knowledge and belief as to the appropriate
-information required under this section.
-(2)  Every application for informal probate of a will or for informal
-appointment of a personal representative, other than a special or successor
-representative, shall contain the following:
+75-3-301.   Informal probate or appointment proceedings -- Application -- Contents.
+
+(1) Applications for informal probate or informal appointment shall be directed to the registrar, and verified by the applicant to be accurate and complete to the best of his knowledge and belief as to the appropriate information required under this section.
+
+(2)  Every application for informal probate of a will or for informal appointment of a personal representative, other than a special or successor representative, shall contain the following:
+
 (a)  A statement of the interest of the applicant;
-(b)  The name and date of death of the decedent, his age, the county and state
-of his domicile at the time of death, and the names and addresses of the
-spouse, children, heirs, and devisees and the ages of any who are minors so
-far as known or ascertainable with reasonable diligence by the applicant;
-(c)  If the decedent was not domiciled in the state at the time of his death,
-a statement showing venue;
-(d)  A statement identifying and indicating the address of any personal
-representative of the decedent appointed in this state or elsewhere whose
-appointment has not been terminated;
-(e)  A statement indicating whether the applicant has received a demand for
-notice or is aware of any demand for notice of any probate or appointment
-proceeding concerning the decedent that may have been filed in this state or
-elsewhere;
-(f)  That the time limit for informal probate or appointment as provided in
-this chapter has not expired either because three years or less have passed
-since the decedent's death, or if more than three years from death have
-passed, that circumstances as described by Section 75-3-107 authorizing tardy
-probate or appointment have occurred.
-(3)  An application for informal probate of a will shall state the following
-in addition to the statements required by Subsection (2):
-(a)  That the original of the decedent's last will is in the possession of the
-court, or accompanies the application, or that an authenticated copy of a will
-probated in another jurisdiction accompanies the application;
-(b)  That the applicant, to the best of his knowledge, believes the will to
-have been validly executed;
-(c)  That after the exercise of reasonable diligence, the applicant is unaware
-of any instrument revoking the will, and that the applicant believes that the
-instrument which is the subject of the application is the decedent's last
-will.
-(4)  An application for informal appointment of a personal representative to
-administer an estate under a will shall describe the will by date of execution
-and state the time and place of probate or the pending application or petition
-for probate. The application for appointment shall adopt the statements in the
-application or petition for probate, state the name, address and priority for
-appointment of the person whose appointment is sought, state whether or not
-bond is required, and, if required, unless specified by the will, state the
-estimated value of the personal and real estate of the decedent and of the
-income expected from the personal and real estate during the next year.
-(5)  An application for informal appointment of an administrator in intestacy
-shall state in addition to the statements required by Subsection (2):
-(a)  That after the exercise of reasonable diligence, the applicant is unaware
-of any unrevoked testamentary instrument relating to property having a situs
-in this state under Section 75-1-301, or, a statement why any such instrument
-of which he may be aware is not being probated;
-(b)  The priority of the person whose appointment is sought and the names of
-any other persons having a prior or equal right to the appointment under
-Section 75-3-203;
-(c)  If bond is required, the estimated value of the personal and real estate
-of the decedent and of the income expected from the personal and real estate
-during the next year.
-(6)  An application for appointment of a personal representative to succeed a
-personal representative appointed under a different testacy status shall refer
-to the order in the most recent testacy proceeding, state the name and address
-of the person whose appointment is sought and of the person whose appointment
-will be terminated if the application is granted, and describe the priority of
-the applicant.
-(7)  An application for appointment of a personal representative to succeed a
-personal representative who has tendered a resignation as provided in
-Subsection 75-3-610(3), or whose appointment has been terminated by death or
-removal, shall adopt the statements in the application or petition which led
-to the appointment of the person being succeeded, except as specifically
-changed or corrected, state the name and address of the person who seeks
-appointment as successor, and describe the priority of the applicant.
+
+(b)  The name and date of death of the decedent, his age, the county and state of his domicile at the time of death, and the names and addresses of the spouse, children, heirs, and devisees and the ages of any who are minors so far as known or ascertainable with reasonable diligence by the applicant;
+
+(c)  If the decedent was not domiciled in the state at the time of his death, a statement showing venue;
+
+(d)  A statement identifying and indicating the address of any personal representative of the decedent appointed in this state or elsewhere whose appointment has not been terminated;
+
+(e)  A statement indicating whether the applicant has received a demand for notice or is aware of any demand for notice of any probate or appointment proceeding concerning the decedent that may have been filed in this state or elsewhere;
+
+(f)  That the time limit for informal probate or appointment as provided in this chapter has not expired either because three years or less have passed since the decedent's death, or if more than three years from death have passed, that circumstances as described by Section 75-3-107 authorizing tardy probate or appointment have occurred.
+
+(3)  An application for informal probate of a will shall state the following in addition to the statements required by Subsection (2):
+
+(a)  That the original of the decedent's last will is in the possession of the court, or accompanies the application, or that an authenticated copy of a will probated in another jurisdiction accompanies the application;
+
+(b)  That the applicant, to the best of his knowledge, believes the will to have been validly executed;
+
+(c)  That after the exercise of reasonable diligence, the applicant is unaware of any instrument revoking the will, and that the applicant believes that the instrument which is the subject of the application is the decedent's last will.
+
+(4)  An application for informal appointment of a personal representative to administer an estate under a will shall describe the will by date of execution and state the time and place of probate or the pending application or petition for probate. The application for appointment shall adopt the statements in the application or petition for probate, state the name, address and priority for appointment of the person whose appointment is sought, state whether or not bond is required, and, if required, unless specified by the will, state the estimated value of the personal and real estate of the decedent and of the income expected from the personal and real estate during the next year.
+
+(5)  An application for informal appointment of an administrator in intestacy shall state in addition to the statements required by Subsection (2):
+
+(a)  That after the exercise of reasonable diligence, the applicant is unaware of any unrevoked testamentary instrument relating to property having a situs in this state under Section 75-1-301, or, a statement why any such instrument of which he may be aware is not being probated;
+
+(b)  The priority of the person whose appointment is sought and the names of any other persons having a prior or equal right to the appointment under Section 75-3-203;
+
+(c)  If bond is required, the estimated value of the personal and real estate of the decedent and of the income expected from the personal and real estate during the next year.
+
+(6)  An application for appointment of a personal representative to succeed a personal representative appointed under a different testacy status shall refer to the order in the most recent testacy proceeding, state the name and address of the person whose appointment is sought and of the person whose appointment will be terminated if the application is granted, and describe the priority of the applicant.
+
+(7)  An application for appointment of a personal representative to succeed a personal representative who has tendered a resignation as provided in Subsection 75-3-610(3), or whose appointment has been terminated by death or removal, shall adopt the statements in the application or petition which led to the appointment of the person being succeeded, except as specifically changed or corrected, state the name and address of the person who seeks appointment as successor, and describe the priority of the applicant.
+

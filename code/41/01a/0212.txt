@@ -1,2 +1,4 @@
 41-1a-212.   Division to issue registration card.
+
 The division upon registering a vehicle shall issue a registration card.
+

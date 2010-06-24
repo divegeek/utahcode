@@ -1,7 +1,4 @@
-75-5b-502.   Relation to electronic signatures in global and national
-commerce act.
-This chapter modifies, limits, and supersedes the federal Electronic
-Signatures in Global and National Commerce Act, 15 U.S.C. Sec. 7001, et seq.,
-but does not modify, limit, or supersede Section 101(c) of that act, 15 U.S.C.
-Sec. 7001(c), or authorize electronic delivery of any of the notices described
-in Section 103(b), 15 U.S.C. Sec. 7003(b).
+75-5b-502.   Relation to electronic signatures in global and national commerce act.
+
+This chapter modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. Sec. 7001, et seq., but does not modify, limit, or supersede Section 101(c) of that act, 15 U.S.C. Sec. 7001(c), or authorize electronic delivery of any of the notices described in Section 103(b), 15 U.S.C. Sec. 7003(b).
+

@@ -1,54 +1,50 @@
 34A-8a-203.   Reporting.
-(1)  As used in this section, "reporting entity" means one of the following
-that provides benefits under Chapter 2, Workers' Compensation Act, or Chapter
-3, Utah Occupational Disease Act:
+
+(1)  As used in this section, "reporting entity" means one of the following that provides benefits under Chapter 2, Workers' Compensation Act, or Chapter 3, Utah Occupational Disease Act:
+
 (a)  a self-insured employer as defined in Section 34A-2-201.5; or
+
 (b)  a workers' compensation insurance carrier.
-(2)  Subject to the requirements of this section, a reporting entity shall
-quarterly report to the commission the following information for the previous
-quarter beginning with reporting for the quarter that begins July 1, 2009:
-(a)  the total number of injured workers for whom a reporting entity is
-required during the quarter to file an initial report under Section 34A-
-8a-301;
-(b)  the number of injured workers reported in Subsection (2)(a) for whom the
-reporting entity made a referral in accordance with Section 34A-8a-302;
-(c)  the number of injured workers reported in Subsection (2)(a) for whom the
-reporting entity did not make a referral in accordance with Section 34A-8a-302
-because:
+
+(2)  Subject to the requirements of this section, a reporting entity shall quarterly report to the commission the following information for the previous quarter beginning with reporting for the quarter that begins July 1, 2009:
+
+(a)  the total number of injured workers for whom a reporting entity is required during the quarter to file an initial report under Section 34A-8a-301;
+
+(b)  the number of injured workers reported in Subsection (2)(a) for whom the reporting entity made a referral in accordance with Section 34A-8a-302;
+
+(c)  the number of injured workers reported in Subsection (2)(a) for whom the reporting entity did not make a referral in accordance with Section 34A-8a-302 because:
+
 (i)  the injured worker was not medically stable during the quarter;
-(ii)  the injured worker's physical capacity had not been determined during
-the quarter; or
-(iii)  liability for the injured worker's claim was under review during the
-quarter;
-(d)  the number of injured workers reported in Subsection (2)(a) for whom a
-referral or reemployment plan described in Section 34A-8a-302 was not
-necessary because:
-(i)  the injured worker returned to work in the same job, a new job, or a
-modified job:
+
+(ii)  the injured worker's physical capacity had not been determined during the quarter; or
+
+(iii)  liability for the injured worker's claim was under review during the quarter;
+
+(d)  the number of injured workers reported in Subsection (2)(a) for whom a referral or reemployment plan described in Section 34A-8a-302 was not necessary because:
+
+(i)  the injured worker returned to work in the same job, a new job, or a modified job:
+
 (A)  with the same employer; or
+
 (B)  a new employer;
+
 (ii)  the injured worker became self-employed;
-(iii)  the injured worker returned to work as a result of vocational
-rehabilitation support services, as defined by rule by the commission made in
-accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; or
+
+(iii)  the injured worker returned to work as a result of vocational rehabilitation support services, as defined by rule by the commission made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; or
+
 (iv)  the injured worker's disability was too severe to return to work; and
-(e)  other information that the commission requires by rule, made in
-accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
-regarding the voluntary efforts of employers under this chapter for the number
-of injured workers reported in Subsection (2)(a).
-(3)  In addition to the rulemaking authority under Subsection (2), the
-commission shall make rules in accordance with Title 63G, Chapter 3, Utah
-Administrative Rulemaking Act, regarding:
+
+(e)  other information that the commission requires by rule, made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, regarding the voluntary efforts of employers under this chapter for the number of injured workers reported in Subsection (2)(a).
+
+(3)  In addition to the rulemaking authority under Subsection (2), the commission shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, regarding:
+
 (a)  the form of a report required under this section; and
+
 (b)  the procedure for filing a report required under this section.
-(4) (a)  If a reporting entity fails to make a report as required by this
-section, the commission shall, pursuant to Title 63G, Chapter 4,
-Administrative Procedures Act, impose a civil assessment of up to $500 for
-each quarter that a reporting entity fails to make a report.
-(b) (i)  The commission shall deposit a civil assessment imposed under this
-Subsection (4) into the Uninsured Employers' Fund created by Section 34A-2-704
-to be used for the purposes of the Uninsured Employers' Fund specified in
-Section 34A-2-704.
-(ii)  The administrator of the Uninsured Employers' Fund shall collect money
-required to be deposited into the Uninsured Employers' Fund under this
-Subsection (4) in accordance with Section 34A-2-704.
+
+(4) (a)  If a reporting entity fails to make a report as required by this section, the commission shall, pursuant to Title 63G, Chapter 4, Administrative Procedures Act, impose a civil assessment of up to $500 for each quarter that a reporting entity fails to make a report.
+
+(b) (i)  The commission shall deposit a civil assessment imposed under this Subsection (4) into the Uninsured Employers' Fund created by Section 34A-2-704 to be used for the purposes of the Uninsured Employers' Fund specified in Section 34A-2-704.
+
+(ii)  The administrator of the Uninsured Employers' Fund shall collect money required to be deposited into the Uninsured Employers' Fund under this Subsection (4) in accordance with Section 34A-2-704.
+

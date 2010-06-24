@@ -1,10 +1,8 @@
 70A-9a-624.   Waiver.
-(1)  A debtor or secondary obligor may waive the right to notification of
-disposition of collateral under Section 70A-9a-611 only by an agreement to
-that effect entered into and authenticated after default.
-(2)  A debtor may waive the right to require disposition of collateral under
-Subsection 70A-9a-620(5) only by an agreement to that effect entered into and
-authenticated after default.
-(3)  Except in a consumer-goods transaction, a debtor or secondary obligor may
-waive the right to redeem collateral under Section 70A-9a-623 only by an
-agreement to that effect entered into and authenticated after default.
+
+(1)  A debtor or secondary obligor may waive the right to notification of disposition of collateral under Section 70A-9a-611 only by an agreement to that effect entered into and authenticated after default.
+
+(2)  A debtor may waive the right to require disposition of collateral under Subsection 70A-9a-620(5) only by an agreement to that effect entered into and authenticated after default.
+
+(3)  Except in a consumer-goods transaction, a debtor or secondary obligor may waive the right to redeem collateral under Section 70A-9a-623 only by an agreement to that effect entered into and authenticated after default.
+

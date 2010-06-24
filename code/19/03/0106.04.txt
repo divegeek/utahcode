@@ -1,20 +1,20 @@
 19-3-106.4.   Generator site access permits.
-(1)  A generator or broker may not transfer radioactive waste to a commercial
-radioactive waste treatment or disposal facility in the state without first
-obtaining a generator site access permit from the executive secretary.
-(2)  The board may make rules pursuant to Section 19-3-104 governing a
-generator site access permit program.
-(3) (a)  Except as provided in Subsection (3)(b), the department shall
-establish fees for generator site access permits in accordance with Section
-63J-1-504.
+
+(1)  A generator or broker may not transfer radioactive waste to a commercial radioactive waste treatment or disposal facility in the state without first obtaining a generator site access permit from the executive secretary.
+
+(2)  The board may make rules pursuant to Section 19-3-104 governing a generator site access permit program.
+
+(3) (a)  Except as provided in Subsection (3)(b), the department shall establish fees for generator site access permits in accordance with Section 63J-1-504.
+
 (b)  On and after July 1, 2001 through June 30, 2002, the fees are:
-(i)  $1,300 for generators transferring 1,000 or more cubic feet of
-radioactive waste per year;
-(ii)  $500 for generators transferring less than 1,000 cubic feet of
-radioactive waste per year; and
+
+(i)  $1,300 for generators transferring 1,000 or more cubic feet of radioactive waste per year;
+
+(ii)  $500 for generators transferring less than 1,000 cubic feet of radioactive waste per year; and
+
 (iii)  $5,000 for brokers.
-(c)  The department shall deposit fees received under this section into the
-Environmental Quality Restricted Account created in Section 19-1-108.
-(4)  This section does not apply to a generator or broker transferring
-radioactive waste to a uranium mill licensed under 10 C.F.R. Part 40, Domestic
-Licensing of Source Material.
+
+(c)  The department shall deposit fees received under this section into the Environmental Quality Restricted Account created in Section 19-1-108.
+
+(4)  This section does not apply to a generator or broker transferring radioactive waste to a uranium mill licensed under 10 C.F.R. Part 40, Domestic Licensing of Source Material.
+

@@ -1,76 +1,46 @@
 54-8b-2.2.   Interconnection.
-(1) (a) (i)  The commission may require any telecommunications corporation to
-interconnect its essential facilities with another telecommunications
-corporation that provides public telecommunications services in the same,
-adjacent, or overlapping service territory.
-(ii)  Interconnecting telecommunications corporations shall permit the mutual
-exchange of traffic between their networks without unreasonable blocking or
-other unreasonable restrictions on the flow of traffic.  In determining
-unreasonable blocking or unreasonable restrictions, the commission shall,
-among other things, take into account the necessity and time required for
-adapting the network to respond to significant changes in usage patterns.
-(b) (i)  Whenever the commission grants a certificate to one or more
-telecommunications corporations to provide public telecommunications services
-in the same or overlapping service territories, all telecommunications
-corporations providing public telecommunications services in the affected area
-shall have the right to interconnect with the essential facilities and to
-purchase the essential services of all other certificate holders operating in
-the same area on a nondiscriminatory and reasonably unbundled basis.
-(ii)  Each telecommunications corporation shall permit access to and
-interconnection with its essential facilities and the purchase of its
-essential services on terms and conditions, including price, no less favorable
-than those the telecommunications corporation provides to itself and its
-affiliates.
-(c)  Nothing in this section shall prevent a telecommunications corporation
-from entering into nondiscriminatory agreements for interconnection with its
-essential facilities and the purchase and sale of essential services.
-(d) (i)  A telecommunications corporation shall file with the commission the
-prices, terms, and conditions of any agreement it makes for the
-interconnection of essential facilities or the purchase or sale of essential
-services.
+
+(1) (a) (i)  The commission may require any telecommunications corporation to interconnect its essential facilities with another telecommunications corporation that provides public telecommunications services in the same, adjacent, or overlapping service territory.
+
+(ii)  Interconnecting telecommunications corporations shall permit the mutual exchange of traffic between their networks without unreasonable blocking or other unreasonable restrictions on the flow of traffic.  In determining unreasonable blocking or unreasonable restrictions, the commission shall, among other things, take into account the necessity and time required for adapting the network to respond to significant changes in usage patterns.
+
+(b) (i)  Whenever the commission grants a certificate to one or more telecommunications corporations to provide public telecommunications services in the same or overlapping service territories, all telecommunications corporations providing public telecommunications services in the affected area shall have the right to interconnect with the essential facilities and to purchase the essential services of all other certificate holders operating in the same area on a nondiscriminatory and reasonably unbundled basis.
+
+(ii)  Each telecommunications corporation shall permit access to and interconnection with its essential facilities and the purchase of its essential services on terms and conditions, including price, no less favorable than those the telecommunications corporation provides to itself and its affiliates.
+
+(c)  Nothing in this section shall prevent a telecommunications corporation from entering into nondiscriminatory agreements for interconnection with its essential facilities and the purchase and sale of essential services.
+
+(d) (i)  A telecommunications corporation shall file with the commission the prices, terms, and conditions of any agreement it makes for the interconnection of essential facilities or the purchase or sale of essential services.
+
 (ii)  The agreement shall take effect 10 days after filing.
-(iii)  Each telecommunications corporation shall allow any other
-telecommunications corporation to obtain interconnection with its essential
-facilities and to purchase essential services on prices, terms, and conditions
-no less favorable than those on file with the commission.
-(e)  If there is a dispute over interconnection of essential facilities, the
-purchase and sale of essential services, or the planning or provisioning of
-facilities or unbundled elements, one or both of the disputing parties may
-bring the dispute to the commission, and the commission, by order, shall
-resolve the dispute on an expedited basis.
-(f)  It is not a discriminatory pricing practice to vary prices to reflect
-genuine cost differences.
-(2) (a)  The commission shall adopt rules or issue an interim order which
-implements by December 31, 1996, the competitive provision of facilities-based
-intraLATA toll and local exchange services.
-(b)  The rules or interim order shall address those issues the commission
-determines are essential for a competing telecommunications corporation to
-provide intraLATA toll and local exchange services and necessary to protect
-the public interest, including the interconnection with essential facilities
-and the purchase and sale of essential services of telecommunications
-corporations authorized to provide public telecommunications services in the
-same or overlapping service territories on a nondiscriminatory and reasonably
-unbundled basis.
-(3) (a)  By December 31, 1997, the commission shall adopt additional rules or
-issue a final order to implement the competitive provision of facilities-based
-intraLATA toll and local exchange services.
+
+(iii)  Each telecommunications corporation shall allow any other telecommunications corporation to obtain interconnection with its essential facilities and to purchase essential services on prices, terms, and conditions no less favorable than those on file with the commission.
+
+(e)  If there is a dispute over interconnection of essential facilities, the purchase and sale of essential services, or the planning or provisioning of facilities or unbundled elements, one or both of the disputing parties may bring the dispute to the commission, and the commission, by order, shall resolve the dispute on an expedited basis.
+
+(f)  It is not a discriminatory pricing practice to vary prices to reflect genuine cost differences.
+
+(2) (a)  The commission shall adopt rules or issue an interim order which implements by December 31, 1996, the competitive provision of facilities-based intraLATA toll and local exchange services.
+
+(b)  The rules or interim order shall address those issues the commission determines are essential for a competing telecommunications corporation to provide intraLATA toll and local exchange services and necessary to protect the public interest, including the interconnection with essential facilities and the purchase and sale of essential services of telecommunications corporations authorized to provide public telecommunications services in the same or overlapping service territories on a nondiscriminatory and reasonably unbundled basis.
+
+(3) (a)  By December 31, 1997, the commission shall adopt additional rules or issue a final order to implement the competitive provision of facilities-based intraLATA toll and local exchange services.
+
 (b)  The rules or final order shall address other issues relating to:
+
 (i)  competition for intraLATA toll and local exchange services;
-(ii)  blocking, timing of provisioning of unbundled elements, and service
-quality standards for interconnecting carriers;
+
+(ii)  blocking, timing of provisioning of unbundled elements, and service quality standards for interconnecting carriers;
+
 (iii)  the transition to a competitive market; and
+
 (iv)  the protection of the public interest.
-(4)  Nothing in this section shall require or prohibit the commission from
-ordering changes in dialing patterns for intraLATA toll services.
-(5)  If the commission, by order, approves the application of a
-telecommunications corporation to provide public telecommunications services
-in all or part of the service territory certificated to an incumbent telephone
-corporation before the adoption of the rules or final order described in
-Subsection (3), the commission may:
-(a)  order the interconnection of essential facilities and the purchase and
-sale of the essential services of a telecommunications corporation with those
-of a competing telecommunications corporation on such terms and conditions and
-to the extent necessary to allow the competing telecommunications corporation
-to operate under authority granted by the commission; and
-(b)  address and resolve, by order, other issues necessary for the competitive
-provision of intraLATA toll and local exchange services.
+
+(4)  Nothing in this section shall require or prohibit the commission from ordering changes in dialing patterns for intraLATA toll services.
+
+(5)  If the commission, by order, approves the application of a telecommunications corporation to provide public telecommunications services in all or part of the service territory certificated to an incumbent telephone corporation before the adoption of the rules or final order described in Subsection (3), the commission may:
+
+(a)  order the interconnection of essential facilities and the purchase and sale of the essential services of a telecommunications corporation with those of a competing telecommunications corporation on such terms and conditions and to the extent necessary to allow the competing telecommunications corporation to operate under authority granted by the commission; and
+
+(b)  address and resolve, by order, other issues necessary for the competitive provision of intraLATA toll and local exchange services.
+

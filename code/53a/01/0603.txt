@@ -1,102 +1,84 @@
 53A-1-603.   Duties of State Board of Education.
+
 (1)  Except as provided in Subsection (5), the State Board of Education shall:
-(a)  require each school district and charter school to implement the Utah
-Performance Assessment System for Students, hereafter referred to as U-PASS;
-(b)  require the state superintendent of public instruction to submit and
-recommend criterion-referenced achievement tests or online computer adaptive
-tests, a tenth grade basic skills competency test, an online writing
-assessment for grades 5 and 8, and a test for students in grade 3 to measure
-reading grade level to the board for approval and adoption and distribution to
-each school district and charter school by the state superintendent;
-(c)  develop an assessment method to uniformly measure statewide performance,
-school district performance, and school performance of students in grades 3
-through 12 in mastering basic skills courses; and
-(d)  provide for the state to participate in the National Assessment of
-Educational Progress state-by-state comparison testing program.
-(2)  Except as provided in Subsection (5) and Subsection 53A-1-611(6), under
-U-PASS, the state office shall annually require that each district and charter
-school, as applicable, administer:
-(a)  as determined by the State Board of Education, statewide criterion-
-referenced tests or online computer adaptive tests in grades 3 through 12 and
-courses in basic skill areas of the core curriculum;
+
+(a)  require each school district and charter school to implement the Utah Performance Assessment System for Students, hereafter referred to as U-PASS;
+
+(b)  require the state superintendent of public instruction to submit and recommend criterion-referenced achievement tests or online computer adaptive tests, a tenth grade basic skills competency test, an online writing assessment for grades 5 and 8, and a test for students in grade 3 to measure reading grade level to the board for approval and adoption and distribution to each school district and charter school by the state superintendent;
+
+(c)  develop an assessment method to uniformly measure statewide performance, school district performance, and school performance of students in grades 3 through 12 in mastering basic skills courses; and
+
+(d)  provide for the state to participate in the National Assessment of Educational Progress state-by-state comparison testing program.
+
+(2)  Except as provided in Subsection (5) and Subsection 53A-1-611(6), under U-PASS, the state office shall annually require that each district and charter school, as applicable, administer:
+
+(a)  as determined by the State Board of Education, statewide criterion-referenced tests or online computer adaptive tests in grades 3 through 12 and courses in basic skill areas of the core curriculum;
+
 (b)  an online writing assessment to all students in grades 5 and 8;
-(c)  a tenth grade basic skills competency test as detailed in Section
-53A-1-611; and
+
+(c)  a tenth grade basic skills competency test as detailed in Section 53A-1-611; and
+
 (d)  a test to all students in grade 3 to measure reading grade level.
-(3)  The board shall adopt rules for the conduct and administration of U-PASS
-to include the following:
-(a)  the computation of student performance based on information that is
-disaggregated with respect to race, ethnicity, gender, limited English
-proficiency, and those students who qualify for free or reduced price school
-lunch;
-(b)  security features to maintain the integrity of the system, which could
-include statewide uniform testing dates, multiple test forms, and test
-administration protocols;
-(c)  the exemption of student test scores, by exemption category, such as
-limited English proficiency, mobility, and students with disabilities, with
-the percent or number of student test scores exempted being publically
-reported at a district level;
-(d)  compiling of criterion-referenced, online computer adaptive, and online
-writing test scores and test score averages at the classroom level to allow
-for:
-(i)  an annual review of those scores by parents of students and professional
-and other appropriate staff at the classroom level at the earliest point in
-time;
-(ii)  the assessment of year-to-year student progress in specific classes,
-courses, and subjects;
-(iii)  a teacher to review, prior to the beginning of a new school year, test
-scores from the previous school year of students who have been assigned to the
-teacher's class for the new school year; and
-(iv)  allowing a school district or charter school to have its tests
-administered and scored electronically to accelerate the review of test scores
-and their usefulness to parents and educators under Subsections (3)(d)(i),
-(ii), and (iii), without violating the integrity of U-PASS; and
+
+(3)  The board shall adopt rules for the conduct and administration of U-PASS to include the following:
+
+(a)  the computation of student performance based on information that is disaggregated with respect to race, ethnicity, gender, limited English proficiency, and those students who qualify for free or reduced price school lunch;
+
+(b)  security features to maintain the integrity of the system, which could include statewide uniform testing dates, multiple test forms, and test administration protocols;
+
+(c)  the exemption of student test scores, by exemption category, such as limited English proficiency, mobility, and students with disabilities, with the percent or number of student test scores exempted being publically reported at a district level;
+
+(d)  compiling of criterion-referenced, online computer adaptive, and online writing test scores and test score averages at the classroom level to allow for:
+
+(i)  an annual review of those scores by parents of students and professional and other appropriate staff at the classroom level at the earliest point in time;
+
+(ii)  the assessment of year-to-year student progress in specific classes, courses, and subjects;
+
+(iii)  a teacher to review, prior to the beginning of a new school year, test scores from the previous school year of students who have been assigned to the teacher's class for the new school year; and
+
+(iv)  allowing a school district or charter school to have its tests administered and scored electronically to accelerate the review of test scores and their usefulness to parents and educators under Subsections (3)(d)(i), (ii), and (iii), without violating the integrity of U-PASS; and
+
 (e)  providing that:
-(i)  scores on the tests and assessments required under Subsection (2)(a)
-shall be considered in determining a student's academic grade for the
-appropriate course and whether a student shall advance to the next grade
-level; and
-(ii)  except as provided in Subsection 53A-1-611(6), the student's score on
-the tenth grade basic skills competency test shall be recorded on the
-student's transcript of credits.
-(4)  The State Board of Education shall consider administering the basic
-skills competency test on a Saturday to preserve instructional time.
-(5) (a)  The State Board of Education may exempt a school district or charter
-school from the testing requirements specified in Subsection (2) if:
-(i)  the school district or charter school pilots an assessment system that
-incorporates the following:
+
+(i)  scores on the tests and assessments required under Subsection (2)(a) shall be considered in determining a student's academic grade for the appropriate course and whether a student shall advance to the next grade level; and
+
+(ii)  except as provided in Subsection 53A-1-611(6), the student's score on the tenth grade basic skills competency test shall be recorded on the student's transcript of credits.
+
+(4)  The State Board of Education shall consider administering the basic skills competency test on a Saturday to preserve instructional time.
+
+(5) (a)  The State Board of Education may exempt a school district or charter school from the testing requirements specified in Subsection (2) if:
+
+(i)  the school district or charter school pilots an assessment system that incorporates the following:
+
 (A)  online classroom-based assessment that utilizes adaptive testing;
+
 (B)  online writing assessments in grades 4 through 12; or
-(C)  assessments administered in grades 8, 10, and 11 to determine readiness
-for postsecondary education;
-(ii)  the State Board of Education approves the specific assessment
-administered under Subsection (5)(a)(i) and the assessment provider; and
-(iii)  the school district or charter school verifies the local fiscal
-capability and resources needed to participate in the pilot assessment system.
-(b)  A school district or charter school that receives an exemption under
-Subsection (5)(a) is subject to an accountability plan and high school
-graduation standards that are:
-(i)  based on the school district's or charter school's assessment system,
-which may include assessments described in Subsection (2) or Subsections
-(5)(a)(i) through (iii); and
+
+(C)  assessments administered in grades 8, 10, and 11 to determine readiness for postsecondary education;
+
+(ii)  the State Board of Education approves the specific assessment administered under Subsection (5)(a)(i) and the assessment provider; and
+
+(iii)  the school district or charter school verifies the local fiscal capability and resources needed to participate in the pilot assessment system.
+
+(b)  A school district or charter school that receives an exemption under Subsection (5)(a) is subject to an accountability plan and high school graduation standards that are:
+
+(i)  based on the school district's or charter school's assessment system, which may include assessments described in Subsection (2) or Subsections (5)(a)(i) through (iii); and
+
 (ii)  developed and adopted by the State Board of Education.
-(c)  By the November 2014 meeting of the Education Interim Committee, the
-State Board of Education shall submit recommendations to the committee on the
-state's assessment system.
-(6) (a)  A school district or charter school, as applicable, is encouraged to
-administer an online writing assessment to students in grade 11.
-(b)  The State Board of Education may award a grant to a school district or
-charter school to pay for an online writing assessment and instruction program
-that may be used to assess the writing of students in grade 11.
-(7) (a)  On or before the 2010 October meeting of the Education Interim
-Committee, the State Board of Education shall prepare and present its plan for
-a pilot program for the 2010-11 and 2011-12 school years to:
-(i)  replace the tenth grade basic skills competency test with computer
-adaptive testing of basic skills; and
+
+(c)  By the November 2014 meeting of the Education Interim Committee, the State Board of Education shall submit recommendations to the committee on the state's assessment system.
+
+(6) (a)  A school district or charter school, as applicable, is encouraged to administer an online writing assessment to students in grade 11.
+
+(b)  The State Board of Education may award a grant to a school district or charter school to pay for an online writing assessment and instruction program that may be used to assess the writing of students in grade 11.
+
+(7) (a)  On or before the 2010 October meeting of the Education Interim Committee, the State Board of Education shall prepare and present its plan for a pilot program for the 2010-11 and 2011-12 school years to:
+
+(i)  replace the tenth grade basic skills competency test with computer adaptive testing of basic skills; and
+
 (ii)  administer the ACT exam to secondary students.
-(b)  The State Board of Education shall implement the pilot program described
-in Subsection (7)(a) for the 2010-11 and 2011-12 school years.
-(c)  The State Board of Education shall re-direct the money saved by not
-administering the tenth grade basic skills competency test pursuant to
-Subsection 53A-1-611(6) to fund the implementation of the pilot program
-described in Subsection (7)(b) for fiscal years 2010-11 and 2011-12.
+
+(b)  The State Board of Education shall implement the pilot program described in Subsection (7)(a) for the 2010-11 and 2011-12 school years.
+
+(c)  The State Board of Education shall re-direct the money saved by not administering the tenth grade basic skills competency test pursuant to Subsection 53A-1-611(6) to fund the implementation of the pilot program described in Subsection (7)(b) for fiscal years 2010-11 and 2011-12.
+

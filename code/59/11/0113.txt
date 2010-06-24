@@ -1,29 +1,32 @@
-59-11-113.   Administration by commission -- Taxpayer notification of change
-on federal estate tax return -- Assessment of deficiency -- Appeal.
-(1)  The commission is charged with the administration and enforcement of this
-chapter and may make rules under Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act, to effectuate the purposes of this chapter.
+59-11-113.   Administration by commission -- Taxpayer notification of change on federal estate tax return -- Assessment of deficiency -- Appeal.
+
+(1)  The commission is charged with the administration and enforcement of this chapter and may make rules under Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to effectuate the purposes of this chapter.
+
 (2)  A taxpayer shall:
-(a)  notify the commission within 90 days after a final determination of a
-change on the taxpayer's federal estate tax return if:
+
+(a)  notify the commission within 90 days after a final determination of a change on the taxpayer's federal estate tax return if:
+
 (i)  the change is made because:
+
 (A)  the taxpayer filed an amended federal return; or
+
 (B)  of an action by the federal government; and
+
 (ii)  the change increases the taxpayer's state tax liability; and
-(b)  if the taxpayer is required to notify the commission of a change as
-provided in Subsection (2)(a)(i), file a copy of:
+
+(b)  if the taxpayer is required to notify the commission of a change as provided in Subsection (2)(a)(i), file a copy of:
+
 (i)  the amended federal return; and
-(ii)  an amended state return that conforms to the changes on the federal
-return.
-(3) (a)  The commission may assess a deficiency in state estate taxes as a
-result of a change in a taxpayer's net income under Subsection (2):
-(i)  within three years after a taxpayer files an amended return under
-Subsection (2)(b) if the taxpayer files an amended return; or
-(ii)  within six years after the change if a taxpayer does not file an amended
-return under Subsection (2)(b).
-(b)  The amount of a deficiency assessed under Subsection (3)(a) may not
-exceed the amount of the increase in Utah tax attributable to the change under
-Subsection (2)(a).
-(4)  A party to a proceeding before the district court concerning a tax
-imposed by this chapter, including the commission, may appeal from the order,
-judgment, or decree entered by the district court.
+
+(ii)  an amended state return that conforms to the changes on the federal return.
+
+(3) (a)  The commission may assess a deficiency in state estate taxes as a result of a change in a taxpayer's net income under Subsection (2):
+
+(i)  within three years after a taxpayer files an amended return under Subsection (2)(b) if the taxpayer files an amended return; or
+
+(ii)  within six years after the change if a taxpayer does not file an amended return under Subsection (2)(b).
+
+(b)  The amount of a deficiency assessed under Subsection (3)(a) may not exceed the amount of the increase in Utah tax attributable to the change under Subsection (2)(a).
+
+(4)  A party to a proceeding before the district court concerning a tax imposed by this chapter, including the commission, may appeal from the order, judgment, or decree entered by the district court.
+

@@ -1,61 +1,52 @@
-20A-2-306.   Removing names from the official register -- Determining and
-confirming change of residence.
-(1)  A county clerk may not remove a voter's name from the official register
-on the grounds that the voter has changed residence unless the voter:
-(a)  confirms in writing that the voter has changed residence to a place
-outside the county; or
-(b) (i)  has not voted in an election during the period beginning on the date
-of the notice required by Subsection (3), and ending on the day after the date
-of the second regular general election occurring after the date of the notice;
-and
+20A-2-306.   Removing names from the official register -- Determining and confirming change of residence.
+
+(1)  A county clerk may not remove a voter's name from the official register on the grounds that the voter has changed residence unless the voter:
+
+(a)  confirms in writing that the voter has changed residence to a place outside the county; or
+
+(b) (i)  has not voted in an election during the period beginning on the date of the notice required by Subsection (3), and ending on the day after the date of the second regular general election occurring after the date of the notice; and
+
 (ii)  has failed to respond to the notice required by Subsection (3).
-(2) (a)  When a county clerk obtains information that a voter's address has
-changed and it appears that the voter still resides within the same county,
-the county clerk shall:
+
+(2) (a)  When a county clerk obtains information that a voter's address has changed and it appears that the voter still resides within the same county, the county clerk shall:
+
 (i)  change the official register to show the voter's new address; and
-(ii)  send to the voter, by forwardable mail, the notice required by
-Subsection (3) printed on a postage prepaid, preaddressed return form.
-(b)  When a county clerk obtains information that a voter's address has
-changed and it appears that the voter now resides in a different county, the
-county clerk shall verify the changed residence by sending to the voter, by
-forwardable mail, the notice required by Subsection (3) printed on a postage
-prepaid, preaddressed return form.
-(3)  Each county clerk shall use substantially the following form to notify
-voters whose addresses have changed:
+
+(ii)  send to the voter, by forwardable mail, the notice required by Subsection (3) printed on a postage prepaid, preaddressed return form.
+
+(b)  When a county clerk obtains information that a voter's address has changed and it appears that the voter now resides in a different county, the county clerk shall verify the changed residence by sending to the voter, by forwardable mail, the notice required by Subsection (3) printed on a postage prepaid, preaddressed return form.
+
+(3)  Each county clerk shall use substantially the following form to notify voters whose addresses have changed:
+
 "VOTER REGISTRATION NOTICE
-We have been notified that your residence has changed.  Please read, complete,
-and return this form so that we can update our voter registration records.
-What is your current street address?
+
+We have been notified that your residence has changed.  Please read, complete, and return this form so that we can update our voter registration records.  What is your current street address?
+
 ___________________________________________________________________________
-Street                           City                   County          State
-Zip
-If you have not changed your residence or have moved but stayed within the
-same county, you must complete and return this form to the county clerk so
-that it is received by the county clerk no later than 30 days before the date
-of the election.  If you fail to return this form within that time:
-- you may be required to show evidence of your address to the poll worker
-before being allowed to vote in either of the next two regular general
-elections; or
-- if you fail to vote at least once from the date this notice was mailed until
-the passing of two regular general elections, you will no longer be registered
-to vote.  If you have changed your residence and have moved to a different
-county in Utah, you may register to vote by contacting the county clerk in
-your county.
+
+Street 				 City 			County		State		Zip
+
+If you have not changed your residence or have moved but stayed within the same county, you must complete and return this form to the county clerk so that it is received by the county clerk no later than 30 days before the date of the election.  If you fail to return this form within that time:
+
+- you may be required to show evidence of your address to the poll worker before being allowed to vote in either of the next two regular general elections; or
+
+- if you fail to vote at least once from the date this notice was mailed until the passing of two regular general elections, you will no longer be registered to vote.  If you have changed your residence and have moved to a different county in Utah, you may register to vote by contacting the county clerk in your county.
+
 ________________________________________
+
 Signature of Voter"
-(4) (a)  Except as provided in Subsection (4)(b), the county clerk may not
-remove the names of any voters from the official register during the 90 days
-before a regular primary election and the 90 days before a regular general
-election.
-(b)  The county clerk may remove the names of voters from the official
-register during the 90 days before a regular primary election and the 90 days
-before a regular general election if:
+
+(4) (a)  Except as provided in Subsection (4)(b), the county clerk may not remove the names of any voters from the official register during the 90 days before a regular primary election and the 90 days before a regular general election.
+
+(b)  The county clerk may remove the names of voters from the official register during the 90 days before a regular primary election and the 90 days before a regular general election if:
+
 (i)  the voter requests, in writing, that his name be removed; or
+
 (ii)  the voter has died.
-(c) (i)  After a county clerk mails a notice as required in this section, the
-clerk may list that voter as inactive.
-(ii)  An inactive voter must be allowed to vote, sign petitions, and have all
-other privileges of a registered voter.
-(iii)  A county is not required to send routine mailings to inactive voters
-and is not required to count inactive voters when dividing precincts and
-preparing supplies.
+
+(c) (i)  After a county clerk mails a notice as required in this section, the clerk may list that voter as inactive.
+
+(ii)  An inactive voter must be allowed to vote, sign petitions, and have all other privileges of a registered voter.
+
+(iii)  A county is not required to send routine mailings to inactive voters and is not required to count inactive voters when dividing precincts and preparing supplies.
+

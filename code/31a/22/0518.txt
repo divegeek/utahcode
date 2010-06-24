@@ -1,16 +1,10 @@
 31A-22-518.   Conversion on termination of policy.
-(1)  Subject to Subsection (2), if the group policy terminates or is amended
-to terminate the insurance of any class of covered persons, every insured
-person whose insurance terminates, including the insured dependent of a
-covered person who has been insured for at least five years prior to the
-termination date, is entitled to have the insurer issue to the person an
-individual policy of life insurance, subject to the conditions and limitations
-in Section 31A-22-517.
-(2)  The group policy described in Subsection (1) shall provide that the
-amount of the individual policy may not be less than the smaller of:
-(a)  the amount of the person's life insurance protection ceasing because of
-the termination or amendment of the group policy, less the amount of any life
-insurance for which the person is eligible under any group policy issued or
-reinstated by the same or another insurer within 30 days after the
-termination; or
+
+(1)  Subject to Subsection (2), if the group policy terminates or is amended to terminate the insurance of any class of covered persons, every insured person whose insurance terminates, including the insured dependent of a covered person who has been insured for at least five years prior to the termination date, is entitled to have the insurer issue to the person an individual policy of life insurance, subject to the conditions and limitations in Section 31A-22-517.
+
+(2)  The group policy described in Subsection (1) shall provide that the amount of the individual policy may not be less than the smaller of:
+
+(a)  the amount of the person's life insurance protection ceasing because of the termination or amendment of the group policy, less the amount of any life insurance for which the person is eligible under any group policy issued or reinstated by the same or another insurer within 30 days after the termination; or
+
 (b)  $10,000.
+

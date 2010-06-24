@@ -1,100 +1,102 @@
 26-28-102.   Definitions.
+
 As used in this chapter:
+
 (1)  "Adult" means an individual who is at least 18 years of age.
+
 (2)  "Agent" means an individual:
-(a)  authorized to make health care decisions on the principal's behalf by a
-power of attorney for health care; or
-(b)  expressly authorized to make an anatomical gift on the principal's behalf
-by any other record signed by the principal.
-(3)  "Anatomical gift" means a donation of all or part of a human body to take
-effect after the donor's death for the purpose of transplantation, therapy,
-research, or education.
+
+(a)  authorized to make health care decisions on the principal's behalf by a power of attorney for health care; or
+
+(b)  expressly authorized to make an anatomical gift on the principal's behalf by any other record signed by the principal.
+
+(3)  "Anatomical gift" means a donation of all or part of a human body to take effect after the donor's death for the purpose of transplantation, therapy, research, or education.
+
 (4)  "Decedent" means:
-(a)  a deceased individual whose body or part is or may be the source of an
-anatomical gift; and
+
+(a)  a deceased individual whose body or part is or may be the source of an anatomical gift; and
+
 (b)  includes:
+
 (i)  a stillborn infant; and
+
 (ii)  subject to restrictions imposed by law other than this chapter, a fetus.
+
 (5) (a)  "Disinterested witness" means:
-(i)  a witness other than the spouse, child, parent, sibling, grandchild,
-grandparent, or guardian of the individual who makes, amends, revokes, or
-refuses to make an anatomical gift; or
+
+(i)  a witness other than the spouse, child, parent, sibling, grandchild, grandparent, or guardian of the individual who makes, amends, revokes, or refuses to make an anatomical gift; or
+
 (ii)  another adult who exhibited special care and concern for the individual.
-(b)  "Disinterested witness" does not include a person to which an anatomical
-gift could pass under Section 26-28-111.
-(6)  "Document of gift" means a donor card or other record used to make an
-anatomical gift.  The term includes a statement or symbol on a driver license,
-identification card, or donor registry.
-(7)  "Donor" means an individual whose body or part is the subject of an
-anatomical gift.
-(8)  "Donor registry" means a database that contains records of anatomical
-gifts and amendments to or revocations of anatomical gifts.
-(9)  "Driver license" means a license or permit issued by the Driver License
-Division of the Department of Public Safety, to operate a vehicle, whether or
-not conditions are attached to the license or permit.
-(10)  "Eye bank" means a person that is licensed, accredited, or regulated
-under federal or state law to engage in the recovery, screening, testing,
-processing, storage, or distribution of human eyes or portions of human eyes.
+
+(b)  "Disinterested witness" does not include a person to which an anatomical gift could pass under Section 26-28-111.
+
+(6)  "Document of gift" means a donor card or other record used to make an anatomical gift.  The term includes a statement or symbol on a driver license, identification card, or donor registry.
+
+(7)  "Donor" means an individual whose body or part is the subject of an anatomical gift.
+
+(8)  "Donor registry" means a database that contains records of anatomical gifts and amendments to or revocations of anatomical gifts.
+
+(9)  "Driver license" means a license or permit issued by the Driver License Division of the Department of Public Safety, to operate a vehicle, whether or not conditions are attached to the license or permit.
+
+(10)  "Eye bank" means a person that is licensed, accredited, or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage, or distribution of human eyes or portions of human eyes.
+
 (11)  "Guardian":
-(a)  means a person appointed by a court to make decisions regarding the
-support, care, education, health, or welfare of an individual; and
+
+(a)  means a person appointed by a court to make decisions regarding the support, care, education, health, or welfare of an individual; and
+
 (b)  does not include a guardian ad litem.
-(12)  "Hospital" means a facility licensed as a hospital under the law of any
-state or a facility operated as a hospital by the United States, a state, or a
-subdivision of a state.
-(13)  "Identification card" means an identification card issued by the Driver
-License Division of the Department of Public Safety.
+
+(12)  "Hospital" means a facility licensed as a hospital under the law of any state or a facility operated as a hospital by the United States, a state, or a subdivision of a state.
+
+(13)  "Identification card" means an identification card issued by the Driver License Division of the Department of Public Safety.
+
 (14)  "Know" means to have actual knowledge.
+
 (15)  "Minor" means an individual who is under 18 years of age.
-(16)  "Organ procurement organization" means a person designated by the
-Secretary of the United States Department of Health and Human Services as an
-organ procurement organization.
+
+(16)  "Organ procurement organization" means a person designated by the Secretary of the United States Department of Health and Human Services as an organ procurement organization.
+
 (17)  "Parent" means a parent whose parental rights have not been terminated.
-(18)  "Part" means an organ, an eye, or tissue of a human being.  The term
-does not include the whole body.
-(19)  "Person" means an individual, corporation, business trust, estate,
-trust, partnership, limited liability company, association, joint venture,
-public corporation, government or governmental subdivision, agency, or
-instrumentality, or any other legal or commercial entity.
-(20)  "Physician" means an individual authorized to practice medicine or
-osteopathy under the law of any state.
-(21)  "Procurement organization" means an eye bank, organ procurement
-organization, or tissue bank.
+
+(18)  "Part" means an organ, an eye, or tissue of a human being.  The term does not include the whole body.
+
+(19)  "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+
+(20)  "Physician" means an individual authorized to practice medicine or osteopathy under the law of any state.
+
+(21)  "Procurement organization" means an eye bank, organ procurement organization, or tissue bank.
+
 (22)  "Prospective donor":
-(a)  means an individual who is dead or near death and has been determined by
-a procurement organization to have a part that could be medically suitable for
-transplantation, therapy, research, or education; and
+
+(a)  means an individual who is dead or near death and has been determined by a procurement organization to have a part that could be medically suitable for transplantation, therapy, research, or education; and
+
 (b)  does not include an individual who has made a refusal.
-(23)  "Reasonably available" means able to be contacted by a procurement
-organization without undue effort and willing and able to act in a timely
-manner consistent with existing medical criteria necessary for the making of
-an anatomical gift.
-(24)  "Recipient" means an individual into whose body a decedent's part has
-been or is intended to be transplanted.
-(25)  "Record" means information that is inscribed on a tangible medium or
-that is stored in an electronic or other medium and is retrievable in
-perceivable form.
-(26)  "Refusal" means a record created under Section 26-28-107 that expressly
-states an intent to bar other persons from making an anatomical gift of an
-individual's body or part.
+
+(23)  "Reasonably available" means able to be contacted by a procurement organization without undue effort and willing and able to act in a timely manner consistent with existing medical criteria necessary for the making of an anatomical gift.
+
+(24)  "Recipient" means an individual into whose body a decedent's part has been or is intended to be transplanted.
+
+(25)  "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+(26)  "Refusal" means a record created under Section 26-28-107 that expressly states an intent to bar other persons from making an anatomical gift of an individual's body or part.
+
 (27)  "Sign" means, with the present intent to authenticate or adopt a record:
+
 (a)  to execute or adopt a tangible symbol; or
-(b)  to attach to or logically associate with the record an electronic symbol,
-sound, or process.
-(28)  "State" means a state of the United States, the District of Columbia,
-Puerto Rico, the United States Virgin Islands, or any territory or insular
-possession subject to the jurisdiction of the United States.
+
+(b)  to attach to or logically associate with the record an electronic symbol, sound, or process.
+
+(28)  "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+
 (29)  "Technician":
-(a)  means an individual determined to be qualified to remove or process parts
-by an appropriate organization that is licensed, accredited, or regulated
-under federal or state law; and
+
+(a)  means an individual determined to be qualified to remove or process parts by an appropriate organization that is licensed, accredited, or regulated under federal or state law; and
+
 (b)  includes an enucleator.
-(30)  "Tissue" means a portion of the human body other than an organ or an
-eye.  The term does not include blood unless the blood is donated for the
-purpose of research or education.
-(31)  "Tissue bank" means a person that is licensed, accredited, or regulated
-under federal or state law to engage in the recovery, screening, testing,
-processing, storage, or distribution of tissue.
-(32)  "Transplant hospital" means a hospital that furnishes organ transplants
-and other medical and surgical specialty services required for the care of
-transplant patients.
+
+(30)  "Tissue" means a portion of the human body other than an organ or an eye.  The term does not include blood unless the blood is donated for the purpose of research or education.
+
+(31)  "Tissue bank" means a person that is licensed, accredited, or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage, or distribution of tissue.
+
+(32)  "Transplant hospital" means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients.
+

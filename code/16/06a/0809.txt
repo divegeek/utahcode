@@ -1,29 +1,36 @@
 16-6a-809.   Removal of directors by judicial proceeding.
-(1) (a)  The applicable court may remove a director in a proceeding commenced
-either by the nonprofit corporation or by voting members holding at least 10%
-of the votes entitled to be cast in the election of the director's successor
-if the court finds that:
+
+(1) (a)  The applicable court may remove a director in a proceeding commenced either by the nonprofit corporation or by voting members holding at least 10% of the votes entitled to be cast in the election of the director's successor if the court finds that:
+
 (i)  the director engaged in:
+
 (A)  fraudulent or dishonest conduct; or
-(B)  gross abuse of authority or discretion with respect to the nonprofit
-corporation; or
-(ii) (A)  a final judgment has been entered finding that the director has
-violated a duty set forth in Section 16-6a-822; and
+
+(B)  gross abuse of authority or discretion with respect to the nonprofit corporation; or
+
+(ii) (A)  a final judgment has been entered finding that the director has violated a duty set forth in Section 16-6a-822; and
+
 (B)  removal is in the best interests of the nonprofit corporation.
+
 (b)  For purposes of this Subsection (1), the applicable court is the:
-(i)  district court of the county in this state where a nonprofit
-corporation's principal office is located; or
+
+(i)  district court of the county in this state where a nonprofit corporation's principal office is located; or
+
 (ii)  if the nonprofit corporation has no principal office in this state:
-(A)  the district court of the county in which its registered office is
-located; or
-(B)  if the nonprofit corporation has no registered office, the district court
-for Salt Lake County.
-(2)  The court that removes a director may bar the director for a period
-prescribed by the court from:
+
+(A)  the district court of the county in which its registered office is located; or
+
+(B)  if the nonprofit corporation has no registered office, the district court for Salt Lake County.
+
+(2)  The court that removes a director may bar the director for a period prescribed by the court from:
+
 (a)  reelection;
+
 (b)  reappointment; or
+
 (c)  designation.
-(3)  If voting members commence a proceeding under Subsection (1), the voting
-members shall make the nonprofit corporation a party defendant.
-(4)  A director who is removed pursuant to this section may deliver to the
-division for filing a statement to that effect pursuant to Section 16-6a-1608.
+
+(3)  If voting members commence a proceeding under Subsection (1), the voting members shall make the nonprofit corporation a party defendant.
+
+(4)  A director who is removed pursuant to this section may deliver to the division for filing a statement to that effect pursuant to Section 16-6a-1608.
+

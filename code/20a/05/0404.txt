@@ -1,78 +1,88 @@
 20A-5-404.   Election forms -- Preparation and contents.
-(1) (a)  For each election, the election officer shall prepare, for each
-voting precinct, a:
+
+(1) (a)  For each election, the election officer shall prepare, for each voting precinct, a:
+
 (i)  ballot disposition form;
+
 (ii)  total votes cast form;
+
 (iii)  tally sheet form; and
+
 (iv)  pollbook.
+
 (b)  For each election, the election officer shall:
-(i)  provide a copy of each form to each of those precincts using paper
-ballots; and
-(ii)  provide a copy of the ballot disposition form and a pollbook to each of
-those voting precincts using an automated voting system.
-(2)  The election officer shall ensure that the ballot disposition form
-contains a space for the judges to identify:
+
+(i)  provide a copy of each form to each of those precincts using paper ballots; and
+
+(ii)  provide a copy of the ballot disposition form and a pollbook to each of those voting precincts using an automated voting system.
+
+(2)  The election officer shall ensure that the ballot disposition form contains a space for the judges to identify:
+
 (a)  the number of ballots voted;
+
 (b)  the number of substitute ballots voted, if any;
+
 (c)  the number of ballots delivered to the voters;
+
 (d)  the number of spoiled ballots;
+
 (e)  the number of registered voters listed in the official register;
+
 (f)  the total number of voters voting according to the pollbook; and
+
 (g)  the number of unused ballots.
-(3)  The election officer shall ensure that the total votes cast form
-contains:
-(a)  the name of each candidate appearing on the ballot, the office for which
-the candidate is running, and a blank space for the election judges to record
-the number of votes that the candidate received;
-(b)  for each office, blank spaces for the election judges to record the names
-of write-in candidates, if any, and a blank space for the election judges to
-record the number of votes that the write-in candidate received;
-(c)  a heading identifying each ballot proposition and blank spaces for the
-election judges to record the number of votes for and against each
-proposition; and
-(d)  a certification, in substantially the following form, to be signed by the
-judges when they have completed the total votes cast form:
+
+(3)  The election officer shall ensure that the total votes cast form contains:
+
+(a)  the name of each candidate appearing on the ballot, the office for which the candidate is running, and a blank space for the election judges to record the number of votes that the candidate received;
+
+(b)  for each office, blank spaces for the election judges to record the names of write-in candidates, if any, and a blank space for the election judges to record the number of votes that the write-in candidate received;
+
+(c)  a heading identifying each ballot proposition and blank spaces for the election judges to record the number of votes for and against each proposition; and
+
+(d)  a certification, in substantially the following form, to be signed by the judges when they have completed the total votes cast form:
+
 "TOTAL VOTES CAST
-At an election held at ____ in ____ voting precinct in ____________(name of
-entity holding the election) and State of Utah, on __________(month\day\year),
-the following named persons received the number of votes annexed to their
-respective names for the following described offices: Total number of votes
-cast were as follows:
+
+At an election held at ____ in ____ voting precinct in ____________(name of entity holding the election) and State of Utah, on __________(month\day\year), the following named persons received the number of votes annexed to their respective names for the following described offices: Total number of votes cast were as follows:
+
 Certified by us ____, ____, ____, Judges of Election."
+
 (4)  The election officer shall ensure that the tally sheet form contains:
-(a)  for each office, the names of the candidates for that office, and blank
-spaces to tally the votes that each candidate receives;
-(b)  for each office, blank spaces for the election judges to record the names
-of write-in candidates, if any, and a blank space for the election judges to
-tally the votes for each write-in candidate;
-(c)  for each ballot proposition, a heading identifying the ballot proposition
-and the words "Yes" and "No" or "For" and "Against" on separate lines with
-blank spaces after each of them for the election judges to tally the ballot
-proposition votes; and
-(d)  a certification, in substantially the following form, to be signed by the
-judges when they have completed the tally sheet form:
+
+(a)  for each office, the names of the candidates for that office, and blank spaces to tally the votes that each candidate receives;
+
+(b)  for each office, blank spaces for the election judges to record the names of write-in candidates, if any, and a blank space for the election judges to tally the votes for each write-in candidate;
+
+(c)  for each ballot proposition, a heading identifying the ballot proposition and the words "Yes" and "No" or "For" and "Against" on separate lines with blank spaces after each of them for the election judges to tally the ballot proposition votes; and
+
+(d)  a certification, in substantially the following form, to be signed by the judges when they have completed the tally sheet form:
+
 "Tally Sheet
-We the undersigned election judges for voting precinct #________________,
-_______________(entity holding the election) certify that this is a true and
-correct list of all persons voted for and ballot propositions voted on at the
-election held in that voting precinct on _______________________(date of
-election) and is a tally of the votes cast for each of those persons.
-Certified by us ____, ____, ____, Judges of Election."
+
+We the undersigned election judges for voting precinct #________________, _______________(entity holding the election) certify that this is a true and correct list of all persons voted for and ballot propositions voted on at the election held in that voting precinct on _______________________(date of election) and is a tally of the votes cast for each of those persons. Certified by us ____, ____, ____, Judges of Election."
+
 (5)  The election officer shall ensure that the pollbook:
+
 (a)  identifies the voting precinct number on its face; and
+
 (b)  contains:
-(i)  a section to record persons voting on election day, with columns entitled
-"Ballot Number" and "Voter's Name";
+
+(i)  a section to record persons voting on election day, with columns entitled "Ballot Number" and "Voter's Name";
+
 (ii)  another section in which to record absentee ballots;
+
 (iii)  a section in which to record voters who are challenged; and
+
 (iv)  a certification, in substantially the following form:
-"We, the undersigned, judges of an election held at ______ voting precinct, in
-_______ County, state of Utah, on __________(month\day\year), having first
-been sworn according to law, certify that the information listed in this book
-is a true statement of the number and names of the persons voting in the
-voting precinct at the election, and that the total number of persons voting
-at the election was ____."
+
+"We, the undersigned, judges of an election held at ______ voting precinct, in _______ County, state of Utah, on __________(month\day\year), having first been sworn according to law, certify that the information listed in this book is a true statement of the number and names of the persons voting in the voting precinct at the election, and that the total number of persons voting at the election was ____."
+
 _____________________________
+
 _____________________________
+
 _____________________________
+
 Judges of Election
+

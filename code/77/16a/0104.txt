@@ -1,41 +1,28 @@
-77-16a-104.   Verdict of guilty and mentally ill -- Hearing to determine
-present mental state.
-(1)  Upon a verdict of guilty and mentally ill for the offense charged, or any
-lesser offense, the court shall conduct a hearing to determine the defendant's
-present mental state.
-(2)  The court may order the department to examine the defendant to determine
-his mental condition, and may receive the evidence of any public or private
-expert witness offered by the defendant or the prosecutor.  The defendant may
-be placed in the Utah State Hospital for that examination only upon approval
-of the executive director.
-(3)  If the court finds by clear and convincing evidence that the defendant is
-currently mentally ill, it shall impose any sentence that could be imposed
-under law upon a defendant who is not mentally ill and who is convicted of the
-same offense, and:
-(a)  commit him to the department, in accordance with the provisions of
-Section 77-16a-202, if:
-(i)  the court gives the department the opportunity to provide an evaluation
-and recommendation under Subsection (4); and
+77-16a-104.   Verdict of guilty and mentally ill -- Hearing to determine present mental state.
+
+(1)  Upon a verdict of guilty and mentally ill for the offense charged, or any lesser offense, the court shall conduct a hearing to determine the defendant's present mental state.
+
+(2)  The court may order the department to examine the defendant to determine his mental condition, and may receive the evidence of any public or private expert witness offered by the defendant or the prosecutor.  The defendant may be placed in the Utah State Hospital for that examination only upon approval of the executive director.
+
+(3)  If the court finds by clear and convincing evidence that the defendant is currently mentally ill, it shall impose any sentence that could be imposed under law upon a defendant who is not mentally ill and who is convicted of the same offense, and:
+
+(a)  commit him to the department, in accordance with the provisions of Section 77-16a-202, if:
+
+(i)  the court gives the department the opportunity to provide an evaluation and recommendation under Subsection (4); and
+
 (ii)  the court finds by clear and convincing evidence that:
-(A)  because of his mental illness the defendant poses an immediate physical
-danger to self or others, including jeopardizing his own or others' safety,
-health, or welfare if placed in a correctional or probation setting, or lacks
-the ability to provide the basic necessities of life, such as food, clothing,
-and shelter, if placed on probation; and
-(B)  the department is able to provide the defendant with treatment, care,
-custody, and security that is adequate and appropriate to the defendant's
-conditions and needs;
+
+(A)  because of his mental illness the defendant poses an immediate physical danger to self or others, including jeopardizing his own or others' safety, health, or welfare if placed in a correctional or probation setting, or lacks the ability to provide the basic necessities of life, such as food, clothing, and shelter, if placed on probation; and
+
+(B)  the department is able to provide the defendant with treatment, care, custody, and security that is adequate and appropriate to the defendant's conditions and needs;
+
 (b)  order probation in accordance with Section 77-16a-201; or
-(c)  if the court determines that commitment to the department under
-Subsection (3)(a) or probation under Subsection (3)(b) is not appropriate, the
-court shall place the defendant in the custody of UDC or a county jail as
-allowed by law.
-(4)  In order to insure that the requirements of Subsection (3)(a) are met,
-the court shall, prior to making a determination, notify the executive
-director of the proposed placement and provide the department with an
-opportunity to evaluate the defendant and make a recommendation to the court
-regarding placement prior to commitment.
-(5)  If the court finds that the defendant is not currently mentally ill, it
-shall sentence the defendant as it would any other defendant.
-(6)  Expenses for examinations ordered under this section shall be paid in
-accordance with Subsection 77-16a-103(5).
+
+(c)  if the court determines that commitment to the department under Subsection (3)(a) or probation under Subsection (3)(b) is not appropriate, the court shall place the defendant in the custody of UDC or a county jail as allowed by law.
+
+(4)  In order to insure that the requirements of Subsection (3)(a) are met, the court shall, prior to making a determination, notify the executive director of the proposed placement and provide the department with an opportunity to evaluate the defendant and make a recommendation to the court regarding placement prior to commitment.
+
+(5)  If the court finds that the defendant is not currently mentally ill, it shall sentence the defendant as it would any other defendant.
+
+(6)  Expenses for examinations ordered under this section shall be paid in accordance with Subsection 77-16a-103(5).
+

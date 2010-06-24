@@ -1,85 +1,44 @@
-76-10-1605.   Remedies of person injured by a pattern of unlawful activity
--- Double damages -- Costs, including attorney fees -- Arbitration -- Agency
--- Burden of proof -- Actions by attorney general or county attorney --
-Dismissal -- Statute of limitations -- Authorized orders of district court.
-(1)  A person injured in his person, business, or property by a person engaged
-in conduct forbidden by any provision of Section 76-10-1603 may sue in an
-appropriate district court and recover twice the damages he sustains,
-regardless of whether:
-(a)  the injury is separate or distinct from the injury suffered as a result
-of the acts or conduct constituting the pattern of unlawful conduct alleged as
-part of the cause of action; or
-(b)  the conduct has been adjudged criminal by any court of the state or of
-the United States.
-(2)  A party who prevails on a cause of action brought under this section
-recovers the cost of the suit, including reasonable attorney fees.
-(3)  All actions arising under this section which are grounded in fraud are
-subject to arbitration under Title 78B, Chapter 11, Utah Uniform Arbitration
-Act.
-(4)  In all actions under this section, a principal is liable for actual
-damages for harm caused by an agent acting within the scope of either his
-employment or apparent authority.  A principal is liable for double damages
-only if the pattern of unlawful activity alleged and proven as part of the
-cause of action was authorized, solicited, requested, commanded, undertaken,
-performed, or recklessly tolerated by the board of directors or a high
-managerial agent acting within the scope of his employment.
-(5)  In all actions arising under this section, the burden of proof is clear
-and convincing evidence.
-(6)  The attorney general, county attorney, or, if within a prosecution
-district, the district attorney may maintain actions under this section on
-behalf of the state, the county, or any person injured by a person engaged in
-conduct forbidden by any provision of Section 76-10-1603, to prevent,
-restrain, or remedy injury as defined in this section and may recover the
-damages and costs allowed by this section.
-(7)  In all actions under this section, the elements of each claim or cause of
-action shall be stated with particularity against each defendant.
-(8)  If an action, claim, or counterclaim brought or asserted by a private
-party under this section is dismissed prior to trial or disposed of on summary
-judgment, or if it is determined at trial that there is no liability, the
-prevailing party shall recover from the party who brought the action or
-asserted the claim or counterclaim the amount of its reasonable expenses
-incurred because of the defense against the action, claim, or counterclaim,
-including a reasonable attorney's fee.
-(9)  An action or proceeding brought under this section shall be commenced
-within three years after the conduct prohibited by Section 76-10-1603
-terminates or the cause of action accrues, whichever is later.  This provision
-supersedes any limitation to the contrary.
-(10) (a)  In any action brought under this section, the district court has
-jurisdiction to prevent, restrain, or remedy injury as defined by this section
-by issuing appropriate orders after making provisions for the rights of
-innocent persons.
-(b)  Before liability is determined in any action brought under this section,
-the district court may:
+76-10-1605.   Remedies of person injured by a pattern of unlawful activity -- Double damages -- Costs, including attorney fees -- Arbitration -- Agency -- Burden of proof -- Actions by attorney general or county attorney -- Dismissal -- Statute of limitations -- Authorized orders of district court.
+
+(1)  A person injured in his person, business, or property by a person engaged in conduct forbidden by any provision of Section 76-10-1603 may sue in an appropriate district court and recover twice the damages he sustains, regardless of whether:
+
+(a)  the injury is separate or distinct from the injury suffered as a result of the acts or conduct constituting the pattern of unlawful conduct alleged as part of the cause of action; or
+
+(b)  the conduct has been adjudged criminal by any court of the state or of the United States.
+
+(2)  A party who prevails on a cause of action brought under this section recovers the cost of the suit, including reasonable attorney fees.
+
+(3)  All actions arising under this section which are grounded in fraud are subject to arbitration under Title 78B, Chapter 11, Utah Uniform Arbitration Act.
+
+(4)  In all actions under this section, a principal is liable for actual damages for harm caused by an agent acting within the scope of either his employment or apparent authority.  A principal is liable for double damages only if the pattern of unlawful activity alleged and proven as part of the cause of action was authorized, solicited, requested, commanded, undertaken, performed, or recklessly tolerated by the board of directors or a high managerial agent acting within the scope of his employment.
+
+(5)  In all actions arising under this section, the burden of proof is clear and convincing evidence.
+
+(6)  The attorney general, county attorney, or, if within a prosecution district, the district attorney may maintain actions under this section on behalf of the state, the county, or any person injured by a person engaged in conduct forbidden by any provision of Section 76-10-1603, to prevent, restrain, or remedy injury as defined in this section and may recover the damages and costs allowed by this section.
+
+(7)  In all actions under this section, the elements of each claim or cause of action shall be stated with particularity against each defendant.
+
+(8)  If an action, claim, or counterclaim brought or asserted by a private party under this section is dismissed prior to trial or disposed of on summary judgment, or if it is determined at trial that there is no liability, the prevailing party shall recover from the party who brought the action or asserted the claim or counterclaim the amount of its reasonable expenses incurred because of the defense against the action, claim, or counterclaim, including a reasonable attorney's fee.
+
+(9)  An action or proceeding brought under this section shall be commenced within three years after the conduct prohibited by Section 76-10-1603 terminates or the cause of action accrues, whichever is later.  This provision supersedes any limitation to the contrary.
+
+(10) (a)  In any action brought under this section, the district court has jurisdiction to prevent, restrain, or remedy injury as defined by this section by issuing appropriate orders after making provisions for the rights of innocent persons.
+
+(b)  Before liability is determined in any action brought under this section, the district court may:
+
 (i)  issue restraining orders and injunctions;
-(ii)  require satisfactory performance bonds or any other bond it considers
-appropriate and necessary in connection with any property or any requirement
-imposed upon a party by the court; and
+
+(ii)  require satisfactory performance bonds or any other bond it considers appropriate and necessary in connection with any property or any requirement imposed upon a party by the court; and
+
 (iii)  enter any other order the court considers necessary and proper.
-(c)  After a determination of liability, the district court may, in addition
-to granting the relief allowed in Subsection (1), do any one or all of the
-following:
-(i)  order any person to divest himself of any interest in or any control,
-direct or indirect, of any enterprise;
-(ii)  impose reasonable restrictions on the future activities or investments
-of any person, including prohibiting any person from engaging in the same type
-of endeavor as the enterprise engaged in, to the extent the Utah Constitution
-and the Constitution of the United States permit; or
+
+(c)  After a determination of liability, the district court may, in addition to granting the relief allowed in Subsection (1), do any one or all of the following:
+
+(i)  order any person to divest himself of any interest in or any control, direct or indirect, of any enterprise;
+
+(ii)  impose reasonable restrictions on the future activities or investments of any person, including prohibiting any person from engaging in the same type of endeavor as the enterprise engaged in, to the extent the Utah Constitution and the Constitution of the United States permit; or
+
 (iii)  order the dissolution or reorganization of any enterprise.
-(d)  However, if an action is brought to obtain any relief provided by this
-section, and if the conduct prohibited by Section 76-10-1603 has for its
-pattern of unlawful activity acts or conduct illegal under Section 76-10-1204,
-76-10-1205, 76-10-1206, or 76-10-1222, the court may not enter any order that
-would amount to a prior restraint on the exercise of an affected party's
-rights under the First Amendment to the Constitution of the United States, or
-Article I, Sec. 15 of the Utah Constitution.  The court shall, upon the
-request of any affected party, and upon the notice to all parties, prior to
-the issuance of any order provided for in this subsection, and at any later
-time, hold hearings as necessary to determine whether any materials at issue
-are obscene or pornographic and to determine if there is probable cause to
-believe that any act or conduct alleged violates Section 76-10-1204,
-76-10-1205, 76-10-1206, or 76-10-1222.  In making its findings the court shall
-be guided by the same considerations required of a court making similar
-findings in criminal cases brought under Section 76-10-1204, 76-10-1205,
-76-10-1206, or 76-10-1222, including, but not limited to, the definitions in
-Sections 76-10-1201, 76-10-1203, and 76-10-1216, and the exemptions in Section
-76-10-1226.
+
+(d)  However, if an action is brought to obtain any relief provided by this section, and if the conduct prohibited by Section 76-10-1603 has for its pattern of unlawful activity acts or conduct illegal under Section 76-10-1204, 76-10-1205, 76-10-1206, or 76-10-1222, the court may not enter any order that would amount to a prior restraint on the exercise of an affected party's rights under the First Amendment to the Constitution of the United States, or Article I, Sec. 15 of the Utah Constitution.  The court shall, upon the request of any affected party, and upon the notice to all parties, prior to the issuance of any order provided for in this subsection, and at any later time, hold hearings as necessary to determine whether any materials at issue are obscene or pornographic and to determine if there is probable cause to believe that any act or conduct alleged violates Section 76-10-1204, 76-10-1205, 76-10-1206, or 76-10-1222.  In making its findings the court shall be guided by the same considerations required of a court making similar findings in criminal cases brought under Section 76-10-1204, 76-10-1205, 76-10-1206, or 76-10-1222, including, but not limited to, the definitions in Sections 76-10-1201, 76-10-1203, and 76-10-1216, and the exemptions in Section 76-10-1226.
+

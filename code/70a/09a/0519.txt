@@ -1,63 +1,56 @@
-70A-9a-519.    Numbering, maintaining, and indexing records -- Communicating
-information provided in records.
+70A-9a-519.    Numbering, maintaining, and indexing records -- Communicating information provided in records.
+
 (1)  For each record filed in a filing office, the filing office shall:
+
 (a)  assign a unique number to the filed record;
-(b)  create a record that bears the number assigned to the filed record and
-the date and time of filing;
+
+(b)  create a record that bears the number assigned to the filed record and the date and time of filing;
+
 (c)  maintain the filed record for public inspection; and
+
 (d)  index the filed record in accordance with Subsections (3), (4), and (5).
+
 (2)  A file number assigned after January 1, 2004, must include a digit that:
-(a)  is mathematically derived from or related to the other digits of the file
-number; and
-(b)  aids the filing office in determining whether a number communicated as
-the file number includes a single-digit or transpositional error.
-(3)  Except as otherwise provided in Subsections (4) and (5), the filing
-office shall:
-(a)  index an initial financing statement according to the name of the debtor
-and index all filed records relating to the initial financing statement in a
-manner that associates with one another an initial financing statement and all
-filed records relating to the initial financing statement; and
-(b)  index a record that provides a name of a debtor which was not previously
-provided in the financing statement to which the record relates also according
-to the name that was not previously provided.
-(4) If a financing statement is filed as a fixture filing or covers as-
-extracted collateral or timber to be cut, it must be filed for record and the
-filing office shall index it:
-(a)  under the names of the debtor and of each owner of record shown on the
-financing statement as if they were the mortgagors under a mortgage of the
-real property described; and
-(b)  to the extent that the law of this state provides for indexing of records
-of mortgages under the name of the mortgagee, under the name of the secured
-party as if the secured party were the mortgagee thereunder, or, if indexing
-is by description, as if the financing statement were a record of a mortgage
-of the real property described.
-(5)  If a financing statement is filed as a fixture filing or covers as-
-extracted collateral or timber to be cut, the filing office shall index an
-assignment filed under Subsection 70A-9a-514(1) or an amendment filed under
-Subsection 70A-9a-514(2):
+
+(a)  is mathematically derived from or related to the other digits of the file number; and
+
+(b)  aids the filing office in determining whether a number communicated as the file number includes a single-digit or transpositional error.
+
+(3)  Except as otherwise provided in Subsections (4) and (5), the filing office shall:
+
+(a)  index an initial financing statement according to the name of the debtor and index all filed records relating to the initial financing statement in a manner that associates with one another an initial financing statement and all filed records relating to the initial financing statement; and
+
+(b)  index a record that provides a name of a debtor which was not previously provided in the financing statement to which the record relates also according to the name that was not previously provided.
+
+(4) If a financing statement is filed as a fixture filing or covers as-extracted collateral or timber to be cut, it must be filed for record and the filing office shall index it:
+
+(a)  under the names of the debtor and of each owner of record shown on the financing statement as if they were the mortgagors under a mortgage of the real property described; and
+
+(b)  to the extent that the law of this state provides for indexing of records of mortgages under the name of the mortgagee, under the name of the secured party as if the secured party were the mortgagee thereunder, or, if indexing is by description, as if the financing statement were a record of a mortgage of the real property described.
+
+(5)  If a financing statement is filed as a fixture filing or covers as-extracted collateral or timber to be cut, the filing office shall index an assignment filed under Subsection 70A-9a-514(1) or an amendment filed under Subsection 70A-9a-514(2):
+
 (a)  under the name of the assignor as grantor; and
-(b)  to the extent that the law of this state provides for indexing a record
-of the assignment of a mortgage under the name of the assignee, under the name
-of the assignee, or, if indexing is by description, as if the financing
-statement were a record of a mortgage of the real property described.
+
+(b)  to the extent that the law of this state provides for indexing a record of the assignment of a mortgage under the name of the assignee, under the name of the assignee, or, if indexing is by description, as if the financing statement were a record of a mortgage of the real property described.
+
 (6) The filing office shall maintain a capability:
+
 (a)  to retrieve a record by the name of the debtor and:
+
 (i)  if the filing office is described in Subsection 70A-9a-501(1)(a):
-(A)  by the entry number assigned to the initial financing statement to which
-the record relates and the book and page that the record was filed or
-recorded; or
+
+(A)  by the entry number assigned to the initial financing statement to which the record relates and the book and page that the record was filed or recorded; or
+
 (B)  by the legal description of the real property; or
-(ii)  if the filing office is described in Subsection 70A-9a-501(1)(b), by the
-file number assigned to the initial financing statement to which the record
-relates; and
-(b)  to associate and retrieve with one another an initial financing statement
-and each filed record relating to the initial financing statement.
-(7) The filing office may not remove a debtor's name from the index until one
-year after the effectiveness of a financing statement naming the debtor lapses
-under Section 70A-9a-515 with respect to all secured parties of record.
-(8)  The filing office shall perform the acts required by Subsections (1)
-through (5) at the time and in the manner prescribed by filing-office rule,
-but not later than two business days after the filing office receives the
-record in question.
-(9) Subsections (2) and (8) do not apply to a filing office described in
-Subsection 70A-9a-501(1)(a).
+
+(ii)  if the filing office is described in Subsection 70A-9a-501(1)(b), by the file number assigned to the initial financing statement to which the record relates; and
+
+(b)  to associate and retrieve with one another an initial financing statement and each filed record relating to the initial financing statement.
+
+(7) The filing office may not remove a debtor's name from the index until one year after the effectiveness of a financing statement naming the debtor lapses under Section 70A-9a-515 with respect to all secured parties of record.
+
+(8)  The filing office shall perform the acts required by Subsections (1) through (5) at the time and in the manner prescribed by filing-office rule, but not later than two business days after the filing office receives the record in question.
+
+(9) Subsections (2) and (8) do not apply to a filing office described in Subsection 70A-9a-501(1)(a).
+

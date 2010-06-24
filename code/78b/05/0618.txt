@@ -1,14 +1,8 @@
 78B-5-618.   Patient access to medical records.
-(1)  Pursuant to 45 C.F.R., Parts 160 and 164, Standards for Privacy of
-Individually Identifiable Health Information, a patient or a patient's
-personal representative may inspect or receive a copy of the patient's records
-from a health care provider as defined in Section 78B-3-403, when that health
-care provider is governed by the provisions of 45 C.F.R., Parts 160 and 164.
-(2)  When a health care provider as defined in Section 78B-3-403 is not
-governed by 45 C.F.R., Parts 160 and 164, Standards for Privacy of
-Individually Identifiable Health Information, a patient or a patient's
-personal representative may inspect or receive a copy of the patient's records
-unless access to the records is restricted by law or judicial order.
-(3)  A health care provider who provides a copy of a patient's records to the
-patient or the patient's personal representative may charge a reasonable fee
-to cover the health care provider's costs.
+
+(1)  Pursuant to 45 C.F.R., Parts 160 and 164, Standards for Privacy of Individually Identifiable Health Information, a patient or a patient's personal representative may inspect or receive a copy of the patient's records from a health care provider as defined in Section 78B-3-403, when that health care provider is governed by the provisions of 45 C.F.R., Parts 160 and 164.
+
+(2)  When a health care provider as defined in Section 78B-3-403 is not governed by 45 C.F.R., Parts 160 and 164, Standards for Privacy of Individually Identifiable Health Information, a patient or a patient's personal representative may inspect or receive a copy of the patient's records unless access to the records is restricted by law or judicial order.
+
+(3)  A health care provider who provides a copy of a patient's records to the patient or the patient's personal representative may charge a reasonable fee to cover the health care provider's costs.
+

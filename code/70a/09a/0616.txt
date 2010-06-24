@@ -1,59 +1,54 @@
 70A-9a-616.   Explanation of calculation of surplus or deficiency.
+
 (1)  In this section:
+
 (a)  "Explanation" means a writing that:
+
 (i)  states the amount of the surplus or deficiency;
-(ii)  provides an explanation in accordance with Subsection (3) of how the
-secured party calculated the surplus or deficiency;
-(iii)  states, if applicable, that future debits, credits, charges, including
-additional credit service charges or interest, rebates, and expenses may
-affect the amount of the surplus or deficiency; and
-(iv)  provides a telephone number or mailing address from which additional
-information concerning the transaction is available.
+
+(ii)  provides an explanation in accordance with Subsection (3) of how the secured party calculated the surplus or deficiency;
+
+(iii)  states, if applicable, that future debits, credits, charges, including additional credit service charges or interest, rebates, and expenses may affect the amount of the surplus or deficiency; and
+
+(iv)  provides a telephone number or mailing address from which additional information concerning the transaction is available.
+
 (b)  "Request" means a record:
+
 (i)  authenticated by a debtor or consumer obligor;
+
 (ii)  requesting that the recipient provide an explanation; and
+
 (iii)  sent after disposition of the collateral under Section 70A-9a-610.
-(2)  In a consumer-goods transaction in which the debtor is entitled to a
-surplus or a consumer obligor is liable for a deficiency under Section 70A-
-9a-615, the secured party shall:
-(a)  send an explanation to the debtor or consumer obligor, as applicable,
-after the disposition and:
-(i)  before or when the secured party accounts to the debtor and pays any
-surplus or first makes written demand on the consumer obligor after the
-disposition for payment of the deficiency; and
+
+(2)  In a consumer-goods transaction in which the debtor is entitled to a surplus or a consumer obligor is liable for a deficiency under Section 70A-9a-615, the secured party shall:
+
+(a)  send an explanation to the debtor or consumer obligor, as applicable, after the disposition and:
+
+(i)  before or when the secured party accounts to the debtor and pays any surplus or first makes written demand on the consumer obligor after the disposition for payment of the deficiency; and
+
 (ii)  within 14 days after receipt of a request; or
-(b)  in the case of a consumer obligor who is liable for a deficiency, within
-14 days after receipt of a request, send to the consumer obligor a record
-waiving the secured party's right to a deficiency.
-(3) To comply with Subsection (1)(a)(ii), a writing must provide the following
-information in the following order:
-(a)  the aggregate amount of obligations secured by the security interest
-under which the disposition was made, and, if the amount reflects a rebate of
-unearned interest or credit service charge, an indication of that fact,
-calculated as of a specified date:
-(i)  if the secured party takes or receives possession of the collateral after
-default, not more than 35 days before the secured party takes or receives
-possession; or
-(ii)  if the secured party takes or receives possession of the collateral
-before default or does not take possession of the collateral, not more than 35
-days before the disposition;
+
+(b)  in the case of a consumer obligor who is liable for a deficiency, within 14 days after receipt of a request, send to the consumer obligor a record waiving the secured party's right to a deficiency.
+
+(3) To comply with Subsection (1)(a)(ii), a writing must provide the following information in the following order:
+
+(a)  the aggregate amount of obligations secured by the security interest under which the disposition was made, and, if the amount reflects a rebate of unearned interest or credit service charge, an indication of that fact, calculated as of a specified date:
+
+(i)  if the secured party takes or receives possession of the collateral after default, not more than 35 days before the secured party takes or receives possession; or
+
+(ii)  if the secured party takes or receives possession of the collateral before default or does not take possession of the collateral, not more than 35 days before the disposition;
+
 (b)  the amount of proceeds of the disposition;
-(c)  the aggregate amount of the obligations after deducting the amount of
-proceeds;
-(d)  the amount, in the aggregate or by type, and types of expenses, including
-expenses of retaking, holding, preparing for disposition, processing, and
-disposing of the collateral, and attorney's fees secured by the collateral
-which are known to the secured party and relate to the current disposition;
-(e)  the amount, in the aggregate or by type, and types of credits, including
-rebates of interest or credit service charges, to which the obligor is known
-to be entitled and which are not reflected in the amount in Subsection (3)(a);
-and
+
+(c)  the aggregate amount of the obligations after deducting the amount of proceeds;
+
+(d)  the amount, in the aggregate or by type, and types of expenses, including expenses of retaking, holding, preparing for disposition, processing, and disposing of the collateral, and attorney's fees secured by the collateral which are known to the secured party and relate to the current disposition;
+
+(e)  the amount, in the aggregate or by type, and types of credits, including rebates of interest or credit service charges, to which the obligor is known to be entitled and which are not reflected in the amount in Subsection (3)(a); and
+
 (f)  the amount of the surplus or deficiency.
-(4)  A particular phrasing of the explanation is not required.  An explanation
-complying substantially with the requirements of Subsection (1) is sufficient,
-even if it includes minor errors that are not seriously misleading.
-(5)  A debtor or consumer obligor is entitled without charge to one response
-to a request under this section during any six-month period in which the
-secured party did not send to the debtor or consumer obligor an explanation
-pursuant to Subsection (2)(a).  The secured party may require payment of a
-charge not exceeding $25 for each additional response.
+
+(4)  A particular phrasing of the explanation is not required.  An explanation complying substantially with the requirements of Subsection (1) is sufficient, even if it includes minor errors that are not seriously misleading.
+
+(5)  A debtor or consumer obligor is entitled without charge to one response to a request under this section during any six-month period in which the secured party did not send to the debtor or consumer obligor an explanation pursuant to Subsection (2)(a).  The secured party may require payment of a charge not exceeding $25 for each additional response.
+

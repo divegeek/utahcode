@@ -1,31 +1,20 @@
 53B-23-102.   Definitions.
+
 For purposes of this chapter:
-(1) (a)  "Instructional material or materials" means textbooks and other
-materials written and published primarily for use by students in postsecondary
-instruction that are required or essential to a student's success in a course
-of study in which a student with a disability is enrolled.  The determination
-of which materials are "required or essential to student success" shall be
-made by the instructor of the course in consultation with the official making
-the request pursuant to Section 53B-23-103 in accordance with rules issued
-pursuant to Section 53B-23-106.
-(b)  "Instructional material or materials" does not include nontextual
-mathematics and science materials until the time software becomes commercially
-available that permits the conversion of existing electronic files of the
-materials into a format that is compatible with braille translation software
-or alternative media for students with disabilities.
-(2)  "Printed instructional material or materials" means instructional
-material or materials in book or other printed form.
-(3)  "Nonprinted instructional materials" means instructional materials in
-formats other than print, and includes instructional materials that require
-the availability of electronic equipment in order to be used as a learning
-resource, including software programs, video disks, and video and audio tapes.
-(4)  "State institution of higher education" means an institution listed in
-Section 53B-2-101.
-(5)  "Specialized format" means braille, audio, or digital text that is
-exclusively for use by blind or other persons with disabilities.
-(6) (a)  "Structural integrity" means all of the printed instructional
-material, including the text of the material, sidebars, the table of contents,
-chapter headings and subheadings, footnotes, indexes, glossaries, and
-bibliographies.
-(b)  "Structural integrity" need not include nontextual elements such as
-pictures, illustrations, graphs, or charts.
+
+(1) (a)  "Instructional material or materials" means textbooks and other materials written and published primarily for use by students in postsecondary instruction that are required or essential to a student's success in a course of study in which a student with a disability is enrolled.  The determination of which materials are "required or essential to student success" shall be made by the instructor of the course in consultation with the official making the request pursuant to Section 53B-23-103 in accordance with rules issued pursuant to Section 53B-23-106.
+
+(b)  "Instructional material or materials" does not include nontextual mathematics and science materials until the time software becomes commercially available that permits the conversion of existing electronic files of the materials into a format that is compatible with braille translation software or alternative media for students with disabilities.
+
+(2)  "Printed instructional material or materials" means instructional material or materials in book or other printed form.
+
+(3)  "Nonprinted instructional materials" means instructional materials in formats other than print, and includes instructional materials that require the availability of electronic equipment in order to be used as a learning resource, including software programs, video disks, and video and audio tapes.
+
+(4)  "State institution of higher education" means an institution listed in Section 53B-2-101.
+
+(5)  "Specialized format" means braille, audio, or digital text that is exclusively for use by blind or other persons with disabilities.
+
+(6) (a)  "Structural integrity" means all of the printed instructional material, including the text of the material, sidebars, the table of contents, chapter headings and subheadings, footnotes, indexes, glossaries, and bibliographies.
+
+(b)  "Structural integrity" need not include nontextual elements such as pictures, illustrations, graphs, or charts.
+

@@ -1,67 +1,52 @@
-62A-11-502.   Child support orders issued or modified on or after January 1,
-1994 -- Immediate income withholding.
-(1)  With regard to obligees or obligors who are not receiving IV-D services,
-each child support order issued or modified on or after January 1, 1994,
-subjects the income of an obligor to immediate income withholding as of the
-effective date of the order, regardless of whether a delinquency occurs
-unless:
-(a)  the court or administrative body that entered the order finds that one of
-the parties has demonstrated good cause so as not to require immediate income
-withholding; or
-(b)  a written agreement which provides an alternative payment arrangement is
-executed by the obligor and obligee, and reviewed and entered in the record by
-the court or administrative body.
+62A-11-502.   Child support orders issued or modified on or after January 1, 1994 -- Immediate income withholding.
+
+(1)  With regard to obligees or obligors who are not receiving IV-D services, each child support order issued or modified on or after January 1, 1994, subjects the income of an obligor to immediate income withholding as of the effective date of the order, regardless of whether a delinquency occurs unless:
+
+(a)  the court or administrative body that entered the order finds that one of the parties has demonstrated good cause so as not to require immediate income withholding; or
+
+(b)  a written agreement which provides an alternative payment arrangement is executed by the obligor and obligee, and reviewed and entered in the record by the court or administrative body.
+
 (2)  For purposes of this section:
-(a)  an action on or after January 1, 1994, to reduce child support arrears to
-judgment, without a corresponding establishment of or modification to a base
-child support amount, is not sufficient to trigger immediate income
-withholding;
+
+(a)  an action on or after January 1, 1994, to reduce child support arrears to judgment, without a corresponding establishment of or modification to a base child support amount, is not sufficient to trigger immediate income withholding;
+
 (b)  "good cause" shall be based on, at a minimum:
-(i)  a determination and explanation on the record by the court or
-administrative body that implementation of income withholding would not be in
-the best interest of the child; and
+
+(i)  a determination and explanation on the record by the court or administrative body that implementation of income withholding would not be in the best interest of the child; and
+
 (ii)  proof of timely payment of any previously ordered support;
-(c)  in determining "good cause," the court or administrative body may, in
-addition to any other requirement it considers appropriate, consider whether
-the obligor has:
-(i)  obtained a bond, deposited money in trust for the benefit of the
-dependent children, or otherwise made arrangements sufficient to guarantee
-child support payments for at least two months;
-(ii)  arranged to deposit all child support payments into a checking account
-belonging to the obligee, or made arrangements insuring that a reliable and
-independent record of the date and place of child support payments will be
-maintained; or
-(iii)  arranged for electronic transfer of funds on a regular basis to meet
-court-ordered child support obligations.
-(3)  In cases where the court or administrative body that entered the order
-finds a demonstration of good cause or enters a written agreement that
-immediate income withholding is not required, in accordance with this section,
-any party may subsequently pursue income withholding on the earliest of the
-following dates:
+
+(c)  in determining "good cause," the court or administrative body may, in addition to any other requirement it considers appropriate, consider whether the obligor has:
+
+(i)  obtained a bond, deposited money in trust for the benefit of the dependent children, or otherwise made arrangements sufficient to guarantee child support payments for at least two months;
+
+(ii)  arranged to deposit all child support payments into a checking account belonging to the obligee, or made arrangements insuring that a reliable and independent record of the date and place of child support payments will be maintained; or
+
+(iii)  arranged for electronic transfer of funds on a regular basis to meet court-ordered child support obligations.
+
+(3)  In cases where the court or administrative body that entered the order finds a demonstration of good cause or enters a written agreement that immediate income withholding is not required, in accordance with this section, any party may subsequently pursue income withholding on the earliest of the following dates:
+
 (a)  the date payment of child support becomes delinquent;
+
 (b)  the date the obligor requests;
-(c)  the date the obligee requests if a written agreement under Subsection
-(1)(b) exists; or
+
+(c)  the date the obligee requests if a written agreement under Subsection (1)(b) exists; or
+
 (d)  the date the court or administrative body so modifies that order.
-(4)  The court shall include in every child support order issued or modified
-on or after January 1, 1994, a provision that the income of an obligor is
-subject to income withholding in accordance with this chapter; however, if for
-any reason that provision is not included in the child support order, the
-obligor's income is nevertheless subject to income withholding.
-(5) (a)  In any action to establish or modify a child support order after July
-1, 1997, the court, upon request by the obligee or obligor, shall commence
-immediate income withholding by ordering the clerk of the court or the
-requesting party to:
-(i)  mail written notice to the payor at the payor's last-known address that
-contains the information required by Section 62A-11-506; and
-(ii)  mail a copy of the written notice sent to the payor under Subsection
-(5)(a)(i) and a copy of the support order to the office.
-(b)  If neither the obligee nor obligor requests commencement of income
-withholding under Subsection (5)(a), the court shall include in the order to
-establish or modify child support a provision that the obligor or obligee may
-commence income withholding by:
+
+(4)  The court shall include in every child support order issued or modified on or after January 1, 1994, a provision that the income of an obligor is subject to income withholding in accordance with this chapter; however, if for any reason that provision is not included in the child support order, the obligor's income is nevertheless subject to income withholding.
+
+(5) (a)  In any action to establish or modify a child support order after July 1, 1997, the court, upon request by the obligee or obligor, shall commence immediate income withholding by ordering the clerk of the court or the requesting party to:
+
+(i)  mail written notice to the payor at the payor's last-known address that contains the information required by Section 62A-11-506; and
+
+(ii)  mail a copy of the written notice sent to the payor under Subsection (5)(a)(i) and a copy of the support order to the office.
+
+(b)  If neither the obligee nor obligor requests commencement of income withholding under Subsection (5)(a), the court shall include in the order to establish or modify child support a provision that the obligor or obligee may commence income withholding by:
+
 (i)  applying for IV-D services with the office; or
-(ii)  filing an ex parte motion with a district court of competent
-jurisdiction pursuant to Section 62A-11-504.
-(c)  A payor who receives written notice under Subsection (5)(a)(i) shall
-comply with the requirements of Section 62A-11-507.
+
+(ii)  filing an ex parte motion with a district court of competent jurisdiction pursuant to Section 62A-11-504.
+
+(c)  A payor who receives written notice under Subsection (5)(a)(i) shall comply with the requirements of Section 62A-11-507.
+

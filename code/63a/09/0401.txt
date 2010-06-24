@@ -1,127 +1,156 @@
 63A-9-401.   Division -- Duties.
+
 (1)  The division shall:
-(a)  perform all administrative duties and functions related to management of
-state vehicles;
+
+(a)  perform all administrative duties and functions related to management of state vehicles;
+
 (b)  coordinate all purchases of state vehicles;
-(c)  establish one or more fleet automation and information systems for state
-vehicles;
+
+(c)  establish one or more fleet automation and information systems for state vehicles;
+
 (d)  make rules establishing requirements for:
+
 (i)  maintenance operations for state vehicles;
+
 (ii)  use requirements for state vehicles;
+
 (iii)  fleet safety and loss prevention programs;
+
 (iv)  preventative maintenance programs;
+
 (v)  procurement of state vehicles, including:
+
 (A)  vehicle standards;
+
 (B)  alternative fuel vehicle requirements;
+
 (C)  short-term lease programs;
+
 (D)  equipment installation; and
+
 (E)  warranty recovery programs;
+
 (vi)  fuel management programs;
+
 (vii)  cost management programs;
+
 (viii)  business and personal use practices, including commute standards;
+
 (ix)  cost recovery and billing procedures;
+
 (x)  disposal of state vehicles;
-(xi)  reassignment of state vehicles and reallocation of vehicles throughout
-the fleet;
+
+(xi)  reassignment of state vehicles and reallocation of vehicles throughout the fleet;
+
 (xii)  standard use and rate structures for state vehicles; and
+
 (xiii)  insurance and risk management requirements;
+
 (e)  establish a parts inventory;
-(f)  create and administer a fuel dispensing services program that meets the
-requirements of Subsection (2);
-(g)  emphasize customer service when dealing with agencies and agency
-employees;
-(h)  conduct an annual audit of all state vehicles for compliance with
-division requirements;
-(i)  before charging a rate, fee, or other amount to an executive branch
-agency, or to a subscriber of services other than an executive branch agency:
-(i)  submit the proposed rates, fees, and cost analysis to the Rate Committee
-established in Section 63A-1-114; and
-(ii)  obtain the approval of the Legislature as required by Section 63J-1-410;
-and
-(j)  conduct an annual market analysis of proposed rates and fees, which
-analysis shall include a comparison of the division's rates and fees with the
-fees of other public or private sector providers where comparable services and
-rates are reasonably available.
-(2)  The division shall operate a fuel dispensing services program in a manner
-that:
-(a)  reduces the risk of environmental damage and subsequent liability for
-leaks involving state-owned underground storage tanks;
-(b)  eliminates fuel site duplication and reduces overall costs associated
-with fuel dispensing;
-(c)  provides efficient fuel management and efficient and accurate accounting
-of fuel-related expenses;
-(d)  where practicable, privatizes portions of the state's fuel dispensing
-system;
+
+(f)  create and administer a fuel dispensing services program that meets the requirements of Subsection (2);
+
+(g)  emphasize customer service when dealing with agencies and agency employees;
+
+(h)  conduct an annual audit of all state vehicles for compliance with division requirements;
+
+(i)  before charging a rate, fee, or other amount to an executive branch agency, or to a subscriber of services other than an executive branch agency:
+
+(i)  submit the proposed rates, fees, and cost analysis to the Rate Committee established in Section 63A-1-114; and
+
+(ii)  obtain the approval of the Legislature as required by Section 63J-1-410; and
+
+(j)  conduct an annual market analysis of proposed rates and fees, which analysis shall include a comparison of the division's rates and fees with the fees of other public or private sector providers where comparable services and rates are reasonably available.
+
+(2)  The division shall operate a fuel dispensing services program in a manner that:
+
+(a)  reduces the risk of environmental damage and subsequent liability for leaks involving state-owned underground storage tanks;
+
+(b)  eliminates fuel site duplication and reduces overall costs associated with fuel dispensing;
+
+(c)  provides efficient fuel management and efficient and accurate accounting of fuel-related expenses;
+
+(d)  where practicable, privatizes portions of the state's fuel dispensing system;
+
 (e)  provides central planning for fuel contingencies;
-(f)  establishes fuel dispensing sites that meet geographical distribution
-needs and that reflect usage patterns;
+
+(f)  establishes fuel dispensing sites that meet geographical distribution needs and that reflect usage patterns;
+
 (g)  where practicable, uses alternative sources of energy; and
+
 (h)  provides safe, accessible fuel supplies in an emergency.
+
 (3)  The division shall:
-(a)  ensure that the state and each of its agencies comply with state and
-federal law and state and federal rules and regulations governing underground
-storage tanks;
-(b)  coordinate the installation of new state-owned underground storage tanks
-and the upgrading or retrofitting of existing underground storage tanks; and
-(c)  ensure that counties, municipalities, school districts, local districts,
-and special service districts subscribing to services provided by the division
-sign a contract that:
+
+(a)  ensure that the state and each of its agencies comply with state and federal law and state and federal rules and regulations governing underground storage tanks;
+
+(b)  coordinate the installation of new state-owned underground storage tanks and the upgrading or retrofitting of existing underground storage tanks; and
+
+(c)  ensure that counties, municipalities, school districts, local districts, and special service districts subscribing to services provided by the division sign a contract that:
+
 (i)  establishes the duties and responsibilities of the parties;
+
 (ii)  establishes the cost for the services; and
+
 (iii)  defines the liability of the parties.
-(4) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act, the director of the Division of Fleet Operations:
+
+(4) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the director of the Division of Fleet Operations:
+
 (i)  may make rules governing fuel dispensing; and
-(ii)  shall make rules establishing standards and procedures for purchasing
-the most economically appropriate size and type of vehicle for the purposes
-and driving conditions for which the vehicle will be used, including
-procedures for granting exceptions to the standards by the executive director
-of the Department of Administrative Services.
+
+(ii)  shall make rules establishing standards and procedures for purchasing the most economically appropriate size and type of vehicle for the purposes and driving conditions for which the vehicle will be used, including procedures for granting exceptions to the standards by the executive director of the Department of Administrative Services.
+
 (b)  Rules made under Subsection (4)(a)(ii):
-(i)  shall designate a standard vehicle size and type that shall be designated
-as the statewide standard vehicle for fleet expansion and vehicle replacement;
-(ii)  may designate different standard vehicle size and types based on defined
-categories of vehicle use;
-(iii)  may, when determining a standard vehicle size and type for a specific
-category of vehicle use, consider the following factors affecting the vehicle
-class:
+
+(i)  shall designate a standard vehicle size and type that shall be designated as the statewide standard vehicle for fleet expansion and vehicle replacement;
+
+(ii)  may designate different standard vehicle size and types based on defined categories of vehicle use;
+
+(iii)  may, when determining a standard vehicle size and type for a specific category of vehicle use, consider the following factors affecting the vehicle class:
+
 (A)  size requirements;
+
 (B)  economic savings;
+
 (C)  fuel efficiency;
+
 (D)  driving and use requirements;
+
 (E)  safety;
+
 (F)  maintenance requirements; and
+
 (G)  resale value; and
-(iv)  shall require agencies that request a vehicle size and type that is
-different from the standard vehicle size and type to:
-(A)  submit a written request for a nonstandard vehicle to the division that
-contains the following:
-(I)  the make and model of the vehicle requested, including acceptable
-alternate vehicle makes and models as applicable;
+
+(iv)  shall require agencies that request a vehicle size and type that is different from the standard vehicle size and type to:
+
+(A)  submit a written request for a nonstandard vehicle to the division that contains the following:
+
+(I)  the make and model of the vehicle requested, including acceptable alternate vehicle makes and models as applicable;
+
 (II)  the reasons justifying the need for a nonstandard vehicle size or type;
+
 (III)  the date of the request; and
+
 (IV)  the name and signature of the person making the request; and
+
 (B)  obtain the division's written approval for the nonstandard vehicle.
-(5) (a) (i)  Each state agency and each higher education institution shall
-subscribe to the fuel dispensing services provided by the division.
-(ii)  A state agency may not provide or subscribe to any other fuel dispensing
-services, systems, or products other than those provided by the division.
-(b)  Counties, municipalities, school districts, local districts, special
-service districts, and federal agencies may subscribe to the fuel dispensing
-services provided by the division if:
-(i)  the county or municipal legislative body, the school district, or the
-local district or special service district board recommends that the county,
-municipality, school district, local district, or special service district
-subscribe to the fuel dispensing services of the division; and
-(ii)  the division approves participation in the program by that government
-unit.
-(6)  The director, with the approval of the executive director, may delegate
-functions to institutions of higher education, by contract or other means
-authorized by law, if:
-(a)  the agency or institution of higher education has requested the
-authority;
-(b)  in the judgment of the director, the state agency or institution has the
-necessary resources and skills to perform the delegated responsibilities; and
-(c)  the delegation of authority is in the best interest of the state and the
-function delegated is accomplished according to provisions contained in law or
-rule.
+
+(5) (a) (i)  Each state agency and each higher education institution shall subscribe to the fuel dispensing services provided by the division.
+
+(ii)  A state agency may not provide or subscribe to any other fuel dispensing services, systems, or products other than those provided by the division.
+
+(b)  Counties, municipalities, school districts, local districts, special service districts, and federal agencies may subscribe to the fuel dispensing services provided by the division if:
+
+(i)  the county or municipal legislative body, the school district, or the local district or special service district board recommends that the county, municipality, school district, local district, or special service district subscribe to the fuel dispensing services of the division; and
+
+(ii)  the division approves participation in the program by that government unit.
+
+(6)  The director, with the approval of the executive director, may delegate functions to institutions of higher education, by contract or other means authorized by law, if:
+
+(a)  the agency or institution of higher education has requested the authority;
+
+(b)  in the judgment of the director, the state agency or institution has the necessary resources and skills to perform the delegated responsibilities; and
+
+(c)  the delegation of authority is in the best interest of the state and the function delegated is accomplished according to provisions contained in law or rule.
+

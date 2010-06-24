@@ -1,15 +1,10 @@
 78B-8-203.   Drug exception.
-(1)  Punitive damages may not be awarded if a drug causing the claimant's
-harm:
-(a)  received premarket approval or licensure by the Federal Food and Drug
-Administration under the Federal Food, Drug, and Cosmetic Act, 21 U.S.C.
-Section 301 et seq. or the Public Health Service Act, 42 U.S.C. Section 201 et
-seq.;
-(b)  is generally recognized as safe and effective under conditions
-established by the Federal Food and Drug Administration and applicable
-regulations, including packaging and labeling regulations.
-(2)  This limitation on liability for punitive damages does not apply if it is
-shown by clear and convincing evidence that the drug manufacturer knowingly
-withheld or misrepresented information required to be submitted to the Federal
-Food and Drug Administration under its regulations, which information was
-material and relevant to the claimant's harm.
+
+(1)  Punitive damages may not be awarded if a drug causing the claimant's harm:
+
+(a)  received premarket approval or licensure by the Federal Food and Drug Administration under the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. Section 301 et seq. or the Public Health Service Act, 42 U.S.C. Section 201 et seq.;
+
+(b)  is generally recognized as safe and effective under conditions established by the Federal Food and Drug Administration and applicable regulations, including packaging and labeling regulations.
+
+(2)  This limitation on liability for punitive damages does not apply if it is shown by clear and convincing evidence that the drug manufacturer knowingly withheld or misrepresented information required to be submitted to the Federal Food and Drug Administration under its regulations, which information was material and relevant to the claimant's harm.
+

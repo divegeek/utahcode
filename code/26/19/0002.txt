@@ -1,69 +1,82 @@
 26-19-2.   Definitions.
+
 As used in this chapter:
+
 (1)  "Annuity" shall have the same meaning as provided in Section 31A-1-301.
+
 (2)  "Claim" means:
+
 (a)  a request or demand for payment; or
+
 (b)  a cause of action for money or damages arising under any law.
-(3)  "Employee welfare benefit plan" means a medical insurance plan developed
-by an employer under 29 U.S.C. Section 1001, et seq., the Employee Retirement
-Income Security Act of 1974 as amended.
+
+(3)  "Employee welfare benefit plan" means a medical insurance plan developed by an employer under 29 U.S.C. Section 1001, et seq., the Employee Retirement Income Security Act of 1974 as amended.
+
 (4)  "Estate" means, regarding a deceased recipient:
-(a)  all real and personal property or other assets included within a
-decedent's estate as defined in Section 75-1-201;
+
+(a)  all real and personal property or other assets included within a decedent's estate as defined in Section 75-1-201;
+
 (b)  the decedent's augmented estate as defined in Section 75-2-203; and
-(c)  that part of other real or personal property in which the decedent had a
-legal interest at the time of death including assets conveyed to a survivor,
-heir, or assign of the decedent through joint tenancy, tenancy in common,
-survivorship, life estate, living trust, or other arrangement.
+
+(c)  that part of other real or personal property in which the decedent had a legal interest at the time of death including assets conveyed to a survivor, heir, or assign of the decedent through joint tenancy, tenancy in common, survivorship, life estate, living trust, or other arrangement.
+
 (5)  "Health insurance entity" means:
+
 (a)  an insurer;
-(b)  a person who administers, manages, provides, offers, sells, carries, or
-underwrites health insurance, as defined in Section 31A-1-301;
+
+(b)  a person who administers, manages, provides, offers, sells, carries, or underwrites health insurance, as defined in Section 31A-1-301;
+
 (c)  a self-insured plan;
-(d)  a group health plan, as defined in Subsection 607(1) of the federal
-Employee Retirement Income Security Act of 1974;
+
+(d)  a group health plan, as defined in Subsection 607(1) of the federal Employee Retirement Income Security Act of 1974;
+
 (e)  a service benefit plan;
+
 (f)  a managed care organization;
+
 (g)  a pharmacy benefit manager;
+
 (h)  an employee welfare benefit plan; or
-(i)  a person who is, by statute, contract, or agreement, legally responsible
-for payment of a claim for a health care item or service.
+
+(i)  a person who is, by statute, contract, or agreement, legally responsible for payment of a claim for a health care item or service.
+
 (6)  "Insurer" includes:
-(a)  a group health plan as defined in Subsection 607(1) of the federal
-Employee Retirement Income Security Act of 1974;
+
+(a)  a group health plan as defined in Subsection 607(1) of the federal Employee Retirement Income Security Act of 1974;
+
 (b)  a health maintenance organization; and
+
 (c)  any entity offering a health service benefit plan.
+
 (7)  "Medical assistance" means:
-(a)  all funds expended for the benefit of a recipient under Title 26, Chapter
-18, Medical Assistance Act, or under Titles XVIII and XIX, federal Social
-Security Act; and
-(b)  any other services provided for the benefit of a recipient by a prepaid
-health care delivery system under contract with the department.
-(8)  "Office of Recovery Services" means the Office of Recovery Services
-within the Department of Human Services.
+
+(a)  all funds expended for the benefit of a recipient under Title 26, Chapter 18, Medical Assistance Act, or under Titles XVIII and XIX, federal Social Security Act; and
+
+(b)  any other services provided for the benefit of a recipient by a prepaid health care delivery system under contract with the department.
+
+(8)  "Office of Recovery Services" means the Office of Recovery Services within the Department of Human Services.
+
 (9)  "Provider" means a person or entity who provides services to a recipient.
+
 (10)  "Recipient" means:
-(a)  a person who has applied for or received medical assistance from the
-state;
-(b)  the guardian, conservator, or other personal representative of a person
-under Subsection (10)(a) if the person is a minor or an incapacitated person;
-or
-(c)  the estate and survivors of a person under Subsection (10)(a) if the
-person is deceased.
-(11)  "State plan" means the state Medicaid program as enacted in accordance
-with Title XIX, federal Social Security Act.
+
+(a)  a person who has applied for or received medical assistance from the state;
+
+(b)  the guardian, conservator, or other personal representative of a person under Subsection (10)(a) if the person is a minor or an incapacitated person; or
+
+(c)  the estate and survivors of a person under Subsection (10)(a) if the person is deceased.
+
+(11)  "State plan" means the state Medicaid program as enacted in accordance with Title XIX, federal Social Security Act.
+
 (12)  "Third party" includes:
-(a)  an individual, institution, corporation, public or private agency, trust,
-estate, insurance carrier, employee welfare benefit plan, health maintenance
-organization, health service organization, preferred provider organization,
-governmental program such as Medicare, CHAMPUS, and workers' compensation,
-which may be obligated to pay all or part of the medical costs of injury,
-disease, or disability of a recipient, unless any of these are excluded by
-department rule; and
+
+(a)  an individual, institution, corporation, public or private agency, trust, estate, insurance carrier, employee welfare benefit plan, health maintenance organization, health service organization, preferred provider organization, governmental program such as Medicare, CHAMPUS, and workers' compensation, which may be obligated to pay all or part of the medical costs of injury, disease, or disability of a recipient, unless any of these are excluded by department rule; and
+
 (b)  a spouse or a parent who:
-(i)  may be obligated to pay all or part of the medical costs of a recipient
-under law or by court or administrative order; or
-(ii)  has been ordered to maintain health, dental, or accident and health
-insurance to cover medical expenses of a spouse or dependent child by court or
-administrative order.
+
+(i)  may be obligated to pay all or part of the medical costs of a recipient under law or by court or administrative order; or
+
+(ii)  has been ordered to maintain health, dental, or accident and health insurance to cover medical expenses of a spouse or dependent child by court or administrative order.
+
 (13)  "Trust" shall have the same meaning as provided in Section 75-1-201.
+

@@ -1,74 +1,72 @@
 62A-11-103.   Definitions.
+
 As used in this part:
-(1)  "Account" means a demand deposit account, checking or negotiable
-withdrawal order account, savings account, time deposit account, or money-
-market mutual fund account.
-(2)  "Cash medical support" means an obligation to equally share all
-reasonable and necessary medical and dental expenses of children.
-(3)  "Child support services" or "IV-D child support services" means services
-provided pursuant to Part D of Title IV of the Social Security Act, 42 U.S.C.
-Sec. 651, et seq.
+
+(1)  "Account" means a demand deposit account, checking or negotiable withdrawal order account, savings account, time deposit account, or money-market mutual fund account.
+
+(2)  "Cash medical support" means an obligation to equally share all reasonable and necessary medical and dental expenses of children.
+
+(3)  "Child support services" or "IV-D child support services" means services provided pursuant to Part D of Title IV of the Social Security Act, 42 U.S.C. Sec. 651, et seq.
+
 (4)  "Director" means the director of the Office of Recovery Services.
-(5)  "Disposable earnings" means that part of the earnings of an individual
-remaining after the deduction of all amounts required by law to be withheld.
+
+(5)  "Disposable earnings" means that part of the earnings of an individual remaining after the deduction of all amounts required by law to be withheld.
+
 (6)  "Financial institution" means:
-(a)  a depository institution as defined in Section 7-1-103 or the Federal
-Deposit Insurance Act, 12 U.S.C. Sec. 1813(c);
-(b)  an institution-affiliated party as defined in the Federal Deposit
-Insurance Act, 12 U.S.C. Sec. 1813(u);
-(c)  any federal credit union or state credit union as defined in the Federal
-Credit Union Act, 12 U.S.C. Sec. 1752, including an institution-affiliated
-party of such a credit union as defined in 12 U.S.C. Sec. 1786(r);
+
+(a)  a depository institution as defined in Section 7-1-103 or the Federal Deposit Insurance Act, 12 U.S.C. Sec. 1813(c);
+
+(b)  an institution-affiliated party as defined in the Federal Deposit Insurance Act, 12 U.S.C. Sec. 1813(u);
+
+(c)  any federal credit union or state credit union as defined in the Federal Credit Union Act, 12 U.S.C. Sec. 1752, including an institution-affiliated party of such a credit union as defined in 12 U.S.C. Sec. 1786(r);
+
 (d)  a broker-dealer as defined in Section 61-1-13; or
-(e)  any benefit association, insurance company, safe deposit company, money-
-market mutual fund, or similar entity authorized to do business in the state.
-(7)  "Financial record" is defined in the Right to Financial Privacy Act of
-1978, 12 U.S.C. Sec. 3401.
-(8)  "Income" means earnings, compensation, or other payment due to an
-individual, regardless of source, whether denominated as wages, salary,
-commission, bonus, pay, or contract payment, or denominated as advances on
-future wages, salary, commission, bonus, pay, allowances, contract payment, or
-otherwise, including severance pay, sick pay, and incentive pay.  "Income"
-includes:
-(a)  all gain derived from capital assets, labor, or both, including profit
-gained through sale or conversion of capital assets;
+
+(e)  any benefit association, insurance company, safe deposit company, money-market mutual fund, or similar entity authorized to do business in the state.
+
+(7)  "Financial record" is defined in the Right to Financial Privacy Act of 1978, 12 U.S.C. Sec. 3401.
+
+(8)  "Income" means earnings, compensation, or other payment due to an individual, regardless of source, whether denominated as wages, salary, commission, bonus, pay, or contract payment, or denominated as advances on future wages, salary, commission, bonus, pay, allowances, contract payment, or otherwise, including severance pay, sick pay, and incentive pay.  "Income" includes:
+
+(a)  all gain derived from capital assets, labor, or both, including profit gained through sale or conversion of capital assets;
+
 (b)  interest and dividends;
-(c)  periodic payments made under pension or retirement programs or insurance
-policies of any type;
+
+(c)  periodic payments made under pension or retirement programs or insurance policies of any type;
+
 (d)  unemployment compensation benefits;
+
 (e)  workers' compensation benefits; and
+
 (f)  disability benefits.
-(9)  "IV-D" means Part D of Title IV of the Social Security Act, 42 U.S.C.
-Sec. 651 et seq.
-(10)  "New hire registry" means the centralized new hire registry created in
-Section 35A-7-103.
-(11)  "Obligee" means an individual, this state, another state, or other
-comparable jurisdiction to whom a debt is owed or who is entitled to
-reimbursement of child support or public assistance.
-(12)  "Obligor" means a person, firm, corporation, or the estate of a decedent
-owing money to this state, to an individual, to another state, or other
-comparable jurisdiction in whose behalf this state is acting.
+
+(9)  "IV-D" means Part D of Title IV of the Social Security Act, 42 U.S.C. Sec. 651 et seq.
+
+(10)  "New hire registry" means the centralized new hire registry created in Section 35A-7-103.
+
+(11)  "Obligee" means an individual, this state, another state, or other comparable jurisdiction to whom a debt is owed or who is entitled to reimbursement of child support or public assistance.
+
+(12)  "Obligor" means a person, firm, corporation, or the estate of a decedent owing money to this state, to an individual, to another state, or other comparable jurisdiction in whose behalf this state is acting.
+
 (13)  "Office" means the Office of Recovery Services.
-(14)  "Provider" means a person or entity that receives compensation from any
-public assistance program for goods or services provided to a public
-assistance recipient.
+
+(14)  "Provider" means a person or entity that receives compensation from any public assistance program for goods or services provided to a public assistance recipient.
+
 (15)  "Public assistance" or "assistance" means:
-(a)  services or benefits provided under Title 35A, Chapter 3, Employment
-Support Act;
-(b)  medical assistance provided under Title 26, Chapter 18, Medical
-Assistance Act;
-(c)  foster care maintenance payments under Part E of Title IV of the Social
-Security Act, 42 U.S.C. Sec. 670, et seq.;
+
+(a)  services or benefits provided under Title 35A, Chapter 3, Employment Support Act;
+
+(b)  medical assistance provided under Title 26, Chapter 18, Medical Assistance Act;
+
+(c)  foster care maintenance payments under Part E of Title IV of the Social Security Act, 42 U.S.C. Sec. 670, et seq.;
+
 (d)  food stamps; or
-(e)  any other public funds expended for the benefit of a person in need of
-financial, medical, food, housing, or related assistance.
-(16)  "State case registry" means the central, automated record system
-maintained by the office and the central, automated district court record
-system maintained by the Administrative Office of the Courts, that contains
-records which use standardized data elements, such as names, social security
-numbers and other uniform identification numbers, dates of birth, and case
-identification numbers, with respect to:
-(a)  each case in which services are being provided by the office under the
-state IV-D child support services plan; and
-(b)  each support order established or modified in the state on or after
-October 1, 1998.
+
+(e)  any other public funds expended for the benefit of a person in need of financial, medical, food, housing, or related assistance.
+
+(16)  "State case registry" means the central, automated record system maintained by the office and the central, automated district court record system maintained by the Administrative Office of the Courts, that contains records which use standardized data elements, such as names, social security numbers and other uniform identification numbers, dates of birth, and case identification numbers, with respect to:
+
+(a)  each case in which services are being provided by the office under the state IV-D child support services plan; and
+
+(b)  each support order established or modified in the state on or after October 1, 1998.
+

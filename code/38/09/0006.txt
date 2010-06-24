@@ -1,34 +1,20 @@
-38-9-6.   Petition to file lien -- Notice to record interest holders --
-Summary relief -- Contested petition.
-(1)  A lien claimant whose document is rejected pursuant to Section 38-9-3 may
-petition the district court in the county in which the document was rejected
-for an expedited determination that the lien may be recorded or filed.
-(2) (a)  The petition shall be filed with the district court within 10 days of
-the date notice is received of the rejection and shall state with specificity
-the grounds why the document should lawfully be recorded or filed.
-(b)  The petition shall be supported by a sworn affidavit of the lien
-claimant.
-(c)  If the court finds the petition is insufficient, it may dismiss the
-petition without a hearing.
-(d)  If the court grants a hearing, the petitioner shall serve a copy of the
-petition, notice of hearing, and a copy of the court's order granting an
-expedited hearing on all record interest holders of the property sufficiently
-in advance of the hearing to enable any record interest holder to attend the
-hearing and service shall be accomplished by certified or registered mail.
-(e)  Any record interest holder of the property has the right to attend and
-contest the petition.
-(3)  Following a hearing on the matter, if the court finds that the document
-may lawfully be recorded, it shall issue an order directing the county
-recorder to accept the document for recording.  If the petition is contested,
-the court may award costs and reasonable attorney's fees to the prevailing
-party.
-(4)  A summary proceeding under this section is only to determine whether or
-not a contested document, on its face, shall be recorded by the county
-recorder.  The proceeding may not determine the truth of the content of the
-document nor the property or legal rights of the parties beyond the necessary
-determination of whether or not the document shall be recorded.  The court's
-grant or denial of the petition under this section may not restrict any other
-legal remedies of any party, including any right to injunctive relief pursuant
-to Rules of Civil Procedure, Rule 65A, Injunctions.
-(5)  If the petition contains a claim for damages, the damage proceedings may
-not be expedited under this section.
+38-9-6.   Petition to file lien -- Notice to record interest holders -- Summary relief -- Contested petition.
+
+(1)  A lien claimant whose document is rejected pursuant to Section 38-9-3 may petition the district court in the county in which the document was rejected for an expedited determination that the lien may be recorded or filed.
+
+(2) (a)  The petition shall be filed with the district court within 10 days of the date notice is received of the rejection and shall state with specificity the grounds why the document should lawfully be recorded or filed.
+
+(b)  The petition shall be supported by a sworn affidavit of the lien claimant.
+
+(c)  If the court finds the petition is insufficient, it may dismiss the petition without a hearing.
+
+(d)  If the court grants a hearing, the petitioner shall serve a copy of the petition, notice of hearing, and a copy of the court's order granting an expedited hearing on all record interest holders of the property sufficiently in advance of the hearing to enable any record interest holder to attend the hearing and service shall be accomplished by certified or registered mail.
+
+(e)  Any record interest holder of the property has the right to attend and contest the petition.
+
+(3)  Following a hearing on the matter, if the court finds that the document may lawfully be recorded, it shall issue an order directing the county recorder to accept the document for recording.  If the petition is contested, the court may award costs and reasonable attorney's fees to the prevailing party.
+
+(4)  A summary proceeding under this section is only to determine whether or not a contested document, on its face, shall be recorded by the county recorder.  The proceeding may not determine the truth of the content of the document nor the property or legal rights of the parties beyond the necessary determination of whether or not the document shall be recorded.  The court's grant or denial of the petition under this section may not restrict any other legal remedies of any party, including any right to injunctive relief pursuant to Rules of Civil Procedure, Rule 65A, Injunctions.
+
+(5)  If the petition contains a claim for damages, the damage proceedings may not be expedited under this section.
+

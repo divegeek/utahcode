@@ -1,70 +1,60 @@
-31A-30-204.   Employer election -- Defined benefit -- Defined contribution
-arrangements -- Responsibilities.
-(1) (a)  An employer participating in the defined contribution arrangement
-market on the Health Insurance Exchange shall make an initial election to
-offer its employees either a defined benefit plan or a defined contribution
-arrangement health benefit plan.
+31A-30-204.   Employer election -- Defined benefit -- Defined contribution arrangements -- Responsibilities.
+
+(1) (a)  An employer participating in the defined contribution arrangement market on the Health Insurance Exchange shall make an initial election to offer its employees either a defined benefit plan or a defined contribution arrangement health benefit plan.
+
 (b)  If an employer elects to offer a defined benefit plan:
-(i)  the employer or the employer's producer shall enroll the employer in the
-Health Insurance Exchange;
-(ii)  the employees shall submit the uniform application required for the
-Health Insurance Exchange; and
-(iii)  the employer shall select the defined benefit plan in accordance with
-Section 31A-30-208.
+
+(i)  the employer or the employer's producer shall enroll the employer in the Health Insurance Exchange;
+
+(ii)  the employees shall submit the uniform application required for the Health Insurance Exchange; and
+
+(iii)  the employer shall select the defined benefit plan in accordance with Section 31A-30-208.
+
 (c)  When an employer makes an election under Subsections (1)(a) and (b):
-(i)  the employer may not offer its employees a defined contribution
-arrangement health benefit plan; and
-(ii)  the employees may not select a defined contribution arrangement health
-benefit plan in the Health Insurance Exchange.
-(d)  If an employer elects to offer its employees a defined contribution
-arrangement health benefit plan, the employer shall comply with the provisions
-of Subsections (2) through (5).
-(2) (a) (i)  An employer that chooses to participate in a defined contribution
-arrangement health benefit plan may not offer to an employee a health benefit
-plan that is not a defined contribution arrangement health benefit plan in the
-Health Insurance Exchange.
-(ii)  Subsection (2)(a)(i) does not prohibit the offer of supplemental or
-limited benefit policies such as dental or vision coverage, or other types of
-federally qualified savings accounts for health care expenses.
-(b) (i)  To the extent permitted by Sections 31A-1-301, 31A-30-112, and
-31A-30-206, and the risk adjustment plan adopted under Section 31A-42-204, the
-employer reserves the right to determine:
-(A)  the criteria for employee eligibility, enrollment, and participation in
-the employer's health benefit plan; and
+
+(i)  the employer may not offer its employees a defined contribution arrangement health benefit plan; and
+
+(ii)  the employees may not select a defined contribution arrangement health benefit plan in the Health Insurance Exchange.
+
+(d)  If an employer elects to offer its employees a defined contribution arrangement health benefit plan, the employer shall comply with the provisions of Subsections (2) through (5).
+
+(2) (a) (i)  An employer that chooses to participate in a defined contribution arrangement health benefit plan may not offer to an employee a health benefit plan that is not a defined contribution arrangement health benefit plan in the Health Insurance Exchange.
+
+(ii)  Subsection (2)(a)(i) does not prohibit the offer of supplemental or limited benefit policies such as dental or vision coverage, or other types of federally qualified savings accounts for health care expenses.
+
+(b) (i)  To the extent permitted by Sections 31A-1-301, 31A-30-112, and 31A-30-206, and the risk adjustment plan adopted under Section 31A-42-204, the employer reserves the right to determine:
+
+(A)  the criteria for employee eligibility, enrollment, and participation in the employer's health benefit plan; and
+
 (B)  the amount of the employer's contribution to that plan.
-(ii)  The determinations made under Subsection (2)(b) may only be changed
-during periods of open enrollment.
-(3)  An employer that chooses to establish a defined contribution arrangement
-health benefit plan to provide a health benefit plan for its employees shall:
-(a)  establish a mechanism for its employees to use pre-tax dollars to
-purchase a health benefit plan from the defined contribution arrangement
-market on the Health Insurance Exchange created in Section 63M-1-2504, which
-may include:
+
+(ii)  The determinations made under Subsection (2)(b) may only be changed during periods of open enrollment.
+
+(3)  An employer that chooses to establish a defined contribution arrangement health benefit plan to provide a health benefit plan for its employees shall:
+
+(a)  establish a mechanism for its employees to use pre-tax dollars to purchase a health benefit plan from the defined contribution arrangement market on the Health Insurance Exchange created in Section 63M-1-2504, which may include:
+
 (i)  a health reimbursement arrangement;
+
 (ii)  a Section 125 Cafeteria plan; or
-(iii)  another plan or arrangement similar to Subsection (3)(a)(i) or (ii)
-which is excluded or deducted from gross income under the Internal Revenue
-Code;
+
+(iii)  another plan or arrangement similar to Subsection (3)(a)(i) or (ii) which is excluded or deducted from gross income under the Internal Revenue Code;
+
 (b)  before the employee's health benefit plan selection period:
-(i)  inform each employee of the health benefit plan the employer has selected
-as the default health benefit plan for the employer group;
-(ii)  offer each employee a choice of any of the defined contribution
-arrangement health benefit plans available through the defined contribution
-arrangement market on the Health Insurance Exchange; and
-(iii)  notify the employee that the employee will be enrolled in the default
-health benefit plan selected by the employer and payroll deductions initiated
-for premium payments, unless the employee, before the employee's selection
-period ends:
-(A)  selects a different defined contribution arrangement health benefit plan
-available in the Health Insurance Exchange;
+
+(i)  inform each employee of the health benefit plan the employer has selected as the default health benefit plan for the employer group;
+
+(ii)  offer each employee a choice of any of the defined contribution arrangement health benefit plans available through the defined contribution arrangement market on the Health Insurance Exchange; and
+
+(iii)  notify the employee that the employee will be enrolled in the default health benefit plan selected by the employer and payroll deductions initiated for premium payments, unless the employee, before the employee's selection period ends:
+
+(A)  selects a different defined contribution arrangement health benefit plan available in the Health Insurance Exchange;
+
 (B)  provides proof of coverage from another health benefit plan; or
+
 (C)  specifically declines coverage in a health benefit plan.
-(4)  An employer shall enroll an employee in the default defined contribution
-arrangement health benefit plan selected by the employer if the employee does
-not make one of the choices described in Subsection (3)(b)(iii) before the end
-of the employee selection period, which may not be less than 14 calendar days.
-(5)  The employer's notice to the employee under Subsection (3)(b)(iii) shall
-inform the employee that the failure to act under Subsections (3)(b)(iii)(A)
-through (C) is considered an affirmative election under pre-tax payroll
-deductions for the employer to begin payroll deductions for health benefit
-plan premiums.
+
+(4)  An employer shall enroll an employee in the default defined contribution arrangement health benefit plan selected by the employer if the employee does not make one of the choices described in Subsection (3)(b)(iii) before the end of the employee selection period, which may not be less than 14 calendar days.
+
+(5)  The employer's notice to the employee under Subsection (3)(b)(iii) shall inform the employee that the failure to act under Subsections (3)(b)(iii)(A) through (C) is considered an affirmative election under pre-tax payroll deductions for the employer to begin payroll deductions for health benefit plan premiums.
+

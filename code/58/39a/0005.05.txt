@@ -1,8 +1,6 @@
 58-39a-5.5.   Term of certificate -- Expiration -- Renewal.
-(1)  Each certificate issued under this chapter shall be issued in accordance
-with a two-year renewal cycle established by rule.  A renewal period may be
-extended or shortened by as much as one year to maintain established renewal
-cycles or to change an established renewal cycle.
-(2)  Each certificate automatically expires on the expiration date shown on
-the certificate unless renewed by the certified ADR provider in accordance
-with Section 58-1-308.
+
+(1)  Each certificate issued under this chapter shall be issued in accordance with a two-year renewal cycle established by rule.  A renewal period may be extended or shortened by as much as one year to maintain established renewal cycles or to change an established renewal cycle.
+
+(2)  Each certificate automatically expires on the expiration date shown on the certificate unless renewed by the certified ADR provider in accordance with Section 58-1-308.
+

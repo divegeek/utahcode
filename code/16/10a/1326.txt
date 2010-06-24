@@ -1,15 +1,6 @@
 16-10a-1326.   Failure to take action.
-(1)  If the effective date of the corporate action creating dissenters' rights
-under Section 16-10a-1302 does not occur within 60 days after the date set by
-the corporation as the date by which the corporation must receive payment
-demands as provided in Section 16-10a-1322, the corporation shall return all
-deposited certificates and release the transfer restrictions imposed on
-uncertificated shares, and all shareholders who submitted a demand for payment
-pursuant to Section 16-10a-1323 shall thereafter have all rights of a
-shareholder as if no demand for payment had been made.
-(2)  If the effective date of the corporate action creating dissenters' rights
-under Section 16-10a-1302 occurs more than 60 days after the date set by the
-corporation as the date by which the corporation must receive payment demands
-as provided in Section 16-10a-1322, then the corporation shall send a new
-dissenters' notice, as provided in Section 16-10a-1322, and the provisions of
-Sections 16-10a-1323 through 16-10a-1328 shall again be applicable.
+
+(1)  If the effective date of the corporate action creating dissenters' rights under Section 16-10a-1302 does not occur within 60 days after the date set by the corporation as the date by which the corporation must receive payment demands as provided in Section 16-10a-1322, the corporation shall return all deposited certificates and release the transfer restrictions imposed on uncertificated shares, and all shareholders who submitted a demand for payment pursuant to Section 16-10a-1323 shall thereafter have all rights of a shareholder as if no demand for payment had been made.
+
+(2)  If the effective date of the corporate action creating dissenters' rights under Section 16-10a-1302 occurs more than 60 days after the date set by the corporation as the date by which the corporation must receive payment demands as provided in Section 16-10a-1322, then the corporation shall send a new dissenters' notice, as provided in Section 16-10a-1322, and the provisions of Sections 16-10a-1323 through 16-10a-1328 shall again be applicable.
+

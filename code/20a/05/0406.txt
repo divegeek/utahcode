@@ -1,58 +1,64 @@
 20A-5-406.   Delivery of ballots.
+
 (1)  In elections using paper ballots or ballot sheets:
-(a)  Each election officer shall deliver ballots to the poll workers of each
-voting precinct in his jurisdiction in an amount sufficient to meet voting
-needs during the voting period.
+
+(a)  Each election officer shall deliver ballots to the poll workers of each voting precinct in his jurisdiction in an amount sufficient to meet voting needs during the voting period.
+
 (b)  The election officer shall:
+
 (i)  package and deliver the ballots to the election judges;
+
 (ii)  clearly mark the outside of the package with:
+
 (A)  the voting precinct and polling place for which it is intended; and
+
 (B)  the number of each type of ballots enclosed;
-(iii)  ensure that each package is delivered before commencement of voting to
-a poll worker in each precinct; and
-(iv)  obtain a receipt for the ballots from the poll worker to whom they were
-delivered that identifies the date and time when, and the manner in which,
-each ballot package was sent and delivered.
-(c)  The election officer shall prepare substitute ballots in the form
-required by this Subsection (1) if any poll worker reports that:
+
+(iii)  ensure that each package is delivered before commencement of voting to a poll worker in each precinct; and
+
+(iv)  obtain a receipt for the ballots from the poll worker to whom they were delivered that identifies the date and time when, and the manner in which, each ballot package was sent and delivered.
+
+(c)  The election officer shall prepare substitute ballots in the form required by this Subsection (1) if any poll worker reports that:
+
 (i)  the ballots were not delivered on time; or
+
 (ii)  after delivery, they were destroyed or stolen.
+
 (d)  The election officer shall:
-(i)  prepare the substitute ballots as nearly in the form prescribed for
-official ballots as practicable;
-(ii)  cause the word "substitute" to be printed in brackets immediately under
-the facsimile signature of the clerk or recorder preparing the ballots;
-(iii)  place the ballots in two separate packages, each package containing 1/2
-the ballots sent to that voting precinct; and
-(iv)  place a signed statement in each package certifying that the substitute
-ballots found in the package were prepared and furnished by the election
-officer, and that the original ballots were not received, were destroyed, or
-were stolen.
+
+(i)  prepare the substitute ballots as nearly in the form prescribed for official ballots as practicable;
+
+(ii)  cause the word "substitute" to be printed in brackets immediately under the facsimile signature of the clerk or recorder preparing the ballots;
+
+(iii)  place the ballots in two separate packages, each package containing 1/2 the ballots sent to that voting precinct; and
+
+(iv)  place a signed statement in each package certifying that the substitute ballots found in the package were prepared and furnished by the election officer, and that the original ballots were not received, were destroyed, or were stolen.
+
 (2)  In elections using electronic ballots:
+
 (a)  Each election officer shall:
-(i)  deliver the voting devices and electronic ballots prior to the
-commencement of voting;
-(ii)  ensure that the voting devices, equipment, and electronic ballots are
-properly secured before commencement of voting; and
-(iii)  when electronic ballots or voting devices containing electronic ballots
-are delivered to a poll worker, obtain a receipt from the poll worker to whom
-they were delivered that identifies:
+
+(i)  deliver the voting devices and electronic ballots prior to the commencement of voting;
+
+(ii)  ensure that the voting devices, equipment, and electronic ballots are properly secured before commencement of voting; and
+
+(iii)  when electronic ballots or voting devices containing electronic ballots are delivered to a poll worker, obtain a receipt from the poll worker to whom they were delivered that identifies:
+
 (A)  the name of the poll worker receiving delivery; and
-(B)  the date and time when the ballots or voting devices containing the
-electronic ballots were delivered.
-(b)  The election officer shall repair or provide substitute voting devices,
-equipment, or electronic ballots, if available, if any poll worker reports
-that:
+
+(B)  the date and time when the ballots or voting devices containing the electronic ballots were delivered.
+
+(b)  The election officer shall repair or provide substitute voting devices, equipment, or electronic ballots, if available, if any poll worker reports that:
+
 (i)  the voting devices or equipment were not delivered on time;
-(ii)  the voting devices or equipment do not contain the appropriate
-electronic ballot information;
-(iii)  the safety devices on the voting devices, equipment, or electronic
-ballots appear to have been tampered with;
-(iv)  the voting devices or equipment do not appear to be functioning
-properly; or
-(v)  after delivery, the voting devices, equipment, or electronic ballots were
-destroyed or stolen.
-(c)  If the election officer is unable to prepare and provide substitute
-voting devices, equipment, or electronic ballots, the election officer may
-elect to provide paper ballots or ballot sheets according to the requirements
-of Subsection (1).
+
+(ii)  the voting devices or equipment do not contain the appropriate electronic ballot information;
+
+(iii)  the safety devices on the voting devices, equipment, or electronic ballots appear to have been tampered with;
+
+(iv)  the voting devices or equipment do not appear to be functioning properly; or
+
+(v)  after delivery, the voting devices, equipment, or electronic ballots were destroyed or stolen.
+
+(c)  If the election officer is unable to prepare and provide substitute voting devices, equipment, or electronic ballots, the election officer may elect to provide paper ballots or ballot sheets according to the requirements of Subsection (1).
+

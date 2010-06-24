@@ -1,144 +1,142 @@
 17B-1-102.   Definitions.
+
 As used in this title:
-(1)  "Appointing authority" means the person or body authorized to make an
-appointment to the board of trustees.
+
+(1)  "Appointing authority" means the person or body authorized to make an appointment to the board of trustees.
+
 (2)  "Basic local district":
+
 (a)  means a local district that is not a specialized local district; and
-(b)  includes an entity that was, under the law in effect before April 30,
-2007, created and operated as a local district, as defined under the law in
-effect before April 30, 2007.
+
+(b)  includes an entity that was, under the law in effect before April 30, 2007, created and operated as a local district, as defined under the law in effect before April 30, 2007.
+
 (3)  "Bond" means:
-(a)  a written obligation to repay borrowed money, whether denominated a bond,
-note, warrant, certificate of indebtedness, or otherwise; and
-(b)  a lease agreement, installment purchase agreement, or other agreement
-that:
+
+(a)  a written obligation to repay borrowed money, whether denominated a bond, note, warrant, certificate of indebtedness, or otherwise; and
+
+(b)  a lease agreement, installment purchase agreement, or other agreement that:
+
 (i)  includes an obligation by the district to pay money; and
-(ii)  the district's board of trustees, in its discretion, treats as a bond
-for purposes of Title 11, Chapter 14, Local Government Bonding Act, or Title
-11, Chapter 27, Utah Refunding Bond Act.
-(4)  "Cemetery maintenance district" means a local district that operates
-under and is subject to the provisions of this chapter and Chapter 2a, Part 1,
-Cemetery Maintenance District Act, including an entity that was created and
-operated as a cemetery maintenance district under the law in effect before
-April 30, 2007.
-(5)  "Drainage district" means a local district that operates under and is
-subject to the provisions of this chapter and Chapter 2a, Part 2, Drainage
-District Act, including an entity that was created and operated as a drainage
-district under the law in effect before April 30, 2007.
-(6)  "Facility" or "facilities" includes any structure, building, system,
-land, water right, water, or other real or personal property required to
-provide a service that a local district is authorized to provide, including
-any related or appurtenant easement or right-of-way, improvement, utility,
-landscaping, sidewalk, road, curb, gutter, equipment, or furnishing.
-(7)  "Fire protection district" means a local district that operates under and
-is subject to the provisions of this chapter and Chapter 2a, Part 3, Fire
-Protection District Act, including an entity that was created and operated as
-a fire protection district under the law in effect before April 30, 2007.
+
+(ii)  the district's board of trustees, in its discretion, treats as a bond for purposes of Title 11, Chapter 14, Local Government Bonding Act, or Title 11, Chapter 27, Utah Refunding Bond Act.
+
+(4)  "Cemetery maintenance district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 1, Cemetery Maintenance District Act, including an entity that was created and operated as a cemetery maintenance district under the law in effect before April 30, 2007.
+
+(5)  "Drainage district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 2, Drainage District Act, including an entity that was created and operated as a drainage district under the law in effect before April 30, 2007.
+
+(6)  "Facility" or "facilities" includes any structure, building, system, land, water right, water, or other real or personal property required to provide a service that a local district is authorized to provide, including any related or appurtenant easement or right-of-way, improvement, utility, landscaping, sidewalk, road, curb, gutter, equipment, or furnishing.
+
+(7)  "Fire protection district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 3, Fire Protection District Act, including an entity that was created and operated as a fire protection district under the law in effect before April 30, 2007.
+
 (8)  "General obligation bond":
-(a)  means a bond that is directly payable from and secured by ad valorem
-property taxes that are:
+
+(a)  means a bond that is directly payable from and secured by ad valorem property taxes that are:
+
 (i)  levied:
+
 (A)  by the district that issues the bond; and
+
 (B)  on taxable property within the district; and
-(ii)  in excess of the ad valorem property taxes of the district for the
-current fiscal year; and
+
+(ii)  in excess of the ad valorem property taxes of the district for the current fiscal year; and
+
 (b)  does not include:
+
 (i)  a short-term bond;
+
 (ii)  a tax and revenue anticipation bond; or
+
 (iii)  a special assessment bond.
-(9)  "Improvement district" means a local district that operates under and is
-subject to the provisions of this chapter and Chapter 2a, Part 4, Improvement
-District Act, including an entity that was created and operated as a county
-improvement district under the law in effect before April 30, 2007.
-(10)  "Irrigation district" means a local district that operates under and is
-subject to the provisions of this chapter and Chapter 2a, Part 5, Irrigation
-District Act, including an entity that was created and operated as an
-irrigation district under the law in effect before April 30, 2007.
-(11)  "Local district" means a limited purpose local government entity, as
-described in Section 17B-1-103, that operates under, is subject to, and has
-the powers set forth in:
+
+(9)  "Improvement district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 4, Improvement District Act, including an entity that was created and operated as a county improvement district under the law in effect before April 30, 2007.
+
+(10)  "Irrigation district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 5, Irrigation District Act, including an entity that was created and operated as an irrigation district under the law in effect before April 30, 2007.
+
+(11)  "Local district" means a limited purpose local government entity, as described in Section 17B-1-103, that operates under, is subject to, and has the powers set forth in:
+
 (a)  this chapter; or
+
 (b) (i)  this chapter; and
+
 (ii) (A)  Chapter 2a, Part 1, Cemetery Maintenance District Act;
+
 (B)  Chapter 2a, Part 2, Drainage District Act;
+
 (C)  Chapter 2a, Part 3, Fire Protection District Act;
+
 (D)  Chapter 2a, Part 4, Improvement District Act;
+
 (E)  Chapter 2a, Part 5, Irrigation District Act;
+
 (F)  Chapter 2a, Part 6, Metropolitan Water District Act;
+
 (G)  Chapter 2a, Part 7, Mosquito Abatement District Act;
+
 (H)  Chapter 2a, Part 8, Public Transit District Act;
+
 (I)  Chapter 2a, Part 9, Service Area Act; or
+
 (J)  Chapter 2a, Part 10, Water Conservancy District Act.
-(12)  "Metropolitan water district" means a local district that operates under
-and is subject to the provisions of this chapter and Chapter 2a, Part 6,
-Metropolitan Water District Act, including an entity that was created and
-operated as a metropolitan water district under the law in effect before April
-30, 2007.
-(13)  "Mosquito abatement district" means a local district that operates under
-and is subject to the provisions of this chapter and Chapter 2a, Part 7,
-Mosquito Abatement District Act, including an entity that was created and
-operated as a mosquito abatement district under the law in effect before April
-30, 2007.
+
+(12)  "Metropolitan water district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 6, Metropolitan Water District Act, including an entity that was created and operated as a metropolitan water district under the law in effect before April 30, 2007.
+
+(13)  "Mosquito abatement district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 7, Mosquito Abatement District Act, including an entity that was created and operated as a mosquito abatement district under the law in effect before April 30, 2007.
+
 (14)  "Municipal" means of or relating to a municipality.
+
 (15)  "Municipality" means a city or town.
-(16)  "Political subdivision" means a county, city, town, local district under
-this title, special service district under Title 17D, Chapter 1, Special
-Service District Act, an entity created by interlocal cooperation agreement
-under Title 11, Chapter 13, Interlocal Cooperation Act, or any other
-governmental entity designated in statute as a political subdivision of the
-state.
-(17)  "Private," with respect to real property, means not owned by the United
-States or any agency of the federal government, the state, a county, or a
-political subdivision.
+
+(16)  "Political subdivision" means a county, city, town, local district under this title, special service district under Title 17D, Chapter 1, Special Service District Act, an entity created by interlocal cooperation agreement under Title 11, Chapter 13, Interlocal Cooperation Act, or any other governmental entity designated in statute as a political subdivision of the state.
+
+(17)  "Private," with respect to real property, means not owned by the United States or any agency of the federal government, the state, a county, or a political subdivision.
+
 (18)  "Public entity" means:
+
 (a)  the United States or an agency of the United States;
+
 (b)  the state or an agency of the state;
-(c)  a political subdivision of the state or an agency of a political
-subdivision of the state;
+
+(c)  a political subdivision of the state or an agency of a political subdivision of the state;
+
 (d)  another state or an agency of that state; or
-(e)  a political subdivision of another state or an agency of that political
-subdivision.
-(19)  "Public transit district" means a local district that operates under and
-is subject to the provisions of this chapter and Chapter 2a, Part 8, Public
-Transit District Act, including an entity that was created and operated as a
-public transit district under the law in effect before April 30, 2007.
+
+(e)  a political subdivision of another state or an agency of that political subdivision.
+
+(19)  "Public transit district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 8, Public Transit District Act, including an entity that was created and operated as a public transit district under the law in effect before April 30, 2007.
+
 (20)  "Revenue bond":
-(a)  means a bond payable from designated taxes or other revenues other than
-the local district's ad valorem property taxes; and
+
+(a)  means a bond payable from designated taxes or other revenues other than the local district's ad valorem property taxes; and
+
 (b)  does not include:
-(i)  an obligation constituting an indebtedness within the meaning of an
-applicable constitutional or statutory debt limit;
+
+(i)  an obligation constituting an indebtedness within the meaning of an applicable constitutional or statutory debt limit;
+
 (ii)  a tax and revenue anticipation bond; or
+
 (iii)  a special assessment bond.
-(21)  "Service area" means a local district that operates under and is subject
-to the provisions of this chapter and Chapter 2a, Part 9, Service Area Act,
-including an entity that was created and operated as a county service area or
-a regional service area under the law in effect before April 30, 2007.
-(22)  "Short-term bond" means a bond that is required to be repaid during the
-fiscal year in which the bond is issued.
-(23)  "Special assessment" means an assessment levied against property to pay
-all or a portion of the costs of making improvements that benefit the
-property.
+
+(21)  "Service area" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 9, Service Area Act, including an entity that was created and operated as a county service area or a regional service area under the law in effect before April 30, 2007.
+
+(22)  "Short-term bond" means a bond that is required to be repaid during the fiscal year in which the bond is issued.
+
+(23)  "Special assessment" means an assessment levied against property to pay all or a portion of the costs of making improvements that benefit the property.
+
 (24)  "Special assessment bond" means a bond payable from special assessments.
-(25)  "Specialized local district" means a local district that is a cemetery
-maintenance district, a drainage district, a fire protection district, an
-improvement district, an irrigation district, a metropolitan water district, a
-mosquito abatement district, a public transit district, a service area, or a
-water conservancy district.
-(26)  "Taxable value" means the taxable value of property as computed from the
-most recent equalized assessment roll for county purposes.
+
+(25)  "Specialized local district" means a local district that is a cemetery maintenance district, a drainage district, a fire protection district, an improvement district, an irrigation district, a metropolitan water district, a mosquito abatement district, a public transit district, a service area, or a water conservancy district.
+
+(26)  "Taxable value" means the taxable value of property as computed from the most recent equalized assessment roll for county purposes.
+
 (27)  "Tax and revenue anticipation bond" means a bond:
-(a)  issued in anticipation of the collection of taxes or other revenues or a
-combination of taxes and other revenues; and
-(b)  that matures within the same fiscal year as the fiscal year in which the
-bond is issued.
+
+(a)  issued in anticipation of the collection of taxes or other revenues or a combination of taxes and other revenues; and
+
+(b)  that matures within the same fiscal year as the fiscal year in which the bond is issued.
+
 (28)  "Unincorporated" means not included within a municipality.
-(29)  "Water conservancy district" means a local district that operates under
-and is subject to the provisions of this chapter and Chapter 2a, Part 10,
-Water Conservancy District Act, including an entity that was created and
-operated as a water conservancy district under the law in effect before April
-30, 2007.
-(30)  "Works" includes a dam, reservoir, well, canal, conduit, pipeline,
-drain, tunnel, power plant, and any facility, improvement, or property
-necessary or convenient for supplying or treating water for any beneficial
-use, and for otherwise accomplishing the purposes of a local district.
+
+(29)  "Water conservancy district" means a local district that operates under and is subject to the provisions of this chapter and Chapter 2a, Part 10, Water Conservancy District Act, including an entity that was created and operated as a water conservancy district under the law in effect before April 30, 2007.
+
+(30)  "Works" includes a dam, reservoir, well, canal, conduit, pipeline, drain, tunnel, power plant, and any facility, improvement, or property necessary or convenient for supplying or treating water for any beneficial use, and for otherwise accomplishing the purposes of a local district.
+

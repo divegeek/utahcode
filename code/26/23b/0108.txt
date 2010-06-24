@@ -1,44 +1,38 @@
 26-23b-108.   Investigation of suspected bioterrorism and diseases.
+
 (1)  The department shall:
-(a)  ascertain the existence of cases of an illness or condition caused by the
-factors described in Subsections 26-23b-103(1) and 26-23b-104(1);
+
+(a)  ascertain the existence of cases of an illness or condition caused by the factors described in Subsections 26-23b-103(1) and 26-23b-104(1);
+
 (b)  investigate all such cases for sources of infection or exposure;
-(c)  ensure that any cases, suspected cases, and exposed persons are subject
-to proper control measures; and
+
+(c)  ensure that any cases, suspected cases, and exposed persons are subject to proper control measures; and
+
 (d)  define the distribution of the suspected illness or health condition.
-(2) (a)  Acting on information received from the reports required by this
-chapter, or other reliable information, the department shall identify all
-individuals thought to have been exposed to an illness or condition described
-in Subsection 26-23b-103(1).
-(b)  The department may request information from a health care provider
-concerning an individual's identifying information as described in Subsection
-26-23b-103(2)(b) when:
-(i)  the department is investigating a potential illness or condition
-described in Subsection 26-23b-103(1) and the health care provider has not
-submitted a report to the department with the information requested; or
-(ii)  the department has received a report from a pharmacist under Section
-26-23b-105, a medical laboratory under Section 26-23b-106, or another health
-care provider under Subsection 26-23b-104(1) and the department believes that
-further investigation is necessary to protect the public health.
-(c)  A health care provider shall submit the information requested under this
-section to the department within 24 hours after receiving a request from the
-department.
-(3)  The department shall counsel and interview identified individuals as
-appropriate to:
-(a)  assist in the positive identification of other cases and exposed
-individuals;
-(b)  develop information relating to the source and spread of the illness or
-condition; and
-(c)  obtain the names, addresses, phone numbers, or other identifying
-information of any other person from whom the illness or health condition may
-have been contracted and to whom the illness or condition may have spread.
-(4)  The department shall, for examination purposes, close, evacuate, or
-decontaminate any facility when the department reasonably believes that such
-facility or material may endanger the public health due to a condition or
-illness described in Subsection 26-23b-103(1).
-(5)  The department will destroy personally identifying health information
-about an individual collected by the department as a result of a report under
-this chapter upon the earlier of:
-(a)  the department's determination that the information is no longer
-necessary to carry out an investigation under this chapter; or
+
+(2) (a)  Acting on information received from the reports required by this chapter, or other reliable information, the department shall identify all individuals thought to have been exposed to an illness or condition described in Subsection 26-23b-103(1).
+
+(b)  The department may request information from a health care provider concerning an individual's identifying information as described in Subsection 26-23b-103(2)(b) when:
+
+(i)  the department is investigating a potential illness or condition described in Subsection 26-23b-103(1) and the health care provider has not submitted a report to the department with the information requested; or
+
+(ii)  the department has received a report from a pharmacist under Section 26-23b-105, a medical laboratory under Section 26-23b-106, or another health care provider under Subsection 26-23b-104(1) and the department believes that further investigation is necessary to protect the public health.
+
+(c)  A health care provider shall submit the information requested under this section to the department within 24 hours after receiving a request from the department.
+
+(3)  The department shall counsel and interview identified individuals as appropriate to:
+
+(a)  assist in the positive identification of other cases and exposed individuals;
+
+(b)  develop information relating to the source and spread of the illness or condition; and
+
+(c)  obtain the names, addresses, phone numbers, or other identifying information of any other person from whom the illness or health condition may have been contracted and to whom the illness or condition may have spread.
+
+(4)  The department shall, for examination purposes, close, evacuate, or decontaminate any facility when the department reasonably believes that such facility or material may endanger the public health due to a condition or illness described in Subsection 26-23b-103(1).
+
+(5)  The department will destroy personally identifying health information about an individual collected by the department as a result of a report under this chapter upon the earlier of:
+
+(a)  the department's determination that the information is no longer necessary to carry out an investigation under this chapter; or
+
 (b)  180 days after the information is collected.
+

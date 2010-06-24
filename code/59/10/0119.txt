@@ -1,21 +1,12 @@
-59-10-119.   Returns by husband and wife if husband or wife is a
-nonresident.
-(1)  If the adjusted gross income of a husband and wife who are both
-nonresidents of this state is reported or determined on separate federal
-individual income tax returns, the husband's and wife's state taxable incomes
-in this state shall be separately determined.
-(2)  If the adjusted gross income of a husband and wife who are both
-nonresidents of this state is reported or determined on a joint federal
-individual income tax return, the husband's and wife's tax shall be reported
-or determined in this state on a joint return.
-(3) (a)  If one spouse is a nonresident of this state and the other spouse is
-a resident of this state, separate taxes shall be determined on each spouse's
-separate state taxable incomes on forms prescribed by the commission.
-(b)  Notwithstanding Subsection (3)(a), a husband and wife may elect to be
-considered to be residents of this state for purposes of determining state
-taxable income for a taxable year.
-(c)  If one spouse who is a nonresident of this state and the other spouse who
-is a resident of this state file a joint federal income tax return, but
-determine state taxable income separately, the spouses shall compute their
-taxable incomes in this state as if their adjusted gross incomes had been
-determined separately.
+59-10-119.   Returns by husband and wife if husband or wife is a nonresident.
+
+(1)  If the adjusted gross income of a husband and wife who are both nonresidents of this state is reported or determined on separate federal individual income tax returns, the husband's and wife's state taxable incomes in this state shall be separately determined.
+
+(2)  If the adjusted gross income of a husband and wife who are both nonresidents of this state is reported or determined on a joint federal individual income tax return, the husband's and wife's tax shall be reported or determined in this state on a joint return.
+
+(3) (a)  If one spouse is a nonresident of this state and the other spouse is a resident of this state, separate taxes shall be determined on each spouse's separate state taxable incomes on forms prescribed by the commission.
+
+(b)  Notwithstanding Subsection (3)(a), a husband and wife may elect to be considered to be residents of this state for purposes of determining state taxable income for a taxable year.
+
+(c)  If one spouse who is a nonresident of this state and the other spouse who is a resident of this state file a joint federal income tax return, but determine state taxable income separately, the spouses shall compute their taxable incomes in this state as if their adjusted gross incomes had been determined separately.
+

@@ -1,63 +1,82 @@
 75-2a-108.   Default surrogates.
-(1) (a)  Any member of the class described in Subsection (1)(b) may act as an
-adult's surrogate if:
+
+(1) (a)  Any member of the class described in Subsection (1)(b) may act as an adult's surrogate if:
+
 (i) (A)  the adult has not appointed an agent;
+
 (B)  an appointed agent is not reasonably available; or
+
 (C)  a guardian has not been appointed; and
+
 (ii)  the member of the class described in Subsection (1)(b) is:
+
 (A)  over 18 years of age;
+
 (B)  has health care decision making capacity;
+
 (C)  is reasonably available; and
+
 (D)  has not been disqualified by the adult or a court.
-(b)  Except as provided in Subsection (1)(a), and subject to Subsection
-(1)(c), the following classes of the adult's family, in descending order of
-priority, may act as the adult's surrogate:
+
+(b)  Except as provided in Subsection (1)(a), and subject to Subsection (1)(c), the following classes of the adult's family, in descending order of priority, may act as the adult's surrogate:
+
 (i)  the adult's spouse, unless the adult is divorced or legally separated; or
+
 (ii)  the following family members:
+
 (A)  a child;
+
 (B)  a parent;
+
 (C)  a sibling;
+
 (D)  a grandchild; or
+
 (E)  a grandparent.
-(c)  A person described in Subsection (1)(b), may not direct an adult's care
-if a person of a higher priority class is able and willing to act as a
-surrogate for the adult.
-(d)  A court may disqualify a person described in Subsection (1)(b) from
-acting as a surrogate if the court finds that the person has acted in a manner
-that is inconsistent with the position of trust in which a surrogate is
-placed.
-(2)  If the family members designated in Subsection (1)(b) are not reasonably
-available to act as a surrogate, a person who is 18 years of age or older,
-other than those designated in Subsection (1) may act as a surrogate if the
-person:
+
+(c)  A person described in Subsection (1)(b), may not direct an adult's care if a person of a higher priority class is able and willing to act as a surrogate for the adult.
+
+(d)  A court may disqualify a person described in Subsection (1)(b) from acting as a surrogate if the court finds that the person has acted in a manner that is inconsistent with the position of trust in which a surrogate is placed.
+
+(2)  If the family members designated in Subsection (1)(b) are not reasonably available to act as a surrogate, a person who is 18 years of age or older, other than those designated in Subsection (1) may act as a surrogate if the person:
+
 (a)  has health care decision making capacity;
+
 (b)  has exhibited special care and concern for the patient;
+
 (c)  knows the patient and the patient's personal values; and
+
 (d)  is reasonably available to act as a surrogate.
-(3)  The surrogate shall communicate the surrogate's assumption of authority
-as promptly as practicable to the members of a class who:
+
+(3)  The surrogate shall communicate the surrogate's assumption of authority as promptly as practicable to the members of a class who:
+
 (a)  have an equal or higher priority and are not acting as surrogate; and
+
 (b)  can be readily contacted.
-(4)  A health care provider shall comply with the decision of a majority of
-the members of the highest priority class who have communicated their views to
-the provider if:
-(a)  more than one member of the highest priority class assumes authority to
-act as default surrogate;
+
+(4)  A health care provider shall comply with the decision of a majority of the members of the highest priority class who have communicated their views to the provider if:
+
+(a)  more than one member of the highest priority class assumes authority to act as default surrogate;
+
 (b)  the members of the class do not agree on a health care decision; and
-(c)  the health care provider is informed of the disagreement among the
-members of the class.
-(5) (a)  An adult may at any time disqualify a default surrogate, including a
-member of the adult's family, from acting as the adult's surrogate by:
+
+(c)  the health care provider is informed of the disagreement among the members of the class.
+
+(5) (a)  An adult may at any time disqualify a default surrogate, including a member of the adult's family, from acting as the adult's surrogate by:
+
 (i)  a signed writing;
+
 (ii)  personally informing a witness of the disqualification; or
+
 (iii)  informing the surrogate of the disqualification.
-(b)  Disqualification of a surrogate is effective even if the adult has been
-found to lack health care decision making capacity.
-(6)  If reasonable doubt exists regarding the status of an adult claiming the
-right to act as a default surrogate, the health care provider may:
-(a)  require the person to provide a sworn statement giving facts and
-circumstances reasonably sufficient to establish the claimed authority; or
+
+(b)  Disqualification of a surrogate is effective even if the adult has been found to lack health care decision making capacity.
+
+(6)  If reasonable doubt exists regarding the status of an adult claiming the right to act as a default surrogate, the health care provider may:
+
+(a)  require the person to provide a sworn statement giving facts and circumstances reasonably sufficient to establish the claimed authority; or
+
 (b)  seek a ruling from the court under Section 75-2a-120.
-(7)  A health care provider may seek a ruling from a court pursuant to Section
-75-2a-120 if the health care provider has evidence that a surrogate is making
-decisions that are inconsistent with an adult patient's wishes or preferences.
+
+(7)  A health care provider may seek a ruling from a court pursuant to Section 75-2a-120 if the health care provider has evidence that a surrogate is making decisions that are inconsistent with an adult patient's wishes or preferences.
+

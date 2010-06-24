@@ -1,69 +1,64 @@
 70A-8-107.   Warranties in direct holding.
-(1)  A person who transfers a certificated security to a purchaser for value
-warrants to the purchaser, and an indorser, if the transfer is by indorsement,
-warrants to any subsequent purchaser, that:
+
+(1)  A person who transfers a certificated security to a purchaser for value warrants to the purchaser, and an indorser, if the transfer is by indorsement, warrants to any subsequent purchaser, that:
+
 (a)  the certificate is genuine and has not been materially altered;
-(b)  the transferor or indorser does not know of any fact that might impair
-the validity of the security;
+
+(b)  the transferor or indorser does not know of any fact that might impair the validity of the security;
+
 (c)  there is no adverse claim to the security;
+
 (d)  the transfer does not violate any restriction on transfer;
-(e)  if the transfer is by indorsement, the indorsement is made by an
-appropriate person, or if the indorsement is by an agent, the agent has actual
-authority to act on behalf of the appropriate person; and
+
+(e)  if the transfer is by indorsement, the indorsement is made by an appropriate person, or if the indorsement is by an agent, the agent has actual authority to act on behalf of the appropriate person; and
+
 (f)  the transfer is otherwise effective and rightful.
-(2)  A person who originates an instruction for registration of transfer of an
-uncertificated security to a purchaser for value warrants to the purchaser
-that:
-(a)  the instruction is made by an appropriate person, or if the instruction
-is by an agent, the agent has actual authority to act on behalf of the
-appropriate person;
+
+(2)  A person who originates an instruction for registration of transfer of an uncertificated security to a purchaser for value warrants to the purchaser that:
+
+(a)  the instruction is made by an appropriate person, or if the instruction is by an agent, the agent has actual authority to act on behalf of the appropriate person;
+
 (b)  the security is valid;
+
 (c)  there is no adverse claim to the security; and
+
 (d)  at the time the instruction is presented to the issuer:
+
 (i)  the purchaser will be entitled to the registration of transfer;
-(ii)  the transfer will be registered by the issuer free from all liens,
-security interests, restrictions, and claims other than those specified in the
-instruction;
+
+(ii)  the transfer will be registered by the issuer free from all liens, security interests, restrictions, and claims other than those specified in the instruction;
+
 (iii)  the transfer will not violate any restriction on transfer; and
+
 (iv)  the requested transfer will otherwise be effective and rightful.
-(3)  A person who transfers an uncertificated security to a purchaser for
-value and does not originate an instruction in connection with the transfer
-warrants that:
+
+(3)  A person who transfers an uncertificated security to a purchaser for value and does not originate an instruction in connection with the transfer warrants that:
+
 (a)  the uncertificated security is valid;
+
 (b)  there is no adverse claim to the security;
+
 (c)  the transfer does not violate any restriction on transfer; and
+
 (d)  the transfer is otherwise effective and rightful.
+
 (4)  A person who indorses a security certificate warrants to the issuer that:
+
 (a)  there is no adverse claim to the security; and
+
 (b)  the indorsement is effective.
-(5)  A person who originates an instruction for registration of transfer of an
-uncertificated security warrants to the issuer that:
+
+(5)  A person who originates an instruction for registration of transfer of an uncertificated security warrants to the issuer that:
+
 (a)  the instruction is effective; and
-(b)  at the time the instruction is presented to the issuer the purchaser will
-be entitled to the registration of transfer.
-(6)  A person who presents a certificated security for registration of
-transfer or for payment or exchange warrants to the issuer that the person is
-entitled to the registration, payment, or exchange, but a purchaser for value
-and without notice of adverse claims to whom transfer is registered warrants
-only that the person has no knowledge of any unauthorized signature in a
-necessary indorsement.
-(7)  If a person acts as agent of another in delivering a certificated
-security to a purchaser, the identity of the principal was known to the person
-to whom the certificate was delivered, and the certificate delivered by the
-agent was received by the agent from the principal or received by the agent
-from another person at the direction of the principal, the person delivering
-the security certificate warrants only that the delivering person has
-authority to act for the principal and does not know of any adverse claim to
-the certificated security.
-(8)  A secured party who redelivers a security certificate received, or after
-payment and on order of the debtor delivers the security certificate to
-another person, makes only the warranties of an agent under Subsection (7).
-(9)  Except as otherwise provided in Subsection (7), a broker acting for a
-customer makes to the issuer and a purchaser the warranties provided in
-Subsections (1) through (6).  A broker that delivers a security certificate to
-its customer, or causes its customer to be registered as the owner of an
-uncertificated security, makes to the customer the warranties provided in
-Subsection (1) or (2), and has the rights and privileges of a purchaser under
-this section.  The warranties of and in favor of the broker acting as an agent
-are in addition to applicable warranties given by and in favor of the
-customer.
+
+(b)  at the time the instruction is presented to the issuer the purchaser will be entitled to the registration of transfer.
+
+(6)  A person who presents a certificated security for registration of transfer or for payment or exchange warrants to the issuer that the person is entitled to the registration, payment, or exchange, but a purchaser for value and without notice of adverse claims to whom transfer is registered warrants only that the person has no knowledge of any unauthorized signature in a necessary indorsement.
+
+(7)  If a person acts as agent of another in delivering a certificated security to a purchaser, the identity of the principal was known to the person to whom the certificate was delivered, and the certificate delivered by the agent was received by the agent from the principal or received by the agent from another person at the direction of the principal, the person delivering the security certificate warrants only that the delivering person has authority to act for the principal and does not know of any adverse claim to the certificated security.
+
+(8)  A secured party who redelivers a security certificate received, or after payment and on order of the debtor delivers the security certificate to another person, makes only the warranties of an agent under Subsection (7).
+
+(9)  Except as otherwise provided in Subsection (7), a broker acting for a customer makes to the issuer and a purchaser the warranties provided in Subsections (1) through (6).  A broker that delivers a security certificate to its customer, or causes its customer to be registered as the owner of an uncertificated security, makes to the customer the warranties provided in Subsection (1) or (2), and has the rights and privileges of a purchaser under this section.  The warranties of and in favor of the broker acting as an agent are in addition to applicable warranties given by and in favor of the customer.
+

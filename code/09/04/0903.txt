@@ -1,89 +1,72 @@
 9-4-903.   Definitions.
-As used in this part the following words and terms have the following
-meanings, unless a different meaning clearly appears from the context:
-(1)  "Bonds," "notes," and "other obligations" mean any bonds, notes,
-debentures, interim certificates, or other evidences of financial indebtedness
-of the corporation authorized to be issued under the provisions of this part.
-(2)  "Construction loan" means a short-term advance of money for the purpose
-of constructing residential housing for low and moderate income persons.
-(3)  "Corporation" means the Utah Housing Corporation created by Section
-9-4-904, which, prior to July 1, 2001, was named the Utah Housing Finance
-Agency.
-(4)  "Employee of the corporation" means any individual who is employed by the
-corporation but who is not a trustee of the corporation.
+
+As used in this part the following words and terms have the following meanings, unless a different meaning clearly appears from the context:
+
+(1)  "Bonds," "notes," and "other obligations" mean any bonds, notes, debentures, interim certificates, or other evidences of financial indebtedness of the corporation authorized to be issued under the provisions of this part.
+
+(2)  "Construction loan" means a short-term advance of money for the purpose of constructing residential housing for low and moderate income persons.
+
+(3)  "Corporation" means the Utah Housing Corporation created by Section 9-4-904, which, prior to July 1, 2001, was named the Utah Housing Finance Agency.
+
+(4)  "Employee of the corporation" means any individual who is employed by the corporation but who is not a trustee of the corporation.
+
 (5)  "Financial assistance" includes:
+
 (a)  a loan, whether interest or noninterest bearing, secured or unsecured;
-(b)  a loan that converts to a grant upon the occurrence of specified
-conditions;
+
+(b)  a loan that converts to a grant upon the occurrence of specified conditions;
+
 (c)  a development loan;
+
 (d)  a grant;
+
 (e)  an award;
+
 (f)  a subsidy;
+
 (g)  a guarantee;
+
 (h)  a warranty;
+
 (i)  a lease;
-(j)  a payment on behalf of a borrower of an amount usually paid by a
-borrower, including a down payment;
-(k)  any other form of financial assistance that helps provide affordable
-housing for low and moderate income persons; or
+
+(j)  a payment on behalf of a borrower of an amount usually paid by a borrower, including a down payment;
+
+(k)  any other form of financial assistance that helps provide affordable housing for low and moderate income persons; or
+
 (l)  any combination of the foregoing.
-(6)  "Housing development" means a residential housing project, which includes
-residential housing for low and moderate income persons.
-(7)  "Housing sponsor" includes a person who constructs, develops,
-rehabilitates, purchases, or owns a housing development that is or will be
-subject to legally enforceable restrictive covenants that require the housing
-development to provide, at least in part, residential housing to low and
-moderate income persons, including a local public body, a nonprofit, limited
-profit, or for profit corporation, a limited partnership, a limited liability
-company, a joint venture, a subsidiary of the corporation, or any subsidiary
-of the subsidiary, a cooperative, a mutual housing organization, or any other
-type of entity or arrangement that helps provide affordable housing for low
-and moderate income persons.
-(8)  "Interest rate contract" means interest rate exchange contracts, interest
-rate floor contracts, interest rate ceiling contracts, and other similar
-contracts authorized in a resolution or policy adopted or approved by the
-trustees.
-(9)  "Local public body" means the state, any municipality, county, district,
-or other subdivision or instrumentality of the state, including redevelopment
-agencies and housing authorities created under Part 6.
-(10)  "Low and moderate income persons" means persons, irrespective of race,
-religion, creed, national origin, or sex, as determined by the corporation to
-require such assistance as is made available by this part on account of
-insufficient personal or family income taking into consideration factors,
-including:
-(a)  the amount of income that persons and families have available for housing
-needs;
+
+(6)  "Housing development" means a residential housing project, which includes residential housing for low and moderate income persons.
+
+(7)  "Housing sponsor" includes a person who constructs, develops, rehabilitates, purchases, or owns a housing development that is or will be subject to legally enforceable restrictive covenants that require the housing development to provide, at least in part, residential housing to low and moderate income persons, including a local public body, a nonprofit, limited profit, or for profit corporation, a limited partnership, a limited liability company, a joint venture, a subsidiary of the corporation, or any subsidiary of the subsidiary, a cooperative, a mutual housing organization, or any other type of entity or arrangement that helps provide affordable housing for low and moderate income persons.
+
+(8)  "Interest rate contract" means interest rate exchange contracts, interest rate floor contracts, interest rate ceiling contracts, and other similar contracts authorized in a resolution or policy adopted or approved by the trustees.
+
+(9)  "Local public body" means the state, any municipality, county, district, or other subdivision or instrumentality of the state, including redevelopment agencies and housing authorities created under Part 6.
+
+(10)  "Low and moderate income persons" means persons, irrespective of race, religion, creed, national origin, or sex, as determined by the corporation to require such assistance as is made available by this part on account of insufficient personal or family income taking into consideration factors, including:
+
+(a)  the amount of income that persons and families have available for housing needs;
+
 (b)  the size of family;
+
 (c)  whether or not a person is a single head of household;
+
 (d)  the cost and condition of residential housing available; and
-(e)  the ability of persons and families to compete successfully in the normal
-private housing market and to pay the amounts at which private enterprise is
-providing decent, safe, and sanitary housing.
-(11)  "Mortgage lender" means any bank, trust company, savings and loan
-association, credit union, mortgage banker, or other financial institution
-authorized to transact business in the state, any local public body, or any
-other entity, profit or nonprofit, that makes mortgage loans.
-(12)  "Mortgage loan" means a loan secured by a mortgage, which loan may bear
-interest at either a fixed or variable rate or which may be noninterest
-bearing, the proceeds of which are used for the purpose of financing the
-construction, development, rehabilitation, or purchase of residential housing
-for low and moderate income persons, including low and moderate income persons
-who are first-time homebuyers, single heads of household, elderly, homeless,
-or disabled.
-(13)  "Mortgage" means a mortgage, deed of trust, or other instrument securing
-a mortgage loan and constituting a lien on real property (the property being
-held in fee simple or on a leasehold under a lease having a remaining term, at
-the time the mortgage is acquired, of not less than the term for repayment of
-the mortgage loan secured by  the mortgage) improved or to be improved by
-residential housing, creating a lien which may be first priority or
-subordinate.
-(14)  "Rehabilitation" includes the reconstruction, rehabilitation,
-improvement, and repair of residential housing.
-(15)  "Residential housing" means a specific work or improvement within this
-state undertaken primarily to provide dwelling accommodations, including land,
-buildings, and improvements to land and buildings, whether in one to four
-family units or multifamily units, and other incidental or appurtenant
-nonhousing facilities, or as otherwise specified by the agency.
+
+(e)  the ability of persons and families to compete successfully in the normal private housing market and to pay the amounts at which private enterprise is providing decent, safe, and sanitary housing.
+
+(11)  "Mortgage lender" means any bank, trust company, savings and loan association, credit union, mortgage banker, or other financial institution authorized to transact business in the state, any local public body, or any other entity, profit or nonprofit, that makes mortgage loans.
+
+(12)  "Mortgage loan" means a loan secured by a mortgage, which loan may bear interest at either a fixed or variable rate or which may be noninterest bearing, the proceeds of which are used for the purpose of financing the construction, development, rehabilitation, or purchase of residential housing for low and moderate income persons, including low and moderate income persons who are first-time homebuyers, single heads of household, elderly, homeless, or disabled.
+
+(13)  "Mortgage" means a mortgage, deed of trust, or other instrument securing a mortgage loan and constituting a lien on real property (the property being held in fee simple or on a leasehold under a lease having a remaining term, at the time the mortgage is acquired, of not less than the term for repayment of the mortgage loan secured by  the mortgage) improved or to be improved by residential housing, creating a lien which may be first priority or subordinate.
+
+(14)  "Rehabilitation" includes the reconstruction, rehabilitation, improvement, and repair of residential housing.
+
+(15)  "Residential housing" means a specific work or improvement within this state undertaken primarily to provide dwelling accommodations, including land, buildings, and improvements to land and buildings, whether in one to four family units or multifamily units, and other incidental or appurtenant nonhousing facilities, or as otherwise specified by the agency.
+
 (16)  "State" means the state of Utah.
-(17)  "State housing credit ceiling" means the amount specified in Subsection
-42(h)(3)(C) of the Internal Revenue Code for each calendar year.
+
+(17)  "State housing credit ceiling" means the amount specified in Subsection 42(h)(3)(C) of the Internal Revenue Code for each calendar year.
+

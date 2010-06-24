@@ -1,184 +1,190 @@
-59-12-211.   Definitions -- Location of certain transactions -- Reports to
-commission -- Direct payment provision for a seller making certain purchases
--- Exceptions.
+59-12-211.   Definitions -- Location of certain transactions -- Reports to commission -- Direct payment provision for a seller making certain purchases -- Exceptions.
+
 (1)  As used in this section:
+
 (a) (i)  "Receipt" and "receive" mean:
+
 (A)  taking possession of tangible personal property;
+
 (B)  making first use of a service; or
+
 (C)  for a product transferred electronically, the earlier of:
+
 (I)  taking possession of the product transferred electronically; or
+
 (II)  making first use of the product transferred electronically.
-(ii)  "Receipt" and "receive" do not include possession by a shipping company
-on behalf of a purchaser.
+
+(ii)  "Receipt" and "receive" do not include possession by a shipping company on behalf of a purchaser.
+
 (b)  "Transportation equipment" means:
-(i)  a locomotive or rail car that is used to carry a person or property in
-interstate commerce;
+
+(i)  a locomotive or rail car that is used to carry a person or property in interstate commerce;
+
 (ii)  a truck or truck-tractor:
+
 (A)  with a gross vehicle weight rating of 10,001 pounds or more;
+
 (B)  registered under Section 41-1a-301; and
+
 (C)  operated under the authority of a carrier authorized and certificated:
-(I)  by the United States Department of Transportation or another federal
-authority; and
+
+(I)  by the United States Department of Transportation or another federal authority; and
+
 (II)  to engage in carrying a person or property in interstate commerce;
+
 (iii)  a trailer, semitrailer, or passenger bus that is:
+
 (A)  registered under Section 41-1a-301; and
+
 (B)  operated under the authority of a carrier authorized and certificated:
-(I)  by the United States Department of Transportation or another federal
-authority; and
+
+(I)  by the United States Department of Transportation or another federal authority; and
+
 (II)  to engage in carrying a person or property in interstate commerce;
-(iv)  an aircraft that is operated by an air carrier authorized and
-certificated:
-(A)  by the United States Department of Transportation or another federal or
-foreign authority; and
+
+(iv)  an aircraft that is operated by an air carrier authorized and certificated:
+
+(A)  by the United States Department of Transportation or another federal or foreign authority; and
+
 (B)  to engage in carrying a person or property in interstate commerce; or
-(v)  a container designed for use on, or a component part attached or secured
-on, an item of equipment listed in Subsections (1)(b)(i) through (iv).
-(2)  Except as provided in Subsections (8) and (13), if tangible personal
-property, a product transferred electronically, or a service that is subject
-to taxation under this chapter is received by a purchaser at a business
-location of a seller, the location of the transaction is the business location
-of the seller.
-(3)  Subject to Subsection (10), and except as provided in Subsections (7),
-(8), (9), (11), and (13), if tangible personal property, a product transferred
-electronically, or a service that is subject to taxation under this chapter is
-not received by a purchaser at a business location of a seller, the location
-of the transaction is the location where the purchaser takes receipt of the
-tangible personal property or service.
-(4)  Subject to Subsection (10), and except as provided in Subsections (7),
-(8), (9), (11), and (13), if Subsection (2) or (3) does not apply, the
-location of the transaction is the location indicated by an address for or
-other information on the purchaser if:
-(a)  the address or other information is available from the seller's business
-records; and
-(b)  use of the address or other information from the seller's records does
-not constitute bad faith.
-(5) (a)  Subject to Subsection (10), and except as provided in Subsections
-(7), (8), (9), (11), and (13), if Subsection (2), (3), or (4) does not apply,
-the location of the transaction is the location indicated by an address for
-the purchaser if:
+
+(v)  a container designed for use on, or a component part attached or secured on, an item of equipment listed in Subsections (1)(b)(i) through (iv).
+
+(2)  Except as provided in Subsections (8) and (13), if tangible personal property, a product transferred electronically, or a service that is subject to taxation under this chapter is received by a purchaser at a business location of a seller, the location of the transaction is the business location of the seller.
+
+(3)  Subject to Subsection (10), and except as provided in Subsections (7), (8), (9), (11), and (13), if tangible personal property, a product transferred electronically, or a service that is subject to taxation under this chapter is not received by a purchaser at a business location of a seller, the location of the transaction is the location where the purchaser takes receipt of the tangible personal property or service.
+
+(4)  Subject to Subsection (10), and except as provided in Subsections (7), (8), (9), (11), and (13), if Subsection (2) or (3) does not apply, the location of the transaction is the location indicated by an address for or other information on the purchaser if:
+
+(a)  the address or other information is available from the seller's business records; and
+
+(b)  use of the address or other information from the seller's records does not constitute bad faith.
+
+(5) (a)  Subject to Subsection (10), and except as provided in Subsections (7), (8), (9), (11), and (13), if Subsection (2), (3), or (4) does not apply, the location of the transaction is the location indicated by an address for the purchaser if:
+
 (i)  the address is obtained during the consummation of the transaction; and
-(ii)  use of the address described in Subsection (5)(a)(i) does not constitute
-bad faith.
-(b)  An address used under Subsection (5)(a) includes the address of a
-purchaser's payment instrument if no other address is available.
-(6)  Subject to Subsection (10), and except as provided in Subsections (7),
-(8), (9), (11), and (13), if Subsection (2), (3), (4), or (5) does not apply
-or if a seller does not have sufficient information to apply Subsection (2),
-(3), (4), or (5), the location of the transaction is the location:
+
+(ii)  use of the address described in Subsection (5)(a)(i) does not constitute bad faith.
+
+(b)  An address used under Subsection (5)(a) includes the address of a purchaser's payment instrument if no other address is available.
+
+(6)  Subject to Subsection (10), and except as provided in Subsections (7), (8), (9), (11), and (13), if Subsection (2), (3), (4), or (5) does not apply or if a seller does not have sufficient information to apply Subsection (2), (3), (4), or (5), the location of the transaction is the location:
+
 (a)  indicated by the address from which:
-(i)  except as provided in Subsection (6)(a)(ii), for tangible personal
-property that is subject to taxation under this chapter, the tangible personal
-property is shipped;
-(ii)  for computer software delivered electronically or for a product
-transferred electronically that is subject to taxation under this chapter, the
-computer software or product transferred electronically is first available for
-transmission by the seller; or
-(iii)  for a service that is subject to taxation under this chapter, the
-service is provided; or
-(b)  as determined by the seller with respect to a prepaid wireless calling
-service:
+
+(i)  except as provided in Subsection (6)(a)(ii), for tangible personal property that is subject to taxation under this chapter, the tangible personal property is shipped;
+
+(ii)  for computer software delivered electronically or for a product transferred electronically that is subject to taxation under this chapter, the computer software or product transferred electronically is first available for transmission by the seller; or
+
+(iii)  for a service that is subject to taxation under this chapter, the service is provided; or
+
+(b)  as determined by the seller with respect to a prepaid wireless calling service:
+
 (i)  provided in Subsection (6)(a)(iii); or
+
 (ii)  associated with the mobile telephone number.
-(7) (a)  For purposes of this Subsection (7), "shared ZIP Code" means a nine-
-digit ZIP Code that is located within two or more local taxing jurisdictions.
-(b)  If the location of a transaction determined under Subsections (3) through
-(6) is in a shared ZIP Code, the location of the transaction is:
-(i)  if there is only one local taxing jurisdiction that imposes the lowest
-agreement combined tax rate for the shared ZIP Code, the local taxing
-jurisdiction that imposes the lowest agreement combined tax rate; or
-(ii)  if two or more local taxing jurisdictions impose the lowest agreement
-combined tax rate for the shared ZIP Code, the local taxing jurisdiction that:
-(A)  imposes the lowest agreement combined tax rate for the shared ZIP Code;
-and
-(B)  has located within the local taxing jurisdiction the largest number of
-street addresses within the shared ZIP Code.
-(c) Notwithstanding any provision under this chapter authorizing or requiring
-the imposition of a sales and use tax, for purposes of Subsection (7)(b), a
-seller shall collect a sales and use tax imposed under this chapter at the
-lowest agreement combined tax rate imposed within the local taxing
-jurisdiction in which the transaction is located under Subsection (7)(b).
-(d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may make rules:
-(i)  providing for the circumstances under which a seller has exercised due
-diligence in determining the nine-digit ZIP Code for an address; or
-(ii)  notwithstanding Subsection (7)(b), for determining the local taxing
-jurisdiction within which a transaction is located if a seller is unable to
-determine the local taxing jurisdiction within which the transaction is
-located under Subsection (7)(b).
-(8)  The location of a transaction made with a direct payment permit described
-in Section 59-12-107.1 is the location where receipt of the tangible personal
-property, product, or service by the purchaser occurs.
-(9)  The location of a purchase of direct mail is the location determined in
-accordance with Section 59-12-123.
-(10) (a)  Except as provided in Subsection (10)(b), the location of a
-transaction determined under Subsections (3) through (6), (8), or (9), is the
-local taxing jurisdiction within which:
-(i)  the nine-digit ZIP Code assigned to the location determined under
-Subsections (3) through (6), (8), or (9) is located; or
-(ii)  the five-digit ZIP Code assigned to the location determined under
-Subsections (3) through (6), (8), or (9) is located if:
-(A)  a nine-digit ZIP Code is not available for the location determined under
-Subsections (3) through (6), (8), or (9); or
-(B)  after exercising due diligence, a seller or certified service provider is
-unable to determine a nine-digit ZIP Code for the location determined under
-Subsections (3) through (6), (8), or (9).
-(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may make rules for determining the local taxing
-jurisdiction within which a transaction is located if a seller or certified
-service provider is unable to determine the local taxing jurisdiction within
-which the transaction is located under Subsection (10)(a).
-(11) (a)  As used in this Subsection (11), "florist delivery transaction"
-means a transaction commenced by a florist that transmits an order:
+
+(7) (a)  For purposes of this Subsection (7), "shared ZIP Code" means a nine-digit ZIP Code that is located within two or more local taxing jurisdictions.
+
+(b)  If the location of a transaction determined under Subsections (3) through (6) is in a shared ZIP Code, the location of the transaction is:
+
+(i)  if there is only one local taxing jurisdiction that imposes the lowest agreement combined tax rate for the shared ZIP Code, the local taxing jurisdiction that imposes the lowest agreement combined tax rate; or
+
+(ii)  if two or more local taxing jurisdictions impose the lowest agreement combined tax rate for the shared ZIP Code, the local taxing jurisdiction that:
+
+(A)  imposes the lowest agreement combined tax rate for the shared ZIP Code; and
+
+(B)  has located within the local taxing jurisdiction the largest number of street addresses within the shared ZIP Code.
+
+(c) Notwithstanding any provision under this chapter authorizing or requiring the imposition of a sales and use tax, for purposes of Subsection (7)(b), a seller shall collect a sales and use tax imposed under this chapter at the lowest agreement combined tax rate imposed within the local taxing jurisdiction in which the transaction is located under Subsection (7)(b).
+
+(d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules:
+
+(i)  providing for the circumstances under which a seller has exercised due diligence in determining the nine-digit ZIP Code for an address; or
+
+(ii)  notwithstanding Subsection (7)(b), for determining the local taxing jurisdiction within which a transaction is located if a seller is unable to determine the local taxing jurisdiction within which the transaction is located under Subsection (7)(b).
+
+(8)  The location of a transaction made with a direct payment permit described in Section 59-12-107.1 is the location where receipt of the tangible personal property, product, or service by the purchaser occurs.
+
+(9)  The location of a purchase of direct mail is the location determined in accordance with Section 59-12-123.
+
+(10) (a)  Except as provided in Subsection (10)(b), the location of a transaction determined under Subsections (3) through (6), (8), or (9), is the local taxing jurisdiction within which:
+
+(i)  the nine-digit ZIP Code assigned to the location determined under Subsections (3) through (6), (8), or (9) is located; or
+
+(ii)  the five-digit ZIP Code assigned to the location determined under Subsections (3) through (6), (8), or (9) is located if:
+
+(A)  a nine-digit ZIP Code is not available for the location determined under Subsections (3) through (6), (8), or (9); or
+
+(B)  after exercising due diligence, a seller or certified service provider is unable to determine a nine-digit ZIP Code for the location determined under Subsections (3) through (6), (8), or (9).
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules for determining the local taxing jurisdiction within which a transaction is located if a seller or certified service provider is unable to determine the local taxing jurisdiction within which the transaction is located under Subsection (10)(a).
+
+(11) (a)  As used in this Subsection (11), "florist delivery transaction" means a transaction commenced by a florist that transmits an order:
+
 (i)  by:
+
 (A)  telegraph;
+
 (B)  telephone; or
+
 (C)  a means of communication similar to Subsection (11)(a)(i)(A) or (B); and
+
 (ii)  for delivery to another place:
+
 (A)  in this state; or
+
 (B)  outside this state.
-(b)  Notwithstanding Subsections (3) through (6), beginning on January 1,
-2009, and ending on December 31, 2009, the location of a florist delivery
-transaction is the business location of the florist that commences the florist
-delivery transaction.
-(c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may by rule:
+
+(b)  Notwithstanding Subsections (3) through (6), beginning on January 1, 2009, and ending on December 31, 2009, the location of a florist delivery transaction is the business location of the florist that commences the florist delivery transaction.
+
+(c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule:
+
 (i)  define:
+
 (A)  "business location"; and
+
 (B)  "florist";
-(ii)  define what constitutes a means of communication similar to Subsection
-(11)(a)(i)(A) or (B); and
+
+(ii)  define what constitutes a means of communication similar to Subsection (11)(a)(i)(A) or (B); and
+
 (iii)  provide procedures for determining when a transaction is commenced.
-(12) (a)  A tax collected under this chapter shall be reported to the
-commission on a form that identifies the location of each transaction that
-occurs during the return filing period.
-(b)  The form described in Subsection (12)(a) shall be filed with the
-commission as required under this chapter.
+
+(12) (a)  A tax collected under this chapter shall be reported to the commission on a form that identifies the location of each transaction that occurs during the return filing period.
+
+(b)  The form described in Subsection (12)(a) shall be filed with the commission as required under this chapter.
+
 (13)  This section does not apply to:
+
 (a)  amounts charged by a seller for:
-(i)  telecommunications service except for a prepaid calling service or a
-prepaid wireless calling service as provided in Subsection (6)(b) or Section
-59-12-215; or
+
+(i)  telecommunications service except for a prepaid calling service or a prepaid wireless calling service as provided in Subsection (6)(b) or Section 59-12-215; or
+
 (ii)  the retail sale or transfer of:
-(A)  a motor vehicle other than a motor vehicle that is transportation
-equipment;
+
+(A)  a motor vehicle other than a motor vehicle that is transportation equipment;
+
 (B)  an aircraft other than an aircraft that is transportation equipment;
+
 (C)  a watercraft;
+
 (D)  a modular home;
+
 (E)  a manufactured home; or
+
 (F)  a mobile home; or
-(iii)  except as provided in Section 59-12-214, the lease or rental of
-tangible personal property other than tangible personal property that is
-transportation equipment;
+
+(iii)  except as provided in Section 59-12-214, the lease or rental of tangible personal property other than tangible personal property that is transportation equipment;
+
 (b)  a tax a person pays in accordance with Subsection 59-12-107(1)(d); or
-(c)  a retail sale of tangible personal property or a product transferred
-electronically if:
-(i)  the seller receives the order for the tangible personal property or
-product transferred electronically in this state;
-(ii)  receipt of the tangible personal property or product transferred
-electronically by the purchaser or the purchaser's donee occurs in this state;
-(iii)  the location where receipt of the tangible personal property or product
-transferred electronically by the purchaser occurs is determined in accordance
-with Subsections (3) through (5); and
-(iv)  at the time the seller receives the order, the record keeping system
-that the seller uses to calculate the proper amount of tax imposed under this
-chapter captures the location where the order is received.
+
+(c)  a retail sale of tangible personal property or a product transferred electronically if:
+
+(i)  the seller receives the order for the tangible personal property or product transferred electronically in this state;
+
+(ii)  receipt of the tangible personal property or product transferred electronically by the purchaser or the purchaser's donee occurs in this state;
+
+(iii)  the location where receipt of the tangible personal property or product transferred electronically by the purchaser occurs is determined in accordance with Subsections (3) through (5); and
+
+(iv)  at the time the seller receives the order, the record keeping system that the seller uses to calculate the proper amount of tax imposed under this chapter captures the location where the order is received.
+

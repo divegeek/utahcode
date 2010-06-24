@@ -1,11 +1,12 @@
 58-37e-7.   Illegal drug market target community.
-A person whose participation in the illegal drug market constitutes the
-following level offense shall be considered to have the following illegal drug
-market target community:
-(1)  Level 4: the county in which the defendant's place of participation is
-situated;
-(2)  Level 3: the target community described in Subsection (1) plus all
-counties with a border contiguous to that target community;
-(3)  Level 2: the target community described in Subsection (2) plus all
-counties with a border contiguous to that target community;
+
+A person whose participation in the illegal drug market constitutes the following level offense shall be considered to have the following illegal drug market target community:
+
+(1)  Level 4: the county in which the defendant's place of participation is situated;
+
+(2)  Level 3: the target community described in Subsection (1) plus all counties with a border contiguous to that target community;
+
+(3)  Level 2: the target community described in Subsection (2) plus all counties with a border contiguous to that target community;
+
 (4)  Level 1: the state.
+

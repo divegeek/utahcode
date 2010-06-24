@@ -1,23 +1,22 @@
 72-4-109.   State highways -- SR-31, SR-32, SR-34 to SR-40.
+
 State highways include:
-(1)  SR-31.  From Route 89 in Fairview southeasterly to Route 10 in
-Huntington.
-(2)  SR-32.  From Route 40 north of Heber City, northeasterly to a junction
-with Route 35 at Francis; then north through Kamas to the Route 80 westbound
-off-ramp northeast of Wanship.
-(3)  SR-34.  From Route 18 east on 100 North Street in St. George to the east
-side curb of River Road.
-(4)  SR-35.  From Route 32 at Francis southeasterly through Tabiona to Route
-87 north of Duchesne.
-(5)  SR-36.  From Route 6 west of Eureka northerly through Tooele and Mills
-Junction to Route 80 at Tooele Interchange.
-(6)  SR-37.  From Route 126 in Sunset west through Clinton to south of Hooper;
-then northerly through Hooper to west of West Haven; then east through West
-Haven to Route 108 near Roy.
-(7)  SR-38.  From Route 13 in Brigham City northerly through Honeyville and
-Deweyville to Route 30 in Collinston.
-(8)  SR-39.  From Route 134 easterly on Twelfth Street in Ogden and Ogden
-Canyon to Route 16 in Woodruff.
-(9)  SR-40.  From Route 80 at Silver Creek Junction southerly through Heber
-City then easterly through Duchesne, Vernal, and Jensen to the Utah-Colorado
-state line.
+
+(1)  SR-31.  From Route 89 in Fairview southeasterly to Route 10 in Huntington.
+
+(2)  SR-32.  From Route 40 north of Heber City, northeasterly to a junction with Route 35 at Francis; then north through Kamas to the Route 80 westbound off-ramp northeast of Wanship.
+
+(3)  SR-34.  From Route 18 east on 100 North Street in St. George to the east side curb of River Road.
+
+(4)  SR-35.  From Route 32 at Francis southeasterly through Tabiona to Route 87 north of Duchesne.
+
+(5)  SR-36.  From Route 6 west of Eureka northerly through Tooele and Mills Junction to Route 80 at Tooele Interchange.
+
+(6)  SR-37.  From Route 126 in Sunset west through Clinton to south of Hooper; then northerly through Hooper to west of West Haven; then east through West Haven to Route 108 near Roy.
+
+(7)  SR-38.  From Route 13 in Brigham City northerly through Honeyville and Deweyville to Route 30 in Collinston.
+
+(8)  SR-39.  From Route 134 easterly on Twelfth Street in Ogden and Ogden Canyon to Route 16 in Woodruff.
+
+(9)  SR-40.  From Route 80 at Silver Creek Junction southerly through Heber City then easterly through Duchesne, Vernal, and Jensen to the Utah-Colorado state line.
+

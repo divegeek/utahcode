@@ -1,7 +1,4 @@
 Article I,  Section 15.   [Freedom of speech and of the press -- Libel.]
-No law shall be passed to abridge or restrain the freedom of speech or of the
-press. In all criminal prosecutions for libel the truth may be given in
-evidence to the jury; and if it shall appear to the jury that the matter
-charged as libelous is true, and was published with good motives, and for
-justifiable ends, the party shall be acquitted; and the jury shall have the
-right to determine the law and the fact.
+
+No law shall be passed to abridge or restrain the freedom of speech or of the press. In all criminal prosecutions for libel the truth may be given in evidence to the jury; and if it shall appear to the jury that the matter charged as libelous is true, and was published with good motives, and for justifiable ends, the party shall be acquitted; and the jury shall have the right to determine the law and the fact.
+

@@ -1,8 +1,6 @@
 75-5b-104.   Communication between courts.
-(1)  A court of this state may communicate with a court in another state
-concerning a proceeding arising under this chapter.  The court may allow the
-parties to participate in the communication.  Except as otherwise provided in
-Subsection (2), the court shall make a record of the communication.  The
-record may be limited to the fact that the communication occurred.
-(2)  Courts may communicate concerning schedules, calendars, court records,
-and other administrative matters without making a record.
+
+(1)  A court of this state may communicate with a court in another state concerning a proceeding arising under this chapter.  The court may allow the parties to participate in the communication.  Except as otherwise provided in Subsection (2), the court shall make a record of the communication.  The record may be limited to the fact that the communication occurred.
+
+(2)  Courts may communicate concerning schedules, calendars, court records, and other administrative matters without making a record.
+

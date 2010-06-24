@@ -1,84 +1,70 @@
-53-3-218.   Court to report convictions and may recommend suspension of
-license -- Severity of speeding violation defined.
-(1)  As used in this section, "conviction" means conviction by the court of
-first impression or final administrative determination in an administrative
-traffic proceeding.
-(2) (a) Except as provided in Subsection (2)(c), a court having jurisdiction
-over offenses committed under this chapter or any other law of this state, or
-under any municipal ordinance regulating driving motor vehicles on highways or
-driving motorboats on the water, shall forward to the division within 10 days,
-an abstract of the court record of the conviction or plea held in abeyance of
-any person in the court for a reportable traffic or motorboating violation of
-any laws or ordinances, and may recommend the suspension of the license of the
-person convicted.
-(b)  When the division receives a court record of a conviction or plea in
-abeyance for a motorboat violation, the division may only take action against
-a person's driver license if the motorboat violation is for a violation of
-Title 41, Chapter 6a, Part 5, Driving Under the Influence and Reckless
-Driving.
-(c) (i)  A court is not required to forward to the division within 10 days an
-abstract of the court record of the conviction for a violation described in
-Subsection 53-3-220(1)(c) and the Driver License Division is not required to
-suspend a person's license for a violation described in Subsection
-53-3-220(1)(c) if:
+53-3-218.   Court to report convictions and may recommend suspension of license -- Severity of speeding violation defined.
+
+(1)  As used in this section, "conviction" means conviction by the court of first impression or final administrative determination in an administrative traffic proceeding.
+
+(2) (a) Except as provided in Subsection (2)(c), a court having jurisdiction over offenses committed under this chapter or any other law of this state, or under any municipal ordinance regulating driving motor vehicles on highways or driving motorboats on the water, shall forward to the division within 10 days, an abstract of the court record of the conviction or plea held in abeyance of any person in the court for a reportable traffic or motorboating violation of any laws or ordinances, and may recommend the suspension of the license of the person convicted.
+
+(b)  When the division receives a court record of a conviction or plea in abeyance for a motorboat violation, the division may only take action against a person's driver license if the motorboat violation is for a violation of Title 41, Chapter 6a, Part 5, Driving Under the Influence and Reckless Driving.
+
+(c) (i)  A court is not required to forward to the division within 10 days an abstract of the court record of the conviction for a violation described in Subsection 53-3-220(1)(c) and the Driver License Division is not required to suspend a person's license for a violation described in Subsection 53-3-220(1)(c) if:
+
 (A)  the violation did not involve a motor vehicle; and
-(B)  the person convicted of a violation described in Subsection
-53-3-220(1)(c):
-(I)  is participating in or has successfully completed substance abuse
-treatment at a licensed substance abuse treatment program that is approved by
-the Division of Substance Abuse and Mental Health in accordance with Section
-62A-15-105; or
-(II)  is participating in or has successfully completed probation through the
-Department of Corrections Adult Probation and Parole in accordance with
-Section 77-18-1.
-(ii)  If the person convicted of a violation described in Subsection
-53-3-220(1)(c) fails to comply with the terms of a substance abuse treatment
-program under Subsection (2)(c)(i)(B)(I) or the terms of probation under
-Subsection (2)(c)(i)(B)(II):
-(A)  the substance abuse treatment program licensed by the Division of
-Substance Abuse and Mental Health or the Department of Corrections Adult
-Probation and Parole shall immediately provide an affidavit or other sworn
-information to the court notifying the court that the person has failed to
-comply with the terms of a substance abuse treatment program under Subsection
-(2)(c)(i)(B)(I) or the terms of probation under Subsection (2)(c)(i)(B)(II);
-(B)  upon receipt of an affidavit or sworn statement under Subsection
-(2)(c)(ii)(A), the court shall immediately forward an abstract of the court
-record of the conviction for a violation described in Subsection
-53-3-220(1)(c) to the division; and
-(C)  the division shall immediately suspend the person's license in accordance
-with Subsection 53-3-220(1)(c).
-(3)  The abstract shall be made in the form prescribed by the division and
-shall include:
+
+(B)  the person convicted of a violation described in Subsection 53-3-220(1)(c):
+
+(I)  is participating in or has successfully completed substance abuse treatment at a licensed substance abuse treatment program that is approved by the Division of Substance Abuse and Mental Health in accordance with Section 62A-15-105; or
+
+(II)  is participating in or has successfully completed probation through the Department of Corrections Adult Probation and Parole in accordance with Section 77-18-1.
+
+(ii)  If the person convicted of a violation described in Subsection 53-3-220(1)(c) fails to comply with the terms of a substance abuse treatment program under Subsection (2)(c)(i)(B)(I) or the terms of probation under Subsection (2)(c)(i)(B)(II):
+
+(A)  the substance abuse treatment program licensed by the Division of Substance Abuse and Mental Health or the Department of Corrections Adult Probation and Parole shall immediately provide an affidavit or other sworn information to the court notifying the court that the person has failed to comply with the terms of a substance abuse treatment program under Subsection (2)(c)(i)(B)(I) or the terms of probation under Subsection (2)(c)(i)(B)(II);
+
+(B)  upon receipt of an affidavit or sworn statement under Subsection (2)(c)(ii)(A), the court shall immediately forward an abstract of the court record of the conviction for a violation described in Subsection 53-3-220(1)(c) to the division; and
+
+(C)  the division shall immediately suspend the person's license in accordance with Subsection 53-3-220(1)(c).
+
+(3)  The abstract shall be made in the form prescribed by the division and shall include:
+
 (a)  the name, date of birth, and address of the party charged;
+
 (b)  the license certificate number of the party charged, if any;
+
 (c)  the registration number of the motor vehicle or motorboat involved;
+
 (d)  whether the motor vehicle was a commercial motor vehicle;
+
 (e)  whether the motor vehicle carried hazardous materials;
+
 (f)  whether the motor vehicle carried 16 or more occupants;
+
 (g)  whether the driver presented a commercial driver license;
+
 (h)  the nature of the offense;
+
 (i)  whether the offense involved an accident;
+
 (j)  the driver's blood alcohol content, if applicable;
+
 (k)  if the offense involved a speeding violation:
+
 (i)  the posted speed limit;
+
 (ii)  the actual speed; and
-(iii)  whether the speeding violation occurred on a highway that is part of
-the interstate system as defined in Section 72-1-102;
+
+(iii)  whether the speeding violation occurred on a highway that is part of the interstate system as defined in Section 72-1-102;
+
 (l)  the date of the hearing;
+
 (m)  the plea;
+
 (n)  the judgment or whether bail was forfeited; and
-(o)  the severity of the violation, which shall be graded by the court as
-"minimum," "intermediate," or "maximum" as established in accordance with
-Subsection 53-3-221(4).
-(4)  When a convicted person secures a judgment of acquittal or reversal in
-any appellate court after conviction in the court of first impression, the
-division shall reinstate the convicted person's license immediately upon
-receipt of a certified copy of the judgment of acquittal or reversal.
-(5)  Upon a conviction for a violation of the prohibition on using a handheld
-wireless communication device for text messaging or electronic mail
-communication while operating a moving motor vehicle under Section 41-6a-1716,
-a judge may order a suspension of the convicted person's license for a period
-of three months.
-(6)  Upon a conviction for a violation of careless driving under Section
-41-6a-1715 that causes or results in the death of another person, a judge may
-order a revocation of the convicted person's license for a period of one year.
+
+(o)  the severity of the violation, which shall be graded by the court as "minimum," "intermediate," or "maximum" as established in accordance with Subsection 53-3-221(4).
+
+(4)  When a convicted person secures a judgment of acquittal or reversal in any appellate court after conviction in the court of first impression, the division shall reinstate the convicted person's license immediately upon receipt of a certified copy of the judgment of acquittal or reversal.
+
+(5)  Upon a conviction for a violation of the prohibition on using a handheld wireless communication device for text messaging or electronic mail communication while operating a moving motor vehicle under Section 41-6a-1716, a judge may order a suspension of the convicted person's license for a period of three months.
+
+(6)  Upon a conviction for a violation of careless driving under Section 41-6a-1715 that causes or results in the death of another person, a judge may order a revocation of the convicted person's license for a period of one year.
+

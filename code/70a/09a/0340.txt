@@ -1,13 +1,8 @@
-70A-9a-340.   Effectiveness of right of recoupment or set-off against
-deposit account.
-(1)  Except as otherwise provided in Subsection (3), a bank with which a
-deposit account is maintained may exercise any right of recoupment or set-off
-against a secured party that holds a security interest in the deposit account.
-(2)  Except as otherwise provided in Subsection (3), the application of this
-chapter to a security interest in a deposit account does not affect a right of
-recoupment or set-off of the secured party as to a deposit account maintained
-with the secured party.
-(3)  The exercise by a bank of a set-off against a deposit account is
-ineffective against a secured party that holds a security interest in the
-deposit account which is perfected by control under Subsection 70A-
-9a-104(1)(c), if the set-off is based on a claim against the debtor.
+70A-9a-340.   Effectiveness of right of recoupment or set-off against deposit account.
+
+(1)  Except as otherwise provided in Subsection (3), a bank with which a deposit account is maintained may exercise any right of recoupment or set-off against a secured party that holds a security interest in the deposit account.
+
+(2)  Except as otherwise provided in Subsection (3), the application of this chapter to a security interest in a deposit account does not affect a right of recoupment or set-off of the secured party as to a deposit account maintained with the secured party.
+
+(3)  The exercise by a bank of a set-off against a deposit account is ineffective against a secured party that holds a security interest in the deposit account which is perfected by control under Subsection 70A-9a-104(1)(c), if the set-off is based on a claim against the debtor.
+

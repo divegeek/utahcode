@@ -1,6 +1,4 @@
 73-1-2.   Unit of measurement -- Of flow -- Of volume.
-The standard unit of measurement of the flow of water shall be the discharge
-of one cubic foot per second of time, which shall be known as a second-foot;
-and the standard unit of measurement of the volume of water shall be the acre-
-foot, being the amount of water upon an acre covered one foot deep, equivalent
-to 43,560 cubic feet.
+
+The standard unit of measurement of the flow of water shall be the discharge of one cubic foot per second of time, which shall be known as a second-foot; and the standard unit of measurement of the volume of water shall be the acre-foot, being the amount of water upon an acre covered one foot deep, equivalent to 43,560 cubic feet.
+

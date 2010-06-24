@@ -1,64 +1,60 @@
 41-12a-103.   Definitions.
+
 As used in this chapter:
+
 (1)  "Department" means the Department of Public Safety.
+
 (2)  "Judgment" means any judgment that is final by:
-(a)  expiration without appeal of the time within which an appeal might have
-been perfected; or
-(b)  final affirmation on appeal, rendered by a court of competent
-jurisdiction of any state or of the United States, upon a cause of action for
-damages:
-(i)  arising out of the ownership, maintenance, or use of any motor vehicle,
-including damages for care and loss of services because of bodily injury to or
-death of any person, or because of injury to or destruction of property
-including the loss of use of the property; or
+
+(a)  expiration without appeal of the time within which an appeal might have been perfected; or
+
+(b)  final affirmation on appeal, rendered by a court of competent jurisdiction of any state or of the United States, upon a cause of action for damages:
+
+(i)  arising out of the ownership, maintenance, or use of any motor vehicle, including damages for care and loss of services because of bodily injury to or death of any person, or because of injury to or destruction of property including the loss of use of the property; or
+
 (ii)  on a settlement agreement.
-(3)  "License" or "license certificate" have the same meanings as under
-Section 53-3-102.
-(4) (a)  "Motor vehicle" means every self-propelled vehicle that is designed
-for use upon a highway, including trailers and semitrailers designed for use
-with other motorized vehicles.
-(b)  "Motor vehicle" does not include traction engines, road rollers, farm
-tractors, tractor cranes, power shovels, and well drillers, and every vehicle
-that is propelled by electric power obtained from overhead wires but not
-operated upon rails.
+
+(3)  "License" or "license certificate" have the same meanings as under Section 53-3-102.
+
+(4) (a)  "Motor vehicle" means every self-propelled vehicle that is designed for use upon a highway, including trailers and semitrailers designed for use with other motorized vehicles.
+
+(b)  "Motor vehicle" does not include traction engines, road rollers, farm tractors, tractor cranes, power shovels, and well drillers, and every vehicle that is propelled by electric power obtained from overhead wires but not operated upon rails.
+
 (5)  "Nonresident" means every person who is not a resident of Utah.
-(6)  "Nonresident's operating privilege" means the privilege conferred upon a
-person who is not a resident of Utah by the laws of Utah pertaining to the
-operation by him of a motor vehicle, or the use of a motor vehicle owned by
-him, in Utah.
-(7)  "Operator" means every person who is in actual physical control of a
-motor vehicle.
+
+(6)  "Nonresident's operating privilege" means the privilege conferred upon a person who is not a resident of Utah by the laws of Utah pertaining to the operation by him of a motor vehicle, or the use of a motor vehicle owned by him, in Utah.
+
+(7)  "Operator" means every person who is in actual physical control of a motor vehicle.
+
 (8)  "Owner" means:
+
 (a)  a person who holds legal title to a motor vehicle;
+
 (b)  a lessee in possession;
-(c)  a conditional vendee or lessee if a motor vehicle is the subject of a
-conditional sale or lease with the right of purchase upon performance of the
-conditions stated in the agreement and with an immediate right of possession
-in the conditional vendee or lessee; or
-(d)  a mortgagor if a motor vehicle is the subject of a mortgage with the
-mortgagor entitled to possession.
-(9)  "Owner's or operator's security," "owner's security," or "operator's
-security" means any of the following:
-(a)  an insurance policy or combination of policies conforming to Section
-31A-22-302, which is issued by an insurer authorized to do business in Utah;
-(b)  an insurance policy or combination of policies issued or renewed prior to
-January 1, 2009 that:
-(i)  conformed to the minimum coverage limits of Section 31A-22-304 prior to
-January 1, 2009; and
-(ii)  conform to the current requirements other than the minimum coverage
-limits of policies issued in accordance with Section 31A-22-302;
-(c)  a surety bond issued by an insurer authorized to do a surety business in
-Utah in which the surety is subject to the minimum coverage limits and other
-requirements of policies conforming to Section 31A-22-302, which names the
-department as a creditor under the bond for the use of persons entitled to the
-proceeds of the bond;
-(d)  a deposit with the state treasurer of cash or securities complying with
-Section 41-12a-406;
-(e)  maintaining a certificate of self-funded coverage under Section
-41-12a-407; or
-(f)  a policy conforming to Section 31A-22-302 issued by the Risk Management
-Fund created in Section 63A-4-201.
-(10)  "Registration" means the issuance of the certificates and registration
-plates issued under the laws of Utah pertaining to the registration of motor
-vehicles.
+
+(c)  a conditional vendee or lessee if a motor vehicle is the subject of a conditional sale or lease with the right of purchase upon performance of the conditions stated in the agreement and with an immediate right of possession in the conditional vendee or lessee; or
+
+(d)  a mortgagor if a motor vehicle is the subject of a mortgage with the mortgagor entitled to possession.
+
+(9)  "Owner's or operator's security," "owner's security," or "operator's security" means any of the following:
+
+(a)  an insurance policy or combination of policies conforming to Section 31A-22-302, which is issued by an insurer authorized to do business in Utah;
+
+(b)  an insurance policy or combination of policies issued or renewed prior to January 1, 2009 that:
+
+(i)  conformed to the minimum coverage limits of Section 31A-22-304 prior to January 1, 2009; and
+
+(ii)  conform to the current requirements other than the minimum coverage limits of policies issued in accordance with Section 31A-22-302;
+
+(c)  a surety bond issued by an insurer authorized to do a surety business in Utah in which the surety is subject to the minimum coverage limits and other requirements of policies conforming to Section 31A-22-302, which names the department as a creditor under the bond for the use of persons entitled to the proceeds of the bond;
+
+(d)  a deposit with the state treasurer of cash or securities complying with Section 41-12a-406;
+
+(e)  maintaining a certificate of self-funded coverage under Section 41-12a-407; or
+
+(f)  a policy conforming to Section 31A-22-302 issued by the Risk Management Fund created in Section 63A-4-201.
+
+(10)  "Registration" means the issuance of the certificates and registration plates issued under the laws of Utah pertaining to the registration of motor vehicles.
+
 (11)  "Self-insurance" has the same meaning as provided in Section 31A-1-301.
+

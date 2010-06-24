@@ -1,36 +1,32 @@
 70A-3-501.   Presentment.
-(1)  "Presentment" means a demand made by or on behalf of a person entitled to
-enforce an instrument to pay the instrument made to the drawee or a party
-obliged to pay the instrument or, in the case of a note or accepted draft
-payable at a bank, to the bank, or to accept a draft made to the drawee.
-(2)  The following rules are subject to Title 70A, Chapter 4, Uniform
-Commercial Code -- Bank Deposits and Collections agreement of the parties,
-clearinghouse rules, and the like:
+
+(1)  "Presentment" means a demand made by or on behalf of a person entitled to enforce an instrument to pay the instrument made to the drawee or a party obliged to pay the instrument or, in the case of a note or accepted draft payable at a bank, to the bank, or to accept a draft made to the drawee.
+
+(2)  The following rules are subject to Title 70A, Chapter 4, Uniform Commercial Code -- Bank Deposits and Collections agreement of the parties, clearinghouse rules, and the like:
+
 (a)  Presentment:
-(i)  may be made at the place of payment of the instrument and must be made at
-the place of payment if the instrument is payable at a bank in the United
-States;
-(ii)  may be made by any commercially reasonable means, including an oral,
-written, or electronic communication;
-(iii)  is effective when the demand for payment or acceptance is received by
-the person to whom presentment is made; and
-(iv)  is effective if made to any one of two or more makers, acceptors,
-drawees, or other payors.
-(b)  Upon demand of the person to whom presentment is made, the person making
-presentment must:
+
+(i)  may be made at the place of payment of the instrument and must be made at the place of payment if the instrument is payable at a bank in the United States;
+
+(ii)  may be made by any commercially reasonable means, including an oral, written, or electronic communication;
+
+(iii)  is effective when the demand for payment or acceptance is received by the person to whom presentment is made; and
+
+(iv)  is effective if made to any one of two or more makers, acceptors, drawees, or other payors.
+
+(b)  Upon demand of the person to whom presentment is made, the person making presentment must:
+
 (i)  exhibit the instrument;
-(ii)  give reasonable identification and, if presentment is made on behalf of
-another person, reasonable evidence of authority to do so; and
-(iii)  sign a receipt on the instrument for any payment made or surrender the
-instrument if full payment is made.
-(c)  Without dishonoring the instrument, the party to whom presentment is made
-may:
+
+(ii)  give reasonable identification and, if presentment is made on behalf of another person, reasonable evidence of authority to do so; and
+
+(iii)  sign a receipt on the instrument for any payment made or surrender the instrument if full payment is made.
+
+(c)  Without dishonoring the instrument, the party to whom presentment is made may:
+
 (i)  return the instrument for lack of a necessary indorsement; or
-(ii)  refuse payment or acceptance for failure of the presentment to comply
-with the terms of the instrument, an agreement of the parties, or other
-applicable law or rule.
-(d)  The party to whom presentment is made may treat presentment as occurring
-on the next business day after the day of presentment if the party to whom
-presentment is made has established a cut-off hour not earlier than 2 p.m.
-for the receipt and processing of instruments presented for payment or
-acceptance and presentment is made after the cut-off hour.
+
+(ii)  refuse payment or acceptance for failure of the presentment to comply with the terms of the instrument, an agreement of the parties, or other applicable law or rule.
+
+(d)  The party to whom presentment is made may treat presentment as occurring on the next business day after the day of presentment if the party to whom presentment is made has established a cut-off hour not earlier than 2 p.m.  for the receipt and processing of instruments presented for payment or acceptance and presentment is made after the cut-off hour.
+

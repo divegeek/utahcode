@@ -1,26 +1,18 @@
-51-7-7.   Securities and evidence of deposits and investments -- Custody --
-Deposit for safekeeping.
-(1) (a) (i)  The public treasurer shall have custody of all securities
-purchased or held and all evidence of deposits and investments of public
-funds.
-(ii)  All securities shall be delivered versus payment to the public treasurer
-or to the treasurer's safekeeping bank.
-(b)  The public treasurer may deposit any of these securities with a bank or
-trust company to be held in safekeeping by that custodian.
-(c)  The provisions of this section do not apply to securities acquired under
-a nonqualifying repurchase agreement as defined in Section 51-7-3.
-(d)  The provisions of this section apply to any book-entry-only security the
-ownership records of which are maintained with a securities depository, in the
-Federal Book Entry system authorized by the U.S. Department of Treasury, or in
-the book-entry records of the issuer, as follows:
-(i)  the direct ownership of the security by the public treasurer shall be
-reflected in the book-entry records and represented by a receipt,
-confirmation, or statement issued to the public treasurer by the custodian of
-the book-entry system; or
-(ii)  the ownership of the security by the public treasurer's custodial bank
-or trust company shall be reflected in the book-entry records and the public
-treasurer's ownership shall be represented by a receipt, confirmation, or
-statement issued by the custodial bank or trust company.
-(2)  The public treasurer may maintain accounts with money center banks only
-for the purposes of settling investment transactions, safekeeping, and
-collecting those investments.
+51-7-7.   Securities and evidence of deposits and investments -- Custody -- Deposit for safekeeping.
+
+(1) (a) (i)  The public treasurer shall have custody of all securities purchased or held and all evidence of deposits and investments of public funds.
+
+(ii)  All securities shall be delivered versus payment to the public treasurer or to the treasurer's safekeeping bank.
+
+(b)  The public treasurer may deposit any of these securities with a bank or trust company to be held in safekeeping by that custodian.
+
+(c)  The provisions of this section do not apply to securities acquired under a nonqualifying repurchase agreement as defined in Section 51-7-3.
+
+(d)  The provisions of this section apply to any book-entry-only security the ownership records of which are maintained with a securities depository, in the Federal Book Entry system authorized by the U.S. Department of Treasury, or in the book-entry records of the issuer, as follows:
+
+(i)  the direct ownership of the security by the public treasurer shall be reflected in the book-entry records and represented by a receipt, confirmation, or statement issued to the public treasurer by the custodian of the book-entry system; or
+
+(ii)  the ownership of the security by the public treasurer's custodial bank or trust company shall be reflected in the book-entry records and the public treasurer's ownership shall be represented by a receipt, confirmation, or statement issued by the custodial bank or trust company.
+
+(2)  The public treasurer may maintain accounts with money center banks only for the purposes of settling investment transactions, safekeeping, and collecting those investments.
+

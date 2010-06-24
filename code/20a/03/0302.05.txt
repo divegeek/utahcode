@@ -1,39 +1,40 @@
-20A-3-302.5.   Absentee voting -- No polling place in elections for certain
-districts.
+20A-3-302.5.   Absentee voting -- No polling place in elections for certain districts.
+
 (1)  As used in this section, "district" means a:
+
 (a)  local district, as defined in Section 17B-1-102; or
+
 (b)  special service district, as defined in Section 17D-1-102.
-(2)  Notwithstanding Sections 17B-1-306 and 17D-1-303, at least 60 days before
-the day of an election, a district may elect to administer an election
-entirely by absentee ballot.
-(3)  If a district decides to administer an election entirely by absentee
-ballot, the district shall mail to each registered voter within the district:
+
+(2)  Notwithstanding Sections 17B-1-306 and 17D-1-303, at least 60 days before the day of an election, a district may elect to administer an election entirely by absentee ballot.
+
+(3)  If a district decides to administer an election entirely by absentee ballot, the district shall mail to each registered voter within the district:
+
 (a)  an absentee ballot;
+
 (b)  a statement that there will be no polling place for the election;
-(c)  instructions for returning the ballot that include an express notice
-about any relevant deadlines that the voter must meet in order for the voter's
-vote to be counted; and
-(d)  a warning, on a separate page of colored paper in bold face print,
-indicating that if the voter fails to follow the instructions included with
-the absentee ballot, the voter will be unable to vote in that election because
-there will be no polling place on the day of the election.
-(4)  Any voter who votes by absentee ballot under this section is not required
-to apply for an absentee ballot as required by this part.
-(5) (a)  A district that administers an election entirely by absentee ballot
-shall:
-(i) (A)  obtain, in person, the signatures of each voter within the district
-before the election; and
+
+(c)  instructions for returning the ballot that include an express notice about any relevant deadlines that the voter must meet in order for the voter's vote to be counted; and
+
+(d)  a warning, on a separate page of colored paper in bold face print, indicating that if the voter fails to follow the instructions included with the absentee ballot, the voter will be unable to vote in that election because there will be no polling place on the day of the election.
+
+(4)  Any voter who votes by absentee ballot under this section is not required to apply for an absentee ballot as required by this part.
+
+(5) (a)  A district that administers an election entirely by absentee ballot shall:
+
+(i) (A)  obtain, in person, the signatures of each voter within the district before the election; and
+
 (B)  maintain the signatures on file in the district's office; or
-(ii)  obtain the signatures of each voter within the district from the county
-clerk.
-(b) (i)  Upon receiving the returned absentee ballots, the district shall
-compare the signature on each absentee ballot with the voter's signature that
-is maintained on file and verify that the signatures are the same.
-(ii)  If the district questions the authenticity of the signature on the
-absentee ballot, the district shall immediately contact the voter to verify
-the signature.
-(iii)  If the voter does not confirm the voter's signature on the absentee
-ballot, the district shall:
-(A)  immediately send another absentee ballot and other voting materials as
-required by this section to the voter; and
+
+(ii)  obtain the signatures of each voter within the district from the county clerk.
+
+(b) (i)  Upon receiving the returned absentee ballots, the district shall compare the signature on each absentee ballot with the voter's signature that is maintained on file and verify that the signatures are the same.
+
+(ii)  If the district questions the authenticity of the signature on the absentee ballot, the district shall immediately contact the voter to verify the signature.
+
+(iii)  If the voter does not confirm the voter's signature on the absentee ballot, the district shall:
+
+(A)  immediately send another absentee ballot and other voting materials as required by this section to the voter; and
+
 (B)  disqualify the initial absentee ballot.
+

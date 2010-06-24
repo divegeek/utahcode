@@ -1,35 +1,20 @@
-77-7-19.   Appearance required by citation -- Arrest for failure to appear
--- Transfer of cases -- Motor vehicle violations -- Disposition of fines and
-costs.
-(1)  A person receiving a citation issued pursuant to Section 77-7-18 shall
-appear before the magistrate designated in the citation on or before the time
-and date specified in the citation unless the uniform bail schedule adopted by
-the Judicial Council or Subsection 77-7-21(1) permits forfeiture of bail for
-the offense charged.
-(2)  A citation may not require a person to appear sooner than five days or
-later than 14 days following its issuance.
-(3) (a)  A person who receives a citation and who fails to comply with Section
-77-7-21 on or before the time and date and at the court specified is subject
-to arrest.
-(b)  The magistrate may issue a warrant of arrest based upon a citation that
-was served and filed in accordance with Section 77-7-20.
-(4)  Except where otherwise provided by law, a citation or information issued
-for violations of Title 41, Motor Vehicles, shall state that the person
-receiving the citation or information shall appear before the magistrate who
-has jurisdiction over the offense charged.
-(5)  Any justice court judge may, upon the motion of either the defense
-attorney or prosecuting attorney, based on a lack of territorial jurisdiction
-or the disqualification of the judge, transfer cases to a justice court with
-territorial jurisdiction or the district court within the county.
-(6) (a)  Clerks and other administrative personnel serving the courts shall
-ensure that all citations for violation of Title 41, Motor Vehicles, are filed
-in a court with jurisdiction and venue and shall refuse to receive citations
-that should be filed in another court.
-(b)  Fines, fees, costs, and forfeitures imposed or collected for violations
-of Title 41, Motor Vehicles, which are filed contrary to this section shall be
-paid to the entitled municipality or county by the state, county, or municipal
-treasurer who has received the fines, fees, costs, or forfeitures from the
-court which collected them.
-(c)  The accounting and remitting of sums due shall be at the close of the
-fiscal year of the municipality or county which has received fines, fees,
-costs, or forfeitures as a result of any improperly filed citations.
+77-7-19.   Appearance required by citation -- Arrest for failure to appear -- Transfer of cases -- Motor vehicle violations -- Disposition of fines and costs.
+
+(1)  A person receiving a citation issued pursuant to Section 77-7-18 shall appear before the magistrate designated in the citation on or before the time and date specified in the citation unless the uniform bail schedule adopted by the Judicial Council or Subsection 77-7-21(1) permits forfeiture of bail for the offense charged.
+
+(2)  A citation may not require a person to appear sooner than five days or later than 14 days following its issuance.
+
+(3) (a)  A person who receives a citation and who fails to comply with Section 77-7-21 on or before the time and date and at the court specified is subject to arrest.
+
+(b)  The magistrate may issue a warrant of arrest based upon a citation that was served and filed in accordance with Section 77-7-20.
+
+(4)  Except where otherwise provided by law, a citation or information issued for violations of Title 41, Motor Vehicles, shall state that the person receiving the citation or information shall appear before the magistrate who has jurisdiction over the offense charged.
+
+(5)  Any justice court judge may, upon the motion of either the defense attorney or prosecuting attorney, based on a lack of territorial jurisdiction or the disqualification of the judge, transfer cases to a justice court with territorial jurisdiction or the district court within the county.
+
+(6) (a)  Clerks and other administrative personnel serving the courts shall ensure that all citations for violation of Title 41, Motor Vehicles, are filed in a court with jurisdiction and venue and shall refuse to receive citations that should be filed in another court.
+
+(b)  Fines, fees, costs, and forfeitures imposed or collected for violations of Title 41, Motor Vehicles, which are filed contrary to this section shall be paid to the entitled municipality or county by the state, county, or municipal treasurer who has received the fines, fees, costs, or forfeitures from the court which collected them.
+
+(c)  The accounting and remitting of sums due shall be at the close of the fiscal year of the municipality or county which has received fines, fees, costs, or forfeitures as a result of any improperly filed citations.
+

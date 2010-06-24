@@ -1,125 +1,102 @@
 26-21-2.   Definitions.
+
 As used in this chapter:
-(1)  "Abortion clinic" means a facility, other than a general acute or
-specialty hospital, that performs abortions and provides abortion services
-during the second trimester of pregnancy.
+
+(1)  "Abortion clinic" means a facility, other than a general acute or specialty hospital, that performs abortions and provides abortion services during the second trimester of pregnancy.
+
 (2)  "Activities of daily living" means essential activities including:
+
 (a)  dressing;
+
 (b)  eating;
+
 (c)  grooming;
+
 (d)  bathing;
+
 (e)  toileting;
+
 (f)  ambulation;
+
 (g)  transferring; and
+
 (h)  self-administration of medication.
-(3)  "Ambulatory surgical facility" means a freestanding facility, which
-provides surgical services to patients not requiring hospitalization.
-(4)  "Assistance with activities of daily living" means providing of or
-arranging for the provision of assistance with activities of daily living.
+
+(3)  "Ambulatory surgical facility" means a freestanding facility, which provides surgical services to patients not requiring hospitalization.
+
+(4)  "Assistance with activities of daily living" means providing of or arranging for the provision of assistance with activities of daily living.
+
 (5) (a)  "Assisted living facility" means:
-(i)  a type I assisted living facility, which is a residential facility that
-provides assistance with activities of daily living and social care to two or
-more residents who:
+
+(i)  a type I assisted living facility, which is a residential facility that provides assistance with activities of daily living and social care to two or more residents who:
+
 (A)  require protected living arrangements; and
-(B)  are capable of achieving mobility sufficient to exit the facility without
-the assistance of another person; and
-(ii)  a type II assisted living facility, which is a residential facility with
-a home-like setting that provides an array of coordinated supportive personal
-and health care services available 24 hours per day to residents who have been
-assessed under department rule to need any of these services.
-(b)  Each resident in a type I or type II assisted living facility shall have
-a service plan based on the assessment, which may include:
+
+(B)  are capable of achieving mobility sufficient to exit the facility without the assistance of another person; and
+
+(ii)  a type II assisted living facility, which is a residential facility with a home-like setting that provides an array of coordinated supportive personal and health care services available 24 hours per day to residents who have been assessed under department rule to need any of these services.
+
+(b)  Each resident in a type I or type II assisted living facility shall have a service plan based on the assessment, which may include:
+
 (i)  specified services of intermittent nursing care;
+
 (ii)  administration of medication; and
-(iii)  support services promoting residents' independence and self
-sufficiency.
-(6)  "Birthing center" means a freestanding facility, receiving maternal
-clients and providing care during pregnancy, delivery, and immediately after
-delivery.
-(7)  "Committee" means the Health Facility Committee created in Section
-26-1-7.
-(8)  "Consumer" means any person not primarily engaged in the provision of
-health care to individuals or in the administration of facilities or
-institutions in which such care is provided and who does not hold a fiduciary
-position, or have a fiduciary interest in any entity involved in the provision
-of health care, and does not receive, either directly or through his spouse,
-more than 1/10 of his gross income from any entity or activity relating to
-health care.
-(9)  "End stage renal disease facility" means a facility which furnishes
-staff-assisted kidney dialysis services, self-dialysis services, or home-
-dialysis services on an outpatient basis.
-(10)  "Freestanding" means existing independently or physically separated from
-another health care facility by fire walls and doors and administrated by
-separate staff with separate records.
-(11)  "General acute hospital" means a facility which provides diagnostic,
-therapeutic, and rehabilitative services to both inpatients and outpatients by
-or under the supervision of physicians.
-(12)  "Governmental unit" means the state, or any county, municipality, or
-other political subdivision or any department, division, board, or agency of
-the state, a county, municipality, or other political subdivision.
-(13) (a)  "Health care facility" means general acute hospitals, specialty
-hospitals, home health agencies, hospices, nursing care facilities,
-residential-assisted living facilities, birthing centers, ambulatory surgical
-facilities, small health care facilities, abortion clinics, facilities owned
-or operated by health maintenance organizations, end stage renal disease
-facilities, and any other health care facility which the committee designates
-by rule.
-(b)  "Health care facility" does not include the offices of private physicians
-or dentists, whether for individual or group practice.
-(14)  "Health maintenance organization" means an organization, organized under
-the laws of any state which:
-(a)  is a qualified health maintenance organization under 42 U.S.C. Sec.
-300e-9; or
-(b) (i)  provides or otherwise makes available to enrolled participants at
-least the following basic health care services: usual physician services,
-hospitalization, laboratory, x-ray, emergency, and preventive services and
-out-of-area coverage;
-(ii)  is compensated, except for copayments, for the provision of the basic
-health services listed in Subsection (14)(b)(i) to enrolled participants by a
-payment which is paid on a periodic basis without regard to the date the
-health services are provided and which is fixed without regard to the
-frequency, extent, or kind of health services actually provided; and
-(iii)  provides physicians' services primarily directly through physicians who
-are either employees or partners of such organizations, or through
-arrangements with individual physicians or one or more groups of physicians
-organized on a group practice or individual practice basis.
-(15) (a)  "Home health agency" means an agency, organization, or facility or a
-subdivision of an agency, organization, or facility which employs two or more
-direct care staff persons who provide licensed nursing services, therapeutic
-services of physical therapy, speech therapy, occupational therapy, medical
-social services, or home health aide services on a visiting basis.
-(b)  "Home health agency" does not mean an individual who provides services
-under the authority of a private license.
-(16)  "Hospice" means a program of care for the terminally ill and their
-families which occurs in a home or in a health care facility and which
-provides medical, palliative, psychological, spiritual, and supportive care
-and treatment.
-(17)  "Nursing care facility" means a health care facility, other than a
-general acute or specialty hospital, constructed, licensed, and operated to
-provide patient living accommodations, 24-hour staff availability, and at
-least two of the following patient services:
-(a)  a selection of patient care services, under the direction and supervision
-of a registered nurse, ranging from continuous medical, skilled nursing,
-psychological, or other professional therapies to intermittent health-related
-or paraprofessional personal care services;
-(b)  a structured, supportive social living environment based on a
-professionally designed and supervised treatment plan, oriented to the
-individual's habilitation or rehabilitation needs; or
-(c)  a supervised living environment that provides support, training, or
-assistance with individual activities of daily living.
-(18)  "Person" means any individual, firm, partnership, corporation, company,
-association, or joint stock association, and the legal successor thereof.
+
+(iii)  support services promoting residents' independence and self sufficiency.
+
+(6)  "Birthing center" means a freestanding facility, receiving maternal clients and providing care during pregnancy, delivery, and immediately after delivery.
+
+(7)  "Committee" means the Health Facility Committee created in Section 26-1-7.
+
+(8)  "Consumer" means any person not primarily engaged in the provision of health care to individuals or in the administration of facilities or institutions in which such care is provided and who does not hold a fiduciary position, or have a fiduciary interest in any entity involved in the provision of health care, and does not receive, either directly or through his spouse, more than 1/10 of his gross income from any entity or activity relating to health care.
+
+(9)  "End stage renal disease facility" means a facility which furnishes staff-assisted kidney dialysis services, self-dialysis services, or home-dialysis services on an outpatient basis.
+
+(10)  "Freestanding" means existing independently or physically separated from another health care facility by fire walls and doors and administrated by separate staff with separate records.
+
+(11)  "General acute hospital" means a facility which provides diagnostic, therapeutic, and rehabilitative services to both inpatients and outpatients by or under the supervision of physicians.
+
+(12)  "Governmental unit" means the state, or any county, municipality, or other political subdivision or any department, division, board, or agency of the state, a county, municipality, or other political subdivision.
+
+(13) (a)  "Health care facility" means general acute hospitals, specialty hospitals, home health agencies, hospices, nursing care facilities, residential-assisted living facilities, birthing centers, ambulatory surgical facilities, small health care facilities, abortion clinics, facilities owned or operated by health maintenance organizations, end stage renal disease facilities, and any other health care facility which the committee designates by rule.
+
+(b)  "Health care facility" does not include the offices of private physicians or dentists, whether for individual or group practice.
+
+(14)  "Health maintenance organization" means an organization, organized under the laws of any state which:
+
+(a)  is a qualified health maintenance organization under 42 U.S.C. Sec. 300e-9; or
+
+(b) (i)  provides or otherwise makes available to enrolled participants at least the following basic health care services: usual physician services, hospitalization, laboratory, x-ray, emergency, and preventive services and out-of-area coverage;
+
+(ii)  is compensated, except for copayments, for the provision of the basic health services listed in Subsection (14)(b)(i) to enrolled participants by a payment which is paid on a periodic basis without regard to the date the health services are provided and which is fixed without regard to the frequency, extent, or kind of health services actually provided; and
+
+(iii)  provides physicians' services primarily directly through physicians who are either employees or partners of such organizations, or through arrangements with individual physicians or one or more groups of physicians organized on a group practice or individual practice basis.
+
+(15) (a)  "Home health agency" means an agency, organization, or facility or a subdivision of an agency, organization, or facility which employs two or more direct care staff persons who provide licensed nursing services, therapeutic services of physical therapy, speech therapy, occupational therapy, medical social services, or home health aide services on a visiting basis.
+
+(b)  "Home health agency" does not mean an individual who provides services under the authority of a private license.
+
+(16)  "Hospice" means a program of care for the terminally ill and their families which occurs in a home or in a health care facility and which provides medical, palliative, psychological, spiritual, and supportive care and treatment.
+
+(17)  "Nursing care facility" means a health care facility, other than a general acute or specialty hospital, constructed, licensed, and operated to provide patient living accommodations, 24-hour staff availability, and at least two of the following patient services:
+
+(a)  a selection of patient care services, under the direction and supervision of a registered nurse, ranging from continuous medical, skilled nursing, psychological, or other professional therapies to intermittent health-related or paraprofessional personal care services;
+
+(b)  a structured, supportive social living environment based on a professionally designed and supervised treatment plan, oriented to the individual's habilitation or rehabilitation needs; or
+
+(c)  a supervised living environment that provides support, training, or assistance with individual activities of daily living.
+
+(18)  "Person" means any individual, firm, partnership, corporation, company, association, or joint stock association, and the legal successor thereof.
+
 (19)  "Resident" means a person 21 years of age or older who:
-(a)  as a result of physical or mental limitations or age requires or requests
-services provided in an assisted living facility; and
-(b)  does not require intensive medical or nursing services as provided in a
-hospital or nursing care facility.
-(20)  "Small health care facility" means a four to 16 bed facility that
-provides licensed health care programs and services to residents.
-(21)  "Specialty hospital" means a facility which provides specialized
-diagnostic, therapeutic, or rehabilitative services in the recognized
-specialty or specialties for which the hospital is licensed.
-(22)  "Substantial compliance" means in a department survey of a licensee, the
-department determines there is an absence of deficiencies which would harm the
-physical health, mental health, safety, or welfare of patients or residents of
-a licensee.
+
+(a)  as a result of physical or mental limitations or age requires or requests services provided in an assisted living facility; and
+
+(b)  does not require intensive medical or nursing services as provided in a hospital or nursing care facility.
+
+(20)  "Small health care facility" means a four to 16 bed facility that provides licensed health care programs and services to residents.
+
+(21)  "Specialty hospital" means a facility which provides specialized diagnostic, therapeutic, or rehabilitative services in the recognized specialty or specialties for which the hospital is licensed.
+
+(22)  "Substantial compliance" means in a department survey of a licensee, the department determines there is an absence of deficiencies which would harm the physical health, mental health, safety, or welfare of patients or residents of a licensee.
+

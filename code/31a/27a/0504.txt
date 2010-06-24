@@ -1,135 +1,130 @@
 31A-27a-504.   Voidable preferences and liens.
+
 (1) (a)  A preference may be avoided by the rehabilitator or liquidator, if:
+
 (i)  the insurer is insolvent at the time of the transfer;
-(ii)  the transfer is made within four months before the day on which the
-petition is filed;
-(iii)  with reference to the transfer, one of the following at the time the
-transfer is made has reasonable cause to believe that the insurer is or is
-about to become insolvent:
+
+(ii)  the transfer is made within four months before the day on which the petition is filed;
+
+(iii)  with reference to the transfer, one of the following at the time the transfer is made has reasonable cause to believe that the insurer is or is about to become insolvent:
+
 (A)  a creditor receiving the transfer;
+
 (B)  a creditor to be benefitted by the transfer; or
+
 (C)  an agent of a creditor described in this Subsection (1)(a)(iii); or
-(iv)  the creditor receiving the transfer is an officer, employee, attorney,
-or other person who is in fact in a position of comparable influence on the
-insurer to:
+
+(iv)  the creditor receiving the transfer is an officer, employee, attorney, or other person who is in fact in a position of comparable influence on the insurer to:
+
 (A)  an officer of the insurer;
-(B)  a shareholder holding directly or indirectly more than 5% of any class of
-equity security issued by the insurer; or
+
+(B)  a shareholder holding directly or indirectly more than 5% of any class of equity security issued by the insurer; or
+
 (C)  any other person with whom the insurer did not deal at arm's length.
-(b) (i)  Subject to the other provisions of this Subsection (1)(b), if a
-preference is voidable, the rehabilitator or liquidator may recover the
-property or, if the property is converted, the property's value, from any
-person who receives or converts the property.
-(ii)  Notwithstanding Subsection (1)(b)(i), the rehabilitator or liquidator
-may not recover from a bona fide purchaser or lienor of the debtor's
-transferee for present fair consideration.
-(iii)  If a bona fide purchaser or lienor gives less than fair consideration,
-the bona fide purchaser or lienor has a lien upon the property to the extent
-of the consideration actually given by the bona fide purchaser or lienor.
-(c)  If a preference by way of lien or security title is voidable, the court
-may, on due notice, order the lien or title to be preserved for the benefit of
-the estate, in which event the lien or title passes to the liquidator.
-(d)  A payment to which Subsection 31A-5-415(2) applies is a preference and is
-voidable under Subsection (1)(a):
-(i)  if it is made within the time period specified in Subsection 31A-
-27a-102(29); and
-(ii)  except that a payment made by an insurer for the purchase of insurance
-under Section 16-10a-302 is not a preference.
+
+(b) (i)  Subject to the other provisions of this Subsection (1)(b), if a preference is voidable, the rehabilitator or liquidator may recover the property or, if the property is converted, the property's value, from any person who receives or converts the property.
+
+(ii)  Notwithstanding Subsection (1)(b)(i), the rehabilitator or liquidator may not recover from a bona fide purchaser or lienor of the debtor's transferee for present fair consideration.
+
+(iii)  If a bona fide purchaser or lienor gives less than fair consideration, the bona fide purchaser or lienor has a lien upon the property to the extent of the consideration actually given by the bona fide purchaser or lienor.
+
+(c)  If a preference by way of lien or security title is voidable, the court may, on due notice, order the lien or title to be preserved for the benefit of the estate, in which event the lien or title passes to the liquidator.
+
+(d)  A payment to which Subsection 31A-5-415(2) applies is a preference and is voidable under Subsection (1)(a):
+
+(i)  if it is made within the time period specified in Subsection 31A-27a-102(29); and
+
+(ii)  except that a payment made by an insurer for the purchase of insurance under Section 16-10a-302 is not a preference.
+
 (2)  Section 31A-27a-506 applies to the perfection of a transfer.
+
 (3)  Section 31A-27a-506 applies to a lien by a legal or equitable proceeding.
-(4)  The receiver may not avoid a transfer of property under this section for
-or because of:
+
+(4)  The receiver may not avoid a transfer of property under this section for or because of:
+
 (a)  new and contemporaneous consideration;
-(b)  the payment, within 45 days after the day on which a debt is incurred, of
-a debt incurred:
+
+(b)  the payment, within 45 days after the day on which a debt is incurred, of a debt incurred:
+
 (i)  in the ordinary course of the business of the insurer; and
+
 (ii)  according to normal business terms;
+
 (c)  a transfer of a security interest in property:
+
 (i)  to enable the insurer to acquire the property; and
-(ii)  which is perfected within 10 days after the day on which the security
-interest attaches;
+
+(ii)  which is perfected within 10 days after the day on which the security interest attaches;
+
 (d)  a transfer to or for the benefit of a creditor:
-(i)  to the extent that after the transfer the creditor gives new value not
-secured by an unavoidable security interest; and
-(ii)  on account of which the insurer did not make an unavoidable transfer to
-or for the benefit of the creditor; or
-(e)  a transfer of a perfected security interest in inventory, a receivable,
-or the proceeds of either, except to the extent that the aggregate of all of
-those types of transfers to the transferee cause a reduction of the amount by
-which the debt secured by the security interest exceeds the value of the
-security interest four months before the date of liquidation or any time
-subsequent to the liquidation.
-(5) (a)  The receiver may avoid a transfer of property of the insurer
-transferred to secure reimbursement of a surety that furnishes a bond or other
-obligation to dissolve a judicial lien that would have been avoidable by the
-receiver under Subsection (1)(a).
-(b)  The liability of the surety under the bond or obligation described in
-Subsection (5)(a) shall be discharged to the extent of the value of the
-property recovered by the receiver or the amounts paid to the receiver.
-(6) (a)  Subject to Subsection (6)(b), the property affected by a lien that is
-considered voidable under Subsections (1)(a) and (5):
+
+(i)  to the extent that after the transfer the creditor gives new value not secured by an unavoidable security interest; and
+
+(ii)  on account of which the insurer did not make an unavoidable transfer to or for the benefit of the creditor; or
+
+(e)  a transfer of a perfected security interest in inventory, a receivable, or the proceeds of either, except to the extent that the aggregate of all of those types of transfers to the transferee cause a reduction of the amount by which the debt secured by the security interest exceeds the value of the security interest four months before the date of liquidation or any time subsequent to the liquidation.
+
+(5) (a)  The receiver may avoid a transfer of property of the insurer transferred to secure reimbursement of a surety that furnishes a bond or other obligation to dissolve a judicial lien that would have been avoidable by the receiver under Subsection (1)(a).
+
+(b)  The liability of the surety under the bond or obligation described in Subsection (5)(a) shall be discharged to the extent of the value of the property recovered by the receiver or the amounts paid to the receiver.
+
+(6) (a)  Subject to Subsection (6)(b), the property affected by a lien that is considered voidable under Subsections (1)(a) and (5):
+
 (i)  is discharged from the lien; and
-(ii)  passes to the rehabilitator or liquidator with any of the indemnifying
-property transferred to or for the benefit of a surety.
+
+(ii)  passes to the rehabilitator or liquidator with any of the indemnifying property transferred to or for the benefit of a surety.
+
 (b)  Notwithstanding Subsection (6)(a), the court may:
-(i)  on due notice, order the lien to be preserved for the benefit of the
-estate; and
-(ii)  direct that a conveyance be executed that is adequate to evidence the
-title of the rehabilitator or liquidator.
-(7) (a)  The court has jurisdiction of any proceeding by the rehabilitator or
-liquidator, to hear and determine the rights of any parties under this
-section.
-(b)  Reasonable notice of any hearing in a proceeding described in Subsection
-(7)(a) shall be given to all parties in interest, including the obligee of a
-releasing bond or other similar obligation.
-(c)  If an order is entered for the recovery of indemnifying property in kind
-or for the avoidance of an indemnifying lien:
-(i)  the court, upon application of any party in interest, shall in the same
-proceeding ascertain the value of the property or lien; and
-(ii)  if the value of the property or lien is less than the amount for which
-the property is an indemnity or than the amount of the lien, the transferee or
-lienholder may elect to retain the property or lien upon payment of its value,
-as ascertained by the court:
+
+(i)  on due notice, order the lien to be preserved for the benefit of the estate; and
+
+(ii)  direct that a conveyance be executed that is adequate to evidence the title of the rehabilitator or liquidator.
+
+(7) (a)  The court has jurisdiction of any proceeding by the rehabilitator or liquidator, to hear and determine the rights of any parties under this section.
+
+(b)  Reasonable notice of any hearing in a proceeding described in Subsection (7)(a) shall be given to all parties in interest, including the obligee of a releasing bond or other similar obligation.
+
+(c)  If an order is entered for the recovery of indemnifying property in kind or for the avoidance of an indemnifying lien:
+
+(i)  the court, upon application of any party in interest, shall in the same proceeding ascertain the value of the property or lien; and
+
+(ii)  if the value of the property or lien is less than the amount for which the property is an indemnity or than the amount of the lien, the transferee or lienholder may elect to retain the property or lien upon payment of its value, as ascertained by the court:
+
 (A)  to the rehabilitator or liquidator; and
+
 (B)  within a reasonable time fixed by the court.
-(8)  The liability of a surety under a releasing bond or other similar
-obligation is discharged to the extent of the value of:
+
+(8)  The liability of a surety under a releasing bond or other similar obligation is discharged to the extent of the value of:
+
 (a)  the indemnifying property recovered;
+
 (b)  the indemnifying lien nullified and avoided; or
-(c)  if the property is retained under Subsection (7), the amount paid to the
-rehabilitator or liquidator.
-(9)  If a creditor is preferred and afterward in good faith gives the insurer
-further credit, without security of any kind, for property that becomes a part
-of the insurer's estate, the amount of the new credit remaining unpaid at the
-time of the petition shall be set off against the preference which would
-otherwise be recoverable from the creditor.
-(10) (a)  If an insurer, directly or indirectly, pays money or transfers
-property within four months before the day on which a successful petition for
-rehabilitation or liquidation is filed under this chapter or at any time in
-contemplation of a proceeding to rehabilitate or liquidate the insurer, to an
-attorney for services rendered or to be rendered, the transaction:
+
+(c)  if the property is retained under Subsection (7), the amount paid to the rehabilitator or liquidator.
+
+(9)  If a creditor is preferred and afterward in good faith gives the insurer further credit, without security of any kind, for property that becomes a part of the insurer's estate, the amount of the new credit remaining unpaid at the time of the petition shall be set off against the preference which would otherwise be recoverable from the creditor.
+
+(10) (a)  If an insurer, directly or indirectly, pays money or transfers property within four months before the day on which a successful petition for rehabilitation or liquidation is filed under this chapter or at any time in contemplation of a proceeding to rehabilitate or liquidate the insurer, to an attorney for services rendered or to be rendered, the transaction:
+
 (i) (A)  may be examined by the court on its own motion; or
-(B)  shall be examined by the court on petition of the rehabilitator or
-liquidator; and
-(ii)  shall be held valid only to the extent that the transfer is a reasonable
-amount as determined by the court.
-(b)  The amount in excess of the amount held valid under Subsection (10)(a),
-may be recovered by the rehabilitator or liquidator for the benefit of the
-estate.
-(c)  If the attorney meets the description in Subsection (1)(a)(iv),
-Subsection (1)(a)(iv) applies in place of this Subsection (10).
-(11) (a)  Every officer, manager, employee, shareholder, member, subscriber,
-attorney, or any other person acting on behalf of the insurer who knowingly
-participates in giving a preference when that person has reasonable cause to
-believe that the insurer is or is about to become insolvent at the time of the
-preference, is personally liable to the rehabilitator or liquidator for the
-amount of the preference.
-(b)  It is permissible to infer that there is "reasonable cause to so believe"
-if the transfer is made within four months before the date on which a
-successful petition for rehabilitation or liquidation is filed.
-(c)  A person receiving any property from the insurer or for the benefit of
-the insurer as a preference which is voidable under Subsection (1)(a) is:
+
+(B)  shall be examined by the court on petition of the rehabilitator or liquidator; and
+
+(ii)  shall be held valid only to the extent that the transfer is a reasonable amount as determined by the court.
+
+(b)  The amount in excess of the amount held valid under Subsection (10)(a), may be recovered by the rehabilitator or liquidator for the benefit of the estate.
+
+(c)  If the attorney meets the description in Subsection (1)(a)(iv), Subsection (1)(a)(iv) applies in place of this Subsection (10).
+
+(11) (a)  Every officer, manager, employee, shareholder, member, subscriber, attorney, or any other person acting on behalf of the insurer who knowingly participates in giving a preference when that person has reasonable cause to believe that the insurer is or is about to become insolvent at the time of the preference, is personally liable to the rehabilitator or liquidator for the amount of the preference.
+
+(b)  It is permissible to infer that there is "reasonable cause to so believe" if the transfer is made within four months before the date on which a successful petition for rehabilitation or liquidation is filed.
+
+(c)  A person receiving any property from the insurer or for the benefit of the insurer as a preference which is voidable under Subsection (1)(a) is:
+
 (i)  personally liable for that transfer and property; and
+
 (ii)  bound to account to the rehabilitator or liquidator.
-(d)  This Subsection (11) does not prejudice any other claim by the
-rehabilitator or liquidator against any person.
+
+(d)  This Subsection (11) does not prejudice any other claim by the rehabilitator or liquidator against any person.
+

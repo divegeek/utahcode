@@ -1,65 +1,68 @@
 31A-5-412.   Committees of directors.
-(1) (a)  If provided for in the articles or bylaws of a corporation, the
-board, by resolution adopted by a majority of the full board, may designate
-one or more committees.
-(b)  A committee designated under this Subsection (1) shall consist of three
-or more directors serving at the pleasure of the board.
-(c)  The board may designate one or more directors as alternate members of a
-committee to substitute for an absent member at any meeting of the committee.
-(d)  The designation of a committee and delegation of authority to the
-committee does not relieve the board or a director of responsibility imposed
-by law upon the board or director.
-(2) (a) (i)  Except for a corporation described under Subsection 31A-5-407(4),
-a corporation shall have an audit committee.
-(ii)  A corporation's entire board constitutes the audit committee if the
-corporation:
+
+(1) (a)  If provided for in the articles or bylaws of a corporation, the board, by resolution adopted by a majority of the full board, may designate one or more committees. 
+
+(b)  A committee designated under this Subsection (1) shall consist of three or more directors serving at the pleasure of the board.
+
+(c)  The board may designate one or more directors as alternate members of a committee to substitute for an absent member at any meeting of the committee.
+
+(d)  The designation of a committee and delegation of authority to the committee does not relieve the board or a director of responsibility imposed by law upon the board or director.
+
+(2) (a) (i)  Except for a corporation described under Subsection 31A-5-407(4), a corporation shall have an audit committee.
+
+(ii)  A corporation's entire board constitutes the audit committee if the corporation:
+
 (A)  is described under Subsection 31A-5-407(4); and
+
 (B)  does not have an audit committee that complies with this Subsection (2).
-(b)  If a corporation is required to have an audit committee under Subsection
-(2)(a), a member of the audit committee may not be an inside director as
-defined under Subsection 31A-5-407(3).
-(c)  An audit committee shall maintain an overview of the audit activities,
-systems, and staff of the company and of the activities of the outside
-auditors, in order to advise the board on the adequacy of fiscal control.
-(d)  A corporation shall give an audit committee direct and private access to
-company data and personnel as that committee considers necessary.
-(e)  An audit committee may meet privately with the outside directors as the
-audit committee sees fit.
-(f)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commissioner may make rules pertaining to audit committee
-requirements similar to those outlined in the Annual Financial Reporting Model
-Regulation of the National Association of Insurance Commissioners.
-(3) (a)  When the board is not in session, a committee may exercise the powers
-of the board in the management of the business and affairs of the corporation
-to the extent authorized in the resolution or in the articles or bylaws,
-except action regarding:
+
+(b)  If a corporation is required to have an audit committee under Subsection (2)(a), a member of the audit committee may not be an inside director as defined under Subsection 31A-5-407(3).
+
+(c)  An audit committee shall maintain an overview of the audit activities, systems, and staff of the company and of the activities of the outside auditors, in order to advise the board on the adequacy of fiscal control. 
+
+(d)  A corporation shall give an audit committee direct and private access to company data and personnel as that committee considers necessary.
+
+(e)  An audit committee may meet privately with the outside directors as the audit committee sees fit.
+
+(f)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commissioner may make rules pertaining to audit committee requirements similar to those outlined in the Annual Financial Reporting Model Regulation of the National Association of Insurance Commissioners.
+
+(3) (a)  When the board is not in session, a committee may exercise the powers of the board in the management of the business and affairs of the corporation to the extent authorized in the resolution or in the articles or bylaws, except action regarding:
+
 (i)  compensation or indemnification of a person who is:
+
 (A)  a director;
+
 (B)  a principal officer; or
+
 (C)  one of the three most highly paid employees;
+
 (ii)  benefits or payments requiring shareholder or policyholder approval;
-(iii)  approval of a contract requiring board approval under Section
-31A-5-414;
-(iv)  approval of a transaction in which a director has a material interest
-adverse to the corporation;
+
+(iii)  approval of a contract requiring board approval under Section 31A-5-414;
+
+(iv)  approval of a transaction in which a director has a material interest adverse to the corporation;
+
 (v)  amendment of the articles or bylaws;
-(vi)  merger or consolidation under Section 31A-5-501, 31A-5-502, or
-31A-5-503;
+
+(vi)  merger or consolidation under Section 31A-5-501, 31A-5-502, or 31A-5-503;
+
 (vii)  conversion under Section 31A-5-505, 31A-5-506, 31A-5-507, or 31A-5-509;
+
 (viii)  voluntary dissolution under Section 31A-5-504;
+
 (ix)  transfer of business or assets under Section 31A-5-508;
+
 (x)  any other decision requiring shareholder or policyholder approval;
-(xi)  amendment or repeal of an action taken by the full board, which by its
-terms is not subject to amendment or repeal by a committee;
-(xii)  dividends or other distributions to shareholders, policyholders, or
-voting members other than in the routine implementation of a policy
-determination of the full board;
+
+(xi)  amendment or repeal of an action taken by the full board, which by its terms is not subject to amendment or repeal by a committee;
+
+(xii)  dividends or other distributions to shareholders, policyholders, or voting members other than in the routine implementation of a policy determination of the full board;
+
 (xiii)  selection of a principal officer; and
-(xiv)  filling a vacancy on the board or on a committee created under
-Subsection (1), except that the articles or bylaws may provide for a temporary
-appointment to fill a vacancy on the board or a committee.
-(b)  A temporary appointment provided for in Subsection (3)(a)(xiv) may last
-only until the end of the next board meeting.
-(4)  The full board shall review a transaction in which an officer has a
-material financial interest adverse to the corporation at the next board
-meeting after the transaction.
+
+(xiv)  filling a vacancy on the board or on a committee created under Subsection (1), except that the articles or bylaws may provide for a temporary appointment to fill a vacancy on the board or a committee. 
+
+(b)  A temporary appointment provided for in Subsection (3)(a)(xiv) may last only until the end of the next board meeting.
+
+(4)  The full board shall review a transaction in which an officer has a material financial interest adverse to the corporation at the next board meeting after the transaction.
+

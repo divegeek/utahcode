@@ -1,56 +1,34 @@
-40-10-21.   Civil action to compel compliance with chapter -- Jurisdiction
--- Venue -- Division and board as parties -- Court costs -- Security when
-temporary restraining order or injunction sought -- Other rights not affected
--- Action for damages.
-(1) (a)  Except as provided in Subsection (2), any person having an interest
-which is or may be adversely affected may commence a civil action on the
-person’s own behalf to compel compliance with this chapter against:
-(i)  the state or any other governmental instrumentality or agency to the
-extent permitted by the 11th Amendment to the United States Constitution or
-Title 63G, Chapter 7, Governmental Immunity Act of Utah, which is alleged to
-be in violation of the provisions of this chapter or of any rule, order, or
-permit issued pursuant to it;
-(ii)  any person who is alleged to be in violation of any rule, order, or
-permit issued pursuant to this chapter; or
-(iii)  the division or board where there is alleged a failure of the division
-or board to perform any act or duty under this chapter which is not
-discretionary with the division or with the board.
-(b)  The district courts shall have jurisdiction without regard to the amount
-in controversy or the citizenship of the parties.
+40-10-21.   Civil action to compel compliance with chapter -- Jurisdiction -- Venue -- Division and board as parties -- Court costs -- Security when temporary restraining order or injunction sought -- Other rights not affected -- Action for damages.
+
+(1) (a)  Except as provided in Subsection (2), any person having an interest which is or may be adversely affected may commence a civil action on the person’s own behalf to compel compliance with this chapter against:
+
+(i)  the state or any other governmental instrumentality or agency to the extent permitted by the 11th Amendment to the United States Constitution or Title 63G, Chapter 7, Governmental Immunity Act of Utah, which is alleged to be in violation of the provisions of this chapter or of any rule, order, or permit issued pursuant to it;
+
+(ii)  any person who is alleged to be in violation of any rule, order, or permit issued pursuant to this chapter; or
+
+(iii)  the division or board where there is alleged a failure of the division or board to perform any act or duty under this chapter which is not discretionary with the division or with the board.
+
+(b)  The district courts shall have jurisdiction without regard to the amount in controversy or the citizenship of the parties.
+
 (2)  No action may be commenced:
+
 (a)  under Subsection (1)(a)(i) or (ii):
-(i)  prior to 60 days after the plaintiff has given notice in writing of the
-violation to the division and to any alleged violator; or
-(ii)  if the attorney general has commenced and is diligently prosecuting a
-civil action in a court of the state to require compliance with the provisions
-of this chapter, or any rule, order, or permit issued pursuant to this
-chapter; or
-(b)  under Subsection (1)(a)(iii) prior to 60 days after the plaintiff has
-given notice in writing of the action to the board, in the manner as the board
-prescribes by rule, except that the action may be brought immediately after
-the notification in the case where the violation or order complained of
-constitutes an imminent threat to the health or safety of the plaintiff or
-would immediately affect a legal interest of the plaintiff.
-(3) (a)  Any action concerning a violation of this chapter or the rules
-promulgated under it may be brought only in the judicial district in which the
-surface coal mining operation complained of is located.
-(b)  In the action, the division and board, if not a party, may intervene as a
-matter of right.
-(4) (a)  The court, in issuing any final order in any action brought pursuant
-to Subsection (1), may award costs of litigation, including attorney and
-expert witness fees, to any party whenever the court determines that award is
-appropriate.
-(b)  The court may, if a temporary restraining order or preliminary injunction
-is sought, require the filing of a bond or equivalent security in accordance
-with the Utah Rules of Civil Procedure.
-(5)  Nothing in this section may restrict any right which any person, or class
-of persons, has under any statute or common law to seek enforcement of any of
-the provisions of this chapter and the rules promulgated under it, or to seek
-any other relief, including relief against the division and board.
-(6)  Any person who is injured in his person or property through the violation
-by an operator of any rule, order, or permit issued pursuant to this chapter
-may bring an action for damages, including reasonable attorney and expert
-witness fees, only in the judicial district in which the surface coal mining
-operation complained of is located.  Nothing in this Subsection (6) shall
-affect the rights established by or limits imposed under Utah workmen's
-compensation laws.
+
+(i)  prior to 60 days after the plaintiff has given notice in writing of the violation to the division and to any alleged violator; or
+
+(ii)  if the attorney general has commenced and is diligently prosecuting a civil action in a court of the state to require compliance with the provisions of this chapter, or any rule, order, or permit issued pursuant to this chapter; or
+
+(b)  under Subsection (1)(a)(iii) prior to 60 days after the plaintiff has given notice in writing of the action to the board, in the manner as the board prescribes by rule, except that the action may be brought immediately after the notification in the case where the violation or order complained of constitutes an imminent threat to the health or safety of the plaintiff or would immediately affect a legal interest of the plaintiff.
+
+(3) (a)  Any action concerning a violation of this chapter or the rules promulgated under it may be brought only in the judicial district in which the surface coal mining operation complained of is located.
+
+(b)  In the action, the division and board, if not a party, may intervene as a matter of right.
+
+(4) (a)  The court, in issuing any final order in any action brought pursuant to Subsection (1), may award costs of litigation, including attorney and expert witness fees, to any party whenever the court determines that award is appropriate.
+
+(b)  The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Utah Rules of Civil Procedure.
+
+(5)  Nothing in this section may restrict any right which any person, or class of persons, has under any statute or common law to seek enforcement of any of the provisions of this chapter and the rules promulgated under it, or to seek any other relief, including relief against the division and board.
+
+(6)  Any person who is injured in his person or property through the violation by an operator of any rule, order, or permit issued pursuant to this chapter may bring an action for damages, including reasonable attorney and expert witness fees, only in the judicial district in which the surface coal mining operation complained of is located.  Nothing in this Subsection (6) shall affect the rights established by or limits imposed under Utah workmen's compensation laws.
+

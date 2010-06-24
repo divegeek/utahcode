@@ -1,17 +1,10 @@
-59-7-312.   Property factor for apportionment of business income -- Mobile
-flight equipment of an airline.
-(1)  Except as provided in Subsection (2), the property factor is a fraction,
-the numerator of which is the average value of the taxpayer's real and
-tangible personal property owned or rented and used in this state during the
-tax period and the denominator of which is the average value of all the
-taxpayer's real and tangible personal property owned or rented and used during
-the tax period.
-(2)  The average value of an airline's real and tangible personal property
-owned or rented and used in this state attributable to mobile flight equipment
-for purposes of the numerator of the fraction described in Subsection (1)
-shall be calculated for each aircraft type by determining the product of:
-(a)  the total average value of the airline's mobile flight equipment of the
-aircraft type owned or rented and used during the tax period; and
-(b)  a fraction, the numerator of which is the Utah revenue ton miles for the
-aircraft type and the denominator of which is the airline revenue ton miles
-for the aircraft type.
+59-7-312.   Property factor for apportionment of business income -- Mobile flight equipment of an airline.
+
+(1)  Except as provided in Subsection (2), the property factor is a fraction, the numerator of which is the average value of the taxpayer's real and tangible personal property owned or rented and used in this state during the tax period and the denominator of which is the average value of all the taxpayer's real and tangible personal property owned or rented and used during the tax period.
+
+(2)  The average value of an airline's real and tangible personal property owned or rented and used in this state attributable to mobile flight equipment for purposes of the numerator of the fraction described in Subsection (1) shall be calculated for each aircraft type by determining the product of:
+
+(a)  the total average value of the airline's mobile flight equipment of the aircraft type owned or rented and used during the tax period; and
+
+(b)  a fraction, the numerator of which is the Utah revenue ton miles for the aircraft type and the denominator of which is the airline revenue ton miles for the aircraft type.
+

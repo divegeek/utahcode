@@ -1,10 +1,18 @@
 70A-9a-605.   Unknown debtor or secondary obligor.
+
 A secured party does not owe a duty based on its status as secured party:
+
 (1)  to a person that is a debtor or obligor, unless the secured party knows:
+
 (a)  that the person is a debtor or obligor;
+
 (b)  the identity of the person; and
+
 (c)  how to communicate with the person; or
-(2)  to a secured party or lienholder that has filed a financing statement
-against a person, unless the secured party knows:
+
+(2)  to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:
+
 (a)  that the person is a debtor; and
+
 (b)  the identity of the person.
+

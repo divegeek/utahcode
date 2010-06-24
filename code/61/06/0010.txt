@@ -1,13 +1,10 @@
 61-6-10.   Voting rights -- Approval.
-(1)  Control shares acquired in a control share acquisition have the same
-voting rights as were accorded the shares before the control share acquisition
-only to the extent granted by resolution approved by the shareholders of the
-issuing public corporation.
+
+(1)  Control shares acquired in a control share acquisition have the same voting rights as were accorded the shares before the control share acquisition only to the extent granted by resolution approved by the shareholders of the issuing public corporation.
+
 (2)  To be approved under this section, the resolution shall be approved:
-(a)  by each voting group entitled to vote separately on the proposal by a
-majority of all the votes entitled to be cast by that group, excluding all
-interested shares; and
-(b)  by each class of outstanding shares by a majority of all the holders of
-the outstanding shares of the class, if the proposed control share acquisition
-would, when fully implemented, result in any of the changes described in
-Section 16-10a-1004.
+
+(a)  by each voting group entitled to vote separately on the proposal by a majority of all the votes entitled to be cast by that group, excluding all interested shares; and
+
+(b)  by each class of outstanding shares by a majority of all the holders of the outstanding shares of the class, if the proposed control share acquisition would, when fully implemented, result in any of the changes described in Section 16-10a-1004.
+

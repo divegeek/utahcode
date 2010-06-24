@@ -1,8 +1,4 @@
 70A-11-104.   Transition provision on change of requirement of filing.
-A security interest for the perfection of which filing or the taking of
-possession was required under the old Uniform Commercial Code and which
-attached prior to the effective date of the corrected Uniform Commercial Code
-but was not perfected shall be deemed perfected on the effective date of the
-corrected Uniform Commercial Code if the corrected Uniform Commercial Code
-permits perfection without filing or authorizes filing in the office or
-offices where a prior ineffective filing was made.
+
+A security interest for the perfection of which filing or the taking of possession was required under the old Uniform Commercial Code and which attached prior to the effective date of the corrected Uniform Commercial Code but was not perfected shall be deemed perfected on the effective date of the corrected Uniform Commercial Code if the corrected Uniform Commercial Code permits perfection without filing or authorizes filing in the office or offices where a prior ineffective filing was made.
+

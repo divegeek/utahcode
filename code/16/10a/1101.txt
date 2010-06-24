@@ -1,14 +1,16 @@
 16-10a-1101.   Merger.
-(1)  One or more domestic corporations may merge into another domestic
-corporation if the board of directors of each corporation adopts and its
-shareholders, if required by Section 16-10a-1103, approve the plan of merger.
+
+(1)  One or more domestic corporations may merge into another domestic corporation if the board of directors of each corporation adopts and its shareholders, if required by Section 16-10a-1103, approve the plan of merger.
+
 (2)  The plan of merger referred to in Subsection (1) shall set forth:
-(a)  the name of each corporation planning to merge and the name of the
-surviving corporation into which each other corporation plans to merge;
+
+(a)  the name of each corporation planning to merge and the name of the surviving corporation into which each other corporation plans to merge;
+
 (b)  the terms and conditions of the merger;
-(c)  the manner and basis of converting the shares of each corporation into
-shares, obligations, or other securities of the surviving or any other
-corporation or into cash or other property in whole or part; and
-(d)  any amendments to the articles of incorporation of the surviving
-corporation to be effected by the merger.
+
+(c)  the manner and basis of converting the shares of each corporation into shares, obligations, or other securities of the surviving or any other corporation or into cash or other property in whole or part; and
+
+(d)  any amendments to the articles of incorporation of the surviving corporation to be effected by the merger.
+
 (3)  The plan of merger may set forth other provisions relating to the merger.
+

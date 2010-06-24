@@ -1,33 +1,24 @@
 70A-9a-320.   Buyer of goods.
-(1)  Except as otherwise provided in Subsection (5), a buyer in ordinary
-course of business, other than a person buying farm products from a person
-engaged in farming operations, takes free of a security interest created by
-the buyer's seller, even if the security interest is perfected and the buyer
-knows of its existence.
-(2)  Except as otherwise provided in Subsection (5), a buyer of goods from a
-person who used or bought the goods for use primarily for personal, family, or
-household purposes takes free of a security interest, even if perfected, if
-the buyer buys:
+
+(1)  Except as otherwise provided in Subsection (5), a buyer in ordinary course of business, other than a person buying farm products from a person engaged in farming operations, takes free of a security interest created by the buyer's seller, even if the security interest is perfected and the buyer knows of its existence.
+
+(2)  Except as otherwise provided in Subsection (5), a buyer of goods from a person who used or bought the goods for use primarily for personal, family, or household purposes takes free of a security interest, even if perfected, if the buyer buys:
+
 (a)  without knowledge of the security interest;
+
 (b)  for value;
+
 (c)  primarily for the buyer's personal, family, or household purposes; and
+
 (d)  before the filing of a financing statement covering the goods.
-(3)  To the extent that it affects the priority of a security interest over a
-buyer of goods under Subsection (2), the period of effectiveness of a filing
-made in the jurisdiction in which the seller is located is governed by
-Subsections 70A-9a-316(1) and (2).
-(4)  A buyer in ordinary course of business buying oil, gas, or other minerals
-at the wellhead or minehead or after extraction takes free of an interest
-arising out of an encumbrance.
-(5)  Subsections (1) and (2) do not affect a security interest in goods in the
-possession of the secured party under Section 70A-9a-313.
-(6) (a)  Notwithstanding Subsection (1), a secured party may not enforce a
-security interest in farm products against a buyer, commission merchant, or
-selling agent who purchases or sells farm products in the ordinary course of
-business from or for a person engaged in farming operations unless the secured
-party has complied with the rules issued by the Division of Corporations and
-Commercial Code under  Subsection (6)(b).
-(b)  The Division of Corporations and Commercial Code shall issue the rules
-necessary to implement a central filing system that will conform to the
-requirements of the Food Security Act of 1985, P.L. 99-198, as now enacted or
-as it may be hereafter amended.
+
+(3)  To the extent that it affects the priority of a security interest over a buyer of goods under Subsection (2), the period of effectiveness of a filing made in the jurisdiction in which the seller is located is governed by Subsections 70A-9a-316(1) and (2).
+
+(4)  A buyer in ordinary course of business buying oil, gas, or other minerals at the wellhead or minehead or after extraction takes free of an interest arising out of an encumbrance.
+
+(5)  Subsections (1) and (2) do not affect a security interest in goods in the possession of the secured party under Section 70A-9a-313.
+
+(6) (a)  Notwithstanding Subsection (1), a secured party may not enforce a security interest in farm products against a buyer, commission merchant, or selling agent who purchases or sells farm products in the ordinary course of business from or for a person engaged in farming operations unless the secured party has complied with the rules issued by the Division of Corporations and Commercial Code under  Subsection (6)(b).
+
+(b)  The Division of Corporations and Commercial Code shall issue the rules necessary to implement a central filing system that will conform to the requirements of the Food Security Act of 1985, P.L. 99-198, as now enacted or as it may be hereafter amended.
+

@@ -1,58 +1,72 @@
 73-3c-102.   Definitions.
+
 As used in this chapter:
+
 (1)  "Domestic wastewater" or "sewage" means:
+
 (a)  a combination of the liquid or water-carried wastes from:
+
 (i)  structures with installed plumbing facilities; and
+
 (ii)  industrial establishments; and
-(b)  any groundwater, surface water, and storm water that is present with the
-waste.
-(2)  "POTW" means a publicly owned treatment works as defined by Section
-19-5-102.
-(3)  "Public agency" means a public agency as defined by Section 11-13-103
-that:
+
+(b)  any groundwater, surface water, and storm water that is present with the waste.
+
+(2)  "POTW" means a publicly owned treatment works as defined by Section 19-5-102.
+
+(3)  "Public agency" means a public agency as defined by Section 11-13-103 that:
+
 (a)  owns or operates a POTW;
+
 (b)  collects and transports domestic wastewater;
+
 (c)  holds legal title to a water right;
-(d)  is delegated the right to the beneficial use or reuse of water by the
-legal title holder of the water right;
+
+(d)  is delegated the right to the beneficial use or reuse of water by the legal title holder of the water right;
+
 (e)  is a water supplier; or
+
 (f)  sells wholesale or retail water.
+
 (4)  "Return flow requirement" means return flow required under a water right.
+
 (5) (a)  "Reuse authorization contract" means a contract or contracts among:
+
 (i)  a public agency proposing a water reuse project;
-(ii)  the owner or operator of a POTW that treats domestic wastewater proposed
-for use in a reuse project;
-(iii)  the owner of a domestic wastewater collection or transportation system
-if the reuse project will divert domestic wastewater directly from that
-entity's collection or transportation system;
-(iv)  the legal title holder of the water right designated for use in the
-reuse project, unless the legal title holder of the water right has delegated
-to another the right to the beneficial use or reuse of the water;
-(v)  each water supplier not holding legal title to the water right designated
-for use in the reuse project that sells or delivers water under the water
-right designated for use in the reuse project;
-(vi)  each entity that will engage in the wholesale or retail sale of water
-from the water reuse project; and
-(vii)  the retail water supplier retailing water that will be replaced by
-reuse water supplied under the proposed reuse project.
+
+(ii)  the owner or operator of a POTW that treats domestic wastewater proposed for use in a reuse project;
+
+(iii)  the owner of a domestic wastewater collection or transportation system if the reuse project will divert domestic wastewater directly from that entity's collection or transportation system;
+
+(iv)  the legal title holder of the water right designated for use in the reuse project, unless the legal title holder of the water right has delegated to another the right to the beneficial use or reuse of the water;
+
+(v)  each water supplier not holding legal title to the water right designated for use in the reuse project that sells or delivers water under the water right designated for use in the reuse project;
+
+(vi)  each entity that will engage in the wholesale or retail sale of water from the water reuse project; and
+
+(vii)  the retail water supplier retailing water that will be replaced by reuse water supplied under the proposed reuse project.
+
 (b)  A reuse authorization contract shall:
-(i)  provide that a water supplier that is a party to the agreement consents
-to the use of reuse water under each water right, in which the water supplier
-has an interest, that is identified for use in the water reuse project; and
-(ii)  provide that any proposed water reuse project based on the contract
-shall be consistent with the underlying water right.
-(6)  "Reuse water" means domestic wastewater treated to a standard acceptable
-under rules made by the Water Quality Board under Section 19-5-104.
-(7)  "Water reuse project" or "project" means a project for the reuse of
-domestic wastewater that requires approval by the Water Quality Board in
-accordance with Section 19-5-104 and the state engineer under Section
-73-3c-302.
+
+(i)  provide that a water supplier that is a party to the agreement consents to the use of reuse water under each water right, in which the water supplier has an interest, that is identified for use in the water reuse project; and
+
+(ii)  provide that any proposed water reuse project based on the contract shall be consistent with the underlying water right.
+
+(6)  "Reuse water" means domestic wastewater treated to a standard acceptable under rules made by the Water Quality Board under Section 19-5-104.
+
+(7)  "Water reuse project" or "project" means a project for the reuse of domestic wastewater that requires approval by the Water Quality Board in accordance with Section 19-5-104 and the state engineer under Section 73-3c-302.
+
 (8)  "Water right" means:
-(a)  a right to use water evidenced by any means identified in Section
-73-1-10; or
+
+(a)  a right to use water evidenced by any means identified in Section 73-1-10; or
+
 (b)  a right to use water under an approved application:
+
 (i)  to appropriate;
+
 (ii)  for a change of use; or
+
 (iii)  for the exchange of water.
-(9)  "Water supplier" means an entity engaged in the delivery of water for
-municipal purposes.
+
+(9)  "Water supplier" means an entity engaged in the delivery of water for municipal purposes.
+

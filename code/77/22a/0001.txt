@@ -1,32 +1,12 @@
-77-22a-1.   Administrative subpoenas -- Controlled substances investigations
--- Procedures -- Witness fees.
-(1) (a)  The administrative subpoena process of this chapter may be used only
-to obtain third party information under circumstances where it is clear that
-the subpoenaed information is not subject to a claim of protection under the
-Fourth, Fifth, or Sixth Amendment, United States Constitution, or a similar
-claim under Article I, Sec.  12 and Sec.  14, Utah Constitution.
-(b)  A party subpoenaed under this chapter shall be advised by the subpoena
-that he has a right to challenge the subpoena by motion to quash filed in the
-appropriate district court named in the subpoena before compliance is
-required.
-(2)  In any investigation relating to his functions under this chapter
-regarding controlled substances, the attorney general or a deputy or assistant
-attorney general the county attorney or a deputy county attorney, or the
-district attorney or deputy district attorney may subpoena witnesses, compel
-the attendance and testimony of witnesses, or require the production of any
-records including books, papers, documents, and other tangible things that
-constitute or contain evidence found by the attorney general or a deputy or
-assistant attorney general or the county attorney or district attorney as
-provided under Sections 17-18-1 and 17-18-1.7 or his deputy  to be relevant or
-material to the investigation.  The attendance of witnesses or the production
-of records may be required from any place within the state.
-(3)  Witnesses subpoenaed under this section shall be paid the same fees and
-mileage costs as witnesses in the state district courts.
-(4)  If the attorney general or a deputy or assistant attorney general or the
-county attorney or district attorney or his deputy determine that disclosure
-of the existence of an administrative subpoena or of the information sought or
-of the existence of the investigation under which it is issued would pose a
-threat of harm to a person or otherwise impede the investigation, the subpoena
-shall contain language on its face directing that the witness not disclose to
-any person the existence or service of the subpoena, the information being
-sought, or the existence of an investigation.
+77-22a-1.   Administrative subpoenas -- Controlled substances investigations -- Procedures -- Witness fees.
+
+(1) (a)  The administrative subpoena process of this chapter may be used only to obtain third party information under circumstances where it is clear that the subpoenaed information is not subject to a claim of protection under the Fourth, Fifth, or Sixth Amendment, United States Constitution, or a similar claim under Article I, Sec.  12 and Sec.  14, Utah Constitution.
+
+(b)  A party subpoenaed under this chapter shall be advised by the subpoena that he has a right to challenge the subpoena by motion to quash filed in the appropriate district court named in the subpoena before compliance is required.
+
+(2)  In any investigation relating to his functions under this chapter regarding controlled substances, the attorney general or a deputy or assistant attorney general the county attorney or a deputy county attorney, or the district attorney or deputy district attorney may subpoena witnesses, compel the attendance and testimony of witnesses, or require the production of any records including books, papers, documents, and other tangible things that constitute or contain evidence found by the attorney general or a deputy or assistant attorney general or the county attorney or district attorney as provided under Sections 17-18-1 and 17-18-1.7 or his deputy  to be relevant or material to the investigation.  The attendance of witnesses or the production of records may be required from any place within the state.
+
+(3)  Witnesses subpoenaed under this section shall be paid the same fees and mileage costs as witnesses in the state district courts.
+
+(4)  If the attorney general or a deputy or assistant attorney general or the county attorney or district attorney or his deputy determine that disclosure of the existence of an administrative subpoena or of the information sought or of the existence of the investigation under which it is issued would pose a threat of harm to a person or otherwise impede the investigation, the subpoena shall contain language on its face directing that the witness not disclose to any person the existence or service of the subpoena, the information being sought, or the existence of an investigation.
+

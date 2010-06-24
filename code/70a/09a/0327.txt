@@ -1,15 +1,12 @@
 70A-9a-327.   Priority of security interests in deposit account.
-The following rules govern priority among conflicting security interests in
-the same deposit account:
-(1)  A security interest held by a secured party having control of the deposit
-account under Section 70A-9a-104 has priority over a conflicting security
-interest held by a secured party that does not have control.
-(2)  Except as otherwise provided in Subsections (3) and (4), security
-interests perfected by control under Section 70A-9a-314 rank according to
-priority in time of obtaining control.
-(3)  Except as otherwise provided in Subsection (4), a security interest held
-by the bank with which the deposit account is maintained has priority over a
-conflicting security interest held by another secured party.
-(4)  A security interest perfected by control under Subsection 70A-
-9a-104(1)(c) has priority over a security interest held by the bank with which
-the deposit account is maintained.
+
+The following rules govern priority among conflicting security interests in the same deposit account:
+
+(1)  A security interest held by a secured party having control of the deposit account under Section 70A-9a-104 has priority over a conflicting security interest held by a secured party that does not have control.
+
+(2)  Except as otherwise provided in Subsections (3) and (4), security interests perfected by control under Section 70A-9a-314 rank according to priority in time of obtaining control.
+
+(3)  Except as otherwise provided in Subsection (4), a security interest held by the bank with which the deposit account is maintained has priority over a conflicting security interest held by another secured party.
+
+(4)  A security interest perfected by control under Subsection 70A-9a-104(1)(c) has priority over a security interest held by the bank with which the deposit account is maintained.
+

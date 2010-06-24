@@ -1,25 +1,36 @@
 59-5-103.1.    Valuation of oil or gas -- Deductions.
-(1) (a)  For purposes of the tax imposed under Section 59-5-102 and subject to
-Subsection (2), the value of oil or gas shall be determined at the first point
-closest to the well at which the fair market value for the oil or gas may be
-determined by:
+
+(1) (a)  For purposes of the tax imposed under Section 59-5-102 and subject to Subsection (2), the value of oil or gas shall be determined at the first point closest to the well at which the fair market value for the oil or gas may be determined by:
+
 (i)  a sale pursuant to an arm's-length contract; or
-(ii)  for a sale other than a sale described in Subsection (1)(a)(i),
-comparison to other sales of oil or gas.
-(b)  For purposes of determining the fair market value of oil or gas under
-Subsection (1), a person subject to a tax under Section 59-5-102 may deduct:
+
+(ii)  for a sale other than a sale described in Subsection (1)(a)(i), comparison to other sales of oil or gas.
+
+(b)  For purposes of determining the fair market value of oil or gas under Subsection (1), a person subject to a tax under Section 59-5-102 may deduct:
+
 (i)  processing costs from the value of:
+
 (A)  oil; or
+
 (B)  gas; and
-(ii) (A)  except as provided in Subsection (1)(b)(ii)(B), transportation costs
-from the value of:
+
+(ii) (A)  except as provided in Subsection (1)(b)(ii)(B), transportation costs from the value of:
+
 (I)  oil; and
+
 (II)  gas; and
-(B)  notwithstanding Subsection (1)(b)(ii)(A), the deduction for
-transportation costs may not exceed 50% of the value of the:
+
+(B)  notwithstanding Subsection (1)(b)(ii)(A), the deduction for transportation costs may not exceed 50% of the value of the:
+
 (I)  oil; or
+
 (II)  gas.
+
 (2)  Subsection (1)(a)(ii) applies to a sale of oil or gas between:
+
 (a)  a parent company and a subsidiary company;
+
 (b)  companies wholly owned or partially owned by a common parent company; or
+
 (c)  companies otherwise affiliated.
+

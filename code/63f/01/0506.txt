@@ -1,42 +1,40 @@
 63F-1-506.   Automated Geographic Reference Center.
-(1)  There is created the Automated Geographic Reference Center as part of the
-division.
+
+(1)  There is created the Automated Geographic Reference Center as part of the division.
+
 (2)  The center shall:
-(a)  provide geographic information system services to state agencies under
-rules adopted in accordance with Section 63F-1-504 and policies established by
-the division;
-(b)  provide geographic information system services to federal government,
-local political subdivisions, and private persons under rules and policies
-established by the division;
+
+(a)  provide geographic information system services to state agencies under rules adopted in accordance with Section 63F-1-504 and policies established by the division;
+
+(b)  provide geographic information system services to federal government, local political subdivisions, and private persons under rules and policies established by the division;
+
 (c)  manage the State Geographic Information Database; and
-(d)  establish standard format, lineage, and other requirements for the
-database.
+
+(d)  establish standard format, lineage, and other requirements for the database.
+
 (3) (a)  There is created a position of surveyor within the center.
+
 (b)  The surveyor under this Subsection (3) shall:
-(i)  be licensed as a professional land surveyor under Title 58, Chapter 22,
-Professional Engineers and Land Surveyors Licensing Act;
-(ii)  provide technical support to the office of lieutenant governor in the
-lieutenant governor's evaluation under Section 67-1a-6.5 of a proposed
-boundary action, as defined in Section 17-23-20;
-(iii)  as requested by a county surveyor, provide technical assistance to the
-county surveyor with respect to the county surveyor's responsibilities under
-Section 17-23-20;
-(iv)  fulfill the duties described in Section 17-50-105, if engaged to do so
-as provided in that section;
-(v)  assist the State Tax Commission in processing and quality assurance of
-boundary descriptions or maps into digital format for inclusion in the State
-Geographic Information Database;
-(vi)  coordinate with county recorders and surveyors to create a statewide
-parcel layer in the State Geographic Information Database containing parcel
-boundary, parcel identifier, parcel address, owner type, and county recorder
-contact information; and
-(vii)  facilitate and integrate the collection efforts of local government and
-federal agencies for data collection to densify and enhance the statewide
-Public Land Survey System reference network in the State Geographic
-Information Database.
+
+(i)  be licensed as a professional land surveyor under Title 58, Chapter 22, Professional Engineers and Land Surveyors Licensing Act;
+
+(ii)  provide technical support to the office of lieutenant governor in the lieutenant governor's evaluation under Section 67-1a-6.5 of a proposed boundary action, as defined in Section 17-23-20;
+
+(iii)  as requested by a county surveyor, provide technical assistance to the county surveyor with respect to the county surveyor's responsibilities under Section 17-23-20;
+
+(iv)  fulfill the duties described in Section 17-50-105, if engaged to do so as provided in that section;
+
+(v)  assist the State Tax Commission in processing and quality assurance of boundary descriptions or maps into digital format for inclusion in the State Geographic Information Database;
+
+(vi)  coordinate with county recorders and surveyors to create a statewide parcel layer in the State Geographic Information Database containing parcel boundary, parcel identifier, parcel address, owner type, and county recorder contact information; and
+
+(vii)  facilitate and integrate the collection efforts of local government and federal agencies for data collection to densify and enhance the statewide Public Land Survey System reference network in the State Geographic Information Database.
+
 (4)  The division may:
-(a)  make rules and establish policies to govern the center and its
-operations; and
+
+(a)  make rules and establish policies to govern the center and its operations; and
+
 (b)  set fees for the services provided by the center.
-(5)  The state may not sell information obtained from counties under
-Subsection (3)(b)(v).
+
+(5)  The state may not sell information obtained from counties under Subsection (3)(b)(v).
+

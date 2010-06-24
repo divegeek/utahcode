@@ -1,115 +1,42 @@
 16-10a-1434.   Election to purchase in lieu of dissolution.
-(1)  In a proceeding under Subsection 16-10a-1430(2) to dissolve a corporation
-that has no shares listed on a national securities exchange or regularly
-traded in a market maintained by one or more members of a national or
-affiliated securities association, the corporation may elect, or if it fails
-to elect, one or more shareholders may elect to purchase all shares of the
-corporation owned by the petitioning shareholder, at the fair value of the
-shares, determined as provided in this section.  An election pursuant to this
-section is irrevocable unless the court determines that it is equitable to set
-aside or modify the election.
-(2) (a)  An election to purchase pursuant to this section may be filed with
-the court at any time within 90 days after the filing of the petition under
-Subsection 16-10a-1430(2) or at any later time as the court in its discretion
-may allow.  If the corporation files an election with the court within the
-90-day period, or at any later time allowed by the court, to purchase all
-shares of the corporation owned by the petitioning shareholder, the
-corporation shall purchase the shares in the manner provided in this section.
-(b)  If the corporation does not file an election with the court within the
-time period, but an election to purchase all shares of the corporation owned
-by the petitioning shareholder is filed by one or more shareholders within the
-time period, the corporation shall, within 10 days after the later of:
-(i)  the end of the time period allowed for the filing of elections to
-purchase under this section; or
-(ii)  notification from the court of an election by shareholders to purchase
-all shares of the corporation owned by the petitioning shareholder as provided
-in this section, give written notice of the election to purchase to all
-shareholders of the corporation, other than the petitioning shareholder.  The
-notice shall state the name and number of shares owned by the petitioning
-shareholder and the name and number of shares owned by each electing
-shareholder.  The notice shall advise any recipients who have not participated
-in the election of their right to join in the election to purchase shares in
-accordance with this section, and of the date by which any notice of intent to
-participate must be filed with the court.
-(c)  Shareholders who wish to participate in the purchase of shares from the
-petitioning shareholder shall file notice of their intention to join in the
-purchase by the electing shareholders, no later than 30 days after the
-effective date of the corporation's notice of their right to join in the
-election to purchase.
-(d)  All shareholders who have filed with the court an election or notice of
-their intention to participate in the election to purchase the shares of the
-corporation owned by the petitioning shareholder thereby become irrevocably
-obligated to participate in the purchase of shares from the petitioning
-shareholders upon the terms and conditions of this section, unless the court
-otherwise directs.
-(e)  After an election has been filed by the corporation or one or more
-shareholders, the proceedings under Subsection 16-10a-1430(2) may not be
-discontinued or settled, nor may the petitioning shareholder sell or otherwise
-dispose of any shares of the corporation, unless the court determines that it
-would be equitable to the corporation and the shareholders, other than the
-petitioning shareholders, to permit any discontinuance, settlement, sale, or
-other disposition.
+
+(1)  In a proceeding under Subsection 16-10a-1430(2) to dissolve a corporation that has no shares listed on a national securities exchange or regularly traded in a market maintained by one or more members of a national or affiliated securities association, the corporation may elect, or if it fails to elect, one or more shareholders may elect to purchase all shares of the corporation owned by the petitioning shareholder, at the fair value of the shares, determined as provided in this section.  An election pursuant to this section is irrevocable unless the court determines that it is equitable to set aside or modify the election.
+
+(2) (a)  An election to purchase pursuant to this section may be filed with the court at any time within 90 days after the filing of the petition under Subsection 16-10a-1430(2) or at any later time as the court in its discretion may allow.  If the corporation files an election with the court within the 90-day period, or at any later time allowed by the court, to purchase all shares of the corporation owned by the petitioning shareholder, the corporation shall purchase the shares in the manner provided in this section.
+
+(b)  If the corporation does not file an election with the court within the time period, but an election to purchase all shares of the corporation owned by the petitioning shareholder is filed by one or more shareholders within the time period, the corporation shall, within 10 days after the later of:
+
+(i)  the end of the time period allowed for the filing of elections to purchase under this section; or
+
+(ii)  notification from the court of an election by shareholders to purchase all shares of the corporation owned by the petitioning shareholder as provided in this section, give written notice of the election to purchase to all shareholders of the corporation, other than the petitioning shareholder.  The notice shall state the name and number of shares owned by the petitioning shareholder and the name and number of shares owned by each electing shareholder.  The notice shall advise any recipients who have not participated in the election of their right to join in the election to purchase shares in accordance with this section, and of the date by which any notice of intent to participate must be filed with the court.
+
+(c)  Shareholders who wish to participate in the purchase of shares from the petitioning shareholder shall file notice of their intention to join in the purchase by the electing shareholders, no later than 30 days after the effective date of the corporation's notice of their right to join in the election to purchase.
+
+(d)  All shareholders who have filed with the court an election or notice of their intention to participate in the election to purchase the shares of the corporation owned by the petitioning shareholder thereby become irrevocably obligated to participate in the purchase of shares from the petitioning shareholders upon the terms and conditions of this section, unless the court otherwise directs.
+
+(e)  After an election has been filed by the corporation or one or more shareholders, the proceedings under Subsection 16-10a-1430(2) may not be discontinued or settled, nor may the petitioning shareholder sell or otherwise dispose of any shares of the corporation, unless the court determines that it would be equitable to the corporation and the shareholders, other than the petitioning shareholders, to permit any discontinuance, settlement, sale, or other disposition.
+
 (3)  If, within 60 days after the earlier of:
-(a)  the corporation's filing of an election to purchase all shares of the
-corporation owned by the petitioning shareholder; or
-(b)  the corporation's mailing of a notice to its shareholders of the filing
-of an election by the shareholders to purchase all shares of the corporation
-owned by the petitioning shareholder, the petitioning shareholder and electing
-corporation or shareholders reach agreement as to the fair value and terms of
-purchase of the petitioning shareholder's shares, the court shall enter an
-order directing the purchase of petitioner's shares, upon the terms and
-conditions agreed to by the parties.
-(4)  If the parties are unable to reach an agreement as provided for in
-Subsection (3), upon application of any party the court shall stay the
-proceedings under Subsection 16-10a-1430(2) and determine the fair value of
-the petitioning shareholder's shares as of the day before the date on which
-the petition under Subsection 16-10a-1430(2) was filed or as of any other date
-the court determines to be appropriate under the circumstances and based on
-the factors the court determines to be appropriate.
-(5) (a)  Upon determining the fair value of the shares of the corporation
-owned by the petitioning shareholder, the court shall enter an order directing
-the purchase of the shares upon terms and conditions the court determines to
-be appropriate.  The terms and conditions may include payment of the purchase
-price in installments, where necessary in the interests of equity, provision
-for security to assure payment of the purchase price and any additional costs,
-fees, and expenses awarded by the court, and an allocation of shares among
-shareholders if the shares are to be purchased by shareholders.
-(b)  In allocating the petitioning shareholders' shares among holders of
-different classes of shares, the court shall attempt to preserve the existing
-distribution of voting rights among holders of different share classes to the
-extent practicable.  The court may direct that holders of a specific class or
-classes may not participate in the purchase.  The court may not require any
-electing shareholder to purchase more of the shares of the corporation owned
-by the petitioning shareholder than the number of shares that the purchasing
-shareholder may have set forth in his election or notice of intent to
-participate filed with the court as the maximum number of shares he is willing
-to purchase.
-(c)  Interest may be allowed at the rate and from the date determined by the
-court to be equitable.  However, if the court finds that the refusal of the
-petitioning shareholder to accept an offer of payment was arbitrary or
-otherwise not in good faith, interest may not be allowed.
-(d)  If the court finds that the petitioning shareholder had probable grounds
-for relief under Subsection 16-10a-1430(2)(b) or (d), it may award to the
-petitioning shareholder reasonable fees and expenses of counsel and experts
-employed by the petitioning shareholder.
-(6)  Upon entry of an order under Subsection (3) or (5), the court shall
-dismiss the petition to dissolve the corporation under Section 16-10a-1430,
-and the petitioning shareholder shall no longer have any rights or status as a
-shareholder of the corporation, except the right to receive the amounts
-awarded to him by the court.  The award is enforceable in the same manner as
-any other judgment.
-(7) (a)  The purchase ordered pursuant to Subsection (5) shall be made within
-10 days after the date the order becomes final, unless before that time the
-corporation files with the court a notice of its intention to adopt articles
-of dissolution pursuant to Sections 16-10a-1402 and 16-10a-1403.  The articles
-of dissolution must then be adopted and filed within 50 days after notice.
-(b)  Upon filing of the articles of dissolution, the corporation is dissolved
-in accordance with the provisions of Sections 16-10a-1405 through 16-10a-1408,
-and the order entered pursuant to Subsection (5) is no longer of any force or
-effect.  However, the court may award the petitioning shareholder reasonable
-fees and expenses in accordance with the provisions of Subsection (5)(d).  The
-petitioning shareholder may continue to pursue any claims previously asserted
-on behalf of the corporation.
-(8)  Any payment by the corporation pursuant to an order under Subsection (3)
-or (5), other than an award of fees and expenses pursuant to Subsection
-(5)(d), is subject to the provisions of Section 16-10a-640.
+
+(a)  the corporation's filing of an election to purchase all shares of the corporation owned by the petitioning shareholder; or
+
+(b)  the corporation's mailing of a notice to its shareholders of the filing of an election by the shareholders to purchase all shares of the corporation owned by the petitioning shareholder, the petitioning shareholder and electing corporation or shareholders reach agreement as to the fair value and terms of purchase of the petitioning shareholder's shares, the court shall enter an order directing the purchase of petitioner's shares, upon the terms and conditions agreed to by the parties.
+
+(4)  If the parties are unable to reach an agreement as provided for in Subsection (3), upon application of any party the court shall stay the proceedings under Subsection 16-10a-1430(2) and determine the fair value of the petitioning shareholder's shares as of the day before the date on which the petition under Subsection 16-10a-1430(2) was filed or as of any other date the court determines to be appropriate under the circumstances and based on the factors the court determines to be appropriate.
+
+(5) (a)  Upon determining the fair value of the shares of the corporation owned by the petitioning shareholder, the court shall enter an order directing the purchase of the shares upon terms and conditions the court determines to be appropriate.  The terms and conditions may include payment of the purchase price in installments, where necessary in the interests of equity, provision for security to assure payment of the purchase price and any additional costs, fees, and expenses awarded by the court, and an allocation of shares among shareholders if the shares are to be purchased by shareholders.
+
+(b)  In allocating the petitioning shareholders' shares among holders of different classes of shares, the court shall attempt to preserve the existing distribution of voting rights among holders of different share classes to the extent practicable.  The court may direct that holders of a specific class or classes may not participate in the purchase.  The court may not require any electing shareholder to purchase more of the shares of the corporation owned by the petitioning shareholder than the number of shares that the purchasing shareholder may have set forth in his election or notice of intent to participate filed with the court as the maximum number of shares he is willing to purchase.
+
+(c)  Interest may be allowed at the rate and from the date determined by the court to be equitable.  However, if the court finds that the refusal of the petitioning shareholder to accept an offer of payment was arbitrary or otherwise not in good faith, interest may not be allowed.
+
+(d)  If the court finds that the petitioning shareholder had probable grounds for relief under Subsection 16-10a-1430(2)(b) or (d), it may award to the petitioning shareholder reasonable fees and expenses of counsel and experts employed by the petitioning shareholder.
+
+(6)  Upon entry of an order under Subsection (3) or (5), the court shall dismiss the petition to dissolve the corporation under Section 16-10a-1430, and the petitioning shareholder shall no longer have any rights or status as a shareholder of the corporation, except the right to receive the amounts awarded to him by the court.  The award is enforceable in the same manner as any other judgment.
+
+(7) (a)  The purchase ordered pursuant to Subsection (5) shall be made within 10 days after the date the order becomes final, unless before that time the corporation files with the court a notice of its intention to adopt articles of dissolution pursuant to Sections 16-10a-1402 and 16-10a-1403.  The articles of dissolution must then be adopted and filed within 50 days after notice.
+
+(b)  Upon filing of the articles of dissolution, the corporation is dissolved in accordance with the provisions of Sections 16-10a-1405 through 16-10a-1408, and the order entered pursuant to Subsection (5) is no longer of any force or effect.  However, the court may award the petitioning shareholder reasonable fees and expenses in accordance with the provisions of Subsection (5)(d).  The petitioning shareholder may continue to pursue any claims previously asserted on behalf of the corporation.
+
+(8)  Any payment by the corporation pursuant to an order under Subsection (3) or (5), other than an award of fees and expenses pursuant to Subsection (5)(d), is subject to the provisions of Section 16-10a-640.
+

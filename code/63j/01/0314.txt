@@ -1,36 +1,30 @@
 63J-1-314.   Deposits related to the Disaster Recovery Funding Act.
-(1)  As used in this section, "operating deficit" means that, at the end of
-the fiscal year, the unreserved and undesignated fund balance in the General
-Fund is less than zero.
-(2) Except as provided under Subsection (3), beginning with the fiscal year
-ending June 30, 2007, at the end of each fiscal year and after the transfer of
-surplus General Fund revenues has been made to the General Fund Budget Reserve
-Account as provided in Section 63J-1-312, the Division of Finance shall
-deposit an amount into the State Disaster Recovery Restricted Account, created
-in Section 53-2-403, calculated by:
-(a)  determining the amount of surplus General Fund revenues after the
-transfer to the General Fund Budget Reserve Account under Section 63J-1-312
-that is unrestricted and undesignated;
+
+(1)  As used in this section, "operating deficit" means that, at the end of the fiscal year, the unreserved and undesignated fund balance in the General Fund is less than zero.
+
+(2) Except as provided under Subsection (3), beginning with the fiscal year ending June 30, 2007, at the end of each fiscal year and after the transfer of surplus General Fund revenues has been made to the General Fund Budget Reserve Account as provided in Section 63J-1-312, the Division of Finance shall deposit an amount into the State Disaster Recovery Restricted Account, created in Section 53-2-403, calculated by:
+
+(a)  determining the amount of surplus General Fund revenues after the transfer to the General Fund Budget Reserve Account under Section 63J-1-312 that is unrestricted and undesignated;
+
 (b)  calculating an amount equal to the lesser of:
+
 (i)  25% of the amount determined under Subsection (2)(a); or
-(ii)  6% of the total of the General Fund appropriation amount for the fiscal
-year in which the surplus occurs; and
-(c)  adding to the amount calculated under Subsection (2)(b) an amount equal
-to the lesser of:
+
+(ii)  6% of the total of the General Fund appropriation amount for the fiscal year in which the surplus occurs; and
+
+(c)  adding to the amount calculated under Subsection (2)(b) an amount equal to the lesser of:
+
 (i)  25% more of the amount described in Subsection (2)(a); or
-(ii)  the amount necessary to replace, in accordance with this Subsection
-(2)(c), any amount appropriated from the State Disaster Recovery Restricted
-Account within 10 fiscal years before the fiscal year in which the surplus
-occurs if:
+
+(ii)  the amount necessary to replace, in accordance with this Subsection (2)(c), any amount appropriated from the State Disaster Recovery Restricted Account within 10 fiscal years before the fiscal year in which the surplus occurs if:
+
 (A)  a surplus exists; and
-(B)  the Legislature appropriates money from the State Disaster Recovery
-Restricted Account that is not replaced by appropriation or as provided in
-this Subsection (2)(c).
+
+(B)  the Legislature appropriates money from the State Disaster Recovery Restricted Account that is not replaced by appropriation or as provided in this Subsection (2)(c).
+
 (3)  Notwithstanding Subsection (2):
-(a)  if, at the end of a fiscal year, the Division of Finance determines that
-an operating deficit exists, the Division of Finance shall reduce the transfer
-to the State Disaster Recovery Restricted Account by the amount necessary to
-eliminate the operating deficit; and
-(b)  for FY 2008-09 and FY 2009-10 only, the Division of Finance shall suspend
-the deposit provided under Subsection (2) to the State Disaster Recovery
-Restricted Account created under Section 53-2-403.
+
+(a)  if, at the end of a fiscal year, the Division of Finance determines that an operating deficit exists, the Division of Finance shall reduce the transfer to the State Disaster Recovery Restricted Account by the amount necessary to eliminate the operating deficit; and
+
+(b)  for FY 2008-09 and FY 2009-10 only, the Division of Finance shall suspend the deposit provided under Subsection (2) to the State Disaster Recovery Restricted Account created under Section 53-2-403.
+

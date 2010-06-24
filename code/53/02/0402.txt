@@ -1,81 +1,112 @@
 53-2-402.   Definitions.
-(1)  Unless otherwise defined in this section, the terms defined in Part 1,
-Homeland Security Act, shall have the same meaning for this part.
+
+(1)  Unless otherwise defined in this section, the terms defined in Part 1, Homeland Security Act, shall have the same meaning for this part.
+
 (2)  As used in this part:
+
 (a)  "Declared disaster" means one or more events:
+
 (i)  within the state;
+
 (ii)  that occur within a limited period of time;
+
 (iii)  that involve:
-(A)  a significant number of persons being at risk of bodily harm, sickness,
-or death; or
+
+(A)  a significant number of persons being at risk of bodily harm, sickness, or death; or
+
 (B)  a significant portion of real property at risk of loss;
-(iv)  that are sudden in nature and generally occur less frequently than every
-three years; and
+
+(iv)  that are sudden in nature and generally occur less frequently than every three years; and
+
 (v)  that results in:
-(A)  the president of the United States declaring an emergency or major
-disaster in the state;
-(B)  the governor declaring a state of emergency under Title 63K, Chapter 4,
-Disaster Response and Recovery Act; or
-(C)  the chief executive officer of a local government declaring a local
-emergency under Title 63K, Chapter 4, Disaster Response and Recovery Act.
-(b)  "Disaster recovery fund" means the State Disaster Recovery Restricted
-Account created in Section 53-2-403.
-(c)  "Emergency preparedness" means the following done for the purpose of
-being prepared for an emergency as defined by the division by rule made in
-accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act:
+
+(A)  the president of the United States declaring an emergency or major disaster in the state;
+
+(B)  the governor declaring a state of emergency under Title 63K, Chapter 4, Disaster Response and Recovery Act; or
+
+(C)  the chief executive officer of a local government declaring a local emergency under Title 63K, Chapter 4, Disaster Response and Recovery Act.
+
+(b)  "Disaster recovery fund" means the State Disaster Recovery Restricted Account created in Section 53-2-403.
+
+(c)  "Emergency preparedness" means the following done for the purpose of being prepared for an emergency as defined by the division by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act:
+
 (i)  the purchase of equipment;
+
 (ii)  the training of personnel; or
+
 (iii)  the obtaining of a certification.
-(d) (i)  "Emergency disaster services" means the following that are of a
-temporary basis:
+
+(d) (i)  "Emergency disaster services" means the following that are of a temporary basis:
+
 (A)  evacuation;
+
 (B)  shelter;
+
 (C)  medical triage;
+
 (D)  emergency transportation;
+
 (E)  repair of infrastructure;
+
 (F)  safety services, including fencing or roadblocks;
+
 (G)  sandbagging;
+
 (H)  emergency debris removal;
+
 (I)  temporary bridges;
+
 (J)  procurement and distribution of food, water, or ice;
+
 (K)  procurement and deployment of generators;
+
 (L)  rescue or recovery; or
-(M)  services similar to those described in Subsections (2)(d)(i)(A) through
-(L), as defined by the division by rule, that are generally required within
-the first 96 hours of a declared disaster.
+
+(M)  services similar to those described in Subsections (2)(d)(i)(A) through (L), as defined by the division by rule, that are generally required within the first 96 hours of a declared disaster.
+
 (ii)  "Emergency disaster services" does not include:
+
 (A)  emergency preparedness; or
-(B)  notwithstanding whether or not a county participates in the Wildland Fire
-Suppression Fund created in Section 65A-8-204, any fire suppression or
-presuppression costs that may be paid for from the Wildland Fire Suppression
-Fund if the county participates in the Wildland Fire Suppression Fund.
+
+(B)  notwithstanding whether or not a county participates in the Wildland Fire Suppression Fund created in Section 65A-8-204, any fire suppression or presuppression costs that may be paid for from the Wildland Fire Suppression Fund if the county participates in the Wildland Fire Suppression Fund.
+
 (e)  "Governing body" means:
-(i)  for a county, city, or town, the legislative body of the county, city, or
-town;
+
+(i)  for a county, city, or town, the legislative body of the county, city, or town;
+
 (ii)  for a local district, the board of trustees of the local district; and
+
 (iii)  for a special service district:
-(A)  the legislative body of the county, city, or town that established the
-special service district, if no administrative control board has been
-appointed under Section 17D-1-301; or
-(B)  the administrative control board of the special service district, if an
-administrative control board has been appointed under Section 17D-1-301.
+
+(A)  the legislative body of the county, city, or town that established the special service district, if no administrative control board has been appointed under Section 17D-1-301; or
+
+(B)  the administrative control board of the special service district, if an administrative control board has been appointed under Section 17D-1-301.
+
 (f)  "Local district" has the same meaning as defined in Section 17B-1-102.
-(g)  "Local fund" means a local government disaster fund created in accordance
-with Section 53-2-405.
+
+(g)  "Local fund" means a local government disaster fund created in accordance with Section 53-2-405.
+
 (h)  "Local government" means:
+
 (i)  a county;
+
 (ii)  a city or town; or
+
 (iii)  a local district or special service district that:
+
 (A)  operates a water system;
+
 (B)  provides transportation service;
-(C)  provides, operates, and maintains correctional and rehabilitative
-facilities and programs for municipal, state, and other detainees and
-prisoners;
+
+(C)  provides, operates, and maintains correctional and rehabilitative facilities and programs for municipal, state, and other detainees and prisoners;
+
 (D)  provides consolidated 911 and emergency dispatch service;
+
 (E)  operates an airport; or
+
 (F)  operates a sewage system.
-(i)  "Special fund" means a fund other than a general fund of a local
-government that is created for a special purpose established under the uniform
-system of budgeting, accounting, and reporting.
-(j)  "Special service district" has the same meaning as defined in Section
-17D-1-102.
+
+(i)  "Special fund" means a fund other than a general fund of a local government that is created for a special purpose established under the uniform system of budgeting, accounting, and reporting.
+
+(j)  "Special service district" has the same meaning as defined in Section 17D-1-102.
+

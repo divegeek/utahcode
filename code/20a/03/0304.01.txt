@@ -1,39 +1,40 @@
-20A-3-304.1.   Election officer to provide voting history information and
-status.
+20A-3-304.1.   Election officer to provide voting history information and status.
+
 (1)  As used in this section:
-(a)  "Qualified absentee ballot application" means an absentee ballot
-application filed under Section 20A-3-304 from a voter who the election
-officer determines is eligible to receive an absentee ballot.
-(b) "Voting history record" means the information about the existence and
-status of absentee ballot requests required by this section.
-(2) (a)  Each election officer shall maintain, in the election officer's
-office, a voting history record of those voters that have cast a vote by:
+
+(a)  "Qualified absentee ballot application" means an absentee ballot application filed under Section 20A-3-304 from a voter who the election officer determines is eligible to receive an absentee ballot.
+
+(b) "Voting history record" means the information about the existence and status of absentee ballot requests required by this section.
+
+(2) (a)  Each election officer shall maintain, in the election officer's office, a voting history record of those voters that have cast a vote by:
+
 (i)  absentee ballot; and
+
 (ii)  early voting.
-(b)  The voting history record is a public record under Title 63G, Chapter 2,
-Government Records Access and Management Act.
-(3)  The election officer shall ensure that the voting history record for each
-voting precinct contains:
+
+(b)  The voting history record is a public record under Title 63G, Chapter 2, Government Records Access and Management Act.
+
+(3)  The election officer shall ensure that the voting history record for each voting precinct contains:
+
 (a)  for absentee voting:
-(i)  the name and address of each person who has filed a qualified absentee
-ballot application;
+
+(i)  the name and address of each person who has filed a qualified absentee ballot application;
+
 (ii)  the date that the application was received; and
-(iii)  the current status of each qualified absentee ballot application
-including specifically:
+
+(iii)  the current status of each qualified absentee ballot application including specifically:
+
 (A)  the date that the absentee ballot was mailed to the voter; and
-(B)  the date that the voted absentee ballot was received by the election
-officer; and
+
+(B)  the date that the voted absentee ballot was received by the election officer; and
+
 (b)  for early voting:
-(i)  the name and address of each person who has voted during the early voting
-period; and
+
+(i)  the name and address of each person who has voted during the early voting period; and
+
 (ii)  the date the person's vote was cast.
-(4) (a)  Notwithstanding the time limits for response to a request for records
-under Section 63G-2-204 or the time limits for a request for records
-established in any ordinance, the election officer shall ensure that the
-information required by this section is recorded and made available to the
-public no later than one business day after its receipt in the election
-officer's office.
-(b)  Notwithstanding the fee requirements of Section 63G-2-203 or the fee
-requirements established in any ordinance, the election officer shall make
-copies of the voting history record available to the public for the actual
-cost of production or copying.
+
+(4) (a)  Notwithstanding the time limits for response to a request for records under Section 63G-2-204 or the time limits for a request for records established in any ordinance, the election officer shall ensure that the information required by this section is recorded and made available to the public no later than one business day after its receipt in the election officer's office.
+
+(b)  Notwithstanding the fee requirements of Section 63G-2-203 or the fee requirements established in any ordinance, the election officer shall make copies of the voting history record available to the public for the actual cost of production or copying.
+

@@ -1,162 +1,128 @@
-34A-6-301.   Inspection and investigation of workplace, worker injury,
-illness, or complaint -- Warrants -- Attendance of witnesses -- Recordkeeping
-by employers -- Employer and employee representatives -- Request for
-inspection -- Compilation and publication of reports and information -- Rules.
-(1) (a)  The division or its representatives, upon presenting appropriate
-credentials to the owner, operator, or agent in charge, may:
-(i)  enter without delay at reasonable times any workplace where work is
-performed by an employee of an employer;
-(ii)  inspect and investigate during regular working hours and at other
-reasonable times in a reasonable manner, any workplace, worker injury,
-occupational disease, or complaint and all pertinent methods, operations,
-processes, conditions, structures, machines, apparatus, devices, equipment,
-and materials in the workplace; and
-(iii)  question privately any such employer, owner, operator, agent, or
-employee.
-(b)  The division, upon an employer's refusal to permit an inspection, may
-seek a warrant pursuant to the Utah Rules of Criminal Procedure.
-(2) (a)  The division or its representatives may require the attendance and
-testimony of witnesses and the production of evidence under oath.
-(b)  Witnesses shall receive fees and mileage in accordance with Section
-78B-1-119.
-(c) (i)  If any person fails or refuses to obey an order of the division to
-appear, any district court within the jurisdiction of which such person is
-found, or resides or transacts business, upon the application by the division,
-shall have jurisdiction to issue to any person an order requiring that person
-to:
+34A-6-301.   Inspection and investigation of workplace, worker injury, illness, or complaint -- Warrants -- Attendance of witnesses -- Recordkeeping by employers -- Employer and employee representatives -- Request for inspection -- Compilation and publication of reports and information -- Rules.
+
+(1) (a)  The division or its representatives, upon presenting appropriate credentials to the owner, operator, or agent in charge, may:
+
+(i)  enter without delay at reasonable times any workplace where work is performed by an employee of an employer;
+
+(ii)  inspect and investigate during regular working hours and at other reasonable times in a reasonable manner, any workplace, worker injury, occupational disease, or complaint and all pertinent methods, operations, processes, conditions, structures, machines, apparatus, devices, equipment, and materials in the workplace; and
+
+(iii)  question privately any such employer, owner, operator, agent, or employee.
+
+(b)  The division, upon an employer's refusal to permit an inspection, may seek a warrant pursuant to the Utah Rules of Criminal Procedure.
+
+(2) (a)  The division or its representatives may require the attendance and testimony of witnesses and the production of evidence under oath.
+
+(b)  Witnesses shall receive fees and mileage in accordance with Section 78B-1-119.
+
+(c) (i)  If any person fails or refuses to obey an order of the division to appear, any district court within the jurisdiction of which such person is found, or resides or transacts business, upon the application by the division, shall have jurisdiction to issue to any person an order requiring that person to:
+
 (A)  appear to produce evidence if, as, and when so ordered; and
+
 (B)  give testimony relating to the matter under investigation or in question.
-(ii)  Any failure to obey an order of the court described in this Subsection
-(2)(c) may be punished by the court as a contempt.
-(3) (a)  The commission shall make rules in accordance with Title 63G, Chapter
-3, Utah Administrative Rulemaking Act, requiring employers:
-(i)  to keep records regarding activities related to this chapter considered
-necessary for enforcement or for the development of information about the
-causes and prevention of occupational accidents and diseases; and
-(ii)  through posting of notices or other means, to inform employees of their
-rights and obligations under this chapter including applicable standards.
-(b)  The commission shall make rules in accordance with Title 63G, Chapter 3,
-Utah Administrative Rulemaking Act, requiring employers to keep records
-regarding any work-related death and injury and any occupational disease as
-provided in this Subsection (3)(b).
-(i)  Each employer shall investigate or cause to be investigated all work-
-related injuries and occupational diseases and any sudden or unusual
-occurrence or change of conditions that pose an unsafe or unhealthful exposure
-to employees.
-(ii)  Each employer shall, within eight hours of occurrence, notify the
-division of any:
+
+(ii)  Any failure to obey an order of the court described in this Subsection (2)(c) may be punished by the court as a contempt.
+
+(3) (a)  The commission shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, requiring employers:
+
+(i)  to keep records regarding activities related to this chapter considered necessary for enforcement or for the development of information about the causes and prevention of occupational accidents and diseases; and
+
+(ii)  through posting of notices or other means, to inform employees of their rights and obligations under this chapter including applicable standards.
+
+(b)  The commission shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, requiring employers to keep records regarding any work-related death and injury and any occupational disease as provided in this Subsection (3)(b).
+
+(i)  Each employer shall investigate or cause to be investigated all work-related injuries and occupational diseases and any sudden or unusual occurrence or change of conditions that pose an unsafe or unhealthful exposure to employees.
+
+(ii)  Each employer shall, within eight hours of occurrence, notify the division of any:
+
 (A)  work-related fatality;
+
 (B)  disabling, serious, or significant injury; or
+
 (C)  occupational disease incident.
-(iii) (A)  Each employer shall file a report with the Division of Industrial
-Accidents within seven days after the occurrence of an injury or occupational
-disease, after the employer's first knowledge of the occurrence, or after the
-employee's notification of the same, in the form prescribed by the Division of
-Industrial Accidents, of any work-related fatality or any work-related injury
-or occupational disease resulting in:
+
+(iii) (A)  Each employer shall file a report with the Division of Industrial Accidents within seven days after the occurrence of an injury or occupational disease, after the employer's first knowledge of the occurrence, or after the employee's notification of the same, in the form prescribed by the Division of Industrial Accidents, of any work-related fatality or any work-related injury or occupational disease resulting in:
+
 (I)  medical treatment;
+
 (II)  loss of consciousness;
+
 (III)  loss of work;
+
 (IV)  restriction of work; or
+
 (V)  transfer to another job.
-(B) (I)  Each employer shall file a subsequent report with the Division of
-Industrial Accidents of any previously reported injury or occupational disease
-that later resulted in death.
-(II)  The subsequent report shall be filed with the Division of Industrial
-Accidents within seven days following the death or the employer's first
-knowledge or notification of the death.
-(iv)  A report is not required for minor injuries, such as cuts or scratches
-that require first-aid treatment only, unless a treating physician files, or
-is required to file, the Physician's Initial Report of Work Injury or
-Occupational Disease with the Division of Industrial Accidents.
+
+(B) (I)  Each employer shall file a subsequent report with the Division of Industrial Accidents of any previously reported injury or occupational disease that later resulted in death.
+
+(II)  The subsequent report shall be filed with the Division of Industrial Accidents within seven days following the death or the employer's first knowledge or notification of the death.
+
+(iv)  A report is not required for minor injuries, such as cuts or scratches that require first-aid treatment only, unless a treating physician files, or is required to file, the Physician's Initial Report of Work Injury or Occupational Disease with the Division of Industrial Accidents.
+
 (v)  A report is not required:
-(A)  for occupational diseases that manifest after the employee is no longer
-employed by the employer with which the exposure occurred; or
-(B)  where the employer is not aware of an exposure occasioned by the
-employment which results in a compensable occupational disease as defined by
-Section 34A-3-103.
+
+(A)  for occupational diseases that manifest after the employee is no longer employed by the employer with which the exposure occurred; or
+
+(B)  where the employer is not aware of an exposure occasioned by the employment which results in a compensable occupational disease as defined by Section 34A-3-103.
+
 (vi)  Each employer shall provide the employee with:
-(A)  a copy of the report submitted to the Division of Industrial Accidents;
-and
-(B)  a statement, as prepared by the Division of Industrial Accidents, of the
-employee's rights and responsibilities related to the industrial injury or
-occupational disease.
-(vii)  Each employer shall maintain a record in a manner prescribed by the
-commission of all work-related fatalities or work-related injuries and of all
-occupational diseases resulting in:
+
+(A)  a copy of the report submitted to the Division of Industrial Accidents; and
+
+(B)  a statement, as prepared by the Division of Industrial Accidents, of the employee's rights and responsibilities related to the industrial injury or occupational disease.
+
+(vii)  Each employer shall maintain a record in a manner prescribed by the commission of all work-related fatalities or work-related injuries and of all occupational diseases resulting in:
+
 (A)  medical treatment;
+
 (B)  loss of consciousness;
+
 (C)  loss of work;
+
 (D)  restriction of work; or
+
 (E)  transfer to another job.
-(viii)  The commission shall make rules in accordance with Title 63G, Chapter
-3, Utah Administrative Rulemaking Act, to implement this Subsection (3)(b)
-consistent with nationally recognized rules or standards on the reporting and
-recording of work-related injuries and occupational diseases.
-(c) (i)  The commission shall make rules in accordance with Title 63G, Chapter
-3, Utah Administrative Rulemaking Act, requiring employers to keep records
-regarding exposures to potentially toxic materials or harmful physical agents
-required to be measured or monitored under Section 34A-6-202.
-(ii) (A)  The rules made under Subsection (3)(c)(i) shall provide for
-employees or their representatives:
+
+(viii)  The commission shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to implement this Subsection (3)(b) consistent with nationally recognized rules or standards on the reporting and recording of work-related injuries and occupational diseases.
+
+(c) (i)  The commission shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, requiring employers to keep records regarding exposures to potentially toxic materials or harmful physical agents required to be measured or monitored under Section 34A-6-202.
+
+(ii) (A)  The rules made under Subsection (3)(c)(i) shall provide for employees or their representatives:
+
 (I)  to observe the measuring or monitoring; and
-(II)  to have access to the records of the measuring or monitoring, and to
-records that indicate their exposure to toxic materials or harmful agents.
-(B)  Each employer shall promptly notify employees being exposed to toxic
-materials or harmful agents in concentrations that exceed prescribed levels
-and inform any such employee of the corrective action being taken.
-(4)  Information obtained by the division shall be obtained with a minimum
-burden upon employers, especially those operating small businesses.
-(5)  A representative of the employer and a representative authorized by
-employees shall be given an opportunity to accompany the division's authorized
-representative during the physical inspection of any workplace.  If there is
-no authorized employee representative, the division's authorized
-representative shall consult with a reasonable number of employees concerning
-matters of health and safety in the workplace.
-(6) (a) (i) (A)  Any employee or representative of employees who believes that
-a violation of an adopted safety or health standard exists that threatens
-physical harm, or that an imminent danger exists, may request an inspection by
-giving notice to the division's authorized representative of the violation or
-danger.  The notice shall be:
-(I)  in writing, setting forth with reasonable particularity the grounds for
-notice; and
+
+(II)  to have access to the records of the measuring or monitoring, and to records that indicate their exposure to toxic materials or harmful agents.
+
+(B)  Each employer shall promptly notify employees being exposed to toxic materials or harmful agents in concentrations that exceed prescribed levels and inform any such employee of the corrective action being taken.
+
+(4)  Information obtained by the division shall be obtained with a minimum burden upon employers, especially those operating small businesses.
+
+(5)  A representative of the employer and a representative authorized by employees shall be given an opportunity to accompany the division's authorized representative during the physical inspection of any workplace.  If there is no authorized employee representative, the division's authorized representative shall consult with a reasonable number of employees concerning matters of health and safety in the workplace.
+
+(6) (a) (i) (A)  Any employee or representative of employees who believes that a violation of an adopted safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the division's authorized representative of the violation or danger.  The notice shall be:
+
+(I)  in writing, setting forth with reasonable particularity the grounds for notice; and
+
 (II)  signed by the employee or representative of employees.
-(B)  A copy of the notice shall be provided the employer or the employer's
-agent no later than at the time of inspection.
-(C)  Upon request of the person giving notice, the person's name and the names
-of individual employees referred to in the notice shall not appear in the copy
-or on any record published, released, or made available pursuant to Subsection
-(7).
-(ii) (A)  If upon receipt of the notice the division's authorized
-representative determines there are reasonable grounds to believe that a
-violation or danger exists, the authorized representative shall make a special
-inspection in accordance with this section as soon as practicable to determine
-if a violation or danger exists.
-(B)  If the division's authorized representative determines there are no
-reasonable grounds to believe that a violation or danger exists, the
-authorized representative shall notify the employee or representative of the
-employees in writing of that determination.
-(b) (i)  Prior to or during any inspection of a workplace, any employee or
-representative of employees employed in the workplace may notify the division
-or its representative of any violation of a standard that they have reason to
-believe exists in the workplace.
+
+(B)  A copy of the notice shall be provided the employer or the employer's agent no later than at the time of inspection.
+
+(C)  Upon request of the person giving notice, the person's name and the names of individual employees referred to in the notice shall not appear in the copy or on any record published, released, or made available pursuant to Subsection (7).
+
+(ii) (A)  If upon receipt of the notice the division's authorized representative determines there are reasonable grounds to believe that a violation or danger exists, the authorized representative shall make a special inspection in accordance with this section as soon as practicable to determine if a violation or danger exists.
+
+(B)  If the division's authorized representative determines there are no reasonable grounds to believe that a violation or danger exists, the authorized representative shall notify the employee or representative of the employees in writing of that determination.
+
+(b) (i)  Prior to or during any inspection of a workplace, any employee or representative of employees employed in the workplace may notify the division or its representative of any violation of a standard that they have reason to believe exists in the workplace.
+
 (ii)  The division shall:
-(A)  by rule, establish procedures for informal review of any refusal by a
-representative of the division to issue a citation with respect to any alleged
-violation; and
-(B)  furnish the employees or representative of employees requesting review a
-written statement of the reasons for the division's final disposition of the
-case.
-(7) (a)  The division may compile, analyze, and publish, either in summary or
-detailed form, all reports or information obtained under this section, subject
-to the limitations set forth in Section 34A-6-306.
-(b)  The commission shall make rules in accordance with Title 63G, Chapter 3,
-Utah Administrative Rulemaking Act, necessary to carry out its
-responsibilities under this chapter, including rules for information obtained
-under this section, subject to the limitations set forth in Section 34A-6-306.
-(8)  Any employer who refuses or neglects to make reports, to maintain
-records, or to file reports with the commission as required by this section is
-guilty of a class C misdemeanor and subject to citation under Section
-34A-6-302 and a civil assessment as provided under Section 34A-6-307, unless
-the commission finds that the employer has shown good cause for submitting a
-report later than required by this section.
+
+(A)  by rule, establish procedures for informal review of any refusal by a representative of the division to issue a citation with respect to any alleged violation; and
+
+(B)  furnish the employees or representative of employees requesting review a written statement of the reasons for the division's final disposition of the case.
+
+(7) (a)  The division may compile, analyze, and publish, either in summary or detailed form, all reports or information obtained under this section, subject to the limitations set forth in Section 34A-6-306.
+
+(b)  The commission shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, necessary to carry out its responsibilities under this chapter, including rules for information obtained under this section, subject to the limitations set forth in Section 34A-6-306.
+
+(8)  Any employer who refuses or neglects to make reports, to maintain records, or to file reports with the commission as required by this section is guilty of a class C misdemeanor and subject to citation under Section 34A-6-302 and a civil assessment as provided under Section 34A-6-307, unless the commission finds that the employer has shown good cause for submitting a report later than required by this section.
+

@@ -1,23 +1,20 @@
 31A-30-111.   Limitations on high risk enrollees.
-(1) (a)  The requirements of this chapter do not apply to any carrier that is
-currently in a state of supervision, insolvency, or liquidation.
-(b)  If a carrier demonstrates to the satisfaction of the commissioner that
-the requirements of this chapter would place the carrier in a state of
-supervision, insolvency, or liquidation the commissioner may waive or modify
-the requirements of Sections 31A-30-108  and 31A-30-110.
-(2) (a)  A modification or waiver by the commissioner under Subsection (1)(b)
-shall be effective for a period of not more than one year.
-(b)  At the end of the period described in Subsection (2)(a), a carrier is
-subject to Sections 31A-30-108 and 31A-30-110 unless the carrier demonstrates
-to the satisfaction of the commissioner the need for a modification or waiver
-in accordance with Subsection (1)(b).
-(3)  Notwithstanding the requirements of this chapter, a carrier may deny
-health benefit plan coverage in the small employer and individual market if
-the carrier demonstrates to the satisfaction of the commissioner that the
-carrier:
-(a)  does not have the financial reserves necessary to underwrite additional
-coverage;
-(b)  is applying this section uniformly to all small employers and individuals
-without regard to:
+
+(1) (a)  The requirements of this chapter do not apply to any carrier that is currently in a state of supervision, insolvency, or liquidation.
+
+(b)  If a carrier demonstrates to the satisfaction of the commissioner that the requirements of this chapter would place the carrier in a state of supervision, insolvency, or liquidation the commissioner may waive or modify the requirements of Sections 31A-30-108  and 31A-30-110.
+
+(2) (a)  A modification or waiver by the commissioner under Subsection (1)(b) shall be effective for a period of not more than one year.
+
+(b)  At the end of the period described in Subsection (2)(a), a carrier is subject to Sections 31A-30-108 and 31A-30-110 unless the carrier demonstrates to the satisfaction of the commissioner the need for a modification or waiver in accordance with Subsection (1)(b).
+
+(3)  Notwithstanding the requirements of this chapter, a carrier may deny health benefit plan coverage in the small employer and individual market if the carrier demonstrates to the satisfaction of the commissioner that the carrier:
+
+(a)  does not have the financial reserves necessary to underwrite additional coverage;
+
+(b)  is applying this section uniformly to all small employers and individuals without regard to:
+
 (i)  any health status-related factor of the individuals; or
+
 (ii)  whether the individuals are eligible individuals.
+

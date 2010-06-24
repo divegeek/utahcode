@@ -1,128 +1,136 @@
-59-12-123.   Definitions -- Collection, remittance, and payment of a tax on
-direct mail.
+59-12-123.   Definitions -- Collection, remittance, and payment of a tax on direct mail.
+
 (1)  As used in this section:
+
 (a)  "Advertising and promotional direct mail" means printed material:
+
 (i)  that meets the definition of direct mail under Section 59-12-102; and
+
 (ii)  if the primary purpose of the printed material is to:
-(A)  attract public attention to a business, organization, person, or product;
-or
-(B)  attempt to popularize, secure, or sell financial support for a business,
-organization, person, or product.
+
+(A)  attract public attention to a business, organization, person, or product; or
+
+(B)  attempt to popularize, secure, or sell financial support for a business, organization, person, or product.
+
 (b)  For purposes of Subsection (1)(a), "product" means:
+
 (i)  tangible personal property;
+
 (ii)  a product transferred electronically; or
+
 (iii)  a service.
-(2)  Notwithstanding Section 59-12-107 and except as provided in Subsection
-(7), a purchaser of advertising and promotional direct mail may provide to a
-seller at the time of a transaction:
+
+(2)  Notwithstanding Section 59-12-107 and except as provided in Subsection (7), a purchaser of advertising and promotional direct mail may provide to a seller at the time of a transaction:
+
 (a)  a form:
+
 (i)  prescribed by the commission; and
+
 (ii)  indicating that the transaction is a direct mail transaction;
-(b)  an agreement certificate of exemption indicating that the transaction is
-a direct mail transaction;
+
+(b)  an agreement certificate of exemption indicating that the transaction is a direct mail transaction;
+
 (c)  a direct payment permit under Section 59-12-107.1; or
-(d)  information that indicates the locations of the recipients to which the
-advertising and promotional direct mail is delivered.
-(3)  If a seller receives a form, certificate, or permit described in
-Subsection (2)(a), (b), or (c) from a purchaser:
+
+(d)  information that indicates the locations of the recipients to which the advertising and promotional direct mail is delivered.
+
+(3)  If a seller receives a form, certificate, or permit described in Subsection (2)(a), (b), or (c) from a purchaser:
+
 (a)  if the seller acts in the absence of bad faith, the seller:
-(i)  is not liable to collect or remit agreement sales and use tax for that
-transaction; and
-(ii)  shall keep a record of the form, certificate, or permit described in
-Subsection (2)(a), (b), or (c) for three years after the date the seller files
-a return with the commission reporting that transaction; and
-(b)  the purchaser that provides the form, certificate, or permit described in
-Subsection (2)(a), (b), or (c) shall:
-(i)  determine the amount of agreement sales and use tax due on the
-transaction in the location where the advertising and promotional direct mail
-is delivered; and
-(ii)  report and remit to the commission the amount described in Subsection
-(3)(b)(i) in accordance with Section 59-12-107.
-(4) A form or certificate described in Subsection (2)(a) or (b) is in effect
-for all transactions between the seller described in Subsection (3) and the
-purchaser described in Subsection (3):
-(a)  beginning on the date the seller receives the form or certificate in
-accordance with Subsection (2)(a) or (b); and
-(b)  ending on the date the purchaser revokes the form or certificate in
-writing.
-(5) (a)  If a seller receives the information described in Subsection (2)(d)
-from a purchaser that indicates the locations of the recipients to which the
-advertising and promotional direct mail is delivered, the seller shall collect
-and remit agreement sales and use tax to the commission in accordance with the
-information the purchaser provides.
-(b)  If a seller collects and remits agreement sales and use tax to the
-commission in accordance with Subsection (5)(a), the seller is not liable for
-any further obligation to collect or remit agreement sales and use tax to the
-commission on the transaction unless the seller acts in bad faith.
-(6)  If a purchaser of advertising and promotional direct mail described in
-Subsection (2) does not provide the seller with the form, certificate, permit,
-or information described in Subsection (2) at the time of the transaction, the
-seller shall:
-(a)  determine the amount of agreement sales and use tax due on the
-transaction in accordance with Subsection 59-12-211(6); and
-(b)  collect and remit to the commission the amount described in Subsection
-(6)(a) in accordance with Section 59-12-107.
-(7) (a)  Except as provided in Subsection (7)(b), this Subsection (7) applies
-to direct mail if the direct mail is delivered or distributed:
+
+(i)  is not liable to collect or remit agreement sales and use tax for that transaction; and
+
+(ii)  shall keep a record of the form, certificate, or permit described in Subsection (2)(a), (b), or (c) for three years after the date the seller files a return with the commission reporting that transaction; and
+
+(b)  the purchaser that provides the form, certificate, or permit described in Subsection (2)(a), (b), or (c) shall:
+
+(i)  determine the amount of agreement sales and use tax due on the transaction in the location where the advertising and promotional direct mail is delivered; and
+
+(ii)  report and remit to the commission the amount described in Subsection (3)(b)(i) in accordance with Section 59-12-107.
+
+(4) A form or certificate described in Subsection (2)(a) or (b) is in effect for all transactions between the seller described in Subsection (3) and the purchaser described in Subsection (3):
+
+(a)  beginning on the date the seller receives the form or certificate in accordance with Subsection (2)(a) or (b); and
+
+(b)  ending on the date the purchaser revokes the form or certificate in writing.
+
+(5) (a)  If a seller receives the information described in Subsection (2)(d) from a purchaser that indicates the locations of the recipients to which the advertising and promotional direct mail is delivered, the seller shall collect and remit agreement sales and use tax to the commission in accordance with the information the purchaser provides.
+
+(b)  If a seller collects and remits agreement sales and use tax to the commission in accordance with Subsection (5)(a), the seller is not liable for any further obligation to collect or remit agreement sales and use tax to the commission on the transaction unless the seller acts in bad faith.
+
+(6)  If a purchaser of advertising and promotional direct mail described in Subsection (2) does not provide the seller with the form, certificate, permit, or information described in Subsection (2) at the time of the transaction, the seller shall:
+
+(a)  determine the amount of agreement sales and use tax due on the transaction in accordance with Subsection 59-12-211(6); and
+
+(b)  collect and remit to the commission the amount described in Subsection (6)(a) in accordance with Section 59-12-107.
+
+(7) (a)  Except as provided in Subsection (7)(b), this Subsection (7) applies to direct mail if the direct mail is delivered or distributed:
+
 (i)  from a location within the state; and
+
 (ii)  to a location within the state.
+
 (b)  A purchaser of direct mail may provide a seller with:
+
 (i)  a form:
+
 (A)  prescribed by the commission; and
+
 (B)  indicating that the transaction is a direct mail transaction;
-(ii)  an agreement certificate of exemption indicating that the transaction is
-a direct mail transaction; or
+
+(ii)  an agreement certificate of exemption indicating that the transaction is a direct mail transaction; or
+
 (iii)  a direct payment permit under Section 59-12-107.1.
-(c)  If a seller receives a form, certificate, or permit described in
-Subsection (7)(b) from a purchaser:
+
+(c)  If a seller receives a form, certificate, or permit described in Subsection (7)(b) from a purchaser:
+
 (i)  if the seller acts in the absence of bad faith, the seller:
-(A)  is not liable to collect or remit agreement sales and use tax for that
-transaction; and
-(B)  shall keep a record of the form, certificate, or permit described in
-Subsection (7)(b) for three years after the date the seller files a return
-with the commission reporting the transaction; and
-(ii)  the purchaser that provides the form, certificate, or permit described
-in Subsection (7)(b) shall:
-(A)  determine the amount of agreement sales and use tax due on the
-transaction in accordance with Section 59-12-211.1; and
-(B)  report and remit to the commission the amount described in Subsection
-(7)(c)(ii)(A) in accordance with Section 59-12-107.
-(d)  Except as provided in Subsection (7)(f), if a purchaser of direct mail
-described in Subsection (7)(b) does not provide the seller with the form,
-certificate, or permit described in Subsection (7)(b) at the time of the
-transaction, the seller shall:
-(i)  determine the amount of agreement sales and use tax due on the
-transaction in accordance with Subsection 59-12-211(6);
-(ii)  collect and remit to the commission the amount described in Subsection
-(7)(d)(i) in accordance with Section 59-12-107; and
+
+(A)  is not liable to collect or remit agreement sales and use tax for that transaction; and
+
+(B)  shall keep a record of the form, certificate, or permit described in Subsection (7)(b) for three years after the date the seller files a return with the commission reporting the transaction; and
+
+(ii)  the purchaser that provides the form, certificate, or permit described in Subsection (7)(b) shall:
+
+(A)  determine the amount of agreement sales and use tax due on the transaction in accordance with Section 59-12-211.1; and
+
+(B)  report and remit to the commission the amount described in Subsection (7)(c)(ii)(A) in accordance with Section 59-12-107.
+
+(d)  Except as provided in Subsection (7)(f), if a purchaser of direct mail described in Subsection (7)(b) does not provide the seller with the form, certificate, or permit described in Subsection (7)(b) at the time of the transaction, the seller shall:
+
+(i)  determine the amount of agreement sales and use tax due on the transaction in accordance with Subsection 59-12-211(6);
+
+(ii)  collect and remit to the commission the amount described in Subsection (7)(d)(i) in accordance with Section 59-12-107; and
+
 (iii)  is not liable for any additional sales and use tax under this chapter.
-(e)  If a seller knows that direct mail will be delivered or distributed to a
-location in another state, the seller shall:
-(i)  determine the amount of agreement sales and use tax due on the
-transaction in accordance with Subsection (5); and
-(ii)  collect and remit to the commission the amount described in Subsection
-(7)(e)(i) in accordance with Section 59-12-107.
+
+(e)  If a seller knows that direct mail will be delivered or distributed to a location in another state, the seller shall:
+
+(i)  determine the amount of agreement sales and use tax due on the transaction in accordance with Subsection (5); and
+
+(ii)  collect and remit to the commission the amount described in Subsection (7)(e)(i) in accordance with Section 59-12-107.
+
 (f)  A seller may:
-(i)  elect to determine the amount of agreement sales and use tax due on the
-sale of advertising and promotional direct mail in accordance with Subsection
-(5) or (6); and
-(ii)  collect and remit to the commission the amount described in Subsection
-(7)(f)(i) in accordance with Section 59-12-107.
-(8)  A form, certificate, or permit described in Subsection (7)(b) is in
-effect for all transactions between a seller and a purchaser:
-(a)  beginning on the date the seller receives the form, certificate, or
-permit in accordance with Subsection (7)(b); and
-(b)  ending on the date the purchaser revokes the form, certificate, or permit
-in writing.
+
+(i)  elect to determine the amount of agreement sales and use tax due on the sale of advertising and promotional direct mail in accordance with Subsection (5) or (6); and
+
+(ii)  collect and remit to the commission the amount described in Subsection (7)(f)(i) in accordance with Section 59-12-107.
+
+(8)  A form, certificate, or permit described in Subsection (7)(b) is in effect for all transactions between a seller and a purchaser:
+
+(a)  beginning on the date the seller receives the form, certificate, or permit in accordance with Subsection (7)(b); and
+
+(b)  ending on the date the purchaser revokes the form, certificate, or permit in writing.
+
 (9)  This section applies to:
-(a)  a transaction that is a sale of a service only if the service is an
-integral part of the production and distribution of direct mail; or
-(b)  a bundled transaction that includes advertising and promotional direct
-mail only if the primary purpose of the transaction is the sale of tangible
-personal property, a product transferred electronically, or a service that is
-advertising and promotional direct mail.
+
+(a)  a transaction that is a sale of a service only if the service is an integral part of the production and distribution of direct mail; or
+
+(b)  a bundled transaction that includes advertising and promotional direct mail only if the primary purpose of the transaction is the sale of tangible personal property, a product transferred electronically, or a service that is advertising and promotional direct mail.
+
 (10)  This section does not apply to a transaction that includes:
+
 (a)  the development of billing information; or
-(b)  the provision of any data processing service that is more than incidental
-regardless of whether advertising and promotional direct mail is included in
-the same mailing.
+
+(b)  the provision of any data processing service that is more than incidental regardless of whether advertising and promotional direct mail is included in the same mailing.
+

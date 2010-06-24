@@ -1,47 +1,30 @@
 31A-17-605.   Authorized control level event.
+
 (1)  "Authorized control level event" means any of the following events:
-(a)  the filing of an RBC report by the insurer or health organization that
-indicates that the insurer's or health organization's total adjusted capital
-is greater than or equal to its mandatory control level RBC but less than its
-authorized control level RBC;
-(b)  the notification by the commissioner to the insurer or health
-organization of an adjusted RBC report that indicates the event in Subsection
-(1)(a), provided the insurer or health organization does not challenge the
-adjusted RBC report under Section 31A-17-607;
-(c)  if, pursuant to Section 31A-17-607, the insurer or health organization
-challenges an adjusted RBC report that indicates the event in Subsection
-(1)(a), notification by the commissioner to the insurer or health organization
-that after a hearing the commissioner rejects the insurer's or health
-organization's challenge;
-(d)  the failure of the insurer or health organization to respond, in a manner
-satisfactory to the commissioner, to a corrective order, provided the insurer
-or health organization has not challenged the corrective order under Section
-31A-17-607; or
-(e)  if the insurer or health organization has challenged a corrective order
-under Section 31A-17-607 and the commissioner after a hearing rejects the
-challenge or modifies the corrective order, the failure of the insurer or
-health organization to respond, in a manner satisfactory to the commissioner,
-to the corrective order subsequent to rejection or modification by the
-commissioner.
-(2) (a)  In the event of an authorized control level event with respect to an
-insurer or health organization, the commissioner shall:
-(i)  take any action required under Section 31A-17-604 regarding an insurer or
-health organization with respect to which a regulatory action level event has
-occurred; or
-(ii)  take any action as is necessary to cause the insurer or health
-organization to be placed under regulatory control under Chapter 27, Part 5,
-Administrative Actions, if the commissioner considers it to be in the best
-interests of:
+
+(a)  the filing of an RBC report by the insurer or health organization that indicates that the insurer's or health organization's total adjusted capital is greater than or equal to its mandatory control level RBC but less than its authorized control level RBC;
+
+(b)  the notification by the commissioner to the insurer or health organization of an adjusted RBC report that indicates the event in Subsection (1)(a), provided the insurer or health organization does not challenge the adjusted RBC report under Section 31A-17-607;
+
+(c)  if, pursuant to Section 31A-17-607, the insurer or health organization challenges an adjusted RBC report that indicates the event in Subsection (1)(a), notification by the commissioner to the insurer or health organization that after a hearing the commissioner rejects the insurer's or health organization's challenge;
+
+(d)  the failure of the insurer or health organization to respond, in a manner satisfactory to the commissioner, to a corrective order, provided the insurer or health organization has not challenged the corrective order under Section 31A-17-607; or
+
+(e)  if the insurer or health organization has challenged a corrective order under Section 31A-17-607 and the commissioner after a hearing rejects the challenge or modifies the corrective order, the failure of the insurer or health organization to respond, in a manner satisfactory to the commissioner, to the corrective order subsequent to rejection or modification by the commissioner.
+
+(2) (a)  In the event of an authorized control level event with respect to an insurer or health organization, the commissioner shall:
+
+(i)  take any action required under Section 31A-17-604 regarding an insurer or health organization with respect to which a regulatory action level event has occurred; or
+
+(ii)  take any action as is necessary to cause the insurer or health organization to be placed under regulatory control under Chapter 27, Part 5, Administrative Actions, if the commissioner considers it to be in the best interests of:
+
 (A)  the policyholders or members;
+
 (B)  creditors of the insurer or health organization; and
+
 (C)  the public.
-(b) If the commissioner takes an action described in Subsection (2)(a), the
-authorized control level event is sufficient grounds for the commissioner to
-take action under Chapter 27, Part 5, Administrative Actions, and the
-commissioner shall have the rights, powers, and duties with respect to the
-insurer or health organization set forth in Chapter 27, Part 5, Administrative
-Actions.
-(c)  If the commissioner takes an action under Subsection (2)(a) pursuant to
-an adjusted RBC report, the insurer or health organization is entitled to the
-protections afforded to an insurer or health organization under Section
-31A-27-504 pertaining to an action by the commissioner.
+
+(b) If the commissioner takes an action described in Subsection (2)(a), the authorized control level event is sufficient grounds for the commissioner to take action under Chapter 27, Part 5, Administrative Actions, and the commissioner shall have the rights, powers, and duties with respect to the insurer or health organization set forth in Chapter 27, Part 5, Administrative Actions.
+
+(c)  If the commissioner takes an action under Subsection (2)(a) pursuant to an adjusted RBC report, the insurer or health organization is entitled to the protections afforded to an insurer or health organization under Section 31A-27-504 pertaining to an action by the commissioner.
+

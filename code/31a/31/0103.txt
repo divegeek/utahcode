@@ -1,57 +1,54 @@
 31A-31-103.   Fraudulent insurance act.
-(1)  A person commits a fraudulent insurance act if that person with intent to
-deceive or defraud:
-(a)  knowingly presents or causes to be presented to an insurer any oral or
-written statement or representation knowing that the statement or
-representation contains false, incomplete, or misleading information
-concerning any fact material to an application for the issuance or renewal of
-an insurance policy, certificate, or contract;
-(b)  knowingly presents or causes to be presented to an insurer any oral or
-written statement or representation:
-(i) (A)  as part of, or in support of, a claim for payment or other benefit
-pursuant to an insurance policy, certificate, or contract; or
-(B)  in connection with any civil claim asserted for recovery of damages for
-personal or bodily injuries or property damage; and
-(ii)  knowing that the statement or representation contains false, incomplete,
-or misleading information concerning any fact or thing material to the claim;
-(c)  knowingly accepts a benefit from the proceeds derived from a fraudulent
-insurance act;
-(d)  assists, abets, solicits, or conspires with another to commit a
-fraudulent insurance act;
-(e)  knowingly supplies false or fraudulent material information in any
-document or statement required by the department;
-(f)  knowingly fails to forward a premium to an insurer in violation of
-Section 31A-23a-411.1; or
-(g)  knowingly employs, uses, or acts as a runner for the purpose of
-committing a fraudulent insurance act.
-(2)  A service provider commits a fraudulent insurance act if that service
-provider with intent to deceive or defraud:
-(a)  knowingly submits or causes to be submitted a bill or request for
-payment:
-(i)  containing charges or costs for an item or service that are substantially
-in excess of customary charges or costs for the item or service; or
-(ii)  containing itemized or delineated fees for what would customarily be
-considered a single procedure or service;
-(b)  knowingly furnishes or causes to be furnished an item or service to a
-person:
+
+(1)  A person commits a fraudulent insurance act if that person with intent to deceive or defraud:
+
+(a)  knowingly presents or causes to be presented to an insurer any oral or written statement or representation knowing that the statement or representation contains false, incomplete, or misleading information concerning any fact material to an application for the issuance or renewal of an insurance policy, certificate, or contract;
+
+(b)  knowingly presents or causes to be presented to an insurer any oral or written statement or representation:
+
+(i) (A)  as part of, or in support of, a claim for payment or other benefit pursuant to an insurance policy, certificate, or contract; or
+
+(B)  in connection with any civil claim asserted for recovery of damages for personal or bodily injuries or property damage; and
+
+(ii)  knowing that the statement or representation contains false, incomplete, or misleading information concerning any fact or thing material to the claim;
+
+(c)  knowingly accepts a benefit from the proceeds derived from a fraudulent insurance act;
+
+(d)  assists, abets, solicits, or conspires with another to commit a fraudulent insurance act; 
+
+(e)  knowingly supplies false or fraudulent material information in any document or statement required by the department;
+
+(f)  knowingly fails to forward a premium to an insurer in violation of Section 31A-23a-411.1; or
+
+(g)  knowingly employs, uses, or acts as a runner for the purpose of committing a fraudulent insurance act.
+
+(2)  A service provider commits a fraudulent insurance act if that service provider with intent to deceive or defraud:
+
+(a)  knowingly submits or causes to be submitted a bill or request for payment:
+
+(i)  containing charges or costs for an item or service that are substantially in excess of customary charges or costs for the item or service; or
+
+(ii)  containing itemized or delineated fees for what would customarily be considered a single procedure or service;
+
+(b)  knowingly furnishes or causes to be furnished an item or service to a person:
+
 (i)  substantially in excess of the needs of the person; or
+
 (ii)  of a quality that fails to meet professionally recognized standards;
-(c)  knowingly accepts a benefit from the proceeds derived from a fraudulent
-insurance act; or
-(d)  assists, abets, solicits, or conspires with another to commit a
-fraudulent insurance act.
-(3)  An insurer commits a fraudulent insurance act if that insurer with intent
-to deceive or defraud:
-(a)  knowingly withholds information or provides false or misleading
-information with respect to an application, coverage, benefits, or claims
-under a policy or certificate;
-(b)  assists, abets, solicits, or conspires with another to commit a
-fraudulent insurance act;
-(c)  knowingly accepts a benefit from the proceeds derived from a fraudulent
-insurance act; or
-(d)  knowingly supplies false or fraudulent material information in any
-document or statement required by the department.
-(4)  An insurer or service provider is not liable for any fraudulent insurance
-act committed by an employee without the authority of the insurer or service
-provider unless the insurer or service provider knew or should have known of
-the fraudulent insurance act.
+
+(c)  knowingly accepts a benefit from the proceeds derived from a fraudulent insurance act; or
+
+(d)  assists, abets, solicits, or conspires with another to commit a fraudulent insurance act.
+
+(3)  An insurer commits a fraudulent insurance act if that insurer with intent to deceive or defraud:
+
+(a)  knowingly withholds information or provides false or misleading information with respect to an application, coverage, benefits, or claims under a policy or certificate;
+
+(b)  assists, abets, solicits, or conspires with another to commit a fraudulent insurance act;
+
+(c)  knowingly accepts a benefit from the proceeds derived from a fraudulent insurance act; or
+
+(d)  knowingly supplies false or fraudulent material information in any document or statement required by the department.
+
+(4)  An insurer or service provider is not liable for any fraudulent insurance act committed by an employee without the authority of the insurer or service provider unless the insurer or service provider knew or should have known of the fraudulent insurance act.
+

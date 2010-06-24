@@ -1,22 +1,20 @@
 13-25a-109.   No-call database.
-(1) (a)  In accordance with Subsection (1)(b), the division shall establish
-and provide for the operation of a no-call database to compile a list of
-telephone numbers of persons who have provided notice of the person's
-objection to receiving an unsolicited telephone call.
-(b)  The no-call database described in Subsection (1)(a) shall consist of the
-Utah telephone numbers contained in the national "do-not-call" registry
-established and maintained by the Federal Trade Commission pursuant to 16
-C.F.R. 310.4(b)(1)(iii)(B).
-(2)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the division may adopt rules to:
+
+(1) (a)  In accordance with Subsection (1)(b), the division shall establish and provide for the operation of a no-call database to compile a list of telephone numbers of persons who have provided notice of the person's objection to receiving an unsolicited telephone call.
+
+(b)  The no-call database described in Subsection (1)(a) shall consist of the Utah telephone numbers contained in the national "do-not-call" registry established and maintained by the Federal Trade Commission pursuant to 16 C.F.R. 310.4(b)(1)(iii)(B).
+
+(2)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may adopt rules to:
+
 (a)  define the improper use of the no-call database;
-(b)  define administrative fines for the improper use of the no-call database,
-which may not be greater than those imposed for a violation of the national
-"do-not-call" registry described in Subsection (1)(b); and
-(c)  define administrative fines against a person that registers another
-person to the no-call database without that person's consent.
-(3)  Information contained in the no-call database maintained under this
-section shall be classified as private under Title 63G, Chapter 2, Government
-Records Access and Management Act, and shall be used only for purposes of:
+
+(b)  define administrative fines for the improper use of the no-call database, which may not be greater than those imposed for a violation of the national "do-not-call" registry described in Subsection (1)(b); and
+
+(c)  define administrative fines against a person that registers another person to the no-call database without that person's consent.
+
+(3)  Information contained in the no-call database maintained under this section shall be classified as private under Title 63G, Chapter 2, Government Records Access and Management Act, and shall be used only for purposes of:
+
 (a)  compliance with this chapter; or
+
 (b)  a proceeding or action to enforce this chapter.
+

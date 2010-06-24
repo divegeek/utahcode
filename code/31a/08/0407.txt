@@ -1,68 +1,62 @@
-31A-8-407.   Written contracts -- Limited liability of enrollee -- Provider
-claim disputes -- Leased networks.
-(1) (a)  Every contract between an organization and a participating provider
-of health care services shall be in writing and shall set forth that if the
-organization:
-(i)  fails to pay for health care services as set forth in the contract, the
-enrollee may not be liable to the provider for any sums owed by the
-organization; and
-(ii)  becomes insolvent, the rehabilitator or liquidator may require the
-participating provider of health care services to:
-(A)  continue to provide health care services under the contract between the
-participating provider and the organization until the earlier of:
-(I)  90 days after the date of the filing of a petition for rehabilitation or
-the petition for liquidation; or
+31A-8-407.   Written contracts -- Limited liability of enrollee -- Provider claim disputes -- Leased networks.
+
+(1) (a)  Every contract between an organization and a participating provider of health care services shall be in writing and shall set forth that if the organization:
+
+(i)  fails to pay for health care services as set forth in the contract, the enrollee may not be liable to the provider for any sums owed by the organization; and
+
+(ii)  becomes insolvent, the rehabilitator or liquidator may require the participating provider of health care services to:
+
+(A)  continue to provide health care services under the contract between the participating provider and the organization until the earlier of:
+
+(I)  90 days after the date of the filing of a petition for rehabilitation or the petition for liquidation; or
+
 (II)  the date the term of the contract ends; and
-(B)  subject to Subsection (1)(c), reduce the fees the participating provider
-is otherwise entitled to receive from the organization under the contract
-between the participating provider and the organization during the time period
-described in Subsection (1)(a)(ii)(A).
-(b)  If the conditions of Subsection (1)(c) are met, the participating
-provider shall:
+
+(B)  subject to Subsection (1)(c), reduce the fees the participating provider is otherwise entitled to receive from the organization under the contract between the participating provider and the organization during the time period described in Subsection (1)(a)(ii)(A).
+
+(b)  If the conditions of Subsection (1)(c) are met, the participating provider shall:
+
 (i)  accept the reduced payment as payment in full; and
-(ii)  relinquish the right to collect additional amounts from the insolvent
-organization's enrollee.
+
+(ii)  relinquish the right to collect additional amounts from the insolvent organization's enrollee.
+
 (c)  Notwithstanding Subsection (1)(a)(ii)(B):
-(i)  the rehabilitator or liquidator may not reduce a fee to less than 75% of
-the regular fee set forth in the participating provider contract; and
-(ii)  the enrollee shall continue to pay the same copayments, deductibles, and
-other payments for services received from the participating provider that the
-enrollee was required to pay before the filing of:
+
+(i)  the rehabilitator or liquidator may not reduce a fee to less than 75% of the regular fee set forth in the participating provider contract; and
+
+(ii)  the enrollee shall continue to pay the same copayments, deductibles, and other payments for services received from the participating provider that the enrollee was required to pay before the filing of:
+
 (A)  the petition for rehabilitation; or
+
 (B)  the petition for liquidation.
-(2)  A participating provider may not collect or attempt to collect from the
-enrollee sums owed by the organization or the amount of the regular fee
-reduction authorized under Subsection (1)(a)(ii) if the participating provider
-contract:
+
+(2)  A participating provider may not collect or attempt to collect from the enrollee sums owed by the organization or the amount of the regular fee reduction authorized under Subsection (1)(a)(ii) if the participating provider contract:
+
 (a)  is not in writing as required in Subsection (1); or
+
 (b)  fails to contain the language required by Subsection (1).
-(3) (a)  A person listed in Subsection (3)(b) may not bill or maintain any
-action at law against an enrollee to collect:
+
+(3) (a)  A person listed in Subsection (3)(b) may not bill or maintain any action at law against an enrollee to collect:
+
 (i)  sums owed by the organization; or
-(ii)  the amount of the regular fee reduction authorized under Subsection
-(1)(a)(ii).
+
+(ii)  the amount of the regular fee reduction authorized under Subsection (1)(a)(ii).
+
 (b)  Subsection (3)(a) applies to:
+
 (i)  a participating provider;
+
 (ii)  an agent;
+
 (iii)  a trustee; or
-(iv)  an assignee of a person described in Subsections (3)(b)(i) through
-(iii).
-(c)  In any dispute involving a provider's claim for reimbursement, the same
-shall be determined in accordance with applicable law, the provider contract,
-the subscriber contract, and the organization's written payment policies in
-effect at the time services were rendered.
-(d)  If the parties are unable to resolve their dispute, the matter shall be
-subject to binding arbitration by a jointly selected arbitrator.  Each party
-is to bear its own expense except the cost of the jointly selected arbitrator
-shall be equally shared.  This Subsection (3)(d) does not apply to the claim
-of a general acute hospital to the extent it is inconsistent with the
-hospital's provider agreement.
-(e)  An organization may not penalize a provider solely for pursuing a claims
-dispute or otherwise demanding payment for a sum believed owing.
-(4)  If an organization permits another private entity with which it does not
-share common ownership or control to use or otherwise lease one or more of the
-organization's networks that include participating providers, the organization
-shall ensure, at a minimum, that the entity pays participating providers in
-accordance with the same fee schedule and general payment policies as the
-organization would for that network unless payment for services is governed by
-a public program's fee schedule.
+
+(iv)  an assignee of a person described in Subsections (3)(b)(i) through (iii).
+
+(c)  In any dispute involving a provider's claim for reimbursement, the same shall be determined in accordance with applicable law, the provider contract, the subscriber contract, and the organization's written payment policies in effect at the time services were rendered.
+
+(d)  If the parties are unable to resolve their dispute, the matter shall be subject to binding arbitration by a jointly selected arbitrator.  Each party is to bear its own expense except the cost of the jointly selected arbitrator shall be equally shared.  This Subsection (3)(d) does not apply to the claim of a general acute hospital to the extent it is inconsistent with the hospital's provider agreement.
+
+(e)  An organization may not penalize a provider solely for pursuing a claims dispute or otherwise demanding payment for a sum believed owing.
+
+(4)  If an organization permits another private entity with which it does not share common ownership or control to use or otherwise lease one or more of the organization's networks that include participating providers, the organization shall ensure, at a minimum, that the entity pays participating providers in accordance with the same fee schedule and general payment policies as the organization would for that network unless payment for services is governed by a public program's fee schedule.
+

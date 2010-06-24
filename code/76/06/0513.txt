@@ -1,35 +1,30 @@
-76-6-513 (Superseded 11/01/10).   Definitions -- Unlawful dealing of
-property by a fiduciary -- Penalties.
+76-6-513 (Superseded 11/01/10).   Definitions -- Unlawful dealing of property by a fiduciary -- Penalties.
+
 (1)  As used in this section:
+
 (a)  "Fiduciary" is as defined in Section 22-1-1.
-(b)  "Financial institution" means "depository institution" and "trust
-company" as defined in Section 7-1-103.
+
+(b)  "Financial institution" means "depository institution" and "trust company" as defined in Section 7-1-103.
+
 (c)  "Governmental entity" is as defined in Section 63G-7-102.
-(d)  "Person" does not include a financial institution whose fiduciary
-functions are supervised by the Department of Financial Institutions or a
-federal regulatory agency.
+
+(d)  "Person" does not include a financial institution whose fiduciary functions are supervised by the Department of Financial Institutions or a federal regulatory agency.
+
 (e)  "Property" is as defined in Section 76-6-401.
+
 (f)  "Public monies" is as defined in Section 76-8-401.
-(2)  A person is guilty of unlawfully dealing with property by a fiduciary if
-the person deals with property that has been entrusted to him as a fiduciary,
-or property of a governmental entity, public monies, or of a financial
-institution, in a manner which the person knows is a violation of the person's
-duty and which involves substantial risk of loss or detriment to the owner or
-to a person for whose benefit the property was entrusted.  A violation of this
-Subsection (2) is punishable under Section 76-6-412.
-(3) (a)  A person acting as a fiduciary is guilty of a violation of this
-subsection if, without permission of the owner of the property or some other
-person with authority to give permission, the person pledges as collateral for
-a personal loan, or as collateral for the benefit of some party, other than
-the owner or the person for whose benefit the property was entrusted, the
-property that has been entrusted to the fiduciary.
+
+(2)  A person is guilty of unlawfully dealing with property by a fiduciary if the person deals with property that has been entrusted to him as a fiduciary, or property of a governmental entity, public monies, or of a financial institution, in a manner which the person knows is a violation of the person's duty and which involves substantial risk of loss or detriment to the owner or to a person for whose benefit the property was entrusted.  A violation of this Subsection (2) is punishable under Section 76-6-412.
+
+(3) (a)  A person acting as a fiduciary is guilty of a violation of this subsection if, without permission of the owner of the property or some other person with authority to give permission, the person pledges as collateral for a personal loan, or as collateral for the benefit of some party, other than the owner or the person for whose benefit the property was entrusted, the property that has been entrusted to the fiduciary.
+
 (b)  An offense under Subsection (3)(a) is punishable as:
-(i)  a felony of the second degree if the value of the property wrongfully
-pledged is or exceeds $5,000;
-(ii)  a felony of the third degree if the value of the property wrongfully
-pledged is or exceeds $1,000 but is less than $5,000;
-(iii)  a class A misdemeanor if the value of the property is or exceeds $300,
-but is less than $1,000 or the actor has been twice before convicted of theft,
-robbery, burglary with intent to commit theft, or unlawful dealing with
-property by a fiduciary; or
+
+(i)  a felony of the second degree if the value of the property wrongfully pledged is or exceeds $5,000;
+
+(ii)  a felony of the third degree if the value of the property wrongfully pledged is or exceeds $1,000 but is less than $5,000;
+
+(iii)  a class A misdemeanor if the value of the property is or exceeds $300, but is less than $1,000 or the actor has been twice before convicted of theft, robbery, burglary with intent to commit theft, or unlawful dealing with property by a fiduciary; or
+
 (iv)  a class B misdemeanor if the value of the property is less than $300.
+

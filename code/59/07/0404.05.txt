@@ -1,9 +1,8 @@
-59-7-404.5.   Adjustment to apportionment factors for corporations in a
-combined report -- Sales factor -- Property factor.
+59-7-404.5.   Adjustment to apportionment factors for corporations in a combined report -- Sales factor -- Property factor.
+
 For purposes of the apportionment sections under Part 3 of this chapter:
-(1)  Corporations filing a combined report under Section 59-7-402 or 59-7-403
-may not include intercompany sales or other transactions between the
-corporations included in the combined report when determining the sales
-factor.
-(2)  Intercompany rents between members of a combined report may not be
-considered in the computation of the property factor.
+
+(1)  Corporations filing a combined report under Section 59-7-402 or 59-7-403 may not include intercompany sales or other transactions between the corporations included in the combined report when determining the sales factor.
+
+(2)  Intercompany rents between members of a combined report may not be considered in the computation of the property factor.
+

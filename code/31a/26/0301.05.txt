@@ -1,33 +1,24 @@
 31A-26-301.5.   Health care claims practices.
-(1)  Except as provided in Section 31A-8-407, an insured retains ultimate
-responsibility for paying for health care services the insured receives. If a
-service is covered by one or more individual or group health insurance
-policies, all insurers covering the insured have the responsibility to pay
-valid health care claims in a timely manner according to the terms and limits
-specified in the policies.
-(2) (a) Except as provided in Section 31A-22-610.1, a health care provider may
-bill and collect for any deductible, copayment, or uncovered service.
-(b)  A health care provider may bill an insured for services covered by health
-insurance  policies or may otherwise notify the insured of the expenses
-covered by the policies.  However, a provider may not make any report to a
-credit bureau, use the services of a collection agency, or use methods other
-than routine billing or notification until the later of:
-(i)  the expiration of the time afforded to an insurer under Section
-31A-26-301.6 to determine its obligation to pay or deny the claim without
-penalty; or
-(ii)  in the case of medicare beneficiaries or retirees 65 years of age or
-older, 60 days from the date medicare determines its liability for the claim.
-(c)  Beginning October 31, 1992, all  insurers covering the insured shall
-notify the insured of payment and the amount of payment made to the provider.
-(3)  The commissioner shall make rules consistent with this chapter governing
-disclosure to the insured of customary charges by health care providers on the
-explanation of benefits as part of the claims payment process.  These rules
-shall be limited to the form and content of the disclosures on the explanation
-of benefits, and shall include:
-(a)  a requirement that the method of determination of any specifically
-referenced customary charges and the range of the customary charges be
-disclosed; and
-(b)  a prohibition against an implication that the provider is charging
-excessively if the provider is:
+
+(1)  Except as provided in Section 31A-8-407, an insured retains ultimate responsibility for paying for health care services the insured receives. If a service is covered by one or more individual or group health insurance policies, all insurers covering the insured have the responsibility to pay valid health care claims in a timely manner according to the terms and limits specified in the policies.
+
+(2) (a) Except as provided in Section 31A-22-610.1, a health care provider may bill and collect for any deductible, copayment, or uncovered service.
+
+(b)  A health care provider may bill an insured for services covered by health insurance  policies or may otherwise notify the insured of the expenses covered by the policies.  However, a provider may not make any report to a credit bureau, use the services of a collection agency, or use methods other than routine billing or notification until the later of:
+
+(i)  the expiration of the time afforded to an insurer under Section 31A-26-301.6 to determine its obligation to pay or deny the claim without penalty; or
+
+(ii)  in the case of medicare beneficiaries or retirees 65 years of age or older, 60 days from the date medicare determines its liability for the claim.
+
+(c)  Beginning October 31, 1992, all  insurers covering the insured shall notify the insured of payment and the amount of payment made to the provider.
+
+(3)  The commissioner shall make rules consistent with this chapter governing disclosure to the insured of customary charges by health care providers on the explanation of benefits as part of the claims payment process.  These rules shall be limited to the form and content of the disclosures on the explanation of benefits, and shall include:
+
+(a)  a requirement that the method of determination of any specifically referenced customary charges and the range of the customary charges be disclosed; and
+
+(b)  a prohibition against an implication that the provider is charging excessively if the provider is:
+
 (i)  a participating provider; and
+
 (ii)  prohibited from balance billing.
+

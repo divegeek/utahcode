@@ -1,11 +1,4 @@
-26-33a-111.   Health data not subject to subpoena or compulsory process --
-Exception.
-Identifiable health data obtained in the course of activities undertaken or
-supported under this chapter shall not be subject to subpoena or similar
-compulsory process in any civil or criminal, judicial, administrative, or
-legislative proceeding, nor shall any individual or organization with lawful
-access to identifiable health data under the provisions of this chapter be
-compelled to testify with regard to such health data, except that data
-pertaining to a party in litigation may be subject to subpoena or similar
-compulsory process in an action brought by or on behalf of such individual to
-enforce any liability arising under this chapter.
+26-33a-111.   Health data not subject to subpoena or compulsory process -- Exception.
+
+Identifiable health data obtained in the course of activities undertaken or supported under this chapter shall not be subject to subpoena or similar compulsory process in any civil or criminal, judicial, administrative, or legislative proceeding, nor shall any individual or organization with lawful access to identifiable health data under the provisions of this chapter be compelled to testify with regard to such health data, except that data pertaining to a party in litigation may be subject to subpoena or similar compulsory process in an action brought by or on behalf of such individual to enforce any liability arising under this chapter.
+

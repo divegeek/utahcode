@@ -1,13 +1,6 @@
 77-38a-403.   Civil action by victim for damages.
-(1)  Provisions in this part concerning restitution do not limit or impair the
-right of a person injured by a defendant's criminal activities to sue and
-recover damages from the defendant in a civil action.  Evidence that the
-defendant has paid or been ordered to pay restitution under this part may not
-be introduced in any civil action arising out of the facts or events which
-were the basis for the restitution.  However, the court shall credit any
-restitution paid by the defendant to a victim against any judgment in favor of
-the victim in the civil action.
-(2)  If conviction in a criminal trial necessarily decides the issue of a
-defendant's liability for pecuniary damages of a victim, that issue is
-conclusively determined as to the defendant if it is involved in a subsequent
-civil action.
+
+(1)  Provisions in this part concerning restitution do not limit or impair the right of a person injured by a defendant's criminal activities to sue and recover damages from the defendant in a civil action.  Evidence that the defendant has paid or been ordered to pay restitution under this part may not be introduced in any civil action arising out of the facts or events which were the basis for the restitution.  However, the court shall credit any restitution paid by the defendant to a victim against any judgment in favor of the victim in the civil action.
+
+(2)  If conviction in a criminal trial necessarily decides the issue of a defendant's liability for pecuniary damages of a victim, that issue is conclusively determined as to the defendant if it is involved in a subsequent civil action.
+

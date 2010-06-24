@@ -1,39 +1,18 @@
 70A-2a-527.   Lessor's rights to dispose of goods.
-(1)  After a default by a lessee under the lease contract of the type
-described in Section 70A-2a-523 or after the lessor refuses to deliver or
-takes possession of goods as provided in Section 70A-2a-525 or 70A-2a-526, or
-if agreed, after other default by a lessee, the lessor may dispose of the
-goods concerned or the undelivered balance thereof by lease, sale, or
-otherwise.
-(2)  Except as otherwise provided with respect to damages liquidated in the
-lease agreement as provided in Section 70A-2a-504 or otherwise determined
-pursuant to agreement of the parties as provided in Sections 70A-1a-302 and
-70A-2a-503, if the disposition is by lease agreement substantially similar to
-the original lease agreement and the lease agreement is made in good faith and
-in a commercially reasonable manner, the lessor may recover from the lessee as
-damages:
-(a)  accrued and unpaid rent as of the date of the commencement of the term of
-the new lease agreement;
-(b)  the present value, as of the date of the commencement of the term of the
-new lease agreement, of the difference between the total rent for the then
-remaining lease term of the original lease agreement minus the present value,
-as of the same date, of the rent under the new lease agreement applicable to
-that period of the new lease term which is comparable to the then remaining
-term of the original lease agreement; and
-(c)  any incidental damages allowed under Section 70A-2a-530, less expenses
-saved in consequence of the lessee's default.
-(3)  If the lessor's disposition is by lease agreement that qualifies for
-treatment under Subsection (2), the lessor may elect to proceed under
-Subsection (2) or Section 70A-2a-528.  If the lessor's disposition is by lease
-agreement that for any reason does not qualify for treatment under Subsection
-(2), or is by sale or otherwise, the lessor may recover from the lessee under
-Section 70A-2a-528 as if the lessor had elected not to dispose of the goods.
-(4)  A subsequent buyer or lessee who buys or leases from the lessor in good
-faith for value as a result of a disposition under this section takes the
-goods free of the original lease contract and any rights of the original
-lessee even though the lessor fails to comply with one or more of the
-requirements of this chapter.
-(5)  The lessor is not accountable to the lessee for any profit made on any
-disposition.  A lessee who has rightfully rejected or justifiably revoked
-acceptance shall account to the lessor for any excess over the amount of the
-lessee's security interest as provided in Subsection 70A-2a-508(5).
+
+(1)  After a default by a lessee under the lease contract of the type described in Section 70A-2a-523 or after the lessor refuses to deliver or takes possession of goods as provided in Section 70A-2a-525 or 70A-2a-526, or if agreed, after other default by a lessee, the lessor may dispose of the goods concerned or the undelivered balance thereof by lease, sale, or otherwise.
+
+(2)  Except as otherwise provided with respect to damages liquidated in the lease agreement as provided in Section 70A-2a-504 or otherwise determined pursuant to agreement of the parties as provided in Sections 70A-1a-302 and 70A-2a-503, if the disposition is by lease agreement substantially similar to the original lease agreement and the lease agreement is made in good faith and in a commercially reasonable manner, the lessor may recover from the lessee as damages:
+
+(a)  accrued and unpaid rent as of the date of the commencement of the term of the new lease agreement;
+
+(b)  the present value, as of the date of the commencement of the term of the new lease agreement, of the difference between the total rent for the then remaining lease term of the original lease agreement minus the present value, as of the same date, of the rent under the new lease agreement applicable to that period of the new lease term which is comparable to the then remaining term of the original lease agreement; and
+
+(c)  any incidental damages allowed under Section 70A-2a-530, less expenses saved in consequence of the lessee's default.
+
+(3)  If the lessor's disposition is by lease agreement that qualifies for treatment under Subsection (2), the lessor may elect to proceed under Subsection (2) or Section 70A-2a-528.  If the lessor's disposition is by lease agreement that for any reason does not qualify for treatment under Subsection (2), or is by sale or otherwise, the lessor may recover from the lessee under Section 70A-2a-528 as if the lessor had elected not to dispose of the goods.
+
+(4)  A subsequent buyer or lessee who buys or leases from the lessor in good faith for value as a result of a disposition under this section takes the goods free of the original lease contract and any rights of the original lessee even though the lessor fails to comply with one or more of the requirements of this chapter.
+
+(5)  The lessor is not accountable to the lessee for any profit made on any disposition.  A lessee who has rightfully rejected or justifiably revoked acceptance shall account to the lessor for any excess over the amount of the lessee's security interest as provided in Subsection 70A-2a-508(5).
+

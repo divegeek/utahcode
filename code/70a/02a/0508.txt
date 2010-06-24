@@ -1,41 +1,26 @@
 70A-2a-508.   Lessee's remedies.
-(1)  If a lessor fails to deliver the goods in conformity to the lease
-contract as provided in Section 70A-2a-509 or repudiates the lease contract as
-provided in Section 70A-2a-402, or a lessee rightfully rejects the goods as
-provided in Section 70A-2a-509 or justifiably revokes acceptance of the goods
-as provided in Section 70A-2a-517, then with respect to any goods involved,
-and with respect to all of the goods if under an installment lease contract
-the value of the whole lease contract is substantially impaired as provided in
-Section 70A-2a-510, the lessor is in default under the lease contract and the
-lessee may:
+
+(1)  If a lessor fails to deliver the goods in conformity to the lease contract as provided in Section 70A-2a-509 or repudiates the lease contract as provided in Section 70A-2a-402, or a lessee rightfully rejects the goods as provided in Section 70A-2a-509 or justifiably revokes acceptance of the goods as provided in Section 70A-2a-517, then with respect to any goods involved, and with respect to all of the goods if under an installment lease contract the value of the whole lease contract is substantially impaired as provided in Section 70A-2a-510, the lessor is in default under the lease contract and the lessee may:
+
 (a)  cancel the lease contract as provided in Subsection 70A-2a-505(1);
-(b)  recover so much of the rent and security as has been paid and is just
-under the circumstances;
-(c)  cover and recover damages as to all goods affected whether or not they
-have been identified to the lease contract as provided in Sections 70A-2a-518
-and 70A-2a-520, or recover damages for nondelivery as provided in Sections
-70A-2a-519 and 70A-2a-520; or
-(d)  exercise any other rights or pursue any other remedies provided in the
-lease contract.
-(2)  If a lessor fails to deliver the goods in conformity to the lease
-contract or repudiates the lease contract, the lessee may also:
-(a)  if the goods have been identified, recover them as provided in Section
-70A-2a-522; or
-(b)  in a proper case, obtain specific performance or replevy the goods as
-provided in Section 70A-2a-521.
-(3)  If a lessor is in default under the lease contract, the lessee may
-exercise the rights and pursue the remedies provided for in the lease
-contract, which may include the right to cancel the lease, and in Section 70A-
-2a-519.
-(4)  If a lessor has breached a warranty, whether express or implied, the
-lessee may recover damages as provided in Subsection 70A-2a-519(4).
-(5)  On rightful rejection or justifiable revocation of acceptance, a lessee
-has a security interest in goods in the lessee's possession or control for any
-rent and security that has been paid and any expenses reasonably incurred in
-their inspection, receipt, transportation, and care and custody and may hold
-those goods and dispose of them in good faith and in a commercially reasonable
-manner, subject to the provisions of Subsection 70A-2a-527(5).
-(6)  Subject to the provisions of Section 70A-2a-407, a lessee, on notifying
-the lessor of the lessee's intention to do so, may deduct all or any part of
-the damages resulting from any default under the lease contract from any part
-of the rent still due under the same lease contract.
+
+(b)  recover so much of the rent and security as has been paid and is just under the circumstances;
+
+(c)  cover and recover damages as to all goods affected whether or not they have been identified to the lease contract as provided in Sections 70A-2a-518 and 70A-2a-520, or recover damages for nondelivery as provided in Sections 70A-2a-519 and 70A-2a-520; or
+
+(d)  exercise any other rights or pursue any other remedies provided in the lease contract.
+
+(2)  If a lessor fails to deliver the goods in conformity to the lease contract or repudiates the lease contract, the lessee may also:
+
+(a)  if the goods have been identified, recover them as provided in Section 70A-2a-522; or
+
+(b)  in a proper case, obtain specific performance or replevy the goods as provided in Section 70A-2a-521.
+
+(3)  If a lessor is in default under the lease contract, the lessee may exercise the rights and pursue the remedies provided for in the lease contract, which may include the right to cancel the lease, and in Section 70A-2a-519.
+
+(4)  If a lessor has breached a warranty, whether express or implied, the lessee may recover damages as provided in Subsection 70A-2a-519(4).
+
+(5)  On rightful rejection or justifiable revocation of acceptance, a lessee has a security interest in goods in the lessee's possession or control for any rent and security that has been paid and any expenses reasonably incurred in their inspection, receipt, transportation, and care and custody and may hold those goods and dispose of them in good faith and in a commercially reasonable manner, subject to the provisions of Subsection 70A-2a-527(5).
+
+(6)  Subject to the provisions of Section 70A-2a-407, a lessee, on notifying the lessor of the lessee's intention to do so, may deduct all or any part of the damages resulting from any default under the lease contract from any part of the rent still due under the same lease contract.
+

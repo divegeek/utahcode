@@ -1,39 +1,24 @@
 59-9-103.   Taxation of insurers otherwise untaxed.
+
 (1)  As used in this section:
-(a)  "Administrative and claims expense" includes all claims paid, agency
-expenses, third party administrator expenses, taxes, licenses, fees, loss
-adjustment expenses, legal expenses, reinsurance premiums, and all other
-expenses incurred directly in connection with the insurance of Utah risks by
-the insurer, less any recoveries or reimbursements collected or collectible
-because of reinsurance or any other source, but only with respect to Utah
-risks.  The administrative and claims expense also includes the pro rata
-portion attributable to Utah risks of the salaries and fringe benefits,
-including taxes on salaries, of all personnel responsible for the
-administration of the insurer, the printing and stationery, and all other
-expenses attributable to the administration of the insurer.  When personnel
-are engaged in the administration of the insurer as only part of their
-employment, for purposes of this section their salaries and fringe benefits
-shall be prorated based on the portion of their time devoted to the
-administration of the insurer.  Appropriate overhead charges shall be included
-with all the expenses listed in this subsection.
-(b) "Utah risks" means insurance coverage on the lives, health, or against the
-liability of persons residing in Utah, or on property located in Utah, other
-than property temporarily in transit through Utah.
-(2)  Except for workers' compensation coverage, which is provided in
-Subsection (3), and except as provided under Subsection (4), every insurer
-which provides insurance on Utah risks shall pay to the commission, on or
-before March 31 of each year, a tax of 2-1/4% of the total administrative and
-claims expense incurred during the prior calendar year by the insurer.  This
-tax shall be deposited in the General Fund.
-(3)  Except as provided under Subsection (4), every insurer which provides
-workers' compensation coverage on persons employed in Utah shall pay to the
-commission on or before March 31 of each year a tax of 3-1/4% of the total
-administrative and claims expense incurred during the prior year by the
-insurer.  This tax shall be distributed in the same manner as under Subsection
-59-9-101(2).
+
+(a)  "Administrative and claims expense" includes all claims paid, agency expenses, third party administrator expenses, taxes, licenses, fees, loss adjustment expenses, legal expenses, reinsurance premiums, and all other expenses incurred directly in connection with the insurance of Utah risks by the insurer, less any recoveries or reimbursements collected or collectible because of reinsurance or any other source, but only with respect to Utah risks.  The administrative and claims expense also includes the pro rata portion attributable to Utah risks of the salaries and fringe benefits, including taxes on salaries, of all personnel responsible for the administration of the insurer, the printing and stationery, and all other expenses attributable to the administration of the insurer.  When personnel are engaged in the administration of the insurer as only part of their employment, for purposes of this section their salaries and fringe benefits shall be prorated based on the portion of their time devoted to the administration of the insurer.  Appropriate overhead charges shall be included with all the expenses listed in this subsection.
+
+(b) "Utah risks" means insurance coverage on the lives, health, or against the liability of persons residing in Utah, or on property located in Utah, other than property temporarily in transit through Utah.
+
+(2)  Except for workers' compensation coverage, which is provided in Subsection (3), and except as provided under Subsection (4), every insurer which provides insurance on Utah risks shall pay to the commission, on or before March 31 of each year, a tax of 2-1/4% of the total administrative and claims expense incurred during the prior calendar year by the insurer.  This tax shall be deposited in the General Fund.
+
+(3)  Except as provided under Subsection (4), every insurer which provides workers' compensation coverage on persons employed in Utah shall pay to the commission on or before March 31 of each year a tax of 3-1/4% of the total administrative and claims expense incurred during the prior year by the insurer.  This tax shall be distributed in the same manner as under Subsection 59-9-101(2).
+
 (4)  The taxes imposed under Subsections (2) and (3) do not apply to:
+
 (a)  admitted insurers;
+
 (b)  insurers taxed under Section 31A-3-301;
+
 (c)  self insurers;
+
 (d)  annuity considerations or ocean marine insurance; or
+
 (e)  a public agency insurance mutual as defined in Section 31A-1-103.
+

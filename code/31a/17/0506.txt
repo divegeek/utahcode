@@ -1,196 +1,160 @@
 31A-17-506.   Computation of minimum standard by calendar year of issue.
-(1)  Applicability of Section 31A-17-506: The interest rates used in
-determining the minimum standard for the valuation shall be the calendar year
-statutory valuation interest rates as defined in this section for:
-(a)  all life insurance policies issued in a particular calendar year, on or
-after the operative date of Subsection 31A-22-408(6)(d);
-(b)  all individual annuity and pure endowment contracts issued in a
-particular calendar year on or after January 1, 1982;
-(c)  all annuities and pure endowments purchased in a particular calendar year
-on or after January 1, 1982, under group annuity and pure endowment contracts;
-and
-(d)  the net increase, if any, in a particular calendar year after January 1,
-1982, in amounts held under guaranteed interest contracts.
+
+(1)  Applicability of Section 31A-17-506: The interest rates used in determining the minimum standard for the valuation shall be the calendar year statutory valuation interest rates as defined in this section for:
+
+(a)  all life insurance policies issued in a particular calendar year, on or after the operative date of Subsection 31A-22-408(6)(d);
+
+(b)  all individual annuity and pure endowment contracts issued in a particular calendar year on or after January 1, 1982;
+
+(c)  all annuities and pure endowments purchased in a particular calendar year on or after January 1, 1982, under group annuity and pure endowment contracts; and
+
+(d)  the net increase, if any, in a particular calendar year after January 1, 1982, in amounts held under guaranteed interest contracts.
+
 (2)  Calendar year statutory valuation interest rates:
-(a)  The calendar year statutory valuation interest rates, "I," shall be
-determined as follows and the results rounded to the nearer 1/4 of 1%:
+
+(a)  The calendar year statutory valuation interest rates, "I," shall be determined as follows and the results rounded to the nearer 1/4 of 1%:
+
 (i)  for life insurance:
+
 I = .03 + W(R1 - .03) + (W/2)(R2 - .09);
-(ii)  for single premium immediate annuities and for annuity benefits
-involving life contingencies arising from other annuities with cash settlement
-options and from guaranteed interest contracts with cash settlement options:
+
+(ii)  for single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and from guaranteed interest contracts with cash settlement options:
+
 I = .03 + W(R - .03),
+
 where R1 is the lesser of R and .09,
+
 R2 is the greater of R and .09,
+
 R is the reference interest rate defined in Subsection (4), and
+
 W is the weighting factor defined in this section;
-(iii)  for other annuities with cash settlement options and guaranteed
-interest contracts with cash settlement options, valued on an issue year
-basis, except as stated in Subsection (2)(a)(ii), the formula for life
-insurance stated in Subsection (2)(a)(i) shall apply to annuities and
-guaranteed interest contracts with guarantee durations in excess of 10 years,
-and the formula for single premium immediate annuities stated in Subsection
-(2)(a)(ii) shall apply to annuities and guaranteed interest contracts with
-guarantee duration of 10 years or less;
-(iv)  for other annuities with no cash settlement options and for guaranteed
-interest contracts with no cash settlement options, the formula for single
-premium immediate annuities stated in Subsection (2)(a)(ii) shall apply; and
-(v)  for other annuities with cash settlement options and guaranteed interest
-contracts with cash settlement options, valued on a change in fund basis, the
-formula for single premium immediate annuities stated in Subsection (2)(a)(ii)
-shall apply.
-(b)  However, if the calendar year statutory valuation interest rate for any
-life insurance policies issued in any calendar year determined without
-reference to this sentence differs from the corresponding actual rate for
-similar policies issued in the immediately preceding calendar year by less
-than 1/2 of 1% the calendar year statutory valuation interest rate for such
-life insurance policies shall be equal to the corresponding actual rate for
-the immediately preceding calendar year. For purposes of applying the
-immediately preceding sentence, the calendar year statutory valuation interest
-rate for life insurance policies issued in a calendar year shall be determined
-for 1980, using the reference interest rate defined in 1979, and shall be
-determined for each subsequent calendar year regardless of when Subsection
-31A-22-408(6)(d) becomes operative.
+
+(iii)  for other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on an issue year basis, except as stated in Subsection (2)(a)(ii), the formula for life insurance stated in Subsection (2)(a)(i) shall apply to annuities and guaranteed interest contracts with guarantee durations in excess of 10 years, and the formula for single premium immediate annuities stated in Subsection (2)(a)(ii) shall apply to annuities and guaranteed interest contracts with guarantee duration of 10 years or less;
+
+(iv)  for other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the formula for single premium immediate annuities stated in Subsection (2)(a)(ii) shall apply; and
+
+(v)  for other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a change in fund basis, the formula for single premium immediate annuities stated in Subsection (2)(a)(ii) shall apply.
+
+(b)  However, if the calendar year statutory valuation interest rate for any life insurance policies issued in any calendar year determined without reference to this sentence differs from the corresponding actual rate for similar policies issued in the immediately preceding calendar year by less than 1/2 of 1% the calendar year statutory valuation interest rate for such life insurance policies shall be equal to the corresponding actual rate for the immediately preceding calendar year. For purposes of applying the immediately preceding sentence, the calendar year statutory valuation interest rate for life insurance policies issued in a calendar year shall be determined for 1980, using the reference interest rate defined in 1979, and shall be determined for each subsequent calendar year regardless of when Subsection 31A-22-408(6)(d) becomes operative.
+
 (3)  Weighting factors:
-(a)  The weighting factors referred to in the formulas stated in Subsection
-(2) are given in the following tables:
+
+(a)  The weighting factors referred to in the formulas stated in Subsection (2) are given in the following tables:
+
 (i) (A)  Weighting factors for life insurance:
-Guarantee Duration (Years)                              Weighting Factors
-10 or less:                                                     .50
-More than 10, but less than 20:                         .45
-More than 20:                                                   .35
-(B)  For life insurance, the guarantee duration is the maximum number of years
-the life insurance can remain in force on a basis guaranteed in the policy or
-under options to convert to plans of life insurance with premium rates or
-nonforfeiture values or both which are guaranteed in the original policy;
-(ii)  Weighting factor for single premium immediate annuities and for annuity
-benefits involving life contingencies arising from other annuities with cash
-settlement options and guaranteed interest contracts with cash settlement
-options: .80
-(iii)  Weighting factors for other annuities and for guaranteed interest
-contracts, except as stated in Subsection (3)(a)(ii), shall be as specified in
-the tables in Subsections (3)(a)(iii)(A), (B), and (C), according to the rules
-and definitions in Subsection (3)(b):
-(A)  For annuities and guaranteed interest contracts valued on an issue year
-basis:
-Guarantee Duration (Years)                      Weighting Factors for Plan
-Type
- A       B       C
-5 or less:                                              .80     .60     .50
-More than 5, but not more than 10:                      .75     .60     .50
-More than 10, but not more than 20:                     .65     .50     .45
-More than 20:                                           .45     .35     .35
+
+Guarantee Duration (Years)				Weighting Factors
+
+10 or less:							.50
+
+More than 10, but less than 20:				.45
+
+More than 20:							.35
+
+(B)  For life insurance, the guarantee duration is the maximum number of years the life insurance can remain in force on a basis guaranteed in the policy or under options to convert to plans of life insurance with premium rates or nonforfeiture values or both which are guaranteed in the original policy;
+
+(ii)  Weighting factor for single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and guaranteed interest contracts with cash settlement options: .80
+
+(iii)  Weighting factors for other annuities and for guaranteed interest contracts, except as stated in Subsection (3)(a)(ii), shall be as specified in the tables in Subsections (3)(a)(iii)(A), (B), and (C), according to the rules and definitions in Subsection (3)(b):
+
+(A)  For annuities and guaranteed interest contracts valued on an issue year basis:
+
+Guarantee Duration (Years)			Weighting Factors for Plan Type
+
+ A	 B	 C
+
+5 or less:						.80	.60	.50
+
+More than 5, but not more than 10:			.75	.60	.50
+
+More than 10, but not more than 20:			.65	.50	.45
+
+More than 20:						.45	.35	.35
+
        Plan Type
- A       B       C
+
+ A	 B	 C
+
 (B)  For annuities and guaranteed interest
+
 contracts valued on a change in fund basis, the
+
 factors shown in Subsection (3)(a)(iii)(A)
- increased by:                                                  .15     .25
-.05
+
+ increased by:							.15	.25	.05
+
        Plan Type
- A       B       C
+
+ A	 B	 C
+
 (C)  For annuities and guaranteed interest
+
 contracts valued on an issue year basis, other than
+
 those with no cash settlement options, which do
+
 not guarantee interest on considerations received
+
 more than one year after issue or purchase and for
+
 annuities and guaranteed interest contracts valued
+
 on a change in fund basis which do not guarantee
+
 interest rates on considerations received more
+
 than 12 months beyond the valuation date, the
+
 factors shown in Subsection (3)(a)(iii)(A) or
-derived in Subsection (3)(a)(iii)(B) increased by:              .05     .05
-.05.
-(b) (i)  For other annuities with cash settlement options and guaranteed
-interest contracts with cash settlement options, the guarantee duration is the
-number of years for which the contract guarantees interest rates in excess of
-the calendar year statutory valuation interest rate for life insurance
-policies with guarantee duration in excess of 20 years. For other annuities
-with no cash settlement options and for guaranteed interest contracts with no
-cash settlement options, the guaranteed duration is the number of years from
-the date of issue or date of purchase to the date annuity benefits are
-scheduled to commence.
+
+derived in Subsection (3)(a)(iii)(B) increased by:		.05	.05	.05.
+
+(b) (i)  For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, the guarantee duration is the number of years for which the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of 20 years. For other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the guaranteed duration is the number of years from the date of issue or date of purchase to the date annuity benefits are scheduled to commence.
+
 (ii)  Plan type as used in the above tables is defined as follows:
+
 (A)  Plan Type A: At any time policyholder may withdraw funds only:
-(I)  with an adjustment to reflect changes in interest rates or asset values
-since receipt of the funds by the insurance company;
+
+(I)  with an adjustment to reflect changes in interest rates or asset values since receipt of the funds by the insurance company;
+
 (II)  without such adjustment but installments over five years or more;
+
 (III)  as an immediate life annuity; or
+
 (IV)  no withdrawal permitted.
-(B) (I)  Plan Type B: Before expiration of the interest rate guarantee,
-policyholder withdraw funds only:
-(Aa)  with an adjustment to reflect changes in interest rates or asset values
-since receipt of the funds by the insurance company;
+
+(B) (I)  Plan Type B: Before expiration of the interest rate guarantee, policyholder withdraw funds only:
+
+(Aa)  with an adjustment to reflect changes in interest rates or asset values since receipt of the funds by the insurance company;
+
 (Bb)  without such adjustment but in installments over five years or more; or
+
 (Cc) no withdrawal permitted.
-(II) At the end of interest rate guarantee, funds may be withdrawn without
-such adjustment in a single sum or installments over less than five years.
-(C)  Plan Type C: Policyholder may withdraw funds before expiration of
-interest rate guarantee in a single sum or installments over less than five
-years either:
-(I)  without adjustment to reflect changes in interest rates or asset values
-since receipt of the funds by the insurance company; or
-(II)  subject only to a fixed surrender charge stipulated in the contract as a
-percentage of the fund.
-(iii)  A company may elect to value guaranteed interest contracts with cash
-settlement options and annuities with cash settlement options on either an
-issue year basis or on a change in fund basis. Guaranteed interest contracts
-with no cash settlement options and other annuities with no cash settlement
-options must be valued on an issue year basis. As used in this section, an
-issue year basis of valuation refers to a valuation basis under which the
-interest rate used to determine the minimum valuation standard for the entire
-duration of the annuity or guaranteed interest contract is the calendar year
-valuation interest rate for the year of issue or year of purchase of the
-annuity or guaranteed interest contract, and the change in fund basis of
-valuation refers to a valuation basis under which the interest rate used to
-determine the minimum valuation standard applicable to each change in the fund
-held under the annuity or guaranteed interest contract is the calendar year
-valuation interest rate for the year of the change in the fund.
-(4)  Reference interest rate: "Reference interest rate" referred to in
-Subsection (2)(a) is defined as follows:
-(a)  For all life insurance, the lesser of the average over a period of 36
-months and the average over a period of 12 months, ending on June 30 of the
-calendar year next preceding the year of issue, of the Monthly Average of the
-composite Yield on Seasoned Corporate Bonds, as published by Moody's Investors
-Service, Inc.
-(b)  For single premium immediate annuities and for annuity benefits involving
-life contingencies arising from other annuities with cash settlement options
-and guaranteed interest contracts with cash settlement options, the average
-over a period of 12 months, ending on June 30 of the calendar year of issue or
-year of purchase, of the Monthly Average of the Composite Yield on Seasoned
-Corporate Bonds, as published by Moody's Investors Service, Inc.
-(c)  For other annuities with cash settlement options and guaranteed interest
-contracts with cash settlement options, valued on a year of issue basis,
-except as stated in Subsection (4)(b), with guarantee duration in excess of 10
-years, the lesser of the average over a period of 36 months and the average
-over a period of 12 months, ending on June 30 of the calendar year of issue or
-purchase, of the Monthly Average of the Composite Yield on Seasoned Corporate
-Bonds, as published by Moody's Investors Service, Inc.
-(d)  For other annuities with cash settlement options and guaranteed interest
-contracts with cash settlement options, valued on a year of issue basis,
-except as stated in Subsection (4)(b), with guarantee duration of 10 years or
-less, the average over a period of 12 months, ending on June 30 of the
-calendar year of issue or purchase, of the Monthly Average of the Composite
-Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service,
-Inc.
-(e)  For other annuities with no cash settlement options and for guaranteed
-interest contracts with no cash settlement options, the average over a period
-of 12 months, ending on June 30 of the calendar year of issue or purchase, of
-the Monthly Average of the Composite Yield on Seasoned Corporate Bonds, as
-published by Moody's Investors Service, Inc.
-(f)  For other annuities with cash settlement options and guaranteed interest
-contracts with cash settlement options, valued on a change in fund basis,
-except as stated in Subsection (4)(b), the average over a period of 12 months,
-ending on June 30 of the calendar year of the change in the fund, of the
-Monthly Average of the Composite Yield on Seasoned Corporate Bonds, as
-published by Moody's Investors Service, Inc.
-(5)  Alternative method for determining reference interest rates: In the event
-that the Monthly Average of the Composite Yield on Seasoned Corporate Bonds is
-no longer published by Moody's Investors Service, Inc. or in the event that
-the National Association of Insurance Commissioners determines that the
-Monthly Average of the Composite Yield on Seasoned Corporate Bonds as
-published by Moody's Investors Service, Inc. is no longer appropriate for the
-determination of the reference interest rate, then an alternative method for
-determination of the reference interest rate, which is adopted by the National
-Association of Insurance Commissioners and approved by rule promulgated by the
-commissioner, may be substituted.
+
+(II) At the end of interest rate guarantee, funds may be withdrawn without such adjustment in a single sum or installments over less than five years.
+
+(C)  Plan Type C: Policyholder may withdraw funds before expiration of interest rate guarantee in a single sum or installments over less than five years either:
+
+(I)  without adjustment to reflect changes in interest rates or asset values since receipt of the funds by the insurance company; or
+
+(II)  subject only to a fixed surrender charge stipulated in the contract as a percentage of the fund.
+
+(iii)  A company may elect to value guaranteed interest contracts with cash settlement options and annuities with cash settlement options on either an issue year basis or on a change in fund basis. Guaranteed interest contracts with no cash settlement options and other annuities with no cash settlement options must be valued on an issue year basis. As used in this section, an issue year basis of valuation refers to a valuation basis under which the interest rate used to determine the minimum valuation standard for the entire duration of the annuity or guaranteed interest contract is the calendar year valuation interest rate for the year of issue or year of purchase of the annuity or guaranteed interest contract, and the change in fund basis of valuation refers to a valuation basis under which the interest rate used to determine the minimum valuation standard applicable to each change in the fund held under the annuity or guaranteed interest contract is the calendar year valuation interest rate for the year of the change in the fund.
+
+(4)  Reference interest rate: "Reference interest rate" referred to in Subsection (2)(a) is defined as follows:
+
+(a)  For all life insurance, the lesser of the average over a period of 36 months and the average over a period of 12 months, ending on June 30 of the calendar year next preceding the year of issue, of the Monthly Average of the composite Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service, Inc.
+
+(b)  For single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, the average over a period of 12 months, ending on June 30 of the calendar year of issue or year of purchase, of the Monthly Average of the Composite Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service, Inc.
+
+(c)  For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a year of issue basis, except as stated in Subsection (4)(b), with guarantee duration in excess of 10 years, the lesser of the average over a period of 36 months and the average over a period of 12 months, ending on June 30 of the calendar year of issue or purchase, of the Monthly Average of the Composite Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service, Inc.
+
+(d)  For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a year of issue basis, except as stated in Subsection (4)(b), with guarantee duration of 10 years or less, the average over a period of 12 months, ending on June 30 of the calendar year of issue or purchase, of the Monthly Average of the Composite Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service, Inc.
+
+(e)  For other annuities with no cash settlement options and for guaranteed interest contracts with no cash settlement options, the average over a period of 12 months, ending on June 30 of the calendar year of issue or purchase, of the Monthly Average of the Composite Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service, Inc.
+
+(f)  For other annuities with cash settlement options and guaranteed interest contracts with cash settlement options, valued on a change in fund basis, except as stated in Subsection (4)(b), the average over a period of 12 months, ending on June 30 of the calendar year of the change in the fund, of the Monthly Average of the Composite Yield on Seasoned Corporate Bonds, as published by Moody's Investors Service, Inc.
+
+(5)  Alternative method for determining reference interest rates: In the event that the Monthly Average of the Composite Yield on Seasoned Corporate Bonds is no longer published by Moody's Investors Service, Inc. or in the event that the National Association of Insurance Commissioners determines that the Monthly Average of the Composite Yield on Seasoned Corporate Bonds as published by Moody's Investors Service, Inc. is no longer appropriate for the determination of the reference interest rate, then an alternative method for determination of the reference interest rate, which is adopted by the National Association of Insurance Commissioners and approved by rule promulgated by the commissioner, may be substituted.
+

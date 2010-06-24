@@ -1,16 +1,12 @@
 31A-27a-509.   Claims of holders of void or voidable rights.
-(1) (a)  The receiver may disallow a claim of a creditor who receives or
-acquires a preference, lien, conveyance, transfer, assignment, or encumbrance
-voidable under this chapter, unless the creditor surrenders the preference,
-lien, conveyance, transfer, assignment, or encumbrance.
-(b)  If an avoidance is effected by a proceeding in which a final judgment is
-entered, a creditor's claim is not allowed unless the money is paid or the
-property is delivered to the receiver within 30 days from the day on which the
-final judgment is entered, except that the receivership court may allow
-further time if there is an appeal or other continuation of the proceeding.
-(2)  A claim allowable under Subsection (1) by reason of an avoidance, whether
-voluntary or involuntary, or a preference, lien, conveyance, transfer,
-assignment, or encumbrance, may be filed as an excused late filing under
-Subsection 31A-27a-601(2) if filed within:
+
+(1) (a)  The receiver may disallow a claim of a creditor who receives or acquires a preference, lien, conveyance, transfer, assignment, or encumbrance voidable under this chapter, unless the creditor surrenders the preference, lien, conveyance, transfer, assignment, or encumbrance.
+
+(b)  If an avoidance is effected by a proceeding in which a final judgment is entered, a creditor's claim is not allowed unless the money is paid or the property is delivered to the receiver within 30 days from the day on which the final judgment is entered, except that the receivership court may allow further time if there is an appeal or other continuation of the proceeding.
+
+(2)  A claim allowable under Subsection (1) by reason of an avoidance, whether voluntary or involuntary, or a preference, lien, conveyance, transfer, assignment, or encumbrance, may be filed as an excused late filing under Subsection 31A-27a-601(2) if filed within:
+
 (a)  30 days from the date of the avoidance; or
+
 (b)  the further time allowed by the receivership court under Subsection (1).
+

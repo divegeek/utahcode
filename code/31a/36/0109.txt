@@ -1,93 +1,80 @@
 31A-36-109.   General requirements.
-(1)  If a life settlement provider transfers ownership or changes the
-beneficiary of a settled policy, the life settlement provider shall inform the
-insured of the transfer or change within 20 calendar days.
-(2)  A life settlement provider that enters a life settlement shall first
-obtain:
-(a)  if the owner is the insured, a written statement from a licensed
-attending physician that the owner is of sound mind and under no constraint or
-undue influence to enter a life settlement;
+
+(1)  If a life settlement provider transfers ownership or changes the beneficiary of a settled policy, the life settlement provider shall inform the insured of the transfer or change within 20 calendar days.
+
+(2)  A life settlement provider that enters a life settlement shall first obtain:
+
+(a)  if the owner is the insured, a written statement from a licensed attending physician that the owner is of sound mind and under no constraint or undue influence to enter a life settlement;
+
 (b)  a witnessed document in which the owner represents that:
-(i)  the owner has a full and complete understanding of the life settlement
-and the benefits of the policy;
+
+(i)  the owner has a full and complete understanding of the life settlement and the benefits of the policy;
+
 (ii)  the owner has entered the life settlement freely and voluntarily; and
-(iii)  if applicable, the insured is terminally ill or chronically ill and
-that the illness was diagnosed after the policy was issued; and
-(c)  a document in which the insured consents to the release of the insured's
-medical records to:
+
+(iii)  if applicable, the insured is terminally ill or chronically ill and that the illness was diagnosed after the policy was issued; and
+
+(c)  a document in which the insured consents to the release of the insured's medical records to:
+
 (i)  a life settlement provider;
+
 (ii)  a life settlement producer; and
+
 (iii)  the insurer that issued the policy covering the insured.
-(3)  Within 20 calendar days after an owner executes documents necessary to
-transfer rights under a policy, or enters into an agreement in any form,
-express or implied, to settle the policy, the life settlement provider shall
-give written notice to the issuer of the policy that the policy has or will
-become settled.  The notice must be accompanied by a copy of the documents
-required by Subsection (4).
-(4)  The life settlement provider shall deliver a copy of the following to the
-insurer that issued the policy that is the subject of the life settlement:
+
+(3)  Within 20 calendar days after an owner executes documents necessary to transfer rights under a policy, or enters into an agreement in any form, express or implied, to settle the policy, the life settlement provider shall give written notice to the issuer of the policy that the policy has or will become settled.  The notice must be accompanied by a copy of the documents required by Subsection (4).
+
+(4)  The life settlement provider shall deliver a copy of the following to the insurer that issued the policy that is the subject of the life settlement:
+
 (a)  the medical release required under Subsection (2)(c);
+
 (b)  a copy of the owner's application for the life settlement; and
+
 (c)  the notice required under Subsection (3).
-(5) (a)  An insurer shall complete and return a request for verification of
-coverage not later than 30 calendar days after the day on which the request is
-received.  In its response, the insurer shall indicate whether the insurer
-intends to pursue an investigation regarding the validity of the insurance
-contract.
-(b)  An insurer may not require that a person making a request under
-Subsection (5)(a) provide the insurer additional information in order for the
-insurer to comply with Subsection (5)(a), if the person provides the insurer:
-(i)  a request for verification of coverage made on an original, facsimile, or
-electronic copy of a verification of coverage for a policy document adopted by
-the commissioner by rule made in accordance with Title 63G, Chapter 3, Utah
-Administrative Rulemaking Act; and
-(ii)  an authorization that accompanies the verification described in
-Subsection (5)(b)(i) signed by the owner.
-(6) Medical information solicited or obtained by a life settlement provider or
-life settlement producer is subject to:
-(a)  other laws of this state relating to the confidentiality of the
-information; and
-(b)  a rule relating to privacy of medical or personal information promulgated
-by the commissioner under Title V, Section 505 of the Gramm-Leach-Bliley Act
-of 1999, 15 U.S.C. Sec. 6805.
-(7) (a) (i)  A life settlement entered into in this state must reserve to the
-owner an unconditional right to rescind the life settlement within the
-rescission period provided for in this Subsection (7).
-(ii)  The rescission period ends 15 calendar days after the day on which the
-owner receives the proceeds of the life settlement.
-(iii)  Rescission by an owner may be conditioned on the owner giving notice
-and repaying to the life settlement provider within the rescission period all
-proceeds of the life settlement and any premium, loan, or loan interest paid
-by or on behalf of the life settlement provider in connection with or as a
-consequence of the life settlement.
-(b)  If the insured dies during the rescission period, the life settlement is
-considered to be rescinded if the proceeds, premiums, loans, and loan interest
-paid by the life settlement provider or life settlement purchaser are repaid
-within 60 calendar days of the day on which the insured dies.
-(8) (a)  Contact with an insured to determine the health status of the insured
-after a life settlement may be made only by a life settlement provider or life
-settlement producer that is licensed in this state, or its authorized
-representative, and no more than:
-(i)  once every three months if the insured has a life expectancy of one year
-or more; or
-(ii)  once every month if the insured has a life expectancy of less than one
-year.
-(b) A life settlement provider or life settlement producer shall explain the
-procedure for the contacts allowed under this Subsection (8) to the owner when
-the application for the life settlement is signed by all participants in the
-life settlement.
-(c)  The limitations of this Subsection (8) do not apply to contacts for
-purposes other than determining health status.
-(d)  A life settlement provider or life settlement producer is responsible for
-the acts of its authorized representative in violation of this Subsection (8).
-(9)  The trustee of a related provider trust must agree in writing with the
-life settlement provider that:
-(a)  the life settlement provider is responsible for ensuring compliance with
-all statutory and regulatory requirements; and
-(b)  the trustee will make all records and files related to life settlements
-available to the commissioner as if those records and files were maintained
-directly by the life settlement provider.
+
+(5) (a)  An insurer shall complete and return a request for verification of coverage not later than 30 calendar days after the day on which the request is received.  In its response, the insurer shall indicate whether the insurer intends to pursue an investigation regarding the validity of the insurance contract.
+
+(b)  An insurer may not require that a person making a request under Subsection (5)(a) provide the insurer additional information in order for the insurer to comply with Subsection (5)(a), if the person provides the insurer:
+
+(i)  a request for verification of coverage made on an original, facsimile, or electronic copy of a verification of coverage for a policy document adopted by the commissioner by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; and
+
+(ii)  an authorization that accompanies the verification described in Subsection (5)(b)(i) signed by the owner.
+
+(6) Medical information solicited or obtained by a life settlement provider or life settlement producer is subject to:
+
+(a)  other laws of this state relating to the confidentiality of the information; and
+
+(b)  a rule relating to privacy of medical or personal information promulgated by the commissioner under Title V, Section 505 of the Gramm-Leach-Bliley Act of 1999, 15 U.S.C. Sec. 6805.
+
+(7) (a) (i)  A life settlement entered into in this state must reserve to the owner an unconditional right to rescind the life settlement within the rescission period provided for in this Subsection (7).
+
+(ii)  The rescission period ends 15 calendar days after the day on which the owner receives the proceeds of the life settlement.
+
+(iii)  Rescission by an owner may be conditioned on the owner giving notice and repaying to the life settlement provider within the rescission period all proceeds of the life settlement and any premium, loan, or loan interest paid by or on behalf of the life settlement provider in connection with or as a consequence of the life settlement.
+
+(b)  If the insured dies during the rescission period, the life settlement is considered to be rescinded if the proceeds, premiums, loans, and loan interest paid by the life settlement provider or life settlement purchaser are repaid within 60 calendar days of the day on which the insured dies.
+
+(8) (a)  Contact with an insured to determine the health status of the insured after a life settlement may be made only by a life settlement provider or life settlement producer that is licensed in this state, or its authorized representative, and no more than:
+
+(i)  once every three months if the insured has a life expectancy of one year or more; or
+
+(ii)  once every month if the insured has a life expectancy of less than one year.
+
+(b) A life settlement provider or life settlement producer shall explain the procedure for the contacts allowed under this Subsection (8) to the owner when the application for the life settlement is signed by all participants in the life settlement.
+
+(c)  The limitations of this Subsection (8) do not apply to contacts for purposes other than determining health status.
+
+(d)  A life settlement provider or life settlement producer is responsible for the acts of its authorized representative in violation of this Subsection (8).
+
+(9)  The trustee of a related provider trust must agree in writing with the life settlement provider that:
+
+(a)  the life settlement provider is responsible for ensuring compliance with all statutory and regulatory requirements; and
+
+(b)  the trustee will make all records and files related to life settlements available to the commissioner as if those records and files were maintained directly by the life settlement provider.
+
 (10)  Regardless of the method of compensation, a life settlement producer:
+
 (a)  represents only the owner; and
-(b)  owes a fiduciary duty to the owner to act according to the owner's
-instructions and in the best interest of the owner.
+
+(b)  owes a fiduciary duty to the owner to act according to the owner's instructions and in the best interest of the owner.
+

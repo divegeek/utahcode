@@ -1,18 +1,14 @@
 70C-6-202.   Maximum amount of insurance.
+
 (1)  With respect to a closed-end credit agreement:
-(a)  in the case of consumer credit insurance providing life coverage, the
-amount of insurance may not initially exceed the debt and, if the debt is
-payable in installments, may not at any time exceed the greater of the
-scheduled or actual amount of the debt; and
-(b)  in the case of any other consumer credit insurance, the total amount of
-periodic benefits payable may not exceed the total of scheduled unpaid
-installments of the debt, and the amount of any periodic benefit may not
-exceed the original amount of debt divided by the number of periodic
-installments in which it is payable.
+
+(a)  in the case of consumer credit insurance providing life coverage, the amount of insurance may not initially exceed the debt and, if the debt is payable in installments, may not at any time exceed the greater of the scheduled or actual amount of the debt; and
+
+(b)  in the case of any other consumer credit insurance, the total amount of periodic benefits payable may not exceed the total of scheduled unpaid installments of the debt, and the amount of any periodic benefit may not exceed the original amount of debt divided by the number of periodic installments in which it is payable.
+
 (2)  With respect to an open-end credit agreement:
-(a)  in the case of consumer credit insurance providing life coverage, the
-amount of insurance may not exceed the unpaid balance in the account at any
-point in time; and
-(b)  in the case of any other consumer credit insurance, the total amount of
-periodic benefits payable may not exceed the total of scheduled installments
-to pay the unpaid balance of the debt at any point in time.
+
+(a)  in the case of consumer credit insurance providing life coverage, the amount of insurance may not exceed the unpaid balance in the account at any point in time; and
+
+(b)  in the case of any other consumer credit insurance, the total amount of periodic benefits payable may not exceed the total of scheduled installments to pay the unpaid balance of the debt at any point in time.
+

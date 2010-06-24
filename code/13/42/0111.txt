@@ -1,69 +1,50 @@
 13-42-111.    Renewal of registration.
+
 (1)  A provider shall obtain a renewal of its registration annually.
-(2)  An application for renewal of registration as a provider shall be in a
-form prescribed by the administrator, signed under penalty of perjury, and:
-(a)  be filed no fewer than 30 and no more than 60 days before the
-registration expires;
-(b)  be accompanied by the fee established by the administrator in accordance
-with Section 63J-1-504 and the bond required by Section 13-42-113;
-(c)  contain the matter required for initial registration as a provider by
-Subsections 13-42-106(8) and (9) and a financial statement, audited by an
-accountant licensed to conduct audits, for the applicant's fiscal year
-immediately preceding the application;
-(d)  disclose any changes in the information contained in the applicant's
-application for registration or its immediately previous application for
-renewal, as applicable;
-(e)  supply evidence of insurance in an amount equal to the larger of $250,000
-or the highest daily balance in the trust account required by Section
-13-42-122 during the six-month period immediately preceding the application:
-(i)  against risks of dishonesty, fraud, theft, and other misconduct on the
-part of the applicant or a director, employee, or agent of the applicant;
-(ii)  issued by an insurance company authorized to do business in this state
-and rated at least A or equivalent by a nationally recognized rating
-organization approved by the administrator;
+
+(2)  An application for renewal of registration as a provider shall be in a form prescribed by the administrator, signed under penalty of perjury, and:
+
+(a)  be filed no fewer than 30 and no more than 60 days before the registration expires;
+
+(b)  be accompanied by the fee established by the administrator in accordance with Section 63J-1-504 and the bond required by Section 13-42-113;
+
+(c)  contain the matter required for initial registration as a provider by Subsections 13-42-106(8) and (9) and a financial statement, audited by an accountant licensed to conduct audits, for the applicant's fiscal year immediately preceding the application;
+
+(d)  disclose any changes in the information contained in the applicant's application for registration or its immediately previous application for renewal, as applicable;
+
+(e)  supply evidence of insurance in an amount equal to the larger of $250,000 or the highest daily balance in the trust account required by Section 13-42-122 during the six-month period immediately preceding the application:
+
+(i)  against risks of dishonesty, fraud, theft, and other misconduct on the part of the applicant or a director, employee, or agent of the applicant;
+
+(ii)  issued by an insurance company authorized to do business in this state and rated at least A or equivalent by a nationally recognized rating organization approved by the administrator;
+
 (iii)  with a deductible not exceeding $5,000;
-(iv)  payable for the benefit of the applicant, this state, and individuals
-who are residents of this state, as their interests may appear; and
-(v)  not subject to cancellation by the applicant or the insurer until 60 days
-after written notice has been given to the administrator;
-(f)  disclose the total amount of money received by the applicant pursuant to
-plans during the preceding 12 months from or on behalf of individuals who
-reside in this state and the total amount of money distributed to creditors of
-those individuals during that period;
-(g)  disclose, to the best of the applicant's knowledge, the gross amount of
-money accumulated during the preceding 12 months pursuant to plans by or on
-behalf of individuals who reside in this state and with whom the applicant has
-agreements; and
-(h)  provide any other information that the administrator reasonably requires
-to perform the administrator's duties under this section.
-(3)  Except for the information required by Subsections 13-42-106(7), (14),
-and (17) and the addresses required by Subsection 13-42-106(4), the
-administrator shall make the information in an application for renewal of
-registration as a provider available to the public.
-(4)  If a registered provider files a timely and complete application for
-renewal of registration, the registration remains effective until the
-administrator, in a record, notifies the applicant of a denial and states the
-reasons for the denial.
-(5)  If the administrator denies an application for renewal of registration as
-a provider, the applicant, within 30 days after receiving notice of the
-denial, may appeal and request a hearing pursuant to Title 63G, Chapter 4,
-Administrative Procedures Act.  Subject to Section 13-42-134, while the appeal
-is pending the applicant shall continue to provide debt-management services to
-individuals with whom it has agreements.  If the denial is affirmed, subject
-to the administrator's order and Section 13-42-134, the applicant shall
-continue to provide debt-management services to individuals with whom it has
-agreements until, with the approval of the administrator, it transfers the
-agreements to another registered provider or returns to the individuals all
-unexpended money that is under the applicant's control.
-(6) (a)  The administrator may waive or reduce the insurance requirement in
-Subsection (2)(e) if the provider does not:
-(i)  maintain control of a trust account or receive money paid by an
-individual pursuant to a plan for distribution to creditors;
+
+(iv)  payable for the benefit of the applicant, this state, and individuals who are residents of this state, as their interests may appear; and
+
+(v)  not subject to cancellation by the applicant or the insurer until 60 days after written notice has been given to the administrator;
+
+(f)  disclose the total amount of money received by the applicant pursuant to plans during the preceding 12 months from or on behalf of individuals who reside in this state and the total amount of money distributed to creditors of those individuals during that period;
+
+(g)  disclose, to the best of the applicant's knowledge, the gross amount of money accumulated during the preceding 12 months pursuant to plans by or on behalf of individuals who reside in this state and with whom the applicant has agreements; and
+
+(h)  provide any other information that the administrator reasonably requires to perform the administrator's duties under this section.
+
+(3)  Except for the information required by Subsections 13-42-106(7), (14), and (17) and the addresses required by Subsection 13-42-106(4), the administrator shall make the information in an application for renewal of registration as a provider available to the public.
+
+(4)  If a registered provider files a timely and complete application for renewal of registration, the registration remains effective until the administrator, in a record, notifies the applicant of a denial and states the reasons for the denial.
+
+(5)  If the administrator denies an application for renewal of registration as a provider, the applicant, within 30 days after receiving notice of the denial, may appeal and request a hearing pursuant to Title 63G, Chapter 4, Administrative Procedures Act.  Subject to Section 13-42-134, while the appeal is pending the applicant shall continue to provide debt-management services to individuals with whom it has agreements.  If the denial is affirmed, subject to the administrator's order and Section 13-42-134, the applicant shall continue to provide debt-management services to individuals with whom it has agreements until, with the approval of the administrator, it transfers the agreements to another registered provider or returns to the individuals all unexpended money that is under the applicant's control.
+
+(6) (a)  The administrator may waive or reduce the insurance requirement in Subsection (2)(e) if the provider does not:
+
+(i)  maintain control of a trust account or receive money paid by an individual pursuant to a plan for distribution to creditors;
+
 (ii)  make payments to creditors on behalf of individuals;
+
 (iii)  collect fees by means of automatic payment from individuals; and
-(iv)  execute any powers of attorney that may be utilized by the provider to
-collect fees from or expend funds on behalf of an individual.
-(b)  A waiver or reduction in insurance requirements allowed by the
-administrator under Subsection (6)(a) shall balance the reduction in risk
-posed by a provider meeting the stated requirements against any continued need
-for insurance against employee and director dishonesty.
+
+(iv)  execute any powers of attorney that may be utilized by the provider to collect fees from or expend funds on behalf of an individual.
+
+(b)  A waiver or reduction in insurance requirements allowed by the administrator under Subsection (6)(a) shall balance the reduction in risk posed by a provider meeting the stated requirements against any continued need for insurance against employee and director dishonesty.
+

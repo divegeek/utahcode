@@ -1,28 +1,12 @@
-51-5-8.   Construction of terms and provisions relating to funds in other
-statutes.
-(1)  Direct or indirect references to the word "fund," or any other synonymous
-word contained in the Utah Code Annotated 1953, that is used to identify a
-separate accounting entity, means a fund account or subfund except where that
-fund meets the definition of a major fund type according to generally accepted
-accounting principles.
-(2)  The following terms and all other terms similar in meaning, except when
-they meet the definition of a fund in accordance with generally accepted
-accounting principles, mean a subfund or account within the funds established
-by this chapter: "special funds"; "separate funds"; "departmental funds";
-"association funds"; "trust," such as "in trust" or "held in trust";
-"deposits," such as "security deposits" or "certificates of deposit";
-"reserves," such as "special reserves," "contingent reserves," and "reserve
-funds"; "accounts," such as "special accounts" or "clearing accounts"; and
-"collections," such as "departmental collections" or "dedicated credits."
-(3)  Provisions of law governing the assessment and collection of the state's
-various taxes, licenses, permits, fees, and other charges and provisions
-controlling the expenditures of those revenues remain in force and are
-undisturbed by the provisions of this chapter.
-(4)  Provisions of law that specify that the balance in a fund reverts or is
-closed out to another fund means that the balance in that fund reverts to the
-unappropriated surplus account of the governmental fund in which that fund is
-placed.
-(5)  Provisions of law that specify that the balance in a fund does not lapse
-or otherwise become part of the state General Fund means that the balance in
-that fund does not lapse or otherwise become part of the unappropriated
-surplus account of the fund in which that fund is placed.
+51-5-8.   Construction of terms and provisions relating to funds in other statutes.
+
+(1)  Direct or indirect references to the word "fund," or any other synonymous word contained in the Utah Code Annotated 1953, that is used to identify a separate accounting entity, means a fund account or subfund except where that fund meets the definition of a major fund type according to generally accepted accounting principles.
+
+(2)  The following terms and all other terms similar in meaning, except when they meet the definition of a fund in accordance with generally accepted accounting principles, mean a subfund or account within the funds established by this chapter: "special funds"; "separate funds"; "departmental funds"; "association funds"; "trust," such as "in trust" or "held in trust"; "deposits," such as "security deposits" or "certificates of deposit"; "reserves," such as "special reserves," "contingent reserves," and "reserve funds"; "accounts," such as "special accounts" or "clearing accounts"; and "collections," such as "departmental collections" or "dedicated credits."
+
+(3)  Provisions of law governing the assessment and collection of the state's various taxes, licenses, permits, fees, and other charges and provisions controlling the expenditures of those revenues remain in force and are undisturbed by the provisions of this chapter.
+
+(4)  Provisions of law that specify that the balance in a fund reverts or is closed out to another fund means that the balance in that fund reverts to the unappropriated surplus account of the governmental fund in which that fund is placed.
+
+(5)  Provisions of law that specify that the balance in a fund does not lapse or otherwise become part of the state General Fund means that the balance in that fund does not lapse or otherwise become part of the unappropriated surplus account of the fund in which that fund is placed.
+

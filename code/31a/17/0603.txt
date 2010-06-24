@@ -1,94 +1,76 @@
 31A-17-603.   Company action level event.
+
 (1)  "Company action level event" means any of the following events:
-(a)  the filing of an RBC report by an insurer or health organization that
-indicates that:
-(i)  the insurer's or health organization's total adjusted capital is greater
-than or equal to its regulatory action level RBC but less than its company
-action level RBC; or
+
+(a)  the filing of an RBC report by an insurer or health organization that indicates that:
+
+(i)  the insurer's or health organization's total adjusted capital is greater than or equal to its regulatory action level RBC but less than its company action level RBC; or
+
 (ii)  if a life or accident and health insurer, the insurer has:
-(A)  total adjusted capital that is greater than or equal to its company
-action level RBC but less than the product of its authorized control level RBC
-and 2.5; and
-(B)  a negative trend, determined in accordance with the "trend test
-calculation" included in the RBC instructions;
-(b)  the notification by the commissioner to the insurer or health
-organization of an adjusted RBC report that indicates an event in Subsection
-(1)(a), provided the insurer or health organization does not challenge the
-adjusted RBC report under Section 31A-17-607; or
-(c)  if, pursuant to Section 31A-17-607, an insurer or health organization
-challenges an adjusted RBC report that indicates the event in Subsection
-(1)(a), the notification by the commissioner to the insurer or health
-organization that after a hearing the commissioner rejects the insurer's or
-health organization's challenge.
-(2) (a)  In the event of a company action level event, the insurer or health
-organization shall prepare and submit to the commissioner an RBC plan that
-shall:
-(i)  identify the conditions that contribute to the company action level
-event;
-(ii)  contain proposals of corrective actions that the insurer or health
-organization intends to take and that are expected to result in the
-elimination of the company action level event;
-(iii)  provide projections of the insurer's or health organization's financial
-results in the current year and at least the four succeeding years, both in
-the absence of proposed corrective actions and giving effect to the proposed
-corrective actions, including projections of:
+
+(A)  total adjusted capital that is greater than or equal to its company action level RBC but less than the product of its authorized control level RBC and 2.5; and
+
+(B)  a negative trend, determined in accordance with the "trend test calculation" included in the RBC instructions;
+
+(b)  the notification by the commissioner to the insurer or health organization of an adjusted RBC report that indicates an event in Subsection (1)(a), provided the insurer or health organization does not challenge the adjusted RBC report under Section 31A-17-607; or
+
+(c)  if, pursuant to Section 31A-17-607, an insurer or health organization challenges an adjusted RBC report that indicates the event in Subsection (1)(a), the notification by the commissioner to the insurer or health organization that after a hearing the commissioner rejects the insurer's or health organization's challenge.
+
+(2) (a)  In the event of a company action level event, the insurer or health organization shall prepare and submit to the commissioner an RBC plan that shall:
+
+(i)  identify the conditions that contribute to the company action level event;
+
+(ii)  contain proposals of corrective actions that the insurer or health organization intends to take and that are expected to result in the elimination of the company action level event;
+
+(iii)  provide projections of the insurer's or health organization's financial results in the current year and at least the four succeeding years, both in the absence of proposed corrective actions and giving effect to the proposed corrective actions, including projections of:
+
 (A)  statutory operating income;
+
 (B)  net income;
+
 (C)  capital;
+
 (D)  surplus; and
+
 (E)  RBC levels;
-(iv)  identify the key assumptions impacting the insurer's or health
-organization's projections and the sensitivity of the projections to the
-assumptions; and
-(v)  identify the quality of, and problems associated with, the insurer's or
-health organization's business, including its assets, anticipated business
-growth and associated surplus strain, extraordinary exposure to risk, mix of
-business and use of reinsurance, if any, in each case.
-(b)  For purposes of Subsection (2)(a)(iii), the projections for both new and
-renewal business may include separate projections for each major line of
-business and separately identify each significant income, expense, and benefit
-component.
+
+(iv)  identify the key assumptions impacting the insurer's or health organization's projections and the sensitivity of the projections to the assumptions; and
+
+(v)  identify the quality of, and problems associated with, the insurer's or health organization's business, including its assets, anticipated business growth and associated surplus strain, extraordinary exposure to risk, mix of business and use of reinsurance, if any, in each case.
+
+(b)  For purposes of Subsection (2)(a)(iii), the projections for both new and renewal business may include separate projections for each major line of business and separately identify each significant income, expense, and benefit component.
+
 (3)  The RBC plan shall be submitted:
+
 (a)  within 45 days of the company action level event; or
-(b)  if the insurer or health organization challenges an adjusted RBC report
-pursuant to Section 31A-17-607, within 45 days after notification to the
-insurer or health organization that after a hearing the commissioner rejects
-the insurer's or health organization's challenge.
-(4) (a)  Within 60 days after the submission by an insurer or health
-organization of an RBC plan to the commissioner, the commissioner shall notify
-the insurer or health organization whether the RBC plan:
+
+(b)  if the insurer or health organization challenges an adjusted RBC report pursuant to Section 31A-17-607, within 45 days after notification to the insurer or health organization that after a hearing the commissioner rejects the insurer's or health organization's challenge.
+
+(4) (a)  Within 60 days after the submission by an insurer or health organization of an RBC plan to the commissioner, the commissioner shall notify the insurer or health organization whether the RBC plan:
+
 (i)  shall be implemented; or
+
 (ii)  is unsatisfactory.
-(b)  If the commissioner determines the RBC plan is unsatisfactory, the
-notification to the insurer or health organization shall set forth the reasons
-for the determination, and may propose revisions that will render the RBC plan
-satisfactory.  Upon notification from the commissioner, the insurer or health
-organization shall:
-(i)  prepare a revised RBC plan that incorporates any revision proposed by the
-commissioner; and
+
+(b)  If the commissioner determines the RBC plan is unsatisfactory, the notification to the insurer or health organization shall set forth the reasons for the determination, and may propose revisions that will render the RBC plan satisfactory.  Upon notification from the commissioner, the insurer or health organization shall:
+
+(i)  prepare a revised RBC plan that incorporates any revision proposed by the commissioner; and
+
 (ii)  submit the revised RBC plan to the commissioner:
+
 (A)  within 45 days after the notification from the commissioner; or
-(B)  if the insurer challenges the notification from the commissioner under
-Section 31A-17-607, within 45 days after a notification to the insurer or
-health organization that after a hearing the commissioner rejects the
-insurer's or health organization's challenge.
-(5)  In the event of a notification by the commissioner to an insurer or
-health organization that the insurer's or health organization's RBC plan or
-revised RBC plan is unsatisfactory, the commissioner may specify in the
-notification that the notification constitutes a regulatory action level event
-subject to the insurer's or health organization's right to a hearing under
-Section 31A-17-607.
-(6)  Every domestic insurer or health organization that files an RBC plan or
-revised RBC plan with the commissioner shall file a copy of the RBC plan or
-revised RBC plan with the insurance commissioner in any state in which the
-insurer or health organization is authorized to do business if:
-(a)  the state has an RBC provision substantially similar to Subsection
-31A-17-608(1); and
-(b)  the insurance commissioner of that state notifies the insurer or health
-organization of its request for the filing in writing, in which case the
-insurer or health organization shall file a copy of the RBC plan or revised
-RBC plan in that state no later than the later of:
-(i)  15 days after the receipt of notice to file a copy of its RBC plan or
-revised RBC plan with that state; or
-(ii)  the date on which the RBC plan or revised RBC plan is filed under
-Subsections (3) and (4).
+
+(B)  if the insurer challenges the notification from the commissioner under Section 31A-17-607, within 45 days after a notification to the insurer or health organization that after a hearing the commissioner rejects the insurer's or health organization's challenge.
+
+(5)  In the event of a notification by the commissioner to an insurer or health organization that the insurer's or health organization's RBC plan or revised RBC plan is unsatisfactory, the commissioner may specify in the notification that the notification constitutes a regulatory action level event subject to the insurer's or health organization's right to a hearing under Section 31A-17-607.
+
+(6)  Every domestic insurer or health organization that files an RBC plan or revised RBC plan with the commissioner shall file a copy of the RBC plan or revised RBC plan with the insurance commissioner in any state in which the insurer or health organization is authorized to do business if:
+
+(a)  the state has an RBC provision substantially similar to Subsection 31A-17-608(1); and
+
+(b)  the insurance commissioner of that state notifies the insurer or health organization of its request for the filing in writing, in which case the insurer or health organization shall file a copy of the RBC plan or revised RBC plan in that state no later than the later of:
+
+(i)  15 days after the receipt of notice to file a copy of its RBC plan or revised RBC plan with that state; or
+
+(ii)  the date on which the RBC plan or revised RBC plan is filed under Subsections (3) and (4).
+

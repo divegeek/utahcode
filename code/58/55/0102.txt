@@ -1,244 +1,166 @@
 58-55-102.   Definitions.
+
 In addition to the definitions in Section 58-1-102, as used in this chapter:
-(1) (a)  "Alarm business or company" means a person engaged in the sale,
-installation, maintenance, alteration, repair, replacement, servicing, or
-monitoring of an alarm system, except as provided in Subsection (1)(b).
+
+(1) (a)  "Alarm business or company" means a person engaged in the sale, installation, maintenance, alteration, repair, replacement, servicing, or monitoring of an alarm system, except as provided in Subsection (1)(b).
+
 (b)  "Alarm business or company" does not include:
-(i)  a person engaged in the manufacture and sale of alarm systems when that
-person is not engaged in the installation, maintenance, alteration, repair,
-replacement, servicing, or monitoring of alarm systems, and the manufacture or
-sale occurs only at a place of business established by the person engaged in
-the manufacture or sale and does not involve site visits at the place or
-intended place of installation of an alarm system; or
-(ii)  an owner of an alarm system, or an employee of the owner of an alarm
-system who is engaged in installation, maintenance, alteration, repair,
-replacement, servicing, or monitoring of the alarm system owned by that owner.
-(2)  "Alarm company agent" means any individual employed within this state by
-a person engaged in the alarm business.
+
+(i)  a person engaged in the manufacture and sale of alarm systems when that person is not engaged in the installation, maintenance, alteration, repair, replacement, servicing, or monitoring of alarm systems, and the manufacture or sale occurs only at a place of business established by the person engaged in the manufacture or sale and does not involve site visits at the place or intended place of installation of an alarm system; or
+
+(ii)  an owner of an alarm system, or an employee of the owner of an alarm system who is engaged in installation, maintenance, alteration, repair, replacement, servicing, or monitoring of the alarm system owned by that owner.
+
+(2)  "Alarm company agent" means any individual employed within this state by a person engaged in the alarm business.
+
 (3)  "Alarm system" means equipment and devices assembled for the purpose of:
-(a)  detecting and signaling unauthorized intrusion or entry into or onto
-certain premises; or
+
+(a)  detecting and signaling unauthorized intrusion or entry into or onto certain premises; or
+
 (b)  signaling a robbery or attempted robbery on protected premises.
-(4)  "Apprentice electrician" means a person licensed under this chapter as an
-apprentice electrician who is learning the electrical trade under the
-immediate supervision of a master electrician, residential master electrician,
-a journeyman electrician, or a residential journeyman electrician.
-(5)  "Apprentice plumber" means a person licensed under this chapter as an
-apprentice plumber who is learning the plumbing trade under the immediate
-supervision of a master plumber, residential master plumber, journeyman
-plumber, or a residential journeyman plumber.
-(6)  "Approved continuing education" means instruction provided through
-courses under a program established under Subsection 58-55-302.5(2).
-(7)  "Board" means the Electrician Licensing Board, Alarm System Security and
-Licensing Board, or Plumbers Licensing Board created in Section 58-55-201.
+
+(4)  "Apprentice electrician" means a person licensed under this chapter as an apprentice electrician who is learning the electrical trade under the immediate supervision of a master electrician, residential master electrician, a journeyman electrician, or a residential journeyman electrician.
+
+(5)  "Apprentice plumber" means a person licensed under this chapter as an apprentice plumber who is learning the plumbing trade under the immediate supervision of a master plumber, residential master plumber, journeyman plumber, or a residential journeyman plumber.
+
+(6)  "Approved continuing education" means instruction provided through courses under a program established under Subsection 58-55-302.5(2).
+
+(7)  "Board" means the Electrician Licensing Board, Alarm System Security and Licensing Board, or Plumbers Licensing Board created in Section 58-55-201.
+
 (8)  "Combustion system" means an assembly consisting of:
-(a)  piping and components with a means for conveying, either continuously or
-intermittently, natural gas from the outlet of the natural gas provider's
-meter to the burner of the appliance;
-(b)  the electric control and combustion air supply and venting systems,
-including air ducts; and
+
+(a)  piping and components with a means for conveying, either continuously or intermittently, natural gas from the outlet of the natural gas provider's meter to the burner of the appliance;
+
+(b)  the electric control and combustion air supply and venting systems, including air ducts; and
+
 (c)  components intended to achieve control of quantity, flow, and pressure.
-(9)  "Commission" means the Construction Services Commission created under
-Section 58-55-103.
+
+(9)  "Commission" means the Construction Services Commission created under Section 58-55-103.
+
 (10)  "Construction trade" means any trade or occupation involving:
-(a) (i)  construction, alteration, remodeling, repairing, wrecking or
-demolition, addition to, or improvement of any building, highway, road,
-railroad, dam, bridge, structure, excavation or other project, development, or
-improvement to other than personal property; and
-(ii)  constructing, remodeling, or repairing a manufactured home or mobile
-home as defined in Section 58-56-3; or
-(b)  installation or repair of a residential or commercial natural gas
-appliance or combustion system.
-(11)  "Construction trades instructor" means a person licensed under this
-chapter to teach one or more construction trades in both a classroom and
-project environment, where a project is intended for sale to or use by the
-public and is completed under the direction of the instructor, who has no
-economic interest in the project.
-(12) (a)  "Contractor" means any person who for compensation other than wages
-as an employee undertakes any work in the construction, plumbing, or
-electrical trade for which licensure is required under this chapter and
-includes:
-(i)  a person who builds any structure on his own property for the purpose of
-sale or who builds any structure intended for public use on his own property;
-(ii)  any person who represents himself to be a contractor by advertising or
-any other means;
-(iii)  any person engaged as a maintenance person, other than an employee, who
-regularly engages in activities set forth under the definition of
-"construction trade";
-(iv)  any person engaged in any construction trade for which licensure is
-required under this chapter; or
-(v)  a construction manager who performs management and counseling services on
-a construction project for a fee.
+
+(a) (i)  construction, alteration, remodeling, repairing, wrecking or demolition, addition to, or improvement of any building, highway, road, railroad, dam, bridge, structure, excavation or other project, development, or improvement to other than personal property; and
+
+(ii)  constructing, remodeling, or repairing a manufactured home or mobile home as defined in Section 58-56-3; or
+
+(b)  installation or repair of a residential or commercial natural gas appliance or combustion system.
+
+(11)  "Construction trades instructor" means a person licensed under this chapter to teach one or more construction trades in both a classroom and project environment, where a project is intended for sale to or use by the public and is completed under the direction of the instructor, who has no economic interest in the project.
+
+(12) (a)  "Contractor" means any person who for compensation other than wages as an employee undertakes any work in the construction, plumbing, or electrical trade for which licensure is required under this chapter and includes:
+
+(i)  a person who builds any structure on his own property for the purpose of sale or who builds any structure intended for public use on his own property;
+
+(ii)  any person who represents himself to be a contractor by advertising or any other means;
+
+(iii)  any person engaged as a maintenance person, other than an employee, who regularly engages in activities set forth under the definition of "construction trade";
+
+(iv)  any person engaged in any construction trade for which licensure is required under this chapter; or
+
+(v)  a construction manager who performs management and counseling services on a construction project for a fee.
+
 (b)  "Contractor" does not include an alarm company or alarm company agent.
-(13) (a)  "Electrical trade" means the performance of any electrical work
-involved in the installation, construction, alteration, change, repair,
-removal, or maintenance of facilities, buildings, or appendages or
-appurtenances.
+
+(13) (a)  "Electrical trade" means the performance of any electrical work involved in the installation, construction, alteration, change, repair, removal, or maintenance of facilities, buildings, or appendages or appurtenances.
+
 (b)  "Electrical trade" does not include:
+
 (i)  transporting or handling electrical materials;
+
 (ii)  preparing clearance for raceways for wiring; or
-(iii)  work commonly done by unskilled labor on any installations under the
-exclusive control of electrical utilities.
+
+(iii)  work commonly done by unskilled labor on any installations under the exclusive control of electrical utilities.
+
 (c)  For purposes of Subsection (13)(b):
-(i)  no more than one unlicensed person may be so employed unless more than
-five licensed electricians are employed by the shop; and
-(ii)  a shop may not employ unlicensed persons in excess of the five-to-one
-ratio permitted by this Subsection (13)(c).
-(14)  "Elevator" has the same meaning as defined in Section 34A-7-202, except
-that for purposes of this chapter it does not mean a stair chair, a vertical
-platform lift, or an incline platform lift.
-(15)  "Elevator contractor" means a sole proprietor, firm, or corporation
-licensed under this chapter that is engaged in the business of erecting,
-constructing, installing, altering, servicing, repairing, or maintaining an
-elevator.
-(16)  "Elevator mechanic" means an individual who is licensed under this
-chapter as an elevator mechanic and who is engaged in erecting, constructing,
-installing, altering, servicing, repairing, or maintaining an elevator under
-the immediate supervision of an elevator contractor.
-(17)  "Employee" means an individual as defined by the division by rule giving
-consideration to the definition adopted by the Internal Revenue Service and
-the Department of Workforce Services.
+
+(i)  no more than one unlicensed person may be so employed unless more than five licensed electricians are employed by the shop; and
+
+(ii)  a shop may not employ unlicensed persons in excess of the five-to-one ratio permitted by this Subsection (13)(c).
+
+(14)  "Elevator" has the same meaning as defined in Section 34A-7-202, except that for purposes of this chapter it does not mean a stair chair, a vertical platform lift, or an incline platform lift.
+
+(15)  "Elevator contractor" means a sole proprietor, firm, or corporation licensed under this chapter that is engaged in the business of erecting, constructing, installing, altering, servicing, repairing, or maintaining an elevator.
+
+(16)  "Elevator mechanic" means an individual who is licensed under this chapter as an elevator mechanic and who is engaged in erecting, constructing, installing, altering, servicing, repairing, or maintaining an elevator under the immediate supervision of an elevator contractor.
+
+(17)  "Employee" means an individual as defined by the division by rule giving consideration to the definition adopted by the Internal Revenue Service and the Department of Workforce Services.
+
 (18)  "Engage in a construction trade" means to:
-(a)  engage in, represent oneself to be engaged in, or advertise oneself as
-being engaged in a construction trade; or
-(b)  use the name "contractor" or "builder" or in any other way lead a
-reasonable person to believe one is or will act as a contractor.
-(19) (a)  "Financial responsibility" means a demonstration of a current and
-expected future condition of financial solvency evidencing a reasonable
-expectation to the division and the board that an applicant or licensee can
-successfully engage in business as a contractor without jeopardy to the public
-health, safety, and welfare.
-(b)  Financial responsibility may be determined by an evaluation of the total
-history concerning the licensee or applicant including past, present, and
-expected condition and record of financial solvency and business conduct.
-(20)  "Gas appliance" means any device that uses natural gas to produce light,
-heat, power, steam, hot water, refrigeration, or air conditioning.
-(21) (a)  "General building contractor" means a person licensed under this
-chapter as a general building contractor qualified by education, training,
-experience, and knowledge to perform or superintend construction of structures
-for the support, shelter, and enclosure of persons, animals, chattels, or
-movable property of any kind or any of the components of that construction
-except plumbing, electrical work, mechanical work, and manufactured housing
-installation, for which the general building contractor shall employ the
-services of a contractor licensed in the particular specialty, except that a
-general building contractor engaged in the construction of single-family and
-multifamily residences up to four units may perform the mechanical work and
-hire a licensed plumber or electrician as an employee.
-(b)  The division may by rule exclude general building contractors from
-engaging in the performance of other construction specialties in which there
-is represented a substantial risk to the public health, safety, and welfare,
-and for which a license is required unless that general building contractor
-holds a valid license in that specialty classification.
-(22) (a)  "General engineering contractor" means a person licensed under this
-chapter as a general engineering contractor qualified by education, training,
-experience, and knowledge to perform construction of fixed works in any of the
-following: irrigation, drainage, water, power, water supply, flood control,
-inland waterways, harbors, railroads, highways, tunnels, airports and runways,
-sewers and bridges, refineries, pipelines, chemical and industrial plants
-requiring specialized engineering knowledge and skill, piers, and foundations,
-or any of the components of those works.
-(b)  A general engineering contractor may not perform construction of
-structures built primarily for the support, shelter, and enclosure of persons,
-animals, and chattels.
-(23)  "Immediate supervision" means reasonable direction, oversight,
-inspection, and evaluation of the work of a person:
+
+(a)  engage in, represent oneself to be engaged in, or advertise oneself as being engaged in a construction trade; or
+
+(b)  use the name "contractor" or "builder" or in any other way lead a reasonable person to believe one is or will act as a contractor.
+
+(19) (a)  "Financial responsibility" means a demonstration of a current and expected future condition of financial solvency evidencing a reasonable expectation to the division and the board that an applicant or licensee can successfully engage in business as a contractor without jeopardy to the public health, safety, and welfare.
+
+(b)  Financial responsibility may be determined by an evaluation of the total history concerning the licensee or applicant including past, present, and expected condition and record of financial solvency and business conduct.
+
+(20)  "Gas appliance" means any device that uses natural gas to produce light, heat, power, steam, hot water, refrigeration, or air conditioning.
+
+(21) (a)  "General building contractor" means a person licensed under this chapter as a general building contractor qualified by education, training, experience, and knowledge to perform or superintend construction of structures for the support, shelter, and enclosure of persons, animals, chattels, or movable property of any kind or any of the components of that construction except plumbing, electrical work, mechanical work, and manufactured housing installation, for which the general building contractor shall employ the services of a contractor licensed in the particular specialty, except that a general building contractor engaged in the construction of single-family and multifamily residences up to four units may perform the mechanical work and hire a licensed plumber or electrician as an employee.
+
+(b)  The division may by rule exclude general building contractors from engaging in the performance of other construction specialties in which there is represented a substantial risk to the public health, safety, and welfare, and for which a license is required unless that general building contractor holds a valid license in that specialty classification.
+
+(22) (a)  "General engineering contractor" means a person licensed under this chapter as a general engineering contractor qualified by education, training, experience, and knowledge to perform construction of fixed works in any of the following: irrigation, drainage, water, power, water supply, flood control, inland waterways, harbors, railroads, highways, tunnels, airports and runways, sewers and bridges, refineries, pipelines, chemical and industrial plants requiring specialized engineering knowledge and skill, piers, and foundations, or any of the components of those works.
+
+(b)  A general engineering contractor may not perform construction of structures built primarily for the support, shelter, and enclosure of persons, animals, and chattels.
+
+(23)  "Immediate supervision" means reasonable direction, oversight, inspection, and evaluation of the work of a person:
+
 (a)  as the division specifies in rule;
+
 (b)  by, as applicable, a qualified electrician or plumber;
+
 (c)  as part of a planned program of training; and
+
 (d)  to ensure that the end result complies with applicable standards.
+
 (24)  "Individual" means a natural person.
-(25)  "Journeyman electrician" means a person licensed under this chapter as a
-journeyman electrician having the qualifications, training, experience, and
-knowledge to wire, install, and repair electrical apparatus and equipment for
-light, heat, power, and other purposes.
-(26)  "Journeyman plumber" means a person licensed under this chapter as a
-journeyman plumber having the qualifications, training, experience, and
-technical knowledge to engage in the plumbing trade.
-(27)  "Master electrician" means a person licensed under this chapter as a
-master electrician having the qualifications, training, experience, and
-knowledge to properly plan, layout, and supervise the wiring, installation,
-and repair of electrical apparatus and equipment for light, heat, power, and
-other purposes.
-(28)  "Master plumber" means a person licensed under this chapter as a master
-plumber having the qualifications, training, experience, and knowledge to
-properly plan and layout projects and supervise persons in the plumbing trade.
-(29)  "Person" means a natural person, sole proprietorship, joint venture,
-corporation, limited liability company, association, or organization of any
-type.
-(30) (a)  "Plumbing trade" means the performance of any mechanical work
-pertaining to the installation, alteration, change, repair, removal,
-maintenance, or use in buildings, or within three feet beyond the outside
-walls of buildings of pipes, fixtures, and fittings for:
+
+(25)  "Journeyman electrician" means a person licensed under this chapter as a journeyman electrician having the qualifications, training, experience, and knowledge to wire, install, and repair electrical apparatus and equipment for light, heat, power, and other purposes.
+
+(26)  "Journeyman plumber" means a person licensed under this chapter as a journeyman plumber having the qualifications, training, experience, and technical knowledge to engage in the plumbing trade.
+
+(27)  "Master electrician" means a person licensed under this chapter as a master electrician having the qualifications, training, experience, and knowledge to properly plan, layout, and supervise the wiring, installation, and repair of electrical apparatus and equipment for light, heat, power, and other purposes.
+
+(28)  "Master plumber" means a person licensed under this chapter as a master plumber having the qualifications, training, experience, and knowledge to properly plan and layout projects and supervise persons in the plumbing trade.
+
+(29)  "Person" means a natural person, sole proprietorship, joint venture, corporation, limited liability company, association, or organization of any type.
+
+(30) (a)  "Plumbing trade" means the performance of any mechanical work pertaining to the installation, alteration, change, repair, removal, maintenance, or use in buildings, or within three feet beyond the outside walls of buildings of pipes, fixtures, and fittings for:
+
 (i)  delivery of the water supply;
+
 (ii)  discharge of liquid and water carried waste; or
+
 (iii)  the building drainage system within the walls of the building.
-(b)  "Plumbing trade" includes work pertaining to the water supply,
-distribution pipes, fixtures and fixture traps, soil, waste and vent pipes,
-and the building drain and roof drains together with their devices,
-appurtenances, and connections where installed within the outside walls of the
-building.
-(31) (a)  "Ratio of apprentices" means, for the purpose of determining
-compliance with the requirements for planned programs of training and
-electrician apprentice licensing applications, the shop ratio of apprentice
-electricians to journeyman or master electricians shall be one journeyman or
-master electrician to one apprentice on industrial and commercial work, and
-one journeyman or master electrician to three apprentices on residential work.
-(b)  On-the-job training shall be under circumstances in which the ratio of
-apprentices to supervisors is in accordance with a ratio of one-to-one on
-nonresidential work and up to three apprentices to one supervisor on
-residential projects.
-(32)  "Residential and small commercial contractor" means a person licensed
-under this chapter as a residential and small commercial contractor qualified
-by education, training, experience, and knowledge to perform or superintend
-the construction of single-family residences, multifamily residences up to
-four units, and commercial construction of not more than three stories above
-ground and not more than 20,000 square feet, or any of the components of that
-construction except plumbing, electrical work, mechanical work, and
-manufactured housing installation, for which the residential and small
-commercial contractor shall employ the services of a contractor licensed in
-the particular specialty, except that a residential and small commercial
-contractor engaged in the construction of single-family and multifamily
-residences up to four units may perform the mechanical work and hire a
-licensed plumber or electrician as an employee.
-(33)  "Residential building," as it relates to the license classification of
-residential journeyman plumber and residential master plumber, means a single
-or multiple family dwelling of up to four units.
-(34)  "Residential journeyman electrician" means a person licensed under this
-chapter as a residential journeyman electrician having the qualifications,
-training, experience, and knowledge to wire, install, and repair electrical
-apparatus and equipment for light, heat, power, and other purposes on
-buildings using primarily nonmetallic sheath cable.
-(35)  "Residential journeyman plumber" means a person licensed under this
-chapter as a residential journeyman plumber having the qualifications,
-training, experience, and knowledge to engage in the plumbing trade as limited
-to the plumbing of residential buildings.
-(36)  "Residential master electrician" means a person licensed under this
-chapter as a residential master electrician having the qualifications,
-training, experience, and knowledge to properly plan, layout, and supervise
-the wiring, installation, and repair of electrical apparatus and equipment for
-light, heat, power, and other purposes on residential projects.
-(37)  "Residential master plumber" means a person licensed under this chapter
-as a residential master plumber having the qualifications, training,
-experience, and knowledge to properly plan and layout projects and supervise
-persons in the plumbing trade as limited to the plumbing of residential
-buildings.
-(38)  "Residential project," as it relates to an electrician or electrical
-contractor, means buildings primarily wired with nonmetallic sheathed cable,
-in accordance with standard rules and regulations governing this work,
-including the National Electrical Code, and in which the voltage does not
-exceed 250 volts line to line and 125 volts to ground.
-(39) (a)  "Specialty contractor" means a person licensed under this chapter
-under a specialty contractor classification established by rule, who is
-qualified by education, training, experience, and knowledge to perform those
-construction trades and crafts requiring specialized skill, the regulation of
-which are determined by the division to be in the best interest of the public
-health, safety, and welfare.
-(b)  A specialty contractor may perform work in crafts or trades other than
-those in which he is licensed if they are incidental to the performance of his
-licensed craft or trade.
+
+(b)  "Plumbing trade" includes work pertaining to the water supply, distribution pipes, fixtures and fixture traps, soil, waste and vent pipes, and the building drain and roof drains together with their devices, appurtenances, and connections where installed within the outside walls of the building.
+
+(31) (a)  "Ratio of apprentices" means, for the purpose of determining compliance with the requirements for planned programs of training and electrician apprentice licensing applications, the shop ratio of apprentice electricians to journeyman or master electricians shall be one journeyman or master electrician to one apprentice on industrial and commercial work, and one journeyman or master electrician to three apprentices on residential work.
+
+(b)  On-the-job training shall be under circumstances in which the ratio of apprentices to supervisors is in accordance with a ratio of one-to-one on nonresidential work and up to three apprentices to one supervisor on residential projects.
+
+(32)  "Residential and small commercial contractor" means a person licensed under this chapter as a residential and small commercial contractor qualified by education, training, experience, and knowledge to perform or superintend the construction of single-family residences, multifamily residences up to four units, and commercial construction of not more than three stories above ground and not more than 20,000 square feet, or any of the components of that construction except plumbing, electrical work, mechanical work, and manufactured housing installation, for which the residential and small commercial contractor shall employ the services of a contractor licensed in the particular specialty, except that a residential and small commercial contractor engaged in the construction of single-family and multifamily residences up to four units may perform the mechanical work and hire a licensed plumber or electrician as an employee.
+
+(33)  "Residential building," as it relates to the license classification of residential journeyman plumber and residential master plumber, means a single or multiple family dwelling of up to four units.
+
+(34)  "Residential journeyman electrician" means a person licensed under this chapter as a residential journeyman electrician having the qualifications, training, experience, and knowledge to wire, install, and repair electrical apparatus and equipment for light, heat, power, and other purposes on buildings using primarily nonmetallic sheath cable.
+
+(35)  "Residential journeyman plumber" means a person licensed under this chapter as a residential journeyman plumber having the qualifications, training, experience, and knowledge to engage in the plumbing trade as limited to the plumbing of residential buildings.
+
+(36)  "Residential master electrician" means a person licensed under this chapter as a residential master electrician having the qualifications, training, experience, and knowledge to properly plan, layout, and supervise the wiring, installation, and repair of electrical apparatus and equipment for light, heat, power, and other purposes on residential projects.
+
+(37)  "Residential master plumber" means a person licensed under this chapter as a residential master plumber having the qualifications, training, experience, and knowledge to properly plan and layout projects and supervise persons in the plumbing trade as limited to the plumbing of residential buildings.
+
+(38)  "Residential project," as it relates to an electrician or electrical contractor, means buildings primarily wired with nonmetallic sheathed cable, in accordance with standard rules and regulations governing this work, including the National Electrical Code, and in which the voltage does not exceed 250 volts line to line and 125 volts to ground.
+
+(39) (a)  "Specialty contractor" means a person licensed under this chapter under a specialty contractor classification established by rule, who is qualified by education, training, experience, and knowledge to perform those construction trades and crafts requiring specialized skill, the regulation of which are determined by the division to be in the best interest of the public health, safety, and welfare.
+
+(b)  A specialty contractor may perform work in crafts or trades other than those in which he is licensed if they are incidental to the performance of his licensed craft or trade.
+
 (40)  "Unlawful conduct" is as defined in Sections 58-1-501 and 58-55-501.
-(41)  "Unprofessional conduct" is as defined in Sections 58-1-501 and
-58-55-502 and as may be further defined by rule.
-(42)  "Wages" means amounts due to an employee for labor or services whether
-the amount is fixed or ascertained on a time, task, piece, commission, or
-other basis for calculating the amount.
+
+(41)  "Unprofessional conduct" is as defined in Sections 58-1-501 and 58-55-502 and as may be further defined by rule.
+
+(42)  "Wages" means amounts due to an employee for labor or services whether the amount is fixed or ascertained on a time, task, piece, commission, or other basis for calculating the amount.
+

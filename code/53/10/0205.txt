@@ -1,4 +1,4 @@
 53-10-205.   Uniform crime reporting system -- Use of data.
-The data acquired under the statewide uniform crime reporting system shall be
-used only for research or statistical purposes and may not contain any
-information that may reveal the identity of an individual victim of a crime.
+
+The data acquired under the statewide uniform crime reporting system shall be used only for research or statistical purposes and may not contain any information that may reveal the identity of an individual victim of a crime.
+

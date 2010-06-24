@@ -1,14 +1,10 @@
 78B-11-107.   Validity of agreement to arbitrate.
-(1)  An agreement contained in a record to submit to arbitration any existing
-or subsequent controversy arising between the parties to the agreement is
-valid, enforceable, and irrevocable except upon a ground that exists at law or
-in equity for the revocation of a contract.
-(2)  The court shall decide whether an agreement to arbitrate exists or a
-controversy is subject to an agreement to arbitrate.
-(3)  An arbitrator shall decide whether a condition precedent to arbitrability
-has been fulfilled and whether a contract containing a valid agreement to
-arbitrate is enforceable.
-(4)  If a party to a judicial proceeding challenges the existence of, or
-claims that a controversy is not subject to, an agreement to arbitrate, the
-arbitration proceeding may continue pending final resolution of the issue by
-the court, unless the court otherwise orders.
+
+(1)  An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract.
+
+(2)  The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate.
+
+(3)  An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.
+
+(4)  If a party to a judicial proceeding challenges the existence of, or claims that a controversy is not subject to, an agreement to arbitrate, the arbitration proceeding may continue pending final resolution of the issue by the court, unless the court otherwise orders.
+

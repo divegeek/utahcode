@@ -1,44 +1,4 @@
 7-7-24.   Earnings on savings accounts.
-An association may pay earnings on its savings accounts from sources available
-for payment of earnings at such rate and for such times as shall be determined
-by resolution of its board of directors. All savings account holders shall
-participate equally in earnings pro rata to the withdrawal value of their
-respective accounts, except that an association may classify its savings
-accounts according to the character, amount, duration, regularity of additions
-thereto, or, if the association is operating in more than one state, the state
-in which the account is located. An association may pay different earnings
-according to those classifications. An association may agree in advance to pay
-an additional or different rate of earnings on all savings accounts in the
-same account classification, and shall regulate those earnings in such manner
-that each savings account in the same classification shall receive the same
-ratable portion of the additional earnings. Except for accounts which shall be
-classified according to a specified contractual time or notice period,
-earnings shall be declared on the withdrawal value of each savings account at
-the beginning of the accounting period, plus additions thereto made during the
-period (less amounts previously withdrawn and noticed for withdrawal, which
-for earnings purposes shall be deducted from the latest previous additions
-thereto) computed at the declared rate for the time the funds have been
-invested, determined as next provided. The date of investment shall be the
-date of actual receipt by the association of an account or an addition to an
-account, except that if the board of directors shall so determine, accounts in
-one or more classifications or additions thereto received by the association
-on or before a date not later than the 20th day of the month (unless the day
-determined is not a business day, in which case it shall be the next
-succeeding business day) shall receive earnings as if invested on the first
-day of the month in which the payments were received. If the board shall make
-this determination, it also shall determine that payments received after the
-determination date shall either (1) receive earnings as if invested on the
-first day of the next succeeding month or (2) receive earnings from the date
-of actual receipt by the association. The board of directors, by resolution,
-may determine that earnings may not be paid on designated savings accounts (1)
-from which withdrawals may be made on demand or by negotiable and transferable
-order or authorization, or (2) which have a withdrawal value of a specified
-amount, or (3) which are intended to be closed within a specified period less
-than 24 months from the date on which the savings account is opened, or (4)
-which are established for the purpose of accumulating funds to pay taxes or
-insurance premiums, or both, in connection with a loan, to the extent
-permitted by the provisions of the Interest on Mortgage Loan Reserve Accounts
-Act, Sections 7-17-1 through 7-17-10. The directors shall determine by
-resolution the method of calculating the amount of any earnings on any savings
-account classification as herein provided, and the time or times when earnings
-are to be declared, paid, or credited.
+
+An association may pay earnings on its savings accounts from sources available for payment of earnings at such rate and for such times as shall be determined by resolution of its board of directors. All savings account holders shall participate equally in earnings pro rata to the withdrawal value of their respective accounts, except that an association may classify its savings accounts according to the character, amount, duration, regularity of additions thereto, or, if the association is operating in more than one state, the state in which the account is located. An association may pay different earnings according to those classifications. An association may agree in advance to pay an additional or different rate of earnings on all savings accounts in the same account classification, and shall regulate those earnings in such manner that each savings account in the same classification shall receive the same ratable portion of the additional earnings. Except for accounts which shall be classified according to a specified contractual time or notice period, earnings shall be declared on the withdrawal value of each savings account at the beginning of the accounting period, plus additions thereto made during the period (less amounts previously withdrawn and noticed for withdrawal, which for earnings purposes shall be deducted from the latest previous additions thereto) computed at the declared rate for the time the funds have been invested, determined as next provided. The date of investment shall be the date of actual receipt by the association of an account or an addition to an account, except that if the board of directors shall so determine, accounts in one or more classifications or additions thereto received by the association on or before a date not later than the 20th day of the month (unless the day determined is not a business day, in which case it shall be the next succeeding business day) shall receive earnings as if invested on the first day of the month in which the payments were received. If the board shall make this determination, it also shall determine that payments received after the determination date shall either (1) receive earnings as if invested on the first day of the next succeeding month or (2) receive earnings from the date of actual receipt by the association. The board of directors, by resolution, may determine that earnings may not be paid on designated savings accounts (1) from which withdrawals may be made on demand or by negotiable and transferable order or authorization, or (2) which have a withdrawal value of a specified amount, or (3) which are intended to be closed within a specified period less than 24 months from the date on which the savings account is opened, or (4) which are established for the purpose of accumulating funds to pay taxes or insurance premiums, or both, in connection with a loan, to the extent permitted by the provisions of the Interest on Mortgage Loan Reserve Accounts Act, Sections 7-17-1 through 7-17-10. The directors shall determine by resolution the method of calculating the amount of any earnings on any savings account classification as herein provided, and the time or times when earnings are to be declared, paid, or credited.
+

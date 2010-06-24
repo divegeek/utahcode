@@ -1,72 +1,54 @@
 19-6-113.   Violations -- Penalties -- Reimbursement for expenses.
-(1)  As used in this section, "RCRA" means the Resource Conservation and
-Recovery Act, 42 U.S.C. Section 6901, et seq.
-(2)  Any person who violates any order, plan, rule, or other requirement
-issued or adopted under this part is subject in a civil proceeding to a
-penalty of not more than $13,000 per day for each day of violation.
+
+(1)  As used in this section, "RCRA" means the Resource Conservation and Recovery Act, 42 U.S.C. Section 6901, et seq.
+
+(2)  Any person who violates any order, plan, rule, or other requirement issued or adopted under this part is subject in a civil proceeding to a penalty of not more than $13,000 per day for each day of violation.
+
 (3)  On or after July 1, 1990, no person shall knowingly:
-(a)  transport or cause to be transported any hazardous waste identified or
-listed under this part to a facility that does not have a hazardous waste
-operation plan or permit under this part or RCRA;
-(b)  treat, store, or dispose of any hazardous waste identified or listed
-under this part:
-(i)  without having obtained a hazardous waste operation plan or permit as
-required by this part or RCRA;
-(ii)  in knowing violation of any material condition or requirement of a
-hazardous waste operation plan or permit; or
-(iii)  in knowing violation of any material condition or requirement of any
-rules or regulations under this part or RCRA;
-(c)  omit material information or make any false material statement or
-representation in any application, label, manifest, record, report, permit,
-operation plan, or other document filed, maintained, or used for purposes of
-compliance with this part or RCRA or any rules or regulations made under this
-part or RCRA; and
-(d)  transport or cause to be transported without a manifest, any hazardous
-waste identified or listed under this part and required by rules or
-regulations made under this part or RCRA to be accompanied by a manifest.
-(4) (a) (i)  Any person who knowingly violates any provision of Subsection
-(3)(a) or (b) is guilty of a felony.
-(ii)  Notwithstanding Sections 76-3-203, 76-3-301, and 76-3-302, a person
-convicted of a felony under Subsection (3)(a) or (b) is subject to a fine of
-not more than $50,000 for each day of violation, or imprisonment for a term
-not to exceed five years, or both.
-(iii)  If a person is convicted of a second or subsequent violation under
-Subsection (3)(a) or (b), the maximum punishment is double both the fine and
-the term of imprisonment authorized in Subsection (4)(a)(ii).
-(b) (i)  Any person who knowingly violates any of the provisions of Subsection
-(3)(c) or (d) is guilty of a felony.
-(ii)  Notwithstanding Sections 76-3-203, 76-3-301, and 76-3-302, a person
-convicted of a felony for a violation of Subsection (3)(c) or (d) is subject
-to a fine of not more than $50,000 for each day of violation, or imprisonment
-for a term not to exceed two years, or both.
-(iii)  If a person is convicted of a second or subsequent violation under
-Subsection (3)(c) or (d), the maximum punishment is double both the fine and
-the imprisonment authorized in Subsection (4)(b)(ii).
-(c) (i)  Any person who knowingly transports, treats, stores, or disposes of
-any hazardous waste identified or listed under this part in violation of
-Subsection (3)(a), (b), (c), or (d), who knows at that time that he thereby
-places another person in imminent danger of death or serious bodily injury is
-guilty of a felony.
-(ii)  Notwithstanding Sections 76-3-203, 76-3-301, and 76-3-302, a person
-convicted of a felony described in Subsection (4)(c)(i) is subject to a fine
-of not more than $250,000 or imprisonment for a term not to exceed 15 years,
-or both.
-(iii)  A corporation, association, partnership, or governmental
-instrumentality, upon conviction of violating Subsection (4)(c)(i), is subject
-to a fine of not more than $1,000,000.
-(5) (a)  Except as provided in Subsections (5)(b) and (c) and Section
-19-6-722, all penalties assessed and collected under authority of this section
-shall be deposited in the General Fund.
-(b)  The department may reimburse itself and local governments from money
-collected from civil penalties for qualifying extraordinary expenses incurred
-in qualifying environmental enforcement activities.
-(c)  Notwithstanding the provisions of Section 78A-5-110, the department may
-reimburse itself and local governments from money collected from criminal
-fines for qualifying extraordinary expenses incurred in prosecutions for
-violations of this part.
+
+(a)  transport or cause to be transported any hazardous waste identified or listed under this part to a facility that does not have a hazardous waste operation plan or permit under this part or RCRA;
+
+(b)  treat, store, or dispose of any hazardous waste identified or listed under this part:
+
+(i)  without having obtained a hazardous waste operation plan or permit as required by this part or RCRA;
+
+(ii)  in knowing violation of any material condition or requirement of a hazardous waste operation plan or permit; or
+
+(iii)  in knowing violation of any material condition or requirement of any rules or regulations under this part or RCRA;
+
+(c)  omit material information or make any false material statement or representation in any application, label, manifest, record, report, permit, operation plan, or other document filed, maintained, or used for purposes of compliance with this part or RCRA or any rules or regulations made under this part or RCRA; and
+
+(d)  transport or cause to be transported without a manifest, any hazardous waste identified or listed under this part and required by rules or regulations made under this part or RCRA to be accompanied by a manifest.
+
+(4) (a) (i)  Any person who knowingly violates any provision of Subsection (3)(a) or (b) is guilty of a felony.
+
+(ii)  Notwithstanding Sections 76-3-203, 76-3-301, and 76-3-302, a person convicted of a felony under Subsection (3)(a) or (b) is subject to a fine of not more than $50,000 for each day of violation, or imprisonment for a term not to exceed five years, or both.
+
+(iii)  If a person is convicted of a second or subsequent violation under Subsection (3)(a) or (b), the maximum punishment is double both the fine and the term of imprisonment authorized in Subsection (4)(a)(ii).
+
+(b) (i)  Any person who knowingly violates any of the provisions of Subsection (3)(c) or (d) is guilty of a felony.
+
+(ii)  Notwithstanding Sections 76-3-203, 76-3-301, and 76-3-302, a person convicted of a felony for a violation of Subsection (3)(c) or (d) is subject to a fine of not more than $50,000 for each day of violation, or imprisonment for a term not to exceed two years, or both.
+
+(iii)  If a person is convicted of a second or subsequent violation under Subsection (3)(c) or (d), the maximum punishment is double both the fine and the imprisonment authorized in Subsection (4)(b)(ii).
+
+(c) (i)  Any person who knowingly transports, treats, stores, or disposes of any hazardous waste identified or listed under this part in violation of Subsection (3)(a), (b), (c), or (d), who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury is guilty of a felony.
+
+(ii)  Notwithstanding Sections 76-3-203, 76-3-301, and 76-3-302, a person convicted of a felony described in Subsection (4)(c)(i) is subject to a fine of not more than $250,000 or imprisonment for a term not to exceed 15 years, or both.
+
+(iii)  A corporation, association, partnership, or governmental instrumentality, upon conviction of violating Subsection (4)(c)(i), is subject to a fine of not more than $1,000,000.
+
+(5) (a)  Except as provided in Subsections (5)(b) and (c) and Section 19-6-722, all penalties assessed and collected under authority of this section shall be deposited in the General Fund.
+
+(b)  The department may reimburse itself and local governments from money collected from civil penalties for qualifying extraordinary expenses incurred in qualifying environmental enforcement activities.
+
+(c)  Notwithstanding the provisions of Section 78A-5-110, the department may reimburse itself and local governments from money collected from criminal fines for qualifying extraordinary expenses incurred in prosecutions for violations of this part.
+
 (d)  The department shall regulate reimbursements by making rules that define:
+
 (i)  qualifying environmental enforcement activities; and
+
 (ii)  qualifying extraordinary expenses.
-(6)  Prosecution for criminal violations of this part may be commenced by the
-attorney general, the county attorney, or the district attorney as appropriate
-under Section 17-18-1 or 17-18-1.7 in any county where venue is proper.
+
+(6)  Prosecution for criminal violations of this part may be commenced by the attorney general, the county attorney, or the district attorney as appropriate under Section 17-18-1 or 17-18-1.7 in any county where venue is proper.
+

@@ -1,37 +1,24 @@
 78B-15-607.   Limitation -- Child having presumed father.
-(1)  Paternity of a child conceived or born during a marriage with a presumed
-father as described in Subsection 78B-15-204(1)(a), (b), or (c), may be raised
-by the presumed father or the mother at any time prior to filing an action for
-divorce or in the pleadings at the time of the divorce of the parents.
-(a)  If the issue is raised prior to the adjudication, genetic testing may be
-ordered by the tribunal in accordance with Section 78B-15-608.  Failure of the
-mother of the child to appear for testing may result in an order allowing a
-motherless calculation of paternity.  Failure of the mother to make the child
-available may not result in a determination that the presumed father is not
-the father, but shall allow for appropriate proceedings to compel the
-cooperation of the mother.  If the question of paternity has been raised in
-the pleadings in a divorce and the tribunal addresses the issue and enters an
-order, the parties are estopped from raising the issue again, and the order of
-the tribunal may not be challenged on the basis of material mistake of fact.
-(b)  If the presumed father seeks to rebut the presumption of paternity, then
-denial of a motion seeking an order for genetic testing or a decision to
-disregard genetic test results shall be based on a preponderance of the
-evidence.
-(c)  If the mother seeks to rebut the presumption of paternity, the mother has
-the burden to show by a preponderance of the evidence that it would be in the
-best interests of the child to disestablish the parent-child relationship.
-(2)  For the presumption outside of marriage described in Subsection
-78B-15-204(1)(d), the presumption may be rebutted at any time if the tribunal
-determines that the presumed father and the mother of the child neither
-cohabited nor engaged in sexual intercourse with each other during the
-probable time of conception.
+
+(1)  Paternity of a child conceived or born during a marriage with a presumed father as described in Subsection 78B-15-204(1)(a), (b), or (c), may be raised by the presumed father or the mother at any time prior to filing an action for divorce or in the pleadings at the time of the divorce of the parents.
+
+(a)  If the issue is raised prior to the adjudication, genetic testing may be ordered by the tribunal in accordance with Section 78B-15-608.  Failure of the mother of the child to appear for testing may result in an order allowing a motherless calculation of paternity.  Failure of the mother to make the child available may not result in a determination that the presumed father is not the father, but shall allow for appropriate proceedings to compel the cooperation of the mother.  If the question of paternity has been raised in the pleadings in a divorce and the tribunal addresses the issue and enters an order, the parties are estopped from raising the issue again, and the order of the tribunal may not be challenged on the basis of material mistake of fact.
+
+(b)  If the presumed father seeks to rebut the presumption of paternity, then denial of a motion seeking an order for genetic testing or a decision to disregard genetic test results shall be based on a preponderance of the evidence.
+
+(c)  If the mother seeks to rebut the presumption of paternity, the mother has the burden to show by a preponderance of the evidence that it would be in the best interests of the child to disestablish the parent-child relationship.
+
+(2)  For the presumption outside of marriage described in Subsection 78B-15-204(1)(d), the presumption may be rebutted at any time if the tribunal determines that the presumed father and the mother of the child neither cohabited nor engaged in sexual intercourse with each other during the probable time of conception.
+
 (3)  The presumption may be rebutted by:
+
 (a)  genetic test results that exclude the presumed father;
-(b)  genetic test results that rebuttably identify another man as the father
-in accordance with Section 78B-15-505;
-(c)  evidence that the presumed father and the mother of the child neither
-cohabited nor engaged in sexual intercourse with each other during the
-probable time of conception; or
+
+(b)  genetic test results that rebuttably identify another man as the father in accordance with Section 78B-15-505;
+
+(c)  evidence that the presumed father and the mother of the child neither cohabited nor engaged in sexual intercourse with each other during the probable time of conception; or
+
 (d)  an adjudication under this part.
-(4)  There is no presumption to rebut if the presumed father was properly
-served and there has been a final adjudication of the issue.
+
+(4)  There is no presumption to rebut if the presumed father was properly served and there has been a final adjudication of the issue.
+

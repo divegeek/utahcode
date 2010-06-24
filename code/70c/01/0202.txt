@@ -1,55 +1,78 @@
 70C-1-202.   Exempted transactions.
-(1)  Notwithstanding the exceptions in Subsection (2), parties to a credit
-transaction that is otherwise exempt from this title may explicitly agree in
-writing that the transaction is subject to this title.  The agreement shall
-specifically reference Title 70C, Utah Consumer Credit Code.
+
+(1)  Notwithstanding the exceptions in Subsection (2), parties to a credit transaction that is otherwise exempt from this title may explicitly agree in writing that the transaction is subject to this title.  The agreement shall specifically reference Title 70C, Utah Consumer Credit Code.
+
 (2)  This title does not apply to any of the following:
+
 (a)  any extension of credit:
+
 (i)  primarily for business, commercial, or agricultural purposes; or
-(ii)  to other than a natural person including government agencies or
-instrumentalities;
-(b)  any closed-end extension of credit secured by a first lien or equivalent
-security interest on a dwelling or building lot;
-(c)  any transaction in securities or commodities accounts in which credit is
-extended by a broker-dealer registered with the:
+
+(ii)  to other than a natural person including government agencies or instrumentalities;
+
+(b)  any closed-end extension of credit secured by a first lien or equivalent security interest on a dwelling or building lot;
+
+(c)  any transaction in securities or commodities accounts in which credit is extended by a broker-dealer registered with the:
+
 (i)  Securities and Exchange Commission; or
+
 (ii)  Commodity Futures Trading Commission;
+
 (d)  any extension of credit:
+
 (i)  not secured by:
+
 (A)  real property; or
-(B)  personal property used or expected to be used as the principal dwelling
-of the consumer; and
+
+(B)  personal property used or expected to be used as the principal dwelling of the consumer; and
+
 (ii) (A)  in which the amount financed exceeds $25,000; or
-(B)  in which there is an express written commitment to extend credit in
-excess of $25,000;
-(e)  any transaction under public utility or common carrier tariffs if a
-subdivision of this state or the United States regulates:
+
+(B)  in which there is an express written commitment to extend credit in excess of $25,000;
+
+(e)  any transaction under public utility or common carrier tariffs if a subdivision of this state or the United States regulates:
+
 (i)  the charges for the services involved;
+
 (ii)  the charges for delayed payment; and
+
 (iii)  any discount allowed for early payment;
-(f)  any sale of insurance by an insurer except as otherwise provided in
-Chapter 6, Insurance;
-(g)  any transaction with a party acting as a pawnbroker and licensed by any
-governmental authority in this state;
-(h) (i)  a loan made, insured, or guaranteed pursuant to a program authorized
-by Title IV of the Higher Education Act of 1965, 20 U.S.C. Sections 1070, et
-seq.; or
+
+(f)  any sale of insurance by an insurer except as otherwise provided in Chapter 6, Insurance;
+
+(g)  any transaction with a party acting as a pawnbroker and licensed by any governmental authority in this state;
+
+(h) (i)  a loan made, insured, or guaranteed pursuant to a program authorized by Title IV of the Higher Education Act of 1965, 20 U.S.C. Sections 1070, et seq.; or
+
 (ii)  a loan:
+
 (A)  that finances tuition and other expenses:
+
 (I)  charged in connection with enrollment:
-(Aa) at a public or proprietary preprimary, secondary, vocational, or
-postsecondary school; or
-(Bb)  in any tutorial, continuing education, test preparation, distance-
-learning, or similar program; and
+
+(Aa) at a public or proprietary preprimary, secondary, vocational, or postsecondary school; or
+
+(Bb)  in any tutorial, continuing education, test preparation, distance-learning, or similar program; and
+
 (II)  including:
+
 (Aa)  tuition;
+
 (Bb)  fees;
+
 (Cc)  books;
+
 (Dd)  housing; and
+
 (Ee)  other expenses;
+
 (B)  that is:
+
 (I)  made, insured, or guaranteed under a state program; or
+
 (II)  made by a federally insured depository institution; and
-(C)  including a loan that consolidates or refinances a loan described in this
-Subsection (2)(h)(ii); and
+
+(C)  including a loan that consolidates or refinances a loan described in this Subsection (2)(h)(ii); and
+
 (i)  a rental purchase agreement as defined in Section 15-8-3.
+

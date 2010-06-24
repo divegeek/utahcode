@@ -1,26 +1,12 @@
 70A-2a-518.   Cover -- Substitute goods.
-(1)  After default by a lessor under the lease contract of the type described
-in Section 70A-2a-508, or if agreed after other default by the lessor, the
-lessee may cover by making any purchase or lease of or contract to purchase or
-lease goods in substitution for those due from the lessor.
-(2)  Except as otherwise provided with respect to damages liquidated in the
-lease agreement as provided in Section 70A-2a-504 or otherwise determined
-pursuant to agreement of the parties as provided in Sections 70A-1a-302 and
-70A-2a-503, if a lessee's cover is by lease agreement substantially similar to
-the original lease agreement and the lease agreement is made in good faith and
-in a commercially reasonable manner, the lessee may recover from the lessor as
-damages:
-(a)  the present value, as of the date of the commencement of the term of the
-new lease agreement, of the rent under the new lease agreement applicable to
-that period of the new lease term that is comparable to the then remaining
-term of the original lease agreement, minus the present value as of the same
-date of the total rent for the then remaining lease term of the original lease
-agreement; and
-(b)  any incidental or consequential damages less expenses saved in
-consequence of the lessor's default.
-(3)  If a lessee's cover is by lease agreement that qualifies for treatment
-under Subsection (2), the lessee may elect to proceed under Subsection (2) or
-Section 70A-2a-519.  If a lessee's cover is by lease agreement that for any
-reason does not qualify for treatment under Subsection (2), or is by purchase
-or otherwise, the lessee may recover from the lessor under Section 70A-2a-519
-as if the lessee had elected not to cover.
+
+(1)  After default by a lessor under the lease contract of the type described in Section 70A-2a-508, or if agreed after other default by the lessor, the lessee may cover by making any purchase or lease of or contract to purchase or lease goods in substitution for those due from the lessor.
+
+(2)  Except as otherwise provided with respect to damages liquidated in the lease agreement as provided in Section 70A-2a-504 or otherwise determined pursuant to agreement of the parties as provided in Sections 70A-1a-302 and 70A-2a-503, if a lessee's cover is by lease agreement substantially similar to the original lease agreement and the lease agreement is made in good faith and in a commercially reasonable manner, the lessee may recover from the lessor as damages:
+
+(a)  the present value, as of the date of the commencement of the term of the new lease agreement, of the rent under the new lease agreement applicable to that period of the new lease term that is comparable to the then remaining term of the original lease agreement, minus the present value as of the same date of the total rent for the then remaining lease term of the original lease agreement; and
+
+(b)  any incidental or consequential damages less expenses saved in consequence of the lessor's default.
+
+(3)  If a lessee's cover is by lease agreement that qualifies for treatment under Subsection (2), the lessee may elect to proceed under Subsection (2) or Section 70A-2a-519.  If a lessee's cover is by lease agreement that for any reason does not qualify for treatment under Subsection (2), or is by purchase or otherwise, the lessee may recover from the lessor under Section 70A-2a-519 as if the lessee had elected not to cover.
+

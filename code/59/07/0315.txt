@@ -1,15 +1,10 @@
-59-7-315.   Payroll factor for apportionment of business income --
-Compensation of flight personnel by an airline.
-(1)  Except as provided in Subsection (2), the payroll factor is a fraction,
-the numerator of which is the total amount paid in this state during the tax
-period by the taxpayer for compensation, and the denominator of which is the
-total compensation paid everywhere during the tax period.
-(2)  The total amount paid in this state during the tax period by an airline
-for compensation attributable to the compensation of flight personnel for
-purposes of the numerator of the fraction described in Subsection (1) shall be
-calculated for each aircraft type by determining the product of:
-(a)  the total amount paid during the tax period by the airline to flight
-personnel for compensation for the aircraft type; and
-(b)  a fraction, the numerator of which is the Utah revenue ton miles for the
-aircraft type and the denominator of which is the airline revenue ton miles
-for the aircraft type.
+59-7-315.   Payroll factor for apportionment of business income -- Compensation of flight personnel by an airline.
+
+(1)  Except as provided in Subsection (2), the payroll factor is a fraction, the numerator of which is the total amount paid in this state during the tax period by the taxpayer for compensation, and the denominator of which is the total compensation paid everywhere during the tax period.
+
+(2)  The total amount paid in this state during the tax period by an airline for compensation attributable to the compensation of flight personnel for purposes of the numerator of the fraction described in Subsection (1) shall be calculated for each aircraft type by determining the product of:
+
+(a)  the total amount paid during the tax period by the airline to flight personnel for compensation for the aircraft type; and
+
+(b)  a fraction, the numerator of which is the Utah revenue ton miles for the aircraft type and the denominator of which is the airline revenue ton miles for the aircraft type.
+

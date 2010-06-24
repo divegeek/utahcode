@@ -1,61 +1,42 @@
 70A-8-109.   Applicability -- Choice of law.
-(1)  The local law of the issuer's jurisdiction, as specified in Subsection
-(4), governs:
+
+(1)  The local law of the issuer's jurisdiction, as specified in Subsection (4), governs:
+
 (a)  the validity of a security;
-(b)  the rights and duties of the issuer with respect to registration of
-transfer;
+
+(b)  the rights and duties of the issuer with respect to registration of transfer;
+
 (c)  the effectiveness of registration of transfer by the issuer;
-(d)  whether the issuer owes any duties to an adverse claimant to a security;
-and
-(e)  whether an adverse claim can be asserted against a person to whom
-transfer of a certificated or uncertificated security is registered or a
-person who obtains control of an uncertificated security.
-(2)  The local law of the securities intermediary's jurisdiction, as specified
-in Subsection (5), governs:
+
+(d)  whether the issuer owes any duties to an adverse claimant to a security; and
+
+(e)  whether an adverse claim can be asserted against a person to whom transfer of a certificated or uncertificated security is registered or a person who obtains control of an uncertificated security.
+
+(2)  The local law of the securities intermediary's jurisdiction, as specified in Subsection (5), governs:
+
 (a)  acquisition of a security entitlement from the securities intermediary;
-(b)  the rights and duties of the securities intermediary and entitlement
-holder arising out of a security entitlement;
-(c)  whether the securities intermediary owes any duties to an adverse
-claimant to a security entitlement; and
-(d)  whether an adverse claim can be asserted against a person who acquires a
-security entitlement from the securities intermediary or a person who
-purchases a security entitlement or interest therein from an entitlement
-holder.
-(3)  The local law of the jurisdiction in which a security certificate is
-located at the time of delivery governs whether an adverse claim can be
-asserted against a person to whom the security certificate is delivered.
-(4)  "Issuer's jurisdiction" means the jurisdiction under which the issuer of
-the security is organized or, if permitted by the law of that jurisdiction,
-the law of another jurisdiction specified by the issuer.  An issuer organized
-under the law of this state may specify the law of another jurisdiction as the
-law governing the matters specified in Subsections (1)(b) through (e).
-(5)  The following rules determine a "securities intermediary's jurisdiction"
-for purposes of this section:
-(a)  If an agreement between the securities intermediary and its entitlement
-holder governing the securities account expressly provides that a particular
-jurisdiction is the securities intermediary's jurisdiction for purposes of
-this part, this chapter, or this title, that jurisdiction is the securities
-intermediary's jurisdiction.
-(b)  If Subsection (5)(a) does not apply and an agreement between the
-securities intermediary and its entitlement holder governing the securities
-account expressly provides that the agreement is governed by the law of a
-particular jurisdiction, that jurisdiction is the securities intermediary's
-jurisdiction.
-(c)  If neither Subsection (5)(a) nor Subsection (5)(b) applies and an
-agreement between the securities intermediary and its entitlement holder
-governing the securities account expressly provides that the securities
-account is maintained at an office in a particular jurisdiction, that
-jurisdiction is the securities intermediary's jurisdiction.
-(d)  If Subsections (5)(a) through (c) do not apply, the securities
-intermediary's jurisdiction is the jurisdiction in which the office identified
-in an account statement as the office serving the entitlement holder's account
-is located.
-(e)  If Subsections (5)(a) through (d) do not apply, the securities
-intermediary's jurisdiction is the jurisdiction in which the chief executive
-office of the securities intermediary is located.
-(6)  A securities intermediary's jurisdiction is not determined by the
-physical location of certificates representing financial assets, or by the
-jurisdiction in which is organized the issuer of the financial asset with
-respect to which an entitlement holder has a security entitlement, or by the
-location of facilities for data processing or other record keeping concerning
-the account.
+
+(b)  the rights and duties of the securities intermediary and entitlement holder arising out of a security entitlement;
+
+(c)  whether the securities intermediary owes any duties to an adverse claimant to a security entitlement; and
+
+(d)  whether an adverse claim can be asserted against a person who acquires a security entitlement from the securities intermediary or a person who purchases a security entitlement or interest therein from an entitlement holder.
+
+(3)  The local law of the jurisdiction in which a security certificate is located at the time of delivery governs whether an adverse claim can be asserted against a person to whom the security certificate is delivered.
+
+(4)  "Issuer's jurisdiction" means the jurisdiction under which the issuer of the security is organized or, if permitted by the law of that jurisdiction, the law of another jurisdiction specified by the issuer.  An issuer organized under the law of this state may specify the law of another jurisdiction as the law governing the matters specified in Subsections (1)(b) through (e).
+
+(5)  The following rules determine a "securities intermediary's jurisdiction" for purposes of this section:
+
+(a)  If an agreement between the securities intermediary and its entitlement holder governing the securities account expressly provides that a particular jurisdiction is the securities intermediary's jurisdiction for purposes of this part, this chapter, or this title, that jurisdiction is the securities intermediary's jurisdiction.
+
+(b)  If Subsection (5)(a) does not apply and an agreement between the securities intermediary and its entitlement holder governing the securities account expressly provides that the agreement is governed by the law of a particular jurisdiction, that jurisdiction is the securities intermediary's jurisdiction.
+
+(c)  If neither Subsection (5)(a) nor Subsection (5)(b) applies and an agreement between the securities intermediary and its entitlement holder governing the securities account expressly provides that the securities account is maintained at an office in a particular jurisdiction, that jurisdiction is the securities intermediary's jurisdiction.
+
+(d)  If Subsections (5)(a) through (c) do not apply, the securities intermediary's jurisdiction is the jurisdiction in which the office identified in an account statement as the office serving the entitlement holder's account is located.
+
+(e)  If Subsections (5)(a) through (d) do not apply, the securities intermediary's jurisdiction is the jurisdiction in which the chief executive office of the securities intermediary is located.
+
+(6)  A securities intermediary's jurisdiction is not determined by the physical location of certificates representing financial assets, or by the jurisdiction in which is organized the issuer of the financial asset with respect to which an entitlement holder has a security entitlement, or by the location of facilities for data processing or other record keeping concerning the account.
+

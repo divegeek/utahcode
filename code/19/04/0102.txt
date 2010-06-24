@@ -1,33 +1,46 @@
 19-4-102.   Definitions.
+
 As used in this chapter:
+
 (1)  "Board" means the Drinking Water Board appointed under Section 19-4-103.
-(2)  "Contaminant" means a physical, chemical, biological, or radiological
-substance or matter in water.
+
+(2)  "Contaminant" means a physical, chemical, biological, or radiological substance or matter in water.
+
 (3)  "Executive secretary" means the executive secretary of the board.
-(4) (a)  "Groundwater source" means an underground opening from or through
-which groundwater flows or is pumped from a subsurface water-bearing
-formation.
+
+(4) (a)  "Groundwater source" means an underground opening from or through which groundwater flows or is pumped from a subsurface water-bearing formation.
+
 (b)  "Groundwater source" includes:
+
 (i)  a well;
+
 (ii)  a spring;
+
 (iii)  a tunnel; or
+
 (iv)  an adit.
-(5)  "Maximum contaminant level" means the maximum permissible level of a
-contaminant in water that is delivered to a user of a public water system.
-(6) (a)  "Public water system" means a system providing water for human
-consumption and other domestic uses that:
+
+(5)  "Maximum contaminant level" means the maximum permissible level of a contaminant in water that is delivered to a user of a public water system.
+
+(6) (a)  "Public water system" means a system providing water for human consumption and other domestic uses that:
+
 (i)  has at least 15 service connections; or
-(ii)  serves an average of 25 individuals daily for at least 60 days of the
-year.
+
+(ii)  serves an average of 25 individuals daily for at least 60 days of the year.
+
 (b)  "Public water system" includes:
-(i)  a collection, treatment, storage, or distribution facility under the
-control of the operator and used primarily in connection with the system; and
-(ii)  a collection, pretreatment, or storage facility used primarily in
-connection with the system but not under the operator's control.
+
+(i)  a collection, treatment, storage, or distribution facility under the control of the operator and used primarily in connection with the system; and
+
+(ii)  a collection, pretreatment, or storage facility used primarily in connection with the system but not under the operator's control.
+
 (7)  "Retail water supplier" means a person that:
-(a)  supplies water for human consumption and other domestic uses to an end
-user; and
+
+(a)  supplies water for human consumption and other domestic uses to an end user; and
+
 (b)  has more than 500 service connections.
+
 (8)  "Supplier" means a person who owns or operates a public water system.
-(9)  "Wholesale water supplier" means a person that provides most of that
-person's water to a retail water supplier.
+
+(9)  "Wholesale water supplier" means a person that provides most of that person's water to a retail water supplier.
+

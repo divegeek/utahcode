@@ -1,55 +1,34 @@
-54-8b-4.5.   Commission order -- Negotiated provisions of services --
-Contracts under this section.
-(1) (a)  The commission may enter an order partially or wholly exempting any
-public telecommunications service from any requirement of this title relating
-to rates, tariffs, or fares.
-(b)  The commission may authorize the provision of all or any portion of a
-public telecommunications service under stated or negotiated terms to any
-person that is committed to the acquisition of comparable telecommunications
-services from an alternative source of supply through construction, lease, or
-any other form of acquisition.
-(2)  An incumbent telephone corporation may negotiate with the person or
-entity within the incumbent telephone corporation's service territory for the
-provision of retail end user public telecommunications services without regard
-to the provisions of any tariffs on file and approved by the commission, or
-any price list or competitive contract filed under Section 54-8b-2.3 with the
-commission but any rate, toll, fare, rental, charge, or classification of
-service in such contracts shall comply with Section 54-8b-3.3.
-(3) (a)  Within 10 days after the conclusion of the negotiations and prior to
-the execution of a contract under this section, the incumbent telephone
-corporation shall file with the commission the proposed final agreements and
-other evidence of the public telecommunications services to be provided,
-together with the charges and other conditions of the service.
-(b) (i)  The commission may approve or deny an application, or begin
-adjudicative proceedings to consider approval of a contract under this section
-within 30 days of the filing of the application by the incumbent telephone
-corporation.
-(ii)  If the commission begins adjudicative proceedings, the contract is
-effective when the commission orders that it is effective.
-(iii)  If the commission fails to approve a contract under this section, or
-fails to begin adjudicative proceedings within 30 days, the final contract is
-effective.
-(c)  In determining whether or not to approve a contract under this section,
-the commission shall consider all relevant factors, including, whether or not
-the contract for any rate, toll, fare, rental, charge, or classification of
-service:
+54-8b-4.5.   Commission order -- Negotiated provisions of services -- Contracts under this section.
+
+(1) (a)  The commission may enter an order partially or wholly exempting any public telecommunications service from any requirement of this title relating to rates, tariffs, or fares.
+
+(b)  The commission may authorize the provision of all or any portion of a public telecommunications service under stated or negotiated terms to any person that is committed to the acquisition of comparable telecommunications services from an alternative source of supply through construction, lease, or any other form of acquisition.
+
+(2)  An incumbent telephone corporation may negotiate with the person or entity within the incumbent telephone corporation's service territory for the provision of retail end user public telecommunications services without regard to the provisions of any tariffs on file and approved by the commission, or any price list or competitive contract filed under Section 54-8b-2.3 with the commission but any rate, toll, fare, rental, charge, or classification of service in such contracts shall comply with Section 54-8b-3.3.
+
+(3) (a)  Within 10 days after the conclusion of the negotiations and prior to the execution of a contract under this section, the incumbent telephone corporation shall file with the commission the proposed final agreements and other evidence of the public telecommunications services to be provided, together with the charges and other conditions of the service.
+
+(b) (i)  The commission may approve or deny an application, or begin adjudicative proceedings to consider approval of a contract under this section within 30 days of the filing of the application by the incumbent telephone corporation.
+
+(ii)  If the commission begins adjudicative proceedings, the contract is effective when the commission orders that it is effective.
+
+(iii)  If the commission fails to approve a contract under this section, or fails to begin adjudicative proceedings within 30 days, the final contract is effective.
+
+(c)  In determining whether or not to approve a contract under this section, the commission shall consider all relevant factors, including, whether or not the contract for any rate, toll, fare, rental, charge, or classification of service:
+
 (i)  complies with Section 54-8b-3.3;
+
 (ii)  provides for adequate service at just and reasonable rates.
-(d)  After a contract under this section has become effective, the commission
-shall in the next general rate case for that incumbent telephone corporation:
-(i)  review the contract for consistency with the factors stated in this
-Subsection (3); and
-(ii)  make any adjustment in its rate order, including retroactive
-adjustments, that are necessary to avoid cross subsidization from other
-regulated intrastate telecommunications services.
-(e)  Subsection (3) does not apply to an incumbent telephone corporation
-subject to price regulation for public telecommunications services under
-Section 54-8b-2.3.
-(4)  Any incumbent telephone corporation that provides public
-telecommunications services pursuant to a contract under this section may not
-offer the services under contract in a manner that unfairly discriminates
-between similarly situated customers.
-(5)  Subject to Subsection (4), terms and conditions offered in contracts
-under this section that are different from tariff terms and conditions for the
-same services are not considered discriminatory under Section 54-3-8 and
-Subsection 54-8b-3.3(2).
+
+(d)  After a contract under this section has become effective, the commission shall in the next general rate case for that incumbent telephone corporation:
+
+(i)  review the contract for consistency with the factors stated in this Subsection (3); and
+
+(ii)  make any adjustment in its rate order, including retroactive adjustments, that are necessary to avoid cross subsidization from other regulated intrastate telecommunications services.
+
+(e)  Subsection (3) does not apply to an incumbent telephone corporation subject to price regulation for public telecommunications services under Section 54-8b-2.3.
+
+(4)  Any incumbent telephone corporation that provides public telecommunications services pursuant to a contract under this section may not offer the services under contract in a manner that unfairly discriminates between similarly situated customers.
+
+(5)  Subject to Subsection (4), terms and conditions offered in contracts under this section that are different from tariff terms and conditions for the same services are not considered discriminatory under Section 54-3-8 and Subsection 54-8b-3.3(2).
+

@@ -1,21 +1,20 @@
 16-10a-604.   Fractional shares.
+
 (1)  A corporation may:
-(a)  issue fractions of a share or pay in money the value of fractions of a
-share;
+
+(a)  issue fractions of a share or pay in money the value of fractions of a share;
+
 (b)  arrange for disposition of fractional shares by the shareholders; or
-(c)  issue scrip in registered or bearer form entitling the holder to receive
-a full share upon surrendering enough scrip to equal a full share.
-(2)  Each certificate representing scrip shall be conspicuously labeled
-"scrip" and shall contain the information required to be included on a share
-certificate by Subsections 16-10a-625(2) and (3) and Section 16-10a-627.
-(3)  The holder of a fractional share is entitled to exercise the rights of a
-shareholder, including the right to vote, to receive dividends, and to
-participate in the assets of the corporation upon liquidation.  The holder of
-scrip is not entitled to any of these rights unless the scrip provides for
-them.
-(4)  The board of directors may authorize the issuance of scrip subject to any
-condition considered desirable, including:
-(a)  that the scrip will become void if not exchanged for full shares before a
-specified date; and
-(b)  that the shares for which the scrip is exchangeable may be sold and the
-proceeds paid to the scripholders.
+
+(c)  issue scrip in registered or bearer form entitling the holder to receive a full share upon surrendering enough scrip to equal a full share.
+
+(2)  Each certificate representing scrip shall be conspicuously labeled "scrip" and shall contain the information required to be included on a share certificate by Subsections 16-10a-625(2) and (3) and Section 16-10a-627.
+
+(3)  The holder of a fractional share is entitled to exercise the rights of a shareholder, including the right to vote, to receive dividends, and to participate in the assets of the corporation upon liquidation.  The holder of scrip is not entitled to any of these rights unless the scrip provides for them.
+
+(4)  The board of directors may authorize the issuance of scrip subject to any condition considered desirable, including:
+
+(a)  that the scrip will become void if not exchanged for full shares before a specified date; and
+
+(b)  that the shares for which the scrip is exchangeable may be sold and the proceeds paid to the scripholders.
+

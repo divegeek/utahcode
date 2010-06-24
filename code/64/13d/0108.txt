@@ -1,3 +1,4 @@
 64-13d-108.   Private entity must contract with department.
-An entity may not establish a facility in the state without a contract with
-the department.
+
+An entity may not establish a facility in the state without a contract with the department.
+

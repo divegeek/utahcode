@@ -1,171 +1,146 @@
-59-9-101 (Subsec (2)(c)(iv) Repealed 07/01/13).   Tax basis -- Rates --
-Exemptions -- Rate reductions.
-(1) (a)  Except as provided in Subsection (1)(b), (1)(d), or (5), an admitted
-insurer shall pay to the commission on or before March 31 in each year, a tax
-of 2-1/4% of the total premiums received by it during the preceding calendar
-year from insurance covering property or risks located in this state.
+59-9-101 (Subsec (2)(c)(iv) Repealed 07/01/13).   Tax basis -- Rates -- Exemptions -- Rate reductions.
+
+(1) (a)  Except as provided in Subsection (1)(b), (1)(d), or (5), an admitted insurer shall pay to the commission on or before March 31 in each year, a tax of 2-1/4% of the total premiums received by it during the preceding calendar year from insurance covering property or risks located in this state.
+
 (b)  This Subsection (1) does not apply to:
+
 (i)  workers' compensation insurance, assessed under Subsection (2);
+
 (ii)  title insurance premiums taxed under Subsection (3);
+
 (iii)  annuity considerations;
-(iv)  insurance premiums paid by an institution within the state system of
-higher education as specified in Section 53B-1-102; and
+
+(iv)  insurance premiums paid by an institution within the state system of higher education as specified in Section 53B-1-102; and
+
 (v)  ocean marine insurance.
+
 (c)  The taxable premium under this Subsection (1) shall be reduced by:
-(i)  all premiums returned or credited to policyholders on direct business
-subject to tax in this state;
-(ii)  all premiums received for reinsurance of property or risks located in
-this state; and
-(iii)  the dividends, including premium reduction benefits maturing within the
-year:
+
+(i)  all premiums returned or credited to policyholders on direct business subject to tax in this state;
+
+(ii)  all premiums received for reinsurance of property or risks located in this state; and
+
+(iii)  the dividends, including premium reduction benefits maturing within the year:
+
 (A)  paid or credited to policyholders in this state; or
-(B)  applied in abatement or reduction of premiums due during the preceding
-calendar year.
+
+(B)  applied in abatement or reduction of premiums due during the preceding calendar year.
+
 (d) (i)  For purposes of this Subsection (1)(d):
+
 (A)  "Utah variable life insurance premium" means an insurance premium paid:
+
 (I)  by:
+
 (Aa)  a corporation; or
+
 (Bb)  a trust established or funded by a corporation; and
+
 (II)  for variable life insurance covering risks located within the state.
-(B)  "Variable life insurance" means an insurance policy that provides for
-life insurance, the amount or duration of which varies according to the
-investment experience of one or more separate accounts that are established
-and maintained by the insurer pursuant to Title 31A, Insurance Code.
-(ii)  Notwithstanding Subsection (1)(a), beginning on January 1, 2006, the tax
-on that portion of the total premiums subject to a tax under Subsection (1)(a)
-that is a Utah variable life insurance premium shall be calculated as follows:
+
+(B)  "Variable life insurance" means an insurance policy that provides for life insurance, the amount or duration of which varies according to the investment experience of one or more separate accounts that are established and maintained by the insurer pursuant to Title 31A, Insurance Code.
+
+(ii)  Notwithstanding Subsection (1)(a), beginning on January 1, 2006, the tax on that portion of the total premiums subject to a tax under Subsection (1)(a) that is a Utah variable life insurance premium shall be calculated as follows:
+
 (A)  2-1/4% of the first $100,000 of Utah variable life insurance premiums:
+
 (I)  paid for each variable life insurance policy; and
+
 (II)  received by the admitted insurer in the preceding calendar year; and
+
 (B)  0.08% of the Utah variable life insurance premiums that exceed $100,000:
+
 (I)  paid for the policy described in Subsection (1)(d)(ii)(A); and
+
 (II)  received by the admitted insurer in the preceding calendar year.
-(iii) (A)  On or before October 1, 2009, and every three years after October
-1, 2009, the Revenue and Taxation Interim Committee shall study the rate
-reduction contained in this Subsection (1)(d).
-(B)  As part of the study required by Subsection (1)(d)(iii)(A) the Revenue
-and Taxation Interim Committee shall:
+
+(iii) (A)  On or before October 1, 2009, and every three years after October 1, 2009, the Revenue and Taxation Interim Committee shall study the rate reduction contained in this Subsection (1)(d).
+
+(B)  As part of the study required by Subsection (1)(d)(iii)(A) the Revenue and Taxation Interim Committee shall:
+
 (I)  hear testimony from the commission and industry representatives;
-(II)  make recommendations concerning whether the rate reduction should be
-continued, modified, or repealed; and
+
+(II)  make recommendations concerning whether the rate reduction should be continued, modified, or repealed; and
+
 (III)  make findings regarding:
+
 (Aa)  the cost of the rate reduction;
+
 (Bb)  the purpose and effectiveness of the rate reduction; and
+
 (Cc)  any benefits of the rate reduction to the state.
-(2) (a)  An admitted insurer writing workers' compensation insurance in this
-state, including the Workers' Compensation Fund created under Title 31A,
-Chapter 33, Workers' Compensation Fund, shall pay to the tax commission, on or
-before March 31 in each year, a premium assessment on the basis of the total
-workers' compensation premium income received by the insurer from workers'
-compensation insurance in this state during the preceding calendar year as
-follows:
-(i)  on or before December 31, 2010, an amount of equal to or greater than 1%,
-but equal to or less than 5.75% of the total workers' compensation premium
-income described in this Subsection (2)(a);
-(ii)  on and after January 1, 2011, but on or before December 31, 2011, an
-amount of equal to or greater than 1%, but equal to or less than 4.25% of the
-total workers' compensation premium income described in this Subsection
-(2)(a);
-(iii)  on and after January 1, 2012, but on or before December 31, 2012, an
-amount of equal to or greater than 1%, but equal to or less than 2.25% of the
-total workers' compensation premium income described in this Subsection
-(2)(a); and
-(iv)  on and after January 1, 2013, an amount of equal to or greater than 1%,
-but equal to or less than 1.25% of the total workers' compensation premium
-income described in this Subsection (2)(a).
-(b)  Total workers' compensation premium income means the net written premium
-as calculated before any premium reduction for any insured employer's
-deductible, retention, or reimbursement amounts and also those amounts
-equivalent to premiums as provided in Section 34A-2-202.
-(c)  The percentage of premium assessment applicable for a calendar year shall
-be determined by the Labor Commission under Subsection (2)(d).  The total
-premium income shall be reduced in the same manner as provided in Subsections
-(1)(c)(i) and (1)(c)(ii), but not as provided in Subsection (1)(c)(iii).  The
-tax commission shall promptly remit from the premium assessment collected
-under this Subsection (2):
-(i)  income to the state treasurer for credit to the Employers' Reinsurance
-Fund created under Subsection 34A-2-702(1) as follows:
-(A)  on or before December 31, 2009, an amount of up to 5% of the premium
-income;
-(B)  on and after January 1, 2010, but on or before December 31, 2010, an
-amount of up to 4.5% of the premium income;
-(C)  on and after January 1, 2011, but on or before December 31, 2011, an
-amount of up to 3% of the premium income;
-(D)  on and after January 1, 2012, but on or before December 31, 2012, an
-amount of up to 1% of the premium income; and
-(E)  on and after January 1, 2013, and a subsequent fiscal year, no portion of
-the premium income;
-(ii)  an amount equal to 0.25% of the premium income to the state treasurer
-for credit to the Workplace Safety Account created by Section 34A-2-701;
-(iii)  an amount of up to 0.5% and any remaining assessed percentage of the
-premium income to the state treasurer for credit to the Uninsured Employers'
-Fund created under Section 34A-2-704; and
-(iv)  beginning on January 1, 2010, 0.5% of the premium income to the state
-treasurer for credit to the Industrial Accident Restricted Account created in
-Section 34A-2-705.
-(d) (i)  The Labor Commission shall determine the amount of the premium
-assessment for each year on or before each October 15 of the preceding year.
-The Labor Commission shall make this determination following a public hearing.
-The determination shall be based upon the recommendations of a qualified
-actuary.
-(ii)  The actuary shall recommend a premium assessment rate sufficient to
-provide payments of benefits and expenses from the Employers' Reinsurance Fund
-and to project a funded condition with assets greater than liabilities by no
-later than June 30, 2025.
-(iii)  The actuary shall recommend a premium assessment rate sufficient to
-provide payments of benefits and expenses from the Uninsured Employers' Fund
-and to maintain it at a funded condition with assets equal to or greater than
-liabilities.
-(iv)  At the end of each fiscal year the minimum approximate assets in the
-Employers' Reinsurance Fund shall be $5,000,000 which amount shall be adjusted
-each year beginning in 1990 by multiplying by the ratio that the total
-workers' compensation premium income for the preceding calendar year bears to
-the total workers' compensation premium income for the calendar year 1988.
-(v)  The requirements of Subsection (2)(d)(iv) cease when the future annual
-disbursements from the Employers' Reinsurance Fund are projected to be less
-than the calculations of the corresponding future minimum required assets.
-The Labor Commission shall, after a public hearing, determine if the future
-annual disbursements are less than the corresponding future minimum required
-assets from projections provided by the actuary.
-(vi)  At the end of each fiscal year the minimum approximate assets in the
-Uninsured Employers' Fund shall be $2,000,000, which amount shall be adjusted
-each year beginning in 1990 by multiplying by the ratio that the total
-workers' compensation premium income for the preceding calendar year bears to
-the total workers' compensation premium income for the calendar year 1988.
-(e)  A premium assessment that is to be transferred into the General Fund may
-be collected on premiums received from Utah public agencies.
-(3)  An admitted insurer writing title insurance in this state shall pay to
-the commission, on or before March 31 in each year, a tax of .45% of the total
-premium received by either the insurer or by its agents during the preceding
-calendar year from title insurance concerning property located in this state.
-In calculating this tax, "premium" includes the charges made to an insured
-under or to an applicant for a policy or contract of title insurance for:
-(a)  the assumption by the title insurer of the risks assumed by the issuance
-of the policy or contract of title insurance; and
-(b)  abstracting title, title searching, examining title, or determining the
-insurability of title, and every other activity, exclusive of escrow,
-settlement, or closing charges, whether denominated premium or otherwise, made
-by a title insurer, an agent of a title insurer, a title insurance producer,
-or any of them.
-(4)  Beginning July 1, 1986, a former county mutual and a former mutual
-benefit association shall pay the premium tax or assessment due under this
-chapter.  Premiums received after July 1, 1986, shall be considered in
-determining the tax or assessment.
-(5)  The following insurers are not subject to the premium tax on health care
-insurance that would otherwise be applicable under Subsection (1):
-(a)  an insurer licensed under Title 31A, Chapter 5, Domestic Stock and Mutual
-Insurance Corporations;
-(b)  an insurer licensed under Title 31A, Chapter 7, Nonprofit Health Service
-Insurance Corporations;
-(c)  an insurer licensed under Title 31A, Chapter 8, Health Maintenance
-Organizations and Limited Health Plans;
+
+(2) (a)  An admitted insurer writing workers' compensation insurance in this state, including the Workers' Compensation Fund created under Title 31A, Chapter 33, Workers' Compensation Fund, shall pay to the tax commission, on or before March 31 in each year, a premium assessment on the basis of the total workers' compensation premium income received by the insurer from workers' compensation insurance in this state during the preceding calendar year as follows:
+
+(i)  on or before December 31, 2010, an amount of equal to or greater than 1%, but equal to or less than 5.75% of the total workers' compensation premium income described in this Subsection (2)(a);
+
+(ii)  on and after January 1, 2011, but on or before December 31, 2011, an amount of equal to or greater than 1%, but equal to or less than 4.25% of the total workers' compensation premium income described in this Subsection (2)(a);
+
+(iii)  on and after January 1, 2012, but on or before December 31, 2012, an amount of equal to or greater than 1%, but equal to or less than 2.25% of the total workers' compensation premium income described in this Subsection (2)(a); and
+
+(iv)  on and after January 1, 2013, an amount of equal to or greater than 1%, but equal to or less than 1.25% of the total workers' compensation premium income described in this Subsection (2)(a).
+
+(b)  Total workers' compensation premium income means the net written premium as calculated before any premium reduction for any insured employer's deductible, retention, or reimbursement amounts and also those amounts equivalent to premiums as provided in Section 34A-2-202.
+
+(c)  The percentage of premium assessment applicable for a calendar year shall be determined by the Labor Commission under Subsection (2)(d).  The total premium income shall be reduced in the same manner as provided in Subsections (1)(c)(i) and (1)(c)(ii), but not as provided in Subsection (1)(c)(iii).  The tax commission shall promptly remit from the premium assessment collected under this Subsection (2):
+
+(i)  income to the state treasurer for credit to the Employers' Reinsurance Fund created under Subsection 34A-2-702(1) as follows:
+
+(A)  on or before December 31, 2009, an amount of up to 5% of the premium income;
+
+(B)  on and after January 1, 2010, but on or before December 31, 2010, an amount of up to 4.5% of the premium income;
+
+(C)  on and after January 1, 2011, but on or before December 31, 2011, an amount of up to 3% of the premium income;
+
+(D)  on and after January 1, 2012, but on or before December 31, 2012, an amount of up to 1% of the premium income; and
+
+(E)  on and after January 1, 2013, and a subsequent fiscal year, no portion of the premium income;
+
+(ii)  an amount equal to 0.25% of the premium income to the state treasurer for credit to the Workplace Safety Account created by Section 34A-2-701;
+
+(iii)  an amount of up to 0.5% and any remaining assessed percentage of the premium income to the state treasurer for credit to the Uninsured Employers' Fund created under Section 34A-2-704; and
+
+(iv)  beginning on January 1, 2010, 0.5% of the premium income to the state treasurer for credit to the Industrial Accident Restricted Account created in Section 34A-2-705.
+
+(d) (i)  The Labor Commission shall determine the amount of the premium assessment for each year on or before each October 15 of the preceding year.  The Labor Commission shall make this determination following a public hearing.  The determination shall be based upon the recommendations of a qualified actuary.
+
+(ii)  The actuary shall recommend a premium assessment rate sufficient to provide payments of benefits and expenses from the Employers' Reinsurance Fund and to project a funded condition with assets greater than liabilities by no later than June 30, 2025.
+
+(iii)  The actuary shall recommend a premium assessment rate sufficient to provide payments of benefits and expenses from the Uninsured Employers' Fund and to maintain it at a funded condition with assets equal to or greater than liabilities.
+
+(iv)  At the end of each fiscal year the minimum approximate assets in the Employers' Reinsurance Fund shall be $5,000,000 which amount shall be adjusted each year beginning in 1990 by multiplying by the ratio that the total workers' compensation premium income for the preceding calendar year bears to the total workers' compensation premium income for the calendar year 1988.
+
+(v)  The requirements of Subsection (2)(d)(iv) cease when the future annual disbursements from the Employers' Reinsurance Fund are projected to be less than the calculations of the corresponding future minimum required assets.  The Labor Commission shall, after a public hearing, determine if the future annual disbursements are less than the corresponding future minimum required assets from projections provided by the actuary.
+
+(vi)  At the end of each fiscal year the minimum approximate assets in the Uninsured Employers' Fund shall be $2,000,000, which amount shall be adjusted each year beginning in 1990 by multiplying by the ratio that the total workers' compensation premium income for the preceding calendar year bears to the total workers' compensation premium income for the calendar year 1988.
+
+(e)  A premium assessment that is to be transferred into the General Fund may be collected on premiums received from Utah public agencies.
+
+(3)  An admitted insurer writing title insurance in this state shall pay to the commission, on or before March 31 in each year, a tax of .45% of the total premium received by either the insurer or by its agents during the preceding calendar year from title insurance concerning property located in this state.  In calculating this tax, "premium" includes the charges made to an insured under or to an applicant for a policy or contract of title insurance for:
+
+(a)  the assumption by the title insurer of the risks assumed by the issuance of the policy or contract of title insurance; and
+
+(b)  abstracting title, title searching, examining title, or determining the insurability of title, and every other activity, exclusive of escrow, settlement, or closing charges, whether denominated premium or otherwise, made by a title insurer, an agent of a title insurer, a title insurance producer, or any of them.
+
+(4)  Beginning July 1, 1986, a former county mutual and a former mutual benefit association shall pay the premium tax or assessment due under this chapter.  Premiums received after July 1, 1986, shall be considered in determining the tax or assessment.
+
+(5)  The following insurers are not subject to the premium tax on health care insurance that would otherwise be applicable under Subsection (1):
+
+(a)  an insurer licensed under Title 31A, Chapter 5, Domestic Stock and Mutual Insurance Corporations;
+
+(b)  an insurer licensed under Title 31A, Chapter 7, Nonprofit Health Service Insurance Corporations;
+
+(c)  an insurer licensed under Title 31A, Chapter 8, Health Maintenance Organizations and Limited Health Plans;
+
 (d)  an insurer licensed under Title 31A, Chapter 9, Insurance Fraternals;
+
 (e)  an insurer licensed under Title 31A, Chapter 11, Motor Clubs;
-(f)  an insurer licensed under Title 31A, Chapter 13, Employee Welfare Funds
-and Plans; and
+
+(f)  an insurer licensed under Title 31A, Chapter 13, Employee Welfare Funds and Plans; and
+
 (g)  an insurer licensed under Title 31A, Chapter 14, Foreign Insurers.
-(6)  An insurer issuing multiple policies to an insured may not artificially
-allocate the premiums among the policies for purposes of reducing the
-aggregate premium tax or assessment applicable to the policies.
-(7)  The retaliatory provisions of Title 31A, Chapter 3, Department Funding,
-Fees, and Taxes, apply to the tax or assessment imposed under this chapter.
+
+(6)  An insurer issuing multiple policies to an insured may not artificially allocate the premiums among the policies for purposes of reducing the aggregate premium tax or assessment applicable to the policies.
+
+(7)  The retaliatory provisions of Title 31A, Chapter 3, Department Funding, Fees, and Taxes, apply to the tax or assessment imposed under this chapter.
+

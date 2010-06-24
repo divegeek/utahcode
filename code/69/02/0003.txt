@@ -1,9 +1,4 @@
 69-2-3.   911 service -- Establishment.
-The governing authority of any public agency may establish a 911 emergency
-telephone service to provide service to any part or all of the territory lying
-within the geographical area of such public agency and may join with the
-governing authority of any other public agency to provide emergency telephone
-service to any part or all of the territory lying within their respective
-jurisdictions.  A county may provide 911 emergency telephone service within
-other public safety agency jurisdictions only upon agreement with the
-governing authority of such public safety agency.
+
+The governing authority of any public agency may establish a 911 emergency telephone service to provide service to any part or all of the territory lying within the geographical area of such public agency and may join with the governing authority of any other public agency to provide emergency telephone service to any part or all of the territory lying within their respective jurisdictions.  A county may provide 911 emergency telephone service within other public safety agency jurisdictions only upon agreement with the governing authority of such public safety agency.
+

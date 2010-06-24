@@ -1,9 +1,8 @@
 76-1-405.   Subsequent prosecution not barred -- Circumstances.
-A subsequent prosecution for an offense shall not be barred under the
-following circumstances:
-(1)  The former prosecution was procured by the defendant without the
-knowledge of the prosecuting attorney bringing the subsequent prosecution and
-with intent to avoid the sentence that might otherwise be imposed; or
-(2)  The former prosecution resulted in a judgment of guilt held invalid in a
-subsequent proceeding on writ of habeas corpus, coram nobis, or similar
-collateral attack.
+
+A subsequent prosecution for an offense shall not be barred under the following circumstances:
+
+(1)  The former prosecution was procured by the defendant without the knowledge of the prosecuting attorney bringing the subsequent prosecution and with intent to avoid the sentence that might otherwise be imposed; or
+
+(2)  The former prosecution resulted in a judgment of guilt held invalid in a subsequent proceeding on writ of habeas corpus, coram nobis, or similar collateral attack.
+

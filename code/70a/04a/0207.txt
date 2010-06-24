@@ -1,48 +1,28 @@
 70A-4a-207.   Misdescription of beneficiary.
-(1)  Subject to Subsection (2), if, in a payment order received by the
-beneficiary's bank, the name, bank account number, or other identification of
-the beneficiary refers to a nonexistent or unidentifiable person or account,
-no person has rights as a beneficiary of the order and acceptance of the order
-cannot occur.
-(2)  If a payment order received by the beneficiary's bank identifies the
-beneficiary both by name and by an identifying or bank account number and the
-name and number identify different persons then the following rules apply.
-(3)  Except as otherwise provided in Subsection (5), the beneficiary's bank
-may treat the person identified by number as the beneficiary of the order if
-the bank does not know that the name and number refer to different persons, it
-may rely on the number as the proper identification of the beneficiary of the
-order.  The beneficiary's bank need not determine whether the name and number
-refer to the same person.
-(4)  If the beneficiary's bank pays the person identified by name or knows
-that the name and number identify different persons, no person has rights as
-beneficiary except the person paid by the beneficiary's bank if that person
-was entitled to receive payment from the originator of the funds transfer.  If
-no person has rights as beneficiary, acceptance of the order cannot occur.
-(5)  If the conditions listed in Subsections (5)(a), (b), and (c) are present,
-the rules listed in Subsections (6) and (7) apply:
+
+(1)  Subject to Subsection (2), if, in a payment order received by the beneficiary's bank, the name, bank account number, or other identification of the beneficiary refers to a nonexistent or unidentifiable person or account, no person has rights as a beneficiary of the order and acceptance of the order cannot occur.
+
+(2)  If a payment order received by the beneficiary's bank identifies the beneficiary both by name and by an identifying or bank account number and the name and number identify different persons then the following rules apply.
+
+(3)  Except as otherwise provided in Subsection (5), the beneficiary's bank may treat the person identified by number as the beneficiary of the order if the bank does not know that the name and number refer to different persons, it may rely on the number as the proper identification of the beneficiary of the order.  The beneficiary's bank need not determine whether the name and number refer to the same person.
+
+(4)  If the beneficiary's bank pays the person identified by name or knows that the name and number identify different persons, no person has rights as beneficiary except the person paid by the beneficiary's bank if that person was entitled to receive payment from the originator of the funds transfer.  If no person has rights as beneficiary, acceptance of the order cannot occur.
+
+(5)  If the conditions listed in Subsections (5)(a), (b), and (c) are present, the rules listed in Subsections (6) and (7) apply:
+
 (a)  a payment order described in Subsection (2) is accepted;
-(b)  the originator's payment order described the beneficiary inconsistently
-by name and number; and
-(c)  the beneficiary's bank pays the person identified by number as permitted
-by Subsection (2)(a).
+
+(b)  the originator's payment order described the beneficiary inconsistently by name and number; and
+
+(c)  the beneficiary's bank pays the person identified by number as permitted by Subsection (2)(a).
+
 (6)  If the originator is a bank, the originator is obliged to pay its order.
-(7)  If the originator is not a bank and proves that the person identified by
-number was not entitled to receive payment from the originator, the originator
-is not obliged to pay its order unless the originator's bank proves that the
-originator, before acceptance of the originator's order, had notice that
-payment of a payment order issued by the originator might be made by the
-beneficiary's bank on the basis of an identifying or bank account number even
-if it identifies a person different from the named beneficiary.  Proof of
-notice may be made by any admissible evidence.  The originator's bank
-satisfies the burden of proof it if proves that the originator, before the
-payment order was accepted, signed a writing stating the information to which
-the notice relates.
-(8)  In a case governed by Subsection (2)(a), if the beneficiary's bank
-rightfully pays the person identified by number and that person was not
-entitled to receive payment from the originator, the amount paid may be
-recovered from that person to the extent allowed by the law governing mistake
-and rescission as follows:
-(a)  If the originator is obliged to pay its payment order as stated in
-Subsection (5), the originator has the right to recover.
-(b)  If the originator is not a bank and is not obliged to pay its payment
-order, the originator's bank has the right to recover.
+
+(7)  If the originator is not a bank and proves that the person identified by number was not entitled to receive payment from the originator, the originator is not obliged to pay its order unless the originator's bank proves that the originator, before acceptance of the originator's order, had notice that payment of a payment order issued by the originator might be made by the beneficiary's bank on the basis of an identifying or bank account number even if it identifies a person different from the named beneficiary.  Proof of notice may be made by any admissible evidence.  The originator's bank satisfies the burden of proof it if proves that the originator, before the payment order was accepted, signed a writing stating the information to which the notice relates.
+
+(8)  In a case governed by Subsection (2)(a), if the beneficiary's bank rightfully pays the person identified by number and that person was not entitled to receive payment from the originator, the amount paid may be recovered from that person to the extent allowed by the law governing mistake and rescission as follows:
+
+(a)  If the originator is obliged to pay its payment order as stated in Subsection (5), the originator has the right to recover.
+
+(b)  If the originator is not a bank and is not obliged to pay its payment order, the originator's bank has the right to recover.
+

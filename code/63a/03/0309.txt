@@ -1,16 +1,10 @@
 63A-3-309.   Bond required -- Terms -- Expenses of debtor.
-(1) (a)  If a complaint is filed by the debtor for judicial review of an order
-entered under this part, the debtor shall furnish a bond to the State Tax
-Commission, with good and sufficient sureties, in the amount of the delinquent
-receivable or the amount of any overpayment or refund due, whichever is less,
-unless waived by the court.
-(b)  The lien created by Section 63A-3-307 is then dissolved as to that
-overpayment or refund and the overpayment or refund shall be released to the
-debtor.
-(2)  The bond shall provide that the surety will pay, upon a final
-determination adverse to the debtor, the amount of the bond or any other
-lesser amount as the court may determine, to the State Tax Commission for the
-use and benefit of the entity of state government obtaining the order.
-(3)  If the judicial review finds the claim of the state invalid, the state
-shall reimburse the debtor all reasonable expenses and attorney's fees
-incurred.
+
+(1) (a)  If a complaint is filed by the debtor for judicial review of an order entered under this part, the debtor shall furnish a bond to the State Tax Commission, with good and sufficient sureties, in the amount of the delinquent receivable or the amount of any overpayment or refund due, whichever is less, unless waived by the court.
+
+(b)  The lien created by Section 63A-3-307 is then dissolved as to that overpayment or refund and the overpayment or refund shall be released to the debtor.
+
+(2)  The bond shall provide that the surety will pay, upon a final determination adverse to the debtor, the amount of the bond or any other lesser amount as the court may determine, to the State Tax Commission for the use and benefit of the entity of state government obtaining the order.
+
+(3)  If the judicial review finds the claim of the state invalid, the state shall reimburse the debtor all reasonable expenses and attorney's fees incurred.
+

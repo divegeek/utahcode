@@ -1,266 +1,216 @@
 41-1a-102.   Definitions.
+
 As used in this chapter:
-(1)  "Actual miles" means the actual distance a vehicle has traveled while in
-operation.
-(2)  "Actual weight" means the actual unladen weight of a vehicle or
-combination of vehicles as operated and certified to by a weighmaster.
-(3)  "Affidavit of Mobile Home Affixture" means the affidavit of affixture
-described in Title 59, Chapter 2, Part 6, Mobile Homes.
-(4)  "All-terrain type I vehicle" has the same meaning provided in Section
-41-22-2.
-(5)  "All-terrain type II vehicle" has the same meaning provided in Section
-41-22-2.
-(6)  "Amateur radio operator" means any person licensed by the Federal
-Communications Commission to engage in private and experimental two-way radio
-operation on the amateur band radio frequencies.
+
+(1)  "Actual miles" means the actual distance a vehicle has traveled while in operation.
+
+(2)  "Actual weight" means the actual unladen weight of a vehicle or combination of vehicles as operated and certified to by a weighmaster.
+
+(3)  "Affidavit of Mobile Home Affixture" means the affidavit of affixture described in Title 59, Chapter 2, Part 6, Mobile Homes.
+
+(4)  "All-terrain type I vehicle" has the same meaning provided in Section 41-22-2.
+
+(5)  "All-terrain type II vehicle" has the same meaning provided in Section 41-22-2.
+
+(6)  "Amateur radio operator" means any person licensed by the Federal Communications Commission to engage in private and experimental two-way radio operation on the amateur band radio frequencies.
+
 (7)  "Branded title" means a title certificate that is labeled:
+
 (a)  rebuilt and restored to operation;
+
 (b)  flooded and restored to operation; or
+
 (c)  not restored to operation.
-(8)  "Camper" means any structure designed, used, and maintained primarily to
-be mounted on or affixed to a motor vehicle that contains a floor and is
-designed to provide a mobile dwelling, sleeping place, commercial space, or
-facilities for human habitation or for camping.
-(9)  "Certificate of title" means a document issued by a jurisdiction to
-establish a record of ownership between an identified owner and the described
-vehicle, vessel, or outboard motor.
-(10)  "Certified scale weigh ticket" means a weigh ticket that has been issued
-by a weighmaster.
-(11)  "Commercial vehicle" means a motor vehicle, trailer, or semitrailer used
-or maintained for the transportation of persons or property that operates:
+
+(8)  "Camper" means any structure designed, used, and maintained primarily to be mounted on or affixed to a motor vehicle that contains a floor and is designed to provide a mobile dwelling, sleeping place, commercial space, or facilities for human habitation or for camping.
+
+(9)  "Certificate of title" means a document issued by a jurisdiction to establish a record of ownership between an identified owner and the described vehicle, vessel, or outboard motor.
+
+(10)  "Certified scale weigh ticket" means a weigh ticket that has been issued by a weighmaster.
+
+(11)  "Commercial vehicle" means a motor vehicle, trailer, or semitrailer used or maintained for the transportation of persons or property that operates:
+
 (a)  as a carrier for hire, compensation, or profit; or
-(b)  as a carrier to transport the vehicle owner's goods or property in
-furtherance of the owner's commercial enterprise.
+
+(b)  as a carrier to transport the vehicle owner's goods or property in furtherance of the owner's commercial enterprise.
+
 (12)  "Commission" means the State Tax Commission.
-(13)  "Dealer" means a person engaged or licensed to engage in the business of
-buying, selling, or exchanging new or used vehicles, vessels, or outboard
-motors either outright or on conditional sale, bailment, lease, chattel
-mortgage, or otherwise or who has an established place of business for the
-sale, lease, trade, or display of vehicles, vessels, or outboard motors.
-(14)  "Division" means the Motor Vehicle Division of the commission, created
-in Section 41-1a-106.
-(15)  "Essential parts" means all integral and body parts of a vehicle of a
-type required to be registered in this state, the removal, alteration, or
-substitution of which would tend to conceal the identity of the vehicle or
-substantially alter its appearance, model, type, or mode of operation.
-(16)  "Farm tractor" means every motor vehicle designed and used primarily as
-a farm implement for drawing plows, mowing machines, and other implements of
-husbandry.
-(17) (a)  "Farm truck" means a truck used by the owner or operator of a farm
-solely for his own use in the transportation of:
-(i)  farm products, including livestock and its products, poultry and its
-products, floricultural and horticultural products;
-(ii)  farm supplies, including tile, fence, and every other thing or commodity
-used in agricultural, floricultural, horticultural, livestock, and poultry
-production; and
-(iii)  livestock, poultry, and other animals and things used for breeding,
-feeding, or other purposes connected with the operation of a farm.
-(b)  "Farm truck" does not include the operation of trucks by commercial
-processors of agricultural products.
+
+(13)  "Dealer" means a person engaged or licensed to engage in the business of buying, selling, or exchanging new or used vehicles, vessels, or outboard motors either outright or on conditional sale, bailment, lease, chattel mortgage, or otherwise or who has an established place of business for the sale, lease, trade, or display of vehicles, vessels, or outboard motors.
+
+(14)  "Division" means the Motor Vehicle Division of the commission, created in Section 41-1a-106.
+
+(15)  "Essential parts" means all integral and body parts of a vehicle of a type required to be registered in this state, the removal, alteration, or substitution of which would tend to conceal the identity of the vehicle or substantially alter its appearance, model, type, or mode of operation.
+
+(16)  "Farm tractor" means every motor vehicle designed and used primarily as a farm implement for drawing plows, mowing machines, and other implements of husbandry.
+
+(17) (a)  "Farm truck" means a truck used by the owner or operator of a farm solely for his own use in the transportation of:
+
+(i)  farm products, including livestock and its products, poultry and its products, floricultural and horticultural products;
+
+(ii)  farm supplies, including tile, fence, and every other thing or commodity used in agricultural, floricultural, horticultural, livestock, and poultry production; and
+
+(iii)  livestock, poultry, and other animals and things used for breeding, feeding, or other purposes connected with the operation of a farm.
+
+(b)  "Farm truck" does not include the operation of trucks by commercial processors of agricultural products.
+
 (18)  "Fleet" means one or more commercial vehicles.
-(19)  "Foreign vehicle" means a vehicle of a type required to be registered,
-brought into this state from another state, territory, or country other than
-in the ordinary course of business by or through a manufacturer or dealer, and
-not registered in this state.
-(20)  "Gross laden weight" means the actual weight of a vehicle or combination
-of vehicles, equipped for operation, to which shall be added the maximum load
-to be carried.
-(21)  "Highway" or "street" means the entire width between property lines of
-every way or place of whatever nature when any part of it is open to the
-public, as a matter of right, for purposes of vehicular traffic.
-(22) (a)  "Identification number" means the identifying number assigned by the
-manufacturer or by the division for the purpose of identifying the vehicle,
-vessel, or outboard motor.
-(b)  "Identification number" includes a vehicle identification number, state
-assigned identification number, hull identification number, and motor serial
-number.
-(23)  "Implement of husbandry" means every vehicle designed or adapted and
-used exclusively for an agricultural operation and only incidentally operated
-or moved upon the highways.
-(24) (a)  "In-state miles" means the total number of miles operated in this
-state during the preceding year by fleet power units.
-(b)  If fleets are composed entirely of trailers or semitrailers, "in-state
-miles" means the total number of miles that those vehicles were towed on Utah
-highways during the preceding year.
-(25)  "Interstate vehicle" means any commercial vehicle operated in more than
-one state, province, territory, or possession of the United States or foreign
-country.
-(26)  "Jurisdiction" means a state, district, province, political subdivision,
-territory, or possession of the United States or any foreign country.
-(27)  "Lienholder" means a person with a security interest in particular
-property.
-(28)  "Manufactured home" means a transportable factory built housing unit
-constructed on or after June 15, 1976, according to the Federal Home
-Construction and Safety Standards Act of 1974 (HUD Code), in one or more
-sections, which, in the traveling mode, is eight body feet or more in width or
-40 body feet or more in length, or when erected on site, is 400 or more square
-feet, and which is built on a permanent chassis and designed to be used as a
-dwelling with or without a permanent foundation when connected to the required
-utilities, and includes the plumbing, heating, air-conditioning, and
-electrical systems.
-(29)  "Manufacturer" means a person engaged in the business of constructing,
-manufacturing, assembling, producing, or importing new or unused vehicles,
-vessels, or outboard motors for the purpose of sale or trade.
-(30)  "Mobile home" means a transportable factory built housing unit built
-prior to June 15, 1976, in accordance with a state mobile home code which
-existed prior to the Federal Manufactured Housing and Safety Standards Act
-(HUD Code).
+
+(19)  "Foreign vehicle" means a vehicle of a type required to be registered, brought into this state from another state, territory, or country other than in the ordinary course of business by or through a manufacturer or dealer, and not registered in this state.
+
+(20)  "Gross laden weight" means the actual weight of a vehicle or combination of vehicles, equipped for operation, to which shall be added the maximum load to be carried.
+
+(21)  "Highway" or "street" means the entire width between property lines of every way or place of whatever nature when any part of it is open to the public, as a matter of right, for purposes of vehicular traffic.
+
+(22) (a)  "Identification number" means the identifying number assigned by the manufacturer or by the division for the purpose of identifying the vehicle, vessel, or outboard motor.
+
+(b)  "Identification number" includes a vehicle identification number, state assigned identification number, hull identification number, and motor serial number.
+
+(23)  "Implement of husbandry" means every vehicle designed or adapted and used exclusively for an agricultural operation and only incidentally operated or moved upon the highways.
+
+(24) (a)  "In-state miles" means the total number of miles operated in this state during the preceding year by fleet power units.
+
+(b)  If fleets are composed entirely of trailers or semitrailers, "in-state miles" means the total number of miles that those vehicles were towed on Utah highways during the preceding year.
+
+(25)  "Interstate vehicle" means any commercial vehicle operated in more than one state, province, territory, or possession of the United States or foreign country.
+
+(26)  "Jurisdiction" means a state, district, province, political subdivision, territory, or possession of the United States or any foreign country.
+
+(27)  "Lienholder" means a person with a security interest in particular property.
+
+(28)  "Manufactured home" means a transportable factory built housing unit constructed on or after June 15, 1976, according to the Federal Home Construction and Safety Standards Act of 1974 (HUD Code), in one or more sections, which, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or when erected on site, is 400 or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling with or without a permanent foundation when connected to the required utilities, and includes the plumbing, heating, air-conditioning, and electrical systems.
+
+(29)  "Manufacturer" means a person engaged in the business of constructing, manufacturing, assembling, producing, or importing new or unused vehicles, vessels, or outboard motors for the purpose of sale or trade.
+
+(30)  "Mobile home" means a transportable factory built housing unit built prior to June 15, 1976, in accordance with a state mobile home code which existed prior to the Federal Manufactured Housing and Safety Standards Act (HUD Code).
+
 (31)  "Motorboat" has the same meaning as provided in Section 73-18-2.
-(32)  "Motorcycle" means a motor vehicle having a saddle for the use of the
-rider and designed to travel on not more than three wheels in contact with the
-ground.
-(33) (a)  "Motor vehicle" means a self-propelled vehicle intended primarily
-for use and operation on the highways.
+
+(32)  "Motorcycle" means a motor vehicle having a saddle for the use of the rider and designed to travel on not more than three wheels in contact with the ground.
+
+(33) (a)  "Motor vehicle" means a self-propelled vehicle intended primarily for use and operation on the highways.
+
 (b)  "Motor vehicle" does not include an off-highway vehicle.
-(34) (a)  "Nonresident" means a person who is not a resident of this state as
-defined by Section 41-1a-202, and who does not engage in intrastate business
-within this state and does not operate in that business any motor vehicle,
-trailer, or semitrailer within this state.
-(b)  A person who engages in intrastate business within this state and
-operates in that business any motor vehicle, trailer, or semitrailer in this
-state or who, even though engaging in interstate commerce, maintains any
-vehicle in this state as the home station of that vehicle is considered a
-resident of this state, insofar as that vehicle is concerned in administering
-this chapter.
-(35)  "Odometer" means a device for measuring and recording the actual
-distance a vehicle travels while in operation, but does not include any
-auxiliary odometer designed to be periodically reset.
-(36)  "Off-highway implement of husbandry" has the same meaning as provided in
-Section 41-22-2.
-(37)  "Off-highway vehicle" has the same meaning as provided in Section
-41-22-2.
-(38)  "Operate" means to drive or be in actual physical control of a vehicle
-or to navigate a vessel.
-(39)  "Outboard motor" means a detachable self-contained propulsion unit,
-excluding fuel supply, used to propel a vessel.
-(40) (a)  "Owner" means a person, other than a lienholder, holding title to a
-vehicle, vessel, or outboard motor whether or not the vehicle, vessel, or
-outboard motor is subject to a security interest.
-(b)  If a vehicle is the subject of an agreement for the conditional sale or
-installment sale or mortgage of the vehicle with the right of purchase upon
-performance of the conditions stated in the agreement and with an immediate
-right of possession vested in the conditional vendee or mortgagor, or if the
-vehicle is the subject of a security agreement, then the conditional vendee,
-mortgagor, or debtor is considered the owner for the purposes of this chapter.
-(c)  If a vehicle is the subject of an agreement to lease, the lessor is
-considered the owner until the lessee exercises his option to purchase the
-vehicle.
-(41)  "Personalized license plate" means a license plate that has displayed on
-it a combination of letters, numbers, or both as requested by the owner of the
-vehicle and assigned to the vehicle by the division.
-(42) (a)  "Pickup truck" means a two-axle motor vehicle with motive power
-manufactured, remanufactured, or materially altered to provide an open cargo
-area.
-(b)  "Pickup truck" includes motor vehicles with the open cargo area covered
-with a camper, camper shell, tarp, removable top, or similar structure.
-(43)  "Pneumatic tire" means every tire in which compressed air is designed to
-support the load.
-(44)  "Preceding year" means a period of 12 consecutive months fixed by the
-division that is within 16 months immediately preceding the commencement of
-the registration or license year in which proportional registration is sought.
-The division in fixing the period shall conform it to the terms, conditions,
-and requirements of any applicable agreement or arrangement for the
-proportional registration of vehicles.
-(45)  "Public garage" means every building or other place where vehicles or
-vessels are kept and stored and where a charge is made for the storage and
-keeping of vehicles and vessels.
-(46)  "Reconstructed vehicle" means every vehicle of a type required to be
-registered in this state that is materially altered from its original
-construction by the removal, addition, or substitution of essential parts, new
-or used.
-(47)  "Recreational vehicle" has the same meaning as provided in Section
-13-14-102.
-(48)  "Registration" means a document issued by a jurisdiction that allows
-operation of a vehicle or vessel on the highways or waters of this state for
-the time period for which the registration is valid and that is evidence of
-compliance with the registration requirements of the jurisdiction.
-(49) (a)  "Registration year" means a 12 consecutive month period commencing
-with the completion of all applicable registration criteria.
-(b)  For administration of a multistate agreement for proportional
-registration the division may prescribe a different 12-month period.
-(50)  "Repair or replacement" means the restoration of vehicles, vessels, or
-outboard motors to a sound working condition by substituting any inoperative
-part of the vehicle, vessel, or outboard motor, or by correcting the
-inoperative part.
+
+(34) (a)  "Nonresident" means a person who is not a resident of this state as defined by Section 41-1a-202, and who does not engage in intrastate business within this state and does not operate in that business any motor vehicle, trailer, or semitrailer within this state.
+
+(b)  A person who engages in intrastate business within this state and operates in that business any motor vehicle, trailer, or semitrailer in this state or who, even though engaging in interstate commerce, maintains any vehicle in this state as the home station of that vehicle is considered a resident of this state, insofar as that vehicle is concerned in administering this chapter.
+
+(35)  "Odometer" means a device for measuring and recording the actual distance a vehicle travels while in operation, but does not include any auxiliary odometer designed to be periodically reset.
+
+(36)  "Off-highway implement of husbandry" has the same meaning as provided in Section 41-22-2.
+
+(37)  "Off-highway vehicle" has the same meaning as provided in Section 41-22-2.
+
+(38)  "Operate" means to drive or be in actual physical control of a vehicle or to navigate a vessel.
+
+(39)  "Outboard motor" means a detachable self-contained propulsion unit, excluding fuel supply, used to propel a vessel.
+
+(40) (a)  "Owner" means a person, other than a lienholder, holding title to a vehicle, vessel, or outboard motor whether or not the vehicle, vessel, or outboard motor is subject to a security interest.
+
+(b)  If a vehicle is the subject of an agreement for the conditional sale or installment sale or mortgage of the vehicle with the right of purchase upon performance of the conditions stated in the agreement and with an immediate right of possession vested in the conditional vendee or mortgagor, or if the vehicle is the subject of a security agreement, then the conditional vendee, mortgagor, or debtor is considered the owner for the purposes of this chapter.
+
+(c)  If a vehicle is the subject of an agreement to lease, the lessor is considered the owner until the lessee exercises his option to purchase the vehicle.
+
+(41)  "Personalized license plate" means a license plate that has displayed on it a combination of letters, numbers, or both as requested by the owner of the vehicle and assigned to the vehicle by the division.
+
+(42) (a)  "Pickup truck" means a two-axle motor vehicle with motive power manufactured, remanufactured, or materially altered to provide an open cargo area.
+
+(b)  "Pickup truck" includes motor vehicles with the open cargo area covered with a camper, camper shell, tarp, removable top, or similar structure.
+
+(43)  "Pneumatic tire" means every tire in which compressed air is designed to support the load.
+
+(44)  "Preceding year" means a period of 12 consecutive months fixed by the division that is within 16 months immediately preceding the commencement of the registration or license year in which proportional registration is sought.  The division in fixing the period shall conform it to the terms, conditions, and requirements of any applicable agreement or arrangement for the proportional registration of vehicles.
+
+(45)  "Public garage" means every building or other place where vehicles or vessels are kept and stored and where a charge is made for the storage and keeping of vehicles and vessels.
+
+(46)  "Reconstructed vehicle" means every vehicle of a type required to be registered in this state that is materially altered from its original construction by the removal, addition, or substitution of essential parts, new or used.
+
+(47)  "Recreational vehicle" has the same meaning as provided in Section 13-14-102.
+
+(48)  "Registration" means a document issued by a jurisdiction that allows operation of a vehicle or vessel on the highways or waters of this state for the time period for which the registration is valid and that is evidence of compliance with the registration requirements of the jurisdiction.
+
+(49) (a)  "Registration year" means a 12 consecutive month period commencing with the completion of all applicable registration criteria.
+
+(b)  For administration of a multistate agreement for proportional registration the division may prescribe a different 12-month period.
+
+(50)  "Repair or replacement" means the restoration of vehicles, vessels, or outboard motors to a sound working condition by substituting any inoperative part of the vehicle, vessel, or outboard motor, or by correcting the inoperative part.
+
 (51)  "Replica vehicle" means:
-(a)  a street rod that meets the requirements under Subsection
-41-21-1(1)(a)(i)(B); or
-(b)  a custom vehicle that meets the requirements under Subsection
-41-6a-1507(1)(a)(i)(B).
-(52)  "Road tractor" means every motor vehicle designed and used for drawing
-other vehicles and constructed so it does not carry any load either
-independently or any part of the weight of a vehicle or load that is drawn.
+
+(a)  a street rod that meets the requirements under Subsection 41-21-1(1)(a)(i)(B); or
+
+(b)  a custom vehicle that meets the requirements under Subsection 41-6a-1507(1)(a)(i)(B).
+
+(52)  "Road tractor" means every motor vehicle designed and used for drawing other vehicles and constructed so it does not carry any load either independently or any part of the weight of a vehicle or load that is drawn.
+
 (53)  "Sailboat" has the same meaning as provided in Section 73-18-2.
-(54)  "Security interest" means an interest that is reserved or created by a
-security agreement to secure the payment or performance of an obligation and
-that is valid against third parties.
-(55)  "Semitrailer" means every vehicle without motive power designed for
-carrying persons or property and for being drawn by a motor vehicle and
-constructed so that some part of its weight and its load rests or is carried
-by another vehicle.
-(56)  "Special group license plate" means a type of license plate designed for
-a particular group of people or a license plate authorized and issued by the
-division in accordance with Section 41-1a-418.
-(57) (a)  "Special interest vehicle" means a vehicle used for general
-transportation purposes and that is:
+
+(54)  "Security interest" means an interest that is reserved or created by a security agreement to secure the payment or performance of an obligation and that is valid against third parties.
+
+(55)  "Semitrailer" means every vehicle without motive power designed for carrying persons or property and for being drawn by a motor vehicle and constructed so that some part of its weight and its load rests or is carried by another vehicle.
+
+(56)  "Special group license plate" means a type of license plate designed for a particular group of people or a license plate authorized and issued by the division in accordance with Section 41-1a-418.
+
+(57) (a)  "Special interest vehicle" means a vehicle used for general transportation purposes and that is:
+
 (i)  20 years or older from the current year; or
-(ii)  a make or model of motor vehicle recognized by the division director as
-having unique interest or historic value.
-(b)  In making his determination under Subsection (57)(a), the division
-director shall give special consideration to:
+
+(ii)  a make or model of motor vehicle recognized by the division director as having unique interest or historic value.
+
+(b)  In making his determination under Subsection (57)(a), the division director shall give special consideration to:
+
 (i)  a make of motor vehicle that is no longer manufactured;
-(ii)  a make or model of motor vehicle produced in limited or token
-quantities;
-(iii)  a make or model of motor vehicle produced as an experimental vehicle or
-one designed exclusively for educational purposes or museum display; or
-(iv)  a motor vehicle of any age or make that has not been substantially
-altered or modified from original specifications of the manufacturer and
-because of its significance is being collected, preserved, restored,
-maintained, or operated by a collector or hobbyist as a leisure pursuit.
+
+(ii)  a make or model of motor vehicle produced in limited or token quantities;
+
+(iii)  a make or model of motor vehicle produced as an experimental vehicle or one designed exclusively for educational purposes or museum display; or
+
+(iv)  a motor vehicle of any age or make that has not been substantially altered or modified from original specifications of the manufacturer and because of its significance is being collected, preserved, restored, maintained, or operated by a collector or hobbyist as a leisure pursuit.
+
 (58) (a)  "Special mobile equipment" means every vehicle:
-(i)  not designed or used primarily for the transportation of persons or
-property;
+
+(i)  not designed or used primarily for the transportation of persons or property;
+
 (ii)  not designed to operate in traffic; and
+
 (iii)  only incidentally operated or moved over the highways.
+
 (b)  "Special mobile equipment" includes:
+
 (i)  farm tractors;
-(ii)  off-road motorized construction or maintenance equipment including
-backhoes, bulldozers, compactors, graders, loaders, road rollers, tractors,
-and trenchers; and
+
+(ii)  off-road motorized construction or maintenance equipment including backhoes, bulldozers, compactors, graders, loaders, road rollers, tractors, and trenchers; and
+
 (iii)  ditch-digging apparatus.
-(c)  "Special mobile equipment" does not include a commercial vehicle as
-defined under Section 72-9-102.
-(59)  "Specially constructed vehicle" means every vehicle of a type required
-to be registered in this state, not originally constructed under a distinctive
-name, make, model, or type by a generally recognized manufacturer of vehicles,
-and not materially altered from its original construction.
-(60)  "Title" means the right to or ownership of a vehicle, vessel, or
-outboard motor.
-(61) (a)  "Total fleet miles" means the total number of miles operated in all
-jurisdictions during the preceding year by power units.
-(b)  If fleets are composed entirely of trailers or semitrailers, "total fleet
-miles" means the number of miles that those vehicles were towed on the
-highways of all jurisdictions during the preceding year.
-(62)  "Trailer" means a vehicle without motive power designed for carrying
-persons or property and for being drawn by a motor vehicle and constructed so
-that no part of its weight rests upon the towing vehicle.
-(63)  "Transferee" means a person to whom the ownership of property is
-conveyed by sale, gift, or any other means except by the creation of a
-security interest.
-(64)  "Transferor" means a person who transfers his ownership in property by
-sale, gift, or any other means except by creation of a security interest.
-(65)  "Travel trailer," "camping trailer," or "fifth wheel trailer" means a
-portable vehicle without motive power, designed as a temporary dwelling for
-travel, recreational, or vacation use that does not require a special highway
-movement permit when drawn by a self-propelled motor vehicle.
-(66)  "Truck tractor" means a motor vehicle designed and used primarily for
-drawing other vehicles and not constructed to carry a load other than a part
-of the weight of the vehicle and load that is drawn.
-(67)  "Vehicle" includes a motor vehicle, trailer, semitrailer, off-highway
-vehicle, manufactured home, and mobile home.
+
+(c)  "Special mobile equipment" does not include a commercial vehicle as defined under Section 72-9-102.
+
+(59)  "Specially constructed vehicle" means every vehicle of a type required to be registered in this state, not originally constructed under a distinctive name, make, model, or type by a generally recognized manufacturer of vehicles, and not materially altered from its original construction.
+
+(60)  "Title" means the right to or ownership of a vehicle, vessel, or outboard motor.
+
+(61) (a)  "Total fleet miles" means the total number of miles operated in all jurisdictions during the preceding year by power units.
+
+(b)  If fleets are composed entirely of trailers or semitrailers, "total fleet miles" means the number of miles that those vehicles were towed on the highways of all jurisdictions during the preceding year.
+
+(62)  "Trailer" means a vehicle without motive power designed for carrying persons or property and for being drawn by a motor vehicle and constructed so that no part of its weight rests upon the towing vehicle.
+
+(63)  "Transferee" means a person to whom the ownership of property is conveyed by sale, gift, or any other means except by the creation of a security interest.
+
+(64)  "Transferor" means a person who transfers his ownership in property by sale, gift, or any other means except by creation of a security interest.
+
+(65)  "Travel trailer," "camping trailer," or "fifth wheel trailer" means a portable vehicle without motive power, designed as a temporary dwelling for travel, recreational, or vacation use that does not require a special highway movement permit when drawn by a self-propelled motor vehicle.
+
+(66)  "Truck tractor" means a motor vehicle designed and used primarily for drawing other vehicles and not constructed to carry a load other than a part of the weight of the vehicle and load that is drawn.
+
+(67)  "Vehicle" includes a motor vehicle, trailer, semitrailer, off-highway vehicle, manufactured home, and mobile home.
+
 (68)  "Vessel" has the same meaning as provided in Section 73-18-2.
+
 (69)  "Vintage vehicle" has the same meaning as provided in Section 41-21-1.
-(70)  "Waters of this state" has the same meaning as provided in Section
-73-18-2.
-(71)  "Weighmaster" means a person, association of persons, or corporation
-permitted to weigh vehicles under this chapter.
+
+(70)  "Waters of this state" has the same meaning as provided in Section 73-18-2.
+
+(71)  "Weighmaster" means a person, association of persons, or corporation permitted to weigh vehicles under this chapter.
+

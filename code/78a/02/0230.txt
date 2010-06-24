@@ -1,5 +1,4 @@
 78A-2-230.   References to court pleadings and other papers.
-Any reference in this code to a petition, complaint, or other court record
-shall be considered to include any cover sheet or accompanying document
-required by statute or court rule to be filed with the petition, complaint, or
-other record.
+
+Any reference in this code to a petition, complaint, or other court record shall be considered to include any cover sheet or accompanying document required by statute or court rule to be filed with the petition, complaint, or other record.
+

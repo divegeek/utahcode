@@ -1,139 +1,130 @@
 59-7-607.   Utah low-income housing tax credit.
+
 (1)  As used in this section:
+
 (a)  "Allocation certificate" means:
-(i)  the certificate prescribed by the commission and issued by the Utah
-Housing Corporation to each taxpayer that specifies the percentage of the
-annual federal low-income housing tax credit that each taxpayer may take as an
-annual credit against state income tax; or
-(ii)  a copy of the allocation certificate that the housing sponsor provides
-to the taxpayer.
-(b)  "Building" means a qualified low-income building as defined in Section
-42(c), Internal Revenue Code.
-(c)  "Federal low-income housing tax credit" means the tax credit under
-Section 42, Internal Revenue Code.
-(d)  "Housing sponsor" means a corporation in the case of a C corporation, a
-partnership in the case of a partnership, a corporation in the case of an S
-corporation, or a limited liability company in the case of a limited liability
-company.
-(e)  "Qualified allocation plan" means the qualified allocation plan adopted
-by the Utah Housing Corporation pursuant to Section 42(m), Internal Revenue
-Code.
+
+(i)  the certificate prescribed by the commission and issued by the Utah Housing Corporation to each taxpayer that specifies the percentage of the annual federal low-income housing tax credit that each taxpayer may take as an annual credit against state income tax; or
+
+(ii)  a copy of the allocation certificate that the housing sponsor provides to the taxpayer.
+
+(b)  "Building" means a qualified low-income building as defined in Section 42(c), Internal Revenue Code.
+
+(c)  "Federal low-income housing tax credit" means the tax credit under Section 42, Internal Revenue Code.
+
+(d)  "Housing sponsor" means a corporation in the case of a C corporation, a partnership in the case of a partnership, a corporation in the case of an S corporation, or a limited liability company in the case of a limited liability company.
+
+(e)  "Qualified allocation plan" means the qualified allocation plan adopted by the Utah Housing Corporation pursuant to Section 42(m), Internal Revenue Code.
+
 (f)  "Special low-income housing tax credit certificate" means a certificate:
+
 (i)  prescribed by the commission;
+
 (ii)  that a housing sponsor issues to a taxpayer for a taxable year; and
-(iii)  that specifies the amount of tax credit a taxpayer may claim under this
-section if the taxpayer meets the requirements of this section.
-(g)  "Taxpayer" means a person that is allowed a tax credit in accordance with
-this section which is the corporation in the case of a C corporation, the
-partners in the case of a partnership, the shareholders in the case of an S
-corporation, and the members in the case of a limited liability company.
-(2) (a)  For taxable years beginning on or after January 1, 1995, there is
-allowed a nonrefundable tax credit against taxes otherwise due under this
-chapter or Chapter 8, Gross Receipts Tax on Certain Corporations Not Required
-to Pay Corporate Franchise or Income Tax Act, for taxpayers issued an
-allocation certificate.
-(b)  The tax credit shall be in an amount equal to the greater of the amount
-of:
-(i)  federal low-income housing tax credit to which the taxpayer is allowed
-during that year multiplied by the percentage specified in an allocation
-certificate issued by the Utah Housing Corporation; or
-(ii)  tax credit specified in the special low-income housing tax credit
-certificate that the housing sponsor issues to the taxpayer as provided in
-Subsection (2)(c).
-(c)  For purposes of Subsection (2)(b)(ii), the tax credit is equal to the
-product of:
-(i)  the total amount of low-income housing tax credit under this section
-that:
+
+(iii)  that specifies the amount of tax credit a taxpayer may claim under this section if the taxpayer meets the requirements of this section.
+
+(g)  "Taxpayer" means a person that is allowed a tax credit in accordance with this section which is the corporation in the case of a C corporation, the partners in the case of a partnership, the shareholders in the case of an S corporation, and the members in the case of a limited liability company.
+
+(2) (a)  For taxable years beginning on or after January 1, 1995, there is allowed a nonrefundable tax credit against taxes otherwise due under this chapter or Chapter 8, Gross Receipts Tax on Certain Corporations Not Required to Pay Corporate Franchise or Income Tax Act, for taxpayers issued an allocation certificate.
+
+(b)  The tax credit shall be in an amount equal to the greater of the amount of:
+
+(i)  federal low-income housing tax credit to which the taxpayer is allowed during that year multiplied by the percentage specified in an allocation certificate issued by the Utah Housing Corporation; or
+
+(ii)  tax credit specified in the special low-income housing tax credit certificate that the housing sponsor issues to the taxpayer as provided in Subsection (2)(c).
+
+(c)  For purposes of Subsection (2)(b)(ii), the tax credit is equal to the product of:
+
+(i)  the total amount of low-income housing tax credit under this section that:
+
 (A)  a housing sponsor is allowed for a building; and
-(B)  all of the taxpayers may claim with respect to the building if the
-taxpayers meet the requirements of this section; and
+
+(B)  all of the taxpayers may claim with respect to the building if the taxpayers meet the requirements of this section; and
+
 (ii)  the percentage of tax credit a taxpayer may claim:
-(A)  under this section if the taxpayer meets the requirements of this
-section; and
-(B)  as provided in the agreement between the taxpayer and the housing
-sponsor.
-(d) (i)  For the calendar year beginning on January 1, 1995, through the
-calendar year beginning on January 1, 2015, the aggregate annual tax credit
-that the Utah Housing Corporation may allocate for the credit period described
-in Section 42(f), Internal Revenue Code, pursuant to this section and Section
-59-10-1010 is an amount equal to the product of:
+
+(A)  under this section if the taxpayer meets the requirements of this section; and
+
+(B)  as provided in the agreement between the taxpayer and the housing sponsor.
+
+(d) (i)  For the calendar year beginning on January 1, 1995, through the calendar year beginning on January 1, 2015, the aggregate annual tax credit that the Utah Housing Corporation may allocate for the credit period described in Section 42(f), Internal Revenue Code, pursuant to this section and Section 59-10-1010 is an amount equal to the product of:
+
 (A)  12.5 cents; and
+
 (B)  the population of Utah.
-(ii)  For purposes of this section, the population of Utah shall be determined
-in accordance with Section 146(j), Internal Revenue Code.
-(3) (a)  By October 1, 1994, the Utah Housing Corporation shall determine
-criteria and procedures for allocating the tax credit under this section and
-Section 59-10-1010 and incorporate the criteria and procedures into the Utah
-Housing Corporation's qualified allocation plan.
-(b)  The Utah Housing Corporation shall create the criteria under Subsection
-(3)(a) based on:
-(i)  the number of affordable housing units to be created in Utah for low and
-moderate income persons in the residential housing development of which the
-building is a part;
+
+(ii)  For purposes of this section, the population of Utah shall be determined in accordance with Section 146(j), Internal Revenue Code.
+
+(3) (a)  By October 1, 1994, the Utah Housing Corporation shall determine criteria and procedures for allocating the tax credit under this section and Section 59-10-1010 and incorporate the criteria and procedures into the Utah Housing Corporation's qualified allocation plan.
+
+(b)  The Utah Housing Corporation shall create the criteria under Subsection (3)(a) based on:
+
+(i)  the number of affordable housing units to be created in Utah for low and moderate income persons in the residential housing development of which the building is a part;
+
 (ii)  the level of area median income being served by the development;
-(iii)  the need for the tax credit for the economic feasibility of the
-development; and
-(iv)  the extended period for which the development commits to remain as
-affordable housing.
-(4) (a)  The following may apply to the Utah Housing Corporation for a tax
-credit under this section:
-(i)  any housing sponsor that has received an allocation of the federal low-
-income housing tax credit; or
-(ii)  any applicant for an allocation of the federal low-income housing tax
-credit.
-(b)  The Utah Housing Corporation may not require fees for applications of the
-tax credit under this section in addition to those fees required for
-applications for the federal low-income housing tax credit.
-(5) (a)  The Utah Housing Corporation shall determine the amount of the tax
-credit to allocate to a qualifying housing sponsor in accordance with the
-qualified allocation plan of the Utah Housing Corporation.
-(b) (i)  The Utah Housing Corporation shall allocate the tax credit to housing
-sponsors by issuing an allocation certificate to qualifying housing sponsors.
-(ii)  The allocation certificate under Subsection (5)(b)(i) shall specify the
-allowed percentage of the federal low-income housing tax credit as determined
-by the Utah Housing Corporation.
-(c)  The percentage specified in an allocation certificate may not exceed 100%
-of the federal low-income housing tax credit.
-(6)  A housing sponsor shall provide a copy of the allocation certificate to
-each taxpayer that is issued a special low-income housing tax credit
-certificate.
+
+(iii)  the need for the tax credit for the economic feasibility of the development; and
+
+(iv)  the extended period for which the development commits to remain as affordable housing.
+
+(4) (a)  The following may apply to the Utah Housing Corporation for a tax credit under this section:
+
+(i)  any housing sponsor that has received an allocation of the federal low-income housing tax credit; or
+
+(ii)  any applicant for an allocation of the federal low-income housing tax credit.
+
+(b)  The Utah Housing Corporation may not require fees for applications of the tax credit under this section in addition to those fees required for applications for the federal low-income housing tax credit.
+
+(5) (a)  The Utah Housing Corporation shall determine the amount of the tax credit to allocate to a qualifying housing sponsor in accordance with the qualified allocation plan of the Utah Housing Corporation.
+
+(b) (i)  The Utah Housing Corporation shall allocate the tax credit to housing sponsors by issuing an allocation certificate to qualifying housing sponsors.
+
+(ii)  The allocation certificate under Subsection (5)(b)(i) shall specify the allowed percentage of the federal low-income housing tax credit as determined by the Utah Housing Corporation.
+
+(c)  The percentage specified in an allocation certificate may not exceed 100% of the federal low-income housing tax credit.
+
+(6)  A housing sponsor shall provide a copy of the allocation certificate to each taxpayer that is issued a special low-income housing tax credit certificate.
+
 (7) (a)  A housing sponsor shall provide to the commission a list of:
-(i)  the taxpayers issued a special low-income housing tax credit certificate;
-and
-(ii)  for each taxpayer described in Subsection (7)(a)(i), the amount of tax
-credit listed on the special low-income housing tax credit certificate.
+
+(i)  the taxpayers issued a special low-income housing tax credit certificate; and
+
+(ii)  for each taxpayer described in Subsection (7)(a)(i), the amount of tax credit listed on the special low-income housing tax credit certificate.
+
 (b)  A housing sponsor shall provide the list required by Subsection (7)(a):
+
 (i)  to the commission;
+
 (ii)  on a form provided by the commission; and
-(iii)  with the housing sponsor's tax return for each taxable year for which
-the housing sponsor issues a special low-income housing tax credit certificate
-described in this Subsection (7).
-(8) (a)  All elections made by the taxpayer pursuant to Section 42, Internal
-Revenue Code, shall apply to this section.
-(b) (i)  If a taxpayer is required to recapture a portion of any federal low-
-income housing tax credit, the taxpayer shall also be required to recapture a
-portion of any state tax credits authorized by this section.
-(ii)  The state recapture amount shall be equal to the percentage of the state
-tax credit that equals the proportion the federal recapture amount bears to
-the original federal low-income housing tax credit amount subject to
-recapture.
-(9) (a)  Any tax credits returned to the Utah Housing Corporation in any year
-may be reallocated within the same time period as provided in Section 42,
-Internal Revenue Code.
-(b)  Tax credits that are unallocated by the Utah Housing Corporation in any
-year may be carried over for allocation in the subsequent year.
-(10) (a)  Amounts otherwise qualifying for the tax credit, but not allowable
-because the tax credit exceeds the tax, may be carried back three years or may
-be carried forward five years as a credit against the tax.
-(b)  Carryover tax credits under Subsection (10)(a) shall be applied against
-the tax:
+
+(iii)  with the housing sponsor's tax return for each taxable year for which the housing sponsor issues a special low-income housing tax credit certificate described in this Subsection (7).
+
+(8) (a)  All elections made by the taxpayer pursuant to Section 42, Internal Revenue Code, shall apply to this section.
+
+(b) (i)  If a taxpayer is required to recapture a portion of any federal low-income housing tax credit, the taxpayer shall also be required to recapture a portion of any state tax credits authorized by this section.
+
+(ii)  The state recapture amount shall be equal to the percentage of the state tax credit that equals the proportion the federal recapture amount bears to the original federal low-income housing tax credit amount subject to recapture.
+
+(9) (a)  Any tax credits returned to the Utah Housing Corporation in any year may be reallocated within the same time period as provided in Section 42, Internal Revenue Code.
+
+(b)  Tax credits that are unallocated by the Utah Housing Corporation in any year may be carried over for allocation in the subsequent year.
+
+(10) (a)  Amounts otherwise qualifying for the tax credit, but not allowable because the tax credit exceeds the tax, may be carried back three years or may be carried forward five years as a credit against the tax.
+
+(b)  Carryover tax credits under Subsection (10)(a) shall be applied against the tax:
+
 (i)  before the application of the tax credits earned in the current year; and
+
 (ii)  on a first-earned first-used basis.
-(11)  Any tax credit taken in this section may be subject to an annual audit
-by the commission.
-(12)  The Utah Housing Corporation shall provide an annual report to the
-Revenue and Taxation Interim Committee which shall include at least:
+
+(11)  Any tax credit taken in this section may be subject to an annual audit by the commission.
+
+(12)  The Utah Housing Corporation shall provide an annual report to the Revenue and Taxation Interim Committee which shall include at least:
+
 (a)  the purpose and effectiveness of the tax credits; and
+
 (b)  the benefits of the tax credits to the state.
-(13)  The commission may, in consultation with the Utah Housing Corporation,
-promulgate rules to implement this section.
+
+(13)  The commission may, in consultation with the Utah Housing Corporation, promulgate rules to implement this section.
+

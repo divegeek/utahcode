@@ -1,13 +1,6 @@
 26-6-29.   Violation -- Penalty.
-(1)  Any individual or entity entitled to receive confidential information
-from the Department of Health or a local health department under this chapter,
-other than the individual identified in that information, who violates this
-chapter by releasing or making public confidential information, or by
-otherwise breaching the confidentiality requirements of this chapter, is
-guilty of a class B misdemeanor.
-(2)  This chapter does not apply to any individual or entity that holds or
-receives information relating to an individual who has or is suspected of
-having a disease designated by the department as a communicable or reportable
-disease under this chapter, if that individual or entity has obtained the
-information from a source other than the department or a local health
-department.
+
+(1)  Any individual or entity entitled to receive confidential information from the Department of Health or a local health department under this chapter, other than the individual identified in that information, who violates this chapter by releasing or making public confidential information, or by otherwise breaching the confidentiality requirements of this chapter, is guilty of a class B misdemeanor.
+
+(2)  This chapter does not apply to any individual or entity that holds or receives information relating to an individual who has or is suspected of having a disease designated by the department as a communicable or reportable disease under this chapter, if that individual or entity has obtained the information from a source other than the department or a local health department.
+

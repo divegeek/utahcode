@@ -1,46 +1,28 @@
 70A-2a-529.   Lessor's damages for lessee's default.
-(1)  After default by the lessee under the lease contract of the type
-described in Subsection 70A-2a-523(1) or (3)(a), or, if agreed, after any
-other default by the lessee, if the lessor complies with Subsection (2), the
-lessor may recover from the lessee as damages:
-(a)  for goods accepted by the lessee and not repossessed by or tendered back
-to the lessor and for conforming goods lost or damaged after risk of loss
-passes to the lessee as provided in Section 70A-2a-219:
-(i)  accrued and unpaid rent as of the date of entry of judgment in favor of
-the lessor;
-(ii)  the present value as of the date determined under Subsection (1)(a)(i)
-of the rent for the then remaining lease term of the lease agreement; and
-(iii)  any incidental damages allowed under Section 70A-2a-530, less expenses
-saved in consequence of the lessee's default; and
-(b)  for goods identified to the lease contract where the lessor has never
-delivered the goods or has taken possession of them or the lessee has
-effectively tendered them back to the lessor, if the lessor is unable after
-reasonable effort to dispose of them at a reasonable price or the
-circumstances reasonably indicate that such an effort will be unavailing:
-(i)  accrued and unpaid rent as of the date of entry of judgment in favor of
-the lessor;
-(ii)  the present value as of the date determined under Subsection (1)(b)(i)
-of the rent for the then remaining lease term of the lease agreement; and
-(iii)  any incidental damages allowed under Section 70A-2a-530, less expenses
-saved in consequence of the lessee's default.
-(2)  Except as provided in Subsection (3), the lessor shall hold for the
-lessee for the remaining term of the lease agreement any goods that have been
-identified to the lease contract and are in the lessor's control.
-(3)  The lessor may dispose of the goods at any time before collection of the
-judgment for damages obtained pursuant to Subsection (1).  If the disposition
-is before the end of the remaining lease term of the lease agreement, the
-lessor's recovery against the lessee for damages will be governed by Section
-70A-2a-527 or 70A-2a-528, and the lessor will cause an appropriate credit to
-be provided against any judgment for damages to the extent that the amount of
-the judgment exceeds the recovery available under Section 70A-2a-527 or 70A-
-2a-528.
-(4)  Payment of the judgment for damages obtained pursuant to Subsection (1)
-entitles the lessee to the use and possession of the goods not then disposed
-of for the remaining lease term of and in accordance with the lease agreement
-if the lessee complies with all other terms and conditions of the lease
-agreement.
-(5)  After a lessee has wrongfully rejected or revoked acceptance of goods,
-has failed to pay rent then due, or has repudiated as provided in Section 70A-
-2a-402, a lessor who is held not entitled to rent under this section must
-nevertheless be awarded damages for nonacceptance under Sections 70A-2a-527
-and 70A-2a-528.
+
+(1)  After default by the lessee under the lease contract of the type described in Subsection 70A-2a-523(1) or (3)(a), or, if agreed, after any other default by the lessee, if the lessor complies with Subsection (2), the lessor may recover from the lessee as damages:
+
+(a)  for goods accepted by the lessee and not repossessed by or tendered back to the lessor and for conforming goods lost or damaged after risk of loss passes to the lessee as provided in Section 70A-2a-219:
+
+(i)  accrued and unpaid rent as of the date of entry of judgment in favor of the lessor;
+
+(ii)  the present value as of the date determined under Subsection (1)(a)(i) of the rent for the then remaining lease term of the lease agreement; and
+
+(iii)  any incidental damages allowed under Section 70A-2a-530, less expenses saved in consequence of the lessee's default; and
+
+(b)  for goods identified to the lease contract where the lessor has never delivered the goods or has taken possession of them or the lessee has effectively tendered them back to the lessor, if the lessor is unable after reasonable effort to dispose of them at a reasonable price or the circumstances reasonably indicate that such an effort will be unavailing:
+
+(i)  accrued and unpaid rent as of the date of entry of judgment in favor of the lessor;
+
+(ii)  the present value as of the date determined under Subsection (1)(b)(i) of the rent for the then remaining lease term of the lease agreement; and
+
+(iii)  any incidental damages allowed under Section 70A-2a-530, less expenses saved in consequence of the lessee's default.
+
+(2)  Except as provided in Subsection (3), the lessor shall hold for the lessee for the remaining term of the lease agreement any goods that have been identified to the lease contract and are in the lessor's control.
+
+(3)  The lessor may dispose of the goods at any time before collection of the judgment for damages obtained pursuant to Subsection (1).  If the disposition is before the end of the remaining lease term of the lease agreement, the lessor's recovery against the lessee for damages will be governed by Section 70A-2a-527 or 70A-2a-528, and the lessor will cause an appropriate credit to be provided against any judgment for damages to the extent that the amount of the judgment exceeds the recovery available under Section 70A-2a-527 or 70A-2a-528.
+
+(4)  Payment of the judgment for damages obtained pursuant to Subsection (1) entitles the lessee to the use and possession of the goods not then disposed of for the remaining lease term of and in accordance with the lease agreement if the lessee complies with all other terms and conditions of the lease agreement.
+
+(5)  After a lessee has wrongfully rejected or revoked acceptance of goods, has failed to pay rent then due, or has repudiated as provided in Section 70A-2a-402, a lessor who is held not entitled to rent under this section must nevertheless be awarded damages for nonacceptance under Sections 70A-2a-527 and 70A-2a-528.
+

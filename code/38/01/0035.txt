@@ -1,22 +1,26 @@
 38-1-35.   Limitation of liability.
-(1)  The state and the state's agencies, instrumentalities, political
-subdivisions, and an employee of a governmental entity are immune from suit
-for any injury resulting from the state construction registry.
-(2)  The designated agent and its principals, agents, and employees are not
-liable to any person for the accuracy, coherence, suitability, completeness,
-or legal effectiveness of information filed or searched in the database if the
-designated agent:
-(a)  develops and maintains the database in compliance with reliability,
-availability, and security standards established by the division; and
-(b)  meets data entry accuracy standards established by the division under
-Subsection 38-1-30(6)(b).
-(3)  The designated agent and its principals, agents, and employees are not
-liable for their inability to perform obligations under this chapter to the
-extent performance of those obligations is prevented by:
+
+(1)  The state and the state's agencies, instrumentalities, political subdivisions, and an employee of a governmental entity are immune from suit for any injury resulting from the state construction registry.
+
+(2)  The designated agent and its principals, agents, and employees are not liable to any person for the accuracy, coherence, suitability, completeness, or legal effectiveness of information filed or searched in the database if the designated agent:
+
+(a)  develops and maintains the database in compliance with reliability, availability, and security standards established by the division; and
+
+(b)  meets data entry accuracy standards established by the division under Subsection 38-1-30(6)(b).
+
+(3)  The designated agent and its principals, agents, and employees are not liable for their inability to perform obligations under this chapter to the extent performance of those obligations is prevented by:
+
 (a)  an act of God;
+
 (b)  a fire;
+
 (c)  a storm;
+
 (d)  an earthquake;
+
 (e)  an accident;
+
 (f)  governmental interference; or
+
 (g)  any other event or cause beyond the designated agent's control.
+

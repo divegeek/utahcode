@@ -1,44 +1,46 @@
 31A-30-107.3.   Discontinuance and nonrenewal limitations and conditions.
-(1) (a)  A carrier that elects to discontinue offering a health benefit plan
-under Subsection 31A-30-107(3)(e) or 31A-30-107.1(3)(e) is prohibited from
-writing new business:
+
+(1) (a)  A carrier that elects to discontinue offering a health benefit plan under Subsection 31A-30-107(3)(e) or 31A-30-107.1(3)(e) is prohibited from writing new business:
+
 (i)  in the small employer and individual market in this state; and
-(ii)  for a period of five years beginning on the date of discontinuation of
-the last coverage that is discontinued.
-(b)  The prohibition described in Subsection (1)(a) may be waived if the
-commissioner finds that waiver is in the public interest:
+
+(ii)  for a period of five years beginning on the date of discontinuation of the last coverage that is discontinued.
+
+(b)  The prohibition described in Subsection (1)(a) may be waived if the commissioner finds that waiver is in the public interest:
+
 (i)  to promote competition; or
+
 (ii)  to resolve inequity in the marketplace.
-(2) (a)  If the Comprehensive Health Insurance Pool as set forth under Title
-31A, Chapter 29, is dissolved or discontinued, or if enrollment is capped or
-suspended, an individual carrier:
-(i)  may elect to discontinue offering new individual health benefit plans,
-except to HIPAA eligibles, but must keep existing individual health benefit
-plans in effect, except those individual plans that are not renewed under the
-provisions of Subsection 31A-30-107(2) or 31A-30-107.1(2);
-(ii)  may elect to continue to offer new individual and small employer health
-benefit plans; or
-(iii)  may elect to discontinue all of the covered carrier's health benefit
-plans in the individual or small group market under the provisions of
-Subsection 31A-30-107(3)(e) or 31A-30-107.1(3)(e).
+
+(2) (a)  If the Comprehensive Health Insurance Pool as set forth under Title 31A, Chapter 29, is dissolved or discontinued, or if enrollment is capped or suspended, an individual carrier:
+
+(i)  may elect to discontinue offering new individual health benefit plans, except to HIPAA eligibles, but must keep existing individual health benefit plans in effect, except those individual plans that are not renewed under the provisions of Subsection 31A-30-107(2) or 31A-30-107.1(2);
+
+(ii)  may elect to continue to offer new individual and small employer health benefit plans; or
+
+(iii)  may elect to discontinue all of the covered carrier's health benefit plans in the individual or small group market under the provisions of Subsection 31A-30-107(3)(e) or 31A-30-107.1(3)(e).
+
 (b)  A carrier that makes an election under Subsection (2)(a)(i):
+
 (i)  is prohibited from writing new business:
+
 (A)  in the individual market in this state; and
+
 (B)  for a period of five years beginning on the date of discontinuation;
+
 (ii)  may continue to write new business in the small employer market; and
-(iii)  must provide written notice of the election under Subsection (2)(a)(i)
-within two calendar days of the election to the Utah Insurance Department.
-(c)  The prohibition described in Subsection (2)(b)(i) may be waived if the
-commissioner finds that waiver is in the public interest:
+
+(iii)  must provide written notice of the election under Subsection (2)(a)(i) within two calendar days of the election to the Utah Insurance Department.
+
+(c)  The prohibition described in Subsection (2)(b)(i) may be waived if the commissioner finds that waiver is in the public interest:
+
 (i)  to promote competition; or
+
 (ii)  to resolve inequity in the marketplace.
-(d)  A carrier that makes an election under Subsection (2)(a)(iii) is subject
-to the provisions of Subsection (1).
-(3)  If a carrier is doing business in one established geographic service area
-of the state, Sections 31A-30-107 and 31A-30-107.1 apply only to the carrier's
-operations in that geographic service area.
-(4)  If a small employer employs less than two eligible employees, a carrier
-may not discontinue or not renew the health benefit plan until the first
-renewal date following the beginning of a new plan year, even if the carrier
-knows as of the beginning of the plan year that the employer no longer has at
-least two current employees.
+
+(d)  A carrier that makes an election under Subsection (2)(a)(iii) is subject to the provisions of Subsection (1).
+
+(3)  If a carrier is doing business in one established geographic service area of the state, Sections 31A-30-107 and 31A-30-107.1 apply only to the carrier's operations in that geographic service area.
+
+(4)  If a small employer employs less than two eligible employees, a carrier may not discontinue or not renew the health benefit plan until the first renewal date following the beginning of a new plan year, even if the carrier knows as of the beginning of the plan year that the employer no longer has at least two current employees.
+

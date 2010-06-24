@@ -1,54 +1,50 @@
 51-2a-102.   Definitions.
+
 As used in this chapter:
-(1)  "Accounting reports" means an audit, a review, a compilation, or a fiscal
-report.
+
+(1)  "Accounting reports" means an audit, a review, a compilation, or a fiscal report.
+
 (2)  "Audit" means an examination that:
-(a)  analyzes the accounts of all officers of the entity having responsibility
-for the care, management, collection, or disbursement of money belonging to it
-or appropriated by law or otherwise acquired for its use or benefit;
-(b)  is performed in accordance with generally accepted government auditing
-standards; and
-(c)  conforms to the uniform classification of accounts established or
-approved by the state auditor or any other classification of accounts
-established by any federal government agency.
+
+(a)  analyzes the accounts of all officers of the entity having responsibility for the care, management, collection, or disbursement of money belonging to it or appropriated by law or otherwise acquired for its use or benefit;
+
+(b)  is performed in accordance with generally accepted government auditing standards; and
+
+(c)  conforms to the uniform classification of accounts established or approved by the state auditor or any other classification of accounts established by any federal government agency.
+
 (3)  "Audit report" means:
-(a)  the financial statements presented in conformity with generally accepted
-accounting principles;
+
+(a)  the financial statements presented in conformity with generally accepted accounting principles;
+
 (b)  the auditor's opinion on the financial statements;
-(c)  a statement by the auditor expressing positive assurance of compliance
-with state fiscal laws identified by the state auditor;
-(d)  a copy of the auditor's letter to management that identifies any material
-weakness in internal controls discovered by the auditor and other financial
-issues related to the expenditure of funds received from federal, state, or
-local governments to be considered by management; and
+
+(c)  a statement by the auditor expressing positive assurance of compliance with state fiscal laws identified by the state auditor;
+
+(d)  a copy of the auditor's letter to management that identifies any material weakness in internal controls discovered by the auditor and other financial issues related to the expenditure of funds received from federal, state, or local governments to be considered by management; and
+
 (e)  management's response to the specific recommendations.
-(4)  "Compilation" means information presented in the form of financial
-statements presented in conformity with generally accepted accounting
-principles that are the representation of management without the accountant
-undertaking to express any assurances on the statements.
-(5)  "Fiscal report" means providing information detailing revenues and
-expenditures of all funds using forms provided by the state auditor.
+
+(4)  "Compilation" means information presented in the form of financial statements presented in conformity with generally accepted accounting principles that are the representation of management without the accountant undertaking to express any assurances on the statements.
+
+(5)  "Fiscal report" means providing information detailing revenues and expenditures of all funds using forms provided by the state auditor.
+
 (6)  "Governing board" means:
+
 (a)  the governing board of each political subdivision;
-(b)  the governing board of each interlocal organization having the power to
-tax or to expend public funds;
-(c)  the governing board of any local mental health authority established
-under the authority of Title 62A, Chapter 15, Substance Abuse and Mental
-Health Act;
-(d)  the governing board of any substance abuse authority established under
-the authority of Title 62A, Chapter 15, Substance Abuse and Mental Health Act;
-(e)  the governing board of any area agency established under the authority of
-Title 62A, Chapter 3, Aging and Adult Services;
-(f)  the governing board of any nonprofit corporation that receives at least
-50% of its funds from federal, state, and local government entities through
-contracts;
-(g)  the governing board of any other entity established by a local
-governmental unit that receives tax exempt status for bonding or taxing
-purposes; and
-(h)  in municipalities organized under an optional form of municipal
-government, the municipal legislative body.
-(7)  "Review" means performing inquiry and analytical procedures that provide
-the accountant with a reasonable basis for expressing limited assurance that
-there are no material modifications that should be made to the financial
-statements for them to be in conformity with generally accepted accounting
-principles.
+
+(b)  the governing board of each interlocal organization having the power to tax or to expend public funds;
+
+(c)  the governing board of any local mental health authority established under the authority of Title 62A, Chapter 15, Substance Abuse and Mental Health Act;
+
+(d)  the governing board of any substance abuse authority established under the authority of Title 62A, Chapter 15, Substance Abuse and Mental Health Act;
+
+(e)  the governing board of any area agency established under the authority of Title 62A, Chapter 3, Aging and Adult Services;
+
+(f)  the governing board of any nonprofit corporation that receives at least 50% of its funds from federal, state, and local government entities through contracts;
+
+(g)  the governing board of any other entity established by a local governmental unit that receives tax exempt status for bonding or taxing purposes; and
+
+(h)  in municipalities organized under an optional form of municipal government, the municipal legislative body.
+
+(7)  "Review" means performing inquiry and analytical procedures that provide the accountant with a reasonable basis for expressing limited assurance that there are no material modifications that should be made to the financial statements for them to be in conformity with generally accepted accounting principles.
+

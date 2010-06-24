@@ -1,121 +1,126 @@
-31A-30-106.1.   Small employer premiums -- Rating restrictions --
-Disclosure.
-(1)  Premium rates for small employer health benefit plans under this chapter
-are subject to the provisions of this section for a health benefit plan that
-is issued or renewed, on or after January 1, 2011.
-(2) (a)  The index rate for a rating period for any class of business may not
-exceed the index rate for any other class of business by more than 20%.
-(b)  For a class of business, the premium rates charged during a rating period
-to covered insureds with similar case characteristics for the same or similar
-coverage, or the rates that could be charged to an employer group under the
-rating system for that class of business, may not vary from the index rate by
-more than 30% of the index rate, except when catastrophic mental health
-coverage is selected as provided in Subsection 31A-22-625(2)(d).
-(3)  The percentage increase in the premium rate charged to a covered insured
-for a new rating period, adjusted pro rata for rating periods less than a
-year, may not exceed the sum of the following:
-(a)  the percentage change in the new business premium rate measured from the
-first day of the prior rating period to the first day of the new rating
-period;
-(b)  any adjustment, not to exceed 15% annually for rating periods of less
-than one year, due to the claim experience, health status, or duration of
-coverage of the covered individuals as determined from the small employer
-carrier's rate manual for the class of business, except when catastrophic
-mental health coverage is selected as provided in Subsection 31A-22-625(2)(d);
-and
-(c)  any adjustment due to change in coverage or change in the case
-characteristics of the covered insured as determined for the class of business
-from the small employer carrier's rate manual.
-(4) (a)  Adjustments in rates for claims experience, health status, and
-duration from issue may not be charged to individual employees or dependents.
-(b)  Rating adjustments and factors, including case characteristics, shall be
-applied uniformly and consistently to the rates charged for all employees and
-dependents of the small employer.
+31A-30-106.1.   Small employer premiums -- Rating restrictions -- Disclosure.
+
+(1)  Premium rates for small employer health benefit plans under this chapter are subject to the provisions of this section for a health benefit plan that is issued or renewed, on or after January 1, 2011.
+
+(2) (a)  The index rate for a rating period for any class of business may not exceed the index rate for any other class of business by more than 20%.
+
+(b)  For a class of business, the premium rates charged during a rating period to covered insureds with similar case characteristics for the same or similar coverage, or the rates that could be charged to an employer group under the rating system for that class of business, may not vary from the index rate by more than 30% of the index rate, except when catastrophic mental health coverage is selected as provided in Subsection 31A-22-625(2)(d).
+
+(3)  The percentage increase in the premium rate charged to a covered insured for a new rating period, adjusted pro rata for rating periods less than a year, may not exceed the sum of the following:
+
+(a)  the percentage change in the new business premium rate measured from the first day of the prior rating period to the first day of the new rating period;
+
+(b)  any adjustment, not to exceed 15% annually for rating periods of less than one year, due to the claim experience, health status, or duration of coverage of the covered individuals as determined from the small employer carrier's rate manual for the class of business, except when catastrophic mental health coverage is selected as provided in Subsection 31A-22-625(2)(d); and
+
+(c)  any adjustment due to change in coverage or change in the case characteristics of the covered insured as determined for the class of business from the small employer carrier's rate manual.
+
+(4) (a)  Adjustments in rates for claims experience, health status, and duration from issue may not be charged to individual employees or dependents.
+
+(b)  Rating adjustments and factors, including case characteristics, shall be applied uniformly and consistently to the rates charged for all employees and dependents of the small employer.
+
 (c)  Rating factors shall produce premiums for identical groups that:
+
 (i)  differ only by the amounts attributable to plan design; and
-(ii)  do not reflect differences due to the nature of the groups assumed to
-select particular health benefit products.
-(d)  A small employer carrier shall treat all health benefit plans issued or
-renewed in the same calendar month as having the same rating period.
-(5)  A health benefit plan that uses a restricted network provision may not be
-considered similar coverage to a health benefit plan that does not use a
-restricted network provision, provided that use of the restricted network
-provision results in substantial difference in claims costs.
-(6)  The small employer carrier may not use case characteristics other than
-the following:
+
+(ii)  do not reflect differences due to the nature of the groups assumed to select particular health benefit products.
+
+(d)  A small employer carrier shall treat all health benefit plans issued or renewed in the same calendar month as having the same rating period.
+
+(5)  A health benefit plan that uses a restricted network provision may not be considered similar coverage to a health benefit plan that does not use a restricted network provision, provided that use of the restricted network provision results in substantial difference in claims costs.
+
+(6)  The small employer carrier may not use case characteristics other than the following:
+
 (a)  age, as determined at the beginning of the plan year, limited to:
+
 (i)  the following age bands:
+
 (A)  less than 20;
+
 (B)  20-24;
+
 (C)  25-29;
+
 (D)  30-34;
+
 (E)  35-39;
+
 (F)  40-44;
+
 (G)  45-49;
+
 (H)  50-54;
+
 (I)  55-59;
+
 (J)  60-64; and
+
 (K)  65 and above; and
-(ii)  a standard slope ratio range for each age band, applied to each family
-composition tier rating structure under Subsection (6)(c):
+
+(ii)  a standard slope ratio range for each age band, applied to each family composition tier rating structure under Subsection (6)(c):
+
 (A)  as developed by the department by administrative rule;
+
 (B)  not to exceed an overall ratio of 5:1; and
+
 (C)  the age slope ratios for each age band may not overlap;
+
 (b)  geographic area; and
+
 (c)  family composition, limited to:
+
 (i)  an overall ratio of 5:1 or less; and
+
 (ii)  a four tier rating structure that includes:
+
 (A)  employee only;
+
 (B)  employee plus spouse;
+
 (C)  employee plus a dependent or dependents; and
-(D)  a family, consisting of an employee plus spouse, and a dependent or
-dependents.
-(7)  If a health benefit plan is a health benefit plan into which the small
-employer carrier is no longer enrolling new covered insureds, the small
-employer carrier shall use the percentage change in the base premium rate,
-provided that the change does not exceed, on a percentage basis, the change in
-the new business premium rate for the most similar health benefit product into
-which the small employer carrier is actively enrolling new covered insureds.
-(8) (a)  A covered carrier may not transfer a covered insured involuntarily
-into or out of a class of business.
-(b)  A covered carrier may not offer to transfer a covered insured into or out
-of a class of business unless the offer is made to transfer all covered
-insureds in the class of business without regard to:
+
+(D)  a family, consisting of an employee plus spouse, and a dependent or dependents.
+
+(7)  If a health benefit plan is a health benefit plan into which the small employer carrier is no longer enrolling new covered insureds, the small employer carrier shall use the percentage change in the base premium rate, provided that the change does not exceed, on a percentage basis, the change in the new business premium rate for the most similar health benefit product into which the small employer carrier is actively enrolling new covered insureds.
+
+(8) (a)  A covered carrier may not transfer a covered insured involuntarily into or out of a class of business.
+
+(b)  A covered carrier may not offer to transfer a covered insured into or out of a class of business unless the offer is made to transfer all covered insureds in the class of business without regard to:
+
 (i)  case characteristics;
+
 (ii)  claim experience;
+
 (iii)  health status; or
+
 (iv)  duration of coverage since issue.
-(9) (a)  Each small employer carrier shall maintain at the small employer
-carrier's principal place of business a complete and detailed description of
-its rating practices and renewal underwriting practices, including information
-and documentation that demonstrate that the small employer carrier's rating
-methods and practices are:
+
+(9) (a)  Each small employer carrier shall maintain at the small employer carrier's principal place of business a complete and detailed description of its rating practices and renewal underwriting practices, including information and documentation that demonstrate that the small employer carrier's rating methods and practices are:
+
 (i)  based upon commonly accepted actuarial assumptions; and
+
 (ii)  in accordance with sound actuarial principles.
-(b) (i)  Each small employer carrier shall file with the commissioner on or
-before April 1 of each year, in a form and manner and containing information
-as prescribed by the commissioner, an actuarial certification certifying that:
+
+(b) (i)  Each small employer carrier shall file with the commissioner on or before April 1 of each year, in a form and manner and containing information as prescribed by the commissioner, an actuarial certification certifying that:
+
 (A)  the small employer carrier is in compliance with this chapter; and
+
 (B)  the rating methods of the small employer carrier are actuarially sound.
-(ii)  A copy of the certification required by Subsection (9)(b)(i) shall be
-retained by the small employer carrier at the small employer carrier's
-principal place of business.
-(c)  A small employer carrier shall make the information and documentation
-described in this Subsection (9) available to the commissioner upon request.
-(10) (a)  The commissioner shall, by July 1, 2010, establish rules in
-accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
+
+(ii)  A copy of the certification required by Subsection (9)(b)(i) shall be retained by the small employer carrier at the small employer carrier's principal place of business.
+
+(c)  A small employer carrier shall make the information and documentation described in this Subsection (9) available to the commissioner upon request.
+
+(10) (a)  The commissioner shall, by July 1, 2010, establish rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
+
 (i)  implement this chapter; and
-(ii)  assure that rating practices used by small employer carriers under this
-section and carriers for individual plans under Section 31A-30-106, as
-effective on January 1, 2011, are consistent with the purposes of this
-chapter.
+
+(ii)  assure that rating practices used by small employer carriers under this section and carriers for individual plans under Section 31A-30-106, as effective on January 1, 2011, are consistent with the purposes of this chapter.
+
 (b)  The rules may:
-(i)  assure that differences in rates charged for health benefit plans by
-carriers are reasonable and reflect objective differences in plan design, not
-including differences due to the nature of the groups or individuals assumed
-to select particular health benefit plans; and
-(ii)  prescribe the manner in which case characteristics may be used by small
-employer and individual carriers.
-(11)  Records submitted to the commissioner under this section shall be
-maintained by the commissioner as protected records under Title 63G, Chapter
-2, Government Records Access and Management Act.
+
+(i)  assure that differences in rates charged for health benefit plans by carriers are reasonable and reflect objective differences in plan design, not including differences due to the nature of the groups or individuals assumed to select particular health benefit plans; and
+
+(ii)  prescribe the manner in which case characteristics may be used by small employer and individual carriers.
+
+(11)  Records submitted to the commissioner under this section shall be maintained by the commissioner as protected records under Title 63G, Chapter 2, Government Records Access and Management Act.
+

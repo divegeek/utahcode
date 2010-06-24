@@ -1,38 +1,28 @@
-38-9-7.   Petition to nullify lien -- Notice to lien claimant -- Summary
-relief -- Finding of wrongful lien -- Wrongful lien is void.
-(1)  Any record interest holder of real property against which a wrongful lien
-as defined in Section 38-9-1 has been recorded may petition the district court
-in the county in which the document was recorded for summary relief to nullify
-the lien.
-(2)  The petition shall state with specificity the claim that the lien is a
-wrongful lien and shall be supported by a sworn affidavit of the record
-interest holder.
-(3) (a)  If the court finds the petition insufficient, it may dismiss the
-petition without a hearing.
-(b)  If the court finds the petition is sufficient, the court shall schedule a
-hearing within 10 days to determine whether the document is a wrongful lien.
-(c)  The record interest holder shall serve a copy of the petition on the lien
-claimant and a notice of the hearing pursuant to Rules of Civil Procedure,
-Rule 4, Process.
+38-9-7.   Petition to nullify lien -- Notice to lien claimant -- Summary relief -- Finding of wrongful lien -- Wrongful lien is void.
+
+(1)  Any record interest holder of real property against which a wrongful lien as defined in Section 38-9-1 has been recorded may petition the district court in the county in which the document was recorded for summary relief to nullify the lien.
+
+(2)  The petition shall state with specificity the claim that the lien is a wrongful lien and shall be supported by a sworn affidavit of the record interest holder.
+
+(3) (a)  If the court finds the petition insufficient, it may dismiss the petition without a hearing.
+
+(b)  If the court finds the petition is sufficient, the court shall schedule a hearing within 10 days to determine whether the document is a wrongful lien.
+
+(c)  The record interest holder shall serve a copy of the petition on the lien claimant and a notice of the hearing pursuant to Rules of Civil Procedure, Rule 4, Process.
+
 (d)  The lien claimant is entitled to attend and contest the petition.
-(4)  A summary proceeding under this section is only to determine whether or
-not a document is a wrongful lien.  The proceeding shall not determine any
-other property or legal rights of the parties nor restrict other legal
-remedies of any party.
-(5) (a)  Following a hearing on the matter, if the court determines that the
-document is a wrongful lien, the court shall issue an order declaring the
-wrongful lien void ab initio, releasing the property from the lien, and
-awarding costs and reasonable attorney's fees to the petitioner.
-(b) (i)  The record interest holder may record a certified copy of the order
-with the county recorder.
+
+(4)  A summary proceeding under this section is only to determine whether or not a document is a wrongful lien.  The proceeding shall not determine any other property or legal rights of the parties nor restrict other legal remedies of any party.
+
+(5) (a)  Following a hearing on the matter, if the court determines that the document is a wrongful lien, the court shall issue an order declaring the wrongful lien void ab initio, releasing the property from the lien, and awarding costs and reasonable attorney's fees to the petitioner.
+
+(b) (i)  The record interest holder may record a certified copy of the order with the county recorder.
+
 (ii)  The order shall contain a legal description of the real property.
-(c)  If the court determines that the claim of lien is valid, the court shall
-dismiss the petition and may award costs and reasonable attorney's fees to the
-lien claimant.  The dismissal order shall contain a legal description of the
-real property.  The prevailing lien claimant may record a certified copy of
-the dismissal order.
-(6)  If the district court determines that the lien is a wrongful lien as
-defined in Section 38-9-1, the wrongful lien is void ab initio and provides no
-notice of claim or interest.
-(7)  If the petition contains a claim for damages, the damage proceedings may
-not be expedited under this section.
+
+(c)  If the court determines that the claim of lien is valid, the court shall dismiss the petition and may award costs and reasonable attorney's fees to the lien claimant.  The dismissal order shall contain a legal description of the real property.  The prevailing lien claimant may record a certified copy of the dismissal order.
+
+(6)  If the district court determines that the lien is a wrongful lien as defined in Section 38-9-1, the wrongful lien is void ab initio and provides no notice of claim or interest.
+
+(7)  If the petition contains a claim for damages, the damage proceedings may not be expedited under this section.
+

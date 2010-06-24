@@ -1,84 +1,98 @@
 59-2-801.   Apportionment of property assessed by commission.
-(1)  Before May 25 of each year, the commission shall apportion to each tax
-area the total assessment of all of the property the commission assesses as
-provided in Subsections (1)(a) through (f).
-(a) (i)  The commission shall apportion the assessments of the property
-described in Subsection (1)(a)(ii):
-(A)  to each tax area through which the public utility or company described in
-Subsection (1)(a)(ii) operates; and
+
+(1)  Before May 25 of each year, the commission shall apportion to each tax area the total assessment of all of the property the commission assesses as provided in Subsections (1)(a) through (f).
+
+(a) (i)  The commission shall apportion the assessments of the property described in Subsection (1)(a)(ii):
+
+(A)  to each tax area through which the public utility or company described in Subsection (1)(a)(ii) operates; and
+
 (B)  in proportion to the property's value in each tax area.
+
 (ii)  Subsection (1)(a)(i) applies to property owned by:
+
 (A)  a public utility, except for the rolling stock of a public utility;
+
 (B)  a pipeline company;
+
 (C)  a power company;
+
 (D)  a canal company; or
+
 (E)  an irrigation company.
-(b)  The commission shall apportion the assessments of the rolling stock of a
-railroad:
+
+(b)  The commission shall apportion the assessments of the rolling stock of a railroad:
+
 (i)  to the tax areas through which railroads operate; and
-(ii)  in the proportion that the length of the main tracks, sidetracks,
-passing tracks, switches, and tramways of the railroads in each tax area bears
-to the total length of the main tracks, sidetracks, passing tracks, switches,
-and tramways in the state.
-(c)  The commission shall apportion the assessments of the property of a car
-company to:
+
+(ii)  in the proportion that the length of the main tracks, sidetracks, passing tracks, switches, and tramways of the railroads in each tax area bears to the total length of the main tracks, sidetracks, passing tracks, switches, and tramways in the state.
+
+(c)  The commission shall apportion the assessments of the property of a car company to:
+
 (i)  each tax area in which a  railroad is operated; and
-(ii)  in the proportion that the length of the main tracks, passing tracks,
-sidetracks, switches, and tramways of all of the railroads in each tax area
-bears to the total length of the main tracks, passing tracks, sidetracks,
-switches, and tramways of all of the railroads in the state.
-(d) (i)  The commission shall apportion the assessments of the property
-described in Subsection (1)(d)(ii) to each tax area in which the property is
-located.
+
+(ii)  in the proportion that the length of the main tracks, passing tracks, sidetracks, switches, and tramways of all of the railroads in each tax area bears to the total length of the main tracks, passing tracks, sidetracks, switches, and tramways of all of the railroads in the state.
+
+(d) (i)  The commission shall apportion the assessments of the property described in Subsection (1)(d)(ii) to each tax area in which the property is located.
+
 (ii)  Subsection (1)(d)(i) applies to the following property:
+
 (A)  mines;
+
 (B)  mining claims; or
+
 (C)  mining property.
-(e) (i)  As used in this Subsection (1)(e), "ground hours" means the total
-number of hours during the calendar year immediately preceding the January 1
-described in Section 59-2-103 that aircraft owned or operated by the following
-are on the ground:
+
+(e) (i)  As used in this Subsection (1)(e), "ground hours" means the total number of hours during the calendar year immediately preceding the January 1 described in Section 59-2-103 that aircraft owned or operated by the following are on the ground:
+
 (A)  an air charter service;
+
 (B)  an air contract service; or
+
 (C)  an airline.
-(ii)  The commission shall apportion the assessments of the property described
-in Subsection (1)(e) (iii) to:
+
+(ii)  The commission shall apportion the assessments of the property described in Subsection (1)(e) (iii) to:
+
 (A)  each designated tax area; and
-(B)  in the proportion that the ground hours in each designated tax area bear
-to the total ground hours in the state.
-(iii)  Subsection (1)(e) (ii) applies to the mobile flight equipment owned by
-an:
+
+(B)  in the proportion that the ground hours in each designated tax area bear to the total ground hours in the state.
+
+(iii)  Subsection (1)(e) (ii) applies to the mobile flight equipment owned by an:
+
 (A)  air charter service;
+
 (B)  air contract service; or
+
 (C)  airline.
-(f) (i)  The commission shall apportion the assessments of the property
-described in Subsection (1)(f)(ii) to each tax area in which the property is
-located as of January 1 of each year.
-(ii)  Subsection (1)(f)(i) applies to the real and tangible personal property,
-other than mobile flight equipment, owned by an:
+
+(f) (i)  The commission shall apportion the assessments of the property described in Subsection (1)(f)(ii) to each tax area in which the property is located as of January 1 of each year.
+
+(ii)  Subsection (1)(f)(i) applies to the real and tangible personal property, other than mobile flight equipment, owned by an:
+
 (A)  air charter service;
+
 (B)  air contract service; or
+
 (C)  airline.
-(2) (a) (i) (A)  State-assessed commercial vehicles that weigh 12,001 pounds
-or more shall be taxed at a statewide average rate which is calculated from
-the overall county average tax rates from the preceding year, exclusive of the
-property subject to the statewide uniform fee, weighted by lane miles of
-principal routes in each county.
-(B)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission shall adopt rules to define "principal routes."
-(ii)  State-assessed commercial vehicles that weigh 12,000 pounds or less are
-subject to the uniform fee provided in Section 59-2-405.1.
-(b)  The combined revenue from all state-assessed commercial vehicles shall be
-apportioned to the counties based on:
-(i)  40% by the percentage of lane miles of principal routes within each
-county as determined by the commission; and
-(ii)  60% by the percentage of total state-assessed vehicles having business
-situs in each county.
-(c)  At least quarterly, the commission shall apportion the total taxes paid
-on state-assessed commercial vehicles to the counties.
-(d)  Each county shall apportion its share of the revenues  under this
-Subsection (2) to the taxing entities within its  boundaries in the same
-proportion as the assessments of other:
+
+(2) (a) (i) (A)  State-assessed commercial vehicles that weigh 12,001 pounds or more shall be taxed at a statewide average rate which is calculated from the overall county average tax rates from the preceding year, exclusive of the property subject to the statewide uniform fee, weighted by lane miles of principal routes in each county.
+
+(B)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall adopt rules to define "principal routes."
+
+(ii)  State-assessed commercial vehicles that weigh 12,000 pounds or less are subject to the uniform fee provided in Section 59-2-405.1.
+
+(b)  The combined revenue from all state-assessed commercial vehicles shall be apportioned to the counties based on:
+
+(i)  40% by the percentage of lane miles of principal routes within each county as determined by the commission; and
+
+(ii)  60% by the percentage of total state-assessed vehicles having business situs in each county.
+
+(c)  At least quarterly, the commission shall apportion the total taxes paid on state-assessed commercial vehicles to the counties.
+
+(d)  Each county shall apportion its share of the revenues  under this Subsection (2) to the taxing entities within its  boundaries in the same proportion as the assessments of other:
+
 (i)  real property;
+
 (ii)  tangible personal property; and
+
 (iii)  property assessed by the commission.
+

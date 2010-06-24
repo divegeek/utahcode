@@ -1,27 +1,20 @@
 13-32a-105.   Central database.
-(1)  There is created under this section a central database as a statewide
-repository for all information pawn and secondhand businesses and coin dealers
-are required to submit in accordance with this chapter and for the use of all
-participating law enforcement agencies whose jurisdictions include one or more
-pawn or secondhand businesses.
-(2)  The Division of Purchasing and General Services created in Title 63A,
-Chapter 2, shall:
-(a)  meet with the board to determine the required elements of the database;
-and
-(b)  conduct a statewide request for proposal for the creation of and
-maintenance of the central database.
-(3)  Funding for the creation and operation of the central database shall be
-from the account.
-(4) (a)  Any entity submitting a bid to create, maintain, and operate the
-database pursuant to the request for proposal conducted by the Division of
-Purchasing and General Services may not hold any financial or operating
-interest in any pawnshop in any state.
-(b)  The Division of Purchasing and General Services, in conjunction with the
-Pawnshop and Secondhand Merchandise Advisory Board, shall verify before a bid
-is awarded that the selected entity meets the requirements of Subsection
-(4)(a).
-(c)  If any entity is awarded a bid under this Subsection (4) and is later
-found to hold any interest in violation of Subsection (4)(a), the award is
-subject to being opened again for request for proposal.
-(5)  Information entered in the database shall be retained for five years and
-shall then be deleted.
+
+(1)  There is created under this section a central database as a statewide repository for all information pawn and secondhand businesses and coin dealers are required to submit in accordance with this chapter and for the use of all participating law enforcement agencies whose jurisdictions include one or more pawn or secondhand businesses.
+
+(2)  The Division of Purchasing and General Services created in Title 63A, Chapter 2, shall:
+
+(a)  meet with the board to determine the required elements of the database; and
+
+(b)  conduct a statewide request for proposal for the creation of and maintenance of the central database.
+
+(3)  Funding for the creation and operation of the central database shall be from the account.
+
+(4) (a)  Any entity submitting a bid to create, maintain, and operate the database pursuant to the request for proposal conducted by the Division of Purchasing and General Services may not hold any financial or operating interest in any pawnshop in any state.
+
+(b)  The Division of Purchasing and General Services, in conjunction with the Pawnshop and Secondhand Merchandise Advisory Board, shall verify before a bid is awarded that the selected entity meets the requirements of Subsection (4)(a).
+
+(c)  If any entity is awarded a bid under this Subsection (4) and is later found to hold any interest in violation of Subsection (4)(a), the award is subject to being opened again for request for proposal.
+
+(5)  Information entered in the database shall be retained for five years and shall then be deleted.
+

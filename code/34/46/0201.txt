@@ -1,39 +1,40 @@
 34-46-201.   Information collected.
-(1)  Except as provided in Subsection (2), an employer may not request the
-following information before an applicant is offered a job:
+
+(1)  Except as provided in Subsection (2), an employer may not request the following information before an applicant is offered a job:
+
 (a)  Social Security number;
+
 (b)  date of birth; or
+
 (c)  driver license number.
-(2)  An employer may request the information listed in Subsection (1) before
-an applicant is offered a job only if:
-(a)  the request for information is applicable to any applicant applying for
-the position for which the applicant is applying;
-(b)  the information is requested during the time in the employer's employment
-selection process when the employer:
+
+(2)  An employer may request the information listed in Subsection (1) before an applicant is offered a job only if:
+
+(a)  the request for information is applicable to any applicant applying for the position for which the applicant is applying;
+
+(b)  the information is requested during the time in the employer's employment selection process when the employer:
+
 (i)  obtains a criminal background check;
-(ii)  obtains a credit history of an applicant for employment, subject to the
-requirements of the Fair Credit Reporting Act, 15 U.S.C. Sec. 1681 et seq.;
-(iii)  obtains a driving record of a driver from the Driver License Division
-in accordance with Section 53-3-104 or 53-3-420;
-(iv)  subject to Subsection (3), conducts a review of the internal records of
-the employer to determine whether:
+
+(ii)  obtains a credit history of an applicant for employment, subject to the requirements of the Fair Credit Reporting Act, 15 U.S.C. Sec. 1681 et seq.;
+
+(iii)  obtains a driving record of a driver from the Driver License Division in accordance with Section 53-3-104 or 53-3-420;
+
+(iv)  subject to Subsection (3), conducts a review of the internal records of the employer to determine whether:
+
 (A)  the applicant was previously employed by the employer; or
+
 (B)  the applicant previously applied for employment with the employer; or
-(v)  collects the information to provide it to a government entity for the
-purpose of:
-(A)  determining eligibility for a government service, benefit, or program
-that requires that the information is collected on or before the day on which
-an offer of employment is made; or
-(B)  participating in a government service, benefit, or program that requires
-that the information is collected on or before the day on which an offer of
-employment is made; and
-(c)  the applicant consents to the employer taking the action described in
-Subsection (2)(b).
-(3)  If the information listed in Subsection (1) is requested under Subsection
-(2)(b)(iv), the employer may only request that information listed in
-Subsection (1) that is necessary to conduct the review of the employer's
-internal records.
-(4)  An employer violates this section if pursuant to Subsection (2) the
-employer requests the information listed in Subsection (1), but fails to take
-the action described in Subsection (2)(b) for which the information is
-requested.
+
+(v)  collects the information to provide it to a government entity for the purpose of:
+
+(A)  determining eligibility for a government service, benefit, or program that requires that the information is collected on or before the day on which an offer of employment is made; or
+
+(B)  participating in a government service, benefit, or program that requires that the information is collected on or before the day on which an offer of employment is made; and
+
+(c)  the applicant consents to the employer taking the action described in Subsection (2)(b).
+
+(3)  If the information listed in Subsection (1) is requested under Subsection (2)(b)(iv), the employer may only request that information listed in Subsection (1) that is necessary to conduct the review of the employer's internal records.
+
+(4)  An employer violates this section if pursuant to Subsection (2) the employer requests the information listed in Subsection (1), but fails to take the action described in Subsection (2)(b) for which the information is requested.
+

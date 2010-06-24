@@ -1,86 +1,96 @@
 58-83-305.   Duties and responsibilities.
+
 (1)  The online prescriber shall:
-(a)  be held to the same standards of appropriate practice as those applicable
-in traditional settings which, for purposes of this chapter, include the
-delivery of online pharmaceutical services;
-(b)  conduct an assessment and diagnosis based upon a comprehensive health
-history and an assessment tool such as a branching questionnaire;
-(c)  ensure that a comprehensive health history, assessment, and diagnosis
-have been made before prescribing any medication;
-(d)  conduct the online assessment and diagnosis only through the approved
-Internet facilitator identified in the online prescriber's application;
-(e)  comply with all applicable state and federal laws, rules, regulations,
-and orders;
-(f)  inform the patient electronically of the benefits and risks of
-appropriate treatment;
+
+(a)  be held to the same standards of appropriate practice as those applicable in traditional settings which, for purposes of this chapter, include the delivery of online pharmaceutical services;
+
+(b)  conduct an assessment and diagnosis based upon a comprehensive health history and an assessment tool such as a branching questionnaire;
+
+(c)  ensure that a comprehensive health history, assessment, and diagnosis have been made before prescribing any medication;
+
+(d)  conduct the online assessment and diagnosis only through the approved Internet facilitator identified in the online prescriber's application;
+
+(e)  comply with all applicable state and federal laws, rules, regulations, and orders;
+
+(f)  inform the patient electronically of the benefits and risks of appropriate treatment;
+
 (g)  guide the patient regarding the optimal course of action;
-(h)  treat the patient with courtesy, respect, dignity, responsiveness, and
-timely attention to the patient's needs;
-(i)  comply with the requirements for confidentiality as required by this
-title and applicable federal law;
-(j)  continue to provide the user with reasonable assistance and sufficient
-opportunity to make alternative arrangements for care;
-(k)  be available for ongoing consultation with the patient through e-mail or
-other forms of communication;
+
+(h)  treat the patient with courtesy, respect, dignity, responsiveness, and timely attention to the patient's needs;
+
+(i)  comply with the requirements for confidentiality as required by this title and applicable federal law;
+
+(j)  continue to provide the user with reasonable assistance and sufficient opportunity to make alternative arrangements for care;
+
+(k)  be available for ongoing consultation with the patient through e-mail or other forms of communication;
+
 (l)  not delegate to a third party the professional responsibility to:
+
 (i)  review and evaluate the results of the branching questionnaire;
-(ii)  consult with the patient electronically or through other means about the
-patient's medical condition; and
+
+(ii)  consult with the patient electronically or through other means about the patient's medical condition; and
+
 (iii)  diagnose and prescribe medications to the patient;
-(m)  conduct the online assessment and diagnosis and the electronic
-communication between the online prescriber and the patient only through the
-approved Internet facilitator;
+
+(m)  conduct the online assessment and diagnosis and the electronic communication between the online prescriber and the patient only through the approved Internet facilitator;
+
 (n) (i)  maintain the online medical records of the patient; and
-(ii)  if maintenance of the records is delegated by the online prescriber,
-delegate that authority only to the approved Internet facilitator;
-(o)  inform a patient of the patient's freedom of choice to select the
-pharmacy to dispense the patient's prescription by providing the patient with
-the phone number of the online contract pharmacy so that the patient may
-contact the online contract pharmacy and request a transfer of the
-prescription to another pharmacy; and
-(p)  authorize the Internet facilitator to provide the online contract
-pharmacy with the patient's:
+
+(ii)  if maintenance of the records is delegated by the online prescriber, delegate that authority only to the approved Internet facilitator;
+
+(o)  inform a patient of the patient's freedom of choice to select the pharmacy to dispense the patient's prescription by providing the patient with the phone number of the online contract pharmacy so that the patient may contact the online contract pharmacy and request a transfer of the prescription to another pharmacy; and
+
+(p)  authorize the Internet facilitator to provide the online contract pharmacy with the patient's:
+
 (i)  full name;
+
 (ii)  current address and telephone number;
+
 (iii)  date of birth or age and gender;
+
 (iv)  height, weight, and vital signs (if known);
+
 (v)  medication allergies or drug reactions; and
-(vi)  current medications, including over-the-counter products, and any
-additional comments relevant to the patient's drug use.
+
+(vi)  current medications, including over-the-counter products, and any additional comments relevant to the patient's drug use.
+
 (2)  The online contract pharmacy shall:
+
 (a)  only dispense prescription drugs that:
+
 (i)  are approved by the division in accordance with Section 58-83-306; and
-(ii)  were prescribed by an online prescriber who is using the Internet
-facilitator that is under contract with the online contract pharmacy;
-(b)  maintain a toll-free number with a pharmacist available for patients
-using the services of the online contract pharmacy to receive medications
-prescribed online;
-(c)  use a tracking identification number system when shipping medications
-prescribed for patients by an online prescriber; and
-(d)  provide to the division a quarterly report of all drugs dispensed in
-accordance with this chapter.
+
+(ii)  were prescribed by an online prescriber who is using the Internet facilitator that is under contract with the online contract pharmacy;
+
+(b)  maintain a toll-free number with a pharmacist available for patients using the services of the online contract pharmacy to receive medications prescribed online;
+
+(c)  use a tracking identification number system when shipping medications prescribed for patients by an online prescriber; and
+
+(d)  provide to the division a quarterly report of all drugs dispensed in accordance with this chapter.
+
 (3)  The Internet facilitator shall:
-(a)  provide services that the online prescriber will use in implementing the
-branching questionnaire;
-(b)  provide electronic or telephonic communication between the online
-prescriber and the patient that:
+
+(a)  provide services that the online prescriber will use in implementing the branching questionnaire;
+
+(b)  provide electronic or telephonic communication between the online prescriber and the patient that:
+
 (i)  is secure and confidential;
-(ii)  allows the online prescriber to be directly accessible to a patient to
-answer questions regarding the patient's treatment plan; and
-(iii)  provides privacy and security that complies with the provisions of 45
-C.F.R. Parts 160, 162, and 164, Health Insurance Portability and
-Accountability Act of 1996;
-(c)  facilitate secure and confidential communication of the prescription
-issued by the online prescriber to the online contract pharmacy in accordance
-with Subsection (1)(p);
+
+(ii)  allows the online prescriber to be directly accessible to a patient to answer questions regarding the patient's treatment plan; and
+
+(iii)  provides privacy and security that complies with the provisions of 45 C.F.R. Parts 160, 162, and 164, Health Insurance Portability and Accountability Act of 1996;
+
+(c)  facilitate secure and confidential communication of the prescription issued by the online prescriber to the online contract pharmacy in accordance with Subsection (1)(p);
+
 (d)  disclose on its website:
+
 (i)  the owner of the website;
+
 (ii)  the specific services provided by any associated online prescribers; and
+
 (iii)  other information the division may require by rule; and
-(e) (i)  only facilitate the delivery of online pharmaceutical services for
-the specific legend drugs approved by the division in accordance with Section
-58-83-306; or
-(ii)  not facilitate, directly or indirectly, through related entities or
-affiliates, the dispensing or online prescribing of any drug whether
-controlled or legend that is not specifically approved under Section
-58-83-306.
+
+(e) (i)  only facilitate the delivery of online pharmaceutical services for the specific legend drugs approved by the division in accordance with Section 58-83-306; or
+
+(ii)  not facilitate, directly or indirectly, through related entities or affiliates, the dispensing or online prescribing of any drug whether controlled or legend that is not specifically approved under Section 58-83-306.
+

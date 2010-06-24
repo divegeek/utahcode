@@ -1,37 +1,46 @@
 57-1-5.1.   Termination of an interest in real estate -- Affidavit.
-(1)  Joint tenancy, tenancy by the entirety, life estate, or determinable or
-conditional interest in real estate may be terminated by an affidavit that:
+
+(1)  Joint tenancy, tenancy by the entirety, life estate, or determinable or conditional interest in real estate may be terminated by an affidavit that:
+
 (a)  meets the requirements of Subsection (2); and
-(b)  is recorded in the office of the recorder of the county in which the
-affected property is located.
+
+(b)  is recorded in the office of the recorder of the county in which the affected property is located.
+
 (2)  Each affidavit required by Subsection (1) shall:
+
 (a)  cite the interest that is being terminated;
+
 (b)  contain a legal description of the real property that is affected;
-(c)  reference the entry number and the book and page of the instrument
-creating the interest to be terminated; and
-(d)  if the termination is the result of a death, have attached as an exhibit,
-a copy of the death certificate or other document issued by a governmental
-agency as described in Section 75-1-107 certifying the death.
-(3)  The affidavit required by Subsection (1) may be in substantially the
-following form:
+
+(c)  reference the entry number and the book and page of the instrument creating the interest to be terminated; and
+
+(d)  if the termination is the result of a death, have attached as an exhibit, a copy of the death certificate or other document issued by a governmental agency as described in Section 75-1-107 certifying the death.
+
+(3)  The affidavit required by Subsection (1) may be in substantially the following form:
+
 "Affidavit
+
 State of Utah                  )
+
                                        ) ss
+
 County of ___________)
-I, (name of affiant), being of legal age and being first duly sworn, depose
-and state as follows:
-(The name of the deceased person), the decedent in the attached certificate of
-death or other document witnessing death is the same person as (the name of
-the deceased person) named as a party in the document dated (date of document)
-as entry _______ in book _______, page _______ in the records of the (name of
-county) County Recorder.
-This affidavit is given to terminate the decedent's interest in the following
-described property located in ___________________ County, State of Utah:
-(description of the property).
+
+I, (name of affiant), being of legal age and being first duly sworn, depose and state as follows:
+
+(The name of the deceased person), the decedent in the attached certificate of death or other document witnessing death is the same person as (the name of the deceased person) named as a party in the document dated (date of document) as entry _______ in book _______, page _______ in the records of the (name of county) County Recorder.
+
+This affidavit is given to terminate the decedent's interest in the following described property located in ___________________ County, State of Utah: (description of the property).
+
 Dated this ______ day of ___________________, ________.
+
 _____________________________________
+
 (Signature of affiant)
-Subscribed to and sworn before me this _______ day of ______________,
-_________.
+
+Subscribed to and sworn before me this _______ day of ______________, _________.
+
 _____________________________________
+
 Notary public"
+

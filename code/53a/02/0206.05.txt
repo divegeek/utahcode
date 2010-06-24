@@ -1,59 +1,56 @@
 53A-2-206.5.   Definitions.
+
 As used in Sections 53A-2-207 through 53A-2-213:
-(1)  "Early enrollment" means application prior to the third Friday in
-February for admission for the next school year to a school that is not a
-student's school of residence.
-(2) (a)  "Early enrollment school capacity" or "maximum capacity" means the
-total number of students who could be served in a school building if each of
-the building's instructional stations were to have the enrollment specified in
-Subsection (2)(b).
+
+(1)  "Early enrollment" means application prior to the third Friday in February for admission for the next school year to a school that is not a student's school of residence.
+
+(2) (a)  "Early enrollment school capacity" or "maximum capacity" means the total number of students who could be served in a school building if each of the building's instructional stations were to have the enrollment specified in Subsection (2)(b).
+
 (b) (i)  Except as provided in Subsection (2)(b)(ii):
-(A)  for an elementary school, an instructional station shall have an
-enrollment at least equal to the school district's average class size for the
-corresponding grade; and
-(B)  for a middle, junior, or senior high school, an instructional station
-shall have an enrollment at least equal to the district's average class size
-for similar classes.
-(ii) (A)  A local school board shall determine the instructional station
-capacity for laboratories, physical education facilities, shops, study halls,
-self-contained special education classrooms, facilities jointly financed by
-the school district and another community agency for joint use, and similar
-rooms.
-(B)  Capacity for self-contained special education classrooms shall be based
-upon students per class as defined by State Board of Education and federal
-special education standards.
-(3) (a)  "Instructional station" means a classroom, laboratory, shop, study
-hall, or physical education facility to which a local board of education could
-reasonably assign a class, teacher, or program during a given class period.
-(b)  More than one instructional station may be assigned to a classroom,
-laboratory, shop, study hall, or physical education facility during a class
-period.
+
+(A)  for an elementary school, an instructional station shall have an enrollment at least equal to the school district's average class size for the corresponding grade; and
+
+(B)  for a middle, junior, or senior high school, an instructional station shall have an enrollment at least equal to the district's average class size for similar classes.
+
+(ii) (A)  A local school board shall determine the instructional station capacity for laboratories, physical education facilities, shops, study halls, self-contained special education classrooms, facilities jointly financed by the school district and another community agency for joint use, and similar rooms.
+
+(B)  Capacity for self-contained special education classrooms shall be based upon students per class as defined by State Board of Education and federal special education standards.
+
+(3) (a)  "Instructional station" means a classroom, laboratory, shop, study hall, or physical education facility to which a local board of education could reasonably assign a class, teacher, or program during a given class period.
+
+(b)  More than one instructional station may be assigned to a classroom, laboratory, shop, study hall, or physical education facility during a class period.
+
 (4)  "Late enrollment" means application:
-(a)  after the third Friday in February for admission for the next school year
-to a school that is not the student's school of residence; or
-(b)  for admission for the current year to a school that is not the student's
-school of residence.
-(5) (a)  "Late enrollment school capacity" or "adjusted capacity" means the
-total number of students who could be served in a school if each teacher were
-to have the class size specified in Subsection (5)(b).
-(b) (i)  An elementary school teacher shall have a class size at least equal
-to the district's average class size for the corresponding grade.
-(ii)  A middle, junior, or senior high school teacher shall have a class size
-at least equal to the district's average class size for similar classes.
-(6)  "Nonresident student" means a student who lives outside the boundaries of
-the school attendance area.
+
+(a)  after the third Friday in February for admission for the next school year to a school that is not the student's school of residence; or
+
+(b)  for admission for the current year to a school that is not the student's school of residence.
+
+(5) (a)  "Late enrollment school capacity" or "adjusted capacity" means the total number of students who could be served in a school if each teacher were to have the class size specified in Subsection (5)(b).
+
+(b) (i)  An elementary school teacher shall have a class size at least equal to the district's average class size for the corresponding grade.
+
+(ii)  A middle, junior, or senior high school teacher shall have a class size at least equal to the district's average class size for similar classes.
+
+(6)  "Nonresident student" means a student who lives outside the boundaries of the school attendance area.
+
 (7)  "Open enrollment threshold" means:
-(a)  for early enrollment, a projected school enrollment level that is the
-greater of:
+
+(a)  for early enrollment, a projected school enrollment level that is the greater of:
+
 (i)  90% of the maximum capacity; or
+
 (ii)  maximum capacity minus 40 students; and
+
 (b)  for late enrollment, actual school enrollment that is the greater of:
+
 (i)  90% of adjusted capacity; or
+
 (ii)  adjusted capacity minus 40 students.
-(8)  "Projected school enrollment" means the current year enrollment of a
-school as of October 1, adjusted for projected growth for the next school
-year.
-(9)  "School attendance area" means an area established by a local school
-board from which students are assigned to attend a certain school.
-(10)  "School of residence" means the school to which a student is assigned to
-attend based on the student's place of residence.
+
+(8)  "Projected school enrollment" means the current year enrollment of a school as of October 1, adjusted for projected growth for the next school year.
+
+(9)  "School attendance area" means an area established by a local school board from which students are assigned to attend a certain school.
+
+(10)  "School of residence" means the school to which a student is assigned to attend based on the student's place of residence.
+

@@ -1,54 +1,62 @@
 76-6-1102.   Identity fraud crime.
+
 (1)  As used in this part, "personal identifying information" may include:
+
 (a)  name;
+
 (b)  birth date;
+
 (c)  address;
+
 (d)  telephone number;
+
 (e)  drivers license number;
+
 (f)  Social Security number;
+
 (g)  place of employment;
+
 (h)  employee identification numbers or other personal identification numbers;
+
 (i)  mother's maiden name;
+
 (j)  electronic identification numbers;
-(k)  electronic signatures under Title 46, Chapter 4, Uniform Electronic
-Transactions Act; or
-(l)  any other numbers or information that can be used to access a person's
-financial resources or medical information, except for numbers or information
-that can be prosecuted as financial transaction card offenses under Sections
-76-6-506 through 76-6-506.4.
+
+(k)  electronic signatures under Title 46, Chapter 4, Uniform Electronic Transactions Act; or
+
+(l)  any other numbers or information that can be used to access a person's financial resources or medical information, except for numbers or information that can be prosecuted as financial transaction card offenses under Sections 76-6-506 through 76-6-506.4.
+
 (2) (a)  A person is guilty of identity fraud when that person:
-(i)  obtains personal identifying information of another person whether that
-person is alive or deceased; and
-(ii)  knowingly or intentionally uses, or attempts to use, that information
-with fraudulent intent, including to obtain, or attempt to obtain, credit,
-goods, services, employment, any other thing of value, or medical information.
-(b)  It is not a defense to a violation of Subsection (2)(a) that the person
-did not know that the personal information belonged to another person.
+
+(i)  obtains personal identifying information of another person whether that person is alive or deceased; and
+
+(ii)  knowingly or intentionally uses, or attempts to use, that information with fraudulent intent, including to obtain, or attempt to obtain, credit, goods, services, employment, any other thing of value, or medical information.
+
+(b)  It is not a defense to a violation of Subsection (2)(a) that the person did not know that the personal information belonged to another person.
+
 (3)  Identity fraud is:
-(a)  except as provided in Subsection (3)(b)(ii), a third degree felony if the
-value of the credit, goods, services, employment, or any other thing of value
-is less than $5,000; or
+
+(a)  except as provided in Subsection (3)(b)(ii), a third degree felony if the value of the credit, goods, services, employment, or any other thing of value is less than $5,000; or
+
 (b)  a second degree felony if:
-(i)  the value of the credit, goods, services, employment, or any other thing
-of value is or exceeds $5,000; or
-(ii)  the use described in Subsection (2)(a)(ii) of personal identifying
-information results, directly or indirectly, in bodily injury to another
-person.
-(4)  Multiple violations may be aggregated into a single offense, and the
-degree of the offense is determined by the total value of all credit, goods,
-services, or any other thing of value used, or attempted to be used, through
-the multiple violations.
-(5)  When a defendant is convicted of a violation of this section, the court
-shall order the defendant to make restitution to any victim of the offense or
-state on the record the reason the court does not find ordering restitution to
-be appropriate.
+
+(i)  the value of the credit, goods, services, employment, or any other thing of value is or exceeds $5,000; or
+
+(ii)  the use described in Subsection (2)(a)(ii) of personal identifying information results, directly or indirectly, in bodily injury to another person.
+
+(4)  Multiple violations may be aggregated into a single offense, and the degree of the offense is determined by the total value of all credit, goods, services, or any other thing of value used, or attempted to be used, through the multiple violations.
+
+(5)  When a defendant is convicted of a violation of this section, the court shall order the defendant to make restitution to any victim of the offense or state on the record the reason the court does not find ordering restitution to be appropriate.
+
 (6)  Restitution under Subsection (5) may include:
-(a)  payment for any costs incurred, including attorney fees, lost wages, and
-replacement of checks; and
+
+(a)  payment for any costs incurred, including attorney fees, lost wages, and replacement of checks; and
+
 (b)  the value of the victim's time incurred due to the offense:
+
 (i)  in clearing the victim's credit history or credit rating;
-(ii)  in any civil or administrative proceedings necessary to satisfy or
-resolve any debt, lien, or other obligation of the victim or imputed to the
-victim and arising from the offense; and
-(iii)  in attempting to remedy any other intended or actual harm to the victim
-incurred as a result of the offense.
+
+(ii)  in any civil or administrative proceedings necessary to satisfy or resolve any debt, lien, or other obligation of the victim or imputed to the victim and arising from the offense; and
+
+(iii)  in attempting to remedy any other intended or actual harm to the victim incurred as a result of the offense.
+

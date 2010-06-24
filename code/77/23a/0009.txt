@@ -1,31 +1,12 @@
 77-23a-9.   Disclosure or use of intercepted information.
-(1)  Any investigative or law enforcement officer who, by any means authorized
-by this chapter, has obtained knowledge of the contents of any wire,
-electronic, or oral communication, or evidence derived from any of these, may
-disclose those contents to another investigative or law enforcement officer to
-the extent that the disclosure is appropriate to the proper performance of the
-official duties of the officer making or receiving the disclosure.
-(2)  Any investigative or law enforcement officer who, by any means authorized
-by this chapter, has obtained knowledge of the contents of any wire,
-electronic, or oral communication or evidence derived from any of them may use
-those contents to the extent the use is appropriate to the proper performance
-of his official duties.
-(3)  Any person who has received, by any means authorized by this chapter, any
-information concerning a wire, electronic, or oral communication or evidence
-derived from any of them intercepted in accordance with this chapter may
-disclose the contents of that communication or the derivative evidence while
-giving testimony under oath or affirmation in any proceeding held under the
-authority of the United States or of any state or political subdivision.
-(4)  An otherwise privileged wire, electronic, or oral communication
-intercepted in accordance with, or in violation of, the provisions of this
-chapter does not lose its privileged character.
-(5)  When an investigative or law enforcement officer, while engaged in
-intercepting wire, electronic, or oral communications in the manner
-authorized, intercepts wire, electronic, or oral communications relating to
-offenses other than those specified in the order of authorization or approval,
-the contents, and evidence derived from the contents, may be disclosed or used
-as provided in Subsections (1) and (2).  The contents and any evidence derived
-from them may be used under Subsection (3) when authorized or approved by a
-judge of competent jurisdiction, if the judge finds on subsequent application
-that the contents were otherwise intercepted in accordance with this chapter.
-The application shall be made as soon as practicable.
+
+(1)  Any investigative or law enforcement officer who, by any means authorized by this chapter, has obtained knowledge of the contents of any wire, electronic, or oral communication, or evidence derived from any of these, may disclose those contents to another investigative or law enforcement officer to the extent that the disclosure is appropriate to the proper performance of the official duties of the officer making or receiving the disclosure.
+
+(2)  Any investigative or law enforcement officer who, by any means authorized by this chapter, has obtained knowledge of the contents of any wire, electronic, or oral communication or evidence derived from any of them may use those contents to the extent the use is appropriate to the proper performance of his official duties.
+
+(3)  Any person who has received, by any means authorized by this chapter, any information concerning a wire, electronic, or oral communication or evidence derived from any of them intercepted in accordance with this chapter may disclose the contents of that communication or the derivative evidence while giving testimony under oath or affirmation in any proceeding held under the authority of the United States or of any state or political subdivision.
+
+(4)  An otherwise privileged wire, electronic, or oral communication intercepted in accordance with, or in violation of, the provisions of this chapter does not lose its privileged character.
+
+(5)  When an investigative or law enforcement officer, while engaged in intercepting wire, electronic, or oral communications in the manner authorized, intercepts wire, electronic, or oral communications relating to offenses other than those specified in the order of authorization or approval, the contents, and evidence derived from the contents, may be disclosed or used as provided in Subsections (1) and (2).  The contents and any evidence derived from them may be used under Subsection (3) when authorized or approved by a judge of competent jurisdiction, if the judge finds on subsequent application that the contents were otherwise intercepted in accordance with this chapter.  The application shall be made as soon as practicable.
+

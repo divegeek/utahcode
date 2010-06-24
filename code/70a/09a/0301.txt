@@ -1,23 +1,18 @@
 70A-9a-301.   Law governing perfection and priority of security interests.
-Except as otherwise provided in Sections 70A-9a-303 through 70A-9a-306, the
-following rules determine the law governing perfection, the effect of
-perfection or nonperfection, and the priority of a security interest in
-collateral:
-(1)  Except as otherwise provided in this section, while a debtor is located
-in a jurisdiction, the local law of that jurisdiction governs perfection, the
-effect of perfection or nonperfection, and the priority of a security interest
-in collateral.
-(2)  While collateral is located in a jurisdiction, the local law of that
-jurisdiction governs perfection, the effect of perfection or nonperfection,
-and the priority of a possessory security interest in that collateral.
-(3)  Except as otherwise provided in Subsection (4), while tangible negotiable
-documents, goods, instruments, money, or tangible chattel paper is located in
-a jurisdiction, the local law of that jurisdiction governs:
-(a)  perfection of a security interest in the goods by filing a fixture
-filing;
+
+Except as otherwise provided in Sections 70A-9a-303 through 70A-9a-306, the following rules determine the law governing perfection, the effect of perfection or nonperfection, and the priority of a security interest in collateral:
+
+(1)  Except as otherwise provided in this section, while a debtor is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in collateral.
+
+(2)  While collateral is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a possessory security interest in that collateral.
+
+(3)  Except as otherwise provided in Subsection (4), while tangible negotiable documents, goods, instruments, money, or tangible chattel paper is located in a jurisdiction, the local law of that jurisdiction governs:
+
+(a)  perfection of a security interest in the goods by filing a fixture filing;
+
 (b)  perfection of a security interest in timber to be cut; and
-(c)  the effect of perfection or nonperfection and the priority of a
-nonpossessory security interest in the collateral.
-(4)  The local law of the jurisdiction in which the wellhead or minehead is
-located governs perfection, the effect of perfection or nonperfection, and the
-priority of a security interest in as-extracted collateral.
+
+(c)  the effect of perfection or nonperfection and the priority of a nonpossessory security interest in the collateral.
+
+(4)  The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in as-extracted collateral.
+

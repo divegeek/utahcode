@@ -1,29 +1,14 @@
 75-5-428.   Claims against protected person -- Enforcement.
-(1)  A conservator must pay from the estate all just claims against the estate
-and against the protected person arising before or after the conservatorship
-upon their presentation and allowance.  A claim may be presented by either of
-the following methods:
-(a)  The claimant may deliver or mail to the conservator a written statement
-of the claim indicating its basis, the name and address of the claimant, and
-the amount claimed.
-(b)  The claimant may file a written statement of the claim, in the form
-prescribed by rule, with the clerk of the court and deliver or mail a copy of
-the statement to the conservator.  A claim is considered presented on the
-first to occur of receipt of the written statement of claim by the
-conservator, or the filing of the claim with the court.
-(2)  A presented claim is allowed if it is not disallowed by written statement
-mailed by the conservator to the claimant within 60 days after its
-presentation.  The presentation of a claim tolls any statute of limitation
-relating to the claim until 30 days after its disallowance.
-(3)  A claimant whose claim has not been paid may petition the court for
-determination of his claim at any time before it is barred by the applicable
-statute of limitation, and, upon due proof, procure an order for its allowance
-and payment from the estate.  If a proceeding is pending against a protected
-person at the time of appointment of a conservator or is initiated against the
-protected person thereafter, the moving party must give notice of the
-proceeding to the conservator if the outcome is to constitute a claim against
-the estate.
-(4)  If it appears that the estate in conservatorship is likely to be
-exhausted before all existing claims are paid, preference is to be given to
-prior claims for the care, maintenance, and education of the protected person
-or his dependents and existing claims for expenses of administration.
+
+(1)  A conservator must pay from the estate all just claims against the estate and against the protected person arising before or after the conservatorship upon their presentation and allowance.  A claim may be presented by either of the following methods:
+
+(a)  The claimant may deliver or mail to the conservator a written statement of the claim indicating its basis, the name and address of the claimant, and the amount claimed.
+
+(b)  The claimant may file a written statement of the claim, in the form prescribed by rule, with the clerk of the court and deliver or mail a copy of the statement to the conservator.  A claim is considered presented on the first to occur of receipt of the written statement of claim by the conservator, or the filing of the claim with the court.
+
+(2)  A presented claim is allowed if it is not disallowed by written statement mailed by the conservator to the claimant within 60 days after its presentation.  The presentation of a claim tolls any statute of limitation relating to the claim until 30 days after its disallowance.
+
+(3)  A claimant whose claim has not been paid may petition the court for determination of his claim at any time before it is barred by the applicable statute of limitation, and, upon due proof, procure an order for its allowance and payment from the estate.  If a proceeding is pending against a protected person at the time of appointment of a conservator or is initiated against the protected person thereafter, the moving party must give notice of the proceeding to the conservator if the outcome is to constitute a claim against the estate.
+
+(4)  If it appears that the estate in conservatorship is likely to be exhausted before all existing claims are paid, preference is to be given to prior claims for the care, maintenance, and education of the protected person or his dependents and existing claims for expenses of administration.
+

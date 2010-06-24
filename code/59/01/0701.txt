@@ -1,41 +1,10 @@
-59-1-701.   Grounds for termination and jeopardy assessment -- Notice --
-Collection -- Reopening period -- Bond.
-(1)  If the commission finds that a taxpayer intends quickly to depart from
-this state or to remove his property therefrom, or to conceal himself or his
-property therein, or to do any other act (including in the case of a taxpayer
-selling or otherwise distributing all or a part of its assets in liquidation
-or otherwise) tending to prejudice or to render wholly or partially
-ineffectual proceedings to collect any tax or penalty in lieu of tax for the
-current or the preceding taxable period, unless such proceedings be brought
-without delay, the commission may declare the taxable period for such taxpayer
-immediately terminated whether or not the time otherwise allowed by law for
-filing returns and paying the liability has expired.  The commission shall
-immediately make a determination of tax for the current taxable period or for
-the preceding period, or both, and notwithstanding any other provision of law,
-the tax shall become immediately due and payable.  The commission shall
-immediately assess the amount of the tax so determined (together with all
-interest, penalties, additional amounts, and additions to the tax provided by
-law) for the current taxable period or such preceding taxable period, or both,
-and shall give the notice of determination and assessment to the taxpayer,
-together with a demand for immediate payment of the tax.
-(2)  In the case of a current taxable period, the commission shall determine
-the tax for the period beginning on the first day of the current taxable
-period and ending on the date of the determination under Subsection (1) as
-though the period were a taxable period of the taxpayer.  The commission shall
-take into account any prior determination made under this subsection with
-respect to such current taxable period. Any amounts collected as a result of
-any assessments under this subsection shall be treated as a partial payment of
-tax for the taxable period.
-(3)  Notwithstanding the termination of the taxable period of the taxpayer as
-provided in Subsection (1), the commission may reopen such taxable period each
-time the taxpayer is found by the commission to have incurred additional
-liabilities, within the current taxable period, since the termination of such
-period.  A taxable period so terminated by the commission may be reopened by
-the taxpayer if he files a true and accurate return, as required under Title
-59, Chapter 2, 7, 10, or 12, for the taxable period, together with such other
-information as the commission may by rule prescribe.
-(4)  Payment of taxes may not be enforced by any proceedings under Subsection
-(1) prior to the expiration of the time otherwise allowed for paying such
-taxes if the taxpayer furnishes, under rules prescribed by the commission, a
-bond to ensure the timely making of returns with respect to, and payment of,
-the taxes, penalties, or interest for prior periods.
+59-1-701.   Grounds for termination and jeopardy assessment -- Notice -- Collection -- Reopening period -- Bond.
+
+(1)  If the commission finds that a taxpayer intends quickly to depart from this state or to remove his property therefrom, or to conceal himself or his property therein, or to do any other act (including in the case of a taxpayer selling or otherwise distributing all or a part of its assets in liquidation or otherwise) tending to prejudice or to render wholly or partially ineffectual proceedings to collect any tax or penalty in lieu of tax for the current or the preceding taxable period, unless such proceedings be brought without delay, the commission may declare the taxable period for such taxpayer immediately terminated whether or not the time otherwise allowed by law for filing returns and paying the liability has expired.  The commission shall immediately make a determination of tax for the current taxable period or for the preceding period, or both, and notwithstanding any other provision of law, the tax shall become immediately due and payable.  The commission shall immediately assess the amount of the tax so determined (together with all interest, penalties, additional amounts, and additions to the tax provided by law) for the current taxable period or such preceding taxable period, or both, and shall give the notice of determination and assessment to the taxpayer, together with a demand for immediate payment of the tax.
+
+(2)  In the case of a current taxable period, the commission shall determine the tax for the period beginning on the first day of the current taxable period and ending on the date of the determination under Subsection (1) as though the period were a taxable period of the taxpayer.  The commission shall take into account any prior determination made under this subsection with respect to such current taxable period. Any amounts collected as a result of any assessments under this subsection shall be treated as a partial payment of tax for the taxable period.
+
+(3)  Notwithstanding the termination of the taxable period of the taxpayer as provided in Subsection (1), the commission may reopen such taxable period each time the taxpayer is found by the commission to have incurred additional liabilities, within the current taxable period, since the termination of such period.  A taxable period so terminated by the commission may be reopened by the taxpayer if he files a true and accurate return, as required under Title 59, Chapter 2, 7, 10, or 12, for the taxable period, together with such other information as the commission may by rule prescribe.
+
+(4)  Payment of taxes may not be enforced by any proceedings under Subsection (1) prior to the expiration of the time otherwise allowed for paying such taxes if the taxpayer furnishes, under rules prescribed by the commission, a bond to ensure the timely making of returns with respect to, and payment of, the taxes, penalties, or interest for prior periods.
+

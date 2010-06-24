@@ -1,144 +1,132 @@
-26-21-9.5.   Criminal background check and Licensing Information System
-check.
+26-21-9.5.   Criminal background check and Licensing Information System check.
+
 (1)  For purposes of this section:
+
 (a)  "Covered employer" means an individual who:
+
 (i)  is not a covered health care facility;
+
 (ii)  is not a licensed business within the state; and
-(iii)  is hiring an individual to provide services to an elderly or disabled
-person in the home of the elderly or disabled person.
+
+(iii)  is hiring an individual to provide services to an elderly or disabled person in the home of the elderly or disabled person.
+
 (b)  "Covered health care facility" means:
+
 (i)  home health care agencies;
+
 (ii)  hospices;
+
 (iii)  nursing care facilities;
+
 (iv)  assisted-living facilities;
+
 (v)  small health care facilities; and
+
 (vi)  end stage renal disease facilities.
+
 (c)  "Covered person" includes:
+
 (i)  the following people who provide direct patient care:
+
 (A)  employees;
+
 (B)  volunteers; and
+
 (C)  people under contract with the covered health care facility; and
-(ii)  for residential settings, any individual residing in the home where the
-assisted living or small health care program is to be licensed who:
+
+(ii)  for residential settings, any individual residing in the home where the assisted living or small health care program is to be licensed who:
+
 (A)  is 18 years of age or older; or
-(B)  is a child between the age of 12 and 17 years of age; however, the
-identifying information required for a child between the age of 12 and 17 does
-not include fingerprints.
-(2)  In addition to the licensing requirements of Sections 26-21-8 and
-26-21-9, a covered health care facility at the time of initial application for
-a license and license renewal shall:
-(a)  submit the name and other identifying information of each covered person
-at the covered facility who:
+
+(B)  is a child between the age of 12 and 17 years of age; however, the identifying information required for a child between the age of 12 and 17 does not include fingerprints.
+
+(2)  In addition to the licensing requirements of Sections 26-21-8 and 26-21-9, a covered health care facility at the time of initial application for a license and license renewal shall:
+
+(a)  submit the name and other identifying information of each covered person at the covered facility who:
+
 (i)  provides direct care to a patient; and
-(ii)  has been the subject of a criminal background check within the preceding
-three-year period by a public or private entity recognized by the department;
-and
-(b)  submit the name and other identifying information, which may include
-fingerprints, of each covered person at the covered facility who has not been
-the subject of a criminal background check in accordance with Subsection
-(2)(a)(ii).
-(3) (a)  The department shall forward the information received under
-Subsection (2)(b) or (6)(b) to the Criminal Investigations and Technical
-Services Division of the Department of Public Safety for processing to
-determine whether the individual has been convicted of any crime.
-(b)  Except for individuals described in Subsection (1)(c)(ii)(B), if an
-individual has not had residency in Utah for the last five years, the
-individual shall submit fingerprints for an FBI national criminal history
-record check.  The fingerprints shall be submitted to the FBI through the
-Criminal Investigations and Technical Services Division.  The individual or
-licensee is responsible for the cost of the fingerprinting and national
-criminal history check.
+
+(ii)  has been the subject of a criminal background check within the preceding three-year period by a public or private entity recognized by the department; and
+
+(b)  submit the name and other identifying information, which may include fingerprints, of each covered person at the covered facility who has not been the subject of a criminal background check in accordance with Subsection (2)(a)(ii).
+
+(3) (a)  The department shall forward the information received under Subsection (2)(b) or (6)(b) to the Criminal Investigations and Technical Services Division of the Department of Public Safety for processing to determine whether the individual has been convicted of any crime.
+
+(b)  Except for individuals described in Subsection (1)(c)(ii)(B), if an individual has not had residency in Utah for the last five years, the individual shall submit fingerprints for an FBI national criminal history record check.  The fingerprints shall be submitted to the FBI through the Criminal Investigations and Technical Services Division.  The individual or licensee is responsible for the cost of the fingerprinting and national criminal history check.
+
 (4)  The department may determine whether:
-(a)  an individual whose name and other identifying information has been
-submitted pursuant to Subsection (2) and who provides direct care to children
-is listed in the Licensing Information System described in Section 62A-4a-1006
-or has a substantiated finding by a court of a severe type of child abuse or
-neglect under Section 78A-6-323, if identification as a possible perpetrator
-of child abuse or neglect is relevant to the employment activities of that
-individual;
-(b)  an individual whose name and other identifying information has been
-submitted pursuant to Subsection (2) or (6)(b) and who provides direct care to
-disabled or elder adults, or who is residing in a residential home that is a
-facility licensed to provide direct care to disabled or elder adults has a
-substantiated finding of abuse, neglect, or exploitation of a disabled or
-elder adult by accessing in accordance with Subsection (5) the database
-created in Section 62A-3-311.1 if identification as a possible perpetrator of
-disabled or elder adult abuse, neglect, or exploitation is relevant to the
-employment activities or residence of that person; or
-(c)  an individual whose name or other identifying information has been
-submitted pursuant to Subsection (2) or (6)(b) has been adjudicated in a
-juvenile court of committing an act which if committed by an adult would be a
-felony or a misdemeanor if:
+
+(a)  an individual whose name and other identifying information has been submitted pursuant to Subsection (2) and who provides direct care to children is listed in the Licensing Information System described in Section 62A-4a-1006 or has a substantiated finding by a court of a severe type of child abuse or neglect under Section 78A-6-323, if identification as a possible perpetrator of child abuse or neglect is relevant to the employment activities of that individual; 
+
+(b)  an individual whose name and other identifying information has been submitted pursuant to Subsection (2) or (6)(b) and who provides direct care to disabled or elder adults, or who is residing in a residential home that is a facility licensed to provide direct care to disabled or elder adults has a substantiated finding of abuse, neglect, or exploitation of a disabled or elder adult by accessing in accordance with Subsection (5) the database created in Section 62A-3-311.1 if identification as a possible perpetrator of disabled or elder adult abuse, neglect, or exploitation is relevant to the employment activities or residence of that person; or
+
+(c)  an individual whose name or other identifying information has been submitted pursuant to Subsection (2) or (6)(b) has been adjudicated in a juvenile court of committing an act which if committed by an adult would be a felony or a misdemeanor if:
+
 (i)  the individual is under the age of 28 years; or
-(ii)  the individual is over the age of 28 and has been convicted, has pleaded
-no contest, or is currently subject to a plea in abeyance or diversion
-agreement for any felony or misdemeanor.
+
+(ii)  the individual is over the age of 28 and has been convicted, has pleaded no contest, or is currently subject to a plea in abeyance or diversion agreement for any felony or misdemeanor.
+
 (5) (a)  The department shall:
+
 (i)  designate persons within the department to access:
+
 (A)  the Licensing Information System described in Section 62A-4a-1006;
+
 (B)  court records under Subsection 78A-6-323(6);
+
 (C)  the database described in Subsection (4)(b); and
+
 (D)  juvenile court records as permitted by Subsection (4)(c); and
+
 (ii)  adopt measures to:
-(A)  protect the security of the Licensing Information System, the court
-records, and the database; and
-(B)  strictly limit access to the Licensing Information System, the court
-records, and the database to those designated under Subsection (5)(a)(i).
-(b)  Those designated under Subsection (5)(a)(i) shall receive training from
-the Department of Human Services with respect to:
-(i)  accessing the Licensing Information System, the court records, and the
-database;
+
+(A)  protect the security of the Licensing Information System, the court records, and the database; and
+
+(B)  strictly limit access to the Licensing Information System, the court records, and the database to those designated under Subsection (5)(a)(i).
+
+(b)  Those designated under Subsection (5)(a)(i) shall receive training from the Department of Human Services with respect to:
+
+(i)  accessing the Licensing Information System, the court records, and the database;
+
 (ii)  maintaining strict security; and
-(iii)  the criminal provisions in Section 62A-4a-412 for the improper release
-of information.
+
+(iii)  the criminal provisions in Section 62A-4a-412 for the improper release of information.
+
 (c)  Those designated under Subsection (5)(a)(i):
-(i)  are the only ones in the department with the authority to access the
-Licensing Information System, the court records, and database; and
-(ii)  may only access the Licensing Information System, the court records, and
-the database for the purpose of licensing and in accordance with the
-provisions of Subsection (4).
-(6) (a)  Within 10 days of initially hiring a covered individual, a covered
-health care facility shall submit the covered individual's information to the
-department in accordance with Subsection (2).
-(b) (i)  Prior to, or within 10 days of initially hiring an individual to
-provide care to an elderly adult or a disabled person in the home of the
-elderly adult or disabled person, a covered employer may submit the employed
-individual's information to the department.
+
+(i)  are the only ones in the department with the authority to access the Licensing Information System, the court records, and database; and
+
+(ii)  may only access the Licensing Information System, the court records, and the database for the purpose of licensing and in accordance with the provisions of Subsection (4).
+
+(6) (a)  Within 10 days of initially hiring a covered individual, a covered health care facility shall submit the covered individual's information to the department in accordance with Subsection (2).
+
+(b) (i)  Prior to, or within 10 days of initially hiring an individual to provide care to an elderly adult or a disabled person in the home of the elderly adult or disabled person, a covered employer may submit the employed individual's information to the department.
+
 (ii)  The department shall:
-(A)  in accordance with Subsections (4) and (6)(c) of this section, and
-Subsection 62A-3-311.1(4)(b), determine whether the individual has a
-substantiated finding of abuse, neglect, or exploitation of a minor or an
-elderly adult; and
-(B)  in accordance with Subsection (9), inform the covered employer of the
-department's findings.
+
+(A)  in accordance with Subsections (4) and (6)(c) of this section, and Subsection 62A-3-311.1(4)(b), determine whether the individual has a substantiated finding of abuse, neglect, or exploitation of a minor or an elderly adult; and
+
+(B)  in accordance with Subsection (9), inform the covered employer of the department's findings.
+
 (c)  A covered employer:
-(i)  must certify to the department that the covered employer intends to hire,
-or has hired, the individual whose information the covered employer has
-submitted to the department for the purpose of providing care to an elderly
-adult or a disabled person in the home of the elderly adult or disabled
-person;
-(ii)  must pay the reasonable fees established by the department under
-Subsection (8); and
-(iii)  commits an infraction if the covered employer intentionally
-misrepresents any fact certified under Subsection (6)(c)(i).
-(7)  The department shall adopt rules under Title 63G, Chapter 3, Utah
-Administrative Rulemaking Act, consistent with this chapter, defining the
-circumstances under which a person who has been convicted of a criminal
-offense, or a person described in Subsection (4), may provide direct care to a
-patient in a covered health care facility, taking into account the nature of
-the criminal conviction or substantiated finding and its relation to patient
-care.
-(8)  The department may, in accordance with Section 26-1-6, assess reasonable
-fees for a criminal background check processed pursuant to this section.
-(9)  The department may inform the covered health care facility or a covered
-employer of information discovered under Subsection (4) with respect to a
-covered individual, or an individual whose name is submitted by a covered
-employer.
-(10) (a)  A covered health care facility is not civilly liable for submitting
-information to the department as required by this section.
-(b)  A covered employer is not civilly liable for submitting information to
-the department as permitted by this section if the covered employer:
+
+(i)  must certify to the department that the covered employer intends to hire, or has hired, the individual whose information the covered employer has submitted to the department for the purpose of providing care to an elderly adult or a disabled person in the home of the elderly adult or disabled person;
+
+(ii)  must pay the reasonable fees established by the department under Subsection (8); and
+
+(iii)  commits an infraction if the covered employer intentionally misrepresents any fact certified under Subsection (6)(c)(i).
+
+(7)  The department shall adopt rules under Title 63G, Chapter 3, Utah Administrative Rulemaking Act, consistent with this chapter, defining the circumstances under which a person who has been convicted of a criminal offense, or a person described in Subsection (4), may provide direct care to a patient in a covered health care facility, taking into account the nature of the criminal conviction or substantiated finding and its relation to patient care.
+
+(8)  The department may, in accordance with Section 26-1-6, assess reasonable fees for a criminal background check processed pursuant to this section.
+
+(9)  The department may inform the covered health care facility or a covered employer of information discovered under Subsection (4) with respect to a covered individual, or an individual whose name is submitted by a covered employer.
+
+(10) (a)  A covered health care facility is not civilly liable for submitting information to the department as required by this section.
+
+(b)  A covered employer is not civilly liable for submitting information to the department as permitted by this section if the covered employer:
+
 (i)  complies with Subsection (6)(c)(i); and
-(ii)  does not use the information obtained about an individual under this
-section for any purpose other than hiring decisions directly related to the
-care of the elderly adult or disabled person.
+
+(ii)  does not use the information obtained about an individual under this section for any purpose other than hiring decisions directly related to the care of the elderly adult or disabled person.
+

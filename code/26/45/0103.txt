@@ -1,35 +1,32 @@
 26-45-103.   Restrictions on employers.
-(1)  Except as provided in Subsection (2), an employer, as defined in Section
-34A-2-103, may not in connection with a hiring, promotion, retention, or other
-related decision:
-(a)  access or otherwise take into consideration private genetic information
-about an individual;
-(b)  request or require an individual to consent to a release for the purpose
-of accessing private genetic information about the individual;
-(c)  request or require an individual or his blood relative to submit to a
-genetic test; and
-(d)  inquire into or otherwise take into consideration the fact that an
-individual or his blood relative has taken or refused to take a genetic test.
-(2) (a)  Notwithstanding Subsection (1), an employer may seek an order
-compelling the disclosure of private genetic information held by an individual
-or third party pursuant to Subsection (2)(b) in connection with:
-(i)  an employment-related judicial or administrative proceeding in which the
-individual has placed his health at issue; or
-(ii)  an employment-related decision in which the employer has a reasonable
-basis to believe that the individual's health condition poses a real and
-unjustifiable safety risk requiring the change or denial of an assignment.
-(b) (i)  An order compelling the disclosure of private genetic information
-pursuant to this Subsection (2) may only be entered upon a finding that:
-(A)  other ways of obtaining the private information are not available or
-would not be effective; and
-(B)  there is a compelling need for the private genetic information which
-substantially outweighs the potential harm to the privacy interests of the
-individual.
-(ii)  An order compelling the disclosure of private genetic information
-pursuant to this Subsection (2) shall:
-(A)  limit disclosure to those parts of the record containing information
-essential to fulfill the objective of the order;
-(B)  limit disclosure to those persons whose need for the information is the
-basis of the order; and
-(C)  include such other measures as may be necessary to limit disclosure for
-the protection of the individual.
+
+(1)  Except as provided in Subsection (2), an employer, as defined in Section 34A-2-103, may not in connection with a hiring, promotion, retention, or other related decision:
+
+(a)  access or otherwise take into consideration private genetic information about an individual;
+
+(b)  request or require an individual to consent to a release for the purpose of accessing private genetic information about the individual;
+
+(c)  request or require an individual or his blood relative to submit to a genetic test; and
+
+(d)  inquire into or otherwise take into consideration the fact that an individual or his blood relative has taken or refused to take a genetic test.
+
+(2) (a)  Notwithstanding Subsection (1), an employer may seek an order compelling the disclosure of private genetic information held by an individual or third party pursuant to Subsection (2)(b) in connection with:
+
+(i)  an employment-related judicial or administrative proceeding in which the individual has placed his health at issue; or
+
+(ii)  an employment-related decision in which the employer has a reasonable basis to believe that the individual's health condition poses a real and unjustifiable safety risk requiring the change or denial of an assignment.
+
+(b) (i)  An order compelling the disclosure of private genetic information pursuant to this Subsection (2) may only be entered upon a finding that:
+
+(A)  other ways of obtaining the private information are not available or would not be effective; and
+
+(B)  there is a compelling need for the private genetic information which substantially outweighs the potential harm to the privacy interests of the individual.
+
+(ii)  An order compelling the disclosure of private genetic information pursuant to this Subsection (2) shall:
+
+(A)  limit disclosure to those parts of the record containing information essential to fulfill the objective of the order;
+
+(B)  limit disclosure to those persons whose need for the information is the basis of the order; and
+
+(C)  include such other measures as may be necessary to limit disclosure for the protection of the individual.
+

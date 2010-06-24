@@ -1,39 +1,28 @@
 32A-11a-108 (Repealed 07/01/11).   Reasonable compensation -- Arbitration.
-(1)  If a supplier violates Section 32A-11a-103 or 32A-11a-107, the supplier
-shall be liable to the wholesaler for the laid-in cost of inventory of the
-affected brands plus any diminution in the fair market value of the
-wholesaler's business with relation to the affected brands.  In determining
-fair market value, consideration shall be given to all elements of value,
-including good will and going concern value.
-(2) (a)  A distributorship agreement may require that any or all disputes
-between a supplier and a wholesaler be submitted to binding arbitration.  In
-the absence of an applicable arbitration provision in the distributorship
-agreement, either the supplier or the wholesaler may request arbitration if a
-supplier and a wholesaler are unable to mutually agree on:
+
+(1)  If a supplier violates Section 32A-11a-103 or 32A-11a-107, the supplier shall be liable to the wholesaler for the laid-in cost of inventory of the affected brands plus any diminution in the fair market value of the wholesaler's business with relation to the affected brands.  In determining fair market value, consideration shall be given to all elements of value, including good will and going concern value.
+
+(2) (a)  A distributorship agreement may require that any or all disputes between a supplier and a wholesaler be submitted to binding arbitration.  In the absence of an applicable arbitration provision in the distributorship agreement, either the supplier or the wholesaler may request arbitration if a supplier and a wholesaler are unable to mutually agree on:
+
 (i)  whether or not good cause exists for termination or nonrenewal;
-(ii)  whether or not the supplier unreasonably withheld approval of a sale or
-transfer under Section 32A-11a-107; or
-(iii)  the reasonable compensation to be paid for the value of the
-wholesaler's business in accordance with Subsection (1).
-(b)  If a supplier or wholesaler requests arbitration under Subsection (2)(a)
-and the other party agrees to submit the matter to arbitration, an arbitration
-panel shall be created with the following members:
-(i)  one member selected by the supplier in a writing delivered to the
-wholesaler within 10 business days of the date arbitration was requested under
-Subsection (2)(a);
-(ii)  one member selected by the wholesaler in a writing delivered to the
-supplier within 10 business days of the date arbitration was requested under
-Subsection (2)(a); and
-(iii)  one member selected by the two arbitrators appointed under Subsections
-(2)(b)(i) and (ii).
-(c)  If the arbitrators selected under Subsection (2)(b)(iii) fail to choose a
-third arbitrator within 10 business days of their selection, a judge of a
-district court in the county in which the wholesaler's principal place of
-business is located shall select the third arbitrator.
-(d)  Arbitration costs shall be divided equally between the wholesaler and the
-supplier.
-(e)  The award of the arbitration panel is binding on the parties unless
-appealed within 20 days from the date of the award.
-(f)  Subject to the requirements of this chapter, arbitration and all
-proceedings on appeal shall be governed by Title 78B, Chapter 11, Utah Uniform
-Arbitration Act.
+
+(ii)  whether or not the supplier unreasonably withheld approval of a sale or transfer under Section 32A-11a-107; or
+
+(iii)  the reasonable compensation to be paid for the value of the wholesaler's business in accordance with Subsection (1).
+
+(b)  If a supplier or wholesaler requests arbitration under Subsection (2)(a) and the other party agrees to submit the matter to arbitration, an arbitration panel shall be created with the following members:
+
+(i)  one member selected by the supplier in a writing delivered to the wholesaler within 10 business days of the date arbitration was requested under Subsection (2)(a);
+
+(ii)  one member selected by the wholesaler in a writing delivered to the supplier within 10 business days of the date arbitration was requested under Subsection (2)(a); and
+
+(iii)  one member selected by the two arbitrators appointed under Subsections (2)(b)(i) and (ii).
+
+(c)  If the arbitrators selected under Subsection (2)(b)(iii) fail to choose a third arbitrator within 10 business days of their selection, a judge of a district court in the county in which the wholesaler's principal place of business is located shall select the third arbitrator.
+
+(d)  Arbitration costs shall be divided equally between the wholesaler and the supplier.
+
+(e)  The award of the arbitration panel is binding on the parties unless appealed within 20 days from the date of the award.
+
+(f)  Subject to the requirements of this chapter, arbitration and all proceedings on appeal shall be governed by Title 78B, Chapter 11, Utah Uniform Arbitration Act.
+

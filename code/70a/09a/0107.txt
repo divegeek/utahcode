@@ -1,6 +1,4 @@
 70A-9a-107.    Control of letter-of-credit right.
-A secured party has control of a letter-of-credit right to the extent of any
-right to payment or performance by the issuer or any nominated person if the
-issuer or nominated person has consented to an assignment of proceeds of the
-letter of credit under Subsection 70A-5-114(3) or otherwise applicable law or
-practice.
+
+A secured party has control of a letter-of-credit right to the extent of any right to payment or performance by the issuer or any nominated person if the issuer or nominated person has consented to an assignment of proceeds of the letter of credit under Subsection 70A-5-114(3) or otherwise applicable law or practice.
+

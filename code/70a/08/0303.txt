@@ -1,8 +1,12 @@
 70A-8-303.    Protected purchaser.
-(1)  "Protected purchaser" means a purchaser of a certificated or
-uncertificated security, or of an interest therein, who:
+
+(1)  "Protected purchaser" means a purchaser of a certificated or uncertificated security, or of an interest therein, who:
+
 (a)  gives value;
+
 (b)  does not have notice of any adverse claim to the security; and
+
 (c)  obtains control of the certificated or uncertificated security.
-(2)  In addition to acquiring the rights of a purchaser, a protected purchaser
-also acquires its interest in the security free of any adverse claim.
+
+(2)  In addition to acquiring the rights of a purchaser, a protected purchaser also acquires its interest in the security free of any adverse claim.
+

@@ -1,67 +1,54 @@
 48-2c-1502.   Definitions.
+
 As used in this part:
-(1)  "Professional services company" means a limited liability company
-organized under this part to render professional services.
+
+(1)  "Professional services company" means a limited liability company organized under this part to render professional services.
+
 (2)  "Professional services" means the personal services rendered by:
-(a)  an architect holding a license under Title 58, Chapter 3a, Architects
-Licensing Act, and any subsequent laws regulating the practice of
-architecture;
+
+(a)  an architect holding a license under Title 58, Chapter 3a, Architects Licensing Act, and any subsequent laws regulating the practice of architecture;
+
 (b)  an attorney granted the authority to practice law by the:
+
 (i)  Supreme Court of Utah; or
-(ii)  the Supreme Court, other court, agency, instrumentality, or regulating
-board that licenses or regulates the authority to practice law in any state or
-territory of the United States other than Utah;
-(c)  a chiropractor holding a license under Title 58, Chapter 73, Chiropractic
-Physician Practice Act, and any subsequent laws regulating the practice of
-chiropractic;
-(d)  a doctor of dentistry holding a license under Title 58, Chapter 69,
-Dentist and Dental Hygienist Practice Act, and any subsequent laws, regulating
-the practice of dentistry;
-(e)  a professional engineer registered under Title 58, Chapter 22,
-Professional Engineers and Professional Land Surveyors Licensing Act;
-(f)  a naturopath holding a license under Title 58, Chapter 71, Naturopathic
-Physician Practice Act, and any subsequent laws regulating the practice of
-naturopathy;
-(g)  a nurse licensed under Title 58, Chapter 31b, Nurse Practice Act, or
-Title 58, Chapter 44a, Nurse Midwife Practice Act;
-(h)  an optometrist holding a license under Title 58, Chapter 16a, Utah
-Optometry Practice Act, and any subsequent laws regulating the practice of
-optometry;
-(i)  an osteopathic physician or surgeon holding a license under Title 58,
-Chapter 68, Utah Osteopathic Medical Practice Act, and any subsequent laws
-regulating the practice of osteopathy;
-(j)  a pharmacist holding a license under Title 58, Chapter 17b, Pharmacy
-Practice Act, and any subsequent laws regulating the practice of pharmacy;
-(k)  a physician, surgeon, or doctor of medicine holding a license under Title
-58, Chapter 67, Utah Medical Practice Act, and any subsequent laws regulating
-the practice of medicine;
-(l)  a physical therapist holding a license under Title 58, Chapter 24b,
-Physical Therapy Practice Act, and any subsequent laws regulating the practice
-of physical therapy;
-(m)  a podiatric physician holding a license under Title 58, Chapter 5a,
-Podiatric Physician Licensing Act, and any subsequent laws regulating the
-practice of podiatry;
-(n)  a psychologist holding a license under Title 58, Chapter 61, Psychologist
-Licensing Act, and any subsequent laws regulating the practice of psychology;
-(o)  a public accountant holding a license under Title 58, Chapter 26a,
-Certified Public Accountant Licensing Act, and any subsequent laws regulating
-the practice of public accounting;
-(p)  a principal broker, associate broker, or sales agent holding a license
-under Title 61, Chapter 2f, Real Estate Licensing and Practices Act, and any
-subsequent laws regulating the sale, exchange, purchase, rental, or leasing of
-real estate;
-(q)  a clinical or certified social worker holding a license under Title 58,
-Chapter 60, Part 2, Social Worker Licensing Act, and any subsequent laws
-regulating the practice of social work;
-(r)  a mental health therapist holding a license under Title 58, Chapter 60,
-Mental Health Professional Practice Act, and any subsequent laws regulating
-the practice of mental health therapy;
-(s)  a veterinarian holding a license under Title 58, Chapter 28, Veterinary
-Practice Act, and any subsequent laws regulating the practice of veterinary
-medicine; or
-(t)  an individual licensed, certified, or registered under Title 61, Chapter
-2b, Real Estate Appraiser Licensing and Certification Act, and any subsequent
-laws regulating the practice of appraising real estate.
-(3)  "Regulating board" means the board or agency organized pursuant to state
-law that is charged with the licensing and regulation of the practice of the
-profession that a company is organized to render.
+
+(ii)  the Supreme Court, other court, agency, instrumentality, or regulating board that licenses or regulates the authority to practice law in any state or territory of the United States other than Utah;
+
+(c)  a chiropractor holding a license under Title 58, Chapter 73, Chiropractic Physician Practice Act, and any subsequent laws regulating the practice of chiropractic;
+
+(d)  a doctor of dentistry holding a license under Title 58, Chapter 69, Dentist and Dental Hygienist Practice Act, and any subsequent laws, regulating the practice of dentistry;
+
+(e)  a professional engineer registered under Title 58, Chapter 22, Professional Engineers and Professional Land Surveyors Licensing Act;
+
+(f)  a naturopath holding a license under Title 58, Chapter 71, Naturopathic Physician Practice Act, and any subsequent laws regulating the practice of naturopathy;
+
+(g)  a nurse licensed under Title 58, Chapter 31b, Nurse Practice Act, or Title 58, Chapter 44a, Nurse Midwife Practice Act;
+
+(h)  an optometrist holding a license under Title 58, Chapter 16a, Utah Optometry Practice Act, and any subsequent laws regulating the practice of optometry;
+
+(i)  an osteopathic physician or surgeon holding a license under Title 58, Chapter 68, Utah Osteopathic Medical Practice Act, and any subsequent laws regulating the practice of osteopathy;
+
+(j)  a pharmacist holding a license under Title 58, Chapter 17b, Pharmacy Practice Act, and any subsequent laws regulating the practice of pharmacy;
+
+(k)  a physician, surgeon, or doctor of medicine holding a license under Title 58, Chapter 67, Utah Medical Practice Act, and any subsequent laws regulating the practice of medicine;
+
+(l)  a physical therapist holding a license under Title 58, Chapter 24b, Physical Therapy Practice Act, and any subsequent laws regulating the practice of physical therapy;
+
+(m)  a podiatric physician holding a license under Title 58, Chapter 5a, Podiatric Physician Licensing Act, and any subsequent laws regulating the practice of podiatry;
+
+(n)  a psychologist holding a license under Title 58, Chapter 61, Psychologist Licensing Act, and any subsequent laws regulating the practice of psychology;
+
+(o)  a public accountant holding a license under Title 58, Chapter 26a, Certified Public Accountant Licensing Act, and any subsequent laws regulating the practice of public accounting;
+
+(p)  a principal broker, associate broker, or sales agent holding a license under Title 61, Chapter 2f, Real Estate Licensing and Practices Act, and any subsequent laws regulating the sale, exchange, purchase, rental, or leasing of real estate;
+
+(q)  a clinical or certified social worker holding a license under Title 58, Chapter 60, Part 2, Social Worker Licensing Act, and any subsequent laws regulating the practice of social work;
+
+(r)  a mental health therapist holding a license under Title 58, Chapter 60, Mental Health Professional Practice Act, and any subsequent laws regulating the practice of mental health therapy; 
+
+(s)  a veterinarian holding a license under Title 58, Chapter 28, Veterinary Practice Act, and any subsequent laws regulating the practice of veterinary medicine; or
+
+(t)  an individual licensed, certified, or registered under Title 61, Chapter 2b, Real Estate Appraiser Licensing and Certification Act, and any subsequent laws regulating the practice of appraising real estate.
+
+(3)  "Regulating board" means the board or agency organized pursuant to state law that is charged with the licensing and regulation of the practice of the profession that a company is organized to render.
+

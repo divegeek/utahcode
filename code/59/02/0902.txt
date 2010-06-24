@@ -1,56 +1,16 @@
 59-2-902.   Minimum basic tax levy for school districts.
-(1)  If any county fails to comply with Section 59-2-704, then this section
-determines the adjustment of the basic school levy for school districts within
-the county.  Before June 15, the commission shall ascertain from the State
-Board of Education the number of weighted pupil units in each school district
-in the state for the school year commencing July 1 of the current calendar
-year, estimated according to the Minimum School  Program Act, and the money
-necessary for the cost of the operation and maintenance of the minimum school
-program of the state for the school fiscal year beginning July 1 of the
-current calendar year.  The commission shall then estimate the amounts of all
-surpluses in the Uniform School Fund, as of July 1 of the current calendar
-year, available for the operation and maintenance of the program, and shall
-estimate the anticipated income to the fund available for those purposes for
-the current school year from all sources, including revenues from taxes on
-income or from taxes on intangible property pursuant to Article XIII, Sec.
-12, Utah Constitution.
-(2)  The commission shall then determine for each school district the amount
-to be raised by the minimum basic tax levy as its contribution toward the cost
-of the basic state-supported program, as required by the Minimum School
-Program Act.
-(3)  Each county auditor shall be notified by the commission that the minimum
-basic tax levy shall be imposed by the school district, to which shall be
-added an additional amount, if any, due to local undervaluation as provided in
-this section.  The auditor shall inform the county legislative body as to the
-amount of the levy.  The county legislative body shall at the time and in the
-manner provided by law make the levy upon the taxable property in the school
-district together with further levies for school purposes as may be required
-by each school district to pay the costs of programs in excess of the basic
-state-supported school program.
-(4)  If the levy applied under this section raises an amount in excess of the
-total basic state-supported school program for a school district, the excess
-amount shall be remitted by the school district to the State Board of
-Education to be credited to the Uniform School Fund for allocation to school
-districts to support the basic state-supported school program.  The
-availability of money shall be considered by the commission in fixing the
-state property levy as provided in the Minimum School Program Act.
-(5)  If the levy does not raise an amount in excess of the total basic state-
-supported school program for a district, then the difference between the
-amount which the local levy will raise within the district, and the total cost
-of the basic state-supported school program within the district shall be
-computed.  This difference, if any, shall be apportioned from the Uniform
-School Fund to each school district as the contribution of the state to the
-basic state-supported school program for the district, subject to the
-following conditions:
-(a)  Before the apportionment is made, the commission shall determine if the
-local taxable valuation of any school district is undervalued according to law
-and if so, the dollar amount of the undervaluation.  The dollar amount of the
-undervaluation shall be multiplied by the district basic uniform school levy
-at 98%.  The resulting dollar amount shall be divided by the current year
-estimated yield of .0002 per dollar of taxable value at 98% based on the
-district's taxable valuation prior to adjusting for undervaluation.
-(b)  The resulting levy amount shall be added to the required district basic
-uniform levy to determine the combined district basic school levy adjusted for
-undervaluation.  The combined rate of levy shall be certified to the county
-auditor and employed by the auditor and the county legislative body in lieu of
-the required basic school local levy.
+
+(1)  If any county fails to comply with Section 59-2-704, then this section determines the adjustment of the basic school levy for school districts within the county.  Before June 15, the commission shall ascertain from the State Board of Education the number of weighted pupil units in each school district in the state for the school year commencing July 1 of the current calendar year, estimated according to the Minimum School  Program Act, and the money necessary for the cost of the operation and maintenance of the minimum school program of the state for the school fiscal year beginning July 1 of the current calendar year.  The commission shall then estimate the amounts of all surpluses in the Uniform School Fund, as of July 1 of the current calendar year, available for the operation and maintenance of the program, and shall estimate the anticipated income to the fund available for those purposes for the current school year from all sources, including revenues from taxes on income or from taxes on intangible property pursuant to Article XIII, Sec.  12, Utah Constitution.
+
+(2)  The commission shall then determine for each school district the amount to be raised by the minimum basic tax levy as its contribution toward the cost of the basic state-supported program, as required by the Minimum School Program Act.
+
+(3)  Each county auditor shall be notified by the commission that the minimum basic tax levy shall be imposed by the school district, to which shall be added an additional amount, if any, due to local undervaluation as provided in this section.  The auditor shall inform the county legislative body as to the amount of the levy.  The county legislative body shall at the time and in the manner provided by law make the levy upon the taxable property in the school district together with further levies for school purposes as may be required by each school district to pay the costs of programs in excess of the basic state-supported school program.
+
+(4)  If the levy applied under this section raises an amount in excess of the total basic state-supported school program for a school district, the excess amount shall be remitted by the school district to the State Board of Education to be credited to the Uniform School Fund for allocation to school districts to support the basic state-supported school program.  The availability of money shall be considered by the commission in fixing the state property levy as provided in the Minimum School Program Act.
+
+(5)  If the levy does not raise an amount in excess of the total basic state-supported school program for a district, then the difference between the amount which the local levy will raise within the district, and the total cost of the basic state-supported school program within the district shall be computed.  This difference, if any, shall be apportioned from the Uniform School Fund to each school district as the contribution of the state to the basic state-supported school program for the district, subject to the following conditions:
+
+(a)  Before the apportionment is made, the commission shall determine if the local taxable valuation of any school district is undervalued according to law and if so, the dollar amount of the undervaluation.  The dollar amount of the undervaluation shall be multiplied by the district basic uniform school levy at 98%.  The resulting dollar amount shall be divided by the current year estimated yield of .0002 per dollar of taxable value at 98% based on the district's taxable valuation prior to adjusting for undervaluation.
+
+(b)  The resulting levy amount shall be added to the required district basic uniform levy to determine the combined district basic school levy adjusted for undervaluation.  The combined rate of levy shall be certified to the county auditor and employed by the auditor and the county legislative body in lieu of the required basic school local levy.
+

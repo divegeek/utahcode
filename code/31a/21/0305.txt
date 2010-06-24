@@ -1,49 +1,20 @@
 31A-21-305.   Cancellation upon request of a premium finance company.
+
 (1)  As used in this section:
-(a)  "Insurance premium finance company" means a person engaged in the
-business of entering into premium finance agreements.
-(b)  "Premium finance agreement" means an agreement by which an insured or
-prospective insured promises to pay to an insurance premium finance company
-the amount advanced or to be advanced under the agreement to an insurer or to
-an insurance producer in payment of premiums on an insurance policy, together
-with a service charge, an interest charge, or both.
-(2)  When a premium finance agreement contains a power of attorney or other
-authority enabling the insurance premium finance company to cancel any
-insurance policy listed in the agreement, the following applies:
-(a)  Not less than 10 days' written notice of the intent of the insurance
-premium finance company to order cancellation of the insurance policy, unless
-the policyholder's default is cured prior to the date stated in the notice,
-shall be delivered or mailed first-class to the policyholder.  The insurance
-producer indicated on the premium finance agreement shall also be given the
-same notice.
-(b)  Pursuant to the power of attorney or other authority, evidence of which
-is delivered to the insurer, the insurance premium finance company may order
-cancellation on behalf of the insured.  This cancellation shall be effected by
-mailing to the insurer a written notice stating when the cancellation is
-effective.  The insurance policy shall be cancelled as if the notice of
-cancellation had been given by the insured, but without requiring the return
-of the insurance policy.  The insurance premium finance company shall also
-send a copy of the same notice to the insured at his last known address and to
-the insurance producer indicated on the premium finance agreement.
-(c)  Where statutory, rule, or contractual restrictions provide that the
-insurance policy may not be cancelled unless notice is given to a governmental
-agency, mortgagee, or other third party, the insurer shall give the prescribed
-notice on behalf of itself or the insured to that governmental agency,
-mortgagee, or other third party within a reasonable time after the day it
-receives the notice of cancellation from the premium finance company.  When
-any statutory, rule, or contractual restrictions require the continuation of
-insurance beyond the effective date of cancellation specified by the premium
-finance company, the insurance is limited to the coverage required by those
-restrictions and to the persons those restrictions are designed to protect.
-(d)  Whenever a financed insurance policy is cancelled, the insurer shall
-return any unearned premiums due under the insurance policy to the insurance
-premium finance company for the account of the insured, and this action by the
-insurer satisfies the insurer's obligations under the insurance policy which
-relate to the return of unearned premiums. If the crediting of return premiums
-to the account of the insured results in a surplus over the amount due from
-the insured, the premium finance company shall refund that excess to the
-insured if it exceeds $5.
-(3)  No filing of the premium finance agreement or recording of a premium
-finance transaction is necessary to perfect the validity of the agreement as a
-secured transaction as against creditors, subsequent purchasers, pledgees,
-encumbrancers, successors, or assigns.
+
+(a)  "Insurance premium finance company" means a person engaged in the business of entering into premium finance agreements.
+
+(b)  "Premium finance agreement" means an agreement by which an insured or prospective insured promises to pay to an insurance premium finance company the amount advanced or to be advanced under the agreement to an insurer or to an insurance producer in payment of premiums on an insurance policy, together with a service charge, an interest charge, or both.
+
+(2)  When a premium finance agreement contains a power of attorney or other authority enabling the insurance premium finance company to cancel any insurance policy listed in the agreement, the following applies:
+
+(a)  Not less than 10 days' written notice of the intent of the insurance premium finance company to order cancellation of the insurance policy, unless the policyholder's default is cured prior to the date stated in the notice, shall be delivered or mailed first-class to the policyholder.  The insurance producer indicated on the premium finance agreement shall also be given the same notice.
+
+(b)  Pursuant to the power of attorney or other authority, evidence of which is delivered to the insurer, the insurance premium finance company may order cancellation on behalf of the insured.  This cancellation shall be effected by mailing to the insurer a written notice stating when the cancellation is effective.  The insurance policy shall be cancelled as if the notice of cancellation had been given by the insured, but without requiring the return of the insurance policy.  The insurance premium finance company shall also send a copy of the same notice to the insured at his last known address and to the insurance producer indicated on the premium finance agreement.
+
+(c)  Where statutory, rule, or contractual restrictions provide that the insurance policy may not be cancelled unless notice is given to a governmental agency, mortgagee, or other third party, the insurer shall give the prescribed notice on behalf of itself or the insured to that governmental agency, mortgagee, or other third party within a reasonable time after the day it receives the notice of cancellation from the premium finance company.  When any statutory, rule, or contractual restrictions require the continuation of insurance beyond the effective date of cancellation specified by the premium finance company, the insurance is limited to the coverage required by those restrictions and to the persons those restrictions are designed to protect.
+
+(d)  Whenever a financed insurance policy is cancelled, the insurer shall return any unearned premiums due under the insurance policy to the insurance premium finance company for the account of the insured, and this action by the insurer satisfies the insurer's obligations under the insurance policy which relate to the return of unearned premiums. If the crediting of return premiums to the account of the insured results in a surplus over the amount due from the insured, the premium finance company shall refund that excess to the insured if it exceeds $5.
+
+(3)  No filing of the premium finance agreement or recording of a premium finance transaction is necessary to perfect the validity of the agreement as a secured transaction as against creditors, subsequent purchasers, pledgees, encumbrancers, successors, or assigns.
+

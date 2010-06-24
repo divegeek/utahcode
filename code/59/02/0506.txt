@@ -1,89 +1,92 @@
-59-2-506.   Rollback tax -- Penalty -- Computation of tax -- Procedure --
-Lien -- Interest -- Notice -- Collection -- Distribution -- Appeal to county
-board of equalization.
-(1)  Except as provided in this section, Section 59-2-506.5, or Section
-59-2-511, if land is withdrawn from this part, the land is subject to a
-rollback tax imposed in accordance with this section.
-(2) (a)  An owner shall notify the county assessor that land is withdrawn from
-this part within 120 days after the day on which the land is withdrawn from
-this part.
-(b)  An owner that fails to notify the county assessor under Subsection (2)(a)
-that land is withdrawn from this part is subject to a penalty equal to the
-greater of:
+59-2-506.   Rollback tax -- Penalty -- Computation of tax -- Procedure -- Lien -- Interest -- Notice -- Collection -- Distribution -- Appeal to county board of equalization.
+
+(1)  Except as provided in this section, Section 59-2-506.5, or Section 59-2-511, if land is withdrawn from this part, the land is subject to a rollback tax imposed in accordance with this section.
+
+(2) (a)  An owner shall notify the county assessor that land is withdrawn from this part within 120 days after the day on which the land is withdrawn from this part.
+
+(b)  An owner that fails to notify the county assessor under Subsection (2)(a) that land is withdrawn from this part is subject to a penalty equal to the greater of:
+
 (i)  $10; or
+
 (ii)  2% of the rollback tax due for the last year of the rollback period.
-(3) (a)  The county assessor shall determine the amount of the rollback tax by
-computing the difference for the rollback period described in Subsection
-(3)(b) between:
+
+(3) (a)  The county assessor shall determine the amount of the rollback tax by computing the difference for the rollback period described in Subsection (3)(b) between:
+
 (i)  the tax paid while the land was assessed under this part; and
-(ii)  the tax that would have been paid had the property not been assessed
-under this part.
+
+(ii)  the tax that would have been paid had the property not been assessed under this part.
+
 (b)  For purposes of this section, the rollback period is a time period that:
+
 (i)  begins on the later of:
+
 (A)  the date the land is first assessed under this part; or
-(B)  five years preceding the day on which the county assessor mails the
-notice required by Subsection (5); and
-(ii)  ends the day on which the county assessor mails the notice required by
-Subsection (5).
+
+(B)  five years preceding the day on which the county assessor mails the notice required by Subsection (5); and
+
+(ii)  ends the day on which the county assessor mails the notice required by Subsection (5).
+
 (4) (a)  The county treasurer shall:
+
 (i)  collect the rollback tax; and
-(ii)  after the rollback tax is paid, certify to the county recorder that the
-rollback tax lien on the property has been satisfied by:
-(A)  preparing a document that certifies that the rollback tax lien on the
-property has been satisfied; and
-(B)  providing the document described in Subsection (4)(a)(ii)(A) to the
-county recorder for recordation.
+
+(ii)  after the rollback tax is paid, certify to the county recorder that the rollback tax lien on the property has been satisfied by:
+
+(A)  preparing a document that certifies that the rollback tax lien on the property has been satisfied; and
+
+(B)  providing the document described in Subsection (4)(a)(ii)(A) to the county recorder for recordation.
+
 (b)  The rollback tax collected under this section shall:
+
 (i)  be paid into the county treasury; and
-(ii)  be paid by the county treasurer to the various taxing entities pro rata
-in accordance with the property tax levies for the current year.
-(5) (a)  The county assessor shall mail to an owner of the land that is
-subject to a rollback tax a notice that:
+
+(ii)  be paid by the county treasurer to the various taxing entities pro rata in accordance with the property tax levies for the current year.
+
+(5) (a)  The county assessor shall mail to an owner of the land that is subject to a rollback tax a notice that:
+
 (i)  the land is withdrawn from this part;
+
 (ii)  the land is subject to a rollback tax under this section; and
-(iii)  the rollback tax is delinquent if the owner of the land does not pay
-the tax within 30 days after the day on which the county assessor mails the
-notice.
-(b) (i) The rollback tax is due and payable on the day the county assessor
-mails the notice required by Subsection (5)(a).
-(ii)  Subject to Subsection (7), the rollback tax is delinquent if an owner of
-the land that is withdrawn from this part does not pay the rollback tax within
-30 days after the day on which the county assessor mails the notice required
-by Subsection (5)(a).
-(6) (a)  Subject to Subsection (6)(b), the following are a lien on the land
-assessed under this part:
+
+(iii)  the rollback tax is delinquent if the owner of the land does not pay the tax within 30 days after the day on which the county assessor mails the notice.
+
+(b) (i) The rollback tax is due and payable on the day the county assessor mails the notice required by Subsection (5)(a).
+
+(ii)  Subject to Subsection (7), the rollback tax is delinquent if an owner of the land that is withdrawn from this part does not pay the rollback tax within 30 days after the day on which the county assessor mails the notice required by Subsection (5)(a).
+
+(6) (a)  Subject to Subsection (6)(b), the following are a lien on the land assessed under this part:
+
 (i)  the rollback tax; and
+
 (ii)  interest imposed in accordance with Subsection (7).
+
 (b)  The lien described in Subsection (6)(a) shall:
+
 (i)  arise upon the imposition of the rollback tax under this section;
-(ii)  end on the day on which the rollback tax and interest imposed in
-accordance with Subsection (7) are paid in full; and
-(iii)  relate back to the first day of the rollback period described in
-Subsection (3)(b).
+
+(ii)  end on the day on which the rollback tax and interest imposed in accordance with Subsection (7) are paid in full; and
+
+(iii)  relate back to the first day of the rollback period described in Subsection (3)(b).
+
 (7) (a)  A delinquent rollback tax under this section shall accrue interest:
+
 (i)  from the date of delinquency until paid; and
-(ii)  at the interest rate established under Section 59-2-1331 and in effect
-on January 1 of the year in which the delinquency occurs.
-(b)  A rollback tax that is delinquent on September 1 of any year shall be
-included on the notice required by Section 59-2-1317, along with interest
-calculated on that delinquent amount through November 30 of the year in which
-the notice under Section 59-2-1317 is mailed.
-(8) (a)  Land that becomes ineligible for assessment under this part only as a
-result of an amendment to this part is not subject to the rollback tax if the
-owner of the land notifies the county assessor that the land is withdrawn from
-this part in accordance with Subsection (2).
-(b)  Land described in Subsection (8)(a) that is withdrawn from this part as a
-result of an event other than an amendment to this part, whether voluntary or
-involuntary, is subject to the rollback tax.
-(9)  Except as provided in Section 59-2-511, land that becomes exempt from
-taxation under Utah Constitution Article XIII, Section 3, is not subject to
-the rollback tax if the land meets the requirements of Section 59-2-503 to be
-assessed under this part.
-(10) (a)  Subject to Subsection (10)(b), an owner of land may appeal to the
-county board of equalization:
-(i)  a decision by a county assessor to withdraw land from assessment under
-this part; or
+
+(ii)  at the interest rate established under Section 59-2-1331 and in effect on January 1 of the year in which the delinquency occurs.
+
+(b)  A rollback tax that is delinquent on September 1 of any year shall be included on the notice required by Section 59-2-1317, along with interest calculated on that delinquent amount through November 30 of the year in which the notice under Section 59-2-1317 is mailed.
+
+(8) (a)  Land that becomes ineligible for assessment under this part only as a result of an amendment to this part is not subject to the rollback tax if the owner of the land notifies the county assessor that the land is withdrawn from this part in accordance with Subsection (2).
+
+(b)  Land described in Subsection (8)(a) that is withdrawn from this part as a result of an event other than an amendment to this part, whether voluntary or involuntary, is subject to the rollback tax.
+
+(9)  Except as provided in Section 59-2-511, land that becomes exempt from taxation under Utah Constitution Article XIII, Section 3, is not subject to the rollback tax if the land meets the requirements of Section 59-2-503 to be assessed under this part.
+
+(10) (a)  Subject to Subsection (10)(b), an owner of land may appeal to the county board of equalization:
+
+(i)  a decision by a county assessor to withdraw land from assessment under this part; or
+
 (ii)  the imposition of a rollback tax under this section.
-(b)  An owner shall file an appeal under Subsection (10)(a) no later than 45
-days after the day on which the county assessor mails the notice required by
-Subsection (5).
+
+(b)  An owner shall file an appeal under Subsection (10)(a) no later than 45 days after the day on which the county assessor mails the notice required by Subsection (5).
+

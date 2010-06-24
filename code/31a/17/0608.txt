@@ -1,40 +1,18 @@
-31A-17-608.   Confidentiality -- Prohibition on announcements -- Prohibition
-on use in ratemaking.
-(1) (a)  The commissioner shall keep confidential to the extent that
-information in a report or plan is not required to be included in a publicly
-available annual statement schedule, any detail in an RBC report or RBC plan
-including the results or report of any examination or analysis of an insurer
-or health organization performed pursuant to this part, that is filed by a
-domestic or foreign insurer or health organization with the commissioner or
-any corrective order issued by the commissioner pursuant to examination or
-analysis.
-(b)  Information kept confidential under Subsection (1)(a) may not be made
-public or be subject to subpoena, other than by the commissioner and then only
-for the purpose of enforcement actions taken by the commissioner pursuant to
-this part or any other provision of the insurance laws of this state.
-(2) (a)  Except as otherwise required under this part, any insurer or health
-organization, producer, or other person engaged in any manner in the insurance
-business may not publish, disseminate, circulate or place before the public,
-or cause, directly or indirectly, the publishing, disseminating, circulating
-or placing before the public including, in a newspaper, magazine, other
-publication, a notice, circular, pamphlet, letter, or poster, or over any
-radio or television station, an advertisement, announcement, or statement
-containing an assertion, representation, or statement with regard to the RBC
-levels of any insurer or health organization, or of any component derived in
-the calculation.
-(b)  If any materially false statement with respect to the comparison
-regarding an insurer's or health organization's total adjusted capital to its
-RBC levels, or an inappropriate comparison of any other amount to the
-insurer's or health organization's RBC levels is published in any written
-publication and the insurer or health organization is able to demonstrate to
-the commissioner with substantial proof the falsity of the statement or the
-inappropriateness, the insurer or health organization may publish an
-announcement in a written publication if the sole purpose of the announcement
-is to rebut the materially false statement or inappropriate comparison.
-(3)  The commissioner may not use an RBC instruction, report, plan, or revised
-plan:
+31A-17-608.   Confidentiality -- Prohibition on announcements -- Prohibition on use in ratemaking.
+
+(1) (a)  The commissioner shall keep confidential to the extent that information in a report or plan is not required to be included in a publicly available annual statement schedule, any detail in an RBC report or RBC plan including the results or report of any examination or analysis of an insurer or health organization performed pursuant to this part, that is filed by a domestic or foreign insurer or health organization with the commissioner or any corrective order issued by the commissioner pursuant to examination or analysis.
+
+(b)  Information kept confidential under Subsection (1)(a) may not be made public or be subject to subpoena, other than by the commissioner and then only for the purpose of enforcement actions taken by the commissioner pursuant to this part or any other provision of the insurance laws of this state.
+
+(2) (a)  Except as otherwise required under this part, any insurer or health organization, producer, or other person engaged in any manner in the insurance business may not publish, disseminate, circulate or place before the public, or cause, directly or indirectly, the publishing, disseminating, circulating or placing before the public including, in a newspaper, magazine, other publication, a notice, circular, pamphlet, letter, or poster, or over any radio or television station, an advertisement, announcement, or statement containing an assertion, representation, or statement with regard to the RBC levels of any insurer or health organization, or of any component derived in the calculation.
+
+(b)  If any materially false statement with respect to the comparison regarding an insurer's or health organization's total adjusted capital to its RBC levels, or an inappropriate comparison of any other amount to the insurer's or health organization's RBC levels is published in any written publication and the insurer or health organization is able to demonstrate to the commissioner with substantial proof the falsity of the statement or the inappropriateness, the insurer or health organization may publish an announcement in a written publication if the sole purpose of the announcement is to rebut the materially false statement or inappropriate comparison.
+
+(3)  The commissioner may not use an RBC instruction, report, plan, or revised plan:
+
 (a)  for ratemaking;
+
 (b)  as evidence in any rate proceeding; or
-(c)  to calculate or derive any element of an appropriate premium level or
-rate of return for any line of insurance or coverage that an insurer or health
-organization or any affiliate is authorized to write or cover.
+
+(c)  to calculate or derive any element of an appropriate premium level or rate of return for any line of insurance or coverage that an insurer or health organization or any affiliate is authorized to write or cover.
+

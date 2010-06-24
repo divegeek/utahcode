@@ -1,4 +1,4 @@
 68-3-7.   Time, how computed.
-The time in which any act provided by law is to be done is computed by
-excluding the first day and including the last, unless the last is a holiday,
-and then it also is excluded.
+
+The time in which any act provided by law is to be done is computed by excluding the first day and including the last, unless the last is a holiday, and then it also is excluded.
+

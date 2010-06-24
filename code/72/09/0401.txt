@@ -1,33 +1,14 @@
 72-9-401.   Liability of motor carriers for loss or damage to freight.
-(1) (a)  A motor carrier receiving property for transportation from one point
-in this state to another point in this state shall issue a receipt or bill of
-lading for the property, and shall be liable to the lawful holder of the
-property for any loss, damage, or injury to the property caused by the motor
-carrier, or by any motor carrier to which the property may be delivered or
-over whose line or lines the property may pass within this state when
-transported on a through bill of lading.
-(b)  A contract, receipt, rule, regulation, or other limitation of any
-character whatsoever may not exempt the motor carrier from this liability.
-(2)  A motor carrier that receives property for transportation or any motor
-carrier delivering the property to the consignee shall be liable to the lawful
-holder of the receipt or bill of lading, or to any party entitled to recover
-on the property whether the receipt or bill of lading has been issued or not,
-for the full actual loss, damage or injury to the property caused by the motor
-carrier, or by any motor carrier to which the property may have been delivered
-or over whose line or lines the property may have passed within this state
-when transported on a through bill of lading.
-(3) (a)  The provisions of Subsection (2) apply notwithstanding any limitation
-of liability or of the amount of recovery, or any representation or agreement
-as to the value of the property in any receipt or bill of lading or in any
-contract, rule, or regulation.
-(b)  Any limitation of liability is unlawful and void if the provisions
-respecting liability for full actual loss, damage, or injury notwithstanding
-any limitation of liability or of recovery, or any representation or agreement
-or release as to value to property, except livestock, received for
-transportation concerning which the motor carrier expressly authorizes or
-requires, by order of the commission, the establishment and maintenance of
-rates dependent upon the value declared in writing by the shipper or agreed to
-in writing as the released value of the property.
-(c)  The declaration or agreement shall have no other effect than to limit
-liability and recovery to an amount not exceeding the value so declared or
-agreed upon.
+
+(1) (a)  A motor carrier receiving property for transportation from one point in this state to another point in this state shall issue a receipt or bill of lading for the property, and shall be liable to the lawful holder of the property for any loss, damage, or injury to the property caused by the motor carrier, or by any motor carrier to which the property may be delivered or over whose line or lines the property may pass within this state when transported on a through bill of lading.
+
+(b)  A contract, receipt, rule, regulation, or other limitation of any character whatsoever may not exempt the motor carrier from this liability.
+
+(2)  A motor carrier that receives property for transportation or any motor carrier delivering the property to the consignee shall be liable to the lawful holder of the receipt or bill of lading, or to any party entitled to recover on the property whether the receipt or bill of lading has been issued or not, for the full actual loss, damage or injury to the property caused by the motor carrier, or by any motor carrier to which the property may have been delivered or over whose line or lines the property may have passed within this state when transported on a through bill of lading.
+
+(3) (a)  The provisions of Subsection (2) apply notwithstanding any limitation of liability or of the amount of recovery, or any representation or agreement as to the value of the property in any receipt or bill of lading or in any contract, rule, or regulation.
+
+(b)  Any limitation of liability is unlawful and void if the provisions respecting liability for full actual loss, damage, or injury notwithstanding any limitation of liability or of recovery, or any representation or agreement or release as to value to property, except livestock, received for transportation concerning which the motor carrier expressly authorizes or requires, by order of the commission, the establishment and maintenance of rates dependent upon the value declared in writing by the shipper or agreed to in writing as the released value of the property.
+
+(c)  The declaration or agreement shall have no other effect than to limit liability and recovery to an amount not exceeding the value so declared or agreed upon.
+

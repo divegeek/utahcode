@@ -1,54 +1,48 @@
 20A-4-107.   Review and disposition of provisional ballot envelopes.
+
 (1)  As used in this section, a voter is "legally entitled to vote" if:
+
 (a)  the voter:
+
 (i)  is registered to vote in the state;
+
 (ii)  resides within the voting precinct where the voter seeks to vote; and
-(iii)  provided valid voter identification to the poll worker as indicated by
-a notation in the official register;
+
+(iii)  provided valid voter identification to the poll worker as indicated by a notation in the official register;
+
 (b)  the voter:
+
 (i)  is registered to vote in the state;
-(ii) (A)  provided valid voter identification to the poll worker as indicated
-by a notation in the official register; or
-(B)  either failed to provide valid voter identification or the documents
-provided as valid voter identification were inadequate and the poll worker
-recorded that fact in the official register but the county clerk verifies the
-voter's identity and residence through some other means; and
-(iii)  did not vote in the voter's precinct of residence, but the ballot that
-the voter voted is identical to the ballot voted in the voter's precinct of
-residence; or
+
+(ii) (A)  provided valid voter identification to the poll worker as indicated by a notation in the official register; or
+
+(B)  either failed to provide valid voter identification or the documents provided as valid voter identification were inadequate and the poll worker recorded that fact in the official register but the county clerk verifies the voter's identity and residence through some other means; and
+
+(iii)  did not vote in the voter's precinct of residence, but the ballot that the voter voted is identical to the ballot voted in the voter's precinct of residence; or
+
 (c)  the voter:
+
 (i)  is registered to vote in the state;
-(ii)  either failed to provide valid voter identification or the documents
-provided as valid voter identification were inadequate and the poll worker
-recorded that fact in the official register; and
-(iii) (A)  the county clerk verifies the voter's identity and residence
-through some other means as reliable as photo identification; or
-(B)  the voter provides valid voter identification to the county clerk or an
-election officer who is administering the election by the close of normal
-office hours on Monday after the date of the election.
-(2) (a)  Upon receipt of provisional ballot envelopes, the election officer
-shall review the affirmation on the face of each provisional ballot envelope
-and determine if the person signing the affirmation is a registered voter and
-legally entitled to vote the ballot that the voter voted.
-(b)  If the election officer determines that the person is not a registered
-voter or is not legally entitled to vote the ballot that the voter voted, the
-election officer shall retain the ballot envelope, unopened, for the period
-specified in Section 20A-4-202 unless ordered by a court to produce or count
-it.
-(c)  If the election officer determines that the person is a registered voter
-and is legally entitled to vote the ballot that the voter voted, the election
-officer shall remove the ballot from the provisional ballot envelope and place
-the ballot with the absentee ballots to be counted with those ballots at the
-canvass.
-(d)  The election officer may not count, or allow to be counted a provisional
-ballot unless the voter's identity and residence is established by a
-preponderance of the evidence.
-(3)  If the election officer determines that the person is a registered voter,
-the election officer shall ensure that the voter registration records are
-updated to reflect the information provided on the provisional ballot
-envelope.
-(4)  If the election officer determines that the person is not a registered
-voter and the information on the provisional ballot envelope is complete, the
-election officer shall:
+
+(ii)  either failed to provide valid voter identification or the documents provided as valid voter identification were inadequate and the poll worker recorded that fact in the official register; and
+
+(iii) (A)  the county clerk verifies the voter's identity and residence through some other means as reliable as photo identification; or
+
+(B)  the voter provides valid voter identification to the county clerk or an election officer who is administering the election by the close of normal office hours on Monday after the date of the election.
+
+(2) (a)  Upon receipt of provisional ballot envelopes, the election officer shall review the affirmation on the face of each provisional ballot envelope and determine if the person signing the affirmation is a registered voter and legally entitled to vote the ballot that the voter voted.
+
+(b)  If the election officer determines that the person is not a registered voter or is not legally entitled to vote the ballot that the voter voted, the election officer shall retain the ballot envelope, unopened, for the period specified in Section 20A-4-202 unless ordered by a court to produce or count it.
+
+(c)  If the election officer determines that the person is a registered voter and is legally entitled to vote the ballot that the voter voted, the election officer shall remove the ballot from the provisional ballot envelope and place the ballot with the absentee ballots to be counted with those ballots at the canvass.
+
+(d)  The election officer may not count, or allow to be counted a provisional ballot unless the voter's identity and residence is established by a preponderance of the evidence.
+
+(3)  If the election officer determines that the person is a registered voter, the election officer shall ensure that the voter registration records are updated to reflect the information provided on the provisional ballot envelope.
+
+(4)  If the election officer determines that the person is not a registered voter and the information on the provisional ballot envelope is complete, the election officer shall:
+
 (a)  consider the provisional ballot envelope a voter registration form; and
+
 (b)  register the voter.
+

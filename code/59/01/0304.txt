@@ -1,60 +1,66 @@
-59-1-304.   Definition -- Limitations on maintaining a class action that
-relates to a tax or fee -- Requirements for a person to be included as a
-member of a class in a class action -- Rulemaking authority -- Commission
-report to Revenue and Taxation Interim Committee -- Limitations on recovery by
-members of a class -- Severability.
-(1)  As used in this section, "tax or fee" means a tax or fee administered by
-the commission.
-(2)  A class action that relates to a tax or fee may not be maintained in any
-court if a claim sought by a representative party seeking to maintain the
-class action arises as a result of:
-(a)  a person collecting a tax or fee from the representative party if the
-representative party is not required by law to pay the tax or fee; or
-(b)  any of the following that requires a change in the manner in which a tax
-or fee is required to be collected or paid:
+59-1-304.   Definition -- Limitations on maintaining a class action that relates to a tax or fee -- Requirements for a person to be included as a member of a class in a class action -- Rulemaking authority -- Commission report to Revenue and Taxation Interim Committee -- Limitations on recovery by members of a class -- Severability.
+
+(1)  As used in this section, "tax or fee" means a tax or fee administered by the commission.
+
+(2)  A class action that relates to a tax or fee may not be maintained in any court if a claim sought by a representative party seeking to maintain the class action arises as a result of:
+
+(a)  a person collecting a tax or fee from the representative party if the representative party is not required by law to pay the tax or fee; or
+
+(b)  any of the following that requires a change in the manner in which a tax or fee is required to be collected or paid:
+
 (i)  an administrative rule made by the commission;
+
 (ii)  a private letter ruling issued by the commission; or
+
 (iii)  a decision issued by:
+
 (A)  the commission; or
+
 (B)  a court of competent jurisdiction.
-(3) (a)  A person may be included as a member of a class in a class action
-relating to a tax or fee only if the person:
+
+(3) (a)  A person may be included as a member of a class in a class action relating to a tax or fee only if the person:
+
 (i)  exhausts all administrative remedies with the commission; and
+
 (ii)  requests in writing to be included as a member of the class.
-(b) (i)  In accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act, the commission shall make rules to simplify and expedite the
-administrative remedies a person shall exhaust as required by Subsection
-(3)(a).
-(ii)  The rules required by Subsection (3)(b)(i) may include rules providing
-for:
+
+(b) (i)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall make rules to simplify and expedite the administrative remedies a person shall exhaust as required by Subsection (3)(a).
+
+(ii)  The rules required by Subsection (3)(b)(i) may include rules providing for:
+
 (A)  expedited filing procedures and forms;
-(B)  consolidation of hearings procedures as may be reasonably needed to
-accommodate potential inclusion of similarly situated persons; and
+
+(B)  consolidation of hearings procedures as may be reasonably needed to accommodate potential inclusion of similarly situated persons; and
+
 (C)  the designation of test or sample cases to avoid multiple hearings.
-(iii)  The commission shall report to the Revenue and Taxation Interim
-Committee on the status of the rules required by this Subsection (3)(b) on or
-before the October 2004 interim meeting.
-(4)  Subject to Subsection (5), in a class action brought under this section
-against the state or its political subdivisions in which members of the class
-are awarded a refund or credit of a tax or fee by a court of competent
-jurisdiction, the total amount that may be recovered by members of the class
-may not exceed the difference between:
+
+(iii)  The commission shall report to the Revenue and Taxation Interim Committee on the status of the rules required by this Subsection (3)(b) on or before the October 2004 interim meeting.
+
+(4)  Subject to Subsection (5), in a class action brought under this section against the state or its political subdivisions in which members of the class are awarded a refund or credit of a tax or fee by a court of competent jurisdiction, the total amount that may be recovered by members of the class may not exceed the difference between:
+
 (a)  the sum of:
+
 (i)  the amount of the refund or credit awarded to members of the class; and
+
 (ii)  interest as provided in Section 59-1-402; and
+
 (b)  if awarded in accordance with Subsection (5), the sum of:
+
 (i)  reasonable costs; and
+
 (ii)  reasonable attorney fees.
-(5) (a)  For purposes of Subsection (4), at the discretion of the court, the
-court may award:
+
+(5) (a)  For purposes of Subsection (4), at the discretion of the court, the court may award:
+
 (i)  reasonable costs as determined by the court; and
+
 (ii)  reasonable attorney fees determined under Subsection (5)(b).
-(b)  Reasonable attorney fees awarded in a class action may not exceed a
-reasonable hourly rate for work actually performed:
+
+(b)  Reasonable attorney fees awarded in a class action may not exceed a reasonable hourly rate for work actually performed:
+
 (i)  as determined by the court; and
-(ii)  taking into account all facts and circumstances that the court considers
-reasonable.
-(6)  If any provision of this section, or the application of any provision of
-this section to any person or circumstance is held unconstitutional or invalid
-by a court of competent jurisdiction, the remainder of the section shall be
-given effect without the invalid provision or application.
+
+(ii)  taking into account all facts and circumstances that the court considers reasonable.
+
+(6)  If any provision of this section, or the application of any provision of this section to any person or circumstance is held unconstitutional or invalid by a court of competent jurisdiction, the remainder of the section shall be given effect without the invalid provision or application.
+

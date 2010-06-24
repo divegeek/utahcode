@@ -1,146 +1,148 @@
 58-37c-3.   Definitions.
+
 In addition to the definitions in Section 58-1-102, as used in this chapter:
-(1)  "Board" means the Controlled Substance Precursor Advisory Board created
-in Section 58-37c-4.
-(2)  "Controlled substance precursor" includes a chemical reagent and means
-any of the following:
+
+(1)  "Board" means the Controlled Substance Precursor Advisory Board created in Section 58-37c-4.
+
+(2)  "Controlled substance precursor" includes a chemical reagent and means any of the following:
+
 (a)  Phenyl-2-propanone;
+
 (b)  Methylamine;
+
 (c)  Ethylamine;
+
 (d)  D-lysergic acid;
+
 (e)  Ergotamine and its salts;
+
 (f)  Diethyl malonate;
+
 (g)  Malonic acid;
+
 (h)  Ethyl malonate;
+
 (i)  Barbituric acid;
+
 (j)  Piperidine and its salts;
+
 (k)  N-acetylanthranilic acid and its salts;
+
 (l)  Pyrrolidine;
+
 (m)  Phenylacetic acid and its salts;
+
 (n)  Anthranilic acid and its salts;
+
 (o)  Morpholine;
+
 (p)  Ephedrine;
+
 (q)  Pseudoephedrine;
+
 (r)  Norpseudoephedrine;
+
 (s)  Phenylpropanolamine;
+
 (t)  Benzyl cyanide;
+
 (u)  Ergonovine and its salts;
+
 (v)  3,4-Methylenedioxyphenyl-2-propanone;
+
 (w)  propionic anhydride;
+
 (x)  Insosafrole;
+
 (y)  Safrole;
+
 (z)  Piperonal;
+
 (aa)  N-Methylephedrine;
+
 (bb)  N-ethylephedrine;
+
 (cc)  N-methylpseudoephedrine;
+
 (dd)  N-ethylpseudoephedrine;
+
 (ee)  Hydriotic acid;
-(ff)  gamma butyrolactone (GBL), including butyrolactone, 1,2 butanolide,
-2-oxanolone, tetrahydro-2-furanone, dihydro-2(3H)-furanone, and tetramethylene
-glycol, but not including gamma aminobutric acid (GABA);
+
+(ff)  gamma butyrolactone (GBL), including butyrolactone, 1,2 butanolide, 2-oxanolone, tetrahydro-2-furanone, dihydro-2(3H)-furanone, and tetramethylene glycol, but not including gamma aminobutric acid (GABA);
+
 (gg)  1,4 butanediol;
-(hh)  any salt, isomer, or salt of an isomer of the chemicals listed in
-Subsections (2)(a) through (gg);
+
+(hh)  any salt, isomer, or salt of an isomer of the chemicals listed in Subsections (2)(a) through (gg);
+
 (ii)  Crystal iodine;
-(jj)  Iodine at concentrations greater than 1.5% by weight in a solution or
-matrix;
+
+(jj)  Iodine at concentrations greater than 1.5% by weight in a solution or matrix;
+
 (kk)  Red phosphorous, except as provided in Section 58-37c-19.7;
+
 (ll)  anhydrous ammonia, except as provided in Section 58-37c-19.9;
-(mm)  any controlled substance precursor listed under the provisions of the
-Federal Controlled Substances Act which is designated by the director under
-the emergency listing provisions set forth in Section 58-37c-14; and
-(nn)  any chemical which is designated by the director under the emergency
-listing provisions set forth in Section 58-37c-14.
-(3)  "Deliver," "delivery," "transfer," or "furnish" means the actual,
-constructive, or attempted transfer of a controlled substance precursor.
-(4)  "Matrix" means something, as a substance, in which something else
-originates, develops, or is contained.
-(5)  "Person" means any individual, group of individuals, proprietorship,
-partnership, joint venture, corporation, or organization of any type or kind.
-(6)  "Practitioner" means a physician, dentist, podiatric physician,
-veterinarian, pharmacist, scientific investigator, pharmacy, hospital,
-pharmaceutical manufacturer, or other person licensed, registered, or
-otherwise permitted to distribute, dispense, conduct research with respect to,
-administer, or use in teaching, or chemical analysis a controlled substance in
-the course of professional practice or research in this state.
-(7) (a)  "Regulated distributor" means a person within the state who provides,
-sells, furnishes, transfers, or otherwise supplies a listed controlled
-substance precursor chemical in a regulated transaction.
-(b)  "Regulated distributor" does not include any person excluded from
-regulation under this chapter.
-(8) (a)  "Regulated purchaser" means any person within the state who receives
-a listed controlled substance precursor chemical in a regulated transaction.
-(b)  "Regulated purchaser" does not include any person excluded from
-regulation under this chapter.
+
+(mm)  any controlled substance precursor listed under the provisions of the Federal Controlled Substances Act which is designated by the director under the emergency listing provisions set forth in Section 58-37c-14; and
+
+(nn)  any chemical which is designated by the director under the emergency listing provisions set forth in Section 58-37c-14.
+
+(3)  "Deliver," "delivery," "transfer," or "furnish" means the actual, constructive, or attempted transfer of a controlled substance precursor.
+
+(4)  "Matrix" means something, as a substance, in which something else originates, develops, or is contained.
+
+(5)  "Person" means any individual, group of individuals, proprietorship, partnership, joint venture, corporation, or organization of any type or kind.
+
+(6)  "Practitioner" means a physician, dentist, podiatric physician, veterinarian, pharmacist, scientific investigator, pharmacy, hospital, pharmaceutical manufacturer, or other person licensed, registered, or otherwise permitted to distribute, dispense, conduct research with respect to, administer, or use in teaching, or chemical analysis a controlled substance in the course of professional practice or research in this state.
+
+(7) (a)  "Regulated distributor" means a person within the state who provides, sells, furnishes, transfers, or otherwise supplies a listed controlled substance precursor chemical in a regulated transaction.
+
+(b)  "Regulated distributor" does not include any person excluded from regulation under this chapter.
+
+(8) (a)  "Regulated purchaser" means any person within the state who receives a listed controlled substance precursor chemical in a regulated transaction.
+
+(b)  "Regulated purchaser" does not include any person excluded from regulation under this chapter.
+
 (9)  "Regulated transaction" means any actual, constructive or attempted:
-(a)  transfer, distribution, delivery, or furnishing by a person within the
-state to another person within or outside of the state of a threshold amount
-of a listed precursor chemical; or
-(b)  purchase or acquisition by any means by a person within the state from
-another person within or outside the state of a threshold amount of a listed
-precursor chemical.
-(10)  "Retail distributor" means a grocery store, general merchandise store,
-drug store, or other entity or person whose activities as a distributor are
-limited almost exclusively to sales for personal use:
+
+(a)  transfer, distribution, delivery, or furnishing by a person within the state to another person within or outside of the state of a threshold amount of a listed precursor chemical; or
+
+(b)  purchase or acquisition by any means by a person within the state from another person within or outside the state of a threshold amount of a listed precursor chemical.
+
+(10)  "Retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor are limited almost exclusively to sales for personal use:
+
 (a)  in both number of sales and volume of sales; and
-(b)  either directly to walk-in customers or in face-to-face transactions by
-direct sales.
-(11)  "Threshold amount of a listed precursor chemical" means any amount of a
-controlled substance precursor or a specified amount of a controlled substance
-precursor in a matrix; however, the division may exempt from the provisions of
-this chapter a specific controlled substance precursor in a specific amount
-and in certain types of transactions which provisions for exemption shall be
-defined by the division by rule adopted pursuant to Title 63G, Chapter 3, Utah
-Administrative Rulemaking Act.
-(12)  "Unlawful conduct" as defined in Section 58-1-501 includes knowingly and
-intentionally:
-(a)  engaging in a regulated transaction without first being appropriately
-licensed or exempted from licensure under this chapter;
-(b)  acting as a regulated distributor and selling, transferring, or in any
-other way conveying a controlled substance precursor to a person within the
-state who is not appropriately licensed or exempted from licensure as a
-regulated purchaser, or selling, transferring, or otherwise conveying a
-controlled substance precursor to a person outside of the state and failing to
-report the transaction as required;
-(c)  acting as a regulated purchaser and purchasing or in any other way
-obtaining a controlled substance precursor from a person within the state who
-is not a licensed regulated distributor, or purchasing or otherwise obtaining
-a controlled substance precursor from a person outside of the state and
-failing to report the transaction as required;
-(d)  engaging in a regulated transaction and failing to submit reports and
-keep required records of inventories required under the provisions of this
-chapter or rules adopted pursuant to this chapter;
-(e)  making any false statement in any application for license, in any record
-to be kept, or on any report submitted as required under this chapter;
-(f)  with the intent of causing the evasion of the recordkeeping or reporting
-requirements of this chapter and rules related to this chapter, receiving or
-distributing any listed controlled substance precursor chemical in any manner
-designed so that the making of records or filing of reports required under
-this chapter is not required;
-(g)  failing to take immediate steps to comply with licensure, reporting, or
-recordkeeping requirements of this chapter because of lack of knowledge of
-those requirements, upon becoming informed of the requirements;
-(h)  presenting false or fraudulent identification where or when receiving or
-purchasing a listed controlled substance precursor chemical;
-(i)  creating a chemical mixture for the purpose of evading any licensure,
-reporting or recordkeeping requirement of this chapter or rules related to
-this chapter, or receiving a chemical mixture created for that purpose;
-(j)  if the person is at least 18 years of age, employing, hiring, using,
-persuading, inducing, enticing, or coercing another person under 18 years of
-age to violate any provision of this chapter, or assisting in avoiding
-detection or apprehension for any violation of this chapter by any federal,
-state, or local law enforcement official; and
-(k)  obtaining or attempting to obtain or to possess any controlled substance
-precursor or any combination of controlled substance precursors knowing or
-having a reasonable cause to believe that the controlled substance precursor
-is intended to be used in the unlawful manufacture of any controlled
-substance.
-(13)  "Unprofessional conduct" as defined in Section 58-1-102 and as may be
-further defined by rule includes the following:
-(a)  violation of any provision of this chapter, the Controlled Substance Act
-of this state or any other state, or the Federal Controlled Substance Act; and
-(b)  refusing to allow agents or representatives of the division or authorized
-law enforcement personnel to inspect inventories or controlled substance
-precursors or records or reports relating to purchases and sales or
-distribution of controlled substance precursors as such records and reports
-are required under this chapter.
+
+(b)  either directly to walk-in customers or in face-to-face transactions by direct sales.
+
+(11)  "Threshold amount of a listed precursor chemical" means any amount of a controlled substance precursor or a specified amount of a controlled substance precursor in a matrix; however, the division may exempt from the provisions of this chapter a specific controlled substance precursor in a specific amount and in certain types of transactions which provisions for exemption shall be defined by the division by rule adopted pursuant to Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+
+(12)  "Unlawful conduct" as defined in Section 58-1-501 includes knowingly and intentionally:
+
+(a)  engaging in a regulated transaction without first being appropriately licensed or exempted from licensure under this chapter;
+
+(b)  acting as a regulated distributor and selling, transferring, or in any other way conveying a controlled substance precursor to a person within the state who is not appropriately licensed or exempted from licensure as a regulated purchaser, or selling, transferring, or otherwise conveying a controlled substance precursor to a person outside of the state and failing to report the transaction as required;
+
+(c)  acting as a regulated purchaser and purchasing or in any other way obtaining a controlled substance precursor from a person within the state who is not a licensed regulated distributor, or purchasing or otherwise obtaining a controlled substance precursor from a person outside of the state and failing to report the transaction as required;
+
+(d)  engaging in a regulated transaction and failing to submit reports and keep required records of inventories required under the provisions of this chapter or rules adopted pursuant to this chapter;
+
+(e)  making any false statement in any application for license, in any record to be kept, or on any report submitted as required under this chapter;
+
+(f)  with the intent of causing the evasion of the recordkeeping or reporting requirements of this chapter and rules related to this chapter, receiving or distributing any listed controlled substance precursor chemical in any manner designed so that the making of records or filing of reports required under this chapter is not required;
+
+(g)  failing to take immediate steps to comply with licensure, reporting, or recordkeeping requirements of this chapter because of lack of knowledge of those requirements, upon becoming informed of the requirements;
+
+(h)  presenting false or fraudulent identification where or when receiving or purchasing a listed controlled substance precursor chemical;
+
+(i)  creating a chemical mixture for the purpose of evading any licensure, reporting or recordkeeping requirement of this chapter or rules related to this chapter, or receiving a chemical mixture created for that purpose;
+
+(j)  if the person is at least 18 years of age, employing, hiring, using, persuading, inducing, enticing, or coercing another person under 18 years of age to violate any provision of this chapter, or assisting in avoiding detection or apprehension for any violation of this chapter by any federal, state, or local law enforcement official; and
+
+(k)  obtaining or attempting to obtain or to possess any controlled substance precursor or any combination of controlled substance precursors knowing or having a reasonable cause to believe that the controlled substance precursor is intended to be used in the unlawful manufacture of any controlled substance.
+
+(13)  "Unprofessional conduct" as defined in Section 58-1-102 and as may be further defined by rule includes the following:
+
+(a)  violation of any provision of this chapter, the Controlled Substance Act of this state or any other state, or the Federal Controlled Substance Act; and
+
+(b)  refusing to allow agents or representatives of the division or authorized law enforcement personnel to inspect inventories or controlled substance precursors or records or reports relating to purchases and sales or distribution of controlled substance precursors as such records and reports are required under this chapter.
+

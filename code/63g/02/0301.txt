@@ -1,121 +1,110 @@
 63G-2-301.   Records that must be disclosed.
+
 (1)  As used in this section:
-(a)  "Business address" means a single address of a governmental agency
-designated for the public to contact an employee or officer of the
-governmental agency.
-(b)  "Business email address" means a single email address of a governmental
-agency designated for the public to contact an employee or officer of the
-governmental agency.
-(c)  "Business telephone number" means a single telephone number of a
-governmental agency designated for the public to contact an employee or
-officer of the governmental agency.
-(2)  The following records are public except to the extent they contain
-information expressly permitted to be treated confidentially under the
-provisions of Subsections 63G-2-201(3)(b) and (6)(a):
+
+(a)  "Business address" means a single address of a governmental agency designated for the public to contact an employee or officer of the governmental agency.
+
+(b)  "Business email address" means a single email address of a governmental agency designated for the public to contact an employee or officer of the governmental agency.
+
+(c)  "Business telephone number" means a single telephone number of a governmental agency designated for the public to contact an employee or officer of the governmental agency.
+
+(2)  The following records are public except to the extent they contain information expressly permitted to be treated confidentially under the provisions of Subsections 63G-2-201(3)(b) and (6)(a):
+
 (a)  laws;
-(b)  the name, gender, gross compensation, job title, job description,
-business address, business email address, business telephone number, number of
-hours worked per pay period, dates of employment, and relevant education,
-previous employment, and similar job qualifications of a current or former
-employee or officer of the governmental entity, excluding:
+
+(b)  the name, gender, gross compensation, job title, job description, business address, business email address, business telephone number, number of hours worked per pay period, dates of employment, and relevant education, previous employment, and similar job qualifications of a current or former employee or officer of the governmental entity, excluding:
+
 (i)  undercover law enforcement personnel; and
-(ii)  investigative personnel if disclosure could reasonably be expected to
-impair the effectiveness of investigations or endanger any individual's
-safety;
-(c)  final opinions, including concurring and dissenting opinions, and orders
-that are made by a governmental entity in an administrative, adjudicative, or
-judicial proceeding except that if the proceedings were properly closed to the
-public, the opinion and order may be withheld to the extent that they contain
-information that is private, controlled, or protected;
-(d)  final interpretations of statutes or rules by a governmental entity
-unless classified as protected as provided in Subsections 63G-2-305(16), (17),
-and (18);
-(e)  information contained in or compiled from a transcript, minutes, or
-report of the open portions of a meeting of a governmental entity as provided
-by Title 52, Chapter 4, Open and Public Meetings Act, including the records of
-all votes of each member of the governmental entity;
-(f)  judicial records unless a court orders the records to be restricted under
-the rules of civil or criminal procedure or unless the records are private
-under this chapter;
-(g)  unless otherwise classified as private under Section 63G-2-303, records
-or parts of records filed with or maintained by county recorders, clerks,
-treasurers, surveyors, zoning commissions, the Division of Forestry, Fire, and
-State Lands, the School and Institutional Trust Lands Administration, the
-Division of Oil, Gas, and Mining, the Division of Water Rights, or other
-governmental entities that give public notice of:
+
+(ii)  investigative personnel if disclosure could reasonably be expected to impair the effectiveness of investigations or endanger any individual's safety;
+
+(c)  final opinions, including concurring and dissenting opinions, and orders that are made by a governmental entity in an administrative, adjudicative, or judicial proceeding except that if the proceedings were properly closed to the public, the opinion and order may be withheld to the extent that they contain information that is private, controlled, or protected;
+
+(d)  final interpretations of statutes or rules by a governmental entity unless classified as protected as provided in Subsections 63G-2-305(16), (17), and (18);
+
+(e)  information contained in or compiled from a transcript, minutes, or report of the open portions of a meeting of a governmental entity as provided by Title 52, Chapter 4, Open and Public Meetings Act, including the records of all votes of each member of the governmental entity;
+
+(f)  judicial records unless a court orders the records to be restricted under the rules of civil or criminal procedure or unless the records are private under this chapter;
+
+(g)  unless otherwise classified as private under Section 63G-2-303, records or parts of records filed with or maintained by county recorders, clerks, treasurers, surveyors, zoning commissions, the Division of Forestry, Fire, and State Lands, the School and Institutional Trust Lands Administration, the Division of Oil, Gas, and Mining, the Division of Water Rights, or other governmental entities that give public notice of:
+
 (i)  titles or encumbrances to real property;
+
 (ii)  restrictions on the use of real property;
+
 (iii)  the capacity of persons to take or convey title to real property; or
+
 (iv)  tax status for real and personal property;
-(h)  records of the Department of Commerce that evidence incorporations,
-mergers, name changes, and uniform commercial code filings;
-(i)  data on individuals that would otherwise be private under this chapter if
-the individual who is the subject of the record has given the governmental
-entity written permission to make the records available to the public;
-(j)  documentation of the compensation that a governmental entity pays to a
-contractor or private provider;
+
+(h)  records of the Department of Commerce that evidence incorporations, mergers, name changes, and uniform commercial code filings;
+
+(i)  data on individuals that would otherwise be private under this chapter if the individual who is the subject of the record has given the governmental entity written permission to make the records available to the public;
+
+(j)  documentation of the compensation that a governmental entity pays to a contractor or private provider;
+
 (k)  summary data; and
-(l)  voter registration records, including an individual's voting history,
-except for those parts of the record that are classified as private in
-Subsection 63G-2-302(1)(i).
-(3)  The following records are normally public, but to the extent that a
-record is expressly exempt from disclosure, access may be restricted under
-Subsection 63G-2-201(3)(b), Section 63G-2-302, 63G-2-304, or 63G-2-305:
-(a)  administrative staff manuals, instructions to staff, and statements of
-policy;
-(b)  records documenting a contractor's or private provider's compliance with
-the terms of a contract with a governmental entity;
-(c)  records documenting the services provided by a contractor or a private
-provider to the extent the records would be public if prepared by the
-governmental entity;
+
+(l)  voter registration records, including an individual's voting history, except for those parts of the record that are classified as private in Subsection 63G-2-302(1)(i).
+
+(3)  The following records are normally public, but to the extent that a record is expressly exempt from disclosure, access may be restricted under Subsection 63G-2-201(3)(b), Section 63G-2-302, 63G-2-304, or 63G-2-305:
+
+(a)  administrative staff manuals, instructions to staff, and statements of policy;
+
+(b)  records documenting a contractor's or private provider's compliance with the terms of a contract with a governmental entity;
+
+(c)  records documenting the services provided by a contractor or a private provider to the extent the records would be public if prepared by the governmental entity;
+
 (d)  contracts entered into by a governmental entity;
-(e)  any account, voucher, or contract that deals with the receipt or
-expenditure of funds by a governmental entity;
-(f)  records relating to government assistance or incentives publicly
-disclosed, contracted for, or given by a governmental entity, encouraging a
-person to expand or relocate a business in Utah, except as provided in
-Subsection 63G-2-305(35);
+
+(e)  any account, voucher, or contract that deals with the receipt or expenditure of funds by a governmental entity;
+
+(f)  records relating to government assistance or incentives publicly disclosed, contracted for, or given by a governmental entity, encouraging a person to expand or relocate a business in Utah, except as provided in Subsection 63G-2-305(35);
+
 (g)  chronological logs and initial contact reports;
-(h)  correspondence by and with a governmental entity in which the
-governmental entity determines or states an opinion upon the rights of the
-state, a political subdivision, the public, or any person;
+
+(h)  correspondence by and with a governmental entity in which the governmental entity determines or states an opinion upon the rights of the state, a political subdivision, the public, or any person;
+
 (i)  empirical data contained in drafts if:
-(i)  the empirical data is not reasonably available to the requester elsewhere
-in similar form; and
-(ii)  the governmental entity is given a reasonable opportunity to correct any
-errors or make nonsubstantive changes before release;
+
+(i)  the empirical data is not reasonably available to the requester elsewhere in similar form; and
+
+(ii)  the governmental entity is given a reasonable opportunity to correct any errors or make nonsubstantive changes before release;
+
 (j)  drafts that are circulated to anyone other than:
+
 (i)  a governmental entity;
+
 (ii)  a political subdivision;
-(iii)  a federal agency if the governmental entity and the federal agency are
-jointly responsible for implementation of a program or project that has been
-legislatively approved;
+
+(iii)  a federal agency if the governmental entity and the federal agency are jointly responsible for implementation of a program or project that has been legislatively approved;
+
 (iv)  a government-managed corporation; or
+
 (v)  a contractor or private provider;
-(k)  drafts that have never been finalized but were relied upon by the
-governmental entity in carrying out action or policy;
-(l)  original data in a computer program if the governmental entity chooses
-not to disclose the program;
-(m)  arrest warrants after issuance, except that, for good cause, a court may
-order restricted access to arrest warrants prior to service;
-(n)  search warrants after execution and filing of the return, except that a
-court, for good cause, may order restricted access to search warrants prior to
-trial;
-(o)  records that would disclose information relating to formal charges or
-disciplinary actions against a past or present governmental entity employee
-if:
-(i)  the disciplinary action has been completed and all time periods for
-administrative appeal have expired; and
+
+(k)  drafts that have never been finalized but were relied upon by the governmental entity in carrying out action or policy;
+
+(l)  original data in a computer program if the governmental entity chooses not to disclose the program;
+
+(m)  arrest warrants after issuance, except that, for good cause, a court may order restricted access to arrest warrants prior to service;
+
+(n)  search warrants after execution and filing of the return, except that a court, for good cause, may order restricted access to search warrants prior to trial;
+
+(o)  records that would disclose information relating to formal charges or disciplinary actions against a past or present governmental entity employee if:
+
+(i)  the disciplinary action has been completed and all time periods for administrative appeal have expired; and
+
 (ii)  the charges on which the disciplinary action was based were sustained;
-(p)  records maintained by the Division of Forestry, Fire, and State Lands,
-the School and Institutional Trust Lands Administration, or the Division of
-Oil, Gas, and Mining that evidence mineral production on government lands;
+
+(p)  records maintained by the Division of Forestry, Fire, and State Lands, the School and Institutional Trust Lands Administration, or the Division of Oil, Gas, and Mining that evidence mineral production on government lands;
+
 (q)  final audit reports;
+
 (r)  occupational and professional licenses;
+
 (s)  business licenses; and
-(t)  a notice of violation, a notice of agency action under Section 63G-4-201,
-or similar records used to initiate proceedings for discipline or sanctions
-against persons regulated by a governmental entity, but not including records
-that initiate employee discipline.
-(4)  The list of public records in this section is not exhaustive and should
-not be used to limit access to records.
+
+(t)  a notice of violation, a notice of agency action under Section 63G-4-201, or similar records used to initiate proceedings for discipline or sanctions against persons regulated by a governmental entity, but not including records that initiate employee discipline.
+
+(4)  The list of public records in this section is not exhaustive and should not be used to limit access to records.
+

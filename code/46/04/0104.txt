@@ -1,3 +1,4 @@
 46-4-104.   Prospective application.
-This chapter applies to any electronic record or electronic signature created,
-generated, sent, communicated, received, or stored on or after May 1, 2000.
+
+This chapter applies to any electronic record or electronic signature created, generated, sent, communicated, received, or stored on or after May 1, 2000.
+

@@ -1,393 +1,190 @@
-40-10-17.   Performance standards for all coal mining and reclamation
-operations -- Additional standards for steep-slope surface coal mining --
-Variances.
-(1)  Any permit issued pursuant to this chapter to conduct surface coal mining
-shall require that the surface coal mining operations will meet all applicable
-performance standards of this chapter, and such other requirements as the
-division shall promulgate.
-(2)  General performance standards shall be applicable to all surface coal
-mining and reclamation operations and shall require the operations as a
-minimum to:
-(a)  Conduct surface coal mining operations so as to maximize the utilization
-and conservation of the solid fuel resource being recovered so that
-reaffecting the land in the future through surface coal mining can be
-minimized.
-(b)  Restore the land affected to a condition capable of supporting the uses
-which it was capable of supporting prior to any mining, or higher or better
-uses of which there is reasonable likelihood, so long as the use or uses does
-not present any actual or probable hazard to public health or safety or pose
-any actual or probable threat of water diminution or pollution, and the permit
-applicant's declared proposed land use following reclamation is not considered
-to be impractical or unreasonable, inconsistent with applicable land use
-policies and plans, involves unreasonable delay in implementation, or is
-violative of federal, state, or local law.
-(c)  Except as provided in Subsection (3) with respect to all surface coal
-mining operations backfill, compact (where advisable to insure stability or to
-prevent leaching of toxic materials) and grade in order to restore the
-approximate original contour of the land with highwalls, spoil piles, and
-depressions eliminated (unless small depressions are needed in order to retain
-moisture to assist revegetation or as otherwise authorized pursuant to this
-chapter); but in surface coal mining which is carried out at the same location
-over a substantial period of time where the operation transects the coal
-deposit and the thickness of the coal deposits relative to the volume of the
-overburden is large and where the operator demonstrates that the overburden
-and other spoil and waste materials at a particular point in the permit area
-or otherwise available from the entire permit area is insufficient, giving due
-consideration to volumetric expansion, to restore the approximate original
-contour, the operator, at a minimum, shall backfill, grade, and compact (where
-advisable) using all available overburden and other spoil and waste materials
-to attain the lowest practicable grade but not more than the angle of repose,
-to provide adequate drainage and to cover all acid-forming and other toxic
-materials, in order to achieve an ecologically sound land use compatible with
-the surrounding region.  In surface coal mining where the volume of overburden
-is large relative to the thickness of the coal deposit and where the operator
-demonstrates that due to volumetric expansion the amount of overburden and
-other spoil and waste materials removed in the course of the mining operation
-is more than sufficient to restore the approximate original contour, the
-operator shall, after restoring the approximate contour, backfill, grade, and
-compact (where advisable) the excess overburden and other spoil and waste
-materials to attain the lowest grade but more than the angle of repose, and to
-cover all acid-forming and other toxic materials, in order to achieve an
-ecologically sound land use compatible with the surrounding region and that
-the overburden or spoil shall be shaped and graded in such a way as to prevent
-slides, erosion, and water pollution and is revegetated in accordance with the
-requirements of this chapter.
-(d)  Stabilize and protect all surface areas, including spoil piles affected
-by the surface coal mining and reclamation operation to effectively control
-erosion and attendant air and water pollution.
-(e)  Remove the topsoil from the land in a separate layer, replace it on the
-backfill area, or if not utilized immediately, segregate it in a separate pile
-from other spoil, and when the topsoil is not replaced on a backfill area
-within a time short enough to avoid deterioration of the topsoil, maintain a
-successful cover by quick growing plant or other means thereafter so that the
-topsoil is preserved from wind and water erosion, remains free of any
-contamination by other acid or toxic material, and is in a usable condition
-for sustaining vegetation when restored during reclamation; except if topsoil
-is of insufficient quantity or of poor quality for sustaining vegetation, or
-if other strata can be shown to be more suitable for vegetation requirements,
-then the operator shall remove, segregate, and preserve in a like manner the
-other strata which is best able to support vegetation.
-(f)  Restore the topsoil or the best available subsoil which is best able to
-support vegetation.
-(g)  For all prime farmlands, as identified in the rules, to be mined and
-reclaimed, specifications for soil removal, storage, replacement, and
-reconstruction, the operator shall, as a minimum, be required to:
-(i)  segregate the A horizon of the natural soil, except where it can be shown
-that other available soil materials will create a final soil having a greater
-productive capacity, and if not utilized immediately, stockpile this material
-separately from other spoil, and provide needed protection from wind and water
-erosion or contamination by other acid or toxic material;
-(ii)  segregate the B horizon of the natural soil, or underlying C horizons or
-other strata, or a combination of these horizons or other strata that are
-shown to be both texturally and chemically suitable for plant growth and that
-can be shown to be equally or more favorable for plant growth than the B
-horizon, in sufficient quantities to create in the regraded final soil a root
-zone of comparable depth and quality to that which existed in the natural
-soil, and if not utilized immediately, stockpile this material separately from
-other spoil, and provide needed protection from wind and water erosion or
-contamination by other acid or toxic material;
-(iii)  replace and regrade the root zone material described in Subsection
-(2)(g)(ii) above with proper compaction and uniform depth over the regraded
-spoil material; and
-(iv)  redistribute and grade in a uniform manner the surface soil horizon
-described in Subsection (2)(g)(i).
-(h)  Create, if authorized in the approved mining and reclamation plan and
-permit, permanent impoundments of water on mining sites as part of reclamation
-activities only when it is adequately demonstrated that:
+40-10-17.   Performance standards for all coal mining and reclamation operations -- Additional standards for steep-slope surface coal mining -- Variances.
+
+(1)  Any permit issued pursuant to this chapter to conduct surface coal mining shall require that the surface coal mining operations will meet all applicable performance standards of this chapter, and such other requirements as the division shall promulgate.
+
+(2)  General performance standards shall be applicable to all surface coal mining and reclamation operations and shall require the operations as a minimum to:
+
+(a)  Conduct surface coal mining operations so as to maximize the utilization and conservation of the solid fuel resource being recovered so that reaffecting the land in the future through surface coal mining can be minimized.
+
+(b)  Restore the land affected to a condition capable of supporting the uses which it was capable of supporting prior to any mining, or higher or better uses of which there is reasonable likelihood, so long as the use or uses does not present any actual or probable hazard to public health or safety or pose any actual or probable threat of water diminution or pollution, and the permit applicant's declared proposed land use following reclamation is not considered to be impractical or unreasonable, inconsistent with applicable land use policies and plans, involves unreasonable delay in implementation, or is violative of federal, state, or local law.
+
+(c)  Except as provided in Subsection (3) with respect to all surface coal mining operations backfill, compact (where advisable to insure stability or to prevent leaching of toxic materials) and grade in order to restore the approximate original contour of the land with highwalls, spoil piles, and depressions eliminated (unless small depressions are needed in order to retain moisture to assist revegetation or as otherwise authorized pursuant to this chapter); but in surface coal mining which is carried out at the same location over a substantial period of time where the operation transects the coal deposit and the thickness of the coal deposits relative to the volume of the overburden is large and where the operator demonstrates that the overburden and other spoil and waste materials at a particular point in the permit area or otherwise available from the entire permit area is insufficient, giving due consideration to volumetric expansion, to restore the approximate original contour, the operator, at a minimum, shall backfill, grade, and compact (where advisable) using all available overburden and other spoil and waste materials to attain the lowest practicable grade but not more than the angle of repose, to provide adequate drainage and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region.  In surface coal mining where the volume of overburden is large relative to the thickness of the coal deposit and where the operator demonstrates that due to volumetric expansion the amount of overburden and other spoil and waste materials removed in the course of the mining operation is more than sufficient to restore the approximate original contour, the operator shall, after restoring the approximate contour, backfill, grade, and compact (where advisable) the excess overburden and other spoil and waste materials to attain the lowest grade but more than the angle of repose, and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region and that the overburden or spoil shall be shaped and graded in such a way as to prevent slides, erosion, and water pollution and is revegetated in accordance with the requirements of this chapter.
+
+(d)  Stabilize and protect all surface areas, including spoil piles affected by the surface coal mining and reclamation operation to effectively control erosion and attendant air and water pollution.
+
+(e)  Remove the topsoil from the land in a separate layer, replace it on the backfill area, or if not utilized immediately, segregate it in a separate pile from other spoil, and when the topsoil is not replaced on a backfill area within a time short enough to avoid deterioration of the topsoil, maintain a successful cover by quick growing plant or other means thereafter so that the topsoil is preserved from wind and water erosion, remains free of any contamination by other acid or toxic material, and is in a usable condition for sustaining vegetation when restored during reclamation; except if topsoil is of insufficient quantity or of poor quality for sustaining vegetation, or if other strata can be shown to be more suitable for vegetation requirements, then the operator shall remove, segregate, and preserve in a like manner the other strata which is best able to support vegetation.
+
+(f)  Restore the topsoil or the best available subsoil which is best able to support vegetation.
+
+(g)  For all prime farmlands, as identified in the rules, to be mined and reclaimed, specifications for soil removal, storage, replacement, and reconstruction, the operator shall, as a minimum, be required to:
+
+(i)  segregate the A horizon of the natural soil, except where it can be shown that other available soil materials will create a final soil having a greater productive capacity, and if not utilized immediately, stockpile this material separately from other spoil, and provide needed protection from wind and water erosion or contamination by other acid or toxic material;
+
+(ii)  segregate the B horizon of the natural soil, or underlying C horizons or other strata, or a combination of these horizons or other strata that are shown to be both texturally and chemically suitable for plant growth and that can be shown to be equally or more favorable for plant growth than the B horizon, in sufficient quantities to create in the regraded final soil a root zone of comparable depth and quality to that which existed in the natural soil, and if not utilized immediately, stockpile this material separately from other spoil, and provide needed protection from wind and water erosion or contamination by other acid or toxic material;
+
+(iii)  replace and regrade the root zone material described in Subsection (2)(g)(ii) above with proper compaction and uniform depth over the regraded spoil material; and
+
+(iv)  redistribute and grade in a uniform manner the surface soil horizon described in Subsection (2)(g)(i).
+
+(h)  Create, if authorized in the approved mining and reclamation plan and permit, permanent impoundments of water on mining sites as part of reclamation activities only when it is adequately demonstrated that:
+
 (i)  the size of the impoundment is adequate for its intended purposes;
-(ii)  the impoundment dam construction will be so designed as to achieve
-necessary stability with an adequate margin of safety compatible with that of
-structures constructed under Public Law 83-566 (16 U.S.C. 1006);
-(iii)  the quality of impounded water will be suitable on a permanent basis
-for its intended use and that discharges from the impoundment will not degrade
-the water quality below water quality standards established pursuant to
-applicable federal and state law in the receiving stream;
+
+(ii)  the impoundment dam construction will be so designed as to achieve necessary stability with an adequate margin of safety compatible with that of structures constructed under Public Law 83-566 (16 U.S.C. 1006);
+
+(iii)  the quality of impounded water will be suitable on a permanent basis for its intended use and that discharges from the impoundment will not degrade the water quality below water quality standards established pursuant to applicable federal and state law in the receiving stream;
+
 (iv)  the level of water will be reasonably stable;
-(v)  final grading will provide adequate safety and access for proposed water
-users; and
-(vi)  these water impoundments will not result in the diminution of the
-quality or quantity of water utilized by adjacent or surrounding landowners
-for agricultural, industrial, recreational, or domestic uses.
-(i)  Conducting any augering operation associated with surface mining in a
-manner to maximize recoverability of mineral reserves remaining after the
-operation and reclamation are complete and seal all auger holes with an
-impervious and noncombustible material in order to prevent drainage except
-where the division determines that the resulting impoundment of water in the
-auger holes may create a hazard to the environment or the public health or
-safety; but the permitting authority may prohibit augering if necessary to
-maximize the utilization, recoverability, or conservation of the solid fuel
-resources or to protect against adverse water quality impacts.
-(j)  Minimize the disturbances to the prevailing hydrologic balance at the
-mine site and in associated offsite areas and to the quality and quantity of
-water in surface and groundwater systems both during and after surface coal
-mining operations and during reclamation by:
-(i)  avoiding acid or other toxic mine drainage by such measures as, but not
-limited to:
+
+(v)  final grading will provide adequate safety and access for proposed water users; and
+
+(vi)  these water impoundments will not result in the diminution of the quality or quantity of water utilized by adjacent or surrounding landowners for agricultural, industrial, recreational, or domestic uses.
+
+(i)  Conducting any augering operation associated with surface mining in a manner to maximize recoverability of mineral reserves remaining after the operation and reclamation are complete and seal all auger holes with an impervious and noncombustible material in order to prevent drainage except where the division determines that the resulting impoundment of water in the auger holes may create a hazard to the environment or the public health or safety; but the permitting authority may prohibit augering if necessary to maximize the utilization, recoverability, or conservation of the solid fuel resources or to protect against adverse water quality impacts.
+
+(j)  Minimize the disturbances to the prevailing hydrologic balance at the mine site and in associated offsite areas and to the quality and quantity of water in surface and groundwater systems both during and after surface coal mining operations and during reclamation by:
+
+(i)  avoiding acid or other toxic mine drainage by such measures as, but not limited to:
+
 (A)  preventing or removing water from contact with toxic-producing deposits;
-(B)  treating drainage to reduce toxic content which adversely affects
-downstream water upon being released to water courses; and
-(C)  casing, sealing, or otherwise managing boreholes, shafts, and wells and
-keep acid or other toxic drainage from entering ground and surface waters;
-(ii) (A)  conducting surface coal mining operations so as to prevent, to the
-extent possible using the best technology currently available, additional
-contributions of suspended solids to streamflow or runoff outside the permit
-area, but in no event shall contributions be in excess of requirements set by
-applicable state or federal law; and
-(B)  constructing any siltation structures pursuant to this Subsection
-(2)(j)(ii) prior to commencement of surface coal mining operations, such
-structures to be certified by a qualified registered engineer to be
-constructed as designed and as approved in the reclamation plan;
-(iii)  cleaning out and removing temporary or large settling ponds or other
-siltation structures from drainways after disturbed areas are revegetated and
-stabilized and depositing the silt and debris at a site and in a manner
-approved by the division;
-(iv)  restoring recharge capacity of the mined area to approximate premining
-conditions;
-(v)  avoiding channel deepening or enlargement in operations requiring the
-discharge of water from mines;
-(vi)  preserving throughout the mining and reclamation process the essential
-hydrologic functions of alluvial valley floors in the arid and semiarid areas
-of the state; and
+
+(B)  treating drainage to reduce toxic content which adversely affects downstream water upon being released to water courses; and
+
+(C)  casing, sealing, or otherwise managing boreholes, shafts, and wells and keep acid or other toxic drainage from entering ground and surface waters;
+
+(ii) (A)  conducting surface coal mining operations so as to prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow or runoff outside the permit area, but in no event shall contributions be in excess of requirements set by applicable state or federal law; and
+
+(B)  constructing any siltation structures pursuant to this Subsection (2)(j)(ii) prior to commencement of surface coal mining operations, such structures to be certified by a qualified registered engineer to be constructed as designed and as approved in the reclamation plan;
+
+(iii)  cleaning out and removing temporary or large settling ponds or other siltation structures from drainways after disturbed areas are revegetated and stabilized and depositing the silt and debris at a site and in a manner approved by the division;
+
+(iv)  restoring recharge capacity of the mined area to approximate premining conditions;
+
+(v)  avoiding channel deepening or enlargement in operations requiring the discharge of water from mines;
+
+(vi)  preserving throughout the mining and reclamation process the essential hydrologic functions of alluvial valley floors in the arid and semiarid areas of the state; and
+
 (vii)  such other actions as the division may prescribe.
-(k)  With respect to surface disposal of mine wastes, tailings, coal
-processing wastes, and other waste in areas other than the mine working or
-excavations, stabilize all waste piles in designated areas through
-construction in compacted layers, including the use of incombustible and
-impervious materials, if necessary, and assure the final contour of the waste
-pile will be compatible with natural surroundings and that the site can and
-will be stabilized and revegetated according to the provisions of this
-chapter.
-(l)  Refrain from surface coal mining within 500 feet from active and
-abandoned underground mines in order to prevent breakthroughs and to protect
-health or safety of miners; but the division shall permit an operator to mine
-near, through, or partially through an abandoned underground mine or closer to
-an active underground mine if:
-(i)  the nature, timing, and sequencing of the approximate coincidence of
-specific surface mine activities with specific underground mine activities are
-jointly approved by the departments, divisions, and agencies concerned with
-surface mine reclamation and the health and safety of underground miners; and
-(ii)  the operations will result in improved resource recovery, abatement of
-water pollution, or elimination of hazards to the health and safety of the
-public.
-(m)  Design, locate, construct, operate, maintain, enlarge, modify, and remove
-or abandon, in accordance with the standards and criteria developed pursuant
-to the division's rules, all existing and new coal mine waste piles consisting
-of mine wastes, tailings, coal processing wastes, or other liquid and solid
-wastes, and used either temporarily or permanently as dams or embankments.
-(n)  Insure that all debris, acid-forming materials, toxic materials, or
-materials constituting a fire hazard are treated or buried and compacted or
-otherwise disposed of in a manner designed to prevent contamination of ground
-or surface waters and that contingency plans are developed to prevent
-sustained combustion.
-(o)  Insure that explosives are used only in accordance with existing state
-and federal law and the rules adopted by the board, which shall include
-provisions to:
-(i)  provide adequate advance written notice to local governments and
-residents who might be affected by the use of the explosives by:
+
+(k)  With respect to surface disposal of mine wastes, tailings, coal processing wastes, and other waste in areas other than the mine working or excavations, stabilize all waste piles in designated areas through construction in compacted layers, including the use of incombustible and impervious materials, if necessary, and assure the final contour of the waste pile will be compatible with natural surroundings and that the site can and will be stabilized and revegetated according to the provisions of this chapter.
+
+(l)  Refrain from surface coal mining within 500 feet from active and abandoned underground mines in order to prevent breakthroughs and to protect health or safety of miners; but the division shall permit an operator to mine near, through, or partially through an abandoned underground mine or closer to an active underground mine if:
+
+(i)  the nature, timing, and sequencing of the approximate coincidence of specific surface mine activities with specific underground mine activities are jointly approved by the departments, divisions, and agencies concerned with surface mine reclamation and the health and safety of underground miners; and
+
+(ii)  the operations will result in improved resource recovery, abatement of water pollution, or elimination of hazards to the health and safety of the public.
+
+(m)  Design, locate, construct, operate, maintain, enlarge, modify, and remove or abandon, in accordance with the standards and criteria developed pursuant to the division's rules, all existing and new coal mine waste piles consisting of mine wastes, tailings, coal processing wastes, or other liquid and solid wastes, and used either temporarily or permanently as dams or embankments.
+
+(n)  Insure that all debris, acid-forming materials, toxic materials, or materials constituting a fire hazard are treated or buried and compacted or otherwise disposed of in a manner designed to prevent contamination of ground or surface waters and that contingency plans are developed to prevent sustained combustion.
+
+(o)  Insure that explosives are used only in accordance with existing state and federal law and the rules adopted by the board, which shall include provisions to:
+
+(i)  provide adequate advance written notice to local governments and residents who might be affected by the use of the explosives by:
+
 (A)  publication of the planned blasting schedule:
+
 (I)  in a newspaper of general circulation in the locality; and
+
 (II)  as required in Section 45-1-101; and
-(B)  mailing a copy of the proposed blasting schedule to every resident living
-within 1/2 mile of the proposed blasting site and by providing daily notice to
-resident/occupiers in these areas prior to any blasting;
-(ii)  maintain for a period of at least three years and make available for
-public inspection upon request a log detailing the location of the blasts, the
-pattern and depth of the drill holes, the amount of explosives used per hole,
-and the order and length of delay in the blasts;
-(iii)  limit the type of explosives and detonating equipment, the size, the
-timing and frequency of blasts based upon the physical conditions of the site
-so as to prevent injury to persons, damage to public and private property
-outside the permit area, adverse impacts on any underground mine, and change
-in the course, channel, or availability of ground or surface water outside the
-permit area;
-(iv)  require that all blasting operations be conducted by trained and
-competent persons, and to implement this requirement, the division shall
-promulgate rules requiring the training, examination, and certification of
-persons engaging in or directly responsible for blasting or the use of
-explosives in surface and coal mining operations; and
-(v)  provide that upon the request of a resident or owner of a man-made
-dwelling or structure within 1/2 mile of any portion of the permitted area,
-the applicant or permittee shall conduct a preblasting survey of the
-structures and submit the survey to the division and a copy to the resident or
-owner making the request, the area of which survey shall be decided by the
-division and shall include such provisions as promulgated.
-(p)  Insure that all reclamation efforts proceed in an environmentally sound
-manner and as contemporaneously as practicable with the surface coal mining
-operations; but where the applicant proposes to combine surface mining
-operations with underground mining operations to assure maximum practical
-recovery of the mineral resources, the division may grant a variance for
-specific areas within the reclamation plan from the requirement that
-reclamation efforts proceed as contemporaneously as practicable to permit
-underground operations prior to reclamation:
+
+(B)  mailing a copy of the proposed blasting schedule to every resident living within 1/2 mile of the proposed blasting site and by providing daily notice to resident/occupiers in these areas prior to any blasting;
+
+(ii)  maintain for a period of at least three years and make available for public inspection upon request a log detailing the location of the blasts, the pattern and depth of the drill holes, the amount of explosives used per hole, and the order and length of delay in the blasts;
+
+(iii)  limit the type of explosives and detonating equipment, the size, the timing and frequency of blasts based upon the physical conditions of the site so as to prevent injury to persons, damage to public and private property outside the permit area, adverse impacts on any underground mine, and change in the course, channel, or availability of ground or surface water outside the permit area;
+
+(iv)  require that all blasting operations be conducted by trained and competent persons, and to implement this requirement, the division shall promulgate rules requiring the training, examination, and certification of persons engaging in or directly responsible for blasting or the use of explosives in surface and coal mining operations; and
+
+(v)  provide that upon the request of a resident or owner of a man-made dwelling or structure within 1/2 mile of any portion of the permitted area, the applicant or permittee shall conduct a preblasting survey of the structures and submit the survey to the division and a copy to the resident or owner making the request, the area of which survey shall be decided by the division and shall include such provisions as promulgated.
+
+(p)  Insure that all reclamation efforts proceed in an environmentally sound manner and as contemporaneously as practicable with the surface coal mining operations; but where the applicant proposes to combine surface mining operations with underground mining operations to assure maximum practical recovery of the mineral resources, the division may grant a variance for specific areas within the reclamation plan from the requirement that reclamation efforts proceed as contemporaneously as practicable to permit underground operations prior to reclamation:
+
 (i)  if the division finds in writing that:
-(A)  the applicant has presented, as part of the permit application, specific,
-feasible plans for the proposed underground mining operations;
-(B)  the proposed underground mining operations are necessary or desirable to
-assure maximum practical recovery of the mineral resource and will avoid
-multiple disturbance of the surface;
-(C)  the applicant has satisfactorily demonstrated that the plan for the
-underground mining operations conforms to requirements for underground mining
-in the jurisdiction and that permits necessary for the underground mining
-operations have been issued by the appropriate authority;
-(D)  the areas proposed for the variance have been shown by the applicant to
-be necessary for the implementing of the proposed underground mining
-operations;
-(E)  no substantial adverse environmental damage, either onsite or offsite,
-will result from the delay in completion of reclamation as required by this
-chapter; and
-(F)  provisions for the offsite storage of spoil will comply with Subsection
-(2)(v);
-(ii)  if the board has adopted specific rules to govern the granting of the
-variances in accordance with the provisions of this Subsection (2)(p) and has
-imposed such additional requirements as considered necessary;
-(iii)  if variances granted under this Subsection (2)(p) are to be reviewed by
-the division not more than three years from the date of issuance of the
-permit; and
-(iv)  if liability under the bond filed by the applicant with the division
-pursuant to Section 40-10-15 shall be for the duration of the underground
-mining operations and until the requirements of this Subsection (2) and
-Section 40-10-16 have been fully complied with.
-(q)  Insure that the construction, maintenance, and postmining conditions of
-access roads into and across the site of operations will control or prevent
-erosion and siltation, pollution of water, damage to fish or wildlife or their
-habitat, or public or private property.
-(r)  Refrain from the construction of roads or other access ways up a stream
-bed or drainage channel or in such proximity to the channel so as to seriously
-alter the normal flow of water.
-(s)  Establish on the regraded areas and all other lands affected, a diverse,
-effective, and permanent vegetative cover of the same seasonal variety native
-to the area of land to be affected and capable of self-regeneration and plant
-succession at least equal in extent of cover to the natural vegetation of the
-area; except that introduced species may be used in the revegetation process
-where desirable and necessary to achieve the approved postmining land use
-plan.
-(t) (i)  Assume the responsibility for successful revegetation, as required by
-Subsection (2)(s), for a period of five full years after the last year of
-augmented seeding, fertilizing, irrigation, or other work in order to assure
-compliance with Subsection (2)(s), except in those areas or regions of the
-state where the annual average precipitation is 26 inches or less, then the
-operator's assumption of responsibility and liability will extend for a period
-of 10 full years after the last year of augmented seeding, fertilizing,
-irrigation, or other work; but when the division approves a long-term
-intensive agricultural postmining land use, the applicable five or ten-year
-period of responsibility for revegetation shall commence at the date of
-initial planting for this long-term intensive, agricultural postmining land
-use, except when the division issues a written finding approving a long-term,
-intensive, agricultural postmining land use, as part of the mining and
-reclamation plan, the division may grant exception to the provisions of
-Subsection (2)(s); and
-(ii)  on lands eligible for remining, assume the responsibility for successful
-revegetation for a period of two full years after the last year of augmented
-seeding, fertilizing, irrigation, or other work in order to assure compliance
-with the applicable standards, except in areas of the state where the average
-annual precipitation is 26 inches or less, assume the responsibility for
-successful revegetation for a period of five full years after the last year of
-augmented seeding, fertilizing, irrigation, or other work in order to assure
-compliance with the applicable standards.
-(u)  Protect offsite areas from slides or damage occurring during the surface
-coal mining and reclamation operations and not deposit spoil material or
-locate any part of the operations or waste accumulations outside the permit
-area.
-(v)  Place all excess spoil material resulting from coal surface mining and
-reclamation activities in a manner that:
-(i)  spoil is transported and placed in a controlled manner in position for
-concurrent compaction and in a way to assure mass stability and to prevent
-mass movement;
-(ii)  the areas of disposal are within the bonded permit areas and all organic
-matter shall be removed immediately prior to spoil placement;
-(iii)  appropriate surface and internal drainage systems and diversion ditches
-are used so as to prevent spoil erosion and movement;
-(iv)  the disposal area does not contain springs, natural water courses, or
-wet weather seeps unless lateral drains are constructed from the wet areas to
-the main underdrains in a manner that filtration of the water into the spoil
-pile will be prevented;
-(v)  if placed on a slope, the spoil is placed upon the most moderate slope
-among those upon which, in the judgment of the division, the spoil could be
-placed in compliance with all the requirements of this chapter and shall be
-placed, where possible, upon or above a natural terrace, bench, or berm, if
-this placement provides additional stability and prevents mass movement;
-(vi)  where the toe of the spoil rests on a downslope, a rock toe buttress of
-sufficient size to prevent mass movement, is constructed;
-(vii)  the final configuration is compatible with the natural drainage pattern
-and surroundings and suitable for intended uses;
-(viii)  design of the spoil disposal area is certified by a qualified
-professional engineer, and to implement this requirement, the division shall
-promulgate rules regarding the certification of engineers in the area of spoil
-disposal design; and
+
+(A)  the applicant has presented, as part of the permit application, specific, feasible plans for the proposed underground mining operations;
+
+(B)  the proposed underground mining operations are necessary or desirable to assure maximum practical recovery of the mineral resource and will avoid multiple disturbance of the surface;
+
+(C)  the applicant has satisfactorily demonstrated that the plan for the underground mining operations conforms to requirements for underground mining in the jurisdiction and that permits necessary for the underground mining operations have been issued by the appropriate authority;
+
+(D)  the areas proposed for the variance have been shown by the applicant to be necessary for the implementing of the proposed underground mining operations;
+
+(E)  no substantial adverse environmental damage, either onsite or offsite, will result from the delay in completion of reclamation as required by this chapter; and
+
+(F)  provisions for the offsite storage of spoil will comply with Subsection (2)(v);
+
+(ii)  if the board has adopted specific rules to govern the granting of the variances in accordance with the provisions of this Subsection (2)(p) and has imposed such additional requirements as considered necessary;
+
+(iii)  if variances granted under this Subsection (2)(p) are to be reviewed by the division not more than three years from the date of issuance of the permit; and
+
+(iv)  if liability under the bond filed by the applicant with the division pursuant to Section 40-10-15 shall be for the duration of the underground mining operations and until the requirements of this Subsection (2) and Section 40-10-16 have been fully complied with.
+
+(q)  Insure that the construction, maintenance, and postmining conditions of access roads into and across the site of operations will control or prevent erosion and siltation, pollution of water, damage to fish or wildlife or their habitat, or public or private property.
+
+(r)  Refrain from the construction of roads or other access ways up a stream bed or drainage channel or in such proximity to the channel so as to seriously alter the normal flow of water.
+
+(s)  Establish on the regraded areas and all other lands affected, a diverse, effective, and permanent vegetative cover of the same seasonal variety native to the area of land to be affected and capable of self-regeneration and plant succession at least equal in extent of cover to the natural vegetation of the area; except that introduced species may be used in the revegetation process where desirable and necessary to achieve the approved postmining land use plan.
+
+(t) (i)  Assume the responsibility for successful revegetation, as required by Subsection (2)(s), for a period of five full years after the last year of augmented seeding, fertilizing, irrigation, or other work in order to assure compliance with Subsection (2)(s), except in those areas or regions of the state where the annual average precipitation is 26 inches or less, then the operator's assumption of responsibility and liability will extend for a period of 10 full years after the last year of augmented seeding, fertilizing, irrigation, or other work; but when the division approves a long-term intensive agricultural postmining land use, the applicable five or ten-year period of responsibility for revegetation shall commence at the date of initial planting for this long-term intensive, agricultural postmining land use, except when the division issues a written finding approving a long-term, intensive, agricultural postmining land use, as part of the mining and reclamation plan, the division may grant exception to the provisions of Subsection (2)(s); and
+
+(ii)  on lands eligible for remining, assume the responsibility for successful revegetation for a period of two full years after the last year of augmented seeding, fertilizing, irrigation, or other work in order to assure compliance with the applicable standards, except in areas of the state where the average annual precipitation is 26 inches or less, assume the responsibility for successful revegetation for a period of five full years after the last year of augmented seeding, fertilizing, irrigation, or other work in order to assure compliance with the applicable standards.
+
+(u)  Protect offsite areas from slides or damage occurring during the surface coal mining and reclamation operations and not deposit spoil material or locate any part of the operations or waste accumulations outside the permit area.
+
+(v)  Place all excess spoil material resulting from coal surface mining and reclamation activities in a manner that:
+
+(i)  spoil is transported and placed in a controlled manner in position for concurrent compaction and in a way to assure mass stability and to prevent mass movement;
+
+(ii)  the areas of disposal are within the bonded permit areas and all organic matter shall be removed immediately prior to spoil placement;
+
+(iii)  appropriate surface and internal drainage systems and diversion ditches are used so as to prevent spoil erosion and movement;
+
+(iv)  the disposal area does not contain springs, natural water courses, or wet weather seeps unless lateral drains are constructed from the wet areas to the main underdrains in a manner that filtration of the water into the spoil pile will be prevented;
+
+(v)  if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the division, the spoil could be placed in compliance with all the requirements of this chapter and shall be placed, where possible, upon or above a natural terrace, bench, or berm, if this placement provides additional stability and prevents mass movement;
+
+(vi)  where the toe of the spoil rests on a downslope, a rock toe buttress of sufficient size to prevent mass movement, is constructed;
+
+(vii)  the final configuration is compatible with the natural drainage pattern and surroundings and suitable for intended uses;
+
+(viii)  design of the spoil disposal area is certified by a qualified professional engineer, and to implement this requirement, the division shall promulgate rules regarding the certification of engineers in the area of spoil disposal design; and
+
 (ix)  all other provisions of this chapter are met.
-(w)  Meet such other criteria as are necessary to achieve reclamation in
-accordance with the purposes of this chapter, taking into consideration the
-physical, climatological, and other characteristics of the site.
-(x)  To the extent possible, using the best technology currently available,
-minimize disturbances and adverse impacts of the operation on fish, wildlife,
-and related environmental values, and achieve enhancement of these resources
-where practicable.
-(y)  Provide for an undisturbed natural barrier beginning at the elevation of
-the lowest coal seam to be mined and extending from the outslope for the
-distance as the division shall determine shall be retained in place as a
-barrier to slides and erosion.
-(3) (a)  Where an applicant meets the requirements of Subsections (3)(b) and
-(c), a permit without regard to the requirement to restore to approximate
-original contour provided in Subsections (2)(c), (4)(b), and (4)(c) may be
-granted for the surface mining of coal where the mining operation will remove
-an entire coal seam or seams running through the upper fraction of a mountain,
-ridge, or hill (except as provided in this Subsection (3)) by removing all of
-the overburden and creating a level plateau or a gently rolling contour with
-no highwalls remaining, and capable of supporting postmining uses in accord
-with the requirements of this Subsection (3).
-(b)  In cases where an industrial, commercial, agricultural, residential, or
-public facility (including recreational facilities) use is proposed for the
-postmining use of the affected land, the division may grant a permit for a
-surface mining operation of the nature described in Subsection (3)(a) pursuant
-to procedures and criteria set forth in the rules, including:
-(i)  the applicant's presentation of specific plans for the proposed
-postmining land use which meet criteria concerning the type of use proposed;
-(ii)  the applicant's demonstration that the proposed use would be consistent
-with adjacent land uses and existing state and local land use plans and
-programs and with other requirements of this chapter; and
-(iii)  procedures whereby the division provides the governing body of the unit
-of general-purpose government in which the land is located and any state or
-federal agency which the division, in its discretion, determines to have an
-interest in the proposed use, an opportunity of not more than 60 days to
-review and comment on the proposed use.
-(c)  All permits granted under the provisions of this Subsection (3) shall be
-reviewed not more than three years from the date of issuance of the permit,
-unless the applicant affirmatively demonstrates that the proposed development
-is proceeding in accordance with the terms of the approved schedule and
-reclamation plan.
-(4)  The following performance standards shall be applicable to steep-slope
-surface coal mining and shall be in addition to those general performance
-standards required by this section; but the provisions of this Subsection (4)
-shall not apply to those situations in which an operator is mining on flat or
-gently rolling terrain, on which an occasional steep slope is encountered
-through which the mining operation is to proceed, leaving a plain or
-predominantly flat area or where an operator is in compliance with provisions
-of Subsection (3):
-(a)  Insure that when performing surface coal mining on steep slopes, no
-debris, abandoned or disabled equipment, spoil material, or waste mineral
-matter be placed on the downslope below the bench or mining cut; but spoil
-material in excess of that required for the reconstruction of the approximate
-original contour under the provisions of Subsection (2)(c) or this Subsection
-(4) shall be permanently stored pursuant to Subsection 40-10-17(2)(v).
-(b)  Complete backfilling with spoil material shall be required to cover
-completely the highwall and return the site to the appropriate original
-contour, which material will maintain stability following mining and
-reclamation.
-(c)  The operator may not disturb land above the top of the highwall unless
-the division finds that the disturbance will facilitate compliance with the
-environmental protection standards of this section; but the land disturbed
-above the highwall shall be limited to that amount necessary to facilitate
-this compliance.
-(d)  For the purposes of this Subsection (4), "steep slope" means any slope
-above 20 degrees or such lesser slope as may be defined by the division after
-consideration of soil, climate, and other characteristics of an area.
-(5)  The board shall promulgate specific rules to govern the granting of
-variances from the requirement to restore to approximate original contour
-provided in Subsection (4)(b) pursuant to procedures and criteria set forth in
-those rules including:
+
+(w)  Meet such other criteria as are necessary to achieve reclamation in accordance with the purposes of this chapter, taking into consideration the physical, climatological, and other characteristics of the site.
+
+(x)  To the extent possible, using the best technology currently available, minimize disturbances and adverse impacts of the operation on fish, wildlife, and related environmental values, and achieve enhancement of these resources where practicable.
+
+(y)  Provide for an undisturbed natural barrier beginning at the elevation of the lowest coal seam to be mined and extending from the outslope for the distance as the division shall determine shall be retained in place as a barrier to slides and erosion.
+
+(3) (a)  Where an applicant meets the requirements of Subsections (3)(b) and (c), a permit without regard to the requirement to restore to approximate original contour provided in Subsections (2)(c), (4)(b), and (4)(c) may be granted for the surface mining of coal where the mining operation will remove an entire coal seam or seams running through the upper fraction of a mountain, ridge, or hill (except as provided in this Subsection (3)) by removing all of the overburden and creating a level plateau or a gently rolling contour with no highwalls remaining, and capable of supporting postmining uses in accord with the requirements of this Subsection (3).
+
+(b)  In cases where an industrial, commercial, agricultural, residential, or public facility (including recreational facilities) use is proposed for the postmining use of the affected land, the division may grant a permit for a surface mining operation of the nature described in Subsection (3)(a) pursuant to procedures and criteria set forth in the rules, including:
+
+(i)  the applicant's presentation of specific plans for the proposed postmining land use which meet criteria concerning the type of use proposed;
+
+(ii)  the applicant's demonstration that the proposed use would be consistent with adjacent land uses and existing state and local land use plans and programs and with other requirements of this chapter; and
+
+(iii)  procedures whereby the division provides the governing body of the unit of general-purpose government in which the land is located and any state or federal agency which the division, in its discretion, determines to have an interest in the proposed use, an opportunity of not more than 60 days to review and comment on the proposed use.
+
+(c)  All permits granted under the provisions of this Subsection (3) shall be reviewed not more than three years from the date of issuance of the permit, unless the applicant affirmatively demonstrates that the proposed development is proceeding in accordance with the terms of the approved schedule and reclamation plan.
+
+(4)  The following performance standards shall be applicable to steep-slope surface coal mining and shall be in addition to those general performance standards required by this section; but the provisions of this Subsection (4) shall not apply to those situations in which an operator is mining on flat or gently rolling terrain, on which an occasional steep slope is encountered through which the mining operation is to proceed, leaving a plain or predominantly flat area or where an operator is in compliance with provisions of Subsection (3):
+
+(a)  Insure that when performing surface coal mining on steep slopes, no debris, abandoned or disabled equipment, spoil material, or waste mineral matter be placed on the downslope below the bench or mining cut; but spoil material in excess of that required for the reconstruction of the approximate original contour under the provisions of Subsection (2)(c) or this Subsection (4) shall be permanently stored pursuant to Subsection 40-10-17(2)(v).
+
+(b)  Complete backfilling with spoil material shall be required to cover completely the highwall and return the site to the appropriate original contour, which material will maintain stability following mining and reclamation.
+
+(c)  The operator may not disturb land above the top of the highwall unless the division finds that the disturbance will facilitate compliance with the environmental protection standards of this section; but the land disturbed above the highwall shall be limited to that amount necessary to facilitate this compliance.
+
+(d)  For the purposes of this Subsection (4), "steep slope" means any slope above 20 degrees or such lesser slope as may be defined by the division after consideration of soil, climate, and other characteristics of an area.
+
+(5)  The board shall promulgate specific rules to govern the granting of variances from the requirement to restore to approximate original contour provided in Subsection (4)(b) pursuant to procedures and criteria set forth in those rules including:
+
 (a)  written request by the surface owner concerning the proposed use;
-(b)  approval of the proposed use as an equal or better economic or public
-use; and
-(c)  approval of the proposed use as improving the watershed control in the
-area and as using only such amount of spoil as is necessary to achieve the
-planned postmining land use.
+
+(b)  approval of the proposed use as an equal or better economic or public use; and
+
+(c)  approval of the proposed use as improving the watershed control in the area and as using only such amount of spoil as is necessary to achieve the planned postmining land use.
+

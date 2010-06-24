@@ -1,23 +1,14 @@
 78B-12-208.   Joint physical custody -- Obligation calculations.
-In cases of joint physical custody, the base child support award shall be
-determined as follows:
-(1)  Combine the adjusted gross incomes of the parents and determine the base
-combined child support obligation using the base combined child support
-obligation table.
-(2)  Calculate each parent's proportionate share of the base combined child
-support obligation by multiplying the base combined child support obligation
-by each parent's percentage of combined adjusted gross income.  The amounts so
-calculated are the base child support obligation due from each parent for
-support of the children.
-(3)  If the obligor's time with the children exceeds 110 overnights, the
-obligation shall be calculated further as follows:
-(a)  if the amount of time to be spent with the children is between 110 and
-131 overnights, multiply the number of overnights over 110 by .0027, then
-multiply the result by the base combined child support obligation, and then
-subtract the result from the obligor's payment as determined by Subsection (2)
-to arrive at the obligor's payment; or
-(b)  if the amount of time to be spent with the children is 131 overnights or
-more, multiply the number of overnights over 130 by .0084, then multiply the
-result by the base combined child support obligation, and then subtract the
-result from the obligor's payment as determined in Subsection (3)(a) to arrive
-at the obligor's payment.
+
+In cases of joint physical custody, the base child support award shall be determined as follows:
+
+(1)  Combine the adjusted gross incomes of the parents and determine the base combined child support obligation using the base combined child support obligation table.
+
+(2)  Calculate each parent's proportionate share of the base combined child support obligation by multiplying the base combined child support obligation by each parent's percentage of combined adjusted gross income.  The amounts so calculated are the base child support obligation due from each parent for support of the children.
+
+(3)  If the obligor's time with the children exceeds 110 overnights, the obligation shall be calculated further as follows:
+
+(a)  if the amount of time to be spent with the children is between 110 and 131 overnights, multiply the number of overnights over 110 by .0027, then multiply the result by the base combined child support obligation, and then subtract the result from the obligor's payment as determined by Subsection (2) to arrive at the obligor's payment; or
+
+(b)  if the amount of time to be spent with the children is 131 overnights or more, multiply the number of overnights over 130 by .0084, then multiply the result by the base combined child support obligation, and then subtract the result from the obligor's payment as determined in Subsection (3)(a) to arrive at the obligor's payment.
+

@@ -1,58 +1,70 @@
 13-37-201.   Required notice.
-(1) (a)  In accordance with this section, a commercial entity shall provide
-the notice described in this section to a person if:
-(i)  the commercial entity enters into a consumer transaction with that
-person;
-(ii)  as a result of the consumer transaction described in this Subsection
-(1)(a), the commercial entity obtains nonpublic personal information
-concerning that person; and
-(iii)  the commercial entity intends to or wants the ability to disclose the
-nonpublic personal information:
+
+(1) (a)  In accordance with this section, a commercial entity shall provide the notice described in this section to a person if:
+
+(i)  the commercial entity enters into a consumer transaction with that person;
+
+(ii)  as a result of the consumer transaction described in this Subsection (1)(a), the commercial entity obtains nonpublic personal information concerning that person; and
+
+(iii)  the commercial entity intends to or wants the ability to disclose the nonpublic personal information:
+
 (A)  to a third party; and
+
 (B)  for compensation; and
+
 (iv)  the compensation described in Subsection (1)(a)(iii)(B):
-(A)  is the primary consideration for the commercial entity disclosing the
-nonpublic personal information;
-(B)  is directly related to the commercial entity disclosing the nonpublic
-personal information; and
-(C)  is not compensation received by the commercial entity in consideration of
-a transaction described in Subsection (5).
-(b)  For purposes of this chapter, a commercial entity is considered to have
-obtained information as a result of a consumer transaction if:
+
+(A)  is the primary consideration for the commercial entity disclosing the nonpublic personal information;
+
+(B)  is directly related to the commercial entity disclosing the nonpublic personal information; and
+
+(C)  is not compensation received by the commercial entity in consideration of a transaction described in Subsection (5).
+
+(b)  For purposes of this chapter, a commercial entity is considered to have obtained information as a result of a consumer transaction if:
+
 (i)  the person provides the information to the commercial entity:
+
 (A)  at any time during the consumer transaction; and
+
 (B)  at the request of the commercial entity; or
+
 (ii) (A)  the commercial entity otherwise obtains the information; and
-(B)  but for the consumer transaction, the commercial entity would not obtain
-the information.
-(2)  The notice required by Subsection (1) shall be given before the earlier
-of:
-(a)  the point at which the person is requested to provide the nonpublic
-personal information; or
-(b)  the commercial entity otherwise obtains the nonpublic personal
-information as a result of the consumer transaction described in Subsection
-(1)(a).
+
+(B)  but for the consumer transaction, the commercial entity would not obtain the information.
+
+(2)  The notice required by Subsection (1) shall be given before the earlier of:
+
+(a)  the point at which the person is requested to provide the nonpublic personal information; or
+
+(b)  the commercial entity otherwise obtains the nonpublic personal information as a result of the consumer transaction described in Subsection (1)(a).
+
 (3)  The notice required by Subsection (1):
-(a)   shall read substantially as follows:  "We may choose to disclose
-nonpublic personal information about you, the consumer, to a third party for
-compensation.";
+
+(a)   shall read substantially as follows:  "We may choose to disclose nonpublic personal information about you, the consumer, to a third party for compensation.";
+
 (b)  may be made:
-(i)  orally, if the consumer transaction itself is entirely conducted orally;
-or
+
+(i)  orally, if the consumer transaction itself is entirely conducted orally; or
+
 (ii)  in writing, if the notice is written in dark bold; and
-(c)  shall be sufficiently conspicuous so that a reasonable person would
-perceive the notice before providing the nonpublic personal information.
+
+(c)  shall be sufficiently conspicuous so that a reasonable person would perceive the notice before providing the nonpublic personal information.
+
 (4)  This chapter does not apply to:
-(a)  a commercial entity that is subject to a federal law or regulation that
-governs the disclosure of nonpublic information to a third party; or
+
+(a)  a commercial entity that is subject to a federal law or regulation that governs the disclosure of nonpublic information to a third party; or
+
 (b)  a covered entity as defined in 45 C.F.R. Parts 160 and 164.
-(5)  Notwithstanding the other provisions of this section, a commercial entity
-is not required to provide notice under this section if:
-(a)  the disclosure of the nonpublic personal information is related to the
-third party providing to the commercial entity:
+
+(5)  Notwithstanding the other provisions of this section, a commercial entity is not required to provide notice under this section if:
+
+(a)  the disclosure of the nonpublic personal information is related to the third party providing to the commercial entity:
+
 (i)  services, including business outsource services;
+
 (ii)  personal or real property; or
+
 (iii)  other thing of value; and
-(b)  compensation received by the commercial entity as part of the transaction
-is received by the commercial entity for or in consideration of the
-transaction described in Subsection (5)(a).
+
+(b)  compensation received by the commercial entity as part of the transaction is received by the commercial entity for or in consideration of the transaction described in Subsection (5)(a).
+

@@ -1,9 +1,8 @@
 62A-11-327.    Reporting past-due support to consumer reporting agency.
-The office shall periodically report the name of any obligor who is delinquent
-in the payment of support and the amount of overdue support owed by the
-obligor  to consumer reporting agencies as defined in the Fair Credit
-Reporting Act, 15 U.S.C. Sec. 1681a(f):
-(1)  only after the obligor has been afforded notice and a reasonable
-opportunity to contest the accuracy of the information; and
-(2)  only to an entity that has provided satisfactory evidence that it is a
-consumer reporting agency under 15 U.S.C. Sec. 1681a(f).
+
+The office shall periodically report the name of any obligor who is delinquent in the payment of support and the amount of overdue support owed by the obligor  to consumer reporting agencies as defined in the Fair Credit Reporting Act, 15 U.S.C. Sec. 1681a(f):
+
+(1)  only after the obligor has been afforded notice and a reasonable opportunity to contest the accuracy of the information; and
+
+(2)  only to an entity that has provided satisfactory evidence that it is a consumer reporting agency under 15 U.S.C. Sec. 1681a(f).
+

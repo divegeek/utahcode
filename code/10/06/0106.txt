@@ -1,66 +1,48 @@
 10-6-106.   Definitions.
+
 As used in this chapter:
-(1)  "Account group" is defined by generally accepted accounting principles as
-reflected in the Uniform Accounting Manual for Utah Cities.
-(2)  "Appropriation" means an allocation of money by the governing body for a
-specific purpose.
-(3) (a)  "Budget" means a plan of financial operations for a fiscal period
-which embodies estimates of proposed expenditures for given purposes and the
-proposed means of financing them.
-(b)  "Budget" may refer to the budget of a particular fund for which a budget
-is required by law or it may refer collectively to the budgets for all such
-funds.
+
+(1)  "Account group" is defined by generally accepted accounting principles as reflected in the Uniform Accounting Manual for Utah Cities.
+
+(2)  "Appropriation" means an allocation of money by the governing body for a specific purpose.
+
+(3) (a)  "Budget" means a plan of financial operations for a fiscal period which embodies estimates of proposed expenditures for given purposes and the proposed means of financing them.
+
+(b)  "Budget" may refer to the budget of a particular fund for which a budget is required by law or it may refer collectively to the budgets for all such funds.
+
 (4)  "Budgetary fund" means a fund for which a budget is required.
-(5)  "Budget officer" means the city auditor in a city of the first and second
-class, the mayor or some person appointed by the mayor with the approval of
-the city council in a city of the third, fourth, or fifth class, the mayor in
-the council-mayor optional form of government, or the person designated by the
-charter in a charter city.
+
+(5)  "Budget officer" means the city auditor in a city of the first and second class, the mayor or some person appointed by the mayor with the approval of the city council in a city of the third, fourth, or fifth class, the mayor in the council-mayor optional form of government, or the person designated by the charter in a charter city.
+
 (6)  "Budget period" means the fiscal period for which a budget is prepared.
-(7)  "Check" means an order in a specific amount drawn upon a depository by an
-authorized officer of a city.
-(8)  "Current period" means the fiscal period in which a budget is prepared
-and adopted, i.e., the fiscal period next preceding the budget period.
-(9)  "Department" means any functional unit within a fund that carries on a
-specific activity, such as a fire or police department within a General Fund.
-(10)  "Encumbrance system" means a method of budgetary control in which part
-of an appropriation is reserved to cover a specific expenditure by charging
-obligations, such as purchase orders, contracts, or salary commitments to an
-appropriation account at their time of origin.  Such obligations cease to be
-encumbrances when paid or when the actual liability is entered on the city's
-books of account.
-(11)  "Estimated revenue" means the amount of revenue estimated to be received
-from all sources during the budget period in each fund for which a budget is
-being prepared.
-(12)  "Financial officer" means the mayor in the council-mayor optional form
-of government or the city official as authorized by Section 10-6-158.
-(13)  "Fiscal period" means the annual or biennial period for accounting for
-fiscal operations in each city.
-(14)  "Fund" is as defined by generally accepted accounting principles as
-reflected in the Uniform Accounting Manual for Utah Cities.
-(15)  "Fund balance," "retained earnings," and "deficit" have the meanings
-commonly accorded such terms under generally accepted accounting principles as
-reflected in the Uniform Accounting Manual for Utah Cities.
-(16)  "Governing body" means a city council, or city commission, as the case
-may be, but the authority to make any appointment to any position created by
-this chapter is vested in the mayor in the council-mayor optional form of
-government.
-(17)  "Interfund loan" means a loan of cash from one fund to another, subject
-to future repayment and does not constitute an expenditure or a use of
-retained earnings or fund balance of the lending fund or revenue to the
-borrowing fund.
-(18)  "Last completed fiscal period" means the fiscal period next preceding
-the current period.
-(19)  "Public funds" means any money or payment collected or received by an
-officer or employee of the city acting in an official capacity and includes
-money or payment to the officer or employee for services or goods provided by
-the city, or the officer or employee while acting within the scope of
-employment or duty.  Public funds do not include money or payments collected
-or received by an officer or employee of a city for charitable purposes if the
-mayor or city council has consented to the officer's or employee's
-participation in soliciting contributions for a charity.
+
+(7)  "Check" means an order in a specific amount drawn upon a depository by an authorized officer of a city.
+
+(8)  "Current period" means the fiscal period in which a budget is prepared and adopted, i.e., the fiscal period next preceding the budget period.
+
+(9)  "Department" means any functional unit within a fund that carries on a specific activity, such as a fire or police department within a General Fund.
+
+(10)  "Encumbrance system" means a method of budgetary control in which part of an appropriation is reserved to cover a specific expenditure by charging obligations, such as purchase orders, contracts, or salary commitments to an appropriation account at their time of origin.  Such obligations cease to be encumbrances when paid or when the actual liability is entered on the city's books of account.
+
+(11)  "Estimated revenue" means the amount of revenue estimated to be received from all sources during the budget period in each fund for which a budget is being prepared.
+
+(12)  "Financial officer" means the mayor in the council-mayor optional form of government or the city official as authorized by Section 10-6-158.
+
+(13)  "Fiscal period" means the annual or biennial period for accounting for fiscal operations in each city.
+
+(14)  "Fund" is as defined by generally accepted accounting principles as reflected in the Uniform Accounting Manual for Utah Cities.
+
+(15)  "Fund balance," "retained earnings," and "deficit" have the meanings commonly accorded such terms under generally accepted accounting principles as reflected in the Uniform Accounting Manual for Utah Cities.
+
+(16)  "Governing body" means a city council, or city commission, as the case may be, but the authority to make any appointment to any position created by this chapter is vested in the mayor in the council-mayor optional form of government.
+
+(17)  "Interfund loan" means a loan of cash from one fund to another, subject to future repayment and does not constitute an expenditure or a use of retained earnings or fund balance of the lending fund or revenue to the borrowing fund.
+
+(18)  "Last completed fiscal period" means the fiscal period next preceding the current period.
+
+(19)  "Public funds" means any money or payment collected or received by an officer or employee of the city acting in an official capacity and includes money or payment to the officer or employee for services or goods provided by the city, or the officer or employee while acting within the scope of employment or duty.  Public funds do not include money or payments collected or received by an officer or employee of a city for charitable purposes if the mayor or city council has consented to the officer's or employee's participation in soliciting contributions for a charity.
+
 (20)  "Special fund" means any fund other than the General Fund.
-(21)  "Warrant" means an order drawn upon the city treasurer, in the absence
-of sufficient money in the city's depository, by an authorized officer of a
-city for the purpose of paying a specified amount out of the city treasury to
-the person named or to the bearer as money becomes available.
+
+(21)  "Warrant" means an order drawn upon the city treasurer, in the absence of sufficient money in the city's depository, by an authorized officer of a city for the purpose of paying a specified amount out of the city treasury to the person named or to the bearer as money becomes available.
+

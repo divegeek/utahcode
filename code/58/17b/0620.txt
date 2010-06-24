@@ -1,55 +1,48 @@
 58-17b-620.   Prescriptions issued within the public health system.
+
 (1)  As used in this section:
-(a)  "Department of Health" means the state Department of Health created in
-Section 26-1-4.
-(b)  "Health department" means either the Department of Health or a local
-health department.
-(c)  "Local health departments" mean the local health departments created in
-Title 26A, Chapter 1, Local Health Departments.
-(2)  A health department may implement the prescription procedure under
-Subsection (3) for prescription drugs, other than controlled substances, for
-use in clinics providing:
+
+(a)  "Department of Health" means the state Department of Health created in Section 26-1-4.
+
+(b)  "Health department" means either the Department of Health or a local health department.
+
+(c)  "Local health departments" mean the local health departments created in Title 26A, Chapter 1, Local Health Departments.
+
+(2)  A health department may implement the prescription procedure under Subsection (3) for prescription drugs, other than controlled substances, for use in clinics providing:
+
 (a)  sexually transmitted disease treatment;
+
 (b)  fluoride treatment; or
+
 (c)  travel immunization.
-(3)  The following prescription procedure shall be carried out in accordance
-with the requirements of Subsection (4) and may be used only in the clinics
-listed under Subsection (2):
-(a)  a physician writes and signs a prescription for prescription drugs, other
-than controlled substances, without the name and address of the patient and
-without the date the prescription is provided to the patient; and
-(b)  the physician authorizes a registered nurse employed by the health
-department to complete the prescription written under this Subsection (3) by
-inserting the patient's name and address, and the date the prescription is
-provided to the patient, in accordance with the physician's standing written
-orders and a written health department protocol approved by the physician and
-the medical director of the state Department of Health.
-(4)  When allowing prescriptions to be written under Subsection (3), the
-health department shall employ a physician who:
-(a)  assumes specific responsibility for all prescriptions issued in his name
-under the procedure in Subsection (3) by the health department; and
-(b)  enters into a written, signed agreement with the health department, which
-agreement is approved by the division and state:
-(i)  the terms and conditions under which the physician will prepare and sign
-prescriptions that do not include the name and address of the patient and the
-date the prescription is provided to the patient;
-(ii)  the methods which will be used to ensure the signed prescriptions are
-secure and not available for unauthorized use;
-(iii)  the minimum qualifications and training of a registered nurse
-authorized by the physician and department to complete and provide
-prescriptions to a patient;
-(iv)  under what conditions prescriptions completed by an authorized
-registered nurse will be provided to a patient in accordance with standing
-orders and written protocols, and the specific prescription drugs for which
-prescriptions may be written;
-(v)  the manner in which the physician will audit and review the records of
-patients receiving prescriptions; and
-(vi)  the manner in which records of prescriptions issued will be maintained
-for audit by the physician and division.
-(5)  The health department shall file and maintain with the division a current
-copy of all agreements signed by physicians under Subsection (4).
-(6) (a)  All prescription forms to be used by a physician and health
-department in accordance with this section shall be serially numbered
-according to a numbering system assigned to that health department.
-(b)  All prescriptions issued shall contain all information required under
-this chapter and rules adopted under this chapter.
+
+(3)  The following prescription procedure shall be carried out in accordance with the requirements of Subsection (4) and may be used only in the clinics listed under Subsection (2):
+
+(a)  a physician writes and signs a prescription for prescription drugs, other than controlled substances, without the name and address of the patient and without the date the prescription is provided to the patient; and
+
+(b)  the physician authorizes a registered nurse employed by the health department to complete the prescription written under this Subsection (3) by inserting the patient's name and address, and the date the prescription is provided to the patient, in accordance with the physician's standing written orders and a written health department protocol approved by the physician and the medical director of the state Department of Health.
+
+(4)  When allowing prescriptions to be written under Subsection (3), the health department shall employ a physician who:
+
+(a)  assumes specific responsibility for all prescriptions issued in his name under the procedure in Subsection (3) by the health department; and
+
+(b)  enters into a written, signed agreement with the health department, which agreement is approved by the division and state:
+
+(i)  the terms and conditions under which the physician will prepare and sign prescriptions that do not include the name and address of the patient and the date the prescription is provided to the patient;
+
+(ii)  the methods which will be used to ensure the signed prescriptions are secure and not available for unauthorized use;
+
+(iii)  the minimum qualifications and training of a registered nurse authorized by the physician and department to complete and provide prescriptions to a patient;
+
+(iv)  under what conditions prescriptions completed by an authorized registered nurse will be provided to a patient in accordance with standing orders and written protocols, and the specific prescription drugs for which prescriptions may be written;
+
+(v)  the manner in which the physician will audit and review the records of patients receiving prescriptions; and
+
+(vi)  the manner in which records of prescriptions issued will be maintained for audit by the physician and division.
+
+(5)  The health department shall file and maintain with the division a current copy of all agreements signed by physicians under Subsection (4).
+
+(6) (a)  All prescription forms to be used by a physician and health department in accordance with this section shall be serially numbered according to a numbering system assigned to that health department.
+
+(b)  All prescriptions issued shall contain all information required under this chapter and rules adopted under this chapter.
+

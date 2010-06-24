@@ -1,59 +1,36 @@
 57-16-6.   Action for lease termination -- Prerequisite procedure.
-A legal action to terminate a lease based upon a cause set forth in Section
-57-16-5 may not be commenced except in accordance with the following
-procedure:
-(1)  Before issuance of any summons and complaint, the mobile home park shall
-send or serve written notice to the resident or person:
+
+A legal action to terminate a lease based upon a cause set forth in Section 57-16-5 may not be commenced except in accordance with the following procedure:
+
+(1)  Before issuance of any summons and complaint, the mobile home park shall send or serve written notice to the resident or person:
+
 (a)  by delivering a copy of the notice personally;
-(b)  by sending a copy of the notice through registered or certified mail
-addressed to the resident or person at the person's place of residence;
-(c)  if the resident or person is absent from the person's place of residence,
-by leaving a copy of the notice with some person of suitable age and
-discretion at the individual's residence and sending a copy through registered
-or certified mail addressed to the resident or person at the person's place of
-residence; or
-(d)  if a person of suitable age or discretion cannot be found, by affixing a
-copy of the notice in a conspicuous place on the resident's or person's mobile
-home and also sending a copy through registered or certified mail addressed to
-the resident or person at the person's place of residence.
+
+(b)  by sending a copy of the notice through registered or certified mail addressed to the resident or person at the person's place of residence;
+
+(c)  if the resident or person is absent from the person's place of residence, by leaving a copy of the notice with some person of suitable age and discretion at the individual's residence and sending a copy through registered or certified mail addressed to the resident or person at the person's place of residence; or
+
+(d)  if a person of suitable age or discretion cannot be found, by affixing a copy of the notice in a conspicuous place on the resident's or person's mobile home and also sending a copy through registered or certified mail addressed to the resident or person at the person's place of residence.
+
 (2)  The notice required by Subsection (1) shall set forth:
-(a)  the cause for the notice and, if the cause is one which can be cured, the
-time within which the resident or person has to cure; and
-(b)  the time after which the mobile home park may commence legal action
-against the resident or person if cure is not effected, as follows:
-(i)  In the event of failure to abide by a mobile home park rule, the notice
-shall provide for a cure period as provided in Subsections 57-16-5(1)(a) and
-(2), except in the case of repeated violations and, shall state that if a cure
-is not timely effected, or a written agreement made between the mobile home
-park and the resident allowing for a variation in the rule or cure period,
-eviction proceedings may be initiated immediately.
-(ii)  If a resident, a member, or invited guest or visitor of the resident's
-household commits repeated violations of a rule, a summons and complaint may
-be issued three days after a notice is served.
-(iii)  If a resident, a member, or invited guest or visitor of the resident's
-household behaves in a manner that threatens or substantially endangers the
-well-being, security, safety, or health of other persons in the park or
-threatens or damages property in the park, eviction proceedings may commence
-immediately.
-(iv)  If a resident does not pay rent, fees, or service charges, the notice
-shall provide a five-day cure period and, that if cure is not timely effected,
-or a written agreement made between the mobile home park and the resident
-allowing for a variation in the rule or cure period, eviction proceedings may
-be initiated immediately.
-(v)  If a lease is terminated because of a planned change in land use or
-condemnation of the park or a portion of the park, the notice required by
-Section 57-16-18 serves as notice of the termination of the lease.
-(3) (a)  Eviction proceedings commenced under this chapter and based on causes
-set forth in Subsections 57-16-5(1)(a), (b), and (e) shall be brought in
-accordance with the Utah Rules of Civil Procedure and may not be treated as
-unlawful detainer actions under Title 78B, Chapter 6, Part 8, Forcible Entry
-and Detainer.
-(b)  Eviction proceedings commenced under this chapter and based on causes of
-action set forth in Subsections 57-16-5(1)(c) and (d)  may, at the election of
-the mobile home park, be treated as actions brought under this chapter and the
-unlawful detainer provisions of Title 78B, Chapter 6, Part 8, Forcible Entry
-and Detainer.
-(c)  If unlawful detainer is charged, the court shall endorse on the summons
-the number of days within which the defendant is required to appear and defend
-the action, which shall not be less than five days or more than 20 days from
-the date of service.
+
+(a)  the cause for the notice and, if the cause is one which can be cured, the time within which the resident or person has to cure; and
+
+(b)  the time after which the mobile home park may commence legal action against the resident or person if cure is not effected, as follows:
+
+(i)  In the event of failure to abide by a mobile home park rule, the notice shall provide for a cure period as provided in Subsections 57-16-5(1)(a) and (2), except in the case of repeated violations and, shall state that if a cure is not timely effected, or a written agreement made between the mobile home park and the resident allowing for a variation in the rule or cure period, eviction proceedings may be initiated immediately.
+
+(ii)  If a resident, a member, or invited guest or visitor of the resident's household commits repeated violations of a rule, a summons and complaint may be issued three days after a notice is served.
+
+(iii)  If a resident, a member, or invited guest or visitor of the resident's household behaves in a manner that threatens or substantially endangers the well-being, security, safety, or health of other persons in the park or threatens or damages property in the park, eviction proceedings may commence immediately.
+
+(iv)  If a resident does not pay rent, fees, or service charges, the notice shall provide a five-day cure period and, that if cure is not timely effected, or a written agreement made between the mobile home park and the resident allowing for a variation in the rule or cure period, eviction proceedings may be initiated immediately.
+
+(v)  If a lease is terminated because of a planned change in land use or condemnation of the park or a portion of the park, the notice required by Section 57-16-18 serves as notice of the termination of the lease.
+
+(3) (a)  Eviction proceedings commenced under this chapter and based on causes set forth in Subsections 57-16-5(1)(a), (b), and (e) shall be brought in accordance with the Utah Rules of Civil Procedure and may not be treated as unlawful detainer actions under Title 78B, Chapter 6, Part 8, Forcible Entry and Detainer.
+
+(b)  Eviction proceedings commenced under this chapter and based on causes of action set forth in Subsections 57-16-5(1)(c) and (d)  may, at the election of the mobile home park, be treated as actions brought under this chapter and the unlawful detainer provisions of Title 78B, Chapter 6, Part 8, Forcible Entry and Detainer.
+
+(c)  If unlawful detainer is charged, the court shall endorse on the summons the number of days within which the defendant is required to appear and defend the action, which shall not be less than five days or more than 20 days from the date of service.
+

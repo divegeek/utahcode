@@ -1,38 +1,36 @@
 70A-9a-323.   Future advances.
-(1)  Except as otherwise provided in Subsection (3), for purposes of
-determining the priority of a perfected security interest under Subsection
-70A-9a-322(1)(a), perfection of the security interest dates from the time an
-advance is made to the extent that the security interest secures an advance
-that:
+
+(1)  Except as otherwise provided in Subsection (3), for purposes of determining the priority of a perfected security interest under Subsection 70A-9a-322(1)(a), perfection of the security interest dates from the time an advance is made to the extent that the security interest secures an advance that:
+
 (a)  is made while the security interest is perfected only:
+
 (i)  under Section 70A-9a-309 when it attaches; or
+
 (ii)  temporarily under Subsection 70A-9a-312(5), (6), or (7); and
-(b)  is not made pursuant to a commitment entered into before or while the
-security interest is perfected by a method other than under Section 70A-9a-309
-or Subsection 70A-9a-312(5), (6), or (7).
-(2)  Except as otherwise provided in Subsection (3), a security interest is
-subordinate to the rights of a person that becomes a lien creditor to the
-extent that the security interest secures an advance made more than 45 days
-after the person becomes a lien creditor unless the advance is made:
+
+(b)  is not made pursuant to a commitment entered into before or while the security interest is perfected by a method other than under Section 70A-9a-309 or Subsection 70A-9a-312(5), (6), or (7).
+
+(2)  Except as otherwise provided in Subsection (3), a security interest is subordinate to the rights of a person that becomes a lien creditor to the extent that the security interest secures an advance made more than 45 days after the person becomes a lien creditor unless the advance is made:
+
 (a)  without knowledge of the lien; or
+
 (b)  pursuant to a commitment entered into without knowledge of the lien.
-(3)  Subsections (1) and (2) do not apply to a security interest held by a
-secured party that is a buyer of accounts, chattel paper, payment intangibles,
-or promissory notes or a consignor.
-(4)  Except as otherwise provided in Subsection (5), a buyer of goods other
-than a buyer in ordinary course of business takes free of a security interest
-to the extent that it secures advances made after the earlier of:
+
+(3)  Subsections (1) and (2) do not apply to a security interest held by a secured party that is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor.
+
+(4)  Except as otherwise provided in Subsection (5), a buyer of goods other than a buyer in ordinary course of business takes free of a security interest to the extent that it secures advances made after the earlier of:
+
 (a)  the time the secured party acquires knowledge of the buyer's purchase; or
+
 (b)  45 days after the purchase.
-(5)  Subsection (4) does not apply if the advance is made pursuant to a
-commitment entered into without knowledge of the buyer's purchase and before
-the expiration of the 45-day period.
-(6)  Except as otherwise provided in Subsection (7), a lessee of goods, other
-than a lessee in ordinary course of business, takes the leasehold interest
-free of a security interest to the extent that it secures advances made after
-the earlier of:
+
+(5)  Subsection (4) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the buyer's purchase and before the expiration of the 45-day period.
+
+(6)  Except as otherwise provided in Subsection (7), a lessee of goods, other than a lessee in ordinary course of business, takes the leasehold interest free of a security interest to the extent that it secures advances made after the earlier of:
+
 (a)  the time the secured party acquires knowledge of the lease; or
+
 (b)  45 days after the lease contract becomes enforceable.
-(7)  Subsection (6) does not apply if the advance is made pursuant to a
-commitment entered into without knowledge of the lease and before the
-expiration of the 45-day period.
+
+(7)  Subsection (6) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the lease and before the expiration of the 45-day period.
+

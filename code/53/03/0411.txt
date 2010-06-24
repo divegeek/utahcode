@@ -1,18 +1,30 @@
 53-3-411.   Description of CDL -- Information to be included.
-(1)  The CDL certificate shall be printed with the identifying words
-"Commercial Driver License" or "CDL".
-(2)  To the maximum extent practicable, the CDL certificate shall be resistant
-to alteration.
+
+(1)  The CDL certificate shall be printed with the identifying words "Commercial Driver License" or "CDL".
+
+(2)  To the maximum extent practicable, the CDL certificate shall be resistant to alteration.
+
 (3)  The CDL certificate shall include:
+
 (a)  the legal name and principal place of residence of the holder;
+
 (b)  the holder's photograph in color;
+
 (c)  a physical description of the holder, including sex and height;
+
 (d)  the holder's birth date;
+
 (e)  the holder's Utah license certificate number;
+
 (f)  the holder's signature;
-(g)  the class or type of commercial motor vehicle or vehicles the holder is
-authorized to drive;
+
+(g)  the class or type of commercial motor vehicle or vehicles the holder is authorized to drive;
+
 (h)  any endorsements or restrictions to which the holder is subject;
+
 (i)  the name of the issuing state; and
+
 (j)  the dates between which the CDL is valid.
+
 (4)  The CDL may not include the holder's Social Security number.
+

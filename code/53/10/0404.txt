@@ -1,123 +1,82 @@
-53-10-404 (Superseded 01/01/11).   DNA specimen analysis -- Requirement to
-obtain the specimen.
-(1)  As used in this section, "person" refers to any person described under
-Section 53-10-403.
-(2) (a)  A person under Section 53-10-403 or any person added to the sex
-offender register as defined in Section 77-27-21.5 shall provide a DNA
-specimen and shall reimburse the responsible agency $100 for the cost of
-obtaining the DNA specimen unless the agency determines the person lacks the
-ability to pay.
-(b) (i)  The responsible agencies shall establish guidelines and procedures
-for determining if the person is able to pay the fee.  An agency's
-implementation of Subsection (2)(b)(ii) meets an agency's obligation to
-determine an inmate's ability to pay.
-(ii)  An agency's guidelines and procedures may provide for the assessment of
-$100 on the inmate's county trust fund account and may allow a negative
-balance in the account until the $100 is paid in full.
-(3) (a)  All fees collected under Subsection (2) shall be deposited in the DNA
-Specimen Restricted Account created in Section 53-10-407, except that sheriffs
-collecting the fee shall deposit $80 of the fee in the DNA Specimen Restricted
-Account and retain the balance of $20 for the costs of obtaining the saliva
-DNA specimen.
-(b)  The responsible agency shall determine the method of collecting the DNA
-specimen.  Unless the responsible agency determines there are substantial
-reasons for using a different method of collection or the person refuses to
-cooperate with the collection, the preferred method of collection shall be
-obtaining a saliva specimen.
-(c)  The responsible agencies may use reasonable force, as established by
-their individual guidelines and procedures, to collect the DNA sample if the
-person refuses to cooperate with the collection.
-(d)  If the judgment places the person on probation, the person shall submit
-to the obtaining of a DNA specimen as a condition of the probation.
-(e)  Under this section a person is required to provide one DNA specimen.  The
-person shall provide an additional DNA specimen only if the DNA specimen
-previously provided is not adequate for analysis.
-(4) (a)  The responsible agency shall cause a DNA specimen to be obtained as
-soon as possible after conviction, plea, or finding of jurisdiction by the
-juvenile court, and transmitted to the Department of Public Safety.
-(b)  If notified by the Department of Public Safety that a DNA specimen is not
-adequate for analysis, the agency shall obtain and transmit an additional DNA
-specimen.
-(5) (a)  The Department of Corrections is the responsible agency whenever the
-person is committed to the custody of or is under the supervision of the
-Department of Corrections.
-(b)  The juvenile court is the responsible agency regarding a minor under
-Subsection 53-10-403(3), but if the minor has been committed to the legal
-custody of the Division of Juvenile Justice Services, that division is the
-responsible agency if a DNA specimen of the minor has not previously been
-obtained by the juvenile court under Section 78A-6-117.
-(c)  The sheriff operating a county jail is the responsible agency regarding
-the collection of DNA specimens from persons who:
-(i)  have pled guilty to or have been convicted of an offense listed under
-Subsection 53-10-403(2) but who have not been committed to the custody of or
-are not under the supervision of the Department of Corrections; and
+53-10-404 (Superseded 01/01/11).   DNA specimen analysis -- Requirement to obtain the specimen.
+
+(1)  As used in this section, "person" refers to any person described under Section 53-10-403.
+
+(2) (a)  A person under Section 53-10-403 or any person added to the sex offender register as defined in Section 77-27-21.5 shall provide a DNA specimen and shall reimburse the responsible agency $100 for the cost of obtaining the DNA specimen unless the agency determines the person lacks the ability to pay.
+
+(b) (i)  The responsible agencies shall establish guidelines and procedures for determining if the person is able to pay the fee.  An agency's implementation of Subsection (2)(b)(ii) meets an agency's obligation to determine an inmate's ability to pay.
+
+(ii)  An agency's guidelines and procedures may provide for the assessment of $100 on the inmate's county trust fund account and may allow a negative balance in the account until the $100 is paid in full.
+
+(3) (a)  All fees collected under Subsection (2) shall be deposited in the DNA Specimen Restricted Account created in Section 53-10-407, except that sheriffs collecting the fee shall deposit $80 of the fee in the DNA Specimen Restricted Account and retain the balance of $20 for the costs of obtaining the saliva DNA specimen.
+
+(b)  The responsible agency shall determine the method of collecting the DNA specimen.  Unless the responsible agency determines there are substantial reasons for using a different method of collection or the person refuses to cooperate with the collection, the preferred method of collection shall be obtaining a saliva specimen.
+
+(c)  The responsible agencies may use reasonable force, as established by their individual guidelines and procedures, to collect the DNA sample if the person refuses to cooperate with the collection.
+
+(d)  If the judgment places the person on probation, the person shall submit to the obtaining of a DNA specimen as a condition of the probation.
+
+(e)  Under this section a person is required to provide one DNA specimen.  The person shall provide an additional DNA specimen only if the DNA specimen previously provided is not adequate for analysis.
+
+(4) (a)  The responsible agency shall cause a DNA specimen to be obtained as soon as possible after conviction, plea, or finding of jurisdiction by the juvenile court, and transmitted to the Department of Public Safety.
+
+(b)  If notified by the Department of Public Safety that a DNA specimen is not adequate for analysis, the agency shall obtain and transmit an additional DNA specimen.
+
+(5) (a)  The Department of Corrections is the responsible agency whenever the person is committed to the custody of or is under the supervision of the Department of Corrections.
+
+(b)  The juvenile court is the responsible agency regarding a minor under Subsection 53-10-403(3), but if the minor has been committed to the legal custody of the Division of Juvenile Justice Services, that division is the responsible agency if a DNA specimen of the minor has not previously been obtained by the juvenile court under Section 78A-6-117.
+
+(c)  The sheriff operating a county jail is the responsible agency regarding the collection of DNA specimens from persons who:
+
+(i)  have pled guilty to or have been convicted of an offense listed under Subsection 53-10-403(2) but who have not been committed to the custody of or are not under the supervision of the Department of Corrections; and
+
 (ii)  are incarcerated in the county jail:
+
 (A)  as a condition of probation for a felony offense; or
-(B)  for a misdemeanor offense for which collection of a DNA specimen is
-required.
+
+(B)  for a misdemeanor offense for which collection of a DNA specimen is required.
+
 (d)  The sheriff under Subsection (5)(c) shall:
-(i)  designate employees to obtain the saliva DNA specimens required under
-Section 53-10-403; and
-(ii)  ensure that employees designated to collect the DNA specimens receive
-appropriate training and that the specimens are obtained in accordance with
-accepted protocol.
-(6) (a)  As used in this Subsection (6), "department" means the Department of
-Corrections.
+
+(i)  designate employees to obtain the saliva DNA specimens required under Section 53-10-403; and
+
+(ii)  ensure that employees designated to collect the DNA specimens receive appropriate training and that the specimens are obtained in accordance with accepted protocol.
+
+(6) (a)  As used in this Subsection (6), "department" means the Department of Corrections.
+
 (b)  Priority of obtaining DNA specimens by the department is:
-(i)  first, to obtain DNA specimens of persons who as of July 1, 2002, are in
-the custody of or under the supervision of the department before these persons
-are released from incarceration, parole, or probation, if their release date
-is prior to that of persons under Subsections (6)(b)(ii), but in no case later
-than July 1, 2004; and
-(ii)  second, the department shall obtain DNA specimens from persons who are
-committed to the custody of the department or who are placed under the
-supervision of the department after July 1, 2002, within 120 days after the
-commitment, if possible, but not later than prior to release from
-incarceration if the person is imprisoned, or prior to the termination of
-probation if the person is placed on probation.
-(c)  The priority for obtaining DNA specimens from persons under Subsection
-(6)(b)(ii) is:
+
+(i)  first, to obtain DNA specimens of persons who as of July 1, 2002, are in the custody of or under the supervision of the department before these persons are released from incarceration, parole, or probation, if their release date is prior to that of persons under Subsections (6)(b)(ii), but in no case later than July 1, 2004; and
+
+(ii)  second, the department shall obtain DNA specimens from persons who are committed to the custody of the department or who are placed under the supervision of the department after July 1, 2002, within 120 days after the commitment, if possible, but not later than prior to release from incarceration if the person is imprisoned, or prior to the termination of probation if the person is placed on probation.
+
+(c)  The priority for obtaining DNA specimens from persons under Subsection (6)(b)(ii) is:
+
 (i)  persons on probation;
+
 (ii)  persons on parole; and
+
 (iii)  incarcerated persons.
-(d)  Implementation of the schedule of priority under Subsection (6)(c) is
-subject to the priority of Subsection (6)(b)(i), to ensure that the Department
-of Corrections obtains DNA specimens from persons in the custody of or under
-the supervision of the Department of Corrections as of July 1, 2002, prior to
-their release.
-(7) (a)  As used in this Subsection (7), "court" means the juvenile court and
-"division" means the Division of Juvenile Justice Services.
-(b)  Priority of obtaining DNA specimens by the court from minors under
-Section 53-10-403 who are under the jurisdiction of the court but who are not
-in the legal custody of the division shall be:
-(i)  first, to obtain specimens from minors who as of July 1, 2002, are within
-the court's jurisdiction, prior to termination of the court's jurisdiction
-over these minors; and
-(ii)  second, to obtain specimens from minors who are found to be within the
-court's jurisdiction after July 1, 2002, within 120 days of the minor's being
-found to be within the court's jurisdiction, if possible, but not later than
-prior to termination of the court's jurisdiction over the minor.
-(c)  Priority of obtaining DNA specimens by the division from minors under
-Section 53-10-403 who are committed to the legal custody of the division shall
-be:
-(i)  first, to obtain specimens from minors who as of July 1, 2002, are within
-the division's legal custody and who have not previously provided a DNA
-specimen under this section, prior to termination of the division's legal
-custody of these minors; and
-(ii)  second, to obtain specimens from minors who are placed in the legal
-custody of the division after July 1, 2002, within 120 days of the minor's
-being placed in the custody of the division, jurisdiction, if possible, but
-not later than prior to termination of the court's jurisdiction over the
-minor.
-(8) (a)  The Department of Corrections, the juvenile court, and the Division
-of Juvenile Justice Services shall by policy establish procedures for
-obtaining saliva DNA specimens, and shall provide training for employees
-designated to collect saliva DNA specimens.
-(b)  The department may designate correctional officers, including those
-employed by the adult probation and parole section of the Department of
-Corrections, to obtain the saliva DNA specimens required under this section.
-The department shall ensure that the designated employees receive appropriate
-training and that the specimens are obtained in accordance with accepted
-protocol.
-(c)  Blood DNA specimens shall be obtained in accordance with Section
-53-10-405.
+
+(d)  Implementation of the schedule of priority under Subsection (6)(c) is subject to the priority of Subsection (6)(b)(i), to ensure that the Department of Corrections obtains DNA specimens from persons in the custody of or under the supervision of the Department of Corrections as of July 1, 2002, prior to their release.
+
+(7) (a)  As used in this Subsection (7), "court" means the juvenile court and "division" means the Division of Juvenile Justice Services.
+
+(b)  Priority of obtaining DNA specimens by the court from minors under Section 53-10-403 who are under the jurisdiction of the court but who are not in the legal custody of the division shall be:
+
+(i)  first, to obtain specimens from minors who as of July 1, 2002, are within the court's jurisdiction, prior to termination of the court's jurisdiction over these minors; and
+
+(ii)  second, to obtain specimens from minors who are found to be within the court's jurisdiction after July 1, 2002, within 120 days of the minor's being found to be within the court's jurisdiction, if possible, but not later than prior to termination of the court's jurisdiction over the minor.
+
+(c)  Priority of obtaining DNA specimens by the division from minors under Section 53-10-403 who are committed to the legal custody of the division shall be:
+
+(i)  first, to obtain specimens from minors who as of July 1, 2002, are within the division's legal custody and who have not previously provided a DNA specimen under this section, prior to termination of the division's legal custody of these minors; and
+
+(ii)  second, to obtain specimens from minors who are placed in the legal custody of the division after July 1, 2002, within 120 days of the minor's being placed in the custody of the division, jurisdiction, if possible, but not later than prior to termination of the court's jurisdiction over the minor.
+
+(8) (a)  The Department of Corrections, the juvenile court, and the Division of Juvenile Justice Services shall by policy establish procedures for obtaining saliva DNA specimens, and shall provide training for employees designated to collect saliva DNA specimens.
+
+(b)  The department may designate correctional officers, including those employed by the adult probation and parole section of the Department of Corrections, to obtain the saliva DNA specimens required under this section.  The department shall ensure that the designated employees receive appropriate training and that the specimens are obtained in accordance with accepted protocol.
+
+(c)  Blood DNA specimens shall be obtained in accordance with Section 53-10-405.
+

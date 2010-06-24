@@ -1,21 +1,12 @@
-70A-9a-508.   Effectiveness of financing statement if new debtor becomes
-bound by security agreement.
-(1)  Except as otherwise provided in this section, a filed financing statement
-naming an original debtor is effective to perfect a security interest in
-collateral in which a new debtor has or acquires rights to the extent that the
-financing statement would have been effective had the original debtor acquired
-rights in the collateral.
-(2)  If the difference between the name of the original debtor and that of the
-new debtor causes a filed financing statement that is effective under
-Subsection (1) to be seriously misleading under Section 70A-9a-506:
-(a)  the financing statement is effective to perfect a security interest in
-collateral acquired by the new debtor before, and within four months after,
-the new debtor becomes bound under Subsection 70A-9a-203(4); and
-(b)  the financing statement is not effective to perfect a security interest
-in collateral acquired by the new debtor more than four months after the new
-debtor becomes bound under Subsection 70A-9a-203(4) unless an initial
-financing statement providing the name of the new debtor is filed before the
-expiration of that time.
-(3)  This section does not apply to collateral as to which a filed financing
-statement remains effective against the new debtor under Subsection 70A-
-9a-507(1).
+70A-9a-508.   Effectiveness of financing statement if new debtor becomes bound by security agreement.
+
+(1)  Except as otherwise provided in this section, a filed financing statement naming an original debtor is effective to perfect a security interest in collateral in which a new debtor has or acquires rights to the extent that the financing statement would have been effective had the original debtor acquired rights in the collateral.
+
+(2)  If the difference between the name of the original debtor and that of the new debtor causes a filed financing statement that is effective under Subsection (1) to be seriously misleading under Section 70A-9a-506:
+
+(a)  the financing statement is effective to perfect a security interest in collateral acquired by the new debtor before, and within four months after, the new debtor becomes bound under Subsection 70A-9a-203(4); and
+
+(b)  the financing statement is not effective to perfect a security interest in collateral acquired by the new debtor more than four months after the new debtor becomes bound under Subsection 70A-9a-203(4) unless an initial financing statement providing the name of the new debtor is filed before the expiration of that time.
+
+(3)  This section does not apply to collateral as to which a filed financing statement remains effective against the new debtor under Subsection 70A-9a-507(1).
+

@@ -1,63 +1,58 @@
 63F-1-206.   Rulemaking -- Policies.
-(1) (a)  Except as provided in Subsection (2), in accordance with Title 63G,
-Chapter 3, Utah Administrative Rulemaking Act, the chief information officer
-shall make rules that:
-(i)  provide standards that impose requirements on executive branch agencies
-that:
+
+(1) (a)  Except as provided in Subsection (2), in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the chief information officer shall make rules that:
+
+(i)  provide standards that impose requirements on executive branch agencies that:
+
 (A)  are related to the security of the statewide area network; and
-(B)  establish standards for when an agency must obtain approval before
-obtaining items listed in Subsection 63F-1-205(1);
-(ii)  specify the detail and format required in an agency information
-technology plan submitted in accordance with Section 63F-1-204;
-(iii)  provide for standards related to the privacy policies of websites
-operated by or on behalf of an executive branch agency;
+
+(B)  establish standards for when an agency must obtain approval before obtaining items listed in Subsection 63F-1-205(1);
+
+(ii)  specify the detail and format required in an agency information technology plan submitted in accordance with Section 63F-1-204;
+
+(iii)  provide for standards related to the privacy policies of websites operated by or on behalf of an executive branch agency;
+
 (iv)  provide for the acquisition, licensing, and sale of computer software;
-(v)  specify the requirements for the project plan and business case analysis
-required by Section 63F-1-205;
-(vi)  provide for project oversight of agency technology projects when
-required by Section 63F-1-205;
-(vii)  establish, in accordance with Subsection 63F-1-205(2), the
-implementation of the needs assessment for information technology purchases;
-and
-(viii)  establish telecommunications standards and specifications in
-accordance with Section 63F-1-404.
-(b)  The rulemaking authority in this Subsection (1) is in addition to any
-other rulemaking authority granted by this title.
-(2) (a)  Notwithstanding Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, and subject to Subsection (2)(b), the chief information officer may adopt
-a policy that outlines procedures to be followed by the chief information
-officer in facilitating the implementation of this title by executive branch
-agencies if the policy:
+
+(v)  specify the requirements for the project plan and business case analysis required by Section 63F-1-205;
+
+(vi)  provide for project oversight of agency technology projects when required by Section 63F-1-205;
+
+(vii)  establish, in accordance with Subsection 63F-1-205(2), the implementation of the needs assessment for information technology purchases; and
+
+(viii)  establish telecommunications standards and specifications in accordance with Section 63F-1-404.
+
+(b)  The rulemaking authority in this Subsection (1) is in addition to any other rulemaking authority granted by this title.
+
+(2) (a)  Notwithstanding Title 63G, Chapter 3, Utah Administrative Rulemaking Act, and subject to Subsection (2)(b), the chief information officer may adopt a policy that outlines procedures to be followed by the chief information officer in facilitating the implementation of this title by executive branch agencies if the policy:
+
 (i)  is consistent with the executive branch strategic plan; and
-(ii)  is not required to be made by rule under Subsection (1) or Section
-63G-3-201.
-(b) (i)  A policy adopted by the chief information officer under Subsection
-(2)(a) may not take effect until 30 days after the day on which the chief
-information officer submits the policy to:
+
+(ii)  is not required to be made by rule under Subsection (1) or Section 63G-3-201.
+
+(b) (i)  A policy adopted by the chief information officer under Subsection (2)(a) may not take effect until 30 days after the day on which the chief information officer submits the policy to:
+
 (A)  the governor; and
+
 (B)  all cabinet level officials.
-(ii)  During the 30-day period described in Subsection (2)(b)(i), cabinet
-level officials may review and comment on a policy submitted under Subsection
-(2)(b)(i).
-(3) (a)  Notwithstanding Subsection (1) or (2) or Title 63G, Chapter 3, Utah
-Administrative Rulemaking Act, without following the procedures of Subsection
-(1) or (2), the chief information officer may adopt a security procedure to be
-followed by executive branch agencies to protect the statewide area network
-if:
-(i)  broad communication of the security procedure would create a significant
-potential for increasing the vulnerability of the statewide area network to
-breach or attack; and
-(ii)  after consultation with the chief information officer, the governor
-agrees that broad communication of the security procedure would create a
-significant potential increase in the vulnerability of the statewide area
-network to breach or attack.
-(b)  A security procedure described in Subsection (3)(a) is classified as a
-protected record under Title 63G, Chapter 2, Government Records Access and
-Management Act.
-(c)  The chief information officer shall provide a copy of the security
-procedure as a protected record to:
+
+(ii)  During the 30-day period described in Subsection (2)(b)(i), cabinet level officials may review and comment on a policy submitted under Subsection (2)(b)(i).
+
+(3) (a)  Notwithstanding Subsection (1) or (2) or Title 63G, Chapter 3, Utah Administrative Rulemaking Act, without following the procedures of Subsection (1) or (2), the chief information officer may adopt a security procedure to be followed by executive branch agencies to protect the statewide area network if:
+
+(i)  broad communication of the security procedure would create a significant potential for increasing the vulnerability of the statewide area network to breach or attack; and
+
+(ii)  after consultation with the chief information officer, the governor agrees that broad communication of the security procedure would create a significant potential increase in the vulnerability of the statewide area network to breach or attack.
+
+(b)  A security procedure described in Subsection (3)(a) is classified as a protected record under Title 63G, Chapter 2, Government Records Access and Management Act.
+
+(c)  The chief information officer shall provide a copy of the security procedure as a protected record to:
+
 (i)  the chief justice of the Utah Supreme Court for the judicial branch;
-(ii)  the speaker of the House of Representatives and the president of the
-Senate for the legislative branch;
+
+(ii)  the speaker of the House of Representatives and the president of the Senate for the legislative branch;
+
 (iii)  the chair of the Board of Regents; and
+
 (iv)  the chair of the State Board of Education.
+

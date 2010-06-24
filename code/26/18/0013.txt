@@ -1,24 +1,28 @@
 26-18-13.   Telemedicine -- Reimbursement -- Rulemaking.
-(1) (a)  On or after July 1, 2008, communication by telemedicine is considered
-face to face contact between a health care provider and a patient under the
-state's medical assistance program if:
-(i)  the communication by telemedicine meets the requirements of
-administrative rules adopted in accordance with Subsection (3); and
-(ii)  the health care services are eligible for reimbursement under the
-state's medical assistance program.
-(b)  This Subsection (1) applies to any managed care organization that
-contracts with the state's medical assistance program.
-(2)  The reimbursement rate for telemedicine services approved under this
-section:
+
+(1) (a)  On or after July 1, 2008, communication by telemedicine is considered face to face contact between a health care provider and a patient under the state's medical assistance program if:
+
+(i)  the communication by telemedicine meets the requirements of administrative rules adopted in accordance with Subsection (3); and
+
+(ii)  the health care services are eligible for reimbursement under the state's medical assistance program.
+
+(b)  This Subsection (1) applies to any managed care organization that contracts with the state's medical assistance program.
+
+(2)  The reimbursement rate for telemedicine services approved under this section:
+
 (a)  shall be subject to reimbursement policies set by the state plan; and
+
 (b)  may be based on:
+
 (i)  a monthly reimbursement rate;
+
 (ii)  a daily reimbursement rate; or
+
 (iii)  an encounter rate.
-(3)  The department shall adopt administrative rules in accordance with Title
-63G, Chapter 3, Utah Administrative Rulemaking Act, which establish:
-(a)  the particular telemedicine services that are considered face to face
-encounters for reimbursement purposes under the state's medical assistance
-program; and
-(b)  the reimbursement methodology for the telemedicine services designated
-under Subsection (3)(a).
+
+(3)  The department shall adopt administrative rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, which establish:
+
+(a)  the particular telemedicine services that are considered face to face encounters for reimbursement purposes under the state's medical assistance program; and
+
+(b)  the reimbursement methodology for the telemedicine services designated under Subsection (3)(a).
+

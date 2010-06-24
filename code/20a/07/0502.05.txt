@@ -1,67 +1,44 @@
-20A-7-502.5.   Initial fiscal impact estimate -- Preparation of estimate --
-Challenge to estimate.
-(1)  Within three working days of receipt of an application for an initiative
-petition, the local clerk shall submit a copy of the application to the budget
-officer.
-(2) (a)  The budget officer shall prepare an unbiased, good faith estimate of
-the fiscal impact of the law proposed by the initiative that contains:
-(i)  a dollar amount representing the total estimated fiscal impact of the
-proposed law;
-(ii)  if the proposed law would increase or decrease taxes, a dollar amount
-representing the total estimated increase or decrease for each type of tax
-affected under the proposed law and a dollar amount representing the total
-estimated increase or decrease in taxes under the proposed law;
-(iii)  if the proposed law would result in the issuance or a change in the
-status of bonds, notes, or other debt instruments, a dollar amount
-representing the total estimated increase or decrease in public debt under the
-proposed law;
-(iv)  a listing of all sources of funding for the estimated costs associated
-with the proposed law showing each source of funding and the percentage of
-total funding provided from each source;
-(v)  a dollar amount representing the estimated costs or savings, if any, to
-state and local government entities under the proposed law; and
-(vi)  a concise explanation, not exceeding 100 words, of the above information
-and of the estimated fiscal impact, if any, under the proposed law.
-(b) (i)  If the proposed law is estimated to have no fiscal impact, the local
-budget officer shall include a summary statement in the initial fiscal impact
-statement in substantially the following form:
-"The (title of the local budget officer) estimates that the law proposed by
-this initiative would have no significant fiscal impact and would not result
-in either an increase or decrease in taxes or debt."
-(ii)  If the proposed law is estimated to have a fiscal impact, the local
-budget officer shall include a summary statement in the initial fiscal impact
-estimate in substantially the following form:
-"The (title of the local budget officer) estimates that the law proposed by
-this initiative would result in a total fiscal expense/savings of $______,
-which includes a (type of tax or taxes) tax increase/decrease of $______ and a
-$______ increase/decrease in public debt."
-(iii)  If the estimated fiscal impact of the proposed law is highly variable
-or is otherwise difficult to reasonably express in a summary statement, the
-local budget officer may include in the summary statement a brief explanation
-that identifies those factors affecting the variability or difficulty of the
-estimate.
-(3)  Within 25 calendar days from the date that the local clerk delivers a
-copy of the application, the budget officer shall:
-(a)  deliver a copy of the initial fiscal impact estimate to the local clerk's
-office; and
-(b)  mail a copy of the initial fiscal impact estimate to the first five
-sponsors named in the application.
-(4) (a)  Three or more of the sponsors of the petition may, within 20 calendar
-days of the date of delivery of the initial fiscal impact estimate to the
-local clerk's office, file a petition with the Supreme Court, alleging that
-the initial fiscal impact estimate, taken as a whole, is an inaccurate
-estimate of the fiscal impact of the initiative.
-(b) (i)  There is a presumption that the initial fiscal impact estimate
-prepared by the budget officer is based upon reasonable assumptions, uses
-reasonable data, and applies accepted analytical methods to present the
-estimated fiscal impact of the initiative.
-(ii)  The Supreme Court may not revise the contents of, or direct the revision
-of, the initial fiscal impact estimate unless the plaintiffs rebut the
-presumption by clear and convincing evidence that establishes that the fiscal
-estimate, taken as a whole, is an inaccurate statement of the estimated fiscal
-impact of the initiative.
-(iii)  The Supreme Court may refer an issue related to the initial fiscal
-impact estimate to a master to examine the issue and make a report in
-accordance with Utah Rules of Civil Procedure, Rule 53.
-(c)  The Supreme Court shall certify to the local clerk an initial fiscal
-impact estimate for the measure that meets the requirements of this section.
+20A-7-502.5.   Initial fiscal impact estimate -- Preparation of estimate -- Challenge to estimate.
+
+(1)  Within three working days of receipt of an application for an initiative petition, the local clerk shall submit a copy of the application to the budget officer.
+
+(2) (a)  The budget officer shall prepare an unbiased, good faith estimate of the fiscal impact of the law proposed by the initiative that contains:
+
+(i)  a dollar amount representing the total estimated fiscal impact of the proposed law;
+
+(ii)  if the proposed law would increase or decrease taxes, a dollar amount representing the total estimated increase or decrease for each type of tax affected under the proposed law and a dollar amount representing the total estimated increase or decrease in taxes under the proposed law;
+
+(iii)  if the proposed law would result in the issuance or a change in the status of bonds, notes, or other debt instruments, a dollar amount representing the total estimated increase or decrease in public debt under the proposed law;
+
+(iv)  a listing of all sources of funding for the estimated costs associated with the proposed law showing each source of funding and the percentage of total funding provided from each source;
+
+(v)  a dollar amount representing the estimated costs or savings, if any, to state and local government entities under the proposed law; and
+
+(vi)  a concise explanation, not exceeding 100 words, of the above information and of the estimated fiscal impact, if any, under the proposed law.
+
+(b) (i)  If the proposed law is estimated to have no fiscal impact, the local budget officer shall include a summary statement in the initial fiscal impact statement in substantially the following form:
+
+"The (title of the local budget officer) estimates that the law proposed by this initiative would have no significant fiscal impact and would not result in either an increase or decrease in taxes or debt."
+
+(ii)  If the proposed law is estimated to have a fiscal impact, the local budget officer shall include a summary statement in the initial fiscal impact estimate in substantially the following form:
+
+"The (title of the local budget officer) estimates that the law proposed by this initiative would result in a total fiscal expense/savings of $______, which includes a (type of tax or taxes) tax increase/decrease of $______ and a $______ increase/decrease in public debt."
+
+(iii)  If the estimated fiscal impact of the proposed law is highly variable or is otherwise difficult to reasonably express in a summary statement, the local budget officer may include in the summary statement a brief explanation that identifies those factors affecting the variability or difficulty of the estimate.
+
+(3)  Within 25 calendar days from the date that the local clerk delivers a copy of the application, the budget officer shall:
+
+(a)  deliver a copy of the initial fiscal impact estimate to the local clerk's office; and
+
+(b)  mail a copy of the initial fiscal impact estimate to the first five sponsors named in the application.
+
+(4) (a)  Three or more of the sponsors of the petition may, within 20 calendar days of the date of delivery of the initial fiscal impact estimate to the local clerk's office, file a petition with the Supreme Court, alleging that the initial fiscal impact estimate, taken as a whole, is an inaccurate estimate of the fiscal impact of the initiative.
+
+(b) (i)  There is a presumption that the initial fiscal impact estimate prepared by the budget officer is based upon reasonable assumptions, uses reasonable data, and applies accepted analytical methods to present the estimated fiscal impact of the initiative.
+
+(ii)  The Supreme Court may not revise the contents of, or direct the revision of, the initial fiscal impact estimate unless the plaintiffs rebut the presumption by clear and convincing evidence that establishes that the fiscal estimate, taken as a whole, is an inaccurate statement of the estimated fiscal impact of the initiative.
+
+(iii)  The Supreme Court may refer an issue related to the initial fiscal impact estimate to a master to examine the issue and make a report in accordance with Utah Rules of Civil Procedure, Rule 53.
+
+(c)  The Supreme Court shall certify to the local clerk an initial fiscal impact estimate for the measure that meets the requirements of this section.
+

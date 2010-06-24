@@ -1,32 +1,22 @@
-59-18-105.   Trustee's fiduciary obligations and duty not to deprive trust
-of tax exemption, deduction or credit.
-(1)  In the exercise of his powers including the powers granted by this
-chapter, a trustee has a duty to act with due regard to his obligation as a
-fiduciary, including a duty not to exercise any power in such a way as to
-deprive the trust of an otherwise available tax exemption, deduction, or
-credit for tax purposes or deprive a donor of a trust asset of a tax deduction
-or credit or operate to impose a tax upon a donor, trust, or other person.
-The word "tax" includes, but is not limited to any federal, state, or local
-excise, income, gift, estate, or inheritance tax.
-(2)  A trustee of a private foundation trust, except as provided in Section
-59-18-106, shall make distributions at such time and in such manner as not to
-subject the trust to tax under Section 4942.
-(3)  A trustee of a private foundation trust or a split interest trust, to the
-extent that the split interest trust is subject to the provisions of Section
-4947(a)(2), in the exercise of his powers, except as provided in Subsection
-(4) of this section and Section 59-18-106, shall not:
+59-18-105.   Trustee's fiduciary obligations and duty not to deprive trust of tax exemption, deduction or credit.
+
+(1)  In the exercise of his powers including the powers granted by this chapter, a trustee has a duty to act with due regard to his obligation as a fiduciary, including a duty not to exercise any power in such a way as to deprive the trust of an otherwise available tax exemption, deduction, or credit for tax purposes or deprive a donor of a trust asset of a tax deduction or credit or operate to impose a tax upon a donor, trust, or other person.  The word "tax" includes, but is not limited to any federal, state, or local excise, income, gift, estate, or inheritance tax.
+
+(2)  A trustee of a private foundation trust, except as provided in Section 59-18-106, shall make distributions at such time and in such manner as not to subject the trust to tax under Section 4942.
+
+(3)  A trustee of a private foundation trust or a split interest trust, to the extent that the split interest trust is subject to the provisions of Section 4947(a)(2), in the exercise of his powers, except as provided in Subsection (4) of this section and Section 59-18-106, shall not:
+
 (a)  engage in any act of self dealing (as defined in Section 4941(d));
+
 (b)  retain any excess business holdings (as defined in Section 4943(c));
-(c)  make any investments in such manner as to subject the foundation to tax
-under Section 4944; and
+
+(c)  make any investments in such manner as to subject the foundation to tax under Section 4944; and
+
 (d)  make any taxable expenditures (as defined in Section 4945(d)).
+
 (4)  Subsections (3)(b) and (c) do not apply to a split interest trust if:
-(a)  all the income interest (and none of the remainder interest) of such
-trust is devoted solely to one or more of the purposes described in Section
-170(c)(2)(B), and all amounts in such trust for which a deduction was allowed
-under Section 170, 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522
-have aggregate fair market value not more than 60% of the aggregate fair
-market value of all amounts in such trust; or
-(b)  a deduction was allowed under Section 170, 545(b)(2), 556(b)(2), 642(c),
-2055, 2106(a)(2), or 2522 for amounts payable under the terms of such trust to
-every remainder beneficiary but not to any income beneficiary.
+
+(a)  all the income interest (and none of the remainder interest) of such trust is devoted solely to one or more of the purposes described in Section 170(c)(2)(B), and all amounts in such trust for which a deduction was allowed under Section 170, 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522 have aggregate fair market value not more than 60% of the aggregate fair market value of all amounts in such trust; or
+
+(b)  a deduction was allowed under Section 170, 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522 for amounts payable under the terms of such trust to every remainder beneficiary but not to any income beneficiary.
+

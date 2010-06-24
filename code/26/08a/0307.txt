@@ -1,13 +1,10 @@
 26-8a-307.   Patient destination.
-(1)  If an individual being transported by a ground or air ambulance is in
-critical or unstable condition, the ground or air ambulance shall transport
-the patient to the trauma center or closest emergency patient receiving
-facility appropriate to adequately treat the patient.
-(2)  If the patient's condition is not critical or unstable as determined by
-medical control, the ground or air ambulance may transport the patient to the:
-(a)  hospital, emergency patient receiving facility, or other medical provider
-chosen by the patient and approved by medical control as appropriate for the
-patient's condition and needs; or
-(b)  nearest hospital, emergency patient receiving facility, or other medical
-provider approved by medical control as appropriate for the patient's
-condition and needs if the patient expresses no preference.
+
+(1)  If an individual being transported by a ground or air ambulance is in critical or unstable condition, the ground or air ambulance shall transport the patient to the trauma center or closest emergency patient receiving facility appropriate to adequately treat the patient.
+
+(2)  If the patient's condition is not critical or unstable as determined by medical control, the ground or air ambulance may transport the patient to the:
+
+(a)  hospital, emergency patient receiving facility, or other medical provider chosen by the patient and approved by medical control as appropriate for the patient's condition and needs; or
+
+(b)  nearest hospital, emergency patient receiving facility, or other medical provider approved by medical control as appropriate for the patient's condition and needs if the patient expresses no preference.
+

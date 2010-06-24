@@ -1,134 +1,140 @@
 53A-1-301 (Superseded 10/01/10).   Appointment -- Qualifications -- Duties.
-(1) (a)  The State Board of Education shall appoint a superintendent of public
-instruction, hereinafter called the state superintendent, who is the executive
-officer of the board and serves at the pleasure of the board.
-(b)  The board shall appoint the state superintendent on the basis of
-outstanding professional qualifications.
-(c)  The state superintendent shall administer all programs assigned to the
-State Board of Education in accordance with the policies and the standards
-established by the board.
-(2)  The superintendent shall develop a statewide education strategy focusing
-on core academics, including the development of:
+
+(1) (a)  The State Board of Education shall appoint a superintendent of public instruction, hereinafter called the state superintendent, who is the executive officer of the board and serves at the pleasure of the board.
+
+(b)  The board shall appoint the state superintendent on the basis of outstanding professional qualifications.
+
+(c)  The state superintendent shall administer all programs assigned to the State Board of Education in accordance with the policies and the standards established by the board.
+
+(2)  The superintendent shall develop a statewide education strategy focusing on core academics, including the development of:
+
 (a)  core curriculum and graduation requirements;
-(b)  a process to select instructional materials that best correlate to the
-core curriculum and graduation requirements that are supported by generally
-accepted scientific standards of evidence;
-(c)  professional development programs for teachers, superintendents, and
-principals;
+
+(b)  a process to select instructional materials that best correlate to the core curriculum and graduation requirements that are supported by generally accepted scientific standards of evidence;
+
+(c)  professional development programs for teachers, superintendents, and principals;
+
 (d)  remediation programs;
-(e)  a method for creating individual student learning targets, and a method
-of measuring an individual student's performance toward those targets;
-(f)  progress-based assessments for ongoing performance evaluations of
-districts and schools;
-(g)  incentives to achieve the desired outcome of individual student progress
-in core academics, and which do not create disincentives for setting high
-goals for the students;
-(h)  an annual report card for school and district performance, measuring
-learning and reporting progress-based assessments;
-(i)  a systematic method to encourage innovation in schools and school
-districts as they strive to achieve improvement in their performance; and
-(j)  a method for identifying and sharing best demonstrated practices across
-districts and schools.
-(3)  The superintendent shall perform duties assigned by the board, including
-the following:
+
+(e)  a method for creating individual student learning targets, and a method of measuring an individual student's performance toward those targets;
+
+(f)  progress-based assessments for ongoing performance evaluations of districts and schools;
+
+(g)  incentives to achieve the desired outcome of individual student progress in core academics, and which do not create disincentives for setting high goals for the students;
+
+(h)  an annual report card for school and district performance, measuring learning and reporting progress-based assessments;
+
+(i)  a systematic method to encourage innovation in schools and school districts as they strive to achieve improvement in their performance; and
+
+(j)  a method for identifying and sharing best demonstrated practices across districts and schools.
+
+(3)  The superintendent shall perform duties assigned by the board, including the following:
+
 (a)  investigating all matters pertaining to the public schools;
-(b)  adopting and keeping an official seal to authenticate the
-superintendent's official acts;
-(c)  holding and conducting meetings, seminars, and conferences on educational
-topics;
-(d)  presenting to the governor and the Legislature each December a report of
-the public school system for the preceding year to include:
-(i)  data on the general condition of the schools with recommendations
-considered desirable for specific programs;
+
+(b)  adopting and keeping an official seal to authenticate the superintendent's official acts;
+
+(c)  holding and conducting meetings, seminars, and conferences on educational topics;
+
+(d)  presenting to the governor and the Legislature each December a report of the public school system for the preceding year to include:
+
+(i)  data on the general condition of the schools with recommendations considered desirable for specific programs;
+
 (ii)  a complete statement of fund balances;
+
 (iii)  a complete statement of revenues by fund and source;
-(iv)  a complete statement of adjusted expenditures by fund, the status of
-bonded indebtedness, the cost of new school plants, and school levies;
-(v)  a complete statement of state funds allocated to each school district and
-charter school by source, including supplemental appropriations, and a
-complete statement of expenditures by each school district and charter school,
-including supplemental appropriations, by function and object as outlined in
-the U.S. Department of Education publication "Financial Accounting for Local
-and State School Systems";
-(vi)  a complete statement, by school district and charter school, of the
-amount of and percentage increase or decrease in expenditures from the
-previous year attributed to:
-(A)  wage increases, with expenditure data for base salary adjustments
-identified separately from step and lane expenditures;
+
+(iv)  a complete statement of adjusted expenditures by fund, the status of bonded indebtedness, the cost of new school plants, and school levies;
+
+(v)  a complete statement of state funds allocated to each school district and charter school by source, including supplemental appropriations, and a complete statement of expenditures by each school district and charter school, including supplemental appropriations, by function and object as outlined in the U.S. Department of Education publication "Financial Accounting for Local and State School Systems";
+
+(vi)  a complete statement, by school district and charter school, of the amount of and percentage increase or decrease in expenditures from the previous year attributed to:
+
+(A)  wage increases, with expenditure data for base salary adjustments identified separately from step and lane expenditures;
+
 (B)  medical and dental premium cost adjustments; and
+
 (C)  adjustments in the number of teachers and other staff;
-(vii)  a statement that includes data on fall enrollments, average membership,
-high school graduates, licensed and classified employees, pupil-teacher
-ratios, average class sizes calculated in accordance with State Board of
-Education rules adopted under Subsection 53A-3-602.5(4), average salaries,
-applicable private school data, and data from standardized norm-referenced
-tests in grades 5, 8, and 11 on each school and district;
-(viii)  statistical information regarding incidents of delinquent activity in
-the schools or at school-related activities with separate categories for:
+
+(vii)  a statement that includes data on fall enrollments, average membership, high school graduates, licensed and classified employees, pupil-teacher ratios, average class sizes calculated in accordance with State Board of Education rules adopted under Subsection 53A-3-602.5(4), average salaries, applicable private school data, and data from standardized norm-referenced tests in grades 5, 8, and 11 on each school and district;
+
+(viii)  statistical information regarding incidents of delinquent activity in the schools or at school-related activities with separate categories for:
+
 (A)  alcohol and drug abuse;
+
 (B)  weapon possession;
+
 (C)  assaults; and
+
 (D)  arson;
+
 (ix)  information about:
-(A)  the development and implementation of the strategy of focusing on core
-academics;
-(B)  the development and implementation of competency-based education and
-progress-based assessments; and
-(C)  the results being achieved under Subsections (3)(d)(ix)(A) and (B), as
-measured by individual progress-based assessments and a comparison of Utah
-students' progress with the progress of students in other states using
-standardized norm-referenced tests as benchmarks; and
-(x)  other statistical and financial information about the school system which
-the state superintendent considers pertinent;
-(e)  collecting and organizing education data into an automated decision
-support system to facilitate school district and school improvement planning,
-accountability reporting, performance recognition, and the evaluation of
-educational policy and program effectiveness to include:
+
+(A)  the development and implementation of the strategy of focusing on core academics;
+
+(B)  the development and implementation of competency-based education and progress-based assessments; and
+
+(C)  the results being achieved under Subsections (3)(d)(ix)(A) and (B), as measured by individual progress-based assessments and a comparison of Utah students' progress with the progress of students in other states using standardized norm-referenced tests as benchmarks; and
+
+(x)  other statistical and financial information about the school system which the state superintendent considers pertinent;
+
+(e)  collecting and organizing education data into an automated decision support system to facilitate school district and school improvement planning, accountability reporting, performance recognition, and the evaluation of educational policy and program effectiveness to include:
+
 (i)  data that are:
+
 (A)  comparable across schools and school districts;
+
 (B)  appropriate for use in longitudinal studies; and
-(C)  comprehensive with regard to the data elements required under applicable
-state or federal law or state board rule;
-(ii)  features that enable users, most particularly school administrators,
-teachers, and parents, to:
+
+(C)  comprehensive with regard to the data elements required under applicable state or federal law or state board rule;
+
+(ii)  features that enable users, most particularly school administrators, teachers, and parents, to:
+
 (A)  retrieve school and school district level data electronically;
+
 (B)  interpret the data visually; and
+
 (C)  draw conclusions that are statistically valid; and
+
 (iii)  procedures for the collection and management of education data that:
+
 (A)  require the state superintendent of public instruction to:
-(I)  collaborate with school districts in designing and implementing uniform
-data standards and definitions;
-(II)  undertake or sponsor research to implement improved methods for
-analyzing education data;
-(III)  provide for data security to prevent unauthorized access to or
-contamination of the data; and
-(IV)  protect the confidentiality of data under state and federal privacy
-laws; and
-(B)  require all school districts and schools to comply with the data
-collection and management procedures established under Subsection (3)(e);
-(f)  administering and implementing federal educational programs in accordance
-with Title 53A, Chapter 1, Part 9, Implementing Federal Programs Act; and
-(g)  with the approval of the board, preparing and submitting to the governor
-a budget for the board to be included in the budget that the governor submits
-to the Legislature.
-(4)  Upon leaving office, the state superintendent shall deliver to the state
-superintendent's successor all books, records, documents, maps, reports,
-papers, and other articles pertaining to the state superintendent's office.
+
+(I)  collaborate with school districts in designing and implementing uniform data standards and definitions;
+
+(II)  undertake or sponsor research to implement improved methods for analyzing education data;
+
+(III)  provide for data security to prevent unauthorized access to or contamination of the data; and
+
+(IV)  protect the confidentiality of data under state and federal privacy laws; and
+
+(B)  require all school districts and schools to comply with the data collection and management procedures established under Subsection (3)(e);
+
+(f)  administering and implementing federal educational programs in accordance with Title 53A, Chapter 1, Part 9, Implementing Federal Programs Act; and
+
+(g)  with the approval of the board, preparing and submitting to the governor a budget for the board to be included in the budget that the governor submits to the Legislature.
+
+(4)  Upon leaving office, the state superintendent shall deliver to the state superintendent's successor all books, records, documents, maps, reports, papers, and other articles pertaining to the state superintendent's office.
+
 (5) (a)  For the purpose of Subsection (3)(d)(vii):
-(i)  the pupil-teacher ratio for a school shall be calculated by dividing the
-number of students enrolled in a school by the number of full-time equivalent
-teachers assigned to the school, including regular classroom teachers, school-
-based specialists, and special education teachers;
-(ii)  the pupil-teacher ratio for a school district shall be the median pupil-
-teacher ratio of the schools within a school district;
-(iii)  the pupil-teacher ratio for charter schools aggregated shall be the
-median pupil-teacher ratio of charter schools in the state; and
-(iv)  the pupil-teacher ratio for the state's public schools aggregated shall
-be the median pupil-teacher ratio of public schools in the state.
+
+(i)  the pupil-teacher ratio for a school shall be calculated by dividing the number of students enrolled in a school by the number of full-time equivalent teachers assigned to the school, including regular classroom teachers, school-based specialists, and special education teachers;
+
+(ii)  the pupil-teacher ratio for a school district shall be the median pupil-teacher ratio of the schools within a school district;
+
+(iii)  the pupil-teacher ratio for charter schools aggregated shall be the median pupil-teacher ratio of charter schools in the state; and
+
+(iv)  the pupil-teacher ratio for the state's public schools aggregated shall be the median pupil-teacher ratio of public schools in the state.
+
 (b)  The printed copy of the report required by Subsection (3)(d) shall:
+
 (i)  include the pupil-teacher ratio for:
+
 (A)  each school district;
+
 (B)  the charter schools aggregated; and
+
 (C)  the state's public schools aggregated; and
-(ii)  indicate the Internet website where pupil-teacher ratios for each school
-in the state may be accessed.
+
+(ii)  indicate the Internet website where pupil-teacher ratios for each school in the state may be accessed.
+

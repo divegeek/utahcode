@@ -1,52 +1,26 @@
 31A-2-311.   Reciprocal enforcement of foreign decrees.
+
 (1)  As used in this section:
-(a)  "Reciprocal state" means a state whose laws contain procedures
-substantially similar to those specified in this section for the enforcement
-of decrees or orders issued by courts located in other states against an
-insurer authorized to do business in the reciprocal state, and which
-recognizes Utah as a reciprocal state under its law.
-(b)  "Foreign decree" means a decree or order of a court located in a
-reciprocal state, including a United States court located in a reciprocal
-state against an insurer authorized to do business in Utah.
-(2)  The commissioner shall determine which states qualify as reciprocal
-states and shall maintain a list of them.
-(3)  The attorney general, upon request of the commissioner, may proceed in
-the courts of Utah or any other state to enforce an order or decision issued
-in Utah in any court proceeding or in any administrative proceeding before the
-insurance commissioner.
-(4) (a)  A copy of any foreign court decree authenticated under Utah statutes
-or court rules may be filed in the office of the clerk of the Third District
-Court for Salt Lake County.  The clerk, upon verifying with the commissioner
-that the decree or order qualifies as a foreign court decree, shall treat it
-in the same manner and give it the same effect as a decree of a district court
-of Utah.
-(b) (i)  When filing the foreign decree, the filer shall deposit with the
-clerk of the court an affidavit setting forth the name and last-known post-
-office address of the defendant in Utah.
-(ii)  When the foreign decree and the affidavit are filed, the clerk shall
-immediately mail notice of the filing of the foreign decree to the defendant
-at the address given by the filer and to the commissioner, and shall note the
-mailing in the docket.  In addition, the attorney general may mail a notice of
-the filing of the foreign decree to the defendant and to the commissioner.
-Alternatively, the commissioner may mail a notice of the filing of the foreign
-decree to the defendant, and either the attorney general or the commissioner
-may file proof of this mailing with the clerk.  The clerk's failure to mail
-notice of the filing does not affect the enforcement proceedings if the
-attorney general or the commissioner has filed a proof of mailing.
-(iii)  No execution or other process for enforcement of a foreign decree may
-issue until 30 days after the foreign decree is filed.
-(c) (i)  If the defendant shows the court that an appeal from the foreign
-decree is pending or will be taken, or that a stay of execution has been
-granted, the court shall stay enforcement of the foreign decree until the
-appeal is concluded, the time for appeal expires, or the stay of execution
-expires or is vacated, upon proof by the defendant that he has furnished the
-security for the satisfaction of the decree required by the state in which it
-was rendered.
-(ii)  If the defendant shows the court any ground upon which enforcement of a
-similar decree of any district court of Utah would be stayed, the court shall
-stay enforcement of the foreign decree for an appropriate period, upon proof
-by the defendant that he has furnished the same security for satisfaction of
-the decree as is required in Utah.
-(d)  A person filing a foreign decree shall pay to the clerk of the court the
-same fee for an enforcement proceeding as is required for enforcing a decree
-of the district court.
+
+(a)  "Reciprocal state" means a state whose laws contain procedures substantially similar to those specified in this section for the enforcement of decrees or orders issued by courts located in other states against an insurer authorized to do business in the reciprocal state, and which recognizes Utah as a reciprocal state under its law.
+
+(b)  "Foreign decree" means a decree or order of a court located in a reciprocal state, including a United States court located in a reciprocal state against an insurer authorized to do business in Utah.
+
+(2)  The commissioner shall determine which states qualify as reciprocal states and shall maintain a list of them.
+
+(3)  The attorney general, upon request of the commissioner, may proceed in the courts of Utah or any other state to enforce an order or decision issued in Utah in any court proceeding or in any administrative proceeding before the insurance commissioner.
+
+(4) (a)  A copy of any foreign court decree authenticated under Utah statutes or court rules may be filed in the office of the clerk of the Third District Court for Salt Lake County.  The clerk, upon verifying with the commissioner that the decree or order qualifies as a foreign court decree, shall treat it in the same manner and give it the same effect as a decree of a district court of Utah.
+
+(b) (i)  When filing the foreign decree, the filer shall deposit with the clerk of the court an affidavit setting forth the name and last-known post-office address of the defendant in Utah.
+
+(ii)  When the foreign decree and the affidavit are filed, the clerk shall immediately mail notice of the filing of the foreign decree to the defendant at the address given by the filer and to the commissioner, and shall note the mailing in the docket.  In addition, the attorney general may mail a notice of the filing of the foreign decree to the defendant and to the commissioner.  Alternatively, the commissioner may mail a notice of the filing of the foreign decree to the defendant, and either the attorney general or the commissioner may file proof of this mailing with the clerk.  The clerk's failure to mail notice of the filing does not affect the enforcement proceedings if the attorney general or the commissioner has filed a proof of mailing.
+
+(iii)  No execution or other process for enforcement of a foreign decree may issue until 30 days after the foreign decree is filed.
+
+(c) (i)  If the defendant shows the court that an appeal from the foreign decree is pending or will be taken, or that a stay of execution has been granted, the court shall stay enforcement of the foreign decree until the appeal is concluded, the time for appeal expires, or the stay of execution expires or is vacated, upon proof by the defendant that he has furnished the security for the satisfaction of the decree required by the state in which it was rendered.
+
+(ii)  If the defendant shows the court any ground upon which enforcement of a similar decree of any district court of Utah would be stayed, the court shall stay enforcement of the foreign decree for an appropriate period, upon proof by the defendant that he has furnished the same security for satisfaction of the decree as is required in Utah.
+
+(d)  A person filing a foreign decree shall pay to the clerk of the court the same fee for an enforcement proceeding as is required for enforcing a decree of the district court.
+

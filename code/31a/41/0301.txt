@@ -1,68 +1,74 @@
 31A-41-301.   Procedure for making a claim against the fund.
-(1) (a)  To bring a claim against the fund a person shall notify the
-department within 30 business days of the day on which the person files an
-action against a title insurance licensee alleging the following related to a
-title insurance transaction:
+
+(1) (a)  To bring a claim against the fund a person shall notify the department within 30 business days of the day on which the person files an action against a title insurance licensee alleging the following related to a title insurance transaction:
+
 (i)  fraud;
+
 (ii)  misrepresentation; or
+
 (iii)  deceit.
+
 (b)  The notification required by Subsection (1)(a) shall be:
+
 (i)  in writing; and
+
 (ii)  signed by the person who provides the notice.
-(c)  Within 30 days of the day on which the department receives a notice under
-Subsection (1)(a), the department may intervene in the action described in
-Subsection (1)(a).
-(2) (a)  Subject to the other provisions in this section, a person who
-provides the notice required under Subsection (1) may maintain a claim against
-the fund if:
-(i)  in an action described in Subsection (1), the person obtains a final
-judgment in a court of competent jurisdiction in this state against a title
-insurance licensee;
-(ii)  all proceedings including appeals related to the final judgment
-described in Subsection (2)(a)(i) are at an end; and
-(iii)  the person files a verified petition in the court where the judgment is
-entered for an order directing payment from the fund for the uncollected
-actual damages included in the judgment and unpaid.
+
+(c)  Within 30 days of the day on which the department receives a notice under Subsection (1)(a), the department may intervene in the action described in Subsection (1)(a).
+
+(2) (a)  Subject to the other provisions in this section, a person who provides the notice required under Subsection (1) may maintain a claim against the fund if:
+
+(i)  in an action described in Subsection (1), the person obtains a final judgment in a court of competent jurisdiction in this state against a title insurance licensee;
+
+(ii)  all proceedings including appeals related to the final judgment described in Subsection (2)(a)(i) are at an end; and
+
+(iii)  the person files a verified petition in the court where the judgment is entered for an order directing payment from the fund for the uncollected actual damages included in the judgment and unpaid.
+
 (b)  A court may not direct the payment from the fund of:
+
 (i)  punitive damages;
+
 (ii)  attorney fees;
+
 (iii)  interest; or
+
 (iv)  court costs.
-(c)  Regardless of the number of claimants or parcels of real estate involved
-in a single real estate transaction, the liability of the fund may not exceed:
+
+(c)  Regardless of the number of claimants or parcels of real estate involved in a single real estate transaction, the liability of the fund may not exceed:
+
 (i)  $15,000 for a single real estate transaction; or
+
 (ii)  $50,000 for all transactions of a title insurance license.
+
 (d)  A person shall:
-(i)  serve the verified petition required by Subsection (2)(a) on the
-department; and
+
+(i)  serve the verified petition required by Subsection (2)(a) on the department; and
+
 (ii)  file an affidavit of service with the court.
-(3) (a)  A court shall conduct a hearing on a petition filed with the court
-within 30 days after the day on which the department is served.
-(b)  The person who files the petition may recover from the fund only if the
-person shows all of the following:
-(i)  the person is not a spouse of the judgment debtor or the personal
-representative of the spouse;
+
+(3) (a)  A court shall conduct a hearing on a petition filed with the court within 30 days after the day on which the department is served.
+
+(b)  The person who files the petition may recover from the fund only if the person shows all of the following:
+
+(i)  the person is not a spouse of the judgment debtor or the personal representative of the spouse;
+
 (ii)  the person complied with this chapter;
-(iii)  the person has obtained a final judgment in accordance with this
-section indicating the amount of the judgment awarded;
+
+(iii)  the person has obtained a final judgment in accordance with this section indicating the amount of the judgment awarded;
+
 (iv)  the amount still owing on the judgment at the date of the petition;
-(v) (A)  the person has had a writ of execution issued under the judgment, and
-the officer executing the writ has returned showing that no property subject
-to execution in satisfaction of the judgment could be found; or
-(B)  that the amount realized upon the execution levied against the property
-of the judgment debtor is insufficient to satisfy the judgement;
-(vi)  the person has made reasonable searches and inquiries to ascertain
-whether the judgment debtor has any interest in property, real or personal,
-that may satisfy the judgment; and
-(vii)  the person has exercised reasonable diligence to secure payment of the
-judgment from the assets of the judgment debtor.
-(4)  If the person described in Subsection (3) satisfies the court that it is
-not practicable for the person to comply with one or more of the requirements
-in Subsections (3)(b)(v) through (vii), the court may waive those
-requirements.
-(5) (a)  A judgment that is the basis for a claim against the fund may not
-have been discharged in bankruptcy.
-(b)  If a bankruptcy proceeding is still open or is commenced during the
-pendency of the claim, the person bringing a claim against the fund shall
-obtain an order from the bankruptcy court declaring the judgement and debt to
-be nondischargeable.
+
+(v) (A)  the person has had a writ of execution issued under the judgment, and the officer executing the writ has returned showing that no property subject to execution in satisfaction of the judgment could be found; or
+
+(B)  that the amount realized upon the execution levied against the property of the judgment debtor is insufficient to satisfy the judgement;
+
+(vi)  the person has made reasonable searches and inquiries to ascertain whether the judgment debtor has any interest in property, real or personal, that may satisfy the judgment; and
+
+(vii)  the person has exercised reasonable diligence to secure payment of the judgment from the assets of the judgment debtor.
+
+(4)  If the person described in Subsection (3) satisfies the court that it is not practicable for the person to comply with one or more of the requirements in Subsections (3)(b)(v) through (vii), the court may waive those requirements.
+
+(5) (a)  A judgment that is the basis for a claim against the fund may not have been discharged in bankruptcy.
+
+(b)  If a bankruptcy proceeding is still open or is commenced during the pendency of the claim, the person bringing a claim against the fund shall obtain an order from the bankruptcy court declaring the judgement and debt to be nondischargeable.
+

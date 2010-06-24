@@ -1,232 +1,194 @@
 49-11-102.    Definitions.
+
 As used in this title:
-(1) (a)  "Active member" means a member who is employed or who has been
-employed by a participating employer within the previous 120 days.
+
+(1) (a)  "Active member" means a member who is employed or who has been employed by a participating employer within the previous 120 days.
+
 (b)  "Active member" does not include retirees.
-(2)  "Actuarial equivalent" means a benefit of equal value when computed upon
-the basis of mortality tables as recommended by the actuary and adopted by the
-executive director, including regular interest.
-(3)  "Actuarial interest rate" means the interest rate as recommended by the
-actuary and adopted by the board upon which the funding of system costs and
-benefits are computed.
+
+(2)  "Actuarial equivalent" means a benefit of equal value when computed upon the basis of mortality tables as recommended by the actuary and adopted by the executive director, including regular interest.
+
+(3)  "Actuarial interest rate" means the interest rate as recommended by the actuary and adopted by the board upon which the funding of system costs and benefits are computed.
+
 (4) (a)  "Agency" means:
-(i)  a department, division, agency, office, authority, commission, board,
-institution, or hospital of the state;
-(ii)  a county, municipality, school district, local district, or special
-service district;
+
+(i)  a department, division, agency, office, authority, commission, board, institution, or hospital of the state;
+
+(ii)  a county, municipality, school district, local district, or special service district;
+
 (iii)  a state college or university; or
+
 (iv)  any other participating employer.
-(b)  "Agency" does not include an entity listed under Subsection (4)(a)(i)
-that is a subdivision of another entity listed under Subsection (4)(a).
-(5)  "Allowance" or "retirement allowance" means the pension plus the annuity,
-including any cost of living or other authorized adjustments to the pension
-and annuity.
-(6)  "Alternate payee" means a member's former spouse or family member
-eligible to receive payments under a Domestic Relations Order in compliance
-with Section 49-11-612.
-(7)  "Amortization rate" means the board certified percent of salary required
-to amortize the unfunded actuarial accrued liability in accordance with
-policies established by the board upon the advice of the actuary.
+
+(b)  "Agency" does not include an entity listed under Subsection (4)(a)(i) that is a subdivision of another entity listed under Subsection (4)(a).
+
+(5)  "Allowance" or "retirement allowance" means the pension plus the annuity, including any cost of living or other authorized adjustments to the pension and annuity.
+
+(6)  "Alternate payee" means a member's former spouse or family member eligible to receive payments under a Domestic Relations Order in compliance with Section 49-11-612.
+
+(7)  "Amortization rate" means the board certified percent of salary required to amortize the unfunded actuarial accrued liability in accordance with policies established by the board upon the advice of the actuary.
+
 (8)  "Annuity" means monthly payments derived from member contributions.
-(9)  "Appointive officer" means an employee appointed to a position for a
-definite and fixed term of office by official and duly recorded action of a
-participating employer whose appointed position is designated in the
-participating employer's charter, creation document, or similar document, and
-who earns during the first full month of the term of office $500 or more,
-indexed as of January 1, 1990, as provided in Section 49-12-407.
-(10) (a)  "At-will employee" means a person who is employed by a participating
-employer and:
-(i)  who is not entitled to merit or civil service protection and is generally
-considered exempt from a participating employer's merit or career service
-personnel systems;
-(ii)  whose on-going employment status is entirely at the discretion of the
-person's employer; or
-(iii)  who may be terminated without cause by a designated supervisor,
-manager, or director.
-(b)  "At-will employee" does not include a career employee who has obtained a
-reasonable expectation of continued employment based on inclusion in a
-participating employer's merit system, civil service protection system, or
-career service personnel systems, policies, or plans.
-(11)  "Beneficiary" means any person entitled to receive a payment under this
-title through a relationship with or designated by a member, participant,
-covered individual, or alternate payee of a defined contribution plan.
-(12)  "Board" means the Utah State Retirement Board established under Section
-49-11-202.
-(13)  "Board member" means a person serving on the Utah State Retirement Board
-as established under Section 49-11-202.
-(14)  "Certified contribution rate" means the board certified percent of
-salary paid on behalf of an active member to the office to maintain the system
-on a financially and actuarially sound basis.
-(15)  "Contributions" means the total amount paid by the participating
-employer and the member into a system or to the Utah Governors' and
-Legislators' Retirement Plan under Chapter 19, Utah Governors' and
-Legislators' Retirement Act.
-(16)  "Council member" means a person serving on the Membership Council
-established under Section 49-11-202.
-(17)  "Covered individual" means any individual covered under Chapter 20,
-Public Employees' Benefit and Insurance Program Act.
-(18)  "Current service" means covered service as defined in Chapters 12, 13,
-14, 15, 16, 17, 18, and 19.
-(19)  "Defined benefit" or "defined benefit plan" or "defined benefit system"
-means a system or plan offered under this title to provide a specified
-allowance to a retiree or a retiree's spouse after retirement that is based on
-a set formula involving one or more of the following factors:
+
+(9)  "Appointive officer" means an employee appointed to a position for a definite and fixed term of office by official and duly recorded action of a participating employer whose appointed position is designated in the participating employer's charter, creation document, or similar document, and who earns during the first full month of the term of office $500 or more, indexed as of January 1, 1990, as provided in Section 49-12-407.
+
+(10) (a)  "At-will employee" means a person who is employed by a participating employer and:
+
+(i)  who is not entitled to merit or civil service protection and is generally considered exempt from a participating employer's merit or career service personnel systems;
+
+(ii)  whose on-going employment status is entirely at the discretion of the person's employer; or
+
+(iii)  who may be terminated without cause by a designated supervisor, manager, or director.
+
+(b)  "At-will employee" does not include a career employee who has obtained a reasonable expectation of continued employment based on inclusion in a participating employer's merit system, civil service protection system, or career service personnel systems, policies, or plans.
+
+(11)  "Beneficiary" means any person entitled to receive a payment under this title through a relationship with or designated by a member, participant, covered individual, or alternate payee of a defined contribution plan.
+
+(12)  "Board" means the Utah State Retirement Board established under Section 49-11-202.
+
+(13)  "Board member" means a person serving on the Utah State Retirement Board as established under Section 49-11-202.
+
+(14)  "Certified contribution rate" means the board certified percent of salary paid on behalf of an active member to the office to maintain the system on a financially and actuarially sound basis.
+
+(15)  "Contributions" means the total amount paid by the participating employer and the member into a system or to the Utah Governors' and Legislators' Retirement Plan under Chapter 19, Utah Governors' and Legislators' Retirement Act.
+
+(16)  "Council member" means a person serving on the Membership Council established under Section 49-11-202.
+
+(17)  "Covered individual" means any individual covered under Chapter 20, Public Employees' Benefit and Insurance Program Act.
+
+(18)  "Current service" means covered service as defined in Chapters 12, 13, 14, 15, 16, 17, 18, and 19.
+
+(19)  "Defined benefit" or "defined benefit plan" or "defined benefit system" means a system or plan offered under this title to provide a specified allowance to a retiree or a retiree's spouse after retirement that is based on a set formula involving one or more of the following factors:
+
 (a)  years of service;
+
 (b)  final average monthly salary; or
+
 (c)  a retirement multiplier.
-(20)  "Defined contribution" or "defined contribution plan" means any defined
-contribution plan or deferred compensation plan authorized under the Internal
-Revenue Code and administered by the board.
-(21)  "Educational institution" means a political subdivision or
-instrumentality of the state or a combination thereof primarily engaged in
-educational activities or the administration or servicing of educational
-activities, including:
+
+(20)  "Defined contribution" or "defined contribution plan" means any defined contribution plan or deferred compensation plan authorized under the Internal Revenue Code and administered by the board.
+
+(21)  "Educational institution" means a political subdivision or instrumentality of the state or a combination thereof primarily engaged in educational activities or the administration or servicing of educational activities, including:
+
 (a)  the State Board of Education and its instrumentalities;
+
 (b)  any institution of higher education and its branches;
+
 (c)  any school district and its instrumentalities;
+
 (d)  any vocational and technical school; and
-(e)  any entity arising out of a consolidation agreement between entities
-described under this Subsection (21).
-(22) (a)  "Employer" means any department, educational institution, or
-political subdivision of the state eligible to participate in a government-
-sponsored retirement system under federal law.
-(b)  "Employer" may also include an agency financed in whole or in part by
-public funds.
-(23)  "Exempt employee" means an employee working for a participating
-employer:
-(a)  who is not eligible for service credit under Section 49-12-203,
-49-13-203, 49-14-203, 49-15-203, or 49-16-203; and
-(b)  for whom a participating employer is not required to pay contributions or
-nonelective contributions.
-(24)  "Final average monthly salary" means the amount computed by dividing the
-compensation received during the final average salary period under each system
-by the number of months in the final average salary period.
-(25)  "Fund" means any fund created under this title for the purpose of paying
-benefits or costs of administering a system, plan, or program.
-(26) (a)  "Inactive member" means a member who has not been employed by a
-participating employer for a period of at least 120 days.
+
+(e)  any entity arising out of a consolidation agreement between entities described under this Subsection (21).
+
+(22) (a)  "Employer" means any department, educational institution, or political subdivision of the state eligible to participate in a government-sponsored retirement system under federal law.
+
+(b)  "Employer" may also include an agency financed in whole or in part by public funds.
+
+(23)  "Exempt employee" means an employee working for a participating employer:
+
+(a)  who is not eligible for service credit under Section 49-12-203, 49-13-203, 49-14-203, 49-15-203, or 49-16-203; and
+
+(b)  for whom a participating employer is not required to pay contributions or nonelective contributions.
+
+(24)  "Final average monthly salary" means the amount computed by dividing the compensation received during the final average salary period under each system by the number of months in the final average salary period.
+
+(25)  "Fund" means any fund created under this title for the purpose of paying benefits or costs of administering a system, plan, or program.
+
+(26) (a)  "Inactive member" means a member who has not been employed by a participating employer for a period of at least 120 days.
+
 (b)  "Inactive member" does not include retirees.
-(27) (a)  "Initially entering" means hired, appointed, or elected for the
-first time, in current service as a member with any participating employer.
-(b)  "Initially entering" does not include a person who has any prior service
-credit on file with the office.
-(28) (a)  "Member" means a person, except a retiree, with contributions on
-deposit with a system, the Utah Governors' and Legislators' Retirement Plan
-under Chapter 19, Utah Governors' and Legislators' Retirement Act, or with a
-terminated system.
-(b)  "Member" also includes leased employees within the meaning of Section
-414(n)(2) of the Internal Revenue Code, if the employees have contributions on
-deposit with the office.  If leased employees constitute less than 20% of the
-participating employer's work force that is not highly compensated within the
-meaning of Section 414(n)(5)(c)(ii), Internal Revenue Code, "member" does not
-include leased employees covered by a plan described in Section 414(n)(5) of
-the federal Internal Revenue Code.
-(29)  "Member contributions" means the sum of the contributions paid to a
-system or the Utah Governors' and Legislators' Retirement Plan, including
-refund interest if allowed by a system, and which are made by:
+
+(27) (a)  "Initially entering" means hired, appointed, or elected for the first time, in current service as a member with any participating employer.
+
+(b)  "Initially entering" does not include a person who has any prior service credit on file with the office.
+
+(28) (a)  "Member" means a person, except a retiree, with contributions on deposit with a system, the Utah Governors' and Legislators' Retirement Plan under Chapter 19, Utah Governors' and Legislators' Retirement Act, or with a terminated system.
+
+(b)  "Member" also includes leased employees within the meaning of Section 414(n)(2) of the Internal Revenue Code, if the employees have contributions on deposit with the office.  If leased employees constitute less than 20% of the participating employer's work force that is not highly compensated within the meaning of Section 414(n)(5)(c)(ii), Internal Revenue Code, "member" does not include leased employees covered by a plan described in Section 414(n)(5) of the federal Internal Revenue Code.
+
+(29)  "Member contributions" means the sum of the contributions paid to a system or the Utah Governors' and Legislators' Retirement Plan, including refund interest if allowed by a system, and which are made by:
+
 (a)  the member; and
-(b)  the participating employer on the member's behalf under Section 414(h) of
-the Internal Revenue Code.
-(30)  "Nonelective contribution" means an amount contributed by a
-participating employer into a participant's defined contribution account.
+
+(b)  the participating employer on the member's behalf under Section 414(h) of the Internal Revenue Code.
+
+(30)  "Nonelective contribution" means an amount contributed by a participating employer into a participant's defined contribution account.
+
 (31)  "Normal cost rate":
-(a)  means the percent of salary that is necessary for a retirement system
-that is fully funded to maintain its fully funded status; and
-(b)  is determined by the actuary based on the assumed rate of return
-established by the board.
+
+(a)  means the percent of salary that is necessary for a retirement system that is fully funded to maintain its fully funded status; and
+
+(b)  is determined by the actuary based on the assumed rate of return established by the board.
+
 (32)  "Office" means the Utah State Retirement Office.
-(33)  "Participant" means an individual with voluntary deferrals or
-nonelective contributions on deposit with the defined contribution plans
-administered under this title.
-(34)  "Participating employer" means a participating employer, as defined by
-Chapter 12, Public Employees' Contributory Retirement Act, Chapter 13, Public
-Employees' Noncontributory Retirement Act, Chapter 14, Public Safety
-Contributory Retirement Act, Chapter 15, Public Safety Noncontributory
-Retirement Act, Chapter 16, Firefighters' Retirement Act, Chapter 17, Judges'
-Contributory Retirement Act, and Chapter 18, Judges' Noncontributory
-Retirement Act, or an agency financed in whole or in part by public funds
-which is participating in a system or plan as of January 1, 2002.
-(35)  "Pension" means monthly payments derived from participating employer
-contributions.
-(36)  "Plan" means the Utah Governors' and Legislators' Retirement Plan
-created by Chapter 19, Utah Governors' and Legislators' Retirement Act, the
-New Public Employees' Tier II Defined Contribution Plan created by Chapter 22,
-Part 4, Tier II Defined Contribution Plan, the New Public Safety and
-Firefighter Tier II Defined Contribution Plan created by Chapter 23, Part 4,
-Tier II Defined Contribution Plan, or the defined contribution plans created
-under Section 49-11-801.
-(37) (a)  "Political subdivision" means any local government entity, including
-cities, towns, counties, and school districts, but only if the subdivision is
-a juristic entity that is legally separate and distinct from the state and
-only if its employees are not by virtue of their relationship to the entity
-employees of the state.
-(b)  "Political subdivision" includes local districts, special service
-districts, or authorities created by the Legislature or by local governments,
-including the office.
-(c)  "Political subdivision" does not include a project entity created under
-Title 11, Chapter 13, Interlocal Cooperation Act, that was formed prior to
-July 1, 1987.
-(38)  "Program" means the Public Employees' Insurance Program created under
-Chapter 20, Public Employees' Benefit and Insurance Program Act, or the Public
-Employees' Long-Term Disability program created under Chapter 21, Public
-Employees' Long-Term Disability Act.
-(39)  "Public funds" means those funds derived, either directly or indirectly,
-from public taxes or public revenue, dues or contributions paid or donated by
-the membership of the organization, used to finance an activity whose
-objective is to improve, on a nonprofit basis, the governmental, educational,
-and social programs and systems of the state or its political subdivisions.
-(40)  "Qualified defined contribution plan" means a defined contribution plan
-that meets the requirements of Section 401(k) or Section 403(b) of the
-Internal Revenue Code.
-(41) (a)  "Reemployed," "reemploy," or "reemployment" means work or service
-performed after retirement, in exchange for compensation.
-(b)  Reemployment includes work or service performed on a contract if the
-retiree is:
+
+(33)  "Participant" means an individual with voluntary deferrals or nonelective contributions on deposit with the defined contribution plans administered under this title.
+
+(34)  "Participating employer" means a participating employer, as defined by Chapter 12, Public Employees' Contributory Retirement Act, Chapter 13, Public Employees' Noncontributory Retirement Act, Chapter 14, Public Safety Contributory Retirement Act, Chapter 15, Public Safety Noncontributory Retirement Act, Chapter 16, Firefighters' Retirement Act, Chapter 17, Judges' Contributory Retirement Act, and Chapter 18, Judges' Noncontributory Retirement Act, or an agency financed in whole or in part by public funds which is participating in a system or plan as of January 1, 2002.
+
+(35)  "Pension" means monthly payments derived from participating employer contributions.
+
+(36)  "Plan" means the Utah Governors' and Legislators' Retirement Plan created by Chapter 19, Utah Governors' and Legislators' Retirement Act, the New Public Employees' Tier II Defined Contribution Plan created by Chapter 22, Part 4, Tier II Defined Contribution Plan, the New Public Safety and Firefighter Tier II Defined Contribution Plan created by Chapter 23, Part 4, Tier II Defined Contribution Plan, or the defined contribution plans created under Section 49-11-801.
+
+(37) (a)  "Political subdivision" means any local government entity, including cities, towns, counties, and school districts, but only if the subdivision is a juristic entity that is legally separate and distinct from the state and only if its employees are not by virtue of their relationship to the entity employees of the state.
+
+(b)  "Political subdivision" includes local districts, special service districts, or authorities created by the Legislature or by local governments, including the office.
+
+(c)  "Political subdivision" does not include a project entity created under Title 11, Chapter 13, Interlocal Cooperation Act, that was formed prior to July 1, 1987.
+
+(38)  "Program" means the Public Employees' Insurance Program created under Chapter 20, Public Employees' Benefit and Insurance Program Act, or the Public Employees' Long-Term Disability program created under Chapter 21, Public Employees' Long-Term Disability Act.
+
+(39)  "Public funds" means those funds derived, either directly or indirectly, from public taxes or public revenue, dues or contributions paid or donated by the membership of the organization, used to finance an activity whose objective is to improve, on a nonprofit basis, the governmental, educational, and social programs and systems of the state or its political subdivisions.
+
+(40)  "Qualified defined contribution plan" means a defined contribution plan that meets the requirements of Section 401(k) or Section 403(b) of the Internal Revenue Code.
+
+(41) (a)  "Reemployed," "reemploy," or "reemployment" means work or service performed after retirement, in exchange for compensation.
+
+(b)  Reemployment includes work or service performed on a contract if the retiree is:
+
 (i)  listed as the contractor; or
+
 (ii)  an owner, partner, or principle of the contractor.
-(42)  "Refund interest" means the amount accrued on member contributions at a
-rate adopted by the board.
-(43)  "Retiree" means an individual who has qualified for an allowance under
-this title.
-(44)  "Retirement" means the status of an individual who has become eligible,
-applies for, and is entitled to receive an allowance under this title.
-(45)  "Retirement date" means the date selected by the member on which the
-member's retirement becomes effective with the office.
+
+(42)  "Refund interest" means the amount accrued on member contributions at a rate adopted by the board.
+
+(43)  "Retiree" means an individual who has qualified for an allowance under this title.
+
+(44)  "Retirement" means the status of an individual who has become eligible, applies for, and is entitled to receive an allowance under this title.
+
+(45)  "Retirement date" means the date selected by the member on which the member's retirement becomes effective with the office.
+
 (46)  "Service credit" means:
-(a)  the period during which an employee is employed and compensated by a
-participating employer and meets the eligibility requirements for membership
-in a system or the Utah Governors' and Legislators' Retirement Plan, provided
-that any required contributions are paid to the office; and
+
+(a)  the period during which an employee is employed and compensated by a participating employer and meets the eligibility requirements for membership in a system or the Utah Governors' and Legislators' Retirement Plan, provided that any required contributions are paid to the office; and
+
 (b)  periods of time otherwise purchasable under this title.
-(47)  "System" means the individual retirement systems created by Chapter 12,
-Public Employees' Contributory Retirement Act, Chapter 13, Public Employees'
-Noncontributory Retirement Act, Chapter 14, Public Safety Contributory
-Retirement Act, Chapter 15, Public Safety Noncontributory Retirement Act,
-Chapter 16, Firefighters' Retirement Act, Chapter 17, Judges' Contributory
-Retirement Act, Chapter 18, Judges' Noncontributory Retirement Act, and
-Chapter 19, Utah Governors' and Legislators' Retirement Act, the defined
-benefit portion of the Tier II Hybrid Retirement System under Chapter 22, Part
-3, Tier II Hybrid Retirement System, and the defined benefit portion of the
-Tier II Hybrid Retirement System under Chapter 23, Part 3, Tier II Hybrid
-Retirement System.
-(48)  "Tier I" means a system or plan under this title for which an employee
-is eligible to participate if the employee initially enters regular full-time
-employment before July 1, 2011.
-(49) (a)  "Tier II" means a system or plan under this title provided in lieu
-of a Tier I system or plan for which an employee is eligible to participate,
-if the employee initially enters regular full-time employment on or after July
-1, 2011.
+
+(47)  "System" means the individual retirement systems created by Chapter 12, Public Employees' Contributory Retirement Act, Chapter 13, Public Employees' Noncontributory Retirement Act, Chapter 14, Public Safety Contributory Retirement Act, Chapter 15, Public Safety Noncontributory Retirement Act, Chapter 16, Firefighters' Retirement Act, Chapter 17, Judges' Contributory Retirement Act, Chapter 18, Judges' Noncontributory Retirement Act, and Chapter 19, Utah Governors' and Legislators' Retirement Act, the defined benefit portion of the Tier II Hybrid Retirement System under Chapter 22, Part 3, Tier II Hybrid Retirement System, and the defined benefit portion of the Tier II Hybrid Retirement System under Chapter 23, Part 3, Tier II Hybrid Retirement System.
+
+(48)  "Tier I" means a system or plan under this title for which an employee is eligible to participate if the employee initially enters regular full-time employment before July 1, 2011.
+
+(49) (a)  "Tier II" means a system or plan under this title provided in lieu of a Tier I system or plan for which an employee is eligible to participate, if the employee initially enters regular full-time employment on or after July 1, 2011.
+
 (b)  "Tier II" includes:
+
 (i)  the Tier II hybrid system established under:
+
 (A)  Chapter 22, Part 3, Tier II Hybrid Retirement System; or
+
 (B)  Chapter 23, Part 3, Tier II Hybrid Retirement System; and
-(ii)  the Tier II Defined Contribution Plan (Tier II DC Plan) established
-under:
+
+(ii)  the Tier II Defined Contribution Plan (Tier II DC Plan) established under:
+
 (A)  Chapter 22, Part 4, Tier II Defined Contribution Plan; or
+
 (B)  Chapter 23, Part 4, Tier II Defined Contribution Plan.
+
 (50)  "Unfunded actuarial accrued liability" or "UAAL":
+
 (a)  is determined by the system's actuary; and
-(b)  means the excess, if any, of the accrued liability of a retirement system
-over the actuarial value of its assets.
-(51)  "Voluntary deferrals" means an amount contributed by a participant into
-that participant's defined contribution account.
+
+(b)  means the excess, if any, of the accrued liability of a retirement system over the actuarial value of its assets.
+
+(51)  "Voluntary deferrals" means an amount contributed by a participant into that participant's defined contribution account.
+

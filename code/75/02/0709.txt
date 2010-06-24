@@ -1,38 +1,24 @@
-75-2-709.   Definitions -- Representation -- Per capita at each generation
--- Per stirpes.
+75-2-709.   Definitions -- Representation -- Per capita at each generation -- Per stirpes.
+
 (1)  As used in this section:
-(a)  "Deceased child" or "deceased descendant" means a child or a descendant
-who either predeceased the distribution date or is considered to have
-predeceased the distribution date under Section 75-2-702.
-(b)  "Distribution date," with respect to an interest, means the time when the
-interest is to take effect in possession or enjoyment.  The distribution date
-need not occur at the beginning or end of a calendar day, but can occur at a
-time during the course of a day.
-(c)  "Surviving ancestor," "surviving child," or "surviving descendant" means
-an ancestor, a child, or a descendant who neither predeceased the distribution
-date nor is considered to have predeceased the distribution date under Section
-75-2-702.
-(2)  If an applicable statute or a governing instrument calls for property to
-be distributed  or taken "per capita at each generation," the property is
-divided into as many equal shares as there are:
-(a)  surviving descendants in the generation nearest to the designated
-ancestor which contains one or more surviving descendants; and
-(b)  deceased descendants in the same generation who left surviving
-descendants, if any.  Each surviving descendant in the nearest generation is
-allocated one share.  The remaining shares, if any, are combined and then
-divided in the same manner among the surviving descendants of the deceased
-descendants as if the surviving descendants who were allocated a share and
-their surviving descendants had predeceased the distribution date.
-(3)  If a governing instrument calls for property to be distributed or taken
-"per stirpes," "by representation," or "by right of representation," the
-property is divided into as many equal shares as there are:
+
+(a)  "Deceased child" or "deceased descendant" means a child or a descendant who either predeceased the distribution date or is considered to have predeceased the distribution date under Section 75-2-702.
+
+(b)  "Distribution date," with respect to an interest, means the time when the interest is to take effect in possession or enjoyment.  The distribution date need not occur at the beginning or end of a calendar day, but can occur at a time during the course of a day.
+
+(c)  "Surviving ancestor," "surviving child," or "surviving descendant" means an ancestor, a child, or a descendant who neither predeceased the distribution date nor is considered to have predeceased the distribution date under Section 75-2-702.
+
+(2)  If an applicable statute or a governing instrument calls for property to be distributed  or taken "per capita at each generation," the property is divided into as many equal shares as there are:
+
+(a)  surviving descendants in the generation nearest to the designated ancestor which contains one or more surviving descendants; and
+
+(b)  deceased descendants in the same generation who left surviving descendants, if any.  Each surviving descendant in the nearest generation is allocated one share.  The remaining shares, if any, are combined and then divided in the same manner among the surviving descendants of the deceased descendants as if the surviving descendants who were allocated a share and their surviving descendants had predeceased the distribution date.
+
+(3)  If a governing instrument calls for property to be distributed or taken "per stirpes," "by representation," or "by right of representation," the property is divided into as many equal shares as there are:
+
 (a)  surviving children of the designated ancestor; and
-(b)  deceased children who left surviving descendants.  Each surviving child,
-if any, is allocated one share.  The share of each deceased child with
-surviving descendants is divided in the same manner, with subdivision
-repeating at each succeeding generation until the property is fully allocated
-among surviving descendants.
-(4)  For the purposes of Subsections (2) and (3), an individual who is
-deceased and left no surviving descendant is disregarded, and an individual
-who leaves a surviving ancestor who is a descendant of the designated ancestor
-is not entitled to a share.
+
+(b)  deceased children who left surviving descendants.  Each surviving child, if any, is allocated one share.  The share of each deceased child with surviving descendants is divided in the same manner, with subdivision repeating at each succeeding generation until the property is fully allocated among surviving descendants.
+
+(4)  For the purposes of Subsections (2) and (3), an individual who is deceased and left no surviving descendant is disregarded, and an individual who leaves a surviving ancestor who is a descendant of the designated ancestor is not entitled to a share.
+

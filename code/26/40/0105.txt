@@ -1,44 +1,52 @@
 26-40-105.   Eligibility.
+
 (1)  A child is eligible to enroll in the program if the child:
+
 (a)  is a bona fide Utah resident;
+
 (b)  is a citizen or legal resident of the United States;
+
 (c)  is under 19 years of age;
-(d)  does not have access to or coverage under other health insurance,
-including any coverage available through a parent or legal guardian's
-employer;
+
+(d)  does not have access to or coverage under other health insurance, including any coverage available through a parent or legal guardian's employer;
+
 (e)  is ineligible for Medicaid benefits;
-(f)  resides in a household whose gross family income, as defined by rule, is
-at or below 200% of the federal poverty level; and
-(g)  is not an inmate of a public institution or a patient in an institution
-for mental diseases.
-(2)  A child who qualifies for enrollment in the program under Subsection (1)
-may not be denied enrollment due to a diagnosis or pre-existing condition.
-(3) (a)  The department shall determine eligibility and send notification of
-the eligibility decision within 30 days after receiving the application for
-coverage.
-(b)  If the department cannot reach a decision because the applicant fails to
-take a required action, or because there is an administrative or other
-emergency beyond the department's control, the department shall:
+
+(f)  resides in a household whose gross family income, as defined by rule, is at or below 200% of the federal poverty level; and
+
+(g)  is not an inmate of a public institution or a patient in an institution for mental diseases.
+
+(2)  A child who qualifies for enrollment in the program under Subsection (1) may not be denied enrollment due to a diagnosis or pre-existing condition.
+
+(3) (a)  The department shall determine eligibility and send notification of the eligibility decision within 30 days after receiving the application for coverage.
+
+(b)  If the department cannot reach a decision because the applicant fails to take a required action, or because there is an administrative or other emergency beyond the department's control, the department shall:
+
 (i)  document the reason for the delay in the applicant's case record; and
-(ii)  inform the applicant of the status of the application and time frame for
-completion.
-(4)  The department may not close enrollment in the program for a child who is
-eligible to enroll in the program under the provisions of Subsection (1).
+
+(ii)  inform the applicant of the status of the application and time frame for completion.
+
+(4)  The department may not close enrollment in the program for a child who is eligible to enroll in the program under the provisions of Subsection (1).
+
 (5) (a)  The program shall:
-(i)  apply for grants to make technology system improvements necessary to
-implement a simplified renewal process in accordance with this Subsection (5);
-and
-(ii)  if funding is available, implement the simplified renewal process in
-accordance with this Subsection (5).
+
+(i)  apply for grants to make technology system improvements necessary to implement a simplified renewal process in accordance with this Subsection (5); and
+
+(ii)  if funding is available, implement the simplified renewal process in accordance with this Subsection (5).
+
 (b)  The simplified renewal process:
-(i)  shall, in accordance with Section 59-1-403, provide an eligibility worker
-a process in which the eligibility worker:
+
+(i)  shall, in accordance with Section 59-1-403, provide an eligibility worker a process in which the eligibility worker:
+
 (A)  verifies the applicant's identity;
-(B)  gets consent to obtain the applicant's adjusted gross income from the
-Utah State Tax Commission from:
+
+(B)  gets consent to obtain the applicant's adjusted gross income from the Utah State Tax Commission from:
+
 (I)  the applicant, if the applicant filed a single tax return; or
-(II)  both parties to a joint return, if the applicant filed a joint tax
-return; and
-(C)  obtains from the Utah State Tax Commission, the adjusted gross income of
-the applicant; and
+
+(II)  both parties to a joint return, if the applicant filed a joint tax return; and
+
+(C)  obtains from the Utah State Tax Commission, the adjusted gross income of the applicant; and
+
 (ii)  may not change the eligibility requirements for the program.
+

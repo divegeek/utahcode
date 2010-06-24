@@ -1,13 +1,20 @@
 13-5b-102.   Definitions.
+
 For purposes of this chapter:
-(1)  "Affiliate" means an organization that directly or indirectly through one
-or more intermediaries controls, is controlled by, or is under common control
-with another organization.
-(2)  "Integrated health system" means an organization that directly, or
-through an affiliate or subsidiary:
+
+(1)  "Affiliate" means an organization that directly or indirectly through one or more intermediaries controls, is controlled by, or is under common control with another organization.
+
+(2)  "Integrated health system" means an organization that directly, or through an affiliate or subsidiary:
+
 (a)  owns and operates one or more hospitals in the state; and
+
 (b)  offers health insurance to residents of the state.
+
 (3)  "Subsidiary" means an affiliate controlled:
+
 (a)  by a specified person;
+
 (b)  directly or indirectly; and
+
 (c)  through one or more intermediaries.
+

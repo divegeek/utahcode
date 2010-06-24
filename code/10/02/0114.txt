@@ -1,41 +1,30 @@
-10-2-114.   Determination of number of council members -- Determination of
-election districts -- Hearings and notice.
-(1)  If the incorporation proposal passes, the petition sponsors shall, within
-25 days of the canvass of the election under Section 10-2-111:
-(a)  if the voters at the incorporation election choose the council-mayor form
-of government, determine the number of council members that will constitute
-the council of the future city;
-(b)  if the voters at the incorporation election vote to elect council members
-by district, determine the number of council members to be elected by district
-and draw the boundaries of those districts, which shall be substantially equal
-in population;
-(c)  determine the initial terms of the mayor and members of the city council
-so that:
-(i)  the mayor and approximately half the members of the city council are
-elected to serve an initial term, of no less than one year, that allows their
-successors to serve a full four-year term that coincides with the schedule
-established in Subsection 10-3-205(1); and
-(ii)  the remaining members of the city council are elected to serve an
-initial term, of no less than one year, that allows their successors to serve
-a full four-year term that coincides with the schedule established in
-Subsection 10-3-205(2); and
-(d)  submit in writing to the county legislative body the results of the
-sponsors' determinations under Subsections (1)(a), (b), and (c).
-(2) (a)  Before making a determination under Subsection (1)(a), (b), or (c),
-the petition sponsors shall hold a public hearing within the future city on
-the applicable issues under Subsections (1)(a), (b), and (c).
-(b) (i)  The petition sponsors shall publish notice of the public hearing
-under Subsection (2)(a):
-(A)  in a newspaper of general circulation within the future city at least
-once a week for two successive weeks before the hearing; and
-(B)  on the Utah Public Notice Website created in Section 63F-1-701, for two
-weeks before the hearing.
-(ii)  The last publication of notice under Subsection (2)(b)(i)(A) shall be at
-least three days before the public hearing under Subsection (2)(a).
-(c) (i)  In accordance with Subsection (2)(b)(i)(A), if there is no newspaper
-of general circulation within the future city, the petition sponsors shall
-post at least one notice of the hearing per 1,000 population in conspicuous
-places within the future city that are most likely to give notice of the
-hearing to the residents of the future city.
-(ii)  The petition sponsors shall post the notices under Subsection (2)(c)(i)
-at least seven days before the hearing under Subsection (2)(a).
+10-2-114.   Determination of number of council members -- Determination of election districts -- Hearings and notice.
+
+(1)  If the incorporation proposal passes, the petition sponsors shall, within 25 days of the canvass of the election under Section 10-2-111:
+
+(a)  if the voters at the incorporation election choose the council-mayor form of government, determine the number of council members that will constitute the council of the future city;
+
+(b)  if the voters at the incorporation election vote to elect council members by district, determine the number of council members to be elected by district and draw the boundaries of those districts, which shall be substantially equal in population;
+
+(c)  determine the initial terms of the mayor and members of the city council so that:
+
+(i)  the mayor and approximately half the members of the city council are elected to serve an initial term, of no less than one year, that allows their successors to serve a full four-year term that coincides with the schedule established in Subsection 10-3-205(1); and
+
+(ii)  the remaining members of the city council are elected to serve an initial term, of no less than one year, that allows their successors to serve a full four-year term that coincides with the schedule established in Subsection 10-3-205(2); and
+
+(d)  submit in writing to the county legislative body the results of the sponsors' determinations under Subsections (1)(a), (b), and (c).
+
+(2) (a)  Before making a determination under Subsection (1)(a), (b), or (c), the petition sponsors shall hold a public hearing within the future city on the applicable issues under Subsections (1)(a), (b), and (c).
+
+(b) (i)  The petition sponsors shall publish notice of the public hearing under Subsection (2)(a):
+
+(A)  in a newspaper of general circulation within the future city at least once a week for two successive weeks before the hearing; and
+
+(B)  on the Utah Public Notice Website created in Section 63F-1-701, for two weeks before the hearing.
+
+(ii)  The last publication of notice under Subsection (2)(b)(i)(A) shall be at least three days before the public hearing under Subsection (2)(a).
+
+(c) (i)  In accordance with Subsection (2)(b)(i)(A), if there is no newspaper of general circulation within the future city, the petition sponsors shall post at least one notice of the hearing per 1,000 population in conspicuous places within the future city that are most likely to give notice of the hearing to the residents of the future city.
+
+(ii)  The petition sponsors shall post the notices under Subsection (2)(c)(i) at least seven days before the hearing under Subsection (2)(a).
+

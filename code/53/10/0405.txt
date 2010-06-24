@@ -1,22 +1,18 @@
-53-10-405 (Superseded 01/01/11).   DNA specimen analysis -- Saliva sample to
-be obtained by agency -- Blood sample to be drawn by professional.
-(1) (a)  A blood sample shall be drawn in a medically acceptable manner by a
-licensed professional nurse, a licensed practical nurse, a paramedic, a
-qualified medical technician, a licensed physician, or other person licensed
-by the state for this purpose.
-(b)  A person authorized by this section to draw a blood sample may not be
-held civilly liable for drawing a sample in a medically acceptable manner.
-(2) (a)  A saliva sample shall be obtained by the responsible agency, as
-provided under Subsection 53-10-404(5).
-(b)  The sample shall be obtained in a professionally acceptable manner, using
-appropriate procedures to ensure the sample is adequate for DNA analysis.
-(3) A test result or opinion based upon a test result regarding a DNA specimen
-may not be rendered inadmissible as evidence solely because of deviations from
-procedures adopted by the department that do not affect the reliability of the
-opinion or test result.
+53-10-405 (Superseded 01/01/11).   DNA specimen analysis -- Saliva sample to be obtained by agency -- Blood sample to be drawn by professional.
+
+(1) (a)  A blood sample shall be drawn in a medically acceptable manner by a licensed professional nurse, a licensed practical nurse, a paramedic, a qualified medical technician, a licensed physician, or other person licensed by the state for this purpose.
+
+(b)  A person authorized by this section to draw a blood sample may not be held civilly liable for drawing a sample in a medically acceptable manner.
+
+(2) (a)  A saliva sample shall be obtained by the responsible agency, as provided under Subsection 53-10-404(5).
+
+(b)  The sample shall be obtained in a professionally acceptable manner, using appropriate procedures to ensure the sample is adequate for DNA analysis.
+
+(3) A test result or opinion based upon a test result regarding a DNA specimen may not be rendered inadmissible as evidence solely because of deviations from procedures adopted by the department that do not affect the reliability of the opinion or test result.
+
 (4) A DNA specimen is not required to be obtained if:
-(a)  the department notifies the court or the responsible agency that it has
-previously received an adequate DNA specimen obtained from the convicted
-person in accordance with this section; or
-(b)  the court determines that obtaining a DNA specimen would create a
-substantial and unreasonable risk to the health of the convicted person.
+
+(a)  the department notifies the court or the responsible agency that it has previously received an adequate DNA specimen obtained from the convicted person in accordance with this section; or
+
+(b)  the court determines that obtaining a DNA specimen would create a substantial and unreasonable risk to the health of the convicted person.
+

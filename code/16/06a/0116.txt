@@ -1,15 +1,14 @@
 16-6a-116.   Private foundations.
-Except as otherwise specified in the articles of incorporation or as provided
-by a court of competent jurisdiction, a nonprofit corporation that is a
-private foundation as defined in Section 509(a), Internal Revenue Code:
-(1)  shall make distributions for each taxable year at the time and in the
-manner as not to subject the nonprofit corporation to tax under Section 4942,
-Internal Revenue Code;
-(2)  may not engage in any act of self-dealing as defined in Section 4941(d),
-Internal Revenue Code;
-(3)  may not retain any excess business holdings as defined in Section
-4943(c), Internal Revenue Code;
-(4)  may not make any investments that would subject the nonprofit corporation
-to taxation under Section 4944, Internal Revenue Code; and
-(5)  may not make any taxable expenditures as defined in Section 4945(d),
-Internal Revenue Code.
+
+Except as otherwise specified in the articles of incorporation or as provided by a court of competent jurisdiction, a nonprofit corporation that is a private foundation as defined in Section 509(a), Internal Revenue Code:
+
+(1)  shall make distributions for each taxable year at the time and in the manner as not to subject the nonprofit corporation to tax under Section 4942, Internal Revenue Code;
+
+(2)  may not engage in any act of self-dealing as defined in Section 4941(d), Internal Revenue Code;
+
+(3)  may not retain any excess business holdings as defined in Section 4943(c), Internal Revenue Code;
+
+(4)  may not make any investments that would subject the nonprofit corporation to taxation under Section 4944, Internal Revenue Code; and
+
+(5)  may not make any taxable expenditures as defined in Section 4945(d), Internal Revenue Code.
+

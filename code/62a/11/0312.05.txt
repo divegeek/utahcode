@@ -1,26 +1,20 @@
 62A-11-312.5.   Liens by operation of law and writs of garnishment.
-(1)  Each payment or installment of child support is, on and after the date it
-is due, a judgment with the same attributes and effect of any judgment of a
-district court in accordance with Section 78B-12-112 and for purposes of
-Section 78B-5-202.
-(2) (a)  A judgment under Subsection (1) or final administrative order shall
-constitute a lien against the real property of the obligor upon the filing of
-a notice of judgment-lien in the district court where the obligor's real
-property is located if the notice:
+
+(1)  Each payment or installment of child support is, on and after the date it is due, a judgment with the same attributes and effect of any judgment of a district court in accordance with Section 78B-12-112 and for purposes of Section 78B-5-202.
+
+(2) (a)  A judgment under Subsection (1) or final administrative order shall constitute a lien against the real property of the obligor upon the filing of a notice of judgment-lien in the district court where the obligor's real property is located if the notice:
+
 (i)  specifies the amount of past-due support; and
+
 (ii)  complies with the procedural requirements of Section 78B-5-202.
-(b)  Rule 69, Utah Rules of Civil Procedure, shall apply to any action brought
-to execute a judgment or final administrative order under this section against
-real or personal property in the obligor's possession.
-(3) (a)  The office may issue a writ of garnishment against the obligor's
-personal property in the possession of a third party for a judgment under
-Subsection (1) or a final administrative order in the same manner and with the
-same effect as if the writ were issued on a judgment of a district court if:
-(i)  the judgment or final administrative order is recorded on the office's
-automated case registry; and
-(ii)  the writ is signed by the director or the director's designee and served
-by certified mail, return receipt requested, or as prescribed by Rule 4, Utah
-Rules of Civil Procedure.
-(b)  A writ of garnishment issued under Subsection (3)(a) is subject to the
-procedures and due process protections provided by Rule 64D, Utah Rules of
-Civil Procedure, except as provided by Section 62A-11-316.
+
+(b)  Rule 69, Utah Rules of Civil Procedure, shall apply to any action brought to execute a judgment or final administrative order under this section against real or personal property in the obligor's possession.
+
+(3) (a)  The office may issue a writ of garnishment against the obligor's personal property in the possession of a third party for a judgment under Subsection (1) or a final administrative order in the same manner and with the same effect as if the writ were issued on a judgment of a district court if:
+
+(i)  the judgment or final administrative order is recorded on the office's automated case registry; and
+
+(ii)  the writ is signed by the director or the director's designee and served by certified mail, return receipt requested, or as prescribed by Rule 4, Utah Rules of Civil Procedure.
+
+(b)  A writ of garnishment issued under Subsection (3)(a) is subject to the procedures and due process protections provided by Rule 64D, Utah Rules of Civil Procedure, except as provided by Section 62A-11-316.
+

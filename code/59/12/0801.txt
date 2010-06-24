@@ -1,42 +1,58 @@
 59-12-801.   Definitions.
+
 As used in this part:
+
 (1)  "Emergency medical services" is as defined in Section 26-8a-102.
-(2)  "Federally qualified health center" is as defined in 42 U.S.C. Sec.
-1395x.
-(3)  "Freestanding urgent care center" means a facility that provides
-outpatient health care service:
+
+(2)  "Federally qualified health center" is as defined in 42 U.S.C. Sec. 1395x.
+
+(3)  "Freestanding urgent care center" means a facility that provides outpatient health care service:
+
 (a)  on an as-needed basis, without an appointment;
+
 (b)  to the public;
-(c)  for the diagnosis and treatment of a medical condition if that medical
-condition does not require hospitalization or emergency intervention for a
-life threatening or potentially permanently disabling condition; and
+
+(c)  for the diagnosis and treatment of a medical condition if that medical condition does not require hospitalization or emergency intervention for a life threatening or potentially permanently disabling condition; and
+
 (d)  including one or more of the following services:
+
 (i)  a medical history physical examination;
+
 (ii)  an assessment of health status; or
+
 (iii)  treatment:
+
 (A)  for a variety of medical conditions; and
+
 (B)  that is commonly offered in a physician's office.
+
 (4)  "Nursing care facility" is as defined in Section 26-21-2.
-(5)  "Rural city hospital" means a hospital owned by a city that is located
-within a third, fourth, fifth, or sixth class county.
+
+(5)  "Rural city hospital" means a hospital owned by a city that is located within a third, fourth, fifth, or sixth class county.
+
 (6)  "Rural county health care facility" means a:
+
 (a)  rural county hospital; or
+
 (b)   rural county nursing care facility.
+
 (7)  "Rural county hospital" means a hospital owned by a county that is:
-(a)  a third, fourth, fifth, or sixth class county, as defined in Section
-17-50-501; and
-(b)  located outside of a standard metropolitan statistical area, as
-designated by the United States Bureau of the Census.
-(8)  "Rural county nursing care facility" means a nursing care facility owned
-by a county that is:
-(a)  a third, fourth, fifth, or sixth class county, as defined in Section
-17-50-501; and
-(b)  located outside of a standard metropolitan statistical area, as
-designated by the United States Census Bureau.
-(9)  "Rural emergency medical services" means emergency medical services that
-are provided by a county that is:
-(a)  a third, fourth, fifth, or sixth class county, as defined in Section
-17-50-501; and
-(b)  located outside of a standard metropolitan statistical area, as
-designated by the United States Census Bureau.
+
+(a)  a third, fourth, fifth, or sixth class county, as defined in Section 17-50-501; and
+
+(b)  located outside of a standard metropolitan statistical area, as designated by the United States Bureau of the Census.
+
+(8)  "Rural county nursing care facility" means a nursing care facility owned by a county that is:
+
+(a)  a third, fourth, fifth, or sixth class county, as defined in Section 17-50-501; and
+
+(b)  located outside of a standard metropolitan statistical area, as designated by the United States Census Bureau.
+
+(9)  "Rural emergency medical services" means emergency medical services that are provided by a county that is:
+
+(a)  a third, fourth, fifth, or sixth class county, as defined in Section 17-50-501; and
+
+(b)  located outside of a standard metropolitan statistical area, as designated by the United States Census Bureau.
+
 (10)  "Rural health clinic" is as defined in 42 U.S.C. Sec. 1395x.
+

@@ -1,43 +1,38 @@
 57-26-107.   Enforcement by appointment of receiver.
-(1)  An assignee is entitled to the appointment of a receiver for the real
-property subject to the assignment of rents if:
+
+(1)  An assignee is entitled to the appointment of a receiver for the real property subject to the assignment of rents if:
+
 (a)  the assignor is in default and:
-(i)  the assignor has agreed in a signed document to the appointment of a
-receiver in the event of the assignor's default;
-(ii)  it appears likely that the real property may not be sufficient to
-satisfy the secured obligation;
-(iii)  the assignor has failed to turn over to the assignee proceeds that the
-assignee was entitled to collect; or
-(iv)  a subordinate assignee of rents obtains the appointment of a receiver
-for the real property; or
-(b)  other circumstances exist that would justify the appointment of a
-receiver under law of this state other than this chapter.
-(2)  An assignee may file a petition for the appointment of a receiver in
-connection with an action:
+
+(i)  the assignor has agreed in a signed document to the appointment of a receiver in the event of the assignor's default;
+
+(ii)  it appears likely that the real property may not be sufficient to satisfy the secured obligation;
+
+(iii)  the assignor has failed to turn over to the assignee proceeds that the assignee was entitled to collect; or
+
+(iv)  a subordinate assignee of rents obtains the appointment of a receiver for the real property; or
+
+(b)  other circumstances exist that would justify the appointment of a receiver under law of this state other than this chapter.
+
+(2)  An assignee may file a petition for the appointment of a receiver in connection with an action:
+
 (a)  to foreclose the security instrument;
+
 (b)  for specific performance of the assignment;
-(c)  seeking a remedy on account of waste or threatened waste of the real
-property subject to the assignment; or
-(d)  otherwise to enforce the secured obligation or the assignee's remedies
-arising from the assignment.
-(3)  An assignee that files a petition under Subsection (2) shall also give a
-copy of the petition in the manner specified in Section 57-26-103 to any other
-person that, 10 days before the date the petition is filed, held a recorded
-assignment of rents arising from the real property.
-(4)  If an assignee enforces an assignment of rents under this section, the
-date of enforcement is the date on which the court enters an order appointing
-a receiver for the real property subject to the assignment.
-(5)  From the date of its appointment, a receiver is entitled to collect rents
-as provided in Subsection 57-26-106(2).  The receiver also has the authority
-provided in the order of appointment and law of this state other than this
-chapter.
+
+(c)  seeking a remedy on account of waste or threatened waste of the real property subject to the assignment; or
+
+(d)  otherwise to enforce the secured obligation or the assignee's remedies arising from the assignment.
+
+(3)  An assignee that files a petition under Subsection (2) shall also give a copy of the petition in the manner specified in Section 57-26-103 to any other person that, 10 days before the date the petition is filed, held a recorded assignment of rents arising from the real property.
+
+(4)  If an assignee enforces an assignment of rents under this section, the date of enforcement is the date on which the court enters an order appointing a receiver for the real property subject to the assignment.
+
+(5)  From the date of its appointment, a receiver is entitled to collect rents as provided in Subsection 57-26-106(2).  The receiver also has the authority provided in the order of appointment and law of this state other than this chapter.
+
 (6)  The following rules govern priority among receivers:
-(a)  If more than one assignee qualifies under this section for the
-appointment of a receiver, a receivership requested by an assignee entitled to
-priority in rents under this chapter has priority over a receivership
-requested by a subordinate assignee, even if a court has previously appointed
-a receiver for the subordinate assignee.
-(b)  If a subordinate assignee obtains the appointment of a receiver, the
-receiver may collect the rents and apply the proceeds in the manner specified
-in the order appointing the receiver until a receiver is appointed under a
-senior assignment of rents.
+
+(a)  If more than one assignee qualifies under this section for the appointment of a receiver, a receivership requested by an assignee entitled to priority in rents under this chapter has priority over a receivership requested by a subordinate assignee, even if a court has previously appointed a receiver for the subordinate assignee.
+
+(b)  If a subordinate assignee obtains the appointment of a receiver, the receiver may collect the rents and apply the proceeds in the manner specified in the order appointing the receiver until a receiver is appointed under a senior assignment of rents.
+

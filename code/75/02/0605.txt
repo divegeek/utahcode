@@ -1,17 +1,12 @@
 75-2-605.   Increase in securities -- Accessions.
-(1)  If a testator executes a will that devises securities and the testator
-then owned securities that meet the description in the will, the devise
-includes additional securities owned by the testator at death to the extent
-the additional securities were acquired by the testator after the will was
-executed as a result of the testator's ownership of the described securities
-and are securities of any of the following types:
-(a)  securities of the same organization acquired by reason of action
-initiated by the organization or any successor, related, or acquiring
-organization, excluding any acquired by exercise of purchase options;
-(b)  securities of another organization acquired as a result of a merger,
-consolidation, reorganization, or other distribution by the organization or
-any successor, related, or acquiring organization;  or
-(c)  securities of the same organization acquired as a result of a plan of
-reinvestment.
-(2)  Distributions in cash before death with respect to a described security
-are not part of the devise.
+
+(1)  If a testator executes a will that devises securities and the testator then owned securities that meet the description in the will, the devise includes additional securities owned by the testator at death to the extent the additional securities were acquired by the testator after the will was executed as a result of the testator's ownership of the described securities and are securities of any of the following types:
+
+(a)  securities of the same organization acquired by reason of action initiated by the organization or any successor, related, or acquiring organization, excluding any acquired by exercise of purchase options;
+
+(b)  securities of another organization acquired as a result of a merger, consolidation, reorganization, or other distribution by the organization or any successor, related, or acquiring organization;  or
+
+(c)  securities of the same organization acquired as a result of a plan of reinvestment.
+
+(2)  Distributions in cash before death with respect to a described security are not part of the devise.
+

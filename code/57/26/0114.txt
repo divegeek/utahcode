@@ -1,37 +1,22 @@
-57-26-114.   Turnover of rents -- Commingling and identifiability of rents
--- Liability of assignor.
-(1)  In this section, "good faith" means honesty in fact and the observance of
-reasonable commercial standards of fair dealing.
-(2)  If an assignor collects rents that the assignee is entitled to collect
-under this chapter:
-(a)  the assignor shall turn over the proceeds to the assignee, less any
-amount representing payment of expenses authorized by the assignee; and
-(b)  the assignee continues to have a security interest in the proceeds so
-long as they are identifiable.
-(3)  For purposes of this chapter, cash proceeds are identifiable if they are
-maintained in a segregated account or, if commingled with other funds, to the
-extent the assignee can identify them by a method of tracing, including
-application of equitable principles, that is permitted under law of this state
-other than this chapter with respect to commingled funds.
-(4)  In addition to any other remedy available to the assignee under law of
-this state other than this chapter, if an assignor fails to turn over proceeds
-to the assignee as required by Subsection (2), the assignee may recover from
-the assignor in a civil action:
-(a)  the proceeds, or an amount equal to the proceeds, that the assignor was
-obligated to turn over under Subsection (2); and
-(b)  reasonable attorney fees and costs incurred by the assignee to the extent
-provided for by agreement and not prohibited by law of this state other than
-this chapter.
-(5)  The assignee may maintain an action under Subsection (4) without bringing
-an action to foreclose any security interest that it may have in the real
-property.  Any sums recovered in the action must be applied in the manner
-specified in Section 57-26-112.
-(6)  Unless otherwise agreed, if an assignee entitled to priority under
-Subsection 57-26-105(3) enforces its interest in rents after another creditor
-holding a subordinate security interest in rents has enforced its interest
-under Section 57-26-108 or 57-26-109, the creditor holding the subordinate
-security interest in rents is not obligated to turn over any proceeds that it
-collects in good faith before the creditor receives notification that the
-senior assignee has enforced its interest in rents.  The creditor shall turn
-over to the senior assignee any proceeds that it collects after it receives
-the notification.
+57-26-114.   Turnover of rents -- Commingling and identifiability of rents -- Liability of assignor.
+
+(1)  In this section, "good faith" means honesty in fact and the observance of reasonable commercial standards of fair dealing.
+
+(2)  If an assignor collects rents that the assignee is entitled to collect under this chapter:
+
+(a)  the assignor shall turn over the proceeds to the assignee, less any amount representing payment of expenses authorized by the assignee; and
+
+(b)  the assignee continues to have a security interest in the proceeds so long as they are identifiable.
+
+(3)  For purposes of this chapter, cash proceeds are identifiable if they are maintained in a segregated account or, if commingled with other funds, to the extent the assignee can identify them by a method of tracing, including application of equitable principles, that is permitted under law of this state other than this chapter with respect to commingled funds.
+
+(4)  In addition to any other remedy available to the assignee under law of this state other than this chapter, if an assignor fails to turn over proceeds to the assignee as required by Subsection (2), the assignee may recover from the assignor in a civil action:
+
+(a)  the proceeds, or an amount equal to the proceeds, that the assignor was obligated to turn over under Subsection (2); and
+
+(b)  reasonable attorney fees and costs incurred by the assignee to the extent provided for by agreement and not prohibited by law of this state other than this chapter.
+
+(5)  The assignee may maintain an action under Subsection (4) without bringing an action to foreclose any security interest that it may have in the real property.  Any sums recovered in the action must be applied in the manner specified in Section 57-26-112.
+
+(6)  Unless otherwise agreed, if an assignee entitled to priority under Subsection 57-26-105(3) enforces its interest in rents after another creditor holding a subordinate security interest in rents has enforced its interest under Section 57-26-108 or 57-26-109, the creditor holding the subordinate security interest in rents is not obligated to turn over any proceeds that it collects in good faith before the creditor receives notification that the senior assignee has enforced its interest in rents.  The creditor shall turn over to the senior assignee any proceeds that it collects after it receives the notification.
+

@@ -1,30 +1,42 @@
 62A-3-311.1.   Statewide database -- Restricted use and access.
-(1)  The division shall maintain a database for reports of vulnerable adult
-abuse, neglect, or exploitation made pursuant to this part.
+
+(1)  The division shall maintain a database for reports of vulnerable adult abuse, neglect, or exploitation made pursuant to this part.
+
 (2)  The database shall include:
-(a)  the names and identifying data of the alleged abused, neglected, or
-exploited vulnerable adult and the alleged perpetrator;
-(b)  information regarding whether or not the allegation of abuse, neglect, or
-exploitation was found to be:
+
+(a)  the names and identifying data of the alleged abused, neglected, or exploited vulnerable adult and the alleged perpetrator;
+
+(b)  information regarding whether or not the allegation of abuse, neglect, or exploitation was found to be:
+
 (i)  supported;
+
 (ii)  inconclusive;
+
 (iii)  without merit; or
+
 (iv)  for reports for which the finding is made before May 5, 2008:
+
 (A)  substantiated; or
+
 (B)  unsubstantiated; and
-(c)  any other information that may be helpful in furthering the purposes of
-this part, as determined by the division.
+
+(c)  any other information that may be helpful in furthering the purposes of this part, as determined by the division.
+
 (3)  Information obtained from the database may be used only:
-(a) for statistical summaries compiled by the department that do not include
-names or other identifying data;
-(b)  where identification of a person as a perpetrator may be relevant in a
-determination regarding whether to grant or deny a license, privilege, or
-approval made by:
+
+(a) for statistical summaries compiled by the department that do not include names or other identifying data;
+
+(b)  where identification of a person as a perpetrator may be relevant in a determination regarding whether to grant or deny a license, privilege, or approval made by:
+
 (i)  the department;
+
 (ii)  the Division of Occupational and Professional Licensing;
+
 (iii)  the Bureau of Licensing, within the Department of Health;
-(iv)  any government agency specifically authorized by statute to access or
-use the information in the database; or
-(v)  an agency of another state that performs a similar function to an agency
-described in Subsections (3)(b)(i) through (iv); or
+
+(iv)  any government agency specifically authorized by statute to access or use the information in the database; or
+
+(v)  an agency of another state that performs a similar function to an agency described in Subsections (3)(b)(i) through (iv); or
+
 (c)  as otherwise specifically provided by law.
+

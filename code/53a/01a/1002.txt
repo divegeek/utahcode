@@ -1,59 +1,60 @@
-53A-1a-1002.   Pilot project to develop school readiness skills of preschool
-children.
-(1)  UPSTART, a pilot project that uses a home-based educational technology
-program to develop school readiness skills of preschool children, is
-established within the public education system.
+53A-1a-1002.   Pilot project to develop school readiness skills of preschool children.
+
+(1)  UPSTART, a pilot project that uses a home-based educational technology program to develop school readiness skills of preschool children, is established within the public education system.
+
 (2)  UPSTART is created to:
-(a)  evaluate the effectiveness of giving preschool children access, at home,
-to interactive individualized instruction delivered by computers and the
-Internet to prepare them academically for success in school; and
-(b)  test the feasibility of scaling a home-based curriculum in reading, math,
-and science delivered by computers and the Internet to all preschool children
-in Utah.
-(3)  The State Board of Education shall contract with an educational
-technology provider, selected through a request for proposals process, for the
-delivery of a home-based educational technology program for preschool children
-that meets the requirements of Subsection (4).
-(4)  A home-based educational technology program for preschool children shall
-meet the following standards:
-(a)  the contractor shall provide computer-assisted instruction for preschool
-children on a home computer connected by the Internet to a centralized file
-storage facility;
+
+(a)  evaluate the effectiveness of giving preschool children access, at home, to interactive individualized instruction delivered by computers and the Internet to prepare them academically for success in school; and
+
+(b)  test the feasibility of scaling a home-based curriculum in reading, math, and science delivered by computers and the Internet to all preschool children in Utah.
+
+(3)  The State Board of Education shall contract with an educational technology provider, selected through a request for proposals process, for the delivery of a home-based educational technology program for preschool children that meets the requirements of Subsection (4).
+
+(4)  A home-based educational technology program for preschool children shall meet the following standards:
+
+(a)  the contractor shall provide computer-assisted instruction for preschool children on a home computer connected by the Internet to a centralized file storage facility;
+
 (b)  the contractor shall:
-(i)  provide technical support to families for the installation and operation
-of the instructional software; and
-(ii)  provide for the installation of computer and Internet access in homes of
-low income families that cannot afford the equipment and service;
-(c)  the contractor shall have the capability of doing the following through
-the Internet:
+
+(i)  provide technical support to families for the installation and operation of the instructional software; and
+
+(ii)  provide for the installation of computer and Internet access in homes of low income families that cannot afford the equipment and service;
+
+(c)  the contractor shall have the capability of doing the following through the Internet:
+
 (i)  communicating with parents;
+
 (ii)  updating the instructional software;
+
 (iii)  validating user access;
+
 (iv)  collecting usage data;
+
 (v)  storing research data; and
+
 (vi)  producing reports for parents, schools, and the Legislature;
+
 (d)  the program shall include the following components:
-(i)  computer-assisted, individualized instruction in reading, mathematics,
-and science;
+
+(i)  computer-assisted, individualized instruction in reading, mathematics, and science;
+
 (ii)  a multisensory reading tutoring program; and
-(iii)  a validated computer adaptive reading test that does not require the
-presence of trained adults to administer and is an accurate indicator of
-reading readiness of children who cannot read;
-(e)  the contractor shall have the capability to quickly and efficiently
-modify, improve, and support the product;
-(f)  the contractor shall work in cooperation with school district personnel
-who will provide administrative and technical support of the program as
-provided in Section 53A-1a-1003;
-(g)  the contractor shall solicit families to participate in the program as
-provided in Section 53A-1a-1004; and
-(h)  in implementing the home-based educational technology program, the
-contractor shall seek the advise and expertise of early childhood education
-professionals within the Utah System of Higher Education on issues such as:
+
+(iii)  a validated computer adaptive reading test that does not require the presence of trained adults to administer and is an accurate indicator of reading readiness of children who cannot read;
+
+(e)  the contractor shall have the capability to quickly and efficiently modify, improve, and support the product;
+
+(f)  the contractor shall work in cooperation with school district personnel who will provide administrative and technical support of the program as provided in Section 53A-1a-1003;
+
+(g)  the contractor shall solicit families to participate in the program as provided in Section 53A-1a-1004; and
+
+(h)  in implementing the home-based educational technology program, the contractor shall seek the advise and expertise of early childhood education professionals within the Utah System of Higher Education on issues such as:
+
 (i)  soliciting families to participate in the program;
+
 (ii)  providing training to families; and
+
 (iii)  motivating families to regularly use the instructional software.
-(5)  The contract shall provide funding for a home-based educational
-technology program for preschool children for one year with an option to
-extend the contract for additional years or to expand the program to a greater
-number of preschool children, subject to the appropriation of money by the
-Legislature for UPSTART.
+
+(5)  The contract shall provide funding for a home-based educational technology program for preschool children for one year with an option to extend the contract for additional years or to expand the program to a greater number of preschool children, subject to the appropriation of money by the Legislature for UPSTART.
+

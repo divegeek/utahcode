@@ -1,48 +1,14 @@
-57-1-31.   Trust deeds -- Default in performance of obligations secured --
-Reinstatement -- Cancellation of recorded notice of default.
-(1)  Whenever all or a portion of the principal sum of any obligation secured
-by a trust deed has, prior to the maturity date fixed in the obligation,
-become due or been declared due by reason of a breach or default in the
-performance of any obligation secured by the trust deed, including a default
-in the payment of interest or of any installment of principal, or by reason of
-failure of the trustor to pay, in accordance with the terms of the trust deed,
-taxes, assessments, premiums for insurance, or advances made by the
-beneficiary in accordance with terms of  the obligation or of the trust deed,
-the trustor or the trustor's successor in interest in the trust property or
-any part of the trust property or any other person having a subordinate lien
-or encumbrance of record on the trust property or any beneficiary under a
-subordinate trust deed, at any time within three months of the filing for
-record of notice of default under the trust deed, if the power of sale is to
-be exercised, may pay to the beneficiary or the beneficiary's successor in
-interest the entire amount then due under the terms of the trust deed
-(including costs and expenses actually incurred in enforcing the terms of the
-obligation, or trust deed, and the trustee's and attorney's fees actually
-incurred) other than that portion of the principal as would not then be due
-had no default occurred, and thereby cure the existing default.  After the
-beneficiary or beneficiary's successor in interest has been paid and the
-default cured, the obligation and trust deed shall be reinstated as if no
-acceleration had occurred.
-(2)  If the default is cured and the trust deed reinstated in the manner
-provided in Subsection (1), and a reasonable fee is paid for cancellation,
-including the cost of recording the cancellation of notice of default, the
-trustee shall execute, acknowledge, and deliver a cancellation of the recorded
-notice of default under the trust deed; and any trustee who refuses to execute
-and record this cancellation within 30 days is liable to the person curing the
-default for all actual damages resulting from this refusal.  A reconveyance
-given by the trustee or the execution of a trustee's deed constitutes a
-cancellation of a notice of default.  Otherwise, a cancellation of a recorded
-notice of default under a trust deed is, when acknowledged, entitled to be
-recorded and is sufficient if made and executed by the trustee in
-substantially the following form:
+57-1-31.   Trust deeds -- Default in performance of obligations secured -- Reinstatement -- Cancellation of recorded notice of default.
+
+(1)  Whenever all or a portion of the principal sum of any obligation secured by a trust deed has, prior to the maturity date fixed in the obligation, become due or been declared due by reason of a breach or default in the performance of any obligation secured by the trust deed, including a default in the payment of interest or of any installment of principal, or by reason of failure of the trustor to pay, in accordance with the terms of the trust deed, taxes, assessments, premiums for insurance, or advances made by the beneficiary in accordance with terms of  the obligation or of the trust deed, the trustor or the trustor's successor in interest in the trust property or any part of the trust property or any other person having a subordinate lien or encumbrance of record on the trust property or any beneficiary under a subordinate trust deed, at any time within three months of the filing for record of notice of default under the trust deed, if the power of sale is to be exercised, may pay to the beneficiary or the beneficiary's successor in interest the entire amount then due under the terms of the trust deed (including costs and expenses actually incurred in enforcing the terms of the obligation, or trust deed, and the trustee's and attorney's fees actually incurred) other than that portion of the principal as would not then be due had no default occurred, and thereby cure the existing default.  After the beneficiary or beneficiary's successor in interest has been paid and the default cured, the obligation and trust deed shall be reinstated as if no acceleration had occurred.
+
+(2)  If the default is cured and the trust deed reinstated in the manner provided in Subsection (1), and a reasonable fee is paid for cancellation, including the cost of recording the cancellation of notice of default, the trustee shall execute, acknowledge, and deliver a cancellation of the recorded notice of default under the trust deed; and any trustee who refuses to execute and record this cancellation within 30 days is liable to the person curing the default for all actual damages resulting from this refusal.  A reconveyance given by the trustee or the execution of a trustee's deed constitutes a cancellation of a notice of default.  Otherwise, a cancellation of a recorded notice of default under a trust deed is, when acknowledged, entitled to be recorded and is sufficient if made and executed by the trustee in substantially the following form:
+
 Cancellation of Notice of Default
-The undersigned hereby cancels the notice of default filed for record
-__________(month\day\year), and recorded in Book ____, Page ____, Records of
-____ County, (or filed of record __________(month\day\year), with recorder's
-entry No.  ____, ____ County), Utah, which notice of default refers to the
-trust deed executed by ____ and ___________ as trustors, in which ____ is
-named as beneficiary and ____ as trustee, and filed for record
-__________(month\day\year), and recorded in Book ____, Page ____, Records of
-____ County, (or filed of record __________(month\day\year), with recorder's
-entry No.  ____, ____ County), Utah.
+
+The undersigned hereby cancels the notice of default filed for record __________(month\day\year), and recorded in Book ____, Page ____, Records of ____ County, (or filed of record __________(month\day\year), with recorder's entry No.  ____, ____ County), Utah, which notice of default refers to the trust deed executed by ____ and ___________ as trustors, in which ____ is named as beneficiary and ____ as trustee, and filed for record __________(month\day\year), and recorded in Book ____, Page ____, Records of ____ County, (or filed of record __________(month\day\year), with recorder's entry No.  ____, ____ County), Utah.
+
 (legal description)
+
 Signature of Trustee ______________________________________________________
+

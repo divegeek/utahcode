@@ -1,15 +1,6 @@
-31A-5-415.   Officers', directors', and employees' liability and
-indemnification.
-(1)  Section 16-10a-841 applies to the liabilities of directors of a stock
-corporation.  Subsection 16-6a-825(3) applies to loans to trustees and
-officers of a mutual.  A director who votes for or assents to a violation of
-Subsection 16-6a-825(3) or Section 16-10a-842 is jointly and severally liable
-to the corporation for any loss on the distribution.
-(2)  Part 9, Indemnification, of Title 16, Chapter 10a, Utah Revised Business
-Corporation Act, applies to stock and mutual corporations, but no
-indemnification may be paid until 30 or more days after sending a notice to
-the commissioner of the full details of the proposed indemnification.  The
-commissioner may bring an action in Third Judicial District Court for Salt
-Lake County to have such indemnification enjoined.  The court may enjoin the
-indemnification to the extent it would render the insurer in a hazardous
-condition, or exacerbate an existing financially hazardous condition.
+31A-5-415.   Officers', directors', and employees' liability and indemnification.
+
+(1)  Section 16-10a-841 applies to the liabilities of directors of a stock corporation.  Subsection 16-6a-825(3) applies to loans to trustees and officers of a mutual.  A director who votes for or assents to a violation of Subsection 16-6a-825(3) or Section 16-10a-842 is jointly and severally liable to the corporation for any loss on the distribution.
+
+(2)  Part 9, Indemnification, of Title 16, Chapter 10a, Utah Revised Business Corporation Act, applies to stock and mutual corporations, but no indemnification may be paid until 30 or more days after sending a notice to the commissioner of the full details of the proposed indemnification.  The commissioner may bring an action in Third Judicial District Court for Salt Lake County to have such indemnification enjoined.  The court may enjoin the indemnification to the extent it would render the insurer in a hazardous condition, or exacerbate an existing financially hazardous condition.
+

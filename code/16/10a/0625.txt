@@ -1,34 +1,26 @@
 16-10a-625.   Form and content of certificates.
-(1)  Shares may but need not be represented by certificates.  Unless this
-chapter or another applicable statute expressly provides otherwise, the rights
-and obligations of shareholders are not affected by whether or not their
-shares are represented by certificates.
+
+(1)  Shares may but need not be represented by certificates.  Unless this chapter or another applicable statute expressly provides otherwise, the rights and obligations of shareholders are not affected by whether or not their shares are represented by certificates.
+
 (2)  Each share certificate shall state on its face:
-(a)  the name of the issuing corporation and that it is organized under the
-laws of this state;
+
+(a)  the name of the issuing corporation and that it is organized under the laws of this state;
+
 (b)  the name of the person to whom the certificate is issued; and
-(c)  the number and class of shares and the designation of the series, if any,
-the certificate represents.
-(3)  If the issuing corporation is authorized to issue different classes of
-shares or different series within a class, the designations, preferences,
-limitations, and relative rights applicable to each class, the variations in
-preferences, limitations, and relative rights determined for each series, and
-the authority of the board of directors to determine variations for any
-existing or future class or series, shall be summarized on the front or back
-of each share certificate. Alternatively, each certificate may state
-conspicuously on its front or back that the corporation will furnish the
-shareholder this information on request in writing and without charge.
+
+(c)  the number and class of shares and the designation of the series, if any, the certificate represents.
+
+(3)  If the issuing corporation is authorized to issue different classes of shares or different series within a class, the designations, preferences, limitations, and relative rights applicable to each class, the variations in preferences, limitations, and relative rights determined for each series, and the authority of the board of directors to determine variations for any existing or future class or series, shall be summarized on the front or back of each share certificate. Alternatively, each certificate may state conspicuously on its front or back that the corporation will furnish the shareholder this information on request in writing and without charge.
+
 (4)  Each share certificate:
-(a) shall be signed by two officers designated in the bylaws or by the board
-of directors;
+
+(a) shall be signed by two officers designated in the bylaws or by the board of directors;
+
 (b)  may bear the corporate seal or its facsimile; and
-(c)  may contain any other information as the corporation considers necessary
-or appropriate.
-(5)  The signatures of the officers upon a certificate may be facsimiles if
-the certificate is countersigned by a transfer agent, or registered by a
-registrar, other than the corporation itself or an employee of the
-corporation.
-(6)  In case any officer who has signed or whose facsimile signature has been
-placed upon a certificate ceases to be an officer before the certificate is
-issued, the certificate may be issued by the corporation with the same effect
-as if the person were an officer at the date of its issue.
+
+(c)  may contain any other information as the corporation considers necessary or appropriate.
+
+(5)  The signatures of the officers upon a certificate may be facsimiles if the certificate is countersigned by a transfer agent, or registered by a registrar, other than the corporation itself or an employee of the corporation.
+
+(6)  In case any officer who has signed or whose facsimile signature has been placed upon a certificate ceases to be an officer before the certificate is issued, the certificate may be issued by the corporation with the same effect as if the person were an officer at the date of its issue.
+

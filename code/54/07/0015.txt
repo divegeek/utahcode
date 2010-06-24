@@ -1,39 +1,30 @@
-54-7-15.   Review or rehearing by commission -- Application -- Procedure --
-Prerequisite to court action -- Effect of commission decisions.
-(1)  Before seeking judicial review of the commission's action, any party,
-stockholder, bondholder, or other person pecuniarily interested in the public
-utility who is dissatisfied with an order of the commission shall meet the
-requirements of this section.
-(2) (a)  After any order or decision has been made by the commission, any
-party to the action or proceeding, any stockholder, bondholder, or other party
-pecuniarily interested in the public utility affected may apply for rehearing
-of any matters determined in the action or proceeding.
-(b)  An applicant may not urge or rely on any ground not set forth in the
-application in an appeal to any court.
-(c)  Any application for rehearing not granted by the commission within 20
-days is denied.
-(d) (i)  If the commission grants any application for rehearing without
-suspending the order involved, the commission shall issue its decision on
-rehearing within 20 days after final submission.
-(ii)  If the commission fails to render its decision on rehearing within 20
-days, the order involved is affirmed.
-(e)  Unless an order of the commission directs that an order is stayed or
-postponed, an application for review or rehearing does not excuse any
-corporation or person from complying with and obeying any order or decision of
-the commission.
-(3)  Any order or decision on rehearing that abrogates, changes, or modifies
-an original order or decision has the same effect as an original order or
-decision, but does not affect any right, or the enforcement of any right,
-arising from the original order or decision unless ordered by the commission.
+54-7-15.   Review or rehearing by commission -- Application -- Procedure -- Prerequisite to court action -- Effect of commission decisions.
+
+(1)  Before seeking judicial review of the commission's action, any party, stockholder, bondholder, or other person pecuniarily interested in the public utility who is dissatisfied with an order of the commission shall meet the requirements of this section.
+
+(2) (a)  After any order or decision has been made by the commission, any party to the action or proceeding, any stockholder, bondholder, or other party pecuniarily interested in the public utility affected may apply for rehearing of any matters determined in the action or proceeding.
+
+(b)  An applicant may not urge or rely on any ground not set forth in the application in an appeal to any court.
+
+(c)  Any application for rehearing not granted by the commission within 20 days is denied.
+
+(d) (i)  If the commission grants any application for rehearing without suspending the order involved, the commission shall issue its decision on rehearing within 20 days after final submission.
+
+(ii)  If the commission fails to render its decision on rehearing within 20 days, the order involved is affirmed.
+
+(e)  Unless an order of the commission directs that an order is stayed or postponed, an application for review or rehearing does not excuse any corporation or person from complying with and obeying any order or decision of the commission.
+
+(3)  Any order or decision on rehearing that abrogates, changes, or modifies an original order or decision has the same effect as an original order or decision, but does not affect any right, or the enforcement of any right, arising from the original order or decision unless ordered by the commission.
+
 (4)  An order of the commission, including a decision on rehearing:
-(a)  has effect only with respect to a public utility that is an actual party
-to the proceeding in which the order is rendered; and
-(b)  does not determine any right, privilege, obligation, duty, constraint,
-burden, or responsibility with respect to a public utility that is not a party
-to the proceeding in which the order is rendered unless, in accordance with
-Subsection 63G-3-201(6), the commission makes a rule that incorporates the one
-or more principles of law that:
+
+(a)  has effect only with respect to a public utility that is an actual party to the proceeding in which the order is rendered; and
+
+(b)  does not determine any right, privilege, obligation, duty, constraint, burden, or responsibility with respect to a public utility that is not a party to the proceeding in which the order is rendered unless, in accordance with Subsection 63G-3-201(6), the commission makes a rule that incorporates the one or more principles of law that:
+
 (i)  are established by the order;
+
 (ii)  are not in commission rules at the time of the order; and
-(iii)  affect the right, privilege, obligation, duty, constraint, burden, or
-responsibility with respect to the public utility.
+
+(iii)  affect the right, privilege, obligation, duty, constraint, burden, or responsibility with respect to the public utility.
+

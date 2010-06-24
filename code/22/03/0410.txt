@@ -1,13 +1,6 @@
 22-3-410.   Receipts normally apportioned -- Liquidating asset.
-(1)  In this section, "liquidating asset" means an asset whose value will
-diminish or terminate because the asset is expected to produce receipts for a
-period of limited duration.  The term includes a leasehold, patent, copyright,
-royalty right, and right to receive payments during a period of more than one
-year under an arrangement that does not provide for the payment of interest on
-the unpaid balance.  The term does not include a payment subject to Section
-22-3-409, resources subject to Section 22-3-411, timber subject to Section
-22-3-412, an activity subject to Section 22-3-414, an asset subject to Section
-22-3-415, or any asset for which the trustee establishes a reserve for
-depreciation under Section 22-3-503.
-(2)  A trustee shall allocate to income 10% of the receipts from a liquidating
-asset and the balance to principal.
+
+(1)  In this section, "liquidating asset" means an asset whose value will diminish or terminate because the asset is expected to produce receipts for a period of limited duration.  The term includes a leasehold, patent, copyright, royalty right, and right to receive payments during a period of more than one year under an arrangement that does not provide for the payment of interest on the unpaid balance.  The term does not include a payment subject to Section 22-3-409, resources subject to Section 22-3-411, timber subject to Section 22-3-412, an activity subject to Section 22-3-414, an asset subject to Section 22-3-415, or any asset for which the trustee establishes a reserve for depreciation under Section 22-3-503.
+
+(2)  A trustee shall allocate to income 10% of the receipts from a liquidating asset and the balance to principal.
+

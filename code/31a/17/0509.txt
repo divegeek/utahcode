@@ -1,10 +1,6 @@
 31A-17-509.   Minimum reserves.
-(1)  In no event shall a company's aggregate reserves for all life insurance
-policies, excluding accident and health and accidental death benefits, issued
-on or after January 1, 1994, be less than the aggregate reserves calculated in
-accordance with the methods set forth in Sections 31A-17-507, 31A-17-508,
-31A-17-511, and 31A-17-512 and the mortality table or tables and rate or rates
-of interest used in calculating nonforfeiture benefits for such policies.
-(2)  In no event shall the aggregate reserves for all policies, contracts, and
-benefits be less than the aggregate reserves determined by the qualified
-actuary to be necessary to render the opinion required by Section 31A-17-503.
+
+(1)  In no event shall a company's aggregate reserves for all life insurance policies, excluding accident and health and accidental death benefits, issued on or after January 1, 1994, be less than the aggregate reserves calculated in accordance with the methods set forth in Sections 31A-17-507, 31A-17-508, 31A-17-511, and 31A-17-512 and the mortality table or tables and rate or rates of interest used in calculating nonforfeiture benefits for such policies.
+
+(2)  In no event shall the aggregate reserves for all policies, contracts, and benefits be less than the aggregate reserves determined by the qualified actuary to be necessary to render the opinion required by Section 31A-17-503.
+

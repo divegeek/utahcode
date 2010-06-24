@@ -1,72 +1,54 @@
 76-1-201.   Jurisdiction of offenses.
-(1)  A person is subject to prosecution in this state for an offense which he
-commits, while either within or outside the state, by his own conduct or that
-of another for which he is legally accountable, if:
+
+(1)  A person is subject to prosecution in this state for an offense which he commits, while either within or outside the state, by his own conduct or that of another for which he is legally accountable, if:
+
 (a)  the offense is committed either wholly or partly within the state;
-(b)  the conduct outside the state constitutes an attempt to commit an offense
-within the state;
-(c)  the conduct outside the state constitutes a conspiracy to commit an
-offense within the state and an act in furtherance of the conspiracy occurs in
-the state; or
-(d)  the conduct within the state constitutes an attempt, solicitation, or
-conspiracy to commit in another jurisdiction an offense under the laws of both
-this state and the other jurisdiction.
-(2)  An offense is committed partly within this state if either the conduct
-which is any element of the offense, or the result which is an element, occurs
-within this state.
-(3)  In homicide offenses, the "result" is either the physical contact which
-causes death or the death itself.
-(a)  If the body of a homicide victim is found within the state, the death
-shall be presumed to have occurred within the state.
-(b)  If jurisdiction is based on this presumption, this state retains
-jurisdiction unless the defendant proves by clear and convincing evidence
-that:
+
+(b)  the conduct outside the state constitutes an attempt to commit an offense within the state;
+
+(c)  the conduct outside the state constitutes a conspiracy to commit an offense within the state and an act in furtherance of the conspiracy occurs in the state; or
+
+(d)  the conduct within the state constitutes an attempt, solicitation, or conspiracy to commit in another jurisdiction an offense under the laws of both this state and the other jurisdiction.
+
+(2)  An offense is committed partly within this state if either the conduct which is any element of the offense, or the result which is an element, occurs within this state.
+
+(3)  In homicide offenses, the "result" is either the physical contact which causes death or the death itself.
+
+(a)  If the body of a homicide victim is found within the state, the death shall be presumed to have occurred within the state.
+
+(b)  If jurisdiction is based on this presumption, this state retains jurisdiction unless the defendant proves by clear and convincing evidence that:
+
 (i)  the result of the homicide did not occur in this state; and
-(ii)  the defendant did not engage in any conduct in this state which is any
-element of the offense.
-(4)  An offense which is based on an omission to perform a duty imposed by the
-law of this state is committed within the state regardless of the location of
-the offender at the time of the omission.
-(5) (a)  If no jurisdictional issue is raised, the pleadings are sufficient to
-establish jurisdiction.
-(b) The defendant may challenge jurisdiction by filing a motion before trial
-stating which facts exist that deprive the state of jurisdiction.
-(c)  The burden is upon the state to initially establish jurisdiction over the
-offense by a preponderance of the evidence by showing under the provisions of
-Subsections (1) through (4) that the offense was committed either wholly or
-partly within the borders of the state.
-(d)  If after the prosecution has met its burden of proof under Subsection
-(5)(c) the defendant claims that the state is deprived of jurisdiction or may
-not exercise jurisdiction, the burden is upon the defendant to prove by a
-preponderance of the evidence:
+
+(ii)  the defendant did not engage in any conduct in this state which is any element of the offense.
+
+(4)  An offense which is based on an omission to perform a duty imposed by the law of this state is committed within the state regardless of the location of the offender at the time of the omission.
+
+(5) (a)  If no jurisdictional issue is raised, the pleadings are sufficient to establish jurisdiction.
+
+(b) The defendant may challenge jurisdiction by filing a motion before trial stating which facts exist that deprive the state of jurisdiction.
+
+(c)  The burden is upon the state to initially establish jurisdiction over the offense by a preponderance of the evidence by showing under the provisions of Subsections (1) through (4) that the offense was committed either wholly or partly within the borders of the state.
+
+(d)  If after the prosecution has met its burden of proof under Subsection (5)(c) the defendant claims that the state is deprived of jurisdiction or may not exercise jurisdiction, the burden is upon the defendant to prove by a preponderance of the evidence:
+
 (i)  any facts claimed; and
+
 (ii)  why those facts deprive the state of jurisdiction.
-(6)  Facts that deprive the state of jurisdiction or prohibit the state from
-exercising jurisdiction include the fact that the:
-(a)  defendant is serving in a position that is entitled to diplomatic
-immunity from prosecution and that the defendant's country has not waived that
-diplomatic immunity;
-(b)  defendant is a member of the armed forces of another country and that the
-crime that he is alleged to have committed is one that due to an international
-agreement, such as a status of forces agreement between his country and the
-United States, cedes the exercise of jurisdiction over him for that offense to
-his country;
-(c)  defendant is an enrolled member of an Indian tribe, as defined in Section
-9-9-101, and that the Indian tribe has a legal status with the United States
-or the state that vests jurisdiction in either tribal or federal courts for
-certain offenses committed within the exterior boundaries of a tribal
-reservation, and that the facts establish that the crime is one that vests
-jurisdiction in tribal or federal court; or
+
+(6)  Facts that deprive the state of jurisdiction or prohibit the state from exercising jurisdiction include the fact that the:
+
+(a)  defendant is serving in a position that is entitled to diplomatic immunity from prosecution and that the defendant's country has not waived that diplomatic immunity;
+
+(b)  defendant is a member of the armed forces of another country and that the crime that he is alleged to have committed is one that due to an international agreement, such as a status of forces agreement between his country and the United States, cedes the exercise of jurisdiction over him for that offense to his country;
+
+(c)  defendant is an enrolled member of an Indian tribe, as defined in Section 9-9-101, and that the Indian tribe has a legal status with the United States or the state that vests jurisdiction in either tribal or federal courts for certain offenses committed within the exterior boundaries of a tribal reservation, and that the facts establish that the crime is one that vests jurisdiction in tribal or federal court; or
+
 (d)  offense occurred on land that is exclusively within federal jurisdiction.
-(7) (a)  The Legislature finds that identity fraud under Chapter 6, Part 11,
-Identity Fraud Act, involves the use of personal identifying information which
-is uniquely personal to the consumer or business victim of that identity fraud
-and which information is considered to be in lawful possession of the consumer
-or business victim wherever the consumer or business victim currently resides
-or is found.
-(b)  For purposes of Subsection (1)(a), an offense which is based on a
-violation of Chapter 6, Part 11, Identity Fraud Act, is committed partly
-within this state, regardless of the location of the offender at the time of
-the offense, if the victim of the identity fraud resides or is found in this
-state.
+
+(7) (a)  The Legislature finds that identity fraud under Chapter 6, Part 11, Identity Fraud Act, involves the use of personal identifying information which is uniquely personal to the consumer or business victim of that identity fraud and which information is considered to be in lawful possession of the consumer or business victim wherever the consumer or business victim currently resides or is found.
+
+(b)  For purposes of Subsection (1)(a), an offense which is based on a violation of Chapter 6, Part 11, Identity Fraud Act, is committed partly within this state, regardless of the location of the offender at the time of the offense, if the victim of the identity fraud resides or is found in this state.
+
 (8)  The judge shall determine jurisdiction.
+

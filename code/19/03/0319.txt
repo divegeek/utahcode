@@ -1,82 +1,48 @@
 19-3-319.   State response to nuclear release and hazards.
-(1)  The state finds that the placement of high-level nuclear waste inside the
-exterior boundaries of the state is an ultra-hazardous activity which may
-result in catastrophic economic and environmental damage and irreparable human
-injury in the event of a release of waste, and which may result in serious
-long-term health effects to workers at any transfer or storage facility, or to
-workers involved in the transportation of the waste.
-(2) (a)  The state finds that procedures for providing funding for the costs
-incurred by any release of waste, or for the compensation for the costs of
-long-term health effects are not adequately addressed by existing law.
-(b)  Due to these concerns, the state has established a restricted account
-under Subsection 19-3-309(3), known as the Nuclear Accident and Hazard
-Compensation Account, and referred to in this section as the compensation
-account.  One of the purposes of this account is to partially or wholly
-compensate workers for these potential costs, as funds are available and
-appropriated for these purposes.
-(3) (a)  The department shall require the applicant, and parent and subsidiary
-organizations of the applicant, to pay to the department not less than 75% of
-the unfunded potential liability, as determined under Subsection 19-3-301(5),
-in the form of cash or cash equivalents.  The payment shall be made within 30
-days after the date of the issuance of a license under this part.
-(b)  The department shall credit the amount due under Subsection 19-3-306(10)
-against the amount due under this Subsection (3).
-(c)  If the payments due under this Subsection (3) are not made within 30
-days, as required, the executive director of the department shall cancel the
-license.
-(4) (a)  The department shall also require an annual fee from the holder of
-any license issued under this part.  This annual fee payment shall be
-calculated as:
-(i)  the aggregate amount of the annual payments required by Title 34A,
-Chapter 2, Workers' Compensation Act, of the licensee and of all parties
-contracted to provide goods, services, or municipal-type services to the
-licensee, regarding their employees who are working within the state at any
-time during the calendar year; and
-(ii)  multiplied by the number of storage casks of waste present at any time
-and for any period of time within the exterior borders of the state during the
-year for which the fee is assessed.
-(b) (i)  The licensee shall pay the fee under Subsection (4)(a) to the
-department.  The department shall deposit the fee in the compensation account
-created in Subsection 19-3-309(3).
-(ii)  The fee shall be paid to the department on or before March 31 of each
-calendar year.
-(5)  The department shall use the fees paid under Subsection (4) to provide
-medical or death benefits, or both, as is appropriate to the situation, to the
-following persons for death or any long term health conditions of an employee
-proximately caused by the presence of the high-level nuclear waste or greater
-than class C radioactive waste within the state, or a release of this waste
-within the state that affects an employee's physical health:
-(a)  any employee of the holder of any license issued under this part, or
-employees of any parties contracting to provide goods, services,
-transportation, or municipal-type services to the licensee, if the employee is
-within the state at any time during the calendar year as part of his
-employment; or
+
+(1)  The state finds that the placement of high-level nuclear waste inside the exterior boundaries of the state is an ultra-hazardous activity which may result in catastrophic economic and environmental damage and irreparable human injury in the event of a release of waste, and which may result in serious long-term health effects to workers at any transfer or storage facility, or to workers involved in the transportation of the waste.
+
+(2) (a)  The state finds that procedures for providing funding for the costs incurred by any release of waste, or for the compensation for the costs of long-term health effects are not adequately addressed by existing law.
+
+(b)  Due to these concerns, the state has established a restricted account under Subsection 19-3-309(3), known as the Nuclear Accident and Hazard Compensation Account, and referred to in this section as the compensation account.  One of the purposes of this account is to partially or wholly compensate workers for these potential costs, as funds are available and appropriated for these purposes.
+
+(3) (a)  The department shall require the applicant, and parent and subsidiary organizations of the applicant, to pay to the department not less than 75% of the unfunded potential liability, as determined under Subsection 19-3-301(5), in the form of cash or cash equivalents.  The payment shall be made within 30 days after the date of the issuance of a license under this part.
+
+(b)  The department shall credit the amount due under Subsection 19-3-306(10) against the amount due under this Subsection (3).
+
+(c)  If the payments due under this Subsection (3) are not made within 30 days, as required, the executive director of the department shall cancel the license.
+
+(4) (a)  The department shall also require an annual fee from the holder of any license issued under this part.  This annual fee payment shall be calculated as:
+
+(i)  the aggregate amount of the annual payments required by Title 34A, Chapter 2, Workers' Compensation Act, of the licensee and of all parties contracted to provide goods, services, or municipal-type services to the licensee, regarding their employees who are working within the state at any time during the calendar year; and
+
+(ii)  multiplied by the number of storage casks of waste present at any time and for any period of time within the exterior borders of the state during the year for which the fee is assessed.
+
+(b) (i)  The licensee shall pay the fee under Subsection (4)(a) to the department.  The department shall deposit the fee in the compensation account created in Subsection 19-3-309(3).
+
+(ii)  The fee shall be paid to the department on or before March 31 of each calendar year.
+
+(5)  The department shall use the fees paid under Subsection (4) to provide medical or death benefits, or both, as is appropriate to the situation, to the following persons for death or any long term health conditions of an employee proximately caused by the presence of the high-level nuclear waste or greater than class C radioactive waste within the state, or a release of this waste within the state that affects an employee's physical health:
+
+(a)  any employee of the holder of any license issued under this part, or employees of any parties contracting to provide goods, services, transportation, or municipal-type services to the licensee, if the employee is within the state at any time during the calendar year as part of his employment; or
+
 (b)  that employee's family or beneficiaries.
-(6)  Payment of the fee under Subsection (4) does not exempt the licensee from
-compliance with any other provision of law, including Title 34A, Chapter 2,
-regarding workers' compensation.
-(7) (a)  An agreement between an employer and an employee, the employee's
-family, or beneficiaries requiring the employee to waive benefits under this
-section, requiring the employee to seek third party coverage, or requiring an
-employee contribution is void.
-(b)  Any employer attempting to secure any agreement prohibited under
-Subsection (7)(a) is subject to the penalties of Section 19-3-312.
-(8) (a)  The department, in consultation with the Division of Industrial
-Accidents within the Labor Commission, shall by rule establish procedures
-regarding application for benefits, standards for eligibility, estimates of
-annual payments, and payments.
-(b)  Payments under this section are in addition to any other payments or
-benefits allowed by state or federal law, notwithstanding provisions in Title
-34A, Chapter 2, regarding workers' compensation.
-(c)  Payments or obligations to pay under this section may not exceed funds
-appropriated for these purposes by the Legislature.
-(9) (a)  Any fee or payment imposed under this section does not apply to any
-Utah-based nonprofit trade association due to the membership in the
-organization of a member that is engaging in, or attempting to engage in, the
-placement of high-level nuclear waste or greater than class C radioactive
-waste at a storage facility or transfer facility within the state.
-(b)  Subsection (9)(a) does not apply to a nonprofit trade association if that
-association takes any affirmative action to promote or assist any individual
-or organization in efforts to conduct any activity prohibited by this part.
-(c)  A member of any Utah-based nonprofit trade association is not exempt from
-any fee or payment under this section due to membership in the association.
+
+(6)  Payment of the fee under Subsection (4) does not exempt the licensee from compliance with any other provision of law, including Title 34A, Chapter 2, regarding workers' compensation.
+
+(7) (a)  An agreement between an employer and an employee, the employee's family, or beneficiaries requiring the employee to waive benefits under this section, requiring the employee to seek third party coverage, or requiring an employee contribution is void.
+
+(b)  Any employer attempting to secure any agreement prohibited under Subsection (7)(a) is subject to the penalties of Section 19-3-312.
+
+(8) (a)  The department, in consultation with the Division of Industrial Accidents within the Labor Commission, shall by rule establish procedures regarding application for benefits, standards for eligibility, estimates of annual payments, and payments.
+
+(b)  Payments under this section are in addition to any other payments or benefits allowed by state or federal law, notwithstanding provisions in Title 34A, Chapter 2, regarding workers' compensation.
+
+(c)  Payments or obligations to pay under this section may not exceed funds appropriated for these purposes by the Legislature.
+
+(9) (a)  Any fee or payment imposed under this section does not apply to any Utah-based nonprofit trade association due to the membership in the organization of a member that is engaging in, or attempting to engage in, the placement of high-level nuclear waste or greater than class C radioactive waste at a storage facility or transfer facility within the state.
+
+(b)  Subsection (9)(a) does not apply to a nonprofit trade association if that association takes any affirmative action to promote or assist any individual or organization in efforts to conduct any activity prohibited by this part.
+
+(c)  A member of any Utah-based nonprofit trade association is not exempt from any fee or payment under this section due to membership in the association.
+

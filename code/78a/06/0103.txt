@@ -1,82 +1,64 @@
 78A-6-103.   Jurisdiction of juvenile court -- Original -- Exclusive.
-(1)  Except as otherwise provided by law, the juvenile court has exclusive
-original jurisdiction in proceedings concerning:
-(a)  a child who has violated any federal, state, or local law or municipal
-ordinance or a person younger than 21 years of age who has violated any law or
-ordinance before becoming 18 years of age, regardless of where the violation
-occurred, excluding offenses in Subsection 78A-7-106(2);
-(b)  a person 21 years of age or older who has failed or refused to comply
-with an order of the juvenile court to pay a fine or restitution, if the order
-was imposed prior to the person's 21st birthday; however, the continuing
-jurisdiction is limited to causing compliance with existing orders;
-(c)  a child who is an abused child, neglected child, or dependent child, as
-those terms are defined in Section 78A-6-105;
-(d)  a protective order for a child pursuant to the provisions of Title 78B,
-Chapter 7, Part 2, Child Protective Orders, which the juvenile court may
-transfer to the district court if the juvenile court has entered an ex parte
-protective order and finds that:
-(i)  the petitioner and the respondent are the natural parent, adoptive
-parent, or step parent of the child who is the object of the petition;
-(ii)  the district court has a petition pending or an order related to custody
-or parent-time entered under Title 30, Chapter 3, Divorce, Title 78B, Chapter
-7, Part 1, Cohabitant Abuse Act, or Title 78B, Chapter 15, Utah Uniform
-Parentage Act, in which the petitioner and the respondent are parties; and
-(iii)  the best interests of the child will be better served in the district
-court;
-(e)  appointment of a guardian of the person or other guardian of a minor who
-comes within the court's jurisdiction under other provisions of this section;
+
+(1)  Except as otherwise provided by law, the juvenile court has exclusive original jurisdiction in proceedings concerning:
+
+(a)  a child who has violated any federal, state, or local law or municipal ordinance or a person younger than 21 years of age who has violated any law or ordinance before becoming 18 years of age, regardless of where the violation occurred, excluding offenses in Subsection 78A-7-106(2);
+
+(b)  a person 21 years of age or older who has failed or refused to comply with an order of the juvenile court to pay a fine or restitution, if the order was imposed prior to the person's 21st birthday; however, the continuing jurisdiction is limited to causing compliance with existing orders;
+
+(c)  a child who is an abused child, neglected child, or dependent child, as those terms are defined in Section 78A-6-105;
+
+(d)  a protective order for a child pursuant to the provisions of Title 78B, Chapter 7, Part 2, Child Protective Orders, which the juvenile court may transfer to the district court if the juvenile court has entered an ex parte protective order and finds that:
+
+(i)  the petitioner and the respondent are the natural parent, adoptive parent, or step parent of the child who is the object of the petition;
+
+(ii)  the district court has a petition pending or an order related to custody or parent-time entered under Title 30, Chapter 3, Divorce, Title 78B, Chapter 7, Part 1, Cohabitant Abuse Act, or Title 78B, Chapter 15, Utah Uniform Parentage Act, in which the petitioner and the respondent are parties; and
+
+(iii)  the best interests of the child will be better served in the district court;
+
+(e)  appointment of a guardian of the person or other guardian of a minor who comes within the court's jurisdiction under other provisions of this section;
+
 (f)  the emancipation of a minor in accordance with Part 8, Emancipation;
-(g)  the termination of the legal parent-child relationship in accordance with
-Part 5, Termination of Parental Rights Act, including termination of residual
-parental rights and duties;
+
+(g)  the termination of the legal parent-child relationship in accordance with Part 5, Termination of Parental Rights Act, including termination of residual parental rights and duties;
+
 (h)  the treatment or commitment of a mentally retarded minor;
+
 (i)  a minor who is a habitual truant from school;
-(j)  the judicial consent to the marriage of a child under age 16 upon a
-determination of voluntariness or where otherwise required by law, employment,
-or enlistment of a child when consent is required by law;
-(k)  any parent or parents of a child committed to a secure youth corrections
-facility, to order, at the discretion of the court and on the recommendation
-of a secure facility, the parent or parents of a child committed to a secure
-facility for a custodial term, to undergo group rehabilitation therapy under
-the direction of a secure facility therapist, who has supervision of that
-parent's or parents' child, or any other therapist the court may direct, for a
-period directed by the court as recommended by a secure facility;
+
+(j)  the judicial consent to the marriage of a child under age 16 upon a determination of voluntariness or where otherwise required by law, employment, or enlistment of a child when consent is required by law;
+
+(k)  any parent or parents of a child committed to a secure youth corrections facility, to order, at the discretion of the court and on the recommendation of a secure facility, the parent or parents of a child committed to a secure facility for a custodial term, to undergo group rehabilitation therapy under the direction of a secure facility therapist, who has supervision of that parent's or parents' child, or any other therapist the court may direct, for a period directed by the court as recommended by a secure facility;
+
 (l)  a minor under Title 55, Chapter 12, Interstate Compact for Juveniles;
-(m)  the treatment or commitment of a mentally ill child.  The court may
-commit a child to the physical custody of a local mental health authority in
-accordance with the procedures and requirements of Title 62A, Chapter 15, Part
-7, Commitment of Persons Under Age 18 to Division of Substance Abuse and
-Mental Health, but not directly to the Utah State Hospital;
+
+(m)  the treatment or commitment of a mentally ill child.  The court may commit a child to the physical custody of a local mental health authority in accordance with the procedures and requirements of Title 62A, Chapter 15, Part 7, Commitment of Persons Under Age 18 to Division of Substance Abuse and Mental Health, but not directly to the Utah State Hospital;
+
 (n)  the commitment of a child in accordance with Section 62A-15-301;
-(o)  de novo review of final agency actions resulting from an informal
-adjudicative proceeding as provided in Section 63G-4-402; and
-(p)  adoptions conducted in accordance with the procedures described in Title
-78B, Chapter 6, Part 1, Utah Adoption Act, when the juvenile court has
-previously entered an order terminating the rights of a parent and finds that
-adoption is in the best interest of the child.
-(2)  Notwithstanding Section 78A-7-106 and Subsection 78A-5-102(9), the
-juvenile court has exclusive jurisdiction over the following offenses
-committed by a child:
-(a)  Title 41, Chapter 6a, Part 5, Driving Under the Influence and Reckless
-Driving;
+
+(o)  de novo review of final agency actions resulting from an informal adjudicative proceeding as provided in Section 63G-4-402; and
+
+(p)  adoptions conducted in accordance with the procedures described in Title 78B, Chapter 6, Part 1, Utah Adoption Act, when the juvenile court has previously entered an order terminating the rights of a parent and finds that adoption is in the best interest of the child.
+
+(2)  Notwithstanding Section 78A-7-106 and Subsection 78A-5-102(9), the juvenile court has exclusive jurisdiction over the following offenses committed by a child:
+
+(a)  Title 41, Chapter 6a, Part 5, Driving Under the Influence and Reckless Driving;
+
 (b)  Section 73-18-12, reckless operation; and
-(c)  class B and C misdemeanors, infractions, or violations of ordinances that
-are part of a single criminal episode filed in a petition that contains an
-offense over which the court has jurisdiction.
-(3)  The juvenile court has jurisdiction over an ungovernable or runaway child
-who is referred to it by the Division of Child and Family Services or by
-public or private agencies that contract with the division to provide services
-to that child where, despite earnest and persistent efforts by the division or
-agency, the child has demonstrated that the child:
-(a)  is beyond the control of the child's parent, guardian, lawful custodian,
-or school authorities to the extent that the child's behavior or condition
-endangers the child's own welfare or the welfare of others; or
+
+(c)  class B and C misdemeanors, infractions, or violations of ordinances that are part of a single criminal episode filed in a petition that contains an offense over which the court has jurisdiction.
+
+(3)  The juvenile court has jurisdiction over an ungovernable or runaway child who is referred to it by the Division of Child and Family Services or by public or private agencies that contract with the division to provide services to that child where, despite earnest and persistent efforts by the division or agency, the child has demonstrated that the child:
+
+(a)  is beyond the control of the child's parent, guardian, lawful custodian, or school authorities to the extent that the child's behavior or condition endangers the child's own welfare or the welfare of others; or
+
 (b)  has run away from home.
-(4)  This section does not restrict the right of access to the juvenile court
-by private agencies or other persons.
-(5)  The juvenile court has jurisdiction of all magistrate functions relative
-to cases arising under Section 78A-6-702.
-(6)  The juvenile court has jurisdiction to make a finding of substantiated,
-unsubstantiated, or without merit, in accordance with Section 78A-6-323.
-(7)  The juvenile court has jurisdiction of matters transferred to it by
-another trial court pursuant to Subsection 78A-7-106(7).
+
+(4)  This section does not restrict the right of access to the juvenile court by private agencies or other persons.
+
+(5)  The juvenile court has jurisdiction of all magistrate functions relative to cases arising under Section 78A-6-702.
+
+(6)  The juvenile court has jurisdiction to make a finding of substantiated, unsubstantiated, or without merit, in accordance with Section 78A-6-323.
+
+(7)  The juvenile court has jurisdiction of matters transferred to it by another trial court pursuant to Subsection 78A-7-106(7).
+

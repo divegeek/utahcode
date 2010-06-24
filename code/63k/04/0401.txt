@@ -1,58 +1,52 @@
-63K-4-401.   Orders, rules, and regulations having force of law -- Filing
-requirements -- Suspension of state agency rules -- Suspension of enforcement
-of certain statutes during a state of emergency.
-(1)  All orders, rules, and regulations promulgated by the governor, a
-political subdivision, or other agency authorized by this act to make orders,
-rules, and regulations, not in conflict with existing laws except as
-specifically provided herein, shall have the full force and effect of law
-during the state of emergency, when a copy of the order, rule, or regulation
-is filed with:
-(a)  the Division of Administrative Rules, if issued by the governor or a
-state agency; or
-(b)  the office of the clerk of the political subdivision, if issued by the
-chief executive officer of a political subdivision of the state or agency of
-the state.
-(2)  The governor may suspend the provisions of any order, rule, or regulation
-of any state agency, if the strict compliance with the provisions of the
-order, rule, or regulation would substantially prevent, hinder, or delay
-necessary action in coping with the emergency or disaster.
-(3) (a)  Except as provided in Subsection (3)(b) and subject to Subsections
-(3)(c) and (d), the governor may by executive order suspend the enforcement of
-a statute if:
-(i)  the governor declares a state of emergency in accordance with Section
-63K-4-203;
-(ii)  the governor determines that suspending the enforcement of the statute
-is:
-(A)  directly related to the state of emergency described in Subsection
-(3)(a)(i); and
-(B)  necessary to address the state of emergency described in Subsection
-(3)(a)(i);
+63K-4-401.   Orders, rules, and regulations having force of law -- Filing requirements -- Suspension of state agency rules -- Suspension of enforcement of certain statutes during a state of emergency.
+
+(1)  All orders, rules, and regulations promulgated by the governor, a political subdivision, or other agency authorized by this act to make orders, rules, and regulations, not in conflict with existing laws except as specifically provided herein, shall have the full force and effect of law during the state of emergency, when a copy of the order, rule, or regulation is filed with:
+
+(a)  the Division of Administrative Rules, if issued by the governor or a state agency; or
+
+(b)  the office of the clerk of the political subdivision, if issued by the chief executive officer of a political subdivision of the state or agency of the state.
+
+(2)  The governor may suspend the provisions of any order, rule, or regulation of any state agency, if the strict compliance with the provisions of the order, rule, or regulation would substantially prevent, hinder, or delay necessary action in coping with the emergency or disaster.
+
+(3) (a)  Except as provided in Subsection (3)(b) and subject to Subsections (3)(c) and (d), the governor may by executive order suspend the enforcement of a statute if:
+
+(i)  the governor declares a state of emergency in accordance with Section 63K-4-203;
+
+(ii)  the governor determines that suspending the enforcement of the statute is:
+
+(A)  directly related to the state of emergency described in Subsection (3)(a)(i); and
+
+(B)  necessary to address the state of emergency described in Subsection (3)(a)(i);
+
 (iii)  the executive order:
+
 (A)  describes how the suspension of the enforcement of the statute is:
-(I)  directly related to the state of emergency described in Subsection
-(3)(a)(i); and
-(II)  necessary to address the state of emergency described in Subsection
-(3)(a)(i); and
-(B)  provides the citation of the statute that is the subject of suspended
-enforcement;
+
+(I)  directly related to the state of emergency described in Subsection (3)(a)(i); and
+
+(II)  necessary to address the state of emergency described in Subsection (3)(a)(i); and
+
+(B)  provides the citation of the statute that is the subject of suspended enforcement;
+
 (iv)  the governor acts in good faith;
-(v)  the governor provides written notice of the suspension of the enforcement
-of the statute to the speaker of the House of Representatives and the
-president of the Senate no later than 24 hours after suspending the
-enforcement of the statute; and
+
+(v)  the governor provides written notice of the suspension of the enforcement of the statute to the speaker of the House of Representatives and the president of the Senate no later than 24 hours after suspending the enforcement of the statute; and
+
 (vi)  the governor makes the report required by Section 63K-4-406.
-(b) (i)  Except as provided in Subsection (3)(b)(ii), the governor may not
-suspend the enforcement of a criminal penalty created in statute.
-(ii)  The governor may suspend the enforcement of a misdemeanor or infraction
-if:
-(A)  the misdemeanor or infraction relates to food, health, or transportation;
-and
+
+(b) (i)  Except as provided in Subsection (3)(b)(ii), the governor may not suspend the enforcement of a criminal penalty created in statute.
+
+(ii)  The governor may suspend the enforcement of a misdemeanor or infraction if:
+
+(A)  the misdemeanor or infraction relates to food, health, or transportation; and
+
 (B)  the requirements of Subsection (3)(a) are met.
-(c)  A suspension described in this Subsection (3) terminates no later than
-the date the governor terminates the state of emergency in accordance with
-Section 63K-4-203 to which the suspension relates.
+
+(c)  A suspension described in this Subsection (3) terminates no later than the date the governor terminates the state of emergency in accordance with Section 63K-4-203 to which the suspension relates.
+
 (d)  The governor:
-(i)  shall provide the notice required by Subsection (3)(a)(v) using the best
-available method under the circumstances as determined by the governor; and
-(ii)  may provide the notice required by Subsection (3)(a)(v) in electronic
-format.
+
+(i)  shall provide the notice required by Subsection (3)(a)(v) using the best available method under the circumstances as determined by the governor; and
+
+(ii)  may provide the notice required by Subsection (3)(a)(v) in electronic format.
+

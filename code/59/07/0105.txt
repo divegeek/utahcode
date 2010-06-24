@@ -1,54 +1,46 @@
 59-7-105 (Superseded 01/01/11).   Additions to unadjusted income.
-In computing adjusted income the following amounts shall be added to
-unadjusted income:
-(1)  interest from bonds, notes, and other evidences of indebtedness issued by
-any state of the United States, including any agency and instrumentality of a
-state of the United States;
-(2)  the amount of any deduction taken on a corporation's federal return for
-taxes paid by a corporation:
+
+In computing adjusted income the following amounts shall be added to unadjusted income:
+
+(1)  interest from bonds, notes, and other evidences of indebtedness issued by any state of the United States, including any agency and instrumentality of a state of the United States;
+
+(2)  the amount of any deduction taken on a corporation's federal return for taxes paid by a corporation:
+
 (a)  to Utah for taxes imposed by this chapter; and
-(b)  to another state of the United States, a foreign country, a United States
-possession, or the Commonwealth of Puerto Rico for taxes imposed for the
-privilege of doing business, or exercising its corporate franchise, including
-income, franchise, corporate stock and business and occupation taxes;
-(3)  the safe harbor lease adjustment required under Subsections
-59-7-111(1)(a) and (2)(a);
-(4)  capital losses that have been deducted on a Utah corporate return in
-previous years;
-(5)  any deduction on the federal return that has been previously deducted on
-the Utah return;
-(6)  the amount of contributions claimed as a tax credit pursuant to Section
-59-7-602;
-(7)  the amount of the deduction taken pursuant to Section 59-7-603 for
-sophisticated technological equipment;
-(8)  charitable contributions, to the extent deducted on the federal return
-when determining federal taxable income;
-(9)  the amount of gain or loss determined under Section 59-7-114 relating to
-a target corporation under Section 338, Internal Revenue Code, unless such
-gain or loss has already been included in the unadjusted income of the target
-corporation;
-(10)  the amount of gain or loss determined under Section 59-7-115 relating to
-corporations treated for federal purposes as having disposed of its assets
-under Section 336(e), Internal Revenue Code, unless such gain or loss has
-already been included in the unadjusted income of the target corporation;
-(11)  adjustments to gains, losses, depreciation expense, amortization
-expense, and similar items due to a difference between basis for federal
-purposes and basis as computed under Section 59-7-107;
-(12)  the amount withdrawn under Title 53B, Chapter 8a, Utah Educational
-Savings Plan, from the account of a corporation that is an account owner as
-defined in Section 53B-8a-102, for the taxable year for which the amount is
-withdrawn, if that amount withdrawn from the account of the corporation that
-is the account owner:
+
+(b)  to another state of the United States, a foreign country, a United States possession, or the Commonwealth of Puerto Rico for taxes imposed for the privilege of doing business, or exercising its corporate franchise, including income, franchise, corporate stock and business and occupation taxes;
+
+(3)  the safe harbor lease adjustment required under Subsections 59-7-111(1)(a) and (2)(a);
+
+(4)  capital losses that have been deducted on a Utah corporate return in previous years;
+
+(5)  any deduction on the federal return that has been previously deducted on the Utah return;
+
+(6)  the amount of contributions claimed as a tax credit pursuant to Section 59-7-602;
+
+(7)  the amount of the deduction taken pursuant to Section 59-7-603 for sophisticated technological equipment;
+
+(8)  charitable contributions, to the extent deducted on the federal return when determining federal taxable income;
+
+(9)  the amount of gain or loss determined under Section 59-7-114 relating to a target corporation under Section 338, Internal Revenue Code, unless such gain or loss has already been included in the unadjusted income of the target corporation;
+
+(10)  the amount of gain or loss determined under Section 59-7-115 relating to corporations treated for federal purposes as having disposed of its assets under Section 336(e), Internal Revenue Code, unless such gain or loss has already been included in the unadjusted income of the target corporation;
+
+(11)  adjustments to gains, losses, depreciation expense, amortization expense, and similar items due to a difference between basis for federal purposes and basis as computed under Section 59-7-107;
+
+(12)  the amount withdrawn under Title 53B, Chapter 8a, Utah Educational Savings Plan, from the account of a corporation that is an account owner as defined in Section 53B-8a-102, for the taxable year for which the amount is withdrawn, if that amount withdrawn from the account of the corporation that is the account owner:
+
 (a)  is not expended for:
+
 (i)  higher education costs as defined in Section 53B-8a-102; or
-(ii)  a payment or distribution that qualifies as an exception to the
-additional tax for distributions not used for educational expenses provided in
-Sections 529(c) and 530(d), Internal Revenue Code; and
+
+(ii)  a payment or distribution that qualifies as an exception to the additional tax for distributions not used for educational expenses provided in Sections 529(c) and 530(d), Internal Revenue Code; and
+
 (b)  is subtracted by the corporation:
+
 (i)  that is the account owner; and
+
 (ii)  in accordance with Subsection 59-7-106(18); and
-(13)  the amount of the deduction for dividends paid, as defined in Section
-561, Internal Revenue Code, that is allowed under Section 857(b)(2)(B),
-Internal Revenue Code, in computing the taxable income of a captive real
-estate investment trust, if that captive real estate investment trust is
-subject to federal income taxation.
+
+(13)  the amount of the deduction for dividends paid, as defined in Section 561, Internal Revenue Code, that is allowed under Section 857(b)(2)(B), Internal Revenue Code, in computing the taxable income of a captive real estate investment trust, if that captive real estate investment trust is subject to federal income taxation.
+

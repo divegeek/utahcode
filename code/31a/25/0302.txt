@@ -1,20 +1,8 @@
 31A-25-302.   Books and records required -- Access.
-(1)  Any insurer contracting with an administrator for administrator services
-has the right of continuing access to those records maintained by the third
-party administrator which permit the insurer to fulfill all of its contractual
-obligations to insured persons.  The proprietary rights of the parties in the
-records are governed by the written agreement between the insurer and third
-party administrator.
-(2)  Every administrator shall maintain at a location accessible to the
-commissioner, for at least three years, the administrator's written
-agreements, and complete books and records of all transactions among the
-administrator, insurers, and insured persons.  The books and records shall be
-maintained in accordance with prudent standards of insurance recordkeeping.
-The administrator shall provide copies of the books and records to any
-successor administrator upon request.
-(3)  The commissioner shall have access to the books and records maintained by
-the administrator for the purpose of audit and inspection.  Any trade secrets
-contained in the books and records, including the identity and addresses of
-policyholders and certificate holders, are confidential, except the
-commissioner may use that information in any proceeding instituted against the
-administrator.
+
+(1)  Any insurer contracting with an administrator for administrator services has the right of continuing access to those records maintained by the third party administrator which permit the insurer to fulfill all of its contractual obligations to insured persons.  The proprietary rights of the parties in the records are governed by the written agreement between the insurer and third party administrator.
+
+(2)  Every administrator shall maintain at a location accessible to the commissioner, for at least three years, the administrator's written agreements, and complete books and records of all transactions among the administrator, insurers, and insured persons.  The books and records shall be maintained in accordance with prudent standards of insurance recordkeeping. The administrator shall provide copies of the books and records to any successor administrator upon request.
+
+(3)  The commissioner shall have access to the books and records maintained by the administrator for the purpose of audit and inspection.  Any trade secrets contained in the books and records, including the identity and addresses of policyholders and certificate holders, are confidential, except the commissioner may use that information in any proceeding instituted against the administrator.
+

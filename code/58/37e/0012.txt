@@ -1,17 +1,8 @@
 58-37e-12.   Prejudgment attachment and execution on judgments.
-(1)  A plaintiff under this chapter, subject to Subsection (3), may request an
-ex parte prejudgment writ of attachment from the court pursuant to Utah Rules
-of Civil Procedure, Rule 64A against all assets of a defendant sufficient to
-satisfy a potential award.  If attachment is instituted, a defendant is
-entitled to an immediate hearing.  Attachment may be lifted if the defendant
-demonstrates that the assets will be available for a potential award or if the
-defendant posts a bond sufficient to cover a potential award.
-(2)  A person against whom a judgment has been rendered under this chapter is
-not eligible to exempt any property, of whatever kind, from process to levy or
-process to execute on the judgment, unless the property is exempt by operation
-of law.
-(3)  Any assets sought to satisfy a judgment under this chapter that are named
-in a forfeiture action or have been seized for forfeiture by any state or
-federal agency may not be used to satisfy a judgment unless and until the
-assets have been released following the conclusion of the forfeiture action or
-released by the agency that seized the assets.
+
+(1)  A plaintiff under this chapter, subject to Subsection (3), may request an ex parte prejudgment writ of attachment from the court pursuant to Utah Rules of Civil Procedure, Rule 64A against all assets of a defendant sufficient to satisfy a potential award.  If attachment is instituted, a defendant is entitled to an immediate hearing.  Attachment may be lifted if the defendant demonstrates that the assets will be available for a potential award or if the defendant posts a bond sufficient to cover a potential award.
+
+(2)  A person against whom a judgment has been rendered under this chapter is not eligible to exempt any property, of whatever kind, from process to levy or process to execute on the judgment, unless the property is exempt by operation of law.
+
+(3)  Any assets sought to satisfy a judgment under this chapter that are named in a forfeiture action or have been seized for forfeiture by any state or federal agency may not be used to satisfy a judgment unless and until the assets have been released following the conclusion of the forfeiture action or released by the agency that seized the assets.
+

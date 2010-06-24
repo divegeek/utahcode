@@ -1,30 +1,12 @@
 43-1-2.   Transfer -- By delivery -- By endorsement -- Rights of transferee.
 
-Title to any security receipt, or equipment trust certificate, which by its
-terms entitles the bearer to the benefits thereof, may be transferred by
-delivery by any person in possession of the same, howsoever such possession
-may have been acquired.
-Title to any security receipt, or equipment trust certificate, which by its
-terms entitles the person named therein to the benefits thereof, and which
-provides in substance that title thereto is transferable with the same effect
-as in the case of a negotiable instrument, may be transferred by delivery by
-any person in possession of the same, howsoever such possession may have been
-acquired, if endorsed in blank or, if it is endorsed to a specified person, by
-delivery by such other person.
-A person to whom title is so transferred, who takes any such instrument for
-present or antecedent value, without notice of prior defenses, equities or
-claims of ownership enforceable against the transferor, shall have absolute
-title thereto free of any defenses enforceable against, or claims of ownership
-of, the signer or any prior holder. The holder of any such security receipt,
-or equipment trust certificate, unless the same has been endorsed in blank by
-such specified person, shall be deemed prima facie to have title thereto as
-aforesaid; but when it is shown that the title of any person who has
-negotiated such instrument is defective, the burden is on the holder to prove
-that he, or some person under whom he claims, acquired title as a holder for
-value and without notice as aforesaid.
-The provisions of this section shall not be applicable to the transfer of any
-security receipt, or equipment trust certificate, when it is shown that such
-transfer was made after the date fixed therein for performance by the signer
-of his obligations thereunder, or, if no date is so fixed, after the
-expiration of a reasonable time after the happening of the contingency upon
-which the signer became obligated to perform.
+
+
+Title to any security receipt, or equipment trust certificate, which by its terms entitles the bearer to the benefits thereof, may be transferred by delivery by any person in possession of the same, howsoever such possession may have been acquired.
+
+Title to any security receipt, or equipment trust certificate, which by its terms entitles the person named therein to the benefits thereof, and which provides in substance that title thereto is transferable with the same effect as in the case of a negotiable instrument, may be transferred by delivery by any person in possession of the same, howsoever such possession may have been acquired, if endorsed in blank or, if it is endorsed to a specified person, by delivery by such other person.
+
+A person to whom title is so transferred, who takes any such instrument for present or antecedent value, without notice of prior defenses, equities or claims of ownership enforceable against the transferor, shall have absolute title thereto free of any defenses enforceable against, or claims of ownership of, the signer or any prior holder. The holder of any such security receipt, or equipment trust certificate, unless the same has been endorsed in blank by such specified person, shall be deemed prima facie to have title thereto as aforesaid; but when it is shown that the title of any person who has negotiated such instrument is defective, the burden is on the holder to prove that he, or some person under whom he claims, acquired title as a holder for value and without notice as aforesaid.
+
+The provisions of this section shall not be applicable to the transfer of any security receipt, or equipment trust certificate, when it is shown that such transfer was made after the date fixed therein for performance by the signer of his obligations thereunder, or, if no date is so fixed, after the expiration of a reasonable time after the happening of the contingency upon which the signer became obligated to perform.
+

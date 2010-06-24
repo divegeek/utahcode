@@ -1,39 +1,52 @@
 13-46-301.   Creation.
-(1) (a)  By no later than July 1, 2009, the department shall administer a
-database:
-(i)  designed by the council to share data amongst accessing agencies, the
-attorney general, and the Department of Public Safety; and
+
+(1) (a)  By no later than July 1, 2009, the department shall administer a database:
+
+(i)  designed by the council to share data amongst accessing agencies, the attorney general, and the Department of Public Safety; and
+
 (ii)  to be used by an accessing agency to identify when a person:
+
 (A)  holds that person out as an independent contractor; or
-(B)  engages in the performance of work as an independent contractor not
-subject to an employer's right to control the person.
-(b)  Notwithstanding Subsection (1)(a), the department may contract in
-accordance with this chapter with a person other than the department:
-(i)  to the extent necessary to design, implement, or operate the database;
-and
+
+(B)  engages in the performance of work as an independent contractor not subject to an employer's right to control the person.
+
+(b)  Notwithstanding Subsection (1)(a), the department may contract in accordance with this chapter with a person other than the department:
+
+(i)  to the extent necessary to design, implement, or operate the database; and
+
 (ii)  in a manner consistent with Title 63G, Chapter 6, Utah Procurement Code.
-(c)  If the department contracts with a person who is not a government agency
-to operate the database, the department:
+
+(c)  If the department contracts with a person who is not a government agency to operate the database, the department:
+
 (i)  shall monitor the operations under the contract; and
-(ii)  ensure that the contract allows for termination of the contract if the
-person fails to operate the database in accordance with the contract and this
-chapter.
-(2)  An accessing agency shall cooperate with the department to provide
-information:
+
+(ii)  ensure that the contract allows for termination of the contract if the person fails to operate the database in accordance with the contract and this chapter.
+
+(2)  An accessing agency shall cooperate with the department to provide information:
+
 (a)  to be included in the database; and
-(b)  to the extent that disclosure of the information is otherwise permitted
-by law other than this chapter.
-(3)  The database shall include a process to compare the information in the
-database at least monthly to:
+
+(b)  to the extent that disclosure of the information is otherwise permitted by law other than this chapter.
+
+(3)  The database shall include a process to compare the information in the database at least monthly to:
+
 (a)  identify a worker who may be misclassified as an independent contractor;
+
 (b)  promote employer compliance with state and federal laws related to:
+
 (i)  withholding taxes;
-(ii)  making payments for Social Security, Medicare, and unemployment
-insurance;
+
+(ii)  making payments for Social Security, Medicare, and unemployment insurance;
+
 (iii)  providing the proper level of workers' compensation insurance;
+
 (iv)  preventing insurance fraud;
+
 (v)  paying overtime and minimum wages; and
+
 (vi)  including a worker in an employee benefit program;
-(c)  reduce employer intentional misclassification of a worker as an
-independent contractor; and
+
+(c)  reduce employer intentional misclassification of a worker as an independent contractor; and
+
 (d)  identify identity theft.
+

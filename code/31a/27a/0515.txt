@@ -1,168 +1,150 @@
 31A-27a-515.   Commutation and release agreements.
-(1)  For purposes of this section, "casualty claims" means the insurer's
-aggregate claims arising out of insurance contracts in the following lines:
+
+(1)  For purposes of this section, "casualty claims" means the insurer's aggregate claims arising out of insurance contracts in the following lines:
+
 (a)  farm owner multiperil;
+
 (b)  homeowner multiperil;
+
 (c)  commercial multiperil;
+
 (d)  medical malpractice;
+
 (e)  workers' compensation;
+
 (f)  other liability;
+
 (g)  products liability;
+
 (h)  auto liability;
+
 (i)  aircraft, all peril; and
+
 (j)  international, for lines listed in Subsections (1)(a) through (i).
-(2) (a)  Notwithstanding Section 31A-27a-512, the liquidator and a reinsurer
-may negotiate a voluntary commutation and release of all obligations arising
-from a reinsurance agreement in which the insurer is the ceding party.
-(b)  A commutation and release agreement voluntarily entered into by the
-parties shall be commercially reasonable, actuarially sound, and in the best
-interests of the creditors of the insurer.
-(c) (i)  An agreement subject to this Subsection (2) that has a gross
-consideration in excess of $250,000 shall be submitted pursuant to Section
-31A-27a-107 to the receivership court for approval.
-(ii)  An agreement described in this Subsection (2)(c) shall be approved by
-the receivership court if it meets the standards described in this Subsection
-(2).
-(3)  Without derogating from Section 31A-27a-512, if the liquidator is unable
-to negotiate a voluntary commutation with a reinsurer with respect to a
-reinsurance agreement between the insurer and that reinsurer, the liquidator
-may, in addition to any other remedy available under applicable law, apply to
-the receivership court, with notice to the reinsurer, for an order requiring
-that the parties submit commutation proposals with respect to the reinsurance
-agreement to a panel of three arbitrators:
-(a)  at any time after 75% of the actuarially estimated ultimate incurred
-liability for all of the casualty claims against the liquidation estate is
-reached by allowance of claims in the liquidation estate pursuant to Sections
-31A-27a-603 and 31A-27a-605, calculated:
-(i)  as of the day on which the order of liquidation is entered by or at the
-instance of the liquidator; and
-(ii)  for purposes of this Subsection (3), not performed during the five-year
-period subsequent to the day on which the order of liquidation is entered; or
-(b)  at any time in regard to a reinsurer if that reinsurer has a total
-adjusted capital that is less than 250% of its authorized control level RBC as
-defined in Section 31A-17-601.
-(4)  Venue for the arbitration is within the district of the receivership
-court's jurisdiction or at another location agreed to by the parties.
-(5) (a)  If the liquidator determines that commutation would be in the best
-interests of the creditors of the liquidation estate, the liquidator may
-petition the receivership court to order arbitration.
-(b)  If the liquidator petitions the receivership court under Subsection
-(5)(a), the receivership court shall require that the liquidator and the
-reinsurer each appoint an arbitrator within 30 days after the day on which the
-order for arbitration is entered.
-(c)  If either party fails to appoint an arbitrator within the 30-day period,
-the other party may appoint both arbitrators and the appointments are binding
-on the parties.
-(d)  The two arbitrators shall be active or retired executive officers of
-insurance or reinsurance companies, not under the control of or affiliated
-with the insurer or the reinsurer.
-(e) (i)  Within 30 days after the day on which both arbitrators have been
-appointed, the two arbitrators shall agree to the appointment of a third
-independent, impartial, disinterested arbitrator.
-(ii)  If agreement to the disinterested arbitrator is not reached within the
-30-day period, the third arbitrator shall be appointed by the receivership
-court.
+
+(2) (a)  Notwithstanding Section 31A-27a-512, the liquidator and a reinsurer may negotiate a voluntary commutation and release of all obligations arising from a reinsurance agreement in which the insurer is the ceding party.
+
+(b)  A commutation and release agreement voluntarily entered into by the parties shall be commercially reasonable, actuarially sound, and in the best interests of the creditors of the insurer.
+
+(c) (i)  An agreement subject to this Subsection (2) that has a gross consideration in excess of $250,000 shall be submitted pursuant to Section 31A-27a-107 to the receivership court for approval.
+
+(ii)  An agreement described in this Subsection (2)(c) shall be approved by the receivership court if it meets the standards described in this Subsection (2).
+
+(3)  Without derogating from Section 31A-27a-512, if the liquidator is unable to negotiate a voluntary commutation with a reinsurer with respect to a reinsurance agreement between the insurer and that reinsurer, the liquidator may, in addition to any other remedy available under applicable law, apply to the receivership court, with notice to the reinsurer, for an order requiring that the parties submit commutation proposals with respect to the reinsurance agreement to a panel of three arbitrators:
+
+(a)  at any time after 75% of the actuarially estimated ultimate incurred liability for all of the casualty claims against the liquidation estate is reached by allowance of claims in the liquidation estate pursuant to Sections 31A-27a-603 and 31A-27a-605, calculated:
+
+(i)  as of the day on which the order of liquidation is entered by or at the instance of the liquidator; and
+
+(ii)  for purposes of this Subsection (3), not performed during the five-year period subsequent to the day on which the order of liquidation is entered; or
+
+(b)  at any time in regard to a reinsurer if that reinsurer has a total adjusted capital that is less than 250% of its authorized control level RBC as defined in Section 31A-17-601.
+
+(4)  Venue for the arbitration is within the district of the receivership court's jurisdiction or at another location agreed to by the parties.
+
+(5) (a)  If the liquidator determines that commutation would be in the best interests of the creditors of the liquidation estate, the liquidator may petition the receivership court to order arbitration.
+
+(b)  If the liquidator petitions the receivership court under Subsection (5)(a), the receivership court shall require that the liquidator and the reinsurer each appoint an arbitrator within 30 days after the day on which the order for arbitration is entered.
+
+(c)  If either party fails to appoint an arbitrator within the 30-day period, the other party may appoint both arbitrators and the appointments are binding on the parties.
+
+(d)  The two arbitrators shall be active or retired executive officers of insurance or reinsurance companies, not under the control of or affiliated with the insurer or the reinsurer.
+
+(e) (i)  Within 30 days after the day on which both arbitrators have been appointed, the two arbitrators shall agree to the appointment of a third independent, impartial, disinterested arbitrator.
+
+(ii)  If agreement to the disinterested arbitrator is not reached within the 30-day period, the third arbitrator shall be appointed by the receivership court.
+
 (f)  The disinterested arbitrator shall be a person who:
-(i)  is or, if retired, has been, an executive officer of a United States
-domiciled insurance or reinsurance company that is not under the control of or
-affiliated with either of the parties; and
+
+(i)  is or, if retired, has been, an executive officer of a United States domiciled insurance or reinsurance company that is not under the control of or affiliated with either of the parties; and
+
 (ii)  has at least 15 years experience in the reinsurance industry.
-(6) (a)  The arbitration panel may choose to retain as an expert to assist the
-panel in its determinations, a retired, disinterested executive officer of a
-United States domiciled insurance or reinsurance company having at least 15
-years loss reserving actuarial experience.
-(b)  If the arbitration panel is unable to unanimously agree on the identity
-of the expert within 14 days of the day on which the disinterested arbitrator
-is appointed, the expert shall be:
+
+(6) (a)  The arbitration panel may choose to retain as an expert to assist the panel in its determinations, a retired, disinterested executive officer of a United States domiciled insurance or reinsurance company having at least 15 years loss reserving actuarial experience.
+
+(b)  If the arbitration panel is unable to unanimously agree on the identity of the expert within 14 days of the day on which the disinterested arbitrator is appointed, the expert shall be:
+
 (i)  designated by the commissioner:
-(A)  by rule made in accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act; and
-(B)  on the basis of recommendations made by a nationally recognized society
-of actuaries; and
-(ii)  a disinterested person that has knowledge, experience, and training
-applicable to the line of insurance that is the subject of the arbitration.
+
+(A)  by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; and
+
+(B)  on the basis of recommendations made by a nationally recognized society of actuaries; and
+
+(ii)  a disinterested person that has knowledge, experience, and training applicable to the line of insurance that is the subject of the arbitration.
+
 (c)  The expert:
+
 (i)  may not vote in the proceeding; and
-(ii)  shall issue a written report and recommendations to the arbitration
-panel within 60 days after the day on which the arbitration panel receives the
-commutation proposals submitted by the parties pursuant to Subsection (7),
-which report shall:
+
+(ii)  shall issue a written report and recommendations to the arbitration panel within 60 days after the day on which the arbitration panel receives the commutation proposals submitted by the parties pursuant to Subsection (7), which report shall:
+
 (A)  be included as part of the arbitration record; and
-(B)  accompany the award issued by the arbitration panel pursuant to
-Subsection (8).
+
+(B)  accompany the award issued by the arbitration panel pursuant to Subsection (8).
+
 (d)  The cost of the expert is to be paid equally by the parties.
-(7)  Within 90 days after the day on which the disinterested arbitrator is
-appointed under Subsection (5), each party shall submit to the arbitration
-panel:
+
+(7)  Within 90 days after the day on which the disinterested arbitrator is appointed under Subsection (5), each party shall submit to the arbitration panel:
+
 (a)  the party's commutation proposals; and
-(b)  other documents and information relevant to the determination of the
-parties' rights and obligations under the reinsurance agreement to be
-commuted, including:
+
+(b)  other documents and information relevant to the determination of the parties' rights and obligations under the reinsurance agreement to be commuted, including:
+
 (i)  a written review of any disputed paid claim balances;
+
 (ii)  any open claim files and related case reserves at net present value; and
-(iii)  any actuarial estimates with the basis of computation of any other
-reserves and any incurred-but-not-reported losses at net present value.
-(8) (a)  Within 90 days after the day on which the parties submit the
-information required by Subsection (7), the arbitration panel:
-(i)  shall issue an award, determined by a majority of the arbitration panel,
-specifying the terms of a commercially reasonable and actuarially sound
-commutation agreement between the parties; or
-(ii)  may issue an award declining commutation between the parties for a
-period not to exceed two years if a majority of the arbitration panel
-determines that it is unable to derive a commercially reasonable and
-actuarially sound commutation on the basis of:
+
+(iii)  any actuarial estimates with the basis of computation of any other reserves and any incurred-but-not-reported losses at net present value.
+
+(8) (a)  Within 90 days after the day on which the parties submit the information required by Subsection (7), the arbitration panel:
+
+(i)  shall issue an award, determined by a majority of the arbitration panel, specifying the terms of a commercially reasonable and actuarially sound commutation agreement between the parties; or
+
+(ii)  may issue an award declining commutation between the parties for a period not to exceed two years if a majority of the arbitration panel determines that it is unable to derive a commercially reasonable and actuarially sound commutation on the basis of:
+
 (A)  the submissions of the parties; and
-(B)  if applicable, the report and recommendation of the expert retained in
-accordance with Subsection (6).
-(b)  Following the expiration of the two-year period described in Subsection
-(8)(a), the liquidator may again invoke arbitration in accordance with
-Subsection (2), in which event Subsections (2) through (9) apply to the
-renewed proceeding, except that the arbitration panel is obliged to issue an
-award under Subsection (8)(a).
-(9)  Once an award is issued, the liquidator shall promptly submit the award
-to the receivership court for confirmation.
-(10) (a)  Within 30 days of the day on which the receivership court confirms
-the award, the reinsurer shall give notice to the receiver that the reinsurer:
-(i)  will commute the reinsurer's liabilities to the insurer for the amount of
-the award in return for a full and complete release of all liabilities between
-the parties, whether past, present, or future; or
+
+(B)  if applicable, the report and recommendation of the expert retained in accordance with Subsection (6).
+
+(b)  Following the expiration of the two-year period described in Subsection (8)(a), the liquidator may again invoke arbitration in accordance with Subsection (2), in which event Subsections (2) through (9) apply to the renewed proceeding, except that the arbitration panel is obliged to issue an award under Subsection (8)(a).
+
+(9)  Once an award is issued, the liquidator shall promptly submit the award to the receivership court for confirmation.
+
+(10) (a)  Within 30 days of the day on which the receivership court confirms the award, the reinsurer shall give notice to the receiver that the reinsurer:
+
+(i)  will commute the reinsurer's liabilities to the insurer for the amount of the award in return for a full and complete release of all liabilities between the parties, whether past, present, or future; or
+
 (ii)  will not commute the reinsurer's liabilities to the insurer.
-(b)  If the reinsurer's liabilities are not commuted under Subsection (10)(a),
-the reinsurer shall:
-(i)  establish and maintain in accordance with Section 31A-27a-516 a
-reinsurance recoverable trust in the amount of 102% of the award; and
-(ii)  pay the costs and fees associated with establishing and maintaining the
-trust established under this Subsection (10)(b).
-(11) (a)  If the reinsurer notifies the liquidator that it will commute the
-reinsurer's liabilities pursuant to Subsection (10)(a)(i), the liquidator has
-30 days from the day on which the reinsurer notifies the liquidator to:
+
+(b)  If the reinsurer's liabilities are not commuted under Subsection (10)(a), the reinsurer shall:
+
+(i)  establish and maintain in accordance with Section 31A-27a-516 a reinsurance recoverable trust in the amount of 102% of the award; and
+
+(ii)  pay the costs and fees associated with establishing and maintaining the trust established under this Subsection (10)(b).
+
+(11) (a)  If the reinsurer notifies the liquidator that it will commute the reinsurer's liabilities pursuant to Subsection (10)(a)(i), the liquidator has 30 days from the day on which the reinsurer notifies the liquidator to:
+
 (i)  tender to the reinsurer a proposed commutation and release agreement:
-(A)  providing for a full and complete release of all liabilities between the
-parties, whether past, present, or future; and
-(B)  that requires that the reinsurer make payment of the commutation amount
-within 14 days from the day on which the agreement is consummated; or
-(ii)  reject the commutation in writing, subject to receivership court
-approval.
-(b)  If the liquidator rejects the commutation subject to approval of the
-receivership court in accordance with Subsection (11)(a)(ii), the reinsurer
-shall establish and maintain a reinsurance recoverable trust in accordance
-with Section 31A-27a-516.
-(c)  The liquidator and the reinsurer shall share equally in the costs and
-fees associated with establishing and maintaining the trust established under
-Subsection (11)(b).
-(12)  Except for the period provided in Subsection (8)(b), the time periods
-established in Subsections (6), (7), (8), (10), and (11) may be extended:
+
+(A)  providing for a full and complete release of all liabilities between the parties, whether past, present, or future; and
+
+(B)  that requires that the reinsurer make payment of the commutation amount within 14 days from the day on which the agreement is consummated; or
+
+(ii)  reject the commutation in writing, subject to receivership court approval.
+
+(b)  If the liquidator rejects the commutation subject to approval of the receivership court in accordance with Subsection (11)(a)(ii), the reinsurer shall establish and maintain a reinsurance recoverable trust in accordance with Section 31A-27a-516.
+
+(c)  The liquidator and the reinsurer shall share equally in the costs and fees associated with establishing and maintaining the trust established under Subsection (11)(b).
+
+(12)  Except for the period provided in Subsection (8)(b), the time periods established in Subsections (6), (7), (8), (10), and (11) may be extended:
+
 (a)  upon the consent of the parties; or
+
 (b)  by order of the receivership court, for good cause shown.
-(13)  Subject to Subsection (14), this section may not be construed to
-supersede or impair any provision in a reinsurance agreement that establishes
-a commercially reasonable and actuarially sound method for valuing and
-commuting the obligations of the parties to the reinsurance agreement by
-providing in the contract the specific methodology to be used for valuing and
-commuting the obligations between the parties.
-(14) (a)  A commutation provision in a reinsurance agreement is not effective
-if it is demonstrated to the receivership court that the provision is entered
-into in contemplation of the insolvency of one or more of the parties.
-(b)  A contractual commutation provision entered into within one year of the
-day on which the liquidation order of the insurer is entered is rebuttably
-presumed to have been entered into in contemplation of insolvency.
+
+(13)  Subject to Subsection (14), this section may not be construed to supersede or impair any provision in a reinsurance agreement that establishes a commercially reasonable and actuarially sound method for valuing and commuting the obligations of the parties to the reinsurance agreement by providing in the contract the specific methodology to be used for valuing and commuting the obligations between the parties.
+
+(14) (a)  A commutation provision in a reinsurance agreement is not effective if it is demonstrated to the receivership court that the provision is entered into in contemplation of the insolvency of one or more of the parties.
+
+(b)  A contractual commutation provision entered into within one year of the day on which the liquidation order of the insurer is entered is rebuttably presumed to have been entered into in contemplation of insolvency.
+

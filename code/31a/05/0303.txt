@@ -1,66 +1,22 @@
 31A-5-303.   Insider trading of securities.
-(1)  Every person who is directly or indirectly the beneficial owner of more
-than 10% of any class of any equity security of a domestic stock insurance
-corporation, or who is a director or officer of a domestic stock corporation,
-shall file with the commissioner within 10 days after he becomes a beneficial
-owner, director, or officer, and within 10 days after the close of any
-following calendar month in which there has been a change in his ownership or
-office, a statement in a form prescribed by the commissioner, of his office
-and of all the equity securities of the company which he beneficially owns,
-and of all the changes in either.  The commissioner may accept a copy of a
-similar statement filed with another regulatory authority in satisfaction of
-this subsection's requirement.
-(2)  To prevent the unfair use of information which may have been obtained by
-a beneficial owner, director, or officer because of his relationship to the
-corporation, any profit realized by him from the purchase and sale or sale and
-purchase of any equity security of the corporation within any period of less
-than six months, unless the security was acquired in good faith in connection
-with a debt previously contracted, is recoverable by the corporation.  This
-recovery may be made in spite of any intention by the beneficial owner,
-director, or officer in entering into the transaction to hold the security
-purchased or not to repurchase the security sold for a period exceeding six
-months.  A suit to recover the profit may be instituted in any court of
-competent jurisdiction by the corporation.  If the corporation fails to bring
-suit within 60 days after request by the owner of a security of the
-corporation or if the corporation fails to prosecute it diligently, the owner
-of any security of the corporation may bring suit or prosecute the action in
-the name and on behalf of the corporation.  This suit may not be brought more
-than two years after the date the profit was realized.  This subsection does
-not apply to any transaction where the beneficial owner was not a beneficial
-owner both at the time of the purchase and sale, or the sale and purchase, of
-the security involved, nor does it apply to any transaction which the
-commissioner, by rule, exempts as not within the purpose of this subsection.
-(3) (a)  A dealer in the ordinary course of his business and incident to his
-establishment or maintenance of a primary or secondary market for the security
-other than on an exchange as defined in the federal Securities Exchange Act of
-1934, is not governed by Subsection (2) regarding a purchase and sale or sale
-and purchase.  The commissioner may by rule define terms and prescribe
-conditions regarding securities held in an investment account and transactions
-made in the ordinary course of business and incident to the establishment or
-maintenance of a primary or secondary market.
-(b)  Subsections (1) and (2) do not apply to foreign or domestic arbitrage
-transactions unless made in contravention of rules the commissioner adopts to
-carry out this section.
-(c)  Subsections (1) and (2) do not apply to equity securities of a
-corporation if:
-(i)  the securities are registered, or are required to be registered, under
-Section 12 of the federal Securities Exchange Act of 1934, as amended; or
-(ii)  the corporation did not have any class of its equity securities held of
-record by 100 or more persons on the last business day of the year preceding
-the year in which equity securities of the corporation would otherwise be
-subject to Subsections (1) and (2).
-(4)  No person may, in contravention of rules the commissioner adopts for the
-protection of investors or the public, solicit or permit the use of his name
-to solicit a proxy, consent, or authorization regarding an equity security of
-a domestic stock corporation having 100 or more shareholders of record.
-(5)  No provision of this section imposing liability applies to an act done or
-omitted in good faith in conformity with any rule of the commissioner.
-Liability does not apply even if the rule is amended, rescinded, or determined
-by judicial or other authority to be invalid after the act or omission.
-(6)  As used in this section, "equity security" means any stock or similar
-security; any security convertible, with or without consideration, into stock
-or a similar security; carrying any warrant or right to subscribe to or
-purchase stock or a similar security; any such warrant or right; or any other
-security which the commissioner considers to be of similar nature and
-designates as an equity security by rules promulgated in the public interest
-or for the protection of investors.
+
+(1)  Every person who is directly or indirectly the beneficial owner of more than 10% of any class of any equity security of a domestic stock insurance corporation, or who is a director or officer of a domestic stock corporation, shall file with the commissioner within 10 days after he becomes a beneficial owner, director, or officer, and within 10 days after the close of any following calendar month in which there has been a change in his ownership or office, a statement in a form prescribed by the commissioner, of his office and of all the equity securities of the company which he beneficially owns, and of all the changes in either.  The commissioner may accept a copy of a similar statement filed with another regulatory authority in satisfaction of this subsection's requirement.
+
+(2)  To prevent the unfair use of information which may have been obtained by a beneficial owner, director, or officer because of his relationship to the corporation, any profit realized by him from the purchase and sale or sale and purchase of any equity security of the corporation within any period of less than six months, unless the security was acquired in good faith in connection with a debt previously contracted, is recoverable by the corporation.  This recovery may be made in spite of any intention by the beneficial owner, director, or officer in entering into the transaction to hold the security purchased or not to repurchase the security sold for a period exceeding six months.  A suit to recover the profit may be instituted in any court of competent jurisdiction by the corporation.  If the corporation fails to bring suit within 60 days after request by the owner of a security of the corporation or if the corporation fails to prosecute it diligently, the owner of any security of the corporation may bring suit or prosecute the action in the name and on behalf of the corporation.  This suit may not be brought more than two years after the date the profit was realized.  This subsection does not apply to any transaction where the beneficial owner was not a beneficial owner both at the time of the purchase and sale, or the sale and purchase, of the security involved, nor does it apply to any transaction which the commissioner, by rule, exempts as not within the purpose of this subsection.
+
+(3) (a)  A dealer in the ordinary course of his business and incident to his establishment or maintenance of a primary or secondary market for the security other than on an exchange as defined in the federal Securities Exchange Act of 1934, is not governed by Subsection (2) regarding a purchase and sale or sale and purchase.  The commissioner may by rule define terms and prescribe conditions regarding securities held in an investment account and transactions made in the ordinary course of business and incident to the establishment or maintenance of a primary or secondary market.
+
+(b)  Subsections (1) and (2) do not apply to foreign or domestic arbitrage transactions unless made in contravention of rules the commissioner adopts to carry out this section.
+
+(c)  Subsections (1) and (2) do not apply to equity securities of a corporation if:
+
+(i)  the securities are registered, or are required to be registered, under Section 12 of the federal Securities Exchange Act of 1934, as amended; or
+
+(ii)  the corporation did not have any class of its equity securities held of record by 100 or more persons on the last business day of the year preceding the year in which equity securities of the corporation would otherwise be subject to Subsections (1) and (2).
+
+(4)  No person may, in contravention of rules the commissioner adopts for the protection of investors or the public, solicit or permit the use of his name to solicit a proxy, consent, or authorization regarding an equity security of a domestic stock corporation having 100 or more shareholders of record.
+
+(5)  No provision of this section imposing liability applies to an act done or omitted in good faith in conformity with any rule of the commissioner.  Liability does not apply even if the rule is amended, rescinded, or determined by judicial or other authority to be invalid after the act or omission.
+
+(6)  As used in this section, "equity security" means any stock or similar security; any security convertible, with or without consideration, into stock or a similar security; carrying any warrant or right to subscribe to or purchase stock or a similar security; any such warrant or right; or any other security which the commissioner considers to be of similar nature and designates as an equity security by rules promulgated in the public interest or for the protection of investors.
+

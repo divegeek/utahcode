@@ -1,99 +1,74 @@
-77-22-2.5.   Administrative subpoenas for criminal investigations for
-records concerning an electronic communication system or service or remote
-computing service -- Content -- Fee for providing information.
+77-22-2.5.   Administrative subpoenas for criminal investigations for records concerning an electronic communication system or service or remote computing service -- Content -- Fee for providing information.
+
 (1)  As used in this section:
-(a) (i)  "Electronic communication" means any transfer of signs, signals,
-writing, images, sounds, data, or intelligence of any nature transmitted in
-whole or in part by a wire, radio, electromagnetic, photoelectronic, or
-photooptical system.
+
+(a) (i)  "Electronic communication" means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic, or photooptical system.
+
 (ii)  "Electronic communication" does not include:
+
 (A)  any wire or oral communication;
+
 (B)  any communication made through a tone-only paging device;
+
 (C)  any communication from a tracking device; or
-(D)  electronic funds transfer information stored by a financial institution
-in a communications system used for the electronic storage and transfer of
-funds.
-(b)  "Electronic communications service" means any service which provides for
-users the ability to send or receive wire or electronic communications.
-(c) "Electronic communications system" means any wire, radio, electromagnetic,
-photooptical, or photoelectronic facilities for the transmission of wire or
-electronic communications, and any computer facilities or related electronic
-equipment for the electronic storage of the communication.
-(d)  "Internet service provider" has the same definition as in Section
-76-10-1230.
+
+(D)  electronic funds transfer information stored by a financial institution in a communications system used for the electronic storage and transfer of funds.
+
+(b)  "Electronic communications service" means any service which provides for users the ability to send or receive wire or electronic communications.
+
+(c) "Electronic communications system" means any wire, radio, electromagnetic, photooptical, or photoelectronic facilities for the transmission of wire or electronic communications, and any computer facilities or related electronic equipment for the electronic storage of the communication.
+
+(d)  "Internet service provider" has the same definition as in Section 76-10-1230.
+
 (e)  "Prosecutor" has the same definition as in Section 77-22-2.
+
 (f)  "Sexual offense against a minor" means:
-(i)  sexual exploitation of a minor as defined in Section 76-5a-3 or attempted
-sexual exploitation of a minor;
-(ii)  a sexual offense or attempted sexual offense committed against a minor
-in violation of Title 76, Chapter 5, Part 4, Sexual Offenses; or
-(iii)  dealing in or attempting to deal in material harmful to a minor in
-violation of Section 76-10-1206.
-(g)  "Remote computing service" means the provision to the public of computer
-storage or processing services by means of an electronic communications
-system.
-(2)  When a law enforcement agency is investigating a sexual offense against a
-minor, an offense of stalking under Section 76-5-106.5, or an offense of child
-kidnapping under Section 76-5-301.1, and has reasonable suspicion that an
-electronic communications system or service or remote computing service has
-been used in the commission of a criminal offense, the prosecutor may issue an
-administrative subpoena, consistent with 18 U.S.C. 2703 and 18 U.S.C. 2702, to
-the electronic communications system or service or remote computing service
-provider that owns or controls the Internet protocol address, websites, email
-address, or service to a specific telephone number, requiring the production
-of the following information, if available, upon providing in the subpoena the
-Internet protocol address, email address, telephone number, or other
-identifier, and the dates and times the address, telephone number, or other
-identifier was suspected of being used in the commission of the offense:
+
+(i)  sexual exploitation of a minor as defined in Section 76-5a-3 or attempted sexual exploitation of a minor;
+
+(ii)  a sexual offense or attempted sexual offense committed against a minor in violation of Title 76, Chapter 5, Part 4, Sexual Offenses; or
+
+(iii)  dealing in or attempting to deal in material harmful to a minor in violation of Section 76-10-1206.
+
+(g)  "Remote computing service" means the provision to the public of computer storage or processing services by means of an electronic communications system.
+
+(2)  When a law enforcement agency is investigating a sexual offense against a minor, an offense of stalking under Section 76-5-106.5, or an offense of child kidnapping under Section 76-5-301.1, and has reasonable suspicion that an electronic communications system or service or remote computing service has been used in the commission of a criminal offense, the prosecutor may issue an administrative subpoena, consistent with 18 U.S.C. 2703 and 18 U.S.C. 2702, to the electronic communications system or service or remote computing service provider that owns or controls the Internet protocol address, websites, email address, or service to a specific telephone number, requiring the production of the following information, if available, upon providing in the subpoena the Internet protocol address, email address, telephone number, or other identifier, and the dates and times the address, telephone number, or other identifier was suspected of being used in the commission of the offense:
+
 (a)  names;
+
 (b)  addresses;
+
 (c)  local and long distance telephone connections;
+
 (d)  records of session times and durations;
-(e)  length of service, including the start date and types of service
-utilized;
-(f)  telephone or other instrument subscriber numbers or other subscriber
-identifiers, including any temporarily assigned network address; and
-(g)  means and sources of payment for the service, including any credit card
-or bank account numbers.
-(3)  A subpoena issued under this section shall state that the  electronic
-communications system or service or remote computing service provider shall
-produce any records under Subsections (2)(a) through (g) that are reasonably
-relevant to the investigation of the suspected criminal activity or offense as
-described in the subpoena.
-(4) (a)  An electronic communications system or service or remote computing
-service provider that provides information in response to a subpoena issued
-under this section may charge a fee, not to exceed the actual cost, for
-providing the information.
-(b)  The law enforcement agency conducting the investigation shall pay the
-fee.
-(5)  The electronic communications system or service or remote computing
-service provider served with or responding to the subpoena may not disclose
-the subpoena to the account holder identified pursuant to the subpoena.
-(6)  If the electronic communications system or service or remote computing
-service provider served with the subpoena does not own or control the Internet
-protocol address, websites, or email address, or provide service for the
-telephone number that is the subject of the subpoena, the provider shall:
-(a)  notify the investigating law enforcement agency that it does not have the
-information; and
-(b)  provide to the investigating law enforcement agency any information the
-provider knows, through reasonable effort, that it has regarding how to locate
-the Internet service provider that does own or control the Internet protocol
-address, websites, or email address, or provide service for the telephone
-number.
-(7)  There is no cause of action against any provider or wire or electronic
-communication service, or its officers, employees, agents, or other specified
-persons, for providing information, facilities, or assistance in accordance
-with the terms of the administrative subpoena issued under this section or
-statutory authorization.
-(8) (a)  An administrative subpoena issued under this section is subject to
-the provisions of Title 77, Chapter 23b, Access to Electronic Communications.
-(b)  Rights and remedies for providers and subscribers under Title 77, Chapter
-23b, Access to Electronic Communications, apply to providers and subscribers
-subject to an administrative subpoena issued under this section.
-(9)  Every prosecutorial agency shall annually on or before June 30 report to
-the Commission on Criminal and Juvenile Justice the number of administrative
-subpoenas issued by the agency during the previous calendar year.
-(10)  State and local prosecutorial and law enforcement agencies shall
-annually on or before June 30 report to the Commission on Criminal and
-Juvenile Justice the number of administrative subpoenas the agency requested
-that any federal law enforcement agency issue during the prior calendar year.
+
+(e)  length of service, including the start date and types of service utilized;
+
+(f)  telephone or other instrument subscriber numbers or other subscriber identifiers, including any temporarily assigned network address; and
+
+(g)  means and sources of payment for the service, including any credit card or bank account numbers.
+
+(3)  A subpoena issued under this section shall state that the  electronic communications system or service or remote computing service provider shall produce any records under Subsections (2)(a) through (g) that are reasonably relevant to the investigation of the suspected criminal activity or offense as described in the subpoena.
+
+(4) (a)  An electronic communications system or service or remote computing service provider that provides information in response to a subpoena issued under this section may charge a fee, not to exceed the actual cost, for providing the information.
+
+(b)  The law enforcement agency conducting the investigation shall pay the fee.
+
+(5)  The electronic communications system or service or remote computing service provider served with or responding to the subpoena may not disclose the subpoena to the account holder identified pursuant to the subpoena.
+
+(6)  If the electronic communications system or service or remote computing service provider served with the subpoena does not own or control the Internet protocol address, websites, or email address, or provide service for the telephone number that is the subject of the subpoena, the provider shall:
+
+(a)  notify the investigating law enforcement agency that it does not have the information; and
+
+(b)  provide to the investigating law enforcement agency any information the provider knows, through reasonable effort, that it has regarding how to locate the Internet service provider that does own or control the Internet protocol address, websites, or email address, or provide service for the telephone number.
+
+(7)  There is no cause of action against any provider or wire or electronic communication service, or its officers, employees, agents, or other specified persons, for providing information, facilities, or assistance in accordance with the terms of the administrative subpoena issued under this section or statutory authorization.
+
+(8) (a)  An administrative subpoena issued under this section is subject to the provisions of Title 77, Chapter 23b, Access to Electronic Communications.
+
+(b)  Rights and remedies for providers and subscribers under Title 77, Chapter 23b, Access to Electronic Communications, apply to providers and subscribers subject to an administrative subpoena issued under this section.
+
+(9)  Every prosecutorial agency shall annually on or before June 30 report to the Commission on Criminal and Juvenile Justice the number of administrative subpoenas issued by the agency during the previous calendar year.
+
+(10)  State and local prosecutorial and law enforcement agencies shall annually on or before June 30 report to the Commission on Criminal and Juvenile Justice the number of administrative subpoenas the agency requested that any federal law enforcement agency issue during the prior calendar year.
+

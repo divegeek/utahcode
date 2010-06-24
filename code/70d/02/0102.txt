@@ -1,44 +1,50 @@
 70D-2-102.   Definitions.
+
 As used in this chapter:
-(1) (a)  Except as provided in Subsection (1)(b), "broker" means a person who
-in the regular course of business assists a person in obtaining a mortgage
-loan for a fee or other consideration paid directly or indirectly.
+
+(1) (a)  Except as provided in Subsection (1)(b), "broker" means a person who in the regular course of business assists a person in obtaining a mortgage loan for a fee or other consideration paid directly or indirectly.
+
 (b)  "Broker" does not include a person solely because of the person's:
+
 (i)  real estate brokerage activities; or
-(ii)  activities as an attorney licensed to practice law in this state who, in
-the course of the attorney's practice as an attorney, assists a person in
-obtaining a mortgage loan.
-(2)  "Business as a lender, broker, or servicer" means a person who engages in
-an act for compensation or in the expectation of compensation that makes the
-person a lender, broker, or servicer.
-(3) (a)  Except as provided in Subsection (3)(b), "lender" means a person who
-in the regular course of business originates a loan secured by a mortgage.
+
+(ii)  activities as an attorney licensed to practice law in this state who, in the course of the attorney's practice as an attorney, assists a person in obtaining a mortgage loan.
+
+(2)  "Business as a lender, broker, or servicer" means a person who engages in an act for compensation or in the expectation of compensation that makes the person a lender, broker, or servicer.
+
+(3) (a)  Except as provided in Subsection (3)(b), "lender" means a person who in the regular course of business originates a loan secured by a mortgage.
+
 (b)  "Lender" does not include a person who:
-(i)  as a seller only receives one or more mortgages as security for a
-purchase money obligation; or
+
+(i)  as a seller only receives one or more mortgages as security for a purchase money obligation; or
+
 (ii)  only receives a mortgage as security for an obligation:
+
 (A)  payable on an installment or deferred payment basis; and
-(B)  arising out of materials furnished or services rendered in the
-improvement of real property.
-(4)  "Manufactured home" means a transportable factory built housing unit
-that:
+
+(B)  arising out of materials furnished or services rendered in the improvement of real property.
+
+(4)  "Manufactured home" means a transportable factory built housing unit that:
+
 (a)  is constructed:
-(i)  on or after June 15, 1976, according to the National Manufactured Housing
-Construction and Safety Standards Act of 1974; and
+
+(i)  on or after June 15, 1976, according to the National Manufactured Housing Construction and Safety Standards Act of 1974; and
+
 (ii)  in one or more sections, which:
-(A)  in the traveling mode, is eight body feet or more in width or 40 body
-feet or more in length; or
+
+(A)  in the traveling mode, is eight body feet or more in width or 40 body feet or more in length; or
+
 (B)  when erected on site, is 400 or more square feet;
+
 (b)  is built on a permanent chassis;
-(c)  is designed to be used as a dwelling with or without a permanent
-foundation when connected to the required utilities; and
+
+(c)  is designed to be used as a dwelling with or without a permanent foundation when connected to the required utilities; and
+
 (d)  includes the plumbing, heating, air-conditioning, and electrical systems.
-(5)  "Mobile home" means a transportable factory built housing unit built
-before June 15, 1976, in accordance with a state mobile home code that existed
-before the National Manufactured Housing Construction and Safety Standards Act
-of 1974.
-(6)  "Permanently affixed" means anchored to, and supported by, a permanent
-foundation or installed in accordance with the manufactured housing
-installation standard code referred to in Section 58-56-4.
-(7)  "Servicer" means a person who in the regular course of business assumes
-responsibility for servicing and accepting payments for a mortgage loan.
+
+(5)  "Mobile home" means a transportable factory built housing unit built before June 15, 1976, in accordance with a state mobile home code that existed before the National Manufactured Housing Construction and Safety Standards Act of 1974.
+
+(6)  "Permanently affixed" means anchored to, and supported by, a permanent foundation or installed in accordance with the manufactured housing installation standard code referred to in Section 58-56-4.
+
+(7)  "Servicer" means a person who in the regular course of business assumes responsibility for servicing and accepting payments for a mortgage loan.
+

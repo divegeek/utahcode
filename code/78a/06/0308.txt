@@ -1,58 +1,32 @@
-78A-6-308.   Criminal background checks necessary prior to out-of-home
-placement.
-(1)  Subject to Subsection (3), upon ordering removal of a child from the
-custody of the child's parent and placing that child in the custody of the
-Division of Child and Family Services, prior to the division's placement of
-that child in out-of-home care, the court shall require the completion of a
-nonfingerprint-based background check by the Utah Bureau of Criminal
-Identification regarding the proposed placement.
-(2) (a)  Except as provided in Subsection (4), the division and the Office of
-Guardian ad Litem may request, or the court upon the court's own motion may
-order, the Department of Public Safety to conduct a complete Federal Bureau of
-Investigation criminal background check through the national criminal history
-system (NCIC).
-(b)  Except as provided in Subsection (4), upon request by the division or the
-Office of Guardian ad Litem, or upon the court's order, persons subject to the
-requirements of Subsection (1) shall submit fingerprints and shall be subject
-to an FBI fingerprint background check.  The child may be temporarily placed,
-pending the outcome of that background check.
-(c)  The cost of those investigations shall be borne by whoever is to receive
-placement of the child, except that the Division of Child and Family Services
-may pay all or part of the cost of those investigations.
-(3)  Except as provided in Subsection (5), a child who is in the legal custody
-of the state may not be placed with a prospective foster parent or a
-prospective adoptive parent, unless, before the child is placed with the
-prospective foster parent or the prospective adoptive parent:
-(a)  a fingerprint based FBI national criminal history records check is
-conducted on the prospective foster parent or prospective adoptive parent;
-(b)  the Department of Human Services conducts a check of the abuse and
-neglect registry in each state where the prospective foster parent or
-prospective adoptive parent resided in the five years immediately preceding
-the day on which the prospective foster parent or prospective adoptive parent
-applied to be a foster parent or adoptive parent, to determine whether the
-prospective foster parent or prospective adoptive parent is listed in the
-registry as having a substantiated or supported finding of a severe type of
-abuse or neglect as defined in Section 62A-4a-1002;
-(c)  the Department of Human Services conducts a check of the abuse and
-neglect registry of each state where each adult living in the home of the
-prospective foster parent or prospective adoptive parent described in
-Subsection (3)(b) resided in the five years immediately preceding the day on
-which the prospective foster parent or prospective adoptive parent applied to
-be a foster parent or adoptive parent, to determine whether the adult is
-listed in the registry as having a substantiated or supported finding of a
-severe type of abuse or neglect as defined in Section 62A-4a-1002; and
-(d)  each person required to undergo a background check described in this
-Subsection (3) passes the background check, pursuant to the provisions of
-Section 62A-2-120.
-(4)  Subsections (2)(a) and (b) do not apply to a child who is placed with a
-noncustodial parent or relative under Section 62A-4a-209, 78A-6-307, or
-78A-6-307.5, unless the court finds that compliance with Subsection (2)(a) or
-(b) is necessary to ensure the safety of the child.
+78A-6-308.   Criminal background checks necessary prior to out-of-home placement.
+
+(1)  Subject to Subsection (3), upon ordering removal of a child from the custody of the child's parent and placing that child in the custody of the Division of Child and Family Services, prior to the division's placement of that child in out-of-home care, the court shall require the completion of a nonfingerprint-based background check by the Utah Bureau of Criminal Identification regarding the proposed placement.
+
+(2) (a)  Except as provided in Subsection (4), the division and the Office of Guardian ad Litem may request, or the court upon the court's own motion may order, the Department of Public Safety to conduct a complete Federal Bureau of Investigation criminal background check through the national criminal history system (NCIC).
+
+(b)  Except as provided in Subsection (4), upon request by the division or the Office of Guardian ad Litem, or upon the court's order, persons subject to the requirements of Subsection (1) shall submit fingerprints and shall be subject to an FBI fingerprint background check.  The child may be temporarily placed, pending the outcome of that background check.
+
+(c)  The cost of those investigations shall be borne by whoever is to receive placement of the child, except that the Division of Child and Family Services may pay all or part of the cost of those investigations.
+
+(3)  Except as provided in Subsection (5), a child who is in the legal custody of the state may not be placed with a prospective foster parent or a prospective adoptive parent, unless, before the child is placed with the prospective foster parent or the prospective adoptive parent:
+
+(a)  a fingerprint based FBI national criminal history records check is conducted on the prospective foster parent or prospective adoptive parent;
+
+(b)  the Department of Human Services conducts a check of the abuse and neglect registry in each state where the prospective foster parent or prospective adoptive parent resided in the five years immediately preceding the day on which the prospective foster parent or prospective adoptive parent applied to be a foster parent or adoptive parent, to determine whether the prospective foster parent or prospective adoptive parent is listed in the registry as having a substantiated or supported finding of a severe type of abuse or neglect as defined in Section 62A-4a-1002;
+
+(c)  the Department of Human Services conducts a check of the abuse and neglect registry of each state where each adult living in the home of the prospective foster parent or prospective adoptive parent described in Subsection (3)(b) resided in the five years immediately preceding the day on which the prospective foster parent or prospective adoptive parent applied to be a foster parent or adoptive parent, to determine whether the adult is listed in the registry as having a substantiated or supported finding of a severe type of abuse or neglect as defined in Section 62A-4a-1002; and
+
+(d)  each person required to undergo a background check described in this Subsection (3) passes the background check, pursuant to the provisions of Section 62A-2-120.
+
+(4)  Subsections (2)(a) and (b) do not apply to a child who is placed with a noncustodial parent or relative under Section 62A-4a-209, 78A-6-307, or 78A-6-307.5, unless the court finds that compliance with Subsection (2)(a) or (b) is necessary to ensure the safety of the child.
+
 (5)  The requirements under Subsection (3) do not apply to the extent that:
+
 (a)  federal law or rule permits otherwise; or
-(b)  the requirements would prohibit the division or a court from placing a
-child with:
-(i)  a noncustodial parent, under Section 62A-4a-209, 78A-6-307, or
-78A-6-307.5; or
-(ii)  a relative, under Section 62A-4a-209, 78A-6-307, or 78A-6-307.5, pending
-completion of the background check described in Subsection (3).
+
+(b)  the requirements would prohibit the division or a court from placing a child with:
+
+(i)  a noncustodial parent, under Section 62A-4a-209, 78A-6-307, or 78A-6-307.5; or
+
+(ii)  a relative, under Section 62A-4a-209, 78A-6-307, or 78A-6-307.5, pending completion of the background check described in Subsection (3).
+

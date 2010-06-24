@@ -1,41 +1,30 @@
 77-38a-601.   Preservation of assets.
-(1)  Prior to or at the time a criminal information, indictment charging a
-violation, or a petition alleging delinquency is filed, or at any time during
-the prosecution of the case, a prosecutor may, if in the prosecutor's best
-judgment there is a substantial likelihood that a conviction will be obtained
-and restitution will be ordered in the case, petition the court to:
+
+(1)  Prior to or at the time a criminal information, indictment charging a violation, or a petition alleging delinquency is filed, or at any time during the prosecution of the case, a prosecutor may, if in the prosecutor's best judgment there is a substantial likelihood that a conviction will be obtained and restitution will be ordered in the case, petition the court to:
+
 (a)  enter a temporary restraining order, an injunction, or both;
+
 (b)  require the execution of a satisfactory performance bond; or
-(c)  take any other action to preserve the availability of property which may
-be necessary to satisfy an anticipated restitution order.
-(2) (a)  Upon receiving a request from a prosecutor under Subsection (1), and
-after notice to persons appearing to have an interest in the property and
-affording them an opportunity to be heard, the court may take action as
-requested by the prosecutor if the court determines:
-(i)  there is probable cause to believe that a crime has been committed and
-that the defendant committed it, and that failure to enter the order will
-likely result in the property being sold, distributed, exhibited, destroyed,
-or removed from the jurisdiction of the court, or otherwise be made
-unavailable for restitution; and
-(ii)  the need to preserve the availability of the property or prevent its
-sale, distribution, exhibition, destruction, or removal through the entry of
-the requested order outweighs the hardship on any party against whom the order
-is to be entered.
-(b)  In a hearing conducted pursuant to this section, a court may consider
-reliable hearsay as defined in Utah Rules of Evidence, Rule 1102.
-(c)  An order for an injunction entered under this section is effective for
-the period of time given in the order.
-(3) (a)  Upon receiving a request for a temporary restraining order from a
-prosecutor under this section, a court may enter a temporary restraining order
-against an owner with respect to specific property without notice or
-opportunity for a hearing if:
-(i)  the prosecutor demonstrates that there is a substantial likelihood that
-the property with respect to which the order is sought appears to be necessary
-to satisfy an anticipated restitution order under this chapter; and
-(ii)  provision of notice would jeopardize the availability of the property to
-satisfy any restitution order or judgment.
-(b)  The temporary order in this Subsection (3) expires not more than 10 days
-after it is entered unless extended for good cause shown or the party against
-whom it is entered consents to an extension.
-(4)  A hearing concerning an order entered under this section shall be held as
-soon as possible, and prior to the expiration of the temporary order.
+
+(c)  take any other action to preserve the availability of property which may be necessary to satisfy an anticipated restitution order.
+
+(2) (a)  Upon receiving a request from a prosecutor under Subsection (1), and after notice to persons appearing to have an interest in the property and affording them an opportunity to be heard, the court may take action as requested by the prosecutor if the court determines:
+
+(i)  there is probable cause to believe that a crime has been committed and that the defendant committed it, and that failure to enter the order will likely result in the property being sold, distributed, exhibited, destroyed, or removed from the jurisdiction of the court, or otherwise be made unavailable for restitution; and
+
+(ii)  the need to preserve the availability of the property or prevent its sale, distribution, exhibition, destruction, or removal through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered.
+
+(b)  In a hearing conducted pursuant to this section, a court may consider reliable hearsay as defined in Utah Rules of Evidence, Rule 1102.
+
+(c)  An order for an injunction entered under this section is effective for the period of time given in the order.
+
+(3) (a)  Upon receiving a request for a temporary restraining order from a prosecutor under this section, a court may enter a temporary restraining order against an owner with respect to specific property without notice or opportunity for a hearing if:
+
+(i)  the prosecutor demonstrates that there is a substantial likelihood that the property with respect to which the order is sought appears to be necessary to satisfy an anticipated restitution order under this chapter; and
+
+(ii)  provision of notice would jeopardize the availability of the property to satisfy any restitution order or judgment.
+
+(b)  The temporary order in this Subsection (3) expires not more than 10 days after it is entered unless extended for good cause shown or the party against whom it is entered consents to an extension.
+
+(4)  A hearing concerning an order entered under this section shall be held as soon as possible, and prior to the expiration of the temporary order.
+

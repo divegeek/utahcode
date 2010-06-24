@@ -1,17 +1,14 @@
 6-1-2.   When assignment void.
-An assignment for the benefit of creditors is void against any creditor of the
-assignor not assenting thereto in the following cases:
-(1)  if it gives a preference dependent upon any condition or contingency, or
-with any power of revocation reserved;
+
+An assignment for the benefit of creditors is void against any creditor of the assignor not assenting thereto in the following cases:
+
+(1)  if it gives a preference dependent upon any condition or contingency, or with any power of revocation reserved;
+
 (2)  if it tends to coerce any creditor to release or compromise his demand;
-(3)  if it provides for the payment of any claim known by the assignor to be
-false or fraudulent, or for the payment of more upon any claim than is known
-to be justly due from the assignor;
-(4)  if it reserves any interest in the assigned property or in any part
-thereof to the assignor or for his benefit before all his existing debts are
-paid; and
-(5)  if it confers upon the assignee any power which, if exercised, might
-prevent or delay the immediate conversion of the assigned property to the
-purposes of the trust; provided, that the assignment may provide reasonable
-terms and manner of sale to be carried out only so far as practicable and not
-prejudicial to the interest of the estate in the discretion of the court.
+
+(3)  if it provides for the payment of any claim known by the assignor to be false or fraudulent, or for the payment of more upon any claim than is known to be justly due from the assignor;
+
+(4)  if it reserves any interest in the assigned property or in any part thereof to the assignor or for his benefit before all his existing debts are paid; and
+
+(5)  if it confers upon the assignee any power which, if exercised, might prevent or delay the immediate conversion of the assigned property to the purposes of the trust; provided, that the assignment may provide reasonable terms and manner of sale to be carried out only so far as practicable and not prejudicial to the interest of the estate in the discretion of the court.
+

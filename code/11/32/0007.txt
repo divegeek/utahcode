@@ -1,44 +1,28 @@
 11-32-7.   Bond principal and interest -- Security agreements -- Trustee.
+
 (1)  The principal of and interest on any bonds issued under this chapter:
-(a)  shall be secured by a pledge and assignment of the revenues received by
-the financing authority under the assignment agreement with respect to the
-delinquent tax receivables purchased with the proceeds of the sale of these
-bonds;
-(b)  may be secured by a pledge and security interest in the assignment
-agreement; and
-(c)  may be secured by amounts held in reserve funds, letters of credit, bond
-insurance, surety bonds, or by such other security devices with respect to the
-delinquent tax receivables deemed most advantageous by the authority.
-(2)  The proceedings under which the bonds are authorized to be issued under
-this chapter and any security agreement given to secure the bonds may contain
-any agreements and provisions customarily contained in instruments securing
-bonds, including provisions respecting:
-(a)  the collection of the delinquent taxes covered by these proceedings or
-any security agreement;
-(b)  the terms to be incorporated in the assignment agreement with respect to
-the delinquent tax receivables;
-(c)  the creation and maintenance of reserve funds from the proceeds of sale
-of bonds or from the collection of the delinquent taxes;
-(d)  the rights and remedies available to the holders of bonds or to the
-trustee in the event of a default, as the board of trustees of the authority
-may determine in accordance with this chapter.
-(3)  The security agreements, trust indentures, or other security devices
-shall provide that following the exhaustion of all legal means of collection
-of the delinquent tax receivables no judgment may be entered against the
-authority or the county or any participant members or the state of Utah or any
-of its political subdivisions.
-(4)  The proceedings authorizing bonds under this chapter, and any security
-agreement securing these bonds, may provide that upon default in the payment
-of the principal of or interest on the bonds or in the performance of any
-covenant or agreement contained in the proceedings or security agreement, the
-payment or performance may be enforced by the appointment of a receiver for
-the delinquent tax receivables with power to compel the county to use the
-statutory means it has to collect the delinquent tax receivables and apply the
-revenues in accordance with these proceedings or the security agreement.
-(5)  No breach of a security agreement, covenant, or other agreement may
-impose any general obligation or liability upon, nor a charge against, the
-county or any participant member, nor the general credit or taxing power of
-this state or any of its political subdivisions.
-(6)  The proceedings authorizing the issuance of bonds may provide for the
-appointment of a trustee, which may be a trust company or bank having trust
-powers located in or outside of this state.
+
+(a)  shall be secured by a pledge and assignment of the revenues received by the financing authority under the assignment agreement with respect to the delinquent tax receivables purchased with the proceeds of the sale of these bonds;
+
+(b)  may be secured by a pledge and security interest in the assignment agreement; and
+
+(c)  may be secured by amounts held in reserve funds, letters of credit, bond insurance, surety bonds, or by such other security devices with respect to the delinquent tax receivables deemed most advantageous by the authority.
+
+(2)  The proceedings under which the bonds are authorized to be issued under this chapter and any security agreement given to secure the bonds may contain any agreements and provisions customarily contained in instruments securing bonds, including provisions respecting:
+
+(a)  the collection of the delinquent taxes covered by these proceedings or any security agreement;
+
+(b)  the terms to be incorporated in the assignment agreement with respect to the delinquent tax receivables;
+
+(c)  the creation and maintenance of reserve funds from the proceeds of sale of bonds or from the collection of the delinquent taxes;
+
+(d)  the rights and remedies available to the holders of bonds or to the trustee in the event of a default, as the board of trustees of the authority may determine in accordance with this chapter.
+
+(3)  The security agreements, trust indentures, or other security devices shall provide that following the exhaustion of all legal means of collection of the delinquent tax receivables no judgment may be entered against the authority or the county or any participant members or the state of Utah or any of its political subdivisions.
+
+(4)  The proceedings authorizing bonds under this chapter, and any security agreement securing these bonds, may provide that upon default in the payment of the principal of or interest on the bonds or in the performance of any covenant or agreement contained in the proceedings or security agreement, the payment or performance may be enforced by the appointment of a receiver for the delinquent tax receivables with power to compel the county to use the statutory means it has to collect the delinquent tax receivables and apply the revenues in accordance with these proceedings or the security agreement.
+
+(5)  No breach of a security agreement, covenant, or other agreement may impose any general obligation or liability upon, nor a charge against, the county or any participant member, nor the general credit or taxing power of this state or any of its political subdivisions.
+
+(6)  The proceedings authorizing the issuance of bonds may provide for the appointment of a trustee, which may be a trust company or bank having trust powers located in or outside of this state.
+

@@ -1,9 +1,8 @@
 59-7-112.   Installment sales.
-(1)  Except as provided in Subsections (2) and (3), installment sales shall be
-governed by Sections 453, 453A, and 453B, Internal Revenue Code.
-(2)  Installment sales entered into prior to January 1, 1994, shall be
-recognized as originally reported.
-(3)  If a corporation is no longer required to file a Utah corporate return,
-any taxes owed by that corporation on installment sales entered into by that
-corporation shall accelerate and be due on the corporation's last return filed
-in Utah.
+
+(1)  Except as provided in Subsections (2) and (3), installment sales shall be governed by Sections 453, 453A, and 453B, Internal Revenue Code.
+
+(2)  Installment sales entered into prior to January 1, 1994, shall be recognized as originally reported.
+
+(3)  If a corporation is no longer required to file a Utah corporate return, any taxes owed by that corporation on installment sales entered into by that corporation shall accelerate and be due on the corporation's last return filed in Utah.
+

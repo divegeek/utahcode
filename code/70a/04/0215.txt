@@ -1,37 +1,24 @@
-70A-4-215.   Final payment of item by payor bank -- When provisional debits
-and credits become final -- When certain credits become available for
-withdrawal.
-(1)  An item is finally paid by a payor bank when the bank has first done any
-of the following:
+70A-4-215.   Final payment of item by payor bank -- When provisional debits and credits become final -- When certain credits become available for withdrawal.
+
+(1)  An item is finally paid by a payor bank when the bank has first done any of the following:
+
 (a)  paid the item in cash;
-(b)  settled for the item without having a right to revoke the settlement
-under statute, clearinghouse rule, or agreement; or
-(c)  made a provisional settlement for the item and failed to revoke the
-settlement in the time and manner permitted by statute, clearinghouse rule, or
-agreement.
-(2)  If provisional settlement for an item does not become final, the item is
-not finally paid.
-(3)  If provisional settlement for an item between the presenting and payor
-banks is made through a clearinghouse or by debits or credits in an account
-between them, then to the extent that provisional debits or credits for the
-item are entered in accounts between the presenting and payor banks or between
-the presenting and successive prior collecting banks seriatim, they become
-final upon final payment of the item by the payor bank.
-(4)  If a collecting bank receives a settlement for an item which is or
-becomes final, the bank is accountable to its customer for the amount of the
-item and any provisional credit given for the item in an account with its
-customer becomes final.
-(5)  Subject to applicable law stating a time for availability of funds, and
-any right of the bank to apply the credit to an obligation of the customer,
-credit given by a bank for an item in a customer's account becomes available
-for withdrawal as of right:
-(a)  if the bank has received a provisional settlement for the item, when the
-settlement becomes final and the bank has had a reasonable time to receive
-return of the item and the item has not been received within that time; and
-(b)  if the bank is both the depositary bank and the payor bank, and the item
-is finally paid, at the opening of the bank's second banking day following
-receipt of the item.
-(6)  Subject to applicable law stating a time for availability of funds and
-any right of a bank to apply a deposit to an obligation of the depositor, a
-deposit of money becomes available for withdrawal as of right at the opening
-of the bank's next banking day after receipt of the deposit.
+
+(b)  settled for the item without having a right to revoke the settlement under statute, clearinghouse rule, or agreement; or
+
+(c)  made a provisional settlement for the item and failed to revoke the settlement in the time and manner permitted by statute, clearinghouse rule, or agreement.
+
+(2)  If provisional settlement for an item does not become final, the item is not finally paid.
+
+(3)  If provisional settlement for an item between the presenting and payor banks is made through a clearinghouse or by debits or credits in an account between them, then to the extent that provisional debits or credits for the item are entered in accounts between the presenting and payor banks or between the presenting and successive prior collecting banks seriatim, they become final upon final payment of the item by the payor bank.
+
+(4)  If a collecting bank receives a settlement for an item which is or becomes final, the bank is accountable to its customer for the amount of the item and any provisional credit given for the item in an account with its customer becomes final.
+
+(5)  Subject to applicable law stating a time for availability of funds, and any right of the bank to apply the credit to an obligation of the customer, credit given by a bank for an item in a customer's account becomes available for withdrawal as of right:
+
+(a)  if the bank has received a provisional settlement for the item, when the settlement becomes final and the bank has had a reasonable time to receive return of the item and the item has not been received within that time; and
+
+(b)  if the bank is both the depositary bank and the payor bank, and the item is finally paid, at the opening of the bank's second banking day following receipt of the item.
+
+(6)  Subject to applicable law stating a time for availability of funds and any right of a bank to apply a deposit to an obligation of the depositor, a deposit of money becomes available for withdrawal as of right at the opening of the bank's next banking day after receipt of the deposit.
+

@@ -1,35 +1,28 @@
 13-42-134.   Suspension, revocation, or nonrenewal of registration.
+
 (1)  In this section, "insolvent" means:
-(a)  having generally ceased to pay debts in the ordinary course of business
-other than as a result of good-faith dispute;
+
+(a)  having generally ceased to pay debts in the ordinary course of business other than as a result of good-faith dispute;
+
 (b)  being unable to pay debts as they become due; or
-(c)  being insolvent within the meaning of the federal bankruptcy law, 11
-U.S.C. Section 101 et seq.
-(2)  The administrator may suspend, revoke, or deny renewal of a provider's
-registration if:
-(a)  a fact or condition exists that, if it had existed when the registrant
-applied for registration as a provider, would have been a reason for denying
-registration;
-(b)  the provider has committed a material violation of this chapter or a rule
-or order of the administrator under this chapter;
+
+(c)  being insolvent within the meaning of the federal bankruptcy law, 11 U.S.C. Section 101 et seq.
+
+(2)  The administrator may suspend, revoke, or deny renewal of a provider's registration if:
+
+(a)  a fact or condition exists that, if it had existed when the registrant applied for registration as a provider, would have been a reason for denying registration;
+
+(b)  the provider has committed a material violation of this chapter or a rule or order of the administrator under this chapter;
+
 (c)  the provider is insolvent;
-(d)  the provider or an employee or affiliate of the provider has refused to
-permit the administrator to make an examination authorized by this chapter,
-failed to comply with Subsection 13-42-132(2)(b) within 15 days after request,
-or made a material misrepresentation or omission in complying with Subsection
-13-42-132(2)(b); or
-(e)  the provider has not responded within a reasonable time and in an
-appropriate manner to communications from the administrator.
-(3)  If a provider does not comply with Subsection 13-42-122(6) or if the
-administrator otherwise finds that the public health or safety or general
-welfare requires emergency action, the administrator may order a summary
-suspension of the provider's registration, effective on the date specified in
-the order.
-(4)  If the administrator suspends, revokes, or denies renewal of the
-registration of a provider, the administrator may seek a court order
-authorizing seizure of any or all of the money in a trust account required by
-Section 13-42-122, books, records, accounts, and other property of the
-provider which are located in this state.
-(5)  If the administrator suspends or revokes a provider's registration, the
-provider may appeal and request a hearing pursuant to Title 63G, Chapter 4,
-Administrative Procedures Act.
+
+(d)  the provider or an employee or affiliate of the provider has refused to permit the administrator to make an examination authorized by this chapter, failed to comply with Subsection 13-42-132(2)(b) within 15 days after request, or made a material misrepresentation or omission in complying with Subsection 13-42-132(2)(b); or
+
+(e)  the provider has not responded within a reasonable time and in an appropriate manner to communications from the administrator.
+
+(3)  If a provider does not comply with Subsection 13-42-122(6) or if the administrator otherwise finds that the public health or safety or general welfare requires emergency action, the administrator may order a summary suspension of the provider's registration, effective on the date specified in the order.
+
+(4)  If the administrator suspends, revokes, or denies renewal of the registration of a provider, the administrator may seek a court order authorizing seizure of any or all of the money in a trust account required by Section 13-42-122, books, records, accounts, and other property of the provider which are located in this state.
+
+(5)  If the administrator suspends or revokes a provider's registration, the provider may appeal and request a hearing pursuant to Title 63G, Chapter 4, Administrative Procedures Act.
+

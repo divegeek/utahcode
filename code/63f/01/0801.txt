@@ -1,78 +1,94 @@
-63F-1-801.   Statewide Communications Interoperability Committee --
-Membership -- Chair -- Quorum.
+63F-1-801.   Statewide Communications Interoperability Committee -- Membership -- Chair -- Quorum.
+
 (1)  As used in this part:
-(a)  "Committee" means the Statewide Communications Interoperability
-Committee.
-(b)  "Interoperability spectrum" means the radio signal transmission spectrum
-to communicate between agencies as assigned by the Federal Communications
-Commission.
-(2)  There is created within the department the Statewide Communications
-Interoperability Committee.
+
+(a)  "Committee" means the Statewide Communications Interoperability Committee.
+
+(b)  "Interoperability spectrum" means the radio signal transmission spectrum to communicate between agencies as assigned by the Federal Communications Commission.
+
+(2)  There is created within the department the Statewide Communications Interoperability Committee.
+
 (3) (a)  The governor shall appoint the following 25 committee members:
-(i)  except as provided in Subsection (4), five representatives from counties
-of the first or second class who are in:
+
+(i)  except as provided in Subsection (4), five representatives from counties of the first or second class who are in:
+
 (A)  law enforcement or fire service; and
+
 (B)  a leadership position with radio communication experience;
-(ii)  one representative each of six associations of government from rural
-Utah that represent counties not represented in Subsection (3)(a)(i);
-(iii)  one representative of the Utah Communications Agency Network
-established under Title 63C, Chapter 7, Utah Communications Agency Network
-Act;
+
+(ii)  one representative each of six associations of government from rural Utah that represent counties not represented in Subsection (3)(a)(i);
+
+(iii)  one representative of the Utah Communications Agency Network established under Title 63C, Chapter 7, Utah Communications Agency Network Act;
+
 (iv)  one representative of the Native American tribes;
+
 (v)  one representative of the Utah National Guard;
+
 (vi)  one representative of an association that represents chiefs of police;
+
 (vii)  one representative of an association that represents sheriffs;
+
 (viii)  one representative of an association that represents fire chiefs; and
-(ix)  one representative of an association that represents urban security
-efforts.
+
+(ix)  one representative of an association that represents urban security efforts.
+
 (b)  The following shall also be committee members:
-(i)  the chief information officer or the chief information officer's
-designee;
-(ii)  the commissioner of the Department of Public Safety or the
-commissioner's designee;
-(iii)  the executive director of the Department of Transportation or the
-executive director's designee;
-(iv)  the executive director of the Department of Corrections or the executive
-director's designee;
-(v)  the executive director of the Department of Natural Resources or the
-executive director's designee;
+
+(i)  the chief information officer or the chief information officer's designee;
+
+(ii)  the commissioner of the Department of Public Safety or the commissioner's designee;
+
+(iii)  the executive director of the Department of Transportation or the executive director's designee;
+
+(iv)  the executive director of the Department of Corrections or the executive director's designee;
+
+(v)  the executive director of the Department of Natural Resources or the executive director's designee;
+
 (vi)  the director of the Department of Health or the director's designee; and
-(vii)  the executive director of the Department of Technology Services or the
-executive director's designee.
-(4)  Subject to Subsection (3)(a)(i), if a member of law enforcement cannot be
-seated, then a representative who has leadership experience in radio
-communications and public safety shall be seated.
-(5) (a)  The term of office of each member described in Subsection (3)(a) is
-four years.
-(b)  Notwithstanding the requirements of Subsection (5)(a), the committee
-chair with the approval of the governor shall, at the time of appointment or
-reappointment, adjust the length of terms to stagger the terms of committee
-members so that approximately 1/2 of the committee members are appointed every
-two years.
-(c)  A mid-term vacancy shall be filled for the unexpired term in the same
-manner as an appointment under Subsection (3)(a).
+
+(vii)  the executive director of the Department of Technology Services or the executive director's designee.
+
+(4)  Subject to Subsection (3)(a)(i), if a member of law enforcement cannot be seated, then a representative who has leadership experience in radio communications and public safety shall be seated.
+
+(5) (a)  The term of office of each member described in Subsection (3)(a) is four years.
+
+(b)  Notwithstanding the requirements of Subsection (5)(a), the committee chair with the approval of the governor shall, at the time of appointment or reappointment, adjust the length of terms to stagger the terms of committee members so that approximately 1/2 of the committee members are appointed every two years.
+
+(c)  A mid-term vacancy shall be filled for the unexpired term in the same manner as an appointment under Subsection (3)(a).
+
 (6) (a)  The chief information officer shall serve as the committee chair.
+
 (b) (i)  The committee members shall elect a vice-chair from their number; and
-(ii)  the vice-chair shall rotate among representatives described in
-Subsection (3)(a) every year.
-(c)  The committee shall establish bylaws for the organization and operation
-of the committee.
+
+(ii)  the vice-chair shall rotate among representatives described in Subsection (3)(a) every year.
+
+(c)  The committee shall establish bylaws for the organization and operation of the committee.
+
 (7) (a)  A majority of the committee constitutes a quorum for voting purposes.
+
 (b)  All actions shall be by majority vote of the quorum in attendance.
+
 (8)  The committee:
+
 (a)  may meet as often as necessary to perform its duties; and
+
 (b)  shall meet at least monthly.
+
 (9)  The department shall provide staff services to the committee.
-(10) (a)  No member may receive compensation or benefits for the member's
-service on the committee.
-(b)  A committee member is not required to give a bond for the performance of
-official duties.
+
+(10) (a)  No member may receive compensation or benefits for the member's service on the committee.
+
+(b)  A committee member is not required to give a bond for the performance of official duties.
+
 (11) (a)  The committee may create an executive committee from its number to:
+
 (i)  plan agendas;
+
 (ii)  call committee meetings; and
+
 (iii)  meet as often as necessary, at the call of the chair.
-(b)  The committee may establish subcommittees and working groups to address
-wireless technology coordination and communication issues among agencies
-providing vital services to citizens.
-(12)  The committee does not have the authority to require expenditure of
-public funds.
+
+(b)  The committee may establish subcommittees and working groups to address wireless technology coordination and communication issues among agencies providing vital services to citizens.
+
+(12)  The committee does not have the authority to require expenditure of public funds.
+

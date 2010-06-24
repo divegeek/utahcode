@@ -1,73 +1,88 @@
-59-13-402.   Revenue from taxes deposited with treasurer -- Credit to
-Aeronautics Restricted Account -- Purposes for which funds may be used --
-Allocation of funds -- Reports -- Returns required.
-(1) (a)  All revenue received by the commission under this part shall be
-deposited daily with the state treasurer who shall credit all of the revenue
-collected to the Transportation Fund.
-(b)  An appropriation from the Transportation Fund shall be made to the
-commission to cover expenses incurred in the administration and enforcement of
-this part and the collection of the aviation fuel tax.
-(c)  Refunds to which taxpayers are entitled under this part shall be paid
-from the Transportation Fund.
-(2)  The state treasurer shall place an amount equal to the total amount
-received from the sale or use of aviation fuel in the Aeronautics Restricted
-Account created by Section 72-2-126.
-(3)  The tax imposed on each gallon of aviation fuel under Section 59-13-401
-shall be allocated to the airport where the aviation fuel was sold and to
-aeronautical operations of the Department of Transportation as follows:
-          Total       Allocation to        Allocation to
-          Tax         Airport              Aeronautical
-          Allocated                        Operations
+59-13-402.   Revenue from taxes deposited with treasurer -- Credit to Aeronautics Restricted Account -- Purposes for which funds may be used -- Allocation of funds -- Reports -- Returns required.
+
+(1) (a)  All revenue received by the commission under this part shall be deposited daily with the state treasurer who shall credit all of the revenue collected to the Transportation Fund.
+
+(b)  An appropriation from the Transportation Fund shall be made to the commission to cover expenses incurred in the administration and enforcement of this part and the collection of the aviation fuel tax.
+
+(c)  Refunds to which taxpayers are entitled under this part shall be paid from the Transportation Fund.
+
+(2)  The state treasurer shall place an amount equal to the total amount received from the sale or use of aviation fuel in the Aeronautics Restricted Account created by Section 72-2-126.
+
+(3)  The tax imposed on each gallon of aviation fuel under Section 59-13-401 shall be allocated to the airport where the aviation fuel was sold and to aeronautical operations of the Department of Transportation as follows:
+
+          Total	      Allocation to        Allocation to
+
+          Tax	      Airport	           Aeronautical
+
+          Allocated		           Operations
+
 (a)  Tax on Each Gallon of Aviation
+
 Fuel Purchased for Use by a Federally
+
 Certificated Air Carrier Other than at
+
 an International Airport Located Within a
+
 County of the First Class that has a United
-States Customs Office on its Premises           $.04            $.03
-$.01
+
+States Customs Office on its Premises		$.04		$.03		$.01
+
 (b)  Tax on Each Gallon of Aviation
+
 Fuel Purchased for Use by a Certificated
+
 Air Carrier at an International Airport
+
 Located Within a County of the First
+
 Class that has a United States Customs
-Office on its Premises                          $.025           $.015
-$.01
+
+Office on its Premises				$.025		$.015		$.01
+
 (c)  Tax on Each Gallon of Aviation
+
 Fuel Purchased for Use by a Person Other
+
 than a Federally Certificated Air Carrier
+
 at an International Airport Located Within a
+
 County of the First Class that has a United
-States Customs Office on its Premises           $.09            $.00
-$.09
+
+States Customs Office on its Premises		$.09		$.00		$.09
+
 (d)  Tax on Each Gallon of Aviation
+
 Fuel Purchased for Use by a Person Other
+
 than a Federally Certificated Air Carrier
+
 Other than at an International Airport
+
 Located Within a County of the First
+
 Class that has a United States Customs
-Office on its Premises                          $.09            $.03
-$.06
-(e)  The allocation to the publicly used airport may be used at the discretion
-of the airport's governing authority for the:
-(i)  construction, improvements, operation, and maintenance of publicly used
-airports in the state; and
-(ii)  payment of principal and interest on indebtedness incurred for the
-purposes described in Subsection (3)(e)(i).
-(f)  Upon appropriation by the Legislature, the allocation to aeronautical
-operations of the Department of Transportation shall be used as provided in
-the Aeronautics Restricted Account created by Section 72-2-126.
-(4) (a)  The commission shall require reports and returns from distributors,
-retail dealers, and users in order to enable the commission and the Department
-of Transportation to allocate the revenue to be credited to:
+
+Office on its Premises				$.09		$.03		$.06
+
+(e)  The allocation to the publicly used airport may be used at the discretion of the airport's governing authority for the:
+
+(i)  construction, improvements, operation, and maintenance of publicly used airports in the state; and
+
+(ii)  payment of principal and interest on indebtedness incurred for the purposes described in Subsection (3)(e)(i).
+
+(f)  Upon appropriation by the Legislature, the allocation to aeronautical operations of the Department of Transportation shall be used as provided in the Aeronautics Restricted Account created by Section 72-2-126.
+
+(4) (a)  The commission shall require reports and returns from distributors, retail dealers, and users in order to enable the commission and the Department of Transportation to allocate the revenue to be credited to:
+
 (i)  the Aeronautics Restricted Account created by Section 72-2-126; and
+
 (ii)  the separate accounts of individual airports.
-(b) (i)  Except as provided by Subsection (4)(b)(ii), any unexpended amount
-remaining in the account of any publicly used airport on the first day of
-January, April, July, and October shall be paid to the authority operating the
-airport.
-(ii)  Aviation fuel tax allocated to any airport owned and operated by a city
-of the first class shall be paid to the city treasurer on the first day of
-each month.
-(c)  The state treasurer shall place aviation fuel tax collected on fuel sold
-at places other than publicly used airports in the Aeronautics Restricted
-Account created by Section 72-2-126.
+
+(b) (i)  Except as provided by Subsection (4)(b)(ii), any unexpended amount remaining in the account of any publicly used airport on the first day of January, April, July, and October shall be paid to the authority operating the airport.
+
+(ii)  Aviation fuel tax allocated to any airport owned and operated by a city of the first class shall be paid to the city treasurer on the first day of each month.
+
+(c)  The state treasurer shall place aviation fuel tax collected on fuel sold at places other than publicly used airports in the Aeronautics Restricted Account created by Section 72-2-126.
+

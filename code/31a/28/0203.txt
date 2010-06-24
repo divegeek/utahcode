@@ -1,60 +1,64 @@
 31A-28-203.   Definitions.
+
 As used in this part:
+
 (1)  "Affiliate" is as defined in Section 31A-1-301.
-(2)  "Association account" means the Utah Property and Casualty Insurance
-Guaranty Association Account created by Section 31A-28-205.
+
+(2)  "Association account" means the Utah Property and Casualty Insurance Guaranty Association Account created by Section 31A-28-205.
+
 (3) (a)  "Claimant" means:
+
 (i)  an insured making a first-party claim; or
+
 (ii)  a person instituting a liability claim.
-(b)  A person who is an affiliate of the insolvent insurer may not be a
-claimant.
-(4) (a)  "Covered claim" means an unpaid claim, including an unpaid claim
-under a personal lines policy for unearned premiums submitted by a claimant,
-if:
+
+(b)  A person who is an affiliate of the insolvent insurer may not be a claimant.
+
+(4) (a)  "Covered claim" means an unpaid claim, including an unpaid claim under a personal lines policy for unearned premiums submitted by a claimant, if:
+
 (i)  the claim arises out of the coverage;
+
 (ii)  the claim is within the coverage;
-(iii)  the claim is not in excess of the applicable limits of an insurance
-policy to which this part applies;
+
+(iii)  the claim is not in excess of the applicable limits of an insurance policy to which this part applies;
+
 (iv)  the insurer who issued the policy becomes an insolvent insurer; and
-(v) (A)  the claimant or insured is a resident of this state at the time of
-the insured event; or
-(B)  the claim is a first-party claim for damage to property that is
-permanently located in this state.
+
+(v) (A)  the claimant or insured is a resident of this state at the time of the insured event; or
+
+(B)  the claim is a first-party claim for damage to property that is permanently located in this state.
+
 (b)  "Covered claim" does not include:
-(i)  any amount awarded as punitive or exemplary damages or any amount due any
-reinsurer, insurer, insurance pool, or underwriting association, as
-subrogation recoveries or otherwise, nor does it include any supplementary
-payment obligation, including adjustment fees and expenses, attorneys' fees
-and expenses, court costs, interest, and bond premiums, prior to the
-appointment of a liquidator;
-(ii)  any amount sought as a return of premium under a retrospective rating
-plan;
+
+(i)  any amount awarded as punitive or exemplary damages or any amount due any reinsurer, insurer, insurance pool, or underwriting association, as subrogation recoveries or otherwise, nor does it include any supplementary payment obligation, including adjustment fees and expenses, attorneys' fees and expenses, court costs, interest, and bond premiums, prior to the appointment of a liquidator;
+
+(ii)  any amount sought as a return of premium under a retrospective rating plan;
+
 (iii)  any first-party claim by an insured if:
-(A)  the insured's net worth exceeds $25,000,000 on December 31 of the year
-preceding the date the insurer becomes an insolvent insurer; and
-(B)  the insured's net worth includes the aggregate net worth of the insured
-and all of its subsidiaries as calculated on a consolidated basis; or
-(iv)  any first-party claims by an insured that is an affiliate of the
-insolvent insurer.
-(5)  "Insolvent insurer" means a member insurer that is placed under an order
-of liquidation by a court of competent jurisdiction with a finding of
-insolvency.
+
+(A)  the insured's net worth exceeds $25,000,000 on December 31 of the year preceding the date the insurer becomes an insolvent insurer; and
+
+(B)  the insured's net worth includes the aggregate net worth of the insured and all of its subsidiaries as calculated on a consolidated basis; or
+
+(iv)  any first-party claims by an insured that is an affiliate of the insolvent insurer.
+
+(5)  "Insolvent insurer" means a member insurer that is placed under an order of liquidation by a court of competent jurisdiction with a finding of insolvency.
+
 (6)  "Member insurer" means any person who:
-(a)  writes any kind of insurance to which this part applies under Section
-31A-28-202, including the exchange of reciprocal or inter-insurance contracts;
-and
+
+(a)  writes any kind of insurance to which this part applies under Section 31A-28-202, including the exchange of reciprocal or inter-insurance contracts; and
+
 (b)  is licensed to transact insurance in this state.
-(7) (a)  "Net direct written premiums" means direct gross premiums written in
-this state on insurance policies that this part applies to, less return
-premiums and dividends paid or credited to policyholders on the direct
-business.
-(b)  "Net direct written premiums" does not include premiums on contracts
-between insurers or reinsurers.
-(8)  "Personal lines policy" means an insurance policy issued to an individual
-that:
-(a)  insures a motor vehicle used for personal purposes and not used in trade
-or business; or
+
+(7) (a)  "Net direct written premiums" means direct gross premiums written in this state on insurance policies that this part applies to, less return premiums and dividends paid or credited to policyholders on the direct business.
+
+(b)  "Net direct written premiums" does not include premiums on contracts between insurers or reinsurers.
+
+(8)  "Personal lines policy" means an insurance policy issued to an individual that:
+
+(a)  insures a motor vehicle used for personal purposes and not used in trade or business; or
+
 (b)  insures a residential dwelling.
-(9)  "Residence" means, for entities other than a natural person, the state
-where the principal place of business of a claimant, insured, or policyholder
-is located at the time of the insured event.
+
+(9)  "Residence" means, for entities other than a natural person, the state where the principal place of business of a claimant, insured, or policyholder is located at the time of the insured event.
+

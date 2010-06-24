@@ -1,47 +1,44 @@
 70A-7a-102.   Definitions and index of definitions.
+
 (1)  In this chapter, unless the context otherwise requires:
-(a)  "Bailee" means a person that by a warehouse receipt, bill of lading, or
-other document of title acknowledges possession of goods and contracts to
-deliver them.
+
+(a)  "Bailee" means a person that by a warehouse receipt, bill of lading, or other document of title acknowledges possession of goods and contracts to deliver them.
+
 (b)  "Carrier" means a person that issues a bill of lading.
-(c)  "Consignee" means a person named in a bill of lading to which or to whose
-order the bill promises delivery.
-(d)  "Consignor" means a person named in a bill of lading as the person from
-which the goods have been received for shipment.
-(e)  "Delivery order" means a record that contains an order to deliver goods
-directed to a warehouse, carrier, or other person that in the ordinary course
-of business issues warehouse receipts or bills of lading.
-(f)  "Good faith" means honesty in fact and the observance of reasonable
-commercial standards of fair dealing.
-(g)  "Goods" means all things that are treated as movable for the purposes of
-a contract for storage or transportation.
-(h)  "Issuer" means a bailee that issues a document of title or, in the case
-of an unaccepted delivery order, the person that orders the possessor of goods
-to deliver.  The term includes a person for which an agent or employee
-purports to act in issuing a document if the agent or employee has real or
-apparent authority to issue documents, even if the issuer did not receive any
-goods, the goods were misdescribed, or in any other respect the agent or
-employee violated the issuer's instructions.
-(i)  "Person entitled under the document" means the holder, in the case of a
-negotiable document of title, or the person to which delivery of the goods is
-to be made by the terms of, or pursuant to instructions in a record under, a
-nonnegotiable document of title.
-(j)  "Record" means information that is inscribed on a tangible medium or that
-is stored in an electronic or other medium and is retrievable in perceivable
-form.
-(k)  "Shipper" means a person that enters into a contract of transportation
-with a carrier.
+
+(c)  "Consignee" means a person named in a bill of lading to which or to whose order the bill promises delivery.
+
+(d)  "Consignor" means a person named in a bill of lading as the person from which the goods have been received for shipment.
+
+(e)  "Delivery order" means a record that contains an order to deliver goods directed to a warehouse, carrier, or other person that in the ordinary course of business issues warehouse receipts or bills of lading.
+
+(f)  "Good faith" means honesty in fact and the observance of reasonable commercial standards of fair dealing.
+
+(g)  "Goods" means all things that are treated as movable for the purposes of a contract for storage or transportation.
+
+(h)  "Issuer" means a bailee that issues a document of title or, in the case of an unaccepted delivery order, the person that orders the possessor of goods to deliver.  The term includes a person for which an agent or employee purports to act in issuing a document if the agent or employee has real or apparent authority to issue documents, even if the issuer did not receive any goods, the goods were misdescribed, or in any other respect the agent or employee violated the issuer's instructions.
+
+(i)  "Person entitled under the document" means the holder, in the case of a negotiable document of title, or the person to which delivery of the goods is to be made by the terms of, or pursuant to instructions in a record under, a nonnegotiable document of title.
+
+(j)  "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+(k)  "Shipper" means a person that enters into a contract of transportation with a carrier.
+
 (l)  "Sign" means, with present intent to authenticate or adopt a record:
+
 (i)  to execute or adopt a tangible symbol; or
-(ii)  to attach to or logically associate with the record an electronic sound,
-symbol, or process.
-(m)  "Warehouse" means a person engaged in the business of storing goods for
-hire.
-(2)  Definitions in other chapters applying to this chapter and the sections
-in which they appear are:
+
+(ii)  to attach to or logically associate with the record an electronic sound, symbol, or process.
+
+(m)  "Warehouse" means a person engaged in the business of storing goods for hire.
+
+(2)  Definitions in other chapters applying to this chapter and the sections in which they appear are:
+
 (a)  "Contract for sale," Section 70A-2-106.
+
 (b)  "Lessee in the ordinary course of business," Section 70A-2a-103.
+
 (c)  "Receipt" of goods, Section 70A-2-103.
-(3)  In addition, Chapter 1a, Uniform Commercial Code - General Provisions,
-contains general definitions and principles of construction and interpretation
-applicable throughout this chapter.
+
+(3)  In addition, Chapter 1a, Uniform Commercial Code - General Provisions, contains general definitions and principles of construction and interpretation applicable throughout this chapter.
+

@@ -1,28 +1,32 @@
 10-1-406.   Limitation of other telecommunications taxes or fees.
-(1)  Subject to the other provisions of this section, a municipality may not
-levy or collect a telecommunications tax or fee on a person except for a
-telecommunications tax or fee imposed by the municipality:
-(a)  on a telecommunications provider to recover the management costs of the
-municipality caused by the activities of the telecommunications provider in
-the right-of-way of a municipality if the telecommunications tax or fee:
+
+(1)  Subject to the other provisions of this section, a municipality may not levy or collect a telecommunications tax or fee on a person except for a telecommunications tax or fee imposed by the municipality:
+
+(a)  on a telecommunications provider to recover the management costs of the municipality caused by the activities of the telecommunications provider in the right-of-way of a municipality if the telecommunications tax or fee:
+
 (i)  is imposed in accordance with Section 72-7-102; and
+
 (ii)  is not related to:
-(A)  a municipality's loss of use of a highway as a result of the activities
-of the telecommunications provider in a right-of-way; or
-(B)  increased deterioration of a highway as a result of the activities of the
-telecommunications provider in a right-of-way; or
+
+(A)  a municipality's loss of use of a highway as a result of the activities of the telecommunications provider in a right-of-way; or
+
+(B)  increased deterioration of a highway as a result of the activities of the telecommunications provider in a right-of-way; or
+
 (b)  on a person that:
-(i)  is not subject to a municipal telecommunications license tax under this
-part; and
-(ii)  locates telecommunications facilities, as defined in Section 72-7-108,
-in the municipality.
-(2)  Subsection (1)(a) may not be interpreted as exempting a
-telecommunications provider from complying with any ordinance:
-(a)  related to excavation, construction, or installation of a
-telecommunications facility; and
-(b)  that addresses the safety and quality standards of the municipality for
-excavation, construction, or installation.
-(3)  A telecommunications tax or fee imposed under Subsection (1)(b) shall be
-imposed:
+
+(i)  is not subject to a municipal telecommunications license tax under this part; and
+
+(ii)  locates telecommunications facilities, as defined in Section 72-7-108, in the municipality.
+
+(2)  Subsection (1)(a) may not be interpreted as exempting a telecommunications provider from complying with any ordinance:
+
+(a)  related to excavation, construction, or installation of a telecommunications facility; and
+
+(b)  that addresses the safety and quality standards of the municipality for excavation, construction, or installation.
+
+(3)  A telecommunications tax or fee imposed under Subsection (1)(b) shall be imposed:
+
 (a)  by ordinance; and
+
 (b)  on a competitively neutral basis.
+

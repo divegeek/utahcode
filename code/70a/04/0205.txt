@@ -1,10 +1,8 @@
 70A-4-205.   Depositary bank holder of unindorsed item.
+
 If a customer delivers an item to a depositary bank for collection:
-(1)  the depositary bank becomes a holder of the item at the time it receives
-the item for collection if the customer at the time of delivery was a holder
-of the item, whether or not the customer indorses the item, and, if the bank
-satisfies the other requirements of Section 70A-3-302, it is a holder in due
-course; and
-(2)  the depositary bank warrants to collecting banks, the payor bank or other
-payor, and the drawer that the amount of the item was paid to the customer or
-deposited to the customer's account.
+
+(1)  the depositary bank becomes a holder of the item at the time it receives the item for collection if the customer at the time of delivery was a holder of the item, whether or not the customer indorses the item, and, if the bank satisfies the other requirements of Section 70A-3-302, it is a holder in due course; and
+
+(2)  the depositary bank warrants to collecting banks, the payor bank or other payor, and the drawer that the amount of the item was paid to the customer or deposited to the customer's account.
+

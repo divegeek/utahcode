@@ -1,60 +1,20 @@
 15-7-4.   Registration system established by issuer.
-(1)  Each issuer is authorized to establish and maintain a system of
-registration with respect to each obligation it issues. The system may either
-be (a) a system pursuant to which only certificated registered public
-obligations are issued, or (b) a system pursuant to which only uncertificated
-registered public obligations are issued, or (c) a system pursuant to which
-both certificated and uncertificated registered public obligations are issued.
-The issuer may amend, discontinue, and reinstitute any system, from time to
-time, subject to covenants.
-(2)  The system shall be established, amended, discontinued, or reinstituted,
-for the issuer by, and shall be maintained for the issuer as provided by, the
-official or official body.
-(3)  The system shall be described in the registered public obligation or in
-the official actions which provide for original issuance of the registered
-public obligation, and in subsequent official actions providing for amendments
-and other matters from time to time. The description may be by reference to a
-program of the issuer which is established by the official or official body.
-(4)  The system shall define the method or methods by which transfer of the
-registered public obligation is effective with respect to the issuer, and by
-which payment of principal and any interest shall be made. The system may
-permit the issuance of registered public obligations in any denomination to
-represent several registered public obligations of smaller denominations. The
-system may also provide for the form of any certificated registered public
-obligation or of any writing relating to an uncertificated registered public
-obligation, for identifying numbers or other designations, for a sufficient
-supply of certificates for subsequent transfers, for record and payment dates,
-for varying denominations, for communications to holders or owners of
-obligations, and for accounting, cancelled certificate destruction,
-registration and release of security interests and other incidental matters.
-Unless the issuer otherwise provides, the record date for interest payable on
-the first or fifteenth days of a month shall be the fifteenth day or the last
-business day of the preceding month, respectively, and for interest payable on
-other than the first or fifteenth days of a month, shall be the fifteenth
-calendar day before the interest payment date.
-(5)  Under a system pursuant to which both certificated and uncertificated
-registered public obligations are issued, both types of registered public
-obligations may be regularly issued, or one type may be regularly issued and
-the other type issued only under described circumstances or to particular
-described categories of owners and provision may be made for registration and
-release of security interests in registered public obligations.
-(6)  The system may include covenants of the issuer as to amendments,
-discontinuances, and reinstitutions of the system and the effect of such on
-the exemption of interest from the income tax provided for by the Code.
-(7)  Whenever an issuer issues an uncertificated registered public obligation,
-the system of registration may provide that, as long as the uncertified
-registered obligation remains outstanding and unpaid, a true copy of the
-official actions of the issuer relating to the uncertificated registered
-public obligation will be maintained by the issuer or by the person, if any,
-maintaining the system on behalf of the issuer.  A copy of such official
-actions verified by an authorized officer is admissible before any court of
-record, administrative body, or arbitration panel without further
-authentication.
-(8)  Nothing in this act precludes conversion from one form of registered
-public obligation provided by this act to a form of obligation not provided by
-this act if interest on the converted obligation continues to be exempt from
-income taxation under the Code.
-(9)  Rights provided by other laws with respect to obligations in forms not
-provided by this act shall, to the extent not inconsistent with this act,
-apply with respect to registered public obligations issued in forms authorized
-by this act.
+
+(1)  Each issuer is authorized to establish and maintain a system of registration with respect to each obligation it issues. The system may either be (a) a system pursuant to which only certificated registered public obligations are issued, or (b) a system pursuant to which only uncertificated registered public obligations are issued, or (c) a system pursuant to which both certificated and uncertificated registered public obligations are issued.  The issuer may amend, discontinue, and reinstitute any system, from time to time, subject to covenants.
+
+(2)  The system shall be established, amended, discontinued, or reinstituted, for the issuer by, and shall be maintained for the issuer as provided by, the official or official body.
+
+(3)  The system shall be described in the registered public obligation or in the official actions which provide for original issuance of the registered public obligation, and in subsequent official actions providing for amendments and other matters from time to time. The description may be by reference to a program of the issuer which is established by the official or official body.
+
+(4)  The system shall define the method or methods by which transfer of the registered public obligation is effective with respect to the issuer, and by which payment of principal and any interest shall be made. The system may permit the issuance of registered public obligations in any denomination to represent several registered public obligations of smaller denominations. The system may also provide for the form of any certificated registered public obligation or of any writing relating to an uncertificated registered public obligation, for identifying numbers or other designations, for a sufficient supply of certificates for subsequent transfers, for record and payment dates, for varying denominations, for communications to holders or owners of obligations, and for accounting, cancelled certificate destruction, registration and release of security interests and other incidental matters. Unless the issuer otherwise provides, the record date for interest payable on the first or fifteenth days of a month shall be the fifteenth day or the last business day of the preceding month, respectively, and for interest payable on other than the first or fifteenth days of a month, shall be the fifteenth calendar day before the interest payment date.
+
+(5)  Under a system pursuant to which both certificated and uncertificated registered public obligations are issued, both types of registered public obligations may be regularly issued, or one type may be regularly issued and the other type issued only under described circumstances or to particular described categories of owners and provision may be made for registration and release of security interests in registered public obligations.
+
+(6)  The system may include covenants of the issuer as to amendments, discontinuances, and reinstitutions of the system and the effect of such on the exemption of interest from the income tax provided for by the Code.
+
+(7)  Whenever an issuer issues an uncertificated registered public obligation, the system of registration may provide that, as long as the uncertified registered obligation remains outstanding and unpaid, a true copy of the official actions of the issuer relating to the uncertificated registered public obligation will be maintained by the issuer or by the person, if any, maintaining the system on behalf of the issuer.  A copy of such official actions verified by an authorized officer is admissible before any court of record, administrative body, or arbitration panel without further authentication.
+
+(8)  Nothing in this act precludes conversion from one form of registered public obligation provided by this act to a form of obligation not provided by this act if interest on the converted obligation continues to be exempt from income taxation under the Code.
+
+(9)  Rights provided by other laws with respect to obligations in forms not provided by this act shall, to the extent not inconsistent with this act, apply with respect to registered public obligations issued in forms authorized by this act.
+

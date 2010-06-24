@@ -1,393 +1,412 @@
 61-1-13.   Definitions.
+
 (1)  As used in this chapter:
-(a)  "Affiliate" means a person that, directly or indirectly, through one or
-more intermediaries, controls or is controlled by, or is under common control
-with a person specified.
-(b) (i)  "Agent" means an individual other than a broker-dealer who represents
-a broker-dealer or issuer in effecting or attempting to effect purchases or
-sales of securities.
+
+(a)  "Affiliate" means a person that, directly or indirectly, through one or more intermediaries, controls or is controlled by, or is under common control with a person specified.
+
+(b) (i)  "Agent" means an individual other than a broker-dealer who represents a broker-dealer or issuer in effecting or attempting to effect purchases or sales of securities.
+
 (ii)  "Agent" does not include an individual who represents:
-(A)  an issuer, who receives no commission or other remuneration, directly or
-indirectly, for effecting or attempting to effect purchases or sales of
-securities in this state, and who effects transactions:
+
+(A)  an issuer, who receives no commission or other remuneration, directly or indirectly, for effecting or attempting to effect purchases or sales of securities in this state, and who effects transactions:
+
 (I)  in securities exempted by Subsection 61-1-14(1)(a), (b), (c), or (g);
+
 (II)  exempted by Subsection 61-1-14(2);
-(III)  in a covered security as described in Sections 18(b)(3) and 18(b)(4)(D)
-of the Securities Act of 1933; or
-(IV)  with existing employees, partners, officers, or directors of the issuer;
-or
-(B)  a broker-dealer in effecting transactions in this state limited to those
-transactions described in Section 15(h)(2) of the Securities Exchange Act of
-1934.
-(iii)  A partner, officer, or director of a broker-dealer or issuer, or a
-person occupying a similar status or performing similar functions, is an agent
-only if the partner, officer, director, or person otherwise comes within the
-definition of "agent."
+
+(III)  in a covered security as described in Sections 18(b)(3) and 18(b)(4)(D) of the Securities Act of 1933; or
+
+(IV)  with existing employees, partners, officers, or directors of the issuer; or
+
+(B)  a broker-dealer in effecting transactions in this state limited to those transactions described in Section 15(h)(2) of the Securities Exchange Act of 1934.
+
+(iii)  A partner, officer, or director of a broker-dealer or issuer, or a person occupying a similar status or performing similar functions, is an agent only if the partner, officer, director, or person otherwise comes within the definition of "agent."
+
 (iv)  "Agent" does not include a person described in Subsection (3).
-(c) (i)  "Broker-dealer" means a person engaged in the business of effecting
-transactions in securities for the account of others or for the person's own
-account.
+
+(c) (i)  "Broker-dealer" means a person engaged in the business of effecting transactions in securities for the account of others or for the person's own account.
+
 (ii)  "Broker-dealer" does not include:
+
 (A)  an agent;
+
 (B)  an issuer;
+
 (C)  a depository institution or trust company;
+
 (D)  a person who has no place of business in this state if:
-(I)  the person effects transactions in this state exclusively with or
-through:
+
+(I)  the person effects transactions in this state exclusively with or through:
+
 (Aa)  the issuers of the securities involved in the transactions;
+
 (Bb)  other broker-dealers;
+
 (Cc)  a depository institution, whether acting for itself or as a trustee;
+
 (Dd)  a trust company, whether acting for itself or as a trustee;
+
 (Ee)  an insurance company, whether acting for itself or as a trustee;
-(Ff)  an investment company, as defined in the Investment Company Act of 1940,
-whether acting for itself or as a trustee;
-(Gg)  a pension or profit-sharing trust, whether acting for itself or as a
-trustee; or
-(Hh)  another financial institution or institutional buyer, whether acting for
-itself or as a trustee; or
-(II)  during any period of 12 consecutive months the person does not direct
-more than 15 offers to sell or buy into this state in any manner to persons
-other than those specified in Subsection (1)(c)(ii)(D)(I), whether or not the
-offeror or an offeree is then present in this state;
-(E)  a general partner who organizes and effects transactions in securities of
-three or fewer limited partnerships, of which the person is the general
-partner, in any period of 12 consecutive months;
-(F)  a person whose participation in transactions in securities is confined to
-those transactions made by or through a broker-dealer licensed in this state;
-(G)  a person who is a principal broker or associate broker licensed in this
-state and who effects transactions in a bond or other evidence of indebtedness
-secured by a real or chattel mortgage or deed of trust, or by an agreement for
-the sale of real estate or chattels, if the entire mortgage, deed of trust, or
-agreement, together with all the bonds or other evidences of indebtedness
-secured thereby, is offered and sold as a unit;
-(H)  a person effecting transactions in commodity contracts or commodity
-options;
+
+(Ff)  an investment company, as defined in the Investment Company Act of 1940, whether acting for itself or as a trustee;
+
+(Gg)  a pension or profit-sharing trust, whether acting for itself or as a trustee; or
+
+(Hh)  another financial institution or institutional buyer, whether acting for itself or as a trustee; or
+
+(II)  during any period of 12 consecutive months the person does not direct more than 15 offers to sell or buy into this state in any manner to persons other than those specified in Subsection (1)(c)(ii)(D)(I), whether or not the offeror or an offeree is then present in this state;
+
+(E)  a general partner who organizes and effects transactions in securities of three or fewer limited partnerships, of which the person is the general partner, in any period of 12 consecutive months;
+
+(F)  a person whose participation in transactions in securities is confined to those transactions made by or through a broker-dealer licensed in this state;
+
+(G)  a person who is a principal broker or associate broker licensed in this state and who effects transactions in a bond or other evidence of indebtedness secured by a real or chattel mortgage or deed of trust, or by an agreement for the sale of real estate or chattels, if the entire mortgage, deed of trust, or agreement, together with all the bonds or other evidences of indebtedness secured thereby, is offered and sold as a unit;
+
+(H)  a person effecting transactions in commodity contracts or commodity options;
+
 (I)  a person described in Subsection (3); or
-(J)  other persons as the division, by rule or order, may designate,
-consistent with the public interest and protection of investors, as not within
-the intent of this Subsection (1)(c).
-(d)  "Buy" or "purchase" means a contract for purchase of, contract to buy, or
-acquisition of a security or interest in a security for value.
-(e)  "Commission" means the Securities Commission created in Section
-61-1-18.5.
+
+(J)  other persons as the division, by rule or order, may designate, consistent with the public interest and protection of investors, as not within the intent of this Subsection (1)(c).
+
+(d)  "Buy" or "purchase" means a contract for purchase of, contract to buy, or acquisition of a security or interest in a security for value.
+
+(e)  "Commission" means the Securities Commission created in Section 61-1-18.5.
+
 (f)  "Commodity" means, except as otherwise specified by the division by rule:
-(i)  an agricultural, grain, or livestock product or byproduct, except real
-property or a timber, agricultural, or livestock product grown or raised on
-real property and offered or sold by the owner or lessee of the real property;
-(ii)  a metal or mineral, including a precious metal, except a numismatic coin
-whose fair market value is at least 15% greater than the value of the metal it
-contains;
-(iii)  a gem or gemstone, whether characterized as precious, semi-precious, or
-otherwise;
+
+(i)  an agricultural, grain, or livestock product or byproduct, except real property or a timber, agricultural, or livestock product grown or raised on real property and offered or sold by the owner or lessee of the real property;
+
+(ii)  a metal or mineral, including a precious metal, except a numismatic coin whose fair market value is at least 15% greater than the value of the metal it contains;
+
+(iii)  a gem or gemstone, whether characterized as precious, semi-precious, or otherwise;
+
 (iv)  a fuel, whether liquid, gaseous, or otherwise;
+
 (v)  a foreign currency; and
-(vi)  all other goods, articles, products, or items of any kind, except a work
-of art offered or sold by art dealers, at public auction or offered or sold
-through a private sale by the owner of the work.
-(g) (i)  "Commodity contract" means an account, agreement, or contract for the
-purchase or sale, primarily for speculation or investment purposes and not for
-use or consumption by the offeree or purchaser, of one or more commodities,
-whether for immediate or subsequent delivery or whether delivery is intended
-by the parties, and whether characterized as a cash contract, deferred
-shipment or deferred delivery contract, forward contract, futures contract,
-installment or margin contract, leverage contract, or otherwise.
-(ii)  A commodity contract offered or sold shall, in the absence of evidence
-to the contrary, be presumed to be offered or sold for speculation or
-investment purposes.
-(iii) (A)  A commodity contract may not include a contract or agreement that
-requires, and under which the purchaser receives, within 28 calendar days from
-the payment in good funds any portion of the purchase price, physical delivery
-of the total amount of each commodity to be purchased under the contract or
-agreement.
-(B)  A purchaser is not considered to have received physical delivery of the
-total amount of each commodity to be purchased under the contract or agreement
-when the commodity or commodities are held as collateral for a loan or are
-subject to a lien of any person when the loan or lien arises in connection
-with the purchase of each commodity or commodities.
-(h) (i)  "Commodity option" means an account, agreement, or contract giving a
-party to the option the right but not the obligation to purchase or sell one
-or more commodities or one or more commodity contracts, or both whether
-characterized as an option, privilege, indemnity, bid, offer, put, call,
-advance guaranty, decline guaranty, or otherwise.
-(ii)  "Commodity option" does not include an option traded on a national
-securities exchange registered:
+
+(vi)  all other goods, articles, products, or items of any kind, except a work of art offered or sold by art dealers, at public auction or offered or sold through a private sale by the owner of the work.
+
+(g) (i)  "Commodity contract" means an account, agreement, or contract for the purchase or sale, primarily for speculation or investment purposes and not for use or consumption by the offeree or purchaser, of one or more commodities, whether for immediate or subsequent delivery or whether delivery is intended by the parties, and whether characterized as a cash contract, deferred shipment or deferred delivery contract, forward contract, futures contract, installment or margin contract, leverage contract, or otherwise.
+
+(ii)  A commodity contract offered or sold shall, in the absence of evidence to the contrary, be presumed to be offered or sold for speculation or investment purposes.
+
+(iii) (A)  A commodity contract may not include a contract or agreement that requires, and under which the purchaser receives, within 28 calendar days from the payment in good funds any portion of the purchase price, physical delivery of the total amount of each commodity to be purchased under the contract or agreement.
+
+(B)  A purchaser is not considered to have received physical delivery of the total amount of each commodity to be purchased under the contract or agreement when the commodity or commodities are held as collateral for a loan or are subject to a lien of any person when the loan or lien arises in connection with the purchase of each commodity or commodities.
+
+(h) (i)  "Commodity option" means an account, agreement, or contract giving a party to the option the right but not the obligation to purchase or sell one or more commodities or one or more commodity contracts, or both whether characterized as an option, privilege, indemnity, bid, offer, put, call, advance guaranty, decline guaranty, or otherwise.
+
+(ii)  "Commodity option" does not include an option traded on a national securities exchange registered:
+
 (A)  with the Securities and Exchange Commission; or
-(B)  on a board of trade designated as a contract market by the Commodity
-Futures Trading Commission.
+
+(B)  on a board of trade designated as a contract market by the Commodity Futures Trading Commission.
+
 (i)  "Depository institution" is as defined in Section 7-1-103.
-(j)  "Director" means the director of the division appointed in accordance
-with Section 61-1-18.
-(k)  "Division" means the Division of Securities established by Section
-61-1-18.
-(l)  "Executive director" means the executive director of the Department of
-Commerce.
+
+(j)  "Director" means the director of the division appointed in accordance with Section 61-1-18.
+
+(k)  "Division" means the Division of Securities established by Section 61-1-18.
+
+(l)  "Executive director" means the executive director of the Department of Commerce.
+
 (m)  "Federal covered adviser" means a person who:
-(i)  is registered under Section 203 of the Investment Advisers Act of 1940;
-or
-(ii)  is excluded from the definition of "investment adviser" under Section
-202(a)(11) of the Investment Advisers Act of 1940.
-(n)  "Federal covered security" means a security that is a covered security
-under Section 18(b) of the Securities Act of 1933 or rules or regulations
-promulgated under Section 18(b) of the Securities Act of 1933.
-(o)  "Fraud," "deceit," and "defraud" are not limited to their common-law
-meanings.
-(p)  "Guaranteed" means guaranteed as to payment of principal or interest as
-to debt securities, or dividends as to equity securities.
+
+(i)  is registered under Section 203 of the Investment Advisers Act of 1940; or
+
+(ii)  is excluded from the definition of "investment adviser" under Section 202(a)(11) of the Investment Advisers Act of 1940.
+
+(n)  "Federal covered security" means a security that is a covered security under Section 18(b) of the Securities Act of 1933 or rules or regulations promulgated under Section 18(b) of the Securities Act of 1933.
+
+(o)  "Fraud," "deceit," and "defraud" are not limited to their common-law meanings.
+
+(p)  "Guaranteed" means guaranteed as to payment of principal or interest as to debt securities, or dividends as to equity securities.
+
 (q) (i)  "Investment adviser" means a person who:
-(A)  for compensation, engages in the business of advising others, either
-directly or through publications or writings, as to the value of securities or
-as to the advisability of investing in, purchasing, or selling securities; or
-(B)  for compensation and as a part of a regular business, issues or
-promulgates analyses or reports concerning securities.
+
+(A)  for compensation, engages in the business of advising others, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities; or
+
+(B)  for compensation and as a part of a regular business, issues or promulgates analyses or reports concerning securities.
+
 (ii)  "Investment adviser" includes a financial planner or other person who:
-(A)  as an integral component of other financially related services, provides
-the investment advisory services described in Subsection (1)(q)(i) to others
-for compensation and as part of a business; or
-(B)  holds the person out as providing the investment advisory services
-described in Subsection (1)(q)(i) to others for compensation.
+
+(A)  as an integral component of other financially related services, provides the investment advisory services described in Subsection (1)(q)(i) to others for compensation and as part of a business; or
+
+(B)  holds the person out as providing the investment advisory services described in Subsection (1)(q)(i) to others for compensation.
+
 (iii)  "Investment adviser" does not include:
+
 (A)  an investment adviser representative;
+
 (B)  a depository institution or trust company;
-(C)  a lawyer, accountant, engineer, or teacher whose performance of these
-services is solely incidental to the practice of the profession;
-(D)  a broker-dealer or its agent whose performance of these services is
-solely incidental to the conduct of its business as a broker-dealer and who
-receives no special compensation for the services;
-(E)  a publisher of a bona fide newspaper, news column, news letter, news
-magazine, or business or financial publication or service, of general,
-regular, and paid circulation, whether communicated in hard copy form, or by
-electronic means, or otherwise, that does not consist of the rendering of
-advice on the basis of the specific investment situation of each client;
+
+(C)  a lawyer, accountant, engineer, or teacher whose performance of these services is solely incidental to the practice of the profession;
+
+(D)  a broker-dealer or its agent whose performance of these services is solely incidental to the conduct of its business as a broker-dealer and who receives no special compensation for the services;
+
+(E)  a publisher of a bona fide newspaper, news column, news letter, news magazine, or business or financial publication or service, of general, regular, and paid circulation, whether communicated in hard copy form, or by electronic means, or otherwise, that does not consist of the rendering of advice on the basis of the specific investment situation of each client;
+
 (F)  a person who is a federal covered adviser;
+
 (G)  a person described in Subsection (3); or
-(H)  such other persons not within the intent of this Subsection (1)(q) as the
-division may by rule or order designate.
-(r) (i)  "Investment adviser representative" means a partner, officer,
-director of, or a person occupying a similar status or performing similar
-functions, or other individual, except clerical or ministerial personnel, who:
-(A) (I)  is employed by or associated with an investment adviser who is
-licensed or required to be licensed under this chapter; or
-(II)  has a place of business located in this state and is employed by or
-associated with a federal covered adviser; and
+
+(H)  such other persons not within the intent of this Subsection (1)(q) as the division may by rule or order designate.
+
+(r) (i)  "Investment adviser representative" means a partner, officer, director of, or a person occupying a similar status or performing similar functions, or other individual, except clerical or ministerial personnel, who:
+
+(A) (I)  is employed by or associated with an investment adviser who is licensed or required to be licensed under this chapter; or
+
+(II)  has a place of business located in this state and is employed by or associated with a federal covered adviser; and
+
 (B)  does any of the following:
+
 (I)  makes a recommendation or otherwise renders advice regarding securities;
+
 (II)  manages accounts or portfolios of clients;
-(III)  determines which recommendation or advice regarding securities should
-be given;
-(IV)  solicits, offers, or negotiates for the sale of or sells investment
-advisory services; or
-(V)  supervises employees who perform any of the acts described in this
-Subsection (1)(r)(i)(B).
-(ii)  "Investment adviser representative" does not include a person described
-in Subsection (3).
+
+(III)  determines which recommendation or advice regarding securities should be given;
+
+(IV)  solicits, offers, or negotiates for the sale of or sells investment advisory services; or
+
+(V)  supervises employees who perform any of the acts described in this Subsection (1)(r)(i)(B).
+
+(ii)  "Investment adviser representative" does not include a person described in Subsection (3).
+
 (s)  "Investment contract" includes:
-(i)  an investment in a common enterprise with the expectation of profit to be
-derived through the essential managerial efforts of someone other than the
-investor; or
+
+(i)  an investment in a common enterprise with the expectation of profit to be derived through the essential managerial efforts of someone other than the investor; or
+
 (ii)  an investment by which:
+
 (A)  an offeree furnishes initial value to an offerer;
-(B)  a portion of the initial value is subjected to the risks of the
-enterprise;
-(C)  the furnishing of the initial value is induced by the offerer's promises
-or representations that give rise to a reasonable understanding that a
-valuable benefit of some kind over and above the initial value will accrue to
-the offeree as a result of the operation of the enterprise; and
-(D)  the offeree does not receive the right to exercise practical or actual
-control over the managerial decisions of the enterprise.
-(t)  "Isolated transaction" means not more than a total of two transactions
-that occur anywhere during six consecutive months.
-(u) (i)  "Issuer" means a person who issues or proposes to issue a security or
-has outstanding a security that it has issued.
-(ii)  With respect to a preorganization certificate or subscription, "issuer"
-means the one or more promoters of the person to be organized.
-(iii)  "Issuer" means the one or more persons performing the acts and assuming
-duties of a depositor or manager under the provisions of the trust or other
-agreement or instrument under which the security is issued with respect to:
-(A)  interests in trusts, including collateral trust certificates, voting
-trust certificates, and certificates of deposit for securities; or
+
+(B)  a portion of the initial value is subjected to the risks of the enterprise;
+
+(C)  the furnishing of the initial value is induced by the offerer's promises or representations that give rise to a reasonable understanding that a valuable benefit of some kind over and above the initial value will accrue to the offeree as a result of the operation of the enterprise; and
+
+(D)  the offeree does not receive the right to exercise practical or actual control over the managerial decisions of the enterprise.
+
+(t)  "Isolated transaction" means not more than a total of two transactions that occur anywhere during six consecutive months.
+
+(u) (i)  "Issuer" means a person who issues or proposes to issue a security or has outstanding a security that it has issued.
+
+(ii)  With respect to a preorganization certificate or subscription, "issuer" means the one or more promoters of the person to be organized.
+
+(iii)  "Issuer" means the one or more persons performing the acts and assuming duties of a depositor or manager under the provisions of the trust or other agreement or instrument under which the security is issued with respect to:
+
+(A)  interests in trusts, including collateral trust certificates, voting trust certificates, and certificates of deposit for securities; or
+
 (B)  shares in an investment company without a board of directors.
-(iv)  With respect to an equipment trust certificate, a conditional sales
-contract, or similar securities serving the same purpose, "issuer" means the
-person by whom the equipment or property is to be used.
-(v)  With respect to interests in partnerships, general or limited, "issuer"
-means the partnership itself and not the general partner or partners.
-(vi)  With respect to certificates of interest or participation in oil, gas,
-or mining titles or leases or in payment out of production under the titles or
-leases, "issuer" means the owner of the title or lease or right of production,
-whether whole or fractional, who creates fractional interests therein for the
-purpose of sale.
-(v) (i)  "Life settlement interest" means the entire interest or a fractional
-interest in any of the following that is the subject of a life settlement:
+
+(iv)  With respect to an equipment trust certificate, a conditional sales contract, or similar securities serving the same purpose, "issuer" means the person by whom the equipment or property is to be used.
+
+(v)  With respect to interests in partnerships, general or limited, "issuer" means the partnership itself and not the general partner or partners.
+
+(vi)  With respect to certificates of interest or participation in oil, gas, or mining titles or leases or in payment out of production under the titles or leases, "issuer" means the owner of the title or lease or right of production, whether whole or fractional, who creates fractional interests therein for the purpose of sale.
+
+(v) (i)  "Life settlement interest" means the entire interest or a fractional interest in any of the following that is the subject of a life settlement:
+
 (A)  a policy; or
+
 (B)  the death benefit under a policy.
-(ii)  "Life settlement interest" does not include the initial purchase from
-the owner by a life settlement provider.
-(w)  "Nonissuer" means not directly or indirectly for the benefit of the
-issuer.
+
+(ii)  "Life settlement interest" does not include the initial purchase from the owner by a life settlement provider.
+
+(w)  "Nonissuer" means not directly or indirectly for the benefit of the issuer.
+
 (x)  "Person" means:
+
 (i)  an individual;
+
 (ii)  a corporation;
+
 (iii)  a partnership;
+
 (iv)  a limited liability company;
+
 (v)  an association;
+
 (vi)  a joint-stock company;
+
 (vii)  a joint venture;
-(viii)  a trust where the interests of the beneficiaries are evidenced by a
-security;
+
+(viii)  a trust where the interests of the beneficiaries are evidenced by a security;
+
 (ix)  an unincorporated organization;
+
 (x)  a government; or
+
 (xi)  a political subdivision of a government.
-(y)  "Precious metal" means the following, whether in coin, bullion, or other
-form:
+
+(y)  "Precious metal" means the following, whether in coin, bullion, or other form:
+
 (i)  silver;
+
 (ii)  gold;
+
 (iii)  platinum;
+
 (iv)  palladium;
+
 (v)  copper; and
+
 (vi)  such other substances as the division may specify by rule.
-(z)  "Promoter" means a person who, acting alone or in concert with one or
-more persons, takes initiative in founding or organizing the business or
-enterprise of a person.
-(aa) (i)  Except as provided in Subsection (1)(aa)(ii), "record" means
-information that is:
+
+(z)  "Promoter" means a person who, acting alone or in concert with one or more persons, takes initiative in founding or organizing the business or enterprise of a person.
+
+(aa) (i)  Except as provided in Subsection (1)(aa)(ii), "record" means information that is:
+
 (A)  inscribed in a tangible medium; or
+
 (B) (I)  stored in an electronic or other medium; and
+
 (II)  retrievable in perceivable form.
-(ii)  This Subsection (1)(aa) does not apply when the context requires
-otherwise, including when "record" is used in the following phrases:
+
+(ii)  This Subsection (1)(aa) does not apply when the context requires otherwise, including when "record" is used in the following phrases:
+
 (A)  "of record";
+
 (B)  "official record"; or
+
 (C)  "public record."
-(bb) (i)  "Sale" or "sell" includes a contract for sale of, contract to sell,
-or disposition of, a security or interest in a security for value.
-(ii)  "Offer" or "offer to sell" includes an attempt or offer to dispose of,
-or solicitation of an offer to buy, a security or interest in a security for
-value.
-(iii)  The following are examples of the definitions in Subsection (1)(bb)(i)
-or (ii):
-(A)  a security given or delivered with or as a bonus on account of a purchase
-of a security or any other thing, is part of the subject of the purchase, and
-is offered and sold for value;
-(B)  a purported gift of assessable stock is an offer or sale as is each
-assessment levied on the stock;
-(C)  an offer or sale of a security that is convertible into, or entitles its
-holder to acquire or subscribe to another security of the same or another
-issuer is an offer or sale of that security, and also an offer of the other
-security, whether the right to convert or acquire is exercisable immediately
-or in the future;
-(D)  a conversion or exchange of one security for another constitutes an offer
-or sale of the security received in a conversion or exchange, and the offer to
-buy or the purchase of the security converted or exchanged;
-(E)  securities distributed as a dividend wherein the person receiving the
-dividend surrenders the right, or the alternative right, to receive a cash or
-property dividend is an offer or sale;
+
+(bb) (i)  "Sale" or "sell" includes a contract for sale of, contract to sell, or disposition of, a security or interest in a security for value.
+
+(ii)  "Offer" or "offer to sell" includes an attempt or offer to dispose of, or solicitation of an offer to buy, a security or interest in a security for value.
+
+(iii)  The following are examples of the definitions in Subsection (1)(bb)(i) or (ii):
+
+(A)  a security given or delivered with or as a bonus on account of a purchase of a security or any other thing, is part of the subject of the purchase, and is offered and sold for value;
+
+(B)  a purported gift of assessable stock is an offer or sale as is each assessment levied on the stock;
+
+(C)  an offer or sale of a security that is convertible into, or entitles its holder to acquire or subscribe to another security of the same or another issuer is an offer or sale of that security, and also an offer of the other security, whether the right to convert or acquire is exercisable immediately or in the future;
+
+(D)  a conversion or exchange of one security for another constitutes an offer or sale of the security received in a conversion or exchange, and the offer to buy or the purchase of the security converted or exchanged;
+
+(E)  securities distributed as a dividend wherein the person receiving the dividend surrenders the right, or the alternative right, to receive a cash or property dividend is an offer or sale;
+
 (F)  a dividend of a security of another issuer is an offer or sale; or
-(G)  the issuance of a security under a merger, consolidation, reorganization,
-recapitalization, reclassification, or acquisition of assets constitutes the
-offer or sale of the security issued as well as the offer to buy or the
-purchase of a security surrendered in connection therewith, unless the sole
-purpose of the transaction is to change the issuer's domicile.
+
+(G)  the issuance of a security under a merger, consolidation, reorganization, recapitalization, reclassification, or acquisition of assets constitutes the offer or sale of the security issued as well as the offer to buy or the purchase of a security surrendered in connection therewith, unless the sole purpose of the transaction is to change the issuer's domicile.
+
 (iv)  The terms defined in Subsections (1)(bb)(i) and (ii) do not include:
+
 (A)  a good faith gift;
+
 (B)  a transfer by death;
-(C)  a transfer by termination of a trust or of a beneficial interest in a
-trust;
+
+(C)  a transfer by termination of a trust or of a beneficial interest in a trust;
+
 (D)  a security dividend not within Subsection (1)(bb)(iii)(E) or (F); or
+
 (E)  a securities split or reverse split.
-(cc)  "Securities Act of 1933," "Securities Exchange Act of 1934," and
-"Investment Company Act of 1940" mean the federal statutes of those names as
-amended before or after the effective date of this chapter.
-(dd)  "Securities Exchange Commission" means the United States Securities
-Exchange Commission created by the Securities Exchange Act of 1934.
+
+(cc)  "Securities Act of 1933," "Securities Exchange Act of 1934," and "Investment Company Act of 1940" mean the federal statutes of those names as amended before or after the effective date of this chapter.
+
+(dd)  "Securities Exchange Commission" means the United States Securities Exchange Commission created by the Securities Exchange Act of 1934.
+
 (ee) (i)  "Security" means a:
+
 (A)  note;
+
 (B)  stock;
+
 (C)  treasury stock;
+
 (D)  bond;
+
 (E)  debenture;
+
 (F)  evidence of indebtedness;
+
 (G)  certificate of interest or participation in a profit-sharing agreement;
+
 (H)  collateral-trust certificate;
+
 (I)  preorganization certificate or subscription;
+
 (J)  transferable share;
+
 (K)  investment contract;
+
 (L)  burial certificate or burial contract;
+
 (M)  voting-trust certificate;
+
 (N)  certificate of deposit for a security;
-(O)  certificate of interest or participation in an oil, gas, or mining title
-or lease or in payments out of production under such a title or lease;
+
+(O)  certificate of interest or participation in an oil, gas, or mining title or lease or in payments out of production under such a title or lease;
+
 (P)  commodity contract or commodity option;
+
 (Q)  interest in a limited liability company;
+
 (R)  life settlement interest; or
-(S)  in general, an interest or instrument commonly known as a "security," or
-a certificate of interest or participation in, temporary or interim
-certificate for, receipt for, guarantee of, or warrant or right to subscribe
-to or purchase an item listed in Subsections (1)(ee)(i)(A) through (R).
+
+(S)  in general, an interest or instrument commonly known as a "security," or a certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase an item listed in Subsections (1)(ee)(i)(A) through (R).
+
 (ii)  "Security" does not include:
-(A)  an insurance or endowment policy or annuity contract under which an
-insurance company promises to pay money in a lump sum or periodically for life
-or some other specified period;
-(B)  an interest in a limited liability company in which the limited liability
-company is formed as part of an estate plan where all of the members are
-related by blood or marriage, or the person claiming this exception can prove
-that all of the members are actively engaged in the management of the limited
-liability company; or
+
+(A)  an insurance or endowment policy or annuity contract under which an insurance company promises to pay money in a lump sum or periodically for life or some other specified period;
+
+(B)  an interest in a limited liability company in which the limited liability company is formed as part of an estate plan where all of the members are related by blood or marriage, or the person claiming this exception can prove that all of the members are actively engaged in the management of the limited liability company; or
+
 (C) (I)  a whole long-term estate in real property;
-(II)  an undivided fractionalized long-term estate in real property that
-consists of 10 or fewer owners; or
-(III)  an undivided fractionalized long-term estate in real property that
-consists of more than 10 owners if, when the real property estate is subject
-to a management agreement:
-(Aa)  the management agreement permits a simple majority of owners of the real
-property estate to not renew or to terminate the management agreement at the
-earlier of the end of the management agreement's current term, or 180 days
-after the day on which the owners give notice of termination to the manager;
-(Bb)  the management agreement prohibits, directly or indirectly, the lending
-of the proceeds earned from the real property estate or the use or pledge of
-its assets to a person or entity affiliated with or under common control of
-the manager; and
-(Cc)  the management agreement complies with any other requirement imposed by
-rule by the Real Estate Commission under Section 61-2f-103.
-        (iii)  For purposes of Subsection (1)(ee)(ii)(B), evidence that
-members vote or have the right to vote, or the right to information concerning
-the business and affairs of the limited liability company, or the right to
-participate in management, may not establish, without more, that all members
-are actively engaged in the management of the limited liability company.
-(ff)  "State" means a state, territory, or possession of the United States,
-the District of Columbia, and Puerto Rico.
-(gg) (i)  "Undivided fractionalized long-term estate" means an ownership
-interest in real property by two or more persons that is a:
+
+(II)  an undivided fractionalized long-term estate in real property that consists of 10 or fewer owners; or
+
+(III)  an undivided fractionalized long-term estate in real property that consists of more than 10 owners if, when the real property estate is subject to a management agreement:
+
+(Aa)  the management agreement permits a simple majority of owners of the real property estate to not renew or to terminate the management agreement at the earlier of the end of the management agreement's current term, or 180 days after the day on which the owners give notice of termination to the manager;
+
+(Bb)  the management agreement prohibits, directly or indirectly, the lending of the proceeds earned from the real property estate or the use or pledge of its assets to a person or entity affiliated with or under common control of the manager; and
+
+(Cc)  the management agreement complies with any other requirement imposed by rule by the Real Estate Commission under Section 61-2f-103.
+
+ 	(iii)  For purposes of Subsection (1)(ee)(ii)(B), evidence that members vote or have the right to vote, or the right to information concerning the business and affairs of the limited liability company, or the right to participate in management, may not establish, without more, that all members are actively engaged in the management of the limited liability company.
+
+(ff)  "State" means a state, territory, or possession of the United States, the District of Columbia, and Puerto Rico.
+
+(gg) (i)  "Undivided fractionalized long-term estate" means an ownership interest in real property by two or more persons that is a:
+
 (A)  tenancy in common; or
+
 (B)  any other legal form of undivided estate in real property including:
+
 (I)  a fee estate;
+
 (II)  a life estate; or
+
 (III)  other long-term estate.
-(ii)  "Undivided fractionalized long-term estate" does not include a joint
-tenancy.
-(hh)  "Whole long-term estate" means a person owns or persons through joint
-tenancy own real property through:
+
+(ii)  "Undivided fractionalized long-term estate" does not include a joint tenancy.
+
+(hh)  "Whole long-term estate" means a person owns or persons through joint tenancy own real property through:
+
 (i)  a fee estate;
+
 (ii)  a life estate; or
+
 (iii)  other long-term estate.
-(ii)  "Working days" means 8 a.m. to 5 p.m., Monday through Friday, exclusive
-of legal holidays listed in Section 63G-1-301.
-(2)  A term not defined in this section shall have the meaning as established
-by division rule.  The meaning of a term neither defined in this section nor
-by rule of the division shall be the meaning commonly accepted in the business
-community.
+
+(ii)  "Working days" means 8 a.m. to 5 p.m., Monday through Friday, exclusive of legal holidays listed in Section 63G-1-301.
+
+(2)  A term not defined in this section shall have the meaning as established by division rule.  The meaning of a term neither defined in this section nor by rule of the division shall be the meaning commonly accepted in the business community.
+
 (3) (a)  This Subsection (3) applies to:
-(i)  the offer or sale of a real property estate exempted from the definition
-of security under Subsection (1)(ee)(ii)(C); or
-(ii)  the offer or sale of an undivided fractionalized long-term estate that
-is the offer of a security.
-(b)  A person who, directly or indirectly receives compensation in connection
-with the offer or sale as provided in this Subsection (3) of a real property
-estate is not an agent, broker-dealer, investment adviser, or investment
-adviser representative under this chapter if that person is licensed under
-Chapter 2f, Real Estate Licensing and Practices Act, as:
+
+(i)  the offer or sale of a real property estate exempted from the definition of security under Subsection (1)(ee)(ii)(C); or
+
+(ii)  the offer or sale of an undivided fractionalized long-term estate that is the offer of a security.
+
+(b)  A person who, directly or indirectly receives compensation in connection with the offer or sale as provided in this Subsection (3) of a real property estate is not an agent, broker-dealer, investment adviser, or investment adviser representative under this chapter if that person is licensed under Chapter 2f, Real Estate Licensing and Practices Act, as:
+
 (i)  a principal broker;
+
 (ii)  an associate broker; or
+
 (iii)  a sales agent.
-(4)  The list of real property estates excluded from the definition of
-securities under Subsection (1)(ee)(ii)(C) is not an exclusive list of real
-property estates or interests that are not a security.
+
+(4)  The list of real property estates excluded from the definition of securities under Subsection (1)(ee)(ii)(C) is not an exclusive list of real property estates or interests that are not a security.
+

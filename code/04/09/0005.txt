@@ -1,13 +1,12 @@
-4-9-5.   Weights and measures -- Specifications, tolerances, and technical
-data published in National Institute of Standards and Technology Handbook
-govern.
-Unless modified by the department, Handbook 44, Specifications, Tolerances,
-and Other Technical Requirements for Weighing and Measuring Devices, National
-Institute of Standards and Technology, adopted by the National Conference on
-Weights and Measures, including supplements or revisions to Handbook 44, shall
-determine the specifications, tolerances, and other technical requirements for
-devices used for:
+4-9-5.   Weights and measures -- Specifications, tolerances, and technical data published in National Institute of Standards and Technology Handbook govern.
+
+Unless modified by the department, Handbook 44, Specifications, Tolerances, and Other Technical Requirements for Weighing and Measuring Devices, National Institute of Standards and Technology, adopted by the National Conference on Weights and Measures, including supplements or revisions to Handbook 44, shall determine the specifications, tolerances, and other technical requirements for devices used for:
+
 (1)  commercial weighing and measuring;
+
 (2)  law enforcement;
+
 (3)  data gathering; and
+
 (4)  other weighing and measuring purposes.
+

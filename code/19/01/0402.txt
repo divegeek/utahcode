@@ -1,49 +1,62 @@
 19-1-402.   Definitions.
+
 As used in this part:
+
 (1)  "Clean fuel" means:
+
 (a)  propane, natural gas, or electricity;
-(b)  other fuel the Air Quality Board certifies, as authorized by Subsection
-19-1-405(1)(d), to be at least as effective in reducing air pollution as fuels
-under Subsection (1)(a); or
-(c)  other fuel that meets the clean fuel vehicle standards in the federal
-Clean Air Act Amendments of 1990, 42 U.S.C. Sec. 7521 et seq.
+
+(b)  other fuel the Air Quality Board certifies, as authorized by Subsection 19-1-405(1)(d), to be at least as effective in reducing air pollution as fuels under Subsection (1)(a); or
+
+(c)  other fuel that meets the clean fuel vehicle standards in the federal Clean Air Act Amendments of 1990, 42 U.S.C. Sec. 7521 et seq.
+
 (2)  "Clean fuel vehicle" means a vehicle that:
+
 (a)  uses a clean fuel; and
-(b)  meets clean fuel vehicle standards in the federal Clean Air Act
-Amendments of 1990, 42 U.S.C. Sec. 7521 et seq.
+
+(b)  meets clean fuel vehicle standards in the federal Clean Air Act Amendments of 1990, 42 U.S.C. Sec. 7521 et seq.
+
 (3)  "Electric-hybrid vehicle" means a vehicle:
+
 (a)  primarily powered by an electric motor that draws current from:
+
 (i)  rechargeable storage batteries;
+
 (ii)  fuel cells; or
+
 (iii)  other sources of electric current; and
-(b)  also operates on or is capable of operating on a nonelectrical source of
-power.
-(4)  "Fuel system" means tanks, pumps, hoses, injectors, electronic controls,
-and related components that deliver fuel or energy or both to a motor used to
-propel a vehicle.
-(5)  "Fund" means the Clean Fuels and Vehicle Technology Fund created in
-Section 19-1-403.
+
+(b)  also operates on or is capable of operating on a nonelectrical source of power.
+
+(4)  "Fuel system" means tanks, pumps, hoses, injectors, electronic controls, and related components that deliver fuel or energy or both to a motor used to propel a vehicle.
+
+(5)  "Fund" means the Clean Fuels and Vehicle Technology Fund created in Section 19-1-403.
+
 (6) (a)  "Government vehicle" means a motor vehicle:
+
 (i)  registered in Utah; and
+
 (ii)  owned and operated by:
+
 (A)  the state;
+
 (B)  a public trust authority;
+
 (C)  a school district;
+
 (D)  a county; or
+
 (E)  a municipality.
-(b)  "Government vehicle" includes a metropolitan rapid transit motor vehicle,
-bus, truck, law enforcement vehicle, or emergency vehicle.
-(7)  "Incremental cost" means the difference between the cost of the OEM
-vehicle and the same vehicle model manufactured without the clean fuel fueling
-system.
-(8)  "OEM vehicle" means a vehicle manufactured by the original vehicle
-manufacturer or its contractor to use a clean fuel.
-(9)  "Private sector business vehicle" means a motor vehicle registered in
-Utah that is owned and operated solely in the conduct of a private business
-enterprise.
-(10)  "Refueling equipment" means compressors when used separately,
-compressors used in combination with cascade tanks, and other equipment that
-constitute a central refueling system capable of dispensing vehicle fuel.
-(11)  "Retrofit" means conversion or augmentation of an existing motor, fuel
-system, exhaust system, or related components to systems that lead to a
-reduction in air pollution.
+
+(b)  "Government vehicle" includes a metropolitan rapid transit motor vehicle, bus, truck, law enforcement vehicle, or emergency vehicle.
+
+(7)  "Incremental cost" means the difference between the cost of the OEM vehicle and the same vehicle model manufactured without the clean fuel fueling system.
+
+(8)  "OEM vehicle" means a vehicle manufactured by the original vehicle manufacturer or its contractor to use a clean fuel.
+
+(9)  "Private sector business vehicle" means a motor vehicle registered in Utah that is owned and operated solely in the conduct of a private business enterprise.
+
+(10)  "Refueling equipment" means compressors when used separately, compressors used in combination with cascade tanks, and other equipment that constitute a central refueling system capable of dispensing vehicle fuel.
+
+(11)  "Retrofit" means conversion or augmentation of an existing motor, fuel system, exhaust system, or related components to systems that lead to a reduction in air pollution.
+

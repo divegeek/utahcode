@@ -1,52 +1,40 @@
-31A-29-113.   Benefits -- Additional types of pool insurance -- Preexisting
-conditions -- Waiver -- Maximum benefits.
-(1) (a)  The pool policy shall pay for eligible medical expenses rendered or
-furnished for the diagnoses or treatment of illness or injury that:
-(i)  exceed the deductible and copayment amounts applicable under Section
-31A-29-114; and
+31A-29-113.   Benefits -- Additional types of pool insurance -- Preexisting conditions -- Waiver -- Maximum benefits.
+
+(1) (a)  The pool policy shall pay for eligible medical expenses rendered or furnished for the diagnoses or treatment of illness or injury that:
+
+(i)  exceed the deductible and copayment amounts applicable under Section 31A-29-114; and
+
 (ii)  are not otherwise limited or excluded.
-(b)  Eligible medical expenses are the allowed charges established by the
-board for the health care services and items rendered during times for which
-benefits are extended under the pool policy.
-(2)  The coverage to be issued by the pool, its schedule of benefits,
-exclusions, and other limitations shall be established by the board.
-(3)  The commissioner shall approve the benefit package developed by the board
-to ensure its compliance with this chapter.
-(4)  The pool shall offer at least one benefit plan through a managed care
-program as authorized under Section 31A-29-106.
-(5)  This chapter may not be construed to prohibit the pool from issuing
-additional types of pool policies with different types of benefits which in
-the opinion of the board may be of benefit to the citizens of Utah.
-(6) (a)  The board shall design and require an administrator to employ cost
-containment measures and requirements including preadmission certification and
-concurrent inpatient review for the purpose of making the pool more cost
-effective.
-(b)  Sections 31A-22-617 and 31A-22-618 do not apply to coverage issued under
-this chapter.
-(7) (a)  A pool policy may contain provisions under which coverage for a
-preexisting condition is excluded if:
-(i)  the exclusion relates to a condition, regardless of the cause of the
-condition, for which medical advice, diagnosis, care, or treatment was
-recommended or received, from an individual licensed or similarly authorized
-to provide such services under state law and operating within the scope of
-practice authorized by state law, within the six-month period ending on the
-effective date of plan coverage; and
-(ii)  except as provided in Subsection (8), the exclusion extends for a period
-no longer than the six-month period following the effective date of plan
-coverage for a given individual.
+
+(b)  Eligible medical expenses are the allowed charges established by the board for the health care services and items rendered during times for which benefits are extended under the pool policy.
+
+(2)  The coverage to be issued by the pool, its schedule of benefits, exclusions, and other limitations shall be established by the board.
+
+(3)  The commissioner shall approve the benefit package developed by the board to ensure its compliance with this chapter.
+
+(4)  The pool shall offer at least one benefit plan through a managed care program as authorized under Section 31A-29-106.
+
+(5)  This chapter may not be construed to prohibit the pool from issuing additional types of pool policies with different types of benefits which in the opinion of the board may be of benefit to the citizens of Utah.
+
+(6) (a)  The board shall design and require an administrator to employ cost containment measures and requirements including preadmission certification and concurrent inpatient review for the purpose of making the pool more cost effective. 
+
+(b)  Sections 31A-22-617 and 31A-22-618 do not apply to coverage issued under this chapter.
+
+(7) (a)  A pool policy may contain provisions under which coverage for a preexisting condition is excluded if:
+
+(i)  the exclusion relates to a condition, regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received, from an individual licensed or similarly authorized to provide such services under state law and operating within the scope of practice authorized by state law, within the six-month period ending on the effective date of plan coverage; and
+
+(ii)  except as provided in Subsection (8), the exclusion extends for a period no longer than the six-month period following the effective date of plan coverage for a given individual.
+
 (b)  Subsection (7)(a) does not apply to a HIPAA eligible individual.
-(8) (a)  A pool policy may contain provisions under which coverage for a
-preexisting pregnancy is excluded during a ten-month period following the
-effective date of plan coverage for a given individual.
+
+(8) (a)  A pool policy may contain provisions under which coverage for a preexisting pregnancy is excluded during a ten-month period following the effective date of plan coverage for a given individual.
+
 (b)  Subsection (8)(a) does not apply to a HIPAA eligible individual.
-(9) (a)  The pool will waive the preexisting condition exclusion described in
-Subsections (7)(a) and (8)(a) for an individual that is changing health
-coverage to the pool, to the extent to which similar exclusions have been
-satisfied under any prior health insurance coverage if the individual applies
-not later than 63 days following the date of involuntary termination, other
-than for nonpayment of premiums, from health coverage.
-(b)  If this Subsection (9) applies, coverage in the pool shall be effective
-from the date on which the prior coverage was terminated.
-(10)  Covered benefits available from the pool may not exceed a $1,500,000
-lifetime maximum, which includes a per enrollee calendar year maximum
-established by the board.
+
+(9) (a)  The pool will waive the preexisting condition exclusion described in Subsections (7)(a) and (8)(a) for an individual that is changing health coverage to the pool, to the extent to which similar exclusions have been satisfied under any prior health insurance coverage if the individual applies not later than 63 days following the date of involuntary termination, other than for nonpayment of premiums, from health coverage.
+
+(b)  If this Subsection (9) applies, coverage in the pool shall be effective from the date on which the prior coverage was terminated.
+
+(10)  Covered benefits available from the pool may not exceed a $1,500,000 lifetime maximum, which includes a per enrollee calendar year maximum established by the board.
+

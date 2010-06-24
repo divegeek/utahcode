@@ -1,16 +1,8 @@
 16-10a-1431.   Procedure for judicial dissolution.
-(1)  A proceeding by the attorney general or director of the division to
-dissolve a corporation shall be brought in either the district court of the
-county in this state in which the principal office of the corporation is
-situated or the district court of Salt Lake County.  A proceeding brought by
-any other party named in Section 16-10a-1430 shall be brought in the district
-court of the county in this state where the corporation's principal office is
-located or, if it has no principal office in this state, in the district court
-of Salt Lake County.
-(2)  It is not necessary to make shareholders parties to a proceeding to
-dissolve a corporation unless relief is sought against them individually.
-(3)  A court in a proceeding brought to dissolve a corporation may issue
-injunctions, appoint a receiver or custodian pendente lite with all powers and
-duties the court directs, take other action required to preserve the corporate
-assets wherever located, and carry on the business of the corporation until a
-full hearing can be held.
+
+(1)  A proceeding by the attorney general or director of the division to dissolve a corporation shall be brought in either the district court of the county in this state in which the principal office of the corporation is situated or the district court of Salt Lake County.  A proceeding brought by any other party named in Section 16-10a-1430 shall be brought in the district court of the county in this state where the corporation's principal office is located or, if it has no principal office in this state, in the district court of Salt Lake County.
+
+(2)  It is not necessary to make shareholders parties to a proceeding to dissolve a corporation unless relief is sought against them individually.
+
+(3)  A court in a proceeding brought to dissolve a corporation may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the corporate assets wherever located, and carry on the business of the corporation until a full hearing can be held.
+

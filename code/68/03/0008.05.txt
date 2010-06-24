@@ -1,47 +1,38 @@
-68-3-8.5.   Mailing reports and payments to government -- Determining when
-the report or payment is considered to be filed or made.
+68-3-8.5.   Mailing reports and payments to government -- Determining when the report or payment is considered to be filed or made.
+
 (1)  As used in this section:
-(a)  "Payment" means money required or authorized to be paid to the state or a
-political subdivision of the state.
-(b)  "Report" means a report, claim, tax return, statement, or other document
-required or authorized to be filed with the state or a political subdivision
-of the state.
-(c)  "Trigger report" means a report that, upon its receipt by a political
-subdivision of the state, triggers a responsibility on the part of the
-political subdivision to respond.
+
+(a)  "Payment" means money required or authorized to be paid to the state or a political subdivision of the state.
+
+(b)  "Report" means a report, claim, tax return, statement, or other document required or authorized to be filed with the state or a political subdivision of the state.
+
+(c)  "Trigger report" means a report that, upon its receipt by a political subdivision of the state, triggers a responsibility on the part of the political subdivision to respond.
+
 (2) (a)  Except as otherwise provided by statute:
-(i)  a report, other than a trigger report, or a payment that is transmitted
-through the United States mail is considered to be filed or made and received
-by the state or political subdivision on the date shown by the post office
-cancellation mark stamped upon the envelope or other appropriate wrapper
-containing it; and
-(ii)  a trigger report that is transmitted through the United States mail is
-considered to be filed and received on the date shown by the post office
-cancellation mark stamped upon the envelope or other appropriate wrapper
-containing it, if the report is addressed to the attention of:
+
+(i)  a report, other than a trigger report, or a payment that is transmitted through the United States mail is considered to be filed or made and received by the state or political subdivision on the date shown by the post office cancellation mark stamped upon the envelope or other appropriate wrapper containing it; and
+
+(ii)  a trigger report that is transmitted through the United States mail is considered to be filed and received on the date shown by the post office cancellation mark stamped upon the envelope or other appropriate wrapper containing it, if the report is addressed to the attention of:
+
 (A)  the county clerk, for a county;
+
 (B)  the city recorder, for a city;
+
 (C)  the town clerk, for a town; or
-(D)  the clerk or comparable official of the political subdivision, for any
-other political subdivision of the state.
-(b)  A report or payment that is mailed but not received by the state or
-political subdivision, or received but the cancellation mark is illegible,
-erroneous, or omitted, is considered to be filed or made and received on the
-date it was mailed if:
-(i)  the sender establishes by competent evidence that the report or payment
-was deposited in the United States mail on or before the date for filing or
-paying; and
-(ii)  the sender files with the state or political subdivision a duplicate
-within 30 days after the state or political subdivision gives the sender
-written notification of nonreceipt of the report or payment.
-(c)  If any report or payment is sent by United States mail, consistent with
-Subsection (2)(a), and is registered or certified:
-(i)  a record authenticated by the United States post office of that
-registration or certification is considered to be competent evidence that the
-report or payment was delivered to the person or entity to which it was
-addressed; and
-(ii)  the date of registration or certification is considered to be the
-postmarked date.
-(3)  If the date for filing a report or making a payment falls upon a
-Saturday, Sunday, or legal holiday, the filing or payment is considered to be
-timely if it is performed on the next business day.
+
+(D)  the clerk or comparable official of the political subdivision, for any other political subdivision of the state.
+
+(b)  A report or payment that is mailed but not received by the state or political subdivision, or received but the cancellation mark is illegible, erroneous, or omitted, is considered to be filed or made and received on the date it was mailed if:
+
+(i)  the sender establishes by competent evidence that the report or payment was deposited in the United States mail on or before the date for filing or paying; and
+
+(ii)  the sender files with the state or political subdivision a duplicate within 30 days after the state or political subdivision gives the sender written notification of nonreceipt of the report or payment.
+
+(c)  If any report or payment is sent by United States mail, consistent with Subsection (2)(a), and is registered or certified:
+
+(i)  a record authenticated by the United States post office of that registration or certification is considered to be competent evidence that the report or payment was delivered to the person or entity to which it was addressed; and
+
+(ii)  the date of registration or certification is considered to be the postmarked date.
+
+(3)  If the date for filing a report or making a payment falls upon a Saturday, Sunday, or legal holiday, the filing or payment is considered to be timely if it is performed on the next business day.
+

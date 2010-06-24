@@ -1,24 +1,14 @@
 31A-23a-807.    Duties of reinsurers utilizing the services of reinsurance.
-(1)  A reinsurer may not engage the services of any person, firm, association,
-or corporation to act as a reinsurance intermediary-manager on its behalf
-unless the person is licensed as required by Subsection 31A-23a-801(2).
-(2)  The reinsurer shall annually obtain a copy of statements of the financial
-condition of each reinsurance intermediary-manager which the reinsurer has
-engaged, which shall be prepared by an independent certified public accountant
-in a form acceptable to the commissioner.
-(3)  If a reinsurance intermediary-manager establishes loss reserves, the
-reinsurer shall annually obtain the opinion of an actuary attesting to the
-adequacy of loss reserves established for losses incurred and outstanding on
-business produced by the reinsurance intermediary-manager. The actuary's
-opinion shall be in addition to any other required loss reserve certification.
-(4)  Binding authority for all retrocessional contracts or participation in
-reinsurance syndicates shall rest with an officer of the reinsurer, who may
-not be affiliated with the reinsurance intermediary-manager.
-(5)  Within 30 days of termination of a contract with a reinsurance
-intermediary-manager, the reinsurer shall provide written notification of the
-termination to the commissioner.
-(6)  A reinsurer may not appoint to its board of directors, any officer,
-director, employee, controlling shareholder, or subproducer of its reinsurance
-intermediary-manager.  This subsection does not apply to relationships
-governed by Title 31A, Chapter 16, Insurance Holding Companies, or Chapter
-23a, Part 7, Producer Controlled Insurers, if it applies.
+
+(1)  A reinsurer may not engage the services of any person, firm, association, or corporation to act as a reinsurance intermediary-manager on its behalf unless the person is licensed as required by Subsection 31A-23a-801(2).
+
+(2)  The reinsurer shall annually obtain a copy of statements of the financial condition of each reinsurance intermediary-manager which the reinsurer has engaged, which shall be prepared by an independent certified public accountant in a form acceptable to the commissioner.
+
+(3)  If a reinsurance intermediary-manager establishes loss reserves, the reinsurer shall annually obtain the opinion of an actuary attesting to the adequacy of loss reserves established for losses incurred and outstanding on business produced by the reinsurance intermediary-manager. The actuary's opinion shall be in addition to any other required loss reserve certification.
+
+(4)  Binding authority for all retrocessional contracts or participation in reinsurance syndicates shall rest with an officer of the reinsurer, who may not be affiliated with the reinsurance intermediary-manager.
+
+(5)  Within 30 days of termination of a contract with a reinsurance intermediary-manager, the reinsurer shall provide written notification of the termination to the commissioner.
+
+(6)  A reinsurer may not appoint to its board of directors, any officer, director, employee, controlling shareholder, or subproducer of its reinsurance intermediary-manager.  This subsection does not apply to relationships governed by Title 31A, Chapter 16, Insurance Holding Companies, or Chapter 23a, Part 7, Producer Controlled Insurers, if it applies.
+

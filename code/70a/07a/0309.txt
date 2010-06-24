@@ -1,17 +1,8 @@
 70A-7a-309.   Duty of care -- Contractual limitation of carrier's liability.
-(1)  A carrier that issues a bill of lading, whether negotiable or
-nonnegotiable, shall exercise the degree of care in relation to the goods
-which a reasonably careful person would exercise under similar circumstances.
-This Subsection (1) does not affect any statute, regulation, or rule of law
-that imposes liability upon a common carrier for damages not caused by its
-negligence.
-(2)  Damages may be limited by a term in the bill of lading or in a
-transportation agreement that the carrier's liability may not exceed a value
-stated in the bill or transportation agreement if the carrier's rates are
-dependent upon value and the consignor is afforded an opportunity to declare a
-higher value and the consignor is advised of the opportunity.  However, such a
-limitation is not effective with respect to the carrier's liability for
-conversion to its own use.
-(3)  Reasonable provisions as to the time and manner of presenting claims and
-commencing actions based on the shipment may be included in a bill of lading
-or a transportation agreement.
+
+(1)  A carrier that issues a bill of lading, whether negotiable or nonnegotiable, shall exercise the degree of care in relation to the goods which a reasonably careful person would exercise under similar circumstances.  This Subsection (1) does not affect any statute, regulation, or rule of law that imposes liability upon a common carrier for damages not caused by its negligence.
+
+(2)  Damages may be limited by a term in the bill of lading or in a transportation agreement that the carrier's liability may not exceed a value stated in the bill or transportation agreement if the carrier's rates are dependent upon value and the consignor is afforded an opportunity to declare a higher value and the consignor is advised of the opportunity.  However, such a limitation is not effective with respect to the carrier's liability for conversion to its own use.
+
+(3)  Reasonable provisions as to the time and manner of presenting claims and commencing actions based on the shipment may be included in a bill of lading or a transportation agreement.
+

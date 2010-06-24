@@ -1,12 +1,10 @@
 19-4-111.1.   Provision of fluoridated water -- Request of resident.
-A public water system  in a county of the first or second class whose entire
-water inventory is fluoridated may supply water to a residence or business in
-a municipality that is located in two counties, one that has approved
-fluoridation and one that has not approved fluoridation in accordance with
-Subsection 19-4-111(1) if:
-(1)  the owner requests that the public water system supply water to the
-residence or business;
+
+A public water system  in a county of the first or second class whose entire water inventory is fluoridated may supply water to a residence or business in a municipality that is located in two counties, one that has approved fluoridation and one that has not approved fluoridation in accordance with Subsection 19-4-111(1) if:
+
+(1)  the owner requests that the public water system supply water to the residence or business;
+
 (2)  no reasonable alternative water supply exists; and
-(3)  the owner's request can be fulfilled without affecting other residences
-or businesses in the municipality or county that has not approved
-fluoridation.
+
+(3)  the owner's request can be fulfilled without affecting other residences or businesses in the municipality or county that has not approved fluoridation.
+

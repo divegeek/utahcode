@@ -1,88 +1,108 @@
-57-1-31.5.   Reinstatement or payoff statement -- Timeliness of request --
-Trustee's duty to provide statement -- Statement to include accounting of
-costs and fees.
+57-1-31.5.   Reinstatement or payoff statement -- Timeliness of request -- Trustee's duty to provide statement -- Statement to include accounting of costs and fees.
+
 (1)  As used in this section:
+
 (a)  "Approved delivery method" means delivery by:
-(i)  certified or registered United States mail with return receipt requested;
-or
-(ii)  a nationally recognized letter or package delivery or courier service
-operating in the state that provides a service for:
+
+(i)  certified or registered United States mail with return receipt requested; or
+
+(ii)  a nationally recognized letter or package delivery or courier service operating in the state that provides a service for:
+
 (A)  tracking the delivery of an item; or
+
 (B)  documenting:
+
 (I)  that the item was received by the intended recipient; or
+
 (II)  a refusal to accept delivery of the item.
-(b)  "Compensation" means anything of economic value that is paid, loaned,
-granted, given, donated, or transferred to a trustee for or in consideration
-of:
+
+(b)  "Compensation" means anything of economic value that is paid, loaned, granted, given, donated, or transferred to a trustee for or in consideration of:
+
 (i)  services;
+
 (ii)  personal or real property; or
+
 (iii)  other thing of value.
-(c)  "Interested party" means a person with a right under Subsection
-57-1-31(1) to reinstate an obligation secured by a trust deed.
-(d)  "Payoff statement" means a statement under Subsection (2) that an
-interested party requests in order to obtain the amount required to pay off a
-loan secured by a trust deed.
-(e)  "Reinstatement statement" means a statement under Subsection (2) that an
-interested party requests in order to obtain the amount required under
-Subsection 57-1-31(1) to reinstate an obligation secured by a trust deed.
-(2) (a) (i)  An interested party may submit a written request to a trustee for
-a statement of the amount required to be paid:
+
+(c)  "Interested party" means a person with a right under Subsection 57-1-31(1) to reinstate an obligation secured by a trust deed.
+
+(d)  "Payoff statement" means a statement under Subsection (2) that an interested party requests in order to obtain the amount required to pay off a loan secured by a trust deed.
+
+(e)  "Reinstatement statement" means a statement under Subsection (2) that an interested party requests in order to obtain the amount required under Subsection 57-1-31(1) to reinstate an obligation secured by a trust deed.
+
+(2) (a) (i)  An interested party may submit a written request to a trustee for a statement of the amount required to be paid:
+
 (A)  to reinstate an obligation secured by a trust deed; or
+
 (B)  to pay off a loan secured by a trust deed.
-(ii) (A)  A request for a reinstatement statement is not timely unless the
-trustee receives the request at least 10 business days before expiration of
-the three-month period under Section 57-1-31 to reinstate an obligation.
-(B)  A request for a payoff statement is not timely unless the trustee
-receives the request at least 10 business days before the trustee's sale.
-(iii)  An interested party submitting a reinstatement statement or payoff
-statement to a trustee shall submit the statement to the trustee:
+
+(ii) (A)  A request for a reinstatement statement is not timely unless the trustee receives the request at least 10 business days before expiration of the three-month period under Section 57-1-31 to reinstate an obligation.
+
+(B)  A request for a payoff statement is not timely unless the trustee receives the request at least 10 business days before the trustee's sale.
+
+(iii)  An interested party submitting a reinstatement statement or payoff statement to a trustee shall submit the statement to the trustee:
+
 (A)  at the address specified in the trust deed for notices to the trustee; or
-(B)  at an alternate address approved by the trustee for delivery of mail or
-notices.
-(iv)  A trustee is considered to have received a request submitted under
-Subsection (2)(a)(i) if:
-(A)  the interested party submitted the request through an approved delivery
-method; and
+
+(B)  at an alternate address approved by the trustee for delivery of mail or notices.
+
+(iv)  A trustee is considered to have received a request submitted under Subsection (2)(a)(i) if:
+
+(A)  the interested party submitted the request through an approved delivery method; and
+
 (B)  documentation provided under the approved delivery method indicates that:
+
 (I)  the request was delivered to the trustee; or
+
 (II)  delivery of the request was refused.
-(b) (i)  A trustee who receives a written request under Subsection (2)(a)
-shall provide the statement to the interested party.
-(ii)  A trustee is considered to have provided the statement requested under
-Subsection (2)(a) on the date that the trustee deposits the statement with an
-approved delivery method:
+
+(b) (i)  A trustee who receives a written request under Subsection (2)(a) shall provide the statement to the interested party.
+
+(ii)  A trustee is considered to have provided the statement requested under Subsection (2)(a) on the date that the trustee deposits the statement with an approved delivery method:
+
 (A)  with all delivery costs prepaid; and
+
 (B)  addressed to the interested party at the address provided in the request.
-(c) (i)  If the trustee provides a requested reinstatement statement later
-than five business days after the request is received, the time to reinstate
-under Section 57-1-31 is tolled from the date of the request to the date that
-the trustee provides the statement.
-(ii)  If, after scheduling a trustee's sale, the trustee fails to provide a
-requested payoff statement within five business days after the request is
-received, the trustee shall:
+
+(c) (i)  If the trustee provides a requested reinstatement statement later than five business days after the request is received, the time to reinstate under Section 57-1-31 is tolled from the date of the request to the date that the trustee provides the statement.
+
+(ii)  If, after scheduling a trustee's sale, the trustee fails to provide a requested payoff statement within five business days after the request is received, the trustee shall:
+
 (A)  cancel the trustee's sale; or
-(B)  postpone the trustee's sale to a date at least 10 business days after the
-trustee provides the statement.
-(3)  A trustee shall include with each statement required under Subsection
-(2)(a):
-(a)  a detailed listing of any of the following that the trustor would be
-required to pay to reinstate or payoff the loan:
+
+(B)  postpone the trustee's sale to a date at least 10 business days after the trustee provides the statement.
+
+(3)  A trustee shall include with each statement required under Subsection (2)(a):
+
+(a)  a detailed listing of any of the following that the trustor would be required to pay to reinstate or payoff the loan:
+
 (i)  attorney fees;
+
 (ii)  trustee fees; or
+
 (iii)  any costs including:
+
 (A)  title fees;
+
 (B)  publication fees; or
+
 (C)  posting fees; and
+
 (b)  subject to Subsection (4), a disclosure of:
-(i)  any relationship that the trustee has with a third party that provides
-services related to the foreclosure of the loan; and
-(ii)  whether the relationship described in Subsection (3)(b)(i) is created
-by:
+
+(i)  any relationship that the trustee has with a third party that provides services related to the foreclosure of the loan; and
+
+(ii)  whether the relationship described in Subsection (3)(b)(i) is created by:
+
 (A)  an ownership interest in the third party; or
+
 (B)  contract or other agreement.
+
 (4)  Subsection (3)(b) does not require a trustee to provide a trustor:
+
 (a)  a copy of any contract or agreement described in Subsection (3)(b);
-(b)  specific detail as to the nature of the ownership interest described in
-Subsection (3)(b); or
-(c)  the amount of compensation the trustee receives related to the
-foreclosure of the loan under a relationship described in Subsection (3)(b).
+
+(b)  specific detail as to the nature of the ownership interest described in Subsection (3)(b); or
+
+(c)  the amount of compensation the trustee receives related to the foreclosure of the loan under a relationship described in Subsection (3)(b).
+

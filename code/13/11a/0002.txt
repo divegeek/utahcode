@@ -1,79 +1,50 @@
 13-11a-2.   Definitions.
+
 As used in this chapter:
-(1)  "Advertisement" means any written, oral, or graphic statement or
-representation made by a supplier in connection with the solicitation of
-business.  It includes, but is not limited to, communication by noncable
-television systems, radio, printed brochures, newspapers, leaflets, flyers,
-circulars, billboards, banners, or signs.  It does not include any oral, in
-person, representation made by a sales representative to a prospective
-purchaser.
+
+(1)  "Advertisement" means any written, oral, or graphic statement or representation made by a supplier in connection with the solicitation of business.  It includes, but is not limited to, communication by noncable television systems, radio, printed brochures, newspapers, leaflets, flyers, circulars, billboards, banners, or signs.  It does not include any oral, in person, representation made by a sales representative to a prospective purchaser.
+
 (2)  To "clearly and conspicuously disclose" means:
+
 (a)  in the print media:
+
 (i)  to state in typeface that is sufficiently bold to be obviously seen;
-(ii)  to state in type size of at least 10 point type for a 14" x 23"
-document, and, in larger documents, of a type size of proportionately the same
-size; and
+
+(ii)  to state in type size of at least 10 point type for a 14" x 23" document, and, in larger documents, of a type size of proportionately the same size; and
+
 (iii)  to place in the text so as to be obviously seen;
-(b)  in radio advertising, to verbally state in the same volume as that used
-in the advertisement;
-(c)  in television advertising, the method for print media or radio
-advertising is acceptable unless contrary to other governing laws.
-(3)  "Generic good" means a product which is offered for sale under its common
-descriptive name rather than under a trademark, trade name, brand name, house
-brand, or other distinguishing appellation.
-(4)  "Goods and services" means all items which may be the subject of a sales
-transaction.
-(5)  "Nondiscounted price" means a price at which the goods or services are
-offered at the time of the price assessment without a temporary store
-reduction in price.
-(6)  "Performing group" means a vocal or instrumental group that performs live
-music for a paying audience.
-(7)  "Person" means an individual, including a consumer, corporation,
-government, or governmental subdivision or agency, business trust, estate,
-trust, partnership, unincorporated association, two or more of any of the
-foregoing having a joint or common interest, or any other legal or commercial
-entity.
-(8)  "Price assessment" means the determination of the prices underlying a
-price comparison.
-(9)  "Price assessor" means a firm or individual that determines the prices,
-including the reference prices, underlying the price comparison, or who makes
-the price comparison.
-(10)  "Price comparison" means any express representation that a specific
-savings, reduction, or discount exists or will exist between the supplier's
-advertised price and another specific price.  A representation which does not
-reasonably imply a comparison to identifiable prices or items does not express
-a price comparison.  Language constituting mere sales "puffing" is not
-prohibited by this chapter.
-(11)  "Product area" means the geographical area in which the prospective
-purchasers to whom the advertisement is aimed could reasonably be expected to
-seek the goods or services in question.
-(12)  "Recording group" means a vocal or instrumental group at least one of
-the members of which has released a commercial sound recording under the
-group's name, if the member has a legal right to use of the group's name.
-(13)  "Reference price" means a higher price to which a supplier compares a
-lower price to indicate that a reduction in price exists or will exist.
-(14)  "Regular price" means the price at which a supplier has recently offered
-the goods or services for sale in good faith in the regular course of
-business.  Every price represented in an advertisement is considered a regular
-price unless it is specifically represented as a price other than a regular
-price, such as a discount price or a manufacturer's suggested price.  It is
-prima facie evidence that a price is other than a regular price when it was
-not offered as the nondiscount price of the goods or services for the 15 days
-immediately preceding an advertisement of the price, and the price change
-during the 15 day period was not due to price changes inherent in the pricing
-of seasonal or perishable goods, due to changes in cost of the goods or
-services to the supplier, or due to pricing changes made to match a
-competitor's price.
-(15)  "Sales transaction" means a sale, lease, assignment, award by chance, or
-other written or oral transfer or disposition of goods, services, or other
-property, both tangible and intangible (except securities and insurance), to a
-person or business, or a solicitation or offer by a supplier with respect to
-any of these transfers or dispositions. It includes any offer or solicitation,
-any agreement, and any performance of an agreement with respect to any of
-these transfers or dispositions.
-(16)  "Sound recording" means a work resulting from the fixation on a material
-object, such as a disk, tape, or phono-record, of musical or instrumental
-sounds.
-(17)  "Supplier" means a seller, lessor, assignor, offeror, broker, or other
-person who regularly solicits, engages in, or enforces sales transactions,
-whether or not he deals directly with the purchaser.
+
+(b)  in radio advertising, to verbally state in the same volume as that used in the advertisement;
+
+(c)  in television advertising, the method for print media or radio advertising is acceptable unless contrary to other governing laws.
+
+(3)  "Generic good" means a product which is offered for sale under its common descriptive name rather than under a trademark, trade name, brand name, house brand, or other distinguishing appellation.
+
+(4)  "Goods and services" means all items which may be the subject of a sales transaction.
+
+(5)  "Nondiscounted price" means a price at which the goods or services are offered at the time of the price assessment without a temporary store reduction in price.
+
+(6)  "Performing group" means a vocal or instrumental group that performs live music for a paying audience.
+
+(7)  "Person" means an individual, including a consumer, corporation, government, or governmental subdivision or agency, business trust, estate, trust, partnership, unincorporated association, two or more of any of the foregoing having a joint or common interest, or any other legal or commercial entity.
+
+(8)  "Price assessment" means the determination of the prices underlying a price comparison.
+
+(9)  "Price assessor" means a firm or individual that determines the prices, including the reference prices, underlying the price comparison, or who makes the price comparison.
+
+(10)  "Price comparison" means any express representation that a specific savings, reduction, or discount exists or will exist between the supplier's advertised price and another specific price.  A representation which does not reasonably imply a comparison to identifiable prices or items does not express a price comparison.  Language constituting mere sales "puffing" is not prohibited by this chapter.
+
+(11)  "Product area" means the geographical area in which the prospective purchasers to whom the advertisement is aimed could reasonably be expected to seek the goods or services in question.
+
+(12)  "Recording group" means a vocal or instrumental group at least one of the members of which has released a commercial sound recording under the group's name, if the member has a legal right to use of the group's name.
+
+(13)  "Reference price" means a higher price to which a supplier compares a lower price to indicate that a reduction in price exists or will exist.
+
+(14)  "Regular price" means the price at which a supplier has recently offered the goods or services for sale in good faith in the regular course of business.  Every price represented in an advertisement is considered a regular price unless it is specifically represented as a price other than a regular price, such as a discount price or a manufacturer's suggested price.  It is prima facie evidence that a price is other than a regular price when it was not offered as the nondiscount price of the goods or services for the 15 days immediately preceding an advertisement of the price, and the price change during the 15 day period was not due to price changes inherent in the pricing of seasonal or perishable goods, due to changes in cost of the goods or services to the supplier, or due to pricing changes made to match a competitor's price.
+
+(15)  "Sales transaction" means a sale, lease, assignment, award by chance, or other written or oral transfer or disposition of goods, services, or other property, both tangible and intangible (except securities and insurance), to a person or business, or a solicitation or offer by a supplier with respect to any of these transfers or dispositions. It includes any offer or solicitation, any agreement, and any performance of an agreement with respect to any of these transfers or dispositions.
+
+(16)  "Sound recording" means a work resulting from the fixation on a material object, such as a disk, tape, or phono-record, of musical or instrumental sounds.
+
+(17)  "Supplier" means a seller, lessor, assignor, offeror, broker, or other person who regularly solicits, engages in, or enforces sales transactions, whether or not he deals directly with the purchaser.
+

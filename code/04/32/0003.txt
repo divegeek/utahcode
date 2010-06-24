@@ -1,232 +1,200 @@
 4-32-3.   Definitions.
+
 As used in this chapter:
+
 (1)  "Adulterated" means any meat or poultry product that:
-(a)  bears or contains any poisonous or deleterious substance that may render
-it injurious to health, but, if the substance is not an added substance, the
-meat or poultry product is not considered adulterated under this subsection if
-the quantity of the substance in or on the meat or poultry product does not
-ordinarily render it injurious to health;
-(b)  bears or contains, by reason of the administration of any substance to
-the animal or otherwise, any added poisonous or added deleterious substance
-that in the judgment of the commissioner makes the meat or poultry product
-unfit for human food;
-(c)  contains, in whole or in part, a raw agricultural commodity and that
-commodity bears or contains a pesticide chemical that is unsafe within the
-meaning of 21 U.S.C. Sec. 346a;
-(d)  bears or contains any food additive that is unsafe within the meaning of
-21 U.S.C. Sec. 348;
-(e)  bears or contains any color additive that is unsafe within the meaning of
-21 U.S.C. Sec. 379e; provided, that a meat or poultry product that is not
-otherwise considered adulterated under Subsection (1)(c) or (d) of this
-section is considered adulterated if use of the pesticide chemical, food
-additive, or color additive is prohibited in official establishments by
-federal law, regulation, or standard;
-(f)  consists, in whole or in part, of any filthy, putrid, or decomposed
-substance or is for any other reason unsound, unhealthful, unwholesome, or
-otherwise unfit for human food;
-(g)  has been prepared, packaged, or held under unsanitary conditions if the
-meat or poultry product may have become contaminated with filth, or if it may
-have been rendered injurious to health;
-(h)  is in whole or in part the product of an animal that died other than by
-slaughter;
-(i)  is contained in a container that is composed, in whole or in part, of any
-poisonous or deleterious substance that may render the meat or poultry product
-injurious to health;
-(j)  has been intentionally subjected to radiation, unless the use of the
-radiation conforms with a regulation or exemption in effect pursuant to 21
-U.S.C. Sec. 348;
-(k)  has a valuable constituent in whole or in part omitted, abstracted, or
-substituted; or if damage or inferiority is concealed in any manner; or if any
-substance has been added, mixed, or packed with the meat or poultry product to
-increase its bulk or weight, or reduce its quality or strength, or to make it
-appear better or of greater value; or
-(l)  is margarine containing animal fat and any of the raw material used in
-the margarine consists in whole or in part of any filthy, putrid, or
-decomposed substance.
+
+(a)  bears or contains any poisonous or deleterious substance that may render it injurious to health, but, if the substance is not an added substance, the meat or poultry product is not considered adulterated under this subsection if the quantity of the substance in or on the meat or poultry product does not ordinarily render it injurious to health;
+
+(b)  bears or contains, by reason of the administration of any substance to the animal or otherwise, any added poisonous or added deleterious substance that in the judgment of the commissioner makes the meat or poultry product unfit for human food;
+
+(c)  contains, in whole or in part, a raw agricultural commodity and that commodity bears or contains a pesticide chemical that is unsafe within the meaning of 21 U.S.C. Sec. 346a;
+
+(d)  bears or contains any food additive that is unsafe within the meaning of 21 U.S.C. Sec. 348;
+
+(e)  bears or contains any color additive that is unsafe within the meaning of 21 U.S.C. Sec. 379e; provided, that a meat or poultry product that is not otherwise considered adulterated under Subsection (1)(c) or (d) of this section is considered adulterated if use of the pesticide chemical, food additive, or color additive is prohibited in official establishments by federal law, regulation, or standard;
+
+(f)  consists, in whole or in part, of any filthy, putrid, or decomposed substance or is for any other reason unsound, unhealthful, unwholesome, or otherwise unfit for human food;
+
+(g)  has been prepared, packaged, or held under unsanitary conditions if the meat or poultry product may have become contaminated with filth, or if it may have been rendered injurious to health;
+
+(h)  is in whole or in part the product of an animal that died other than by slaughter;
+
+(i)  is contained in a container that is composed, in whole or in part, of any poisonous or deleterious substance that may render the meat or poultry product injurious to health;
+
+(j)  has been intentionally subjected to radiation, unless the use of the radiation conforms with a regulation or exemption in effect pursuant to 21 U.S.C. Sec. 348;
+
+(k)  has a valuable constituent in whole or in part omitted, abstracted, or substituted; or if damage or inferiority is concealed in any manner; or if any substance has been added, mixed, or packed with the meat or poultry product to increase its bulk or weight, or reduce its quality or strength, or to make it appear better or of greater value; or
+
+(l)  is margarine containing animal fat and any of the raw material used in the margarine consists in whole or in part of any filthy, putrid, or decomposed substance.
+
 (2)  "Animal" means a domesticated or captive mammalian or avian species.
-(3)  "Animal food manufacturer" means any person engaged in the business of
-preparing animal food derived from animal carcasses or parts or products of
-the carcasses.
-(4)  "Ante mortem inspection" means an inspection of a live animal immediately
-before slaughter.
-(5)  "Broker" means any person engaged in the business of buying and selling
-meat or poultry products other than for the person's own account.
-(6)  "Capable of use as human food" means any animal carcass, or part or
-product of a carcass, unless it is denatured or otherwise identified as
-required by rules of the department to deter its use as human food.
-(7)  "Commissioner" includes a person authorized by the commissioner to carry
-out this chapter's provisions.
-(8)  "Container" or "package" means any box, can, tin, cloth, plastic, or
-other receptacle, wrapper, or cover.
-(9)  "Custom exempt processing" means processing meat or wild game as a
-service for the person who owns the meat or wild game and uses the meat and
-meat food products for the person's own consumption, including consumption by
-immediate family members and non-paying guests.
+
+(3)  "Animal food manufacturer" means any person engaged in the business of preparing animal food derived from animal carcasses or parts or products of the carcasses.
+
+(4)  "Ante mortem inspection" means an inspection of a live animal immediately before slaughter.
+
+(5)  "Broker" means any person engaged in the business of buying and selling meat or poultry products other than for the person's own account.
+
+(6)  "Capable of use as human food" means any animal carcass, or part or product of a carcass, unless it is denatured or otherwise identified as required by rules of the department to deter its use as human food.
+
+(7)  "Commissioner" includes a person authorized by the commissioner to carry out this chapter's provisions.
+
+(8)  "Container" or "package" means any box, can, tin, cloth, plastic, or other receptacle, wrapper, or cover.
+
+(9)  "Custom exempt processing" means processing meat or wild game as a service for the person who owns the meat or wild game and uses the meat and meat food products for the person's own consumption, including consumption by immediate family members and non-paying guests.
+
 (10)  "Custom exempt slaughter":
-(a)  means slaughtering an animal as a service for the person who owns the
-animal and uses the meat and meat products for the person's own consumption,
-including consumption by immediate family members and non-paying guests; and
+
+(a)  means slaughtering an animal as a service for the person who owns the animal and uses the meat and meat products for the person's own consumption, including consumption by immediate family members and non-paying guests; and
+
 (b)  includes farm custom slaughter.
-(11)  "Director of meat inspection" means a licensed graduate veterinarian
-whose duties and responsibilities are specified by the commissioner.
+
+(11)  "Director of meat inspection" means a licensed graduate veterinarian whose duties and responsibilities are specified by the commissioner.
+
 (12)  "Diseased animal":
+
 (a)  means an animal that:
+
 (i)  is diagnosed with a disease not known to be cured; or
-(ii)  has exhibited signs or symptoms of a disease that is not known to be
-cured; and
-(b)  does not include an otherwise healthy animal that suffers only from
-injuries such as fractures, cuts, or bruises.
-(13)  "Farm custom slaughter" means custom exempt slaughtering of an animal
-for an owner without inspection.
-(14)  "Farm custom mobile unit" means a portable slaughter vehicle or trailer
-that is used by a farm custom slaughter licensee to slaughter animals on the
-animal owner's property.
-(15)  "Farm custom slaughter license" means a license issued by the department
-to allow farm custom slaughter.
-(16)  "Farm custom slaughter tag" means a tag that specifies the animal's
-identification and certifies its ownership, which is issued by the department
-through a brand inspector to the owner of the animal before it is slaughtered.
+
+(ii)  has exhibited signs or symptoms of a disease that is not known to be cured; and
+
+(b)  does not include an otherwise healthy animal that suffers only from injuries such as fractures, cuts, or bruises.
+
+(13)  "Farm custom slaughter" means custom exempt slaughtering of an animal for an owner without inspection.
+
+(14)  "Farm custom mobile unit" means a portable slaughter vehicle or trailer that is used by a farm custom slaughter licensee to slaughter animals on the animal owner's property.
+
+(15)  "Farm custom slaughter license" means a license issued by the department to allow farm custom slaughter.
+
+(16)  "Farm custom slaughter tag" means a tag that specifies the animal's identification and certifies its ownership, which is issued by the department through a brand inspector to the owner of the animal before it is slaughtered.
+
 (17)  "Federal acts" means:
+
 (a)  the Federal Meat Inspection Act, 21 U.S.C. Sec. 601 et seq;
-(b)  the Federal Poultry Products Inspection Act, 21 U.S.C. Sec. 451 et seq.;
-and
+
+(b)  the Federal Poultry Products Inspection Act, 21 U.S.C. Sec. 451 et seq.; and
+
 (c)  the Humane Slaughter Act, 7 U.S.C. 1901 et seq.
-(18)  "Federal Food, Drug and Cosmetic Act" means the act so entitled,
-approved June 25, 1938 (52 Stat. 1040) (21 U.S.C. 301 et seq.), and any
-amendments to it.
-(19)  "Immediate container" means any consumer package, or any other container
-in which meat or poultry products not consumer packaged, are packed.
-(20)  "Inspector" means a licensed veterinarian or competent lay person
-working under the supervision of a licensed graduate veterinarian.
-(21)  "Label" means a display of printed or graphic matter upon any meat or
-poultry product or the immediate container, not including package liners, of
-any such product.
+
+(18)  "Federal Food, Drug and Cosmetic Act" means the act so entitled, approved June 25, 1938 (52 Stat. 1040) (21 U.S.C. 301 et seq.), and any amendments to it.
+
+(19)  "Immediate container" means any consumer package, or any other container in which meat or poultry products not consumer packaged, are packed.
+
+(20)  "Inspector" means a licensed veterinarian or competent lay person working under the supervision of a licensed graduate veterinarian.
+
+(21)  "Label" means a display of printed or graphic matter upon any meat or poultry product or the immediate container, not including package liners, of any such product.
+
 (22)  "Labeling" means all labels and other printed or graphic matter:
+
 (a)  upon any meat or poultry product or any of its containers or wrappers; or
+
 (b)  accompanying a meat or poultry product.
-(23)  "Licensee" means a person who holds a valid farm custom slaughter
-license.
-(24)  "Meat" means the edible muscle and other edible parts of an animal,
-including edible:
+
+(23)  "Licensee" means a person who holds a valid farm custom slaughter license.
+
+(24)  "Meat" means the edible muscle and other edible parts of an animal, including edible:
+
 (a)  skeletal muscle;
+
 (b)  organs;
+
 (c)  muscle found in the tongue, diaphragm, heart, or esophagus; and
-(d)  fat, bone, skin, sinew, nerve, or blood vessel that normally accompanies
-meat and is not ordinarily removed in processing.
+
+(d)  fat, bone, skin, sinew, nerve, or blood vessel that normally accompanies meat and is not ordinarily removed in processing.
+
 (25)  "Meat establishment" means a plant or fixed premises used to:
+
 (a)  slaughter animals for human consumption; or
+
 (b)  process meat or poultry products for human consumption.
-(26)  "Meat product" means any product capable of use as human food that is
-made wholly or in part from any meat or other part of the carcass of any non-
-avian animal.
+
+(26)  "Meat product" means any product capable of use as human food that is made wholly or in part from any meat or other part of the carcass of any non-avian animal.
+
 (27)  "Misbranded" means any meat or poultry product that:
+
 (a)  bears a label that is false or misleading in any particular;
+
 (b)  is offered for sale under the name of another food;
-(c)  is an imitation of another food, unless the label bears, in type of
-uniform size and prominence, the word "imitation" followed by the name of the
-food imitated;
+
+(c)  is an imitation of another food, unless the label bears, in type of uniform size and prominence, the word "imitation" followed by the name of the food imitated;
+
 (d)  if its container is so made, formed, or filled as to be misleading;
+
 (e)  does not bear a label showing:
-(i)  the name and place of business of the manufacturer, packer, or
-distributor; and
-(ii)  an accurate statement of the quantity of the product in terms of weight,
-measure, or numerical count; provided, that under this Subsection (27)(e),
-exemptions as to meat and poultry products not in containers may be
-established by rules of the department and that under this Subsection
-(27)(e)(ii), reasonable variations may be permitted, and exemptions for small
-packages may be established for meat or poultry products by rule of the
-department;
-(f)  does not bear any word, statement, or other information required by or
-under authority of this chapter to appear on the label or other labeling is
-not prominently placed with such conspicuousness, as compared with other
-words, statements, designs, or devices, in the labeling, and in such terms as
-to render it likely to be read and understood by the ordinary individual under
-customary conditions of purchase and use;
-(g)  is a food for which a definition and standard of identity or composition
-has been prescribed by rules of the department under Section 4-32-7 if the
-food does not conform to the definition and standard and the label does not
-bear the name of the food and any other information that is required by the
-rule;
-(h)  is a food for which a standard of fill has been prescribed by rule of the
-department for the container and the actual fill of the container falls below
-that prescribed unless its label bears, in a manner and form as the rule
-specifies, a statement that it falls below the standard;
-(i)  is a food for which no standard or definition of identity has been
-prescribed under Subsection (27)(g) unless its label bears:
+
+(i)  the name and place of business of the manufacturer, packer, or distributor; and
+
+(ii)  an accurate statement of the quantity of the product in terms of weight, measure, or numerical count; provided, that under this Subsection (27)(e), exemptions as to meat and poultry products not in containers may be established by rules of the department and that under this Subsection (27)(e)(ii), reasonable variations may be permitted, and exemptions for small packages may be established for meat or poultry products by rule of the department;
+
+(f)  does not bear any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed with such conspicuousness, as compared with other words, statements, designs, or devices, in the labeling, and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+
+(g)  is a food for which a definition and standard of identity or composition has been prescribed by rules of the department under Section 4-32-7 if the food does not conform to the definition and standard and the label does not bear the name of the food and any other information that is required by the rule;
+
+(h)  is a food for which a standard of fill has been prescribed by rule of the department for the container and the actual fill of the container falls below that prescribed unless its label bears, in a manner and form as the rule specifies, a statement that it falls below the standard;
+
+(i)  is a food for which no standard or definition of identity has been prescribed under Subsection (27)(g) unless its label bears:
+
 (i)  the common or usual name of the food, if there be any; and
-(ii)  if it is fabricated from two or more ingredients, the common or usual
-name of each such ingredient; except that spices, flavorings, and colorings
-may, when authorized by the department, be designated as spices, flavorings,
-and colorings without naming each; provided, that to the extent that
-compliance with the requirements of this Subsection (27)(i)(ii) is
-impracticable, or results in deception or unfair competition, exemptions shall
-be established by rule;
-(j)  is a food that purports to be or is represented to be for special dietary
-uses, unless its label bears information concerning its vitamin, mineral, and
-other dietary properties as the department, after consultation with the
-Secretary of Agriculture of the United States, prescribes by rules as
-necessary to inform purchasers as to its value for special dietary uses;
-(k)  bears or contains any artificial flavoring, artificial coloring, or
-chemical preservative, unless it bears labeling stating that fact; provided,
-that to the extent that compliance with the requirements of this subsection
-are impracticable, exemptions shall be prescribed by rules of the department;
-or
-(l)  does not bear directly thereon and on its containers, as the department
-may prescribe by rule, the official inspection legend and establishment number
-of the official establishment where the product was prepared, and,
-unrestricted by any of the foregoing, other information as the department may
-require by rule to assure that the meat or poultry product will not have false
-or misleading labeling and that the public will be informed of the manner of
-handling required to maintain it in a wholesome condition.
-(28)  "Official certificate" means any certificate prescribed by rules of the
-department for issuance by an inspector or other person performing official
-functions under this chapter.
-(29)  "Official device" means any device prescribed or authorized by the
-commissioner for use in applying any official mark.
-(30)  "Official establishment" means any establishment at which inspection of
-the slaughter of animals or the preparation of meat or poultry products is
-maintained under the authority of this chapter.
-(31)  "Official inspection legend" means any symbol prescribed by rules of the
-department showing that a meat or poultry product was inspected and passed in
-accordance with this chapter.
-(32)  "Official mark" means the official legend or any other symbol prescribed
-by rules of the department to identify the status of any animal carcass or
-meat or poultry product under this chapter.
-(33)  "Pesticide chemical," "food additive," "color additive," and "raw
-agricultural commodity," have the same meanings for purposes of this chapter
-as ascribed to them in the Federal Food, Drug, and Cosmetic Act, 21 U.S.C.
-Sec. 301 et seq.
-(34)  "Post mortem inspection" means an inspection of a slaughtered food
-animal's carcass after slaughter.
+
+(ii)  if it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings may, when authorized by the department, be designated as spices, flavorings, and colorings without naming each; provided, that to the extent that compliance with the requirements of this Subsection (27)(i)(ii) is impracticable, or results in deception or unfair competition, exemptions shall be established by rule;
+
+(j)  is a food that purports to be or is represented to be for special dietary uses, unless its label bears information concerning its vitamin, mineral, and other dietary properties as the department, after consultation with the Secretary of Agriculture of the United States, prescribes by rules as necessary to inform purchasers as to its value for special dietary uses;
+
+(k)  bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact; provided, that to the extent that compliance with the requirements of this subsection are impracticable, exemptions shall be prescribed by rules of the department; or
+
+(l)  does not bear directly thereon and on its containers, as the department may prescribe by rule, the official inspection legend and establishment number of the official establishment where the product was prepared, and, unrestricted by any of the foregoing, other information as the department may require by rule to assure that the meat or poultry product will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain it in a wholesome condition.
+
+(28)  "Official certificate" means any certificate prescribed by rules of the department for issuance by an inspector or other person performing official functions under this chapter.
+
+(29)  "Official device" means any device prescribed or authorized by the commissioner for use in applying any official mark.
+
+(30)  "Official establishment" means any establishment at which inspection of the slaughter of animals or the preparation of meat or poultry products is maintained under the authority of this chapter.
+
+(31)  "Official inspection legend" means any symbol prescribed by rules of the department showing that a meat or poultry product was inspected and passed in accordance with this chapter.
+
+(32)  "Official mark" means the official legend or any other symbol prescribed by rules of the department to identify the status of any animal carcass or meat or poultry product under this chapter.
+
+(33)  "Pesticide chemical," "food additive," "color additive," and "raw agricultural commodity," have the same meanings for purposes of this chapter as ascribed to them in the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. Sec. 301 et seq.
+
+(34)  "Post mortem inspection" means an inspection of a slaughtered food animal's carcass after slaughter.
+
 (35)  "Poultry" means any domesticated bird, whether living or dead.
-(36)  "Poultry product" means any product capable of use as human food that is
-made wholly or in part from any poultry carcass, excepting products that
-contain poultry ingredients in relatively small proportion or that
-historically have not been considered by consumers as products of the poultry
-food industry, and that are exempted from definition as a poultry product by
-the commissioner.
-(37)  "Prepared" means slaughtered, canned, salted, stuffed, rendered, boned,
-cut up, or otherwise manufactured or processed.
-(38)  "Process" means to cut, grind, manufacture, compound, smoke, intermix,
-or prepare meat or poultry products.
-(39)  "Renderer" means any person engaged in the business of rendering animal
-carcasses, or parts or products of animal carcasses, except rendering
-conducted under inspection or exemption under this chapter.
+
+(36)  "Poultry product" means any product capable of use as human food that is made wholly or in part from any poultry carcass, excepting products that contain poultry ingredients in relatively small proportion or that historically have not been considered by consumers as products of the poultry food industry, and that are exempted from definition as a poultry product by the commissioner.
+
+(37)  "Prepared" means slaughtered, canned, salted, stuffed, rendered, boned, cut up, or otherwise manufactured or processed.
+
+(38)  "Process" means to cut, grind, manufacture, compound, smoke, intermix, or prepare meat or poultry products.
+
+(39)  "Renderer" means any person engaged in the business of rendering animal carcasses, or parts or products of animal carcasses, except rendering conducted under inspection or exemption under this chapter.
+
 (40)  "Slaughter" means:
-(a)  the killing of an animal in a humane manner including skinning or
-dressing; or
-(b)  the process of performing any of the specified acts in preparing an
-animal for human consumption.
-(41)  "Wild game" means an animal, the products of which are food that is not
-classified as a domesticated food animal, captive game animal, or captive game
-bird, including the following when not domesticated:
+
+(a)  the killing of an animal in a humane manner including skinning or dressing; or
+
+(b)  the process of performing any of the specified acts in preparing an animal for human consumption.
+
+(41)  "Wild game" means an animal, the products of which are food that is not classified as a domesticated food animal, captive game animal, or captive game bird, including the following when not domesticated:
+
 (a)  deer;
+
 (b)  elk;
+
 (c)  antelope;
+
 (d)  moose;
+
 (e)  bison;
+
 (f)  bear;
+
 (g)  rabbit;
+
 (h)  squirrel;
+
 (i)  raccoon; and
+
 (j)  birds.
+

@@ -1,24 +1,24 @@
 13-44-102.   Definitions.
+
 As used in this chapter:
-(1) (a)  "Breach of system security" means an unauthorized acquisition of
-computerized data maintained by a person that compromises the security,
-confidentiality, or integrity of personal information.
-(b)  "Breach of system security" does not include the acquisition of personal
-information by an employee or agent of the person possessing unencrypted
-computerized data unless the personal information is used for an unlawful
-purpose or disclosed in an unauthorized manner.
+
+(1) (a)  "Breach of system security" means an unauthorized acquisition of computerized data maintained by a person that compromises the security, confidentiality, or integrity of personal information.
+
+(b)  "Breach of system security" does not include the acquisition of personal information by an employee or agent of the person possessing unencrypted computerized data unless the personal information is used for an unlawful purpose or disclosed in an unauthorized manner.
+
 (2)  "Consumer" means a natural person.
-(3) (a)  "Personal information" means a person's first name or first initial
-and last name, combined with any one or more of the following data elements
-relating to that person when either the name or date element is unencrypted or
-not protected by another method that renders the data unreadable or unusable:
+
+(3) (a)  "Personal information" means a person's first name or first initial and last name, combined with any one or more of the following data elements relating to that person when either the name or date element is unencrypted or not protected by another method that renders the data unreadable or unusable:
+
 (i)  Social Security number;
+
 (ii) (A)  financial account number, or credit or debit card number; and
-(B)  any required security code, access code, or password that would permit
-access to the person's account; or
+
+(B)  any required security code, access code, or password that would permit access to the person's account; or
+
 (iii)  driver license number or state identification card number.
-(b)  "Personal information" does not include information regardless of its
-source, contained in federal, state, or local government records or in widely
-distributed media that are lawfully made available to the general public.
-(4)  "Record" includes materials maintained in any form, including paper and
-electronic.
+
+(b)  "Personal information" does not include information regardless of its source, contained in federal, state, or local government records or in widely distributed media that are lawfully made available to the general public.
+
+(4)  "Record" includes materials maintained in any form, including paper and electronic.
+

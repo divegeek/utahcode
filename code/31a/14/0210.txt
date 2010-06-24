@@ -1,31 +1,20 @@
 31A-14-210.   Requirements for foreign fraternals.
-(1) A foreign fraternal may not be authorized to do business in this state
-under Section 31A-14-203, unless it strictly complies with:
-(a)  the financial requirements of Section 31A-9-209 and Chapter 17, Part 6,
-Risk-Based Capital;
-(b)  the requirements of Section 16-6a-1506 and Subsection 31A-5-410(1)(a),
-the reporting requirements of Subsection 31A-5-410(2), Section 31A-5-413
-whenever removal is made involuntarily under the laws of the domicile, Section
-31A-9-202, and Subsections 31A-9-204(1)(c), 31A-9-402(2), and 31A-9-602(1);
-and
-(c)  for five years after the initial issuance of a certificate of authority
-in its domiciliary jurisdiction, the requirements of Subsection 31A-9-213(2).
-(2) (a)  No foreign fraternal may be authorized to do business in this state
-unless it substantially complies with Sections 31A-5-217 and 31A-5-218, except
-that the approval requirement of Subsection 31A-5-217(2) does not apply.
-(b)  When any corporate reorganization, transformation, or liquidation of a
-foreign fraternal, or any levy to cover a deficiency under a law comparable to
-Subsection 31A-9-209(2), is formally initiated by the fraternal, by the
-official act of the domiciliary commissioner, or by any other official, the
-fraternal shall promptly give written notice to the commissioner.
-(3)  The commissioner may issue orders imposing and eliminating restrictions
-under Section 31A-9-103 that are applicable to foreign fraternals.
-(4) (a)  After a hearing, the commissioner may, by order, apply any of the
-provisions of Sections 31A-9-213, 31A-9-404, 31A-9-411, 31A-9-413, or
-Subsection 31A-5-415(2) to a foreign fraternal after finding that it is
-necessary for the protection of the interests of its members, creditors, or
-the public in this state.
-(b)  If any provision made applicable to the foreign fraternal under
-Subsection (4)(a) conflicts with a provision of the law of the domicile, so
-that it is impossible for the fraternal to comply with both, the law of the
-domicile governs.
+
+(1) A foreign fraternal may not be authorized to do business in this state under Section 31A-14-203, unless it strictly complies with:
+
+(a)  the financial requirements of Section 31A-9-209 and Chapter 17, Part 6, Risk-Based Capital;
+
+(b)  the requirements of Section 16-6a-1506 and Subsection 31A-5-410(1)(a), the reporting requirements of Subsection 31A-5-410(2), Section 31A-5-413 whenever removal is made involuntarily under the laws of the domicile, Section 31A-9-202, and Subsections 31A-9-204(1)(c), 31A-9-402(2), and 31A-9-602(1); and
+
+(c)  for five years after the initial issuance of a certificate of authority in its domiciliary jurisdiction, the requirements of Subsection 31A-9-213(2).
+
+(2) (a)  No foreign fraternal may be authorized to do business in this state unless it substantially complies with Sections 31A-5-217 and 31A-5-218, except that the approval requirement of Subsection 31A-5-217(2) does not apply.
+
+(b)  When any corporate reorganization, transformation, or liquidation of a foreign fraternal, or any levy to cover a deficiency under a law comparable to Subsection 31A-9-209(2), is formally initiated by the fraternal, by the official act of the domiciliary commissioner, or by any other official, the fraternal shall promptly give written notice to the commissioner.
+
+(3)  The commissioner may issue orders imposing and eliminating restrictions under Section 31A-9-103 that are applicable to foreign fraternals.
+
+(4) (a)  After a hearing, the commissioner may, by order, apply any of the provisions of Sections 31A-9-213, 31A-9-404, 31A-9-411, 31A-9-413, or Subsection 31A-5-415(2) to a foreign fraternal after finding that it is necessary for the protection of the interests of its members, creditors, or the public in this state.
+
+(b)  If any provision made applicable to the foreign fraternal under Subsection (4)(a) conflicts with a provision of the law of the domicile, so that it is impossible for the fraternal to comply with both, the law of the domicile governs.
+

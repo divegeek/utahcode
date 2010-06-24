@@ -1,52 +1,28 @@
 59-10-117.   State taxable income derived from Utah sources.
-(1)  For purposes of Section 59-10-116, state taxable income includes those
-items includable in state taxable income attributable to or resulting from:
-(a)  the ownership in this state of any interest in real or tangible personal
-property, including real property or property rights from which gross income
-from mining as defined by Section 613(c), Internal Revenue Code, is derived;
-or
-(b)  the carrying on of a business, trade, profession, or occupation in this
-state.
+
+(1)  For purposes of Section 59-10-116, state taxable income includes those items includable in state taxable income attributable to or resulting from:
+
+(a)  the ownership in this state of any interest in real or tangible personal property, including real property or property rights from which gross income from mining as defined by Section 613(c), Internal Revenue Code, is derived; or
+
+(b)  the carrying on of a business, trade, profession, or occupation in this state.
+
 (2)  For the purposes of Subsection (1):
-(a)  income from intangible personal property, including annuities, dividends,
-interest, and gains from the disposition of intangible personal property shall
-constitute income derived from Utah sources only to the extent that the income
-is from property employed in a trade, business, profession, or occupation
-carried on in this state;
-(b)  a deduction with respect to a capital loss, net long-term capital gain,
-or net operating loss shall be based solely on income, gain, loss, and
-deduction connected with Utah sources, under rules prescribed by the
-commission in accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act, but otherwise shall be determined in the same manner as the
-corresponding federal deductions;
-(c)  a salary, wage, commission, or compensation for personal services
-rendered outside this state may not be considered to be derived from Utah
-sources;
-(d)  a nonresident shareholder's distributive share of ordinary income, gain,
-loss, and deduction derived from or connected with Utah sources shall be
-determined under Section 59-10-118;
-(e)  a nonresident, other than a dealer holding property primarily for sale to
-customers in the ordinary course of the dealer's trade or business, may not be
-considered to carry on a trade, business, profession, or occupation in this
-state solely by reason of the purchase or sale of property for the
-nonresident's own account;
-(f)  if a trade, business, profession, or occupation is carried on partly
-within and partly without this state, an item of income, gain, loss, or a
-deduction derived from or connected with Utah sources shall be determined in
-accordance with Section 59-10-118;
-(g)  a nonresident partner's distributive share of partnership income, gain,
-loss, deduction, or credit derived from or connected with Utah sources shall
-be determined under Part 14, Pass-Through Entities and Pass-Through Entity
-Taxpayers Act;
-(h)  the share of a nonresident estate or trust or a nonresident beneficiary
-of any estate or trust in income, gain, loss, or deduction derived from or
-connected with Utah sources shall be determined under Section 59-10-207; and
-(i)  any dividend, interest, or distributive share of income, gain, or loss
-from a real estate investment trust, as defined in Section 59-7-101,
-distributed or allocated to a nonresident investor in the trust, including any
-shareholder, beneficiary, or owner of a beneficial interest in the trust,
-shall be income from intangible personal property under Subsection (2)(a), and
-shall constitute income derived from Utah sources only to the extent the
-nonresident investor is employing its beneficial interest in the trust in a
-trade, business, profession, or occupation carried on by the investor in this
-state.
+
+(a)  income from intangible personal property, including annuities, dividends, interest, and gains from the disposition of intangible personal property shall constitute income derived from Utah sources only to the extent that the income is from property employed in a trade, business, profession, or occupation carried on in this state;
+
+(b)  a deduction with respect to a capital loss, net long-term capital gain, or net operating loss shall be based solely on income, gain, loss, and deduction connected with Utah sources, under rules prescribed by the commission in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, but otherwise shall be determined in the same manner as the corresponding federal deductions;
+
+(c)  a salary, wage, commission, or compensation for personal services rendered outside this state may not be considered to be derived from Utah sources;
+
+(d)  a nonresident shareholder's distributive share of ordinary income, gain, loss, and deduction derived from or connected with Utah sources shall be determined under Section 59-10-118;
+
+(e)  a nonresident, other than a dealer holding property primarily for sale to customers in the ordinary course of the dealer's trade or business, may not be considered to carry on a trade, business, profession, or occupation in this state solely by reason of the purchase or sale of property for the nonresident's own account;
+
+(f)  if a trade, business, profession, or occupation is carried on partly within and partly without this state, an item of income, gain, loss, or a deduction derived from or connected with Utah sources shall be determined in accordance with Section 59-10-118;
+
+(g)  a nonresident partner's distributive share of partnership income, gain, loss, deduction, or credit derived from or connected with Utah sources shall be determined under Part 14, Pass-Through Entities and Pass-Through Entity Taxpayers Act;
+
+(h)  the share of a nonresident estate or trust or a nonresident beneficiary of any estate or trust in income, gain, loss, or deduction derived from or connected with Utah sources shall be determined under Section 59-10-207; and
+
+(i)  any dividend, interest, or distributive share of income, gain, or loss from a real estate investment trust, as defined in Section 59-7-101, distributed or allocated to a nonresident investor in the trust, including any shareholder, beneficiary, or owner of a beneficial interest in the trust, shall be income from intangible personal property under Subsection (2)(a), and shall constitute income derived from Utah sources only to the extent the nonresident investor is employing its beneficial interest in the trust in a trade, business, profession, or occupation carried on by the investor in this state.
+

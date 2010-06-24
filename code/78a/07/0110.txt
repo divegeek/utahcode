@@ -1,29 +1,38 @@
 78A-7-110.   Docket to be kept -- Enumeration of entries required.
-Every justice court judge shall keep or cause to be kept a docket.  The
-following information shall be entered in the docket under the title of the
-action to which it relates:
+
+Every justice court judge shall keep or cause to be kept a docket.  The following information shall be entered in the docket under the title of the action to which it relates:
+
 (1)  the title to every action or proceeding;
-(2)  the object of the action or proceeding, and the amount of any money
-claimed;
+
+(2)  the object of the action or proceeding, and the amount of any money claimed;
+
 (3)  the date of the service of the summons and the time of its return;
-(4)  a statement of the fact if an order to arrest the defendant is made or a
-writ of attachment is issued;
-(5)  the time when the parties or any party appears, or a party's
-nonappearance, if default is made;
-(6)  minutes of the pleadings and motions in writing by referring to them, and
-if not in writing, by a concise statement of the material parts of the
-pleadings;
+
+(4)  a statement of the fact if an order to arrest the defendant is made or a writ of attachment is issued;
+
+(5)  the time when the parties or any party appears, or a party's nonappearance, if default is made;
+
+(6)  minutes of the pleadings and motions in writing by referring to them, and if not in writing, by a concise statement of the material parts of the pleadings;
+
 (7)  every adjournment, stating on whose application and to what time;
-(8)  a demand for a trial by jury, when made, by whom, and the order for the
-jury;
+
+(8)  a demand for a trial by jury, when made, by whom, and the order for the jury;
+
 (9)  the time appointed for the return of the jury and for the trial;
+
 (10)  the names of the jurors who appear and are sworn;
+
 (11)  the names of all witnesses sworn and at whose request;
-(12)  the verdict of the jury and when received, or if the jury disagree and
-are discharged, the disagreement and discharge;
+
+(12)  the verdict of the jury and when received, or if the jury disagree and are discharged, the disagreement and discharge;
+
 (13)  the judgment of the court including the costs included and when entered;
+
 (14)  an itemized statement of the costs;
-(15)  the time of issuing an execution and to whom, and the time of any
-renewals;
+
+(15)  the time of issuing an execution and to whom, and the time of any renewals;
+
 (16)  a statement of any money paid to the court, when, and by whom; and
+
 (17)  the receipt of any notice of appeal, and of any appeal bond filed.
+

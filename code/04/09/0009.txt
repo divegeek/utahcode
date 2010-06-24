@@ -1,12 +1,14 @@
 4-9-9.   Bulk sales -- Information furnished to purchaser.
-Whenever the quantity is determined solely by the seller, in the absence of
-the buyer, all bulk sales of heating fuel and other bulk sales as determined
-by the department shall be accompanied by a delivery ticket containing the
-following information:
+
+Whenever the quantity is determined solely by the seller, in the absence of the buyer, all bulk sales of heating fuel and other bulk sales as determined by the department shall be accompanied by a delivery ticket containing the following information:
+
 (1)  the name and address of the vendor and purchaser;
+
 (2)  the date delivered;
-(3)  the quantity delivered and the quantity upon which the price is based, if
-different from the delivered quantity;
-(4)  a description of the bulk material sold, including any quality
-representation made in connection with the sale; and
+
+(3)  the quantity delivered and the quantity upon which the price is based, if different from the delivered quantity;
+
+(4)  a description of the bulk material sold, including any quality representation made in connection with the sale; and
+
 (5)  the number of individually wrapped packages.
+

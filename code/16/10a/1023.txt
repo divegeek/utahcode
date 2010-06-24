@@ -1,50 +1,42 @@
 16-10a-1023.   Bylaw provisions relating to election of directors.
-(1)  A corporation that has shares listed on a national securities exchange or
-regularly traded in a market maintained by one or more members of a national
-or affiliated securities association may elect in its bylaws to be governed in
-the election of directors by Subsection (2) unless the articles of
-incorporation:
-(a)  specifically prohibit the adoption of a bylaw electing to be governed by
-this section;
+
+(1)  A corporation that has shares listed on a national securities exchange or regularly traded in a market maintained by one or more members of a national or affiliated securities association may elect in its bylaws to be governed in the election of directors by Subsection (2) unless the articles of incorporation:
+
+(a)  specifically prohibit the adoption of a bylaw electing to be governed by this section;
+
 (b)  alter the vote required by Subsection 16-10a-728(2); or
+
 (c)  provide for cumulative voting.
-(2)  A corporation may elect to be governed in the election of directors as
-follows:
-(a)  Each vote entitled to be cast may be voted for or against up to that
-number of candidates that is equal to the number of directors to be elected,
-or the shareholder may indicate abstention, but without cumulating the votes.
-(b)  To be elected, a nominee shall receive a plurality of the votes cast by
-shareholders of shares entitled to vote in the election at a meeting at which
-a quorum is present.
-(c)  Notwithstanding Subsection (2)(b), a nominee who is elected but receives
-more votes against than for election shall serve as a director for a term that
-terminates on the earlier of:
-(i)  90 days after the day on which the corporation certifies the voting
-results; or
-(ii)  the day on which a person is selected by the board of directors to fill
-the office held by the director, which selection constitutes the filling of a
-vacancy by the board for the purpose of Section 16-10a-810.
-(d)  Subject to Subsection (2)(e), a nominee who is elected but receives more
-votes against than for election may not serve as a director beyond the 90-day
-period allowed by Subsection (2)(c).
-(e)  The board of directors may select any qualified person to fill the office
-held by a director who receives more votes against than for election.
-(3) (a)  Subsection (2) does not apply to an election of a director by a
-voting group if there are more candidates for election by the voting group
-than the number of directors to be elected, one or more of whom are properly
-proposed by shareholders.
-(b)  The determination of the number of candidates under Subsection (3)(a) is
-made:
-(i)  at the expiration of a time fixed by the articles of incorporation or
-bylaws for the advance notification of director candidates; or
-(ii)  if there is no provision under Subsection (3)(b)(i), at a time fixed by
-the board of directors not more than 14 days before notice is given of the
-meeting at which the election is to occur.
-(4)  A person may not be considered a candidate for the purpose of Subsection
-(3) if the board of directors determines before the notice of meeting is given
-that the person's candidacy does not create a bona fide election contest.
+
+(2)  A corporation may elect to be governed in the election of directors as follows:
+
+(a)  Each vote entitled to be cast may be voted for or against up to that number of candidates that is equal to the number of directors to be elected, or the shareholder may indicate abstention, but without cumulating the votes.
+
+(b)  To be elected, a nominee shall receive a plurality of the votes cast by shareholders of shares entitled to vote in the election at a meeting at which a quorum is present.
+
+(c)  Notwithstanding Subsection (2)(b), a nominee who is elected but receives more votes against than for election shall serve as a director for a term that terminates on the earlier of:
+
+(i)  90 days after the day on which the corporation certifies the voting results; or
+
+(ii)  the day on which a person is selected by the board of directors to fill the office held by the director, which selection constitutes the filling of a vacancy by the board for the purpose of Section 16-10a-810.
+
+(d)  Subject to Subsection (2)(e), a nominee who is elected but receives more votes against than for election may not serve as a director beyond the 90-day period allowed by Subsection (2)(c).
+
+(e)  The board of directors may select any qualified person to fill the office held by a director who receives more votes against than for election.
+
+(3) (a)  Subsection (2) does not apply to an election of a director by a voting group if there are more candidates for election by the voting group than the number of directors to be elected, one or more of whom are properly proposed by shareholders.
+
+(b)  The determination of the number of candidates under Subsection (3)(a) is made:
+
+(i)  at the expiration of a time fixed by the articles of incorporation or bylaws for the advance notification of director candidates; or
+
+(ii)  if there is no provision under Subsection (3)(b)(i), at a time fixed by the board of directors not more than 14 days before notice is given of the meeting at which the election is to occur.
+
+(4)  A person may not be considered a candidate for the purpose of Subsection (3) if the board of directors determines before the notice of meeting is given that the person's candidacy does not create a bona fide election contest.
+
 (5)  A bylaw electing to be governed by this section may be repealed:
-(a)  by the shareholders if originally adopted by the shareholders, unless
-otherwise provided by the bylaws; or
-(b)  by the board of directors or the shareholders, if originally adopted by
-the board of directors.
+
+(a)  by the shareholders if originally adopted by the shareholders, unless otherwise provided by the bylaws; or
+
+(b)  by the board of directors or the shareholders, if originally adopted by the board of directors.
+

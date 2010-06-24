@@ -1,53 +1,34 @@
-70A-9a-208.   Additional duties of secured party having control of
-collateral.
-(1)  This section applies to cases in which there is no outstanding secured
-obligation and the secured party is not committed to make advances, incur
-obligations, or otherwise give value.
+70A-9a-208.   Additional duties of secured party having control of collateral.
+
+(1)  This section applies to cases in which there is no outstanding secured obligation and the secured party is not committed to make advances, incur obligations, or otherwise give value.
+
 (2)  Within 10 days after receiving an authenticated demand by the debtor:
-(a)  a secured party having control of a deposit account under Subsection 70A-
-9a-104(1)(b) shall send to the bank with which the deposit account is
-maintained an authenticated statement that releases the bank from any further
-obligation to comply with instructions originated by the secured party;
-(b)  a secured party having control of a deposit account under Subsection 70A-
-9a-104(1)(c) shall:
+
+(a)  a secured party having control of a deposit account under Subsection 70A-9a-104(1)(b) shall send to the bank with which the deposit account is maintained an authenticated statement that releases the bank from any further obligation to comply with instructions originated by the secured party;
+
+(b)  a secured party having control of a deposit account under Subsection 70A-9a-104(1)(c) shall:
+
 (i)  pay the debtor the balance on deposit in the deposit account; or
-(ii)  transfer the balance on deposit into a deposit account in the debtor's
-name;
-(c)  a secured party, other than a buyer, having control of electronic chattel
-paper under Section 70A-9a-105 shall:
-(i)  communicate the authoritative copy of the electronic chattel paper to the
-debtor or its designated custodian;
-(ii)  if the debtor designates a custodian that is the designated custodian
-with which the authoritative copy of the electronic chattel paper is
-maintained for the secured party, communicate to the custodian an
-authenticated record releasing the designated custodian from any further
-obligation to comply with instructions originated by the secured party and
-instructing the custodian to comply with instructions originated by the
-debtor; and
-(iii)  take appropriate action to enable the debtor or its designated
-custodian to make copies of or revisions to the authoritative copy which add
-or change an identified assignee of the authoritative copy without the consent
-of the secured party;
-(d)  a secured party having control of investment property under Subsection
-70A-8-105(4)(b) or 70A-9a-106(2) shall send to the securities intermediary or
-commodity intermediary with which the security entitlement or commodity
-contract is maintained an authenticated record that releases the securities
-intermediary or commodity intermediary from any further obligation to comply
-with entitlement orders or directions originated by the secured party;
-(e)  a secured party having control of a letter-of-credit right under Section
-70A-9a-107 shall send to each person having an unfulfilled obligation to pay
-or deliver proceeds of the letter of credit to the secured party an
-authenticated release from any further obligation to pay or deliver proceeds
-of the letter of credit to the secured party; and
+
+(ii)  transfer the balance on deposit into a deposit account in the debtor's name;
+
+(c)  a secured party, other than a buyer, having control of electronic chattel paper under Section 70A-9a-105 shall:
+
+(i)  communicate the authoritative copy of the electronic chattel paper to the debtor or its designated custodian;
+
+(ii)  if the debtor designates a custodian that is the designated custodian with which the authoritative copy of the electronic chattel paper is maintained for the secured party, communicate to the custodian an authenticated record releasing the designated custodian from any further obligation to comply with instructions originated by the secured party and instructing the custodian to comply with instructions originated by the debtor; and
+
+(iii)  take appropriate action to enable the debtor or its designated custodian to make copies of or revisions to the authoritative copy which add or change an identified assignee of the authoritative copy without the consent of the secured party;
+
+(d)  a secured party having control of investment property under Subsection 70A-8-105(4)(b) or 70A-9a-106(2) shall send to the securities intermediary or commodity intermediary with which the security entitlement or commodity contract is maintained an authenticated record that releases the securities intermediary or commodity intermediary from any further obligation to comply with entitlement orders or directions originated by the secured party;
+
+(e)  a secured party having control of a letter-of-credit right under Section 70A-9a-107 shall send to each person having an unfulfilled obligation to pay or deliver proceeds of the letter of credit to the secured party an authenticated release from any further obligation to pay or deliver proceeds of the letter of credit to the secured party; and
+
 (f)  a secured party having control of an electronic document shall:
-(i)  give control of the electronic document to the debtor or the debtor's
-designated custodian;
-(ii)  if the debtor designates a custodian that is the designated custodian
-with which the authoritative copy of the electronic document is maintained for
-the secured party, communicate to the custodian an authenticated record
-releasing the designated custodian from any further obligation to comply with
-instructions originated by the secured party and instructing the custodian to
-comply with instructions originated by the debtor; and
-(iii)  take appropriate action to enable to the debtor or its designated
-custodian to make copies of or revisions to the authoritative copy without the
-consent of the secured party.
+
+(i)  give control of the electronic document to the debtor or the debtor's designated custodian;
+
+(ii)  if the debtor designates a custodian that is the designated custodian with which the authoritative copy of the electronic document is maintained for the secured party, communicate to the custodian an authenticated record releasing the designated custodian from any further obligation to comply with instructions originated by the secured party and instructing the custodian to comply with instructions originated by the debtor; and
+
+(iii)  take appropriate action to enable to the debtor or its designated custodian to make copies of or revisions to the authoritative copy without the consent of the secured party.
+

@@ -1,22 +1,14 @@
 77-23b-7.   Fee for services of provider of information.
-(1) (a)  Except as otherwise provided in Subsection (3), a governmental entity
-obtaining the contents of communications, records, or other information under
-Section 77-23b-4 or 77-23b-5 shall pay to the person or entity assembling or
-providing the information a  reimbursement fee for the costs reasonably
-necessary and  directly incurred in searching for, assembling, reproducing, or
-otherwise providing the information.
-(b)  The reimbursement costs shall include any costs due to the necessary
-disruption of normal operations of any electronic communications service or
-remote computing service in which the information may be stored.
-(2)  The fee amount under Subsection (1) shall be mutually agreed upon by the
-governmental entity and the person or entity providing the information, or in
-the absence of agreement, shall be as determined by the court:
+
+(1) (a)  Except as otherwise provided in Subsection (3), a governmental entity obtaining the contents of communications, records, or other information under Section 77-23b-4 or 77-23b-5 shall pay to the person or entity assembling or providing the information a  reimbursement fee for the costs reasonably necessary and  directly incurred in searching for, assembling, reproducing, or otherwise providing the information.
+
+(b)  The reimbursement costs shall include any costs due to the necessary disruption of normal operations of any electronic communications service or remote computing service in which the information may be stored.
+
+(2)  The fee amount under Subsection (1) shall be mutually agreed upon by the governmental entity and the person or entity providing the information, or in the absence of agreement, shall be as determined by the court:
+
 (a)  that issued the order for production of the information; or
-(b)  before which a criminal prosecution relating to the information would be
-brought, if no court order was issued for production of the information.
-(3)  The requirement of Subsection (1) does not apply to records or other
-information maintained by a communications common carrier that relate to
-telephone toll records and telephone listings obtained under Section 77-23b-4.
-However, the court may order a payment as described under Subsection (1) if
-the court determines the information required is unusually voluminous in
-nature or otherwise causes an undue burden on the provider.
+
+(b)  before which a criminal prosecution relating to the information would be brought, if no court order was issued for production of the information.
+
+(3)  The requirement of Subsection (1) does not apply to records or other information maintained by a communications common carrier that relate to telephone toll records and telephone listings obtained under Section 77-23b-4.   However, the court may order a payment as described under Subsection (1) if the court determines the information required is unusually voluminous in nature or otherwise causes an undue burden on the provider.
+

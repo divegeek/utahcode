@@ -1,10 +1,8 @@
 16-16-815.   Quorum.
-(1)  Unless the articles of organization provide for a greater number, a
-majority of the total number of directors specified by the organic rules
-constitutes a quorum for a meeting of the directors.
-(2)  If a quorum of the board of directors is present at the beginning of a
-meeting, any action taken by the directors present is valid even if withdrawal
-of directors originally present results in the number of directors being fewer
-than the number required for a quorum.
-(3)  A director present at a meeting but objecting to notice under Subsection
-16-16-814(2)(a) or (b) does not count toward a quorum.
+
+(1)  Unless the articles of organization provide for a greater number, a majority of the total number of directors specified by the organic rules constitutes a quorum for a meeting of the directors.
+
+(2)  If a quorum of the board of directors is present at the beginning of a meeting, any action taken by the directors present is valid even if withdrawal of directors originally present results in the number of directors being fewer than the number required for a quorum.
+
+(3)  A director present at a meeting but objecting to notice under Subsection 16-16-814(2)(a) or (b) does not count toward a quorum.
+

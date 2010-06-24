@@ -1,29 +1,20 @@
 16-10a-841.   Limitation of liability of directors.
-(1)  Without limiting the generality of Subsection 16-10a-840(4), if so
-provided in the articles of incorporation or in the bylaws or a resolution to
-the extent permitted in Subsection (3), a corporation may eliminate or limit
-the liability of a director to the corporation or to its shareholders for
-monetary damages for any action taken or any failure to take any action as a
-director, except liability for:
-(a)  the amount of a financial benefit received by a director to which he is
-not entitled;
+
+(1)  Without limiting the generality of Subsection 16-10a-840(4), if so provided in the articles of incorporation or in the bylaws or a resolution to the extent permitted in Subsection (3), a corporation may eliminate or limit the liability of a director to the corporation or to its shareholders for monetary damages for any action taken or any failure to take any action as a director, except liability for:
+
+(a)  the amount of a financial benefit received by a director to which he is not entitled;
+
 (b)  an intentional infliction of harm on the corporation or the shareholders;
+
 (c)  a violation of Section 16-10a-842; or
+
 (d)  an intentional violation of criminal law.
-(2)  No provision authorized under this section may eliminate or limit the
-liability of a director for any act or omission occurring prior to the date
-when the provision becomes effective.
-(3)  Any provision authorized under this section to be included in the
-articles of incorporation may also be adopted in the bylaws or by resolution,
-but only if the provision is approved by the same percentage of shareholders
-of each voting group as would be required to approve an amendment to the
-articles of incorporation including the provision.
-(4)  Any foreign corporation authorized to transact business in this state,
-including any federally chartered depository institution authorized under
-federal law to transact business in this state, may adopt any provision
-authorized under this section.
-(5)  With respect to a corporation that is a depository institution regulated
-by the Department of Financial Institutions or by an agency of the federal
-government, any provision authorized under this section may include the
-elimination or limitation of the personal liability of a director or officer
-to the corporation's members or depositors.
+
+(2)  No provision authorized under this section may eliminate or limit the liability of a director for any act or omission occurring prior to the date when the provision becomes effective.
+
+(3)  Any provision authorized under this section to be included in the articles of incorporation may also be adopted in the bylaws or by resolution, but only if the provision is approved by the same percentage of shareholders of each voting group as would be required to approve an amendment to the articles of incorporation including the provision.
+
+(4)  Any foreign corporation authorized to transact business in this state, including any federally chartered depository institution authorized under federal law to transact business in this state, may adopt any provision authorized under this section.
+
+(5)  With respect to a corporation that is a depository institution regulated by the Department of Financial Institutions or by an agency of the federal government, any provision authorized under this section may include the elimination or limitation of the personal liability of a director or officer to the corporation's members or depositors.
+

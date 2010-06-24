@@ -1,25 +1,26 @@
 63F-1-507.   State Geographic Information Database.
-(1)  There is created a State Geographic Information Database to be managed by
-the center.
+
+(1)  There is created a State Geographic Information Database to be managed by the center.
+
 (2)  The database shall:
-(a)  serve as the central reference for all information contained in any GIS
-database by any state agency;
-(b)  serve as a clearing house and repository for all data layers required by
-multiple users;
-(c)  serve as a standard format for geographic information acquired,
-purchased, or produced by any state agency; and
-(d)  include an accurate representation of all civil subdivision boundaries of
-the state.
-(3)  Each state agency that acquires, purchases, or produces digital
-geographic information data shall:
-(a)  inform the center of the existence of the data layers and their
-geographic extent;
+
+(a)  serve as the central reference for all information contained in any GIS database by any state agency;
+
+(b)  serve as a clearing house and repository for all data layers required by multiple users;
+
+(c)  serve as a standard format for geographic information acquired, purchased, or produced by any state agency; and
+
+(d)  include an accurate representation of all civil subdivision boundaries of the state.
+
+(3)  Each state agency that acquires, purchases, or produces digital geographic information data shall:
+
+(a)  inform the center of the existence of the data layers and their geographic extent;
+
 (b)  allow the center access to all data classified public; and
+
 (c)  comply with any database requirements established by the center.
-(4)  At least annually, the State Tax Commission shall deliver to the center
-information the State Tax Commission receives under Section 67-1a-6.5 relating
-to the creation or modification of the boundaries of political subdivisions.
-(5)  The boundary of a political subdivision within the State Geographic
-Information Database is the official boundary of the political subdivision for
-purposes of meeting the needs of the United States Bureau of the Census in
-identifying the boundary of the political subdivision.
+
+(4)  At least annually, the State Tax Commission shall deliver to the center information the State Tax Commission receives under Section 67-1a-6.5 relating to the creation or modification of the boundaries of political subdivisions.
+
+(5)  The boundary of a political subdivision within the State Geographic Information Database is the official boundary of the political subdivision for purposes of meeting the needs of the United States Bureau of the Census in identifying the boundary of the political subdivision.
+

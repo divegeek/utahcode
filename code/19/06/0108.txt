@@ -1,254 +1,144 @@
-19-6-108.   New nonhazardous solid or hazardous waste operation plans for
-facility or site -- Administrative and legislative approval required --
-Exemptions from legislative and gubernatorial approval -- Time periods for
-review -- Information required -- Other conditions -- Revocation of approval
--- Periodic review.
-(1)  For purposes of this section, the following items shall be treated as
-submission of a new operation plan:
-(a)  the submission of a revised operation plan specifying a different
-geographic site than a previously submitted plan;
-(b)  an application for modification of a commercial hazardous waste
-incinerator if the construction or the modification would increase the
-hazardous waste incinerator capacity above the capacity specified in the
-operation plan as of January 1, 1990, or the capacity specified in the
-operation plan application as of January 1, 1990, if no operation plan
-approval has been issued as of January 1, 1990;
-(c)  an application for modification of a commercial nonhazardous solid waste
-incinerator if the construction of the modification would cost 50% or more of
-the cost of construction of the original incinerator or the modification would
-result in an increase in the capacity or throughput of the incinerator of a
-cumulative total of 50% above the total capacity or throughput that was
-approved in the operation plan as of January 1, 1990, or the initial approved
-operation plan if the initial approval is subsequent to January 1, 1990; or
-(d)  an application for modification of a commercial nonhazardous solid or
-hazardous waste treatment, storage, or disposal facility, other than an
-incinerator, if the modification would be outside the boundaries of the
-property owned or controlled by the applicant, as shown in the application or
-approved operation plan as of January 1, 1990, or the initial approved
-operation plan if the initial approval is subsequent to January 1, 1990.
-(2)  Capacity under Subsection (1)(b) shall be calculated based on the
-throughput tonnage specified for the trial burn in the operation plan or the
-operation plan application if no operation plan approval has been issued as of
-January 1, 1990, and on annual operations of 7,000 hours.
-(3) (a) (i)  No person may own, construct, modify, or operate any facility or
-site for the purpose of disposing of nonhazardous solid waste or treating,
-storing, or disposing of hazardous waste without first submitting and
-receiving the approval of the executive secretary for an operation plan for
-that facility or site.
-(ii) (A)  A permittee who is the current owner of a facility or site that is
-subject to an operation plan may submit to the executive secretary
-information, a report, a plan, or other request for approval for a proposed
-activity under an operation plan:
-(I)  after obtaining the consent of any other permittee who is a current owner
-of the facility or site; and
-(II)  without obtaining the consent of any other permittee who is not a
-current owner of the facility or site.
+19-6-108.   New nonhazardous solid or hazardous waste operation plans for facility or site -- Administrative and legislative approval required -- Exemptions from legislative and gubernatorial approval -- Time periods for review -- Information required -- Other conditions -- Revocation of approval -- Periodic review.
+
+(1)  For purposes of this section, the following items shall be treated as submission of a new operation plan:
+
+(a)  the submission of a revised operation plan specifying a different geographic site than a previously submitted plan;
+
+(b)  an application for modification of a commercial hazardous waste incinerator if the construction or the modification would increase the hazardous waste incinerator capacity above the capacity specified in the operation plan as of January 1, 1990, or the capacity specified in the operation plan application as of January 1, 1990, if no operation plan approval has been issued as of January 1, 1990;
+
+(c)  an application for modification of a commercial nonhazardous solid waste incinerator if the construction of the modification would cost 50% or more of the cost of construction of the original incinerator or the modification would result in an increase in the capacity or throughput of the incinerator of a cumulative total of 50% above the total capacity or throughput that was approved in the operation plan as of January 1, 1990, or the initial approved operation plan if the initial approval is subsequent to January 1, 1990; or
+
+(d)  an application for modification of a commercial nonhazardous solid or hazardous waste treatment, storage, or disposal facility, other than an incinerator, if the modification would be outside the boundaries of the property owned or controlled by the applicant, as shown in the application or approved operation plan as of January 1, 1990, or the initial approved operation plan if the initial approval is subsequent to January 1, 1990.
+
+(2)  Capacity under Subsection (1)(b) shall be calculated based on the throughput tonnage specified for the trial burn in the operation plan or the operation plan application if no operation plan approval has been issued as of January 1, 1990, and on annual operations of 7,000 hours.
+
+(3) (a) (i)  No person may own, construct, modify, or operate any facility or site for the purpose of disposing of nonhazardous solid waste or treating, storing, or disposing of hazardous waste without first submitting and receiving the approval of the executive secretary for an operation plan for that facility or site.
+
+(ii) (A)  A permittee who is the current owner of a facility or site that is subject to an operation plan may submit to the executive secretary information, a report, a plan, or other request for approval for a proposed activity under an operation plan:
+
+(I)  after obtaining the consent of any other permittee who is a current owner of the facility or site; and
+
+(II)  without obtaining the consent of any other permittee who is not a current owner of the facility or site.
+
 (B)  The executive secretary may not:
-(I)  withhold an approval of an operation plan requested by a permittee who is
-a current owner of the facility or site on the grounds that another permittee
-who is not a current owner of the facility or site has not consented to the
-request; or
-(II)  give an approval of an operation plan requested by a permittee who is
-not a current owner before receiving consent of the current owner of the
-facility or site.
-(b) (i)  Except for facilities that receive the following wastes solely for
-the purpose of recycling, reuse, or reprocessing, no person may own,
-construct, modify, or operate any commercial facility that accepts for
-treatment or disposal, with the intent to make a profit, any of the wastes
-listed in Subsection (3)(b)(ii) without first submitting a request to and
-receiving the approval of the executive secretary for an operation plan for
-that facility site.
+
+(I)  withhold an approval of an operation plan requested by a permittee who is a current owner of the facility or site on the grounds that another permittee who is not a current owner of the facility or site has not consented to the request; or
+
+(II)  give an approval of an operation plan requested by a permittee who is not a current owner before receiving consent of the current owner of the facility or site.
+
+(b) (i)  Except for facilities that receive the following wastes solely for the purpose of recycling, reuse, or reprocessing, no person may own, construct, modify, or operate any commercial facility that accepts for treatment or disposal, with the intent to make a profit, any of the wastes listed in Subsection (3)(b)(ii) without first submitting a request to and receiving the approval of the executive secretary for an operation plan for that facility site.
+
 (ii)  Wastes referred to in Subsection (3)(b)(i) are:
-(A)  fly ash waste, bottom ash waste, slag waste, or flue gas emission control
-waste generated primarily from the combustion of coal or other fossil fuels;
-(B)  wastes from the extraction, beneficiation, and processing of ores and
-minerals; or
+
+(A)  fly ash waste, bottom ash waste, slag waste, or flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels;
+
+(B)  wastes from the extraction, beneficiation, and processing of ores and minerals; or
+
 (C)  cement kiln dust wastes.
-(c) (i)  No person may construct any facility listed under Subsection
-(3)(c)(ii) until he receives, in addition to and subsequent to local
-government approval and subsequent to the approval required in Subsection
-(3)(a), approval by the governor and the Legislature.
+
+(c) (i)  No person may construct any facility listed under Subsection (3)(c)(ii) until he receives, in addition to and subsequent to local government approval and subsequent to the approval required in Subsection (3)(a), approval by the governor and the Legislature.
+
 (ii)  Facilities referred to in Subsection (3)(c)(i) are:
-(A)  commercial nonhazardous solid or hazardous waste treatment or disposal
-facilities; and
-(B)  except for facilities that receive the following wastes solely for the
-purpose of recycling, reuse, or reprocessing, any commercial facility that
-accepts for treatment or disposal, with the intent to make a profit: fly ash
-waste, bottom ash waste, slag waste, or flue gas emission control waste
-generated primarily from the combustion of coal or other fossil fuels; wastes
-from the extraction, beneficiation, and processing of ores and minerals; or
-cement kiln dust wastes.
-(d)  No person need obtain gubernatorial or legislative approval for the
-construction of a hazardous waste facility for which an operating plan has
-been approved by or submitted for approval to the executive secretary under
-this section before April 24, 1989, and which has been determined, on or
-before December 31, 1990, by the executive secretary to be complete, in
-accordance with state and federal requirements for operating plans for
-hazardous waste facilities even if a different geographic site is subsequently
-submitted.
-(e)  No person need obtain gubernatorial and legislative approval for the
-construction of a commercial nonhazardous solid waste disposal facility for
-which an operation plan has been approved by or submitted for approval to the
-executive secretary under this section on or before January 1, 1990, and
-which, on or before December 31, 1990, the executive secretary determines to
-be complete, in accordance with state and federal requirements applicable to
-operation plans for nonhazardous solid waste facilities.
-(f)  Any person owning or operating a facility or site on or before November
-19, 1980, who has given timely notification as required by Section 3010 of the
-Resource Conservation and Recovery Act of 1976, 42 U.S.C. Section 6921, et
-seq., and who has submitted a proposed hazardous waste plan under this section
-for that facility or site, may continue to operate that facility or site
-without violating this section until the plan is approved or disapproved under
-this section.
-(g) (i)  The executive secretary shall suspend acceptance of further
-applications for a commercial nonhazardous solid or hazardous waste facility
-upon a finding that he cannot adequately oversee existing and additional
-facilities for permit compliance, monitoring, and enforcement.
-(ii)  The executive secretary shall report any suspension to the Natural
-Resources, Agriculture, and Environment Interim Committee.
-(4)  The executive secretary shall review each proposed nonhazardous solid or
-hazardous waste operation plan to determine whether that plan complies with
-the provisions of this part and the applicable rules of the board.
-(5) (a)  If the facility is a class I or class II facility, the executive
-secretary shall approve or disapprove that plan within 270 days from the date
-it is submitted.
-(b)  Within 60 days after receipt of the plans, specifications, or other
-information required by this section for a class I or II facility, the
-executive secretary shall determine whether the plan is complete and contains
-all information necessary to process the plan for approval.
-(c) (i)  If the plan for a class I or II facility is determined to be
-complete, the executive secretary shall issue a notice of completeness.
-(ii)  If the plan is determined by the executive secretary to be incomplete,
-he shall issue a notice of deficiency, listing the additional information to
-be provided by the owner or operator to complete the plan.
-(d)  The executive secretary shall review information submitted in response to
-a notice of deficiency within 30 days after receipt.
-(e)  The following time periods may not be included in the 270 day plan review
-period for a class I or II facility:
-(i)  time awaiting response from the owner or operator to requests for
-information issued by the executive secretary;
-(ii)  time required for public participation and hearings for issuance of plan
-approvals; and
-(iii)  time for review of the permit by other federal or state government
-agencies.
-(6) (a)  If the facility is a class III or class IV facility, the executive
-secretary shall approve or disapprove that plan within 365 days from the date
-it is submitted.
-(b)  The following time periods may not be included in the 365 day review
-period:
-(i)  time awaiting response from the owner or operator to requests for
-information issued by the executive secretary;
-(ii)  time required for public participation and hearings for issuance of plan
-approvals; and
-(iii)  time for review of the permit by other federal or state government
-agencies.
-(7)  If, within 365 days after receipt of a modification plan or closure plan
-for any facility, the executive secretary determines that the proposed plan,
-or any part of it, will not comply with applicable rules, the executive
-secretary shall issue an order prohibiting any action under the proposed plan
-for modification or closure in whole or in part.
-(8)  Any person who owns or operates a facility or site required to have an
-approved hazardous waste operation plan under this section and who has pending
-a permit application before the United States Environmental Protection Agency
-shall be treated as having an approved plan until final administrative
-disposition of the permit application is made under this section, unless the
-board determines that final administrative disposition of the application has
-not been made because of the failure of the owner or operator to furnish any
-information requested, or the facility's interim status has terminated under
-Section 3005 (e) of the Resource Conservation and Recovery Act, 42 U.S.C.
-Section 6925 (e).
-(9)  No proposed nonhazardous solid or hazardous waste operation plan may be
-approved unless it contains the information that the board requires,
-including:
-(a)  estimates of the composition, quantities, and concentrations of any
-hazardous waste identified under this part and the proposed treatment,
-storage, or disposal of it;
-(b)  evidence that the disposal of nonhazardous solid waste or treatment,
-storage, or disposal of hazardous waste will not be done in a manner that may
-cause or significantly contribute to an increase in mortality, an increase in
-serious irreversible or incapacitating reversible illness, or pose a
-substantial present or potential hazard to human health or the environment;
-(c)  consistent with the degree and duration of risks associated with the
-disposal of nonhazardous solid waste or treatment, storage, or disposal of
-specified hazardous waste, evidence of financial responsibility in whatever
-form and amount that the executive secretary determines is necessary to insure
-continuity of operation and that upon abandonment, cessation, or interruption
-of the operation of the facility or site, all reasonable measures consistent
-with the available knowledge will be taken to insure that the waste subsequent
-to being treated, stored, or disposed of at the site or facility will not
-present a hazard to the public or the environment;
-(d)  evidence that the personnel employed at the facility or site have
-education and training for the safe and adequate handling of nonhazardous
-solid or hazardous waste;
-(e)  plans, specifications, and other information that the executive secretary
-considers relevant to determine whether the proposed nonhazardous solid or
-hazardous waste operation plan will comply with this part and the rules of the
-board; and
-(f)  compliance schedules, where applicable, including schedules for
-corrective action or other response measures for releases from any solid waste
-management unit at the facility, regardless of the time the waste was placed
-in the unit.
-(10)  The executive secretary may not approve a commercial nonhazardous solid
-or hazardous waste operation plan that meets the requirements of Subsection
-(9) unless it contains the information required by the board, including:
-(a)  evidence that the proposed commercial facility has a proven market of
-nonhazardous solid or hazardous waste, including:
-(i)  information on the source, quantity, and price charged for treating,
-storing, and disposing of potential nonhazardous solid or hazardous waste in
-the state and regionally;
-(ii)  a market analysis of the need for a commercial facility given existing
-and potential generation of nonhazardous solid or hazardous waste in the state
-and regionally; and
-(iii)  a review of other existing and proposed commercial nonhazardous solid
-or hazardous waste facilities regionally and nationally that would compete for
-the treatment, storage, or disposal of the nonhazardous solid or hazardous
-waste;
+
+(A)  commercial nonhazardous solid or hazardous waste treatment or disposal facilities; and
+
+(B)  except for facilities that receive the following wastes solely for the purpose of recycling, reuse, or reprocessing, any commercial facility that accepts for treatment or disposal, with the intent to make a profit: fly ash waste, bottom ash waste, slag waste, or flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels; wastes from the extraction, beneficiation, and processing of ores and minerals; or cement kiln dust wastes.
+
+(d)  No person need obtain gubernatorial or legislative approval for the construction of a hazardous waste facility for which an operating plan has been approved by or submitted for approval to the executive secretary under this section before April 24, 1989, and which has been determined, on or before December 31, 1990, by the executive secretary to be complete, in accordance with state and federal requirements for operating plans for hazardous waste facilities even if a different geographic site is subsequently submitted.
+
+(e)  No person need obtain gubernatorial and legislative approval for the construction of a commercial nonhazardous solid waste disposal facility for which an operation plan has been approved by or submitted for approval to the executive secretary under this section on or before January 1, 1990, and which, on or before December 31, 1990, the executive secretary determines to be complete, in accordance with state and federal requirements applicable to operation plans for nonhazardous solid waste facilities.
+
+(f)  Any person owning or operating a facility or site on or before November 19, 1980, who has given timely notification as required by Section 3010 of the Resource Conservation and Recovery Act of 1976, 42 U.S.C. Section 6921, et seq., and who has submitted a proposed hazardous waste plan under this section for that facility or site, may continue to operate that facility or site without violating this section until the plan is approved or disapproved under this section.
+
+(g) (i)  The executive secretary shall suspend acceptance of further applications for a commercial nonhazardous solid or hazardous waste facility upon a finding that he cannot adequately oversee existing and additional facilities for permit compliance, monitoring, and enforcement.
+
+(ii)  The executive secretary shall report any suspension to the Natural Resources, Agriculture, and Environment Interim Committee.
+
+(4)  The executive secretary shall review each proposed nonhazardous solid or hazardous waste operation plan to determine whether that plan complies with the provisions of this part and the applicable rules of the board.
+
+(5) (a)  If the facility is a class I or class II facility, the executive secretary shall approve or disapprove that plan within 270 days from the date it is submitted.
+
+(b)  Within 60 days after receipt of the plans, specifications, or other information required by this section for a class I or II facility, the executive secretary shall determine whether the plan is complete and contains all information necessary to process the plan for approval.
+
+(c) (i)  If the plan for a class I or II facility is determined to be complete, the executive secretary shall issue a notice of completeness.
+
+(ii)  If the plan is determined by the executive secretary to be incomplete, he shall issue a notice of deficiency, listing the additional information to be provided by the owner or operator to complete the plan.
+
+(d)  The executive secretary shall review information submitted in response to a notice of deficiency within 30 days after receipt.
+
+(e)  The following time periods may not be included in the 270 day plan review period for a class I or II facility:
+
+(i)  time awaiting response from the owner or operator to requests for information issued by the executive secretary;
+
+(ii)  time required for public participation and hearings for issuance of plan approvals; and
+
+(iii)  time for review of the permit by other federal or state government agencies.
+
+(6) (a)  If the facility is a class III or class IV facility, the executive secretary shall approve or disapprove that plan within 365 days from the date it is submitted.
+
+(b)  The following time periods may not be included in the 365 day review period:
+
+(i)  time awaiting response from the owner or operator to requests for information issued by the executive secretary;
+
+(ii)  time required for public participation and hearings for issuance of plan approvals; and
+
+(iii)  time for review of the permit by other federal or state government agencies.
+
+(7)  If, within 365 days after receipt of a modification plan or closure plan for any facility, the executive secretary determines that the proposed plan, or any part of it, will not comply with applicable rules, the executive secretary shall issue an order prohibiting any action under the proposed plan for modification or closure in whole or in part.
+
+(8)  Any person who owns or operates a facility or site required to have an approved hazardous waste operation plan under this section and who has pending a permit application before the United States Environmental Protection Agency shall be treated as having an approved plan until final administrative disposition of the permit application is made under this section, unless the board determines that final administrative disposition of the application has not been made because of the failure of the owner or operator to furnish any information requested, or the facility's interim status has terminated under Section 3005 (e) of the Resource Conservation and Recovery Act, 42 U.S.C. Section 6925 (e).
+
+(9)  No proposed nonhazardous solid or hazardous waste operation plan may be approved unless it contains the information that the board requires, including:
+
+(a)  estimates of the composition, quantities, and concentrations of any hazardous waste identified under this part and the proposed treatment, storage, or disposal of it;
+
+(b)  evidence that the disposal of nonhazardous solid waste or treatment, storage, or disposal of hazardous waste will not be done in a manner that may cause or significantly contribute to an increase in mortality, an increase in serious irreversible or incapacitating reversible illness, or pose a substantial present or potential hazard to human health or the environment;
+
+(c)  consistent with the degree and duration of risks associated with the disposal of nonhazardous solid waste or treatment, storage, or disposal of specified hazardous waste, evidence of financial responsibility in whatever form and amount that the executive secretary determines is necessary to insure continuity of operation and that upon abandonment, cessation, or interruption of the operation of the facility or site, all reasonable measures consistent with the available knowledge will be taken to insure that the waste subsequent to being treated, stored, or disposed of at the site or facility will not present a hazard to the public or the environment;
+
+(d)  evidence that the personnel employed at the facility or site have education and training for the safe and adequate handling of nonhazardous solid or hazardous waste;
+
+(e)  plans, specifications, and other information that the executive secretary considers relevant to determine whether the proposed nonhazardous solid or hazardous waste operation plan will comply with this part and the rules of the board; and
+
+(f)  compliance schedules, where applicable, including schedules for corrective action or other response measures for releases from any solid waste management unit at the facility, regardless of the time the waste was placed in the unit.
+
+(10)  The executive secretary may not approve a commercial nonhazardous solid or hazardous waste operation plan that meets the requirements of Subsection (9) unless it contains the information required by the board, including:
+
+(a)  evidence that the proposed commercial facility has a proven market of nonhazardous solid or hazardous waste, including:
+
+(i)  information on the source, quantity, and price charged for treating, storing, and disposing of potential nonhazardous solid or hazardous waste in the state and regionally;
+
+(ii)  a market analysis of the need for a commercial facility given existing and potential generation of nonhazardous solid or hazardous waste in the state and regionally; and
+
+(iii)  a review of other existing and proposed commercial nonhazardous solid or hazardous waste facilities regionally and nationally that would compete for the treatment, storage, or disposal of the nonhazardous solid or hazardous waste;
+
 (b)  a description of the public benefits of the proposed facility, including:
-(i)  the need in the state for the additional capacity for the management of
-nonhazardous solid or hazardous waste;
+
+(i)  the need in the state for the additional capacity for the management of nonhazardous solid or hazardous waste;
+
 (ii)  the energy and resources recoverable by the proposed facility;
-(iii)  the reduction of nonhazardous solid or hazardous waste management
-methods, which are less suitable for the environment, that would be made
-possible by the proposed facility; and
-(iv)  whether any other available site or method for the management of
-hazardous waste would be less detrimental to the public health or safety or to
-the quality of the environment; and
-(c)  compliance history of an owner or operator of a proposed commercial
-nonhazardous solid or hazardous waste treatment, storage, or disposal
-facility, which may be applied by the executive secretary in a nonhazardous
-solid or hazardous waste operation plan decision, including any plan
-conditions.
-(11)  The executive secretary may not approve a commercial nonhazardous solid
-or hazardous waste facility operation plan unless based on the application,
-and in addition to the determination required in Subsections (9) and (10), the
-executive secretary determines that:
-(a)  the probable beneficial environmental effect of the facility to the state
-outweighs the probable adverse environmental effect; and
+
+(iii)  the reduction of nonhazardous solid or hazardous waste management methods, which are less suitable for the environment, that would be made possible by the proposed facility; and
+
+(iv)  whether any other available site or method for the management of hazardous waste would be less detrimental to the public health or safety or to the quality of the environment; and
+
+(c)  compliance history of an owner or operator of a proposed commercial nonhazardous solid or hazardous waste treatment, storage, or disposal facility, which may be applied by the executive secretary in a nonhazardous solid or hazardous waste operation plan decision, including any plan conditions.
+
+(11)  The executive secretary may not approve a commercial nonhazardous solid or hazardous waste facility operation plan unless based on the application, and in addition to the determination required in Subsections (9) and (10), the executive secretary determines that:
+
+(a)  the probable beneficial environmental effect of the facility to the state outweighs the probable adverse environmental effect; and
+
 (b)  there is a need for the facility to serve industry within the state.
-(12)  Approval of a nonhazardous solid or hazardous waste operation plan may
-be revoked, in whole or in part, if the person to whom approval of the plan
-has been given fails to comply with that plan.
-(13)  The executive secretary shall review all approved nonhazardous solid and
-hazardous waste operation plans at least once every five years.
-(14)  The provisions of Subsections (10) and (11) do not apply to hazardous
-waste facilities in existence or to applications filed or pending in the
-department prior to April 24, 1989, that are determined by the executive
-secretary on or before December 31, 1990, to be complete, in accordance with
-state and federal requirements applicable to operation plans for hazardous
-waste facilities.
-(15)  The provisions of Subsections (9), (10), and (11) do not apply to a
-nonhazardous solid waste facility in existence or to an application filed or
-pending in the department prior to January 1, 1990, that is determined by the
-executive secretary, on or before December 31, 1990, to be complete in
-accordance with state and federal requirements applicable to operation plans
-for nonhazardous solid waste facilities.
-(16)  Nonhazardous solid waste generated outside of this state that is defined
-as hazardous waste in the state where it is generated and which is received
-for disposal in this state shall not be disposed of at a nonhazardous waste
-disposal facility owned and operated by local government or a facility under
-contract with a local government solely for disposal of nonhazardous solid
-waste generated within the boundaries of the local government, unless disposal
-is approved by the executive secretary.
-(17)  This section may not be construed to exempt any facility from applicable
-regulation under the federal Atomic Energy Act, 42 U.S.C. Sections 2014 and
-2021 through 2114.
+
+(12)  Approval of a nonhazardous solid or hazardous waste operation plan may be revoked, in whole or in part, if the person to whom approval of the plan has been given fails to comply with that plan.
+
+(13)  The executive secretary shall review all approved nonhazardous solid and hazardous waste operation plans at least once every five years.
+
+(14)  The provisions of Subsections (10) and (11) do not apply to hazardous waste facilities in existence or to applications filed or pending in the department prior to April 24, 1989, that are determined by the executive secretary on or before December 31, 1990, to be complete, in accordance with state and federal requirements applicable to operation plans for hazardous waste facilities.
+
+(15)  The provisions of Subsections (9), (10), and (11) do not apply to a nonhazardous solid waste facility in existence or to an application filed or pending in the department prior to January 1, 1990, that is determined by the executive secretary, on or before December 31, 1990, to be complete in accordance with state and federal requirements applicable to operation plans for nonhazardous solid waste facilities.
+
+(16)  Nonhazardous solid waste generated outside of this state that is defined as hazardous waste in the state where it is generated and which is received for disposal in this state shall not be disposed of at a nonhazardous waste disposal facility owned and operated by local government or a facility under contract with a local government solely for disposal of nonhazardous solid waste generated within the boundaries of the local government, unless disposal is approved by the executive secretary.
+
+(17)  This section may not be construed to exempt any facility from applicable regulation under the federal Atomic Energy Act, 42 U.S.C. Sections 2014 and 2021 through 2114.
+

@@ -1,56 +1,56 @@
 31A-22-618.5.   Health benefit plan offerings.
-(1)  The purpose of this section is to increase the range of health benefit
-plans available in the small group, small employer group, large group, and
-individual insurance markets.
-(2)  A health maintenance organization that is subject to Chapter 8, Health
-Maintenance Organizations and Limited Health Plans:
-(a)  shall offer to potential purchasers at least one health benefit plan that
-is subject to the requirements of Chapter 8, Health Maintenance Organizations
-and Limited Health Plans; and
+
+(1)  The purpose of this section is to increase the range of health benefit plans available in the small group, small employer group, large group, and individual insurance markets.
+
+(2)  A health maintenance organization that is subject to Chapter 8, Health Maintenance Organizations and Limited Health Plans:
+
+(a)  shall offer to potential purchasers at least one health benefit plan that is subject to the requirements of Chapter 8, Health Maintenance Organizations and Limited Health Plans; and
+
 (b)  may offer to a potential purchaser one or more health benefit plans that:
+
 (i)  are not subject to one or more of the following:
+
 (A)  the limitations on insured indemnity benefits in Subsection 31A-8-105(4);
-(B)  the limitation on point of service products in Subsections 31A-8-408(3)
-through (6);
-(C)  except as provided in Subsection (2)(b)(ii), basic health care services
-as defined in Section 31A-8-101; or
-(D)  coverage mandates enacted after January 1, 2009 that are not required by
-federal law, provided that the insurer offers one plan under Subsection (2)(a)
-that covers the mandate enacted after January 1, 2009; and
-(ii)  when offering a health plan under this section, provide coverage for an
-emergency medical condition as required by Section 31A-22-627 as follows:
-(A)  within the organization's service area, covered services shall include
-health care services from non-affiliated providers when medically necessary to
-stabilize an emergency medical condition; and
-(B)  outside the organization's service area, covered services shall include
-medically necessary health care services for the treatment of an emergency
-medical condition that are immediately required while the enrollee is outside
-the geographic limits of the organization's service area.
-(3)  An insurer that offers a health benefit plan that is not subject to
-Chapter 8, Health Maintenance Organizations and Limited Health Plans:
-(a)  notwithstanding Subsection 31A-22-617(2), may offer a health benefit plan
-that groups providers into the following reimbursement levels:
+
+(B)  the limitation on point of service products in Subsections 31A-8-408(3) through (6);
+
+(C)  except as provided in Subsection (2)(b)(ii), basic health care services as defined in Section 31A-8-101; or
+
+(D)  coverage mandates enacted after January 1, 2009 that are not required by federal law, provided that the insurer offers one plan under Subsection (2)(a) that covers the mandate enacted after January 1, 2009; and
+
+(ii)  when offering a health plan under this section, provide coverage for an emergency medical condition as required by Section 31A-22-627 as follows:
+
+(A)  within the organization's service area, covered services shall include health care services from non-affiliated providers when medically necessary to stabilize an emergency medical condition; and
+
+(B)  outside the organization's service area, covered services shall include medically necessary health care services for the treatment of an emergency medical condition that are immediately required while the enrollee is outside the geographic limits of the organization's service area.
+
+(3)  An insurer that offers a health benefit plan that is not subject to Chapter 8, Health Maintenance Organizations and Limited Health Plans:
+
+(a)  notwithstanding Subsection 31A-22-617(2), may offer a health benefit plan that groups providers into the following reimbursement levels:
+
 (i)  tier one contracted providers;
-(ii)  tier two contracted providers who the insurer must reimburse at least
-75% of tier one providers; and
+
+(ii)  tier two contracted providers who the insurer must reimburse at least 75% of tier one providers; and
+
 (iii)  one or more tiers of non-contracted providers; and
-(b)  notwithstanding Subsection 31A-22-617(9) may offer a health benefit plan
-that is not subject to Section 31A-22-618;
+
+(b)  notwithstanding Subsection 31A-22-617(9) may offer a health benefit plan that is not subject to Section 31A-22-618;
+
 (c)  beginning July 1, 2012, may offer products under Subsection (3)(a) that:
+
 (i)  are not subject to Subsection 31A-22-617(2); and
+
 (ii)  are subject to the reimbursement requirements in Section 31A-8-501;
-(d)  when offering a health plan under this Subsection (3), shall provide
-coverage of emergency care services as required by Section 31A-22-627 by
-providing coverage at a reimbursement level of at least 75% of tier one
-providers; and
-(e)  are not subject to coverage mandates enacted after January 1, 2009 that
-are not required by federal law, provided that an insurer offers one plan that
-covers a mandate enacted after January 1, 2009.
-(4)  Section 31A-8-106 does not prohibit the offer of a health benefit plan
-under Subsection (2)(b).
-(5) (a)  Any difference in price between a health benefit plan offered under
-Subsections (2)(a) and (b) shall be based on actuarially sound data.
-(b)  Any difference in price between a health benefit plan offered under
-Subsections (3)(a) and (b) shall be based on actuarially sound data.
-(6)  Nothing in this section limits the number of health benefit plans that an
-insurer may offer.
+
+(d)  when offering a health plan under this Subsection (3), shall provide coverage of emergency care services as required by Section 31A-22-627 by providing coverage at a reimbursement level of at least 75% of tier one providers; and
+
+(e)  are not subject to coverage mandates enacted after January 1, 2009 that are not required by federal law, provided that an insurer offers one plan that covers a mandate enacted after January 1, 2009.
+
+(4)  Section 31A-8-106 does not prohibit the offer of a health benefit plan under Subsection (2)(b).
+
+(5) (a)  Any difference in price between a health benefit plan offered under Subsections (2)(a) and (b) shall be based on actuarially sound data.
+
+(b)  Any difference in price between a health benefit plan offered under Subsections (3)(a) and (b) shall be based on actuarially sound data.
+
+(6)  Nothing in this section limits the number of health benefit plans that an insurer may offer.
+

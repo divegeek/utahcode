@@ -1,96 +1,100 @@
 16-16-113.   Effect of organic rules.
-(1)  The relations between a limited cooperative association and its members
-are consensual.  Unless required, limited, or prohibited by this chapter, the
-organic rules may provide for any matter concerning the relations among the
-members of the association and between the members and the association, the
-activities of the association, and the conduct of its activities.
-(2)  The matters referred to in Subsections (2)(a) through (i) may be varied
-only in the articles of organization.  The articles may:
-(a)  state a term of existence for the association under Subsection
-16-16-105(3);
-(b)  limit or eliminate the acceptance of new or additional members by the
-initial board of directors under Subsection 16-16-303(2);
-(c)  vary the limitations on the obligations and liability of members for
-association obligations under Section 16-16-504;
-(d)  require a notice of an annual members meeting to state a purpose of the
-meeting under Subsection 16-16-508(2);
+
+(1)  The relations between a limited cooperative association and its members are consensual.  Unless required, limited, or prohibited by this chapter, the organic rules may provide for any matter concerning the relations among the members of the association and between the members and the association, the activities of the association, and the conduct of its activities.
+
+(2)  The matters referred to in Subsections (2)(a) through (i) may be varied only in the articles of organization.  The articles may:
+
+(a)  state a term of existence for the association under Subsection 16-16-105(3);
+
+(b)  limit or eliminate the acceptance of new or additional members by the initial board of directors under Subsection 16-16-303(2);
+
+(c)  vary the limitations on the obligations and liability of members for association obligations under Section 16-16-504;
+
+(d)  require a notice of an annual members meeting to state a purpose of the meeting under Subsection 16-16-508(2);
+
 (e)  vary the board of directors meeting quorum under Subsection 16-16-815(1);
-(f)  vary the matters the board of directors may consider in making a decision
-under Section 16-16-820;
+
+(f)  vary the matters the board of directors may consider in making a decision under Section 16-16-820;
+
 (g)  specify causes of dissolution under Subsection 16-16-1202(1);
-(h)  delegate amendment of the bylaws to the board of directors pursuant to
-Subsection 16-16-405(6);
-(i)  provide for member approval of asset dispositions under Subsection
-16-16-1501; and
-(j)  provide for any matters that may be contained in the organic rules,
-including those under Subsection (3).
-(3)  The matters referred to in Subsections (3)(a) through (y) may be varied
-only in the organic rules.  The organic rules may:
-(a)  require more information to be maintained under Section 16-16-114 or
-provided to members under Subsection 16-16-505(11);
-(b)  provide restrictions on transactions between a member and an association
-under Section 16-16-115;
-(c)  provide for the percentage and manner of voting on amendments to the
-organic rules by district, class, or voting group under Subsection
-16-16-404(1);
-(d)  provide for the percentage vote required to amend the bylaws concerning
-the admission of new members under Subsection 16-16-405(5)(e);
-(e)  provide for terms and conditions to become a member under Section
-16-16-502;
-(f)  restrict the manner of conducting members meetings under Subsections
-16-16-506(3) and 16-16-507(5);
-(g)  designate the presiding officer of members meetings under Subsections
-16-16-506(5) and 16-16-507(7);
-(h)  require a statement of purposes in the annual meeting notice under
-Subsection 16-16-508(2);
-(i)  increase quorum requirements for members meetings under Section 16-16-510
-and board of directors meetings under Section 16-16-815;
-(j)  allocate voting power among members, including patron members and
-investor members, and provide for the manner of member voting and action as
-permitted by Sections 16-16-511 through 16-16-517;
-(k)  authorize investor members and expand or restrict the transferability of
-members' interests to the extent provided in Sections 16-16-602 through
-16-16-604;
-(l)  provide for enforcement of a marketing contract under Subsection
-16-16-704(1);
-(m)  provide for qualification, election, terms, removal, filling vacancies,
-and member approval for compensation of directors in accordance with Sections
-16-16-803 through 16-16-805, 16-16-807, 16-16-809, and 16-16-810;
-(n)  restrict the manner of conducting board meetings and taking action
-without a meeting under Sections 16-16-811 and 16-16-812;
-(o)  provide for frequency, location, notice and waivers of notice for board
-meetings under Sections 16-16-813 and 16-16-814;
-(p)  increase the percentage of votes necessary for board action under
-Subsection 16-16-816(2);
-(q)  provide for the creation of committees of the board of directors and
-matters related to the committees in accordance with Section 16-16-817;
-(r)  provide for officers and their appointment, designation, and authority
-under Section 16-16-822;
+
+(h)  delegate amendment of the bylaws to the board of directors pursuant to Subsection 16-16-405(6);
+
+(i)  provide for member approval of asset dispositions under Subsection 16-16-1501; and
+
+(j)  provide for any matters that may be contained in the organic rules, including those under Subsection (3).
+
+(3)  The matters referred to in Subsections (3)(a) through (y) may be varied only in the organic rules.  The organic rules may:
+
+(a)  require more information to be maintained under Section 16-16-114 or provided to members under Subsection 16-16-505(11);
+
+(b)  provide restrictions on transactions between a member and an association under Section 16-16-115;
+
+(c)  provide for the percentage and manner of voting on amendments to the organic rules by district, class, or voting group under Subsection 16-16-404(1);
+
+(d)  provide for the percentage vote required to amend the bylaws concerning the admission of new members under Subsection 16-16-405(5)(e);
+
+(e)  provide for terms and conditions to become a member under Section 16-16-502;
+
+(f)  restrict the manner of conducting members meetings under Subsections 16-16-506(3) and 16-16-507(5);
+
+(g)  designate the presiding officer of members meetings under Subsections 16-16-506(5) and 16-16-507(7);
+
+(h)  require a statement of purposes in the annual meeting notice under Subsection 16-16-508(2);
+
+(i)  increase quorum requirements for members meetings under Section 16-16-510 and board of directors meetings under Section 16-16-815;
+
+(j)  allocate voting power among members, including patron members and investor members, and provide for the manner of member voting and action as permitted by Sections 16-16-511 through 16-16-517;
+
+(k)  authorize investor members and expand or restrict the transferability of members' interests to the extent provided in Sections 16-16-602 through 16-16-604;
+
+(l)  provide for enforcement of a marketing contract under Subsection 16-16-704(1);
+
+(m)  provide for qualification, election, terms, removal, filling vacancies, and member approval for compensation of directors in accordance with Sections 16-16-803 through 16-16-805, 16-16-807, 16-16-809, and 16-16-810;
+
+(n)  restrict the manner of conducting board meetings and taking action without a meeting under Sections 16-16-811 and 16-16-812;
+
+(o)  provide for frequency, location, notice and waivers of notice for board meetings under Sections 16-16-813 and 16-16-814;
+
+(p)  increase the percentage of votes necessary for board action under Subsection 16-16-816(2);
+
+(q)  provide for the creation of committees of the board of directors and matters related to the committees in accordance with Section 16-16-817;
+
+(r)  provide for officers and their appointment, designation, and authority under Section 16-16-822;
+
 (s)  provide for forms and values of contributions under Section 16-16-1002;
-(t)  provide for remedies for failure to make a contribution under Subsection
-16-16-1003(2);
-(u)  provide for the allocation of profits and losses of the association,
-distributions, and the redemption or repurchase of distributed property other
-than money in accordance with Sections 16-16-1004 through 16-16-1007;
-(v)  specify when a member's dissociation is wrongful and the liability
-incurred by the dissociating member for damage to the association under
-Subsections 16-16-1101(2) and (3);
-(w)  provide the personal representative, or other legal representative of, a
-deceased member or a member adjudged incompetent with additional rights under
-Section 16-16-1103;
-(x)  increase the percentage of votes required for board of director approval
-of:
+
+(t)  provide for remedies for failure to make a contribution under Subsection 16-16-1003(2);
+
+(u)  provide for the allocation of profits and losses of the association, distributions, and the redemption or repurchase of distributed property other than money in accordance with Sections 16-16-1004 through 16-16-1007;
+
+(v)  specify when a member's dissociation is wrongful and the liability incurred by the dissociating member for damage to the association under Subsections 16-16-1101(2) and (3);
+
+(w)  provide the personal representative, or other legal representative of, a deceased member or a member adjudged incompetent with additional rights under Section 16-16-1103;
+
+(x)  increase the percentage of votes required for board of director approval of:
+
 (i)  a resolution to dissolve under Subsection 16-16-1205(1)(a);
-(ii)  a proposed amendment to the organic rules under Subsection
-16-16-402(1)(a);
+
+(ii)  a proposed amendment to the organic rules under Subsection 16-16-402(1)(a);
+
 (iii)  a plan of conversion under Subsection 16-16-1603(1);
+
 (iv)  a plan of merger under Subsection 16-16-1607(1); and
+
 (v)  a proposed disposition of assets under Subsection 16-16-1503(1); and
+
 (y)  vary the percentage of votes required for members' approval of:
+
 (i)  a resolution to dissolve under Section 16-16-1205;
+
 (ii)  an amendment to the organic rules under Section 16-16-405;
+
 (iii)  a plan of conversion under Section 16-16-1603;
+
 (iv)  a plan of merger under Section 16-16-1608; and
+
 (v)  a disposition of assets under Section 16-16-1504.
-(4)  The organic rules shall address members' contributions pursuant to
-Section 16-16-1001.
+
+(4)  The organic rules shall address members' contributions pursuant to Section 16-16-1001.
+

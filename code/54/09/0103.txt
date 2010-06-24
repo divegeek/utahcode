@@ -1,92 +1,70 @@
-54-9-103.   Public power entity authority regarding common facilities --
-Determination of needs -- Agreement requirements -- Ownership interest.
-(1) (a)  Notwithstanding Title 11, Chapter 13, Interlocal Cooperation Act, and
-Subsection 11-14-103(1)(b)(xi), and in addition to all other powers conferred
-on public power entities, a public power entity may:
-(i)  plan, finance, construct, acquire, operate, own, and maintain an
-undivided interest in common facilities;
-(ii)  participate in and enter into agreements with one or more public power
-entities or power utilities; and
-(iii)  enter into contracts and agreements as may be necessary or appropriate
-for the joint planning, financing, construction, operation, ownership, or
-maintenance of common facilities.
-(b) (i)  Before entering into an agreement providing for common facilities,
-the governing body of each public power entity shall determine the needs of
-the public power entity for electric power and energy based on engineering
-studies and reports.
-(ii)  In determining the future electric power and energy requirements of a
-public power entity, the governing body shall consider:
-(A)  the economies and efficiencies of scale to be achieved in constructing or
-acquiring common facilities for the generation and transmission of electric
-power and energy;
-(B)  the public power entity's need for reserve and peaking capacity, and to
-meet obligations under pooling and reserve sharing agreements reasonably
-related to the needs of the public power entity for power and energy;
+54-9-103.   Public power entity authority regarding common facilities -- Determination of needs -- Agreement requirements -- Ownership interest.
+
+(1) (a)  Notwithstanding Title 11, Chapter 13, Interlocal Cooperation Act, and Subsection 11-14-103(1)(b)(xi), and in addition to all other powers conferred on public power entities, a public power entity may:
+
+(i)  plan, finance, construct, acquire, operate, own, and maintain an undivided interest in common facilities;
+
+(ii)  participate in and enter into agreements with one or more public power entities or power utilities; and
+
+(iii)  enter into contracts and agreements as may be necessary or appropriate for the joint planning, financing, construction, operation, ownership, or maintenance of common facilities.
+
+(b) (i)  Before entering into an agreement providing for common facilities, the governing body of each public power entity shall determine the needs of the public power entity for electric power and energy based on engineering studies and reports.
+
+(ii)  In determining the future electric power and energy requirements of a public power entity, the governing body shall consider:
+
+(A)  the economies and efficiencies of scale to be achieved in constructing or acquiring common facilities for the generation and transmission of electric power and energy;
+
+(B)  the public power entity's need for reserve and peaking capacity, and to meet obligations under pooling and reserve sharing agreements reasonably related to the needs of the public power entity for power and energy;
+
 (C)  the estimated useful life of the common facilities;
-(D)  the estimated time necessary for the planning, financing, construction,
-and acquisition of the common facilities and the estimated timing of the need
-for an additional power supply; and
-(E)  the reliability and availability of existing or alternate power supply
-sources and the cost of those existing or alternate power supply sources.
+
+(D)  the estimated time necessary for the planning, financing, construction, and acquisition of the common facilities and the estimated timing of the need for an additional power supply; and
+
+(E)  the reliability and availability of existing or alternate power supply sources and the cost of those existing or alternate power supply sources.
+
 (2) (a)  Each agreement providing for common facilities shall:
-(i)  contain provisions not inconsistent with this chapter that the governing
-body of the public power entity determines to be in the interests of the
-public power entity, including:
+
+(i)  contain provisions not inconsistent with this chapter that the governing body of the public power entity determines to be in the interests of the public power entity, including:
+
 (A)  the purposes of the agreement;
+
 (B)  the duration of the agreement;
-(C)  the method of appointing or employing the personnel necessary in
-connection with the common facilities;
-(D)  the method of financing the common facilities, including the
-apportionment of costs of construction and operation;
-(E)  the ownership interests of the owners in the common facilities and other
-property used or useful in connection with the common facilities and the
-procedures for disposition of the common facilities and other property when
-the agreement expires or is terminated or when the common facilities are
-abandoned, decommissioned, or dismantled;
-(F)  any agreement of the parties prohibiting or restricting the alienation or
-partition of the undivided interests of an owner in the common facilities;
-(G)  the construction and repair of the common facilities, including, if the
-parties agree, a determination that a power utility or public power entity may
-construct or repair the common facilities as agent for all parties to the
-agreement;
-(H)  the administration, operation, and maintenance of the common facilities,
-including, if the parties agree, a determination that a power utility or
-public power entity may administer, operate, and maintain the common
-facilities as agent for all parties to the agreement;
-(I)  the creation of a committee of representatives of the parties to the
-agreement;
-(J)  if the parties agree, a provision that if any party defaults in the
-performance or discharge of its obligations with respect to the common
-facilities, the other parties may perform or assume, pro rata or otherwise,
-the obligations of the defaulting party and may, if the defaulting party fails
-to remedy the default, succeed to or require the disposition of the rights and
-interests of the defaulting party in the common facilities;
-(K)  provisions for indemnification of construction, operation, and
-administration agents, for completion of construction, for handling
-emergencies, and for allocation of output of the common facilities among the
-parties to the agreement according to the ownership interests of the parties;
+
+(C)  the method of appointing or employing the personnel necessary in connection with the common facilities;
+
+(D)  the method of financing the common facilities, including the apportionment of costs of construction and operation;
+
+(E)  the ownership interests of the owners in the common facilities and other property used or useful in connection with the common facilities and the procedures for disposition of the common facilities and other property when the agreement expires or is terminated or when the common facilities are abandoned, decommissioned, or dismantled;
+
+(F)  any agreement of the parties prohibiting or restricting the alienation or partition of the undivided interests of an owner in the common facilities;
+
+(G)  the construction and repair of the common facilities, including, if the parties agree, a determination that a power utility or public power entity may construct or repair the common facilities as agent for all parties to the agreement;
+
+(H)  the administration, operation, and maintenance of the common facilities, including, if the parties agree, a determination that a power utility or public power entity may administer, operate, and maintain the common facilities as agent for all parties to the agreement;
+
+(I)  the creation of a committee of representatives of the parties to the agreement;
+
+(J)  if the parties agree, a provision that if any party defaults in the performance or discharge of its obligations with respect to the common facilities, the other parties may perform or assume, pro rata or otherwise, the obligations of the defaulting party and may, if the defaulting party fails to remedy the default, succeed to or require the disposition of the rights and interests of the defaulting party in the common facilities;
+
+(K)  provisions for indemnification of construction, operation, and administration agents, for completion of construction, for handling emergencies, and for allocation of output of the common facilities among the parties to the agreement according to the ownership interests of the parties;
+
 (L)  methods for amending and terminating the agreement; and
-(M)  any other matter, not inconsistent with this chapter, determined by the
-parties to the agreement to be necessary and proper;
+
+(M)  any other matter, not inconsistent with this chapter, determined by the parties to the agreement to be necessary and proper;
+
 (ii)  clearly disclose the ownership interest of each party;
-(iii)  provide for an equitable method of allocating operation, repair, and
-maintenance costs of the common facilities; and
-(iv)  be approved or ratified by resolution of the governing body of the
-public power entity.
-(b)  A provision under Subsection (2)(a)(i)(F) in an agreement providing for
-common facilities under this Subsection (2) is not subject to any law
-restricting covenants against alienation or partition.
-(c)  Each committee created under Subsection (2)(a)(i)(I) in an agreement
-providing for common facilities under this Subsection (2) shall have the
-powers, not inconsistent with this chapter, regarding the construction and
-operation of the common facilities that the agreement provides.
-(d) (i)  The ownership interest of a public power entity in the common
-facilities may not be less than the proportion of the funds or the value of
-property supplied by it for the acquisition, construction, and operation of
-the common facilities.
-(ii)  Each public power entity shall own and control the same proportion of
-the electrical output from the common facilities as its ownership interest in
-them.
-(3)  Notwithstanding any other provision of this chapter, an interlocal entity
-may not act in a manner inconsistent with any provision of the agreement under
-which it was created.
+
+(iii)  provide for an equitable method of allocating operation, repair, and maintenance costs of the common facilities; and
+
+(iv)  be approved or ratified by resolution of the governing body of the public power entity.
+
+(b)  A provision under Subsection (2)(a)(i)(F) in an agreement providing for common facilities under this Subsection (2) is not subject to any law restricting covenants against alienation or partition.
+
+(c)  Each committee created under Subsection (2)(a)(i)(I) in an agreement providing for common facilities under this Subsection (2) shall have the powers, not inconsistent with this chapter, regarding the construction and operation of the common facilities that the agreement provides.
+
+(d) (i)  The ownership interest of a public power entity in the common facilities may not be less than the proportion of the funds or the value of property supplied by it for the acquisition, construction, and operation of the common facilities.
+
+(ii)  Each public power entity shall own and control the same proportion of the electrical output from the common facilities as its ownership interest in them.
+
+(3)  Notwithstanding any other provision of this chapter, an interlocal entity may not act in a manner inconsistent with any provision of the agreement under which it was created.
+

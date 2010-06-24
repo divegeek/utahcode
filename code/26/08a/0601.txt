@@ -1,58 +1,28 @@
 26-8a-601.   Persons and activities exempt from civil liability.
-(1) (a)  Except as provided in Subsection (1)(b), a licensed physician,
-physician's assistant, or licensed registered nurse who, gratuitously and in
-good faith, gives oral or written instructions to any of the following is not
-liable for any civil damages as a result of issuing the instructions:
+
+(1) (a)  Except as provided in Subsection (1)(b), a licensed physician, physician's assistant, or licensed registered nurse who, gratuitously and in good faith, gives oral or written instructions to any of the following is not liable for any civil damages as a result of issuing the instructions:
+
 (i)  an individual certified under Section 26-8a-302;
-(ii)  a person who uses a fully automated external defibrillator, as defined
-in Section 26-8b-102; or
+
+(ii)  a person who uses a fully automated external defibrillator, as defined in Section 26-8b-102; or
+
 (iii)  a person who administers CPR, as defined in Section 26-8b-102.
-(b)  The liability protection described in Subsection (1)(a) does not apply if
-the instructions given were the result of gross negligence or willful
-misconduct.
-(2)  An individual certified under Section 26-8a-302, during either training
-or after certification,  a licensed physician, physician's assistant, or a
-registered nurse who, gratuitously and in good faith, provides emergency
-medical instructions or renders emergency medical care authorized by this
-chapter is not liable for any civil damages as a result of any act or
-omission in providing the emergency medical instructions or medical care,
-unless the act or omission is the result of gross negligence or willful
-misconduct.
-(3)  An individual certified under Section 26-8a-302 is not subject to civil
-liability for failure to obtain consent in rendering emergency medical
-services authorized by this chapter to any individual who is unable to give
-his consent, regardless of the individual's age, where there is no other
-person present legally authorized to consent to emergency medical care,
-provided that the certified individual acted in good faith.
-(4)  A principal, agent, contractor, employee, or representative of an agency,
-organization, institution, corporation, or entity of state or local government
-that sponsors, authorizes, supports, finances, or supervises any functions of
-an individual certified under Section 26-8a-302 is not liable for any civil
-damages for any act or omission in connection with such sponsorship,
-authorization, support, finance, or supervision of the certified individual
-where the act or omission occurs in connection with the certified individual's
-training or occurs outside a hospital where the life of a patient is in
-immediate danger, unless the act or omission is inconsistent with the training
-of the certified individual, and unless the act or omission is the result of
-gross negligence or willful misconduct.
-(5)  A physician who gratuitously and in good faith arranges for, requests,
-recommends, or initiates the transfer of a patient from a hospital to a
-critical  care unit in another hospital is not liable for any civil damages as
-a result of such transfer where:
-(a)  sound medical judgment indicates that the patient's medical condition is
-beyond the care capability of the transferring hospital or the medical
-community in which that hospital is located; and
-(b)  the physician has secured an agreement from the receiving facility to
-accept and render necessary treatment to the patient.
-(6)  A person who is a registered member of the National Ski Patrol System
-(NSPS) or a member of a ski patrol who has completed a course in winter
-emergency care offered by the NSPS combined with CPR for medical technicians
-offered by the American Red Cross or American Heart Association, or an
-equivalent course of instruction, and who in good faith renders emergency care
-in the course of ski patrol duties is not liable for civil damages as a result
-of any act or omission in rendering the emergency care, unless the act or
-omission is the result of gross negligence or willful misconduct.
-(7)  An emergency medical service provider who, in good faith, transports an
-individual against his will but at the direction of a law enforcement officer
-pursuant to Section 62A-15-629 is not liable for civil damages for
-transporting the individual.
+
+(b)  The liability protection described in Subsection (1)(a) does not apply if the instructions given were the result of gross negligence or willful misconduct.
+
+(2)  An individual certified under Section 26-8a-302, during either training or after certification,  a licensed physician, physician's assistant, or a registered nurse who, gratuitously and in good faith, provides emergency medical instructions or renders emergency medical care authorized by this chapter is not liable for any civil damages as a result of any act or  omission in providing the emergency medical instructions or medical care, unless the act or omission is the result of gross negligence or willful misconduct.
+
+(3)  An individual certified under Section 26-8a-302 is not subject to civil liability for failure to obtain consent in rendering emergency medical services authorized by this chapter to any individual who is unable to give his consent, regardless of the individual's age, where there is no other person present legally authorized to consent to emergency medical care, provided that the certified individual acted in good faith.
+
+(4)  A principal, agent, contractor, employee, or representative of an agency, organization, institution, corporation, or entity of state or local government that sponsors, authorizes, supports, finances, or supervises any functions of an individual certified under Section 26-8a-302 is not liable for any civil damages for any act or omission in connection with such sponsorship, authorization, support, finance, or supervision of the certified individual where the act or omission occurs in connection with the certified individual's training or occurs outside a hospital where the life of a patient is in immediate danger, unless the act or omission is inconsistent with the training of the certified individual, and unless the act or omission is the result of gross negligence or willful misconduct.
+
+(5)  A physician who gratuitously and in good faith arranges for, requests, recommends, or initiates the transfer of a patient from a hospital to a critical  care unit in another hospital is not liable for any civil damages as a result of such transfer where:
+
+(a)  sound medical judgment indicates that the patient's medical condition is beyond the care capability of the transferring hospital or the medical community in which that hospital is located; and
+
+(b)  the physician has secured an agreement from the receiving facility to accept and render necessary treatment to the patient.
+
+(6)  A person who is a registered member of the National Ski Patrol System (NSPS) or a member of a ski patrol who has completed a course in winter emergency care offered by the NSPS combined with CPR for medical technicians offered by the American Red Cross or American Heart Association, or an equivalent course of instruction, and who in good faith renders emergency care in the course of ski patrol duties is not liable for civil damages as a result of any act or omission in rendering the emergency care, unless the act or omission is the result of gross negligence or willful misconduct.
+
+(7)  An emergency medical service provider who, in good faith, transports an individual against his will but at the direction of a law enforcement officer pursuant to Section 62A-15-629 is not liable for civil damages for transporting the individual.
+

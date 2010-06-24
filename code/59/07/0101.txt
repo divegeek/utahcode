@@ -1,235 +1,254 @@
 59-7-101 (Superseded 01/01/11).   Definitions.
+
 As used in this chapter:
-(1)  "Adjusted income" means unadjusted income as modified by Sections
-59-7-105 and 59-7-106.
-(2) (a)  "Affiliated group" means one or more chains of corporations that are
-connected through stock ownership with a common parent corporation that meet
-the following requirements:
-(i)  at least 80% of the stock of each of the corporations in the group,
-excluding the common parent corporation, is owned by one or more of the other
-corporations in the group; and
-(ii)  the common parent directly owns at least 80% of the stock of at least
-one of the corporations in the group.
-(b)  "Affiliated group" does not include corporations that are qualified to do
-business but are not otherwise doing business in this state.
-(c)  For purposes of this Subsection (2), "stock" does not include nonvoting
-stock which is limited and preferred as to dividends.
-(3)  "Apportionable income" means adjusted income less nonbusiness income net
-of related expenses, to the extent included in adjusted income.
-(4)  "Apportioned income" means apportionable income multiplied by the
-apportionment fraction as determined in Section 59-7-311.
+
+(1)  "Adjusted income" means unadjusted income as modified by Sections 59-7-105 and 59-7-106.
+
+(2) (a)  "Affiliated group" means one or more chains of corporations that are connected through stock ownership with a common parent corporation that meet the following requirements:
+
+(i)  at least 80% of the stock of each of the corporations in the group, excluding the common parent corporation, is owned by one or more of the other corporations in the group; and
+
+(ii)  the common parent directly owns at least 80% of the stock of at least one of the corporations in the group.
+
+(b)  "Affiliated group" does not include corporations that are qualified to do business but are not otherwise doing business in this state.
+
+(c)  For purposes of this Subsection (2), "stock" does not include nonvoting stock which is limited and preferred as to dividends.
+
+(3)  "Apportionable income" means adjusted income less nonbusiness income net of related expenses, to the extent included in adjusted income.
+
+(4)  "Apportioned income" means apportionable income multiplied by the apportionment fraction as determined in Section 59-7-311.
+
 (5)  "Business income" is as defined in Section 59-7-302.
-(6) (a)  "Captive real estate investment trust" means a real estate investment
-trust if:
-(i)  the shares or beneficial interests of the real estate investment trust
-are not regularly traded on an established securities market; and
-(ii)  more than 50% of the voting power or value of the shares or beneficial
-interests of the real estate investment trust are directly, indirectly, or
-constructively:
+
+(6) (a)  "Captive real estate investment trust" means a real estate investment trust if:
+
+(i)  the shares or beneficial interests of the real estate investment trust are not regularly traded on an established securities market; and
+
+(ii)  more than 50% of the voting power or value of the shares or beneficial interests of the real estate investment trust are directly, indirectly, or constructively:
+
 (A)  owned by a controlling entity of the real estate investment trust; or
+
 (B)  controlled by a controlling entity of the real estate investment trust.
-(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may make rules defining "established securities market."
-(7) (a)  "Common ownership" means the direct or indirect control or ownership
-of more than 50% of the outstanding voting stock of:
-(i)  a parent-subsidiary controlled group as defined in Section 1563, Internal
-Revenue Code, except that 50% shall be substituted for 80%;
-(ii)  a brother-sister controlled group as defined in Section 1563, Internal
-Revenue Code, except that 50% shall be substituted for 80%; or
-(iii)  three or more corporations each of which is a member of a group of
-corporations described in Subsection (2)(a)(i) or (2)(a)(ii), and one of which
-is:
-(A)  a common parent corporation included in a group of corporations described
-in Subsection (2)(a)(i); and
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining "established securities market."
+
+(7) (a)  "Common ownership" means the direct or indirect control or ownership of more than 50% of the outstanding voting stock of:
+
+(i)  a parent-subsidiary controlled group as defined in Section 1563, Internal Revenue Code, except that 50% shall be substituted for 80%;
+
+(ii)  a brother-sister controlled group as defined in Section 1563, Internal Revenue Code, except that 50% shall be substituted for 80%; or
+
+(iii)  three or more corporations each of which is a member of a group of corporations described in Subsection (2)(a)(i) or (2)(a)(ii), and one of which is:
+
+(A)  a common parent corporation included in a group of corporations described in Subsection (2)(a)(i); and
+
 (B)  included in a group of corporations described in Subsection (2)(a)(ii).
-(b)  Ownership of outstanding voting stock shall be determined by Section
-1563, Internal Revenue Code.
-(8) (a)  "Controlling entity of a captive real estate investment trust" means
-an entity that:
-(i)  is treated as an association taxable as a corporation under the Internal
-Revenue Code;
-(ii)  is not exempt from federal income taxation under Section 501(a),
-Internal Revenue Code; and
+
+(b)  Ownership of outstanding voting stock shall be determined by Section 1563, Internal Revenue Code.
+
+(8) (a)  "Controlling entity of a captive real estate investment trust" means an entity that:
+
+(i)  is treated as an association taxable as a corporation under the Internal Revenue Code;
+
+(ii)  is not exempt from federal income taxation under Section 501(a), Internal Revenue Code; and
+
 (iii)  directly, indirectly, or constructively holds more than 50% of:
+
 (A)  the voting power of a captive real estate investment trust; or
-(B)  the value of the shares or beneficial interests of a captive real estate
-investment trust.
-(b)  "Controlling entity of a captive real estate investment trust" does not
-include:
-(i)  a real estate investment trust, except for a captive real estate
-investment trust;
-(ii)  a qualified real estate investment subsidiary described in Section
-856(i), Internal Revenue Code, except for a qualified real estate investment
-trust subsidiary of a captive real estate investment trust; or
+
+(B)  the value of the shares or beneficial interests of a captive real estate investment trust.
+
+(b)  "Controlling entity of a captive real estate investment trust" does not include:
+
+(i)  a real estate investment trust, except for a captive real estate investment trust;
+
+(ii)  a qualified real estate investment subsidiary described in Section 856(i), Internal Revenue Code, except for a qualified real estate investment trust subsidiary of a captive real estate investment trust; or
+
 (iii)  a foreign real estate investment trust.
-(c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may make rules defining "established securities market."
+
+(c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining "established securities market."
+
 (9)  "Corporate return" or "return" includes a combined report.
+
 (10)  "Corporation" includes:
-(a)  entities defined as corporations under Sections 7701(a) and 7704,
-Internal Revenue Code; and
-(b)  other organizations that are taxed as corporations for federal income tax
-purposes under the Internal Revenue Code.
-(11)  "Dividend" means any distribution, including money or other type of
-property, made by a corporation to its shareholders out of its earnings or
-profits accumulated after December 31, 1930.
-(12) (a)  "Doing business" includes any transaction in the course of its
-business by a domestic corporation, or by a foreign corporation qualified to
-do or doing intrastate business in this state.
+
+(a)  entities defined as corporations under Sections 7701(a) and 7704, Internal Revenue Code; and
+
+(b)  other organizations that are taxed as corporations for federal income tax purposes under the Internal Revenue Code.
+
+(11)  "Dividend" means any distribution, including money or other type of property, made by a corporation to its shareholders out of its earnings or profits accumulated after December 31, 1930.
+
+(12) (a)  "Doing business" includes any transaction in the course of its business by a domestic corporation, or by a foreign corporation qualified to do or doing intrastate business in this state.
+
 (b)  Except as provided in Subsection 59-7-102(2), "doing business" includes:
+
 (i)  the right to do business through incorporation or qualification;
-(ii)  the owning, renting, or leasing of real or personal property within this
-state; and
-(iii)  the participation in joint ventures, working and operating agreements,
-the performance of which takes place in this state.
-(13)  "Domestic corporation" means a corporation that is incorporated or
-organized under the laws of this state.
-(14) (a)  "Farmers' cooperative" means an association, corporation, or other
-organization that is:
+
+(ii)  the owning, renting, or leasing of real or personal property within this state; and
+
+(iii)  the participation in joint ventures, working and operating agreements, the performance of which takes place in this state.
+
+(13)  "Domestic corporation" means a corporation that is incorporated or organized under the laws of this state.
+
+(14) (a)  "Farmers' cooperative" means an association, corporation, or other organization that is:
+
 (i) (A)  an association, corporation, or other organization of:
+
 (I)  farmers; or
+
 (II)  fruit growers; or
-(B)  an association, corporation, or other organization that is similar to an
-association, corporation, or organization described in Subsection
-(14)(a)(i)(A); and
+
+(B)  an association, corporation, or other organization that is similar to an association, corporation, or organization described in Subsection (14)(a)(i)(A); and
+
 (ii)  organized and operated on a cooperative basis to:
-(A) (I)  market the products of members of the cooperative or the products of
-other producers; and
-(II)  return to the members of the cooperative or other producers the proceeds
-of sales less necessary marketing expenses on the basis of the quantity of the
-products of a member or producer or the value of the products of a member or
-producer; or
-(B) (I)  purchase supplies and equipment for the use of members of the
-cooperative or other persons; and
-(II)  turn over the supplies and equipment described in Subsection
-(14)(a)(ii)(B)(I) at actual costs plus necessary expenses to the members of
-the cooperative or other persons.
-(b) (i)  Subject to Subsection (14)(b)(ii), for purposes of this Subsection
-(14), the commission by rule, made in accordance with Title 63G, Chapter 3,
-Utah Administrative Rulemaking Act, shall define:
+
+(A) (I)  market the products of members of the cooperative or the products of other producers; and
+
+(II)  return to the members of the cooperative or other producers the proceeds of sales less necessary marketing expenses on the basis of the quantity of the products of a member or producer or the value of the products of a member or producer; or
+
+(B) (I)  purchase supplies and equipment for the use of members of the cooperative or other persons; and
+
+(II)  turn over the supplies and equipment described in Subsection (14)(a)(ii)(B)(I) at actual costs plus necessary expenses to the members of the cooperative or other persons.
+
+(b) (i)  Subject to Subsection (14)(b)(ii), for purposes of this Subsection (14), the commission by rule, made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, shall define:
+
 (A)  the terms:
+
 (I)  "member"; and
+
 (II)  "producer"; and
-(B)  what constitutes an association, corporation, or other organization that
-is similar to an association, corporation, or organization described in
-Subsection (14)(a)(i)(A).
-(ii)  The rules made under this Subsection (14)(b) shall be consistent with
-the filing requirements under federal law for a farmers' cooperative.
-(15)  "Foreign corporation" means a corporation that is not incorporated or
-organized under the laws of this state.
+
+(B)  what constitutes an association, corporation, or other organization that is similar to an association, corporation, or organization described in Subsection (14)(a)(i)(A).
+
+(ii)  The rules made under this Subsection (14)(b) shall be consistent with the filing requirements under federal law for a farmers' cooperative.
+
+(15)  "Foreign corporation" means a corporation that is not incorporated or organized under the laws of this state.
+
 (16) (a)  "Foreign operating company" means a corporation that:
+
 (i)  is incorporated in the United States; and
-(ii)  80% or more of whose business activity, as determined under Section
-59-7-401, is conducted outside the United States.
-(b)  "Foreign operating company" does not include a corporation that qualifies
-for the Puerto Rico and Possession Tax Credit as provided in Section 936,
-Internal Revenue Code.
+
+(ii)  80% or more of whose business activity, as determined under Section 59-7-401, is conducted outside the United States.
+
+(b)  "Foreign operating company" does not include a corporation that qualifies for the Puerto Rico and Possession Tax Credit as provided in Section 936, Internal Revenue Code.
+
 (17) (a)  "Foreign real estate investment trust" means:
+
 (i)  a business entity organized outside the laws of the United States if:
-(A)  at least 75% of the business entity's total asset value at the close of
-the business entity's taxable year is represented by:
-(I)  real estate assets, as defined in Section 856(c)(5)(B), Internal Revenue
-Code;
+
+(A)  at least 75% of the business entity's total asset value at the close of the business entity's taxable year is represented by:
+
+(I)  real estate assets, as defined in Section 856(c)(5)(B), Internal Revenue Code;
+
 (II)  cash or cash equivalents; or
+
 (III)  one or more securities issued or guaranteed by the United States;
+
 (B)  the business entity is:
+
 (I)  not subject to income taxation:
+
 (Aa)  on amounts distributed to the business entity's beneficial owners; and
+
 (Bb)  in the jurisdiction in which the business entity is organized; or
-(II)  exempt from income taxation on an entity level in the jurisdiction in
-which the business entity is organized;
-(C)  the business entity distributes at least 85% of the business entity's
-taxable income, as computed in the jurisdiction in which the business entity
-is organized, to the holders of the business entity's:
+
+(II)  exempt from income taxation on an entity level in the jurisdiction in which the business entity is organized;
+
+(C)  the business entity distributes at least 85% of the business entity's taxable income, as computed in the jurisdiction in which the business entity is organized, to the holders of the business entity's:
+
 (I)  shares or beneficial interests; and
+
 (II)  on an annual basis;
-(D) (I)  not more than 10% of the following is held directly, indirectly, or
-constructively by a single person:
+
+(D) (I)  not more than 10% of the following is held directly, indirectly, or constructively by a single person:
+
 (Aa)  the voting power of the business entity; or
-(Bb)  the value of the shares or beneficial interests of the business entity;
-or
-(II)  the shares of the business entity are regularly traded on an established
-securities market; and
-(E)  the business entity is organized in a country that has a tax treaty with
-the United States; or
+
+(Bb)  the value of the shares or beneficial interests of the business entity; or
+
+(II)  the shares of the business entity are regularly traded on an established securities market; and
+
+(E)  the business entity is organized in a country that has a tax treaty with the United States; or
+
 (ii)  a listed Australian property trust.
-(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
-Act, the commission may make rules defining:
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining:
+
 (i)  "cash or cash equivalents";
+
 (ii)  "established securities market"; or
+
 (iii)  "listed Australian property trust."
+
 (18)  "Income" includes losses.
-(19)  "Internal Revenue Code" means Title 26 of the United States Code as
-effective during the year in which Utah taxable income is determined.
+
+(19)  "Internal Revenue Code" means Title 26 of the United States Code as effective during the year in which Utah taxable income is determined.
+
 (20)  "Nonbusiness income" is as defined in Section 59-7-302.
-(21)  "Real estate investment trust" is as defined in Section 856, Internal
-Revenue Code.
+
+(21)  "Real estate investment trust" is as defined in Section 856, Internal Revenue Code.
+
 (22)  "Related expenses" means:
+
 (a)  expenses directly attributable to nonbusiness income; and
-(b)  the portion of interest or other expense indirectly attributable to both
-nonbusiness and business income which bears the same ratio to the aggregate
-amount of such interest or other expense, determined without regard to this
-Subsection (22), as the average amount of the asset producing the nonbusiness
-income bears to the average amount of all assets of the taxpayer within the
-taxable year.
-(23)  "Safe harbor lease" means a lease that qualified as a safe harbor lease
-under Section 168, Internal Revenue Code.
-(24)  "S corporation" means an S corporation as defined in Section 1361,
-Internal Revenue Code.
-(25)  "State of the United States" includes any of the 50 states or the
-District of Columbia.
-(26) (a)  "Taxable year" means the calendar year or the fiscal year ending
-during such calendar year upon the basis of which the adjusted income is
-computed.
-(b)  In the case of a return made for a fractional part of a year under this
-chapter or under rules prescribed by the commission, "taxable year" includes
-the period for which such return is made.
-(27)  "Taxpayer" means any corporation subject to the tax imposed by this
-chapter.
-(28)  "Threshold level of business activity" means business activity in the
-United States equal to or greater than 20% of the corporation's total business
-activity as determined under Section 59-7-401.
-(29)  "Unadjusted income" means federal taxable income as determined on a
-separate return basis before intercompany eliminations as determined by the
-Internal Revenue Code, before the net operating loss deduction and special
-deductions for dividends received.
+
+(b)  the portion of interest or other expense indirectly attributable to both nonbusiness and business income which bears the same ratio to the aggregate amount of such interest or other expense, determined without regard to this Subsection (22), as the average amount of the asset producing the nonbusiness income bears to the average amount of all assets of the taxpayer within the taxable year.
+
+(23)  "Safe harbor lease" means a lease that qualified as a safe harbor lease under Section 168, Internal Revenue Code.
+
+(24)  "S corporation" means an S corporation as defined in Section 1361, Internal Revenue Code.
+
+(25)  "State of the United States" includes any of the 50 states or the District of Columbia.
+
+(26) (a)  "Taxable year" means the calendar year or the fiscal year ending during such calendar year upon the basis of which the adjusted income is computed.
+
+(b)  In the case of a return made for a fractional part of a year under this chapter or under rules prescribed by the commission, "taxable year" includes the period for which such return is made.
+
+(27)  "Taxpayer" means any corporation subject to the tax imposed by this chapter.
+
+(28)  "Threshold level of business activity" means business activity in the United States equal to or greater than 20% of the corporation's total business activity as determined under Section 59-7-401.
+
+(29)  "Unadjusted income" means federal taxable income as determined on a separate return basis before intercompany eliminations as determined by the Internal Revenue Code, before the net operating loss deduction and special deductions for dividends received.
+
 (30) (a)  "Unitary group" means a group of corporations that:
+
 (i)  are related through common ownership; and
-(ii)  by a preponderance of the evidence as determined by a court of competent
-jurisdiction or the commission, are economically interdependent with one
-another as demonstrated by the following factors:
+
+(ii)  by a preponderance of the evidence as determined by a court of competent jurisdiction or the commission, are economically interdependent with one another as demonstrated by the following factors:
+
 (A)  centralized management;
+
 (B)  functional integration; and
+
 (C)  economies of scale.
+
 (b)  "Unitary group" includes a captive real estate investment trust.
+
 (c)  "Unitary group" does not include an S corporation.
+
 (31)  "United States" includes the 50 states and the District of Columbia.
-(32)  "Utah net loss" means the current year Utah taxable income before Utah
-net loss deduction, if determined to be less than zero.
-(33)  "Utah net loss deduction" means the amount of Utah net losses from other
-taxable years that may be carried back or carried forward to the current
-taxable year in accordance with Section 59-7-110.
-(34) (a)  "Utah taxable income" means Utah taxable income before net loss
-deduction less Utah net loss deduction.
-(b)  "Utah taxable income" includes income from tangible or intangible
-property located or having situs in this state, regardless of whether carried
-on in intrastate, interstate, or foreign commerce.
-(35)  "Utah taxable income before net loss deduction" means apportioned income
-plus nonbusiness income allocable to Utah net of related expenses.
-(36) (a)  "Water's edge combined report" means a report combining the income
-and activities of:
+
+(32)  "Utah net loss" means the current year Utah taxable income before Utah net loss deduction, if determined to be less than zero.
+
+(33)  "Utah net loss deduction" means the amount of Utah net losses from other taxable years that may be carried back or carried forward to the current taxable year in accordance with Section 59-7-110.
+
+(34) (a)  "Utah taxable income" means Utah taxable income before net loss deduction less Utah net loss deduction.
+
+(b)  "Utah taxable income" includes income from tangible or intangible property located or having situs in this state, regardless of whether carried on in intrastate, interstate, or foreign commerce.
+
+(35)  "Utah taxable income before net loss deduction" means apportioned income plus nonbusiness income allocable to Utah net of related expenses.
+
+(36) (a)  "Water's edge combined report" means a report combining the income and activities of:
+
 (i)  all members of a unitary group that are:
-(A)  corporations organized or incorporated in the United States, including
-those corporations qualifying for the Puerto Rico and Possession Tax Credit as
-provided in Section 936, Internal Revenue Code, in accordance with Subsection
-(36)(b); and
-(B)  corporations organized or incorporated outside of the United States
-meeting the threshold level of business activity; and
-(ii)  an affiliated group electing to file a water's edge combined report
-under Subsection 59-7-402(2).
-(b)  There is a rebuttable presumption that a corporation which qualifies for
-the Puerto Rico and Possession Tax Credit provided in Section 936, Internal
-Revenue Code, is part of a unitary group.
-(37)  "Worldwide combined report" means the combination of the income and
-activities of all members of a unitary group irrespective of the country in
-which the corporations are incorporated or conduct business activity.
+
+(A)  corporations organized or incorporated in the United States, including those corporations qualifying for the Puerto Rico and Possession Tax Credit as provided in Section 936, Internal Revenue Code, in accordance with Subsection (36)(b); and
+
+(B)  corporations organized or incorporated outside of the United States meeting the threshold level of business activity; and
+
+(ii)  an affiliated group electing to file a water's edge combined report under Subsection 59-7-402(2).
+
+(b)  There is a rebuttable presumption that a corporation which qualifies for the Puerto Rico and Possession Tax Credit provided in Section 936, Internal Revenue Code, is part of a unitary group.
+
+(37)  "Worldwide combined report" means the combination of the income and activities of all members of a unitary group irrespective of the country in which the corporations are incorporated or conduct business activity.
+

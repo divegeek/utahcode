@@ -1,102 +1,82 @@
 24-1-15.   Transfer and sharing procedures.
-(1)  For purposes of this section, property is considered to be "seized"
-whenever any state, county, or municipal law enforcement agency takes
-possession of the property or exercises any degree of control over the
-property.
-(2)  When property is seized pursuant to the order of a state district court
-or state statute, the state has priority jurisdiction.
-(3)  Seizing agencies or prosecuting attorneys authorized to bring civil or
-criminal forfeiture proceedings under this chapter may not directly or
-indirectly transfer seized property not already named in a criminal indictment
-to any federal agency or any governmental entity not created under and subject
-to state law unless the court enters an order, upon petition of the
-prosecuting attorney, authorizing the property to be transferred.  The court
-may not enter an order authorizing a transfer unless:
-(a)  the conduct giving rise to the investigation or seizure is interstate in
-nature and sufficiently complex to justify the transfer;
+
+(1)  For purposes of this section, property is considered to be "seized" whenever any state, county, or municipal law enforcement agency takes possession of the property or exercises any degree of control over the property.
+
+(2)  When property is seized pursuant to the order of a state district court or state statute, the state has priority jurisdiction.
+
+(3)  Seizing agencies or prosecuting attorneys authorized to bring civil or criminal forfeiture proceedings under this chapter may not directly or indirectly transfer seized property not already named in a criminal indictment to any federal agency or any governmental entity not created under and subject to state law unless the court enters an order, upon petition of the prosecuting attorney, authorizing the property to be transferred.  The court may not enter an order authorizing a transfer unless:
+
+(a)  the conduct giving rise to the investigation or seizure is interstate in nature and sufficiently complex to justify the transfer;
+
 (b)  the seized property may only be forfeited under federal law; or
-(c)  pursuing forfeiture under state law would unreasonably burden prosecuting
-attorneys or state law enforcement agencies.
-(4)  A petition to transfer property under this section to a federal agency
-shall include:
+
+(c)  pursuing forfeiture under state law would unreasonably burden prosecuting attorneys or state law enforcement agencies.
+
+(4)  A petition to transfer property under this section to a federal agency shall include:
+
 (a)  a detailed description of the property seized;
+
 (b)  the location where the property was seized;
+
 (c)  the date the property was seized;
+
 (d)  case number assigned by the seizing law enforcement agency; and
+
 (e)  a sworn affidavit that:
+
 (i)  is signed by the prosecutor;
-(ii)  states the basis for relinquishing priority jurisdiction to a federal
-agency; and
+
+(ii)  states the basis for relinquishing priority jurisdiction to a federal agency; and
+
 (iii)  contains the names and addresses of any potential owners then known.
-(5)  Notwithstanding Subsection (3), the court may refuse to enter an order
-authorizing a transfer to the federal government if the transfer would
-circumvent the protections of the Utah Constitution or of this chapter that
-would otherwise be available to the property owner.
-(6) (a)  Prior to granting any order to transfer pursuant to Subsection (3),
-the court shall give any owner the right to be heard with regard to the
-transfer by sending notice to each address contained in the sworn affidavit.
-(b)  If no potential owner objects to the petition to transfer property within
-10 days of the mailing of the notice, the court shall issue its order under
-this section.
-(c)  If the affidavit provides no address for a potential owner, the court
-shall delay its order under this section for 20 days to allow time for the
-potential owner to appear and object.
-(7) (a)  If a potential owner contests a petition to transfer property to a
-federal agency, the court shall promptly set the matter for hearing.
-(b)  The court shall determine whether the state may relinquish priority
-jurisdiction by a preponderance of the evidence by considering hardship,
-complexity, judicial, and law enforcement resources, and any other matter the
-court determines to be relevant.
-(8) (a) Subject to Subsection (8)(b), all property, money, or other things of
-value received by an agency pursuant to federal law which authorizes the
-sharing or transfer of all or a portion of forfeited property or the proceeds
-of the sale of forfeited property to an agency:
-(i)  shall be used in compliance with federal rules and regulations relating
-to equitable sharing;
-(ii)  shall be used only for those law enforcement purposes specified in
-Subsection 24-1-19(8); and
-(iii)  may not be used for those law enforcement purposes prohibited in
-Subsection 24-1-19(9).
-(b)  If an agency receives forfeiture proceeds under Subsection (8)(a) that
-equal an amount that is more than 25% greater than the annual budget of the
-receiving agency, the amount of the proceeds that is in excess of 125% of the
-agency's annual budget shall be passed through by the agency to the Commission
-on Criminal and Juvenile Justice to be used for the purposes under Section
-24-1-19.
-(c)  Subject to Subsection (8)(a), state agencies are encouraged to seek an
-equitable share of property forfeited by the federal government and to
-cooperate with federal law enforcement agencies in all cases in which
-cooperation is in the interest of this state.
-(d)  A law enforcement agency awarded any equitable share of property
-forfeited by the federal government may only use the award money after
-approval or appropriation by the agency's legislative body.
-(e)  Law enforcement agencies are entitled to their equitable share of
-property forfeited by the federal government since March 29, 2001.
-(f) (i)  Each agency awarded any equitable share of property forfeited by the
-federal government shall file copies of all federal equitable sharing
-certifications, applications, and reports with the state auditor and the
-Commission on Criminal and Juvenile Justice at least annually.
-(ii)  This information shall provide details of all awards received from the
-federal government during the preceding reporting period, including for each
-award:
+
+(5)  Notwithstanding Subsection (3), the court may refuse to enter an order authorizing a transfer to the federal government if the transfer would circumvent the protections of the Utah Constitution or of this chapter that would otherwise be available to the property owner.
+
+(6) (a)  Prior to granting any order to transfer pursuant to Subsection (3), the court shall give any owner the right to be heard with regard to the transfer by sending notice to each address contained in the sworn affidavit.
+
+(b)  If no potential owner objects to the petition to transfer property within 10 days of the mailing of the notice, the court shall issue its order under this section.
+
+(c)  If the affidavit provides no address for a potential owner, the court shall delay its order under this section for 20 days to allow time for the potential owner to appear and object.
+
+(7) (a)  If a potential owner contests a petition to transfer property to a federal agency, the court shall promptly set the matter for hearing.
+
+(b)  The court shall determine whether the state may relinquish priority jurisdiction by a preponderance of the evidence by considering hardship, complexity, judicial, and law enforcement resources, and any other matter the court determines to be relevant.
+
+(8) (a) Subject to Subsection (8)(b), all property, money, or other things of value received by an agency pursuant to federal law which authorizes the sharing or transfer of all or a portion of forfeited property or the proceeds of the sale of forfeited property to an agency:
+
+(i)  shall be used in compliance with federal rules and regulations relating to equitable sharing;
+
+(ii)  shall be used only for those law enforcement purposes specified in Subsection 24-1-19(8); and
+
+(iii)  may not be used for those law enforcement purposes prohibited in Subsection 24-1-19(9).
+
+(b)  If an agency receives forfeiture proceeds under Subsection (8)(a) that equal an amount that is more than 25% greater than the annual budget of the receiving agency, the amount of the proceeds that is in excess of 125% of the agency's annual budget shall be passed through by the agency to the Commission on Criminal and Juvenile Justice to be used for the purposes under Section 24-1-19.
+
+(c)  Subject to Subsection (8)(a), state agencies are encouraged to seek an equitable share of property forfeited by the federal government and to cooperate with federal law enforcement agencies in all cases in which cooperation is in the interest of this state.
+
+(d)  A law enforcement agency awarded any equitable share of property forfeited by the federal government may only use the award money after approval or appropriation by the agency's legislative body.
+
+(e)  Law enforcement agencies are entitled to their equitable share of property forfeited by the federal government since March 29, 2001.
+
+(f) (i)  Each agency awarded any equitable share of property forfeited by the federal government shall file copies of all federal equitable sharing certifications, applications, and reports with the state auditor and the Commission on Criminal and Juvenile Justice at least annually.
+
+(ii)  This information shall provide details of all awards received from the federal government during the preceding reporting period, including for each award:
+
 (A)  the agency's case number or other identification;
+
 (B)  the amount of the award;
+
 (C)  the date of the award;
+
 (D)  the identity of the federal agency involved in the forfeiture;
+
 (E)  how the awarded property has been used; and
-(F)  a statement signed by both the agency's executive officer or designee and
-by the agency's legal counsel, that the agency has only used the awarded
-property for crime reduction or law enforcement purposes authorized under
-Section 24-1-19, and only upon approval or appropriation by the agency's
-legislative body.
-(9) (a)  Any agency that violates Subsection (3) or (8) is civilly liable to
-the state for three times the amount of the forfeiture diverted and for costs
-of suit and reasonable attorney fees.
-(b)  Any damages awarded to the state shall be paid to the Criminal Forfeiture
-Restricted Account created in Section 24-1-18.
-(c)  Any agent, including a state law enforcement officer, detached to,
-deputized or commissioned by, or working in conjunction with a federal agency,
-who knowingly transfers or otherwise trades seized property in violation of
-Subsection (3) or who receives property, money, or other things of value under
-Subsection (8)(a) and knowingly fails to transfer the property in accordance
-with this section is guilty of a class B misdemeanor.
+
+(F)  a statement signed by both the agency's executive officer or designee and by the agency's legal counsel, that the agency has only used the awarded property for crime reduction or law enforcement purposes authorized under Section 24-1-19, and only upon approval or appropriation by the agency's legislative body.
+
+(9) (a)  Any agency that violates Subsection (3) or (8) is civilly liable to the state for three times the amount of the forfeiture diverted and for costs of suit and reasonable attorney fees.
+
+(b)  Any damages awarded to the state shall be paid to the Criminal Forfeiture Restricted Account created in Section 24-1-18.
+
+(c)  Any agent, including a state law enforcement officer, detached to, deputized or commissioned by, or working in conjunction with a federal agency, who knowingly transfers or otherwise trades seized property in violation of Subsection (3) or who receives property, money, or other things of value under Subsection (8)(a) and knowingly fails to transfer the property in accordance with this section is guilty of a class B misdemeanor.
+

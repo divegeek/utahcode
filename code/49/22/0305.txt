@@ -1,64 +1,38 @@
-49-22-305.   Defined benefit service retirement plans -- Calculation of
-retirement allowance -- Social Security limitations.
-(1) (a)  The retirees of this system may choose from the six retirement
-options described in this section.
-(b)  Options Two, Three, Four, Five, and Six are modifications of the Option
-One calculation.
+49-22-305.   Defined benefit service retirement plans -- Calculation of retirement allowance -- Social Security limitations.
+
+(1) (a)  The retirees of this system may choose from the six retirement options described in this section.
+
+(b)  Options Two, Three, Four, Five, and Six are modifications of the Option One calculation.
+
 (2)  The Option One benefit is an annual allowance calculated as follows:
-(a)  If the retiree is at least 65 years of age or has accrued at least 35
-years of service credit, the allowance is an amount equal to 1.5% of the
-retiree's final average salary multiplied by the number of years of service
-credit accrued on and after July 1, 2011.
-(b)  If the retiree is less than 65 years of age, the allowance shall be
-reduced by the full actuarial amount for each year of retirement from age 60
-to age 65, unless the member has 35 or more years of accrued credit in which
-event no reduction is made to the allowance.
-(c) (i)  Years of service includes any fractions of years of service to which
-the retiree may be entitled.
-(ii)  At the time of retirement, if a retiree's combined years of actual, not
-purchased, service credit is within 1/10 of one year of the total years of
-service credit required for retirement, the retiree shall be considered to
-have the total years of service credit required for retirement.
-(d)  An Option One allowance is only payable to the member during the member's
-lifetime.
-(3)  The allowance payable under Options Two, Three, Four, Five, and Six is
-calculated by reducing an Option One benefit based on actuarial computations
-to provide the following:
-(a)  Option Two is a reduced allowance paid to and throughout the lifetime of
-the retiree, and, if the retiree receives less in annuity payments than the
-amount of the retiree's member contributions, the remaining balance of the
-retiree's member contributions shall be paid in accordance with Sections
-49-11-609 and 49-11-610.
-(b)  Option Three is a reduced allowance paid to and throughout the lifetime
-of the retiree, and, upon the death of the retiree, the same reduced allowance
-is paid to and throughout the lifetime of the retiree's lawful spouse at the
-time of retirement.
-(c)  Option Four is a reduced allowance paid to and throughout the lifetime of
-the retiree, and upon the death of the retiree, an amount equal to 1/2 of the
-retiree's allowance is paid to and throughout the lifetime of the retiree's
-lawful spouse at the time of retirement.
-(d)  Option Five is a modification of Option Three so that if the lawful
-spouse at the time of retirement predeceases the retiree, an allowance
-equivalent to the amount payable at the time of initial retirement under
-Option One shall be paid to the retiree for the remainder of the retiree's
-life, beginning on the last day of the month following the month in which the
-lawful spouse dies.
-(e)  Option Six is a modification of Option Four so that if the lawful spouse
-at the time of retirement predeceases the retiree, an allowance equivalent to
-the amount payable at the time of initial retirement under Option One shall be
-paid to the retiree for the remainder of the retiree's life, beginning on the
-last day of the month following the month in which the lawful spouse dies.
-(4)  Periods of employment which are exempt from this system under Subsection
-49-22-203(1)(b) may be purchased by the member for the purpose of retirement
-only if all benefits from the Teachers' Insurance and Annuity Association of
-America or any other public or private system or organization based on this
-period of employment are forfeited.
-(5) (a)  If a retiree under Option One dies within 120 days after the
-retiree's retirement date, the retirement is canceled and the death shall be
-considered as that of a member before retirement.
-(b)  Any payments made to the retiree shall be deducted from the amounts due
-to the beneficiary.
-(6)  If a retiree retires under either Option Five or Six and subsequently
-divorces, the retiree may elect to convert the benefit to an Option One
-benefit at the time of divorce, if there is no court order filed in the
-matter.
+
+(a)  If the retiree is at least 65 years of age or has accrued at least 35 years of service credit, the allowance is an amount equal to 1.5% of the retiree's final average salary multiplied by the number of years of service credit accrued on and after July 1, 2011.
+
+(b)  If the retiree is less than 65 years of age, the allowance shall be reduced by the full actuarial amount for each year of retirement from age 60 to age 65, unless the member has 35 or more years of accrued credit in which event no reduction is made to the allowance.
+
+(c) (i)  Years of service includes any fractions of years of service to which the retiree may be entitled.
+
+(ii)  At the time of retirement, if a retiree's combined years of actual, not purchased, service credit is within 1/10 of one year of the total years of service credit required for retirement, the retiree shall be considered to have the total years of service credit required for retirement.
+
+(d)  An Option One allowance is only payable to the member during the member's lifetime.
+
+(3)  The allowance payable under Options Two, Three, Four, Five, and Six is calculated by reducing an Option One benefit based on actuarial computations to provide the following:
+
+(a)  Option Two is a reduced allowance paid to and throughout the lifetime of the retiree, and, if the retiree receives less in annuity payments than the amount of the retiree's member contributions, the remaining balance of the retiree's member contributions shall be paid in accordance with Sections 49-11-609 and 49-11-610.
+
+(b)  Option Three is a reduced allowance paid to and throughout the lifetime of the retiree, and, upon the death of the retiree, the same reduced allowance is paid to and throughout the lifetime of the retiree's lawful spouse at the time of retirement.
+
+(c)  Option Four is a reduced allowance paid to and throughout the lifetime of the retiree, and upon the death of the retiree, an amount equal to 1/2 of the retiree's allowance is paid to and throughout the lifetime of the retiree's lawful spouse at the time of retirement.
+
+(d)  Option Five is a modification of Option Three so that if the lawful spouse at the time of retirement predeceases the retiree, an allowance equivalent to the amount payable at the time of initial retirement under Option One shall be paid to the retiree for the remainder of the retiree's life, beginning on the last day of the month following the month in which the lawful spouse dies.
+
+(e)  Option Six is a modification of Option Four so that if the lawful spouse at the time of retirement predeceases the retiree, an allowance equivalent to the amount payable at the time of initial retirement under Option One shall be paid to the retiree for the remainder of the retiree's life, beginning on the last day of the month following the month in which the lawful spouse dies.
+
+(4)  Periods of employment which are exempt from this system under Subsection 49-22-203(1)(b) may be purchased by the member for the purpose of retirement only if all benefits from the Teachers' Insurance and Annuity Association of America or any other public or private system or organization based on this period of employment are forfeited.
+
+(5) (a)  If a retiree under Option One dies within 120 days after the retiree's retirement date, the retirement is canceled and the death shall be considered as that of a member before retirement.
+
+(b)  Any payments made to the retiree shall be deducted from the amounts due to the beneficiary.
+
+(6)  If a retiree retires under either Option Five or Six and subsequently divorces, the retiree may elect to convert the benefit to an Option One benefit at the time of divorce, if there is no court order filed in the matter.
+

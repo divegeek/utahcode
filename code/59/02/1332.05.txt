@@ -1,84 +1,122 @@
-59-2-1332.5.   Mailing notice of delinquency or publication of delinquent
-list -- Contents -- Notice -- Definitions.
-(1)  The county treasurer shall provide notice of delinquency in the payment
-of property taxes:
-(a)  except as provided in Subsection (4), on or before December 31 of each
-calendar year; and
+59-2-1332.5.   Mailing notice of delinquency or publication of delinquent list -- Contents -- Notice -- Definitions.
+
+(1)  The county treasurer shall provide notice of delinquency in the payment of property taxes:
+
+(a)  except as provided in Subsection (4), on or before December 31 of each calendar year; and
+
 (b)  in a manner described in Subsection (2).
-(2)  A notice of delinquency in the payment of property taxes shall be
-provided by:
+
+(2)  A notice of delinquency in the payment of property taxes shall be provided by:
+
 (a) (i)  mailing a written notice, postage prepaid:
+
 (A)  to each delinquent taxpayer; and
+
 (B)  that includes the information required by Subsection (3)(a); and
-(ii)  making available to the public a list of delinquencies in the payment of
-property taxes:
+
+(ii)  making available to the public a list of delinquencies in the payment of property taxes:
+
 (A) (I)  by electronic means; and
+
 (II)  in accordance with Section 45-1-101; and
+
 (B)  that includes the information required by Subsection (3)(b); or
+
 (b)  publishing a list of delinquencies in the payment of property taxes:
+
 (i)  in one issue of a newspaper having general circulation in the county;
+
 (ii)  that lists each delinquency in alphabetical order by:
+
 (A)  the last name of the delinquent taxpayer; or
-(B)  if the delinquent taxpayer is a business entity, the name of the business
-entity; and
+
+(B)  if the delinquent taxpayer is a business entity, the name of the business entity; and
+
 (iii)  that includes the information required by Subsection (3)(b).
-(3) (a)  A written notice of delinquency in the payment of property taxes
-described in Subsection (2)(a)(i) shall include:
+
+(3) (a)  A written notice of delinquency in the payment of property taxes described in Subsection (2)(a)(i) shall include:
+
 (i)  a statement that delinquent taxes are due;
-(ii)  the amount of delinquent taxes due, not including any penalties imposed
-in accordance with this chapter;
+
+(ii)  the amount of delinquent taxes due, not including any penalties imposed in accordance with this chapter;
+
 (iii) (A)  the name of the delinquent taxpayer; or
-(B)  if the delinquent taxpayer is a business entity, the name of the business
-entity;
+
+(B)  if the delinquent taxpayer is a business entity, the name of the business entity;
+
 (iv) (A)  a description of the delinquent property; or
+
 (B)  the property identification number of the delinquent property;
-(v)  a statement that a penalty shall be imposed in accordance with this
-chapter; and
-(vi)  a statement that interest accrues as of January 1 following the date of
-the delinquency unless before January 16 the following are paid:
+
+(v)  a statement that a penalty shall be imposed in accordance with this chapter; and
+
+(vi)  a statement that interest accrues as of January 1 following the date of the delinquency unless before January 16 the following are paid:
+
 (A)  the delinquent taxes; and
+
 (B)  the penalty.
-(b)  The list of delinquencies described in Subsection (2)(a)(ii) or (2)(b)
-shall include:
-(i)  the amount of delinquent taxes due, not including any penalties imposed
-in accordance with this chapter;
+
+(b)  The list of delinquencies described in Subsection (2)(a)(ii) or (2)(b) shall include:
+
+(i)  the amount of delinquent taxes due, not including any penalties imposed in accordance with this chapter;
+
 (ii) (A)  the name of the delinquent taxpayer; or
-(B)  if the delinquent taxpayer is a business entity, the name of the business
-entity;
+
+(B)  if the delinquent taxpayer is a business entity, the name of the business entity;
+
 (iii) (A)  a description of the delinquent property; or
+
 (B)  the property identification number of the delinquent property;
-(iv)  a statement that a penalty shall be imposed in accordance with this
-chapter; and
-(v)  a statement that interest accrues as of January 1 following the date of
-the delinquency unless before January 16 the following are paid:
+
+(iv)  a statement that a penalty shall be imposed in accordance with this chapter; and
+
+(v)  a statement that interest accrues as of January 1 following the date of the delinquency unless before January 16 the following are paid:
+
 (A)  the delinquent taxes; and
+
 (B)  the penalty.
-(4)  Notwithstanding Subsection (1)(a), if the county legislative body extends
-the date when taxes become delinquent under Subsection 59-2-1332(1), the
-notice of delinquency in the payment of property taxes shall be provided on or
-before January 10.
-(5) (a)  In addition to the notice of delinquency in the payment of property
-taxes required by Subsection (1), a county treasurer may in accordance with
-this Subsection (5) mail a notice that property taxes are delinquent:
+
+(4)  Notwithstanding Subsection (1)(a), if the county legislative body extends the date when taxes become delinquent under Subsection 59-2-1332(1), the notice of delinquency in the payment of property taxes shall be provided on or before January 10.
+
+(5) (a)  In addition to the notice of delinquency in the payment of property taxes required by Subsection (1), a county treasurer may in accordance with this Subsection (5) mail a notice that property taxes are delinquent:
+
 (i)  to:
+
 (A)  a delinquent taxpayer;
+
 (B)  an owner of record of the delinquent property;
+
 (C)  any other interested party that requests notice; or
+
 (D)  a combination of Subsections (5)(a)(i)(A) through (C); and
+
 (ii)  at any time that the county treasurer considers appropriate.
+
 (b)  A notice mailed in accordance with this Subsection (5):
+
 (i)  shall include the information required by Subsection (3)(a); and
-(ii)  may include any information that the county treasurer finds is useful to
-the owner of record of the delinquent property in determining:
+
+(ii)  may include any information that the county treasurer finds is useful to the owner of record of the delinquent property in determining:
+
 (A)  the status of taxes owed on the delinquent property;
+
 (B)  any penalty that is owed on the delinquent property;
-(C)  any interest charged under Section 59-2-1331 on the delinquent property;
-or
+
+(C)  any interest charged under Section 59-2-1331 on the delinquent property; or
+
 (D)  any related matters concerning the delinquent property.
+
 (6)  As used in this section, "business entity" means:
+
 (a)  an association;
+
 (b)  a corporation;
+
 (c)  a limited liability company;
+
 (d)  a partnership;
+
 (e)  a trust; or
+
 (f)  a business entity similar to Subsections (6)(a) through (e).
+

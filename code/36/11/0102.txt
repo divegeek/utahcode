@@ -1,190 +1,220 @@
 36-11-102.   Definitions.
+
 As used in this chapter:
+
 (1)  "Aggregate daily expenditures" means:
-(a)  for a single lobbyist, principal, or government officer, the total of all
-expenditures made within a calendar day by the lobbyist, principal, or
-government officer for the benefit of an individual public official;
-(b)  for an expenditure made by a member of a lobbyist group, the total of all
-expenditures made within a calendar day by every member of the lobbyist group
-for the benefit of an individual public official; or
-(c)  for a multiclient lobbyist, the total of all expenditures made by the
-multiclient lobbyist within a calendar day for the benefit of an individual
-public official, regardless of whether the expenditures were attributed to
-different clients.
+
+(a)  for a single lobbyist, principal, or government officer, the total of all expenditures made within a calendar day by the lobbyist, principal, or government officer for the benefit of an individual public official;
+
+(b)  for an expenditure made by a member of a lobbyist group, the total of all expenditures made within a calendar day by every member of the lobbyist group for the benefit of an individual public official; or
+
+(c)  for a multiclient lobbyist, the total of all expenditures made by the multiclient lobbyist within a calendar day for the benefit of an individual public official, regardless of whether the expenditures were attributed to different clients.
+
 (2)  "Approved meeting or activity" means a meeting or activity:
+
 (a)  to which a legislator is invited; and
+
 (b)  attendance at which is approved by:
-(i)  the speaker of the House of Representatives, if the public official is a
-member of the House of Representatives; or
-(ii)  the president of the Senate, if the public official is a member of the
-Senate.
-(3) (a)  "Compensation" means anything of economic value, however designated,
-that is paid, loaned, granted, given, donated, or transferred to an individual
-for the provision of services or ownership before any withholding required by
-federal or state law.
+
+(i)  the speaker of the House of Representatives, if the public official is a member of the House of Representatives; or
+
+(ii)  the president of the Senate, if the public official is a member of the Senate.
+
+(3) (a)  "Compensation" means anything of economic value, however designated, that is paid, loaned, granted, given, donated, or transferred to an individual for the provision of services or ownership before any withholding required by federal or state law.
+
 (b)  "Compensation" includes:
+
 (i)  a salary or commission;
+
 (ii)  a bonus;
+
 (iii)  a benefit;
+
 (iv)  a contribution to a retirement program or account;
-(v)  a payment includable in gross income, as defined in Section 62, Internal
-Revenue Code, and subject to Social Security deductions, including a payment
-in excess of the maximum amount subject to deduction under Social Security
-law;
-(vi)  an amount that the individual authorizes to be deducted or reduced for
-salary deferral or other benefits authorized by federal law; or
+
+(v)  a payment includable in gross income, as defined in Section 62, Internal Revenue Code, and subject to Social Security deductions, including a payment in excess of the maximum amount subject to deduction under Social Security law;
+
+(vi)  an amount that the individual authorizes to be deducted or reduced for salary deferral or other benefits authorized by federal law; or
+
 (vii)  income based on an individual's ownership interest.
-(4)  "Compensation payor" means a person who pays compensation to a public
-official in the ordinary course of business:
-(a)  because of the public official's ownership interest in the compensation
-payor; or
-(b)  for services rendered by the public official on behalf of the
-compensation payor.
+
+(4)  "Compensation payor" means a person who pays compensation to a public official in the ordinary course of business:
+
+(a)  because of the public official's ownership interest in the compensation payor; or
+
+(b)  for services rendered by the public official on behalf of the compensation payor.
+
 (5)  "Executive action" means:
+
 (a)  a nomination or appointment by the governor;
-(b)  the proposal, drafting, amendment, enactment, or defeat by a state agency
-of a rule made in accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act;
+
+(b)  the proposal, drafting, amendment, enactment, or defeat by a state agency of a rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act;
+
 (c)  agency ratemaking proceedings; or
+
 (d)  an adjudicative proceeding of a state agency.
-(6) (a)  "Expenditure" means any of the items listed in this Subsection (6)(a)
-when given to or for the benefit of a public official unless consideration of
-equal or greater value is received:
+
+(6) (a)  "Expenditure" means any of the items listed in this Subsection (6)(a) when given to or for the benefit of a public official unless consideration of equal or greater value is received:
+
 (i)  a purchase, payment, or distribution;
+
 (ii)  a loan, gift, or advance;
+
 (iii)  a deposit, subscription, or forbearance;
+
 (iv)  services or goods;
+
 (v)  money;
+
 (vi)  real property;
-(vii)  a ticket or admission to a sporting, recreational, or artistic event;
-or
-(viii)  a contract, promise, or agreement, whether or not legally enforceable,
-to provide any item listed in Subsections (6)(a)(i) through (vii).
+
+(vii)  a ticket or admission to a sporting, recreational, or artistic event; or
+
+(viii)  a contract, promise, or agreement, whether or not legally enforceable, to provide any item listed in Subsections (6)(a)(i) through (vii).
+
 (b)  "Expenditure" does not mean:
+
 (i)  a commercially reasonable loan made in the ordinary course of business;
-(ii)  a campaign contribution reported in accordance with Title 20A, Chapter
-11, Campaign and Financial Reporting Requirements;
-(iii)  printed informational material that is related to the performance of
-the recipient's official duties;
+
+(ii)  a campaign contribution reported in accordance with Title 20A, Chapter 11, Campaign and Financial Reporting Requirements;
+
+(iii)  printed informational material that is related to the performance of the recipient's official duties;
+
 (iv)  a devise or inheritance;
+
 (v)  any item listed in Subsection (6)(a) if:
+
 (A)  given by a relative;
-(B)  given by a compensation payor for a purpose solely unrelated to the
-public official's position as a public official; or
+
+(B)  given by a compensation payor for a purpose solely unrelated to the public official's position as a public official; or
+
 (C) (I)  the item has a value of less than $10; and
+
 (II)  the aggregate daily expenditures do not exceed $10;
-(vi)  food or beverage that is provided at an event to which the following are
-invited:
+
+(vi)  food or beverage that is provided at an event to which the following are invited:
+
 (A)  all members of the Legislature;
+
 (B)  all members of a standing or interim committee;
+
 (C)  all members of an official legislative task force;
+
 (D)  all members of a party caucus; or
-(E)  all members of a group described in Subsections (6)(b)(vi)(A) through (D)
-who are attending a meeting of a national organization whose primary purpose
-is addressing general legislative policy;
-(vii)  food or beverage that is provided at an event to a public official who
-is:
+
+(E)  all members of a group described in Subsections (6)(b)(vi)(A) through (D) who are attending a meeting of a national organization whose primary purpose is addressing general legislative policy;
+
+(vii)  food or beverage that is provided at an event to a public official who is:
+
 (A)  giving a speech at the event;
+
 (B)  participating in a panel discussion at the event; or
+
 (C)  presenting or receiving an award at the event;
-(viii)  a plaque, commendation, or award presented in public and having a cash
-value not exceeding $50;
+
+(viii)  a plaque, commendation, or award presented in public and having a cash value not exceeding $50;
+
 (ix)  admission to or attendance at an event, the primary purpose of which is:
+
 (A)  to solicit contributions reportable under:
+
 (I)  Title 20A, Chapter 11, Campaign and Financial Reporting Requirements; or
+
 (II)  2 U.S.C. Sec. 434; or
+
 (B)  charitable solicitation, as defined in Section 13-22-2;
-(x)  travel to, lodging at, food or beverage served at, and admission to an
-approved meeting or activity; or
-(xi)  sponsorship of an official event or official entertainment of an
-approved meeting or activity.
+
+(x)  travel to, lodging at, food or beverage served at, and admission to an approved meeting or activity; or
+
+(xi)  sponsorship of an official event or official entertainment of an approved meeting or activity.
+
 (7) (a)  "Government officer" means:
-(i)  an individual elected to a position in state or local government, when
-acting within the government officer’s official capacity; or
-(ii)  an individual appointed to or employed in a full-time position by state
-or local government, when acting within the scope of the individual’s
-employment.
-(b)  "Government officer" does not mean a member of the legislative branch of
-state government.
+
+(i)  an individual elected to a position in state or local government, when acting within the government officer’s official capacity; or
+
+(ii)  an individual appointed to or employed in a full-time position by state or local government, when acting within the scope of the individual’s employment.
+
+(b)  "Government officer" does not mean a member of the legislative branch of state government.
+
 (8)  "Immediate family" means:
+
 (a)  a spouse;
+
 (b)  a child residing in the household; or
+
 (c)  an individual claimed as a dependent for tax purposes.
+
 (9)  "Legislative action" means:
-(a)  a bill, resolution, amendment, nomination, veto override, or other matter
-pending or proposed in either house of the Legislature or its committees or
-requested by a legislator; and
+
+(a)  a bill, resolution, amendment, nomination, veto override, or other matter pending or proposed in either house of the Legislature or its committees or requested by a legislator; and
+
 (b)  the action of the governor in approving or vetoing legislation.
-(10)  "Lobbying" means communicating with a public official for the purpose of
-influencing the passage, defeat, amendment, or postponement of legislative or
-executive action.
+
+(10)  "Lobbying" means communicating with a public official for the purpose of influencing the passage, defeat, amendment, or postponement of legislative or executive action.
+
 (11) (a)  "Lobbyist" means:
+
 (i)  an individual who is employed by a principal; or
-(ii)  an individual who contracts for economic consideration, other than
-reimbursement for reasonable travel expenses, with a principal to lobby a
-public official.
+
+(ii)  an individual who contracts for economic consideration, other than reimbursement for reasonable travel expenses, with a principal to lobby a public official.
+
 (b)  "Lobbyist" does not include:
+
 (i)  a government officer;
+
 (ii)  a member or employee of the legislative branch of state government;
-(iii)  a person while appearing at, or providing written comments to, a
-hearing conducted in accordance with Title 63G, Chapter 3, Utah Administrative
-Rulemaking Act or Title 63G, Chapter 4, Administrative Procedures Act;
-(iv)  a person participating on or appearing before an advisory or study task
-force, commission, board, or committee, constituted by the Legislature or any
-agency or department of state government, except legislative standing,
-appropriation, or interim committees;
+
+(iii)  a person while appearing at, or providing written comments to, a hearing conducted in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act or Title 63G, Chapter 4, Administrative Procedures Act;
+
+(iv)  a person participating on or appearing before an advisory or study task force, commission, board, or committee, constituted by the Legislature or any agency or department of state government, except legislative standing, appropriation, or interim committees;
+
 (v)  a representative of a political party;
-(vi)  an individual representing a bona fide church solely for the purpose of
-protecting the right to practice the religious doctrines of the church, unless
-the individual or church makes an expenditure that confers a benefit on a
-public official;
-(vii)  a newspaper, television station or network, radio station or network,
-periodical of general circulation, or book publisher for the purpose of
-publishing news items, editorials, other comments, or paid advertisements that
-directly or indirectly urge legislative or executive action; or
-(viii)  an individual who appears on the individual’s own behalf before a
-committee of the Legislature or an agency of the executive branch of state
-government solely for the purpose of testifying in support of or in opposition
-to legislative or executive action.
-(12)  "Lobbyist group" means two or more lobbyists, principals, government
-officers, or any combination of lobbyists, principals, and officers who each
-contribute a portion of an expenditure made to benefit a public official or
-member of the public official's immediate family.
-(13)  "Multiclient lobbyist" means a single lobbyist, principal, or government
-officer who represents two or more clients and divides the aggregate daily
-expenditure made to benefit a public official or member of the public
-official's immediate family between two or more of those clients.
-(14)  "Principal" means a person that employs an individual to perform
-lobbying, either as an employee or as an independent contractor.
+
+(vi)  an individual representing a bona fide church solely for the purpose of protecting the right to practice the religious doctrines of the church, unless the individual or church makes an expenditure that confers a benefit on a public official;
+
+(vii)  a newspaper, television station or network, radio station or network, periodical of general circulation, or book publisher for the purpose of publishing news items, editorials, other comments, or paid advertisements that directly or indirectly urge legislative or executive action; or
+
+(viii)  an individual who appears on the individual’s own behalf before a committee of the Legislature or an agency of the executive branch of state government solely for the purpose of testifying in support of or in opposition to legislative or executive action.
+
+(12)  "Lobbyist group" means two or more lobbyists, principals, government officers, or any combination of lobbyists, principals, and officers who each contribute a portion of an expenditure made to benefit a public official or member of the public official's immediate family.
+
+(13)  "Multiclient lobbyist" means a single lobbyist, principal, or government officer who represents two or more clients and divides the aggregate daily expenditure made to benefit a public official or member of the public official's immediate family between two or more of those clients.
+
+(14)  "Principal" means a person that employs an individual to perform lobbying, either as an employee or as an independent contractor.
+
 (15)  "Public official" means:
+
 (a) (i)  a member of the Legislature;
-(ii)  an individual elected to a position in the executive branch of state
-government; or
-(iii)  an individual appointed to or employed in a position in the executive
-or legislative branch of state government if that individual:
-(A)  occupies a policymaking position or makes purchasing or contracting
-decisions;
+
+(ii)  an individual elected to a position in the executive branch of state government; or
+
+(iii)  an individual appointed to or employed in a position in the executive or legislative branch of state government if that individual:
+
+(A)  occupies a policymaking position or makes purchasing or contracting decisions;
+
 (B)  drafts legislation or makes rules;
+
 (C)  determines rates or fees; or
+
 (D)  makes adjudicative decisions; or
+
 (b)  an immediate family member of a person described in Subsection (15)(a).
-(16)  "Public official type" means a notation to identify whether a public
-official is:
+
+(16)  "Public official type" means a notation to identify whether a public official is:
+
 (a) (i)  a member of the Legislature;
-(ii)  an individual elected to a position in the executive branch of state
-government;
-(iii)  an individual appointed to or employed in a position in the legislative
-branch of state government who meets the definition of public official under
-Subsection (15)(a)(iii); or
-(iv)  an individual appointed to or employed in a position in the executive
-branch of state government who meets the definition of public official under
-Subsection (15)(a)(iii); or
+
+(ii)  an individual elected to a position in the executive branch of state government;
+
+(iii)  an individual appointed to or employed in a position in the legislative branch of state government who meets the definition of public official under Subsection (15)(a)(iii); or
+
+(iv)  an individual appointed to or employed in a position in the executive branch of state government who meets the definition of public official under Subsection (15)(a)(iii); or
+
 (b)  an immediate family member of a person described in Subsection (15)(b).
-(17)  "Quarterly reporting period" means the three-month period covered by
-each financial report required under Subsection 36-11-201(2)(a).
-(18)  "Related person" means a person, agent, or employee who knowingly and
-intentionally assists a lobbyist, principal, or government officer in
-lobbying.
-(19) "Relative" means a spouse, child, parent, grandparent, grandchild,
-brother, sister, parent-in-law, brother-in-law, sister-in-law, nephew, niece,
-aunt, uncle, first cousin, or spouse of any of these individuals.
+
+(17)  "Quarterly reporting period" means the three-month period covered by each financial report required under Subsection 36-11-201(2)(a).
+
+(18)  "Related person" means a person, agent, or employee who knowingly and intentionally assists a lobbyist, principal, or government officer in lobbying.
+
+(19) "Relative" means a spouse, child, parent, grandparent, grandchild, brother, sister, parent-in-law, brother-in-law, sister-in-law, nephew, niece, aunt, uncle, first cousin, or spouse of any of these individuals.
+

@@ -1,93 +1,80 @@
 78B-12-102.   Definitions.
+
 As used in this chapter:
-(1)  "Adjusted gross income" means income calculated under Subsection
-78B-12-204(1).
-(2)  "Administrative agency" means the Office of Recovery Services or the
-Department of Human Services.
-(3)  "Administrative order" means an order that has been issued by the Office
-of Recovery Services, the Department of Human Services, or an administrative
-agency of another state or other comparable jurisdiction with similar
-authority to that of the office.
-(4)  "Base child support award" means the award that may be ordered and is
-calculated using the guidelines before additions for medical expenses and
-work-related child care costs.
-(5)  "Base combined child support obligation table," "child support table,"
-"base child support obligation table," "low income table," or "table" means
-the appropriate table in Part 3, Tables.
-(6)  "Cash medical support" means an obligation to equally share all
-reasonable and necessary medical and dental expenses of children.
+
+(1)  "Adjusted gross income" means income calculated under Subsection 78B-12-204(1).
+
+(2)  "Administrative agency" means the Office of Recovery Services or the Department of Human Services.
+
+(3)  "Administrative order" means an order that has been issued by the Office of Recovery Services, the Department of Human Services, or an administrative agency of another state or other comparable jurisdiction with similar authority to that of the office.
+
+(4)  "Base child support award" means the award that may be ordered and is calculated using the guidelines before additions for medical expenses and work-related child care costs.
+
+(5)  "Base combined child support obligation table," "child support table," "base child support obligation table," "low income table," or "table" means the appropriate table in Part 3, Tables.
+
+(6)  "Cash medical support" means an obligation to equally share all reasonable and necessary medical and dental expenses of children.
+
 (7)  "Child" means:
-(a)  a son or daughter under the age of 18 years who is not otherwise
-emancipated, self-supporting, married, or a member of the armed forces of the
-United States;
-(b)  a son or daughter over the age of 18 years, while enrolled in high school
-during the normal and expected year of graduation and not otherwise
-emancipated, self-supporting, married, or a member of the armed forces of the
-United States; or
-(c)  a son or daughter of any age who is incapacitated from earning a living
-and, if able to provide some financial resources to the family, is not able to
-support self by own means.
-(8)  "Child support" means a base child support award, or a monthly financial
-award for uninsured medical expenses, ordered by a tribunal for the support of
-a child, including current periodic payments, all arrearages which accrue
-under an order for current periodic payments, and sum certain judgments
-awarded for arrearages, medical expenses, and child care costs.
-(9)  "Child support order" or "support order" means a judgment, decree, or
-order of a tribunal whether interlocutory or final, whether or not
-prospectively or retroactively modifiable, whether incidental to a proceeding
-for divorce, judicial or legal separation, separate maintenance, paternity,
-guardianship, civil protection, or otherwise which:
+
+(a)  a son or daughter under the age of 18 years who is not otherwise emancipated, self-supporting, married, or a member of the armed forces of the United States;
+
+(b)  a son or daughter over the age of 18 years, while enrolled in high school during the normal and expected year of graduation and not otherwise emancipated, self-supporting, married, or a member of the armed forces of the United States; or
+
+(c)  a son or daughter of any age who is incapacitated from earning a living and, if able to provide some financial resources to the family, is not able to support self by own means.
+
+(8)  "Child support" means a base child support award, or a monthly financial award for uninsured medical expenses, ordered by a tribunal for the support of a child, including current periodic payments, all arrearages which accrue under an order for current periodic payments, and sum certain judgments awarded for arrearages, medical expenses, and child care costs.
+
+(9)  "Child support order" or "support order" means a judgment, decree, or order of a tribunal whether interlocutory or final, whether or not prospectively or retroactively modifiable, whether incidental to a proceeding for divorce, judicial or legal separation, separate maintenance, paternity, guardianship, civil protection, or otherwise which:
+
 (a)  establishes or modifies child support;
+
 (b)  reduces child support arrearages to judgment; or
-(c)  establishes child support or registers a child support order under
-Chapter 14, Uniform Interstate Family Support Act.
-(10)  "Child support services" or "IV-D child support services" means services
-provided pursuant to Part D of Title IV of the Social Security Act, 42 U.S.C.
-Section 651 et seq.
+
+(c)  establishes child support or registers a child support order under Chapter 14, Uniform Interstate Family Support Act.
+
+(10)  "Child support services" or "IV-D child support services" means services provided pursuant to Part D of Title IV of the Social Security Act, 42 U.S.C. Section 651 et seq.
+
 (11)  "Court" means the district court or juvenile court.
-(12)  "Guidelines" means the directions for the calculation and application of
-child support in Part 2, Calculation and Adjustment.
-(13)  "Income" means earnings, compensation, or other payment due to an
-individual, regardless of source, whether denominated as wages, salary,
-commission, bonus, pay, allowances, contract payment, or otherwise, including
-severance pay, sick pay, and incentive pay.  "Income" includes:
-(a)  all gain derived from capital assets, labor, or both, including profit
-gained through sale or conversion of capital assets;
+
+(12)  "Guidelines" means the directions for the calculation and application of child support in Part 2, Calculation and Adjustment.
+
+(13)  "Income" means earnings, compensation, or other payment due to an individual, regardless of source, whether denominated as wages, salary, commission, bonus, pay, allowances, contract payment, or otherwise, including severance pay, sick pay, and incentive pay.  "Income" includes:
+
+(a)  all gain derived from capital assets, labor, or both, including profit gained through sale or conversion of capital assets;
+
 (b)  interest and dividends;
-(c)  periodic payments made under pension or retirement programs or insurance
-policies of any type;
+
+(c)  periodic payments made under pension or retirement programs or insurance policies of any type;
+
 (d)  unemployment compensation benefits;
+
 (e)  workers' compensation benefits; and
+
 (f)  disability benefits.
-(14)  "Joint physical custody" means the child stays with each parent
-overnight for more than 30% of the year, and both parents contribute to the
-expenses of the child in addition to paying child support.
-(15)  "Medical expenses" means health and dental expenses and related
-insurance costs.
-(16)  "Obligee" means an individual, this state, another state, or another
-comparable jurisdiction to whom child support is owed or who is entitled to
-reimbursement of child support or public assistance.
+
+(14)  "Joint physical custody" means the child stays with each parent overnight for more than 30% of the year, and both parents contribute to the expenses of the child in addition to paying child support.
+
+(15)  "Medical expenses" means health and dental expenses and related insurance costs.
+
+(16)  "Obligee" means an individual, this state, another state, or another comparable jurisdiction to whom child support is owed or who is entitled to reimbursement of child support or public assistance.
+
 (17)  "Obligor" means any person owing a duty of support.
-(18)  "Office" means the Office of Recovery Services within the Department of
-Human Services.
+
+(18)  "Office" means the Office of Recovery Services within the Department of Human Services.
+
 (19)  "Parent" includes a natural parent, or an adoptive parent.
-(20)  "Split custody" means that each parent has physical custody of at least
-one of the children.
-(21)  "State" includes any state, territory, possession of the United States,
-the District of Columbia, the Commonwealth of Puerto Rico, Native American
-Tribe, or other comparable domestic or foreign jurisdiction.
-(22)  "Temporary" means a period of time that is projected to be less than 12
-months in duration.
-(23)  "Third party" means an agency or a person other than the biological or
-adoptive parent or a child who provides care, maintenance, and support to a
-child.
-(24)  "Tribunal" means the district court, the Department of Human Services,
-Office of Recovery Services, or court or administrative agency of any state,
-territory, possession of the United States, the District of Columbia, the
-Commonwealth of Puerto Rico, Native American Tribe, or other comparable
-domestic or foreign jurisdiction.
-(25)  "Work-related child care costs" means reasonable child care costs for up
-to a full-time work week or training schedule as necessitated by the
-employment or training of a parent under Section 78B-12-215.
-(26)  "Worksheets" means the forms used to aid in calculating the base child
-support award.
+
+(20)  "Split custody" means that each parent has physical custody of at least one of the children.
+
+(21)  "State" includes any state, territory, possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Native American Tribe, or other comparable domestic or foreign jurisdiction.
+
+(22)  "Temporary" means a period of time that is projected to be less than 12 months in duration.
+
+(23)  "Third party" means an agency or a person other than the biological or adoptive parent or a child who provides care, maintenance, and support to a child.
+
+(24)  "Tribunal" means the district court, the Department of Human Services, Office of Recovery Services, or court or administrative agency of any state, territory, possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Native American Tribe, or other comparable domestic or foreign jurisdiction.
+
+(25)  "Work-related child care costs" means reasonable child care costs for up to a full-time work week or training schedule as necessitated by the employment or training of a parent under Section 78B-12-215.
+
+(26)  "Worksheets" means the forms used to aid in calculating the base child support award.
+

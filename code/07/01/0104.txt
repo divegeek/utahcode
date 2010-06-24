@@ -1,27 +1,28 @@
 7-1-104.   Exemptions from application of title.
+
 (1)  This title does not apply to:
-(a)  investment companies registered under the Investment Company Act of 1940,
-15 U.S.C. Sec. 80a-1 et seq.;
+
+(a)  investment companies registered under the Investment Company Act of 1940, 15 U.S.C. Sec. 80a-1 et seq.;
+
 (b)  securities brokers and dealers registered pursuant to:
+
 (i)  Title 61, Chapter 1, Utah Uniform Securities Act; or
+
 (ii)  the federal Securities Exchange Act of 1934, 15 U.S.C. Sec. 78a et seq.;
-(c)  depository or other institutions performing transaction account services,
-including third party transactions, in connection with:
+
+(c)  depository or other institutions performing transaction account services, including third party transactions, in connection with:
+
 (i)  the purchase and redemption of investment company shares; or
-(ii)  access to a margin or cash securities account maintained by a person
-identified in Subsection (1)(b); or
-(d)  insurance companies selling interests in an investment company or
-"separate account" and subject to regulation by the Utah Insurance Department.
-(2) (a)  An institution, organization, or person is not exempt from this title
-if, within this state, it holds itself out to the public as receiving and
-holding deposits from residents of this state, whether evidenced by a
-certificate, promissory note, or otherwise.
-(b)  An investment company is not exempt from this title unless the investment
-company is registered with the United States Securities and Exchange
-Commission under the Investment Company Act of 1940, 15 U.S.C. Sec. 80a-1 et
-seq., and is advised by an investment adviser:
-(i)  which is registered with the United States Securities and Exchange
-Commission under the Investment Advisers Act of 1940, 15 U.S.C. Sec. 80b-1 et
-seq.; and
-(ii)  which advises investment companies and other accounts with a combined
-value of at least $50,000,000.
+
+(ii)  access to a margin or cash securities account maintained by a person identified in Subsection (1)(b); or
+
+(d)  insurance companies selling interests in an investment company or "separate account" and subject to regulation by the Utah Insurance Department.
+
+(2) (a)  An institution, organization, or person is not exempt from this title if, within this state, it holds itself out to the public as receiving and holding deposits from residents of this state, whether evidenced by a certificate, promissory note, or otherwise.
+
+(b)  An investment company is not exempt from this title unless the investment company is registered with the United States Securities and Exchange Commission under the Investment Company Act of 1940, 15 U.S.C. Sec. 80a-1 et seq., and is advised by an investment adviser: 
+
+(i)  which is registered with the United States Securities and Exchange Commission under the Investment Advisers Act of 1940, 15 U.S.C. Sec. 80b-1 et seq.; and
+
+(ii)  which advises investment companies and other accounts with a combined value of at least $50,000,000.
+

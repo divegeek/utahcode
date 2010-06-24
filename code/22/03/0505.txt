@@ -1,19 +1,18 @@
 22-3-505.   Income taxes.
-(1)  A tax required to be paid by a trustee based on receipts allocated to
-income must be paid from income.
-(2)  A tax required to be paid by a trustee based on receipts allocated to
-principal must be paid from principal, even if the tax is called an income tax
-by the taxing authority.
-(3)  A tax required to be paid by a trustee on the trust's share of an
-entity's taxable income must be paid:
-(a)  from income to the extent that receipts from the entity are allocated
-only to income;
-(b)  from principal to the extent that receipts from the entity are allocated
-only to principal;
-(c)  proportionately from principal and income to the extent that receipts
-from the entity are allocated to both income and principal; and
-(d)  from principal to the extent that the tax exceeds the total receipts from
-the entity.
-(4)  After applying Subsections (1) through (3), the trustee shall adjust
-income or principal receipts to the extent that the trust's taxes are reduced
-because the trust receives a deduction for payments made to a beneficiary.
+
+(1)  A tax required to be paid by a trustee based on receipts allocated to income must be paid from income.
+
+(2)  A tax required to be paid by a trustee based on receipts allocated to principal must be paid from principal, even if the tax is called an income tax by the taxing authority.
+
+(3)  A tax required to be paid by a trustee on the trust's share of an entity's taxable income must be paid:
+
+(a)  from income to the extent that receipts from the entity are allocated only to income;
+
+(b)  from principal to the extent that receipts from the entity are allocated only to principal; 
+
+(c)  proportionately from principal and income to the extent that receipts from the entity are allocated to both income and principal; and
+
+(d)  from principal to the extent that the tax exceeds the total receipts from the entity.
+
+(4)  After applying Subsections (1) through (3), the trustee shall adjust income or principal receipts to the extent that the trust's taxes are reduced because the trust receives a deduction for payments made to a beneficiary.
+

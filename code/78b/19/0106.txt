@@ -1,20 +1,10 @@
 78B-19-106.   Proceedings pending before tribunal -- Status report.
-(1)  Persons in a proceeding pending before a tribunal may sign a
-collaborative law participation agreement to seek to resolve a collaborative
-matter related to the proceeding.  Parties shall file promptly with the
-tribunal a notice of the agreement after it is signed.  Subject to Subsection
-(3) and Sections 78B-19-107 and 78B-19-108, the filing shall include a request
-for a stay of the proceeding.
-(2)  Parties shall file promptly with the tribunal notice in a record when a
-collaborative law process concludes and request the stay to be lifted.  The
-notice may not specify any reason for termination of the process.
-(3)  A tribunal in which a proceeding is stayed under Subsection (1) may
-require parties and collaborative lawyers to provide a status report on the
-collaborative law process and the proceeding.  A status report may include
-only information on whether the process is ongoing or concluded.  It may not
-include a report, assessment, evaluation, recommendation, finding, or other
-communication regarding a collaborative law process or collaborative law
-matter.
-(4)  A tribunal shall provide parties notice and an opportunity to be heard
-before dismissing a proceeding in which a notice of collaborative process is
-filed based on delay or failure to prosecute.
+
+(1)  Persons in a proceeding pending before a tribunal may sign a collaborative law participation agreement to seek to resolve a collaborative matter related to the proceeding.  Parties shall file promptly with the tribunal a notice of the agreement after it is signed.  Subject to Subsection (3) and Sections 78B-19-107 and 78B-19-108, the filing shall include a request for a stay of the proceeding.
+
+(2)  Parties shall file promptly with the tribunal notice in a record when a collaborative law process concludes and request the stay to be lifted.  The notice may not specify any reason for termination of the process.
+
+(3)  A tribunal in which a proceeding is stayed under Subsection (1) may require parties and collaborative lawyers to provide a status report on the collaborative law process and the proceeding.  A status report may include only information on whether the process is ongoing or concluded.  It may not include a report, assessment, evaluation, recommendation, finding, or other communication regarding a collaborative law process or collaborative law matter.
+
+(4)  A tribunal shall provide parties notice and an opportunity to be heard before dismissing a proceeding in which a notice of collaborative process is filed based on delay or failure to prosecute.
+

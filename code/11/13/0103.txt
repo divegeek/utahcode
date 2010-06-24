@@ -1,85 +1,90 @@
 11-13-103.   Definitions.
+
 As used in this chapter:
-(1)  "Additional project capacity" means electric generating capacity provided
-by a generating unit that first produces electricity on or after May 6, 2002
-and that is constructed or installed at or adjacent to the site of a project
-that first produced electricity before May 6, 2002, regardless of whether:
-(a)  the owners of the new generating unit are the same as or different from
-the owner of the project; and
-(b)  the purchasers of electricity from the new generating unit are the same
-as or different from the purchasers of electricity from the project.
-(2)  "Board" means the Permanent Community Impact Fund Board created by
-Section 9-4-304, and its successors.
+
+(1)  "Additional project capacity" means electric generating capacity provided by a generating unit that first produces electricity on or after May 6, 2002 and that is constructed or installed at or adjacent to the site of a project that first produced electricity before May 6, 2002, regardless of whether:
+
+(a)  the owners of the new generating unit are the same as or different from the owner of the project; and
+
+(b)  the purchasers of electricity from the new generating unit are the same as or different from the purchasers of electricity from the project.
+
+(2)  "Board" means the Permanent Community Impact Fund Board created by Section 9-4-304, and its successors.
+
 (3)  "Candidate" means one or more of:
+
 (a)  the state;
-(b)  a county, municipality, school district, local district, special service
-district, or other political subdivision of the state; and
+
+(b)  a county, municipality, school district, local district, special service district, or other political subdivision of the state; and
+
 (c)  a prosecution district.
-(4)  "Commercial project entity" means a project entity, defined in Subsection
-(12), that:
+
+(4)  "Commercial project entity" means a project entity, defined in Subsection (12), that:
+
 (a)  has no taxing authority; and
-(b)  is not supported in whole or in part by and does not expend or disburse
-tax revenues.
-(5)  "Direct impacts" means an increase in the need for public facilities or
-services that is attributable to the project or facilities providing
-additional project capacity, except impacts resulting from the construction or
-operation of a facility that is:
-(a)  owned by an owner other than the owner of the project or of the
-facilities providing additional project capacity; and
-(b)  used to furnish fuel, construction, or operation materials for use in the
-project.
-(6)  "Electric interlocal entity" means an interlocal entity described in
-Subsection 11-13-203(3).
-(7)  "Energy services interlocal entity" means an interlocal entity that is
-described in Subsection 11-13-203(4).
-(8) (a)  "Estimated electric requirements," when used with respect to a
-qualified energy services interlocal entity, includes any of the following
-that meets the requirements of Subsection (8)(b):
+
+(b)  is not supported in whole or in part by and does not expend or disburse tax revenues.
+
+(5)  "Direct impacts" means an increase in the need for public facilities or services that is attributable to the project or facilities providing additional project capacity, except impacts resulting from the construction or operation of a facility that is:
+
+(a)  owned by an owner other than the owner of the project or of the facilities providing additional project capacity; and
+
+(b)  used to furnish fuel, construction, or operation materials for use in the project.
+
+(6)  "Electric interlocal entity" means an interlocal entity described in Subsection 11-13-203(3).
+
+(7)  "Energy services interlocal entity" means an interlocal entity that is described in Subsection 11-13-203(4).
+
+(8) (a)  "Estimated electric requirements," when used with respect to a qualified energy services interlocal entity, includes any of the following that meets the requirements of Subsection (8)(b):
+
 (i)  generation capacity;
+
 (ii)  generation output; or
+
 (iii)  an electric energy production facility.
-(b)  An item listed in Subsection (8)(a) is included in "estimated electric
-requirements" if it is needed by the qualified energy services interlocal
-entity to perform the qualified energy services interlocal entity's
-contractual or legal obligations to any of its members.
+
+(b)  An item listed in Subsection (8)(a) is included in "estimated electric requirements" if it is needed by the qualified energy services interlocal entity to perform the qualified energy services interlocal entity's contractual or legal obligations to any of its members.
+
 (9)  "Interlocal entity" means:
-(a)  a Utah interlocal entity, an electric interlocal entity, or an energy
-services interlocal entity; or
-(b)  a separate legal or administrative entity created under Section
-11-13-205.
-(10)  "Out-of-state public agency" means a public agency as defined in
-Subsection (13)(c), (d), or (e).
+
+(a)  a Utah interlocal entity, an electric interlocal entity, or an energy services interlocal entity; or
+
+(b)  a separate legal or administrative entity created under Section 11-13-205.
+
+(10)  "Out-of-state public agency" means a public agency as defined in Subsection (13)(c), (d), or (e).
+
 (11) (a)  "Project":
-(i)  means an electric generation and transmission facility owned by a Utah
-interlocal entity or an electric interlocal entity; and
-(ii)  includes fuel or fuel transportation facilities and water facilities
-owned by that Utah interlocal entity or electric interlocal entity and
-required for the generation and transmission facility.
+
+(i)  means an electric generation and transmission facility owned by a Utah interlocal entity or an electric interlocal entity; and
+
+(ii)  includes fuel or fuel transportation facilities and water facilities owned by that Utah interlocal entity or electric interlocal entity and required for the generation and transmission facility.
+
 (b)  "Project" includes a project entity’s ownership interest in:
+
 (i)  facilities that provide additional project capacity; and
-(ii)  additional generating, transmission, fuel, fuel transportation, water,
-or other facilities added to a project.
-(12)  "Project entity" means a Utah interlocal entity or an electric
-interlocal entity that owns a project.
+
+(ii)  additional generating, transmission, fuel, fuel transportation, water, or other facilities added to a project.
+
+(12)  "Project entity" means a Utah interlocal entity or an electric interlocal entity that owns a project.
+
 (13)  "Public agency" means:
-(a)  a city, town, county, school district, local district, special service
-district, or other political subdivision of the state;
+
+(a)  a city, town, county, school district, local district, special service district, or other political subdivision of the state;
+
 (b)  the state or any department, division, or agency of the state;
+
 (c)  any agency of the United States;
-(d)  any political subdivision or agency of another state or the District of
-Columbia including any interlocal cooperation or joint powers agency formed
-under the authority of the law of the other state or the District of Columbia;
-and
-(e)  any Indian tribe, band, nation, or other organized group or community
-which is recognized as eligible for the special programs and services provided
-by the United States to Indians because of their status as Indians.
-(14)  "Qualified energy services interlocal entity" means an energy services
-interlocal entity that at the time that the energy services interlocal entity
-acquires its interest in facilities providing additional project capacity has
-at least five members that are Utah public agencies.
+
+(d)  any political subdivision or agency of another state or the District of Columbia including any interlocal cooperation or joint powers agency formed under the authority of the law of the other state or the District of Columbia; and
+
+(e)  any Indian tribe, band, nation, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+(14)  "Qualified energy services interlocal entity" means an energy services interlocal entity that at the time that the energy services interlocal entity acquires its interest in facilities providing additional project capacity has at least five members that are Utah public agencies.
+
 (15)  "Utah interlocal entity":
+
 (a)  means an interlocal entity described in Subsection 11-13-203(2); and
-(b)  includes a separate legal or administrative entity created under Laws of
-Utah 1977, Chapter 47, Section 3, as amended.
-(16)  "Utah public agency" means a public agency under Subsection (13)(a) or
-(b).
+
+(b)  includes a separate legal or administrative entity created under Laws of Utah 1977, Chapter 47, Section 3, as amended.
+
+(16)  "Utah public agency" means a public agency under Subsection (13)(a) or (b).
+

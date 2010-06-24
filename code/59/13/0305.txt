@@ -1,43 +1,34 @@
-59-13-305.   User report required -- Contents of report -- Signature --
-Penalties -- Exemptions from requirements -- Change of exemption status --
-Duty to notify commission.
-(1)  Unless exempted by Subsection (5), each user shall file with the
-commission, on or before the last day of the month following the end of a
-reporting period, a report on forms prescribed by the commission showing:
-(a)  the amount of fuel purchased and the amount of fuel used during the
-preceding reporting period by that user in the state; and
-(b)  any other information the commission may require to carry out the
-purposes of this part.
-(2)  The report shall be signed by the user or a responsible representative.
-This signature need not be notarized, but when signed is considered to have
-been made under oath.
-(3)  A penalty is imposed under Section 59-1-401 for failure to file reports
-as provided in this section for each report not filed, regardless of the
-imposition of other penalties under this part.
-(4) (a)  Each user that has a registered special fuel-powered motor vehicle
-other than a qualified motor vehicle and has facilities for bulk storage of
-special fuels shall declare special fuel tax liability for any nonqualified
-motor vehicle on the user report required by Subsection (1).
-(b)  Credit shall be given on the report for any special fuel taxes paid on
-purchases for any nonqualified vehicle.  Purchase records must be maintained
-to substantiate the amount of any credit claimed.
-(5) (a)  The following users are exempt from the filing requirements of
-Subsections (1) and (2) for the motor vehicles specified:
-(i)  a user who purchases a special fuel user trip permit for all of its
-operations for qualified vehicles for the reporting period, except a user
-having a special fuel user permit under Subsection 59-13-303(1)(a);
-(ii)  a user that has a registered special fuel-powered motor vehicle other
-than a qualified motor vehicle and does not have facilities for bulk storage
-of special fuels;
-(iii)  a user of special fuel, for which the tax imposed by this chapter has
-already been paid; or
-(iv)  a user that has a motor vehicle powered by special fuel for which the
-tax is paid under an interstate fuel tax agreement under Section 59-13-502.
-(b) (i)  The exemption under Subsection (5)(a)(iii) applies only when the user
-retains records verifying that all special fuel purchases for the exempt
-vehicle were taxed as required under this part.
-(ii)  The commission may at the time of application or renewal of a special
-fuel user permit under Section 59-13-303 require that the user certify:
-(A)  that the user qualifies for an exemption under Subsection (5)(a)(iii);
-and
+59-13-305.   User report required -- Contents of report -- Signature -- Penalties -- Exemptions from requirements -- Change of exemption status -- Duty to notify commission.
+
+(1)  Unless exempted by Subsection (5), each user shall file with the commission, on or before the last day of the month following the end of a reporting period, a report on forms prescribed by the commission showing:
+
+(a)  the amount of fuel purchased and the amount of fuel used during the preceding reporting period by that user in the state; and
+
+(b)  any other information the commission may require to carry out the purposes of this part.
+
+(2)  The report shall be signed by the user or a responsible representative.  This signature need not be notarized, but when signed is considered to have been made under oath.
+
+(3)  A penalty is imposed under Section 59-1-401 for failure to file reports as provided in this section for each report not filed, regardless of the imposition of other penalties under this part.
+
+(4) (a)  Each user that has a registered special fuel-powered motor vehicle other than a qualified motor vehicle and has facilities for bulk storage of special fuels shall declare special fuel tax liability for any nonqualified motor vehicle on the user report required by Subsection (1).
+
+(b)  Credit shall be given on the report for any special fuel taxes paid on purchases for any nonqualified vehicle.  Purchase records must be maintained to substantiate the amount of any credit claimed.
+
+(5) (a)  The following users are exempt from the filing requirements of Subsections (1) and (2) for the motor vehicles specified:
+
+(i)  a user who purchases a special fuel user trip permit for all of its operations for qualified vehicles for the reporting period, except a user having a special fuel user permit under Subsection 59-13-303(1)(a);
+
+(ii)  a user that has a registered special fuel-powered motor vehicle other than a qualified motor vehicle and does not have facilities for bulk storage of special fuels;
+
+(iii)  a user of special fuel, for which the tax imposed by this chapter has already been paid; or
+
+(iv)  a user that has a motor vehicle powered by special fuel for which the tax is paid under an interstate fuel tax agreement under Section 59-13-502.
+
+(b) (i)  The exemption under Subsection (5)(a)(iii) applies only when the user retains records verifying that all special fuel purchases for the exempt vehicle were taxed as required under this part.
+
+(ii)  The commission may at the time of application or renewal of a special fuel user permit under Section 59-13-303 require that the user certify:
+
+(A)  that the user qualifies for an exemption under Subsection (5)(a)(iii); and
+
 (B)  whether the user has facilities for bulk storage of special fuel.
+

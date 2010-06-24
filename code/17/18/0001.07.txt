@@ -1,81 +1,76 @@
 17-18-1.7.   Powers -- Duties of district attorney -- Prohibitions.
+
 (1)  The district attorney is a public prosecutor and shall:
-(a)  prosecute in the name of the state all violations of criminal statutes of
-the state;
+
+(a)  prosecute in the name of the state all violations of criminal statutes of the state;
+
 (b)  be a full-time county officer;
-(c)  conduct on behalf of the state all prosecutions for public offenses
-committed within the county, except for prosecutions undertaken by the city
-attorney under Section 10-3-928 and appeals from them; and
-(d)  institute proceedings before the proper magistrate for the arrest of
-persons charged with or reasonably suspected of any violation of state law
-when in possession of information that the offense has been committed, and for
-that purpose shall attend court in person or by deputy in cases of arrests
-when required.
+
+(c)  conduct on behalf of the state all prosecutions for public offenses committed within the county, except for prosecutions undertaken by the city attorney under Section 10-3-928 and appeals from them; and
+
+(d)  institute proceedings before the proper magistrate for the arrest of persons charged with or reasonably suspected of any violation of state law when in possession of information that the offense has been committed, and for that purpose shall attend court in person or by deputy in cases of arrests when required.
+
 (2)  The district attorney shall:
-(a)  appear and prosecute for the state in the district court all criminal
-actions for violation of state law;
+
+(a)  appear and prosecute for the state in the district court all criminal actions for violation of state law;
+
 (b)  render assistance and cooperation as required by the attorney general in:
-(i)  all criminal matters or matters enumerated in Subsections (5) and (8)
-that may be appealed to the Court of Appeals or the Supreme Court and shall
-prosecute the appeal from any crime charged by the district attorney as a
-misdemeanor in the district court; and
-(ii)  investigations involving the Office of the Attorney General, including
-those described in Subsection 67-5-18(3)(f).
+
+(i)  all criminal matters or matters enumerated in Subsections (5) and (8) that may be appealed to the Court of Appeals or the Supreme Court and shall prosecute the appeal from any crime charged by the district attorney as a misdemeanor in the district court; and
+
+(ii)  investigations involving the Office of the Attorney General, including those described in Subsection 67-5-18(3)(f).
+
 (3)  The district attorney shall:
+
 (a)  attend the deliberations of the grand jury;
-(b)  draw all indictments and informations for offenses against the laws of
-this state within the county;
+
+(b)  draw all indictments and informations for offenses against the laws of this state within the county;
+
 (c)  cause all persons indicted or informed against to be speedily arraigned;
-(d)  cause all witnesses for the state to be subpoenaed to appear before the
-court or grand jury;
-(e)  examine carefully into the sufficiency of all appearance bonds that may
-be tendered to the district court of the county; and
+
+(d)  cause all witnesses for the state to be subpoenaed to appear before the court or grand jury;
+
+(e)  examine carefully into the sufficiency of all appearance bonds that may be tendered to the district court of the county; and
+
 (f)  perform other duties as required by law.
+
 (4)  The district attorney shall:
-(a)  each year on the first business day of August file a report with the
-attorney general covering the preceding fiscal year, stating the number of
-criminal prosecutions in his office, the character of the offenses charged,
-the number of convictions, the amount of fines and penalties imposed, and the
-amount collected; and
-(b)  call attention to any defect in the operation of the laws and suggest
-amendments to correct the defect.
+
+(a)  each year on the first business day of August file a report with the attorney general covering the preceding fiscal year, stating the number of criminal prosecutions in his office, the character of the offenses charged, the number of convictions, the amount of fines and penalties imposed, and the amount collected; and
+
+(b)  call attention to any defect in the operation of the laws and suggest amendments to correct the defect.
+
 (5)  The district attorney shall:
-(a)  appear and prosecute for the state in the juvenile court of the
-prosecution district in any proceeding involving delinquency;
-(b)  represent the state in any proceeding pending before the juvenile court
-if any rights to the custody of any juvenile are asserted by any third person;
-and
-(c)  prosecute before the court any person charged with abuse, neglect, or
-contributing to the delinquency or dependency of a juvenile.
+
+(a)  appear and prosecute for the state in the juvenile court of the prosecution district in any proceeding involving delinquency;
+
+(b)  represent the state in any proceeding pending before the juvenile court if any rights to the custody of any juvenile are asserted by any third person; and
+
+(c)  prosecute before the court any person charged with abuse, neglect, or contributing to the delinquency or dependency of a juvenile.
+
 (6)  A district attorney may not:
+
 (a)  engage in private practice of law;
-(b)  engage in any occupation that may conflict with his duties as a district
-attorney;
-(c)  in any manner consult, advise, counsel, or defend within this state any
-person charged with any crime, misdemeanor, or breach of any penal statute or
-ordinance;
-(d)  be qualified to prosecute or dismiss in the name of the state any case in
-which the district attorney has previously acted as counsel for the accused on
-the pending charge; or
-(e)  in any case compromise any cause or enter a nolle prosequi after the
-filing of an indictment or information without the consent of the court.
-(7)  If at any time after investigation by the district judge involved, the
-judge finds and recommends that the district attorney in any prosecution
-district is unable to satisfactorily and adequately perform the duties in
-prosecuting a criminal case without additional legal assistance, the attorney
-general shall provide the additional assistance.
-(8)  The district attorney may act as counsel to any state or local government
-agency or entity regarding only the following matters of civil law:
+
+(b)  engage in any occupation that may conflict with his duties as a district attorney;
+
+(c)  in any manner consult, advise, counsel, or defend within this state any person charged with any crime, misdemeanor, or breach of any penal statute or ordinance;
+
+(d)  be qualified to prosecute or dismiss in the name of the state any case in which the district attorney has previously acted as counsel for the accused on the pending charge; or
+
+(e)  in any case compromise any cause or enter a nolle prosequi after the filing of an indictment or information without the consent of the court.
+
+(7)  If at any time after investigation by the district judge involved, the judge finds and recommends that the district attorney in any prosecution district is unable to satisfactorily and adequately perform the duties in prosecuting a criminal case without additional legal assistance, the attorney general shall provide the additional assistance.
+
+(8)  The district attorney may act as counsel to any state or local government agency or entity regarding only the following matters of civil law:
+
 (a)  bail bond forfeiture actions;
-(b)  actions for the forfeiture of property or contraband because of misuse of
-the property or possession of the contraband in violation of criminal statutes
-of the state;
-(c)  civil actions incidental to or appropriate to supplement the district
-attorney's duties as state prosecuting attorney including injunction, habeas
-corpus, declaratory actions, and extraordinary writ actions, in which the
-interests of the state in any criminal prosecution or investigation may be
-affected; and
+
+(b)  actions for the forfeiture of property or contraband because of misuse of the property or possession of the contraband in violation of criminal statutes of the state;
+
+(c)  civil actions incidental to or appropriate to supplement the district attorney's duties as state prosecuting attorney including injunction, habeas corpus, declaratory actions, and extraordinary writ actions, in which the interests of the state in any criminal prosecution or investigation may be affected; and
+
 (d)  any civil duties otherwise provided by statute.
-(9)  The district attorney or his deputy may be sworn as a deputy county
-attorney for the purpose of public convenience for a period of time and
-subject to limitations specified by the county attorney.
+
+(9)  The district attorney or his deputy may be sworn as a deputy county attorney for the purpose of public convenience for a period of time and subject to limitations specified by the county attorney.
+

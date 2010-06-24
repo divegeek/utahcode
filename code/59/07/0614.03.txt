@@ -1,56 +1,70 @@
 59-7-614.3.   Nonrefundable tax credit for qualifying solar projects.
+
 (1)  As used in this section:
+
 (a)  "Active solar system" is as defined in Section 59-7-614.
-(b)  "Purchaser" means a taxpayer that purchases one or more solar units from
-a qualifying political subdivision.
+
+(b)  "Purchaser" means a taxpayer that purchases one or more solar units from a qualifying political subdivision.
+
 (c)  "Qualifying political subdivision" means:
+
 (i)  a city or town in this state;
-(ii)  an interlocal entity created under Title 11, Chapter 13, Interlocal
-Cooperation Act; or
-(iii)  a special service district created under Title 17D, Chapter 1, Special
-Service District Act.
+
+(ii)  an interlocal entity created under Title 11, Chapter 13, Interlocal Cooperation Act; or
+
+(iii)  a special service district created under Title 17D, Chapter 1, Special Service District Act.
+
 (d)  "Qualifying solar project" means the portion of an active solar system:
+
 (i)  that a qualifying political subdivision:
+
 (A)  constructs;
+
 (B)  controls; or
+
 (C)  owns;
-(ii)  with respect to which the qualifying political subdivision described in
-Subsection (1)(c)(i) sells one or more solar units; and
+
+(ii)  with respect to which the qualifying political subdivision described in Subsection (1)(c)(i) sells one or more solar units; and
+
 (iii)  that generates electrical output that is furnished:
+
 (A)  to one or more residential units; or
+
 (B)  for the benefit of one or more residential units.
+
 (e)  "Residential unit" is as defined in Section 59-7-614.
+
 (f)  "Solar unit" means a portion of the electrical output:
+
 (i)  of a qualifying solar project;
+
 (ii)  that a qualifying political subdivision sells to a purchaser; and
-(iii)  the purchase of which requires that the purchaser agree to bear a
-proportionate share of the expense of the qualifying solar project:
-(A)  in accordance with a written agreement between the purchaser and the
-qualifying political subdivision;
+
+(iii)  the purchase of which requires that the purchaser agree to bear a proportionate share of the expense of the qualifying solar project:
+
+(A)  in accordance with a written agreement between the purchaser and the qualifying political subdivision;
+
 (B)  in exchange for a credit on the purchaser's electrical bill; and
-(C)  as determined by a formula established by the qualifying political
-subdivision.
-(2)  Subject to Subsection (3), for taxable years beginning on or after
-January 1, 2008, a purchaser may claim a nonrefundable tax credit equal to the
-product of:
-(a)  the amount the purchaser pays to purchase one or more solar units during
-the taxable year; and
+
+(C)  as determined by a formula established by the qualifying political subdivision.
+
+(2)  Subject to Subsection (3), for taxable years beginning on or after January 1, 2008, a purchaser may claim a nonrefundable tax credit equal to the product of:
+
+(a)  the amount the purchaser pays to purchase one or more solar units during the taxable year; and
+
 (b)  25%.
-(3)  For a taxable year, a tax credit under this section may not exceed $2,000
-on a return.
-(4)  A purchaser may carry forward a tax credit under this section for a
-period that does not exceed the next four taxable years if:
-(a)  the purchaser is allowed to claim a tax credit under this section for a
-taxable year; and
-(b)  the amount of the tax credit exceeds the purchaser's tax liability under
-this chapter for that taxable year.
-(5)  Subject to Section 59-7-614, a tax credit under this section is in
-addition to any other tax credit allowed by this chapter.
-(6) (a)  On or before October 1, 2012, and every five years after October 1,
-2012, the Utah Tax Review Commission shall review the tax credit allowed by
-this section and make recommendations to the Revenue and Taxation Interim
-Committee concerning whether the tax credit should be continued, modified, or
-repealed.
-(b)  The Utah Tax Review Commission's report under Subsection (6)(a) shall
-include information concerning the cost of the tax credit, the purpose and
-effectiveness of the tax credit, and the state's benefit from the tax credit.
+
+(3)  For a taxable year, a tax credit under this section may not exceed $2,000 on a return.
+
+(4)  A purchaser may carry forward a tax credit under this section for a period that does not exceed the next four taxable years if:
+
+(a)  the purchaser is allowed to claim a tax credit under this section for a taxable year; and
+
+(b)  the amount of the tax credit exceeds the purchaser's tax liability under this chapter for that taxable year.
+
+(5)  Subject to Section 59-7-614, a tax credit under this section is in addition to any other tax credit allowed by this chapter.
+
+(6) (a)  On or before October 1, 2012, and every five years after October 1, 2012, the Utah Tax Review Commission shall review the tax credit allowed by this section and make recommendations to the Revenue and Taxation Interim Committee concerning whether the tax credit should be continued, modified, or repealed.
+
+(b)  The Utah Tax Review Commission's report under Subsection (6)(a) shall include information concerning the cost of the tax credit, the purpose and effectiveness of the tax credit, and the state's benefit from the tax credit.
+

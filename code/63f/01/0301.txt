@@ -1,31 +1,34 @@
 63F-1-301.   Cost based services -- Fees -- Rate committee.
+
 (1)  The chief information officer shall:
-(a)  at the lowest practical cost, manage the delivery of efficient and cost-
-effective information technology and telecommunication services for:
+
+(a)  at the lowest practical cost, manage the delivery of efficient and cost-effective information technology and telecommunication services for:
+
 (i)  all executive branch agencies; and
-(ii)  entities that subscribe to the services in accordance with Section
-63F-1-303; and
+
+(ii)  entities that subscribe to the services in accordance with Section 63F-1-303; and
+
 (b)  provide priority service to public safety agencies.
-(2) (a)  In accordance with this Subsection (2), the chief information officer
-shall prescribe a schedule of fees for all services rendered by the department
-to:
+
+(2) (a)  In accordance with this Subsection (2), the chief information officer shall prescribe a schedule of fees for all services rendered by the department to:
+
 (i)  an executive branch entity; or
-(ii)  an entity that subscribes to services rendered by the department in
-accordance with Section 63F-1-303.
+
+(ii)  an entity that subscribes to services rendered by the department in accordance with Section 63F-1-303.
+
 (b)  Each fee included in the schedule of fees required by Subsection (2)(a):
+
 (i)  shall be equitable;
-(ii)  should be based upon a zero based, full cost accounting of activities
-necessary to provide each service for which a fee is established; and
-(iii)  for each service multiplied by the projected consumption of the service
-recovers no more or less than the full cost of each service.
-(c)  Before charging a fee for its services to an executive branch agency or
-to a subscriber of services other than an executive branch agency, the chief
-information officer shall:
-(i)  submit the proposed rates, fees, and cost analysis to the Rate Committee
-established in Section 63F-1-302; and
+
+(ii)  should be based upon a zero based, full cost accounting of activities necessary to provide each service for which a fee is established; and
+
+(iii)  for each service multiplied by the projected consumption of the service recovers no more or less than the full cost of each service.
+
+(c)  Before charging a fee for its services to an executive branch agency or to a subscriber of services other than an executive branch agency, the chief information officer shall:
+
+(i)  submit the proposed rates, fees, and cost analysis to the Rate Committee established in Section 63F-1-302; and
+
 (ii)  obtain the approval of the Legislature as required by Section 63J-1-410.
-(d)  The chief information officer shall conduct a market analysis by July 1,
-2006, and periodically thereafter, of proposed rates and fees, which analysis
-shall include a comparison of the department's rates with the fees of other
-public or private sector providers where comparable services and rates are
-reasonably available.
+
+(d)  The chief information officer shall conduct a market analysis by July 1, 2006, and periodically thereafter, of proposed rates and fees, which analysis shall include a comparison of the department's rates with the fees of other public or private sector providers where comparable services and rates are reasonably available.
+

@@ -1,49 +1,42 @@
-70A-9a-312.   Perfection of security interests in chattel paper, deposit
-accounts, documents, goods covered by documents, instruments, investment
-property, letter-of-credit rights, and money -- Perfection by permissive
-filing -- Temporary perfection without filing or transfer of possession.
-(1)  A security interest in chattel paper, negotiable documents, instruments,
-or investment property may be perfected by filing.
-(2)  Except as otherwise provided in Subsections 70A-9a-315(3) and (4) for
-proceeds:
-(a)  a security interest in a deposit account may be perfected only by control
-under Section 70A-9a-314;
-(b)  and except as otherwise provided in Subsection 70A-9a-308(4), a security
-interest in a letter-of-credit right may be perfected only by control under
-Section 70A-9a-314; and
-(c)  a security interest in money may be perfected only by the secured party's
-taking possession under Section 70A-9a-313.
-(3)  While goods are in the possession of a bailee that has issued a
-negotiable document covering the goods:
-(a)  a security interest in the goods may be perfected by perfecting a
-security interest in the document; and
-(b)  a security interest perfected in the document has priority over any
-security interest that becomes perfected in the goods by another method during
-that time.
-(4)  While goods are in the possession of a bailee that has issued a
-nonnegotiable document covering the goods, a security interest in the goods
-may be perfected by:
+70A-9a-312.   Perfection of security interests in chattel paper, deposit accounts, documents, goods covered by documents, instruments, investment property, letter-of-credit rights, and money -- Perfection by permissive filing -- Temporary perfection without filing or transfer of possession.
+
+(1)  A security interest in chattel paper, negotiable documents, instruments, or investment property may be perfected by filing.
+
+(2)  Except as otherwise provided in Subsections 70A-9a-315(3) and (4) for proceeds:
+
+(a)  a security interest in a deposit account may be perfected only by control under Section 70A-9a-314;
+
+(b)  and except as otherwise provided in Subsection 70A-9a-308(4), a security interest in a letter-of-credit right may be perfected only by control under Section 70A-9a-314; and
+
+(c)  a security interest in money may be perfected only by the secured party's taking possession under Section 70A-9a-313.
+
+(3)  While goods are in the possession of a bailee that has issued a negotiable document covering the goods:
+
+(a)  a security interest in the goods may be perfected by perfecting a security interest in the document; and
+
+(b)  a security interest perfected in the document has priority over any security interest that becomes perfected in the goods by another method during that time.
+
+(4)  While goods are in the possession of a bailee that has issued a nonnegotiable document covering the goods, a security interest in the goods may be perfected by:
+
 (a)  issuance of a document in the name of the secured party;
+
 (b)  the bailee's receipt of notification of the secured party's interest; or
+
 (c)  filing as to the goods.
-(5)  A security interest in certificated securities, negotiable documents, or
-instruments is perfected without filing or the taking of possession or control
-for a period of 20 days from the time it attaches to the extent that it arises
-for new value given under an authenticated security agreement.
-(6)  A perfected security interest in a negotiable document or goods in
-possession of a bailee, other than one that has issued a negotiable document
-for the goods, remains perfected for 20 days without filing if the secured
-party makes available to the debtor the goods or documents representing the
-goods for the purpose of:
+
+(5)  A security interest in certificated securities, negotiable documents, or instruments is perfected without filing or the taking of possession or control for a period of 20 days from the time it attaches to the extent that it arises for new value given under an authenticated security agreement.
+
+(6)  A perfected security interest in a negotiable document or goods in possession of a bailee, other than one that has issued a negotiable document for the goods, remains perfected for 20 days without filing if the secured party makes available to the debtor the goods or documents representing the goods for the purpose of:
+
 (a)  ultimate sale or exchange; or
-(b)  loading, unloading, storing, shipping, transshipping, manufacturing,
-processing, or otherwise dealing with them in a manner preliminary to their
-sale or exchange.
-(7)  A perfected security interest in a certificated security or instrument
-remains perfected for 20 days without filing if the secured party delivers the
-security certificate or instrument to the debtor for the purpose of:
+
+(b)  loading, unloading, storing, shipping, transshipping, manufacturing, processing, or otherwise dealing with them in a manner preliminary to their sale or exchange.
+
+(7)  A perfected security interest in a certificated security or instrument remains perfected for 20 days without filing if the secured party delivers the security certificate or instrument to the debtor for the purpose of:
+
 (a)  ultimate sale or exchange; or
-(b)  presentation, collection, enforcement, renewal, or registration of
-transfer.
-(8)  After the 20-day period specified in Subsection (5), (6), or (7) expires,
-perfection depends upon compliance with this chapter.
+
+(b)  presentation, collection, enforcement, renewal, or registration of transfer.
+
+(8)  After the 20-day period specified in Subsection (5), (6), or (7) expires, perfection depends upon compliance with this chapter.
+

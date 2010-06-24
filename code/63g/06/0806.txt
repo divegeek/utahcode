@@ -1,22 +1,8 @@
-63G-6-806.   Decisions of chief procurement officer to be in writing --
-Effect of no writing.
-(1)  The chief procurement officer, the head of a purchasing agency, or the
-designee of either officer shall promptly issue a written decision regarding
-any protest, debarment or suspension, or contract controversy if it is not
-settled by a mutual agreement.  The decision shall state the reasons for the
-action taken and inform the protestor, contractor, or prospective contractor
-of the right to judicial or administrative review as provided in this chapter.
-(2)  A decision shall be effective until stayed or reversed on appeal, except
-to the extent provided in Section 63G-6-802.  A copy of the decision under
-Subsection (1) shall be mailed or otherwise furnished immediately to the
-protestor, prospective contractor, or contractor.  The decision shall be final
-and conclusive unless the protestor, prospective contractor, or contractor
-appeals administratively to the procurement appeals board in accordance with
-Subsection 63G-6-810(2) or the protestor, prospective contractor, or
-contractor commences an action in district court in accordance with Section
-63G-6-815.
-(3)  If the chief procurement officer, the head of a purchasing agency, or the
-designee of either officer does not issue the written decision regarding a
-contract controversy within 60 calendar days after written request for a final
-decision, or within such longer period as may be agreed upon by the parties,
-then the contractor may proceed as if an adverse decision had been received.
+63G-6-806.   Decisions of chief procurement officer to be in writing -- Effect of no writing.
+
+(1)  The chief procurement officer, the head of a purchasing agency, or the designee of either officer shall promptly issue a written decision regarding any protest, debarment or suspension, or contract controversy if it is not settled by a mutual agreement.  The decision shall state the reasons for the action taken and inform the protestor, contractor, or prospective contractor of the right to judicial or administrative review as provided in this chapter.
+
+(2)  A decision shall be effective until stayed or reversed on appeal, except to the extent provided in Section 63G-6-802.  A copy of the decision under Subsection (1) shall be mailed or otherwise furnished immediately to the protestor, prospective contractor, or contractor.  The decision shall be final and conclusive unless the protestor, prospective contractor, or contractor appeals administratively to the procurement appeals board in accordance with Subsection 63G-6-810(2) or the protestor, prospective contractor, or contractor commences an action in district court in accordance with Section 63G-6-815.
+
+(3)  If the chief procurement officer, the head of a purchasing agency, or the designee of either officer does not issue the written decision regarding a contract controversy within 60 calendar days after written request for a final decision, or within such longer period as may be agreed upon by the parties, then the contractor may proceed as if an adverse decision had been received.
+

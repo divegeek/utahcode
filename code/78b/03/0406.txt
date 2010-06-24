@@ -1,76 +1,56 @@
-78B-3-406.   Failure to obtain informed consent -- Proof required of patient
--- Defenses -- Consent to health care.
-(1)  When a person submits to health care rendered by a health care provider,
-it is presumed that actions taken by the health care provider are either
-expressly or impliedly authorized to be done.  For a patient to recover
-damages from a health care provider in an action based upon the provider's
-failure to obtain informed consent, the patient must prove the following:
-(a)  that a provider-patient relationship existed between the patient and
-health care provider;
+78B-3-406.   Failure to obtain informed consent -- Proof required of patient -- Defenses -- Consent to health care.
+
+(1)  When a person submits to health care rendered by a health care provider, it is presumed that actions taken by the health care provider are either expressly or impliedly authorized to be done.  For a patient to recover damages from a health care provider in an action based upon the provider's failure to obtain informed consent, the patient must prove the following:
+
+(a)  that a provider-patient relationship existed between the patient and health care provider;
+
 (b)  the health care provider rendered health care to the patient;
-(c)  the patient suffered personal injuries arising out of the health care
-rendered;
-(d)  the health care rendered carried with it a substantial and significant
-risk of causing the patient serious harm;
+
+(c)  the patient suffered personal injuries arising out of the health care rendered;
+
+(d)  the health care rendered carried with it a substantial and significant risk of causing the patient serious harm;
+
 (e)  the patient was not informed of the substantial and significant risk;
-(f)  a reasonable, prudent person in the patient's position would not have
-consented to the health care rendered after having been fully informed as to
-all facts relevant to the decision to give consent; and
-(g)  the unauthorized part of the health care rendered was the proximate cause
-of personal injuries suffered by the patient.
-(2)  In determining what a reasonable, prudent person in the patient's
-position would do under the circumstances, the finder of fact shall use the
-viewpoint of the patient before health care was provided and before the
-occurrence of any personal injuries alleged to have arisen from said health
-care.
-(3)  It shall be a defense to any malpractice action against a health care
-provider based upon alleged failure to obtain informed consent if:
-(a)  the risk of the serious harm which the patient actually suffered was
-relatively minor;
-(b)  the risk of serious harm to the patient from the health care provider was
-commonly known to the public;
-(c)  the patient stated, prior to receiving the health care complained of,
-that he would accept the health care involved regardless of the risk; or that
-he did not want to be informed of the matters to which he would be entitled to
-be informed;
-(d)  the health care provider, after considering all of the attendant facts
-and circumstances, used reasonable discretion as to the manner and extent to
-which risks were disclosed, if the health care provider reasonably believed
-that additional disclosures could be expected to have a substantial and
-adverse effect on the patient's condition; or
-(e)  the patient or his representative executed a written consent which sets
-forth the nature and purpose of the intended health care and which contains a
-declaration that the patient accepts the risk of substantial and serious harm,
-if any, in hopes of obtaining desired beneficial results of health care and
-which acknowledges that health care providers involved have explained his
-condition and the proposed health care in a satisfactory manner and that all
-questions asked about the health care and its attendant risks have been
-answered in a manner satisfactory to the patient or his representative.
-(4)  The written consent shall be a defense to an action against a health care
-provider based upon failure to obtain informed consent unless the patient
-proves that the person giving the consent lacked capacity to consent or shows
-by clear and convincing evidence that the execution of the written consent was
-induced by the defendant's affirmative acts of fraudulent misrepresentation or
-fraudulent omission to state material facts.
-(5)  This act may not be construed to prevent any person 18 years of age or
-over from refusing to consent to health care for his own person upon personal
-or religious grounds.
-(6)  Except as provided in Section 76-7-304.5, the following persons are
-authorized and empowered to consent to any health care not prohibited by law:
+
+(f)  a reasonable, prudent person in the patient's position would not have consented to the health care rendered after having been fully informed as to all facts relevant to the decision to give consent; and
+
+(g)  the unauthorized part of the health care rendered was the proximate cause of personal injuries suffered by the patient.
+
+(2)  In determining what a reasonable, prudent person in the patient's position would do under the circumstances, the finder of fact shall use the viewpoint of the patient before health care was provided and before the occurrence of any personal injuries alleged to have arisen from said health care.
+
+(3)  It shall be a defense to any malpractice action against a health care provider based upon alleged failure to obtain informed consent if:
+
+(a)  the risk of the serious harm which the patient actually suffered was relatively minor;
+
+(b)  the risk of serious harm to the patient from the health care provider was commonly known to the public;
+
+(c)  the patient stated, prior to receiving the health care complained of, that he would accept the health care involved regardless of the risk; or that he did not want to be informed of the matters to which he would be entitled to be informed;
+
+(d)  the health care provider, after considering all of the attendant facts and circumstances, used reasonable discretion as to the manner and extent to which risks were disclosed, if the health care provider reasonably believed that additional disclosures could be expected to have a substantial and adverse effect on the patient's condition; or
+
+(e)  the patient or his representative executed a written consent which sets forth the nature and purpose of the intended health care and which contains a declaration that the patient accepts the risk of substantial and serious harm, if any, in hopes of obtaining desired beneficial results of health care and which acknowledges that health care providers involved have explained his condition and the proposed health care in a satisfactory manner and that all questions asked about the health care and its attendant risks have been answered in a manner satisfactory to the patient or his representative.
+
+(4)  The written consent shall be a defense to an action against a health care provider based upon failure to obtain informed consent unless the patient proves that the person giving the consent lacked capacity to consent or shows by clear and convincing evidence that the execution of the written consent was induced by the defendant's affirmative acts of fraudulent misrepresentation or fraudulent omission to state material facts.
+
+(5)  This act may not be construed to prevent any person 18 years of age or over from refusing to consent to health care for his own person upon personal or religious grounds.
+
+(6)  Except as provided in Section 76-7-304.5, the following persons are authorized and empowered to consent to any health care not prohibited by law:
+
 (a)  any parent, whether an adult or a minor, for the parent's minor child;
+
 (b)  any married person, for a spouse;
-(c)  any person temporarily standing in loco parentis, whether formally
-serving or not, for the minor under that person's care and any guardian for
-the guardian's ward;
-(d)  any person 18 years of age or over for that person's parent who is unable
-by reason of age, physical or mental condition, to provide such consent;
+
+(c)  any person temporarily standing in loco parentis, whether formally serving or not, for the minor under that person's care and any guardian for the guardian's ward;
+
+(d)  any person 18 years of age or over for that person's parent who is unable by reason of age, physical or mental condition, to provide such consent;
+
 (e)  any patient 18 years of age or over;
-(f)  any female regardless of age or marital status, when given in connection
-with her pregnancy or childbirth;
-(g)  in the absence of a parent, any adult for the adult's minor brother or
-sister; and
-(h)  in the absence of a parent, any grandparent for the grandparent's minor
-grandchild.
-(7)  A person who in good faith consents or authorizes health care treatment
-or procedures for another as provided by this act may not be subject to civil
-liability.
+
+(f)  any female regardless of age or marital status, when given in connection with her pregnancy or childbirth;
+
+(g)  in the absence of a parent, any adult for the adult's minor brother or sister; and
+
+(h)  in the absence of a parent, any grandparent for the grandparent's minor grandchild.
+
+(7)  A person who in good faith consents or authorizes health care treatment or procedures for another as provided by this act may not be subject to civil liability.
+

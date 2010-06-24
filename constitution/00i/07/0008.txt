@@ -1,37 +1,10 @@
-Article VII,  Section 8.   [Bills presented to governor for approval and
-veto -- Items of appropriation -- Legislative session to consider vetoed
-items.]
-(1)  Each bill passed by the Legislature, before it becomes a law, shall be
-presented to the governor.  If the bill is approved, the governor shall sign
-it, and thereupon it shall become a law.  If the bill is disapproved, it shall
-be returned with the governor's objections to the house in which it
-originated.  That house shall then enter the objections upon its journal and
-proceed to reconsider the bill.  If upon reconsideration the bill again passes
-both houses by a yea and nay vote of two-thirds of the members elected to each
-house, it shall become a law.
-(2)  If any bill is not returned by the governor within ten days after it has
-been presented to the governor, Sunday and the day it was received excepted,
-it shall become a law without a signature.  If legislative adjournment
-prevents return of the bill, it shall become a law unless the governor within
-twenty days after adjournment files the objections to it with such officers as
-provided by law.
-(3)  The governor may disapprove any item of appropriation contained in any
-bill while approving other portions of the bill.  In such case the governor
-shall append to the bill at the time of signing it a statement of the item or
-items which are disapproved, together with the reasons for disapproval, and
-the item or items may not take effect unless passed over the governor's
-objections as provided in this section.
-(4)  If the governor disapproves any bill or item of appropriation after the
-adjournment sine die of any session of the Legislature, the presiding officer
-of each house shall poll the members of that house on the matter of
-reconvening the Legislature.  If two-thirds of the members of each house are
-in favor of reconvening, the Legislature shall be convened in a session that
-shall begin within 60 days after the adjournment of the session at which the
-disapproved bill or item of appropriation passed.  This session may not exceed
-five calendar days and shall be convened at a time set jointly by the
-presiding officer of each house solely for the purpose of reconsidering the
-bill or item of appropriation disapproved. If upon reconsideration, the bill
-or item of appropriation again passes both houses of the Legislature by a yea
-and nay vote of two-thirds of the members elected to each house, the bill
-shall become law or the item of appropriation shall take effect on the
-original effective date of the law or item of appropriation.
+Article VII,  Section 8.   [Bills presented to governor for approval and veto -- Items of appropriation -- Legislative session to consider vetoed items.]
+
+(1)  Each bill passed by the Legislature, before it becomes a law, shall be presented to the governor.  If the bill is approved, the governor shall sign it, and thereupon it shall become a law.  If the bill is disapproved, it shall be returned with the governor's objections to the house in which it originated.  That house shall then enter the objections upon its journal and proceed to reconsider the bill.  If upon reconsideration the bill again passes both houses by a yea and nay vote of two-thirds of the members elected to each house, it shall become a law.
+
+(2)  If any bill is not returned by the governor within ten days after it has been presented to the governor, Sunday and the day it was received excepted, it shall become a law without a signature.  If legislative adjournment prevents return of the bill, it shall become a law unless the governor within twenty days after adjournment files the objections to it with such officers as provided by law.
+
+(3)  The governor may disapprove any item of appropriation contained in any bill while approving other portions of the bill.  In such case the governor shall append to the bill at the time of signing it a statement of the item or items which are disapproved, together with the reasons for disapproval, and the item or items may not take effect unless passed over the governor's objections as provided in this section.
+
+(4)  If the governor disapproves any bill or item of appropriation after the adjournment sine die of any session of the Legislature, the presiding officer of each house shall poll the members of that house on the matter of reconvening the Legislature.  If two-thirds of the members of each house are in favor of reconvening, the Legislature shall be convened in a session that shall begin within 60 days after the adjournment of the session at which the disapproved bill or item of appropriation passed.  This session may not exceed five calendar days and shall be convened at a time set jointly by the presiding officer of each house solely for the purpose of reconsidering the bill or item of appropriation disapproved. If upon reconsideration, the bill or item of appropriation again passes both houses of the Legislature by a yea and nay vote of two-thirds of the members elected to each house, the bill shall become law or the item of appropriation shall take effect on the original effective date of the law or item of appropriation.
+

@@ -1,18 +1,24 @@
 46-1-14.   Entries in journal.
-(1)  For every notarial act, the notary may record the following information
-in the journal at the time of notarization:
+
+(1)  For every notarial act, the notary may record the following information in the journal at the time of notarization:
+
 (a)  the date and time of day of the notarial act;
+
 (b)  the type of notarial act;
+
 (c)  a description of the document or proceeding;
-(d)  the signature and printed name and address of each person for whom a
-notarial act is performed;
-(e)  the evidence of identity of each person for whom a notarial act is
-performed, in the form of:
+
+(d)  the signature and printed name and address of each person for whom a notarial act is performed;
+
+(e)  the evidence of identity of each person for whom a notarial act is performed, in the form of:
+
 (i)  a statement that the person is "personally known" to the notary;
-(ii)  a description of the identification document, its issuing agency, its
-serial or identification number, and its date of issuance or expiration; or
-(iii)  the signature and printed name and address of a credible witness
-swearing or affirming to the person's identity; and
+
+(ii)  a description of the identification document, its issuing agency, its serial or identification number, and its date of issuance or expiration; or
+
+(iii)  the signature and printed name and address of a credible witness swearing or affirming to the person's identity; and
+
 (f)  the fee, if any, charged for the notarial act.
-(2)  A notary may record in the journal the circumstances in refusing to
-perform or complete a notarial act.
+
+(2)  A notary may record in the journal the circumstances in refusing to perform or complete a notarial act.
+

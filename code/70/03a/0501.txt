@@ -1,32 +1,42 @@
 70-3a-501.   Searchable mark database.
+
 (1)  The division shall maintain a database that enables a user to:
+
 (a)  file an application to electronically register a mark;
+
 (b)  manage existing marks owned by the user; and
+
 (c)  search for any registered marks.
-(2) (a)  The division may contract with a person to maintain and operate the
-database.
-(b)  If the division contracts with a person to maintain and operate the
-database, the person with whom the division contracts may, at the discretion
-of the division, be responsible for all costs of creating the database and
-readying it for use.
-(3) Notwithstanding Subsections 13-1-2(3)(c) and 70-3a-203(2), the database
-required by Subsection (1) shall be:
-(a)  directly funded by fees collected for the electronic registration of
-marks, including funding any data storage costs related to operation of the
-database; and
+
+(2) (a)  The division may contract with a person to maintain and operate the database.
+
+(b)  If the division contracts with a person to maintain and operate the database, the person with whom the division contracts may, at the discretion of the division, be responsible for all costs of creating the database and readying it for use.
+
+(3) Notwithstanding Subsections 13-1-2(3)(c) and 70-3a-203(2), the database required by Subsection (1) shall be:
+
+(a)  directly funded by fees collected for the electronic registration of marks, including funding any data storage costs related to operation of the database; and
+
 (b)  accessible online through the state's Internet website.
+
 (4)  For all registered marks, the database shall include:
+
 (a)  the date of a mark's registration;
+
 (b)  an indication of the mark's status as active or otherwise;
+
 (c)  any class for which the mark is registered; and
+
 (d)  the name of the registrant.
-(5)  A search of the information in the database that is listed in Subsection
-(4) shall be available free to any user, without regard to whether the user
-has an account for use of the database.
-(6)  The division may provide other services in connection with the database,
-for which the division may charge a user.
-(7)  A person electronically registering a mark shall be given an account
-through which the person may access the database to:
+
+(5)  A search of the information in the database that is listed in Subsection (4) shall be available free to any user, without regard to whether the user has an account for use of the database.
+
+(6)  The division may provide other services in connection with the database, for which the division may charge a user.
+
+(7)  A person electronically registering a mark shall be given an account through which the person may access the database to:
+
 (a)  review the status of a mark;
+
 (b)  pay any fee; and
+
 (c)  renew, revoke, and assign any mark.
+

@@ -1,72 +1,92 @@
 76-5-203.   Murder.
+
 (1)  As used in this section, "predicate offense" means:
+
 (a)  a clandestine drug lab violation under Section 58-37d-4 or 58-37d-5;
-(b)  child abuse, under Subsection 76-5-109(2)(a), when the victim is younger
-than 18 years of age;
+
+(b)  child abuse, under Subsection 76-5-109(2)(a), when the victim is younger than 18 years of age;
+
 (c)  kidnapping under Section 76-5-301;
+
 (d)  child kidnapping under Section 76-5-301.1;
+
 (e)  aggravated kidnapping under Section 76-5-302;
+
 (f)  rape of a child under Section 76-5-402.1;
+
 (g)  object rape of a child under Section 76-5-402.3;
+
 (h)  sodomy upon a child under Section 76-5-403.1;
+
 (i)  forcible sexual abuse under Section 76-5-404;
-(j)  sexual abuse of a child or aggravated sexual abuse of a child under
-Section 76-5-404.1;
+
+(j)  sexual abuse of a child or aggravated sexual abuse of a child under Section 76-5-404.1;
+
 (k)  rape under Section 76-5-402;
+
 (l)  object rape under Section 76-5-402.2;
+
 (m)  forcible sodomy under Section 76-5-403;
+
 (n)  aggravated sexual assault under Section 76-5-405;
+
 (o)  arson under Section 76-6-102;
+
 (p)  aggravated arson under Section 76-6-103;
+
 (q)  burglary under Section 76-6-202;
+
 (r)  aggravated burglary under Section 76-6-203;
+
 (s)  robbery under Section 76-6-301;
+
 (t)  aggravated robbery under Section 76-6-302;
+
 (u)  escape or aggravated escape under Section 76-8-309; or
-(v)  a felony violation of Section 76-10-508 or 76-10-508.1 regarding
-discharge of a firearm or dangerous weapon.
+
+(v)  a felony violation of Section 76-10-508 or 76-10-508.1 regarding discharge of a firearm or dangerous weapon.
+
 (2)  Criminal homicide constitutes murder if:
+
 (a)  the actor intentionally or knowingly causes the death of another;
-(b)  intending to cause serious bodily injury to another, the actor commits an
-act clearly dangerous to human life that causes the death of another;
-(c)  acting under circumstances evidencing a depraved indifference to human
-life, the actor knowingly engages in conduct which creates a grave risk of
-death to another and thereby causes the death of another;
-(d) (i)  the actor is engaged in the commission, attempted commission, or
-immediate flight from the commission or attempted commission of any predicate
-offense, or is a party to the predicate offense;
-(ii)  a person other than a party as defined in Section 76-2-202 is killed in
-the course of the commission, attempted commission, or immediate flight from
-the commission or attempted commission of any predicate offense; and
-(iii)  the actor acted with the intent required as an element of the predicate
-offense;
-(e)  the actor recklessly causes the death of a peace officer or military
-service member in uniform while in the commission or attempted commission of:
+
+(b)  intending to cause serious bodily injury to another, the actor commits an act clearly dangerous to human life that causes the death of another;
+
+(c)  acting under circumstances evidencing a depraved indifference to human life, the actor knowingly engages in conduct which creates a grave risk of death to another and thereby causes the death of another;
+
+(d) (i)  the actor is engaged in the commission, attempted commission, or immediate flight from the commission or attempted commission of any predicate offense, or is a party to the predicate offense;
+
+(ii)  a person other than a party as defined in Section 76-2-202 is killed in the course of the commission, attempted commission, or immediate flight from the commission or attempted commission of any predicate offense; and
+
+(iii)  the actor acted with the intent required as an element of the predicate offense;
+
+(e)  the actor recklessly causes the death of a peace officer or military service member in uniform while in the commission or attempted commission of:
+
 (i)  an assault against a peace officer under Section 76-5-102.4;
-(ii)  interference with a peace officer while making a lawful arrest under
-Section 76-8-305 if the actor uses force against a peace officer; or
-(iii)  an assault against a military service member in uniform under Section
-76-5-102.4;
-(f)  commits a homicide which would be aggravated murder, but the offense is
-reduced pursuant to Subsection 76-5-202(4); or
-(g)  the actor commits aggravated murder, but special mitigation is
-established under Section 76-5-205.5.
+
+(ii)  interference with a peace officer while making a lawful arrest under Section 76-8-305 if the actor uses force against a peace officer; or
+
+(iii)  an assault against a military service member in uniform under Section 76-5-102.4;
+
+(f)  commits a homicide which would be aggravated murder, but the offense is reduced pursuant to Subsection 76-5-202(4); or
+
+(g)  the actor commits aggravated murder, but special mitigation is established under Section 76-5-205.5.
+
 (3) (a)  Murder is a first degree felony.
-(b)  A person who is convicted of murder shall be sentenced to imprisonment
-for an indeterminate term of not less than 15 years and which may be for life.
-(4) (a)  It is an affirmative defense to a charge of murder or attempted
-murder that the defendant caused the death of another or attempted to cause
-the death of another under a reasonable belief that the circumstances provided
-a legal justification or excuse for the conduct although the conduct was not
-legally justifiable or excusable under the existing circumstances.
-(b)  The reasonable belief of the actor under Subsection (4)(a) shall be
-determined from the viewpoint of a reasonable person under the then existing
-circumstances.
+
+(b)  A person who is convicted of murder shall be sentenced to imprisonment for an indeterminate term of not less than 15 years and which may be for life.
+
+(4) (a)  It is an affirmative defense to a charge of murder or attempted murder that the defendant caused the death of another or attempted to cause the death of another under a reasonable belief that the circumstances provided a legal justification or excuse for the conduct although the conduct was not legally justifiable or excusable under the existing circumstances.
+
+(b)  The reasonable belief of the actor under Subsection (4)(a) shall be determined from the viewpoint of a reasonable person under the then existing circumstances.
+
 (c)  This affirmative defense reduces charges only from:
+
 (i)  murder to manslaughter; and
+
 (ii)  attempted murder to attempted manslaughter.
-(5) (a)  Any predicate offense described in Subsection (1) that constitutes a
-separate offense does not merge with the crime of murder.
-(b)  A person who is convicted of murder, based on a predicate offense
-described in Subsection (1) that constitutes a separate offense, may also be
-convicted of, and punished for, the separate offense.
+
+(5) (a)  Any predicate offense described in Subsection (1) that constitutes a separate offense does not merge with the crime of murder.
+
+(b)  A person who is convicted of murder, based on a predicate offense described in Subsection (1) that constitutes a separate offense, may also be convicted of, and punished for, the separate offense.
+

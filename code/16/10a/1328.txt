@@ -1,17 +1,12 @@
 16-10a-1328.   Procedure for shareholder dissatisfied with payment or offer.
-(1)  A dissenter who has not accepted an offer made by a corporation under
-Section 16-10a-1327 may notify the corporation in writing of his own estimate
-of the fair value of his shares and demand payment of the estimated amount,
-plus interest, less any payment made under Section 16-10a-1325, if:
-(a)  the dissenter believes that the amount paid under Section 16-10a-1325 or
-offered under Section 16-10a-1327 is less than the fair value of the shares;
-(b)  the corporation fails to make payment under Section 16-10a-1325 within 60
-days after the date set by the corporation as the date by which it must
-receive the payment demand; or
-(c)  the corporation, having failed to take the proposed corporate action
-creating dissenters' rights, does not return the deposited certificates or
-release the transfer restrictions imposed on uncertificated shares as required
-by Section 16-10a-1326.
-(2)  A dissenter waives the right to demand payment under this section unless
-he causes the corporation to receive the notice required by Subsection (1)
-within 30 days after the corporation made or offered payment for his shares.
+
+(1)  A dissenter who has not accepted an offer made by a corporation under Section 16-10a-1327 may notify the corporation in writing of his own estimate of the fair value of his shares and demand payment of the estimated amount, plus interest, less any payment made under Section 16-10a-1325, if:
+
+(a)  the dissenter believes that the amount paid under Section 16-10a-1325 or offered under Section 16-10a-1327 is less than the fair value of the shares;
+
+(b)  the corporation fails to make payment under Section 16-10a-1325 within 60 days after the date set by the corporation as the date by which it must receive the payment demand; or
+
+(c)  the corporation, having failed to take the proposed corporate action creating dissenters' rights, does not return the deposited certificates or release the transfer restrictions imposed on uncertificated shares as required by Section 16-10a-1326.
+
+(2)  A dissenter waives the right to demand payment under this section unless he causes the corporation to receive the notice required by Subsection (1) within 30 days after the corporation made or offered payment for his shares.
+

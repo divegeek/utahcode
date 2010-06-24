@@ -1,48 +1,56 @@
 63G-4-503.   Declaratory orders.
-(1)  Any person may file a request for agency action, requesting that the
-agency issue a declaratory order determining the applicability of a statute,
-rule, or order within the primary jurisdiction of the agency to specified
-circumstances.
+
+(1)  Any person may file a request for agency action, requesting that the agency issue a declaratory order determining the applicability of a statute, rule, or order within the primary jurisdiction of the agency to specified circumstances.
+
 (2)  Each agency shall issue rules that:
-(a)  provide for the form, contents, and filing of petitions for declaratory
-orders;
+
+(a)  provide for the form, contents, and filing of petitions for declaratory orders;
+
 (b)  provide for the disposition of the petitions;
-(c)  define the classes of circumstances in which the agency will not issue a
-declaratory order;
-(d)  are consistent with the public interest and with the general policy of
-this chapter; and
+
+(c)  define the classes of circumstances in which the agency will not issue a declaratory order;
+
+(d)  are consistent with the public interest and with the general policy of this chapter; and
+
 (e)  facilitate and encourage agency issuance of reliable advice.
+
 (3) (a)  An agency may not issue a declaratory order if:
-(i)  the request is one of a class of circumstances that the agency has by
-rule defined as being exempt from declaratory orders; or
-(ii)  the person requesting the declaratory order participated in an
-adjudicative proceeding concerning the same issue within 12 months of the date
-of the present request.
-(b)  An agency may issue a declaratory order that would substantially
-prejudice the rights of a person who would be a necessary party, only if that
-person consents in writing to the determination of the matter by a declaratory
-proceeding.
+
+(i)  the request is one of a class of circumstances that the agency has by rule defined as being exempt from declaratory orders; or
+
+(ii)  the person requesting the declaratory order participated in an adjudicative proceeding concerning the same issue within 12 months of the date of the present request.
+
+(b)  An agency may issue a declaratory order that would substantially prejudice the rights of a person who would be a necessary party, only if that person consents in writing to the determination of the matter by a declaratory proceeding.
+
 (4)  Persons may intervene in declaratory proceedings if:
+
 (a)  they meet the requirements of Section 63G-4-207; and
+
 (b)  they file timely petitions for intervention according to agency rules.
-(5)  An agency may provide, by rule or order, that other provisions of
-Sections 63G-4-202 through 63G-4-302 apply to declaratory proceedings.
-(6) (a)  After receipt of a petition for a declaratory order, the agency may
-issue a written order:
-(i)  declaring the applicability of the statute, rule, or order in question to
-the specified circumstances;
+
+(5)  An agency may provide, by rule or order, that other provisions of Sections 63G-4-202 through 63G-4-302 apply to declaratory proceedings.
+
+(6) (a)  After receipt of a petition for a declaratory order, the agency may issue a written order:
+
+(i)  declaring the applicability of the statute, rule, or order in question to the specified circumstances;
+
 (ii)  setting the matter for adjudicative proceedings;
+
 (iii)  agreeing to issue a declaratory order within a specified time; or
-(iv)  declining to issue a declaratory order and stating the reasons for its
-action.
+
+(iv)  declining to issue a declaratory order and stating the reasons for its action.
+
 (b)  A declaratory order shall contain:
+
 (i)  the names of all parties to the proceeding on which it is based;
+
 (ii)  the particular facts on which it is based; and
+
 (iii)  the reasons for its conclusion.
-(c)  A copy of all orders issued in response to a request for a declaratory
-proceeding shall be mailed promptly to the petitioner and any other parties.
-(d)  A declaratory order has the same status and binding effect as any other
-order issued in an adjudicative proceeding.
-(7)  Unless the petitioner and the agency agree in writing to an extension, if
-an agency has not issued a declaratory order within 60 days after receipt of
-the petition for a declaratory order, the petition is denied.
+
+(c)  A copy of all orders issued in response to a request for a declaratory proceeding shall be mailed promptly to the petitioner and any other parties.
+
+(d)  A declaratory order has the same status and binding effect as any other order issued in an adjudicative proceeding.
+
+(7)  Unless the petitioner and the agency agree in writing to an extension, if an agency has not issued a declaratory order within 60 days after receipt of the petition for a declaratory order, the petition is denied.
+
