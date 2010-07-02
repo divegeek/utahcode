@@ -32,7 +32,7 @@
 
 (A)  "mobile telecommunications service";
 
-(B)  " place of primary use";
+(B)  "place of primary use";
 
 (C)  "service address"; and
 

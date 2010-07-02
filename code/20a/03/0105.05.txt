@@ -8,7 +8,7 @@
 
 (c)  the poll worker is not satisfied that the voter has provided valid voter identification.
 
-(2)  When faced with one of the circumstances outlined in Subsection (1)(a) or(b), the poll worker shall:
+(2)  When faced with one of the circumstances outlined in Subsection (1)(a) or (b), the poll worker shall:
 
 (a)  request that the person provide valid voter identification; and
 
