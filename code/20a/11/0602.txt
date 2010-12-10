@@ -1,24 +1,26 @@
-20A-11-602 (Superseded 01/01/11).   Political action committees -- Financial reporting.
+20A-11-602.   Political action committees -- Financial reporting.
 
-(1) (a)  Each registered political action committee that has received contributions totaling at least $750, or disbursed expenditures totaling at least $50, during a calendar year shall file a verified financial statement with the lieutenant governor's office on:
+(1) (a)  Each registered political action committee that has received contributions totaling at least $750, or disbursed expenditures totaling at least $50, during a calendar year shall file a verified financial statement with the lieutenant governor's office:
 
-(i)  January 10, reporting contributions and expenditures as of December 31 of the previous year;
+(i)  on January 10, reporting contributions and expenditures as of December 31 of the previous year;
 
-(ii) August 31; and
+(ii)  seven days before the regular primary election date;
 
-(iii)  seven days before the regular general election.
+(iii)  on August 31; and
 
-(b) The registered political action committee shall report:
+(iv)  seven days before the regular general election date.
+
+(b)  The registered political action committee shall report:
 
 (i)  a detailed listing of all contributions received and expenditures made since the last statement; and
 
-(ii)  for financial statements filed on August 31 and before the general election, all contributions and expenditures as of five days before the required filing date of the financial statement.
+(ii)  for financial statements filed under Subsections (1)(a)(ii) through (iv), all contributions and expenditures as of five days before the required filing date of the financial statement.
 
 (c)  The registered political action committee need not file a statement under this section if it received no contributions and made no expenditures during the reporting period.
 
 (2) (a)  The verified financial statement shall include:
 
-(i)  the name, address, and occupation of any individual that makes a contribution to the reporting political action committee, and the amount of the contribution;
+(i)  the name and address of any individual that makes a contribution to the reporting political action committee, and the amount of the contribution;
 
 (ii)  the identification of any publicly identified class of individuals that makes a contribution to the reporting political action committee, and the amount of the contribution;
 
@@ -32,7 +34,7 @@
 
 (vii)  the total amount of contributions received and expenditures disbursed by the reporting political action committee;
 
-(viii)  a paragraph signed by the political action committee's treasurer or chief financial officer verifying that, to the best of the signer's knowledge, the financial report is accurate; and
+(viii)  a statement by the political action committee's treasurer or chief financial officer certifying that, to the best of the person's knowledge, the financial report is accurate; and
 
 (ix)  a summary page in the form required by the lieutenant governor that identifies:
 

@@ -1,4 +1,4 @@
-76-6-106 (Superseded 11/01/10).   Criminal mischief.
+76-6-106.   Criminal mischief.
 
 (1)  As used in this section, "critical infrastructure" includes:
 
@@ -50,11 +50,11 @@
 
 (i)  second degree felony if the actor's conduct causes or is intended to cause pecuniary loss equal to or in excess of $5,000 in value;
 
-(ii)  third degree felony if the actor's conduct causes or is intended to cause pecuniary loss equal to or in excess of $1,000 but is less than $5,000 in value;
+(ii)  third degree felony if the actor's conduct causes or is intended to cause pecuniary loss equal to or in excess of $1,500 but is less than $5,000 in value;
 
-(iii)  class A misdemeanor if the actor's conduct causes or is intended to cause pecuniary loss equal to or in excess of $300 but is less than $1,000 in value; and
+(iii)  class A misdemeanor if the actor's conduct causes or is intended to cause pecuniary loss equal to or in excess of $500 but is less than $1,500 in value; and
 
-(iv)  class B misdemeanor if the actor's conduct causes or is intended to cause pecuniary loss less than $300 in value.
+(iv)  class B misdemeanor if the actor's conduct causes or is intended to cause pecuniary loss less than $500 in value.
 
 (4)  In determining the value of damages under this section, or for computer crimes under Section 76-6-703, the value of any item, computer, computer network, computer property, computer services, software, or data includes the measurable value of the loss of use of the items and the measurable cost to replace or restore the items.
 

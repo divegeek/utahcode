@@ -10,7 +10,7 @@ As used in this chapter:
 
 (4) (a)  "Electric or communication facilities" means any works or improvements used or useful in providing electric or communication service, including poles, supports, tunnels, manholes, vaults, conduits, pipes, wires, conductors, guys, stubs, platforms, crossarms, braces, transformers, insulators, cut-outs, switches, capacitors, meters, communication circuits, appliances, attachments and appurtenances. 
 
-(b)  "Electric facilities" does not include any facilities used or intended to be used for the transmission of electric energy at nominal voltages in excess of 35 thousand volts.
+(b)  "Electric facilities" does not include any facilities used or intended to be used for the transmission of electric energy at nominal voltages in excess of 35,000 volts.
 
 (5)  "Electric service" means the distribution of electricity by an electrical corporation for heat, cooling, light or power.
 

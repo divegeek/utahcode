@@ -10,5 +10,5 @@ As used in this compact:
 
 (4) (a)  "Low-level waste" means waste material which contains radioactive nuclides emitting primarily beta or gamma radiation, or both, in concentrations or quantities which exceed applicable federal or state standards for unrestricted release.
 
-(b)  "Low-level waste" does not include waste containing more than ten nanocuries of transuranic contaminants per gram of material, nor spent reactor fuel, nor material classified as either high-level waste or waste which is unsuited for disposal by near-surface burial under any applicable federal regulations.
+(b)  "Low-level waste" does not include waste containing more than 10 nanocuries of transuranic contaminants per gram of material, nor spent reactor fuel, nor material classified as either high-level waste or waste which is unsuited for disposal by near-surface burial under any applicable federal regulations.
 

@@ -1,18 +1,20 @@
-20A-11-702 (Superseded 01/01/11).   Campaign financial reporting of political issues expenditures by corporations -- Financial reporting.
+20A-11-702.   Campaign financial reporting of political issues expenditures by corporations -- Financial reporting.
 
-(1) (a)  Each corporation that has made political issues expenditures on current or proposed ballot issues that total at least $750 during a calendar year shall file a verified financial statement with the lieutenant governor's office on:
+(1) (a)  Each corporation that has made political issues expenditures on current or proposed ballot issues that total at least $750 during a calendar year shall file a verified financial statement with the lieutenant governor's office:
 
-(i)  January 10, reporting expenditures as of December 31 of the previous year;
+(i)  on January 10, reporting expenditures as of December 31 of the previous year;
 
-(ii)  August 31; and
+(ii)  seven days before the regular primary election date;
 
-(iii)  seven days before the regular general election.
+(iii)  on August 31; and
+
+(iv)  seven days before the regular general election date.
 
 (b)  The corporation shall report:
 
 (i)  a detailed listing of all expenditures made since the last statement; and
 
-(ii)  for financial statements filed on August 31 and before the primary and general elections, expenditures as of five days before the required filing date of the financial statement.
+(ii)  for financial statements under Subsections (1)(a)(ii) through (iv), expenditures as of five days before the required filing date of the financial statement.
 
 (c)  The corporation need not file a statement under this section if it made no expenditures during the reporting period.
 
@@ -22,5 +24,5 @@
 
 (b)  the total amount of political issues expenditures disbursed by the corporation; and
 
-(c)  a paragraph signed by the corporation's treasurer or chief financial officer verifying the accuracy of the verified financial statement.
+(c) a statement by the corporation's treasurer or chief financial officer certifying the accuracy of the verified financial statement.
 

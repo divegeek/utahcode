@@ -40,9 +40,9 @@
 
 (c)  immediately below the election officer's title, two one-point parallel horizontal rules separate endorsements from the rest of the ballot;
 
-(d)  immediately below the horizontal rules, an "Instructions to Voters" section is printed in ten-point bold type that states: "To vote for a candidate, place a cross (X) in the square following the name(s) of the person(s) you favor as the candidate(s) for each respective office." followed by two one-point parallel rules;
+(d)  immediately below the horizontal rules, an "Instructions to Voters" section is printed in 10 point bold type that states: "To vote for a candidate, place a cross (X) in the square following the name(s) of the person(s) you favor as the candidate(s) for each respective office." followed by two one-point parallel rules;
 
-(e)  after the rules, the designation of the office for which the candidates seek election is printed flush with the left-hand margin and the words: "Vote for one" or "Vote for two or more" are printed to extend to the extreme right of the column in ten-point bold type, followed by a hair-line rule;
+(e)  after the rules, the designation of the office for which the candidates seek election is printed flush with the left-hand margin and the words: "Vote for one" or "Vote for two or more" are printed to extend to the extreme right of the column in 10 point bold type, followed by a hair-line rule;
 
 (f)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules 3/8 inch apart, alphabetically according to surnames with surnames last and grouped according to the office that they seek;
 

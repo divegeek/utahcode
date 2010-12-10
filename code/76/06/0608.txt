@@ -1,12 +1,12 @@
-76-6-608 (Superseded 11/01/10).   Theft detection shielding devices prohibited -- Penalties.
+76-6-608.   Theft detection shielding devices prohibited -- Penalties.
 
 (1)  A person may not knowingly:
 
-(a) make or possess any container or device used for, intended for use for, or represented as having the purpose of shielding merchandise from any electronic or magnetic theft alarm sensor, with the intent to commit a theft of merchandise;
+(a)  make or possess any container or device used for, intended for use for, or represented as having the purpose of shielding merchandise from any electronic or magnetic theft alarm sensor, with the intent to commit a theft of merchandise;
 
-(b) sell, offer to sell, advertise, give, transport, or otherwise transfer to another any container or device intended for use for or represented as having the purpose of shielding merchandise from any electronic or magnetic theft alarm sensor;
+(b)  sell, offer to sell, advertise, give, transport, or otherwise transfer to another any container or device intended for use for or represented as having the purpose of shielding merchandise from any electronic or magnetic theft alarm sensor;
 
-(c) possess any tool or instrument designed to remove any theft detection device from any merchandise, with the intent to use the tool or instrument to remove any theft detection device from any merchandise without the permission of the merchant or the person owning or in possession of the merchandise; or
+(c)  possess any tool or instrument designed to remove any theft detection device from any merchandise, with the intent to use the tool or instrument to remove any theft detection device from any merchandise without the permission of the merchant or the person owning or in possession of the merchandise; or
 
 (d)  intentionally remove a theft detection device from merchandise prior to purchase and without the permission of the merchant.
 
@@ -14,9 +14,9 @@
 
 (b)  A violation of Subsection (1)(d) is a:
 
-(i)  class B misdemeanor if the value of the merchandise from which the theft detection device is removed is less than $300; or
+(i)  class B misdemeanor if the value of the merchandise from which the theft detection device is removed is less than $500; or
 
-(ii)  class A misdemeanor if the value of the merchandise from which the theft detection device is removed is or exceeds $300.
+(ii)  class A misdemeanor if the value of the merchandise from which the theft detection device is removed is or exceeds $500.
 
 (3)  A violation of Subsection (1) is a separate offense from any offense listed in Title 76, Chapter 6, Part 4, Theft, or Part 6, Retail Theft.
 

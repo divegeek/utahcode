@@ -1,6 +1,6 @@
-76-6-518 (Superseded 11/01/10).   Criminal simulation.
+76-6-518.   Criminal simulation.
 
-(1) A person is guilty of criminal simulation if, with intent to defraud another:
+(1)  A person is guilty of criminal simulation if, with intent to defraud another:
 
 (a)  he makes or alters an object in whole or in part so that it appears to have value because of age, antiquity, rarity, source, or authorship that it does not have;
 
@@ -12,11 +12,11 @@
 
 (2)  Criminal simulation is punishable as follows:
 
-(a)  If the value defrauded or intended to be defrauded is less than $300, the offense is a class B misdemeanor.
+(a)  If the value defrauded or intended to be defrauded is less than $500, the offense is a class B misdemeanor.
 
-(b)  If the value defrauded or intended to be defrauded is or  exceeds $300 but is less than $1,000, the offense is a class A misdemeanor.
+(b)  If the value defrauded or intended to be defrauded is or exceeds $500 but is less than $1,500, the offense is a class A misdemeanor.
 
-(c)  If the value defrauded or intended to be defrauded is or exceeds $1,000 but is less than  $5,000, the offense is a felony of the third degree.
+(c)  If the value defrauded or intended to be defrauded is or exceeds $1,500 but is less than  $5,000, the offense is a felony of the third degree.
 
 (d)  If the value defrauded or intended to be defrauded is or exceeds $5,000, the offense is a felony of the second degree.
 

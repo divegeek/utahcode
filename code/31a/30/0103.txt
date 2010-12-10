@@ -1,4 +1,4 @@
-31A-30-103 (Superseded 01/01/11).   Definitions.
+31A-30-103.   Definitions.
 
 As used in this chapter:
 
@@ -8,7 +8,7 @@ As used in this chapter:
 
 (3)  "Base premium rate" means, for each class of business as to a rating period, the lowest premium rate charged or that could have been charged under a rating system for that class of business by the covered carrier to covered insureds with similar case characteristics for health benefit plans with the same or similar coverage.
 
-(4)  "Basic coverage" means the coverage provided in the Basic Health Care Plan under Section 31A-22-613.5.
+(4)  "Basic benefit plan" or "basic coverage" means the coverage provided in the Basic Health Care Plan under Section 31A-22-613.5.
 
 (5)  "Carrier" means any person or entity that provides health insurance in this state including:
 
@@ -32,7 +32,7 @@ As used in this chapter:
 
 (iii)  health status.
 
-(7)  "Class of business" means all or a separate grouping of covered insureds established under Section 31A-30-105.
+(7)  "Class of business" means all or a separate grouping of covered insureds that is permitted by the department in accordance with Section 31A-30-105.
 
 (8)  "Conversion policy" means a policy providing coverage under the conversion provisions required in Chapter 22, Part 7, Group Accident and Health Insurance.
 
@@ -78,21 +78,9 @@ As used in this chapter:
 
 (19)  "New business premium rate" means, for each class of business as to a rating period, the lowest premium rate charged or offered, or that could have been charged or offered, by the carrier to covered insureds with similar case characteristics for newly issued health benefit plans with the same or similar coverage.
 
-(20)  "Plan year" means the year that is designated as the plan year in the plan document of a group health plan, except that if the plan document does not designate a plan year or if there is not a plan document, the plan year is:
+(20)  "Premium" means all money paid by covered insureds and covered individuals as a condition of receiving coverage from a covered carrier, including any fees or other contributions associated with the health benefit plan.
 
-(a)  the deductible or limit year used under the plan;
-
-(b)  if the plan does not impose a deductible or limit on a yearly basis, the policy year;
-
-(c)  if the plan does not impose a deductible or limit on a yearly basis and either the plan is not insured or the insurance policy is not renewed on an annual basis, the employer's taxable year; or
-
-(d)  in any case not described in Subsections (20)(a) through (c), the calendar year.
-
-(21)  "Preexisting condition" is as defined in Section 31A-1-301.
-
-(22)  "Premium" means all monies paid by covered insureds and covered individuals as a condition of receiving coverage from a covered carrier, including any fees or other contributions associated with the health benefit plan.
-
-(23) (a)  "Rating period" means the calendar period for which premium rates established by a covered carrier are assumed to be in effect, as determined by the carrier.
+(21) (a)  "Rating period" means the calendar period for which premium rates established by a covered carrier are assumed to be in effect, as determined by the carrier.
 
 (b)  A covered carrier may not have:
 
@@ -100,15 +88,15 @@ As used in this chapter:
 
 (ii)  no more than 12 rating periods in any calendar year.
 
-(24)  "Resident" means an individual who has resided in this state for at least 12 consecutive months immediately preceding the date of application.
+(22)  "Resident" means an individual who has resided in this state for at least 12 consecutive months immediately preceding the date of application.
 
-(25)  "Short-term limited duration insurance" means a health benefit product that:
+(23)  "Short-term limited duration insurance" means a health benefit product that:
 
 (a)  is not renewable; and
 
 (b)  has an expiration date specified in the contract that is less than 364 days after the date the plan became effective.
 
-(26)  "Small employer carrier" means a carrier that provides health benefit plans covering eligible employees of one or more small employers in this state, regardless of whether:
+(24)  "Small employer carrier" means a carrier that provides health benefit plans covering eligible employees of one or more small employers in this state, regardless of whether:
 
 (a)  coverage is offered through:
 
@@ -122,7 +110,7 @@ As used in this chapter:
 
 (b)  the policy or contract is situated out-of-state.
 
-(27)  "Uninsurable" means an individual who:
+(25)  "Uninsurable" means an individual who:
 
 (a)  is eligible for the Comprehensive Health Insurance Pool coverage under the underwriting criteria established in Subsection 31A-29-111(5); or
 
@@ -130,7 +118,7 @@ As used in this chapter:
 
 (ii)  has a condition of health that does not meet consistently applied underwriting criteria as established by the commissioner in accordance with Subsections 31A-30-106(1)(i) and (j) for which coverage the applicant is applying.
 
-(28)  "Uninsurable percentage" for a given calendar year equals UC/CI where, for purposes of this formula:
+(26)  "Uninsurable percentage" for a given calendar year equals UC/CI where, for purposes of this formula:
 
 (a)  "CI" means the carrier's individual coverage count as of December 31 of the preceding year; and
 

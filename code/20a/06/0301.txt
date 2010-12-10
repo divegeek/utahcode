@@ -30,7 +30,7 @@
 
 (i)  the offices to be filled are plainly printed immediately above the names of the candidates for those offices;
 
-(j)  the names of candidates are printed in capital letters, not less than 1/8 nor more than 1/4 of an inch high in heavy-faced type not smaller than ten-point, between lines or rules 3/8 of an inch apart;
+(j)  the names of candidates are printed in capital letters, not less than 1/8 nor more than 1/4 of an inch high in heavy-faced type not smaller than 10 point, between lines or rules 3/8 of an inch apart;
 
 (k)  a square with sides measuring not less than 1/4 of an inch in length is printed immediately adjacent to the name of each candidate;
 

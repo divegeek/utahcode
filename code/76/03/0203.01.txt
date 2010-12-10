@@ -1,22 +1,36 @@
-76-3-203.1 (Superseded 11/01/10).   Offenses committed in concert with two or more persons -- Notice -- Enhanced penalties.
+76-3-203.1.   Offenses committed in concert with two or more persons or in relation to a criminal street gang -- Notice -- Enhanced penalties.
 
-(1) (a)  A person who commits any offense listed in Subsection (4) is subject to an enhanced penalty for the offense as provided in Subsection (3) if the trier of fact finds beyond a reasonable doubt that the person acted in concert with two or more persons.
+(1)  As used in this section:
 
-(b)  "In concert with two or more persons" as used in this section means the defendant was aided or encouraged by at least two other persons in committing the offense and was aware that he was so aided or encouraged, and each of the other persons:
+(a)  "Criminal street gang" has the same definition as in Section 76-9-802.
 
-(i)  was physically present; or
+(b)  "In concert with two or more persons" means:
 
-(ii)  participated as a party to any offense listed in Subsection (4).
+(i)  the defendant was aided or encouraged by at least two other persons in committing the offense and was aware of this aid or encouragement; and
 
-(c)  For purposes of Subsection (1)(b)(ii):
+(ii)  each of the other persons:
+
+(A)  was physically present; or
+
+(B)  participated as a party to any offense listed in Subsection (5).
+
+(c)  "In concert with two or more persons" means, regarding intent:
 
 (i)  other persons participating as parties need not have the intent to engage in the same offense or degree of offense as the defendant; and
 
-(ii)  a minor is a party if the minor's actions would cause him to be a party if he were an adult.
+(ii)  a minor is a party if the minor's actions would cause the minor to be a party if the minor were an adult.
 
-(2)  The prosecuting attorney, or grand jury if an indictment is returned, shall cause to be subscribed upon the information or indictment notice that the defendant is subject to the enhanced penalties provided under this section.
+(2)  A person who commits any offense listed in Subsection (5) is subject to an enhanced penalty for the offense as provided in Subsection (4) if the trier of fact finds beyond a reasonable doubt that the person acted:
 
-(3)  The enhanced penalty for a:
+(a)  in concert with two or more persons;
+
+(b)  for the benefit of, at the direction of, or in association with any criminal street gang as defined in Section 76-9-802; or
+
+(c)  to gain recognition, acceptance, membership, or increased status with a criminal street gang as defined in Section 76-9-802.
+
+(3)  The prosecuting attorney, or grand jury if an indictment is returned, shall cause to be subscribed upon the information or indictment notice that the defendant is subject to the enhanced penalties provided under this section.
+
+(4)  The enhanced penalty for a:
 
 (a)  class B misdemeanor is a class A misdemeanor;
 
@@ -28,9 +42,17 @@
 
 (e)  first degree felony is an indeterminate prison term of not less than five years in addition to the statutory minimum prison term for the offense, and which may be for life.
 
-(4)  Offenses referred to in Subsection (1) are:
+(5)  Offenses referred to in Subsection (2) are:
 
-(a)  any criminal violation of Title 58, Chapter 37, 37a, 37b, or 37c, regarding drug-related offenses;
+(a)  any criminal violation of the following chapters of Title 58:
+
+(i)  Chapter 37, Utah Controlled Substances Act;
+
+(ii)  Chapter 37a, Utah Drug Paraphernalia Act;
+
+(iii)  Chapter 37b, Imitation Controlled Substances Act; or
+
+(iv)  Chapter 37c, Utah Controlled Substance Precursor Act;
 
 (b)  assault and related offenses under Title 76, Chapter 5, Part 1, Assault and Related Offenses;
 
@@ -76,5 +98,5 @@
 
 (w)  burglary of a research facility as defined in Section 76-10-2002.
 
-(5)  It is not a bar to imposing the enhanced penalties under this section that the persons with whom the actor is alleged to have acted in concert are not identified, apprehended, charged, or convicted, or that any of those persons are charged with or convicted of a different or lesser offense.
+(6)  It is not a bar to imposing the enhanced penalties under this section that the persons with whom the actor is alleged to have acted in concert are not identified, apprehended, charged, or convicted, or that any of those persons are charged with or convicted of a different or lesser offense.
 

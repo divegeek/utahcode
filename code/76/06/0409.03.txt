@@ -1,4 +1,4 @@
-76-6-409.3 (Superseded 11/01/10).   Theft of utility or cable television services -- Restitution -- Civil action for damages.
+76-6-409.3.   Theft of utility or cable television services -- Restitution -- Civil action for damages.
 
 (1)  As used in this section:
 
@@ -12,7 +12,7 @@
 
 (e)  "Utility" means any public utility, municipally-owned utility, or cooperative utility which provides electricity, gas, water, or sewer, or any combination of them, for sale to consumers.
 
-(2)  A person is guilty of theft of a utility or cable television service if the person commits any prohibited acts which make gas, electricity, water, sewer, or cable television available to a tenant or occupant, including himself, with intent to avoid due payment to the utility or cable television company.  Any person aiding and abetting in these prohibited acts is a party to the offense under Section 76-2-202.   Prohibited acts include:
+(2)  A person is guilty of theft of a utility or cable television service if the person commits any prohibited acts which make gas, electricity, water, sewer, or cable television available to a tenant or occupant, including himself, with intent to avoid due payment to the utility or cable television company.  Any person aiding and abetting in these prohibited acts is a party to the offense under Section 76-2-202.  Prohibited acts include:
 
 (a)  connecting any tube, pipe, wire, cable, or other instrument with any meter, device, or other instrument used for conducting gas, electricity, water, sewer, or cable television in a manner as permits the use of the gas, electricity, water, sewer, or cable television without its passing through a meter or other instrument recording the usage for billing;
 
@@ -30,7 +30,7 @@
 
 (h)  using a metering device belonging to the utility that has not been assigned to the location and installed by the utility;
 
-(i)  fabricating or using a device to pick or otherwise tamper with the locks used to deter utility service diversion, meter tampering,  meter thefts, and unauthorized cable television service;
+(i)  fabricating or using a device to pick or otherwise tamper with the locks used to deter utility service diversion, meter tampering, meter thefts, and unauthorized cable television service;
 
 (j)  assisting or instructing any person in obtaining or attempting to obtain any cable television service without payment of all lawful compensation to the company providing the service;
 
@@ -48,11 +48,11 @@
 
 (a)  In the case of theft of utility services, if the value of the gas, electricity, water, or sewer service:
 
-(i)  is less than $300, the offense is a class B misdemeanor;
+(i)  is less than $500, the offense is a class B misdemeanor;
 
-(ii)  is or exceeds $300 but is not more than $1,000, the offense is a class A misdemeanor;
+(ii)  is or exceeds $500 but is not more than $1,500, the offense is a class A misdemeanor;
 
-(iii)  is or exceeds $1,000 but is not more than $5,000, the offense is a third degree felony; and
+(iii)  is or exceeds $1,500 but is not more than $5,000, the offense is a third degree felony; and
 
 (iv)  is or exceeds $5,000 or if the offender has previously been convicted of a violation of this section, the offense is a second degree felony.
 

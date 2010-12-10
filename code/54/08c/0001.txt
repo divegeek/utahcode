@@ -28,7 +28,7 @@ As used in this chapter:
 
 (2)  "Business day" means any day other than Saturday, Sunday, or a legal holiday.
 
-(3)  "High voltage" means voltage in excess of six hundred volts measured between:
+(3)  "High voltage" means voltage in excess of 600 volts measured between:
 
 (a)  conductors; or
 

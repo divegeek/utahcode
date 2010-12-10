@@ -1,4 +1,4 @@
-59-7-101 (Superseded 01/01/11).   Definitions.
+59-7-101.   Definitions.
 
 As used in this chapter:
 
@@ -38,7 +38,7 @@ As used in this chapter:
 
 (ii)  a brother-sister controlled group as defined in Section 1563, Internal Revenue Code, except that 50% shall be substituted for 80%; or
 
-(iii)  three or more corporations each of which is a member of a group of corporations described in Subsection (2)(a)(i) or (2)(a)(ii), and one of which is:
+(iii)  three or more corporations each of which is a member of a group of corporations described in Subsection (2)(a)(i) or(ii), and one of which is:
 
 (A)  a common parent corporation included in a group of corporations described in Subsection (2)(a)(i); and
 
@@ -124,13 +124,19 @@ As used in this chapter:
 
 (15)  "Foreign corporation" means a corporation that is not incorporated or organized under the laws of this state.
 
-(16) (a)  "Foreign operating company" means a corporation that:
+(16) (a)  "Foreign operating company" means a corporation if:
 
-(i)  is incorporated in the United States; and
+(i)  the corporation is incorporated in the United States;
 
-(ii)  80% or more of whose business activity, as determined under Section 59-7-401, is conducted outside the United States.
+(ii)  at least 80% of the corporation's business activity, as determined under Section 59-7-401, is conducted outside the United States; and
 
-(b)  "Foreign operating company" does not include a corporation that qualifies for the Puerto Rico and Possession Tax Credit as provided in Section 936, Internal Revenue Code.
+(iii)  as calculated in accordance with Part 3, Allocation and Apportionment of Income - Utah UDITPA Provisions, the corporation has:
+
+(A)  at least $1,000,000 of payroll located outside the United States; and
+
+(B)  at least $2,000,000 of property located outside the United States.
+
+(b)  "Foreign operating company" does not include a corporation that qualifies for the Puerto Rico and possession tax credit as provided in Section 936, Internal Revenue Code.
 
 (17) (a)  "Foreign real estate investment trust" means:
 
@@ -248,7 +254,7 @@ As used in this chapter:
 
 (ii)  an affiliated group electing to file a water's edge combined report under Subsection 59-7-402(2).
 
-(b)  There is a rebuttable presumption that a corporation which qualifies for the Puerto Rico and Possession Tax Credit provided in Section 936, Internal Revenue Code, is part of a unitary group.
+(b)  There is a rebuttable presumption that a corporation which qualifies for the Puerto Rico and possession tax credit provided in Section 936, Internal Revenue Code, is part of a unitary group.
 
 (37)  "Worldwide combined report" means the combination of the income and activities of all members of a unitary group irrespective of the country in which the corporations are incorporated or conduct business activity.
 

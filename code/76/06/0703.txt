@@ -1,16 +1,16 @@
-76-6-703 (Superseded 11/01/10).   Computer crimes and penalties.
+76-6-703.   Computer crimes and penalties.
 
 (1)  A person who without authorization gains or attempts to gain access to and alters, damages, destroys, discloses, or modifies any computer, computer network, computer property, computer system, computer program, computer data or software, and thereby causes damage to another, or obtains money, property, information, or a benefit for any person without legal right, is guilty of:
 
 (a)  a class B misdemeanor when:
 
-(i)  the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is less than $300; or
+(i)  the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is less than $500; or
 
 (ii)  the information obtained is not confidential;
 
-(b)  a class A misdemeanor when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $300 but is less than $1,000;
+(b)  a class A misdemeanor when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $500 but is less than $1,500;
 
-(c)  a third degree felony when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $1,000 but is less than $5,000;
+(c)  a third degree felony when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $1,500 but is less than $5,000;
 
 (d)  a second degree felony when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $5,000; or
 
