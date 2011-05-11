@@ -1,10 +1,10 @@
 31A-30-106.   Individual premiums -- Rating restrictions -- Disclosure.
 
-(1)  Premium rates for health benefit plans for individuals under this chapter are subject to the provisions of this section.
+(1)  Premium rates for health benefit plans for individuals under this chapter are subject to this section.
 
 (a)  The index rate for a rating period for any class of business may not exceed the index rate for any other class of business by more than 20%.
 
-(b) (i)  For a class of business, the premium rates charged during a rating period to covered insureds with similar case characteristics for the same or similar coverage, or the rates that could be charged to the individual under the rating system for that class of business, may not vary from the index rate by more than 30% of the index rate provided in Section 31A-30-106.1.
+(b) (i)  For a class of business, the premium rates charged during a rating period to covered insureds with similar case characteristics for the same or similar coverage, or the rates that could be charged to the individual under the rating system for that class of business, may not vary from the index rate by more than 30% of the index rate except as provided under Subsection (1)(b)(ii).
 
 (ii)  A carrier that offers individual and small employer health benefit plans may use the small employer index rates to establish the rate limitations for individual policies, even if some individual policies are rated below the small employer base rate.
 
@@ -12,7 +12,7 @@
 
 (i)  the percentage change in the new business premium rate measured from the first day of the prior rating period to the first day of the new rating period;
 
-(ii)  any adjustment, not to exceed 15% annually for rating periods of less than one year, due to the claim experience, health status, or duration of coverage of the covered individuals as determined from the rate manual for the class of business of the carrier offering an individual health benefit plan; and
+(ii)  any adjustment, not to exceed 15% annually and adjusted pro rata for rating periods of less than one year, due to the claim experience, health status, or duration of coverage of the covered individuals as determined from the rate manual for the class of business of the carrier offering an individual health benefit plan; and
 
 (iii)  any adjustment due to change in coverage or change in the case characteristics of the covered insured as determined from the rate manual for the class of business of the carrier offering an individual health benefit plan.
 
@@ -72,7 +72,7 @@
 
 (b)  A covered carrier may not offer to transfer a covered insured into or out of a class of business unless the offer is made to transfer all covered insureds in the class of business without regard to:
 
-(i) case characteristics;
+(i)  case characteristics;
 
 (ii)  claim experience;
 

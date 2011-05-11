@@ -1,4 +1,4 @@
-20A-2-109.   Statewide voter registration database -- Lieutenant governor to create -- Counties to participate -- List of incarcerated felons.
+20A-2-109.   Statewide voter registration database -- Lieutenant governor to create -- Counties to participate -- Maintenance of database -- Cooperation with governmental entities -- Record security -- List of incarcerated felons.
 
 (1) (a) (i)  The lieutenant governor shall develop a statewide voter registration database.
 
@@ -10,7 +10,25 @@
 
 (b)  Each county clerk shall utilize the statewide voter registration database when recording or modifying voter registration records.
 
-(2) (a)  The lieutenant governor shall maintain a current list of all incarcerated felons in Utah.
+(2) (a)  The lieutenant governor shall establish and implement a procedure to maintain the accuracy of the statewide voter registration database by using information available from:
+
+(i)  a voter;
+
+(ii)  a governmental entity, as defined by Section 63G-2-103; or
+
+(iii)  another state.
+
+(b)  Subject to Subsection (2)(c), the lieutenant governor may cooperate or enter into an agreement with a governmental entity or another state to share information to implement the procedure established under Subsection (2)(a).
+
+(c)  For a record shared under Subsection (2)(b), the lieutenant governor shall ensure:
+
+(i)  that the record is only used to maintain the accuracy of a voter registration database;
+
+(ii)  compliance with Section 63G-2-206; and
+
+(iii)  that the record is secure from unauthorized use by employing data encryption or another similar technology security system.
+
+(3) (a)  The lieutenant governor shall maintain a current list of all incarcerated felons in Utah.
 
 (b) (i)  The Department of Corrections shall provide the lieutenant governor's office with a list of the name and last-known address of each person who:
 

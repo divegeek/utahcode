@@ -10,9 +10,9 @@
 
 (i)  the canvass of an election under Section 17B-1-214, if a majority of those voting at the election within the proposed local district as a whole vote in favor of the creation of a local district;
 
-(ii)  certification of a petition as to which the election requirement of Subsection 17B-1-214(1) does not apply because of Subsection 17B-1-214(3)(a) or (b); or
+(ii)  certification of a petition as to which the election requirement of Subsection 17B-1-214(1) does not apply because of Subsection 17B-1-214(3)(a), (b), or (c); or
 
-(iii)  adoption of a resolution, under Subsection 17B-1-213(4) approving the creation of a local district for which an election was not required under Subsection 17B-1-214(3)(c), (d), or (e), by the legislative body of each county whose unincorporated area is included within and the legislative body of each municipality whose area is included within the proposed local district, or by the board of trustees of the initiating local district.
+(iii)  adoption of a resolution, under Subsection 17B-1-213(4) approving the creation of a local district for which an election was not required under Subsection 17B-1-214(3)(d), (e), or (f), by the legislative body of each county whose unincorporated area is included within and the legislative body of each municipality whose area is included within the proposed local district, or by the board of trustees of the initiating local district.
 
 (2)  Upon the lieutenant governor's issuance of a certificate of incorporation under Section 67-1a-6.5, the responsible body shall:
 
@@ -46,13 +46,13 @@
 
 (a)  if an election was held under Section 17B-1-214, the area of the new local district as approved at the election;
 
-(b)  if an election was not required because of Subsection 17B-1-214(3)(a) or (b), the area of the proposed local district as described in the petition; or
+(b)  if an election was not required because of Subsection 17B-1-214(3)(a), (b), or (c), the area of the proposed local district as described in the petition; or
 
-(c)  if an election was not required because of Subsection 17B-1-214(3)(c), (d), or (e), the area of the new local district as described in the resolution adopted under Subsection 17B-1-213(4).
+(c)  if an election was not required because of Subsection 17B-1-214(3)(d), (e), or (f), the area of the new local district as described in the resolution adopted under Subsection 17B-1-213(4).
 
 (4) (a)  Upon the lieutenant governor's issuance of the certificate of incorporation under Section 67-1a-6.5, the local district is created and incorporated as:
 
-(i)  the type of specialized local district that was specified in the petition under Subsection 17B-1-203(1)(a) or (b) or resolution under Subsection 17B-1-203(1)(c) or (d), if the petition or resolution proposed the creation of a specialized local district; or
+(i)  the type of specialized local district that was specified in the petition under Subsection 17B-1-203(1)(a), (b), or (c) or resolution under Subsection 17B-1-203(1)(d) or (e), if the petition or resolution proposed the creation of a specialized local district; or
 
 (ii)  a basic local district, if the petition or resolution did not propose the creation of a specialized local district.
 

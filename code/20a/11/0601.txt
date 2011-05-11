@@ -8,13 +8,15 @@
 
 (ii)  distributing expenditures for political purposes totaling at least $50.
 
-(2)  Each political action committee shall designate two officers that have primary decision-making authority for the political action committee.
+(2) (a)  Each political action committee shall designate two officers who have primary decision-making authority for the political action committee.
+
+(b)  A person may not exercise primary decision-making authority for a political action committee who is not designated under Subsection (2)(a).
 
 (3)  The statement of organization shall include:
 
 (a)  the name and address of the political action committee;
 
-(b)  the name, street address, phone number, occupation, and title of the two primary officers designated under Subsection (2);
+(b)  the name, street address, phone number, occupation, and title of the two primary officers designated under Subsection (2)(a);
 
 (c)  the name, street address, occupation, and title of all other officers of the political action committee;
 
@@ -30,9 +32,9 @@
 
 (b)  Any notice of dissolution filed by a political action committee does not exempt that political action committee from complying with the financial reporting requirements of this chapter.
 
-(5) (a)  Unless the political action committee has filed a notice of dissolution under Subsection (4), a political action committee shall file, with the lieutenant governor's office, notice of any change of an officer described in Subsection (2).
+(5) (a)  Unless the political action committee has filed a notice of dissolution under Subsection (4), a political action committee shall file, with the lieutenant governor's office, notice of any change of an officer described in Subsection (2)(a).
 
-(b)  Notice of a change of a primary officer described in Subsection (2) shall:
+(b)  Notice of a change of a primary officer described in Subsection (2)(a) shall:
 
 (i)  be filed within 10 days of the date of the change; and
 
@@ -40,7 +42,7 @@
 
 (6) (a)  A person is guilty of providing false information in relation to a political action committee if the person intentionally or knowingly gives false or misleading material information in the statement of organization or the notice of change of primary officer.
 
-(b)  Each primary officer designated in Subsection (2) is guilty of accepting an unlawful contribution if the political action committee knowingly or recklessly accepts a contribution from a corporation that:
+(b)  Each primary officer designated in Subsection (2)(a) is guilty of accepting an unlawful contribution if the political action committee knowingly or recklessly accepts a contribution from a corporation that:
 
 (i)  was organized less than 90 days before the date of the general election; and
 

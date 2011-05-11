@@ -162,7 +162,7 @@
 
 (c)  This Subsection (5) does not apply to information provided by an industrial insured captive insurance company insuring the risks of an industrial insured group.
 
-(6) (a)  A captive insurance company shall pay to the department the following nonrefundable fees established by the department under Sections 31A-3-103 and 63J-1-504:
+(6) (a)  A captive insurance company shall pay to the department the following nonrefundable fees established by the department under Sections 31A-3-103, 31A-3-304, and 63J-1-504:
 
 (i)  a fee for examining, investigating, and processing, by a department employee, of an application for a certificate of authority made by a captive insurance company;
 
@@ -172,7 +172,7 @@
 
 (b)  The commissioner may:
 
-(i)  retain legal, financial, and examination services from outside the department to perform the services described in:
+(i)  assign a department employee or retain legal, financial, and examination services from outside the department to perform the services described in:
 
 (A)  Subsection (6)(a); and
 
@@ -182,5 +182,5 @@
 
 (7)  If the commissioner is satisfied that the documents and statements filed by the applicant captive insurance company comply with this chapter, the commissioner may grant a certificate of authority authorizing the company to do insurance business in this state.
 
-(8)  A certificate of authority granted under this section expires annually and must be renewed by July 1 of each year.
+(8)  A certificate of authority granted under this section expires annually and shall be renewed by July 1 of each year.
 

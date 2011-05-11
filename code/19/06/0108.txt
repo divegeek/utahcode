@@ -6,9 +6,11 @@
 
 (b)  an application for modification of a commercial hazardous waste incinerator if the construction or the modification would increase the hazardous waste incinerator capacity above the capacity specified in the operation plan as of January 1, 1990, or the capacity specified in the operation plan application as of January 1, 1990, if no operation plan approval has been issued as of January 1, 1990;
 
-(c)  an application for modification of a commercial nonhazardous solid waste incinerator if the construction of the modification would cost 50% or more of the cost of construction of the original incinerator or the modification would result in an increase in the capacity or throughput of the incinerator of a cumulative total of 50% above the total capacity or throughput that was approved in the operation plan as of January 1, 1990, or the initial approved operation plan if the initial approval is subsequent to January 1, 1990; or
+(c)  an application for modification of a commercial nonhazardous solid waste incinerator if the construction of the modification would cost 50% or more of the cost of construction of the original incinerator or the modification would result in an increase in the capacity or throughput of the incinerator of a cumulative total of 50% above the total capacity or throughput that was approved in the operation plan as of January 1, 1990, or the initial approved operation plan if the initial approval is subsequent to January 1, 1990;
 
-(d)  an application for modification of a commercial nonhazardous solid or hazardous waste treatment, storage, or disposal facility, other than an incinerator, if the modification would be outside the boundaries of the property owned or controlled by the applicant, as shown in the application or approved operation plan as of January 1, 1990, or the initial approved operation plan if the initial approval is subsequent to January 1, 1990.
+(d)  an application for modification of a commercial nonhazardous solid or hazardous waste treatment, storage, or disposal facility, other than an incinerator, if the modification would be outside the boundaries of the property owned or controlled by the applicant, as shown in the application or approved operation plan as of January 1, 1990, or the initial approved operation plan if the initial approval is subsequent to January 1, 1990; or
+
+(e)  a submission of an operation plan to construct a facility, if previous approvals of the operation plan to construct the facility have been revoked pursuant to Subsection (3)(c)(iii).
 
 (2)  Capacity under Subsection (1)(b) shall be calculated based on the throughput tonnage specified for the trial burn in the operation plan or the operation plan application if no operation plan approval has been issued as of January 1, 1990, and on annual operations of 7,000 hours.
 
@@ -36,13 +38,29 @@
 
 (C)  cement kiln dust wastes.
 
-(c) (i)  No person may construct any facility listed under Subsection (3)(c)(ii) until he receives, in addition to and subsequent to local government approval and subsequent to the approval required in Subsection (3)(a), approval by the governor and the Legislature.
+(c) (i)  No person may construct a facility listed under Subsection (3)(c)(ii) until the person receives:
 
-(ii)  Facilities referred to in Subsection (3)(c)(i) are:
+(A)  local government approval and the approval described in Subsection (3)(a);
 
-(A)  commercial nonhazardous solid or hazardous waste treatment or disposal facilities; and
+(B)  approval from the Legislature; and
 
-(B)  except for facilities that receive the following wastes solely for the purpose of recycling, reuse, or reprocessing, any commercial facility that accepts for treatment or disposal, with the intent to make a profit: fly ash waste, bottom ash waste, slag waste, or flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels; wastes from the extraction, beneficiation, and processing of ores and minerals; or cement kiln dust wastes.
+(C)  after receiving the approvals described in Subsections (3)(c)(i)(A) and (B), approval from the governor.
+
+(ii) A facility referred to in Subsection (3)(c)(i) is:
+
+(A)  a commercial nonhazardous solid waste disposal facility;
+
+(B)  except for facilities that receive the following wastes solely for the purpose of recycling, reuse, or reprocessing, any commercial facility that accepts for treatment or disposal, with the intent to make a profit: fly ash waste, bottom ash waste, slag waste, or flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels; wastes from the extraction, beneficiation, and processing of ores and minerals; or cement kiln dust wastes; or
+
+(C)  a commercial hazardous waste treatment, storage, or disposal facility.
+
+(iii)  The required approvals described in Subsection (3)(c)(i) for a facility described in Subsection (3)(c)(ii)(A) or (B) are automatically revoked if:
+
+(A)  the governor's approval is received on or after May 10, 2011, and the facility is not operational within five years after the day on which the governor's approval is received; or
+
+(B)  the governor's approval is received before May 10, 2011, and the facility is not operational on or before May 10, 2016.
+
+(iv)  The required approvals described in Subsection (3)(c)(i) for a facility described in Subsection (3)(c)(ii)(A) or (B), including the approved operation plan, are not transferrable to another person for five years after the day on which the governor's approval is received.
 
 (d)  No person need obtain gubernatorial or legislative approval for the construction of a hazardous waste facility for which an operating plan has been approved by or submitted for approval to the executive secretary under this section before April 24, 1989, and which has been determined, on or before December 31, 1990, by the executive secretary to be complete, in accordance with state and federal requirements for operating plans for hazardous waste facilities even if a different geographic site is subsequently submitted.
 
@@ -50,7 +68,7 @@
 
 (f)  Any person owning or operating a facility or site on or before November 19, 1980, who has given timely notification as required by Section 3010 of the Resource Conservation and Recovery Act of 1976, 42 U.S.C. Section 6921, et seq., and who has submitted a proposed hazardous waste plan under this section for that facility or site, may continue to operate that facility or site without violating this section until the plan is approved or disapproved under this section.
 
-(g) (i)  The executive secretary shall suspend acceptance of further applications for a commercial nonhazardous solid or hazardous waste facility upon a finding that he cannot adequately oversee existing and additional facilities for permit compliance, monitoring, and enforcement.
+(g) (i)  The executive secretary shall suspend acceptance of further applications for a commercial nonhazardous solid or hazardous waste facility upon a finding that the executive secretary cannot adequately oversee existing and additional facilities for permit compliance, monitoring, and enforcement.
 
 (ii)  The executive secretary shall report any suspension to the Natural Resources, Agriculture, and Environment Interim Committee.
 
@@ -62,7 +80,7 @@
 
 (c) (i)  If the plan for a class I or II facility is determined to be complete, the executive secretary shall issue a notice of completeness.
 
-(ii)  If the plan is determined by the executive secretary to be incomplete, he shall issue a notice of deficiency, listing the additional information to be provided by the owner or operator to complete the plan.
+(ii)  If the plan is determined by the executive secretary to be incomplete, the executive secretary shall issue a notice of deficiency, listing the additional information to be provided by the owner or operator to complete the plan.
 
 (d)  The executive secretary shall review information submitted in response to a notice of deficiency within 30 days after receipt.
 
@@ -138,7 +156,7 @@
 
 (15)  The provisions of Subsections (9), (10), and (11) do not apply to a nonhazardous solid waste facility in existence or to an application filed or pending in the department prior to January 1, 1990, that is determined by the executive secretary, on or before December 31, 1990, to be complete in accordance with state and federal requirements applicable to operation plans for nonhazardous solid waste facilities.
 
-(16)  Nonhazardous solid waste generated outside of this state that is defined as hazardous waste in the state where it is generated and which is received for disposal in this state shall not be disposed of at a nonhazardous waste disposal facility owned and operated by local government or a facility under contract with a local government solely for disposal of nonhazardous solid waste generated within the boundaries of the local government, unless disposal is approved by the executive secretary.
+(16)  Nonhazardous solid waste generated outside of this state that is defined as hazardous waste in the state where it is generated and which is received for disposal in this state may not be disposed of at a nonhazardous waste disposal facility owned and operated by local government or a facility under contract with a local government solely for disposal of nonhazardous solid waste generated within the boundaries of the local government, unless disposal is approved by the executive secretary.
 
 (17)  This section may not be construed to exempt any facility from applicable regulation under the federal Atomic Energy Act, 42 U.S.C. Sections 2014 and 2021 through 2114.
 

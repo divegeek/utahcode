@@ -54,19 +54,21 @@ As used in this title:
 
 (12)  "Canvassing judge" means a poll worker designated to assist in counting ballots at the canvass.
 
-(13)  "Convention" means the political party convention at which party officers and delegates are selected.
+(13)  "Contracting election officer" means an election officer who enters into a contract or interlocal agreement with a provider election officer.
 
-(14)  "Counting center" means one or more locations selected by the election officer in charge of the election for the automatic counting of ballots.
+(14)  "Convention" means the political party convention at which party officers and delegates are selected.
 
-(15)  "Counting judge" means a poll worker designated to count the ballots during election day.
+(15)  "Counting center" means one or more locations selected by the election officer in charge of the election for the automatic counting of ballots.
 
-(16)  "Counting poll watcher" means a person selected as provided in Section 20A-3-201 to witness the counting of ballots.
+(16)  "Counting judge" means a poll worker designated to count the ballots during election day.
 
-(17)  "Counting room" means a suitable and convenient private place or room, immediately adjoining the place where the election is being held, for use by the poll workers and counting judges to count ballots during election day.
+(17)  "Counting poll watcher" means a person selected as provided in Section 20A-3-201 to witness the counting of ballots.
 
-(18)  "County officers" means those county officers that are required by law to be elected.
+(18)  "Counting room" means a suitable and convenient private place or room, immediately adjoining the place where the election is being held, for use by the poll workers and counting judges to count ballots during election day.
 
-(19)  "Date of the election" or "election day" or "day of the election":
+(19)  "County officers" means those county officers that are required by law to be elected.
+
+(20)  "Date of the election" or "election day" or "day of the election":
 
 (a)  means the day that is specified in the calendar year as the day that the election occurs; and
 
@@ -76,13 +78,21 @@ As used in this title:
 
 (ii)  any early voting or early voting period as provided under Chapter 3, Part 6, Early Voting.
 
-(20)  "Election" means a regular general election, a municipal general election, a statewide special election, a local special election, a regular primary election, a municipal primary election, and a local district election.
+(21)  "Elected official" means:
 
-(21)  "Election Assistance Commission" means the commission established by Public Law 107-252, the Help America Vote Act of 2002.
+(a)  a person elected to an office under Section 20A-1-303;
 
-(22)  "Election cycle" means the period beginning on the first day persons are eligible to file declarations of candidacy and ending when the canvass is completed.
+(b)  a person who is considered to be elected to a municipal office in accordance with Subsection 20A-1-206(1)(c)(ii); or
 
-(23)  "Election judge" means a poll worker that is assigned to:
+(c)  a person who is considered to be elected to a local district office in accordance with Subsection 20A-1-206(3)(c)(ii).
+
+(22)  "Election" means a regular general election, a municipal general election, a statewide special election, a local special election, a regular primary election, a municipal primary election, and a local district election.
+
+(23)  "Election Assistance Commission" means the commission established by Public Law 107-252, the Help America Vote Act of 2002.
+
+(24)  "Election cycle" means the period beginning on the first day persons are eligible to file declarations of candidacy and ending when the canvass is completed.
+
+(25)  "Election judge" means a poll worker that is assigned to:
 
 (a)  preside over other poll workers at a polling place;
 
@@ -90,69 +100,97 @@ As used in this title:
 
 (c)  serve as a canvassing judge, counting judge, or receiving judge.
 
-(24)  "Election officer" means:
+(26)  "Election officer" means:
 
-(a)  the lieutenant governor, for all statewide ballots;
+(a)  the lieutenant governor, for all statewide ballots and elections;
 
-(b)  the county clerk or clerks for all county ballots and for certain ballots and elections as provided in Section 20A-5-400.5;
+(b)  the county clerk for:
 
-(c)  the municipal clerk for all municipal ballots and for certain ballots and elections as provided in Section 20A-5-400.5;
+(i)  a county ballot and election; and
 
-(d)  the local district clerk or chief executive officer for certain ballots and elections as provided in Section 20A-5-400.5; and
+(ii)  a ballot and election as a provider election officer as provided in Section 20A-5-400.1 or 20A-5-400.5;
 
-(e)  the business administrator or superintendent of a school district for certain ballots or elections as provided in Section 20A-5-400.5.
+(c)  the municipal clerk for:
 
-(25)  "Election official" means any election officer, election judge, or poll worker.
+(i)  a municipal ballot and election; and
 
-(26)  "Election results" means, for bond elections, the count of those votes cast for and against the bond proposition plus any or all of the election returns that the board of canvassers may request.
+(ii)  a ballot and election as a provider election officer as provided in Section 20A-5-400.1 or 20A-5-400.5;
 
-(27)  "Election returns" includes the pollbook, all affidavits of registration, the military and overseas absentee voter registration and voting certificates, one of the tally sheets, any unprocessed absentee ballots, all counted ballots, all excess ballots, all unused ballots, all spoiled ballots, the ballot disposition form, and the total votes cast form.
+(d)  the local district clerk or chief executive officer for:
 
-(28)  "Electronic ballot" means a ballot that is recorded using a direct electronic voting device or other voting device that records and stores ballot information by electronic means.
+(i)  a local district ballot and election; and
 
-(29) (a)  "Electronic voting device" means a voting device that uses electronic ballots.
+(ii)  a ballot and election as a provider election officer as provided in Section 20A-5-400.1 or 20A-5-400.5; or
+
+(e)  the business administrator or superintendent of a school district for:
+
+(i)  a school district ballot and election; and
+
+(ii)  a ballot and election as a provider election officer as provided in Section 20A-5-400.1 or 20A-5-400.5.
+
+(27)  "Election official" means:
+
+(a)  for an election other than a bond election, the count of votes cast in the election and the election returns requested by the board of canvassers; or
+
+(b)  any election officer, election judge, or poll worker.
+
+(28)  "Election results" means:
+
+(a)  for an election other than a bond election, the count of votes cast in the election and the election returns requested by the board of canvassers; or
+
+(b)  for bond elections, the count of those votes cast for and against the bond proposition plus any or all of the election returns that the board of canvassers may request.
+
+(29)  "Election returns" includes the pollbook, all affidavits of registration, the military and overseas absentee voter registration and voting certificates, one of the tally sheets, any unprocessed absentee ballots, all counted ballots, all excess ballots, all unused ballots, all spoiled ballots, the ballot disposition form, and the total votes cast form.
+
+(30)  "Electronic ballot" means a ballot that is recorded using a direct electronic voting device or other voting device that records and stores ballot information by electronic means.
+
+(31)  "Electronic signature" means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
+
+(32) (a)  "Electronic voting device" means a voting device that uses electronic ballots.
 
 (b)  "Electronic voting device" includes a direct recording electronic voting device.
 
-(30)  "Inactive voter" means a registered voter who has:
+(33)  "Inactive voter" means a registered voter who has:
 
 (a)  been sent the notice required by Section 20A-2-306; and
 
 (b)  failed to respond to that notice.
 
-(31)  "Inspecting poll watcher" means a person selected as provided in this title to witness the receipt and safe deposit of voted and counted ballots.
+(34)  "Inspecting poll watcher" means a person selected as provided in this title to witness the receipt and safe deposit of voted and counted ballots.
 
-(32)  "Judicial office" means the office filled by any judicial officer.
+(35)  "Judicial office" means the office filled by any judicial officer.
 
-(33)  "Judicial officer" means any justice or judge of a court of record or any county court judge.
+(36)  "Judicial officer" means any justice or judge of a court of record or any county court judge.
 
-(34)  "Local district" means a local government entity under Title 17B, Limited Purpose Local Government Entities - Local Districts, and includes a special service district under Title 17D, Chapter 1, Special Service District Act.
+(37)  "Local district" means a local government entity under Title 17B, Limited Purpose Local Government Entities - Local Districts, and includes a special service district under Title 17D, Chapter 1, Special Service District Act.
 
-(35)  "Local district officers" means those local district officers that are required by law to be elected.
+(38)  "Local district officers" means those local district officers that are required by law to be elected.
 
-(36)  "Local election" means a regular municipal election, a local special election, a local district election, and a bond election.
+(39)  "Local election" means a regular municipal election, a local special election, a local district election, and a bond election.
 
-(37)  "Local political subdivision" means a county, a municipality, a local district, or a local school district.
+(40)  "Local political subdivision" means a county, a municipality, a local district, or a local school district.
 
-(38)  "Local special election" means a special election called by the governing body of a local political subdivision in which all registered voters of the local political subdivision may vote.
+(41)  "Local special election" means a special election called by the governing body of a local political subdivision in which all registered voters of the local political subdivision may vote.
 
-(39)  "Municipal executive" means:
+(42)  "Municipal executive" means:
 
 (a)  the mayor in the council-mayor form of government defined in Section 10-3b-102; or
 
 (b)  the mayor in the council-manager form of government defined in Subsection 10-3b-103(6).
 
-(40)  "Municipal general election" means the election held in municipalities and local districts on the first Tuesday after the first Monday in November of each odd-numbered year for the purposes established in Section 20A-1-202.
+(43)  "Municipal general election" means the election held in municipalities and local districts on the first Tuesday after the first Monday in November of each odd-numbered year for the purposes established in Section 20A-1-202.
 
-(41)  "Municipal legislative body" means the council of the city or town in any form of municipal government.
+(44)  "Municipal legislative body" means the council of the city or town in any form of municipal government.
 
-(42)  "Municipal officers" means those municipal officers that are required by law to be elected.
+(45)  "Municipal office" means an elective office in a municipality.
 
-(43)  "Municipal primary election" means an election held to nominate candidates for municipal office.
+(46)  "Municipal officers" means those municipal officers that are required by law to be elected.
 
-(44)  "Official ballot" means the ballots distributed by the election officer to the poll workers to be given to voters to record their votes.
+(47)  "Municipal primary election" means an election held to nominate candidates for municipal office.
 
-(45)  "Official endorsement" means:
+(48)  "Official ballot" means the ballots distributed by the election officer to the poll workers to be given to voters to record their votes.
+
+(49)  "Official endorsement" means:
 
 (a)  the information on the ballot that identifies:
 
@@ -168,29 +206,31 @@ As used in this title:
 
 (ii)  the ballot number.
 
-(46)  "Official register" means the official record furnished to election officials by the election officer that contains the information required by Section 20A-5-401.
+(50)  "Official register" means the official record furnished to election officials by the election officer that contains the information required by Section 20A-5-401.
 
-(47)  "Paper ballot" means a paper that contains:
+(51)  "Paper ballot" means a paper that contains:
 
 (a)  the names of offices and candidates and statements of ballot propositions to be voted on; and
 
 (b)  spaces for the voter to record the voter's vote for each office and for or against each ballot proposition.
 
-(48)  "Political party" means an organization of registered voters that has qualified to participate in an election by meeting the requirements of Chapter 8, Political Party Formation and Procedures.
+(52)  "Political party" means an organization of registered voters that has qualified to participate in an election by meeting the requirements of Chapter 8, Political Party Formation and Procedures.
 
-(49) (a)  "Poll worker" means a person assigned by an election official to assist with an election, voting, or counting votes.
+(53) (a)  "Poll worker" means a person assigned by an election official to assist with an election, voting, or counting votes.
 
 (b)  "Poll worker" includes election judges.
 
 (c)  "Poll worker" does not include a watcher.
 
-(50)  "Pollbook" means a record of the names of voters in the order that they appear to cast votes.
+(54)  "Pollbook" means a record of the names of voters in the order that they appear to cast votes.
 
-(51)  "Polling place" means the building where voting is conducted.
+(55)  "Polling place" means the building where voting is conducted.
 
-(52)  "Position" means a square, circle, rectangle, or other geometric shape on a ballot in which the voter marks the voter's choice.
+(56)  "Position" means a square, circle, rectangle, or other geometric shape on a ballot in which the voter marks the voter's choice.
 
-(53)  "Provisional ballot" means a ballot voted provisionally by a person:
+(57)  "Provider election officer" means an election officer who enters into a contract or interlocal agreement with a contracting election officer to conduct an election for the contracting election officer's local political subdivision in accordance with Section 20A-5-400.1.
+
+(58)  "Provisional ballot" means a ballot voted provisionally by a person:
 
 (a)  whose name is not listed on the official register at the polling place;
 
@@ -198,39 +238,39 @@ As used in this title:
 
 (c)  whose identity was not sufficiently established by a poll worker.
 
-(54)  "Provisional ballot envelope" means an envelope printed in the form required by Section 20A-6-105 that is used to identify provisional ballots and to provide information to verify a person's legal right to vote.
+(59)  "Provisional ballot envelope" means an envelope printed in the form required by Section 20A-6-105 that is used to identify provisional ballots and to provide information to verify a person's legal right to vote.
 
-(55)  "Primary convention" means the political party conventions at which nominees for the regular primary election are selected.
+(60)  "Primary convention" means the political party conventions at which nominees for the regular primary election are selected.
 
-(56)  "Protective counter" means a separate counter, which cannot be reset, that:
+(61)  "Protective counter" means a separate counter, which cannot be reset, that:
 
 (a)  is built into a voting machine; and
 
 (b)  records the total number of movements of the operating lever.
 
-(57)  "Qualify" or "qualified" means to take the oath of office and begin performing the duties of the position for which the person was elected.
+(62)  "Qualify" or "qualified" means to take the oath of office and begin performing the duties of the position for which the person was elected.
 
-(58)  "Receiving judge" means the poll worker that checks the voter's name in the official register, provides the voter with a ballot, and removes the ballot stub from the ballot after the voter has voted.
+(63)  "Receiving judge" means the poll worker that checks the voter's name in the official register, provides the voter with a ballot, and removes the ballot stub from the ballot after the voter has voted.
 
-(59)  "Registration form" means a book voter registration form and a by-mail voter registration form.
+(64)  "Registration form" means a book voter registration form and a by-mail voter registration form.
 
-(60)  "Regular ballot" means a ballot that is not a provisional ballot.
+(65)  "Regular ballot" means a ballot that is not a provisional ballot.
 
-(61)  "Regular general election" means the election held throughout the state on the first Tuesday after the first Monday in November of each even-numbered year for the purposes established in Section 20A-1-201.
+(66)  "Regular general election" means the election held throughout the state on the first Tuesday after the first Monday in November of each even-numbered year for the purposes established in Section 20A-1-201.
 
-(62)  "Regular primary election" means the election on the fourth Tuesday of June of each even-numbered year, to nominate candidates of political parties and nonpolitical groups to advance to the regular general election.
+(67)  "Regular primary election" means the election on the fourth Tuesday of June of each even-numbered year, to nominate candidates of political parties and nonpolitical groups to advance to the regular general election.
 
-(63)  "Resident" means a person who resides within a specific voting precinct in Utah.
+(68)  "Resident" means a person who resides within a specific voting precinct in Utah.
 
-(64)  "Sample ballot" means a mock ballot similar in form to the official ballot printed and distributed as provided in Section 20A-5-405.
+(69)  "Sample ballot" means a mock ballot similar in form to the official ballot printed and distributed as provided in Section 20A-5-405.
 
-(65)  "Scratch vote" means to mark or punch the straight party ticket and then mark or punch the ballot for one or more candidates who are members of different political parties.
+(70)  "Scratch vote" means to mark or punch the straight party ticket and then mark or punch the ballot for one or more candidates who are members of different political parties.
 
-(66)  "Secrecy envelope" means the envelope given to a voter along with the ballot into which the voter places the ballot after the voter has voted it in order to preserve the secrecy of the voter's vote.
+(71)  "Secrecy envelope" means the envelope given to a voter along with the ballot into which the voter places the ballot after the voter has voted it in order to preserve the secrecy of the voter's vote.
 
-(67)  "Special election" means an election held as authorized by Section 20A-1-204.
+(72)  "Special election" means an election held as authorized by Section 20A-1-204.
 
-(68)  "Spoiled ballot" means each ballot that:
+(73)  "Spoiled ballot" means each ballot that:
 
 (a)  is spoiled by the voter;
 
@@ -238,19 +278,19 @@ As used in this title:
 
 (c)  lacks the official endorsement.
 
-(69)  "Statewide special election" means a special election called by the governor or the Legislature in which all registered voters in Utah may vote.
+(74)  "Statewide special election" means a special election called by the governor or the Legislature in which all registered voters in Utah may vote.
 
-(70)  "Stub" means the detachable part of each ballot.
+(75)  "Stub" means the detachable part of each ballot.
 
-(71)  "Substitute ballots" means replacement ballots provided by an election officer to the poll workers when the official ballots are lost or stolen.
+(76)  "Substitute ballots" means replacement ballots provided by an election officer to the poll workers when the official ballots are lost or stolen.
 
-(72)  "Ticket" means each list of candidates for each political party or for each group of petitioners.
+(77)  "Ticket" means each list of candidates for each political party or for each group of petitioners.
 
-(73)  "Transfer case" means the sealed box used to transport voted ballots to the counting center.
+(78)  "Transfer case" means the sealed box used to transport voted ballots to the counting center.
 
-(74)  "Vacancy" means the absence of a person to serve in any position created by statute, whether that absence occurs because of death, disability, disqualification, resignation, or other cause.
+(79)  "Vacancy" means the absence of a person to serve in any position created by statute, whether that absence occurs because of death, disability, disqualification, resignation, or other cause.
 
-(75)  "Valid voter identification" means:
+(80)  "Valid voter identification" means:
 
 (a)  a form of identification that bears the name and photograph of the voter which may include:
 
@@ -276,7 +316,7 @@ As used in this title:
 
 (iii)  a tribal treaty card; or
 
-(c)  two forms of identification not listed under Subsection (75)(a) or (b) but that bear the name of the voter and provide evidence that the voter resides in the voting precinct, which may include:
+(c)  two forms of identification not listed under Subsection (80)(a) or (b) but that bear the name of the voter and provide evidence that the voter resides in the voting precinct, which may include:
 
 (i)  a current utility bill or a legible copy thereof, dated within the 90 days before the election;
 
@@ -310,9 +350,9 @@ As used in this title:
 
 (xiii)  a current Utah vehicle registration.
 
-(76)  "Valid write-in candidate" means a candidate who has qualified as a write-in candidate by following the procedures and requirements of this title.
+(81)  "Valid write-in candidate" means a candidate who has qualified as a write-in candidate by following the procedures and requirements of this title.
 
-(77)  "Voter" means a person who:
+(82)  "Voter" means a person who:
 
 (a)  meets the requirements for voting in an election;
 
@@ -322,17 +362,17 @@ As used in this title:
 
 (d)  is listed in the official register book.
 
-(78)  "Voter registration deadline" means the registration deadline provided in Section 20A-2-102.5.
+(83)  "Voter registration deadline" means the registration deadline provided in Section 20A-2-102.5.
 
-(79)  "Voting area" means the area within six feet of the voting booths, voting machines, and ballot box.
+(84)  "Voting area" means the area within six feet of the voting booths, voting machines, and ballot box.
 
-(80)  "Voting booth" means:
+(85)  "Voting booth" means:
 
 (a)  the space or compartment within a polling place that is provided for the preparation of ballots, including the voting machine enclosure or curtain; or
 
 (b)  a voting device that is free standing.
 
-(81)  "Voting device" means:
+(86)  "Voting device" means:
 
 (a)  an apparatus in which ballot sheets are used in connection with a punch device for piercing the ballots by the voter;
 
@@ -344,17 +384,17 @@ As used in this title:
 
 (e)  any other method for recording votes on ballots so that the ballot may be tabulated by means of automatic tabulating equipment.
 
-(82)  "Voting machine" means a machine designed for the sole purpose of recording and tabulating votes cast by voters at an election.
+(87)  "Voting machine" means a machine designed for the sole purpose of recording and tabulating votes cast by voters at an election.
 
-(83)  "Voting poll watcher" means a person appointed as provided in this title to witness the distribution of ballots and the voting process.
+(88)  "Voting poll watcher" means a person appointed as provided in this title to witness the distribution of ballots and the voting process.
 
-(84)  "Voting precinct" means the smallest voting unit established as provided by law within which qualified voters vote at one polling place.
+(89)  "Voting precinct" means the smallest voting unit established as provided by law within which qualified voters vote at one polling place.
 
-(85)  "Watcher" means a voting poll watcher, a counting poll watcher, an inspecting poll watcher, and a testing watcher.
+(90)  "Watcher" means a voting poll watcher, a counting poll watcher, an inspecting poll watcher, and a testing watcher.
 
-(86)  "Western States Presidential Primary" means the election established in Title 20A, Chapter 9, Part 8.
+(91)  "Western States Presidential Primary" means the election established in Chapter 9, Part 8.
 
-(87)  "Write-in ballot" means a ballot containing any write-in votes.
+(92)  "Write-in ballot" means a ballot containing any write-in votes.
 
-(88)  "Write-in vote" means a vote cast for a person whose name is not printed on the ballot according to the procedures established in this title.
+(93)  "Write-in vote" means a vote cast for a person whose name is not printed on the ballot according to the procedures established in this title.
 

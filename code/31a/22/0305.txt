@@ -98,7 +98,7 @@
 
 (d)  As used in this Subsection (4), "motor vehicle" has the same meaning as under Section 41-1a-102.
 
-(5)  When a covered person alleges that an uninsured motor vehicle under Subsection (2)(b) proximately caused an accident without touching the covered person or the motor vehicle occupied by the covered person, the covered person must show the existence of the uninsured motor vehicle by clear and convincing evidence consisting of more than the covered person's testimony.
+(5)  When a covered person alleges that an uninsured motor vehicle under Subsection (2)(b) proximately caused an accident without touching the covered person or the motor vehicle occupied by the covered person, the covered person shall show the existence of the uninsured motor vehicle by clear and convincing evidence consisting of more than the covered person's testimony.
 
 (6) (a)  The limit of liability for uninsured motorist coverage for two or more motor vehicles may not be added together, combined, or stacked to determine the limit of insurance coverage available to an injured person for any one accident.
 
@@ -188,7 +188,7 @@
 
 (j)  A written decision by a single arbitrator or by a majority of the arbitration panel shall constitute a final decision.
 
-(k) (i)  The amount of an arbitration award may not exceed the uninsured motorist policy limits of all applicable uninsured motorist policies, including applicable uninsured motorist umbrella policies.
+(k) (i) Except as provided in Subsection (9), the amount of an arbitration award may not exceed the uninsured motorist policy limits of all applicable uninsured motorist policies, including applicable uninsured motorist umbrella policies.
 
 (ii)  If the initial arbitration award exceeds the uninsured motorist policy limits of all applicable uninsured motorist policies, the arbitration award shall be reduced to an amount equal to the combined uninsured motorist policy limits of all applicable uninsured motorist policies.
 
@@ -206,7 +206,7 @@
 
 (o)  An arbitration award issued under this section shall be the final resolution of all claims not excluded by Subsection (8)(l) between the parties unless:
 
-(i)  the award was procured by corruption, fraud, or other undue means; or
+(i)  the award was procured by corruption, fraud, or other undue means;
 
 (ii)  either party, within 20 days after service of the arbitration award:
 
@@ -228,7 +228,7 @@
 
 (B)  the costs of expert witnesses and depositions.
 
-(iv)  An award of costs under this Subsection (8)(q) may not exceed $2,500.
+(iv)  An award of costs under this Subsection (8)(q) may not exceed $2,500 unless Subsection (9)(h)(iii) applies.
 
 (r)  For purposes of determining whether a party's verdict is greater or less than the arbitration award under Subsection (8)(q), a court may not consider any recovery or other relief granted on a claim for damages if the claim for damages:
 

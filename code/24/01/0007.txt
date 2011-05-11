@@ -10,9 +10,9 @@
 
 (a)  the orders and decrees of the court having jurisdiction over the property or the forfeiture proceedings; and
 
-(b)  the acts of the seizing agency or the prosecuting attorney pursuant to this chapter. 
+(b)  the acts of the seizing agency or the prosecuting attorney pursuant to this chapter.
 
-(5) (a) An owner of property seized pursuant to this chapter may obtain release of the property by posting with the district court a surety bond or cash in an amount equal to the current fair market value of the property as determined by the court or by the parties' stipulation.
+(5) (a)  An owner of property seized pursuant to this chapter may obtain release of the property by posting with the district court a surety bond or cash in an amount equal to the current fair market value of the property as determined by the court or by the parties' stipulation.
 
 (b)  The district court may refuse to order the release of the property if:
 
@@ -46,7 +46,13 @@
 
 (iv)  preventing or hindering any person from receiving necessary medical care;
 
-(v)  hindering the care of an elderly or disabled dependent child or adult;
+(v)  hindering the care of:
+
+(A)  an elderly dependent adult;
+
+(B)  a dependent child with a disability; or
+
+(C)  a dependent adult with a disability;
 
 (vi)  preventing an owner from retaining counsel to provide a defense in the forfeiture proceeding; or
 
@@ -72,7 +78,7 @@
 
 (b)  The court may place conditions on release of the property as it finds necessary and appropriate to preserve the availability of the property or its equivalent for forfeiture.
 
-(13)  The hardship release does  not apply if the seized property is:
+(13)  The hardship release does not apply if the seized property is:
 
 (a)  contraband;
 

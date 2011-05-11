@@ -10,31 +10,33 @@
 
 (b)  the title insurance producer is appointed by a title insurer authorized to do business in the state;
 
-(c)  one or more of the following is to be issued as part of the transaction:
+(c)  the title insurance producer issues one or more of the following as part of the transaction:
 
 (i)  an owner's policy of title insurance; or
 
 (ii)  a lender's policy of title insurance;
 
-(d) (i)  all funds deposited with the title insurance producer in connection with any escrow:
+(d)  money deposited with the title insurance producer in connection with any escrow:
 
-(A)  are deposited:
+(i)  is deposited:
 
-(I)  in a federally insured financial institution; and
+(A)  in a federally insured financial institution; and
 
-(II)  in a trust account that is separate from all other trust account funds that are not related to real estate transactions; and
+(B)  in a trust account that is separate from all other trust account money that is not related to real estate transactions;
 
-(B)  are the property of the persons entitled to them under the provisions of the escrow; and
+(ii)  is the property of the one or more persons entitled to the money under the provisions of the escrow; and
 
-(ii)  are segregated escrow by escrow in the records of the title insurance producer;
+(iii)  is segregated escrow by escrow in the records of the title insurance producer;
 
-(e)  earnings on funds held in escrow may be paid out of the escrow account to any person in accordance with the conditions of the escrow; and
+(e)  earnings on money held in escrow may be paid out of the escrow account to any person in accordance with the conditions of the escrow;
 
 (f)  the escrow does not require the title insurance producer to hold:
 
-(i)  construction funds; or
+(i)  construction money; or
 
-(ii)  funds held for exchange under Section 1031, Internal Revenue Code.
+(ii) money held for exchange under Section 1031, Internal Revenue Code; and
+
+(g)  the title insurance producer shall maintain a physical office in Utah staffed by a person with an escrow subline of authority who processes the escrow.
 
 (2)  Notwithstanding Subsection (1), a title insurance producer may engage in the escrow business if:
 
@@ -48,57 +50,57 @@
 
 (iv)  other personal property authorized by the commissioner; and
 
-(b)  the title insurance producer complies with all the requirements of this section except for the requirement of Subsection (1)(c).
+(b)  the title insurance producer complies with this section except for Subsection (1)(c).
 
-(3)  Funds held in escrow:
+(3) Money held in escrow:
 
-(a)  are not subject to any debts of the title insurance producer;
+(a) is not subject to any debts of the title insurance producer;
 
-(b)  may only be used to fulfill the terms of the individual escrow under which the funds were accepted; and
+(b)  may only be used to fulfill the terms of the individual escrow under which the money is accepted; and
 
-(c)  may not be used until all conditions of the escrow have been met.
+(c)  may not be used until the conditions of the escrow are met.
 
-(4)  Assets or property other than escrow funds received by a title insurance producer in accordance with an escrow shall be maintained in a manner that will:
+(4)  Assets or property other than escrow money received by a title insurance producer in accordance with an escrow shall be maintained in a manner that will:
 
 (a)  reasonably preserve and protect the asset or property from loss, theft, or damages; and
 
-(b)  otherwise comply with all general duties and responsibilities of a fiduciary or bailee.
+(b)  otherwise comply with the general duties and responsibilities of a fiduciary or bailee.
 
-(5) (a)  A check from the trust account described in Subsection (1)(d) may not be drawn, executed, or dated, or funds otherwise disbursed unless the segregated escrow account from which funds are to be disbursed contains a sufficient credit balance consisting of collected or cleared funds at the time the check is drawn, executed, or dated, or funds are otherwise disbursed.
+(5) (a)  A check from the trust account described in Subsection (1)(d) may not be drawn, executed, or dated, or money otherwise disbursed unless the segregated escrow account from which money is to be disbursed contains a sufficient credit balance consisting of collected and cleared money at the time the check is drawn, executed, or dated, or money is otherwise disbursed.
 
-(b)  As used in this Subsection (5), funds are considered to be "collected or cleared," and may be disbursed as follows:
+(b)  As used in this Subsection (5), money is considered to be "collected and cleared," and may be disbursed as follows:
 
 (i)  cash may be disbursed on the same day the cash is deposited;
 
-(ii)  a wire transfer may be disbursed on the same day the wire transfer is deposited;
+(ii)  a wire transfer may be disbursed on the same day the wire transfer is deposited; and
 
-(iii)  the following may be disbursed on the day following the date of deposit:
+(iii)  the proceeds of one or more of the following financial instruments may be disbursed on the same day the financial instruments are deposited if received from a single party to the real estate transaction and if the aggregate of the financial instruments for the real estate transaction is less than $10,000:
 
-(A)  a cashier's check;
+(A)  a cashier's check, certified check, or official check that is drawn on an existing account at a federally insured financial institution;
 
-(B)  a certified check;
+(B)  a check drawn on the trust account of a principal broker or associate broker licensed under Title 61, Chapter 2f, Real Estate Licensing and Practices Act, if the title producer has reasonable and prudent grounds to believe sufficient money will be available from the trust account on which the check is drawn at the time of disbursement of proceeds from the title producer's escrow account;
 
-(C)  a teller's check;
+(C)  a personal check not to exceed $500 per closing;
 
-(D)  a U.S. Postal Service money order; and
+(D)  a check drawn on the escrow account of another title producer, if the title producer in the escrow transaction has reasonable and prudent grounds to believe that sufficient money will be available for withdrawal from the account upon which the check is drawn at the time of disbursement of money from the escrow account of the title producer in the escrow transaction; or
 
-(E)  a check drawn on a Federal Reserve Bank or Federal Home Loan Bank; and
+(E)  a check issued by a farm credit service authorized under the Farm Credit Act of 1971, 12 U.S.C. Sec. 2001 et seq., as amended.
 
-(iv)  any other check or deposit may be disbursed:
+(c)  Money received from a financial instrument described in Subsection (5)(b)(iii)(B) or (C) may be disbursed:
 
-(A)  within the time limits provided under the Expedited Funds Availability Act, 12 U.S.C. Section 4001 et seq., as amended, and related regulations of the Federal Reserve System; or
+(i)  within the time limits provided under the Expedited Funds Availability Act, 12 U.S.C. Sec. 4001 et seq., as amended, and related regulations of the Federal Reserve System; or
 
-(B)  upon written notification from the financial institution to which the funds have been deposited, that final settlement has occurred on the deposited item.
+(ii)  upon notification from the financial institution to which the money has been deposited that final settlement has occurred on the deposited financial instrument.
 
-(c)  Subject to Subsections (5)(a) and (b), any material change to a settlement statement made after the final closing documents are executed must be authorized or acknowledged by date and signature on each page of the settlement statement by the one or more persons affected by the change before disbursement of funds.
+(6) A title insurance producer shall maintain a record of a receipt or disbursement of escrow money.
 
-(6)  The title insurance producer shall maintain records of all receipts and disbursements of escrow funds.
-
-(7)  The title insurance producer shall comply with:
+(7) A title insurance producer shall comply with:
 
 (a)  Section 31A-23a-409;
 
 (b)  Title 46, Chapter 1, Notaries Public Reform Act; and
 
 (c)  any rules adopted by the Title and Escrow Commission, subject to Section 31A-2-404, that govern escrows.
+
+(8)  If a title insurance producer conducts a search for real estate located in the state, the title insurance producer shall conduct a minimum mandatory search, as defined by rule made by the Title and Escrow Commission, subject to Section 31A-2-404.
 

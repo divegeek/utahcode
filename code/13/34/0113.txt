@@ -1,14 +1,14 @@
-13-34-113.   Denial, suspension, or revocation of a certificate of registration -- Limitations.
+13-34-113.   Denial, suspension, or revocation of a certificate of registration or exemption certificate -- Limitations.
 
-(1)  In accordance with Chapter 2, Division of Consumer Protection, and Title 63G, Chapter 4, Administrative Procedures Act, the division may initiate proceedings to deny, suspend, or revoke a certificate of registration to operate a proprietary school under this chapter if:
+(1)  In accordance with Chapter 2, Division of Consumer Protection, and Title 63G, Chapter 4, Administrative Procedures Act, the division may initiate proceedings to deny, suspend, or revoke a certificate of registration to operate a proprietary school under this chapter or an exemption certificate under Section 13-34-107.5 if:
 
 (a)  the division finds that the order is in the public interest; and
 
-(b) (i)  the registration statement or renewal statement is incomplete, false, or misleading in any respect;
+(b) (i)  the registration statement, renewal statement, or application for an exemption certificate is incomplete, false, or misleading in any respect;
 
-(ii)  the division determines that the educational credential associated with the proprietary school represents the undertaking or completion of educational achievement that has not been undertaken and earned; or
+(ii)  the division determines that the educational credential associated with the proprietary school or accredited institution represents the undertaking or completion of educational achievement that has not been undertaken and earned; or
 
-(iii)  the proprietary school or an individual described in Subsection 13-34-107(2)(a)(ii)(B) has:
+(iii)  the proprietary school, accredited institution, or an individual described in Subsection 13-34-107(2)(a)(ii)(B) has:
 
 (A)  violated any provision of:
 
@@ -16,7 +16,7 @@
 
 (II)  the rules made by the division pursuant to this chapter; or
 
-(III)  a commitment made in a registration statement for a certificate of registration to operate the proprietary school;
+(III)  a commitment made in a registration statement for a certificate of registration to operate the proprietary school or in an application for an exemption certificate;
 
 (B)  caused or allowed to occur a violation of any provision of:
 
@@ -52,9 +52,19 @@
 
 (b)  limitation is warranted to protect the students' interests.
 
-(3)  The division may:
+(3) (a)  The division may:
 
-(a)  conduct a criminal background check on an individual described in Subsection 13-34-107(2)(a)(ii)(B); and
+(i)  conduct a criminal background check on an individual described in Subsection 13-34-107(2)(a)(ii)(B); and
 
-(b)  require a proprietary school to provide to the division any information necessary to conduct a criminal background check on an individual described in Subsection 13-34-107(2)(a)(ii)(B).
+(ii)  require a proprietary school to provide to the division any information and to cover any costs necessary to conduct a criminal background check on an individual described in Subsection 13-34-107(2)(a)(ii)(B)(I) through (IV), including:
+
+(A)  a fingerprint card in a form acceptable to the division;
+
+(B)  consent to a criminal background check by the Utah Bureau of Criminal Identification and the Federal Bureau of Investigation;
+
+(C)  the cost of a criminal background check; and
+
+(D)  the cost of fingerprinting.
+
+(b)  Money paid to the division for the cost of a criminal background check is nonlapsing.
 

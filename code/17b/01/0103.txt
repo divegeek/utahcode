@@ -84,7 +84,7 @@
 
 (r) (i)  except for a local district described in Subsection (2)(r)(ii), designate an assessment area and levy an assessment on land within the assessment area, as provided in Title 11, Chapter 42, Assessment Area Act; or
 
-(ii)  for a local district in a critical management area described in Subsection 17B-1-202(1)(c), designate an assessment area and levy an assessment on a groundwater right to facilitate a groundwater management plan;
+(ii)  for a local district created to assess a groundwater right in a critical management area described in Subsection 17B-1-202(1), designate an assessment area and levy an assessment, as provided in Title 11, Chapter 42, Assessment Area Act, on a groundwater right to facilitate a groundwater management plan;
 
 (s)  contract with another political subdivision of the state to allow the other political subdivision to use the district's surplus water or capacity or have an ownership interest in the district's works or facilities, upon the terms and for the consideration, whether monetary or nonmonetary consideration or no consideration, that the district's board of trustees considers to be in the best interests of the district and the public; and
 
@@ -145,4 +145,10 @@
 (c)  Revenue that a district receives from the sale of electricity from electrical generation facilities it owns or operates under this section may be used for any lawful district purpose, including the payment of bonds issued to pay some or all of the cost of acquiring or constructing the facilities.
 
 (5)  A local district may adopt and, after adoption, alter a corporate seal.
+
+(6) (a)  As used in this Subsection (6), "knife" means a cutting instrument that includes a sharpened or pointed blade.
+
+(b)  The authority to regulate a knife is reserved to the state except where the Legislature specifically delegates responsibility to a local district.
+
+(c)  Unless specifically authorized by the Legislature by statute, a local district may not adopt or enforce a regulation or rule pertaining to a knife.
 

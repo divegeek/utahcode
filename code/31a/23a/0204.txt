@@ -2,7 +2,7 @@
 
 A title insurance producer, including an agency, shall be licensed in accordance with this chapter, with the additional requirements listed in this section.
 
-(1) (a)  A person that receives a new license under this title as a title insurance agency, shall at the time of licensure be owned or managed by one or more individuals who are licensed for at least three of the five years immediately proceeding the date on which the title insurance agency applies for a license with both:
+(1) (a)  A person that receives a new license under this title as a title insurance agency, shall at the time of licensure be owned or managed by at least one individual who is licensed for at least three of the five years immediately preceding the date on which the title insurance agency applies for a license with both:
 
 (i)  a search line of authority; and
 
@@ -14,7 +14,13 @@ A title insurance producer, including an agency, shall be licensed in accordance
 
 (ii)  one or more individuals who are licensed with the escrow line of authority for the time period provided in Subsection (1)(a).
 
-(c)  The Title and Escrow Commission may by rule, subject to Section 31A-2-404, exempt an attorney with real estate experience from the experience requirements in Subsection (1)(a).
+(c)  A person licensed as a title insurance agency shall at all times during the term of licensure be owned or managed by at least one individual who is licensed for at least three years within the preceding five-year period with both:
+
+(i)  a search line of authority; and
+
+(ii)  an escrow line of authority.
+
+(d)  The Title and Escrow Commission may by rule, subject to Section 31A-2-404, exempt an attorney with real estate experience from the experience requirements in Subsection (1)(a).
 
 (2) (a)  A title insurance agency or producer appointed by an insurer shall maintain:
 
@@ -36,7 +42,7 @@ A title insurance producer, including an agency, shall be licensed in accordance
 
 (c)  The Title and Escrow Commission may by rule, subject to Section 31A-2-404, exempt title insurance producers from the requirements of this Subsection (2) upon a finding that, and only so long as, the required policy or bond is generally unavailable at reasonable rates.
 
-(3)  A title insurance agency or producer appointed by an insurer may maintain a reserve fund to the extent monies were deposited before July 1, 2008, and not withdrawn to the income of the title insurance producer.
+(3)  A title insurance agency or producer appointed by an insurer may maintain a reserve fund to the extent money was deposited before July 1, 2008, and not withdrawn to the income of the title insurance producer.
 
 (4)  An examination for licensure shall include questions regarding the search and examination of title to real property.
 

@@ -6,7 +6,7 @@
 
 (b)  The uniform assessment rate shall be determined using the total number of hospital discharges for assessed hospitals divided into the total non-federal portion of the upper payment limit gap.
 
-(c)  Any quarterly changes to the uniform assessment rate must be applied uniformly to all assessed hospitals.
+(c)  Any quarterly changes to the uniform assessment rate shall be applied uniformly to all assessed hospitals.
 
 (d) (i)  Except as provided in Subsection (2)(d)(ii), the annual uniform assessment rate may not generate more than the non-federal share of the annual upper payment limit gap for the fiscal year.
 

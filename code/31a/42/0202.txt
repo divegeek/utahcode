@@ -6,11 +6,7 @@
 
 (i)  Subsection (2) for the defined contribution arrangement market established under Chapter 30, Part 2, Defined Contribution Arrangements; and
 
-(ii)  the participation of:
-
-(A)  small employer group defined contribution arrangement health benefit plans; and
-
-(B)  large employer group defined contribution arrangement health benefit plans;
+(ii)  the participation of small employer group defined contribution arrangement health benefit plans;
 
 (b)  establish regular times and places for meetings of the board;
 
@@ -58,47 +54,11 @@
 
 (e)  The board may amend the plan if necessary to:
 
-(i)  incorporate large group defined contribution arrangement health benefit plans into the defined contribution arrangement market risk adjuster mechanism created by this chapter;
+(i)  maintain the proper functioning and solvency of the defined contribution arrangement market and the risk adjuster mechanism;
 
-(ii)  maintain the proper functioning and solvency of the defined contribution arrangement market and the risk adjuster mechanism;
+(ii)  mitigate significant issues of risk selection; or
 
-(iii)  mitigate significant issues of risk selection; or
+(iii)  improve the administration of the risk adjuster mechanism.
 
-(iv)  improve the administration of the risk adjuster mechanism including opening enrollment periodically until January 1, 2011, for the purpose of testing the enrollment and risk adjusting process.
-
-(3) (a)  The board shall establish a mechanism in which the participating carriers shall submit their plan base rates, rating factors, and premiums to an independent actuary, appointed by the board, for review prior to the publication of the premium rates on the Health Insurance Exchange.
-
-(b)  The actuary appointed by the board shall:
-
-(i)  be compensated for the analysis under this section from fees established in accordance with Section 63J-1-504:
-
-(A)  assessed by the board; and
-
-(B)  paid by all small employer carriers participating in the defined contribution arrangement market and small employer carriers offering health benefit plans under Chapter 30, Part 1, Individual and Small Employer Group; and
-
-(ii)  review the information submitted:
-
-(A)  under Subsection (3)(a) for the purpose of verifying the validity of the rates, rating factors, and premiums; and
-
-(B)  from carriers offering health benefit plans under Chapter 30, Part 1, Individual and Small Employer Group:
-
-(I)  for the purpose of verifying underwriting and rating practices; and
-
-(II)  as the actuary determines is necessary.
-
-(c)  Fees collected under Subsection (3)(b) shall be used to pay the actuary for the purpose of overseeing market conduct.
-
-(d)  The actuary shall:
-
-(i)  report aggregate data to the risk adjuster board;
-
-(ii)  contact carriers:
-
-(A)  to inform a carrier of the actuary's findings regarding the particular carrier; and
-
-(B)  to request a carrier to re-calculate or verify base rates, rating factors, and premiums; and
-
-(iii)  share the actuary's analysis and data with the department for the purposes described in Section 31A-30-106.1.
-
-(e)  A carrier shall re-submit premium rates if the department contacts the carrier under Subsection (3).
+(3)  The board shall establish a mechanism in which the participating carriers shall submit their plan base rates, rating factors, and premiums to the commissioner for an actuarial review under the provisions of Section 31A-30-115 prior to the publication of the premium rates on the Health Insurance Exchange.
 

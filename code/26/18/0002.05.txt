@@ -1,0 +1,34 @@
+26-18-2.5.    Simplified enrollment and renewal process for Medicaid and other state medical programs -- Financial institutions.
+
+(1)  The department shall:
+
+(a)  apply for grants to make technology system improvements necessary to implement a simplified enrollment and renewal process for the Medicaid program, Utah Premium Partnership, and Primary Care Network Demonstration Project programs; and
+
+(b)  if funding is available, implement the simplified enrollment and renewal process in accordance with this section.
+
+(2)  The simplified enrollment and renewal process established in this section shall, in accordance with Section 59-1-403, provide an eligibility worker a process in which the eligibility worker:
+
+(a)  verifies the applicant's or enrollee's identity;
+
+(b)  gets consent to obtain the applicant's adjusted gross income from the State Tax Commission from:
+
+(i)  the applicant or enrollee, if the applicant or enrollee filed a single tax return; or
+
+(ii)  both parties to a joint return, if the applicant filed a joint tax return; and
+
+(c)  obtains from the State Tax Commission, the adjusted gross income of the applicant or enrollee.
+
+(3) (a)  The department may enter into an agreement with a financial institution doing business in the state to develop and operate a data match system to identify an applicant's or enrollee's assets that:
+
+(i)  uses automated data exchanges to the maximum extent feasible; and
+
+(ii)  requires a financial institution each month to provide the name, record address, Social Security number, other taxpayer identification number, or other identifying information for each applicant or enrollee who maintains an account at the financial institution.
+
+(b)  The department may pay a reasonable fee to a financial institution for compliance with this Subsection (3), as provided in Section 7-1-1006.
+
+(c)  A financial institution may not be liable under any federal or state law to any person for any disclosure of information or action taken in good faith under this Subsection (3).
+
+(d)  The department may disclose a financial record obtained from a financial institution under this section only for the purpose of, and to the extent necessary in, verifying eligibility as provided in this section and Section 26-40-105.
+
+(4)  The simplified enrollment and renewal process established under this section shall be implemented by the department no later than July 1, 2012.
+

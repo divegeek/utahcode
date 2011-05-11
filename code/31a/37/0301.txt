@@ -18,7 +18,7 @@
 
 (c)  organized as a reciprocal.
 
-(3)  A captive insurance company may not have fewer than three incorporators of whom not fewer than two must be residents of this state.
+(3)  A captive insurance company may not have fewer than three incorporators of whom not fewer than two shall be residents of this state.
 
 (4) (a)  Before a captive insurance company formed as a corporation files the corporation's articles of incorporation with the Division of Corporations and Commercial Code, the incorporators shall obtain from the commissioner a certificate finding that the establishment and maintenance of the proposed corporation will promote the general good of the state.
 
@@ -94,5 +94,5 @@
 
 (d)  In addition to the provisions of this Subsection (12), a captive insurance company organized as a reciprocal insurer that is an industrial insured group has the privileges of Section 31A-4-114 in addition to applicable provisions of this title.
 
-(13)  The articles of incorporation or bylaws of a captive insurance company may not authorize a quorum of a board of directors to consist of fewer than 1/3 of the fixed or prescribed number of directors as provided in Section 16-10a-824.
+(13)  The articles of incorporation or bylaws of a captive insurance company may not authorize a quorum of a board of directors to consist of fewer than one-third of the fixed or prescribed number of directors as provided in Section 16-10a-824.
 

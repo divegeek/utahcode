@@ -20,7 +20,7 @@
 
 (iii)  subject to Subsection 10-3b-302(1)(b)(ii)(A):
 
-(A)  appoint a manager to perform executive and administrative duties or functions that the council by ordinance delegates to the manager, subject to Subsection (1)(c); and
+(A)  appoint, subject to Subsections (3) and (4), a manager to perform executive and administrative duties or functions that the council by ordinance delegates to the manager, subject to Subsection (1)(c); and
 
 (B)  dismiss a manager appointed under Subsection (1)(b)(iii)(A); and
 
@@ -39,4 +39,22 @@
 (a)  the mayor and a majority of all other council members; or
 
 (b)  all council members except the mayor.
+
+(3) (a)  As used in this Subsection (3), "interim vacancy period" means the period of time that:
+
+(i)  begins on the day on which a municipal general election described in Section 10-3-201 is held to elect a council member; and
+
+(ii)  ends on the day on which the council member-elect begins the council member's term.
+
+(b) (i)  The council may not appoint a manager during an interim vacancy period.
+
+(ii)  Notwithstanding Subsection (3)(b)(i):
+
+(A)  the council may appoint an interim manager during an interim vacancy period; and
+
+(B)  the interim manager's term shall expire once a new manager is appointed by the new administration after the interim vacancy period has ended.
+
+(c)  Subsection (3)(b) does not apply if all the council members who held office on the day of the municipal general election whose term of office was vacant for the election are re-elected to the council for the following term.
+
+(4)  A council that appoints a manager in accordance with this section may not, on or after May 10, 2011, enter into an employment contract that contains an automatic renewal provision with the manager.
 

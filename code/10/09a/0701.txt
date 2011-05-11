@@ -2,9 +2,11 @@
 
 (1)  Each municipality adopting a land use ordinance shall, by ordinance, establish one or more appeal authorities to hear and decide:
 
-(a)  requests for variances from the terms of the land use ordinances; and
+(a)  requests for variances from the terms of the land use ordinances;
 
-(b)  appeals from decisions applying the land use ordinances.
+(b)  appeals from decisions applying the land use ordinances; and
+
+(c)  appeals from a fee charged in accordance with Section 10-9a-510.
 
 (2)  As a condition precedent to judicial review, each adversely affected person shall timely and specifically challenge a land use authority's decision, in accordance with local ordinance.
 

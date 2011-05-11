@@ -14,7 +14,7 @@
 
 (ii)  long-term care.
 
-(2) (a)  The uniform electronic standards and information required in Subsection (1) shall be adopted and approved by the commissioner in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act. 
+(2) (a)  The uniform electronic standards and information required in Subsection (1) shall be adopted and approved by the commissioner in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
 
 (b)  When adopting rules under this section the commissioner:
 
@@ -30,7 +30,7 @@
 
 (IV)  coordination of benefits information; and
 
-(B)  meet federal mandatory minimum standards following the adoption of national requirements for transaction and data elements in the federal Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936;
+(B)  meet federal mandatory minimum standards following the adoption of national requirements for transaction and data elements in the federal Health Insurance Portability and Accountability Act;
 
 (ii)  may not require an insurer or administrator to use a specific software product or vendor; and
 
@@ -38,7 +38,7 @@
 
 (A)  in compliance with data security standards established by:
 
-(I)  the federal Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936; and
+(I)  the federal Health Insurance Portability and Accountability Act; and
 
 (II)  the electronic commerce agreements established in a business associate agreement; and
 

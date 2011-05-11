@@ -1,6 +1,6 @@
-31A-22-613.5.   Price and value comparisons of health insurance -- Basic Health Care Plan.
+31A-22-613.5.   Price and value comparisons of health insurance.
 
-(1) (a) This section applies to all health benefit plans.
+(1) (a)  This section applies to all health benefit plans.
 
 (b)  Subsection (2) applies to:
 
@@ -26,15 +26,15 @@
 
 (I)  a limitation or exclusion for a secondary medical condition related to a limitation or exclusion from coverage; and
 
-(II) easily understood examples of a limitation or exclusion of coverage for a secondary medical condition; and
+(II)  easily understood examples of a limitation or exclusion of coverage for a secondary medical condition; and
 
 (ii)  provide the commissioner with:
 
-(A)  the information described in Subsections 63M-1-2506(3) through (6) in the standardized electronic format required by Subsection 63M-1-2506(1); and
+(A)  the information described in Subsections 31A-22-635(5) through (7) in the standardized electronic format required by Subsection 63M-1-2506(1); and
 
-(B)  information regarding insurer transparency in accordance with Subsection (5).
+(B)  information regarding insurer transparency in accordance with Subsection (4).
 
-(b) An insurer shall provide the disclosure required by Subsection (2)(a)(i) in writing to the commissioner:
+(b)  An insurer shall provide the disclosure required by Subsection (2)(a)(i) in writing to the commissioner:
 
 (i)  upon commencement of operations in the state; and
 
@@ -70,25 +70,17 @@
 
 (iv)  any exclusion from coverage for secondary medical conditions that may result from the use of an excluded drug.
 
-(e) (i)  The department shall develop examples of limitations or exclusions of a secondary medical condition that an insurer may use under Subsection (2)(a)(i)(C).
+(e) (i)  The commissioner shall develop examples of limitations or exclusions of a secondary medical condition that an insurer may use under Subsection (2)(a)(i)(C).
 
 (ii)  Examples of a limitation or exclusion of coverage provided under Subsection (2)(a)(i)(C) or otherwise are for illustrative purposes only, and the failure of a particular fact situation to fall within the description of an example does not, by itself, support a finding of coverage.
 
-(3)  An insurer who offers a health benefit plan under Chapter 30, Individual, Small Employer, and Group Health Insurance Act, shall offer a basic health care plan subject to the open enrollment provisions of Chapter 30, Individual, Small Employer, and Group Health Insurance Act, that:
-
-(a)  is a federally qualified high deductible health plan;
-
-(b)  has a deductible that is within $250 of the lowest deductible that qualifies under a federally qualified high deductible health plan, as adjusted by federal law; and
-
-(c)  does not exceed an annual out of pocket maximum equal to three times the amount of the annual deductible.
-
-(4)  The commissioner:
+(3)  The commissioner:
 
 (a)  shall forward the information submitted by an insurer under Subsection (2)(a)(ii) to the Health Insurance Exchange created under Section 63M-1-2504; and
 
 (b)  may request information from an insurer to verify the information submitted by the insurer under this section.
 
-(5)  The commissioner shall:
+(4)  The commissioner shall:
 
 (a)  convene a group of insurers, a member representing the Public Employees' Benefit and Insurance Program, consumers, and an organization described in Subsection 31A-22-614.6(3)(b), to develop information for consumers to compare health insurers and health benefit plans on the Health Insurance Exchange, which shall include consideration of:
 
@@ -108,9 +100,9 @@
 
 (ii)  the methodology for determining and comparing the insurer transparency information;
 
-(iii)  the data, and format of the data, that an insurer must submit to the department in order to facilitate the consumer comparison on the Health Insurance Exchange in accordance with Section 63M-1-2506; and
+(iii)  the data, and format of the data, that an insurer shall submit to the commissioner in order to facilitate the consumer comparison on the Health Insurance Exchange in accordance with Section 63M-1-2506; and
 
-(iv)  the dates on which the insurer must submit the data to the department in order for the department to transmit the data to the Health Insurance Exchange in accordance with Section 63M-1-2506; and
+(iv)  the dates on which the insurer shall submit the data to the commissioner in order for the commissioner to transmit the data to the Health Insurance Exchange in accordance with Section 63M-1-2506; and
 
-(c)  implement the rules adopted under Subsection (5)(b) in a manner that protects the business confidentiality of the insurer.
+(c)  implement the rules adopted under Subsection (4)(b) in a manner that protects the business confidentiality of the insurer.
 

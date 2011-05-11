@@ -10,33 +10,7 @@
 
 (b)  "Health benefit plan" has the same meaning as provided in Section 31A-1-301.
 
-(c)  "Qualified health insurance coverage" means at the time the contract is entered into or renewed:
-
-(i)  a health benefit plan and employer contribution level with a combined actuarial value at least actuarially equivalent to the combined actuarial value of the benchmark plan determined by the Children's Health Insurance Program under Subsection 26-40-106(2)(a), and a contribution level of 50% of the premium for the employee and the dependents of the employee who reside or work in the state, in which:
-
-(A)  the employer pays at least 50% of the premium for the employee and the dependents of the employee who reside or work in the state; and
-
-(B)  for purposes of calculating actuarial equivalency under this Subsection (1)(c)(i):
-
-(I)  rather that the benchmark plan's deductible, and the benchmark plan's out-of-pocket maximum based on income levels:
-
-(Aa)  the deductible is $750 per individual and $2,250 per family; and
-
-(Bb)  the out-of-pocket maximum is $3,000 per individual and $9,000 per family;
-
-(II)  dental coverage is not required; and
-
-(III)  other than Subsection 26-40-106(2)(a), the provisions of Section 26-40-106 do not apply; or
-
-(ii) (A)  is a federally qualified high deductible health plan that, at a minimum, has a deductible that is either:
-
-(I)  the lowest deductible permitted for a federally qualified high deductible health plan; or
-
-(II)  a deductible that is higher than the lowest deductible permitted for a federally qualified high deductible health plan, but includes an employer contribution to a health savings account in a dollar amount at least equal to the dollar amount difference between the lowest deductible permitted for a federally qualified high deductible plan and the deductible for the employer offered federally qualified high deductible plan;
-
-(B)  an out-of-pocket maximum that does not exceed three times the amount of the annual deductible; and
-
-(C)  under which the employer pays 75% of the premium for the employee and the dependents of the employee who work or reside in the state.
+(c)  "Qualified health insurance coverage" is as defined in Section 26-40-115.
 
 (d)  "Subcontractor" has the same meaning provided for in Section 63A-5-208.
 
@@ -110,11 +84,11 @@
 
 (c)  which establish:
 
-(i)  the requirements and procedures a contractor must follow to demonstrate to the public transit district compliance with this section which shall include:
+(i)  the requirements and procedures a contractor shall follow to demonstrate to the public transit district compliance with this section that shall include:
 
 (A)  that a contractor will not have to demonstrate compliance with Subsection (5)(a) or (b) more than twice in any 12-month period; and
 
-(B)  that the actuarially equivalent determination required in Subsection (1) is met by the contractor if the contractor provides the department or division with a written statement of actuarial equivalency from either:
+(B)  that the actuarially equivalent determination required for the qualified health insurance coverage in Subsection (1) is met by the contractor if the contractor provides the department or division with a written statement of actuarial equivalency from either:
 
 (I)  the Utah Insurance Department;
 
@@ -132,7 +106,7 @@
 
 (D)  notwithstanding Section 19-1-303, monetary penalties which may not exceed 50% of the amount necessary to purchase qualified health insurance coverage for an employee and the dependents of an employee of the contractor or subcontractor who was not offered qualified health insurance coverage during the duration of the contract; and
 
-(iii)  a website on which the department shall post the benchmark for the qualified health insurance coverage identified in Subsection (1)(c)(i).
+(iii)  a website on which the department shall post the benchmark for the qualified health insurance coverage identified in Subsection (1)(c).
 
 (7) (a) (i)  In addition to the penalties imposed under Subsection (6)(c), a contractor or subcontractor who intentionally violates the provisions of this section shall be liable to the employee for health care costs that would have been covered by qualified health insurance coverage.
 

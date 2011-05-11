@@ -44,11 +44,11 @@
 
 (B)  a public assembly or other related facility in an amount that is less than or equal to $5 per ticket purchased from the public assembly or other related facility; and
 
-(C)  subject to the limitations of Subsections (5)(c), (d), and (e), a business:
+(C)  subject to the limitations of Subsections (5)(c), (d), and (e):
 
-(I)  that causes disproportionate costs of municipal services; or
+(I)  a business that causes disproportionate costs of municipal services; or
 
-(II)  for which the municipality provides an enhanced level of municipal services.
+(II)  a purchaser from a business for which the municipality provides an enhanced level of municipal services.
 
 (ii)  Nothing in this Subsection (5)(a) may be construed to authorize a municipality to levy or collect a license fee or tax on a public assembly or other related facility owned and operated by another political subdivision other than a community development and renewal agency without the written consent of the other political subdivision.
 
@@ -100,7 +100,7 @@
 
 (ii)  The amount of a fee under Subsection (5)(a)(i)(C)(I) shall be reasonably related to the costs of the municipal services provided by the municipality.
 
-(d) (i)  Before the legislative body of a municipality imposes a license fee on a business for which it provides an enhanced level of municipal services under Subsection (5)(a)(i)(C)(II), the legislative body of the municipality shall adopt an ordinance defining for purposes of the fee under Subsection (5)(a)(i)(C)(II):
+(d) (i)  Before the legislative body of a municipality imposes a license fee on a purchaser from a business for which it provides an enhanced level of municipal services under Subsection (5)(a)(i)(C)(II), the legislative body of the municipality shall adopt an ordinance defining for purposes of the fee under Subsection (5)(a)(i)(C)(II):
 
 (A)  the level of municipal services that constitutes the basic level of municipal services in the municipality; and
 
@@ -156,7 +156,7 @@
 
 (iv)  The requirement under Subsection (5)(e)(ii)(A)(II) to conduct a municipal services study does not apply to a municipality that:
 
-(A)  imposed and collected a disproportionate rental fee on May 2, 2005 of $17 or less per unit per year:
+(A)  imposed and collected a disproportionate rental fee on May 2, 2005, of $17 or less per unit per year;
 
 (B)  does not increase the amount of its disproportionate rental fee; and
 
@@ -164,7 +164,7 @@
 
 (v)  The fee limitation under Subsection (5)(e)(ii)(B) does not apply to a municipality that:
 
-(A)  imposed and collected a disproportionate rental fee on May 2, 2005 that was $17 or less per unit per year;
+(A)  imposed and collected a disproportionate rental fee on May 2, 2005, that was $17 or less per unit per year;
 
 (B)  does not increase the amount of its disproportionate rental fee; and
 

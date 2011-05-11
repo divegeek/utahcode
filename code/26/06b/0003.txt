@@ -14,7 +14,7 @@
 
 (iii)  knowledge of current public health risks based on medically accepted guidelines as may be established by the Department of Health by administrative rule.
 
-(b)  An order of restriction issued by a department must:
+(b)  An order of restriction issued by a department shall:
 
 (i)  in the opinion of the public health official, be for the shortest reasonable period of time necessary to protect the public health;
 
@@ -44,7 +44,7 @@
 
 (D)  may only be continued beyond the initial 24 hours if a written order of restriction is issued pursuant to the provisions of Section 26-6b-3.3.
 
-(3)  Pending issuance of a written order of restriction under Section 26-6b-3.3, or judicial review of an order of restriction by the district court pursuant to Section 26-6b-6, an individual who is subject to the order of restriction may be required to submit to involuntary examination, quarantine, isolation, or treatment in his home, a hospital, or any other suitable facility under reasonable conditions prescribed by the department.
+(3)  Pending issuance of a written order of restriction under Section 26-6b-3.3, or judicial review of an order of restriction by the district court pursuant to Section 26-6b-6, an individual who is subject to the order of restriction may be required to submit to involuntary examination, quarantine, isolation, or treatment in the individual's home, a hospital, or any other suitable facility under reasonable conditions prescribed by the department.
 
 (4)  The department that issued the order of restriction shall take reasonable measures, including the provision of medical care, as may be necessary to assure proper care related to the reason for the involuntary examination, treatment, isolation, or quarantine of an individual ordered to submit to an order of restriction.
 

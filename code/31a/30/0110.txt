@@ -12,7 +12,7 @@
 
 (ii)  "TI" is the total individual coverage count for all carriers.
 
-(3)  The commissioner may establish a minimum number of uninsurable individuals that a carrier entering the market who is subject to this chapter must accept under the individual enrollment provisions of this chapter.
+(3)  The commissioner may establish a minimum number of uninsurable individuals that a carrier entering the market who is subject to this chapter shall accept under the individual enrollment provisions of this chapter.
 
 (4)  Beginning July 1, 1997, an individual carrier may decline to accept individuals applying for individual enrollment under Subsection 31A-30-108(3), other than individuals applying for coverage as set forth in P.L. 104-191, 110 Stat. 1979, Sec. 2741 (a)-(b), if:
 
@@ -20,9 +20,9 @@
 
 (b)  the covered carrier has certified on forms provided by the commissioner that its uninsurable percentage equals or exceeds the individual enrollment cap.
 
-(5)  The department may audit a carrier's records to verify whether the carrier's uninsurable classification meets industry standards for underwriting criteria as established by the commissioner in accordance with Subsection 31A-30-106(1)(i).
+(5)  The department may audit a carrier's records to verify whether the carrier's uninsurable classification meets industry standards for underwriting criteria as established by the commissioner in accordance with Subsection 31A-30-106(1)(h).
 
-(6) (a) If the commissioner determines that individual enrollment is causing a substantial adverse effect on premiums, enrollment, or experience, the commissioner may suspend, limit, or delay further individual enrollment for up to 12 months.
+(6) (a)  If the commissioner determines that individual enrollment is causing a substantial adverse effect on premiums, enrollment, or experience, the commissioner may suspend, limit, or delay further individual enrollment for up to 12 months.
 
 (b)  The commissioner shall adopt rules to establish a uniform methodology for calculating and reporting loss ratios for individual policies for determining whether the individual enrollment provisions of Section 31A-30-108 should be waived for an individual carrier experiencing significant and adverse financial impact as a result of complying with those provisions.
 

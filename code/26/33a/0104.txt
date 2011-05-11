@@ -16,7 +16,13 @@
 
 (v)  describe the types and methods of validation to be performed to assure data validity and reliability;
 
-(vi)  explain the intended uses of and expected benefits to be derived from the data specified in Subsection (2)(a)(iv), including the contemplated tabulation formats and analysis methods; the benefits described must demonstrably relate to one or more of the following: promoting quality health care, managing health care costs, or improving access to health care services;
+(vi)  explain the intended uses of and expected benefits to be derived from the data specified in Subsection (2)(a)(iv), including the contemplated tabulation formats and analysis methods; the benefits described shall demonstrably relate to one or more of the following:
+
+(A)  promoting quality health care;
+
+(B)  managing health care costs; or
+
+(C)  improving access to health care services;
 
 (vii)  describe the expected processes for interpretation and analysis of the data flowing to the committee; noting specifically the types of expertise and participation to be sought in those processes; and
 
@@ -32,7 +38,7 @@
 
 (3)  The committee may adopt rules to carry out the provisions of this chapter in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
 
-(4)  Except for data collection, analysis, and validation functions described in this section, nothing in this chapter shall be construed to authorize or permit the committee to perform regulatory functions which are delegated by law to other agencies of the state or federal governments or to perform quality assurance or medical record audit functions that health care facilities, health care providers, or third party payors are required to conduct to comply with federal or state law.  The committee shall not recommend or determine whether a health care provider, health care facility, third party payor, or self-funded employer is in compliance with federal or state laws including but not limited to federal or state licensure, insurance, reimbursement, tax, malpractice, or quality assurance statutes or common law.
+(4)  Except for data collection, analysis, and validation functions described in this section, nothing in this chapter shall be construed to authorize or permit the committee to perform regulatory functions which are delegated by law to other agencies of the state or federal governments or to perform quality assurance or medical record audit functions that health care facilities, health care providers, or third party payors are required to conduct to comply with federal or state law.  The committee may not recommend or determine whether a health care provider, health care facility, third party payor, or self-funded employer is in compliance with federal or state laws including federal or state licensure, insurance, reimbursement, tax, malpractice, or quality assurance statutes or common law.
 
 (5)  Nothing in this chapter shall be construed to require a data supplier to supply health data identifying a patient by name or describing detail on a patient beyond that needed to achieve the approved purposes included in the plan.
 
@@ -42,7 +48,7 @@
 
 (8)  After a plan is adopted as provided in Section 26-33a-106.1, the committee may require any data supplier to submit fee schedules, maximum allowable costs, area prevailing costs, terms of contracts, discounts, fixed reimbursement arrangements, capitations, or other specific arrangements for reimbursement to a health care provider.
 
-(9)  The committee shall not publish any health data collected under Subsection (8) which would disclose specific terms of contracts, discounts, or fixed reimbursement arrangements, or other specific reimbursement arrangements between an individual provider and a specific payer.
+(9)  The committee may not publish any health data collected under Subsection (8) that would disclose specific terms of contracts, discounts, or fixed reimbursement arrangements, or other specific reimbursement arrangements between an individual provider and a specific payer.
 
 (10)  Nothing in Subsection (8) shall prevent the committee from requiring the submission of health data on the reimbursements actually made to health care providers from any source of payment, including consumers.
 

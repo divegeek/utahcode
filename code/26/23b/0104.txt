@@ -4,7 +4,7 @@
 
 (a)  the health care provider knows of a confirmed case; or
 
-(b)  the health care provider believes, based on his professional judgment that a person likely harbors a reportable emergency illness or health condition.
+(b)  the health care provider believes, based on the health care provider's professional judgment that a person likely harbors a reportable emergency illness or health condition.
 
 (2)  A report pursuant to this section shall include, if known:
 
@@ -24,9 +24,9 @@
 
 (h)  whether the patient was admitted to the hospital.
 
-(3) (a)  If the department determines that a public health emergency exists, the department may, with the concurrence of the governor and the executive director or in the absence of the executive director, his designee, issue a public health emergency order and mandate reporting under this section for a limited reasonable period of time, as necessary to respond to the public health emergency.
+(3) (a)  If the department determines that a public health emergency exists, the department may, with the concurrence of the governor and the executive director or in the absence of the executive director, the executive director's designee, issue a public health emergency order and mandate reporting under this section for a limited reasonable period of time, as necessary to respond to the public health emergency.
 
-(b)  The department may not mandate reporting under this subsection for more than 90 days.  If more than 90 days is needed to abate the public health emergency declared under Subsection (3)(a), the department must obtain the concurrence of the governor to extend the period of time beyond 90 days.
+(b)  The department may not mandate reporting under this subsection for more than 90 days.  If more than 90 days is needed to abate the public health emergency declared under Subsection (3)(a), the department shall obtain the concurrence of the governor to extend the period of time beyond 90 days.
 
 (4) (a)  Unless the provisions of Subsection (3) apply, a health care provider is not subject to penalties for failing to submit a report under this section.
 

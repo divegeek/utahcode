@@ -50,7 +50,7 @@ As used in this title, unless otherwise specified:
 
 (2)  "Actuary" is as defined by the commissioner by rule, made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
 
-(3)  "Administrator" is defined in Subsection (159).
+(3)  "Administrator" is defined in Subsection (161).
 
 (4)  "Adult" means an individual who has attained the age of at least 18 years.
 
@@ -60,7 +60,7 @@ As used in this title, unless otherwise specified:
 
 (a)  a person other than an individual, including a sole proprietorship by which an individual does business under an assumed name; and
 
-(b)  an insurance organization licensed or required to be licensed under Section 31A-23a-301.
+(b)  an insurance organization licensed or required to be licensed under Section 31A-23a-301, 31A-25-207, or 31A-26-209.
 
 (7)  "Alien insurer" means an insurer domiciled outside the United States.
 
@@ -112,11 +112,19 @@ As used in this title, unless otherwise specified:
 
 (a)  without individual underwriting or application; and
 
-(b)  that is determined by definition with or without designating each person covered.
+(b)  that is determined by definition without designating each person covered.
 
 (15)  "Board," "board of trustees," or "board of directors" means the group of persons with responsibility over, or management of, a corporation, however designated.
 
-(16)  "Business entity" means:
+(16)  "Bona fide office" means a physical office in this state:
+
+(a)  that is open to the public;
+
+(b)  that is staffed during regular business hours on regular business days; and
+
+(c)  at which the public may appear in person to obtain services.
+
+(17)  "Business entity" means:
 
 (a)  a corporation;
 
@@ -130,9 +138,9 @@ As used in this title, unless otherwise specified:
 
 (f)  another legal entity.
 
-(17)  "Business of insurance" is defined in Subsection (85).
+(18)  "Business of insurance" is defined in Subsection (87).
 
-(18)  "Business plan" means the information required to be supplied to the commissioner under Subsections 31A-5-204(2)(i) and (j), including the information required when these subsections apply by reference under:
+(19)  "Business plan" means the information required to be supplied to the commissioner under Subsections 31A-5-204(2)(i) and (j), including the information required when these subsections apply by reference under:
 
 (a)  Section 31A-7-201;
 
@@ -140,11 +148,11 @@ As used in this title, unless otherwise specified:
 
 (c)  Subsection 31A-9-205(2).
 
-(19) (a)  "Bylaws" means the rules adopted for the regulation or management of a corporation's affairs, however designated.
+(20) (a)  "Bylaws" means the rules adopted for the regulation or management of a corporation's affairs, however designated.
 
 (b)  "Bylaws" includes comparable rules for a trust or other entity that is not a corporation.
 
-(20)  "Captive insurance company" means:
+(21)  "Captive insurance company" means:
 
 (a)  an insurer:
 
@@ -162,31 +170,31 @@ As used in this title, unless otherwise specified:
 
 (B)  a group member; or
 
-(C) an affiliate of:
+(C)  an affiliate of:
 
 (I)  a member organization; or
 
 (II)  a group member.
 
-(21)  "Casualty insurance" means liability insurance.
+(22)  "Casualty insurance" means liability insurance.
 
-(22)  "Certificate" means evidence of insurance given to:
+(23)  "Certificate" means evidence of insurance given to:
 
 (a)  an insured under a group insurance policy; or
 
 (b)  a third party.
 
-(23)  "Certificate of authority" is included within the term "license."
+(24)  "Certificate of authority" is included within the term "license."
 
-(24)  "Claim," unless the context otherwise requires, means a request or demand on an insurer for payment of a benefit according to the terms of an insurance policy.
+(25)  "Claim," unless the context otherwise requires, means a request or demand on an insurer for payment of a benefit according to the terms of an insurance policy.
 
-(25)  "Claims-made coverage" means an insurance contract or provision limiting coverage under a policy insuring against legal liability to claims that are first made against the insured while the policy is in force.
+(26)  "Claims-made coverage" means an insurance contract or provision limiting coverage under a policy insuring against legal liability to claims that are first made against the insured while the policy is in force.
 
-(26) (a)  "Commissioner" or "commissioner of insurance" means Utah's insurance commissioner.
+(27) (a)  "Commissioner" or "commissioner of insurance" means Utah's insurance commissioner.
 
-(b)  When appropriate, the terms listed in Subsection (26)(a) apply to the equivalent supervisory official of another jurisdiction.
+(b)  When appropriate, the terms listed in Subsection (27)(a) apply to the equivalent supervisory official of another jurisdiction.
 
-(27) (a)  "Continuing care insurance" means insurance that:
+(28) (a)  "Continuing care insurance" means insurance that:
 
 (i)  provides board and lodging;
 
@@ -200,15 +208,15 @@ As used in this title, unless otherwise specified:
 
 (D)  any other health-related service; and
 
-(iii)  provides the coverage described in this Subsection (27)(a) under an agreement effective:
+(iii)  provides the coverage described in this Subsection (28)(a) under an agreement effective:
 
 (A)  for the life of the insured; or
 
 (B)  for a period in excess of one year.
 
-(b)  Insurance is continuing care insurance regardless of whether or not the board and lodging are provided at the same location as a service described in Subsection (27)(a)(ii).
+(b)  Insurance is continuing care insurance regardless of whether or not the board and lodging are provided at the same location as a service described in Subsection (28)(a)(ii).
 
-(28) (a)  "Control," "controlling," "controlled," or "under common control" means the direct or indirect possession of the power to direct or cause the direction of the management and policies of a person.  This control may be:
+(29) (a)  "Control," "controlling," "controlled," or "under common control" means the direct or indirect possession of the power to direct or cause the direction of the management and policies of a person.  This control may be:
 
 (i)  by contract;
 
@@ -216,7 +224,7 @@ As used in this title, unless otherwise specified:
 
 (iii)  through the ownership of voting securities; or
 
-(iv)  by a means other than those described in Subsections (28)(a)(i) through (iii).
+(iv)  by a means other than those described in Subsections (29)(a)(i) through (iii).
 
 (b)  There is no presumption that an individual holding an official position with another person controls that person solely by reason of the position.
 
@@ -224,13 +232,13 @@ As used in this title, unless otherwise specified:
 
 (d)  There is a rebuttable presumption of control in a person who directly or indirectly owns, controls, holds with the power to vote, or holds proxies to vote 10% or more of the voting securities of another person.
 
-(29)  "Controlled insurer" means a licensed insurer that is either directly or indirectly controlled by a producer.
+(30)  "Controlled insurer" means a licensed insurer that is either directly or indirectly controlled by a producer.
 
-(30)  "Controlling person" means a person that directly or indirectly has the power to direct or cause to be directed, the management, control, or activities of a reinsurance intermediary.
+(31)  "Controlling person" means a person that directly or indirectly has the power to direct or cause to be directed, the management, control, or activities of a reinsurance intermediary.
 
-(31)  "Controlling producer" means a producer who directly or indirectly controls an insurer.
+(32)  "Controlling producer" means a producer who directly or indirectly controls an insurer.
 
-(32) (a)  "Corporation" means an insurance corporation, except when referring to:
+(33) (a)  "Corporation" means an insurance corporation, except when referring to:
 
 (i)  a corporation doing business:
 
@@ -264,7 +272,7 @@ As used in this title, unless otherwise specified:
 
 (c)  "Mutual" or "mutual corporation" means a mutual insurance corporation.
 
-(33) (a)  "Creditable coverage" has the same meaning as provided in federal regulations adopted pursuant to the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936.
+(34) (a)  "Creditable coverage" has the same meaning as provided in federal regulations adopted pursuant to the Health Insurance Portability and Accountability Act.
 
 (b)  "Creditable coverage" includes coverage that is offered through a public health plan such as:
 
@@ -274,9 +282,9 @@ As used in this title, unless otherwise specified:
 
 (iii)  the Ryan White Program Comprehensive AIDS Resources Emergency Act, Pub. L. 101-381, and Ryan White HIV/AIDS Treatment Modernization Act of 2006, Pub. L. 109-415.
 
-(34)  "Credit accident and health insurance" means insurance on a debtor to provide indemnity for payments coming due on a specific loan or other credit transaction while the debtor is disabled.
+(35)  "Credit accident and health insurance" means insurance on a debtor to provide indemnity for payments coming due on a specific loan or other credit transaction while the debtor has a disability.
 
-(35) (a)  "Credit insurance" means insurance offered in connection with an extension of credit that is limited to partially or wholly extinguishing that credit obligation.
+(36) (a)  "Credit insurance" means insurance offered in connection with an extension of credit that is limited to partially or wholly extinguishing that credit obligation.
 
 (b)  "Credit insurance" includes:
 
@@ -298,15 +306,15 @@ As used in this title, unless otherwise specified:
 
 (ix)  mortgage life insurance.
 
-(36)  "Credit life insurance" means insurance on the life of a debtor in connection with an extension of credit that pays a person if the debtor dies.
+(37)  "Credit life insurance" means insurance on the life of a debtor in connection with an extension of credit that pays a person if the debtor dies.
 
-(37)  "Credit property insurance" means insurance:
+(38)  "Credit property insurance" means insurance:
 
 (a)  offered in connection with an extension of credit; and
 
 (b)  that protects the property until the debt is paid.
 
-(38)  "Credit unemployment insurance" means insurance:
+(39)  "Credit unemployment insurance" means insurance:
 
 (a)  offered in connection with an extension of credit; and
 
@@ -316,7 +324,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  credit transaction.
 
-(39)  "Creditor" means a person, including an insured, having a claim, whether:
+(40)  "Creditor" means a person, including an insured, having a claim, whether:
 
 (a)  matured;
 
@@ -336,7 +344,7 @@ As used in this title, unless otherwise specified:
 
 (i)  contingent.
 
-(40) (a)  "Customer service representative" means a person that provides an insurance service and insurance product information:
+(41) (a)  "Customer service representative" means a person that provides an insurance service and insurance product information:
 
 (i)  for the customer service representative's:
 
@@ -354,7 +362,7 @@ As used in this title, unless otherwise specified:
 
 (b)  A customer service representative may only operate within the scope of authority of the customer service representative's producer or consultant employer.
 
-(41)  "Deadline" means a final date or time:
+(42)  "Deadline" means a final date or time:
 
 (a)  imposed by:
 
@@ -366,15 +374,15 @@ As used in this title, unless otherwise specified:
 
 (b)  by which a required filing or payment must be received by the department.
 
-(42)  "Deemer clause" means a provision under this title under which upon the occurrence of a condition precedent, the commissioner is considered to have taken a specific action.  If the statute so provides, a condition precedent may be the commissioner's failure to take a specific action.
+(43)  "Deemer clause" means a provision under this title under which upon the occurrence of a condition precedent, the commissioner is considered to have taken a specific action.  If the statute so provides, a condition precedent may be the commissioner's failure to take a specific action.
 
-(43)  "Degree of relationship" means the number of steps between two persons determined by counting the generations separating one person from a common ancestor and then counting the generations to the other person.
+(44)  "Degree of relationship" means the number of steps between two persons determined by counting the generations separating one person from a common ancestor and then counting the generations to the other person.
 
-(44)  "Department" means the Insurance Department.
+(45)  "Department" means the Insurance Department.
 
-(45)  "Director" means a member of the board of directors of a corporation.
+(46)  "Director" means a member of the board of directors of a corporation.
 
-(46)  "Disability" means a physiological or psychological condition that partially or totally limits an individual's ability to:
+(47)  "Disability" means a physiological or psychological condition that partially or totally limits an individual's ability to:
 
 (a)  perform the duties of:
 
@@ -394,11 +402,11 @@ As used in this title, unless otherwise specified:
 
 (v)  dressing.
 
-(47)  "Disability income insurance" is defined in Subsection (76).
+(48)  "Disability income insurance" is defined in Subsection (78).
 
-(48)  "Domestic insurer" means an insurer organized under the laws of this state.
+(49)  "Domestic insurer" means an insurer organized under the laws of this state.
 
-(49)  "Domiciliary state" means the state in which an insurer:
+(50)  "Domiciliary state" means the state in which an insurer:
 
 (a)  is incorporated;
 
@@ -406,7 +414,7 @@ As used in this title, unless otherwise specified:
 
 (c)  in the case of an alien insurer, enters into the United States.
 
-(50) (a)  "Eligible employee" means:
+(51) (a)  "Eligible employee" means:
 
 (i)  an employee who:
 
@@ -414,7 +422,7 @@ As used in this title, unless otherwise specified:
 
 (B)  has a normal work week of 30 or more hours; or
 
-(ii)  a person described in Subsection (50)(b).
+(ii)  a person described in Subsection (51)(b).
 
 (b)  "Eligible employee" includes, if the individual is included under a health benefit plan of a small employer:
 
@@ -424,7 +432,7 @@ As used in this title, unless otherwise specified:
 
 (iii)  an independent contractor.
 
-(c)  "Eligible employee" does not include, unless eligible under Subsection (50)(b):
+(c)  "Eligible employee" does not include, unless eligible under Subsection (51)(b):
 
 (i)  an individual who works on a temporary or substitute basis for a small employer;
 
@@ -432,15 +440,15 @@ As used in this title, unless otherwise specified:
 
 (iii)  a dependent of an employer.
 
-(51)  "Employee" means an individual employed by an employer.
+(52)  "Employee" means an individual employed by an employer.
 
-(52)  "Employee benefits" means one or more benefits or services provided to:
+(53)  "Employee benefits" means one or more benefits or services provided to:
 
 (a)  an employee; or
 
 (b)  a dependent of an employee.
 
-(53) (a)  "Employee welfare fund" means a fund:
+(54) (a)  "Employee welfare fund" means a fund:
 
 (i)  established or maintained, whether directly or through a trustee, by:
 
@@ -458,15 +466,15 @@ As used in this title, unless otherwise specified:
 
 (b)  "Employee welfare fund" includes a plan funded or subsidized by a user fee or tax revenues.
 
-(54)  "Endorsement" means a written agreement attached to a policy or certificate to modify the policy or certificate coverage.
+(55)  "Endorsement" means a written agreement attached to a policy or certificate to modify the policy or certificate coverage.
 
-(55)  "Enrollment date," with respect to a health benefit plan, means:
+(56)  "Enrollment date," with respect to a health benefit plan, means:
 
 (a)  the first day of coverage; or
 
 (b)  if there is a waiting period, the first day of the waiting period.
 
-(56) (a)  "Escrow" means:
+(57) (a)  "Escrow" means:
 
 (i)  a real estate settlement or real estate closing conducted by a third party pursuant to the requirements of a written agreement between the parties in a real estate transaction; or
 
@@ -486,7 +494,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  real estate closing.
 
-(57)  "Escrow agent" means:
+(58)  "Escrow agent" means:
 
 (a)  an insurance producer with:
 
@@ -496,11 +504,11 @@ As used in this title, unless otherwise specified:
 
 (b)  a person defined as an escrow agent in Section 7-22-101.
 
-(58) (a)  "Excludes" is not exhaustive and does not mean that another thing is not also excluded.
+(59) (a)  "Excludes" is not exhaustive and does not mean that another thing is not also excluded.
 
 (b)  The items listed in a list using the term "excludes" are representative examples for use in interpretation of this title.
 
-(59)  "Exclusion" means for the purposes of accident and health insurance that an insurer does not provide insurance coverage, for whatever reason, for one of the following:
+(60)  "Exclusion" means for the purposes of accident and health insurance that an insurer does not provide insurance coverage, for whatever reason, for one of the following:
 
 (a)  a specific physical condition;
 
@@ -510,7 +518,7 @@ As used in this title, unless otherwise specified:
 
 (d)  a specific prescription drug or class of prescription drugs.
 
-(60)  "Expense reimbursement insurance" means insurance:
+(61)  "Expense reimbursement insurance" means insurance:
 
 (a)  written to provide a payment for an expense relating to hospital confinement resulting from illness or injury; and
 
@@ -520,9 +528,9 @@ As used in this title, unless otherwise specified:
 
 (ii)  to have a one or two day waiting period following a hospitalization.
 
-(61)  "Fidelity insurance" means insurance guaranteeing the fidelity of a person holding a position of public or private trust.
+(62)  "Fidelity insurance" means insurance guaranteeing the fidelity of a person holding a position of public or private trust.
 
-(62) (a)  "Filed" means that a filing is:
+(63) (a)  "Filed" means that a filing is:
 
 (i)  submitted to the department as required by and in accordance with applicable statute, rule, or filing order;
 
@@ -534,9 +542,9 @@ As used in this title, unless otherwise specified:
 
 (B)  rule.
 
-(b)  "Filed" does not include a filing that is rejected by the department because it is not submitted in accordance with Subsection (62)(a).
+(b)  "Filed" does not include a filing that is rejected by the department because it is not submitted in accordance with Subsection (63)(a).
 
-(63)  "Filing," when used as a noun, means an item required to be filed with the department including:
+(64)  "Filing," when used as a noun, means an item required to be filed with the department including:
 
 (a)  a policy;
 
@@ -568,11 +576,11 @@ As used in this title, unless otherwise specified:
 
 (o)  an outline of coverage.
 
-(64)  "First party insurance" means an insurance policy or contract in which the insurer agrees to pay a claim submitted to it by the insured for the insured's losses.
+(65)  "First party insurance" means an insurance policy or contract in which the insurer agrees to pay a claim submitted to it by the insured for the insured's losses.
 
-(65)  "Foreign insurer" means an insurer domiciled outside of this state, including an alien insurer.
+(66)  "Foreign insurer" means an insurer domiciled outside of this state, including an alien insurer.
 
-(66) (a)  "Form" means one of the following prepared for general use:
+(67) (a)  "Form" means one of the following prepared for general use:
 
 (i)  a policy;
 
@@ -586,11 +594,11 @@ As used in this title, unless otherwise specified:
 
 (b)  "Form" does not include a document specially prepared for use in an individual case.
 
-(67)  "Franchise insurance" means an individual insurance policy provided through a mass marketing arrangement involving a defined class of persons related in some way other than through the purchase of insurance.
+(68)  "Franchise insurance" means an individual insurance policy provided through a mass marketing arrangement involving a defined class of persons related in some way other than through the purchase of insurance.
 
-(68)  "General lines of authority" include:
+(69)  "General lines of authority" include:
 
-(a)  the general lines of insurance in Subsection (69);
+(a)  the general lines of insurance in Subsection (70);
 
 (b)  title insurance under one of the following sublines of authority:
 
@@ -606,7 +614,7 @@ As used in this title, unless otherwise specified:
 
 (e)  any other line of insurance that the commissioner considers necessary to recognize in the public interest.
 
-(69)  "General lines of insurance" include:
+(70)  "General lines of insurance" include:
 
 (a)  accident and health;
 
@@ -620,7 +628,7 @@ As used in this title, unless otherwise specified:
 
 (f)  variable contracts, including variable life and annuity.
 
-(70)  "Group health plan" means an employee welfare benefit plan to the extent that the plan provides medical care:
+(71)  "Group health plan" means an employee welfare benefit plan to the extent that the plan provides medical care:
 
 (a) (i)  to an employee; or
 
@@ -632,7 +640,7 @@ As used in this title, unless otherwise specified:
 
 (iii)  through another method.
 
-(71) (a)  "Group insurance policy" means a policy covering a group of persons that is issued:
+(72) (a)  "Group insurance policy" means a policy covering a group of persons that is issued:
 
 (i)  to a policyholder on behalf of the group; and
 
@@ -644,9 +652,9 @@ As used in this title, unless otherwise specified:
 
 (b)  A group insurance policy may include a member of the policyholder's family or a dependent.
 
-(72)  "Guaranteed automobile protection insurance" means insurance offered in connection with an extension of credit that pays the difference in amount between the insurance settlement and the balance of the loan if the insured automobile is a total loss.
+(73)  "Guaranteed automobile protection insurance" means insurance offered in connection with an extension of credit that pays the difference in amount between the insurance settlement and the balance of the loan if the insured automobile is a total loss.
 
-(73) (a)  Except as provided in Subsection (73)(b), "health benefit plan" means a policy or certificate that:
+(74) (a)  Except as provided in Subsection (74)(b), "health benefit plan" means a policy or certificate that:
 
 (i)  provides health care insurance;
 
@@ -680,7 +688,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  is offered and marketed as supplemental health insurance.
 
-(74)  "Health care" means any of the following intended for use in the diagnosis, treatment, mitigation, or prevention of a human ailment or impairment:
+(75)  "Health care" means any of the following intended for use in the diagnosis, treatment, mitigation, or prevention of a human ailment or impairment:
 
 (a)  a professional service;
 
@@ -696,7 +704,7 @@ As used in this title, unless otherwise specified:
 
 (g)  medicine.
 
-(75) (a)  "Health care insurance" or "health insurance" means insurance providing:
+(76) (a)  "Health care insurance" or "health insurance" means insurance providing:
 
 (i)  a health care benefit; or
 
@@ -724,17 +732,19 @@ As used in this title, unless otherwise specified:
 
 (x)  a type of accident and health insurance coverage that is a part of or attached to another type of policy.
 
-(76)  "Income replacement insurance" or "disability income insurance" means insurance written to provide payments to replace income lost from accident or sickness.
+(77)  "Health Insurance Portability and Accountability Act" means the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936, as amended.
 
-(77)  "Indemnity" means the payment of an amount to offset all or part of an insured loss.
+(78)  "Income replacement insurance" or "disability income insurance" means insurance written to provide payments to replace income lost from accident or sickness.
 
-(78)  "Independent adjuster" means an insurance adjuster required to be licensed under Section 31A-26-201 who engages in insurance adjusting as a representative of an insurer.
+(79)  "Indemnity" means the payment of an amount to offset all or part of an insured loss.
 
-(79)  "Independently procured insurance" means insurance procured under Section 31A-15-104.
+(80)  "Independent adjuster" means an insurance adjuster required to be licensed under Section 31A-26-201 who engages in insurance adjusting as a representative of an insurer.
 
-(80)  "Individual" means a natural person.
+(81)  "Independently procured insurance" means insurance procured under Section 31A-15-104.
 
-(81)  "Inland marine insurance" includes insurance covering:
+(82)  "Individual" means a natural person.
+
+(83)  "Inland marine insurance" includes insurance covering:
 
 (a)  property in transit on or over land;
 
@@ -746,7 +756,7 @@ As used in this title, unless otherwise specified:
 
 (e)  personal and commercial property floaters.
 
-(82)  "Insolvency" means that:
+(84)  "Insolvency" means that:
 
 (a)  an insurer is unable to pay its debts or meet its obligations as the debts and obligations mature;
 
@@ -754,7 +764,7 @@ As used in this title, unless otherwise specified:
 
 (c)  an insurer is determined to be hazardous under this title.
 
-(83) (a)  "Insurance" means:
+(85) (a)  "Insurance" means:
 
 (i)  an arrangement, contract, or plan for the transfer of a risk or risks from one or more persons to one or more other persons; or
 
@@ -768,9 +778,9 @@ As used in this title, unless otherwise specified:
 
 (iii)  a plan in which the risk does not rest upon the person who makes an arrangement, but with a class of persons who have agreed to share the risk.
 
-(84)  "Insurance adjuster" means a person who directs the investigation, negotiation, or settlement of a claim under an insurance policy other than life insurance or an annuity, on behalf of an insurer, policyholder, or a claimant under an insurance policy.
+(86)  "Insurance adjuster" means a person who directs the investigation, negotiation, or settlement of a claim under an insurance policy other than life insurance or an annuity, on behalf of an insurer, policyholder, or a claimant under an insurance policy.
 
-(85)  "Insurance business" or "business of insurance" includes:
+(87)  "Insurance business" or "business of insurance" includes:
 
 (a)  providing health care insurance by an organization that is or is required to be licensed under this title;
 
@@ -786,7 +796,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  except an annuity provided by a person specified in Subsections 31A-22-1305(2) and (3);
 
-(d)  providing the characteristic services of a motor club as outlined in Subsection (113);
+(d)  providing the characteristic services of a motor club as outlined in Subsection (115);
 
 (e)  providing another person with insurance;
 
@@ -800,15 +810,15 @@ As used in this title, unless otherwise specified:
 
 (iii)  execution of a contract of title insurance;
 
-(iv)  insuring;
+(iv)  insuring; and
 
-(v)  transacting matters subsequent to the execution of the contract and arising out of the contract, including reinsurance; and
+(v)  transacting matters subsequent to the execution of the contract and arising out of the contract, including reinsurance;
 
-(vi)  transacting or proposing a life settlement; and
+(h)  transacting or proposing a life settlement; and
 
-(h)  doing, or proposing to do, any business in substance equivalent to Subsections (85)(a) through (g) in a manner designed to evade this title.
+(i)  doing, or proposing to do, any business in substance equivalent to Subsections (87)(a) through (h) in a manner designed to evade this title.
 
-(86)  "Insurance consultant" or "consultant" means a person who:
+(88)  "Insurance consultant" or "consultant" means a person who:
 
 (a)  advises another person about insurance needs and coverages;
 
@@ -816,21 +826,23 @@ As used in this title, unless otherwise specified:
 
 (c)  except as provided in Section 31A-23a-501, is not compensated directly or indirectly by an insurer or producer for advice given.
 
-(87)  "Insurance holding company system" means a group of two or more affiliated persons, at least one of whom is an insurer.
+(89)  "Insurance holding company system" means a group of two or more affiliated persons, at least one of whom is an insurer.
 
-(88) (a)  "Insurance producer" or "producer" means a person licensed or required to be licensed under the laws of this state to sell, solicit, or negotiate insurance.
+(90) (a)  "Insurance producer" or "producer" means a person licensed or required to be licensed under the laws of this state to sell, solicit, or negotiate insurance.
 
-(b)  With regards to the selling, soliciting, or negotiating of an insurance product to an insurance customer or an insured:
+(b) (i)  "Producer for the insurer" means a producer who is compensated directly or indirectly by an insurer for selling, soliciting, or negotiating an insurance product of that insurer.
 
-(i)  "producer for the insurer" means a producer who is compensated directly or indirectly by an insurer for selling, soliciting, or negotiating a product of that insurer; and
+(ii)  "Producer for the insurer" may be referred to as an "agent."
 
-(ii)  "producer for the insured" means a producer who:
+(c) (i)  "Producer for the insured" means a producer who:
 
 (A)  is compensated directly and only by an insurance customer or an insured; and
 
-(B)  receives no compensation directly or indirectly from an insurer for selling, soliciting, or negotiating a product of that insurer to an insurance customer or insured.
+(B)  receives no compensation directly or indirectly from an insurer for selling, soliciting, or negotiating an insurance product of that insurer to an insurance customer or insured.
 
-(89) (a)  "Insured" means a person to whom or for whose benefit an insurer makes a promise in an insurance policy and includes:
+(ii)  "Producer for the insured" may be referred to as a "broker."
+
+(91) (a)  "Insured" means a person to whom or for whose benefit an insurer makes a promise in an insurance policy and includes:
 
 (i)  a policyholder;
 
@@ -840,13 +852,13 @@ As used in this title, unless otherwise specified:
 
 (iv)  a beneficiary.
 
-(b)  The definition in Subsection (89)(a):
+(b)  The definition in Subsection (91)(a):
 
 (i)  applies only to this title; and
 
 (ii)  does not define the meaning of this word as used in an insurance policy or certificate.
 
-(90) (a)  "Insurer" means a person doing an insurance business as a principal including:
+(92) (a)  "Insurer" means a person doing an insurance business as a principal including:
 
 (i)  a fraternal benefit society;
 
@@ -860,9 +872,9 @@ As used in this title, unless otherwise specified:
 
 (b)  "Insurer" does not include a governmental entity to the extent the governmental entity is engaged in an activity described in Section 31A-12-107.
 
-(91)  "Interinsurance exchange" is defined in Subsection (142).
+(93)  "Interinsurance exchange" is defined in Subsection (144).
 
-(92)  "Involuntary unemployment insurance" means insurance:
+(94)  "Involuntary unemployment insurance" means insurance:
 
 (a)  offered in connection with an extension of credit; and
 
@@ -872,43 +884,43 @@ As used in this title, unless otherwise specified:
 
 (ii)  credit transaction.
 
-(93)  "Large employer," in connection with a health benefit plan, means an employer who, with respect to a calendar year and to a plan year:
+(95)  "Large employer," in connection with a health benefit plan, means an employer who, with respect to a calendar year and to a plan year:
 
 (a)  employed an average of at least 51 eligible employees on each business day during the preceding calendar year; and
 
 (b)  employs at least two employees on the first day of the plan year.
 
-(94)  "Late enrollee," with respect to an employer health benefit plan, means an individual whose enrollment is a late enrollment.
+(96)  "Late enrollee," with respect to an employer health benefit plan, means an individual whose enrollment is a late enrollment.
 
-(95)  "Late enrollment," with respect to an employer health benefit plan, means enrollment of an individual other than:
+(97)  "Late enrollment," with respect to an employer health benefit plan, means enrollment of an individual other than:
 
 (a)  on the earliest date on which coverage can become effective for the individual under the terms of the plan; or
 
 (b)  through special enrollment.
 
-(96) (a)  Except for a retainer contract or legal assistance described in Section 31A-1-103, "legal expense insurance" means insurance written to indemnify or pay for a specified legal expense.
+(98) (a)  Except for a retainer contract or legal assistance described in Section 31A-1-103, "legal expense insurance" means insurance written to indemnify or pay for a specified legal expense.
 
 (b)  "Legal expense insurance" includes an arrangement that creates a reasonable expectation of an enforceable right.
 
 (c)  "Legal expense insurance" does not include the provision of, or reimbursement for, legal services incidental to other insurance coverage.
 
-(97) (a)  "Liability insurance" means insurance against liability:
+(99) (a)  "Liability insurance" means insurance against liability:
 
 (i)  for death, injury, or disability of a human being, or for damage to property, exclusive of the coverages under:
 
-(A)  Subsection (107) for medical malpractice insurance;
+(A)  Subsection (109) for medical malpractice insurance;
 
-(B)  Subsection (134) for professional liability insurance; and
+(B)  Subsection (136) for professional liability insurance; and
 
-(C)  Subsection (168) for workers' compensation insurance;
+(C)  Subsection (170) for workers' compensation insurance;
 
 (ii)  for a medical, hospital, surgical, and funeral benefit to a person other than the insured who is injured, irrespective of legal liability of the insured, when issued with or supplemental to insurance against legal liability for the death, injury, or disability of a human being, exclusive of the coverages under:
 
-(A)  Subsection (107) for medical malpractice insurance;
+(A)  Subsection (109) for medical malpractice insurance;
 
-(B)  Subsection (134) for professional liability insurance; and
+(B)  Subsection (136) for professional liability insurance; and
 
-(C)  Subsection (168) for workers' compensation insurance;
+(C)  Subsection (170) for workers' compensation insurance;
 
 (iii)  for loss or damage to property resulting from an accident to or explosion of a boiler, pipe, pressure container, machinery, or apparatus;
 
@@ -928,11 +940,11 @@ As used in this title, unless otherwise specified:
 
 (iii)  making inspection of, and issuing a certificate of inspection upon, an elevator, boiler, machinery, or apparatus of any kind when done in connection with insurance on the elevator, boiler, machinery, or apparatus.
 
-(98) (a)  "License" means authorization issued by the commissioner to engage in an activity that is part of or related to the insurance business.
+(100) (a)  "License" means authorization issued by the commissioner to engage in an activity that is part of or related to the insurance business.
 
 (b)  "License" includes a certificate of authority issued to an insurer.
 
-(99) (a)  "Life insurance" means:
+(101) (a)  "Life insurance" means:
 
 (i)  insurance on a human life; and
 
@@ -952,13 +964,13 @@ As used in this title, unless otherwise specified:
 
 (vi)  providing an optional method of settlement of proceeds.
 
-(100)  "Limited license" means a license that:
+(102)  "Limited license" means a license that:
 
 (a)  is issued for a specific product of insurance; and
 
 (b)  limits an individual or agency to transact only for that product or insurance.
 
-(101)  "Limited line credit insurance" includes the following forms of insurance:
+(103)  "Limited line credit insurance" includes the following forms of insurance:
 
 (a)  credit life;
 
@@ -984,9 +996,9 @@ As used in this title, unless otherwise specified:
 
 (ii)  the commissioner determines by rule should be designated as a form of limited line credit insurance.
 
-(102)  "Limited line credit insurance producer" means a person who sells, solicits, or negotiates one or more forms of limited line credit insurance coverage to an individual through a master, corporate, group, or individual policy.
+(104)  "Limited line credit insurance producer" means a person who sells, solicits, or negotiates one or more forms of limited line credit insurance coverage to an individual through a master, corporate, group, or individual policy.
 
-(103)  "Limited line insurance" includes:
+(105)  "Limited line insurance" includes:
 
 (a)  bail bond;
 
@@ -996,25 +1008,27 @@ As used in this title, unless otherwise specified:
 
 (d)  motor club insurance;
 
-(e)  rental car-related insurance;
+(e) car rental related insurance;
 
 (f)  travel insurance;
 
 (g)  crop insurance;
 
-(h)  self-service storage insurance; and
+(h)  self-service storage insurance;
 
-(i)  another form of limited insurance that the commissioner determines by rule should be designated a form of limited line insurance.
+(i)  guaranteed asset protection waiver; and
 
-(104)  "Limited lines authority" includes:
+(j)  another form of limited insurance that the commissioner determines by rule should be designated a form of limited line insurance.
 
-(a)  the lines of insurance listed in Subsection (103); and
+(106)  "Limited lines authority" includes:
+
+(a)  the lines of insurance listed in Subsection (105); and
 
 (b)  a customer service representative.
 
-(105)  "Limited lines producer" means a person who sells, solicits, or negotiates limited lines insurance.
+(107)  "Limited lines producer" means a person who sells, solicits, or negotiates limited lines insurance.
 
-(106) (a)  "Long-term care insurance" means an insurance policy or rider advertised, marketed, offered, or designated to provide coverage:
+(108) (a)  "Long-term care insurance" means an insurance policy or rider advertised, marketed, offered, or designated to provide coverage:
 
 (i)  in a setting other than an acute care unit of a hospital;
 
@@ -1056,7 +1070,7 @@ As used in this title, unless otherwise specified:
 
 (E)  a health maintenance organization; or
 
-(F)  an entity similar to the entities described in Subsections (106)(a)(iv)(A) through (E) to the extent that the entity is otherwise authorized to issue life or health care insurance.
+(F)  an entity similar to the entities described in Subsections (108)(a)(iv)(A) through (E) to the extent that the entity is otherwise authorized to issue life or health care insurance.
 
 (b)  "Long-term care insurance" includes:
 
@@ -1114,19 +1128,19 @@ As used in this title, unless otherwise specified:
 
 (III)  permanent institutional confinement.
 
-(107)  "Medical malpractice insurance" means insurance against legal liability incident to the practice and provision of a medical service other than the practice and provision of a dental service.
+(109)  "Medical malpractice insurance" means insurance against legal liability incident to the practice and provision of a medical service other than the practice and provision of a dental service.
 
-(108)  "Member" means a person having membership rights in an insurance corporation.
+(110)  "Member" means a person having membership rights in an insurance corporation.
 
-(109)  "Minimum capital" or "minimum required capital" means the capital that must be constantly maintained by a stock insurance corporation as required by statute.
+(111)  "Minimum capital" or "minimum required capital" means the capital that must be constantly maintained by a stock insurance corporation as required by statute.
 
-(110)  "Mortgage accident and health insurance" means insurance offered in connection with an extension of credit that provides indemnity for payments coming due on a mortgage while the debtor is disabled.
+(112)  "Mortgage accident and health insurance" means insurance offered in connection with an extension of credit that provides indemnity for payments coming due on a mortgage while the debtor has a disability.
 
-(111)  "Mortgage guaranty insurance" means surety insurance under which a mortgagee or other creditor is indemnified against losses caused by the default of a debtor.
+(113)  "Mortgage guaranty insurance" means surety insurance under which a mortgagee or other creditor is indemnified against losses caused by the default of a debtor.
 
-(112)  "Mortgage life insurance" means insurance on the life of a debtor in connection with an extension of credit that pays if the debtor dies.
+(114)  "Mortgage life insurance" means insurance on the life of a debtor in connection with an extension of credit that pays if the debtor dies.
 
-(113)  "Motor club" means a person:
+(115)  "Motor club" means a person:
 
 (a)  licensed under:
 
@@ -1150,21 +1164,21 @@ As used in this title, unless otherwise specified:
 
 (D)  stolen automobile services;
 
-(E)  a combination of the services listed in Subsections (113)(b)(iii)(A) through (D); or
+(E)  a combination of the services listed in Subsections (115)(b)(iii)(A) through (D); or
 
 (F)  other services given in Subsections 31A-11-102(1)(b) through (f).
 
-(114)  "Mutual" means a mutual insurance corporation.
+(116)  "Mutual" means a mutual insurance corporation.
 
-(115)  "Network plan" means health care insurance:
+(117)  "Network plan" means health care insurance:
 
 (a)  that is issued by an insurer; and
 
 (b)  under which the financing and delivery of medical care is provided, in whole or in part, through a defined set of providers under contract with the insurer, including the financing and delivery of an item paid for as medical care.
 
-(116)  "Nonparticipating" means a plan of insurance under which the insured is not entitled to receive a dividend representing a share of the surplus of the insurer.
+(118)  "Nonparticipating" means a plan of insurance under which the insured is not entitled to receive a dividend representing a share of the surplus of the insurer.
 
-(117)  "Ocean marine insurance" means insurance against loss of or damage to:
+(119)  "Ocean marine insurance" means insurance against loss of or damage to:
 
 (a)  ships or hulls of ships;
 
@@ -1174,13 +1188,13 @@ As used in this title, unless otherwise specified:
 
 (d)  a vessel owner or operator as a result of liability to employees, passengers, bailors, owners of other vessels, owners of fixed objects, customs or other authorities, or other persons in connection with maritime activity.
 
-(118)  "Order" means an order of the commissioner.
+(120)  "Order" means an order of the commissioner.
 
-(119)  "Outline of coverage" means a summary that explains an accident and health insurance policy.
+(121)  "Outline of coverage" means a summary that explains an accident and health insurance policy.
 
-(120)  "Participating" means a plan of insurance under which the insured is entitled to receive a dividend representing a share of the surplus of the insurer.
+(122)  "Participating" means a plan of insurance under which the insured is entitled to receive a dividend representing a share of the surplus of the insurer.
 
-(121)  "Participation," as used in a health benefit plan, means a requirement relating to the minimum percentage of eligible employees that must be enrolled in relation to the total number of eligible employees of an employer reduced by each eligible employee who voluntarily declines coverage under the plan because the employee:
+(123)  "Participation," as used in a health benefit plan, means a requirement relating to the minimum percentage of eligible employees that must be enrolled in relation to the total number of eligible employees of an employer reduced by each eligible employee who voluntarily declines coverage under the plan because the employee:
 
 (a)  has other group health care insurance coverage; or
 
@@ -1190,7 +1204,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  another government health benefit.
 
-(122)  "Person" includes:
+(124)  "Person" includes:
 
 (a)  an individual;
 
@@ -1212,15 +1226,15 @@ As used in this title, unless otherwise specified:
 
 (j)  another similar entity or combination of entities acting in concert.
 
-(123)  "Personal lines insurance" means property and casualty insurance coverage sold for primarily noncommercial purposes to:
+(125)  "Personal lines insurance" means property and casualty insurance coverage sold for primarily noncommercial purposes to:
 
 (a)  an individual; or
 
 (b)  a family.
 
-(124)  "Plan sponsor" is as defined in 29 U.S.C. Sec. 1002(16)(B).
+(126)  "Plan sponsor" is as defined in 29 U.S.C. Sec. 1002(16)(B).
 
-(125)  "Plan year" means:
+(127)  "Plan year" means:
 
 (a)  the year that is designated as the plan year in:
 
@@ -1242,9 +1256,9 @@ As used in this title, unless otherwise specified:
 
 (II)  the insurance policy is not renewed on an annual basis; or
 
-(c)  in a case not described in Subsection (125)(a) or (b), the calendar year.
+(c)  in a case not described in Subsection (127)(a) or (b), the calendar year.
 
-(126) (a)  "Policy" means a document, including an attached endorsement or application that:
+(128) (a)  "Policy" means a document, including an attached endorsement or application that:
 
 (i)  purports to be an enforceable contract; and
 
@@ -1268,19 +1282,19 @@ As used in this title, unless otherwise specified:
 
 (ii)  a document that does not purport to have legal effect.
 
-(127)  "Policyholder" means a person who controls a policy, binder, or oral contract by ownership, premium payment, or otherwise.
+(129)  "Policyholder" means a person who controls a policy, binder, or oral contract by ownership, premium payment, or otherwise.
 
-(128)  "Policy illustration" means a presentation or depiction that includes nonguaranteed elements of a policy of life insurance over a period of years.
+(130)  "Policy illustration" means a presentation or depiction that includes nonguaranteed elements of a policy of life insurance over a period of years.
 
-(129)  "Policy summary" means a synopsis describing the elements of a life insurance policy.
+(131)  "Policy summary" means a synopsis describing the elements of a life insurance policy.
 
-(130)  "Preexisting condition," with respect to a health benefit plan:
+(132)  "Preexisting condition," with respect to a health benefit plan:
 
 (a)  means a condition that was present before the effective date of coverage, whether or not medical advice, diagnosis, care, or treatment was recommended or received before that day; and
 
 (b)  does not include a condition indicated by genetic information unless an actual diagnosis of the condition by a physician has been made.
 
-(131) (a)  "Premium" means the monetary consideration for an insurance policy.
+(133) (a)  "Premium" means the monetary consideration for an insurance policy.
 
 (b)  "Premium" includes, however designated:
 
@@ -1296,13 +1310,13 @@ As used in this title, unless otherwise specified:
 
 (ii)  "Premium" includes an amount paid by a third party administrator to an insurer for insurance on the risks administered by the third party administrator.
 
-(132)  "Principal officers" for a corporation means the officers designated under Subsection 31A-5-203(3).
+(134)  "Principal officers" for a corporation means the officers designated under Subsection 31A-5-203(3).
 
-(133)  "Proceeding" includes an action or special statutory proceeding.
+(135)  "Proceeding" includes an action or special statutory proceeding.
 
-(134)  "Professional liability insurance" means insurance against legal liability incident to the practice of a profession and provision of a professional service.
+(136)  "Professional liability insurance" means insurance against legal liability incident to the practice of a profession and provision of a professional service.
 
-(135) (a)  Except as provided in Subsection (135)(b), "property insurance" means insurance against loss or damage to real or personal property of every kind and any interest in that property:
+(137) (a)  Except as provided in Subsection (137)(b), "property insurance" means insurance against loss or damage to real or personal property of every kind and any interest in that property:
 
 (i)  from all hazards or causes; and
 
@@ -1314,7 +1328,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  ocean marine insurance.
 
-(136)  "Qualified long-term care insurance contract" or "federally tax qualified long-term care insurance contract" means:
+(138)  "Qualified long-term care insurance contract" or "federally tax qualified long-term care insurance contract" means:
 
 (a)  an individual or group insurance contract that meets the requirements of Section 7702B(b), Internal Revenue Code; or
 
@@ -1326,7 +1340,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  that satisfies the requirements of Sections 7702B(b) and (e), Internal Revenue Code.
 
-(137)  "Qualified United States financial institution" means an institution that:
+(139)  "Qualified United States financial institution" means an institution that:
 
 (a)  is:
 
@@ -1342,7 +1356,7 @@ As used in this title, unless otherwise specified:
 
 (ii)  the Securities Valuation Office of the National Association of Insurance Commissioners.
 
-(138) (a)  "Rate" means:
+(140) (a)  "Rate" means:
 
 (i)  the cost of a given unit of insurance; or
 
@@ -1360,7 +1374,7 @@ As used in this title, unless otherwise specified:
 
 (b)  "Rate" does not include a minimum premium.
 
-(139) (a)  Except as provided in Subsection (139)(b), "rate service organization" means a person who assists an insurer in rate making or filing by:
+(141) (a)  Except as provided in Subsection (141)(b), "rate service organization" means a person who assists an insurer in rate making or filing by:
 
 (i)  collecting, compiling, and furnishing loss or expense statistics;
 
@@ -1378,7 +1392,7 @@ As used in this title, unless otherwise specified:
 
 (iv)  an individual serving as an actuarial or legal consultant.
 
-(140)  "Rating manual" means any of the following used to determine initial and renewal policy premiums:
+(142)  "Rating manual" means any of the following used to determine initial and renewal policy premiums:
 
 (a)  a manual of rates;
 
@@ -1388,9 +1402,9 @@ As used in this title, unless otherwise specified:
 
 (d)  a rating formula that describes steps, policies, and procedures for determining initial and renewal policy premiums.
 
-(141)  "Received by the department" means:
+(143)  "Received by the department" means:
 
-(a)  the date delivered to and stamped received by the department, if delivered in person; 
+(a)  the date delivered to and stamped received by the department, if delivered in person;
 
 (b)  the post mark date, if delivered by mail;
 
@@ -1412,13 +1426,13 @@ As used in this title, unless otherwise specified:
 
 (iii)  an order.
 
-(142)  "Reciprocal" or "interinsurance exchange" means an unincorporated association of persons:
+(144)  "Reciprocal" or "interinsurance exchange" means an unincorporated association of persons:
 
 (a)  operating through an attorney-in-fact common to all of the persons; and
 
 (b)  exchanging insurance contracts with one another that provide insurance coverage on each other.
 
-(143)  "Reinsurance" means an insurance transaction where an insurer, for consideration, transfers any portion of the risk it has assumed to another insurer.  In referring to reinsurance transactions, this title sometimes refers to:
+(145)  "Reinsurance" means an insurance transaction where an insurer, for consideration, transfers any portion of the risk it has assumed to another insurer.  In referring to reinsurance transactions, this title sometimes refers to:
 
 (a)  the insurer transferring the risk as the "ceding insurer"; and
 
@@ -1428,21 +1442,21 @@ As used in this title, unless otherwise specified:
 
 (ii)  "assuming reinsurer."
 
-(144)  "Reinsurer" means a person licensed in this state as an insurer with the authority to assume reinsurance.
+(146)  "Reinsurer" means a person licensed in this state as an insurer with the authority to assume reinsurance.
 
-(145)  "Residential dwelling liability insurance" means insurance against liability resulting from or incident to the ownership, maintenance, or use of a residential dwelling that is a detached single family residence or multifamily residence up to four units.
+(147)  "Residential dwelling liability insurance" means insurance against liability resulting from or incident to the ownership, maintenance, or use of a residential dwelling that is a detached single family residence or multifamily residence up to four units.
 
-(146) (a)  "Retrocession" means reinsurance with another insurer of a liability assumed under a reinsurance contract.
+(148) (a)  "Retrocession" means reinsurance with another insurer of a liability assumed under a reinsurance contract.
 
 (b)  A reinsurer "retrocedes" when the reinsurer reinsures with another insurer part of a liability assumed under a reinsurance contract.
 
-(147)  "Rider" means an endorsement to:
+(149)  "Rider" means an endorsement to:
 
 (a)  an insurance policy; or
 
 (b)  an insurance certificate.
 
-(148) (a)  "Security" means a:
+(150) (a)  "Security" means a:
 
 (i)  note;
 
@@ -1472,7 +1486,7 @@ As used in this title, unless otherwise specified:
 
 (xiv)  commodity contract or commodity option;
 
-(xv)  certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase any of the items listed in Subsections (148)(a)(i) through (xiv); or
+(xv)  certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase any of the items listed in Subsections (150)(a)(i) through (xiv); or
 
 (xvi)  another interest or instrument commonly known as a security.
 
@@ -1488,21 +1502,21 @@ As used in this title, unless otherwise specified:
 
 (ii)  a burial certificate or burial contract.
 
-(149)  "Secondary medical condition" means a complication related to an exclusion from coverage in accident and health insurance.
+(151)  "Secondary medical condition" means a complication related to an exclusion from coverage in accident and health insurance.
 
-(150)  "Self-insurance" means an arrangement under which a person provides for spreading its own risks by a systematic plan.
+(152) (a)  "Self-insurance" means an arrangement under which a person provides for spreading its own risks by a systematic plan.
 
-(a)  Except as provided in this Subsection (150), "self-insurance" does not include an arrangement under which a number of persons spread their risks among themselves.
+(b)  Except as provided in this Subsection (152), "self-insurance" does not include an arrangement under which a number of persons spread their risks among themselves.
 
-(b)  "Self-insurance" includes:
+(c)  "Self-insurance" includes:
 
 (i)  an arrangement by which a governmental entity undertakes to indemnify an employee for liability arising out of the employee's employment; and
 
 (ii)  an arrangement by which a person with a managed program of self-insurance and risk management undertakes to indemnify its affiliates, subsidiaries, directors, officers, or employees for liability or risk that is related to the relationship or employment.
 
-(c)  "Self-insurance" does not include an arrangement with an independent contractor.
+(d)  "Self-insurance" does not include an arrangement with an independent contractor.
 
-(151)  "Sell" means to exchange a contract of insurance:
+(153)  "Sell" means to exchange a contract of insurance:
 
 (a)  by any means;
 
@@ -1510,23 +1524,23 @@ As used in this title, unless otherwise specified:
 
 (c)  on behalf of an insurance company.
 
-(152)  "Short-term care insurance" means an insurance policy or rider advertised, marketed, offered, or designed to provide coverage that is similar to long-term care insurance, but that provides coverage for less than 12 consecutive months for each covered person.
+(154)  "Short-term care insurance" means an insurance policy or rider advertised, marketed, offered, or designed to provide coverage that is similar to long-term care insurance, but that provides coverage for less than 12 consecutive months for each covered person.
 
-(153)  "Significant break in coverage" means a period of 63 consecutive days during each of which an individual does not have creditable coverage.
+(155)  "Significant break in coverage" means a period of 63 consecutive days during each of which an individual does not have creditable coverage.
 
-(154)  "Small employer," in connection with a health benefit plan, means an employer who, with respect to a calendar year and to a plan year:
+(156)  "Small employer," in connection with a health benefit plan, means an employer who, with respect to a calendar year and to a plan year:
 
 (a)  employed an average of at least two employees but not more than 50 eligible employees on each business day during the preceding calendar year; and
 
 (b)  employs at least two employees on the first day of the plan year.
 
-(155)  "Special enrollment period," in connection with a health benefit plan, has the same meaning as provided in federal regulations adopted pursuant to the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936.
+(157)  "Special enrollment period," in connection with a health benefit plan, has the same meaning as provided in federal regulations adopted pursuant to the Health Insurance Portability and Accountability Act.
 
-(156) (a)  "Subsidiary" of a person means an affiliate controlled by that person either directly or indirectly through one or more affiliates or intermediaries.
+(158) (a)  "Subsidiary" of a person means an affiliate controlled by that person either directly or indirectly through one or more affiliates or intermediaries.
 
 (b)  "Wholly owned subsidiary" of a person is a subsidiary of which all of the voting shares are owned by that person either alone or with its affiliates, except for the minimum number of shares the law of the subsidiary's domicile requires to be owned by directors or others.
 
-(157)  Subject to Subsection (83)(b), "surety insurance" includes:
+(159)  Subject to Subsection (85)(b), "surety insurance" includes:
 
 (a)  a guarantee against loss or damage resulting from the failure of a principal to pay or perform the principal's obligations to a creditor or other obligee;
 
@@ -1534,7 +1548,7 @@ As used in this title, unless otherwise specified:
 
 (c)  fidelity insurance.
 
-(158) (a)  "Surplus" means the excess of assets over the sum of paid-in capital and liabilities.
+(160) (a)  "Surplus" means the excess of assets over the sum of paid-in capital and liabilities.
 
 (b) (i)  "Permanent surplus" means the surplus of a mutual insurer that is designated by the insurer as permanent.
 
@@ -1564,7 +1578,7 @@ As used in this title, unless otherwise specified:
 
 (B)  the insurer's total adjusted capital required by Subsection 31A-17-609(1).
 
-(159)  "Third party administrator" or "administrator" means a person who collects charges or premiums from, or who, for consideration, adjusts or settles claims of residents of the state in connection with insurance coverage, annuities, or service insurance coverage, except:
+(161)  "Third party administrator" or "administrator" means a person who collects charges or premiums from, or who, for consideration, adjusts or settles claims of residents of the state in connection with insurance coverage, annuities, or service insurance coverage, except:
 
 (a)  a union on behalf of its members;
 
@@ -1578,7 +1592,17 @@ As used in this title, unless otherwise specified:
 
 (c)  an employer on behalf of the employer's employees or the employees of one or more of the subsidiary or affiliated corporations of the employer;
 
-(d)  an insurer licensed under Chapter 5, 7, 8, 9, or 14, but only for a line of insurance for which the insurer holds a license in this state; or
+(d)  an insurer licensed under the following, but only for a line of insurance for which the insurer holds a license in this state:
+
+(i)  Chapter 5, Domestic Stock and Mutual Insurance Corporations;
+
+(ii)  Chapter 7, Nonprofit Health Service Insurance Corporations;
+
+(iii)  Chapter 8, Health Maintenance Organizations and Limited Health Plans;
+
+(iv)  Chapter 9, Insurance Fraternals; or
+
+(v)  Chapter 14, Foreign Insurers; or
 
 (e)  a person:
 
@@ -1590,19 +1614,19 @@ As used in this title, unless otherwise specified:
 
 (ii)  whose activities are limited to those authorized under the license the person holds or for which the person is exempt.
 
-(160)  "Title insurance" means the insuring, guaranteeing, or indemnifying of an owner of real or personal property or the holder of liens or encumbrances on that property, or others interested in the property against loss or damage suffered by reason of liens or encumbrances upon, defects in, or the unmarketability of the title to the property, or invalidity or unenforceability of any liens or encumbrances on the property.
+(162)  "Title insurance" means the insuring, guaranteeing, or indemnifying of an owner of real or personal property or the holder of liens or encumbrances on that property, or others interested in the property against loss or damage suffered by reason of liens or encumbrances upon, defects in, or the unmarketability of the title to the property, or invalidity or unenforceability of any liens or encumbrances on the property.
 
-(161)  "Total adjusted capital" means the sum of an insurer's or health organization's statutory capital and surplus as determined in accordance with:
+(163)  "Total adjusted capital" means the sum of an insurer's or health organization's statutory capital and surplus as determined in accordance with:
 
 (a)  the statutory accounting applicable to the annual financial statements required to be filed under Section 31A-4-113; and
 
 (b)  another item provided by the RBC instructions, as RBC instructions is defined in Section 31A-17-601.
 
-(162) (a)  "Trustee" means "director" when referring to the board of directors of a corporation.
+(164) (a)  "Trustee" means "director" when referring to the board of directors of a corporation.
 
 (b)  "Trustee," when used in reference to an employee welfare fund, means an individual, firm, association, organization, joint stock company, or corporation, whether acting individually or jointly and whether designated by that name or any other, that is charged with or has the overall management of an employee welfare fund.
 
-(163) (a)  "Unauthorized insurer," "unadmitted insurer," or "nonadmitted insurer" means an insurer:
+(165) (a)  "Unauthorized insurer," "unadmitted insurer," or "nonadmitted insurer" means an insurer:
 
 (i)  not holding a valid certificate of authority to do an insurance business in this state; or
 
@@ -1614,15 +1638,15 @@ As used in this title, unless otherwise specified:
 
 (ii)  transacting business as authorized by a valid certificate.
 
-(164)  "Underwrite" means the authority to accept or reject risk on behalf of the insurer.
+(166)  "Underwrite" means the authority to accept or reject risk on behalf of the insurer.
 
-(165)  "Vehicle liability insurance" means insurance against liability resulting from or incident to ownership, maintenance, or use of a land vehicle or aircraft, exclusive of a vehicle comprehensive or vehicle physical damage coverage under Subsection (135).
+(167)  "Vehicle liability insurance" means insurance against liability resulting from or incident to ownership, maintenance, or use of a land vehicle or aircraft, exclusive of a vehicle comprehensive or vehicle physical damage coverage under Subsection (137).
 
-(166)  "Voting security" means a security with voting rights, and includes a security convertible into a security with a voting right associated with the security.
+(168)  "Voting security" means a security with voting rights, and includes a security convertible into a security with a voting right associated with the security.
 
-(167)  "Waiting period" for a health benefit plan means the period that must pass before coverage for an individual, who is otherwise eligible to enroll under the terms of the health benefit plan, can become effective.
+(169)  "Waiting period" for a health benefit plan means the period that must pass before coverage for an individual, who is otherwise eligible to enroll under the terms of the health benefit plan, can become effective.
 
-(168)  "Workers' compensation insurance" means:
+(170)  "Workers' compensation insurance" means:
 
 (a)  insurance for indemnification of an employer against liability for compensation based on:
 

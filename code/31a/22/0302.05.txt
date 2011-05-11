@@ -22,9 +22,9 @@
 
 (a)  exclude all liability coverage and all physical damage coverage without regard to the comparative fault of the excluded driver;
 
-(b)  proportionately reduce any benefits otherwise payable to the person excluded from coverage and to any named insured under Subsection (2)(b) for benefits payable under uninsured motorist coverage, underinsured motorist coverage, personal injury protection coverage, and first party medical coverage to the extent the person excluded from coverage was comparatively at fault; and
+(b)  proportionately reduce any benefits otherwise payable to the person excluded from coverage and to any named insured for benefits payable under uninsured motorist coverage, underinsured motorist coverage, personal injury protection coverage, and first party medical coverage to the extent the person excluded from coverage was comparatively at fault; and
 
-(c)  if the person excluded from coverage is 50% or more at fault in causing the accident, bar both the excluded driver and any named insured under Subsection (2)(b) from recovering any benefits under any coverage listed under Subsection (5)(b).
+(c)  if the person excluded from coverage is 50% or more at fault in causing the accident, bar both the excluded driver and any named insured from recovering any benefits under any coverage listed under Subsection (5)(b).
 
 (6)  The named driver exclusion under Subsection (1) does not apply when the person excluded from coverage is:
 

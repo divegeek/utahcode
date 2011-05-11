@@ -30,17 +30,17 @@
 
 (5) (a)  The program shall:
 
-(i)  apply for grants to make technology system improvements necessary to implement a simplified renewal process in accordance with this Subsection (5); and
+(i)  apply for grants to make technology system improvements necessary to implement a simplified enrollment and renewal process in accordance with this Subsection (5); and
 
-(ii)  if funding is available, implement the simplified renewal process in accordance with this Subsection (5).
+(ii)  if funding is available, implement the simplified enrollment and renewal process in accordance with this Subsection (5).
 
-(b)  The simplified renewal process:
+(b)  The simplified enrollment and renewal process:
 
 (i)  shall, in accordance with Section 59-1-403, provide an eligibility worker a process in which the eligibility worker:
 
 (A)  verifies the applicant's identity;
 
-(B)  gets consent to obtain the applicant's adjusted gross income from the Utah State Tax Commission from:
+(B)  gets consent to obtain the applicant's adjusted gross income from the State Tax Commission from:
 
 (I)  the applicant, if the applicant filed a single tax return; or
 

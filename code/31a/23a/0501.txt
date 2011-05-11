@@ -62,7 +62,7 @@
 
 (ii)  uniformly applied to all insureds or prospective insureds in a class or classes of business or for a specific service or services.
 
-(c)  A copy of the signed disclosure required by this Subsection (2) must be maintained by any licensee who collects or receives the noncommission compensation or any portion of the noncommission compensation.
+(c)  A copy of the signed disclosure required by this Subsection (2) shall be maintained by any licensee who collects or receives the noncommission compensation or any portion of the noncommission compensation.
 
 (d)  All accounting records relating to noncommission compensation shall be maintained by the person described in Subsection (2)(c) in a manner that facilitates an audit.
 
@@ -112,7 +112,7 @@
 
 (c)  If the compensation to the producer from an insurer or third party administrator is for the renewal of a health benefit plan, once the producer has made an initial disclosure that complies with Subsection (4)(b), the producer does not have to disclose compensation received for the subsequent yearly renewals in accordance with Subsection (4)(b) until the renewal period immediately following 36 months after the initial disclosure.
 
-(d) (i) A licensee who collects or receives any part of the compensation from an insurer or third party administrator in a manner that facilitates an audit shall, while the health benefit plan placed with the customer is in force, maintain a copy of:
+(d) (i)  A licensee who collects or receives any part of the compensation from an insurer or third party administrator in a manner that facilitates an audit shall, while the health benefit plan placed with the customer is in force, maintain a copy of:
 
 (A)  the signed acknowledgment described in Subsection (4)(b)(i); or
 
@@ -129,4 +129,6 @@
 (5)  This section does not alter the right of any licensee to recover from an insured the amount of any premium due for insurance effected by or through that licensee or to charge a reasonable rate of interest upon past-due accounts.
 
 (6)  This section does not apply to bail bond producers or bail enforcement agents as defined in Section 31A-35-102.
+
+(7)  A licensee may not receive noncommission compensation from an insured or enrollee for providing a service or engaging in an act that is required to be provided or performed in order to receive commission compensation, except for the surplus lines transactions that do not receive commissions.
 

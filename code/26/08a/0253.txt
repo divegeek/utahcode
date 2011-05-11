@@ -4,7 +4,7 @@
 
 (a)  establish and fund a statewide trauma registry to collect and analyze information on the incidence, severity, causes, and outcomes of trauma;
 
-(b)  establish, by rule, the data elements, the medical care providers that must report, and the time frame and format for reporting;
+(b)  establish, by rule, the data elements, the medical care providers that shall report, and the time frame and format for reporting;
 
 (c)  use the data collected to:
 
@@ -20,7 +20,7 @@
 
 (ii)  funding or, at the discretion of the department, personnel for collection and abstraction for each hospital not designated as a trauma center under the standards established pursuant to Section 26-8a-254.
 
-(2) (a) Each hospital shall submit trauma data in accordance with rules established under Subsection (1).
+(2) (a)  Each hospital shall submit trauma data in accordance with rules established under Subsection (1).
 
 (b)  A hospital designated as a trauma center shall submit data as part of the ongoing quality assurance program established in Section 26-8a-252.
 
@@ -30,7 +30,7 @@
 
 (b)  the impact of the statewide trauma system on the provision of trauma care.
 
-(4)  Data collected under this section shall be subject to Title 26, Chapter 3, Health Statistics.
+(4)  Data collected under this section shall be subject to Chapter 3, Health Statistics.
 
 (5)  No person may be held civilly liable for having provided data to the department in accordance with this section.
 

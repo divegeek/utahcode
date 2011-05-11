@@ -66,7 +66,11 @@ As used in this chapter:
 
 (ii)  a business entity organized as a partnership or a sole proprietorship.
 
-(8)  "Detailed listing" means:
+(8)  "County political party" means, for each registered political party, all of the persons within a single county who, under definitions established by the political party, are members of the registered political party.
+
+(9)  "County political party officer" means a person whose name is required to be submitted by a county political party to the lieutenant governor in accordance with Section 20A-8-402.
+
+(10)  "Detailed listing" means:
 
 (a)  for each contribution or public service assistance:
 
@@ -86,7 +90,7 @@ As used in this chapter:
 
 (iv)  the date the expenditure was made.
 
-(9)  "Election" means each:
+(11)  "Election" means each:
 
 (a)  regular general election;
 
@@ -94,7 +98,7 @@ As used in this chapter:
 
 (c)  special election at which candidates are eliminated and selected.
 
-(10)  "Electioneering communication" means a communication that:
+(12)  "Electioneering communication" means a communication that:
 
 (a)  has at least a value of $10,000;
 
@@ -102,7 +106,7 @@ As used in this chapter:
 
 (c)  is disseminated through the Internet, newspaper, magazine, outdoor advertising facility, direct mailing, broadcast, cable, or satellite provider within 45 days of the clearly identified candidate's or judge's election date.
 
-(11) (a)  "Expenditure" means:
+(13) (a)  "Expenditure" means:
 
 (i)  any disbursement from contributions, receipts, or from the separate bank account required by this chapter;
 
@@ -122,27 +126,27 @@ As used in this chapter:
 
 (ii)  money lent to a reporting entity by a financial institution in the ordinary course of business; or
 
-(iii)  anything listed in Subsection (11)(a) that is given by a reporting entity to candidates for office or officeholders in states other than Utah.
+(iii)  anything listed in Subsection (13)(a) that is given by a reporting entity to candidates for office or officeholders in states other than Utah.
 
-(12)  "Filing entity" means the reporting entity that is required to file a financial statement required by this chapter or Chapter 12, Part 2, Judicial Retention Elections.
+(14)  "Filing entity" means the reporting entity that is required to file a financial statement required by this chapter or Chapter 12, Part 2, Judicial Retention Elections.
 
-(13)  "Financial statement" includes any summary report, interim report, verified financial statement, or other statement disclosing contributions, expenditures, receipts, donations, or disbursements that is required by this chapter or Chapter 12, Part 2, Judicial Retention Elections.
+(15)  "Financial statement" includes any summary report, interim report, verified financial statement, or other statement disclosing contributions, expenditures, receipts, donations, or disbursements that is required by this chapter or Chapter 12, Part 2, Judicial Retention Elections.
 
-(14)  "Governing board" means the individual or group of individuals that determine the candidates and committees that will receive expenditures from a political action committee, political party, or corporation.
+(16)  "Governing board" means the individual or group of individuals that determine the candidates and committees that will receive expenditures from a political action committee, political party, or corporation.
 
-(15)  "Incorporation" means the process established by Title 10, Chapter 2, Part 1, Incorporation, by which a geographical area becomes legally recognized as a city or town.
+(17)  "Incorporation" means the process established by Title 10, Chapter 2, Part 1, Incorporation, by which a geographical area becomes legally recognized as a city or town.
 
-(16)  "Incorporation election" means the election authorized by Section 10-2-111.
+(18)  "Incorporation election" means the election authorized by Section 10-2-111.
 
-(17)  "Incorporation petition" means a petition authorized by Section 10-2-109.
+(19)  "Incorporation petition" means a petition authorized by Section 10-2-109.
 
-(18)  "Individual" means a natural person.
+(20)  "Individual" means a natural person.
 
-(19)  "Interim report" means a report identifying the contributions received and expenditures made since the last report.
+(21)  "Interim report" means a report identifying the contributions received and expenditures made since the last report.
 
-(20)  "Legislative office" means the office of state senator, state representative, speaker of the House of Representatives, president of the Senate, and the leader, whip, and assistant whip of any party caucus in either house of the Legislature.
+(22)  "Legislative office" means the office of state senator, state representative, speaker of the House of Representatives, president of the Senate, and the leader, whip, and assistant whip of any party caucus in either house of the Legislature.
 
-(21)  "Legislative office candidate" means a person who:
+(23)  "Legislative office candidate" means a person who:
 
 (a)  files a declaration of candidacy for the office of state senator or state representative;
 
@@ -150,17 +154,17 @@ As used in this chapter:
 
 (c)  receives contributions, makes expenditures, or gives consent for any other person to receive contributions or make expenditures to bring about the person's nomination or election to a legislative office.
 
-(22)  "Officeholder" means a person who holds a public office.
+(24)  "Officeholder" means a person who holds a public office.
 
-(23)  "Party committee" means any committee organized by or authorized by the governing board of a registered political party.
+(25)  "Party committee" means any committee organized by or authorized by the governing board of a registered political party.
 
-(24)  "Person" means both natural and legal persons, including individuals, business organizations, personal campaign committees, party committees, political action committees, political issues committees, and labor organizations, as defined in Section 20A-11-1501.
+(26)  "Person" means both natural and legal persons, including individuals, business organizations, personal campaign committees, party committees, political action committees, political issues committees, and labor organizations, as defined in Section 20A-11-1501.
 
-(25)  "Personal campaign committee" means the committee appointed by a candidate to act for the candidate as provided in this chapter.
+(27)  "Personal campaign committee" means the committee appointed by a candidate to act for the candidate as provided in this chapter.
 
-(26)  "Personal use expenditure" has the same meaning as provided under Section 20A-11-104.
+(28)  "Personal use expenditure" has the same meaning as provided under Section 20A-11-104.
 
-(27) (a)  "Political action committee" means an entity, or any group of individuals or entities within or outside this state, a major purpose of which is to:
+(29) (a)  "Political action committee" means an entity, or any group of individuals or entities within or outside this state, a major purpose of which is to:
 
 (i)  solicit or receive contributions from any other person, group, or entity for political purposes; or
 
@@ -182,9 +186,9 @@ As used in this chapter:
 
 (vi)  a personal campaign committee.
 
-(28)  "Political convention" means a county or state political convention held by a registered political party to select candidates.
+(30)  "Political convention" means a county or state political convention held by a registered political party to select candidates.
 
-(29) (a)  "Political issues committee" means an entity, or any group of individuals or entities within or outside this state, a major purpose of which is to:
+(31) (a)  "Political issues committee" means an entity, or any group of individuals or entities within or outside this state, a major purpose of which is to:
 
 (i)  solicit or receive donations from any other person, group, or entity to assist in placing a ballot proposition on the ballot, assist in keeping a ballot proposition off the ballot, or to advocate that a voter refrain from voting or vote for or vote against any ballot proposition;
 
@@ -204,7 +208,7 @@ As used in this chapter:
 
 (v)  a corporation, except a corporation a major purpose of which is to act as a political issues committee.
 
-(30) (a)  "Political issues contribution" means any of the following:
+(32) (a)  "Political issues contribution" means any of the following:
 
 (i)  a gift, subscription, unpaid or partially unpaid loan, advance, or deposit of money or anything of value given to a political issues committee;
 
@@ -222,7 +226,7 @@ As used in this chapter:
 
 (ii)  money lent to a political issues committee by a financial institution in the ordinary course of business.
 
-(31) (a)  "Political issues expenditure" means any of the following:
+(33) (a)  "Political issues expenditure" means any of the following:
 
 (i)  any payment from political issues contributions made for the purpose of influencing the approval or the defeat of:
 
@@ -248,13 +252,13 @@ As used in this chapter:
 
 (ii)  money lent to a political issues committee by a financial institution in the ordinary course of business.
 
-(32)  "Political purposes" means an act done with the intent or in a way to influence or tend to influence, directly or indirectly, any person to refrain from voting or to vote for or against any candidate or a person seeking a municipal or county office at any caucus, political convention, or election.
+(34)  "Political purposes" means an act done with the intent or in a way to influence or tend to influence, directly or indirectly, any person to refrain from voting or to vote for or against any candidate or a person seeking a municipal or county office at any caucus, political convention, or election.
 
-(33)  "Primary election" means any regular primary election held under the election laws.
+(35)  "Primary election" means any regular primary election held under the election laws.
 
-(34)  "Public office" means the office of governor, lieutenant governor, state auditor, state treasurer, attorney general, state or local school board member, state senator, state representative, speaker of the House of Representatives, president of the Senate, and the leader, whip, and assistant whip of any party caucus in either house of the Legislature.
+(36)  "Public office" means the office of governor, lieutenant governor, state auditor, state treasurer, attorney general, state or local school board member, state senator, state representative, speaker of the House of Representatives, president of the Senate, and the leader, whip, and assistant whip of any party caucus in either house of the Legislature.
 
-(35) (a)  "Public service assistance" means the following when given or provided to an officeholder to defray the costs of functioning in a public office or aid the officeholder to communicate with the officeholder's constituents:
+(37) (a)  "Public service assistance" means the following when given or provided to an officeholder to defray the costs of functioning in a public office or aid the officeholder to communicate with the officeholder's constituents:
 
 (i)  a gift, subscription, donation, unpaid or partially unpaid loan, advance, or deposit of money or anything of value to an officeholder; or
 
@@ -272,23 +276,23 @@ As used in this chapter:
 
 (v)  any article, story, or other coverage as part of any regular publication of any organization unless substantially all the publication is devoted to information about the officeholder.
 
-(36)  "Publicly identified class of individuals" means a group of 50 or more individuals sharing a common occupation, interest, or association that contribute to a political action committee or political issues committee and whose names can be obtained by contacting the political action committee or political issues committee upon whose financial statement the individuals are listed.
+(38)  "Publicly identified class of individuals" means a group of 50 or more individuals sharing a common occupation, interest, or association that contribute to a political action committee or political issues committee and whose names can be obtained by contacting the political action committee or political issues committee upon whose financial statement the individuals are listed.
 
-(37)  "Receipts" means contributions and public service assistance.
+(39)  "Receipts" means contributions and public service assistance.
 
-(38)  "Registered lobbyist" means a person registered under Title 36, Chapter 11, Lobbyist Disclosure and Regulation Act.
+(40)  "Registered lobbyist" means a person registered under Title 36, Chapter 11, Lobbyist Disclosure and Regulation Act.
 
-(39)  "Registered political action committee" means any political action committee that is required by this chapter to file a statement of organization with the lieutenant governor's office.
+(41)  "Registered political action committee" means any political action committee that is required by this chapter to file a statement of organization with the lieutenant governor's office.
 
-(40)  "Registered political issues committee" means any political issues committee that is required by this chapter to file a statement of organization with the lieutenant governor's office.
+(42)  "Registered political issues committee" means any political issues committee that is required by this chapter to file a statement of organization with the lieutenant governor's office.
 
-(41)  "Registered political party" means an organization of voters that:
+(43)  "Registered political party" means an organization of voters that:
 
 (a)  participated in the last regular general election and polled a total vote equal to 2% or more of the total votes cast for all candidates for the United States House of Representatives for any of its candidates for any office; or
 
 (b)  has complied with the petition and organizing procedures of Chapter 8, Political Party Formation and Procedures.
 
-(42) (a)  "Remuneration" means a payment:
+(44) (a)  "Remuneration" means a payment:
 
 (i)  made to a legislator for the period the Legislature is in session; and
 
@@ -304,23 +308,23 @@ As used in this chapter:
 
 (B)  for services rendered by the legislator on behalf of the person or entity.
 
-(43)  "Reporting entity" means a candidate, a candidate's personal campaign committee, a judge, a judge's personal campaign committee, an officeholder, a party committee, a political action committee, a political issues committee, a corporation, or a labor organization, as defined in Section 20A-11-1501.
+(45)  "Reporting entity" means a candidate, a candidate's personal campaign committee, a judge, a judge's personal campaign committee, an officeholder, a party committee, a political action committee, a political issues committee, a corporation, or a labor organization, as defined in Section 20A-11-1501.
 
-(44)  "School board office" means the office of state school board or local school board.
+(46)  "School board office" means the office of state school board or local school board.
 
-(45) (a)  "Source" means the person or entity that is the legal owner of the tangible or intangible asset that comprises the contribution.
+(47) (a)  "Source" means the person or entity that is the legal owner of the tangible or intangible asset that comprises the contribution.
 
 (b)  "Source" means, for political action committees and corporations, the political action committee and the corporation as entities, not the contributors to the political action committee or the owners or shareholders of the corporation.
 
-(46)  "State office" means the offices of governor, lieutenant governor, attorney general, state auditor, and state treasurer.
+(48)  "State office" means the offices of governor, lieutenant governor, attorney general, state auditor, and state treasurer.
 
-(47)  "State office candidate" means a person who:
+(49)  "State office candidate" means a person who:
 
 (a)  files a declaration of candidacy for a state office; or
 
 (b)  receives contributions, makes expenditures, or gives consent for any other person to receive contributions or make expenditures to bring about the person's nomination or election to a state office.
 
-(48)  "Summary report" means the year end report containing the summary of a reporting entity's contributions and expenditures.
+(50)  "Summary report" means the year end report containing the summary of a reporting entity's contributions and expenditures.
 
-(49)  "Supervisory board" means the individual or group of individuals that allocate expenditures from a political issues committee.
+(51)  "Supervisory board" means the individual or group of individuals that allocate expenditures from a political issues committee.
 

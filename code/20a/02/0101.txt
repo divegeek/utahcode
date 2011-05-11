@@ -14,7 +14,9 @@
 
 (ii)  A person who is involuntarily confined or incarcerated in a jail or prison is resident of the voting precinct in which the person resided before the confinement or incarceration.
 
-(b)  A person who has been convicted of a felony whose right to vote has not been restored as provided by law may not register to vote.
+(b)  A person who has been convicted of a felony or a misdemeanor for an offense under this title may not register to vote or remain registered to vote unless the person's right to vote has been restored as provided in Section 20A-2-101.3 or 20A-2-101.5.
+
+(c)  A person whose right to vote has been restored, as provided in Section 20A-2-101.3 or 20A-2-101.5, is eligible to register to vote.
 
 (3)  A person who is eligible to vote and who resides within the geographic boundaries of the entity in which the election is held may register to vote in a:
 

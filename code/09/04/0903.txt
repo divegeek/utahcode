@@ -42,7 +42,7 @@ As used in this part the following words and terms have the following meanings, 
 
 (8)  "Interest rate contract" means interest rate exchange contracts, interest rate floor contracts, interest rate ceiling contracts, and other similar contracts authorized in a resolution or policy adopted or approved by the trustees.
 
-(9)  "Local public body" means the state, any municipality, county, district, or other subdivision or instrumentality of the state, including redevelopment agencies and housing authorities created under Part 6.
+(9)  "Local public body" means the state, any municipality, county, district, or other subdivision or instrumentality of the state, including redevelopment agencies and housing authorities created under Part 6, Housing Authorities.
 
 (10)  "Low and moderate income persons" means persons, irrespective of race, religion, creed, national origin, or sex, as determined by the corporation to require such assistance as is made available by this part on account of insufficient personal or family income taking into consideration factors, including:
 
@@ -56,11 +56,21 @@ As used in this part the following words and terms have the following meanings, 
 
 (e)  the ability of persons and families to compete successfully in the normal private housing market and to pay the amounts at which private enterprise is providing decent, safe, and sanitary housing.
 
-(11)  "Mortgage lender" means any bank, trust company, savings and loan association, credit union, mortgage banker, or other financial institution authorized to transact business in the state, any local public body, or any other entity, profit or nonprofit, that makes mortgage loans.
+(11)  "Mortgage" means a mortgage, deed of trust, or other instrument securing a mortgage loan and constituting a lien on real property (the property being held in fee simple or on a leasehold under a lease having a remaining term, at the time the mortgage is acquired, of not less than the term for repayment of the mortgage loan secured by the mortgage) improved or to be improved by residential housing, creating a lien which may be first priority or subordinate.
 
-(12)  "Mortgage loan" means a loan secured by a mortgage, which loan may bear interest at either a fixed or variable rate or which may be noninterest bearing, the proceeds of which are used for the purpose of financing the construction, development, rehabilitation, or purchase of residential housing for low and moderate income persons, including low and moderate income persons who are first-time homebuyers, single heads of household, elderly, homeless, or disabled.
+(12)  "Mortgage lender" means any bank, trust company, savings and loan association, credit union, mortgage banker, or other financial institution authorized to transact business in the state, any local public body, or any other entity, profit or nonprofit, that makes mortgage loans.
 
-(13)  "Mortgage" means a mortgage, deed of trust, or other instrument securing a mortgage loan and constituting a lien on real property (the property being held in fee simple or on a leasehold under a lease having a remaining term, at the time the mortgage is acquired, of not less than the term for repayment of the mortgage loan secured by  the mortgage) improved or to be improved by residential housing, creating a lien which may be first priority or subordinate.
+(13)  "Mortgage loan" means a loan secured by a mortgage, which loan may bear interest at either a fixed or variable rate or which may be noninterest bearing, the proceeds of which are used for the purpose of financing the construction, development, rehabilitation, or purchase of residential housing for low and moderate income persons, including low and moderate income persons who:
+
+(a)  are first-time homebuyers;
+
+(b)  are single heads of household;
+
+(c)  are elderly;
+
+(d)  are homeless; or
+
+(e)  have a disability.
 
 (14)  "Rehabilitation" includes the reconstruction, rehabilitation, improvement, and repair of residential housing.
 

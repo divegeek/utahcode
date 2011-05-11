@@ -14,11 +14,19 @@
 
 (2)  The county clerk shall use the following procedures in determining whether or not a signer is a registered voter:
 
-(a)  When a signer's name and address shown on the petition exactly match a name and address shown on the official register, the county clerk shall declare the signature valid.
+(a)  When a signer's name and address shown on the petition exactly match a name and address shown on the official register and the signer's signature appears substantially similar to the signature on the statewide voter registration database, the county clerk shall declare the signature valid.
 
-(b)  When there is no exact match of an address and a name, the county clerk shall declare the signature valid if the address on the petition matches the address of a person on the official register with a substantially similar name.
+(b)  When there is no exact match of an address and a name, the county clerk shall declare the signature valid if:
 
-(c)  When there is no match of an address and a substantially similar name, the county clerk shall declare the signature valid if the birth date or age on the petition matches the birth date or age of a person on the official register with a substantially similar name.
+(i)  the address on the petition matches the address of a person on the official register with a substantially similar name; and
+
+(ii)  the signer's signature appears substantially similar to the signature on the statewide voter registration database of the person described in Subsection (2)(b)(i).
+
+(c)  When there is no match of an address and a substantially similar name, the county clerk shall declare the signature valid if:
+
+(i)  the birth date or age on the petition matches the birth date or age of a person on the official register with a substantially similar name; and
+
+(ii)  the signer's signature appears substantially similar to the signature on the statewide voter registration database of the person described in Subsection (2)(c)(i).
 
 (d)  If a signature is not declared valid under Subsection (2)(a), (2)(b), or (2)(c), the county clerk shall declare the signature to be invalid.
 

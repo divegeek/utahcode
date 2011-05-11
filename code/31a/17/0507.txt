@@ -2,7 +2,7 @@
 
 (1)  Except as otherwise provided in Sections 31A-17-508, 31A-17-511, and 31A-17-513, reserves according to the commissioner's reserve valuation method, for the life insurance and endowment benefits of policies providing for a uniform amount of insurance and requiring the payment of uniform premiums shall be the excess, if any, of the present value, at the date of valuation, of such future guaranteed benefits provided for by such policies, over the then present value of any future modified net premiums therefor.  The modified net premiums for any such policy shall be such uniform percentage of the respective contract premiums for such benefits that the present value, at the date of issue of the policy, of all such modified net premiums shall be equal to the sum of the then present value of such benefits provided for by the policy and the excess of Subsection (1)(a) over Subsection (1)(b), as follows:
 
-(a)  A net level annual premium equal to the present value, at the date of issue, of such benefits provided for after the first policy year, divided by the present value, at the date of issue, of an annuity of one per annum payable on the first and each subsequent anniversary of such policy on which a premium falls due; provided, however, that such net level annual premium shall not exceed the net level annual premium on the 19 year premium whole life plan for insurance of the same amount at an age one year higher than the age at issue of such policy.
+(a)  A net level annual premium equal to the present value, at the date of issue, of such benefits provided for after the first policy year, divided by the present value, at the date of issue, of an annuity of one per annum payable on the first and each subsequent anniversary of such policy on which a premium falls due; provided, however, that such net level annual premium may not exceed the net level annual premium on the 19 year premium whole life plan for insurance of the same amount at an age one year higher than the age at issue of such policy.
 
 (b)  A net one year term premium for such benefits provided for in the first policy year.
 
@@ -18,11 +18,11 @@
 
 (3)  Reserves according to the commissioner's reserve valuation method for:
 
-(a) life insurance policies providing for a varying amount of insurance or requiring the payment of varying premiums;
+(a)  life insurance policies providing for a varying amount of insurance or requiring the payment of varying premiums;
 
-(b) group annuity and pure endowment contracts  purchased under a retirement plan or plan of deferred compensation, established or maintained by an employer, including a partnership or sole proprietorship, or by an employee organization, or by both, other than a plan providing individual retirement accounts or individual retirement annuities under Section 408, Internal Revenue Code;
+(b)  group annuity and pure endowment contracts  purchased under a retirement plan or plan of deferred compensation, established or maintained by an employer, including a partnership or sole proprietorship, or by an employee organization, or by both, other than a plan providing individual retirement accounts or individual retirement annuities under Section 408, Internal Revenue Code;
 
-(c) accident and health and accidental death benefits in all policies and contracts; and
+(c)  accident and health and accidental death benefits in all policies and contracts; and
 
-(d) all other benefits, except life insurance and endowment benefits in life insurance policies and benefits provided by all other annuity and pure endowment contracts, shall be calculated by a method consistent with the principles of Subsections (1) and (2).
+(d)  all other benefits, except life insurance and endowment benefits in life insurance policies and benefits provided by all other annuity and pure endowment contracts, shall be calculated by a method consistent with the principles of Subsections (1) and (2).
 

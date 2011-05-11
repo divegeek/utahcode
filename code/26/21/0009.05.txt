@@ -8,7 +8,7 @@
 
 (ii)  is not a licensed business within the state; and
 
-(iii)  is hiring an individual to provide services to an elderly or disabled person in the home of the elderly or disabled person.
+(iii)  is hiring an individual to provide services to an elderly person or a person with a disability in the person's home.
 
 (b)  "Covered health care facility" means:
 
@@ -38,7 +38,7 @@
 
 (A)  is 18 years of age or older; or
 
-(B)  is a child between the age of 12 and 17 years of age; however, the identifying information required for a child between the age of 12 and 17 does not include fingerprints.
+(B)  is a child between the age of 12 and 17 years of age.
 
 (2)  In addition to the licensing requirements of Sections 26-21-8 and 26-21-9, a covered health care facility at the time of initial application for a license and license renewal shall:
 
@@ -48,17 +48,19 @@
 
 (ii)  has been the subject of a criminal background check within the preceding three-year period by a public or private entity recognized by the department; and
 
-(b)  submit the name and other identifying information, which may include fingerprints, of each covered person at the covered facility who has not been the subject of a criminal background check in accordance with Subsection (2)(a)(ii).
+(b)  submit the name and other identifying information, which, except as provided in Subsection (3)(c), may include fingerprints, of each covered person at the covered facility who has not been the subject of a criminal background check in accordance with Subsection (2)(a)(ii).
 
 (3) (a)  The department shall forward the information received under Subsection (2)(b) or (6)(b) to the Criminal Investigations and Technical Services Division of the Department of Public Safety for processing to determine whether the individual has been convicted of any crime.
 
 (b)  Except for individuals described in Subsection (1)(c)(ii)(B), if an individual has not had residency in Utah for the last five years, the individual shall submit fingerprints for an FBI national criminal history record check.  The fingerprints shall be submitted to the FBI through the Criminal Investigations and Technical Services Division.  The individual or licensee is responsible for the cost of the fingerprinting and national criminal history check.
 
+(c)  Identifying information required under this section for a covered person who is between the age of 12 and 17 does not include fingerprints.
+
 (4)  The department may determine whether:
 
-(a)  an individual whose name and other identifying information has been submitted pursuant to Subsection (2) and who provides direct care to children is listed in the Licensing Information System described in Section 62A-4a-1006 or has a substantiated finding by a court of a severe type of child abuse or neglect under Section 78A-6-323, if identification as a possible perpetrator of child abuse or neglect is relevant to the employment activities of that individual; 
+(a)  an individual whose name and other identifying information has been submitted pursuant to Subsection (2) and who provides direct care to children is listed in the Licensing Information System described in Section 62A-4a-1006 or has a substantiated finding by a court of a severe type of child abuse or neglect under Section 78A-6-323, if identification as a possible perpetrator of child abuse or neglect is relevant to the employment activities of that individual;
 
-(b)  an individual whose name and other identifying information has been submitted pursuant to Subsection (2) or (6)(b) and who provides direct care to disabled or elder adults, or who is residing in a residential home that is a facility licensed to provide direct care to disabled or elder adults has a substantiated finding of abuse, neglect, or exploitation of a disabled or elder adult by accessing in accordance with Subsection (5) the database created in Section 62A-3-311.1 if identification as a possible perpetrator of disabled or elder adult abuse, neglect, or exploitation is relevant to the employment activities or residence of that person; or
+(b)  an individual whose name and other identifying information has been submitted pursuant to Subsection (2) or (6)(b) and who provides direct care to an elderly person or an adult with a disability, or who is residing in a residential home that is a facility licensed to provide direct care to an elderly person or an adult with a disability, has a substantiated finding of abuse, neglect, or exploitation of an elderly person or an adult with a disability by accessing in accordance with Subsection (5) the database created in Section 62A-3-311.1 if identification as a possible perpetrator of disabled or elder adult abuse, neglect, or exploitation is relevant to the employment activities or residence of that person; or
 
 (c)  an individual whose name or other identifying information has been submitted pursuant to Subsection (2) or (6)(b) has been adjudicated in a juvenile court of committing an act which if committed by an adult would be a felony or a misdemeanor if:
 
@@ -100,19 +102,19 @@
 
 (6) (a)  Within 10 days of initially hiring a covered individual, a covered health care facility shall submit the covered individual's information to the department in accordance with Subsection (2).
 
-(b) (i)  Prior to, or within 10 days of initially hiring an individual to provide care to an elderly adult or a disabled person in the home of the elderly adult or disabled person, a covered employer may submit the employed individual's information to the department.
+(b) (i) Before, or within 10 days of initially hiring an individual to provide care to an elderly person or a person with a disability in the home of the person, a covered employer may submit the employed individual's information to the department.
 
 (ii)  The department shall:
 
-(A)  in accordance with Subsections (4) and (6)(c) of this section, and Subsection 62A-3-311.1(4)(b), determine whether the individual has a substantiated finding of abuse, neglect, or exploitation of a minor or an elderly adult; and
+(A)  in accordance with Subsections (4) and (6)(c), and Subsection 62A-3-311.1 (2)(b), determine whether the individual has a substantiated finding of abuse, neglect, or exploitation of a minor or an elderly  person; and
 
 (B)  in accordance with Subsection (9), inform the covered employer of the department's findings.
 
 (c)  A covered employer:
 
-(i)  must certify to the department that the covered employer intends to hire, or has hired, the individual whose information the covered employer has submitted to the department for the purpose of providing care to an elderly adult or a disabled person in the home of the elderly adult or disabled person;
+(i) shall certify to the department that the covered employer intends to hire, or has hired, the individual whose information the covered employer has submitted to the department for the purpose of providing care to an elderly person or a person with a disability in the home of the person;
 
-(ii)  must pay the reasonable fees established by the department under Subsection (8); and
+(ii) shall pay the reasonable fees established by the department under Subsection (8); and
 
 (iii)  commits an infraction if the covered employer intentionally misrepresents any fact certified under Subsection (6)(c)(i).
 
@@ -128,5 +130,5 @@
 
 (i)  complies with Subsection (6)(c)(i); and
 
-(ii)  does not use the information obtained about an individual under this section for any purpose other than hiring decisions directly related to the care of the elderly adult or disabled person.
+(ii)  does not use the information obtained about an individual under this section for any purpose other than hiring decisions directly related to the care of the elderly person or the person with a disability.
 

@@ -2,9 +2,9 @@
 
 (1)  The criteria for determining public convenience and necessity is set forth in Subsections (2) through (6).
 
-(2)  Access to emergency medical services must be maintained or improved.  The officer shall consider the impact on existing services, including the impact on response times, call volumes, populations and exclusive geographic service areas served, and the ability of surrounding licensed providers to service their exclusive geographic service areas.  The issuance or amendment of a license may not create an orphaned area.
+(2)  Access to emergency medical services shall be maintained or improved.  The officer shall consider the impact on existing services, including the impact on response times, call volumes, populations and exclusive geographic service areas served, and the ability of surrounding licensed providers to service their exclusive geographic service areas.  The issuance or amendment of a license may not create an orphaned area.
 
-(3)  The quality of service in the area must be maintained or improved.  The officer shall consider the:
+(3)  The quality of service in the area shall be maintained or improved.  The officer shall consider the:
 
 (a)  staffing and equipment standards of the current licensed provider and the applicant;
 
@@ -18,7 +18,7 @@
 
 (f)  the negative or beneficial impact on the regional emergency medical service system to provide service to the public.
 
-(4)  The cost to the public must be justified.  The officer must consider:
+(4)  The cost to the public shall be justified.  The officer shall consider:
 
 (a)  the financial solvency of the applicant;
 
@@ -30,7 +30,7 @@
 
 (e)  the cost effect of the application on the public, interested parties, and the emergency medical services system.
 
-(5)  Local desires concerning cost, quality, and access must be considered.  The officer shall assess and consider:
+(5)  Local desires concerning cost, quality, and access shall be considered.  The officer shall assess and consider:
 
 (a)  the existing provider's record of providing services and the applicant's record and ability to provide similar or improved services;
 

@@ -4,9 +4,11 @@
 
 (a)  designates the offices to be filled at the regular general election;
 
-(b)  identifies the dates for filing a declaration of candidacy for those offices; and
+(b)  identifies the dates for filing a declaration of candidacy for those offices;
 
-(c)  contains a description of any ballot propositions to be decided by the voters that have qualified for the ballot as of that date.
+(c)  includes the master ballot position list for the current year and the next year as established under Section 20A-6-305; and
+
+(d)  contains a description of any ballot propositions to be decided by the voters that have qualified for the ballot as of that date.
 
 (2) (a)  No later than February 15, each county clerk shall:
 
@@ -32,9 +34,11 @@
 
 (b)  the hours during which the polls will be open;
 
-(c)  the polling places for each voting precinct; and
+(c)  the polling places for each voting precinct;
 
-(d)  the qualifications for persons to vote in the election.
+(d)  an election day voting center designated under Section 20A-3-703; and
+
+(e)  the qualifications for persons to vote in the election.
 
 (4)  To provide the notice required by Subsection (3), the election officer shall publish the notice at least two days before the election:
 

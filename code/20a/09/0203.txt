@@ -1,4 +1,4 @@
-20A-9-203.   Declarations of candidacy -- Municipal general elections.
+20A-9-203 (Superseded 01/01/12).   Declarations of candidacy -- Municipal general elections.
 
 (1) (a) (i)  A person may become a candidate for any municipal office if:
 
@@ -12,7 +12,7 @@
 
 (b)  In addition to the requirements of Subsection (1)(a), each candidate for a municipal council position shall, if elected from a district, be a resident of the council district from which elected.
 
-(c)  In accordance with Utah Constitution Article IV, Section 6, any mentally incompetent person, any person convicted of a felony, or any person convicted of treason or a crime against the elective franchise may not hold office in this state until the right to hold elective office is restored under Section 20A-2-101.5.
+(c)  In accordance with Utah Constitution Article IV, Section 6, any mentally incompetent person, any person convicted of a felony, or any person convicted of treason or a crime against the elective franchise may not hold office in this state until the right to hold elective office is restored under Section 20A-2-101.3 or 20A-2-101.5.
 
 (2) (a)  Except as provided in Subsection (2)(b) or (2)(c), each person seeking to become a candidate for a municipal office shall:
 
@@ -24,7 +24,7 @@
 
 (ii)  A third, fourth, or fifth class city that used the convention system to nominate candidates in the last municipal election as authorized by Subsection 20A-9-404(3) or used the process contained in this Subsection (2)(b) in the last municipal election or a town that used the convention system to nominate candidates in the last municipal election as authorized by Subsection 20A-9-404(3) or used the process contained in this Subsection (2)(b) in the last municipal election may, by ordinance, require, in lieu of the convention system, that candidates for municipal office file a nominating petition signed by a percentage of registered voters at the same time that the candidate files a declaration of candidacy.
 
-(iii)  The ordinance shall specify the number of signatures that the candidate must obtain on the nominating petition in order to become a candidate for municipal office under this Subsection (2), but that number may not exceed 5% of registered voters.
+(iii)  The ordinance shall specify the number of holographic signatures that the candidate must obtain on the nominating petition in order to become a candidate for municipal office under this Subsection (2), but that number may not exceed 5% of registered voters.
 
 (c)  Any resident of a municipality may nominate a candidate for a municipal office by:
 
@@ -36,7 +36,7 @@
 
 (i)  read to the prospective candidate or person filing the petition the constitutional and statutory qualification requirements for the office that the candidate is seeking; and
 
-(ii)  require the candidate or person filing the petition to state whether or not the candidate meets those requirements.
+(ii)  require the candidate or person filing the petition to state whether the candidate meets those requirements.
 
 (b)  If the prospective candidate does not meet the qualification requirements for the office, the filing officer may not accept the declaration of candidacy or nomination petition.
 
@@ -70,7 +70,7 @@ Subscribed and sworn to (or affirmed) before me by ____ on this __________(month
 
 (Signed) _______________ (Clerk or other officer qualified to administer oath)"
 
-(5) (a)  In all first and second class cities, and in third, fourth, or fifth class cities that have not passed the ordinance authorized by Subsection (2)(b) and in towns that have not passed the ordinance authorized by Subsection (2)(b), any registered voter may be nominated for municipal office by submitting a petition signed by:
+(5) (a)  In all first and second class cities, and in third, fourth, or fifth class cities that have not passed the ordinance authorized by Subsection (2)(b) and in towns that have not passed the ordinance authorized by Subsection (2)(b), any registered voter may be nominated for municipal office by submitting a petition signed, with a holographic signature, by:
 
 (i)  25 residents of the municipality who are at least 18 years old; or
 
@@ -84,7 +84,7 @@ The undersigned residents of (name of municipality) being 18 years old or older 
 
 (ii)  The remainder of the petition shall contain lines and columns for the signatures of persons signing the petition and their addresses and telephone numbers.
 
-(6) (a)  In third, fourth, and fifth class cities that have passed the ordinance authorized by Subsection (2)(b), and in towns that have passed the ordinance authorized by Subsection (2)(b), any registered voter may be nominated for municipal office by submitting a petition signed by the same percentage of registered voters in the municipality as required by the ordinance passed under authority of Subsection (2)(b).
+(6) (a)  In third, fourth, and fifth class cities that have passed the ordinance authorized by Subsection (2)(b), and in towns that have passed the ordinance authorized by Subsection (2)(b), any registered voter may be nominated for municipal office by submitting a petition signed, with a holographic signature, by the same percentage of registered voters in the municipality as required by the ordinance passed under authority of Subsection (2)(b).
 
 (b) (i)  The petition shall substantially conform to the following form:
 
@@ -92,7 +92,7 @@ The undersigned residents of (name of municipality) being 18 years old or older 
 
 The undersigned residents of (name of municipality) being 18 years old or older nominate (name of nominee) to the office of (name of office) for the (two or four-year term, whichever is applicable)."
 
-(ii)  The remainder of the petition shall contain lines and columns for the signatures of persons signing the petition and their addresses and telephone numbers.
+(ii)  The remainder of the petition shall contain lines and columns for the holographic signatures of persons signing the petition and their addresses and telephone numbers.
 
 (7)  If the declaration of candidacy or nomination petition fails to state whether the nomination is for the two or four-year term, the clerk shall consider the nomination to be for the four-year term.
 

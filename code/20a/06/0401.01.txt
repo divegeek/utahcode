@@ -12,7 +12,7 @@
 
 (b)  the names of all candidates from each party are listed on the same ballot in one or more columns under their party name and emblem;
 
-(c)  the political parties are printed on the ballot in the order determined by the county clerk;
+(c)  the political parties are printed on the ballot in the order specified under Section 20A-6-305;
 
 (d) (i)  the ballot contains a ballot stub that is at least one inch wide, placed across the top of the ballot;
 
@@ -20,7 +20,7 @@
 
 (iii)  ballot stubs are numbered consecutively;
 
-(e)  immediately below the perforated ballot stub, the following endorsements are printed in 18-point bold type:
+(e)  immediately below the perforated ballot stub, the following endorsements are printed in 18 point bold type:
 
 (i)  "Official Primary Ballot for ____ County, Utah";
 
@@ -34,15 +34,15 @@
 
 (h)  after the rules, the designation of the office for which the candidates seek nomination is printed flush with the left-hand margin and the words: "Vote for one" or "Vote for two or more" are printed to extend to the extreme right of the column in 10 point bold type, followed by a hair-line rule;
 
-(i)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules 3/8 inch apart, alphabetically according to surnames with surnames last and grouped according to the office that they seek;
+(i)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules three-eighths inch apart, in the order specified under Section 20A-6-305 with surnames last and grouped according to the office that they seek;
 
-(j)  a square with sides not less than 1/4 inch long is printed immediately adjacent to the names of the candidates;
+(j)  a square with sides not less than one-fourth inch long is printed immediately adjacent to the names of the candidates;
 
 (k)  the candidate groups are separated from each other by one light and one heavy line or rule; and
 
 (l)  the nonpartisan candidates are listed as follows:
 
-(i)  immediately below the listing of the party candidates, the word "NONPARTISAN" is printed in reverse type in an 18-point solid rule that extends the full width of the type copy of the party listing above; and
+(i)  immediately below the listing of the party candidates, the word "NONPARTISAN" is printed in reverse type in an 18 point solid rule that extends the full width of the type copy of the party listing above; and
 
 (ii)  below "NONPARTISAN," the office, the number of candidates to vote for, the candidate's name, the voting square, and any other necessary information is printed in the same style and manner as for party candidates.
 
@@ -58,5 +58,5 @@
 
 (i)  for municipalities using punch card ballots, ensure that the ballot label provides a means for the voter to designate the political party in whose primary the voter is voting; and
 
-(ii)  determine the order for printing the names of the political parties on the ballot label.
+(ii)  determine the order for printing the names of the political parties on the ballot label in accordance with Section 20A-6-305.
 

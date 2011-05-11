@@ -1,16 +1,20 @@
 16-10a-1107.   Merger or share exchange with foreign corporations.
 
-(1)  One or more domestic corporations may merge or enter into a share exchange with one or more foreign corporations if:
+(1)  A domestic corporation may merge with a foreign entity or enter into a share exchange with a foreign corporation if:
 
-(a)  in a merger, the merger is permitted by the law of the state or country under whose law each foreign corporation is incorporated and each foreign corporation complies with that law in effecting the merger;
+(a)  in a merger, the merger is permitted by the law of the state or country under whose law the foreign entity is incorporated or organized and the foreign entity complies with that law in effecting the merger;
 
 (b)  in a share exchange, the corporation whose shares will be acquired is a domestic corporation, whether or not a share exchange is permitted by the law of the state or country under whose law the acquiring corporation is incorporated;
 
 (c)  the foreign corporation complies with Section 16-10a-1105 if it is the surviving corporation of the merger or the acquiring corporation of the share exchange, and provides, in addition to the information required by Section 16-10a-1105, the address of its principal office; and
 
-(d)  each domestic corporation complies with the applicable provisions of Sections 16-10a-1101 through 16-10a-1104 and, if it is the surviving corporation of the merger with Section 16-10a-1105.
+(d)  the domestic corporation complies with:
 
-(2)  Upon the merger or share exchange taking effect, the surviving foreign corporation of a merger and the acquiring foreign corporation of a share exchange shall either:
+(i)  the applicable provisions of Sections 16-10a-1101 through 16-10a-1104; and
+
+(ii)  if it is the surviving corporation of the merger, Section 16-10a-1105.
+
+(2)  Upon the merger or share exchange taking effect, the surviving foreign entity of a merger and the acquiring foreign corporation of a share exchange shall either:
 
 (a)  agree that service of process in a proceeding to enforce the rights of shareholders of each domestic corporation that is a party to the merger who exercise appraisal rights may be made in the manner provided in Section 16-17-301;
 
@@ -20,13 +24,13 @@
 
 (3)  Service effected pursuant to Subsection (2) is perfected at the earliest of:
 
-(a)  the date the foreign corporation receives the process, notice, or demand;
+(a)  the date the foreign entity receives the process, notice, or demand;
 
-(b)  the date shown on the return receipt, if signed on behalf of the foreign corporation; or
+(b)  the date shown on the return receipt, if signed on behalf of the foreign entity; or
 
 (c)  five days after mailing.
 
-(4)  Subsection (2) does not prescribe the only means, or necessarily the required means, of serving a surviving foreign corporation of a merger or an acquiring foreign corporation in a share exchange.
+(4)  Subsection (2) does not prescribe the only means, or necessarily the required means, of serving a surviving foreign entity of a merger or an acquiring foreign corporation in a share exchange.
 
 (5)  This section does not limit the power of a foreign corporation to acquire all or part of the shares of one or more classes or series of a domestic corporation through a voluntary exchange of shares or otherwise.
 

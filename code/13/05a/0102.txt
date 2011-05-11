@@ -18,7 +18,7 @@ As used in this chapter:
 
 (b)  accessing a computer without authorization or exceeding authorized access;
 
-(c)  willfully communicating, delivering, or causing the transmission of a program, information, code, or command without authorization or exceeding authorized access;
+(c)  willfully communicating, delivering, or causing the transmission of a program, information, code, or command without authorization or exceeding authorized access; and
 
 (d)  intentionally or recklessly:
 

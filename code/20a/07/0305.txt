@@ -2,11 +2,13 @@
 
 (1)  A Utah voter may sign a referendum petition if the voter is a legal voter.
 
-(2)  The sponsors shall ensure that the person in whose presence each signature sheet was signed:
+(2) (a)  The sponsors shall ensure that the person in whose presence each signature sheet was signed:
 
-(a)  is at least 18 years old and meets the residency requirements of Section 20A-2-105; and
+(i)  is at least 18 years old and meets the residency requirements of Section 20A-2-105; and
 
-(b)  verifies each signature sheet by completing the verification printed on the last page of each signature sheet.
+(ii)  verifies each signature sheet by completing the verification printed on the last page of each referendum packet.
+
+(b)  A person may not sign the verification printed on the last page of the referendum packet if the person signed a signature sheet in the referendum packet.
 
 (3) (a) (i)  A voter who has signed a referendum petition may have the voter's signature removed from the petition by submitting to the county clerk a statement requesting that the voter's signature be removed.
 

@@ -12,7 +12,7 @@
 
 (c)  select and use an official district seal;
 
-(d)  employ employees and agents, or delegate to district officers power to employ employees and agents, for the operation of the local district and its properties and prescribe or delegate to district officers the power to prescribe the duties, compensation, and terms and conditions of employment of those employees and agents;
+(d)  subject to Subsections (3) and (4), employ employees and agents, or delegate to district officers power to employ employees and agents, for the operation of the local district and its properties and prescribe or delegate to district officers the power to prescribe the duties, compensation, and terms and conditions of employment of those employees and agents;
 
 (e)  require district officers and employees charged with the handling of district funds to provide surety bonds in an amount set by the board or provide a blanket surety bond to cover officers and employees;
 
@@ -35,4 +35,34 @@
 (n)  delegate to a district officer the exercise of a district duty; and
 
 (o)  exercise all powers and perform all functions in the operation of the local district and its properties as are ordinarily exercised by the governing body of a political subdivision of the state and as are necessary to accomplish the purposes of the district.
+
+(3) (a)  As used in this Subsection (3), "interim vacancy period" means:
+
+(i)  if any member of the local district board is elected, the period of time that:
+
+(A)  begins on the day on which a municipal general election described in Section 17B-1-306 is held to elect a local district board member; and
+
+(B)  ends on the day on which the local district board member-elect begins the member's term; or
+
+(ii)  if any member of the local district board is appointed, the period of time that:
+
+(A)  begins on the day on which an appointing authority posts a notice of vacancy in accordance with Section 17B-1-304; and
+
+(B)  ends on the day on which the person who is appointed by the local district board to fill the vacancy begins the person's term.
+
+(b) (i)  The local district may not hire during an interim vacancy period a manager, a chief executive officer, a chief administrative officer, or a similar position to perform executive and administrative duties or functions.
+
+(ii)  Notwithstanding Subsection (3)(b)(i):
+
+(A)  the local district may hire an interim manager, a chief executive officer, a chief administrative officer, or a similar position during an interim vacancy period; and
+
+(B)  the interim manager's, chief executive officer's, chief administrative officer's, or similar position's employment shall terminate once a new manager, chief executive officer, chief administrative officer, or similar position is hired by the new local district board after the interim vacancy period has ended.
+
+(c)  Subsection (3)(b) does not apply if:
+
+(i)  all the elected local district board members who held office on the day of the municipal general election whose term of office was vacant for the election are re-elected to the local district board; and
+
+(ii)  all the appointed local district board members who were appointed whose term of appointment was expiring are re-appointed to the local district board.
+
+(4)  A local district board that hires an interim manager, a chief executive officer, a chief administrative officer, or a similar position in accordance with this section may not, on or after May 10, 2011, enter into an employment contract that contains an automatic renewal provision with the interim manager, chief executive officer, chief administrative officer, or similar position.
 

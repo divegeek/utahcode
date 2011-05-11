@@ -12,7 +12,7 @@ As used in this chapter:
 
 (5)  "Executive director" means the director of the department.
 
-(6)  "Health care facility" means a facility that is licensed by the department under Title 26, Chapter 21, Health Care Facility Licensure and Inspection Act.  The committee may by rule add, delete, or modify the list of facilities that come within this definition for purposes of this chapter.
+(6)  "Health care facility" means a facility that is licensed by the department under Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act.  The committee may by rule add, delete, or modify the list of facilities that come within this definition for purposes of this chapter.
 
 (7)  "Health care provider" means any person, partnership, association, corporation, or other facility or institution that renders or causes to be rendered health care or professional services as a physician, registered nurse, licensed practical nurse, nurse-midwife, dentist, dental hygienist, optometrist, clinical laboratory technologist, pharmacist, physical therapist, podiatric physician, psychologist, chiropractic physician, naturopathic physician, osteopathic physician, osteopathic physician and surgeon, audiologist, speech pathologist, certified social worker, social service worker, social service aide, marriage and family counselor, or practitioner of obstetrics, and others rendering similar care and services relating to or arising out of the health needs of persons or groups of persons, and officers, employees, or agents of any of the above acting in the course and scope of their employment.
 
@@ -38,9 +38,21 @@ As used in this chapter:
 
 (e)  preparing and publishing reports describing these matters.
 
-(14)  "Self-funded employer" means an employer who provides for the payment of health care services for his employees directly from the employer's funds, thereby assuming the financial risks rather than passing them on to an outside insurer through premium payments.
+(14)  "Self-funded employer" means an employer who provides for the payment of health care services for employees directly from the employer's funds, thereby assuming the financial risks rather than passing them on to an outside insurer through premium payments.
 
 (15)  "Plan" means the plan developed and adopted by the Health Data Committee under Section 26-33a-104.
 
-(16)  "Third-party payor" means any insurer offering health care insurance, as defined by Section 31A-1-301, any nonprofit health service insurance corporation licensed under Title 31A, Chapter 7, Nonprofit Health Service Insurance Corporations, any program funded or administered by the state of Utah for the provision of health care services, including the Medicaid and medical assistance programs described in Title 26, Chapter 18, or any other similar corporation, organization, association, entity, or person.
+(16)  "Third party payor" means:
+
+(a)  an insurer offering a health benefit plan, as defined by Section 31A-1-301, to at least 2,500 enrollees in the state;
+
+(b)  a nonprofit health service insurance corporation licensed under Title 31A, Chapter 7, Nonprofit Health Service Insurance Corporations;
+
+(c)  a program funded or administered by Utah for the provision of health care services, including the Medicaid and medical assistance programs described in Chapter 18, Medical Assistance Act; and
+
+(d)  a corporation, organization, association, entity, or person:
+
+(i)  which administers or offers a health benefit plan to at least 2,500 enrollees in the state; and
+
+(ii)  which is required by administrative rule adopted by the department in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to supply health data to the committee.
 

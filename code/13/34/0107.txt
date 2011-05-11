@@ -20,6 +20,10 @@
 
 (ii)  establishes an exemption with the division.
 
+(c) (i)  Except as provided in Subsection (1)(c)(ii), an institution that files a registration statement under this section shall file a separate registration statement and pay a separate fee for each physical campus that the institution operates as a proprietary school.
+
+(ii)  An institution that registered with the division before May 10, 2011 is not required to comply with Subsection (1)(c)(i) until the institution's next regular renewal date.
+
 (2) (a)  The registration statement or exemption described in Subsection (1) shall be:
 
 (i)  verified by the oath or affirmation of the owner or a responsible officer of the proprietary school filing the registration statement or exemption; and
@@ -54,7 +58,13 @@
 
 (b)  In the event of a change in ownership or in the governing body of the proprietary school, the new owner or governing body, within 30 days after the change, shall file a new registration statement.
 
-(4)  Except as provided in Subsection (3)(b), a registration statement or a renewal statement and the accompanying certificate of registration are effective for a period of two years after the date of filing and issuance.
+(4) (a)  Except as provided in Subsection (3)(b), a registration statement or a renewal statement and the accompanying certificate of registration are effective for a period of two years after the date of filing and issuance.
+
+(b)  No later than one year after the issuance or renewal of a certificate of registration to a proprietary school, the proprietary school shall:
+
+(i)  submit a review of the proprietary school's continued qualification for a certificate of registration, on a form approved by the division; and
+
+(ii)  pay a fee established under this section and Section 63J-1-504.
 
 (5) (a)  The division shall establish a graduated fee structure for the filing of registration statements by various classifications of institutions pursuant to Section 63J-1-504.
 
@@ -66,15 +76,41 @@
 
 (i)  demonstrate fiscal responsibility at the time the proprietary school files its registration statement as prescribed by rules of the division; and
 
-(ii)  provide evidence to the division that the proprietary school:
+(ii)  as provided in Subsection (6)(b), provide evidence to the division that the proprietary school:
 
 (A)  is financially sound; and
 
 (B)  can reasonably fulfill commitments to and obligations the proprietary school has incurred with students and creditors.
 
-(b)  A proprietary school applying for an initial certificate of registration to operate shall prepare and submit financial statements and supporting documentation as requested by the division.
+(b)  The evidence that a propriety school is required to provide under Subsection (6)(a)(ii) includes:
 
-(c)  A proprietary school applying for renewal of a certificate of registration to operate or renewal under new ownership shall provide audited financial statements.
+(i)  for a proprietary school that has not operated long enough to complete a fiscal year:
+
+(A)  pro forma financial statements until the information described in Subsection (6)(b)(ii) is available; and
+
+(B)  a commercial credit report for the proprietary school and a consumer credit report for each individual with an ownership interest in the proprietary school; and
+
+(ii)  for a proprietary school that has completed a fiscal year or as soon as a proprietary school completes its first fiscal year:
+
+(A)  a current financial statement, with all applicable footnotes, for the most recent fiscal year, including a balance sheet, a statement of income, a statement of retained earnings, and a statement of cash flow; and
+
+(B)  a certified fiscal audit of the proprietary school's financial statement, performed by a certified or licensed public accountant, or a commercial credit report for the proprietary school and a consumer credit report for each individual with an ownership interest in the proprietary school.
+
+(c)  In evaluating a proprietary school's fiscal responsibility under this Subsection (6), the division may consider:
+
+(i)  any judgment, tax lien, collection action, bankruptcy schedule, or history of late payments to creditors;
+
+(ii)  documentation showing the resolution of any matter listed in Subsection (6)(c)(i);
+
+(iii)  the proprietary school's explanation for any of the matters listed in Subsection (6)(c)(i);
+
+(iv)  any guarantee agreement provided for the proprietary school; and
+
+(v)  any history of a prior entity that:
+
+(A)  is owned or operated by any individual with an ownership interest in the proprietary school; and
+
+(B)  has failed to maintain fiscal responsibility.
 
 (d)  The division may require evidence of financial status at other times when it is in the best interest of students to require such information.
 

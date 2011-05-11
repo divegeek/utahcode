@@ -4,11 +4,11 @@
 
 (2) (a)  Subject to Subsection (1), an accident and health insurance policy may not contain a claim notice requirement less favorable to the insured than one which requires written notice of the claim within 20 days after the occurrence or commencement of any loss covered by the policy.  The policy shall specify to whom claim notices may be given.
 
-(b)  If a loss of time benefit under a policy may be paid for a period of at least two years, an insurer may require periodic notices that the insured continues to be disabled, unless the insured is legally incapacitated.  The insured's delay in giving that notice does not impair the insured's or beneficiary's right to any indemnity which would otherwise have accrued during the six months preceding the date on which that notice is actually given.
+(b)  If a loss of time benefit under a policy may be paid for a period of at least two years, an insurer may require periodic notices that the insured continues to have a disability, unless the insured is legally incapacitated.  The insured's delay in giving that notice does not impair the insured's or beneficiary's right to any indemnity which would otherwise have accrued during the six months preceding the date on which that notice is actually given.
 
-(3) An accident and health insurance policy may not contain a time limit on proof of loss which is more restrictive to the insured than a provision requiring written proof of loss, delivered to the insurer, within the following time:
+(3)  An accident and health insurance policy may not contain a time limit on proof of loss which is more restrictive to the insured than a provision requiring written proof of loss, delivered to the insurer, within the following time:
 
-(a)  for a claim where periodic payments are contingent upon continuing loss, within 90 days after the termination of the period for which the insurer is liable;
+(a)  for a claim where periodic payments are contingent upon continuing loss, within 90 days after the termination of the period for which the insurer is liable; or
 
 (b)  for any other claim, within 90 days after the date of the loss.
 

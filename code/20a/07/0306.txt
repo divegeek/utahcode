@@ -1,20 +1,24 @@
 20A-7-306.   Submitting the referendum petition -- Certification of signatures by the county clerks -- Transfer to lieutenant governor.
 
-(1)  No later than 40 days after the end of the legislative session at which the law passed, the sponsors shall deliver each signed and verified referendum packet to the county clerk of the county in which the packet was circulated.
+(1) (a)  No later than 40 days after the end of the legislative session at which the law passed, the sponsors shall deliver each signed and verified referendum packet to the county clerk of the county in which the packet was circulated.
 
-(2)  No later than 55 days after the end of the legislative session at which the law passed, the county clerk shall:
+(b)  A sponsor may not submit a referendum packet after the deadline established in this Subsection (1).
 
-(a)  check the names of all persons completing the verification on the back of each signature sheet to determine whether or not those persons are Utah residents and are at least 18 years old; and
+(2) (a)  No later than 55 days after the end of the legislative session at which the law passed, the county clerk shall:
 
-(b)  submit the name of each of those persons who is not a Utah resident or who is not at least 18 years old to the attorney general and county attorney.
+(i)  check the names of all persons completing the verification on the last page of each referendum packet to determine whether or not those persons are Utah residents and are at least 18 years old; and
+
+(ii)  submit the name of each of those persons who is not a Utah resident or who is not at least 18 years old to the attorney general and county attorney.
+
+(b)  The county clerk may not certify a signature under Subsection (3) on a referendum packet that is not verified in accordance with Section 20A-7-305.
 
 (3)  No later than 55 days after the end of the legislative session at which the law passed, the county clerk shall:
 
-(a)  determine whether or not each signer is a registered voter according to the requirements of Section 20A-7-306.3;
+(a)  determine whether each signer is a registered voter according to the requirements of Section 20A-7-306.3;
 
-(b)  certify on the referendum petition whether or not each name is that of a registered voter; and
+(b)  certify on the referendum petition whether each name is that of a registered voter; and
 
-(c)  deliver all of the referendum packets to the lieutenant governor.
+(c)  deliver all of the verified referendum packets to the lieutenant governor.
 
 (4)  Upon receipt of a referendum packet under Subsection (3) and any statement submitted under Subsection 20A-7-305(3), the lieutenant governor shall remove from the referendum petition a voter's signature if the voter has requested the removal in accordance with Subsection 20A-7-305(3).
 

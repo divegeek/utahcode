@@ -18,9 +18,11 @@
 
 (h)  the voter is not at least 18 years of age;
 
-(i)  the voter is a convicted felon and the voter's right to vote in an election has not been restored under Section 20A-2-101.5; or
+(i)  the voter has been convicted of a misdemeanor for an offense under this title and the voter's right to vote in an election has not been restored under Section 20A-2-101.3;
 
-(j)  in a regular primary election or in the Western States Presidential Primary, the voter does not meet the political party affiliation requirements for the ballot the voter seeks to vote.
+(j)  the voter is a convicted felon and the voter's right to vote in an election has not been restored under Section 20A-2-101.5; or
+
+(k)  in a regular primary election or in the Western States Presidential Primary, the voter does not meet the political party affiliation requirements for the ballot the voter seeks to vote.
 
 (2)  A person who challenges another person's right to vote at an election shall do so according to the procedures and requirements of:
 

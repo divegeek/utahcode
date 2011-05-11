@@ -12,7 +12,7 @@
 
 (b)  The information required by Subsection (2)(a) may be provided through a website, and if requested by the health care provider, notice of the updated website shall be provided by the carrier.
 
-(3) (a)  An insurer shall not require a health care provider by contract, reimbursement procedure, or otherwise to notify the insurer of a hospital in-patient emergency admission within a period of time that is less than one business day of the hospital in-patient admission, if compliance with the notification requirement would result in notification by the health care provider on a weekend or federal holiday.
+(3) (a)  An insurer may not require a health care provider by contract, reimbursement procedure, or otherwise to notify the insurer of a hospital in-patient emergency admission within a period of time that is less than one business day of the hospital in-patient admission, if compliance with the notification requirement would result in notification by the health care provider on a weekend or federal holiday.
 
 (b)  Subsection (3)(a) does not prohibit the applicability or administration of other contract provisions between an insurer and a health care provider that require pre-authorization for scheduled in-patient admissions.
 

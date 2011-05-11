@@ -1,10 +1,10 @@
 19-6-205.   Siting plan -- Procedure for adoption -- Review -- Effect.
 
-(1)  After completion of the guidelines, the board shall prepare and publish a preliminary siting plan for the state. The preliminary siting plan is not final until adopted by the board in accordance with Subsection (2) and shall be based upon the guidelines adopted under Section 19-6-204 and be published within one year after adoption of the guidelines.
+(1)  After completion of the guidelines, the board shall prepare and publish a preliminary siting plan for the state.  The preliminary siting plan is not final until adopted by the board in accordance with Subsection (2) and shall be based upon the guidelines adopted under Section 19-6-204 and be published within one year after adoption of the guidelines.
 
-(2) (a)  After completion of its guidelines, the board shall publish notice of intent to prepare a siting plan. The notice shall invite all interested persons to nominate sites for inclusion in the siting plan. It shall be published at least twice in not less than two newspapers with statewide circulation and shall also be sent to any person, business, or other organization that has notified the board of an interest or involvement in hazardous waste management activities.
+(2) (a)  After completion of its guidelines, the board shall publish notice of intent to prepare a siting plan.  The notice shall invite all interested persons to nominate sites for inclusion in the siting plan.  It shall be published at least twice in not less than two newspapers with statewide circulation and shall also be sent to any person, business, or other organization that has notified the board of an interest or involvement in hazardous waste management activities.
 
-(b)  Nominations for the location of hazardous waste sites shall be accepted by the board for a period of 120 days after the date of first publication of notice. Nominations may include a description of the site or sites suggested or may simply suggest a general area. In addition, any nomination may provide data and reasons in support of inclusion of the site nominated.
+(b)  Nominations for the location of hazardous waste sites shall be accepted by the board for a period of 120 days after the date of first publication of notice.  Nominations may include a description of the site or sites suggested or may simply suggest a general area.  In addition, any nomination may provide data and reasons in support of inclusion of the site nominated.
 
 (c)  The board, in cooperation with other state agencies and private sources, shall then prepare an inventory of:
 
@@ -22,7 +22,7 @@
 
 (d) (i)  After the hazardous waste inventory and cost estimate are complete, the board, with the use of the guidelines developed in Section 19-6-204, shall provide for the geographical distribution of enough sites to fulfill the state's needs for hazardous waste disposal, treatment, and storage for the next 25 years.
 
-(ii)  The board shall not exclude any area of the state from consideration in the selection of potential sites but, to the maximum extent possible, shall give preference to sites located in areas already dedicated through zoning or other land use regulations to industrial use or to areas located near industrial uses. However, the board shall give consideration to excluding an area designated for disposal of uranium mill tailings or for disposal of nuclear wastes unless the proposed disposal site is approved by the affected county through its county executive and county legislative body.
+(ii)  The board may not exclude any area of the state from consideration in the selection of potential sites but, to the maximum extent possible, shall give preference to sites located in areas already dedicated through zoning or other land use regulations to industrial use or to areas located near industrial uses.  However, the board shall give consideration to excluding an area designated for disposal of uranium mill tailings or for disposal of nuclear wastes unless the proposed disposal site is approved by the affected county through its county executive and county legislative body.
 
 (e)  The board shall also analyze and identify areas of the state where, due to the concentration of industrial waste generation processes or to favorable geology or hydrology, the construction and operation of hazardous waste treatment, disposal, and storage facilities appears to be technically, environmentally, and economically feasible.
 
@@ -32,7 +32,7 @@
 
 (c)  The board shall also issue a statewide news release that informs persons where copies of the preliminary siting plan may be inspected or purchased at cost.
 
-(d)  After release of the preliminary siting plan, the board shall hold not less than two public hearings in different areas of the state affected by the proposed siting plan to allow local officials and other interested persons to express their views and submit information relevant to the plan. The hearings shall be conducted not less than 60 nor more than 90 days after release of the plan. Within 30 days after completion of the hearings, the board shall prepare and make available for public inspection a summary of public comments.
+(d)  After release of the preliminary siting plan, the board shall hold not less than two public hearings in different areas of the state affected by the proposed siting plan to allow local officials and other interested persons to express their views and submit information relevant to the plan.  The hearings shall be conducted not less than 60 nor more than 90 days after release of the plan.  Within 30 days after completion of the hearings, the board shall prepare and make available for public inspection a summary of public comments.
 
 (4) (a)  The board, between 30 and 60 days after publication of the public comments, shall prepare a final siting plan.
 
@@ -48,7 +48,7 @@
 
 (6)  If the final siting plan is adopted, the  board shall cause it to be published.
 
-(7)  After publication of the final siting plan, the board shall engage in a continuous monitoring and review process to ensure that the long-range needs of hazardous waste producers likely to dispose of hazardous wastes in this state are met at a reasonable cost. An annual review of the adequacy of the plan shall be conducted and published by the board.
+(7)  After publication of the final siting plan, the board shall engage in a continuous monitoring and review process to ensure that the long-range needs of hazardous waste producers likely to dispose of hazardous wastes in this state are met at a reasonable cost.  An annual review of the adequacy of the plan shall be conducted and published by the board.
 
 (8) (a)  If necessary, the board may amend the siting plan to provide additional sites or delete sites which are no longer suitable.
 

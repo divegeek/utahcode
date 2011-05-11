@@ -22,7 +22,9 @@
 
 (A)  is located in a county of the first or second class; and
 
-(B)  provides fire protection, paramedic, and emergency services; or
+(B) (I)  provides fire protection, paramedic, and emergency services; or
+
+(II)  subject to Subsection (3), provides law enforcement services; or
 
 (ii)  .0014, for each other service area; or
 
@@ -35,4 +37,10 @@
 (b)  levied to pay debt and interest owed to the United States; or
 
 (c)  levied to pay assessments or other amounts due to a water users association or other public cooperative or private entity from which the district procures water.
+
+(3)  A service area described in Subsection (1)(i)(i)(B)(II) may not collect a tax described in Subsection (1)(i)(i) if a municipality or a county having a right to appoint a member to the board of trustees of the service area under Subsection 17B-2a-905(2) assesses on or after November 30 in the year in which the tax is first collected and each subsequent year that the tax is collected:
+
+(a)  a generally assessed fee imposed under Section 17B-1-643 for law enforcement services; or
+
+(b)  any other generally assessed fee for law enforcement services.
 

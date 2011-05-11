@@ -10,11 +10,13 @@
 
 (3)  Except as provided under Subsection (6), the website shall include:
 
-(a)  all information currently provided in the Utah voter information pamphlet under Title 20A, Chapter 7, Voter Information Pamphlet, including a section prepared, analyzed, and submitted by the Judicial Council describing the judicial selection and retention process;
+(a)  all information currently provided in the Utah voter information pamphlet under Title 20A, Chapter 7, Part 7, Voter Information Pamphlet, including a section prepared, analyzed, and submitted by the Judicial Council describing the judicial selection and retention process;
 
-(b)  all information submitted by election officers under Subsection (4) on local office races, local office candidates, and local ballot propositions; and
+(b)  all information submitted by election officers under Subsection (4) on local office races, local office candidates, and local ballot propositions;
 
-(c)  other information determined appropriate by the lieutenant governor that is currently being provided by law, rule, or ordinance in relation to candidates and ballot questions.
+(c)  a list that contains the name of a political subdivision that operates an election day voting center under Section 20A-3-703 and the location of the election day voting center; and
+
+(d)  other information determined appropriate by the lieutenant governor that is currently being provided by law, rule, or ordinance in relation to candidates and ballot questions.
 
 (4) (a)  An election official shall submit the following information for each ballot label under the election official's direct responsibility under this title:
 

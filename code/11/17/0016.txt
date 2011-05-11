@@ -16,9 +16,13 @@
 
 (b)  the purpose of the issue;
 
-(c)  the name of the users, if known; and
+(c)  the name of the users, if known;
 
-(d)  the times and place where a copy of the resolution or other proceeding may be examined, which shall be at an office of the issuer, identified in the notice, during regular business hours of the issuer as described in the notice and for a period of at least 30 days after the publication of the notice.
+(d)  the maximum principal amount which may be issued;
+
+(e)  the maximum number of years over which the bonds may mature; and
+
+(f)  the times and place where a copy of the resolution or other proceeding may be examined, which shall be at an office of the issuer, identified in the notice, during regular business hours of the issuer as described in the notice and for a period of at least 30 days after the publication of the notice.
 
 (3)  For a period of 30 days after publication any person in interest may contest the legality of  the resolution, proceeding, any bonds which may be authorized under them, or any provisions made for the security and payment of the bonds.  After expiration of the 30-day period no person may contest the regularity, formality, or legality of the resolution, proceedings, bonds, or security provisions for any cause.
 

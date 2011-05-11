@@ -22,11 +22,19 @@ As used in this chapter:
 
 (b)  does not include a plan that:
 
-(i) (A)  has a maximum actuarial value less that 100% of the basic health care plan; or
+(i) (A)  has a maximum actuarial value less than 100% of a health benefit plan described in Subsection (5)(c); or
 
 (B)  has a maximum annual limit of $100,000 or less; and
 
 (ii)  meets other criteria established by the board.
+
+(c)  For purposes of Subsection (5)(b)(i)(A) the health benefit plan shall:
+
+(i)  be a federally qualified high deductible health plan;
+
+(ii)  have a deductible that has the lowest deductible that qualifies as a federally qualified high deductible health plan as adjusted by federal law; and
+
+(iii)  not exceed an annual out-of-pocket maximum equal to three times the amount of the deductible.
 
 (6)  "Health care facility" means any entity providing health care services which is licensed under Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act.
 
@@ -56,7 +64,7 @@ As used in this chapter:
 
 (ii)  a preferred provider prepayment;
 
-(iii)   group practice;
+(iii)  group practice;
 
 (iv)  individual practice plan; or
 
@@ -66,11 +74,11 @@ As used in this chapter:
 
 (d)  coverage under a group type contract which is not available to the general public and can be obtained only because of connection with a particular organization or group; and
 
-(e)  coverage by Medicare or other governmental benefit. 
+(e)  coverage by Medicare or other governmental benefit.
 
-(12)  "HIPAA" means the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936.
+(12)  "HIPAA" means the Health Insurance Portability and Accountability Act.
 
-(13)  "HIPAA eligible" means an individual who is eligible under the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191, 110 Stat. 1936.
+(13)  "HIPAA eligible" means an individual who is eligible under the provisions of the Health Insurance Portability and Accountability Act.
 
 (14)  "Insurer" means:
 
@@ -82,7 +90,7 @@ As used in this chapter:
 
 (15)  "Medicaid" means coverage under Title XIX of the Social Security Act, 42 U.S.C. Sec. 1396 et seq., as amended.
 
-(16)  "Medicare" means coverage under both Part A and B of Title XVIII of the Social Security Act, 42 U.S.C. 1395 et seq., as amended.
+(16)  "Medicare" means coverage under both Part A and B of Title XVIII of the Social Security Act, 42 U.S.C. Sec. 1395 et seq., as amended.
 
 (17)  "Plan of operation" means the plan developed by the board in accordance with Section 31A-29-105 and includes the articles, bylaws, and operating rules adopted by the board under Section 31A-29-106.
 
@@ -102,5 +110,5 @@ As used in this chapter:
 
 (ii)  for religious or educational purposes.
 
-(23)  "Third-party administrator" has the same meaning as provided in Section 31A-1-301.
+(23)  "Third party administrator" has the same meaning as provided in Section 31A-1-301.
 

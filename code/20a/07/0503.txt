@@ -1,68 +1,28 @@
-20A-7-503.   Form of initiative petitions and signature sheets.
+20A-7-606.   Submitting the referendum petition -- Certification of signatures by the county clerks -- Transfer to local clerk.
 
-(1) (a)  Each proposed initiative petition shall be printed in substantially the following form:
+(1) (a)  The sponsors shall deliver each signed and verified referendum packet to the county clerk of the county in which the packet was circulated:
 
-"INITIATIVE PETITION To the Honorable ____, County Clerk/City Recorder/Town Clerk:
+(i)  for county referenda, no later than 45 days after the passage of the local law;
 
-We, the undersigned citizens of Utah, respectfully demand that the following proposed law be submitted to: the legislative body for its approval or rejection at its next meeting; and the legal voters of the county/city/town, if the legislative body rejects the proposed law or takes no action on it.
+(ii)  for municipal referenda, no later than 45 days after the passage of the local law; or
 
-Each signer says:
+(iii)  for referenda held in relation to the adoption of an ordinance imposing a county option sales and use tax under Section 59-12-1102, no later than 100 days before the election that the referendum qualifies for under Subsection 20A-7-609(2)(c).
 
-I have personally signed this petition;
+(b)  A sponsor may not submit a referendum packet after the deadline established in this Subsection (1).
 
-I am registered to vote in Utah or intend to become registered to vote in Utah before the certification of the petition names by the county clerk; and
+(2) (a)  No later than 60 days after the local law passes, the county clerk shall:
 
-My residence and post office address are written correctly after my name."
+(i)  check the names of all persons completing the verification on the back of each referendum packet to determine whether those persons are Utah residents and are at least 18 years old; and
 
-(b)  The sponsors of an initiative shall attach a copy of the proposed law to each initiative petition.
+(ii)  submit the name of each of those persons who is not a Utah resident or who is not at least 18 years old to the attorney general and county attorney.
 
-(2)  Each signature sheet shall:
+(b)  The county clerk may not certify a signature under Subsection (3) on a referendum packet that is not verified in accordance with Section 20A-7-605.
 
-(a)  be printed on sheets of paper 8-1/2 inches long and 11 inches wide;
+(3)  No later than 75 days after the local law passes, the county clerk shall:
 
-(b)  be ruled with a horizontal line 3/4 inch from the top, with the space above that line blank for the purpose of binding;
+(a)  determine whether each signer is a registered voter according to the requirements of Section 20A-7-606.3;
 
-(c)  contain the title of the initiative printed below the horizontal line;
+(b)  certify on the referendum petition whether each name is that of a registered voter; and
 
-(d)  contain the initial fiscal impact estimate's summary statement issued by the budget officer according to Subsection 20A-7-502.5(2)(b) printed or typed in not less than 12-point, bold type, at the top of each signature sheet under the title of the initiative;
-
-(e)  contain the word "Warning" printed or typed at the top of each signature sheet under the initial fiscal impact estimate's summary statement;
-
-(f)  contain, to the right of the word "Warning," the following statement printed or typed in not less than eight-point, single leaded type:
-
-"It is a class A misdemeanor for anyone to sign any initiative petition with any other name than his own, or knowingly to sign his name more than once for the same measure, or to sign an initiative petition when he knows he is not a registered voter and knows that he does not intend to become registered to vote before the certification of the petition names by the county clerk.";
-
-(g)  contain horizontally ruled lines, 3/8 inch apart under the "Warning" statement required by this section;
-
-(h)  be vertically divided into columns as follows:
-
-(i)  the first column shall appear at the extreme left of the sheet, be 5/8 inch wide, be headed with "For Office Use Only", and be subdivided with a light vertical line down the middle with the left subdivision entitled "Registered" and the right subdivision left untitled;
-
-(ii)  the next column shall be 2-1/2 inches wide, headed "Registered Voter's Printed Name (must be legible to be counted)";
-
-(iii)  the next column shall be 2-1/2 inches wide, headed "Signature of Registered Voter"; 
-
-(iv)  the next column shall be one inch wide, headed "Birth Date or Age (Optional)";
-
-(v)  the final column shall be 4-3/8 inches wide, headed "Street Address, City, Zip Code"; and
-
-(vi)  at the bottom of the sheet, contain the following statement: "Birth date or age information is not required, but it may be used to verify your identity with voter registration records.  If you choose not to provide it, your signature may not be verified as a valid signature if you change your address before petition signatures are verified or if the information you provide does not match your voter registration records."; and
-
-(i)  contain the following statement, printed or typed upon the back of each sheet:
-
-"Verification
-
-State of Utah, County of ____
-
-I, _______________, of ____, hereby state that:
-
-I am a resident of Utah and am at least 18 years old;
-
-All the names that appear on this sheet were signed by persons who professed to be the persons whose names appear in it, and each of them signed his name on it in my presence;
-
-I believe that each has printed and signed his name and written his post office address and residence correctly, and that each signer is registered to vote in Utah or intends to become registered to vote before the certification of the petition names by the county clerk.
-
-_____________________________"
-
-(3)  The forms prescribed in this section are not mandatory, and, if substantially followed, the initiative petitions are sufficient, notwithstanding clerical and merely technical errors.
+(c)  deliver all of the verified referendum packets to the local clerk.
 

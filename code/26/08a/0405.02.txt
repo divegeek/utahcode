@@ -18,7 +18,7 @@
 
 (c) (i)  For purposes of this Subsection (1)(c):
 
-(A) "Fire district" means a local district under Title 17B, Limited Purpose Local Government Entities - Local Districts, that:
+(A)  "Fire district" means a local district under Title 17B, Limited Purpose Local Government Entities - Local Districts, that:
 
 (I)  is located in a county of the first or second class; and
 
@@ -52,5 +52,5 @@
 
 (iii)  exclude portions of the geographic service area within the political subdivision's boundaries if another political subdivision or licensed provider agrees to include the excluded area within their license.
 
-(c)  The proposed geographic service area for 911 ambulance or paramedic service must demonstrate that non-911 ambulance or paramedic service will be provided in the geographic service area, either by the current provider, the applicant, or some other method acceptable to the department.  The department may consider the effect of the proposed geographic service area on the costs to the non-911 provider and that provider's ability to provide only non-911 services in the proposed area.
+(c)  The proposed geographic service area for 911 ambulance or paramedic service shall demonstrate that non-911 ambulance or paramedic service will be provided in the geographic service area, either by the current provider, the applicant, or some other method acceptable to the department.  The department may consider the effect of the proposed geographic service area on the costs to the non-911 provider and that provider's ability to provide only non-911 services in the proposed area.
 

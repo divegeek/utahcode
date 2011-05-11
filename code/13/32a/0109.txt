@@ -24,7 +24,7 @@
 
 (c)  facilitates the ability of the pawn or secondhand business to track the article when the prosecution takes over the case.
 
-(3)  If an article is not seized by a law enforcement agency that has placed a hold on the property, the property may remain in the custody of the pawn or secondhand business until further disposition by the law enforcement agency, and as consistent with this chapter.
+(3)  If an article is not seized by a law enforcement agency that has placed a hold on the property, the property shall remain in the custody of the pawn or secondhand business until further disposition by the law enforcement agency, and as consistent with this chapter.
 
 (4)  The initial hold by a law enforcement agency is for a period of 90 days.  If the article is not seized by the law enforcement agency, the article shall remain in the custody of the pawn or secondhand business and is subject to the hold unless exigent circumstances require the purchased or pawned article to be seized by the law enforcement agency.
 
@@ -43,4 +43,20 @@
 (b)  return the article subject to the seizure to the pawn or secondhand business; or
 
 (c)  if the article is not returned to the pawn or secondhand business, advise the pawn or secondhand business either in writing or electronically of the specific alternative disposition of the article.
+
+(8)  If the law enforcement agency does not notify the pawn or secondhand business that a hold on an item has expired, the pawn or secondhand business shall send a letter by registered or certified United States mail to the law enforcement agency that ordered the hold and inform the agency that the holding period has expired.  The law enforcement agency shall respond within 30 days by:
+
+(a)  confirming that the holding period has expired and that the pawn or secondhand business may manage the item as if acquired in the ordinary course of business; or
+
+(b)  providing written notice to the pawn or secondhand business that a court order has continued the period of time for which the item shall be held.
+
+(9)  The written notice under Subsection (8)(b) is considered provided when:
+
+(a)  personally delivered to the pawn or secondhand business with a signed receipt of delivery;
+
+(b)  delivered to the pawn or secondhand business by registered or certified United States mail; or
+
+(c)  delivered by any other means with the mutual assent of the law enforcement agency and the pawn or secondhand business.
+
+(10)  If the law enforcement agency does not respond within 30 days under Subsection (8), the pawn or secondhand business may manage the item as if acquired in the ordinary course of business.
 

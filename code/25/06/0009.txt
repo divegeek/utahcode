@@ -8,7 +8,7 @@
 
 (b)  any subsequent transferee other than a good faith transferee who took for value or from any subsequent transferee.
 
-(3)  If the judgment under Subsection (2) is based upon the value of the asset transferred, the judgment must be for an amount equal to the value of the asset at the time of the transfer, subject to an adjustment as equities may require.
+(3)  If the judgment under Subsection (2) is based upon the value of the asset transferred, the judgment shall be for an amount equal to the value of the asset at the time of the transfer, subject to an adjustment as equities may require.
 
 (4)  Notwithstanding voidability of a transfer or an obligation under this chapter, a good-faith transferee or obligee is entitled, to the extent of the value given the debtor for the transfer or obligation, to:
 
@@ -22,7 +22,7 @@
 
 (a)  termination of a lease upon default by the debtor when the termination is pursuant to the lease and applicable law; or
 
-(b)  enforcement of a security interest in compliance with Title 70A, Chapter 9a, Uniform Commercial Code -- Secured Transactions.
+(b)  enforcement of a security interest in compliance with Title 70A, Chapter 9a, Uniform Commercial Code - Secured Transactions.
 
 (6)  A transfer is not voidable under Subsection 25-6-6(2):
 

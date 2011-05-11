@@ -2,11 +2,11 @@
 
 (1)  For purposes of this section, "alternative coverage" means:
 
-(a)  the high deductible or low deductible Utah NetCare Plan described in Subsection (2) for conversion policies offered under Section 31A-22-723; and
+(a)  a high deductible or low deductible Utah NetCare Plan described in Subsection (2) for a conversion health benefit plan policy offered under Section 31A-22-723; and
 
-(b)  the high deductible and low deductible Utah NetCare Plans described in Subsection (2) as an alternative to COBRA and mini-COBRA policies offered under Section 31A-22-722.
+(b)  a high deductible and low deductible Utah NetCare Plans described in Subsection (2) as an alternative to COBRA and mini-COBRA health benefit plan coverage offered under Section 31A-22-722.
 
-(2)  The Utah NetCare Plans shall include:
+(2)  A Utah NetCare Plan under this section is subject to Section 31A-2-212 and shall, except when prohibited by federal law, include:
 
 (a)  healthy lifestyle and wellness incentives;
 
@@ -18,7 +18,7 @@
 
 (e)  the following deductibles:
 
-(i)  for the low deductible plans:
+(i)  for a low deductible plan:
 
 (A)  $2,000 for an individual plan;
 
@@ -26,7 +26,7 @@
 
 (C)  $6,000 for a family plan;
 
-(ii)  for the high deductible plans:
+(ii)  for a high deductible plan:
 
 (A)  $4,000 for an individual plan;
 
@@ -36,7 +36,7 @@
 
 (f)  the following out-of-pocket maximum costs, including deductibles, copayments, and coinsurance:
 
-(i)  for the low deductible plans:
+(i)  for a low deductible plan:
 
 (A)  $5,000 for an individual plan;
 
@@ -44,7 +44,7 @@
 
 (C)  $15,000 for a family plan; and
 
-(ii)  for the high deductible plan:
+(ii)  for a high deductible plan:
 
 (A)  $10,000 for an individual plan;
 
@@ -52,7 +52,7 @@
 
 (C)  $30,000 for a family plan;
 
-(g)  the following benefits before applying any deductible requirements and in accordance with IRC Section 223:
+(g)  the following benefits before applying a deductible requirement and in accordance with Section 223, Internal Revenue Code, and 42 U.S.C. Sec. 300gg-13:
 
 (i)  all well child exams and immunizations up to age five, with no annual maximum;
 
@@ -70,57 +70,79 @@
 
 (iii)  $50 for urgent care and specialist care;
 
-(i)  a $200 copayment for emergency room visits after applying the deductible;
+(i)  a $200 copayment for an emergency room visit after applying the deductible;
 
-(j)  no more than a 30% coinsurance after deductible for covered plan benefits for hospital services, maternity, laboratory work, x-rays, radiology, outpatient surgery services, injectable medications not otherwise covered under a pharmacy benefit, durable medical equipment, ambulance services, in-patient mental health services, and out-patient mental health services; and
+(j)  no more than a 30% coinsurance after deductible for covered plan benefits for:
 
-(k)  the following cost-sharing features for prescription drugs:
+(i)  hospital services;
 
-(i)  up to a $15 copayment for generic drugs;
+(ii)  maternity;
 
-(ii)  up to a 50% coinsurance for name brand drugs; and
+(iii)  laboratory work;
 
-(iii)  may include formularies and preferred drug lists.
+(iv)  x-rays;
 
-(3)  The Utah NetCare Plans may exclude:
+(v)  radiology;
+
+(vi)  outpatient surgery services;
+
+(vii)  injectable medications not otherwise covered under a pharmacy benefit;
+
+(viii)  durable medical equipment;
+
+(ix)  ambulance services;
+
+(x)  in-patient mental health services; and
+
+(xi)  out-patient mental health services; and
+
+(k)  the following cost-sharing features for a prescription drug:
+
+(i)  up to a $15 copayment for a generic drug; and
+
+(ii)  up to a 50% coinsurance for a name brand drug.
+
+(3)  A Utah NetCare Plan may exclude:
 
 (a)  the benefit mandates described in Subsections 31A-22-618.5(2)(b) and (3)(b); and
 
 (b)  unless required by federal law, mandated coverage required by the following sections and related administrative rules:
 
-(i)  Section 31A-22-610.1, Adoption indemnity benefits;
+(i)  Section 31A-22-610.1, Adoption indemnity benefit;
 
-(ii)  Section 31A-22-623, Inborn metabolic errors;
+(ii)  Section 31A-22-623, Coverage of inborn metabolic errors;
 
-(iii)  Section 31A-22-624, Primary care physicians;
+(iii)  Section 31A-22-624, Primary care physician;
 
 (iv)  Section 31A-22-626, Coverage of diabetes;
 
 (v)  Section 31A-22-628, Standing referral to a specialist; and
 
-(vi)  coverage mandates enacted after January 1, 2009 that are not required by federal law.
+(vi)  a mandated coverage enacted after January 1, 2009, that is not required by federal law.
 
-(4) (a)  Beginning January 1, 2010, and except as provided in Subsection (5), a person may elect alternative coverage under this section if the person:
+(4)  A Utah NetCare Plan may include a formulary or preferred drug list.
 
-(i)  is eligible for continuation of employer group coverage under federal COBRA laws;
+(5) (a)  Except as provided in Subsection (6), a person may elect alternative coverage under this section if the person is eligible for:
 
-(ii)  is eligible for continuation of employer group coverage under state mini-COBRA under Section 31A-22-722; or
+(i)  continuation of employer group health benefit plan coverage under federal COBRA laws;
 
-(iii)  is eligible for a conversion to an individual plan after the exhaustion of benefits under:
+(ii)  continuation of employer group health benefit plan coverage under state mini-COBRA under Section 31A-22-722; or
+
+(iii)  a conversion to an individual health benefit plan after the exhaustion of benefits under:
 
 (A)  alternative coverage elected in place of federal COBRA; or
 
 (B)  state mini-COBRA under Section 31A-22-722.
 
-(b)  The right to extend coverage under Subsection (4)(a) applies to any spouse or dependent coverages, including a surviving spouse or dependent whose coverage under the policy terminates by reason of the death of the employee or member.
+(b)  The right to extend coverage under Subsection (5)(a) applies to spouse or dependent coverages, including a surviving spouse or dependent whose coverage under the policy terminates by reason of the death of the employee or member.
 
-(5)  If a person elects federal COBRA coverage, or state mini-COBRA coverage under Section 31A-22-722, the person is not eligible to elect alternative coverage under this section until the person is eligible to convert coverage to an individual policy under the provisions of Section 31A-22-723 and Subsection (1)(a).
+(6)  If a person elects federal COBRA or state mini-COBRA health benefit plan coverage under Section 31A-22-722, the person is not eligible to elect alternative coverage under this section until the person is eligible to convert coverage to an individual policy under Section 31A-22-723 and Subsection (1)(a).
 
-(6) (a)  If the alternative coverage is selected as an alternative to COBRA or mini-COBRA under Section 31A-22-722, the provisions of Section 31A-22-722 apply to the alternative coverage.
+(7) (a) (i)  If alternative coverage is selected as an alternative to COBRA or mini-COBRA health benefit plan coverage under Section 31A-22-722, Section 31A-22-722 applies to the alternative coverage.
 
-(b)  If the alternative coverage is selected as a conversion policy under Section 31A-22-723, the provisions of Section 31A-22-723 apply.
+(ii)  If an employee of a small employer selects alternative coverage as an alternative to COBRA or mini-COBRA health benefit plan coverage, the insurer may not use a risk factor greater than the employer's most current risk factor for purposes of Subsection 31A-22-722(5).
 
-(7) (a)  An insurer subject to Sections 31A-22-722 through 31A-22-724 shall, prior to September 1, 2009, file an alternative coverage policy with the department in accordance with Sections 31A-21-201 and 31A-21-201.1.
+(b)  If alternative coverage is selected as a conversion policy under Section 31A-22-723, Section 31A-22-723 applies.
 
-(b)  The department shall, by November 1, 2009, adopt administrative rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to develop a model letter for employers to use to notify an employee of the employee's options for alternative coverage.
+(8)  The commissioner shall adopt administrative rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to develop a model letter for employers to use to notify an employee of the employee's options for alternative coverage.
 

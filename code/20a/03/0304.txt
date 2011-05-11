@@ -2,11 +2,15 @@
 
 (1)  Any registered voter who wishes to vote an absentee ballot may either:
 
-(a)  file an absentee ballot application with the appropriate election officer for an official absentee ballot as provided in this section; or
+(a)  file an absentee ballot application:
+
+(i)  on the electronic system maintained by the lieutenant governor under Section 20A-2-206; or
+
+(ii)  with the appropriate election officer for an official absentee ballot as provided in this section; or
 
 (b)  vote in person at the office of the appropriate election officer as provided in Section 20A-3-306.
 
-(2) (a)  Except as provided in Subsection (2)(b), each election officer shall prepare blank applications for absentee ballot applications in substantially the following form:
+(2) (a)  Except as provided in Subsection (2)(b), the lieutenant governor or election officer shall prepare an application form for absentee ballot applications in substantially the following form:
 
 "I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utah apply for an official absentee ballot to be voted by me at the election.
 
@@ -14,7 +18,7 @@ Date ________ (month\day\year) Signed ___________________________
 
 Voter"
 
-(b)  Each election officer shall prepare blank applications for absentee ballot applications for regular primary elections and for the Western States Presidential Primary in substantially the following form:
+(b) The lieutenant governor or election officer shall prepare blank applications for absentee ballot applications for regular primary elections and for the Western States Presidential Primary in substantially the following form:
 
 "I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utah apply for an official absentee ballot for the _______________ political party to be voted by me at the primary election.
 
@@ -30,7 +34,7 @@ Voter"
 
 (ii)  deliver the application blank to any voter who personally applies for it at the office of the election officer.
 
-(3) (a)  Except as provided in Subsection (3)(b), a voter who wishes to vote by absentee ballot shall file the application for an absentee ballot with the appropriate election officer no later than the Friday before election day.
+(3) (a)  Except as provided in Subsection (3)(b), a voter who wishes to vote by absentee ballot shall file the application for an absentee ballot with the lieutenant governor or appropriate election officer no later than the Friday before election day.
 
 (b)  Overseas applicants shall file their applications with the appropriate election officer no later than 20 days before election day.
 

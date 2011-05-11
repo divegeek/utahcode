@@ -14,7 +14,7 @@
 
 (b)  "Publicly display" or "publicly post" means to intentionally communicate or otherwise make available to the general public.
 
-(2)  An insurer or its subcontractors, including a pharmacy benefit manager, shall not do any of the following:
+(2)  An insurer or its subcontractors, including a pharmacy benefit manager, may not do any of the following:
 
 (a)  publicly display or publicly post in any manner an individual's Social Security number; or
 
@@ -24,15 +24,15 @@
 
 (4)  If a federal law takes effect requiring the United States Department of Health and Human Services to establish a national unique patient health identifier program, an insurer that complies with the federal law shall be considered in compliance with this section.
 
-(5)  An insurer must comply with the provisions of this section by July 1, 2004.
+(5)  An insurer shall comply with the provisions of this section by July 1, 2004.
 
 (6) (a)  An insurer may obtain an extension for compliance with the requirements of this section in accordance with Subsections (6)(b) and (c).
 
 (b)  The request for extension:
 
-(i)  must be submitted in writing to the department prior to July 1, 2004; and
+(i)  shall be submitted in writing to the department prior to July 1, 2004; and
 
-(ii)  must provide an explanation as to why the insurer cannot comply with the requirements of this section by July 1, 2004.
+(ii)  shall provide an explanation as to why the insurer cannot comply with the requirements of this section by July 1, 2004.
 
 (c)  The commissioner shall grant a request for extension:
 

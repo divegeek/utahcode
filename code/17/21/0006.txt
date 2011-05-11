@@ -20,7 +20,7 @@
 
 (i)  keep a miscellaneous index, in which the recorder shall enter all instruments of a miscellaneous character not otherwise provided for in this section, showing the date of recording, the book, the page, the entry number, the kind of instrument, from, to, and the parties;
 
-(j) keep an index of judgments showing the judgment debtors, the judgment creditors, the amount of judgment, the date and time of recording, the satisfaction, and the book, the page, and the entry number; and
+(j)  keep an index of judgments showing the judgment debtors, the judgment creditors, the amount of judgment, the date and time of recording, the satisfaction, and the book, the page, and the entry number; and
 
 (k)  keep a general recording index in which the recorder shall index all executions and writs of attachment, and any other instruments not required by law to be spread upon the records, and in separate columns the recorder shall enter the names of the plaintiffs in the execution and the names of the defendants in the execution.
 
@@ -30,7 +30,7 @@
 
 (b)  A recorder shall abstract an instrument in the tract index unless:
 
-(i)  the instrument is required to contain a legal description under Section 17-21-20 and does not contain that legal description; or
+(i)  the instrument is required to contain a legal description under Section 17-21-20 or Section 57-3-105 and does not contain that legal description; or
 
 (ii)  the instrument contains errors, omissions, or defects to the extent that the tract or parcel to which the instrument relates cannot be determined.
 

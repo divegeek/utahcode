@@ -44,9 +44,33 @@
 
 (6)  A municipal ordinance adopted under Section 10-1-203 may not:
 
-(a)  require physical changes in a structure with a legal nonconforming rental housing use; or
+(a)  require physical changes in a structure with a legal nonconforming rental housing use unless the change is for:
+
+(i)  the reasonable installation of:
+
+(A)  a smoke detector that is plugged in or battery operated;
+
+(B)  a ground fault circuit interrupter protected outlet on existing wiring;
+
+(C)  street addressing;
+
+(D)  except as provided in Subsection (7), an egress bedroom window if the existing bedroom window is smaller than that required by current state building code;
+
+(E)  an electrical system or a plumbing system, if the existing system is not functioning or is unsafe as determined by an independent electrical or plumbing professional who is licensed in accordance with Title 58, Occupations and Professions;
+
+(F)  hand or guard rails; or
+
+(G)  occupancy separation doors as required by the International Residential Code; or
+
+(ii)  the abatement of a structure; or
 
 (b)  be enforced to terminate a legal nonconforming rental housing use.
 
-(7)  A legal nonconforming rental housing use may not be terminated under Section 10-1-203.
+(7)  A municipality may not require a change described in Subsection (6)(a)(i)(D) if the change:
+
+(a)  would compromise the structural integrity of a building; or
+
+(b)  could not be completed in accordance with current building codes, including set-back and window well requirements.
+
+(8)  A legal nonconforming rental housing use may not be terminated under Section 10-1-203.
 

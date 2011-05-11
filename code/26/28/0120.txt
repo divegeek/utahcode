@@ -4,7 +4,7 @@
 
 (2)  The Driver License Division of the Department of Public Safety shall cooperate with a person that administers any donor registry that this state establishes, contracts for, or recognizes for the purpose of transferring to the donor registry all relevant information regarding a donor's making, amendment to, or revocation of an anatomical gift.
 
-(3)  A donor registry must:
+(3)  A donor registry shall:
 
 (a)  allow a donor or other person authorized under Section 26-28-104 to include on the donor registry a statement or symbol that the donor has made, amended, or revoked an anatomical gift;
 
@@ -14,5 +14,5 @@
 
 (4)  Personally identifiable information on a donor registry about a donor or prospective donor may not be used or disclosed without the express consent of the donor, prospective donor, or person that made the anatomical gift for any purpose other than to determine, at or near death of the donor or prospective donor, whether the donor or prospective donor has made, amended, or revoked an anatomical gift.
 
-(5)  This section does not prohibit any person from creating or maintaining a donor registry that is not established by or under contract with the state.  Any such registry must comply with Subsections (3) and (4).
+(5)  This section does not prohibit any person from creating or maintaining a donor registry that is not established by or under contract with the state.  Any such registry shall comply with Subsections (3) and (4).
 

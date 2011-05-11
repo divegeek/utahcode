@@ -14,11 +14,11 @@
 
 (C)  a motor vehicle owned or leased by:
 
-(I) a named insured;
+(I)  a named insured;
 
-(II) a named insured's spouse; or
+(II)  a named insured's spouse; or
 
-(III) a dependent of a named insured.
+(III)  a dependent of a named insured.
 
 (2) (a) (i)  Underinsured motorist coverage under Subsection 31A-22-302(1)(c) provides coverage for a covered person who is legally entitled to recover damages from an owner or operator of an underinsured motor vehicle because of bodily injury, sickness, disease, or death.
 
@@ -52,7 +52,7 @@
 
 (ii)  at least $20,000 for two or more persons in any one accident.
 
-(e) An acknowledgment under Subsection (2)(b) continues for that issuer of the underinsured motorist coverage until the insured, in writing, requests different underinsured motorist coverage from the insurer.
+(e)  An acknowledgment under Subsection (2)(b) continues for that issuer of the underinsured motorist coverage until the insured, in writing, requests different underinsured motorist coverage from the insurer.
 
 (f) (i)  The named insured's underinsured motorist coverage, as described in Subsection (2)(a), is secondary to the liability coverage of an owner or operator of an underinsured motor vehicle, as described in Subsection (1).
 
@@ -60,9 +60,9 @@
 
 (g) (i)  A named insured may reject underinsured motorist coverage by an express writing to the insurer that provides liability coverage under Subsection 31A-22-302(1)(a).
 
-(ii) A written rejection under this Subsection (2)(g) shall be on a form provided by the insurer that includes a reasonable explanation of the purpose of underinsured motorist coverage and when it would be applicable.
+(ii)  A written rejection under this Subsection (2)(g) shall be on a form provided by the insurer that includes a reasonable explanation of the purpose of underinsured motorist coverage and when it would be applicable.
 
-(iii) A written rejection under this Subsection (2)(g) continues for that issuer of the liability coverage until the insured in writing requests underinsured motorist coverage from that liability insurer.
+(iii)  A written rejection under this Subsection (2)(g) continues for that issuer of the liability coverage until the insured in writing requests underinsured motorist coverage from that liability insurer.
 
 (3) (a) (i)  Except as provided in this Subsection (3), a covered person injured in a motor vehicle described in a policy that includes underinsured motorist benefits may not elect to collect underinsured motorist coverage benefits from another motor vehicle insurance policy.
 
@@ -168,13 +168,13 @@
 
 (g)  Except as otherwise provided in this section or unless otherwise agreed to in writing by the parties, an arbitration proceeding conducted under this section is governed by Title 78B, Chapter 11, Utah Uniform Arbitration Act.
 
-(h) An arbitration shall be conducted in accordance with Rules 26 through 37, 54, and 68 of the Utah Rules of Civil Procedure.
+(h)  An arbitration shall be conducted in accordance with Rules 26 through 37, 54, and 68 of the Utah Rules of Civil Procedure.
 
-(i) An issue of discovery shall be resolved by the arbitrator or the arbitration panel.
+(i)  An issue of discovery shall be resolved by the arbitrator or the arbitration panel.
 
 (j)  A written decision by a single arbitrator or by a majority of the arbitration panel constitutes a final decision.
 
-(k) (i)  The amount of an arbitration award may not exceed the underinsured motorist policy limits of all applicable underinsured motorist policies, including applicable underinsured motorist umbrella policies.
+(k) (i)  Except as provided in Subsection (8), the amount of an arbitration award may not exceed the underinsured motorist policy limits of all applicable underinsured motorist policies, including applicable underinsured motorist umbrella policies.
 
 (ii)  If the initial arbitration award exceeds the underinsured motorist policy limits of all applicable underinsured motorist policies, the arbitration award shall be reduced to an amount equal to the combined underinsured motorist policy limits of all applicable underinsured motorist policies.
 
@@ -184,7 +184,7 @@
 
 (ii)  whether the policy extends coverage to the loss; or
 
-(iii) an allegation or claim asserting consequential damages or bad faith liability.
+(iii)  an allegation or claim asserting consequential damages or bad faith liability.
 
 (m)  The arbitrator or arbitration panel may not conduct arbitration on a class-wide or class-representative basis.
 
@@ -192,7 +192,7 @@
 
 (o)  An arbitration award issued under this section shall be the final resolution of all claims not excluded by Subsection (7)(l) between the parties unless:
 
-(i)  the award is procured by corruption, fraud, or other undue means; or
+(i)  the award is procured by corruption, fraud, or other undue means;
 
 (ii)  either party, within 20 days after service of the arbitration award:
 
@@ -214,7 +214,7 @@
 
 (B)  the costs of expert witnesses and depositions.
 
-(iv)  An award of costs under this Subsection (7)(q) may not exceed $2,500.
+(iv)  An award of costs under this Subsection (7)(q) may not exceed $2,500 unless Subsection (8)(h)(iii) applies.
 
 (r)  For purposes of determining whether a party's verdict is greater or less than the arbitration award under Subsection (7)(q), a court may not consider any recovery or other relief granted on a claim for damages if the claim for damages:
 

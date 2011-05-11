@@ -2,7 +2,7 @@
 
 (1)  In cases where an owner is criminally prosecuted for conduct giving rise to forfeiture, the prosecuting attorney may elect to forfeit the owner's interest in the property civilly or criminally, provided that no civil forfeiture judgment may be entered with respect to the property of a defendant who is acquitted of the offense on which the forfeiture claim is based.
 
-(2)  If the prosecuting attorney elects to criminally forfeit the owner's interest in the property, the information or indictment must state that the owner's interest in the specifically described property is subject to criminal forfeiture and the basis for the forfeiture.
+(2)  If the prosecuting attorney elects to criminally forfeit the owner's interest in the property, the information or indictment shall state that the owner's interest in the specifically described property is subject to criminal forfeiture and the basis for the forfeiture.
 
 (3) (a)  Upon application of the prosecuting attorney, the court may enter restraining orders or injunctions, or take other reasonable action to preserve for forfeiture under this section any forfeitable property if, after notice to persons known, or discoverable after due diligence, to have an interest in the property and after affording them an opportunity for a hearing, the court determines that:
 
@@ -30,13 +30,13 @@
 
 (6) (a)  After property is ordered forfeited under this section, the seizing agency shall direct the disposition of the property under Section 24-1-17.  Any property right or interest not exercisable by or transferable for value to the state expires and does not revert to the defendant.  The defendant or any person acting in concert with or on behalf of the defendant is not eligible to purchase forfeited property at any sale held by the seizing agency unless approved by the judge.
 
-(b)  The court may stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture if the defendant demonstrates that proceeding with the sale or disposition of the property may result in irreparable injury, harm or loss to him.
+(b)  The court may stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture if the defendant demonstrates that proceeding with the sale or disposition of the property may result in irreparable injury, harm or loss to the defendant.
 
 (7)  Except under Subsection (3) or (10), a party claiming an interest in property subject to criminal forfeiture under this section:
 
 (a)  may not intervene in a trial or appeal of a criminal case involving the forfeiture of property under this section; and
 
-(b)  may not commence an action at law or equity against the state or the county concerning the validity of his alleged interests in the property subsequent to the filing of an indictment or an information alleging that the property is subject to forfeiture under this section.
+(b)  may not commence an action at law or equity against the state or the county concerning the validity of the party's alleged interests in the property subsequent to the filing of an indictment or an information alleging that the property is subject to forfeiture under this section.
 
 (8)  The district court of the state which has jurisdiction of a case under this part may enter orders under this section without regard to the location of any property which may be subject to forfeiture under this section, or which has been ordered forfeited under this section.
 
@@ -44,13 +44,13 @@
 
 (10) (a)  Following the entry of an order of forfeiture under this section, the prosecuting attorney shall publish notice of the order's intent to dispose of the property as the court may direct.  The prosecuting attorney shall also provide direct written notice to any person known to have an alleged interest in the property subject to the order of forfeiture.
 
-(b)  Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the state under this section may, within 30 days of the final publication of notice or his receipt of written notice under Subsection (10)(a), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property.  Any genuine issue of material fact, including issues of standing, is triable to a jury upon demand of any party.
+(b)  Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the state under this section may, within 30 days of the final publication of notice or the person's receipt of written notice under Subsection (10)(a), whichever is earlier, petition the court for a hearing to adjudicate the validity of the person's alleged interest in the property.  Any genuine issue of material fact, including issues of standing, is triable to a jury upon demand of any party.
 
 (c)  The petition shall be in writing and signed by the petitioner under penalty of perjury.  It shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, and any additional facts supporting the petitioner's claim and the relief sought.
 
 (d)  The trial or hearing on the petition shall be expedited to the extent practicable.  The court may consolidate a trial or hearing on the petition and any petition filed by any other person under this section other than the defendant.  The court shall permit the parties to conduct pretrial discovery pursuant to the Utah Rules of Civil Procedure.
 
-(e)  At the trial or hearing, the petitioner may testify and present evidence and witnesses on his own behalf and cross-examine witnesses who appear at the hearing.  The prosecuting attorney may present evidence and witnesses in rebuttal and in defense of the claim to the property and cross-examine witnesses who appear.  In addition to testimony and evidence presented at the trial or hearing, the court may consider the relevant portion of the record of the criminal case which resulted in the order of forfeiture.  Any trial or hearing shall be conducted pursuant to the Utah Rules of Evidence.
+(e)  At the trial or hearing, the petitioner may testify and present evidence and witnesses on the petitioner's own behalf and cross-examine witnesses who appear at the hearing.  The prosecuting attorney may present evidence and witnesses in rebuttal and in defense of the claim to the property and cross-examine witnesses who appear.  In addition to testimony and evidence presented at the trial or hearing, the court may consider the relevant portion of the record of the criminal case which resulted in the order of forfeiture.  Any trial or hearing shall be conducted pursuant to the Utah Rules of Evidence.
 
 (f)  The court shall amend the order of forfeiture in accordance with its determination, if after the trial or hearing, the court or jury determines that the petitioner has established by a preponderance of the evidence that:
 

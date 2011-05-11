@@ -42,7 +42,7 @@
 
 (a)  of July 1, 1992, through June 30, 1993, shall be based on the most recent emissions inventory prepared by the executive secretary; and
 
-(b)  on and after July 1, 1993, but prior to issuance of an operating permit, shall be based on the most recent emissions inventory, unless a source elects prior to July 1, 1992, to base the fee on allowable emissions, if applicable for a regulated pollutant.
+(b)  on and after July 1, 1993, but before issuance of an operating permit, shall be based on the most recent emissions inventory, unless a source elects prior to July 1, 1992, to base the fee on allowable emissions, if applicable for a regulated pollutant.
 
 (6)  After an operating permit is issued the emissions fee shall be based on actual emissions for a regulated pollutant unless a source elects, prior to the issuance or renewal of a permit, to base the fee during the period of the permit on allowable emissions for that regulated pollutant.
 
@@ -54,7 +54,7 @@
 
 (8)  The owner or operator of a source subject to this section may contest an emissions fee assessment or associated penalty in an adjudicative hearing under the Title 63G, Chapter 4, Administrative Procedures Act, and Section 19-1-301, as provided in this Subsection (8).
 
-(a)  The owner or operator must pay the fee under protest prior to being entitled to a hearing.  Payment of an emissions fee or penalty under protest is not a waiver of the right to contest the fee or penalty under this section.
+(a)  The owner or operator shall pay the fee under protest prior to being entitled to a hearing.  Payment of an emissions fee or penalty under protest is not a waiver of the right to contest the fee or penalty under this section.
 
 (b)  A request for a hearing under this Subsection (8) shall be made after payment of the emissions fee and within six months after the emissions fee was due.
 

@@ -1,12 +1,22 @@
 31A-23a-412.   Place of business and residence address -- Records.
 
-(1) (a)  All licensees under this chapter shall register with the commissioner the address and telephone numbers of their principal place of business.
+(1) (a)  A licensee under this chapter shall register and maintain with the commissioner:
 
-(b)  If the licensee is an individual, in addition to complying with Subsection (1)(a) the individual shall provide to the commissioner the individual's residence address and telephone number.
+(i)  the address and telephone numbers of the licensee's principal place of business; and
 
-(c)  A licensee shall notify the commissioner within 30 days of any change of address or telephone number.
+(ii)  a valid business email address at which the commissioner may contact the licensee.
 
-(2) (a)  Except as provided under Subsection (3), every licensee under this chapter shall keep at the principal place of business address registered under Subsection (1), separate and distinct books and records of all transactions consummated under the Utah license.
+(b)  If a licensee is an individual, in addition to complying with Subsection (1)(a) the individual shall register and maintain with the commissioner the individual's residence address and telephone number.
+
+(c)  A licensee shall notify the commissioner within 30 days of a change of any of the following required to be registered with the commissioner under this section:
+
+(i)  an address;
+
+(ii)  a telephone number; or
+
+(iii)  a business email address.
+
+(2) (a)  Except as provided under Subsection (3), a licensee under this chapter shall keep at the principal place of business address registered under Subsection (1), separate and distinct books and records of the transactions consummated under the Utah license.
 
 (b)  The books and records described in Subsection (2)(a) shall:
 
@@ -22,7 +32,7 @@
 
 (II)  the names of any other producers, limited line producers, consultants, managing general agents, or reinsurance intermediaries from whom business is accepted, and of persons to whom commissions or allowances of any kind are promised or paid; and
 
-(III)  a record of all consumer complaints forwarded to the licensee by an insurance regulator;
+(III)  a record of the consumer complaints forwarded to the licensee by an insurance regulator;
 
 (B)  if the licensee is a consultant, a record of each agreement outlining the work performed and the fee for the work; and
 

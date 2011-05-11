@@ -10,9 +10,11 @@
 
 (2) (a) (i)  A person who applies under Subsection (1) shall be:
 
-(A)  the owner of a trade or business that uses property in the state requiring a pollution control facility to prevent or minimize pollution; or
+(A)  the owner of a trade or business that uses property in the state requiring a pollution control facility to prevent or minimize pollution;
 
-(B)  a person who, as a lessee or pursuant to an agreement, conducts the trade or business that operates or uses the property.
+(B)  a person that, as a lessee or pursuant to an agreement, conducts the trade or business that operates or uses the property; or
+
+(C)  a person that operates a pollution control facility pursuant to an agreement with an owner described in Subsection (2)(a)(i)(A) or a person described in Subsection (2)(a)(i)(B).
 
 (ii)  For purposes of this Subsection (2), "owner" includes a contract purchaser.
 

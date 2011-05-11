@@ -2,7 +2,7 @@
 
 (1)  The process to create a local district may be initiated by:
 
-(a)  subject to Section 17B-1-204, a petition signed by the owners of private real property that:
+(a)  unless the proposed local district is a local district to acquire or assess a groundwater right under Section 17B-1-202, and subject to Section 17B-1-204, a petition signed by the owners of private real property that:
 
 (i)  is located within the proposed local district;
 
@@ -18,15 +18,23 @@
 
 (ii)  complies with the requirements of Subsection 17B-1-205(1) and Section 17B-1-208;
 
-(c)  a resolution proposing the creation of a local district, adopted by the legislative body of each county whose unincorporated area includes and each municipality whose boundaries include any of the proposed local district; or
+(c)  if the proposed local district is a local district to acquire or assess a groundwater right under Section 17B-1-202, and subject to Section 17B-1-204, a petition signed by the owners of groundwater rights that:
 
-(d)  a resolution proposing the creation of a local district, adopted by the board of trustees of an existing local district whose boundaries completely encompass the proposed local district, if:
+(i)  are diverted within the proposed local district;
+
+(ii)  cover at least 33% of the total amount of groundwater diverted in accordance with groundwater rights within the proposed local district as a whole and within each applicable area; and
+
+(iii)  comply with the requirements of Subsection 17B-1-205(1) and Section 17B-1-208;
+
+(d)  a resolution proposing the creation of a local district, adopted by the legislative body of each county whose unincorporated area includes and each municipality whose boundaries include any of the proposed local district; or
+
+(e)  a resolution proposing the creation of a local district, adopted by the board of trustees of an existing local district whose boundaries completely encompass the proposed local district, if:
 
 (i)  the proposed local district is being created to provide one or more components of the same service that the initiating local district is authorized to provide; and
 
 (ii)  the initiating local district is not providing to the area of the proposed local district any of the components that the proposed local district is being created to provide.
 
-(2) (a)  Each resolution under Subsection (1)(c) or (d) shall:
+(2) (a)  Each resolution under Subsection (1)(d) or (e) shall:
 
 (i)  describe the area proposed to be included in the proposed local district;
 
@@ -60,7 +68,5 @@
 
 (C)  elected as provided in Section 17B-1-306.
 
-(b)  Each county or municipal legislative body adopting a resolution under Subsection (1)(c) shall, on or before the first public hearing under Section 17B-1-210, mail or deliver a copy of the resolution to the responsible body if the county or municipal legislative body's resolution is one of multiple resolutions adopted by multiple county or municipal legislative bodies proposing the creation of the same local district.
-
-(3)  Each petition under Subsection (1)(a) or (b) to create a local district to acquire a groundwater right under Subsection 17B-1-103(2)(a) or (b) shall explain the anticipated method of paying for the groundwater right acquisition.
+(b)  Each county or municipal legislative body adopting a resolution under Subsection (1)(d) shall, on or before the first public hearing under Section 17B-1-210, mail or deliver a copy of the resolution to the responsible body if the county or municipal legislative body's resolution is one of multiple resolutions adopted by multiple county or municipal legislative bodies proposing the creation of the same local district.
 

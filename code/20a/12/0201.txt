@@ -1,4 +1,4 @@
-20A-12-201.   Judicial appointees -- Retention elections.
+20A-12-201 (Superseded 01/01/12).   Judicial appointees -- Retention elections.
 
 (1) (a)  Each judicial appointee to a court is subject to an unopposed retention election at the first general election held more than three years after the judge or justice was appointed.
 
@@ -14,11 +14,15 @@
 
 (ii)  pay a filing fee of $50.
 
-(b)  Each justice court judge who wishes to retain office shall, in the year the justice court judge is subject to a retention election:
+(b) (i)  Each justice court judge who wishes to retain office shall, in the year the justice court judge is subject to a retention election:
 
-(i)  file a declaration of candidacy as if a candidate for county office in accordance with Section 20A-9-202; and
+(A)  file a declaration of candidacy as if a candidate for county office in accordance with Section 20A-9-202; and
 
-(ii)  pay a filing fee of $25.
+(B)  pay a filing fee of $25 for each judicial office.
+
+(ii)  If a justice court judge is appointed or elected to more than one judicial office, the declaration of candidacy shall identify all of the courts included in the same general election.
+
+(iii)  If a justice court judge is appointed or elected to more than one judicial office, filing a declaration of candidacy in one county in which one of those courts is located is valid for the courts in any other county.
 
 (3) (a)  The lieutenant governor shall, no later than September 8 of each regular general election year:
 
@@ -28,7 +32,7 @@
 
 (b)  Each county clerk shall place the names of justices and judges standing for retention election in the nonpartisan section of the ballot.
 
-(4)  At the general election, the ballots shall contain, as to each justice or judge of any court to be voted on in the county, the following question:
+(4) (a)  At the general election, the ballots shall contain, as to each justice or judge of any court to be voted on in the county, the following question:
 
 "Shall ______________________________(name of justice or judge) be retained in the office of ___________________________?" (name of office, such as "Justice of the Supreme Court of Utah"; "Judge of the Court of Appeals of Utah"; "Judge of the District Court of the Third Judicial District;" "Judge of the Juvenile Court of the Fourth Juvenile Court District"; " Justice Court Judge of (name of county) County or (name of municipality)")
 
@@ -36,9 +40,13 @@ Yes ()
 
 No ()."
 
+(b)  If a justice court exists by means of an interlocal agreement under Section 78A-7-102, the ballot question for the judge shall include the name of that court.
+
 (5) (a)  If the justice or judge receives more yes votes than no votes, the justice or judge is retained for the term of office provided by law.
 
 (b)  If the justice or judge does not receive more yes votes than no votes, the justice or judge is not retained, and a vacancy exists in the office on the first Monday in January after the regular general election.
 
 (6)  A justice or judge not retained is ineligible for appointment to the office for which the justice or judge was defeated until after the expiration of that term of office.
+
+(7)  If a justice court judge is standing for retention for more than one office, the county clerk shall place the judge's name on the ballot separately for each office.  If the justice court judge receives more no votes than yes votes in one office, but more yes votes than no votes in the other, the justice court judge shall be retained only in the office for which the judge received more yes votes than no votes.
 

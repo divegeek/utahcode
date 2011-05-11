@@ -8,13 +8,13 @@
 
 (iii)  ballot stubs are numbered consecutively;
 
-(b)  immediately below the perforated ballot stub, the following endorsements are printed in 18-point bold type:
+(b)  immediately below the perforated ballot stub, the following endorsements are printed in 18 point bold type:
 
 (i)  "Official Primary Ballot for ____ (City or Town), Utah";
 
 (ii)  the date of the election; and
 
-(iii)  a facsimile of the signature of the election officer and the election officer's title in eight-point type;
+(iii)  a facsimile of the signature of the election officer and the election officer's title in eight point type;
 
 (c)  immediately below the election officer's title, two one-point parallel horizontal rules separate endorsements from the rest of the ballot;
 
@@ -22,9 +22,9 @@
 
 (e)  after the rules, the designation of the office for which the candidates seek nomination is printed flush with the left-hand margin and the words: "Vote for one" or "Vote for two or more" are printed to extend to the extreme right of the column in 10 point bold type, followed by a hair-line rule;
 
-(f)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules 3/8 inch apart, alphabetically according to surnames with surnames last and grouped according to the office that they seek;
+(f)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules three-eighths inch apart, in the order specified under Section 20A-6-305 with surnames last and grouped according to the office that they seek;
 
-(g)  a square with sides not less than 1/4 inch long is printed immediately adjacent to the names of the candidates; and
+(g)  a square with sides not less than one-fourth inch long is printed immediately adjacent to the names of the candidates; and
 
 (h)  the candidate groups are separated from each other by one light and one heavy line or rule.
 

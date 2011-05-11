@@ -2,7 +2,7 @@
 
 (1)  Subject to Subsections (2), (3), and (4), each paper, notice, and instrument required by law to be recorded in the office of the county recorder shall be recorded unless otherwise provided.
 
-(2)  Each document executed on or after July 1, 2007 that is submitted for recording to a county recorder's office shall:
+(2)  Each document executed on or after July 1, 2007, that is submitted for recording to a county recorder's office shall:
 
 (a)  unless otherwise provided by law, be an original or certified copy of the document;
 
@@ -10,11 +10,11 @@
 
 (c)  contain a brief title, heading, or caption on the first page stating the nature of the document;
 
-(d)  contain the legal description of the property that is the subject of the document;
+(d)  except as otherwise provided by statute, contain the legal description of the property that is the subject of the document;
 
 (e)  comply with the requirements of Section 17-21-25 and Subsections 57-3-105(1) and (2);
 
-(f)  be notarized with the notary stamp with the seal legible; and
+(f)  except as otherwise provided by statute, be notarized with the notary stamp with the seal legible; and
 
 (g)  have original signatures.
 
@@ -82,7 +82,7 @@
 
 (ii)  the person also submits for recording:
 
-(A)  the original notice of an impending boundary action, as defined in Section 67-1a-6.5, for the boundary action for which the plat is submitted for recording; and
+(A)  the original notice of an impending boundary action, as defined in Section 67-1a-6.5, for the boundary action for which the plat is submitted for recording;
 
 (B)  the original applicable certificate, as defined in Section 67-1a-6.5, issued by the lieutenant governor under Section 67-1a-6.5 for the boundary action for which the plat is submitted for recording; and
 

@@ -42,9 +42,11 @@
 
 (vi)  crop insurance;
 
-(vii)  self-service storage insurance; and
+(vii)  self-service storage insurance;
 
-(viii)  bail bond producer.
+(viii)  bail bond producer; and
+
+(ix)  guaranteed asset protection waiver.
 
 (c)  A customer service representative license type includes the following lines of authority, if held by the customer service representative's employer producer:
 
@@ -102,7 +104,7 @@
 
 (vi)  personal lines insurance.
 
-(g)  A holder of licenses under Subsections (2)(a), (d), (e), and (f) has all qualifications necessary to act as a holder of a license under Subsections (2)(b) and (c).
+(g)  A person who holds a license under Subsection (2)(a), (d), (e), or (f) has the qualifications necessary to act as a holder of a license under Subsections (2)(b) and (c), except that the person may not act under Subsection (2)(b)(viii) or (ix).
 
 (3) (a)  The commissioner may by rule recognize other producer, limited line producer, customer service representative, consultant, managing general agent, or reinsurance intermediary lines of authority as to kinds of insurance not listed under Subsections (2)(a) through (f).
 
@@ -110,7 +112,7 @@
 
 (4)  The variable contracts, including variable life and annuity line of authority requires:
 
-(a)  licensure as a registered agent or broker by the National Association of Securities Dealers; and
+(a)  licensure as a registered agent or broker by the Financial Industry Regulatory Authority; and
 
 (b)  current registration with a securities broker-dealer.
 

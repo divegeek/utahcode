@@ -1,8 +1,8 @@
-26-8a-103.   State Emergency Medical Services Committee -- Membership -- Report  -- Expenses.
+26-8a-103.   State Emergency Medical Services Committee -- Membership -- Expenses.
 
-(1)  The State Emergency Medical Services Committee created by Section 26-1-7 shall be composed of the following 16 members appointed by the governor, at least five of whom must reside in a county of the third, fourth, fifth, or sixth class:
+(1)  The State Emergency Medical Services Committee created by Section 26-1-7 shall be composed of the following 16 members appointed by the governor, at least five of whom shall reside in a county of the third, fourth, fifth, or sixth class:
 
-(a)  five physicians licensed under Title 58, Chapter 67, Utah Medical Practice Act, or Chapter 68, Utah Osteopathic Medical Practice Act, as follows:
+(a)  five physicians licensed under Title 58, Chapter 67, Utah Medical Practice Act, or Title 58, Chapter 68, Utah Osteopathic Medical Practice Act, as follows:
 
 (i)  one surgeon who actively provides trauma care at a hospital;
 
@@ -44,21 +44,7 @@
 
 (c)  Nine members of the committee constitute a quorum for the transaction of business and the action of a majority of the members present is the action of the committee.
 
-(4)  The committee shall submit a report in a form acceptable to the committee each November at the Law Enforcement and Criminal Justice Interim Committee meeting concerning its:
-
-(a)  funding priorities and recommended sources;
-
-(b)  closest responder recommendations;
-
-(c)  centralized dispatch;
-
-(d)  duplication of services and any taxing consequences;
-
-(e)  appropriate providers for emergency medical services; and
-
-(f)  recommendations and suggested legislation.
-
-(5)  A member may not receive compensation or benefits for the member's service, but may receive per diem and travel expenses in accordance with:
+(4)  A member may not receive compensation or benefits for the member's service, but may receive per diem and travel expenses in accordance with:
 
 (a)  Section 63A-3-106;
 
@@ -66,5 +52,5 @@
 
 (c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and 63A-3-107.
 
-(6)  Administrative services for the committee shall be provided by the department.
+(5)  Administrative services for the committee shall be provided by the department.
 

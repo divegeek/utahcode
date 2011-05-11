@@ -1,22 +1,84 @@
 16-10a-704.   Action without meeting.
 
-(1)  Unless otherwise provided in the articles of incorporation and Subsection (5), and subject to the limitations of Subsection 16-10a-1704(4), any action which may be taken at any annual or special meeting of shareholders may be taken without a meeting and without prior notice, if one or more consents in writing, setting forth the action so taken, shall be signed by the holders of outstanding shares having not less than the minimum number of votes that would be necessary to authorize or take the action at a meeting at which all shares entitled to vote thereon were present and voted.
+(1) (a)  Unless otherwise provided in the articles of incorporation, and subject to the limitations of Subsection 16-10a-1704(4), any action that may be taken at an annual or special meeting of shareholders may be taken without a meeting and without prior notice, if one or more consents in writing, setting forth the action so taken are signed by the holders of outstanding shares having not less than the minimum number of votes that would be necessary to authorize or take the action at a meeting at which all shares entitled to vote on the action were present and voted.
 
-(2) (a)  Unless the written consents of all shareholders entitled to vote have been obtained, notice of any shareholder approval without a meeting shall be given at least 10 days before the consummation of the transaction, action, or event authorized by the shareholder action to:
+(b)  A shareholder shall deliver written consent under this section to the corporation by delivering the written consent to:
+
+(i)  the corporation's principal place of business; or
+
+(ii)  an officer or agent of the corporation having custody of the book in which a proceeding of a meeting of shareholders is recorded.
+
+(c)  A written consent under this section shall bear the date of signature of each shareholder who signs the consent.
+
+(d) (i)  Notwithstanding Subsection (1)(c), and unless otherwise provided by the bylaws, a shareholder may deliver a written consent under this section by an electronic transmission that provides the corporation with a complete copy of the written consent.
+
+(ii)  An electronic transmission consenting to an action under this section is considered to be written, signed, and dated for purposes of this section if the electronic transmission is delivered with information from which the corporation can determine:
+
+(A)  that the electronic transmission is transmitted by the shareholder, proxyholder, or other person authorized to act for the shareholder or proxyholder; and
+
+(B)  the date on which the electronic transmission is transmitted.
+
+(iii)  The date on which an electronic transmission is transmitted is considered the date on which a consent is signed.
+
+(e)  A consent signed pursuant to this section has the effect of a vote taken at a meeting and may be described as such in a document.
+
+(2) (a)  Except as provided in Subsection (3), unless the written consents of all shareholders entitled to vote are obtained, written notice of shareholder approval of an action without a meeting shall be given at least 10 days before the consummation of the transaction, action, or event authorized by the shareholder action to:
 
 (i)  those shareholders entitled to vote who have not consented in writing; and
 
 (ii)  those shareholders not entitled to vote and to whom this chapter requires that notice of the proposed action be given.
 
-(b)  The notice shall contain or be accompanied by the same material that, under this chapter, would have been required to be sent in a notice of meeting at which the proposed action would have been submitted to the shareholders for action.
+(b)  Notice under this Subsection (2) shall contain or be accompanied by the same material that, under this chapter, would have been required to be sent in a notice of meeting at which the proposed action would have been submitted to the shareholders for action.
 
-(3)  Any shareholder giving a written consent, or the shareholder's proxyholder, or a transferee of the shares or a personal representative of the shareholder or their respective proxyholder, may revoke the consent by a signed writing describing the action and stating that the shareholder's prior consent is revoked, if the writing is received by the corporation prior to the effectiveness of the action.
+(3) (a)  A transaction, action, or event authorized by shareholder action under this section may take effect in accordance with Subsection (5) notwithstanding that the written consents of all shareholders entitled to vote are not obtained if the articles of incorporation or bylaws of the corporation provide for notice under this Subsection (3).
 
-(4)  A shareholder action taken pursuant to this section is not effective unless all written consents on which the corporation relies for the taking of an action pursuant to Subsection (1) are received by the corporation within a 60-day period and not revoked pursuant to Subsection (3).  Action taken by the shareholders pursuant to this section is effective as of the date the last written consent necessary to effect the action is received by the corporation, unless all of the written consents necessary to effect the action specify a later date as the effective date of the action, in which case the later date shall be the effective date of the action.  If the corporation has received written consents as contemplated by Subsection (1) signed by all shareholders entitled to vote with respect to the action, the effective date of the shareholder action may be any date that is specified in all the written consents as the effective date of the shareholder action.  Unless otherwise provided by the bylaws, the writing may be received by the corporation by electronically transmitted facsimile or other form of communication providing the corporation with a complete copy thereof, including a copy of the signature thereto.
+(b)  A corporation may provide in its articles of incorporation or bylaws that if the written consents of all shareholders entitled to vote are not obtained, the corporation shall give written notice of shareholder approval of an action without a meeting:
 
-(5)  Notwithstanding Subsection (1), directors may not be elected by written consent except by unanimous written consent of all shares entitled to vote for the election of directors.
+(i)  not more than 10 days after the later of the day on which:
 
-(6)  If not otherwise determined under Sections 16-10a-703 or 16-10a-707, the record date for determining shareholders entitled to take action without a meeting or entitled to be given notice under Subsection (2) of action so taken is the date the first shareholder delivers to the corporation a writing upon which the action is taken pursuant to Subsection (1).
+(A)  the written consents sufficient to take the action are delivered to the corporation; or
 
-(7)  Action taken under this section has the same effect as action taken at a meeting of shareholders and may be so described in any document.
+(B)  the tabulation of the written consents is completed in accordance with Subsection (1); and
+
+(ii)  to a shareholder who:
+
+(A)  would be entitled to notice of a meeting at which the action could be taken;
+
+(B)  would be entitled to vote if the action were taken at a meeting; and
+
+(C)  did not consent in writing to the action.
+
+(c)  Notice under this Subsection (3) shall contain or be accompanied by the same material that, under this chapter, would have been required to be sent in a notice of meeting at which the proposed action would have been submitted to the shareholders for action.
+
+(d)  The notice requirement in this Subsection (3) does not delay the effectiveness of an action taken by written consent in accordance with Subsection (5).  Failure to comply with the notice requirement under this Subsection (3) by itself does not invalidate an action taken by written consent, except this Subsection (3)(d) does not limit judicial power to fashion an appropriate remedy in favor of a shareholder adversely affected by a failure to give notice within the time period required under Subsection (3)(b).
+
+(4)  The following may revoke a written consent under this section by a signed writing describing the action and stating that a shareholder's prior consent is revoked, if the writing is received by the corporation before the effectiveness of the action:
+
+(a)  the shareholder that gave the written consent;
+
+(b)  the proxyholder for the shareholder described in Subsection (4)(a);
+
+(c)  a transferee of the shares of the shareholder described in Subsection (4)(a);
+
+(d)  a personal representative of the shareholder described in Subsection (4)(a); or
+
+(e)  a proxyholder for a person described in this Subsection (4).
+
+(5)  (a)  An action taken pursuant to this section is not effective unless all written consents on which the corporation relies for taking the action pursuant to Subsection (1) are:
+
+(i)  received by the corporation by no later than 60 days after the date the earliest written consent is delivered to the corporation as provided in Subsection (1); and
+
+(ii)  not revoked pursuant to Subsection (4).
+
+(b) (i)  Unless otherwise provided by this Subsection (5) and subject to Subsection (2), an action taken by the shareholders pursuant to this section is effective as of the date the last written consent necessary to effect the action is received by the corporation.
+
+(ii)  If all of the written consents necessary to effect an action specify a later date as the effective date of the action, the later date is the effective date of the action.
+
+(iii)  If the corporation receives written consents as contemplated by Subsection (1) signed by all shareholders entitled to vote with respect to an action, the effective date of the shareholder action may be any date that is specified in all the written consents as the effective date of the shareholder action.
+
+(6)  Notwithstanding Subsection (1), directors may not be elected by written consent except by unanimous written consent of all shares entitled to vote for the election of directors.
+
+(7)  If not otherwise determined under Sections 16-10a-703 or 16-10a-707, the record date for determining shareholders entitled to take action without a meeting or entitled to be given notice under Subsection (2) or (3) is the date the first shareholder delivers to the corporation a writing upon which the action is taken pursuant to Subsection (1).
+
+(8)  Action taken under this section has the same effect as action taken at a meeting of shareholders and may be so described in any document.
 

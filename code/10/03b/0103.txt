@@ -1,6 +1,6 @@
 10-3b-103.   Forms of municipal government -- Form of government for towns -- Former council-manager form.
 
-(1)  A municipality operating on May 4, 2008 under the council-mayor form of government:
+(1)  A municipality operating on May 4, 2008, under the council-mayor form of government:
 
 (a)  shall, on and after May 5, 2008:
 
@@ -10,7 +10,7 @@
 
 (A)  this part;
 
-(B)  Part 2, Council-Mayor Form of Municipal Government;
+(B)  Part 2, Council-mayor Form of Municipal Government;
 
 (C)  Part 5, Changing to Another Form of Municipal Government; and
 
@@ -18,13 +18,13 @@
 
 (b)  is not subject to:
 
-(i)  Part 3, Six-Member Council Form of Municipal Government; or
+(i)  Part 3, Six-member Council Form of Municipal Government; or
 
-(ii)  Part 4, Five-Member Council Form of Municipal Government.
+(ii)  Part 4, Five-member Council Form of Municipal Government.
 
 (2)  A municipality operating on May 4, 2008 under a form of government known under the law then in effect as the six-member council form:
 
-(a)  shall, on and after May 5, 2008 and whether or not the council has adopted an ordinance appointing a manager for the municipality:
+(a)  shall, on and after May 5, 2008, and whether or not the council has adopted an ordinance appointing a manager for the municipality:
 
 (i)  operate under a six-member council form of government, as defined in Section 10-3b-102;
 
@@ -32,7 +32,7 @@
 
 (A)  this part;
 
-(B)  Part 3, Six-Member Form of Municipal Government;
+(B)  Part 3, Six-member Council Form of Municipal Government;
 
 (C)  Part 5, Changing to Another Form of Municipal Government; and
 
@@ -40,11 +40,11 @@
 
 (b)  is not subject to:
 
-(i)  Part 2, Council-Mayor Form of Municipal Government; or
+(i)  Part 2, Council-mayor Form of Municipal Government; or
 
-(ii)  Part 4, Five-Member Council Form of Municipal Government.
+(ii)  Part 4, Five-member Council Form of Municipal Government.
 
-(3)  A municipality operating on May 4, 2008 under a form of government known under the law then in effect as the five-member council form:
+(3)  A municipality operating on May 4, 2008, under a form of government known under the law then in effect as the five-member council form:
 
 (a)  shall, on and after May 5, 2008:
 
@@ -54,7 +54,7 @@
 
 (A)  this part;
 
-(B)  Part 4, Five-Member Council Form of Municipal Government;
+(B)  Part 4, Five-member Council Form of Municipal Government;
 
 (C)  Part 5, Changing to Another Form of Municipal Government; and
 
@@ -62,11 +62,11 @@
 
 (b)  is not subject to:
 
-(i)  Part 2, Council-Mayor Form of Municipal Government; or
+(i)  Part 2, Council-mayor Form of Municipal Government; or
 
-(ii)  Part 3, Six-Member Council Form of Municipal Government.
+(ii)  Part 3, Six-member Council Form of Municipal Government.
 
-(4)  Subject to Subsection (5), each municipality incorporated on or after May 5, 2008 shall operate under:
+(4)  Subject to Subsection (5), each municipality incorporated on or after May 5, 2008, shall operate under:
 
 (a)  the council-mayor form of government, with a five-member council;
 
@@ -88,9 +88,9 @@
 
 (ii)  that cannot be adopted without voter approval; and
 
-(iii)  that provides for an appointed manager with duties and responsibilities established in Laws of Utah 1977, Chapter 48.
+(iii)  that provides for, subject to Subsections (7) and (8), an appointed manager with duties and responsibilities established in Laws of Utah 1977, Chapter 48.
 
-(b)  A municipality operating on May 4, 2008 under the council-manager form of government:
+(b)  A municipality operating on May 4, 2008, under the council-manager form of government:
 
 (i)  shall:
 
@@ -106,11 +106,29 @@
 
 (ii)  is not subject to:
 
-(A)  Part 2, Council-Mayor Form of Municipal Government;
+(A)  Part 2, Council-mayor Form of Municipal Government;
 
-(B)  Part 3, Six-Member Council Form of Municipal Government; or
+(B)  Part 3, Six-member Council Form of Municipal Government; or
 
-(C)  Part 4, Five-Member Council Form of Municipal Government.
+(C)  Part 4, Five-member Council Form of Municipal Government.
 
-(7)  Nothing in this section may be construed to prevent or limit a municipality operating under any form of municipal government from changing to another form of government as provided in Part 5, Changing to Another Form of Municipal Government.
+(7) (a)  As used in this Subsection (7), "interim vacancy period" means the period of time that:
+
+(i)  begins on the day on which a municipal general election described in Section 10-3-201 is held to elect a council member; and
+
+(ii)  ends on the day on which the council member-elect begins the council member's term.
+
+(b) (i)  The council may not appoint a manager during an interim vacancy period.
+
+(ii)  Notwithstanding Subsection (7)(b)(i):
+
+(A)  the council may appoint an interim manager during an interim vacancy period; and
+
+(B)  the interim manager's term shall expire once a new manager is appointed by the new administration after the interim vacancy period has ended.
+
+(c)  Subsection (7)(b) does not apply if all the council members who held office on the day of the municipal general election whose term of office was vacant for the election are re-elected to the council for the following term.
+
+(8)  A council that appoints a manager in accordance with this section may not, on or after May 10, 2011, enter into an employment contract that contains an automatic renewal provision with the manager.
+
+(9)  Nothing in this section may be construed to prevent or limit a municipality operating under any form of municipal government from changing to another form of government as provided in Part 5, Changing to Another Form of Municipal Government.
 

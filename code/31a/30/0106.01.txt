@@ -1,6 +1,6 @@
 31A-30-106.1.   Small employer premiums -- Rating restrictions -- Disclosure.
 
-(1)  Premium rates for small employer health benefit plans under this chapter are subject to the provisions of this section for a health benefit plan that is issued or renewed, on or after January 1, 2011.
+(1)  Premium rates for small employer health benefit plans under this chapter are subject to this section for a health benefit plan that is issued or renewed, on or after July 1, 2011.
 
 (2) (a)  The index rate for a rating period for any class of business may not exceed the index rate for any other class of business by more than 20%.
 
@@ -10,7 +10,7 @@
 
 (a)  the percentage change in the new business premium rate measured from the first day of the prior rating period to the first day of the new rating period;
 
-(b)  any adjustment, not to exceed 15% annually for rating periods of less than one year, due to the claim experience, health status, or duration of coverage of the covered individuals as determined from the small employer carrier's rate manual for the class of business, except when catastrophic mental health coverage is selected as provided in Subsection 31A-22-625(2)(d); and
+(b)  any adjustment, not to exceed 15% annually and adjusted pro rata for rating periods of less than one year, due to the claim experience, health status, or duration of coverage of the covered individuals as determined from the small employer carrier's rate manual for the class of business, except when catastrophic mental health coverage is selected as provided in Subsection 31A-22-625(2)(d); and
 
 (c)  any adjustment due to change in coverage or change in the case characteristics of the covered insured as determined for the class of business from the small employer carrier's rate manual.
 
@@ -30,7 +30,7 @@
 
 (6)  The small employer carrier may not use case characteristics other than the following:
 
-(a)  age, as determined at the beginning of the plan year, limited to:
+(a)  age of the employee, as determined at the beginning of the plan year, limited to:
 
 (i)  the following age bands:
 
@@ -58,13 +58,13 @@
 
 (ii)  a standard slope ratio range for each age band, applied to each family composition tier rating structure under Subsection (6)(c):
 
-(A)  as developed by the department by administrative rule;
+(A)  as developed by the commissioner by administrative rule;
 
 (B)  not to exceed an overall ratio of 5:1; and
 
 (C)  the age slope ratios for each age band may not overlap;
 
-(b)  geographic area; and
+(b)  geographic area;
 
 (c)  family composition, limited to:
 
@@ -78,7 +78,9 @@
 
 (C)  employee plus a dependent or dependents; and
 
-(D)  a family, consisting of an employee plus spouse, and a dependent or dependents.
+(D)  a family, consisting of an employee plus spouse, and a dependent or dependents; and
+
+(d)  gender of the employee or spouse.
 
 (7)  If a health benefit plan is a health benefit plan into which the small employer carrier is no longer enrolling new covered insureds, the small employer carrier shall use the percentage change in the base premium rate, provided that the change does not exceed, on a percentage basis, the change in the new business premium rate for the most similar health benefit product into which the small employer carrier is actively enrolling new covered insureds.
 
@@ -114,7 +116,7 @@
 
 (i)  implement this chapter; and
 
-(ii)  assure that rating practices used by small employer carriers under this section and carriers for individual plans under Section 31A-30-106, as effective on January 1, 2011, are consistent with the purposes of this chapter.
+(ii)  assure that rating practices used by small employer carriers under this section and carriers for individual plans under Section 31A-30-106, in effect on January 1, 2011, are consistent with the purposes of this chapter.
 
 (b)  The rules may:
 

@@ -1,10 +1,10 @@
 17B-1-209.   Petition certification -- Amended petition.
 
-(1)  Within five days after the filing of a petition, the responsible clerk shall mail a copy of the petition to the clerk of each other county and the clerk or recorder of each municipality in which any part of the proposed local district is located.
+(1)  No later than five days after the day on which a petition is filed, the responsible clerk shall mail a copy of the petition to the clerk of each other county and the clerk or recorder of each municipality in which any part of the proposed local district is located.
 
-(2) (a)  Within 35 days after the filing of a petition, the clerk of each county whose unincorporated area includes and the clerk or recorder of each municipality whose boundaries include part of the proposed local district shall:
+(2) (a)  No later than 35 days after the day on which a petition is filed, the clerk of each county whose unincorporated area includes and the clerk or recorder of each municipality whose boundaries include part of the proposed local district shall:
 
-(i)  with the assistance of other county or municipal officers from whom the county clerk or municipal clerk or recorder requests assistance, determine, for the clerk or recorder's respective county or municipality, whether the petition complies with the requirements of Subsection 17B-1-203(1)(a) or (b), as the case may be, and Subsections 17B-1-208(2), (3), and (4); and
+(i)  with the assistance of other county or municipal officers from whom the county clerk or municipal clerk or recorder requests assistance, determine, for the clerk or recorder's respective county or municipality, whether the petition complies with the requirements of Subsection 17B-1-203(1)(a), (b), or (c), as the case may be, and Subsections 17B-1-208(2), (3), and (4); and
 
 (ii)  notify the responsible clerk in writing of the clerk or recorder's determination under Subsection (2)(a)(i).
 
@@ -12,7 +12,7 @@
 
 (3) (a)  Within 45 days after the filing of a petition, the responsible clerk shall:
 
-(i)  determine whether the petition complies with Subsection 17B-1-203(1)(a) or (b), as the case may be, Subsection 17B-1-205(1), and Section 17B-1-208; and
+(i)  determine whether the petition complies with Subsection 17B-1-203(1)(a), (b), or (c), as the case may be, Subsection 17B-1-205(1), and Section 17B-1-208; and
 
 (ii) (A)  if the responsible clerk determines that the petition complies with the applicable requirements:
 
@@ -34,7 +34,7 @@
 
 (B)  mail or deliver written notification of the certification to the contact sponsor.
 
-(4) Except for a petition described in Subsection (3)(b)(i), if the responsible clerk fails to certify or reject a petition within 45 days after its filing, the petition shall be considered to be certified.
+(4)  Except for a petition described in Subsection (3)(b)(i), if the responsible clerk fails to certify or reject a petition within 45 days after its filing, the petition shall be considered to be certified.
 
 (5)  The responsible clerk shall certify or reject petitions in the order in which they are filed.
 

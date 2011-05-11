@@ -30,7 +30,7 @@
 
 (h)  require, coerce, or attempt to coerce a franchisee to enter into an agreement with the franchisor or do any other act that is unfair or prejudicial to the franchisee, by threatening to cancel a franchise agreement or other contractual agreement or understanding existing between the franchisor and franchisee;
 
-(i)  adopt, change, establish, enforce, modify, or implement a plan or system for the allocation, scheduling, or delivery of new motor vehicles, parts, or accessories to its franchisees so that the plan or system is not fair, reasonable, and equitable;
+(i)  adopt, change, establish, enforce, modify, or implement a plan or system for the allocation, scheduling, or delivery of new motor vehicles, parts, or accessories to its franchisees so that the plan or system is not fair, reasonable, and equitable, including a plan or system that imposes a vehicle sales objective, goal, or quota on a franchisee, or that evaluates a franchisee's sales effectiveness or overall sales performance, without providing a reasonable opportunity for the franchisee to acquire the necessary vehicles in a timely manner from the franchisor on commercially reasonable terms;
 
 (j)  increase the price of any new motor vehicle that the franchisee has ordered from the franchisor and for which there exists at the time of the order a bona fide sale to a retail purchaser if the order was made prior to the franchisee’s receipt of an official written price increase notification;
 
@@ -182,11 +182,11 @@
 
 (H)  the costs of the mediator or arbitrator instituted under this Subsection (1)(gg) shall be shared equally by the franchisor and the franchisee; or
 
-(ii) require a franchisee to execute a written waiver of the requirements of Subsection (1)(gg)(i);
+(ii)  require a franchisee to execute a written waiver of the requirements of Subsection (1)(gg)(i);
 
 (hh)  coerce, or attempt to coerce a franchisee to purchase or sell an aftermarket product manufactured by the franchisor, or obtained by the franchisor for resale from a third-party supplier and the franchisor or its affiliate derives a financial benefit from the franchisee's sale or purchase of the aftermarket product as a condition to obtaining preferential status from the franchisor;
 
-(ii)  through an affiliate, take any action that would otherwise be prohibited under this chapter; 
+(ii)  through an affiliate, take any action that would otherwise be prohibited under this chapter;
 
 (jj)  impose any fee, surcharge, or other charge on a franchisee designed to recover the cost of a warranty repair for which the franchisee is paid by the franchisor;
 

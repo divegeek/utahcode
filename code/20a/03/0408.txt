@@ -1,4 +1,4 @@
-20A-3-408.   Voting of ballot by military or overseas citizen voter.
+20A-3-408 (Repealed 01/01/12).   Voting of ballot by military or overseas citizen voter.
 
 (1) (a)  The military or overseas citizen voter shall:
 
@@ -8,11 +8,11 @@
 
 (iii)  execute the registration and voting certificate and mailing affidavit on the back of the envelope.
 
-(b) (i)  If the military or overseas citizen voter is physically disabled so as to be unable to see or write, he may request assistance from two persons, each of whom shall be qualified to certify to the registration and voting certificate.
+(b) (i)  If the military or overseas citizen voter has a disability that renders the voter unable to see or write, the voter may request assistance from two persons, each of whom shall be qualified to certify to the registration and voting certificate.
 
-(ii)  The military or overseas citizen voter shall tell those persons how he wishes his ballot marked.
+(ii)  The military or overseas citizen voter shall tell those persons how the citizen wishes the citizen's ballot marked.
 
-(iii)  Those persons shall mark the ballot as directed by the military or overseas citizen voter in his presence.
+(iii)  Those persons shall mark the ballot as directed by the military or overseas citizen voter in the voter's presence.
 
 (iv)  One of the persons assisting the military or overseas citizen voter shall:
 
@@ -20,7 +20,7 @@
 
 (B)  fill in its blanks as the voter directs; and
 
-(C)  sign, on the line provided for the signature of the voter, the name of the voter and his own name.
+(C)  sign, on the line provided for the signature of the voter, the name of the voter and the person's own name.
 
 (2) (a)  The ballot shall be sent by any available mail service to the county clerk who issued it.
 
@@ -40,7 +40,7 @@ Signature of
 
 Voter______________________________________________________________
 
-Date____________________________________________________________________
+Date_______________________________________________________________
 
 To be signed when voter is physically unable to see or write:
 

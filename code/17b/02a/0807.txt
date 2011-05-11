@@ -12,7 +12,7 @@
 
 (2) (a)  Subject to Section 17B-2a-807.5, if more than 200,000 people reside within the boundaries of a public transit district, the board of trustees shall consist of:
 
-(i) 11 members:
+(i)  11 members:
 
 (A)  appointed as described under this Subsection (2); or
 
@@ -54,7 +54,7 @@
 
 (l)  The appointment of voting members shall be made without regard to partisan political affiliation from among citizens in the community.
 
-(m)  Each voting member shall be a bona fide resident of the municipality, county, or unincorporated area or areas which the voting member is to represent for at least six months before the date of appointment, and must continue in that residency to remain qualified to serve as a voting member.
+(m)  Each voting member shall be a bona fide resident of the municipality, county, or unincorporated area or areas which the voting member is to represent for at least six months before the date of appointment, and shall continue in that residency to remain qualified to serve as a voting member.
 
 (n) (i)  All population figures used under this section shall be derived from the most recent official census or census estimate of the United States Bureau of the Census.
 
@@ -88,15 +88,7 @@
 
 (c)  one member appointed by the governor.
 
-(5) (a)  Except as provided in Section 17B-2a-807.5, the terms of office of the voting members of the board shall be four years or until a successor is appointed, qualified, seated, and has taken the oath of office.
-
-(b) (i)  A voting member may not be appointed for more than three successive full terms regardless of the appointing entity that appoints the voting member.
-
-(ii)  A person:
-
-(A)  may serve no more than 12 years on a public transit district board of trustees described in Subsection (2)(a) regardless of the appointing entity that appoints the member; and
-
-(B)  that has served 12 years on a public transit district board of trustees described in Subsection (2)(a) is ineligible for reappointment to a public transit board of trustees described in Subsection (2)(a).
+(5)  Except as provided in Section 17B-2a-807.5, the terms of office of the voting members of the board shall be four years or until a successor is appointed, qualified, seated, and has taken the oath of office.
 
 (6) (a)  Vacancies for voting members shall be filled by the official appointing the member creating the vacancy for the unexpired term, unless the official fails to fill the vacancy within 90 days.
 
@@ -118,7 +110,7 @@
 
 (9) (a)  Members of the initial board of trustees shall convene at the time and place fixed by the chief executive officer of the entity initiating the proceedings.
 
-(b) The board of trustees shall elect from its voting membership a chair, vice chair, and secretary.
+(b)  The board of trustees shall elect from its voting membership a chair, vice chair, and secretary.
 
 (c)  The members elected under Subsection (9)(b) shall serve for a period of two years or until their successors shall be elected and qualified.
 

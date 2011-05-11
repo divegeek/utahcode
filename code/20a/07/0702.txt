@@ -32,7 +32,7 @@
 
 (iv)  the arguments in favor of the measure, the rebuttal to the arguments in favor of the measure, the arguments against the measure, and the rebuttal to the arguments against the measure, with the name and title of the authors at the end of each argument or rebuttal;
 
-(v)  for each constitutional amendment, a complete copy of the text of the constitutional amendment, with all new language underlined, and all deleted language placed within brackets; 
+(v)  for each constitutional amendment, a complete copy of the text of the constitutional amendment, with all new language underlined, and all deleted language placed within brackets;
 
 (vi)  for each initiative qualified for the ballot, a copy of the measure as certified by the lieutenant governor and a copy of the fiscal impact estimate prepared according to Section 20A-7-202.5; and
 
@@ -82,7 +82,7 @@ Witness my hand and the Great Seal of the State, at Salt Lake City, Utah this __
 
 Lieutenant Governor"
 
-(3)  The lieutenant governor shall not more than 40 nor less than 15 days before the date voting commences:
+(3)  No earlier than 40 days, and no later than 15 days, before the day on which voting commences, the lieutenant governor shall:
 
 (a) (i)  distribute one copy of the voter information pamphlet to each household within the state; or
 

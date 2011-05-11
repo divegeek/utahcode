@@ -1,4 +1,4 @@
-17B-1-306.   Local district board -- Election procedures.
+17B-1-306 (Superseded 01/01/12).   Local district board -- Election procedures.
 
 (1)  Except as provided in Subsection (11), each elected board member shall be selected as provided in this section.
 
@@ -58,7 +58,11 @@ Subscribed and sworn to (or affirmed) before me by ____________ on this ______ d
 
 (f)  If at least one person does not file a declaration of candidacy as required by this section, a person shall be appointed to fill that board position by following the procedures and requirements for appointment established in Section 20A-1-512.
 
-(g)  If only one candidate files a declaration of candidacy and there is no write-in candidate who complies with Section 20A-9-601, the board need not hold an election for that position and may appoint the candidate to the board.
+(g)  If only one candidate files a declaration of candidacy and there is no write-in candidate who complies with Section 20A-9-601, the board, in accordance with Section 20A-1-206, may:
+
+(i)  consider the candidate to be elected to the position; and
+
+(ii)  cancel the election.
 
 (5) (a)  A primary election may be held if:
 
@@ -74,7 +78,7 @@ Subscribed and sworn to (or affirmed) before me by ____________ on this ______ d
 
 (6) (a)  Except as provided in Subsection (6)(c), the local district clerk shall certify the candidate names to the clerk of each county in which the local district is located no later than August 20 of the municipal election year.
 
-(b) (i)  Except as provided in Subsection (6)(c), the clerk of each county in which the local district is located shall coordinate the placement of the name of each candidate for local district office in the nonpartisan section of the municipal general election ballot with the municipal election clerk.
+(b) (i)  Except as provided in Subsection (6)(c) and in accordance with Section 20A-6-305, the clerk of each county in which the local district is located shall coordinate the placement of the name of each candidate for local district office in the nonpartisan section of the municipal general election ballot with the municipal election clerk.
 
 (ii)  If consolidation of the local district election ballot with the municipal general election ballot is not feasible, the county clerk shall provide for a separate local district election ballot to be administered by poll workers at polling locations designated under Subsection (2).
 
@@ -83,6 +87,8 @@ Subscribed and sworn to (or affirmed) before me by ____________ on this ______ d
 (ii) (A)  Subject to Subsection (6)(c)(ii)(B), the board of each irrigation district shall prescribe the form of the ballot for each board member election.
 
 (B)  Each ballot for an election of an irrigation district board member shall be in a nonpartisan format.
+
+(C)  The name of each candidate shall be placed on the ballot in the order specified under Section 20A-6-305.
 
 (7) (a)  Each voter at an election for a board of trustees member of a local district shall:
 

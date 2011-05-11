@@ -1,12 +1,6 @@
 31A-30-207.   Rating and underwriting restrictions for health plans in the defined contribution arrangement market.
 
-(1)  The rating and underwriting restrictions for defined benefit plans and for the defined contribution arrangement health benefit plans offered in the Health Insurance Exchange defined contribution arrangement market shall be:
-
-(a)  for small employer groups, in accordance with Section 31A-30-106.1;
-
-(b)  for large employer groups, as determined by the risk adjuster board for participation in the risk adjustment mechanism under Chapter 42, Defined Contribution Risk Adjuster Act; and
-
-(c)  established in accordance with the plan adopted under Chapter 42, Defined Contribution Risk Adjuster Act.
+(1)  The rating and underwriting restrictions for defined benefit plans and for the defined contribution arrangement health benefit plans offered in the Health Insurance Exchange defined contribution arrangement market shall be in accordance with Section 31A-30-106.1, and the plan adopted under Chapter 42, Defined Contribution Risk Adjuster Act.
 
 (2)  All insurers who participate in the defined contribution market shall:
 
@@ -20,5 +14,5 @@
 
 (c)  submit rates to the exchange that are net of commissions.
 
-(3)  When an employer group of any size enters the defined contribution arrangement market for either a defined contribution arrangement health benefit plan, or a defined benefit plan, and the employer group has a health plan with an insurer who is participating in the defined contribution arrangement market, the risk factor applied to the employer group when it enters the defined contribution market may not be greater than the employer group's renewal risk factor for the same group of covered employees and the same effective date, as determined by the employer group's insurer.
+(3)  When an employer group enters the defined contribution arrangement market for either a defined contribution arrangement health benefit plan, or a defined benefit plan, and the employer group has a health plan with an insurer who is participating in the defined contribution arrangement market, the risk factor applied to the employer group when it enters the defined contribution market may not be greater than the employer group's renewal risk factor for the same group of covered employees and the same effective date, as determined by the employer group's insurer.
 

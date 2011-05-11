@@ -1,18 +1,18 @@
-9-4-1503.   Methamphetamine Housing Reconstruction and Rehabilitation Fund -- Creation -- Interest -- Use of contributions and interest.
+9-4-1503.   Methamphetamine Housing Reconstruction and Rehabilitation Account -- Creation -- Interest -- Use of contributions and interest.
 
-(1)  There is created within the General Fund a restricted account known as the Methamphetamine Housing Reconstruction and Rehabilitation Fund.
+(1)  There is created within the General Fund a restricted account known as the Methamphetamine Housing Reconstruction and Rehabilitation Account.
 
-(2)  The fund shall be funded by:
+(2)  The account shall be funded by:
 
-(a)  contributions deposited into the fund in accordance with Section 59-10-1314; and
+(a)  contributions deposited into the account in accordance with Section 59-10-1314; and
 
 (b)  interest described in Subsection (3).
 
-(3) (a)  The fund shall earn interest.
+(3) (a)  The account shall earn interest.
 
-(b)  Interest earned on the fund shall be deposited into the fund.
+(b)  Interest earned on the account shall be deposited into the account.
 
-(4) (a)  The division shall distribute contributions and interest deposited into the fund to one or more qualified housing organizations.
+(4) (a)  The division shall distribute contributions and interest deposited into the account to one or more qualified housing organizations.
 
 (b) (i)  Subject to Subsection (4)(b)(ii), a qualified housing organization that receives a distribution from the division in accordance with Subsection (4)(a) shall expend the distribution to:
 
@@ -44,11 +44,11 @@
 
 (iv)  may include other information the division requires by rule.
 
-(d)  The division shall determine on or before the November 30 immediately following the November 1 described in Subsection (5)(b) whether a qualified housing organization's application to the division meets the requirements of Subsection (5)(c).
+(d)  The division shall determine on or before the November 30 immediately following the November 1 described in Subsection (5)(b)(i) whether a qualified housing organization's application to the division meets the requirements of Subsection (5)(c).
 
-(e) (i)  The division shall distribute money credited to the fund to each qualified housing organization that meets the requirements of Subsection (5)(c) as determined by the division:
+(e) (i)  The division shall distribute money credited to the account to each qualified housing organization that meets the requirements of Subsection (5)(c) as determined by the division:
 
-(A)  on or before the December 31 immediately following the November 1 described in Subsection (5)(b); and
+(A)  on or before the December 31 immediately following the November 1 described in Subsection (5)(b)(i); and
 
 (B)  in accordance with this Subsection (5)(e).
 
@@ -62,7 +62,7 @@
 
 (A)  calculating a percentage determined by dividing the population of the county in which the qualified housing organization that meets the requirements of Subsection (5)(c) is headquartered by the population calculated under Subsection (5)(e)(ii)(B); and
 
-(B)  multiplying the percentage determined under Subsection (5)(e)(iii)(A) by the fund balance.
+(B)  multiplying the percentage determined under Subsection (5)(e)(iii)(A) by the account balance.
 
 (iv)  If two or more qualified housing organizations that meet the requirements of Subsection (5)(c) as determined by the division are headquartered within one county, the division shall determine each qualified housing organization's distribution by:
 

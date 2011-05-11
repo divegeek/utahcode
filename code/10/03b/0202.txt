@@ -52,7 +52,7 @@
 
 (A)  appoint:
 
-(I)  a chief administrative officer; and
+(I)  subject to Subsections (3)(b) and (4), a chief administrative officer; and
 
 (II)  one or more deputies or administrative assistants to the mayor; and
 
@@ -112,9 +112,27 @@
 
 (b)  Before the council adopts an ordinance on the municipality's administrative service, the mayor may establish temporary rules and regulations to ensure efficiency and effectiveness in the divisions of the municipal government.
 
-(3)  Each person appointed as chief administrative officer under Subsection (1)(c)(iii)(A) shall be appointed on the basis of:
+(3) (a)  As used in this Subsection (3), "interim vacancy period" means the period of time that:
 
-(a)  the person's ability and prior experience in the field of public administration; and
+(i)  begins on the day on which a municipal general election described in Section 10-3-201 is held to elect a mayor; and
 
-(b)  any other qualification prescribed by ordinance.
+(ii)  ends on the day on which the mayor-elect begins the mayor's term.
+
+(b)  Each person appointed as chief administrative officer under Subsection (1)(c)(iii)(A) shall be appointed on the basis of:
+
+(i)  the person's ability and prior experience in the field of public administration; and
+
+(ii)  any other qualification prescribed by ordinance.
+
+(c) (i)  The mayor may not appoint a chief administrative officer during an interim vacancy period.
+
+(ii)  Notwithstanding Subsection (3)(c)(i):
+
+(A)  the mayor may appoint an interim chief administrative officer during an interim vacancy period; and
+
+(B)  the interim chief administrative officer's term shall expire once a new chief administrative officer is appointed by the new mayor after the interim vacancy period has ended.
+
+(d)  Subsection (3)(c) does not apply if the mayor who holds office on the day of the municipal general election is re-elected to the mayor's office for the following term.
+
+(4)  A mayor who appoints a chief administrative officer in accordance with this section may not, on or after May 10, 2011, enter into an employment contract that contains an automatic renewal provision with the chief administrative officer.
 

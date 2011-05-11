@@ -1,6 +1,6 @@
 13-34-105.   Exempted institutions.
 
-(1)  This chapter does not apply to the following institutions:
+(1)  This chapter does not apply to:
 
 (a)  a Utah institution directly supported, to a substantial degree, with funds provided by:
 
@@ -16,7 +16,7 @@
 
 (d)  a private, postsecondary educational institution that is owned, controlled, operated, or maintained by a bona fide church or religious denomination, which is exempted from property taxation under the laws of this state;
 
-(e)  subject to Subsection (3), a school or institution that is accredited by a regional or national accrediting agency recognized by the United States Department of Education;
+(e)  subject to Subsection (3) and Section 13-34-107.5, a school or institution that is accredited by a regional or national accrediting agency recognized by the United States Department of Education;
 
 (f)  subject to Subsection (4), a business organization, trade or professional association, fraternal society, or labor union that:
 
@@ -24,11 +24,13 @@
 
 (ii)  does not, in advertising, describe itself as a school;
 
-(g)  an institution that exclusively offers general education courses or instruction solely remedial, avocational, nonvocational, or recreational in nature, that does not:
+(g)  an institution that:
 
-(i)  advertise occupation objectives; or
+(i) (A)  exclusively offers general education courses or instruction solely remedial, avocational, nonvocational, or recreational in nature; and
 
-(ii)  grant educational credentials;
+(B)  does not advertise occupation objectives or grant educational credentials; or
+
+(ii)  exclusively prepares individuals to teach courses or instruction described in Subsection (1)(g)(i)(A);
 
 (h)  an institution that offers only workshops or seminars:
 
@@ -50,13 +52,15 @@
 
 (B)  provides aviation training under Federal Aviation Regulations, 14 C.F.R. Part 61; and
 
-(ii)  exclusively offers aviation training that a student fully receives within 24 hours after the student pays any tuition, fee, or other charge for the aviation training; and
+(ii)  exclusively offers aviation training that a student fully receives within 24 hours after the student pays any tuition, fee, or other charge for the aviation training;
 
-(l)  an institution that provides emergency medical services training if all of the institution's instructors, course coordinators, and courses are approved by the Department of Health.
+(l)  an institution that provides emergency medical services training if all of the institution's instructors, course coordinators, and courses are approved by the Department of Health;
 
-(2) (a)  If available evidence suggests that an exempt institution under this section is not in compliance with the standards of registration under this chapter and applicable division rules, the division shall contact the institution and, if appropriate, the state or federal government agency to request corrective action.
+(m)  an institution that exclusively conducts nurse aide training programs that are approved by the State Office of Vocational Education and are subject to the Nurse Aide Registry; and
 
-(b)  Subsection (2)(a) does not apply to an institution exempted under Subsection (1)(e).
+(n)  a private, nonprofit educational institution that has been in continuous operation for at least 20 years, except as provided in Subsection (5), Subsection 13-34-106(8) and Section 13-34-107.6.
+
+(2)  If available evidence suggests that an exempt institution under this section is not in compliance with the standards of registration under this chapter and applicable division rules, the division shall contact the institution and, if appropriate, the state or federal government agency to request corrective action.
 
 (3)  An institution, branch, extension, or facility operating within the state that is affiliated with an institution operating in another state shall be separately approved by the affiliate's regional or national accrediting agency to qualify for the exemption described in Subsection (1)(e).
 
@@ -65,4 +69,14 @@
 (a)  successfully complete its course of instruction or study with a reasonable degree of proficiency; and
 
 (b)  apply for employment with that same entity.
+
+(5)  An institution subject to, or expressly exempted from any part of, this chapter is:
+
+(a)  established as an educational institution within the state;
+
+(b)  independent of the state system of higher education;
+
+(c)  subject to compliance with the applicable provisions of this chapter; and
+
+(d)  authorized to operate educational programs beyond secondary education, including programs leading to a degree or certificate.
 

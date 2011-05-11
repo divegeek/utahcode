@@ -40,7 +40,7 @@
 
 (ii)  invalidity or unenforceability of any liens or encumbrances on the property.
 
-(2) (a) The commissioner may assess each title insurer and each title insurance agency an annual assessment:
+(2) (a)  The commissioner may assess each title insurer and each title insurance agency an annual assessment:
 
 (i)  determined by the Title and Escrow Commission:
 
@@ -52,15 +52,15 @@
 
 (b)  A title insurance agency shall be assessed up to:
 
-(i)  $200 for the first office in each county in which the title insurance agency maintains an office; and
+(i)  $250 for the first office in each county in which the title insurance agency maintains an office; and
 
-(ii)  $100 for each additional office the title insurance agency maintains in the county described in Subsection (2)(b)(i).
+(ii)  $150 for each additional office the title insurance agency maintains in the county described in Subsection (2)(b)(i).
 
 (c)  A title insurer shall be assessed up to:
 
-(i)  $200 for the first office in each county in which the title insurer maintains an office;
+(i)  $250 for the first office in each county in which the title insurer maintains an office;
 
-(ii)  $100 for each additional office the title insurer maintains in the county described in Subsection (2)(c)(i); and
+(ii)  $150 for each additional office the title insurer maintains in the county described in Subsection (2)(c)(i); and
 
 (iii)  an amount calculated by:
 
@@ -78,9 +78,9 @@
 
 (II)  the percentage of total premiums for title insurance on Utah risk that are premiums of the title insurer.
 
-(d)  Notwithstanding Section 31A-3-103 and subject to Section 31A-2-404, the Title and Escrow Commission by rule shall establish the amount of costs and expenses described under Subsection (3) that will be covered by the assessment, except the costs or expenses to be covered by the assessment may not exceed $75,000 annually.
+(d)  Notwithstanding Section 31A-3-103 and subject to Section 31A-2-404, the Title and Escrow Commission by rule shall establish the amount of costs and expenses described under Subsection (3) that will be covered by the assessment, except the costs or expenses to be covered by the assessment may not exceed $80,000 annually.
 
-(3) (a) Money received by the state under this section shall be deposited into the Title Licensee Enforcement Restricted Account.
+(3) (a)  Money received by the state under this section shall be deposited into the Title Licensee Enforcement Restricted Account.
 
 (b)  There is created in the General Fund a restricted account known as the "Title Licensee Enforcement Restricted Account."
 

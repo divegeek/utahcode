@@ -86,7 +86,7 @@
 
 (b)  Before Subsection (9)(a) may be applied:
 
-(i)  the federal government must:
+(i)  the federal government shall:
 
 (A)  determine that Subsection (9)(a) may be implemented within the state's existing public assistance-related waivers as of January 1, 1999;
 
@@ -94,21 +94,21 @@
 
 (C)  determine that the state's waivers that permit dual eligibility determinations for cash assistance and Medicaid are no longer valid; and
 
-(ii)  the department must determine that Subsection (9)(a) can be implemented within existing funding.
+(ii)  the department shall determine that Subsection (9)(a) can be implemented within existing funding.
 
 (10) (a)  For purposes of this Subsection (10):
 
-(i)  "aged, blind, or disabled" shall be defined by administrative rule; and
+(i)  "aged, blind, or has a disability" means an aged, blind, or disabled individual, as defined in 42 U.S.C. 1382c(a)(1); and
 
-(ii)  "spend down" means an amount of income in excess of the allowable income standard that must be paid in cash to the department or incurred through the medical services not paid by Medicaid.
+(ii)  "spend down" means an amount of income in excess of the allowable income standard that shall be paid in cash to the department or incurred through the medical services not paid by Medicaid.
 
-(b)  In determining whether an applicant or recipient who is aged, blind, or disabled is eligible for a service or benefit under this chapter, the department shall use 100% of the federal poverty level as:
+(b)  In determining whether an applicant or recipient who is aged, blind, or has a disability is eligible for a service or benefit under this chapter, the department shall use 100% of the federal poverty level as:
 
 (i)  the allowable income standard for eligibility for services or benefits; and
 
 (ii)  the allowable income standard for eligibility as a result of spend down.
 
-(11)  The department shall conduct internal audits of the Medicaid program, in proportion to at least the level of funding it receives from Medicaid to conduct internal audits.
+(11)  The department shall conduct internal audits of the Medicaid program.
 
 (12)  In order to determine the feasibility of contracting for direct Medicaid providers for primary care services, the department shall:
 

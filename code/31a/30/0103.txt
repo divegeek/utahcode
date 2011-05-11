@@ -2,13 +2,23 @@
 
 As used in this chapter:
 
-(1)  "Actuarial certification" means a written statement by a member of the American Academy of Actuaries or other individual approved by the commissioner that a covered carrier is in compliance with Section 31A-30-106, based upon the examination of the covered carrier, including review of the appropriate records and of the actuarial assumptions and methods used by the covered carrier in establishing premium rates for applicable health benefit plans.
+(1)  "Actuarial certification" means a written statement by a member of the American Academy of Actuaries or other individual approved by the commissioner that a covered carrier is in compliance with Sections 31A-30-106 and 31A-30-106.1, based upon the examination of the covered carrier, including review of the appropriate records and of the actuarial assumptions and methods used by the covered carrier in establishing premium rates for applicable health benefit plans.
 
 (2)  "Affiliate" or "affiliated" means any entity or person who directly or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, a specified entity or person.
 
 (3)  "Base premium rate" means, for each class of business as to a rating period, the lowest premium rate charged or that could have been charged under a rating system for that class of business by the covered carrier to covered insureds with similar case characteristics for health benefit plans with the same or similar coverage.
 
-(4)  "Basic benefit plan" or "basic coverage" means the coverage provided in the Basic Health Care Plan under Section 31A-22-613.5.
+(4)  "Basic benefit plan" or "basic coverage" means a health benefit plan that:
+
+(a)  until January 1, 2012:
+
+(i)  is a federally qualified high deductible health plan;
+
+(ii)  has a deductible that has the lowest deductible that qualifies as a federally qualified high deductible health plan as adjusted by federal law; and
+
+(iii)  does not exceed an annual out-of-pocket maximum equal to three times the amount of the deductible; and
+
+(b)  on or after January 1, 2012, is actuarially equivalent to the NetCare plan with the highest actuarial value, as provided in Section 31A-22-724.
 
 (5)  "Carrier" means any person or entity that provides health insurance in this state including:
 
@@ -32,7 +42,7 @@ As used in this chapter:
 
 (iii)  health status.
 
-(7)  "Class of business" means all or a separate grouping of covered insureds that is permitted by the department in accordance with Section 31A-30-105.
+(7)  "Class of business" means all or a separate grouping of covered insureds that is permitted by the commissioner in accordance with Section 31A-30-105.
 
 (8)  "Conversion policy" means a policy providing coverage under the conversion provisions required in Chapter 22, Part 7, Group Accident and Health Insurance.
 
@@ -78,7 +88,7 @@ As used in this chapter:
 
 (19)  "New business premium rate" means, for each class of business as to a rating period, the lowest premium rate charged or offered, or that could have been charged or offered, by the carrier to covered insureds with similar case characteristics for newly issued health benefit plans with the same or similar coverage.
 
-(20)  "Premium" means all money paid by covered insureds and covered individuals as a condition of receiving coverage from a covered carrier, including any fees or other contributions associated with the health benefit plan.
+(20)  "Premium" means money paid by covered insureds and covered individuals as a condition of receiving coverage from a covered carrier, including any fees or other contributions associated with the health benefit plan.
 
 (21) (a)  "Rating period" means the calendar period for which premium rates established by a covered carrier are assumed to be in effect, as determined by the carrier.
 
@@ -116,7 +126,7 @@ As used in this chapter:
 
 (b) (i)  is issued a certificate for coverage under Subsection 31A-30-108(3); and
 
-(ii)  has a condition of health that does not meet consistently applied underwriting criteria as established by the commissioner in accordance with Subsections 31A-30-106(1)(i) and (j) for which coverage the applicant is applying.
+(ii)  has a condition of health that does not meet consistently applied underwriting criteria as established by the commissioner in accordance with Subsections 31A-30-106(1)(g) and (h) for which coverage the applicant is applying.
 
 (26)  "Uninsurable percentage" for a given calendar year equals UC/CI where, for purposes of this formula:
 

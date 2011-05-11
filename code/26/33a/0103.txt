@@ -1,6 +1,6 @@
 26-33a-103.   Committee membership -- Terms -- Chair -- Compensation.
 
-(1)  The Health Data Committee created by Section 26-1-7 shall be composed of 13 members appointed by the governor with the consent of the Senate.
+(1)  The Health Data Committee created by Section 26-1-7 shall be composed of 14 members appointed by the governor with the consent of the Senate.
 
 (2)  No more than seven members of the committee may be members of the same political party.
 
@@ -8,33 +8,63 @@
 
 (4)  The membership of the committee shall be:
 
-(a)  one person employed by or otherwise associated with a hospital as defined by Section 26-21-2;
+(a)  one person employed by or otherwise associated with a hospital as defined by Section 26-21-2, who is knowledgeable about the collection, analysis, and use of health care data;
 
-(b)  one physician, as defined in Section 58-67-102, licensed to practice in this state, who spends the majority of his time in the practice of medicine in this state;
+(b) two physicians, as defined in Section 58-67-102:
 
-(c)  one registered nurse licensed to practice in this state under Title 58, Chapter 31b, Nurse Practice Act;
+(i)  who are licensed to practice in this state;
 
-(d)  three persons employed by or otherwise associated with a business that supplies health care insurance to its employees, at least one of whom represents an employer employing 50 or fewer employees;
+(ii)  who actively practice medicine in this state;
 
-(e)  one person employed by or associated with a third-party payor that is not licensed under Title 31A, Chapter 8, Health Maintenance Organizations and Limited Health Plans;
+(iii)  who are trained in or have experience with the collection, analysis, and use of health care data; and
 
-(f)  two consumer representatives from organized consumer or employee associations;
+(iv)  one of whom is selected by the Utah Medical Association;
 
-(g)  one person broadly representative of the public interest;
+(c)  three persons:
 
-(h)  one person employed by or associated with an organization that is licensed under Title 31A, Chapter 8, Health Maintenance Organizations and Limited Health Plans; and
+(i)  who are:
 
-(i)  two people representing public health.
+(A)  employed by or otherwise associated with a business that supplies health care insurance to its employees; and
+
+(B)  knowledgeable about the collection and use of health care data; and
+
+(ii)  at least one of whom represents an employer employing 50 or fewer employees;
+
+(d)  three persons representing health insurers:
+
+(i)  at least one of whom is employed by or associated with a third-party payor that is not licensed under Title 31A, Chapter 8, Health Maintenance Organizations and Limited Health Plans;
+
+(ii)  at least one of whom is employed by or associated with a third party payer that is licensed under Title 31A, Chapter 8, Health Maintenance Organizations and Limited Health Plans; and
+
+(iii)  who are trained in, or experienced with the collection, analysis, and use of health care data;
+
+(e)  two consumer representatives:
+
+(i)  from organized consumer or employee associations; and
+
+(ii)  knowledgeable about the collection and use of health care data;
+
+(f)  one person:
+
+(i)  representative of a neutral, non-biased entity that can demonstrate that it has the broad support of health care payers and health care providers; and
+
+(ii)  who is knowledgeable about the collection, analysis, and use of health care data; and
+
+(g)  two persons representing public health who are trained in, or experienced with the collection, use, and analysis of health care data.
 
 (5) (a)  Except as required by Subsection (5)(b), as terms of current committee members expire, the governor shall appoint each new member or reappointed member to a four-year term.
 
-(b)  Notwithstanding the requirements of Subsection (5)(a), the governor shall, at the time of appointment or reappointment, adjust the length of terms to ensure that the terms of committee members are staggered so that approximately half of the committee is appointed every two years.
+(b)  Notwithstanding the requirements of Subsection (5)(a), the governor shall:
+
+(i)  at the time of appointment or reappointment, adjust the length of terms to ensure that the terms of committee members are staggered so that approximately half of the committee is appointed every two years; and
+
+(ii)  prior to July 1, 2011, re-appoint the members described in Subsections (4)(b), (d), and (f) as necessary to comply with changes in eligibility for membership that were enacted during the 2011 General Session.
 
 (c)  Members may serve after their terms expire until replaced.
 
 (6)  When a vacancy occurs in the membership for any reason, the replacement shall be appointed for the unexpired term.
 
-(7)  Committee members shall annually elect a chair of the committee from among their membership.
+(7)  Committee members shall annually elect a chair of the committee from among their membership.  The chair shall report to the executive director.
 
 (8)  The committee shall meet at least once during each calendar quarter.  Meeting dates shall be set by the chair upon 10 working days notice to the other members, or upon written request by at least four committee members with at least 10 working days notice to other committee members.
 

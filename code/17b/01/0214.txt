@@ -10,7 +10,7 @@
 
 (2)  Each election under Subsection (1) shall be held at the next special or regular general election date that is:
 
-(a)  for an election pursuant to a property owner or registered voter petition, more than 45 days after certification of the petition under Subsection 17B-1-209(3)(b)(i); or
+(a)  for an election pursuant to a property owner or registered voter petition, more than 45 days after certification of the petition under Subsection 17B-1-209(3)(a); or
 
 (b)  for an election pursuant to a resolution, more than 60 days after the latest hearing required under Section 17B-1-210.
 
@@ -26,11 +26,17 @@
 
 (b)  a petition filed under Subsection 17B-1-203(1)(b) if it contains the signatures of registered voters residing within the proposed local district as a whole and within each applicable area, equal in number to at least 67% of the number of votes cast in the proposed local district as a whole and in each applicable area, respectively, for the office of governor at the last general election prior to the filing of the petition;
 
-(c)  a resolution adopted under Subsection 17B-1-203(1)(c) on or after May 5, 2003 that proposes the creation of a local district to provide fire protection, paramedic, and emergency services or law enforcement service, if the proposed local district includes a majority of the unincorporated area of one or more counties;
+(c)  a groundwater right owner petition filed under Subsection 17B-1-203(1)(c) if the petition contains the signatures of the owners of groundwater rights that:
 
-(d)  a resolution adopted under Subsection 17B-1-203(1)(c) or (d) if the resolution proposes the creation of a local district that has no registered voters within its boundaries; or
+(i)  are diverted within the proposed local district; and
 
-(e)  a resolution adopted under Subsection 17B-1-203(1)(c) on or after May 11, 2010 that proposes the creation of a local district described in Subsection 17B-1-202(1)(a)(xiv).
+(ii)  cover at least 67% of the total amount of groundwater diverted in accordance with groundwater rights within the proposed local district as a whole and within each applicable area;
+
+(d)  a resolution adopted under Subsection 17B-1-203(1)(d) on or after May 5, 2003 that proposes the creation of a local district to provide fire protection, paramedic, and emergency services or law enforcement service, if the proposed local district includes a majority of the unincorporated area of one or more counties;
+
+(e)  a resolution adopted under Subsection 17B-1-203(1)(d) or (e) if the resolution proposes the creation of a local district that has no registered voters within its boundaries; or
+
+(f)  a resolution adopted under Subsection 17B-1-203(1)(d) on or after May 11, 2010 that proposes the creation of a local district described in Subsection 17B-1-202(1)(a)(xiv).
 
 (4) (a)  If the proposed local district is located in more than one county, the responsible clerk shall coordinate with the clerk of each other county and the clerk or recorder of each municipality involved in an election under Subsection (1) so that the election is held on the same date and in a consistent manner in each jurisdiction.
 

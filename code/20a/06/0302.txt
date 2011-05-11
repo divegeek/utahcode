@@ -2,17 +2,11 @@
 
 (1)  Each election officer shall ensure, for paper ballots in regular general elections, that:
 
-(a)  except for candidates for state school board and local school boards:
+(a)  each candidate is listed by party;
 
-(i)  each candidate is listed by party; and
+(b)  candidates' surnames are listed in alphabetical order on the ballots when two or more candidates' names are required to be listed on a ticket under the title of an office; and
 
-(ii)  candidates' surnames are listed in alphabetical order on the ballots when two or more candidates' names are required to be listed on a ticket under the title of an office;
-
-(b)  the names of candidates for the State Board of Education are placed on the ballot as certified by the lieutenant governor under Section 20A-14-105;
-
-(c)  if candidates for membership on a local board of education were selected in a regular primary election, the name of the candidate who received the most votes in the regular primary election is listed first on the ballot; and
-
-(d)  if candidates for membership on a local board of education were not selected in the regular primary election, the names of the candidates are listed on the ballot in the order determined by a lottery conducted by the county clerk.
+(c)  the names of candidates are placed on the ballot in the order specified under Section 20A-6-305.
 
 (2) (a)  The election officer may not allow the name of a candidate who dies or withdraws before election day to be printed upon the ballots.
 
@@ -26,13 +20,13 @@
 
 (b)  If the number of "Yes" votes exceeds the number of "No" votes, the candidate is elected to the office of county attorney.
 
-(c)  If the number of "No" votes exceeds the number of "Yes" votes, the candidate is not elected and may not take office, nor may he continue in the office past the end of the term resulting from any prior election or appointment.
+(c)  If the number of "No" votes exceeds the number of "Yes" votes, the candidate is not elected and may not take office, nor may the candidate continue in the office past the end of the term resulting from any prior election or appointment.
 
 (d)  When the name of only one candidate for county attorney is printed on the ballot under authority of this Subsection (3), the county clerk may not count any write-in votes received for the office of county attorney.
 
 (e)  If no qualified person files for the office of county attorney or if the candidate is not elected by the voters, the county legislative body shall appoint the county attorney as provided in Section 20A-1-509.2.
 
-(f)  If the candidate whose name would, except for this Subsection (3)(f), be placed on the ballot under Subsection (3)(a) has been elected on a ballot under Subsection (3)(a) to the two consecutive terms immediately preceding the term for which the candidate is seeking election, Subsection (3)(a) shall not apply and that candidate shall be considered to be an unopposed candidate the same as any other unopposed candidate for another office, unless a petition is filed with the county clerk before the date of that year's primary election that:
+(f)  If the candidate whose name would, except for this Subsection (3)(f), be placed on the ballot under Subsection (3)(a) has been elected on a ballot under Subsection (3)(a) to the two consecutive terms immediately preceding the term for which the candidate is seeking election, Subsection (3)(a) does not apply and that candidate shall be considered to be an unopposed candidate the same as any other unopposed candidate for another office, unless a petition is filed with the county clerk before the date of that year's primary election that:
 
 (i)  requests the procedure set forth in Subsection (3)(a) to be followed; and
 
@@ -42,13 +36,13 @@
 
 (b)  If the number of "Yes" votes exceeds the number of "No" votes, the candidate is elected to the office of district attorney.
 
-(c)  If the number of "No" votes exceeds the number of "Yes" votes, the candidate is not elected and may not take office, nor may he continue in the office past the end of the term resulting from any prior election or appointment.
+(c)  If the number of "No" votes exceeds the number of "Yes" votes, the candidate is not elected and may not take office, nor may the candidate continue in the office past the end of the term resulting from any prior election or appointment.
 
 (d)  When the name of only one candidate for district attorney is printed on the ballot under authority of this Subsection (4), the county clerk may not count any write-in votes received for the office of district attorney.
 
 (e)  If no qualified person files for the office of district attorney, or if the only candidate is not elected by the voters under this subsection, the county legislative body shall appoint a new district attorney for a four-year term as provided in Section 20A-1-509.2.
 
-(f)  If the candidate whose name would, except for this Subsection (4)(f), be placed on the ballot under Subsection (4)(a) has been elected on a ballot under Subsection (4)(a) to the two consecutive terms immediately preceding the term for which the candidate is seeking election, Subsection (4)(a) shall not apply and that candidate shall be considered to be an unopposed candidate the same as any other unopposed candidate for another office, unless a petition is filed with the county clerk before the date of that year's primary election that:
+(f)  If the candidate whose name would, except for this Subsection (4)(f), be placed on the ballot under Subsection (4)(a) has been elected on a ballot under Subsection (4)(a) to the two consecutive terms immediately preceding the term for which the candidate is seeking election, Subsection (4)(a) does not apply and that candidate shall be considered to be an unopposed candidate the same as any other unopposed candidate for another office, unless a petition is filed with the county clerk before the date of that year's primary election that:
 
 (i)  requests the procedure set forth in Subsection (4)(a) to be followed; and
 

@@ -6,9 +6,9 @@
 
 (a)  The beneficiary is entitled to receive a portion of the net income equal to the beneficiary's fractional interest in the undistributed principal assets immediately before the distribution date, including assets that later may be sold to meet principal obligations.
 
-(b)  The beneficiary's fractional interest in the undistributed principal assets must be calculated without regard to property specifically given to a beneficiary and property required to pay pecuniary amounts not in trust.
+(b)  The beneficiary's fractional interest in the undistributed principal assets shall be calculated without regard to property specifically given to a beneficiary and property required to pay pecuniary amounts not in trust.
 
-(c)  The beneficiary's fractional interest in the undistributed principal assets must be calculated on the basis of the aggregate value of those assets as of the distribution date without reducing the value by any unpaid principal obligation.
+(c)  The beneficiary's fractional interest in the undistributed principal assets shall be calculated on the basis of the aggregate value of those assets as of the distribution date without reducing the value by any unpaid principal obligation.
 
 (d)  The distribution date for purposes of this section may be the date as of which the fiduciary calculates the value of the assets if that date is reasonably near the date on which assets are actually distributed.
 

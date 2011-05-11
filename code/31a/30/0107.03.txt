@@ -12,9 +12,9 @@
 
 (ii)  to resolve inequity in the marketplace.
 
-(2) (a)  If the Comprehensive Health Insurance Pool as set forth under Title 31A, Chapter 29, is dissolved or discontinued, or if enrollment is capped or suspended, an individual carrier:
+(2) (a)  If the Comprehensive Health Insurance Pool as set forth under Title 31A, Chapter 29, Comprehensive Health Insurance Pool Act, is dissolved or discontinued, or if enrollment is capped or suspended, an individual carrier:
 
-(i)  may elect to discontinue offering new individual health benefit plans, except to HIPAA eligibles, but must keep existing individual health benefit plans in effect, except those individual plans that are not renewed under the provisions of Subsection 31A-30-107(2) or 31A-30-107.1(2);
+(i)  may elect to discontinue offering new individual health benefit plans, except to HIPAA eligibles, but shall keep existing individual health benefit plans in effect, except those individual plans that are not renewed under the provisions of Subsection 31A-30-107(2) or 31A-30-107.1(2);
 
 (ii)  may elect to continue to offer new individual and small employer health benefit plans; or
 
@@ -30,7 +30,7 @@
 
 (ii)  may continue to write new business in the small employer market; and
 
-(iii)  must provide written notice of the election under Subsection (2)(a)(i) within two calendar days of the election to the Utah Insurance Department.
+(iii)  shall provide written notice of the election under Subsection (2)(a)(i) within two calendar days of the election to the Utah Insurance Department.
 
 (c)  The prohibition described in Subsection (2)(b)(i) may be waived if the commissioner finds that waiver is in the public interest:
 

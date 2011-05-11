@@ -46,7 +46,7 @@
 
 (b)  Failure to comply with an order entered under Subsection (5)(a) is punishable as contempt.
 
-(6)  A civil investigative demand must:
+(6)  A civil investigative demand shall:
 
 (a)  state the rule or statute under which the alleged violation of this chapter is being investigated;
 
@@ -96,11 +96,11 @@
 
 (b)  The attorney general may use such documentary material or copies of it as the attorney general determines necessary in the enforcement of this chapter, including presentation before a court.
 
-(12)  A person may file a complaint, stating good cause, to extend the return date for the demand or to modify or set aside the demand.  A complaint under this Subsection (12) shall be filed in district court and must be filed before the earlier of:
+(12)  A person may file a complaint, stating good cause, to extend the return date for the demand or to modify or set aside the demand.  A complaint under this Subsection (12) shall be filed in district court before the earlier of:
 
-(a)  the return date specified in the demand; or
+(a)   the return date specified in the demand; or
 
-(b)  the 20th day after the date the demand is served.
+(b)   the 20th day after the date the demand is served.
 
 (13)  Except as provided by court order, a person who has been served with a civil investigative demand shall comply with the terms of the demand.
 

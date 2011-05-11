@@ -12,7 +12,7 @@
 
 (2)  This chapter and Chapter 22 do not apply to:
 
-(a) an exemption provided in Section 31A-1-103;
+(a)  an exemption provided in Section 31A-1-103;
 
 (b)  an insurance policy procured under Sections 31A-15-103 and 31A-15-104;
 
@@ -24,7 +24,7 @@
 
 (B)  the operations in this state are incidental or subordinate to operations outside this state; and
 
-(ii)  except that insurance required by a Utah statute must conform to the statutory requirements; or
+(ii)  except that insurance required by a Utah statute shall conform to the statutory requirements; or
 
 (d)  other exemptions provided in this title.
 
@@ -32,7 +32,7 @@
 
 (b)  Section 31A-21-201 applies to inland marine insurance that is written according to manual rules or rating plans.
 
-(4) A group or blanket policy is subject to this chapter and Chapter 22, except:
+(4)  A group or blanket policy is subject to this chapter and Chapter 22, except:
 
 (a)  a group or blanket policy outside the scope of this title under Subsection 31A-1-103(3)(h); and
 

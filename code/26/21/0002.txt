@@ -2,7 +2,7 @@
 
 As used in this chapter:
 
-(1)  "Abortion clinic" means a facility, other than a general acute or specialty hospital, that performs abortions and provides abortion services during the second trimester of pregnancy.
+(1)  "Abortion clinic" means a type I abortion clinic or a type II abortion clinic.
 
 (2)  "Activities of daily living" means essential activities including:
 
@@ -60,7 +60,7 @@ As used in this chapter:
 
 (13) (a)  "Health care facility" means general acute hospitals, specialty hospitals, home health agencies, hospices, nursing care facilities, residential-assisted living facilities, birthing centers, ambulatory surgical facilities, small health care facilities, abortion clinics, facilities owned or operated by health maintenance organizations, end stage renal disease facilities, and any other health care facility which the committee designates by rule.
 
-(b)  "Health care facility" does not include the offices of private physicians or dentists, whether for individual or group practice.
+(b)  "Health care facility" does not include the offices of private physicians or dentists, whether for individual or group practice, except that it does include an abortion clinic.
 
 (14)  "Health maintenance organization" means an organization, organized under the laws of any state which:
 
@@ -99,4 +99,16 @@ As used in this chapter:
 (21)  "Specialty hospital" means a facility which provides specialized diagnostic, therapeutic, or rehabilitative services in the recognized specialty or specialties for which the hospital is licensed.
 
 (22)  "Substantial compliance" means in a department survey of a licensee, the department determines there is an absence of deficiencies which would harm the physical health, mental health, safety, or welfare of patients or residents of a licensee.
+
+(23)  "Type I abortion clinic" means a facility, including a physician's office, but not including a general acute or specialty hospital, that:
+
+(a)  performs abortions, as defined in Section 76-7-301, during the first trimester of pregnancy; and
+
+(b)  does not perform abortions, as defined in Section 76-7-301, after the first trimester of pregnancy.
+
+(24)  "Type II abortion clinic" means a facility, including a physician's office, but not including a general acute or specialty hospital, that:
+
+(a)  performs abortions, as defined in Section 76-7-301, after the first trimester of pregnancy; or
+
+(b)  performs abortions, as defined in Section 76-7-301, during the first trimester of pregnancy and after the first trimester of pregnancy.
 

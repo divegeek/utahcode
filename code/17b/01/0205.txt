@@ -2,9 +2,11 @@
 
 (1)  Each petition and request shall:
 
-(a)  indicate the typed or printed name and current residence address of each property owner or registered voter signing the petition;
+(a)  indicate the typed or printed name and current residence address of each property owner, groundwater right owner, or registered voter signing the petition;
 
-(b)  if it is a property owner request or petition, indicate the address of the property as to which the owner is signing the request or petition;
+(b) (i)  if it is a property owner request or petition, indicate the address of the property as to which the owner is signing the request or petition; or
+
+(ii)  if it is a groundwater right owner request or petition, indicate the location of the diversion of the groundwater as to which the owner is signing the groundwater right owner request or petition;
 
 (c)  describe the entire area of the proposed local district;
 
@@ -30,17 +32,31 @@
 
 (ii)  appointed as provided in Section 17B-1-304; or
 
-(iii)  elected as provided in Section 17B-1-306; and
+(iii)  elected as provided in Section 17B-1-306;
 
-(j)  designate up to five signers of the petition or request as sponsors, one of whom shall be designated as the contact sponsor, with the mailing address and telephone number of each.
+(j)  designate up to five signers of the petition or request as sponsors, one of whom shall be designated as the contact sponsor, with the mailing address and telephone number of each;
+
+(k)  if the petition or request is a groundwater right owner petition or request proposing the creation of a local district to acquire a groundwater right under Section 17B-1-202, explain the anticipated method:
+
+(i)  of paying for the groundwater right acquisition; and
+
+(ii)  of addressing blowing dust created by the reduced use of water; and
+
+(l)  if the petition or request is a groundwater right owner petition or request proposing the creation of a local district to assess a groundwater right under Section 17B-1-202, explain the anticipated method:
+
+(i)  of assessing the groundwater right and securing payment of the assessment; and
+
+(ii)  of addressing blowing dust created by the reduced use of water.
 
 (2)  A signer of a request or petition may withdraw or, once withdrawn, reinstate the signer's signature at any time before the filing of the request or petition by filing a written withdrawal or reinstatement with:
 
 (a)  in the case of a request:
 
-(i)  the clerk of the county or the clerk or recorder of the municipality in whose applicable area the signer's property is located, if the request is a property owner request; or
+(i)  the clerk of the county or the clerk or recorder of the municipality in whose applicable area the signer's property is located, if the request is a property owner request;
 
-(ii)  the clerk of the county or the clerk or recorder of the municipality in whose applicable area the signer resides, if the request is a registered voter request; or
+(ii)  the clerk of the county or the clerk or recorder of the municipality in whose applicable area the signer's groundwater diversion point is located, if the request is a groundwater right owner request; or
+
+(iii)  the clerk of the county or the clerk or recorder of the municipality in whose applicable area the signer resides, if the request is a registered voter request; or
 
 (b)  in the case of a petition, the responsible clerk.
 

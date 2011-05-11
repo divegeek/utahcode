@@ -24,17 +24,15 @@
 
 (3)  The application and its contents are public when filed with the lieutenant governor.
 
-(4) (a)  The sponsors shall qualify the petition for the regular general election ballot no later than one year after the application is filed.
+(4)  If the petition fails to qualify for the ballot of the election described in Subsection 20A-7-201(2)(b), the sponsors shall:
 
-(b)  If the sponsors fail to qualify the petition for that ballot, the sponsors must:
+(a)  submit a new application;
 
-(i)  submit a new application;
+(b)  obtain new signature sheets; and
 
-(ii)  obtain new signature sheets; and
+(c)  collect signatures again.
 
-(iii)  collect signatures again.
-
-(5)  The lieutenant governor shall reject the application and not issue circulation sheets if:
+(5)  The lieutenant governor shall reject the application or application addendum filed under Subsection 20A-7-204.1(4) and not issue circulation sheets if:
 
 (a)  the law proposed by the initiative is patently unconstitutional;
 
@@ -42,9 +40,11 @@
 
 (c)  the proposed law could not become law if passed;
 
-(d)  the law contains more than one subject;
+(d)  the proposed law contains more than one subject as evaluated in accordance with Subsection (6);
 
-(e)  the subject of the law is not clearly expressed in the law's title; or
+(e)  the subject of the proposed law is not clearly expressed in the law's title; or
 
 (f)  the law proposed by the initiative is identical or substantially similar to a law proposed by an initiative that was submitted to the county clerks and lieutenant governor for certification and evaluation within two years preceding the date on which the application for this initiative was filed.
+
+(6)  To evaluate whether the proposed law contains more than one subject under Subsection (5)(d), the lieutenant governor shall apply the same standard provided in Utah Constitution, Article VI, Section 22, which prohibits a bill from passing that contains more than one subject.
 

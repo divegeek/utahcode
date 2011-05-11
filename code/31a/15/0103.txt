@@ -28,7 +28,7 @@
 
 (ii)  advertise the availability of the surplus lines producer's services in procuring, on behalf of a person seeking insurance, a contract with a nonadmitted insurer.
 
-(4)  For a contract made under this section, a nonadmitted insurer is subject to Sections 31A-23a-402 and 31A-23a-403 and the rules adopted under those sections.
+(4)  For a contract made under this section, a nonadmitted insurer is subject to Sections 31A-23a-402, 31A-23a-402.5, and 31A-23a-403 and the rules adopted under those sections.
 
 (5)  A nonadmitted insurer may not issue workers' compensation insurance coverage to an employer located in this state, except for stop loss coverage issued to an employer securing workers' compensation under Subsection 34A-2-201(3).
 
@@ -46,7 +46,7 @@
 
 (A)  this section;
 
-(B)  Section 31A-4-102, 31A-23a-402, or 31A-26-303; or
+(B)  Section 31A-4-102, 31A-23a-402, 31A-23a-402.5, or 31A-26-303; or
 
 (C)  a rule adopted under a section listed in Subsection (6)(c)(i)(A) or (B);
 
@@ -74,11 +74,11 @@
 
 (e)  A foreign unauthorized insurer shall be listed on the commissioner's "reliable" list only if the unauthorized insurer:
 
-(i) delivers a request to the commissioner to be on the list;
+(i)  delivers a request to the commissioner to be on the list;
 
-(ii) establishes satisfactory evidence of good reputation and financial integrity;
+(ii)  establishes satisfactory evidence of good reputation and financial integrity;
 
-(iii) (A) delivers to the commissioner a copy of the unauthorized insurer's current annual statement certified by the insurer; and
+(iii) (A)  delivers to the commissioner a copy of the unauthorized insurer's current annual statement certified by the insurer; and
 
 (B)  continues each subsequent year to file its annual statements with the commissioner within 60 days of the day on which it is filed with the insurance regulatory authority where the insurer is domiciled;
 
@@ -118,7 +118,7 @@
 
 (c)  A copy of the notice described in Subsection (7)(b) shall be kept in the office of the surplus line producer for at least five years.
 
-(d)  To be financially sound, an insurer shall satisfy standards that are comparable to those applied under the laws of this state to an authorized insurer. 
+(d)  To be financially sound, an insurer shall satisfy standards that are comparable to those applied under the laws of this state to an authorized insurer.
 
 (e)  An insurer on the "doubtful or objectionable" list under Subsection (6)(d) or an insurer not on the commissioner's "reliable" list under Subsection (6)(e) is presumed substandard.
 
@@ -140,7 +140,7 @@
 
 (i)  the names and addresses of all insurers; and
 
-(ii)  the portion of the entire direct risk each assumes. 
+(ii)  the portion of the entire direct risk each assumes.
 
 (c)  A policy issued under this section shall have attached or affixed to the policy the following statement: "The insurer issuing this policy does not hold a certificate of authority to do business in this state and thus is not fully subject to regulation by the Utah insurance commissioner.  This policy receives no protection from any of the guaranty associations created under Title 31A, Chapter 28."
 
@@ -174,17 +174,17 @@
 
 (B)  evidenced by a contract, on a form provided by the commissioner, between the authorized advisory organization and the department.
 
-(d) (i) (A)  A person conducting the examination described in Subsection (11)(a) shall collect a stamping fee of an amount not to exceed 1% of the policy premium payable in connection with the transaction. 
+(d) (i) (A)  A person conducting the examination described in Subsection (11)(a) shall collect a stamping fee of an amount not to exceed 1% of the policy premium payable in connection with the transaction.
 
 (B)  A stamping fee collected by the commissioner shall be deposited in the General Fund.
 
-(C)  The commissioner shall establish a stamping fee by rule. 
+(C)  The commissioner shall establish a stamping fee by rule.
 
 (ii)  A stamping fee collected by an advisory organization is the property of the advisory organization to be used in paying the expenses of the advisory organization.
 
 (iii)  Liability for paying a stamping fee is as required under Subsection 31A-3-303(1) for taxes imposed under Section 31A-3-301.
 
-(iv)  The commissioner shall adopt a rule dealing with the payment of stamping fees.  If a stamping fee is not paid when due, the commissioner or advisory organization may impose a penalty of 25% of the stamping fee due, plus 1-1/2% per month from the time of default until full payment of the stamping fee. 
+(iv)  The commissioner shall adopt a rule dealing with the payment of stamping fees.  If a stamping fee is not paid when due, the commissioner or advisory organization may impose a penalty of 25% of the stamping fee due, plus 1-1/2% per month from the time of default until full payment of the stamping fee.
 
 (v)  A stamping fee relative to a policy covering a risk located partially in this state shall be allocated in the same manner as under Subsection 31A-3-303(4).
 

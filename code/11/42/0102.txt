@@ -22,7 +22,7 @@
 
 (5)  "Assessment lien" means a lien on property within an assessment area that arises from the levy of an assessment, as provided in Section 11-42-501.
 
-(6)  "Assessment method" means the method by which an assessment is levied against property, whether by frontage, area, taxable value, fair market value, lot, number of connections, equivalent residential unit, or any combination of these methods.
+(6)  "Assessment method" means the method by which an assessment is levied against property, whether by frontage, area, taxable value, fair market value, lot, parcel, number of connections, equivalent residential unit, any combination of these methods, or any other method that equitably reflects the benefit received from the improvement.
 
 (7)  "Assessment ordinance" means an ordinance adopted by a local entity under Section 11-42-404 that levies an assessment on benefitted property within an assessment area.
 
@@ -80,17 +80,19 @@
 
 (22)  "Improvement":
 
-(a)  means any publicly owned infrastructure, system, or other facility that:
+(a) (i)  means any publicly owned infrastructure, system, or other facility that:
 
-(i)  a local entity is authorized to provide; or
+(A)  a local entity is authorized to provide; or
 
-(ii)  the governing body of a local entity determines is necessary or convenient to enable the local entity to provide a service that the local entity is authorized to provide; and
+(B)  the governing body of a local entity determines is necessary or convenient to enable the local entity to provide a service that the local entity is authorized to provide; and
 
-(b)  includes facilities in an assessment area, including a private driveway, an irrigation ditch, and a water turnout, that:
+(ii)  includes facilities in an assessment area, including a private driveway, an irrigation ditch, and a water turnout, that:
 
-(i)  can be conveniently installed at the same time as an infrastructure, system, or other facility described in Subsection (22)(a); and
+(A)  can be conveniently installed at the same time as an infrastructure, system, or other facility described in Subsection (22)(a)(i); and
 
-(ii)  are requested by a property owner on whose property or for whose benefit the infrastructure, system, or other facility is being installed.
+(B)  are requested by a property owner on whose property or for whose benefit the infrastructure, system, or other facility is being installed; or
+
+(b)  for a local district created to assess groundwater rights in accordance with Section 17B-1-202, means a system or plan to regulate groundwater withdrawals within a specific groundwater basin in accordance with Sections 17B-1-202 and 73-5-15.
 
 (23)  "Improvement revenues":
 

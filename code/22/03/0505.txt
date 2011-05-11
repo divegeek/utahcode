@@ -1,14 +1,14 @@
 22-3-505.   Income taxes.
 
-(1)  A tax required to be paid by a trustee based on receipts allocated to income must be paid from income.
+(1)  A tax required to be paid by a trustee based on receipts allocated to income shall be paid from income.
 
-(2)  A tax required to be paid by a trustee based on receipts allocated to principal must be paid from principal, even if the tax is called an income tax by the taxing authority.
+(2)  A tax required to be paid by a trustee based on receipts allocated to principal shall be paid from principal, even if the tax is called an income tax by the taxing authority.
 
-(3)  A tax required to be paid by a trustee on the trust's share of an entity's taxable income must be paid:
+(3)  A tax required to be paid by a trustee on the trust's share of an entity's taxable income shall be paid:
 
 (a)  from income to the extent that receipts from the entity are allocated only to income;
 
-(b)  from principal to the extent that receipts from the entity are allocated only to principal; 
+(b)  from principal to the extent that receipts from the entity are allocated only to principal;
 
 (c)  proportionately from principal and income to the extent that receipts from the entity are allocated to both income and principal; and
 

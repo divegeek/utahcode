@@ -4,9 +4,9 @@
 
 (i)  nonvoting common stock may not be issued;
 
-(ii)  all classes of common stock must have equal voting rights;
+(ii)  all classes of common stock shall have equal voting rights;
 
-(iii)  all common stock must have a stated par value; and
+(iii)  all common stock shall have a stated par value; and
 
 (iv)  except with the commissioner's approval, for two years after the initial issuance of a certificate of authority, the corporation may issue no shares and no other securities convertible into shares except a single class of common stock.
 
@@ -42,7 +42,7 @@
 
 (v)  the mutual's articles or bylaws do not forbid their issuance.
 
-(c) A mutual may not:
+(c)  A mutual may not:
 
 (i)  if it has any outstanding obligations on bonds or contribution notes, borrow on contribution notes from, or sell bonds to, any other insurer without the approval of the commissioner; or
 

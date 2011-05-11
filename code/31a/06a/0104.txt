@@ -1,6 +1,6 @@
 31A-6a-104.   Required disclosures.
 
-(1)  A service contract reimbursement insurance policy insuring a service contract that is issued, sold, or offered for sale in this state must conspicuously state that, upon failure of the service contract provider to perform under the contract, the issuer of the policy shall:
+(1)  A service contract reimbursement insurance policy insuring a service contract that is issued, sold, or offered for sale in this state shall conspicuously state that, upon failure of the service contract provider to perform under the contract, the issuer of the policy shall:
 
 (a)  pay on behalf of the service contract provider any sums the service contract provider is legally obligated to pay according to the service contract provider's contractual obligations under the service contract issued or sold by the service contract provider; or
 
@@ -30,17 +30,17 @@
 
 (g)  state a term, restriction, or condition that governs cancellation of the service contract as provided in Sections 31A-21-303 through 31A-21-305 by either the contract holder or service contract provider.
 
-(4)  If prior approval of repair work is required, a service contract must conspicuously state the procedure for obtaining prior approval and for making a claim, including:
+(4)  If prior approval of repair work is required, a service contract shall conspicuously state the procedure for obtaining prior approval and for making a claim, including:
 
 (a)  a toll free telephone number for claim service; and
 
 (b)  a procedure for obtaining reimbursement for emergency repairs performed outside of normal business hours.
 
-(5)  A preexisting condition clause in a service contract must specifically state which preexisting condition is excluded from coverage.
+(5)  A preexisting condition clause in a service contract shall specifically state which preexisting condition is excluded from coverage.
 
-(6) (a)  Except as provided in Subsection (6)(c), a service contract must state the conditions upon which the use of a nonmanufacturers' part is allowed. 
+(6) (a)  Except as provided in Subsection (6)(c), a service contract shall state the conditions upon which the use of a nonmanufacturers' part is allowed.
 
-(b)  A condition described in Subsection (6)(a) must comply with applicable state and federal laws.
+(b)  A condition described in Subsection (6)(a) shall comply with applicable state and federal laws.
 
 (c)  This Subsection (6) does not apply to a home warranty contract.
 

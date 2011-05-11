@@ -2,7 +2,7 @@
 
 (1)  A local health department may:
 
-(a)  subject to the provisions in Section 26A-1-108, enforce state laws, local ordinances, department rules, and local health department standards and regulations relating to public health and sanitation, including the plumbing code administered by the Division of Occupational and Professional Licensing under Section 58-56-4 and under Title 26, Chapter 15a, Food Safety Manager Certification Act, in all incorporated and unincorporated areas served by the local health department;
+(a)  subject to the provisions in Section 26A-1-108, enforce state laws, local ordinances, department rules, and local health department standards and regulations relating to public health and sanitation, including the plumbing code administered by the Division of Occupational and Professional Licensing under Title 15A, Chapter 1, Part 2, State Construction Code Administration Act, and under Title 26, Chapter 15a, Food Safety Manager Certification Act, in all incorporated and unincorporated areas served by the local health department;
 
 (b)  establish, maintain, and enforce isolation and quarantine, and exercise physical control over property and over individuals as the local health department finds necessary for the protection of the public health;
 
@@ -42,7 +42,7 @@
 
 (m)  cooperate with boards created under Section 19-1-106 to enforce laws and rules within the jurisdiction of the boards;
 
-(n)  cooperate with the state health department, the Department of Corrections, the Administrative Office of the Courts, the Division of Juvenile Justice Services, and the Crime Victim Reparations Board to conduct testing for HIV infection of convicted sexual offenders and any victims of a sexual offense;
+(n)  cooperate with the state health department, the Department of Corrections, the Administrative Office of the Courts, the Division of Juvenile Justice Services, and the Crime Victim Reparations Board to conduct testing for HIV infection of alleged sexual offenders, convicted sexual offenders, and any victims of a sexual offense;
 
 (o)  investigate suspected bioterrorism and disease pursuant to Section 26-23b-108; and
 
@@ -52,7 +52,7 @@
 
 (a)  establish programs or measures to promote and protect the health and general wellness of the people within the boundaries of the local health department;
 
-(b)  investigate infectious and other diseases of public health importance and implement measures to control the causes of epidemic and communicable diseases and other conditions significantly affecting the public health which may include involuntary testing of convicted sexual offenders for the HIV infection pursuant to Section 76-5-502 and voluntary testing of victims of sexual offenses for HIV infection pursuant to Section 76-5-503;
+(b)  investigate infectious and other diseases of public health importance and implement measures to control the causes of epidemic and communicable diseases and other conditions significantly affecting the public health which may include involuntary testing of alleged sexual offenders for the HIV infection pursuant to Section 76-5-502 and voluntary testing of victims of sexual offenses for HIV infection pursuant to Section 76-5-503;
 
 (c)  cooperate with the department in matters pertaining to the public health and in the administration of state health laws; and
 

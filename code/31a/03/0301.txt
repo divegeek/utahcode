@@ -1,8 +1,8 @@
 31A-3-301.   Tax imposed on surplus lines insurance transactions.
 
-(1) (a)  An insurance transaction under Section 31A-15-103 is subject to a tax of 4-1/4% of gross premiums, less 4-1/4% of return premiums paid to insureds by reason of policy cancellations or premium reductions. 
+(1) (a)  An insurance transaction under Section 31A-15-103 is subject to a tax of 4-1/4% of gross premiums, less 4-1/4% of return premiums paid to insureds by reason of policy cancellations or premium reductions.
 
-(b)  The gross premium for a surplus lines insurance transaction means the monetary consideration for an insurance policy including all fees charged to the insured, however designated.
+(b)  "Gross premium," for a surplus lines insurance transaction, means the monetary consideration for an insurance policy including the fees charged to the insured, however designated.
 
 (2)  The tax imposed by this section does not apply to:
 
@@ -12,5 +12,9 @@
 
 (c)  annuities.
 
-(3)  This tax shall be deposited in the General Fund.
+(3)  The department shall deposit a tax imposed by this section in the General Fund.
+
+(4) (a)  A county, city, or municipality within the state may not impose an occupation tax or other tax or fee on a surplus lines insurance transaction.
+
+(b)  Notwithstanding Subsection (4)(a), an insurer, producer, or policyholder may be subject to other taxes not described in Subsection (4)(a).
 

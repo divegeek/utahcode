@@ -16,7 +16,7 @@
 
 (iv)  the constitutional amendment cards required by Part 1, Election Notices and Instructions;
 
-(v)  voter information pamphlets required by Title 20A, Chapter 7, Part 7, Voter Information Pamphlet;
+(v)  voter information pamphlets required by Chapter 7, Part 7, Voter Information Pamphlet;
 
 (vi)  the instruction cards required by Section 20A-5-102; and
 
@@ -24,7 +24,7 @@
 
 (b)  Each election officer shall ensure that:
 
-(i)  each voting booth is at a convenient height for writing, and is arranged so that the voter can prepare his ballot screened from observation;
+(i)  each voting booth is at a convenient height for writing, and is arranged so that the voter can prepare the voter's ballot screened from observation;
 
 (ii)  there are a sufficient number of voting booths or voting devices to accommodate the voters at that polling place; and
 
@@ -48,7 +48,7 @@
 
 (4) (a)  The municipality in which the election is held shall pay the cost of conducting each municipal election, including the cost of printing and supplies.
 
-(b) (i)  Costs assessed by a county clerk to a municipality under this section shall not exceed the actual costs incurred by the county clerk.
+(b) (i)  Costs assessed by a county clerk to a municipality under this section may not exceed the actual costs incurred by the county clerk.
 
 (ii)  The actual costs shall include:
 

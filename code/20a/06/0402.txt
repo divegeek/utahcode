@@ -12,15 +12,17 @@
 
 (ii)  the names of those candidates are placed upon the municipal general election ballot;
 
-(d)  a write-in area is placed upon the ballot that contains, for each office:
+(d)  the names of the candidates are placed on the ballot in the order specified under Section 20A-6-305;
+
+(e)  a write-in area is placed upon the ballot that contains, for each office:
 
 (i)  a blank, horizontal line to enable the entry of a valid write-in candidate; and
 
 (ii)  a square or other conforming area that is adjacent to or opposite the blank horizontal line to enable the voter to indicate the voter's vote;
 
-(e)  ballot propositions that have qualified for the ballot, including propositions submitted to the voters by the municipality, municipal initiatives, and municipal referenda, are listed on the ballot in accordance with Section 20A-6-107; and
+(f)  ballot propositions that have qualified for the ballot, including propositions submitted to the voters by the municipality, municipal initiatives, and municipal referenda, are listed on the ballot in accordance with Section 20A-6-107; and
 
-(f)  bond propositions that have qualified for the ballot are listed on the ballot under the title assigned to each bond proposition under Section 11-14-206.
+(g)  bond propositions that have qualified for the ballot are listed on the ballot under the title assigned to each bond proposition under Section 11-14-206.
 
 (2)  When using a punch card ballot at municipal general elections, each election officer shall ensure that:
 
@@ -30,13 +32,13 @@
 
 (iii)  ballot stubs are numbered consecutively;
 
-(b)  immediately below the perforated ballot stub, the following endorsements are printed in 18-point bold type:
+(b)  immediately below the perforated ballot stub, the following endorsements are printed in 18 point bold type:
 
 (i)  "Official Ballot for ____ (City or Town), Utah";
 
 (ii)  the date of the election; and
 
-(iii)  a facsimile of the signature of the election officer and the election officer's title in eight-point type;
+(iii)  a facsimile of the signature of the election officer and the election officer's title in eight point type;
 
 (c)  immediately below the election officer's title, two one-point parallel horizontal rules separate endorsements from the rest of the ballot;
 
@@ -44,9 +46,9 @@
 
 (e)  after the rules, the designation of the office for which the candidates seek election is printed flush with the left-hand margin and the words: "Vote for one" or "Vote for two or more" are printed to extend to the extreme right of the column in 10 point bold type, followed by a hair-line rule;
 
-(f)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules 3/8 inch apart, alphabetically according to surnames with surnames last and grouped according to the office that they seek;
+(f)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules three-eighths inch apart, in the order specified under Section 20A-6-305 with surnames last and grouped according to the office that they seek;
 
-(g)  a square with sides not less than 1/4 inch long is printed immediately adjacent to the names of the candidates;
+(g)  a square with sides not less than one-fourth inch long is printed immediately adjacent to the names of the candidates;
 
 (h)  following the name of the last candidate for each office, the ballot contains:
 
@@ -78,7 +80,7 @@
 
 (e)  after the border or line, the designation of the office for which the candidates seek election is printed and the words: "Vote for one" or "Vote for two or more" are printed, followed by a line or border;
 
-(f)  after the line or border, the names of the candidates are printed alphabetically according to surnames with surnames last and grouped according to the office that they seek;
+(f)  after the line or border, the names of the candidates are printed in the order specified under Section 20A-6-305 with surnames last and grouped according to the office that they seek;
 
 (g)  an oval is printed adjacent to the names of the candidates;
 
@@ -106,7 +108,7 @@
 
 (d)  after the border or line, the designation of the office for which the candidates seek election is displayed, and the words: "Vote for one" or "Vote for two or more" are displayed, followed by a line or border;
 
-(e)  after the line or border, the names of the candidates are displayed alphabetically according to surnames with surnames last and grouped according to the office that they seek;
+(e)  after the line or border, the names of the candidates are displayed in the order specified under Section 20A-6-305 with surnames last and grouped according to the office that they seek;
 
 (f)  a voting square or position is located adjacent to the name of each candidate;
 

@@ -12,7 +12,9 @@
 
 (ii)  appear on the ballot as the candidate of more than one political party.
 
-(b)  A person may file a declaration of candidacy for, or be a candidate for, President or Vice President of the United States and another office, if the person resigns the person's candidacy for the other office after the person is officially nominated for President or Vice President of the United States.
+(b) (i)  A person may file a declaration of candidacy for, or be a candidate for, President or Vice President of the United States and another office, if the person resigns the person's candidacy for the other office after the person is officially nominated for President or Vice President of the United States.
+
+(ii)  A person may file a declaration of candidacy for, or be a candidate for, more than one justice court judge office.
 
 (3) (a) (i)  Except for presidential candidates, before the filing officer may accept any declaration of candidacy, the filing officer shall:
 
@@ -26,9 +28,9 @@
 
 (B)  an attorney licensed to practice law in Utah who is an active member in good standing of the Utah State Bar;
 
-(C)  a registered voter in the county in which he is seeking office; and
+(C)  a registered voter in the county in which the person is seeking office; and
 
-(D)  a current resident of the county in which he is seeking office and either has been a resident of that county for at least one year or was appointed and is currently serving as county attorney and became a resident of the county within 30 days after appointment to the office.
+(D)  a current resident of the county in which the person is seeking office and either has been a resident of that county for at least one year or was appointed and is currently serving as county attorney and became a resident of the county within 30 days after appointment to the office.
 
 (iii)  Before accepting a declaration of candidacy for the office of district attorney, the county clerk shall ensure that, as of the date of the election, the person filing that declaration of candidacy is:
 
@@ -36,9 +38,9 @@
 
 (B)  an attorney licensed to practice law in Utah who is an active member in good standing of the Utah State Bar;
 
-(C)  a registered voter in the prosecution district in which he is seeking office; and
+(C)  a registered voter in the prosecution district in which the person is seeking office; and
 
-(D)  a current resident of the prosecution district in which he is seeking office and either will have been a resident of that prosecution district for at least one year as of the date of the election or was appointed and is currently serving as district attorney and became a resident of the prosecution district within 30 days after receiving appointment to the office.
+(D)  a current resident of the prosecution district in which the person is seeking office and either will have been a resident of that prosecution district for at least one year as of the date of the election or was appointed and is currently serving as district attorney and became a resident of the prosecution district within 30 days after receiving appointment to the office.
 
 (iv)  Before accepting a declaration of candidacy for the office of county sheriff, the county clerk shall ensure that the person filing the declaration of candidacy:
 
@@ -50,7 +52,7 @@
 
 (III) (Aa)  has successfully met the standards and training requirements established for law enforcement officers under Title 53, Chapter 6, Part 2, Peace Officer Training and Certification Act; or
 
-(Bb)  has passed a certification examination as provided in Section 53-6-206; and
+(Bb)  has met the waiver requirements in Section 53-6-206; and
 
 (IV)  is qualified to be certified as a law enforcement officer, as defined in Section 53-13-103; and
 
@@ -62,9 +64,9 @@
 
 (B)  if the filing officer is not the lieutenant governor, that the financial disclosure is provided to the lieutenant governor according to the procedures and requirements of Section 20A-11-1603.
 
-(b)  If the prospective candidate states that he does not meet the qualification requirements for the office, the filing officer may not accept the prospective candidate's declaration of candidacy.
+(b)  If the prospective candidate states that the qualification requirements for the office are not met, the filing officer may not accept the prospective candidate's declaration of candidacy.
 
-(c)  If the candidate meets the requirements of Subsection (3)(a) and states that he meets the requirements of candidacy, the filing officer shall:
+(c)  If the candidate meets the requirements of Subsection (3)(a) and states that the requirements of candidacy are met, the filing officer shall:
 
 (i)  inform the candidate that:
 

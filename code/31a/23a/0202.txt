@@ -4,9 +4,9 @@
 
 (2) (a)  The commissioner may not state a continuing education requirement in terms of formal education.
 
-(b)  The commissioner may state a continuing education requirement in terms of classroom hours, or their equivalent, of insurance-related instruction received.
+(b)  The commissioner may state a continuing education requirement in terms of hours of insurance-related instruction received.
 
-(c)  Insurance-related formal education may be a substitute, in whole or in part, for classroom hours, or their equivalent, required under Subsection (2)(b).
+(c)  Insurance-related formal education may be a substitute, in whole or in part, for the hours required under Subsection (2)(b).
 
 (3) (a)  The commissioner shall impose continuing education requirements in accordance with a two-year licensing period in which the licensee meets the requirements of this Subsection (3).
 
@@ -18,15 +18,17 @@
 
 (C)  that the licensee complete at least half of the required hours through classroom hours of insurance-related instruction.
 
-(ii)  The hours not completed through classroom hours in accordance with Subsection (3)(b)(i)(C) may be obtained through:
+(ii)  An hour of continuing education in accordance with Subsection (3)(b)(i) may be obtained through:
 
-(A)  home study;
+(A)  classroom attendance;
 
-(B)  video recording;
+(B)  home study;
 
-(C)  experience credit; or
+(C)  watching a video recording;
 
-(D)  another method provided by rule.
+(D)  experience credit; or
+
+(E)  another method provided by rule.
 
 (iii) (A)  Notwithstanding Subsections (3)(b)(i)(A) and (B), a title insurance producer is required to complete 12 credit hours of continuing education for every two-year licensing period, with 3 of the credit hours being ethics courses unless the title insurance producer is licensed in this state as a title insurance producer for 20 or more consecutive years.
 
@@ -46,9 +48,11 @@
 
 (A)  the licensee was first licensed before April 1, 1978;
 
-(B)  the licensee requests an exemption from the department; and
+(B)  the license does not have a continuous lapse for a period of more than one year, except for a license for which the licensee has had an exemption approved before May 11, 2011;
 
-(C)  the department approves the exemption.
+(C)  the licensee requests an exemption from the department; and
+
+(D)  the department approves the exemption.
 
 (ii)  If the department approves the exemption under Subsection (3)(d)(i), the licensee is not required to apply again for the exemption.
 

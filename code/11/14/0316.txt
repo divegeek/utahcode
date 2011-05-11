@@ -18,9 +18,11 @@
 
 (e)  the maximum interest rate which the bonds may bear, if any;
 
-(f)  the maximum discount from par, expressed as a percentage of principal amount, at which the bonds may be sold; and
+(f)  the maximum discount from par, expressed as a percentage of principal amount, at which the bonds may be sold;
 
-(g)  the times and place where a copy of the resolution or other proceeding may be examined, which shall be:
+(g)  a general description of the security pledged for repayment of the bonds; and
+
+(h)  the times and place where a copy of the resolution or other proceeding may be examined, which shall be:
 
 (i)  at an office of the issuer;
 

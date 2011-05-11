@@ -1,4 +1,4 @@
-31A-23a-402.   Unfair marketing practices -- Communication -- Inducement -- Unfair discrimination -- Coercion or intimidation -- Restriction on choice.
+31A-23a-402.   Unfair marketing practices -- Communication -- Unfair discrimination -- Coercion or intimidation -- Restriction on choice.
 
 (1) (a) (i)  Any of the following may not make or cause to be made any communication that contains false or misleading information, relating to an insurance product or contract, any insurer, or any licensee under this title, including information that is false or misleading because it is incomplete:
 
@@ -40,7 +40,7 @@
 
 (v)  A person other than persons licensed as health maintenance organizations under Chapter 8 may not use the term "Health Maintenance Organization" or "HMO" in referring to itself.
 
-(b) A licensee's violation creates a rebuttable presumption that the violation was also committed by the insurer if:
+(b)  A licensee's violation creates a rebuttable presumption that the violation was also committed by the insurer if:
 
 (i)  the licensee under this title distributes cards or documents, exhibits a sign, or publishes an advertisement that violates Subsection (1)(a), with reference to a particular insurer:
 
@@ -50,37 +50,29 @@
 
 (ii)  the cards, documents, signs, or advertisements are supplied or approved by that insurer.
 
-(2) (a) (i) A licensee under this title, or an officer or employee of a licensee may not induce any person to enter into or continue an insurance contract or to terminate an existing insurance contract by offering benefits not specified in the policy to be issued or continued, including premium or commission rebates.
+(2) (a)  A title insurer or producer or any officer or employee of either may not pay, allow, give, or offer to pay, allow, or give, directly or indirectly, as an inducement to obtaining any title insurance business:
 
-(ii)  An insurer may not make or knowingly allow any agreement of insurance that is not clearly expressed in the policy to be issued or renewed.
+(i)  any rebate, reduction, or abatement of any rate or charge made incident to the issuance of the title insurance;
 
-(iii)  This Subsection (2)(a) does not preclude:
+(ii)  any special favor or advantage not generally available to others; or
 
-(A) an insurer from reducing premiums because of expense savings;
+(iii)  any money or other consideration, except if approved under Section 31A-2-405; or
 
-(B)  an insurer from providing to a policyholder or insured one or more incentives to participate in programs or activities designed to reduce claims or claim expenses;
+(iv)  material inducement.
 
-(C)  the usual kinds of social courtesies not related to particular transactions; or
+(b)  "Charge made incident to the issuance of the title insurance" includes escrow charges, and any other services that are prescribed in rule by the Title and Escrow Commission after consultation with the commissioner and subject to Section 31A-2-404.
 
-(D)  an insurer from receiving premiums under an installment payment plan.
+(c)  An insured or any other person connected, directly or indirectly, with the transaction may not knowingly receive or accept, directly or indirectly, any benefit referred to in Subsection (2)(a), including:
 
-(iv)  The commissioner may adopt rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to define what constitutes an incentive described in Subsection (2)(a)(iii)(B).
+(A)  a person licensed under Title 61, Chapter 2c, Utah Residential Mortgage Practices and Licensing Act;
 
-(b)  A licensee under this title may not absorb the tax under Section 31A-3-301.
+(B)  a person licensed under Title 61, Chapter 2f, Real Estate Licensing and Practices Act;
 
-(c) (i)  A title insurer or producer or any officer or employee of either may not pay, allow, give, or offer to pay, allow, or give, directly or indirectly, as an inducement to obtaining any title insurance business:
+(C)  a builder;
 
-(A)  any rebate, reduction, or abatement of any rate or charge made incident to the issuance of the title insurance;
+(D)  an attorney; or
 
-(B)  any special favor or advantage not generally available to others; or
-
-(C)  any money or other consideration, except if approved under Section 31A-2-405; or
-
-(D)  material inducement.
-
-(ii)  "Charge made incident to the issuance of the title insurance" includes escrow charges, and any other services that are prescribed in rule by the Title and Escrow Commission after consultation with the commissioner and subject to Section 31A-2-404.
-
-(iii)  An insured or any other person connected, directly or indirectly, with the transaction, including a mortgage lender, real estate broker, builder, attorney, or any officer, employee, or agent of any of them, may not knowingly receive or accept, directly or indirectly, any benefit referred to in Subsection (2)(c)(i).
+(E)  an officer, employee, or agent of a person listed in this Subsection (2)(c)(iii).
 
 (3) (a)  An insurer may not unfairly discriminate among policyholders by charging different premiums or by offering different terms of coverage, except on the basis of classifications related to the nature and the degree of the risk covered or the expenses involved.
 
@@ -118,27 +110,27 @@
 
 (b)  A licensee whose license is suspended, limited, or revoked under Section 31A-2-308, 31A-23a-111, or 31A-23a-112 may not refuse or fail to return the license to the commissioner on demand.
 
-(8) (a)  A person may not engage in any other unfair method of competition or any other unfair or deceptive act or practice in the business of insurance, as defined by the commissioner by rule, after a finding that they:
+(8) (a)  A person may not engage in an unfair method of competition or any other unfair or deceptive act or practice in the business of insurance, as defined by the commissioner by rule, after a finding that the method of competition, the act, or the practice:
 
-(i)  are misleading;
+(i)  is misleading;
 
-(ii)  are deceptive;
+(ii)  is deceptive;
 
-(iii)  are unfairly discriminatory;
+(iii)  is unfairly discriminatory;
 
-(iv)  provide an unfair inducement; or
+(iv)  provides an unfair inducement; or
 
-(v)  unreasonably restrain competition.
+(v)  unreasonably restrains competition.
 
-(b)  Notwithstanding Subsection (8)(a), for purpose of the title insurance industry, the Title and Escrow Commission shall make rules, subject to Section 31A-2-404, that define any other unfair method of competition or any other unfair or deceptive act or practice after a finding that they:
+(b)  Notwithstanding Subsection (8)(a), for purpose of the title insurance industry, the Title and Escrow Commission shall make rules, subject to Section 31A-2-404, that define an unfair method of competition or unfair or deceptive act or practice after a finding that the method of competition, the act, or the practice:
 
-(i)  are misleading;
+(i)  is misleading;
 
-(ii)  are deceptive;
+(ii)  is deceptive;
 
-(iii)  are unfairly discriminatory;
+(iii)  is unfairly discriminatory;
 
-(iv)  provide an unfair inducement; or
+(iv)  provides an unfair inducement; or
 
-(v)  unreasonably restrain competition.
+(v)  unreasonably restrains competition.
 

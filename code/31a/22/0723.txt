@@ -1,6 +1,6 @@
-31A-22-723.   Group and blanket conversion coverage.
+31A-22-723.   Conversion from group coverage.
 
-(1)  Notwithstanding Subsection 31A-1-103(3)(f), and except as provided in Subsection (3), all policies of accident and health insurance offered on a group basis under this title, or Title 49, Chapter 20, Public Employees' Benefit and Insurance Program Act, shall provide that a person whose insurance under the group policy has been terminated is entitled to choose a converted individual policy in accordance with this section and Section 31A-22-724.
+(1)  Notwithstanding Subsection 31A-1-103(3)(f), and except as provided in Subsection (3), a policy of accident and health insurance offered on a group basis under this title, or Title 49, Chapter 20, Public Employees' Benefit and Insurance Program Act, shall provide that a person whose insurance under the group policy has been terminated is entitled to choose a converted individual policy in accordance with this section and Section 31A-22-724.
 
 (2)  A person who has lost group coverage may elect conversion coverage with the insurer that provided prior group coverage if the person:
 
@@ -14,7 +14,7 @@
 
 (iii)  alternative coverage under Section 31A-22-724;
 
-(c)  has not acquired or is not covered under any other group coverage that covers all preexisting conditions, including maternity, if the coverage exists; and
+(c)  has not acquired or is not covered under any other group coverage that covers preexisting conditions, including maternity, if the coverage exists; and
 
 (d)  resides in the insurer's service area.
 
@@ -48,7 +48,7 @@
 
 (d)  was terminated pursuant to Subsection 31A-8-402.3(2)(a), 31A-22-721(2)(a), or 31A-30-107(2)(a).
 
-(4) (a)  The employer shall provide written notification of the right to an individual conversion policy within 30 days of the insured's termination of coverage to:
+(4) (a)  The insurer shall provide written notification of the right to an individual conversion policy within 30 days of the insurer receiving notice of, the insured's termination of COBRA or Utah mini-COBRA coverage to:
 
 (i)  the terminated insured;
 
@@ -78,19 +78,15 @@
 
 (II)  the guardian of any dependents, if different from a surviving spouse.
 
-(5) (a)  An insurer is not required to issue a converted policy which provides benefits in excess of those provided under the group policy from which conversion is made.
+(5) (a)  An insurer is not required to issue a converted policy that provides benefits in excess of those provided under the group policy from which conversion is made.
 
-(b)  Except as provided in Subsection (5)(c), if the conversion is made from a health benefit plan, the employee or member shall be offered:
+(b)  Except as provided in Subsection (5)(c), if the conversion is made from a health benefit plan, the employee or member shall be offered the alternative coverage as provided in Subsection 31A-22-724(1)(a).
 
-(i)  at least the basic benefit plan as provided in Section 31A-22-613.5 through December 31, 2009; and
+(c)  If the benefit levels required under Subsection (5)(b) exceed the benefit levels provided under the group policy, the conversion policy may offer benefits that are substantially similar to those provided under the group policy.
 
-(ii)  beginning January 1, 2010, only the alternative coverage as provided in Subsection 31A-22-724(1)(a).
+(6)  Written application for a converted policy shall be made and the first premium paid to the insurer no later than 30 days after the date of notice under Subsection (4)(a).
 
-(c)  If the benefit levels required under Subsection (5)(b) exceed the benefit levels provided under the group policy, the conversion policy may offer benefits which are substantially similar to those provided under the group policy.
-
-(6)  Written application for the converted policy shall be made and the first premium paid to the insurer no later than 60 days after termination of the group accident and health insurance.
-
-(7)  The converted policy shall be issued without evidence of insurability.
+(7)  A converted policy shall be issued without evidence of insurability.
 
 (8) (a)  The initial premium for the converted policy for the first 12 months and subsequent renewal premiums shall be determined in accordance with premium rates applicable to age, class of risk of the person, and the type and amount of insurance provided.
 
@@ -98,15 +94,15 @@
 
 (c)  The premium for converted policies shall be payable monthly or quarterly as required by the insurer for the policy form and plan selected, unless another mode or premium payment is mutually agreed upon.
 
-(9)  The converted policy becomes effective at the time the insurance under the group policy terminates.
+(9)  A converted policy becomes effective at the time the insurance under the group policy terminates.
 
-(10) (a)  A newly issued converted policy covers the employee or the member and must also cover all dependents covered by the group policy at the date of termination of the group coverage.
+(10) (a)  A newly issued converted policy covers the employee or the member and shall also cover dependents covered by the group policy at the date of termination of the group coverage.
 
 (b)  The only dependents that may be added after the policy has been issued are children and dependents as required by Section 31A-22-610 and Subsections 31A-22-610.5(6) and (7).
 
-(c)  At the option of the insurer, a separate converted policy may be issued to cover any dependent.
+(c)  At the option of the insurer, a separate converted policy may be issued to cover a dependent.
 
-(11) (a)  To the extent the group policy provided maternity benefits, the conversion policy shall provide maternity benefits equal to the lesser of the maternity benefits of the group policy or the conversion policy until termination of a pregnancy that exists on the date of conversion if one of the following is pregnant on the date of the conversion:
+(11) (a)  To the extent a group policy provided maternity benefits, a conversion policy shall provide maternity benefits equal to the lesser of the maternity benefits of the group policy or the conversion policy until termination of a pregnancy that exists on the date of conversion if one of the following is pregnant on the date of the conversion:
 
 (i)  the insured;
 
@@ -114,11 +110,11 @@
 
 (iii)  a dependent of the insured.
 
-(b)  The requirements of this Subsection (11) do not apply to a pregnancy that occurs after the date of conversion.
+(b)  This Subsection (11) does not apply to a pregnancy that occurs after the date of conversion.
 
-(12)  Except as provided in this Subsection (12), a converted policy is renewable with respect to all individuals or dependents at the option of the insured.  An insured may be terminated from a converted policy for the following reasons:
+(12)  Except as provided in this Subsection (12), a converted policy is renewable with respect to an individual or dependent at the option of the insured.  An insured may be terminated from a converted policy for the following reasons:
 
-(a)  a dependent is no longer eligible under the policy;
+(a)  a dependent is no longer eligible under the converted policy;
 
 (b)  for a network plan, if the individual no longer lives, resides, or works in:
 
@@ -138,11 +134,13 @@
 
 (14)  An insurer is only required to offer a conversion policy that complies with Subsection 31A-22-724(1)(b) and, notwithstanding Sections 31A-8-402.5 and 31A-30-107.1, may discontinue any other conversion policy if:
 
-(a)  the discontinued conversion policy is discontinued uniformly without regard to any health related factor;
+(a)  the discontinued conversion policy is discontinued uniformly without regard to a health related factor;
 
-(b)  any affected individual is provided with 90 days' advanced written notice of the discontinuation of the existing conversion policy;
+(b) an affected individual is provided with 90 days' advanced written notice of the discontinuation of the existing conversion policy;
 
-(c)  the policy holder is offered the insurer's conversion policy that complies with Subsection 31A-22-724(1)(b); and
+(c)  the policyholder is offered the insurer's conversion policy that complies with Subsection 31A-22-724(1)(b); and
 
-(d)  the policy holder is not re-rated for purposes of premium calculation.
+(d)  the policyholder is not re-rated for purposes of premium calculation.
+
+(15)  This section does not apply to a blanket accident and health insurance policy issued under Section 31A-22-701.
 

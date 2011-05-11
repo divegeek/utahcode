@@ -1,16 +1,28 @@
 20A-7-506.   Submitting the initiative petition -- Certification of signatures by the county clerks -- Transfer to local clerk.
 
-(1)  The sponsors shall deliver each signed and verified initiative packet to the county clerk of the county in which the packet was circulated no later than:
+(1) (a)  The sponsors shall deliver each signed and verified initiative packet to the county clerk of the county in which the packet was circulated on or before the sooner of:
 
-(a)  for county initiatives, no later than the April 15 falling before the regular general election; or
+(i)  for county initiatives:
 
-(b)  for municipal initiatives, no later than the April 15 falling before the municipal general election.
+(A)  316 days after the day on which the application is filed; or
 
-(2)  No later than May 1, the county clerk shall:
+(B)  the April 15 immediately before the next regular general election immediately after the application is filed under Section 20A-7-502; or
 
-(a)  check the names of all persons completing the verification on the back of each signature sheet to determine whether or not those persons are residents of Utah and are at least 18 years old; and
+(ii)  for municipal initiatives:
 
-(b)  submit the name of each of those persons who is not a Utah resident or who is not at least 18 years old to the attorney general and county attorney.
+(A)  316 days after the day on which the application is filed; or
+
+(B)  the April 15 immediately before the next municipal general election immediately after the application is filed under Section 20A-7-502.
+
+(b)  A sponsor may not submit an initiative packet after the deadline established in this Subsection (1).
+
+(2) (a)  No later than May 1, the county clerk shall:
+
+(i)  check the names of all persons completing the verification on the back of each signature sheet to determine whether those persons are residents of Utah and are at least 18 years old; and
+
+(ii)  submit the name of each of those persons who is not a Utah resident or who is not at least 18 years old to the attorney general and county attorney.
+
+(b)  The county clerk may not certify a signature under Subsection (3) on an initiative packet that is not verified in accordance with Section 20A-7-505.
 
 (3)  No later than May 15, the county clerk shall:
 
@@ -18,5 +30,5 @@
 
 (b)  certify on the petition whether or not each name is that of a voter; and
 
-(c)  deliver all of the packets to the local clerk.
+(c)  deliver all of the verified packets to the local clerk.
 

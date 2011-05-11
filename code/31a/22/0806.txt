@@ -2,7 +2,7 @@
 
 (1)  All credit life insurance and credit accident and health insurance shall be evidenced by an individual policy, or, in the case of group insurance, by a certificate of insurance delivered to the debtor.
 
-(2)  Each of these types of policies or certificates shall, in addition to satisfying the requirements of Chapter 21, set forth:
+(2)  Each of these types of policies or certificates shall, in addition to satisfying the requirements of Chapter 21, Insurance Contracts in General, set forth:
 
 (a)  the name and home office address of the insurer;
 
@@ -38,5 +38,5 @@
 
 (5)  If the named insurer does not accept the risk, the debtor shall receive a policy or certificate of insurance setting forth the name and home office address of the substituted insurer and the amount of the premium to be charged.  If the premium is less than that set forth in the notice of proposed insurance, an appropriate refund shall be made.
 
-(6)  If a creditor makes available to the debtors more than one plan of credit life or credit accident and health insurance, all debtors must be informed of the plans applicable to the specific type of loan transaction for which the debtor is applying.
+(6)  If a creditor makes available to the debtors more than one plan of credit life or credit accident and health insurance, all debtors shall be informed of the plans applicable to the specific type of loan transaction for which the debtor is applying.
 

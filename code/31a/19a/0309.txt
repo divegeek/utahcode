@@ -4,7 +4,7 @@
 
 (b)  The rules provided for in Subsection (1) may include:
 
-(i)  the data that must be reported by an insurer;
+(i)  the data that shall be reported by an insurer;
 
 (ii)  definitions of data elements;
 

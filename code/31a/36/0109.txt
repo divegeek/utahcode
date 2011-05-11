@@ -22,7 +22,7 @@
 
 (iii)  the insurer that issued the policy covering the insured.
 
-(3)  Within 20 calendar days after an owner executes documents necessary to transfer rights under a policy, or enters into an agreement in any form, express or implied, to settle the policy, the life settlement provider shall give written notice to the issuer of the policy that the policy has or will become settled.  The notice must be accompanied by a copy of the documents required by Subsection (4).
+(3)  Within 20 calendar days after an owner executes documents necessary to transfer rights under a policy, or enters into an agreement in any form, express or implied, to settle the policy, the life settlement provider shall give written notice to the issuer of the policy that the policy has or will become settled.  The notice shall be accompanied by a copy of the documents required by Subsection (4).
 
 (4)  The life settlement provider shall deliver a copy of the following to the insurer that issued the policy that is the subject of the life settlement:
 
@@ -40,13 +40,13 @@
 
 (ii)  an authorization that accompanies the verification described in Subsection (5)(b)(i) signed by the owner.
 
-(6) Medical information solicited or obtained by a life settlement provider or life settlement producer is subject to:
+(6)  Medical information solicited or obtained by a life settlement provider or life settlement producer is subject to:
 
 (a)  other laws of this state relating to the confidentiality of the information; and
 
 (b)  a rule relating to privacy of medical or personal information promulgated by the commissioner under Title V, Section 505 of the Gramm-Leach-Bliley Act of 1999, 15 U.S.C. Sec. 6805.
 
-(7) (a) (i)  A life settlement entered into in this state must reserve to the owner an unconditional right to rescind the life settlement within the rescission period provided for in this Subsection (7).
+(7) (a) (i)  A life settlement entered into in this state shall reserve to the owner an unconditional right to rescind the life settlement within the rescission period provided for in this Subsection (7).
 
 (ii)  The rescission period ends 15 calendar days after the day on which the owner receives the proceeds of the life settlement.
 
@@ -60,13 +60,13 @@
 
 (ii)  once every month if the insured has a life expectancy of less than one year.
 
-(b) A life settlement provider or life settlement producer shall explain the procedure for the contacts allowed under this Subsection (8) to the owner when the application for the life settlement is signed by all participants in the life settlement.
+(b)  A life settlement provider or life settlement producer shall explain the procedure for the contacts allowed under this Subsection (8) to the owner when the application for the life settlement is signed by all participants in the life settlement.
 
 (c)  The limitations of this Subsection (8) do not apply to contacts for purposes other than determining health status.
 
 (d)  A life settlement provider or life settlement producer is responsible for the acts of its authorized representative in violation of this Subsection (8).
 
-(9)  The trustee of a related provider trust must agree in writing with the life settlement provider that:
+(9)  The trustee of a related provider trust shall agree in writing with the life settlement provider that:
 
 (a)  the life settlement provider is responsible for ensuring compliance with all statutory and regulatory requirements; and
 
