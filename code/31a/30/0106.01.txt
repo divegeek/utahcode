@@ -1,6 +1,6 @@
 31A-30-106.1.   Small employer premiums -- Rating restrictions -- Disclosure.
 
-(1)  Premium rates for small employer health benefit plans under this chapter are subject to this section for a health benefit plan that is issued or renewed, on or after July 1, 2011.
+(1)  Premium rates for small employer health benefit plans under this chapter are subject to this section.
 
 (2) (a)  The index rate for a rating period for any class of business may not exceed the index rate for any other class of business by more than 20%.
 
@@ -30,61 +30,105 @@
 
 (6)  The small employer carrier may not use case characteristics other than the following:
 
-(a)  age of the employee, as determined at the beginning of the plan year, limited to:
-
-(i)  the following age bands:
-
-(A)  less than 20;
-
-(B)  20-24;
-
-(C)  25-29;
-
-(D)  30-34;
-
-(E)  35-39;
-
-(F)  40-44;
-
-(G)  45-49;
-
-(H)  50-54;
-
-(I)  55-59;
-
-(J)  60-64; and
-
-(K)  65 and above; and
-
-(ii)  a standard slope ratio range for each age band, applied to each family composition tier rating structure under Subsection (6)(c):
-
-(A)  as developed by the commissioner by administrative rule;
-
-(B)  not to exceed an overall ratio of 5:1; and
-
-(C)  the age slope ratios for each age band may not overlap;
+(a)  age of the employee, in accordance with Subsection (7);
 
 (b)  geographic area;
 
-(c)  family composition, limited to:
+(c)  family composition in accordance with Subsection (9);
 
-(i)  an overall ratio of 5:1 or less; and
+(d)  for plans renewed or effective on or after July 1, 2011, gender of the employee and spouse; and
 
-(ii)  a four tier rating structure that includes:
+(e)  for an individual age 65 and older, whether the employer policy is primary or secondary to Medicare.
+
+(7)  Age limited to:
+
+(a)  the following age bands:
+
+(i)  less than 20;
+
+(ii)  20-24;
+
+(iii)  25-29;
+
+(iv)  30-34;
+
+(v)  35-39;
+
+(vi)  40-44;
+
+(vii)  45-49;
+
+(viii)  50-54;
+
+(ix)  55-59;
+
+(x)  60-64; and
+
+(xi)  65 and above; and
+
+(b)  a standard slope ratio range for each age band, applied to each family composition tier rating structure under Subsection (9)(b):
+
+(i)  as developed by the commissioner by administrative rule; and
+
+(ii)  not to exceed an overall ratio as provided in Subsection (8).
+
+(8) (a)  The overall ratio permitted in Subsection (7)(b)(ii) may not exceed:
+
+(i)  5:1 for plans renewed or effective before January 1, 2012; and
+
+(ii)  6:1 for plans renewed or effective on or after January 1, 2012; and
+
+(b)  the age slope ratios for each age band may not overlap.
+
+(9)  Except as provided in Subsection 31A-30-207(2), family composition is limited to:
+
+(a)  an overall ratio of:
+
+(i)  5:1 or less for plans renewed or effective before January 1, 2012; and
+
+(ii)  6:1 or less for plans renewed or effective on or after January 1, 2012; and
+
+(b)  a tier rating structure that includes:
+
+(i)  four tiers that include:
 
 (A)  employee only;
 
 (B)  employee plus spouse;
 
-(C)  employee plus a dependent or dependents; and
+(C)  employee plus a child or children; and
 
-(D)  a family, consisting of an employee plus spouse, and a dependent or dependents; and
+(D)  a family, consisting of an employee plus spouse, and a child or children;
 
-(d)  gender of the employee or spouse.
+(ii)  for plans renewed or effective on or after January 1, 2012, five tiers that include:
 
-(7)  If a health benefit plan is a health benefit plan into which the small employer carrier is no longer enrolling new covered insureds, the small employer carrier shall use the percentage change in the base premium rate, provided that the change does not exceed, on a percentage basis, the change in the new business premium rate for the most similar health benefit product into which the small employer carrier is actively enrolling new covered insureds.
+(A)  employee only;
 
-(8) (a)  A covered carrier may not transfer a covered insured involuntarily into or out of a class of business.
+(B)  employee plus spouse;
+
+(C)  employee plus one child;
+
+(D)  employee plus two or more children; and
+
+(E)  employee plus spouse plus one or more children; or
+
+(iii)  for plans renewed or effective on or after January 1, 2012, six tiers that include:
+
+(A)  employee only;
+
+(B)  employee plus spouse;
+
+(C)  employee plus one child;
+
+(D)  employee plus two or more children;
+
+(E)  employee plus spouse plus one child; and
+
+(F)  employee plus spouse plus two or more children.
+
+(10)  If a health benefit plan is a health benefit plan into which the small employer carrier is no longer enrolling new covered insureds, the small employer carrier shall use the percentage change in the base premium rate, provided that the change does not exceed, on a percentage basis, the change in the new business premium rate for the most similar health benefit product into which the small employer carrier is actively enrolling new covered insureds.
+
+(11) (a)  A covered carrier may not transfer a covered insured involuntarily into or out of a class of business.
 
 (b)  A covered carrier may not offer to transfer a covered insured into or out of a class of business unless the offer is made to transfer all covered insureds in the class of business without regard to:
 
@@ -96,7 +140,7 @@
 
 (iv)  duration of coverage since issue.
 
-(9) (a)  Each small employer carrier shall maintain at the small employer carrier's principal place of business a complete and detailed description of its rating practices and renewal underwriting practices, including information and documentation that demonstrate that the small employer carrier's rating methods and practices are:
+(12) (a)  Each small employer carrier shall maintain at the small employer carrier's principal place of business a complete and detailed description of its rating practices and renewal underwriting practices, including information and documentation that demonstrate that the small employer carrier's rating methods and practices are:
 
 (i)  based upon commonly accepted actuarial assumptions; and
 
@@ -108,15 +152,15 @@
 
 (B)  the rating methods of the small employer carrier are actuarially sound.
 
-(ii)  A copy of the certification required by Subsection (9)(b)(i) shall be retained by the small employer carrier at the small employer carrier's principal place of business.
+(ii)  A copy of the certification required by Subsection (12)(b)(i) shall be retained by the small employer carrier at the small employer carrier's principal place of business.
 
-(c)  A small employer carrier shall make the information and documentation described in this Subsection (9) available to the commissioner upon request.
+(c)  A small employer carrier shall make the information and documentation described in this Subsection (12) available to the commissioner upon request.
 
-(10) (a)  The commissioner shall, by July 1, 2010, establish rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
+(13) (a)  The commissioner shall establish rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
 
 (i)  implement this chapter; and
 
-(ii)  assure that rating practices used by small employer carriers under this section and carriers for individual plans under Section 31A-30-106, in effect on January 1, 2011, are consistent with the purposes of this chapter.
+(ii)  assure that rating practices used by small employer carriers under this section and carriers for individual plans under Section 31A-30-106 are consistent with the purposes of this chapter.
 
 (b)  The rules may:
 
@@ -124,5 +168,5 @@
 
 (ii)  prescribe the manner in which case characteristics may be used by small employer and individual carriers.
 
-(11)  Records submitted to the commissioner under this section shall be maintained by the commissioner as protected records under Title 63G, Chapter 2, Government Records Access and Management Act.
+(14)  Records submitted to the commissioner under this section shall be maintained by the commissioner as protected records under Title 63G, Chapter 2, Government Records Access and Management Act.
 

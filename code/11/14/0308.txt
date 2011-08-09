@@ -4,7 +4,7 @@
 
 (a)  issue bonds payable, in whole or in part, from federal mineral lease payments which are to be deposited into the Mineral Lease Account under Section 59-21-1 and distributed to special service districts under Subsection 59-21-2(2)(h); or
 
-(b)  pledge all or any part of the mineral lease payments referred to in Subsection (1)(a) as an additional source of payment for their general obligation bonds.
+(b)  pledge all or any part of the mineral lease payments described in Subsection (1)(a) as an additional source of payment for their general obligation bonds.
 
 (2)  The proceeds of these bonds may be used:
 
@@ -24,7 +24,7 @@
 
 (B)  jeopardize the timely payment of principal or interest when due.
 
-(b)  Notwithstanding any other provision of this chapter, the resolution may contain covenants with the bond holder regarding:
+(b)  Notwithstanding any other provision of this chapter, the resolution described in Subsection (3)(a) may contain covenants with the bond holder regarding:
 
 (i)  mineral lease payments, or their disposition;
 
@@ -60,7 +60,7 @@
 
 (6)  The final maturity date of the bonds may not exceed 15 years from the date of their issuance.
 
-(7)  Bonds may not be issued under this section after December 31, 2010.
+(7)  Bonds may not be issued under this section after December 31, 2020.
 
 (8)  Bonds which are payable solely from a special fund into which mineral lease payments are deposited constitute a borrowing based solely upon the credit of the mineral lease payments received or to be received by the special service district and do not constitute an indebtedness or pledge of the general credit of the special service district or the state.
 

@@ -4,11 +4,11 @@
 
 (i)  prior to the publication of the premium rates on the Health Insurance Exchange;
 
-(ii)  to determine if the rates are in compliance with Subsection 31A-30-202.5(1)(b);
+(ii)  except as permitted by Subsection 31A-30-207(2), to determine if the carrier is using the same rating and underwriting practices in both the defined contribution arrangement market in the Health Insurance Exchange and the defined benefit market offered outside the Health Insurance Exchange, in compliance with Subsection 31A-30-202.5(1)(b);
 
 (iii)  to verify the validity of the rates, underwriting and risk factors, and premiums of plans both in and outside of the Health Insurance Exchange;
 
-(iv)  to verify that insurers are pricing similar health benefit plans and groups the same in and out of the exchange; and
+(iv)  to verify that insurers are pricing similar health benefit plans and groups the same in and out of the exchange, except as permitted by Subsection 31A-30-207(2); and
 
 (v)  as the department determines is necessary to oversee market conduct.
 
@@ -16,7 +16,7 @@
 
 (i)  established by the department in accordance with Section 63J-1-504; and
 
-(ii)  paid by all small employer carriers participating in the defined contribution arrangement market and small employer carriers offering health benefit plans under Chapter 30, Part 1, Individual and Small Employer Group.
+(ii)  paid by all small employer carriers participating in the defined contribution arrangement market and small employer carriers offering health benefit plans under Part 1, Individual and Small Employer Group.
 
 (c)  The department shall:
 

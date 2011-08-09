@@ -26,7 +26,7 @@
 
 (A)  use any business name, slogan, emblem, or related device that is misleading or likely to cause the insurer or other licensee to be mistaken for another insurer or other licensee already in business; or
 
-(B)  use any advertisement or other insurance promotional material that would cause a reasonable person to mistakenly believe that a state or federal government agency:
+(B)  use any advertisement or other insurance promotional material that would cause a reasonable person to mistakenly believe that a state or federal government agency, including the Health Insurance Exchange, also called the "Utah Health Exchange," created in Section 63M-1-2504, the Comprehensive Health Insurance Pool created in Chapter 29, Comprehensive Health Insurance Pool Act, and the Children's Health Insurance Program created in Title 26, Chapter 40, Utah Children's Health Insurance Act:
 
 (I)  is responsible for the insurance sales activities of the person;
 
@@ -64,15 +64,15 @@
 
 (c)  An insured or any other person connected, directly or indirectly, with the transaction may not knowingly receive or accept, directly or indirectly, any benefit referred to in Subsection (2)(a), including:
 
-(A)  a person licensed under Title 61, Chapter 2c, Utah Residential Mortgage Practices and Licensing Act;
+(i)  a person licensed under Title 61, Chapter 2c, Utah Residential Mortgage Practices and Licensing Act;
 
-(B)  a person licensed under Title 61, Chapter 2f, Real Estate Licensing and Practices Act;
+(ii)  a person licensed under Title 61, Chapter 2f, Real Estate Licensing and Practices Act;
 
-(C)  a builder;
+(iii)  a builder;
 
-(D)  an attorney; or
+(iv)  an attorney; or
 
-(E)  an officer, employee, or agent of a person listed in this Subsection (2)(c)(iii).
+(v)  an officer, employee, or agent of a person listed in this Subsection (2)(c)(iii).
 
 (3) (a)  An insurer may not unfairly discriminate among policyholders by charging different premiums or by offering different terms of coverage, except on the basis of classifications related to the nature and the degree of the risk covered or the expenses involved.
 
