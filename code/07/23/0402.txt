@@ -1,8 +1,0 @@
-7-23-402.   Electronic disbursement and collections.
-
-If a deferred deposit lender collects payment on a deferred deposit loan through an electronic payment, the deferred deposit lender shall, on the day the loan is executed:
-
-(1)  credit the amount of the deferred deposit loan through an electronic payment to the person receiving the deferred deposit loan; or
-
-(2)  make the amount of the deferred deposit loan immediately available to the person receiving the deferred deposit loan.
-
