@@ -1,0 +1,42 @@
+7-1-703.   Restrictions on acquisition of institutions and holding companies -- Enforcement.
+
+(1)  Unless the commissioner gives prior written approval under Section 7-1-705, no person may:
+
+(a)  acquire, directly or indirectly, control of a depository institution or depository institution holding company subject to the jurisdiction of the department;
+
+(b)  vote the stock of any depository institution or depository institution holding company subject to the jurisdiction of the department acquired in violation of Section 7-1-705;
+
+(c)  acquire all or any portion of the assets of a depository institution or a depository institution holding company subject to the jurisdiction of the department;
+
+(d)  assume all or any portion of the deposit liabilities of a depository institution subject to the jurisdiction of the department;
+
+(e)  take any action that causes a depository institution to become a subsidiary of a depository institution holding company subject to the jurisdiction of the department;
+
+(f)  take any action that causes a person other than an individual to become a depository institution holding company subject to the jurisdiction of the department;
+
+(g)  acquire, directly or indirectly, the voting or nonvoting securities of a depository institution or a depository institution holding company subject to the jurisdiction of the department if the acquisition would result in the person obtaining more than 20% of the authorized voting securities of the institution if the nonvoting securities were converted into voting securities; or
+
+(h)  merge or consolidate with a depository institution or depository institution holding company subject to the jurisdiction of the department.
+
+(2)  Any person who willfully violates any provision of this section or any rule or order issued by the department under this section is subject to a civil penalty of not more than $1,000 per day during which the violation continues.  The commissioner may assess the civil penalty after giving notice and opportunity for hearing.  The commissioner shall collect the civil penalty by bringing an action in the district court of the county in which the office of the commissioner is located.  Any applicant for approval of an acquisition is considered to have consented to the jurisdiction and venue of the court by filing an application for approval.
+
+(3)  The commissioner may secure injunctive relief to prevent any change in control or impending violation of this section.
+
+(4)  The commissioner may lengthen or shorten any time period specified in Section 7-1-705 if the commissioner finds it necessary to protect the public interest.
+
+(5)  The commissioner may exempt any class of financial institutions from this section by rule if the commissioner finds the exception to be in the public interest.
+
+(6)  The prior approval of the commissioner under Section 7-1-705 is not required for the acquisition by a person other than an individual of voting securities or assets of a depository institution or a depository institution holding company that are acquired by foreclosure or otherwise in the ordinary course of collecting a debt previously contracted in good faith if these voting securities or assets are divested within two years of acquisition.  The commissioner may, upon application, extend the two-year period of divestiture for up to three additional one-year periods if, in the commissioner's judgment, the extension would not be detrimental to the public interest.  The commissioner may adopt rules to implement the intent of Subsection (6).
+
+(7) (a)  An out-of-state depository institution without a branch in Utah, or an out-of-state depository institution holding company without a depository institution in Utah, may acquire:
+
+(i)  a Utah depository institution only if it has been in existence for at least five years; or
+
+(ii)  a Utah branch of a depository institution only if the branch has been in existence for at least five years.
+
+(b)  For purposes of Subsection (7)(a), a depository institution chartered solely for the purpose of acquiring another depository institution is considered to have been in existence for the same period as the depository institution to be acquired, so long as it does not open for business at any time before the acquisition.
+
+(c)  The commissioner may waive the restriction in Subsection (7)(a) in the case of a depository institution that is subject to, or is in danger of becoming subject to, supervisory action under Chapter 2 or Chapter 19 or, if applicable, the equivalent provisions of federal law or the law of the institution's home state.
+
+(d)  The restriction in Subsection (7)(a) does not apply to an acquisition of, or merger transaction between, affiliate depository institutions.
+

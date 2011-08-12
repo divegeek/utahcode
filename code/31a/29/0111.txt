@@ -1,0 +1,96 @@
+31A-29-111.   Eligibility -- Limitations.
+
+(1) (a)  Except as provided in Subsection (1)(b), an individual who is not HIPAA eligible is eligible for pool coverage if the individual:
+
+(i)  pays the established premium;
+
+(ii)  is a resident of this state; and
+
+(iii)  meets the health underwriting criteria under Subsection (5)(a).
+
+(b)  Notwithstanding Subsection (1)(a), an individual who is not HIPAA eligible is not eligible for pool coverage if one or more of the following conditions apply:
+
+(i)  the individual is eligible for health care benefits under Medicaid or Medicare, except as provided in Section 31A-29-112;
+
+(ii)  the individual has terminated coverage in the pool, unless:
+
+(A)  12 months have elapsed since the termination date; or
+
+(B)  the individual demonstrates that creditable coverage has been involuntarily terminated for any reason other than nonpayment of premium;
+
+(iii)  the pool has paid the maximum lifetime benefit to or on behalf of the individual;
+
+(iv)  the individual is an inmate of a public institution;
+
+(v)  the individual is eligible for a public health plan, as defined in federal regulations adopted pursuant to 42 U.S.C. 300gg;
+
+(vi)  the individual's health condition does not meet the criteria established under Subsection (5);
+
+(vii)  the individual is eligible for coverage under an employer group that offers a health benefit plan or a self-insurance arrangement to its eligible employees, dependents, or members as:
+
+(A)  an eligible employee;
+
+(B)  a dependent of an eligible employee; or
+
+(C)  a member;
+
+(viii)  the individual is covered under any other health benefit plan;
+
+(ix)  at the time of application, the individual has not resided in Utah for at least 12 consecutive months preceding the date of application; or
+
+(x)  the individual's employer pays any part of the individual's health benefit plan premium, either as an insured or a dependent, for pool coverage.
+
+(2) (a)  Except as provided in Subsection (2)(b), an individual who is HIPAA eligible is eligible for pool coverage if the individual:
+
+(i)  pays the established premium; and
+
+(ii)  is a resident of this state.
+
+(b)  Notwithstanding Subsection (2)(a), a HIPAA eligible individual is not eligible for pool coverage if one or more of the following conditions apply:
+
+(i)  the individual is eligible for health care benefits under Medicaid or Medicare, except as provided in Section 31A-29-112;
+
+(ii)  the individual is eligible for a public health plan, as defined in federal regulations adopted pursuant to 42 U.S.C. 300gg;
+
+(iii)  the individual is covered under any other health benefit plan;
+
+(iv)  the individual is eligible for coverage under an employer group that offers a health benefit plan or self-insurance arrangements to its eligible employees, dependents, or members as:
+
+(A)  an eligible employee;
+
+(B)  a dependent of an eligible employee; or
+
+(C)  a member;
+
+(v)  the pool has paid the maximum lifetime benefit to or on behalf of the individual;
+
+(vi)  the individual is an inmate of a public institution; or
+
+(vii)  the individual's employer pays any part of the individual's health benefit plan premium, either as an insured or a dependent, for pool coverage.
+
+(3) (a)  Notwithstanding Subsection (1)(b)(ix), if otherwise eligible under Subsection (1)(a), an individual whose health care insurance coverage from a state high risk pool with similar coverage is terminated because of nonresidency in another state is eligible for coverage under the pool subject to the conditions of Subsections (1)(b)(i) through (viii).
+
+(b)  Coverage sought under Subsection (3)(a) shall be applied for within 63 days after the termination date of the previous high risk pool coverage.
+
+(c)  The effective date of this state's pool coverage shall be the date of termination of the previous high risk pool coverage.
+
+(d)  The waiting period of an individual with a preexisting condition applying for coverage under this chapter shall be waived:
+
+(i)  to the extent to which the waiting period was satisfied under a similar plan from another state; and
+
+(ii)  if the other state's benefit limitation was not reached.
+
+(4) (a)  If an eligible individual applies for pool coverage within 30 days of being denied coverage by an individual carrier, the effective date for pool coverage shall be no later than the first day of the month following the date of submission of the completed insurance application to the carrier.
+
+(b)  Notwithstanding Subsection (4)(a), for individuals eligible for coverage under Subsection (3), the effective date shall be the date of termination of the previous high risk pool coverage.
+
+(5) (a)  The board shall establish and adjust, as necessary, health underwriting criteria based on:
+
+(i)  health condition; and
+
+(ii)  expected claims so that the expected claims are anticipated to remain within available funding.
+
+(b)  The board, with approval of the commissioner, may contract with one or more providers under Title 63G, Chapter 6, Utah Procurement Code, to develop underwriting criteria under Subsection (5)(a).
+
+(c)  If an individual is denied coverage by the pool under the criteria established in Subsection (5)(a), the pool shall issue a certificate of insurability to the individual for coverage under Subsection 31A-30-108(3).
+
