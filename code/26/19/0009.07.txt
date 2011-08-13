@@ -1,8 +1,0 @@
-26-19-9.7.   Legal recognition of electronic claims records.
-
-Pursuant to Title 46, Chapter 4, Uniform Electronic Transactions Act:
-
-(1)  a claim submitted to the department for payment may not be denied legal effect, enforceability, or admissibility as evidence in any court in any civil action because it is in electronic form; and
-
-(2)  a third party shall accept an electronic record of payments by the department for medical services on behalf of a recipient as evidence in support of the department's claim.
-
