@@ -1,0 +1,136 @@
+31A-30-103.   Definitions.
+
+As used in this chapter:
+
+(1)  "Actuarial certification" means a written statement by a member of the American Academy of Actuaries or other individual approved by the commissioner that a covered carrier is in compliance with Sections 31A-30-106 and 31A-30-106.1, based upon the examination of the covered carrier, including review of the appropriate records and of the actuarial assumptions and methods used by the covered carrier in establishing premium rates for applicable health benefit plans.
+
+(2)  "Affiliate" or "affiliated" means any entity or person who directly or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, a specified entity or person.
+
+(3)  "Base premium rate" means, for each class of business as to a rating period, the lowest premium rate charged or that could have been charged under a rating system for that class of business by the covered carrier to covered insureds with similar case characteristics for health benefit plans with the same or similar coverage.
+
+(4)  "Basic benefit plan" or "basic coverage" means a health benefit plan that:
+
+(a)  until January 1, 2012:
+
+(i)  is a federally qualified high deductible health plan;
+
+(ii)  has a deductible that has the lowest deductible that qualifies as a federally qualified high deductible health plan as adjusted by federal law; and
+
+(iii)  does not exceed an annual out-of-pocket maximum equal to three times the amount of the deductible; and
+
+(b)  on or after January 1, 2012, is actuarially equivalent to the NetCare plan with the highest actuarial value, as provided in Section 31A-22-724.
+
+(5)  "Carrier" means any person or entity that provides health insurance in this state including:
+
+(a)  an insurance company;
+
+(b)  a prepaid hospital or medical care plan;
+
+(c)  a health maintenance organization;
+
+(d)  a multiple employer welfare arrangement; and
+
+(e)  any other person or entity providing a health insurance plan under this title.
+
+(6) (a)  Except as provided in Subsection (6)(b), "case characteristics" means demographic or other objective characteristics of a covered insured that are considered by the carrier in determining premium rates for the covered insured.
+
+(b)  "Case characteristics" do not include:
+
+(i)  duration of coverage since the policy was issued;
+
+(ii)  claim experience; and
+
+(iii)  health status.
+
+(7)  "Class of business" means all or a separate grouping of covered insureds that is permitted by the commissioner in accordance with Section 31A-30-105.
+
+(8)  "Conversion policy" means a policy providing coverage under the conversion provisions required in Chapter 22, Part 7, Group Accident and Health Insurance.
+
+(9)  "Covered carrier" means any individual carrier or small employer carrier subject to this chapter.
+
+(10)  "Covered individual" means any individual who is covered under a health benefit plan subject to this chapter.
+
+(11)  "Covered insureds" means small employers and individuals who are issued a health benefit plan that is subject to this chapter.
+
+(12)  "Dependent" means an individual to the extent that the individual is defined to be a dependent by:
+
+(a)  the health benefit plan covering the covered individual; and
+
+(b)  Chapter 22, Part 6, Accident and Health Insurance.
+
+(13)  "Established geographic service area" means a geographical area approved by the commissioner within which the carrier is authorized to provide coverage.
+
+(14)  "Index rate" means, for each class of business as to a rating period for covered insureds with similar case characteristics, the arithmetic average of the applicable base premium rate and the corresponding highest premium rate.
+
+(15)  "Individual carrier" means a carrier that provides coverage on an individual basis through a health benefit plan regardless of whether:
+
+(a)  coverage is offered through:
+
+(i)  an association;
+
+(ii)  a trust;
+
+(iii)  a discretionary group; or
+
+(iv)  other similar groups; or
+
+(b)  the policy or contract is situated out-of-state.
+
+(16)  "Individual conversion policy" means a conversion policy issued to:
+
+(a)  an individual; or
+
+(b)  an individual with a family.
+
+(17)  "Individual coverage count" means the number of natural persons covered under a carrier's health benefit products that are individual policies.
+
+(18)  "Individual enrollment cap" means the percentage set by the commissioner in accordance with Section 31A-30-110.
+
+(19)  "New business premium rate" means, for each class of business as to a rating period, the lowest premium rate charged or offered, or that could have been charged or offered, by the carrier to covered insureds with similar case characteristics for newly issued health benefit plans with the same or similar coverage.
+
+(20)  "Premium" means money paid by covered insureds and covered individuals as a condition of receiving coverage from a covered carrier, including any fees or other contributions associated with the health benefit plan.
+
+(21) (a)  "Rating period" means the calendar period for which premium rates established by a covered carrier are assumed to be in effect, as determined by the carrier.
+
+(b)  A covered carrier may not have:
+
+(i)  more than one rating period in any calendar month; and
+
+(ii)  no more than 12 rating periods in any calendar year.
+
+(22)  "Resident" means an individual who has resided in this state for at least 12 consecutive months immediately preceding the date of application.
+
+(23)  "Short-term limited duration insurance" means a health benefit product that:
+
+(a)  is not renewable; and
+
+(b)  has an expiration date specified in the contract that is less than 364 days after the date the plan became effective.
+
+(24)  "Small employer carrier" means a carrier that provides health benefit plans covering eligible employees of one or more small employers in this state, regardless of whether:
+
+(a)  coverage is offered through:
+
+(i)  an association;
+
+(ii)  a trust;
+
+(iii)  a discretionary group; or
+
+(iv)  other similar grouping; or
+
+(b)  the policy or contract is situated out-of-state.
+
+(25)  "Uninsurable" means an individual who:
+
+(a)  is eligible for the Comprehensive Health Insurance Pool coverage under the underwriting criteria established in Subsection 31A-29-111(5); or
+
+(b) (i)  is issued a certificate for coverage under Subsection 31A-30-108(3); and
+
+(ii)  has a condition of health that does not meet consistently applied underwriting criteria as established by the commissioner in accordance with Subsections 31A-30-106(1)(g) and (h) for which coverage the applicant is applying.
+
+(26)  "Uninsurable percentage" for a given calendar year equals UC/CI where, for purposes of this formula:
+
+(a)  "CI" means the carrier's individual coverage count as of December 31 of the preceding year; and
+
+(b)  "UC" means the number of uninsurable individuals who were issued an individual policy on or after July 1, 1997.
+

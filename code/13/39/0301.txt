@@ -1,0 +1,28 @@
+13-39-301.   Criminal penalty.
+
+(1)  A person who violates Section 13-39-202 commits a computer crime and:
+
+(a)  is guilty of a class B misdemeanor for a first offense with respect to a contact point registered with the division under Subsection 13-39-201(3)(a); and
+
+(b)  is guilty of a class A misdemeanor:
+
+(i)  for each subsequent violation with respect to a contact point registered with the division under Subsection 13-39-201(3)(a); or
+
+(ii)  for each violation with respect to a domain name registered with the division under Subsection 13-39-201(3)(b).
+
+(2)  A person commits a computer crime and is guilty of a second degree felony if the person:
+
+(a)  uses information obtained from the division under this chapter to violate Section 13-39-202;
+
+(b)  improperly:
+
+(i)  obtains contact points from the registry; or
+
+(ii)  attempts to obtain contact points from the registry; or
+
+(c)  uses, or transfers to a third party to use, information from the registry to send a solicitation.
+
+(3)  A criminal conviction or penalty under this section does not relieve a person from civil liability in an action under Section 13-39-302.
+
+(4)  Each communication sent in violation of Section 13-39-202 is a separate offense under this section.
+

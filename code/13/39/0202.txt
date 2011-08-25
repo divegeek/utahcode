@@ -1,0 +1,30 @@
+13-39-202.   Prohibition of sending certain materials to a registered contact point -- Exception for consent.
+
+(1)  A person may not send, cause to be sent, or conspire with a third party to send a communication to a contact point or domain that has been registered for more than 30 calendar days with the division under Section 13-39-201 if the communication:
+
+(a) has the primary purpose of advertising or promoting a product or service that a minor is prohibited by law from purchasing; or
+
+(b)  contains or has the primary purpose of advertising or promoting material that is harmful to minors, as defined in Section 76-10-1201.
+
+(2) Except as provided in Subsection (4), consent of a minor is not a defense to a violation of this section.
+
+(3)  An Internet service provider does not violate this section for solely transmitting a message across the network of the Internet service provider.
+
+(4) (a)  Notwithstanding Subsection (1), a person may send a communication to a contact point if, before sending the communication, the person sending the communication receives consent from an adult who controls the contact point.
+
+(b)  Any person who proposes to send a communication under Subsection (4)(a) shall:
+
+(i)  verify the age of the adult who controls the contact point by inspecting the adult's government-issued identification card in a face-to-face transaction;
+
+(ii)  obtain a written record indicating the adult's consent that is signed by the adult;
+
+(iii)  include in each communication:
+
+(A)  a notice that the adult may rescind the consent; and
+
+(B)  information that allows the adult to opt out of receiving future communications; and
+
+(iv)  notify the division that the person intends to send communications under this Subsection (4).
+
+(c)  The division shall implement rules to verify that a person providing notification under Subsection (4)(b)(iv) complies with this Subsection (4).
+

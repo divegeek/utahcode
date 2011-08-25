@@ -1,0 +1,50 @@
+31A-17-602.   RBC reports -- RBC of life and accident and health insurers -- RBC of property and casualty insurers.
+
+(1)  Every domestic life or accident and health insurer, every domestic property and casualty insurer, and every domestic health organization shall:
+
+(a)  on or before March 1, prepare and submit to the commissioner a report of its RBC levels as of the end of the calendar year just ended, in a form and containing the information as is required by the RBC instructions;
+
+(b)  file its RBC report with the insurance commissioner in any state in which the insurer or health organization is authorized to do business, if the insurance commissioner of that state notifies the insurer or health organization of its request in writing, in which case the insurer or health organization may file its RBC report not later than the later of:
+
+(i)  15 days from the receipt of notice to file its RBC report with that state; or
+
+(ii)  March 1; and
+
+(c)  file the documents described in Subsections (1)(a) and (b) with the National Association of Insurance Commissioners in accordance with RBC instructions.
+
+(2)  A life and accident and health insurer's RBC shall be determined in accordance with the formula set forth in the RBC instructions.  The formula shall take into account and may adjust for the covariance between:
+
+(a)  the risk with respect to the insurer's assets;
+
+(b)  the risk of adverse insurance experience with respect to the insurer's liabilities and obligations;
+
+(c)  the interest rate risk with respect to the insurer's business; and
+
+(d)  all other business risks and other relevant risks as set forth in the RBC instructions.
+
+(3)  A property and casualty insurer's RBC shall be determined in accordance with the formula set forth in the RBC instructions.  The formula shall take the following into account and may adjust for the covariance between:
+
+(a)  asset risk;
+
+(b)  credit risk;
+
+(c)  underwriting risk; and
+
+(d)  all other business risks and the other relevant risks as set forth in the RBC instructions.
+
+(4)  A health organization's RBC shall be determined in accordance with the formula set forth in the RBC instructions.  The formula shall take the following into account and may adjust for the covariance between:
+
+(a)  asset risk;
+
+(b)  credit risk;
+
+(c)  underwriting risk; and
+
+(d)  all other business risks and such other relevant risks as are set forth in the RBC instructions.
+
+(5) (a)  If a domestic insurer files an RBC report that the commissioner determines is inaccurate, the commissioner shall adjust the RBC report to correct the inaccuracy and shall notify the insurer of the adjustment.
+
+(b)  The notice under Subsection (5)(a) shall contain a statement of the reason for the adjustment.
+
+(6)  The commissioner may make rules to assist in applying the provisions of this part to health organizations.
+

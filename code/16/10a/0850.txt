@@ -1,0 +1,28 @@
+16-10a-850.   Definitions relating to conflicting interest transactions.
+
+As used in Sections 16-10a-850 through 16-10a-853:
+
+(1)  "Conflicting interest" with respect to a corporation means the interest a director has respecting a transaction effected or proposed to be effected by the corporation or by any entity in which the corporation has a controlling interest if:
+
+(a)  whether or not the transaction is brought before the board of directors of the corporation for action, the director knows at the time of commitment that the director or a related person of the director is a party to the transaction or has a beneficial financial interest in or is so closely linked to, the transaction and the transaction is so financially significant to the director or a related person of the director that the interest would reasonably be expected to exert an influence on the director's judgment if the director were called upon to vote on the transaction; or
+
+(b)  the transaction is brought, or is of a character and significance to the corporation that it would in the normal course be brought, before the board of directors for action, and the director knows at the time of commitment that any of the following persons is either a party to the transaction or has a beneficial financial interest in, or is so closely linked to, the transaction and the transaction is so financially significant to the person that the interest would reasonably be expected to exert an influence on the director's judgment if the director were called upon to vote on the transaction:
+
+(i)  an entity, other than the corporation, of which the director is a director, general partner, agent, or employee or an entity to which the director owes a fiduciary duty, other than a fiduciary duty arising because the director is a director of the corporation;
+
+(ii)  an individual who is a general partner, principal, or employer of the director or who is a beneficiary of a fiduciary duty owed by the director, other than a fiduciary duty arising because the director is a director of the corporation; or
+
+(iii)  a person that controls one or more of the entities specified in Subsection (1)(b)(i) or an entity that is controlled by, or is under common control with, one or more of the entities or individuals specified in Subsection (1)(b)(i) or (1)(b)(ii).
+
+(2)  "Director's conflicting interest transaction" with respect to a corporation means a transaction effected or proposed to be effected by the corporation, or by any entity controlled by the corporation respecting which a director has a conflicting interest.
+
+(3)  "Qualified director" means, with respect to a director's conflicting interest transaction, any director who does not have either a conflicting interest respecting the transaction, or a familial, financial, professional, or employment relationship with a second director who does have a conflicting interest respecting the transaction, which relationship would, in the circumstances, reasonably be expected to exert an influence on the first director's judgment when voting on the transaction.
+
+(4)  "Required disclosure" means disclosure by the director who has a conflicting interest of:
+
+(a)  the existence and nature of the conflicting interest; and
+
+(b)  all facts known to the director respecting the subject matter of the transaction that an ordinarily prudent person would reasonably believe to be material to a judgment about whether or not to proceed with the transaction.
+
+(5)  "Time of commitment" respecting a transaction means the time when the transaction is consummated or, if made pursuant to contract, the time when the corporation or the entity controlled by the corporation becomes contractually obligated so that its unilateral withdrawal from the transaction would entail significant loss, liability, or other damage.
+
