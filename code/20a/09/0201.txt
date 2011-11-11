@@ -82,7 +82,7 @@
 
 (III)  local campaign finance disclosure laws, if applicable;
 
-(ii)  provide the candidate with a copy of the current campaign financial disclosure laws for the office the candidate is seeking and inform the candidate that failure to comply will result in disqualification as a candidate and removal of the candidate's name from the ballot;
+(ii)  except for a presidential candidate, provide the candidate with a copy of the current campaign financial disclosure laws for the office the candidate is seeking and inform the candidate that failure to comply will result in disqualification as a candidate and removal of the candidate's name from the ballot;
 
 (iii)  provide the candidate with a copy of Section 20A-7-801 regarding the Statewide Electronic Voter Information Website Program and inform the candidate of the submission deadline under Subsection 20A-7-801(4)(a);
 
@@ -168,7 +168,21 @@ Name and Title of Officer Authorized to Administer Oath 	______________________"
 
 (vi)  The filing officer may request that a person who makes a claim of impecuniosity under this Subsection (5)(d) file a financial statement on a form prepared by the election official.
 
-(6)  Any person who fails to file a declaration of candidacy or certificate of nomination within the time provided in this chapter is ineligible for nomination to office.
+(6)  If there is no legislative appropriation for the Western States Presidential Primary election, as provided in Part 8, Western States Presidential Primary, a candidate for President of the United States who is affiliated with a registered political party and chooses to participate in the regular primary election shall:
 
-(7)  A declaration of candidacy filed under this section may not be amended or modified after the final date established for filing a declaration of candidacy.
+(a)  file a declaration of candidacy, in person or via a designated agent, with the lieutenant governor:
+
+(i)  on a form developed and provided by the lieutenant governor; and
+
+(ii)  on or after the second Friday in March and before 5 p.m. on the third Thursday in March before the next regular primary election;
+
+(b)  identify the registered political party whose nomination the candidate is seeking;
+
+(c)  provide a letter from the registered political party certifying that the candidate may participate as a candidate for that party in that party's presidential primary election; and
+
+(d)  pay the filing fee of $500.
+
+(7)  Any person who fails to file a declaration of candidacy or certificate of nomination within the time provided in this chapter is ineligible for nomination to office.
+
+(8)  A declaration of candidacy filed under this section may not be amended or modified after the final date established for filing a declaration of candidacy.
 

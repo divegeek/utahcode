@@ -20,11 +20,7 @@
 
 (c)  By 5 p.m. on May 16 of each even-numbered year, the lieutenant governor shall send the county clerks a certified list of the names of all statewide candidates, multicounty candidates, or single county candidates that shall be printed on the primary ballot and the order the candidates are to appear on the ballot in accordance with Section 20A-6-305.
 
-(d) (i)  Except as provided in Subsection (2)(d)(ii), if a registered political party does not wish to participate in the primary election, it shall submit the names of its county candidates to the county clerks and the names of all of its candidates to the lieutenant governor by 5 p.m. on May 30 of each even-numbered year.
-
-(ii)  A registered political party's candidates for president and vice president of the United States shall be certified to the lieutenant governor as provided in Subsection 20A-9-202(4).
-
-(e)  Each political party shall certify the names of its presidential and vice-presidential candidates and presidential electors to the lieutenant governor's office no later than September 8 of each presidential election year.
+(d) Except for presidential candidates, if a registered political party does not wish to participate in the primary election, it shall submit the names of its county candidates to the county clerks and the names of all of its candidates to the lieutenant governor by 5 p.m. on May 30 of each even-numbered year.
 
 (3)  The county clerk shall:
 
@@ -38,9 +34,9 @@
 
 "Notice is given that a primary election will be held Tuesday, June ____, ________(year), to nominate party candidates for the parties and nonpartisan offices listed on the primary ballot.  The polling place for voting precinct ____ is ____.  The polls will open at 7 a.m. and continue open until 8 p.m. of the same day.  Attest: county clerk".
 
-(5) (a)  Candidates receiving the highest number of votes cast for each office at the regular primary election are nominated by their party or nonpartisan group for that office.
+(5) (a)  Candidates, other than presidential candidates, receiving the highest number of votes cast for each office at the regular primary election are nominated by their party or nonpartisan group for that office.
 
-(b)  If two or more candidates are to be elected to the office at the regular general election, those party candidates equal in number to positions to be filled who receive the highest number of votes at the regular primary election are the nominees of their party for those positions.
+(b)  If two or more candidates, other than presidential candidates, are to be elected to the office at the regular general election, those party candidates equal in number to positions to be filled who receive the highest number of votes at the regular primary election are the nominees of their party for those positions.
 
 (6) (a)  When a tie vote occurs in any primary election for any national, state, or other office that represents more than one county, the governor, lieutenant governor, and attorney general shall, at a public meeting called by the governor and in the presence of the candidates involved, select the nominee by lot cast in whatever manner the governor determines.
 
