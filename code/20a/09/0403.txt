@@ -1,4 +1,4 @@
-20A-9-403 (Superseded 01/01/12).   Regular primary elections.
+20A-9-403.   Regular primary elections.
 
 (1) (a)  The fourth Tuesday of June of each even-numbered year is designated as regular primary election day.
 
@@ -14,11 +14,11 @@
 
 (b)  As a condition for using the state's election system, each registered political party that wishes to participate in the primary election shall:
 
-(i)  certify the name and office of all of the registered political party's candidates to the lieutenant governor no later than 5 p.m. on May 13 of each even-numbered year; and
+(i)  certify the name and office of all of the registered political party's candidates to the lieutenant governor no later than 5 p.m. on the first Monday after the third Saturday in April of each even-numbered year; and
 
-(ii)  certify the name and office of each of its county candidates to the county clerks by 5 p.m. on May 13 of each even-numbered year.
+(ii)  certify the name and office of each of its county candidates to the county clerks by 5 p.m. on the first Monday after the third Saturday in April of each even-numbered year.
 
-(c)  By 5 p.m. on May 16 of each even-numbered year, the lieutenant governor shall send the county clerks a certified list of the names of all statewide candidates, multicounty candidates, or single county candidates that shall be printed on the primary ballot and the order the candidates are to appear on the ballot in accordance with Section 20A-6-305.
+(c)  By 5 p.m. on the first Wednesday after the third Saturday in April of each even-numbered year, the lieutenant governor shall send the county clerks a certified list of the names of all statewide candidates, multicounty candidates, or single county candidates that shall be printed on the primary ballot and the order the candidates are to appear on the ballot in accordance with Section 20A-6-305.
 
 (d) Except for presidential candidates, if a registered political party does not wish to participate in the primary election, it shall submit the names of its county candidates to the county clerks and the names of all of its candidates to the lieutenant governor by 5 p.m. on May 30 of each even-numbered year.
 
@@ -32,7 +32,7 @@
 
 (4)  After the county clerk receives the certified list from a registered political party, the county clerk shall post or publish a primary election notice in substantially the following form:
 
-"Notice is given that a primary election will be held Tuesday, June ____, ________(year), to nominate party candidates for the parties and nonpartisan offices listed on the primary ballot.  The polling place for voting precinct ____ is ____.  The polls will open at 7 a.m. and continue open until 8 p.m. of the same day.  Attest: county clerk".
+"Notice is given that a primary election will be held Tuesday, June ____, ________(year), to nominate party candidates for the parties and nonpartisan offices listed on the primary ballot.  The polling place for voting precinct ____ is ____.  The polls will open at 7 a.m. and continue open until 8 p.m. of the same day.  Attest: county clerk."
 
 (5) (a)  Candidates, other than presidential candidates, receiving the highest number of votes cast for each office at the regular primary election are nominated by their party or nonpartisan group for that office.
 

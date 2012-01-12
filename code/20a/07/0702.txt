@@ -1,4 +1,4 @@
-20A-7-702 (Superseded 01/01/12).   Voter information pamphlet -- Form -- Contents -- Distribution.
+20A-7-702.   Voter information pamphlet -- Form -- Contents -- Distribution.
 
 (1)  The lieutenant governor shall ensure that all information submitted for publication in the voter information pamphlet is:
 
@@ -38,7 +38,7 @@
 
 (vii)  for each referendum qualified for the ballot, a complete copy of the text of the law being submitted to the voters for their approval or rejection, with all new language underlined and all deleted language placed within brackets, as applicable;
 
-(h)  a description provided by the Judicial Council of the selection and retention process for judges, including, in the following order:
+(h)  a description provided by the Judicial Performance Evaluation Commission of the selection and retention process for judges, including, in the following order:
 
 (i)  a description of the judicial selection process;
 
@@ -46,25 +46,27 @@
 
 (iii)  a description of the judicial retention election process;
 
-(iv)  a list of the criteria and minimum standards of judicial performance evaluation;
+(iv)  a list of the criteria of the judicial performance evaluation and the minimum performance standards;
 
 (v)  the names of the judges standing for retention election; and
 
 (vi)  for each judge:
 
-(A)  the counties in which the judge is subject to retention election;
+(A)  a list of the counties in which the judge is subject to retention election;
 
 (B)  a short biography of professional qualifications and a recent photograph;
 
 (C)  for each standard of performance, a statement identifying whether or not the judge met the standard and, if not, the manner in which the judge failed to meet the standard;
 
-(D)  a statement provided by the Utah Supreme Court identifying the cumulative number of informal reprimands, when consented to by the judge in accordance with Title 78A, Chapter 11, Judicial Conduct Commission, formal reprimands, and all orders of censure and suspension issued by the Utah Supreme Court under Utah Constitution Article VIII, Section 13 during the judge's current term and the immediately preceding term, and a detailed summary of the supporting reasons for each violation of the Code of Judicial Conduct that the judge has received; and
+(D)  a statement provided by the Utah Supreme Court identifying the cumulative number of informal reprimands, when consented to by the judge in accordance with Title 78A, Chapter 11, Judicial Conduct Commission, formal reprimands, and all orders of censure and suspension issued by the Utah Supreme Court under Utah Constitution Article VIII, Section 13 during the judge's current term and the immediately preceding term, and a detailed summary of the supporting reasons for each violation of the Code of Judicial Conduct that the judge has received;
 
-(E)  a statement identifying whether or not the judge was certified by the Judicial Council;
+(E)  a statement identifying whether or not the Judicial Performance Evaluation Commission recommends the judge be retained or declines to make a recommendation; and
 
-(vii) (A)  except as provided in Subsection (2)(h)(vii)(B), for each judge, in graphic format, the responses for each attorney, jury, and other survey question used by the Judicial Council for certification of judges, displayed in 1% increments; and
+(F)  any statement provided by a judge who is not recommended for retention by the Judicial Performance Evaluation Commission under Section 78A-12-203;
 
-(B)  notwithstanding Subsection (2)(h)(vii)(A), if the sample size for the survey for a particular judge is too small to provide statistically reliable information in 1% increments, the survey results for that judge shall be reported as being above or below 70% and a statement by the surveyor explaining why the survey is statistically unreliable shall also be included;
+(vii)  for each judge, in a bar graph, the average of responses to each survey category, displayed with an identification of the minimum acceptable score as set by Section 78A-12-205 and the average score of all judges of the same court level; and
+
+(viii) a website address that contains the Judicial Performance Evaluation Commission's report on the judge's performance evaluation;
 
 (i)  an explanation of ballot marking procedures prepared by the lieutenant governor, indicating the ballot marking procedure used by each county and explaining how to mark the ballot for each procedure;
 

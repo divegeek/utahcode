@@ -1,12 +1,12 @@
-20A-13-104 (Superseded 01/01/12).   Uncertain boundaries -- How resolved.
+20A-13-104.   Uncertain boundaries -- How resolved.
 
 (1)  As used in this section, "affected party" means:
 
-(a)  a representative whose Congressional district boundary is uncertain because the identifying feature used to establish the district boundary has been removed, modified, or is unable to be identified or who is uncertain about whether or not he or another person resides in a particular Congressional district;
+(a)  a representative whose Congressional district boundary is uncertain because the boundary in the Congressional block assignment file used to establish the district boundary has been removed, modified, or is unable to be identified or who is uncertain about whether or not the representative or another person resides in a particular Congressional district;
 
-(b)  a candidate for Congressional representative whose Congressional district boundary is uncertain because the identifying feature used to establish the district boundary has been removed, modified, or is unable to be identified or who is uncertain about whether or not he or another person resides in a particular Congressional district; or
+(b)  a candidate for Congressional representative whose Congressional district boundary is uncertain because the boundary in the Congressional block assignment file used to establish the district boundary has been removed, modified, or is unable to be identified or who is uncertain about whether or not the candidate or another person resides in a particular Congressional district; or
 
-(c)  a person who is uncertain about which Congressional district contains the person's residence because the identifying feature used to establish the district boundary has been removed, modified, or is unable to be identified.
+(c)  a person who is uncertain about which Congressional district contains the person's residence because the boundary in the Congressional block assignment file used to establish the district boundary has been removed, modified, or is unable to be identified.
 
 (2) (a)  An affected party may file a written request petitioning the lieutenant governor to determine:
 
@@ -16,9 +16,9 @@
 
 (iii)  both Subsections (2)(a)(i) and (ii).
 
-(b)  In order to make the determination required by Subsection (2)(a), the lieutenant governor shall review the official maps and obtain and review other relevant data such as census block and tract descriptions, aerial photographs, aerial maps, or other data about the area.
+(b)  In order to make the determination required by Subsection (2)(a), the lieutenant governor shall review the Congressional block assignment file and obtain and review other relevant data such as aerial photographs, aerial maps, or other data about the area.
 
-(c)  Within five days of receipt of the request, the lieutenant governor shall review the maps, obtain and review any relevant data, and make a determination.
+(c)  Within five days of receipt of the request, the lieutenant governor shall review the Congressional block assignment file, obtain and review any relevant data, and make a determination.
 
 (d)  When the lieutenant governor determines the location of the Congressional district boundary, the lieutenant governor shall:
 

@@ -1,4 +1,4 @@
-20A-1-509.1 (Superseded 01/01/12).   Procedure for filling midterm vacancy in county or district with 15 or more attorneys.
+20A-1-509.1.   Procedure for filling midterm vacancy in county or district with 15 or more attorneys.
 
 (1)  When a vacancy occurs in the office of county or district attorney in a county or district having 15 or more attorneys who are licensed active members in good standing with the Utah State Bar and registered voters, the vacancy shall be filled as provided in this section.
 
@@ -6,7 +6,7 @@
 
 (i)  the vacant office has an unexpired term of two years or more; and
 
-(ii)  the vacancy occurs before the third Friday in March of the even-numbered year.
+(ii)  the vacancy occurs before the third Thursday in March of the even-numbered year.
 
 (b)  When the conditions established in Subsection (2)(a) are met, the county clerk shall notify the public and each registered political party that the vacancy exists.
 
@@ -18,13 +18,13 @@
 
 (iii)  if elected, complete the unexpired term of the person who created the vacancy.
 
-(d)  If the vacancy occurs after the second Friday in March and before the third Friday in March, the time for filing a declaration of candidacy under Section 20A-9-202 shall be extended until seven days after the county clerk gives notice under Subsection (2)(b), but no later than the fourth Friday in March.
+(d)  If the vacancy occurs after the second Friday in March and before the third Thursday in March, the time for filing a declaration of candidacy under Section 20A-9-202 shall be extended until seven days after the county clerk gives notice under Subsection (2)(b), but no later than the fourth Thursday in March.
 
 (3) (a)  The requirements of this Subsection (3) apply when the office of county attorney or district attorney becomes vacant and:
 
 (i)  the vacant office has an unexpired term of two years or more; and
 
-(ii)  the vacancy occurs after the third Friday in March of the even-numbered year but more than 50 days before the regular primary election.
+(ii)  the vacancy occurs after the third Thursday in March of the even-numbered year but more than 75 days before the regular primary election.
 
 (b)  When the conditions established in Subsection (3)(a) are met, the county clerk shall:
 
@@ -34,7 +34,7 @@
 
 (c)  All persons intending to become candidates for the vacant office shall:
 
-(i)  within five days after the date that the notice is made, ending at the close of normal office hours on the fifth day, file a declaration of candidacy for the vacant office as required by Chapter 9, Part 2, Candidate Qualifications and Declarations of Candidacy; and
+(i)  within five days after the date that the notice is made, ending at the close of normal office hours on the fifth day, file a declaration of candidacy for the vacant office as required by Chapter 9, Part 2, Candidate Qualifications and Declaration of Candidacy; and
 
 (ii)  if elected, complete the unexpired term of the person who created the vacancy.
 
@@ -42,13 +42,13 @@
 
 (i)  select a candidate or candidates from among those qualified candidates who have filed declarations of candidacy; and
 
-(ii)  certify the name of the candidate or candidates to the county clerk at least 35 days before the regular primary election.
+(ii)  certify the name of the candidate or candidates to the county clerk at least 60 days before the regular primary election.
 
 (4) (a)  The requirements of this Subsection (4) apply when the office of county attorney or district attorney becomes vacant and:
 
 (i)  the vacant office has an unexpired term of two years or more; and
 
-(ii)  50 days or less remain before the regular primary election but more than 50 days remain before the regular general election.
+(ii) 75 days or less remain before the regular primary election but more than 65 days remain before the regular general election.
 
 (b)  When the conditions established in Subsection (4)(a) are met, the county central committees of each registered political party that wish to submit a candidate for the office shall summarily certify the name of one candidate to the county clerk for placement on the regular general election ballot.
 
@@ -58,7 +58,7 @@
 
 (i)  the vacant office has an unexpired term of less than two years; or
 
-(ii)  the vacant office has an unexpired term of two years or more but 50 days or less remain before the next regular general election.
+(ii)  the vacant office has an unexpired term of two years or more but 65 days or less remain before the next regular general election.
 
 (b)  When the conditions established in Subsection (5)(a) are met, the county legislative body shall give notice of the vacancy to the county central committee of the same political party of the prior officeholder and invite that committee to submit the names of three nominees to fill the vacancy.
 

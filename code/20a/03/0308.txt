@@ -1,4 +1,4 @@
-20A-3-308 (Superseded 01/01/12).   Absentee ballots in the custody of poll workers -- Disposition.
+20A-3-308.   Absentee ballots in the custody of poll workers -- Disposition.
 
 (1) (a)  Voting precinct poll workers shall open envelopes containing absentee ballots that are in their custody on election day at the polling places during the time the polls are open as provided in this Subsection (1).
 
@@ -18,7 +18,11 @@
 
 (b)  If, after opening the absentee voter envelope, the poll worker finds that a provisional ballot envelope is enclosed, the poll worker shall:
 
-(i)  record, in the official register, whether or not the voter included valid voter identification;
+(i)  record, in the official register, whether:
+
+(A)  the voter included valid voter identification; or
+
+(B)  a covered voter, as defined in Section 20A-16-102, did not provide valid voter identification as permitted by Public Law 107-252, the Help America Vote Act of 2002;
 
 (ii)  if any type of identification was included, record the type of identification provided by the voter in the appropriate space in the official register;
 
