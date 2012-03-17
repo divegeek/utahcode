@@ -1,8 +1,0 @@
-20A-13-101.1.   Definitions.
-
-As used in this part:
-
-(1)  "Census block" means any one of the 115,406 individual geographic areas into which the Bureau of the Census of the United States Department of Commerce has divided the state of Utah, to each of which the Bureau of the Census has attached a discrete population tabulation from the 2010 decennial census.
-
-(2)  "Congressional block assignment file" means the electronic file that assigns each of Utah's 115,406 census blocks to a particular Congressional district.
-
