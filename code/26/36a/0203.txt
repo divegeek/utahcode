@@ -1,0 +1,92 @@
+26-36a-203.   Calculation of assessment.
+
+(1)  The division shall calculate the inpatient upper payment limit gap for hospitals for each state fiscal year.
+
+(2) (a)  An annual assessment is payable on a quarterly basis for each hospital in an amount calculated at a uniform assessment rate for each hospital discharge, in accordance with this section.
+
+(b)  The uniform assessment rate shall be determined using the total number of hospital discharges for assessed hospitals divided into the total non-federal portion of the upper payment limit gap.
+
+(c)  Any quarterly changes to the uniform assessment rate shall be applied uniformly to all assessed hospitals.
+
+(d) (i)  Except as provided in Subsection (2)(d)(ii), the annual uniform assessment rate may not generate more than the non-federal share of the annual upper payment limit gap for the fiscal year.
+
+(ii) (A)  For fiscal year 2010 the assessment may not generate more than the non-federal share of the annual upper payment limit gap for the fiscal year.
+
+(B)  For fiscal year 2010-11 the department may generate an additional amount from the assessment imposed under Subsection (2)(d)(i) in the amount of $2,000,000 which shall be used by the department and the division as follows:
+
+(I)  $1,000,000 to offset Medicaid mandatory expenditures; and
+
+(II)  $1,000,000 to offset the reduction in hospital outpatient fees in the state program.
+
+(C)  For fiscal years 2011-12 and 2012-13 the department may generate an additional amount from the assessment imposed under Subsection (2)(d)(i) in the amount of $1,000,000 to offset Medicaid mandatory expenditures.
+
+(3) (a)  For state fiscal years 2010 and 2011, discharges shall be determined using the data from each hospital's Medicare Cost Report contained in the Centers for Medicare and Medicaid Services' Healthcare Cost Report Information System file as of April 1, 2009 for hospital fiscal years ending between October 1, 2007, and September 30, 2008.
+
+(b)  If a hospital's fiscal year Medicare Cost Report is not contained in the Centers for Medicare and Medicaid Services' Healthcare Cost Report Information System file dated March 31, 2009:
+
+(i)  the hospital shall submit to the division a copy of the hospital's Medicare Cost Report with a fiscal year end between October 1, 2007, and September 30, 2008; and
+
+(ii)  the division shall determine the hospital's discharges from the information submitted under Subsection (3)(b)(i).
+
+(c)  If a hospital started operations after the due date for a 2007 Medicare Cost Report:
+
+(i)  the hospital shall submit to the division a copy of the hospital's most recent complete year Medicare Cost Report; and
+
+(ii)  the division shall determine the hospital's discharges from the information submitted under Subsection (3)(c)(i).
+
+(d)  If a hospital is not certified by the Medicare program and is not required to file a Medicare Cost Report:
+
+(i)  the hospital shall submit to the division its applicable fiscal year discharges with supporting documentation;
+
+(ii)  the division shall determine the hospital's discharges from the information submitted under Subsection (3)(d)(i); and
+
+(iii)  the failure to submit discharge information under Subsections (3)(d)(i) and (ii) shall result in an audit of the hospital's records by the department and the imposition of a penalty equal to 5% of the calculated assessment.
+
+(4) (a)  For state fiscal year 2012 and 2013, discharges shall be determined using the data from each hospital's Medicare Cost Report contained in the Centers for Medicare and Medicaid Services' Healthcare Cost Report Information System file as of:
+
+(i)  for state fiscal year 2012, September 30, 2010, for hospital fiscal years ending between October 1, 2008, and September 30, 2009; and
+
+(ii)  for state fiscal year 2013, September 30, 2011, for hospital fiscal years ending between October 1, 2009, and September 30, 2010.
+
+(b)  If a hospital's fiscal year Medicare Cost Report is not contained in the Centers for Medicare and Medicaid Services' Healthcare Cost Report Information System file:
+
+(i)  the hospital shall submit to the division a copy of the hospital's Medicare Cost Report applicable to the assessment year; and
+
+(ii)  the division shall determine the hospital's discharges.
+
+(c)  If a hospital is not certified by the Medicare program and is not required to file a Medicare Cost Report:
+
+(i)  the hospital shall submit to the division its applicable fiscal year discharges with supporting documentation;
+
+(ii)  the division shall determine the hospital's discharges from the information submitted under Subsection (4)(c)(i); and
+
+(iii)  the failure to submit discharge information shall result in an audit of the hospital's records and a penalty equal to 5% of the calculated assessment.
+
+(5)  Except as provided in Subsection (6), if a hospital is owned by an organization that owns more than one hospital in the state:
+
+(a)  the assessment for each hospital shall be separately calculated by the department; and
+
+(b)  each separate hospital shall pay the assessment imposed by this chapter.
+
+(6)  Notwithstanding the requirement of Subsection (5), if multiple hospitals use the same Medicaid provider number:
+
+(a)  the department shall calculate the assessment in the aggregate for the hospitals using the same Medicaid provider number; and
+
+(b)  the hospitals may pay the assessment in the aggregate.
+
+(7) (a)  The assessment formula imposed by this section, and the inpatient access payments under Section 26-36a-205, shall be adjusted in accordance with Subsection (7)(b) if a hospital, for any reason, does not meet the definition of a hospital subject to the assessment under Section 26-36a-103 for the entire fiscal year.
+
+(b)  The department shall adjust the assessment payable to the department under this chapter for a hospital that is not subject to the assessment for an entire fiscal year by multiplying the annual assessment calculated under Subsection (3) or (4) by a fraction, the numerator of which is the number of days during the year that the hospital operated, and the denominator of which is 365.
+
+(c)  A hospital described in Subsection (7)(a):
+
+(i)  that is ceasing to operate in the state, shall pay any assessment owed to the department immediately upon ceasing to operate in the state; and
+
+(ii)  shall receive Medicaid inpatient hospital access payments under Section 26-36a-205 for the state fiscal year, adjusted using the same formula described in Subsection (7)(b).
+
+(8)  A hospital that is subject to payment of the assessment at the beginning of a state fiscal year, but during the state fiscal year experiences a change in status so that it no longer falls under the definition of a hospital subject to the assessment in Section 26-36a-204, shall:
+
+(a)  not be required to pay the hospital assessment beginning on the date established by the department by administrative rule; and
+
+(b)  not be entitled to Medicaid inpatient hospital access payments under Section 26-36a-205 on the date established by the department by administrative rule.
+
