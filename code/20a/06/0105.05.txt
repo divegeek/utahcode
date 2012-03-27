@@ -1,4 +1,0 @@
-20A-6-105.5.   Voter access to provisional ballot information.
-
-Each county clerk shall implement, through an internet website, toll-free telephone number, or other means, a system where an individual who voted a provisional ballot may, free of charge, determine if the voter's vote was counted, and, if the vote was not counted, the reason the vote was not counted.
-
