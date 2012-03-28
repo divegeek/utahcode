@@ -1,0 +1,34 @@
+16-10a-640.   Distributions to shareholders.
+
+(1)  A board of directors may authorize and the corporation may make distributions to its shareholders subject to any restriction in the articles of incorporation and the limitations in Subsection (3).
+
+(2)  The bylaws or, in the absence of an applicable bylaw, the board of directors may fix a future date as the record date for determining shareholders entitled to a distribution, other than one involving a purchase, redemption, or other acquisition of the corporation's shares. If a record date is necessary but no future date is so fixed, the record date is the date the board of directors authorizes the distribution.
+
+(3)  No distribution may be made if, after giving it effect:
+
+(a)  the corporation would not be able to pay its debts as they become due in the usual course of business; or
+
+(b)  the corporation's total assets would be less than the sum of its total liabilities plus, unless the articles of incorporation permit otherwise, the amount that would be needed, if the corporation were to be dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of shareholders whose preferential rights are superior to those receiving the distribution.
+
+(4)  The board of directors may base a determination that a distribution is not prohibited under Subsection (3) either on financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances, including consolidated financial statements, or on a fair valuation or other method that is reasonable in the circumstances.
+
+(5)  Except as provided in Subsection (7), the effect of a distribution under Subsection (3) is measured:
+
+(a)  in the case of distribution by purchase, redemption, or other acquisition of the corporation's shares, as of the earlier of:
+
+(i)  the date money or other property is transferred or debt is incurred by the corporation; or
+
+(ii)  the date the shareholder ceases to be a shareholder with respect to the acquired shares;
+
+(b)  in the case of any other distribution of indebtedness, as of the date the indebtedness is distributed; and
+
+(c)  in all other cases, as of:
+
+(i)  the date the distribution is authorized if the payment occurs within 120 days after the date of authorization; or
+
+(ii)  the date the payment is made if it occurs more than 120 days after the date of authorization.
+
+(6)  A corporation's indebtedness to a shareholder incurred by reason of a distribution made in accordance with this section, if the indebtedness is unsecured, is on a parity with the corporation's indebtedness to its general, unsecured creditors except to the extent subordinated by agreement.
+
+(7)  Indebtedness of a corporation, including indebtedness issued as a distribution, is not considered a liability for purposes of determinations under Subsection (3) if its terms provide that payment of principal and interest are made only if and to the extent that payment of a distribution to shareholders could then be made under this section. If the indebtedness is issued as a distribution, each payment of principal or interest on the indebtedness is treated as a distribution, the effect of which is measured on the date the payment is actually made.
+

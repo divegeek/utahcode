@@ -1,0 +1,42 @@
+26-18-2.4.   Medicaid drug program -- Preferred drug list.
+
+(1)  A Medicaid drug program developed by the department under Subsection 26-18-2.3 (2)(f):
+
+(a)  shall, notwithstanding Subsection 26-18-2.3(1)(b), be based on clinical and cost-related factors which include medical necessity as determined by a provider in accordance with administrative rules established by the Drug Utilization Review Board;
+
+(b)  may include therapeutic categories of drugs that may be exempted from the drug program;
+
+(c)  may include placing some drugs, except the drugs described in Subsection (2), on a preferred drug list to the extent determined appropriate by the department;
+
+(d)  notwithstanding the requirements of Part 2, Drug Utilization Review Board, shall immediately implement the prior authorization requirements for a non-preferred drug that is in the same therapeutic class as a drug that is:
+
+(i)  on the preferred drug list on the date that this act takes effect; or
+
+(ii)  added to the preferred drug list after this act takes effect; and
+
+(e)  except as prohibited by Subsections 58-17b-606(4) and (5), the prior authorization requirements established under Subsections (1)(c) and (d) shall permit a health care provider or the health care provider's agent to obtain a prior authorization override of the preferred drug list through the department's pharmacy prior authorization review process, which shall:
+
+(i)  provide either telephone or fax approval or denial of the request within 24 hours of the receipt of a request that is submitted during normal business hours of Monday through Friday from 8 am to 5 pm;
+
+(ii)  provide for the dispensing of a limited supply of a requested drug as determined appropriate by the department in an emergency situation, if the request for an override is received outside of the department's normal business hours; and
+
+(iii)  require the health care provider to provide the department with documentation of the medical need for the preferred drug list override in accordance with criteria established by the department in consultation with the Pharmacy and Therapeutics Committee.
+
+(2) (a)  For purposes of this Subsection (2), "immunosuppressive drug":
+
+(i)  means a drug that is used in immunosuppressive therapy to inhibit or prevent activity of the immune system to aid the body in preventing the rejection of transplanted organs and tissue; and
+
+(ii)  does not include drugs used for the treatment of autoimmune disease or diseases that are most likely of autoimmune origin.
+
+(b)  A preferred drug list developed under the provisions of this section may not include:
+
+(i)  a psychotropic or anti-psychotic drug; or
+
+(ii)  an immunosuppressive drug.
+
+(c)  The state Medicaid program shall reimburse for a prescription for an immunosuppressive drug as written by the health care provider for a patient who has undergone an organ transplant.  For purposes of Subsection 58-17b-606(4), and with respect to patients who have undergone an organ transplant, the prescription for a particular immunosuppressive drug as written by a health care provider meets the criteria of demonstrating to the Department of Health a medical necessity for dispensing the prescribed immunosuppressive drug.
+
+(d)  Notwithstanding the requirements of Part 2, Drug Utilization Review Board, the state Medicaid drug program may not require the use of step therapy for immunosuppressive drugs without the written or oral consent of the health care provider and the patient.
+
+(3)  The department shall report to the Health and Human Services Interim Committee and to the Health and Human Services Appropriations Subcommittee prior to November 1, 2010 regarding the savings to the Medicaid program resulting from the use of the preferred drug list permitted by Subsection (1).
+

@@ -1,0 +1,28 @@
+31A-17-401.   Valuation of assets.
+
+(1)  The commissioner shall value the assets of insurers in accordance with then current insurance business practices, but not in a manner inconsistent with the provisions of this title.  In valuing assets, the commissioner shall consider any method then current, formulated, or approved by the National Association of Insurance Commissioners.
+
+(2) Assets that are not qualified assets under Subsection 31A-17-201(2) are considered to have no value in evaluating an insurer's compliance with Chapter 17, Part 6, Risk-Based Capital.  Those assets may be used in evaluating the insurer's financial condition only to the extent the insurer has excess surplus.
+
+(3) (a)  Insurance subsidiaries are valued on the books of a parent insurer as follows:
+
+(i)  Except as provided under Subsections (3)(a)(iii) and (iv), common stock of the subsidiary is valued on the basis of the parent insurer's percentage of ownership of the common stock multiplied by the total of the subsidiary's capital and surplus, less amounts needed to liquidate all claims to the capital and surplus which are senior to common stock.  Subsection 31A-18-106(1)(k) provides applicable limitations on investments in subsidiaries.
+
+(ii)  The value of securities other than common stock issued by a subsidiary is the lesser of the present value of the future income to be derived under the securities or the amount the parent insurer would receive as a result of the securities if the subsidiary were liquidated and all creditors of the subsidiary and holders of the subsidiary's securities with senior priority were paid in full.  The present value of future income derived from securities is determined by rule adopted by the commissioner.  A parent insurer may attribute value to a security of its subsidiary only if the parent insurer is being paid dividends or interest on the security, and only if the parent insurer can reasonably anticipate that dividends or interest will continue to be paid on the security.
+
+(iii)  Except as provided under Subsection (3)(a)(iv), any portion of the subsidiary's value permitted under Subsection (3)(a) that is represented by assets other than assets listed under Section 31A-17-201, may only be classified as excess surplus of the parent insurer, and then only to the extent the parent insurer has established that it has excess surplus under Section 31A-17-202.
+
+(iv)  For the purposes of Subsection (3)(a)(iii), assets of a newly acquired subsidiary that are the equivalent of qualified assets in the subsidiary's domiciliary state, are, for the first five years after the subsidiary's acquisition, considered to be qualified assets under Section 31A-17-201.  This assumption stands even if the assets are not otherwise qualified assets under Section 31A-17-201.
+
+(b)  A subsidiary formed or acquired to hold or manage investments that the parent insurance company might hold or manage directly, shall be valued as if the assets of the subsidiary were owned directly by the insurer in a percentage equal to the insurer's percentage of ownership of the subsidiary.  The subsidiary investment limitation of Subsection 31A-18-106(1)(k) does not apply to these subsidiaries.
+
+(c)  Subsidiaries other than those described in Subsections (3)(a) and (b) shall be valued in accordance with Subsection (1).  The subsidiary investment limitation under Subsection 31A-18-106(1)(k) applies to these subsidiaries in the same manner as to subsidiaries described in Subsection (3)(a).
+
+(d)  In determining an insurer's financial condition, no value is given to:
+
+(i)  any interest held by the insurer in its own stock, including debts due the insurer that are secured by the insurer's own stock; or
+
+(ii)  any proportionate interest in the insurer's own stock, including debts that are secured by the insurer's own stock, which is held by any corporation, partnership, business unit, firm, or person owned in whole or in part by the insurer.
+
+(4)  The commissioner shall adopt rules to implement the provisions of this section.
+

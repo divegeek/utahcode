@@ -1,0 +1,66 @@
+20A-5-302.   Automated voting system.
+
+(1) (a)  Any county or municipal legislative body or local district board may:
+
+(i)  adopt, experiment with, acquire by purchase, lease, or otherwise, or abandon any automated voting system that meets the requirements of this section; and
+
+(ii)  use that system in any election, in all or a part of the voting precincts within its boundaries, or in combination with paper ballots.
+
+(b)  Nothing in this title shall be construed to require the use of electronic voting devices in local special elections, municipal primary elections, or municipal general elections.
+
+(2) (a)  Each automated voting system shall:
+
+(i)  provide for voting in secrecy, except in the case of voters who have received assistance as authorized by Section 20A-3-108;
+
+(ii)  permit each voter at any election to:
+
+(A)  vote for all persons and offices for whom and for which that voter is lawfully entitled to vote;
+
+(B)  vote for as many persons for an office as that voter is entitled to vote; and
+
+(C)  vote for or against any ballot proposition upon which that voter is entitled to vote;
+
+(iii)  permit each voter, at presidential elections, by one mark or punch to vote for the candidates of that party for president, vice president, and for their presidential electors;
+
+(iv)  permit each voter, at any regular general election, to vote for all the candidates of one registered political party by making one mark or punch;
+
+(v)  permit each voter to scratch vote;
+
+(vi)  at elections other than primary elections, permit each voter to vote for the nominees of one or more parties and for independent candidates;
+
+(vii)  at primary elections:
+
+(A)  permit each voter to vote for candidates of the political party of his choice; and
+
+(B)  reject any votes cast for candidates of another party;
+
+(viii)  prevent the voter from voting for the same person more than once for the same office;
+
+(ix)  provide the opportunity for each voter to change the ballot and to correct any error before the voter casts the ballot in compliance with the Help America Vote Act of 2002, Pub. L. No. 107-252;
+
+(x)  include automatic tabulating equipment that rejects choices recorded on a voter's ballot if the number of the voter's recorded choices is greater than the number which the voter is entitled to vote for the office or on the measure;
+
+(xi)  be of durable construction, suitably designed so that it may be used safely, efficiently, and accurately in the conduct of elections and counting ballots;
+
+(xii)  when properly operated, record correctly and count accurately each vote cast;
+
+(xiii)  for voting equipment certified after January 1, 2005, produce a permanent paper record that:
+
+(A)  shall be available as an official record for any recount or election contest conducted with respect to an election where the voting equipment is used;
+
+(B) (I)  shall be available for the voter's inspection prior to the voter leaving the polling place; and
+
+(II)  shall permit the voter to inspect the record of the voter's selections independently only if reasonably practicable commercial methods permitting independent inspection are available at the time of certification of the voting equipment by the lieutenant governor;
+
+(C)  shall include, at a minimum, human readable printing that shows a record of the voter's selections;
+
+(D)  may also include machine readable printing which may be the same as the human readable printing; and
+
+(E)  allows voting poll watchers and counting poll watchers to observe the election process to ensure its integrity; and
+
+(xiv)  meet the requirements of Section 20A-5-402.5.
+
+(b)  For the purposes of a recount or an election contest, if the permanent paper record contains a conflict or inconsistency between the human readable printing and the machine readable printing, the human readable printing shall supercede the machine readable printing when determining the intent of the voter.
+
+(c)  Notwithstanding any other provisions of this section, the election officers shall ensure that the ballots to be counted by means of electronic or electromechanical devices are of a size, layout, texture, and printed in a type of ink or combination of inks that will be suitable for use in the counting devices in which they are intended to be placed.
+

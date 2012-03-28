@@ -1,0 +1,68 @@
+31A-16-106.   Standards and management of an insurer within a holding company system.
+
+(1) (a)  Transactions within a holding company system to which an insurer subject to registration is a party are subject to the following standards:
+
+(i)  the terms shall be fair and reasonable;
+
+(ii)  charges or fees for services performed shall be reasonable;
+
+(iii)  expenses incurred and payment received shall be allocated to the insurer in conformity with customary insurance accounting practices consistently applied;
+
+(iv)  the books, accounts, and records of each party to all transactions shall be so maintained as to clearly and accurately disclose the nature and details of the transactions, including the accounting information necessary to support the reasonableness of the charges or fees to the respective parties; and
+
+(v)  the insurer's surplus held for policyholders, following any dividends or distributions to shareholder affiliates, shall be reasonable in relation to the insurer's outstanding liabilities and shall be adequate to its financial needs.
+
+(b)  The following transactions involving a domestic insurer and any person in its holding company system may not be entered into unless the insurer has notified the commissioner in writing of its intention to enter into the transaction at least 30 days prior to entering into the transaction, or within any shorter period the commissioner may permit, if the commissioner has not disapproved the transaction within the period:
+
+(i)  sales, purchases, exchanges, loans or extensions of credit, guarantees, or investments if the transactions are equal to, or exceed as of the next preceding December 31:
+
+(A)  for nonlife insurers, the lesser of 3% of the insurer's admitted assets or 25% of surplus held for policyholders;
+
+(B)  for life insurers, 3% of the insurer's admitted assets;
+
+(ii)  loans or extensions of credit made to any person who is not an affiliate, if the insurer makes the loans or extensions of credit with the agreement or understanding that the proceeds of the transactions, in whole or in substantial part, are to be used to make loans or extensions of credit to, to purchase assets of, or to make investments in, any affiliate of the insurer making the loans or extensions of credit if the transactions are equal to, or exceed as of the next preceding December 31:
+
+(A)  for nonlife insurers, the lesser of 3% of the insurer's admitted assets or 25% of surplus held for policyholders;
+
+(B)  for life insurers, 3% of the insurer's admitted assets;
+
+(iii)  reinsurance agreements or modifications to reinsurance agreements in which the reinsurance premium or a change in the insurer's liabilities equals or exceeds 5% of the insurer's surplus held for policyholders, as of the next preceding December 31, including those agreements which may require as consideration the transfer of assets from an insurer to a nonaffiliate, if an agreement or understanding exists between the insurer and the nonaffiliate that any portion of the assets will be transferred to one or more affiliates of the insurer;
+
+(iv)  all management agreements, service contracts, and all cost-sharing arrangements;
+
+(v)  any material transactions, specified by rule, which the commissioner determines may adversely affect the interests of the insurer's policyholders; and
+
+(vi)  this subsection may not be interpreted to authorize or permit any transactions which would be otherwise contrary to law in the case of an insurer not a member of the same holding company system.
+
+(c)  A domestic insurer may not enter into transactions which are part of a plan or series of like transactions with persons within the holding company system if the purpose of the separate transactions is to avoid the statutory threshold amount and thus to avoid the review by the commissioner that would occur otherwise.  If the commissioner determines that the separate transactions were entered into over any 12 month period for such a purpose, he may exercise his authority under Section 31A-16-110.
+
+(d)  The commissioner, in reviewing transactions pursuant to Subsection (1)(b), shall consider whether the transactions comply with the standards set forth in Subsection (1)(a) and whether they may adversely affect the interests of policyholders.
+
+(e)  The commissioner shall be notified within 30 days of any investment of the domestic insurer in any one corporation, if the total investment in the corporation by the insurance holding company system exceeds 10% of the corporation's voting securities.
+
+(2) (a)  A domestic insurer may not pay any extraordinary dividend or make any other extraordinary distribution to its shareholders until:
+
+(i)  30 days after the commissioner has received notice of the declaration of the dividend and has not within the 30-day period disapproved the payment; or
+
+(ii)  the commissioner has approved the payment within the 30-day period.
+
+(b)  For purposes of this subsection, an extraordinary dividend or distribution includes any dividend or distribution of cash or other property, fair market value of which, together with that of other dividends or distributions made within the preceding 12 months, exceeds the lesser of:
+
+(i)  10% of the insurer's surplus held for policyholders as of the next preceding December 31; or
+
+(ii)  the net gain from operations of the insurer, if the insurer is a life insurer, or the net income, if the insurer is not a life insurer, not including realized capital gains, for the 12-month period ending the next preceding December 31;
+
+(iii)  an extraordinary dividend does not include pro rata distributions of any class of the insurer's own securities.
+
+(c)  In determining whether a dividend or distribution is extraordinary, an insurer other than a life insurer may carry forward net income from the previous two calendar years that has not already been paid out as dividends.  This carry-forward shall be computed by taking the net income from the second and third preceding calendar years, not including realized capital gains, less dividends paid in the second and immediate preceding calendar years.
+
+(d)  Notwithstanding any other provision of law, an insurer may declare an extraordinary dividend or distribution, which is conditioned upon the commissioner's approval of the dividend or distribution, and the declaration shall confer no rights upon shareholders until:
+
+(i)  the commissioner has approved the payment of the dividend or distribution; or
+
+(ii)  the commissioner has not disapproved the payment within the 30-day period referred to in Subsection (2)(a).
+
+(3) (a)  Notwithstanding the control of a domestic insurer by any person, the officers and directors of the insurer may not be relieved of any obligation or liability to which they would otherwise be subject by law, and the insurer shall be managed so as to assure its separate operating identity consistent with this chapter.
+
+(b)  Nothing in this section precludes a domestic insurer from having or sharing a common management or cooperative or joint use of personnel, property, or services with one or more other persons under arrangements meeting the standards of Subsection (1)(a).
+

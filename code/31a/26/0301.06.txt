@@ -1,0 +1,204 @@
+31A-26-301.6.   Health care claims practices.
+
+(1)  As used in this section:
+
+(a)  "Articulable reason" may include a determination regarding:
+
+(i)  eligibility for coverage;
+
+(ii)  preexisting conditions;
+
+(iii)  applicability of other public or private insurance;
+
+(iv)  medical necessity; and
+
+(v)  any other reason that would justify an extension of the time to investigate a claim.
+
+(b)  "Health care provider" means a person licensed to provide health care under:
+
+(i)  Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act; or
+
+(ii)  Title 58, Occupations and Professions.
+
+(c)  "Insurer" means an admitted or authorized insurer, as defined in Section 31A-1-301, and includes:
+
+(i)  a health maintenance organization; and
+
+(ii)  a third party administrator that is subject to this title, provided that nothing in this section may be construed as requiring a third party administrator to use its own funds to pay claims that have not been funded by the entity for which the third party administrator is paying claims.
+
+(d)  "Provider" means a health care provider to whom an insurer is obligated to pay directly in connection with a claim by virtue of:
+
+(i)  an agreement between the insurer and the provider;
+
+(ii)  a health insurance policy or contract of the insurer; or
+
+(iii)  state or federal law.
+
+(2)  An insurer shall timely pay every valid insurance claim submitted by a provider in accordance with this section.
+
+(3) (a)  Except as provided in Subsection (4), within 30 days of the day on which the insurer receives a written claim, an insurer shall:
+
+(i)  pay the claim; or
+
+(ii)  deny the claim and provide a written explanation for the denial.
+
+(b) (i)  Subject to Subsection (3)(b)(ii), the time period described in Subsection (3)(a) may be extended by 15 days if the insurer:
+
+(A)  determines that the extension is necessary due to matters beyond the control of the insurer; and
+
+(B)  before the end of the 30-day period described in Subsection (3)(a), notifies the provider and insured in writing of:
+
+(I)  the circumstances requiring the extension of time; and
+
+(II)  the date by which the insurer expects to pay the claim or deny the claim with a written explanation for the denial.
+
+(ii)  If an extension is necessary due to a failure of the provider or insured to submit the information necessary to decide the claim:
+
+(A)  the notice of extension required by this Subsection (3)(b) shall specifically describe the required information; and
+
+(B)  the insurer shall give the provider or insured at least 45 days from the day on which the provider or insured receives the notice before the insurer denies the claim for failure to provide the information requested in Subsection (3)(b)(ii)(A).
+
+(4) (a)  In the case of a claim for income replacement benefits, within 45 days of the day on which the insurer receives a written claim, an insurer shall:
+
+(i)  pay the claim; or
+
+(ii)  deny the claim and provide a written explanation of the denial.
+
+(b)  Subject to Subsections (4)(d) and (e), the time period described in Subsection (4)(a) may be extended for 30 days if the insurer:
+
+(i)  determines that the extension is necessary due to matters beyond the control of the insurer; and
+
+(ii)  before the expiration of the 45-day period described in Subsection (4)(a), notifies the insured of:
+
+(A)  the circumstances requiring the extension of time; and
+
+(B)  the date by which the insurer expects to pay the claim or deny the claim with a written explanation for the denial.
+
+(c)  Subject to Subsections (4)(d) and (e), the time period for complying with Subsection (4)(a) may be extended for up to an additional 30 days from the day on which the 30-day extension period provided in Subsection (4)(b) ends if before the day on which the 30-day extension period ends, the insurer:
+
+(i)  determines that due to matters beyond the control of the insurer a decision cannot be rendered within the 30-day extension period; and
+
+(ii)  notifies the insured of:
+
+(A)  the circumstances requiring the extension; and
+
+(B)  the date as of which the insurer expects to pay the claim or deny the claim with a written explanation for the denial.
+
+(d)  A notice of extension under this Subsection (4) shall specifically explain:
+
+(i)  the standards on which entitlement to a benefit is based; and
+
+(ii)  the unresolved issues that prevent a decision on the claim.
+
+(e)  If an extension allowed by Subsection (4)(b) or (c) is necessary due to a failure of the insured to submit the information necessary to decide the claim:
+
+(i)  the notice of extension required by Subsection (4)(b) or (c) shall specifically describe the necessary information; and
+
+(ii)  the insurer shall give the insured at least 45 days from the day on which the insured receives the notice before the insurer denies the claim for failure to provide the information requested in Subsection (4)(b) or (c).
+
+(5)  If a period of time is extended as permitted under Subsection (3)(b), (4)(b), or (4)(c), due to an insured or provider failing to submit information necessary to decide a claim, the period for making the benefit determination shall be tolled from the date on which the notification of the extension is sent to the insured or provider until the date on which the insured or provider responds to the request for additional information.
+
+(6)  An insurer shall pay all sums to the provider or insured that the insurer is obligated to pay on the claim, and provide a written explanation of the insurer's decision regarding any part of the claim that is denied within 20 days of receiving the information requested under Subsection (3)(b), (4)(b), or (4)(c).
+
+(7) (a)  Whenever an insurer makes a payment to a provider on any part of a claim under this section, the insurer shall also send to the insured an explanation of benefits paid.
+
+(b)  Whenever an insurer denies any part of a claim under this section, the insurer shall also send to the insured:
+
+(i)  a written explanation of the part of the claim that was denied; and
+
+(ii)  notice of the adverse benefit determination review process established under Section 31A-22-629.
+
+(c)  This Subsection (7) does not apply to a person receiving benefits under the state Medicaid program as defined in Section 26-18-2, unless required by the Department of Health or federal law.
+
+(8) (a)  Beginning with health care claims submitted on or after January 1, 2002, a late fee shall be imposed on:
+
+(i)  an insurer that fails to timely pay a claim in accordance with this section; and
+
+(ii)  a provider that fails to timely provide information on a claim in accordance with this section.
+
+(b)  For the first 90 days that a claim payment or a provider response to a request for information is late, the late fee shall be determined by multiplying together:
+
+(i)  the total amount of the claim;
+
+(ii)  the total number of days the response or the payment is late; and
+
+(iii)  .1%.
+
+(c)  For a claim payment or a provider response to a request for information that is 91 or more days late, the late fee shall be determined by adding together:
+
+(i)  the late fee for a 90-day period under Subsection (8)(b); and
+
+(ii)  the following multiplied together:
+
+(A)  the total amount of the claim;
+
+(B)  the total number of days the response or payment was late beyond the initial 90-day period; and
+
+(C)  the rate of interest set in accordance with Section 15-1-1.
+
+(d)  Any late fee paid or collected under this section shall be separately identified on the documentation used by the insurer to pay the claim.
+
+(e)  For purposes of this Subsection (8), "late fee" does not include an amount that is less than $1.
+
+(9)  Each insurer shall establish a review process to resolve claims-related disputes between the insurer and providers.
+
+(10)  An insurer or person representing an insurer may not engage in any unfair claim settlement practice with respect to a provider.  Unfair claim settlement practices include:
+
+(a)  knowingly misrepresenting a material fact or the contents of an insurance policy in connection with a claim;
+
+(b)  failing to acknowledge and substantively respond within 15 days to any written communication from a provider relating to a pending claim;
+
+(c)  denying or threatening to deny the payment of a claim for any reason that is not clearly described in the insured's policy;
+
+(d)  failing to maintain a payment process sufficient to comply with this section;
+
+(e)  failing to maintain claims documentation sufficient to demonstrate compliance with this section;
+
+(f)  failing, upon request, to give to the provider written information regarding the specific rate and terms under which the provider will be paid for health care services;
+
+(g)  failing to timely pay a valid claim in accordance with this section as a means of influencing, intimidating, retaliating, or gaining an advantage over the provider with respect to an unrelated claim, an undisputed part of a pending claim, or some other aspect of the contractual relationship;
+
+(h)  failing to pay the sum when required and as required under Subsection (8) when a violation has occurred;
+
+(i)  threatening to retaliate or actual retaliation against a provider for the provider applying this section;
+
+(j)  any material violation of this section; and
+
+(k)  any other unfair claim settlement practice established in rule or law.
+
+(11) (a)  The provisions of this section shall apply to each contract between an insurer and a provider for the duration of the contract.
+
+(b)  Notwithstanding Subsection (11)(a), this section may not be the basis for a bad faith insurance claim.
+
+(c)  Nothing in Subsection (11)(a) may be construed as limiting the ability of an insurer and a provider from including provisions in their contract that are more stringent than the provisions of this section.
+
+(12) (a)  Pursuant to Chapter 2, Part 2, Duties and Powers of Commissioner, and beginning January 1, 2002, the commissioner may conduct examinations to determine an insurer's level of compliance with this section and impose sanctions for each violation.
+
+(b)  The commissioner may adopt rules only as necessary to implement this section.
+
+(c)  The commissioner may establish rules to facilitate the exchange of electronic confirmations when claims-related information has been received.
+
+(d)  Notwithstanding Subsection (12)(b), the commissioner may not adopt rules regarding the review process required by Subsection (9).
+
+(13)  Nothing in this section may be construed as limiting the collection rights of a provider under Section 31A-26-301.5.
+
+(14)  Nothing in this section may be construed as limiting the ability of an insurer to:
+
+(a)  recover any amount improperly paid to a provider or an insured:
+
+(i)  in accordance with Section 31A-31-103 or any other provision of state or federal law;
+
+(ii)  within 24 months of the amount improperly paid for a coordination of benefits error; 
+
+(iii)  within 12 months of the amount improperly paid for any other reason not identified in Subsection (14)(a)(i) or (ii); or
+
+(iv)  within 36 months of the amount improperly paid when the improper payment was due to a recovery by Medicaid, Medicare, the Children's Health Insurance Program, or any other state or federal health care program;
+
+(b)  take any action against a provider that is permitted under the terms of the provider contract and not prohibited by this section;
+
+(c)  report the provider to a state or federal agency with regulatory authority over the provider for unprofessional, unlawful, or fraudulent conduct; or
+
+(d)  enter into a mutual agreement with a provider to resolve alleged violations of this section through mediation or binding arbitration.
+
+(15)  A health care provider may only seek recovery from the insurer for an amount improperly paid by the insurer within the same time frames as Subsections (14)(a) and (b).
+

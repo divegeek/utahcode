@@ -1,0 +1,84 @@
+31A-22-320.   Use of credit information.
+
+(1)  For purposes of this section:
+
+(a)  "Credit information" means:
+
+(i)  a consumer report;
+
+(ii)  a credit score;
+
+(iii)  any information obtained by the insurer from a consumer report;
+
+(iv)  any part of a consumer report; or
+
+(v)  any part of a credit score.
+
+(b) (i)  Except as provided in Subsection (1)(b)(ii), "consumer report" is as defined in 15 U.S.C. 1681a.
+
+(ii)  "Consumer report" does not include:
+
+(A)  a motor vehicle record obtained from a state or an agency of a state; or
+
+(B)  any information regarding an applicant's or insured's insurance claim history.
+
+(c) (i)  "Credit score" means a numerical value or a categorization that is:
+
+(A)  derived from information in a consumer report;
+
+(B)  derived from a statistical tool or modeling system; and
+
+(C)  developed to predict the likelihood of:
+
+(I)  future insurance claims behavior; or
+
+(II)  credit behavior.
+
+(ii)  "Credit score" includes:
+
+(A)  a risk predictor; or
+
+(B)  a risk score.
+
+(iii)  A numerical value or a categorization described in Subsection (1)(c)(i) is a credit score if it is developed to predict the behavior described in Subsection (1)(c)(i)(C) regardless of whether it is developed to predict other factors in addition to predicting the behavior described in Subsection (1)(c)(i)(C).
+
+(d)  "Motor vehicle related insurance policy" means:
+
+(i)  a motor vehicle liability policy;
+
+(ii)  a policy that contains uninsured motorist coverage;
+
+(iii)  a policy that contains underinsured motorist coverage;
+
+(iv)  a policy that contains property damage coverage under this part; or
+
+(v)  a policy that contains personal injury coverage under this part.
+
+(2)  An insurer that issues a motor vehicle related insurance policy:
+
+(a)  except as provided in Subsection (2)(b), may not use credit information for the purpose of determining for the motor vehicle related insurance policy:
+
+(i)  renewal;
+
+(ii)  nonrenewal;
+
+(iii)  termination;
+
+(iv)  eligibility;
+
+(v)  underwriting; or
+
+(vi)  rating; and
+
+(b)  notwithstanding Subsection (2)(a), may use credit information for the purpose of:
+
+(i)  if risk related factors other than credit information are considered, determining initial underwriting; or
+
+(ii)  providing to an insured:
+
+(A)  a reduction in rates paid by the insured for the motor vehicle related insurance policy; or
+
+(B)  any other discount similar to the reduction in rates described in Subsection (2)(b)(ii)(A).
+
+(3)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commissioner may make rules necessary to enforce this section.
+

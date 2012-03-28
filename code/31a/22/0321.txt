@@ -1,0 +1,142 @@
+31A-22-321.   Use of arbitration in third party motor vehicle accident cases.
+
+(1)  A person injured as a result of a motor vehicle accident may elect to submit all third party bodily injury claims to arbitration by filing a notice of the submission of the claim to binding arbitration in a district court if:
+
+(a)  the claimant or the claimant's representative has:
+
+(i)  previously and timely filed a complaint in a district court that includes a third party bodily injury claim; and
+
+(ii)  filed a notice to submit the claim to arbitration within 14 days after the complaint has been answered; and
+
+(b)  the notice required under Subsection (1)(a)(ii) is filed while the action under Subsection (1)(a)(i) is still pending.
+
+(2) (a)  If a party submits a bodily injury claim to arbitration under Subsection (1), the party submitting the claim or the party's representative is limited to an arbitration award that does not exceed $50,000 in addition to any available personal injury protection benefits and any claim for property damage.
+
+(b)  A claim for reimbursement of personal injury protection benefits is to be resolved between insurers as provided for in Subsection 31A-22-309(6)(a)(ii).
+
+(c)  A claim for property damage may not be made in an arbitration proceeding under Subsection (1) unless agreed upon by the parties in writing.
+
+(d)  A party who elects to proceed against a defendant under this section:
+
+(i)  waives the right to obtain a judgment against the personal assets of the defendant; and
+
+(ii)  is limited to recovery only against available limits of insurance coverage.
+
+(e) (i)  This section does not prevent a party from pursuing an underinsured motorist claim as set out in Section 31A-22-305.3.
+
+(ii)  An underinsured motorist claim described in Subsection (2)(e)(i) is not limited to the $50,000 limit described in Subsection (2)(a).
+
+(iii)  There shall be no right of subrogation on the part of the underinsured motorist carrier for a claim submitted to arbitration under this section.
+
+(3)  A claim for punitive damages may not be made in an arbitration proceeding under Subsection (1) or any subsequent proceeding, even if the claim is later resolved through a trial de novo under Subsection (11).
+
+(4) (a)  A person who has elected arbitration under this section may rescind the person's election if the rescission is made within:
+
+(i)  90 days after the election to arbitrate; and
+
+(ii)  no less than 30 days before any scheduled arbitration hearing.
+
+(b)  A person seeking to rescind an election to arbitrate under this Subsection (4) shall:
+
+(i)  file a notice of the rescission of the election to arbitrate with the district court in which the matter was filed; and
+
+(ii)  send copies of the notice of the rescission of the election to arbitrate to all counsel of record to the action.
+
+(c)  All discovery completed in anticipation of the arbitration hearing shall be available for use by the parties as allowed by the Utah Rules of Civil Procedure and Utah Rules of Evidence.
+
+(d)  A party who has elected to arbitrate under this section and then rescinded the election to arbitrate under this Subsection (4) may not elect to arbitrate the claim under this section again.
+
+(5) (a)  Unless otherwise agreed to by the parties or by order of the court, an arbitration process elected under this section is subject to Rule 26, Utah Rules of Civil Procedure.
+
+(b)  Unless otherwise agreed to by the parties or ordered by the court, discovery shall be completed within 150 days after the date arbitration is elected under this section or the date the answer is filed, whichever is longer.
+
+(6) (a)  Unless otherwise agreed to in writing by the parties, a claim that is submitted to arbitration under this section shall be resolved by a single arbitrator.
+
+(b)  Unless otherwise agreed to by the parties or ordered by the court, all parties shall agree on the single arbitrator selected under Subsection (6)(a) within 90 days of the answer of the defendant.
+
+(c)  If the parties are unable to agree on a single arbitrator as required under Subsection (6)(b), the parties shall select a panel of three arbitrators.
+
+(d)  If the parties select a panel of three arbitrators under Subsection (6)(c):
+
+(i)  each side shall select one arbitrator; and
+
+(ii)  the arbitrators appointed under Subsection (6)(d)(i) shall select one additional arbitrator to be included in the panel.
+
+(7)  Unless otherwise agreed to in writing:
+
+(a)  each party shall pay an equal share of the fees and costs of the arbitrator selected under Subsection (6)(a); and
+
+(b)  if an arbitration panel is selected under Subsection (6)(d):
+
+(i)  each party shall pay the fees and costs of the arbitrator selected by that party's side; and
+
+(ii)  each party shall pay an equal share of the fees and costs of the arbitrator selected under Subsection (6)(d)(ii).
+
+(8)  Except as otherwise provided in this section and unless otherwise agreed to in writing by the parties, an arbitration proceeding conducted under this section shall be governed by Title 78B, Chapter 11, Utah Uniform Arbitration Act.
+
+(9) (a)  Subject to the provisions of this section, the Utah Rules of Civil Procedure and Utah Rules of Evidence apply to the arbitration proceeding.
+
+(b)  The Utah Rules of Civil Procedure and Utah Rules of Evidence shall be applied liberally with the intent of concluding the claim in a timely and cost-efficient manner.
+
+(c)  Discovery shall be conducted in accordance with Rules 26 through 37 of the Utah Rules of Civil Procedure and shall be subject to the jurisdiction of the district court in which the matter is filed.
+
+(d)  Dispositive motions shall be filed, heard, and decided by the district court prior to the arbitration proceeding in accordance with the court's scheduling order.
+
+(10)  A written decision by a single arbitrator or by a majority of the arbitration panel shall constitute a final decision.
+
+(11)  An arbitration award issued under this section shall be the final resolution of all bodily injury claims between the parties and may be reduced to judgment by the court upon motion and notice unless:
+
+(a)  either party, within 20 days after service of the arbitration award:
+
+(i)  files a notice requesting a trial de novo in the district court; and
+
+(ii)  serves the nonmoving party with a copy of the notice requesting a trial de novo under Subsection (11)(a)(i); or
+
+(b)  the arbitration award has been satisfied.
+
+(12) (a)  Upon filing a notice requesting a trial de novo under Subsection (11):
+
+(i)  unless otherwise stipulated to by the parties or ordered by the court, an additional 90 days shall be allowed for further discovery;
+
+(ii)  the additional discovery time under Subsection (12)(a)(i) shall run from the notice of appeal; and
+
+(iii)  the claim shall proceed through litigation pursuant to the Utah Rules of Civil Procedure and Utah Rules of Evidence in the district court.
+
+(b)  In accordance with Rule 38, Utah Rules of Civil Procedure, either party may request a jury trial with a request for trial de novo filed under Subsection (11)(a)(i).
+
+(13) (a)  If the plaintiff, as the moving party in a trial de novo requested under Subsection (11), does not obtain a verdict that is at least $5,000 and is at least 30% greater than the arbitration award, the plaintiff is responsible for all of the nonmoving party's costs.
+
+(b)  Except as provided in Subsection (13)(c), the costs under Subsection (13)(a) shall include:
+
+(i)  any costs set forth in Rule 54(d), Utah Rules of Civil Procedure; and
+
+(ii)  the costs of expert witnesses and depositions.
+
+(c)  An award of costs under this Subsection (13) may not exceed $6,000.
+
+(14) (a)  If a defendant, as the moving party in a trial de novo requested under Subsection (11), does not obtain a verdict that is at least 30% less than the arbitration award, the defendant is responsible for all of the nonmoving party's costs.
+
+(b)  Except as provided in Subsection (14)(c), the costs under Subsection (14)(a) shall include:
+
+(i)  any costs set forth in Rule 54(d), Utah Rules of Civil Procedure; and
+
+(ii)  the costs of expert witnesses and depositions.
+
+(c)  An award of costs under this Subsection (14) may not exceed $6,000.
+
+(15)  For purposes of determining whether a party's verdict is greater or less than the arbitration award under Subsections (13) and (14), a court may not consider any recovery or other relief granted on a claim for damages if the claim for damages:
+
+(a)  was not fully disclosed in writing prior to the arbitration proceeding; or
+
+(b)  was not disclosed in response to discovery contrary to the Utah Rules of Civil Procedure.
+
+(16)  If a district court determines, upon a motion of the nonmoving party, that the moving party's use of the trial de novo process was filed in bad faith as defined in Section 78B-5-825, the district court may award reasonable attorney fees to the nonmoving party.
+
+(17)  Nothing in this section is intended to affect or prevent any first party claim from later being brought under any first party insurance policy under which the injured person is a covered person.
+
+(18) (a)  If a defendant requests a trial de novo under Subsection (11), in no event can the total verdict at trial exceed $15,000 above any available limits of insurance coverage and in no event can the total verdict exceed $65,000.
+
+(b)  If a plaintiff requests a trial de novo under Subsection (11), the verdict at trial may not exceed $50,000.
+
+(19)  All arbitration awards issued under this section shall bear postjudgment interest pursuant to Section 15-1-4.
+

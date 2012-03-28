@@ -1,0 +1,52 @@
+31A-17-505.   Computation of minimum standard for annuities.
+
+(1)  Except as provided in Section 31A-17-506, the minimum standard for the valuation of all individual annuity and pure endowment contracts issued on or after the operative date of this section, as defined in Subsection (2), and for all annuities and pure endowments purchased on or after such operative date under group annuity and pure endowment contracts, shall be the commissioner's reserve valuation methods defined in Sections 31A-17-507 and 31A-17-508 and the following tables and interest rates:
+
+(a) for individual annuity and pure endowment contracts issued prior to April 2, 1980, excluding any accident and health and accidental death benefits in the contracts:
+
+(i) (A)  the 1971 Individual Annuity Mortality Table; or
+
+(B)  any modification of the 1971 Individual Annuity Mortality Table approved by the commissioner;
+
+(ii)  6% interest for single premium immediate annuity contracts; and
+
+(iii)  4% interest for all other individual annuity and pure endowment contracts;
+
+(b) for individual single premium immediate annuity contracts issued on or after April 2, 1980, excluding any accident and health and accidental death benefits in the contracts:
+
+(i) (A)  any individual annuity mortality table that is approved by rule by the commissioner for use in determining the minimum standard of valuation for such contracts; or
+
+(B)  any modification of a table described in Subsection (1)(b)(i)(A) approved by the commissioner; and
+
+(ii)  7.5% interest;
+
+(c) for individual annuity and pure endowment contracts issued on or after April 2, 1980, other than single premium immediate annuity contracts, excluding any accident and health and accidental death benefits in the contracts:
+
+(i) (A)  any individual annuity mortality table that is approved by rule by the commissioner for use in determining the minimum standard of valuation for such contracts; or
+
+(B)  any modification of a table described in Subsection (1)(c)(i)(A) approved by the commissioner;
+
+(ii)  5.5% interest for single premium deferred annuity and pure endowment contracts; and
+
+(iii)  4.5% interest for all other such individual annuity and pure endowment contracts;
+
+(d) for all annuities and pure endowments purchased prior to April 2, 1980, under group annuity and pure endowment contracts, excluding any accident and health and accidental death benefits purchased under the contracts:
+
+(i) (A)  the 1971 Group Annuity Mortality Table; or
+
+(B)  any modification of the 1971 Group Annuity Mortality Table approved by the commissioner; and
+
+(ii)  6.5% interest; and
+
+(e) for all annuities and pure endowments purchased on or after April 2, 1980, under group annuity and pure endowment contracts, excluding any accident and health and accidental death benefits purchased under the contracts:
+
+(i) (A)  any group annuity mortality table that is approved by rule by the commissioner for use in determining the minimum standard of valuation for such annuities and pure endowments; or
+
+(B)  any modification of a table described in Subsection (1)(e)(i)(A) approved by the commissioner; and
+
+(ii)  7.5% interest.
+
+(2) (a)  After June 1, 1973, any company may file with the commissioner a written notice of its election to comply with this section after a specified date before January 1, 1979, which shall be the operative date of this section for the company.
+
+(b)  If a company does not make an election under Subsection (2)(a), the operative date of this section for the company shall be January 1, 1979.
+
