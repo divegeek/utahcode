@@ -2,7 +2,29 @@
 
 As used in this chapter:
 
-(1)  "Place of public access" means any enclosed indoor place of business, commerce, banking, financial service, or other service-related activity, whether publicly or privately owned and whether operated for profit or not, to which persons not employed at the place of public access have general and regular access or which the public uses, including:
+(1)  "E-cigarette":
+
+(a)  means any electronic oral device:
+
+(i)  that provides a vapor of nicotine or other substance; and
+
+(ii)  which simulates smoking through its use or through inhalation of the device; and
+
+(b)  includes an oral device that is:
+
+(i)  composed of a heating element, battery, or electronic circuit; and
+
+(ii)  marketed, manufactured, distributed, or sold as:
+
+(A)  an e-cigarette;
+
+(B)  e-cigar;
+
+(C)  e-pipe; or
+
+(D)  any other product name or descriptor, if the function of the product meets the definition of Subsection (1)(a).
+
+(2)  "Place of public access" means any enclosed indoor place of business, commerce, banking, financial service, or other service-related activity, whether publicly or privately owned and whether operated for profit or not, to which persons not employed at the place of public access have general and regular access or which the public uses, including:
 
 (a)  buildings, offices, shops, elevators, or restrooms;
 
@@ -38,7 +60,15 @@ As used in this chapter:
 
 (p)  a holder of a club license, as defined in Section 32B-1-102.
 
-(2)  "Publicly owned building or office" means any enclosed indoor place or portion of a place owned, leased, or rented by any state, county, or municipal government, or by any agency supported by appropriation of, or by contracts or grants from, funds derived from the collection of federal, state, county, or municipal taxes.
+(3)  "Publicly owned building or office" means any enclosed indoor place or portion of a place owned, leased, or rented by any state, county, or municipal government, or by any agency supported by appropriation of, or by contracts or grants from, funds derived from the collection of federal, state, county, or municipal taxes.
 
-(3)  "Smoking" means the possession of any lighted tobacco product in any form.
+(4)  "Smoking" means:
+
+(a)  the possession of any lighted or heated tobacco product in any form;
+
+(b)  inhaling, exhaling, burning, or heating a substance containing tobacco or nicotine intended for inhalation through a cigar, cigarette, pipe, or hookah;
+
+(c)  except as provided in Section 26-38-2.6, using an e-cigarette; or
+
+(d)  using an oral smoking device intended to circumvent the prohibition of smoking in this chapter.
 

@@ -1,14 +1,14 @@
-16-10a-1008.7 (Superseded 07/01/12).   Conversion to or from a domestic limited liability company.
+16-10a-1008.7.   Conversion to or from a domestic limited liability company.
 
-(1) (a)  A corporation may convert to a domestic limited liability company subject to Title 48, Chapter 2c, Utah Revised Limited Liability Company Act, by complying with:
+(1) (a)  A corporation may convert to a domestic limited liability company subject to Title 48, Chapter 3, Utah Revised Uniform Limited Liability Company Act, by complying with:
 
 (i)  this Subsection (1); and
 
-(ii)  Section 48-2c-1401.
+(ii)  Section 48-3-1006.
 
 (b)  If a corporation converts to a domestic limited liability company in accordance with this Subsection (1), the articles of conversion shall:
 
-(i)  comply with Section 48-2c-1402; and
+(i)  comply with Section 48-3-1008; and
 
 (ii)  if the corporation has issued shares, provide for:
 
@@ -16,7 +16,7 @@
 
 (B)  the conversion of any issued share to a membership interest in the domestic limited liability company.
 
-(c)  In accordance with Section 48-2c-1404, before articles of conversion may be filed with the division, the conversion shall be approved:
+(c) Before articles of conversion may be filed with the division, the conversion shall be approved:
 
 (i)  in the manner provided for the articles of incorporation or bylaws of the corporation; or
 
@@ -34,5 +34,5 @@
 
 (a)  filing articles of incorporation in accordance with this chapter; and
 
-(b)  complying with Section 48-2c-1406.
+(b)  complying with Section 48-3-1006.
 

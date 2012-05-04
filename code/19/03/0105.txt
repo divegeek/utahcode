@@ -38,11 +38,11 @@
 
 (B)  radioactive waste from a location in the state designated as a processing site under 42 U.S.C. 7912(f).
 
-(d)  "Radioactive waste license" or "license" means a radioactive material license issued by the executive secretary under Subsection 19-3-108(2)(c)(i), to own, construct, modify, or operate a radioactive waste facility.
+(d)  "Radioactive waste license" or "license" means a radioactive material license issued by the director under Subsection 19-3-108(2)(d), to own, construct, modify, or operate a radioactive waste facility.
 
 (2)  The provisions of this section are subject to the prohibition under Section 19-3-103.7.
 
-(3) Subject to Subsection (10), a person may not own, construct, modify, or operate a radioactive waste facility without:
+(3)  Subject to Subsection (10), a person may not own, construct, modify, or operate a radioactive waste facility without:
 
 (a)  having received a radioactive waste license for the facility;
 
@@ -52,11 +52,11 @@
 
 (d)  subsequent to meeting the requirements of Subsections (3)(a) through (c), the approval of the governor and the Legislature.
 
-(4) Subject to Subsection (10), a new radioactive waste license application, or an application to renew or amend an existing radioactive waste license, is subject to the requirements of Subsections (3)(b) through (d) if the application, renewal, or amendment:
+(4)  Subject to Subsection (10), a new radioactive waste license application, or an application to renew or amend an existing radioactive waste license, is subject to the requirements of Subsections (3)(b) through (d) if the application, renewal, or amendment:
 
 (a)  specifies a different geographic site than a previously submitted application;
 
-(b)  would cost 50% or more of the cost of construction of the original radioactive waste facility or the modification would result in an increase in capacity or throughput of a cumulative total of 50% of the total capacity or throughput which was approved in the facility license as of January 1, 1990, or the initial approval facility license if the initial license approval is subsequent to January 1, 1990; or 
+(b)  would cost 50% or more of the cost of construction of the original radioactive waste facility or the modification would result in an increase in capacity or throughput of a cumulative total of 50% of the total capacity or throughput which was approved in the facility license as of January 1, 1990, or the initial approval facility license if the initial license approval is subsequent to January 1, 1990; or
 
 (c)  requests approval to receive, transfer, store, decay in storage, treat, or dispose of radioactive waste having a higher radionuclide concentration limit than allowed, under an existing approved license held by the facility, for the specific type of waste to be received, transferred, stored, decayed in storage, treated, or disposed of.
 
@@ -70,11 +70,11 @@
 
 (7)  If the board finds that approval of additional radioactive waste license applications, renewals, or amendments will result in inadequate oversight, monitoring, or licensure compliance and enforcement of existing and any additional radioactive waste facilities, the board shall suspend acceptance of further applications for radioactive waste licenses.  The board shall report the suspension to the Legislative Management Committee.
 
-(8)  The board shall review each proposed radioactive waste license application to determine whether the application complies with the provisions of this chapter and the rules of the board.
+(8)  The director shall review each proposed radioactive waste license application to determine whether the application complies with the provisions of this chapter and the rules of the board.
 
-(9) (a)  If the radioactive waste license application is determined to be complete, the board shall issue a notice of completeness.
+(9) (a)  If the radioactive waste license application is determined to be complete, the director shall issue a notice of completeness.
 
-(b)  If the board determines that the radioactive waste license application is incomplete, the board shall issue a notice of deficiency, listing the additional information to be provided by the applicant to complete the application.
+(b)  If the director determines that the radioactive waste license application is incomplete, the director shall issue a notice of deficiency, listing the additional information to be provided by the applicant to complete the application.
 
 (10)  The requirements of Subsections (3)(c) and (d) and Subsection 19-3-104(11) do not apply to:
 

@@ -1,6 +1,6 @@
 13-42-117.    Prerequisites for providing debt-management services.
 
-(1)  Before providing debt-management services, a registered provider shall give the individual an itemized list of goods and services and the charges for each.  The list shall be clear and conspicuous, be in a record the individual may keep whether or not the individual assents to an agreement, and describe the goods and services the provider offers:
+(1)  Before providing debt-management services, a provider shall give the individual an itemized list of goods and services and the charges for each.  The list shall be clear and conspicuous, be in a record the individual may keep whether or not the individual assents to an agreement, and describe the goods and services the provider offers:
 
 (a)  free of additional charge if the individual enters into an agreement;
 
@@ -34,7 +34,15 @@ _____________ ____________________________________________
 
 (a)  provides the individual with reasonable education about the management of personal finance;
 
-(b)  has prepared a financial analysis; and
+(b)  has prepared a financial analysis including at least the following matters affecting the individual's financial condition:
+
+(i)  assets;
+
+(ii)  income;
+
+(iii)  debt, including secured debt; and
+
+(iv)  other liabilities; and
 
 (c)  if the individual is to make regular, periodic payments to a creditor or a provider:
 
@@ -60,19 +68,35 @@ _____________ ____________________________________________
 
 (iv)  all other creditors.
 
-(4)  Before an individual assents to an agreement, the provider shall inform the individual, in a record that contains nothing else, that is given separately, and that the individual may keep whether or not the individual assents to the agreement:
+(4)  Before an individual assents to an agreement, the provider shall inform the individual, in a separate record that the individual may keep whether or not the individual assents to the agreement:
 
 (a)  of the name and business address of the provider;
 
 (b)  that plans are not suitable for all individuals and the individual may ask the provider about other ways, including bankruptcy, to deal with indebtedness;
 
-(c)  that establishment of a plan may adversely affect the individual's credit rating or credit scores;
+(c)  of the amount of time necessary to achieve the results that the provider represents to be achievable;
 
-(d)  that nonpayment of debt may lead creditors to increase finance and other charges or undertake collection activity, including litigation;
+(d)  if the provider intends to include a settlement offer to any of the individual's creditors or debt collectors:
 
-(e)  unless it is not true, that the provider may receive compensation from the creditors of the individual; and
+(i)  of the time by which the provider will make a bona fide settlement offer to any of the individual's creditors or debt collectors; and
 
-(f)  that, unless the individual is insolvent, if a creditor settles for less than the full amount of the debt, the plan may result in the creation of taxable income to the individual, even though the individual does not receive any money.
+(ii)  of the amount of money or the percentage of each outstanding debt that the individual must accumulate before the provider will make a bona fide settlement offer to each creditor or debt collector;
+
+(e)  that establishment of a plan may adversely affect the individual's credit rating or credit scores;
+
+(f)  that nonpayment of debt may lead creditors to increase finance and other charges or undertake collection activity, including litigation;
+
+(g)  if the provider requests or requires the individual to place money in an account at an insured financial institution, that the individual:
+
+(i)  owns the funds held in the account;
+
+(ii)  may withdraw from the provider's plan at any time without penalty; and
+
+(iii)  is entitled to receive all money in the account, other than money that the provider earns as provided in Section 13-42-123, at the time the individual withdraws from the provider's plan;
+
+(h)  unless it is not true, that the provider may receive compensation from the creditors of the individual; and
+
+(i)  that, unless the individual is insolvent, if a creditor settles for less than the full amount of the debt, the plan may result in the creation of taxable income to the individual, even though the individual does not receive any money.
 
 (5)  If a provider may receive payments from an individual's creditors and the plan contemplates that the individual's creditors will reduce finance charges or fees for late payment, default, or delinquency, the provider may comply with Subsection (4) by providing the following disclosure, surrounded by black lines:
 

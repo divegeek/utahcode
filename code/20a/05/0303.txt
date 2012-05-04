@@ -1,4 +1,4 @@
-20A-5-303 (Superseded 03/08/12).   Establishing, dividing, abolishing, and changing voting precincts -- Common polling places -- Combined voting precincts.
+20A-5-303.   Establishing, dividing, abolishing, and changing voting precincts -- Common polling places -- Combined voting precincts.
 
 (1) (a)  After receiving recommendations from the county clerk, the county legislative body may establish, divide, abolish, and change voting precincts.
 
@@ -10,15 +10,17 @@
 
 (i)  identify those precincts that may reach the limit of active voters in a precinct under Subsection (2)(a) or that becomes too large to facilitate the election process; and
 
-(ii)  except as provided in Subsection (3), divide those precincts on or before January 1 of a general election year.
+(ii)  except as provided by Subsection (3), divide those precincts on or before January 1 of a general election year.
 
 (3)  A county legislative body shall divide a precinct identified under Subsection (2)(b)(i) on or before January 31 of a regular general election year that immediately follows the calendar year in which the Legislature divides the state into districts in accordance with Utah Constitution, Article IX, Section 1.
 
-(4)  Except as provided in Subsection (5), the county legislative body may not:
+(4)  Notwithstanding Subsection (2)(a) and except as provided by Subsection (5), the county legislative body may not:
 
-(a)  establish or abolish any voting precinct after January 1 of a regular general election year; or
+(a)  establish or abolish any voting precinct after January 1 of a regular general election year;
 
-(b)  alter or change the boundaries of any voting precinct after January 1 of a regular general election year.
+(b)  alter or change the boundaries of any voting precinct after January 1 of a regular general election year; or
+
+(c)  establish, divide, abolish, alter, or change a voting precinct between January 1 of a year immediately preceding the year in which an enumeration is required by the United States Constitution and the day on which the Legislature divides the state into districts in accordance with Utah Constitution, Article IX, Section 1.
 
 (5)  A county legislative body may establish, divide, abolish, alter, or change a voting precinct on or before January 31 of a regular general election year that immediately follows the calendar year in which the Legislature divides the state into districts in accordance with Utah Constitution, Article IX, Section 1.
 

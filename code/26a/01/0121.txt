@@ -1,28 +1,46 @@
-26A-1-121.   Standards and regulations adopted by local board -- Administrative and judicial review of actions.
+26A-1-121.   Standards and regulations adopted by local board -- Local standards not more stringent than federal or state standards -- Exceptions for written findings -- Administrative and judicial review of actions.
 
-(1) (a)  The board may make standards and regulations not in conflict with rules of the Departments of Health and Environmental Quality and necessary for the promotion of public health, environmental health quality, injury control, and the prevention of outbreaks and spread of communicable and infectious diseases.
+(1) (a)  The board may make standards and regulations:
 
-(b)  The standards and regulations supersede existing local standards, regulations, and ordinances pertaining to similar subject matter.
+(i)  not in conflict with rules of the Departments of Health and Environmental Quality; and
 
-(c)  The board shall provide public hearings prior to the adoption of any regulation or standard.  Notice of any public hearing shall be published at least twice throughout the county or counties served by the local health department.  The publication may be in one or more newspapers, so long as notice is provided in accordance with this Subsection (1)(c).
+(ii)  necessary for the promotion of public health, environmental health quality, injury control, and the prevention of outbreaks and spread of communicable and infectious diseases.
 
-(d)  The hearings may be conducted by the board at a regular or special meeting, or the board may appoint hearing officers who may conduct hearings in the name of the board at a designated time and place.
+(b)  The standards and regulations under Subsection (1)(a):
 
-(e)  A record or summary of the proceedings of any hearing shall be taken and filed with the board.
+(i)  supersede existing local standards, regulations, and ordinances pertaining to similar subject matter; and
 
-(2) (a)  Any person aggrieved by any action or inaction of the local health department relating to the public health shall have an opportunity for a hearing with the local health officer or a designated representative of the local health department.  The board shall grant a subsequent hearing to the person upon his request in writing.
+(ii)  except as provided under Subsection (1)(c) and except where specifically allowed by federal law or state statute, may not be more stringent than those established by federal law, state statute, or administrative rules adopted by the Utah Department of Health in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
 
-(b)  In any adjudicative hearing, a member of the board or the hearing officer may administer oaths, examine witnesses, and issue notice of the hearings or subpoenas in the name of the board requiring the testimony of witnesses and the production of evidence relevant to any matter in the hearing.  A written record shall be made of the hearing, including findings of facts and conclusions of law.
+(c) (i)  The board may make standards and regulations more stringent than corresponding federal law, state statute, or state administrative rules for the purposes described in Subsection (1)(a), only if the board makes a written finding after public comment and hearing and based on evidence in the record, that corresponding federal laws, state statutes, or state administrative rules are not adequate to protect public health and the environment of the state.
 
-(c)  Judicial review of a final determination of the local board may be secured by any person adversely affected by the final determination, or by the Departments of Health or Environmental Quality, by filing a petition in the district court within 30 days after receipt of notice of the board's final determination.
+(ii)  The findings shall address the public health information and studies contained in the record, which form the basis for the board's conclusion.
+
+(d)  The board shall provide public hearings prior to the adoption of any regulation or standard.  Notice of any public hearing shall be published at least twice throughout the county or counties served by the local health department.  The publication may be in one or more newspapers, if the notice is provided in accordance with this Subsection (1)(d).
+
+(e)  The hearings may be conducted by the board at a regular or special meeting, or the board may appoint hearing officers who may conduct hearings in the name of the board at a designated time and place.
+
+(f)  A record or summary of the proceedings of a hearing shall be taken and filed with the board.
+
+(2) (a) A person aggrieved by an action or inaction of the local health department relating to the public health shall have an opportunity for a hearing with the local health officer or a designated representative of the local health department.  The board shall grant a subsequent hearing to the person upon the person's written request.
+
+(b)  In an adjudicative hearing, a member of the board or the hearing officer may administer oaths, examine witnesses, and issue notice of the hearings or subpoenas in the name of the board requiring the testimony of witnesses and the production of evidence relevant to a matter in the hearing. The local health department shall make a written record of the hearing, including findings of facts and conclusions of law.
+
+(c)  Judicial review of a final determination of the local board may be secured by a person adversely affected by the final determination, or by the Departments of Health or Environmental Quality, by filing a petition in the district court within 30 days after receipt of notice of the board's final determination.
 
 (d)  The petition shall be served upon the secretary of the board and shall state the grounds upon which review is sought.
 
-(e)  The board in its answer shall certify and file with the court all documents and papers and a transcript of all testimony taken in the matter together with its findings of fact, conclusions of law, and order.
+(e)  The board's answer shall certify and file with the court all documents and papers and a transcript of all testimony taken in the matter together with the board's findings of fact, conclusions of law, and order.
 
 (f)  The appellant and the board are parties to the appeal.
 
 (g)  The Departments of Health and Environmental Quality may become a party by intervention as in a civil action upon showing cause.
 
 (h)  A further appeal may be taken to the Court of Appeals under Section 78A-4-103.
+
+(3)  Nothing in the provisions of Subsection (1)(b)(ii) or (c), shall limit the ability of a local health department board to make standards and regulations in accordance with Subsection (1)(a) for:
+
+(a)  emergency rules made in accordance with Section 63G-3-304; or
+
+(b)  items not regulated under federal law, state statute, or state administrative rule.
 

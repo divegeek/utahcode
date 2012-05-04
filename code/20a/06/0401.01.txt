@@ -20,7 +20,7 @@
 
 (iii)  ballot stubs are numbered consecutively;
 
-(e)  immediately below the perforated ballot stub, the following endorsements are printed in 18 point bold type:
+(e)  immediately below the perforated ballot stub, the following endorsements are printed in 18-point bold type:
 
 (i)  "Official Primary Ballot for ____ County, Utah";
 
@@ -30,9 +30,9 @@
 
 (f)  after the facsimile signature, the political party emblem and the name of the political party are printed;
 
-(g)  after the party name and emblem, the ballot contains the following printed in not smaller than 10 point bold face, double leaded type: "Instructions to Voters: To vote for a candidate, place a cross (X) in the square immediately adjacent to the name of the person for whom you wish to vote and in no other place.  Do not vote for any candidate listed under more than one party or group designation.", followed by two one-point parallel horizontal rules;
+(g)  after the party name and emblem, the ballot contains the following printed in not smaller than 10-point bold face, double leaded type: "Instructions to Voters: To vote for a candidate, place a cross (X) in the square immediately adjacent to the name of the person for whom you wish to vote and in no other place.  Do not vote for any candidate listed under more than one party or group designation.", followed by two one-point parallel horizontal rules;
 
-(h)  after the rules, the designation of the office for which the candidates seek nomination is printed flush with the left-hand margin and the words: "Vote for one" or "Vote for two or more" are printed to extend to the extreme right of the column in 10 point bold type, followed by a hair-line rule;
+(h)  after the rules, the designation of the office for which the candidates seek nomination is printed flush with the left-hand margin and the words, "Vote for one" or "Vote for up to _____ (the number of candidates for which the voter may vote)" are printed to extend to the extreme right of the column in 10-point bold type, followed by a hair-line rule;
 
 (i)  after the hair-line rule, the names of the candidates are printed in heavy face type between lines or rules three-eighths inch apart, in the order specified under Section 20A-6-305 with surnames last and grouped according to the office that they seek;
 

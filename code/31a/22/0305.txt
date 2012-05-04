@@ -30,9 +30,9 @@
 
 (ii)  the motor vehicle described in Subsection (2)(d)(i) is uninsured only to the extent that the claim against the insolvent insurer is not paid by a guaranty association or fund.
 
-(3) (a)  Uninsured motorist coverage under Subsection 31A-22-302(1)(b) provides coverage for covered persons who are legally entitled to recover damages from owners or operators of uninsured motor vehicles because of bodily injury, sickness, disease, or death.
+(3)  Uninsured motorist coverage under Subsection 31A-22-302(1)(b) provides coverage for covered persons who are legally entitled to recover damages from owners or operators of uninsured motor vehicles because of bodily injury, sickness, disease, or death.
 
-(b)  For new policies written on or after January 1, 2001, the limits of uninsured motorist coverage shall be equal to the lesser of the limits of the insured's motor vehicle liability coverage or the maximum uninsured motorist coverage limits available by the insurer under the insured's motor vehicle policy, unless the insured purchases coverage in a lesser amount by signing an acknowledgment form that:
+(4) (a)  For new policies written on or after January 1, 2001, the limits of uninsured motorist coverage shall be equal to the lesser of the limits of the named insured's motor vehicle liability coverage or the maximum uninsured motorist coverage limits available by the insurer under the named insured's motor vehicle policy, unless a named insured rejects or purchases coverage in a lesser amount by signing an acknowledgment form that:
 
 (i)  is filed with the department;
 
@@ -42,27 +42,59 @@
 
 (iv)  reasonably explains the purpose of uninsured motorist coverage; and
 
-(v)  discloses the additional premiums required to purchase uninsured motorist coverage with limits equal to the lesser of the limits of the insured's motor vehicle liability coverage or the maximum uninsured motorist coverage limits available by the insurer under the insured's motor vehicle policy.
+(v)  discloses the additional premiums required to purchase uninsured motorist coverage with limits equal to the lesser of the limits of the named insured's motor vehicle liability coverage or the maximum uninsured motorist coverage limits available by the insurer under the named insured's motor vehicle policy.
 
-(c)  A self-insured, including a governmental entity, may elect to provide uninsured motorist coverage in an amount that is less than its maximum self-insured retention under Subsections (3)(b) and (4)(a) by issuing a declaratory memorandum or policy statement from the chief financial officer or chief risk officer that declares the:
+(b)  For purposes of this Subsection (4), "new policy" means:
+
+(i)  any policy that is issued which does not include a renewal or reinstatement of an existing policy; or
+
+(ii)  a change to an existing policy that results in:
+
+(A)  a named insured being added to or deleted from the policy; or
+
+(B)  a change in the limits of the named insured's motor vehicle liability coverage.
+
+(c) (i)  As used in this Subsection (4)(c), "additional motor vehicle" means a change that increases the total number of vehicles insured by the policy, and does not include replacement, substitute, or temporary vehicles.
+
+(ii)  The adding of an additional motor vehicle to an existing personal lines or commercial lines policy does not constitute a new policy for purposes of Subsection (4)(b).
+
+(iii)  If an additional motor vehicle is added to a personal lines policy where uninsured motorist coverage has been rejected, or where uninsured motorist limits are lower than the named insured's motor vehicle liability limits, the insurer shall provide a notice to a named insured within 30 days that:
+
+(A)  reasonably explains the purpose of uninsured motorist coverage; and
+
+(B)  encourages the named insured to contact the insurance company or insurance producer for quotes as to the additional premiums required to purchase uninsured motorist coverage with limits equal to the lesser of the limits of the named insured's motor vehicle liability coverage or the maximum uninsured motorist coverage limits available by the insurer under the named insured's motor vehicle policy.
+
+(d)  A change in policy number resulting from any policy change not identified under Subsection (4)(b)(ii) does not constitute a new policy.
+
+(e) (i)  Subsection (4)(b) applies retroactively to any claim arising on or after January 1, 2001 for which, as of May 1, 2012, an insured has not made a written demand for arbitration or filed a complaint in a court of competent jurisdiction.
+
+(ii)  The Legislature finds that the retroactive application of Subsection (4):
+
+(A)  does not enlarge, eliminate, or destroy vested rights; and
+
+(B)  clarifies legislative intent.
+
+(f)  A self-insured, including a governmental entity, may elect to provide uninsured motorist coverage in an amount that is less than its maximum self-insured retention under Subsections (4)(a) and (5)(a) by issuing a declaratory memorandum or policy statement from the chief financial officer or chief risk officer that declares the:
 
 (i)  self-insured entity's coverage level; and
 
 (ii)  process for filing an uninsured motorist claim.
 
-(d)  Uninsured motorist coverage may not be sold with limits that are less than the minimum bodily injury limits for motor vehicle liability policies under Section 31A-22-304.
+(g)  Uninsured motorist coverage may not be sold with limits that are less than the minimum bodily injury limits for motor vehicle liability policies under Section 31A-22-304.
 
-(e)  The acknowledgment under Subsection (3)(b) continues for that issuer of the uninsured motorist coverage until the insured, in writing, requests different uninsured motorist coverage from the insurer.
+(h)  The acknowledgment under Subsection (4)(a) continues for that issuer of the uninsured motorist coverage until the named insured requests, in writing, different uninsured motorist coverage from the insurer.
 
-(f) (i)  In conjunction with the first two renewal notices sent after January 1, 2001, for policies existing on that date, the insurer shall disclose in the same medium as the premium renewal notice, an explanation of:
+(i) (i)  In conjunction with the first two renewal notices sent after January 1, 2001, for policies existing on that date, the insurer shall disclose in the same medium as the premium renewal notice, an explanation of:
 
 (A)  the purpose of uninsured motorist coverage; and
 
-(B)  the costs associated with increasing the coverage in amounts up to and including the maximum amount available by the insurer under the insured's motor vehicle policy.
+(B)  a disclosure of the additional premiums required to purchase uninsured motorist coverage with limits equal to the lesser of the limits of the named insured's motor vehicle liability coverage or the maximum uninsured motorist coverage limits available by the insurer under the named insured's motor vehicle policy.
 
-(ii)  The disclosure required under this Subsection (3)(f) shall be sent to all insureds that carry uninsured motorist coverage limits in an amount less than the insured's motor vehicle liability policy limits or the maximum uninsured motorist coverage limits available by the insurer under the insured's motor vehicle policy.
+(ii)  The disclosure required under Subsection (4)(i)(i) shall be sent to all named insureds that carry uninsured motorist coverage limits in an amount less than the named insured's motor vehicle liability policy limits or the maximum uninsured motorist coverage limits available by the insurer under the named insured's motor vehicle policy.
 
-(4) (a) (i)  Except as provided in Subsection (4)(b), the named insured may reject uninsured motorist coverage by an express writing to the insurer that provides liability coverage under Subsection 31A-22-302(1)(a).
+(j)  For purposes of this Subsection (4), a notice or disclosure sent to a named insured in a household constitutes notice or disclosure to all insureds within the household.
+
+(5) (a) (i)  Except as provided in Subsection (5)(b), the named insured may reject uninsured motorist coverage by an express writing to the insurer that provides liability coverage under Subsection 31A-22-302(1)(a).
 
 (ii)  This rejection shall be on a form provided by the insurer that includes a reasonable explanation of the purpose of uninsured motorist coverage.
 
@@ -90,21 +122,21 @@
 
 (C)  while committing a felony; and
 
-(vi)  notwithstanding Subsection (4)(c)(v), may be recovered:
+(vi)  notwithstanding Subsection (5)(c)(v), may be recovered:
 
-(A)  for a person under 18 years of age who is injured within the scope of Subsection (4)(c)(v) but limited to medical and funeral expenses; or
+(A)  for a person under 18 years of age who is injured within the scope of Subsection (5)(c)(v) but limited to medical and funeral expenses; or
 
 (B)  by a law enforcement officer as defined in Section 53-13-103, who is injured within the course and scope of the law enforcement officer's duties.
 
-(d)  As used in this Subsection (4), "motor vehicle" has the same meaning as under Section 41-1a-102.
+(d)  As used in this Subsection (5), "motor vehicle" has the same meaning as under Section 41-1a-102.
 
-(5)  When a covered person alleges that an uninsured motor vehicle under Subsection (2)(b) proximately caused an accident without touching the covered person or the motor vehicle occupied by the covered person, the covered person shall show the existence of the uninsured motor vehicle by clear and convincing evidence consisting of more than the covered person's testimony.
+(6)  When a covered person alleges that an uninsured motor vehicle under Subsection (2)(b) proximately caused an accident without touching the covered person or the motor vehicle occupied by the covered person, the covered person shall show the existence of the uninsured motor vehicle by clear and convincing evidence consisting of more than the covered person's testimony.
 
-(6) (a)  The limit of liability for uninsured motorist coverage for two or more motor vehicles may not be added together, combined, or stacked to determine the limit of insurance coverage available to an injured person for any one accident.
+(7) (a)  The limit of liability for uninsured motorist coverage for two or more motor vehicles may not be added together, combined, or stacked to determine the limit of insurance coverage available to an injured person for any one accident.
 
-(b) (i)  Subsection (6)(a) applies to all persons except a covered person as defined under Subsection (7)(b)(ii).
+(b) (i)  Subsection (7)(a) applies to all persons except a covered person as defined under Subsection (8)(b)(ii).
 
-(ii)  A covered person as defined under Subsection (7)(b)(ii) is entitled to the highest limits of uninsured motorist coverage afforded for any one motor vehicle that the covered person is the named insured or an insured family member.
+(ii)  A covered person as defined under Subsection (8)(b)(ii) is entitled to the highest limits of uninsured motorist coverage afforded for any one motor vehicle that the covered person is the named insured or an insured family member.
 
 (iii)  This coverage shall be in addition to the coverage on the motor vehicle the covered person is occupying.
 
@@ -112,13 +144,13 @@
 
 (c)  Coverage on a motor vehicle occupied at the time of an accident shall be primary coverage, and the coverage elected by a person described under Subsections (1)(a) and (b) shall be secondary coverage.
 
-(7) (a)  Uninsured motorist coverage under this section applies to bodily injury, sickness, disease, or death of covered persons while occupying or using a motor vehicle only if the motor vehicle is described in the policy under which a claim is made, or if the motor vehicle is a newly acquired or replacement motor vehicle covered under the terms of the policy.  Except as provided in Subsection (6) or this Subsection (7), a covered person injured in a motor vehicle described in a policy that includes uninsured motorist benefits may not elect to collect uninsured motorist coverage benefits from any other motor vehicle insurance policy under which the person is a covered person.
+(8) (a)  Uninsured motorist coverage under this section applies to bodily injury, sickness, disease, or death of covered persons while occupying or using a motor vehicle only if the motor vehicle is described in the policy under which a claim is made, or if the motor vehicle is a newly acquired or replacement motor vehicle covered under the terms of the policy.  Except as provided in Subsection (7) or this Subsection (8), a covered person injured in a motor vehicle described in a policy that includes uninsured motorist benefits may not elect to collect uninsured motorist coverage benefits from any other motor vehicle insurance policy under which the person is a covered person.
 
 (b)  Each of the following persons may also recover uninsured motorist benefits under any one other policy in which they are described as a "covered person" as defined in Subsection (1):
 
 (i)  a covered person injured as a pedestrian by an uninsured motor vehicle; and
 
-(ii)  except as provided in Subsection (7)(c), a covered person injured while occupying or using a motor vehicle that is not owned, leased, or furnished:
+(ii)  except as provided in Subsection (8)(c), a covered person injured while occupying or using a motor vehicle that is not owned, leased, or furnished:
 
 (A)  to the covered person;
 
@@ -138,47 +170,47 @@
 
 (III)  to the covered person's resident sibling.
 
-(ii)  Each parent's policy under this Subsection (7)(c) is liable only for the percentage of the damages that the limit of liability of each parent's policy of uninsured motorist coverage bears to the total of both parents' uninsured coverage applicable to the accident.
+(ii)  Each parent's policy under this Subsection (8)(c) is liable only for the percentage of the damages that the limit of liability of each parent's policy of uninsured motorist coverage bears to the total of both parents' uninsured coverage applicable to the accident.
 
 (d)  A covered person's recovery under any available policies may not exceed the full amount of damages.
 
-(e)  A covered person in Subsection (7)(b) is not barred against making subsequent elections if recovery is unavailable under previous elections.
+(e)  A covered person in Subsection (8)(b) is not barred against making subsequent elections if recovery is unavailable under previous elections.
 
 (f) (i)  As used in this section, "interpolicy stacking" means recovering benefits for a single incident of loss under more than one insurance policy.
 
-(ii)  Except to the extent permitted by Subsection (6) and this Subsection (7), interpolicy stacking is prohibited for uninsured motorist coverage.
+(ii)  Except to the extent permitted by Subsection (7) and this Subsection (8), interpolicy stacking is prohibited for uninsured motorist coverage.
 
-(8) (a)  When a claim is brought by a named insured or a person described in Subsection (1) and is asserted against the covered person's uninsured motorist carrier, the claimant may elect to resolve the claim:
+(9) (a)  When a claim is brought by a named insured or a person described in Subsection (1) and is asserted against the covered person's uninsured motorist carrier, the claimant may elect to resolve the claim:
 
 (i)  by submitting the claim to binding arbitration; or
 
 (ii)  through litigation.
 
-(b)  Unless otherwise provided in the policy under which uninsured benefits are claimed, the election provided in Subsection (8)(a) is available to the claimant only.
+(b)  Unless otherwise provided in the policy under which uninsured benefits are claimed, the election provided in Subsection (9)(a) is available to the claimant only.
 
-(c)  Once the claimant has elected to commence litigation under Subsection (8)(a)(ii), the claimant may not elect to resolve the claim through binding arbitration under this section without the written consent of the uninsured motorist carrier.
+(c)  Once the claimant has elected to commence litigation under Subsection (9)(a)(ii), the claimant may not elect to resolve the claim through binding arbitration under this section without the written consent of the uninsured motorist carrier.
 
-(d) (i)  Unless otherwise agreed to in writing by the parties, a claim that is submitted to binding arbitration under Subsection (8)(a)(i) shall be resolved by a single arbitrator.
+(d) (i)  Unless otherwise agreed to in writing by the parties, a claim that is submitted to binding arbitration under Subsection (9)(a)(i) shall be resolved by a single arbitrator.
 
-(ii)  All parties shall agree on the single arbitrator selected under Subsection (8)(d)(i).
+(ii)  All parties shall agree on the single arbitrator selected under Subsection (9)(d)(i).
 
-(iii)  If the parties are unable to agree on a single arbitrator as required under Subsection (8)(d)(ii), the parties shall select a panel of three arbitrators.
+(iii)  If the parties are unable to agree on a single arbitrator as required under Subsection (9)(d)(ii), the parties shall select a panel of three arbitrators.
 
-(e)  If the parties select a panel of three arbitrators under Subsection (8)(d)(iii):
+(e)  If the parties select a panel of three arbitrators under Subsection (9)(d)(iii):
 
 (i)  each side shall select one arbitrator; and
 
-(ii)  the arbitrators appointed under Subsection (8)(e)(i) shall select one additional arbitrator to be included in the panel.
+(ii)  the arbitrators appointed under Subsection (9)(e)(i) shall select one additional arbitrator to be included in the panel.
 
 (f)  Unless otherwise agreed to in writing:
 
-(i)  each party shall pay an equal share of the fees and costs of the arbitrator selected under Subsection (8)(d)(i); or
+(i)  each party shall pay an equal share of the fees and costs of the arbitrator selected under Subsection (9)(d)(i); or
 
-(ii)  if an arbitration panel is selected under Subsection (8)(d)(iii):
+(ii)  if an arbitration panel is selected under Subsection (9)(d)(iii):
 
 (A)  each party shall pay the fees and costs of the arbitrator selected by that party; and
 
-(B)  each party shall pay an equal share of the fees and costs of the arbitrator selected under Subsection (8)(e)(ii).
+(B)  each party shall pay an equal share of the fees and costs of the arbitrator selected under Subsection (9)(e)(ii).
 
 (g)  Except as otherwise provided in this section or unless otherwise agreed to in writing by the parties, an arbitration proceeding conducted under this section shall be governed by Title 78B, Chapter 11, Utah Uniform Arbitration Act.
 
@@ -188,7 +220,7 @@
 
 (j)  A written decision by a single arbitrator or by a majority of the arbitration panel shall constitute a final decision.
 
-(k) (i) Except as provided in Subsection (9), the amount of an arbitration award may not exceed the uninsured motorist policy limits of all applicable uninsured motorist policies, including applicable uninsured motorist umbrella policies.
+(k) (i) Except as provided in Subsection (10), the amount of an arbitration award may not exceed the uninsured motorist policy limits of all applicable uninsured motorist policies, including applicable uninsured motorist umbrella policies.
 
 (ii)  If the initial arbitration award exceeds the uninsured motorist policy limits of all applicable uninsured motorist policies, the arbitration award shall be reduced to an amount equal to the combined uninsured motorist policy limits of all applicable uninsured motorist policies.
 
@@ -204,7 +236,7 @@
 
 (n)  If the arbitrator or arbitration panel finds that the action was not brought, pursued, or defended in good faith, the arbitrator or arbitration panel may award reasonable attorney fees and costs against the party that failed to bring, pursue, or defend the claim in good faith.
 
-(o)  An arbitration award issued under this section shall be the final resolution of all claims not excluded by Subsection (8)(l) between the parties unless:
+(o)  An arbitration award issued under this section shall be the final resolution of all claims not excluded by Subsection (9)(l) between the parties unless:
 
 (i)  the award was procured by corruption, fraud, or other undue means;
 
@@ -212,25 +244,25 @@
 
 (A)  files a complaint requesting a trial de novo in the district court; and
 
-(B)  serves the nonmoving party with a copy of the complaint requesting a trial de novo under Subsection (8)(o)(ii)(A).
+(B)  serves the nonmoving party with a copy of the complaint requesting a trial de novo under Subsection (9)(o)(ii)(A).
 
-(p) (i)  Upon filing a complaint for a trial de novo under Subsection (8)(o), the claim shall proceed through litigation pursuant to the Utah Rules of Civil Procedure and Utah Rules of Evidence in the district court.
+(p) (i)  Upon filing a complaint for a trial de novo under Subsection (9)(o), the claim shall proceed through litigation pursuant to the Utah Rules of Civil Procedure and Utah Rules of Evidence in the district court.
 
-(ii)  In accordance with Rule 38, Utah Rules of Civil Procedure, either party may request a jury trial with a complaint requesting a trial de novo under Subsection (8)(o)(ii)(A).
+(ii)  In accordance with Rule 38, Utah Rules of Civil Procedure, either party may request a jury trial with a complaint requesting a trial de novo under Subsection (9)(o)(ii)(A).
 
-(q) (i)  If the claimant, as the moving party in a trial de novo requested under Subsection (8)(o), does not obtain a verdict that is at least $5,000 and is at least 20% greater than the arbitration award, the claimant is responsible for all of the nonmoving party's costs.
+(q) (i)  If the claimant, as the moving party in a trial de novo requested under Subsection (9)(o), does not obtain a verdict that is at least $5,000 and is at least 20% greater than the arbitration award, the claimant is responsible for all of the nonmoving party's costs.
 
-(ii)  If the uninsured motorist carrier, as the moving party in a trial de novo requested under Subsection (8)(o), does not obtain a verdict that is at least 20% less than the arbitration award, the uninsured motorist carrier is responsible for all of the nonmoving party's costs.
+(ii)  If the uninsured motorist carrier, as the moving party in a trial de novo requested under Subsection (9)(o), does not obtain a verdict that is at least 20% less than the arbitration award, the uninsured motorist carrier is responsible for all of the nonmoving party's costs.
 
-(iii)  Except as provided in Subsection (8)(q)(iv), the costs under this Subsection (8)(q) shall include:
+(iii)  Except as provided in Subsection (9)(q)(iv), the costs under this Subsection (9)(q) shall include:
 
 (A)  any costs set forth in Rule 54(d), Utah Rules of Civil Procedure; and
 
 (B)  the costs of expert witnesses and depositions.
 
-(iv)  An award of costs under this Subsection (8)(q) may not exceed $2,500 unless Subsection (9)(h)(iii) applies.
+(iv)  An award of costs under this Subsection (9)(q) may not exceed $2,500 unless Subsection (10)(h)(iii) applies.
 
-(r)  For purposes of determining whether a party's verdict is greater or less than the arbitration award under Subsection (8)(q), a court may not consider any recovery or other relief granted on a claim for damages if the claim for damages:
+(r)  For purposes of determining whether a party's verdict is greater or less than the arbitration award under Subsection (9)(q), a court may not consider any recovery or other relief granted on a claim for damages if the claim for damages:
 
 (i)  was not fully disclosed in writing prior to the arbitration proceeding; or
 
@@ -240,9 +272,9 @@
 
 (t)  Nothing in this section is intended to limit any claim under any other portion of an applicable insurance policy.
 
-(u)  If there are multiple uninsured motorist policies, as set forth in Subsection (7), the claimant may elect to arbitrate in one hearing the claims against all the uninsured motorist carriers.
+(u)  If there are multiple uninsured motorist policies, as set forth in Subsection (8), the claimant may elect to arbitrate in one hearing the claims against all the uninsured motorist carriers.
 
-(9) (a)  Within 30 days after a covered person elects to submit a claim for uninsured motorist benefits to binding arbitration or files litigation, the covered person shall provide to the uninsured motorist carrier:
+(10) (a)  Within 30 days after a covered person elects to submit a claim for uninsured motorist benefits to binding arbitration or files litigation, the covered person shall provide to the uninsured motorist carrier:
 
 (i)  a written demand for payment of uninsured motorist coverage benefits, setting forth:
 
@@ -254,7 +286,7 @@
 
 (A) (I)  the names and last known addresses of all health care providers who have rendered health care services to the covered person that are material to the claims for which uninsured motorist benefits are sought for a period of five years preceding the date of the event giving rise to the claim for uninsured motorist benefits up to the time the election for arbitration or litigation has been exercised; and
 
-(II)  whether the covered person has seen other health care providers who have rendered health care services to the covered person, which the covered person claims are immaterial to the claims for which uninsured motorist benefits are sought, for a period of five years preceding the date of the event giving rise to the claim for uninsured motorist benefits up to the time the election for arbitration or litigation has been exercised that have not been disclosed under Subsection (9)(a)(ii)(A)(I);
+(II)  whether the covered person has seen other health care providers who have rendered health care services to the covered person, which the covered person claims are immaterial to the claims for which uninsured motorist benefits are sought, for a period of five years preceding the date of the event giving rise to the claim for uninsured motorist benefits up to the time the election for arbitration or litigation has been exercised that have not been disclosed under Subsection (10)(a)(ii)(A)(I);
 
 (B) (I)  the names and last known addresses of all health insurers or other entities to whom the covered person has submitted claims for health care services or benefits material to the claims for which uninsured motorist benefits are sought, for a period of five years preceding the date of the event giving rise to the claim for uninsured motorist benefits up to the time the election for arbitration or litigation has been exercised; and
 
@@ -268,7 +300,7 @@
 
 (iii)  signed authorizations to allow the uninsured motorist carrier to only obtain records and billings from the individuals or entities disclosed.
 
-(b) (i)  If the uninsured motorist carrier determines that the disclosure of undisclosed health care providers or health care insurers under Subsection (9)(a)(ii) is reasonably necessary, the uninsured motorist carrier may:
+(b) (i)  If the uninsured motorist carrier determines that the disclosure of undisclosed health care providers or health care insurers under Subsection (10)(a)(ii) is reasonably necessary, the uninsured motorist carrier may:
 
 (A)  make a request for the disclosure of the identity of the health care providers or health care insurers; and
 
@@ -280,13 +312,13 @@
 
 (B)  either the covered person or the uninsured motorist carrier may request the arbitrator or arbitration panel to resolve the issue of whether the identities or records are to be provided if the covered person has elected arbitration.
 
-(iii)  The time periods imposed by Subsection (9)(c)(i) are tolled pending resolution of the dispute concerning the disclosure and production of records of the health care providers or health care insurers.
+(iii)  The time periods imposed by Subsection (10)(c)(i) are tolled pending resolution of the dispute concerning the disclosure and production of records of the health care providers or health care insurers.
 
-(c) (i)  An uninsured motorist carrier that receives an election for arbitration or a notice of filing litigation and the demand for payment of uninsured motorist benefits under Subsection (9)(a)(i) shall have a reasonable time, not to exceed 60 days from the date of the demand and receipt of the items specified in Subsections (9)(a)(i) through (iii), to:
+(c) (i)  An uninsured motorist carrier that receives an election for arbitration or a notice of filing litigation and the demand for payment of uninsured motorist benefits under Subsection (10)(a)(i) shall have a reasonable time, not to exceed 60 days from the date of the demand and receipt of the items specified in Subsections (10)(a)(i) through (iii), to:
 
-(A)  provide a written response to the written demand for payment provided for in Subsection (9)(a)(i);
+(A)  provide a written response to the written demand for payment provided for in Subsection (10)(a)(i);
 
-(B)  except as provided in Subsection (9)(c)(i)(C), tender the amount, if any, of the uninsured motorist carrier's determination of the amount owed to the covered person; and
+(B)  except as provided in Subsection (10)(c)(i)(C), tender the amount, if any, of the uninsured motorist carrier's determination of the amount owed to the covered person; and
 
 (C)  if the covered person is a recipient of Medicare or Medicaid benefits or Utah Children's Health Insurance Program benefits under Title 26, Chapter 40, Utah Children's Health Insurance Act, or if the claim is subject to any other state or federal statutory liens, tender the amount, if any, of the uninsured motorist carrier's determination of the amount owed to the covered person less:
 
@@ -294,27 +326,27 @@
 
 (II)  if the amount of the state or federal statutory lien is not established, two times the amount of the medical expenses subject to the state or federal statutory lien until such time as the amount of the state or federal statutory lien is established.
 
-(ii)  If the amount tendered by the uninsured motorist carrier under Subsection (9)(c)(i) is the total amount of the uninsured motorist policy limits, the tendered amount shall be accepted by the covered person.
+(ii)  If the amount tendered by the uninsured motorist carrier under Subsection (10)(c)(i) is the total amount of the uninsured motorist policy limits, the tendered amount shall be accepted by the covered person.
 
-(d)  A covered person who receives a written response from an uninsured motorist carrier as provided for in Subsection (9)(c)(i), may:
+(d)  A covered person who receives a written response from an uninsured motorist carrier as provided for in Subsection (10)(c)(i), may:
 
-(i)  elect to accept the amount tendered in Subsection (9)(c)(i) as payment in full of all uninsured motorist claims; or
+(i)  elect to accept the amount tendered in Subsection (10)(c)(i) as payment in full of all uninsured motorist claims; or
 
 (ii)  elect to:
 
-(A)  accept the amount tendered in Subsection (9)(c)(i) as partial payment of all uninsured motorist claims; and
+(A)  accept the amount tendered in Subsection (10)(c)(i) as partial payment of all uninsured motorist claims; and
 
 (B)  litigate or arbitrate the remaining claim.
 
-(e)  If a covered person elects to accept the amount tendered under Subsection (9)(c)(i) as partial payment of all uninsured motorist claims, the final award obtained through arbitration, litigation, or later settlement shall be reduced by any payment made by the uninsured motorist carrier under Subsection (9)(c)(i).
+(e)  If a covered person elects to accept the amount tendered under Subsection (10)(c)(i) as partial payment of all uninsured motorist claims, the final award obtained through arbitration, litigation, or later settlement shall be reduced by any payment made by the uninsured motorist carrier under Subsection (10)(c)(i).
 
 (f)  In an arbitration proceeding on the remaining uninsured claims:
 
-(i)  the parties may not disclose to the arbitrator or arbitration panel the amount paid under Subsection (9)(c)(i) until after the arbitration award has been rendered; and
+(i)  the parties may not disclose to the arbitrator or arbitration panel the amount paid under Subsection (10)(c)(i) until after the arbitration award has been rendered; and
 
 (ii)  the parties may not disclose the amount of the limits of uninsured motorist benefits provided by the policy.
 
-(g)  If the final award obtained through arbitration or litigation is greater than the average of the covered person's initial written demand for payment provided for in Subsection (9)(a)(i) and the uninsured motorist carrier's initial written response provided for in Subsection (9)(c)(i), the uninsured motorist carrier shall pay:
+(g)  If the final award obtained through arbitration or litigation is greater than the average of the covered person's initial written demand for payment provided for in Subsection (10)(a)(i) and the uninsured motorist carrier's initial written response provided for in Subsection (10)(c)(i), the uninsured motorist carrier shall pay:
 
 (i)  the final award obtained through arbitration or litigation, except that if the award exceeds the policy limits of the subject uninsured motorist policy by more than $15,000, the amount shall be reduced to an amount equal to the policy limits plus $15,000; and
 
@@ -332,13 +364,13 @@
 
 (B)  The objection shall be resolved by the arbitrator or arbitration panel.
 
-(iii)  The award of costs by the arbitrator or arbitration panel under Subsection (9)(g)(ii) may not exceed $5,000.
+(iii)  The award of costs by the arbitrator or arbitration panel under Subsection (10)(g)(ii) may not exceed $5,000.
 
-(i) (i)  A covered person shall disclose all material information, other than rebuttal evidence, as specified in Subsection (9)(a).
+(i) (i)  A covered person shall disclose all material information, other than rebuttal evidence, as specified in Subsection (10)(a).
 
-(ii)   If the information under Subsection (9)(i)(i) is not disclosed, the covered person may not recover costs or any amounts in excess of the policy under Subsection (9)(g).
+(ii)  If the information under Subsection (10)(i)(i) is not disclosed, the covered person may not recover costs or any amounts in excess of the policy under Subsection (10)(g).
 
-(j)  This Subsection (9) does not limit any other cause of action that arose or may arise against the uninsured motorist carrier from the same dispute.
+(j)  This Subsection (10) does not limit any other cause of action that arose or may arise against the uninsured motorist carrier from the same dispute.
 
-(k)  The provisions of this Subsection (9) only apply to motor vehicle accidents that occur on or after March 30, 2010.
+(k)  The provisions of this Subsection (10) only apply to motor vehicle accidents that occur on or after March 30, 2010.
 

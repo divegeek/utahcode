@@ -2,13 +2,15 @@
 
 As used in this chapter:
 
-(1)  "Additional project capacity" means electric generating capacity provided by a generating unit that first produces electricity on or after May 6, 2002 and that is constructed or installed at or adjacent to the site of a project that first produced electricity before May 6, 2002, regardless of whether:
+(1) (a)  "Additional project capacity" means electric generating capacity provided by a generating unit that first produces electricity on or after May 6, 2002, and that is constructed or installed at or adjacent to the site of a project that first produced electricity before May 6, 2002, regardless of whether:
 
-(a)  the owners of the new generating unit are the same as or different from the owner of the project; and
+(i)  the owners of the new generating unit are the same as or different from the owner of the project; and
 
-(b)  the purchasers of electricity from the new generating unit are the same as or different from the purchasers of electricity from the project.
+(ii)  the purchasers of electricity from the new generating unit are the same as or different from the purchasers of electricity from the project.
 
-(2)  "Board" means the Permanent Community Impact Fund Board created by Section 9-4-304, and its successors.
+(b)  "Additional project capacity" does not mean or include replacement project capacity.
+
+(2)  "Board" means the Permanent Community Impact Fund Board created by Section 35A-8-304, and its successors.
 
 (3)  "Candidate" means one or more of:
 
@@ -60,9 +62,11 @@ As used in this chapter:
 
 (b)  "Project" includes a project entity’s ownership interest in:
 
-(i)  facilities that provide additional project capacity; and
+(i)  facilities that provide additional project capacity;
 
-(ii)  additional generating, transmission, fuel, fuel transportation, water, or other facilities added to a project.
+(ii)  facilities that provide replacement project capacity; and
+
+(iii)  additional generating, transmission, fuel, fuel transportation, water, or other facilities added to a project.
 
 (12)  "Project entity" means a Utah interlocal entity or an electric interlocal entity that owns a project.
 
@@ -80,11 +84,17 @@ As used in this chapter:
 
 (14)  "Qualified energy services interlocal entity" means an energy services interlocal entity that at the time that the energy services interlocal entity acquires its interest in facilities providing additional project capacity has at least five members that are Utah public agencies.
 
-(15)  "Utah interlocal entity":
+(15)  "Replacement project capacity" means electric generating capacity or transmission capacity that:
+
+(a)  replaces all or a portion of the existing electric generating or transmission capacity of a project; and
+
+(b)  is provided by a facility that is constructed, reconstructed, converted, repowered, or installed in a location adjacent to or in proximity to or interconnected with the site of a project, regardless of whether the capacity replacing existing capacity is less than or exceeds the generating or transmission capacity of the project prior to installation of the capacity replacing existing capacity.
+
+(16)  "Utah interlocal entity":
 
 (a)  means an interlocal entity described in Subsection 11-13-203(2); and
 
 (b)  includes a separate legal or administrative entity created under Laws of Utah 1977, Chapter 47, Section 3, as amended.
 
-(16)  "Utah public agency" means a public agency under Subsection (13)(a) or (b).
+(17)  "Utah public agency" means a public agency under Subsection (13)(a) or (b).
 

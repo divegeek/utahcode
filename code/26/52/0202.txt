@@ -1,14 +1,16 @@
 26-52-202.   Autism Treatment Account Advisory Committee -- Membership -- Time limit.
 
-(1) (a)  There is created an Autism Treatment Account Advisory Committee consisting of five members appointed by the governor to two-year terms of office as follows:
+(1) (a)  There is created an Autism Treatment Account Advisory Committee consisting of six members appointed by the governor to two-year terms of office as follows:
 
 (i)  one person holding a doctorate degree who has experience in treating persons with an autism spectrum disorder;
 
-(ii)  one person who is a physician licensed under Title 58, Chapter 67, Utah Medical Practice Act, or Title 58, Chapter 68, Utah Osteopathic Medical Practice Act, who has completed a residency program in pediatrics;
+(ii)  one person who is a board certified behavior analyst;
 
-(iii)  one person who is employed in the Department of Health; and
+(iii)  one person who is a physician licensed under Title 58, Chapter 67, Utah Medical Practice Act, or Title 58, Chapter 68, Utah Osteopathic Medical Practice Act, who has completed a residency program in pediatrics;
 
-(iv)  two persons from the community who are familiar with autism spectrum disorders and their effects, diagnosis, treatment, rehabilitation, and support needs, including:
+(iv)  one person who is employed in the Department of Health; and
+
+(v)  two persons from the community who are familiar with autism spectrum disorders and their effects, diagnosis, treatment, rehabilitation, and support needs, including:
 
 (A)  family members of a person with an autism spectrum disorder;
 
@@ -38,15 +40,19 @@
 
 (b)  include:
 
-(i)  qualification criteria and procedures for selecting service and treatment providers that receive disbursements from the account, which criteria shall give additional consideration to providers that are willing to use low interest loans when providing services to individuals; and
+(i)  qualification criteria and procedures for selecting children who may qualify for assistance from the account;
 
-(ii)  provisions to address and avoid conflicts of interest that may arise in relation to:
+(ii)  qualifications, criteria, and procedures for evaluating the services and providers to include in the program, which shall include at least:
 
-(A)  the committee's selection of providers and persons that receive referrals, disbursements, or assistance from the account; and
+(A)  applied behavior analysis provided by or supervised by a board certified behavior analyst or a licensed psychologist with equivalent university training and supervised experience;
 
-(B)  other matters that may constitute a conflict of interest.
+(B)  collaboration with existing telehealth networks to reach children in rural and under-served areas of the state; and
 
-(5)  The committee shall meet as necessary to carry out its duties and shall meet upon a call of the committee chair or a call of a majority of the committee members, but no more than four times per year.
+(C)  methods to engage family members in the treatment process; and
+
+(iii)  provisions to address and avoid conflicts of interest that may arise in relation to the committee's work.
+
+(5)  The committee shall meet as necessary to carry out its duties and shall meet upon a call of the committee chair or a call of a majority of the committee members.
 
 (6)  The committee shall comply with the procedures and requirements of:
 
@@ -56,11 +62,19 @@
 
 (7)  Committee members shall receive no compensation or per diem allowance for their services.
 
-(8)  Not later than November 30 of each year, the committee shall provide a written report summarizing the activities of the committee to:
+(8) (a)  Not later than November 30 of each year, the committee shall provide a written report summarizing the activities of the committee to:
 
-(a)  the executive director of the department;
+(i)  the executive director of the department;
 
-(b)  the Health and Human Services Interim Committee; and
+(ii)  the Legislature's Health and Human Services Interim Committee; and
 
-(c)  the Health and Human Services Appropriations Subcommittee.
+(iii)  the Legislature's Social Services Appropriations Subcommittee.
+
+(b)  The report under Subsection (8)(a) shall include:
+
+(i)  the number of children diagnosed with autism spectrum disorder who are receiving services under this chapter;
+
+(ii)  the types of services provided to children under this chapter; and
+
+(iii)  results of any evaluations on the effectiveness of treatments and services provided under this chapter.
 

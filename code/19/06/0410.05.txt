@@ -2,7 +2,7 @@
 
 (1)  As used in this section:
 
-(a)  "Cash balance" means cash plus investments and current accounts receivable minus current accounts payable, excluding the liabilities estimated by the state risk manager.
+(a)  "Cash balance" means cash plus investments and current accounts receivable minus current accounts payable, excluding the liabilities estimated by the executive director.
 
 (b)  "Commission" means the State Tax Commission, as defined in Section 59-1-101.
 
@@ -24,7 +24,7 @@
 
 (ii)  Title 59, Chapter 12, Part 1, Tax Collection.
 
-(b) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall make rules to establish:
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall make rules to establish:
 
 (i)  the method of payment of the environmental assurance fee;
 

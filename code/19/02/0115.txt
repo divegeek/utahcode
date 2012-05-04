@@ -26,11 +26,11 @@
 
 (6)  A person who willfully violates Section 19-2-120 is guilty of a class A misdemeanor.
 
-(7)  A person who knowingly violates any requirement of an applicable implementation plan adopted by the board, more than 30 days after having been notified in writing by the executive secretary that the person is violating the requirement, knowingly violates an order issued under Subsection 19-2-110(1)(a), or knowingly handles or disposes of asbestos in violation of a rule made under this chapter is guilty of a third degree felony and subject to imprisonment under Section 76-3-203 and a fine of not more than $25,000 per day of violation in the case of the first offense, and not more than $50,000 per day of violation in the case of subsequent offenses.
+(7)  A person who knowingly violates any requirement of an applicable implementation plan adopted by the board, more than 30 days after having been notified in writing by the director that the person is violating the requirement, knowingly violates an order issued under Subsection 19-2-110(1), or knowingly handles or disposes of asbestos in violation of a rule made under this chapter is guilty of a third degree felony and subject to imprisonment under Section 76-3-203 and a fine of not more than $25,000 per day of violation in the case of the first offense, and not more than $50,000 per day of violation in the case of subsequent offenses.
 
 (8) (a)  As used in this section:
 
-(i)  "Hazardous air pollutant" means any hazardous air pollutant listed under 42 U.S.C. 7412 or any extremely hazardous substance listed under 42 U.S.C. 11002(a)(2).
+(i)  "Hazardous air pollutant" means any hazardous air pollutant listed under 42 U.S.C. Sec. 7412 or any extremely hazardous substance listed under 42 U.S.C. Sec. 11002(a)(2).
 
 (ii)  "Organization" means a legal entity, other than a government, established or organized for any purpose, and includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, trust, society, union, or any other association of persons.
 

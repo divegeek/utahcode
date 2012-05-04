@@ -2,17 +2,19 @@
 
 As used in this chapter:
 
-(1)  "Business of cashing checks" means cashing a check for consideration.
+(1)  "Annual percentage rate" has the same meaning as in 15 U.S.C. Sec. 1606, as implemented by regulations issued under that section.
 
-(2)  "Business of deferred deposit lending" means extending a deferred deposit loan.
+(2)  "Business of cashing checks" means cashing a check for consideration.
 
-(3)  "Check" is as defined in Section 70A-3-104.
+(3)  "Business of deferred deposit lending" means extending a deferred deposit loan.
 
-(4)  "Check casher" means a person that engages in the business of cashing checks.
+(4)  "Check" is as defined in Section 70A-3-104.
 
-(5)  "Deferred deposit lender" means a person that engages in the business of deferred deposit lending.
+(5)  "Check casher" means a person that engages in the business of cashing checks.
 
-(6)  "Deferred deposit loan" means a transaction where:
+(6)  "Deferred deposit lender" means a person that engages in the business of deferred deposit lending.
+
+(7)  "Deferred deposit loan" means a transaction where:
 
 (a)  a person:
 
@@ -22,11 +24,11 @@ As used in this chapter:
 
 (b)  the deferred deposit lender:
 
-(i)  provides the person described in Subsection (6)(a) an amount of money that is equal to the face value of the check or the amount of the debit less any fee or interest charged for the transaction; and
+(i)  provides the person described in Subsection (7)(a) an amount of money that is equal to the face value of the check or the amount of the debit less any fee or interest charged for the transaction; and
 
 (ii)  agrees not to cash the check or process the debit until a specific date.
 
-(7) (a)  "Electronic payment" means an electronic method by which a person:
+(8) (a)  "Electronic payment" means an electronic method by which a person:
 
 (i)  accepts a payment from another person; or
 
@@ -42,5 +44,5 @@ As used in this chapter:
 
 (iv)  an Internet transfer.
 
-(8)  "Rollover" means the extension or renewal of the term of a deferred deposit loan.
+(9)  "Rollover" means the extension or renewal of the term of a deferred deposit loan.
 

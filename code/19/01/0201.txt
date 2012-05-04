@@ -1,10 +1,10 @@
-19-1-201.   Powers of department.
+19-1-201.   Powers and duties of department -- Rulemaking authority.
 
 (1)  The department shall:
 
 (a)  enter into cooperative agreements with the Department of Health to delineate specific responsibilities to assure that assessment and management of risk to human health from the environment are properly administered;
 
-(b)  consult with the Department of Health and enter into cooperative agreements, as needed, to ensure efficient use of resources and effective response to potential health and safety threats from the environment, and to prevent gaps in protection from potential risks from the environment to specific individuals or population groups; and
+(b)  consult with the Department of Health and enter into cooperative agreements, as needed, to ensure efficient use of resources and effective response to potential health and safety threats from the environment, and to prevent gaps in protection from potential risks from the environment to specific individuals or population groups;
 
 (c)  coordinate implementation of environmental programs to maximize efficient use of resources by developing, with local health departments, a Comprehensive Environmental Service Delivery Plan that:
 
@@ -14,7 +14,21 @@
 
 (iii)  provides for the delegation of authority and pass through of funding to local health departments for environmental programs, to the extent allowed by applicable law, identified in the plan, and requested by the local health department; and
 
-(iv)  is reviewed and updated annually.
+(iv)  is reviewed and updated annually; and
+
+(d)  make rules, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as follows:
+
+(i)  for a board created in Section 19-1-106, rules regarding:
+
+(A)  board meeting attendance; and
+
+(B)  conflicts of interest procedures; and
+
+(ii)  procedural rules that govern:
+
+(A)  an adjudicative proceeding, consistent with Section 19-1-301; and
+
+(B)  a permit review adjudicative proceeding, consistent with Section 19-1-301.5.
 
 (2)  The department may:
 
@@ -42,7 +56,7 @@
 
 (k)  perform the administrative functions of the boards established by Section 19-1-106, including the acceptance and administration of grants from the federal government and from other sources, public or private, to carry out the board's functions;
 
-(l)  upon the request of any board or the executive secretary, provide professional, technical, and clerical staff and field and laboratory services, the extent of which are limited by the funds available to the department for the staff and services; and
+(l)  upon the request of any board or a division director, provide professional, technical, and clerical staff and field and laboratory services, the extent of which are limited by the funds available to the department for the staff and services; and
 
 (m)  establish a supplementary fee, not subject to Section 63J-1-504, to provide service that the person paying the fee agrees by contract to be charged for the service in order to efficiently utilize department resources, protect department permitting processes, address extraordinary or unanticipated stress on permitting processes, or make use of specialized expertise.
 

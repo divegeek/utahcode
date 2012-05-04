@@ -38,7 +38,7 @@ My residence and post office address are written correctly after my name."
 
 (ii)  the next column shall be 2-1/2 inches wide, headed "Registered Voter's Printed Name (must be legible to be counted)";
 
-(iii)  the next column shall be 2-1/2 inches wide, headed "Signature of Registered Voter"; 
+(iii)  the next column shall be 2-1/2 inches wide, headed "Signature of Registered Voter";
 
 (iv)  the next column shall be one inch wide, headed "Birth Date or Age (Optional)";
 
@@ -46,7 +46,7 @@ My residence and post office address are written correctly after my name."
 
 (vi)  at the bottom of the sheet, contain the following statement: "Birth date or age information is not required, but it may be used to verify your identity with voter registration records.  If you choose not to provide it, your signature may not be verified as a valid signature if you change your address before petition signatures are verified or if the information you provide does not match your voter registration records."; and
 
-(h)  contain the following statement, printed or typed upon the back of each sheet:
+(h)  contain the following statement, printed or typed upon the last page of the referendum packet:
 
 "Verification
 
@@ -56,7 +56,7 @@ I, _______________, of ____, hereby state that:
 
 I am a resident of Utah and am at least 18 years old;
 
-All the names that appear on this sheet were signed by persons who professed to be the persons whose names appear in it, and each of them signed his name on it in my presence;
+All the names that appear in this referendum packet were signed by persons who professed to be the persons whose names appear in it, and each of them signed his name on it in my presence;
 
 I believe that each has printed and signed his name and written his post office address and residence correctly, and that each signer is registered to vote in Utah or intends to become registered to vote before the certification of the petition names by the county clerk.
 

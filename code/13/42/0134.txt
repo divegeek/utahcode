@@ -6,7 +6,7 @@
 
 (b)  being unable to pay debts as they become due; or
 
-(c)  being insolvent within the meaning of the federal bankruptcy law, 11 U.S.C. Section 101 et seq.
+(c)  being insolvent within the meaning of the federal bankruptcy law, 11 U.S.C. Sec. 101 et seq.
 
 (2)  The administrator may suspend, revoke, or deny renewal of a provider's registration if:
 
@@ -16,13 +16,19 @@
 
 (c)  the provider is insolvent;
 
-(d)  the provider or an employee or affiliate of the provider has refused to permit the administrator to make an examination authorized by this chapter, failed to comply with Subsection 13-42-132(2)(b) within 15 days after request, or made a material misrepresentation or omission in complying with Subsection 13-42-132(2)(b); or
+(d)  the provider, an employee or affiliate of the provider, a lead generator for the provider, a person administering an account for the provider pursuant to Subsection 13-42-122(2), or a person to whom the provider has delegated its obligations under an agreement or this chapter has refused to permit the administrator to make an examination authorized by this chapter, failed to comply with Subsection 13-42-132(2)(b) no later than 15 days after request, or made a material misrepresentation or omission in complying with Subsection 13-42-132(2)(b); or
 
 (e)  the provider has not responded within a reasonable time and in an appropriate manner to communications from the administrator.
 
-(3)  If a provider does not comply with Subsection 13-42-122(6) or if the administrator otherwise finds that the public health or safety or general welfare requires emergency action, the administrator may order a summary suspension of the provider's registration, effective on the date specified in the order.
+(3)  If a provider becomes insolvent, the provider shall continue to provide debt-management services to an individual with whom the provider has an agreement until:
 
-(4)  If the administrator suspends, revokes, or denies renewal of the registration of a provider, the administrator may seek a court order authorizing seizure of any or all of the money in a trust account required by Section 13-42-122, books, records, accounts, and other property of the provider which are located in this state.
+(a)  with the administrator's approval, the provider transfers the agreement to another registered provider; or
 
-(5)  If the administrator suspends or revokes a provider's registration, the provider may appeal and request a hearing pursuant to Title 63G, Chapter 4, Administrative Procedures Act.
+(b)  the provider returns to the individual all unexpended money that is under the provider's control.
+
+(4)  If a provider does not comply with Subsection 13-42-122(8) or if the administrator otherwise finds that the public health or safety or general welfare requires emergency action, the administrator may order a summary suspension of the provider's registration, effective on the date specified in the order.
+
+(5)  If the administrator suspends, revokes, or denies renewal of the registration of a provider, the administrator may seek a court order authorizing seizure of any or all of the money in a trust account required by Section 13-42-122, books, records, accounts, and other property of the provider which are located in this state.
+
+(6)  If the administrator suspends or revokes a provider's registration, the provider may appeal and request a hearing pursuant to Title 63G, Chapter 4, Administrative Procedures Act.
 

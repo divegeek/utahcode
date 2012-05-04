@@ -8,7 +8,7 @@
 
 (i)  the name or number of the proper voting precinct;
 
-(ii)  the name and official title of the clerk;
+(ii)  the name and official title of the clerk; and
 
 (iii)  the words: "This envelope contains an absentee voter's official Utah election ballot to be voted at ____ (Insert Name and Number) precinct, in ____ (Insert Name) county, and may be opened on election day at the polls while the polls are open."; and
 

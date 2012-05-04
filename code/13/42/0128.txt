@@ -2,15 +2,17 @@
 
 (1)  A provider may not, directly or indirectly:
 
-(a)  misappropriate or misapply money held in trust;
+(a)  include a secured debt in a plan, except as authorized by law other than this chapter;
 
-(b)  settle a debt on behalf of an individual for more than 50% of the principal amount of the debt owed a creditor, unless the individual assents to the settlement after the creditor has assented;
+(b)  misappropriate or misapply money held in trust;
 
-(c)  take a power of attorney that authorizes it to settle a debt, unless the power of attorney expressly limits the provider's authority to settle debts for not more than 50% of the principal amount of the debt owed a creditor;
+(c)  settle a debt on behalf of an individual, unless the individual assents to the settlement after the creditor has assented;
 
-(d)  exercise or attempt to exercise a power of attorney after an individual has terminated an agreement;
+(d)  take a power of attorney that authorizes it to settle a debt;
 
-(e)  initiate a transfer from an individual's account at a bank or with another person unless the transfer is:
+(e)  exercise or attempt to exercise a power of attorney after an individual has terminated an agreement;
+
+(f)  initiate a transfer from an individual's account at a bank or with another person unless the transfer is:
 
 (i)  a return of money to the individual; or
 
@@ -20,23 +22,27 @@
 
 (B)  payment of a fee;
 
-(f)  offer a gift or bonus, premium, reward, or other compensation to an individual for executing an agreement;
+(g)  offer a gift or bonus, premium, reward, or other compensation to an individual for executing an agreement;
 
-(g)  offer, pay, or give a gift or bonus, premium, reward, or other compensation to a person for referring a prospective customer, if the person making the referral has a financial interest in the outcome of debt-management services provided to the customer, unless neither the provider nor the person making the referral communicates to the prospective customer the identity of the source of the referral;
+(h)  offer, pay, or give a gift or bonus, premium, reward, or other compensation to a lead generator or other person for referring a prospective customer, if the person making the referral:
 
-(h)  receive a bonus, commission, or other benefit for referring an individual to a person;
+(i)  has a financial interest in the outcome of debt-management services provided to the customer, unless neither the provider nor the person making the referral communicates to the prospective customer the identity of the source of the referral; or
 
-(i)  structure a plan in a manner that would result in a negative amortization of any of an individual's debts, unless a creditor that is owed a negatively amortizing debt agrees to refund or waive the finance charge upon payment of the principal amount of the debt;
+(ii)  compensates its employees on the basis of a formula that incorporates the number of individuals the employee refers to the provider;
 
-(j)  compensate its employees on the basis of a formula that incorporates the number of individuals the employee induces to enter into agreements;
+(i)  receive a bonus, commission, or other benefit for referring an individual to a person;
 
-(k)  settle a debt or lead an individual to believe that a payment to a creditor is in settlement of a debt to the creditor unless, at the time of settlement, the individual:
+(j)  structure a plan in a manner that would result in a negative amortization of any of an individual's debts, unless a creditor that is owed a negatively amortizing debt agrees to refund or waive the finance charge on payment of the principal amount of the debt;
 
-(i)  receives a certification by the creditor that the payment is in full settlement of the debt; or
+(k)  compensate its employees on the basis of a formula that incorporates the number of individuals the employee induces to enter into agreements;
 
-(ii)  is part of a payment plan, the terms of which are included in the certification, which upon completion will result in full settlement of the debt;
+(l)  settle a debt or lead an individual to believe that a payment to a creditor is in settlement of a debt to the creditor unless, at the time of settlement, the individual receives a certification by the creditor that the payment:
 
-(l)  make a representation that:
+(i)  is in full settlement of the debt; or
+
+(ii)  is part of a settlement plan, the terms of which are included in the certification, that, if completed according to its terms, will satisfy the debt;
+
+(m)  make a representation that:
 
 (i)  the provider will furnish money to pay bills or prevent attachments;
 
@@ -44,19 +50,41 @@
 
 (iii)  participation in a plan will or may prevent litigation, garnishment, attachment, repossession, foreclosure, eviction, or loss of employment;
 
-(m)  misrepresent that it is authorized or competent to furnish legal advice or perform legal services;
+(n)  misrepresent that it is authorized or competent to furnish legal advice or perform legal services;
 
-(n)  represent in its agreements, disclosures required by this chapter, advertisements, or Internet website that it is:
+(o)  represent in its agreements, disclosures required by this chapter, advertisements, or Internet website that it is:
 
 (i)  a not-for-profit entity unless it is organized and properly operating as a not-for-profit entity under the law of the state in which it was formed; or
 
 (ii)  a tax-exempt entity unless it has received certification of tax-exempt status from the Internal Revenue Service and is properly operating as a not-for-profit entity under the law of the state in which it was formed;
 
-(o)  take a confession of judgment or power of attorney to confess judgment against an individual;
+(p)  take a confession of judgment or power of attorney to confess judgment against an individual;
 
-(p)  employ an unfair, unconscionable, or deceptive act or practice, including the knowing omission of any material information; or
+(q)  employ an unfair, unconscionable, or deceptive act or practice;
 
-(q)  make or use any untrue or misleading statement:
+(r)  knowingly omit any material information or material aspect of any provider's service, including:
+
+(i)  the amount of money or the percentage of the debt amount that an individual may save by using the provider's service;
+
+(ii)  the amount of time necessary to achieve the results that the provider represents as achievable;
+
+(iii)  the amount of money or the percentage of each outstanding debt that the individual is required to accumulate before the provider will:
+
+(A)  initiate an attempt with the individual's creditors or debt collectors to negotiate, settle, or modify the terms of the individual's debt; or
+
+(B)  make a bona fide offer to negotiate, settle, or modify the terms of the individual's debt;
+
+(iv)  the effect of the service on:
+
+(A)  an individual's creditworthiness; or
+
+(B)  collection efforts of the individual's creditors or debt collectors;
+
+(v)  the percentage or number of individuals who achieve the results that the provider represents are achievable; and
+
+(vi)  whether a provider's service is offered or provided by a nonprofit entity; or
+
+(s)  make or use any untrue or misleading statement:
 
 (i)  to the administrator; or
 
@@ -72,19 +100,23 @@
 
 (ii)  a post-dated check or demand draft;
 
-(c)  lend money or provide credit to the individual, except as a deferral of a settlement fee at no additional expense to the individual;
+(c)  lend money or provide credit to the individual, unless the loan or credit is:
+
+(i)  a deferral of a settlement fee at no additional expense to the individual; or
+
+(ii)  through an affiliate that is licensed separately from the provider;
 
 (d)  obtain a mortgage or other security interest from any person in connection with the services provided to the individual;
 
 (e)  except as permitted by federal law, disclose the identity or identifying information of the individual or the identity of the individual's creditors, except to:
 
-(i)  the administrator, upon proper demand;
+(i)  the administrator, on proper demand;
 
 (ii)  a creditor of the individual, to the extent necessary to secure the cooperation of the creditor in a plan; or
 
 (iii)  the extent necessary to administer the plan;
 
-(f)  except as otherwise provided in Subsection 13-42-123(6), provide the individual less than the full benefit of a compromise of a debt arranged by the provider;
+(f)  except as otherwise provided in Subsection 13-42-123(4)(c), provide the individual less than the full benefit of a compromise of a debt arranged by the provider;
 
 (g)  charge the individual for or provide credit or other insurance, coupons for goods or services, membership in a club, access to computers or the Internet, or any other matter not directly related to debt-management services or educational services concerning personal finance, except to the extent such services are expressly authorized by the administrator; or
 
@@ -92,7 +124,11 @@
 
 (3)  This chapter does not authorize any person to engage in the practice of law.
 
-(4)  A provider may not receive a gift or bonus, premium, reward, or other compensation, directly or indirectly, for advising, arranging, or assisting an individual in connection with obtaining, an extension of credit or other service from a lender or service provider, except for educational or counseling services required in connection with a government-sponsored program.
+(4)  A provider may not receive a gift or bonus, premium, reward, or other compensation, directly or indirectly, for advising, arranging, or assisting an individual in connection with obtaining, an extension of credit or other service from a lender or service provider, except:
+
+(a)  for educational or counseling services required in connection with a government-sponsored program; or
+
+(b)  as authorized in Subsection 13-42-123(4)(d).
 
 (5)  Unless a person supplies goods, services, or facilities generally and supplies them to the provider at a cost no greater than the cost the person generally charges to others, a provider may not purchase goods, services, or facilities from the person if an employee or a person that the provider should reasonably know is an affiliate of the provider:
 

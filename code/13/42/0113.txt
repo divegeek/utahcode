@@ -10,11 +10,11 @@
 
 (a)  be in the amount of $100,000;
 
-(b)  be issued by a bonding, surety, or insurance company authorized to do business in this state and rated at least A by a nationally recognized rating organization; and
+(b)  be issued by a bonding, surety, or insurance company authorized to do business in this state and rated at least A- by a nationally recognized rating organization; and
 
-(c)  have payment conditioned upon noncompliance of the provider or its agent with this chapter.
+(c)  have payment conditioned on noncompliance of the provider or its agent with this chapter.
 
-(3)  If the principal amount of a surety bond is reduced by payment of a claim or a judgment, the provider shall immediately notify the administrator and, within 30 days after notice by the administrator, file a new or additional surety bond in an amount to comply with the $100,000 requirement.  If for any reason a surety terminates a bond, the provider shall immediately file a new surety bond in the amount of $100,000.
+(3)  If the principal amount of a surety bond is reduced by payment of a claim or a judgment, the provider shall immediately notify the administrator and, no later than 30 days after notice by the administrator, file a new or additional surety bond in an amount to comply with the $100,000 requirement.  If for any reason a surety terminates a bond, the provider shall immediately file a new surety bond in the amount of $100,000.
 
 (4)  The administrator or an individual may obtain satisfaction out of the surety bond procured pursuant to this section if:
 

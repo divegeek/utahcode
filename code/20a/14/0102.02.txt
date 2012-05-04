@@ -1,12 +1,16 @@
 20A-14-102.2.   Uncertain boundaries -- How resolved.
 
-(1)  As used in this section, "affected party" means:
+(1)  As used in this section:
 
-(a)  a state school board member whose State Board of Education district boundary is uncertain because the boundary in the Board block assignment file used to establish the district boundary has been removed, modified, or is unable to be identified or who is uncertain about whether or not the member or another person resides in a particular State Board of Education district;
+(a)  "Affected party" means:
 
-(b)  a candidate for state school board whose State Board of Education district boundary is uncertain because the boundary in the Board block assignment file used to establish the district boundary has been removed, modified, or is unable to be identified or who is uncertain about whether or not the candidate or another person resides in a particular State Board of Education district; or
+(i)  a state school board member whose State Board of Education district boundary is uncertain because the feature used to establish the district boundary in the Board block assignment file or in any modifications to the boundary made in Subsection 20A-14-101.5(5) has been removed, modified, or is unable to be identified or who is uncertain about whether or not the member or another person resides in a particular State Board of Education district;
 
-(c)  a person who is uncertain about which State Board of Education district contains the person's residence because the boundary in the Board block assignment file used to establish the State Board of Education district boundary has been removed, modified, or is unable to be identified.
+(ii)  a candidate for state school board whose State Board of Education district boundary is uncertain because the feature used to establish the district boundary in the Board block assignment file or in any modification to the boundary made in Subsection 20A-14-101.5(5) has been removed, modified, or is unable to be identified or who is uncertain about whether or not the candidate or another person resides in a particular State Board of Education district; or
+
+(iii)  a person who is uncertain about which State Board of Education district contains the person's residence because the feature used to establish the district boundary in the Board block assignment file or in any modification to the boundary made in Subsection 20A-14-101.5(5) been removed, modified, or is unable to be identified.
+
+(b)  "Feature" means a geographic or other tangible or intangible mark such as a road or political subdivision boundary that is used to establish a State Board of Education district boundary.
 
 (2) (a)  An affected party may file a written request petitioning the lieutenant governor to determine:
 
@@ -16,9 +20,23 @@
 
 (iii)  both Subsections (2)(a)(i) and (ii).
 
-(b)  In order to make the determination required by Subsection (2)(a), the lieutenant governor shall review the Board block assignment file and obtain and review other relevant data such as aerial photographs, aerial maps, or other data about the area.
+(b)  In order to make the determination required by Subsection (2)(a), the lieutenant governor shall review:
 
-(c)  Within five days of receipt of the request, the lieutenant governor shall review the Board block assignment file, obtain and review any relevant data, and make a determination.
+(i)  the Board block assignment file;
+
+(ii)  the modifications to the boundary made in Subsection 20A-14-101.5(5); and
+
+(iii)  other relevant data such as aerial photographs, aerial maps, or other data about the area.
+
+(c)  Within five days of receipt of the request, the lieutenant governor shall:
+
+(i)  review the Board block assignment file;
+
+(ii)  review the modifications to the boundary made in Subsection 20A-14-101.5(5);
+
+(iii)  review any relevant data; and
+
+(iv)  make a determination.
 
 (d)  If the lieutenant governor determines the precise location of the State Board of Education district boundary, the lieutenant governor shall:
 

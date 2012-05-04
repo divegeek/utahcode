@@ -6,7 +6,7 @@
 
 (i)  describe the bonds in anticipation of which the notes are to be issued;
 
-(ii)  specify the principal amount of the notes and the maturity  dates of the notes; and
+(ii)  specify the principal amount of the notes and the maturity dates of the notes; and
 
 (iii)  specify either the rates of interest, if any, on the notes or the method by which interest on the notes may be determined while the notes are outstanding.
 
@@ -22,5 +22,5 @@
 
 (6)  Sections 11-14-304, 11-14-305, 11-14-315, 11-14-316, and 11-14-401 apply to all bond anticipation notes issued under this section.
 
-(7)  Bonds are not considered to have been issued more than 10 years after the date of the election authorizing the issuance of them, under Section 11-14-301, if the issuance of these bonds has been anticipated under this section by bond anticipation notes issued prior to the expiration of this ten-year period.
+(7)  Bonds are not considered to have been issued outside of the 10-year period described in Section 11-14-301, if the issuance of the bonds is anticipated under this section by bond anticipation notes issued before the expiration of the 10-year period.
 

@@ -36,9 +36,11 @@
 
 (c)  family composition in accordance with Subsection (9);
 
-(d)  for plans renewed or effective on or after July 1, 2011, gender of the employee and spouse; and
+(d)  for plans renewed or effective on or after July 1, 2011, gender of the employee and spouse;
 
-(e)  for an individual age 65 and older, whether the employer policy is primary or secondary to Medicare.
+(e)  for an individual age 65 and older, whether the employer policy is primary or secondary to Medicare; and
+
+(f)  a wellness program, in accordance with Subsection (12).
 
 (7)  Age limited to:
 
@@ -140,7 +142,27 @@
 
 (iv)  duration of coverage since issue.
 
-(12) (a)  Each small employer carrier shall maintain at the small employer carrier's principal place of business a complete and detailed description of its rating practices and renewal underwriting practices, including information and documentation that demonstrate that the small employer carrier's rating methods and practices are:
+(12)  Notwithstanding Subsection (4)(b), a small employer carrier may:
+
+(a)  offer a wellness program to a small employer group if:
+
+(i)  the premium discount to the employer for the wellness program does not exceed 20% of the premium for the small employer group; and
+
+(ii)  the carrier offers the wellness program discount uniformly across all small employer groups;
+
+(b)  offer a premium discount as part of a wellness program to individual employees in a small employer group:
+
+(i)  to the extent allowed by federal law; and
+
+(ii)  if the employee discount based on the wellness program is offered uniformly across all small employer groups; and
+
+(c)  offer a combination of premium discounts for the employer and the employee, based on a wellness program, if:
+
+(i)  the employer discount complies with Subsection (12)(a); and
+
+(ii)  the employee discount complies with Subsection (12)(b).
+
+(13) (a)  Each small employer carrier shall maintain at the small employer carrier's principal place of business a complete and detailed description of its rating practices and renewal underwriting practices, including information and documentation that demonstrate that the small employer carrier's rating methods and practices are:
 
 (i)  based upon commonly accepted actuarial assumptions; and
 
@@ -152,11 +174,11 @@
 
 (B)  the rating methods of the small employer carrier are actuarially sound.
 
-(ii)  A copy of the certification required by Subsection (12)(b)(i) shall be retained by the small employer carrier at the small employer carrier's principal place of business.
+(ii)  A copy of the certification required by Subsection (13)(b)(i) shall be retained by the small employer carrier at the small employer carrier's principal place of business.
 
-(c)  A small employer carrier shall make the information and documentation described in this Subsection (12) available to the commissioner upon request.
+(c)  A small employer carrier shall make the information and documentation described in this Subsection (13) available to the commissioner upon request.
 
-(13) (a)  The commissioner shall establish rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
+(14) (a)  The commissioner shall establish rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
 
 (i)  implement this chapter; and
 
@@ -168,5 +190,5 @@
 
 (ii)  prescribe the manner in which case characteristics may be used by small employer and individual carriers.
 
-(14)  Records submitted to the commissioner under this section shall be maintained by the commissioner as protected records under Title 63G, Chapter 2, Government Records Access and Management Act.
+(15)  Records submitted to the commissioner under this section shall be maintained by the commissioner as protected records under Title 63G, Chapter 2, Government Records Access and Management Act.
 

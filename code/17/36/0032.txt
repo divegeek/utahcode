@@ -1,10 +1,10 @@
 17-36-32.   Operating and capital budget -- Expenditures.
 
-(1) (a) As used in this section, "operating and capital budget" means a plan of financial operation for an enterprise or other special fund embodying estimates of operating and nonoperating resources and expenses and other outlays for a fiscal period.
+(1) (a)  As used in this section, "operating and capital budget" means a plan of financial operation for an enterprise or other special fund embodying estimates of operating and nonoperating resources and expenses and other outlays for a fiscal period.
 
 (b)  Except as otherwise expressly provided, "budget" or "budgets" and the procedures and controls relating to them in other sections of this act are not applicable to the operating and capital budgets provided in this section.
 
-(2) At or before the time that the governing body adopts budgets for the budgetary funds specified in Section 17-36-8, the governing body shall adopt an operating and capital budget for the next fiscal period for:
+(2)  At or before the time that the governing body adopts budgets for the budgetary funds specified in Section 17-36-8, the governing body shall adopt an operating and capital budget for the next fiscal period for:
 
 (a)  each enterprise fund; and
 
@@ -72,5 +72,5 @@
 
 (v)  A copy of the operating and capital budget as amended shall be filed with the state auditor.
 
-(4)  Any expenditure from an operating and capital budget shall conform to the requirements for budgets specified by Sections 17-36-20, 17-36-22, 17-36-23, and 17-36-24.
+(4)  Any expenditure from an operating and capital budget shall conform to the requirements for budgets specified by Sections 17-36-20 or 17-36-20.1, as applicable, and 17-36-22, 17-36-23, and 17-36-24.
 

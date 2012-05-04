@@ -2,7 +2,39 @@
 
 (1)  If the governing body has declared the bond proposition to have carried and no contest has been filed, or if a contest has been filed and favorably terminated, the governing body may proceed to issue the bonds voted at the election.
 
-(2)  It is not necessary that all of the bonds be issued at one time, but bonds approved by the voters may not be issued more than 10 years after the date of the election.
+(2) (a)  It is not necessary that all of the bonds be issued at one time, but, except as otherwise provided in this Subsection (2), bonds approved by the voters may not be issued more than 10 years after the day on which the election is held.
+
+(b)  The 10-year period described in Subsection (2)(a) is tolled if, at any time during the 10-year period:
+
+(i)  an application for a referendum petition is filed with a local clerk, in accordance with Section 20A-7-602 and Subsection 20A-7-601(4)(a), with respect to the local obligation law relating to the bonds; or
+
+(ii)  the bonds are challenged in a court of law or an administrative proceeding in relation to:
+
+(A)  the legality or validity of the bonds, or the election or proceedings authorizing the bonds;
+
+(B)  the authority of the local political subdivision to issue the bonds;
+
+(C)  the provisions made for the security or payment of the bonds; or
+
+(D)  any other issue that materially and adversely affects the marketability of the bonds, as determined by the individual or body that holds the executive powers of the local political subdivision.
+
+(c)  A tolling period described in Subsection (2)(b)(i) ends on the later of the day on which:
+
+(i)  the local clerk determines that the petition is insufficient, in accordance with Subsection 20A-7-607(2)(c), unless an application, described in Subsection 20A-7-607(4)(a), is made to the Supreme Court;
+
+(ii)  the Supreme Court determines, under Subsection 20A-7-607(4)(c), that the petition for the referendum is not legally sufficient; or
+
+(iii)  for a referendum petition that is sufficient, the governing body declares, as provided by law, the results of the referendum election on the local obligation law.
+
+(d)  A tolling period described in Subsection (2)(b)(ii) ends after:
+
+(i)  there is a final settlement, a final adjudication, or another type of final resolution of all challenges described in Subsection (2)(b)(ii); and
+
+(ii)  the individual or body that holds the executive powers of the local political subdivision issues a document indicating that all challenges described in Subsection (2)(b)(ii) are resolved and final.
+
+(e)  If the 10-year period described in Subsection (2)(a) is tolled under this Subsection (2) and, when the tolling ends and after giving effect to the tolling, the period of time remaining to issue the bonds is less than one year, the period of time remaining to issue the bonds shall be extended to one year.
+
+(f)  The tolling provisions described in this Subsection (2) apply to all bonds described in this section that were approved by voters on or after May 8, 2002.
 
 (3) (a)  Bonds approved by the voters may not be issued to an amount that will cause the indebtedness of the local political subdivision to exceed that permitted by the Utah Constitution or statutes.
 

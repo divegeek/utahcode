@@ -16,11 +16,11 @@
 
 (i)  against risks of dishonesty, fraud, theft, and other misconduct on the part of the applicant or a director, employee, or agent of the applicant;
 
-(ii)  issued by an insurance company authorized to do business in this state and rated at least A or equivalent by a nationally recognized rating organization approved by the administrator;
+(ii)  issued by an insurance company authorized to do business in this state and rated at least A- or equivalent by a nationally recognized rating organization approved by the administrator;
 
 (iii)  with a deductible not exceeding $5,000;
 
-(iv)  payable for the benefit of the applicant, this state, and individuals who are residents of this state, as their interests may appear; and
+(iv)  payable to the applicant and this state for the benefit of the residents of this state, as their interests may appear; and
 
 (v)  not subject to cancellation by the applicant or the insurer until 60 days after written notice has been given to the administrator;
 
@@ -34,7 +34,7 @@
 
 (4)  If a registered provider files a timely and complete application for renewal of registration, the registration remains effective until the administrator, in a record, notifies the applicant of a denial and states the reasons for the denial.
 
-(5)  If the administrator denies an application for renewal of registration as a provider, the applicant, within 30 days after receiving notice of the denial, may appeal and request a hearing pursuant to Title 63G, Chapter 4, Administrative Procedures Act.  Subject to Section 13-42-134, while the appeal is pending the applicant shall continue to provide debt-management services to individuals with whom it has agreements.  If the denial is affirmed, subject to the administrator's order and Section 13-42-134, the applicant shall continue to provide debt-management services to individuals with whom it has agreements until, with the approval of the administrator, it transfers the agreements to another registered provider or returns to the individuals all unexpended money that is under the applicant's control.
+(5)  If the administrator denies an application for renewal of registration as a provider, the applicant, no later than 30 days after receiving notice of the denial, may appeal and request a hearing pursuant to Title 63G, Chapter 4, Administrative Procedures Act.  Subject to Section 13-42-134, while the appeal is pending the applicant shall continue to provide debt-management services to individuals with whom it has agreements.  If the denial is affirmed, subject to the administrator's order and Section 13-42-134, the applicant shall continue to provide debt-management services to individuals with whom it has agreements until, with the approval of the administrator, it transfers the agreements to another registered provider or returns to the individuals all unexpended money that is under the applicant's control.
 
 (6) (a)  The administrator may waive or reduce the insurance requirement in Subsection (2)(e) if the provider does not:
 

@@ -16,7 +16,7 @@
 
 (3)  Subsection (2) does not apply to:
 
-(a)  a natural person or professional corporation that alone or with others professionally associated with the natural person or professional corporation, and without receiving consideration for services in advance of the need for a particular service, provides the service personally with the aid of nonprofessional assistants;
+(a)  a natural person or professional corporation that alone or with others professionally associated with the natural person or professional corporation, and except as provided in Subsection (3)(f), without receiving consideration for services in advance of the need for a particular service, provides the service personally with the aid of nonprofessional assistants;
 
 (b)  a health care facility as defined in Section 26-21-2 that:
 
@@ -34,9 +34,11 @@
 
 (B)  Section 31A-15-103; or
 
-(ii)  works for an uninsured employer that complies with Chapter 13, Employee Welfare Funds and Plans; or
+(ii)  works for an uninsured employer that complies with Chapter 13, Employee Welfare Funds and Plans;
 
-(e)  an employer that self-funds its obligations to provide health care services or indemnity for its employees if the employer complies with Chapter 13, Employee Welfare Funds and Plans.
+(e)  an employer that self-funds its obligations to provide health care services or indemnity for its employees if the employer complies with Chapter 13, Employee Welfare Funds and Plans; or
+
+(f)  notwithstanding the provisions of Subsection (3)(a), a natural person or professional corporation that alone or with others professionally associated with the natural person or professional corporation enters into a medical retainer agreement in accordance with Section 31A-4-106.5.
 
 (4)  A person may not provide administrative or management services for another person subject to Subsection (2) and not exempt under Subsection (3) unless the person:
 

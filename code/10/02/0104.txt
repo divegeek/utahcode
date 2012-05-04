@@ -1,14 +1,30 @@
-10-2-104.   Notice to owner of more than 1% of property -- Exclusion of property from proposed boundaries.
+10-2-104.   Notice to owner of property -- Exclusion of property from proposed boundaries.
 
-(1)  Within seven calendar days of the date on which a request under Section 10-2-103 is filed, the county clerk shall notify of the proposed incorporation each owner of real property owning more than 1% of the assessed value of all property in the proposed incorporation boundaries.
+(1)  As used in this section:
 
-(2) (a)  A property owner within the boundaries of a proposed municipality, owning more than 1% of the assessed value of all property in the proposed incorporation boundaries, may exclude all or part of the property owner's property from the proposed boundaries by filing a Notice of Exclusion within 10 calendar days of receiving the clerk's notice under Subsection (1).
+(a)  "Assessed value" with respect to property means the value at which the property would be assessed without regard to a valuation for agricultural use under Section 59-2-503.
 
-(b)  The county legislative body shall exclude the property identified in the Notice of Exclusion from the proposed boundaries only if the property:
+(b)  "Owner" means a person having an interest in real property, including an affiliate, subsidiary, or parent company.
 
-(i)  is currently nonurban;
+(c)  "Urban" means an area with a residential density of greater than one unit per acre.
 
-(ii)  does not or will not require municipal provision of municipal-type services including:
+(2)  Within seven calendar days of the date on which a request under Section 10-2-103 is filed, the county clerk shall send written notice of the proposed incorporation to each record owner of real property owning more than:
+
+(a)  1% of the assessed value of all property in the proposed incorporation boundaries; or
+
+(b)  10% of the total private land area within the proposed incorporation boundaries.
+
+(3)  If an owner owns, controls, or manages more than 1% of the assessed value of all property in the proposed incorporation boundaries, or owns, controls, or manages 10% or more of the total private land area in the proposed incorporation boundaries, the owner may exclude all or part of the property owned, controlled, or managed by the owner from the proposed boundaries by filing a Notice of Exclusion with the county legislative body within 15 calendar days of receiving the clerk's notice under Subsection (2).
+
+(4)  The county legislative body shall exclude the property identified by an owner in the Notice of Exclusion from the proposed incorporation boundaries unless the county legislative body finds by clear and convincing evidence in the record that:
+
+(a)  the exclusion will leave an unincorporated island within the proposed municipality; and
+
+(b)  the property to be excluded:
+
+(i)  is urban; and
+
+(ii) currently receives from the county a majority of municipal-type services including:
 
 (A)  culinary or irrigation water;
 
@@ -26,11 +42,9 @@
 
 (H)  garbage and refuse collection; and
 
-(I)  street lighting; and
+(I)  street lighting.
 
-(iii)  exclusion will not leave an unincorporated island within the proposed municipality.
+(5)  This section applies only to counties of the first or second class.
 
-(3)  This section applies only to counties of the first or second class.
-
-(4)  If the county legislative body excludes property from the proposed boundaries under Subsection (2)(b), the county legislative body shall, within five days of the exclusion, send written notice of its action to the contact sponsor.
+(6)  If the county legislative body excludes property from the proposed boundaries under Subsection (4), the county legislative body shall, within five days of the exclusion, send written notice of the exclusion to the contact sponsor.
 

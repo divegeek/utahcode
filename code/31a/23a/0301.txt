@@ -4,11 +4,13 @@ An insurance organization shall be licensed as an agency if the insurance organi
 
 (1)  a producer;
 
-(2)  a limited line producer;
+(2)  a surplus lines producer;
 
-(3)  a consultant;
+(3)  a limited line producer;
 
-(4)  a managing general agent; or
+(4)  a consultant;
 
-(5)  a reinsurance intermediary.
+(5)  a managing general agent; or
+
+(6)  a reinsurance intermediary.
 

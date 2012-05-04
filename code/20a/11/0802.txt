@@ -16,7 +16,11 @@
 
 (v)  on August 31; and
 
-(vi)  seven days before the regular general election.
+(vi)  seven days before:
+
+(A)  the municipal general election; and
+
+(B)  the regular general election.
 
 (b)  The political issues committee shall report:
 
@@ -67,4 +71,14 @@
 (i)  need only report the amount paid to each initiative petition circulator; and
 
 (ii)  need not report the name or address of the circulator.
+
+(3) (a)  As used in this Subsection (3), "received" means:
+
+(i)  for a cash contribution, that the cash is given to a political issues committee;
+
+(ii)  for a contribution that is a negotiable instrument or check, that the negotiable instrument or check is negotiated; and
+
+(iii)  for any other type of contribution, that any portion of the contribution's benefit inures to the political issues committee.
+
+(b)  A political issues committee shall report each contribution to the lieutenant governor within 30 days after the contribution is received.
 

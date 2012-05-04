@@ -14,19 +14,17 @@
 
 (ii)  a construction manager who performs management and counseling services on a construction project for a fee.
 
-(d)  "Original contractor" is as provided in Section 38-1-2.
+(d)  "Original contractor" has the same meaning as provided in Section 38-1a-102.
 
 (e)  "Owner" means the person who holds any legal or equitable title or interest in property.  Owner does not include a construction lender unless the construction lender has an ownership interest in the property other than solely as a construction lender.
 
-(f)  "Public agency" means any state agency or political subdivision of the state that enters into a construction contract for an improvement of public property.
+(f)  "Public agency" means any state agency or a county, city, town, school district, local district, special service district, or other political subdivision of the state that enters into a construction contract for an improvement of public property.
 
 (g)  "Retention payment" means release of retention proceeds as defined in Subsection (1)(h).
 
 (h)  "Retention proceeds" means money earned by a contractor or subcontractor but retained by the owner or public agency pursuant to the terms of a construction contract to guarantee payment or performance by the contractor or subcontractor of the construction contract.
 
-(i)  "Subcontractor" is as defined in Section 38-1-2.
-
-(j)  "Successful party" has the same meaning as it does under Section 38-1-18.
+(i)  "Subcontractor" has the same meaning as defined in Section 38-1a-102.
 
 (2) (a)  This section is applicable to all construction contracts relating to construction work or improvements entered into on or after July 1, 1999, between:
 
@@ -48,13 +46,13 @@
 
 (b)  The total retention proceeds withheld may not exceed 5% of the total construction price.
 
-(c) The percentage of the retention proceeds withheld and retained pursuant to a construction contract between the original contractor and a subcontractor or between subcontractors shall be the same retention percentage as between the owner and the original contractor if:
+(c)  The percentage of the retention proceeds withheld and retained pursuant to a construction contract between the original contractor and a subcontractor or between subcontractors shall be the same retention percentage as between the owner and the original contractor if:
 
 (i)  the retention percentage in the original construction contract between an owner and the original contractor is less than 5%; or
 
 (ii)  after the original construction contract is executed but before completion of the construction contract the retention percentage is reduced to less than 5%.
 
-(4) (a) If any payment on a contract with a private contractor, firm, or corporation to do work for an owner or public agency is retained or withheld by the owner or the public agency, as retention proceeds, it shall be placed in an interest-bearing account.
+(4) (a)  If any payment on a contract with a private contractor, firm, or corporation to do work for an owner or public agency is retained or withheld by the owner or the public agency, as retention proceeds, it shall be placed in an interest-bearing account and accounted for separately from other amounts paid under the contract.
 
 (b)  The interest accrued under Subsection (4)(a) shall be:
 
@@ -63,6 +61,12 @@
 (ii)  paid after the project is completed and accepted by the owner or the public agency.
 
 (c)  The contractor shall ensure that any interest accrued on the retainage is distributed by the contractor to subcontractors on a pro rata basis.
+
+(d)  Retention proceeds and accrued interest retained by an owner or public agency:
+
+(i)  are considered to be in a constructive trust for the benefit of the contractor and subcontractors who have earned the proceeds; and
+
+(ii)  are not subject to assignment, encumbrance, attachment, garnishment, or execution levy for the debt of any person holding the retention proceeds and accrued interest.
 
 (5)  Any retention proceeds retained or withheld pursuant to this section and any accrued interest shall be released pursuant to a billing statement from the contractor within 45 days from the later of:
 
@@ -110,7 +114,7 @@
 
 (10) (a)  In any action for the collection of the retained proceeds withheld and retained in violation of this section, the successful party is entitled to:
 
-(i)  attorney's fees; and
+(i) attorney fees; and
 
 (ii)  other allowable costs.
 
@@ -118,5 +122,5 @@
 
 (ii)  The charge described in Subsection (10)(b)(i) shall be paid to the contractor or subcontractor from whom the retention proceeds have been wrongfully withheld.
 
-(11) A party to a construction contract may not require any other party to waive any provision of this section.
+(11)  A party to a construction contract may not require any other party to waive any provision of this section.
 

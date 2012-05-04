@@ -4,9 +4,9 @@
 
 (a)  producer;
 
-(b)  limited line producer;
+(b)  surplus lines producer;
 
-(c)  customer service representative;
+(c)  limited line producer;
 
 (d)  consultant;
 
@@ -62,7 +62,7 @@
 
 (iii)  the designated responsible licensed producer;
 
-(iv)  the identity of all owners, partners, officers, and directors;
+(iv)  the identity of the owners, partners, officers, and directors;
 
 (v)  whether the applicant has committed an act that is a ground for denial, suspension, or revocation as set forth in Section 31A-23a-105 or 31A-23a-111; and
 

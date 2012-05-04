@@ -6,9 +6,11 @@
 
 (ii)  is committing or engaging in an act, practice, or transaction that would subject the insurer to a formal delinquency proceeding under Chapter 27a, Insurer Receivership Act;
 
-(iii)  is about to commit or engage in an act, practice, or transaction that would subject the insurer to a formal delinquency proceeding under Chapter 27a, Insurer Receivership Act; or
+(iii)  is about to commit or engage in an act, practice, or transaction that would subject the insurer to a formal delinquency proceeding under Chapter 27a, Insurer Receivership Act;
 
-(iv)  is in or is about to be in a condition that would subject the insurer to a formal delinquency proceeding under Chapter 27a, Insurer Receivership Act.
+(iv)  is in or is about to be in a condition that would subject the insurer to a formal delinquency proceeding under Chapter 27a, Insurer Receivership Act; or
+
+(v)  is in hazardous financial condition or potentially hazardous financial condition, as defined by rule made under Subsection 31A-27a-101(3)(c).
 
 (b)  If the conditions of Subsection (1)(a) are met, the commissioner may make and serve upon the insurer and any other persons whose action or forbearance from action is reasonably necessary, those orders, other than a seizure order under Section 31A-27a-201, that are reasonably necessary to correct, eliminate, or remedy the act, practice, transaction, or condition described in Subsection (1)(a).
 
@@ -24,7 +26,7 @@
 
 (3) (a)  If the commissioner issues an order for supervision of an insurer under Subsection (1) or (2), the commissioner shall:
 
-(i)  notify the insurer that the insurer is under the supervision of the commissioner; and 
+(i)  notify the insurer that the insurer is under the supervision of the commissioner; and
 
 (ii)  explain the reasons for that supervision.
 

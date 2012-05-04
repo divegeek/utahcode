@@ -2,7 +2,11 @@
 
 As used in this chapter:
 
-(1)  "Continuing political party" means an organization of voters that participated in the last regular general election and polled a total vote for any of its candidates for any office equal to 2% or more of the total votes cast for all candidates for the United States House of Representatives.
+(1)  "Continuing political party" means an organization of voters that:
+
+(a)  participated in the last regular general election; and
+
+(b)  in at least one of the last two regular general elections, polled a total vote for any of its candidates for any office equal to 2% or more of the total votes cast for all candidates for the United States House of Representatives in the same regular general election.
 
 (2)  "County political party" means, for each registered political party, all of the persons within a single county who, under definitions established by the county political party, are members of the registered political party.
 
@@ -10,7 +14,9 @@ As used in this chapter:
 
 (4)  "Registered political party" means an organization of voters that:
 
-(a)  participated in the last regular general election and polled a total vote for any of its candidates for any office equal to 2% or more of the total votes cast for all candidates for the United States House of Representatives; or
+(a) (i)  participated in the last regular general election; and
+
+(ii)  in at least one of the last two regular general elections, polled a total vote for any of its candidates for any office equal to 2% or more of the total votes cast for all candidates for the United States House of Representatives in the same regular general election; or
 
 (b)  has complied with the petition and organizing procedures of this chapter.
 

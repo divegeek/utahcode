@@ -38,13 +38,13 @@
 
 (o)  cooperate with the local health departments, the Department of Corrections, the Administrative Office of the Courts, the Division of Juvenile Justice Services, and the Crime Victim Reparations Board to conduct testing for HIV infection of alleged sexual offenders, convicted sexual offenders, and any victims of a sexual offense;
 
-(p)  investigate the cause of maternal and infant mortality;
+(p)  investigate the causes of maternal and infant mortality;
 
 (q)  establish, maintain, and enforce a procedure requiring the blood of adult pedestrians and drivers of motor vehicles killed in highway accidents be examined for the presence and concentration of alcohol;
 
-(r)  provide the commissioner of public safety with monthly statistics reflecting the results of the examinations provided for in Subsection (2)(q) and provide safeguards so that information derived from the examinations is not used for a purpose other than the compilation of statistics authorized in this Subsection (2)(r);
+(r)  provide the Commissioner of Public Safety with monthly statistics reflecting the results of the examinations provided for in Subsection (2)(q) and provide safeguards so that information derived from the examinations is not used for a purpose other than the compilation of statistics authorized in this Subsection (2)(r);
 
-(s)  establish qualifications for individuals permitted to draw blood pursuant to Section 41-6a-523, and to issue permits to individuals it finds qualified, which permits may be terminated or revoked by the department;
+(s)  establish qualifications for individuals permitted to draw blood pursuant to Subsection 41-6a-523(1)(a)(vi), 53-10-405(2)(a)(vi), or 72-10-502(5)(a)(vi), and to issue permits to individuals it finds qualified, which permits may be terminated or revoked by the department;
 
 (t)  establish a uniform public health program throughout the state which includes continuous service, employment of qualified employees, and a basic program of disease control, vital and health statistics, sanitation, public health nursing, and other preventive health programs necessary or desirable for the protection of public health;
 
@@ -78,9 +78,9 @@
 
 (xiv)  beauty shops;
 
-(xv)  physicians' offices;
+(xv) physician offices;
 
-(xvi)  dentists' offices;
+(xvi) dentist offices;
 
 (xvii)  workshops;
 
@@ -92,7 +92,7 @@
 
 (xxi)  state, county, or municipal institutions, including hospitals and other buildings, centers, and places used for public gatherings; and
 
-(xxii)  of any other facilities in public buildings and on public grounds;
+(xxii) any other facilities in public buildings or on public grounds;
 
 (v)  conduct health planning for the state;
 
@@ -102,7 +102,9 @@
 
 (y)  license the provision of child care;
 
-(z)  accept contributions to and administer the funds contained in the Organ Donation Contribution Fund created in Section 26-18b-101; and
+(z)  accept contributions to and administer the funds contained in the Organ Donation Contribution Fund created in Section 26-18b-101;
 
-(aa)  serve as the collecting agent, on behalf of the state, for the nursing care facility assessment fee imposed under Title 26, Chapter 35a, Nursing Care Facility Assessment Act, and adopt rules for the enforcement and administration of the nursing facility assessment consistent with the provisions of Title 26, Chapter 35a.
+(aa)  serve as the collecting agent, on behalf of the state, for the nursing care facility assessment fee imposed under Title 26, Chapter 35a, Nursing Care Facility Assessment Act, and adopt rules for the enforcement and administration of the nursing facility assessment consistent with the provisions of Title 26, Chapter 35a; and
+
+(bb)  establish methods or measures for health care providers, public health entities, and health care insurers to coordinate among themselves to verify the identity of the individuals they serve.
 

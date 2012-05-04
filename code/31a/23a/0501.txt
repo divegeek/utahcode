@@ -98,29 +98,25 @@
 
 (iii)  a consultant.
 
-(b)  Beginning January 1, 2010, in addition to any other disclosures required by this section, a producer may not accept or receive any compensation from an insurer or third party administrator for the placement of a health benefit plan, other than a hospital confinement indemnity policy, unless prior to the customer's purchase of the health benefit plan the producer:
+(b) A producer may not accept or receive any compensation from an insurer or third party administrator for the initial placement of a health benefit plan, other than a hospital confinement indemnity policy, unless prior to the customer's initial purchase of the health benefit plan the producer discloses in writing to the customer that the producer will receive compensation from the insurer or third party administrator for the placement of insurance, including the amount or type of compensation known to the producer at the time of the disclosure.
 
-(i)  except as provided in Subsection (4)(c), discloses in writing to the customer that the producer will receive compensation from the insurer or third party administrator for the placement of insurance, including the amount or type of compensation known to the producer at the time of the disclosure; and
+(c)  A producer shall:
 
-(ii)  except as provided in Subsection (4)(c):
+(i)  obtain the customer's signed acknowledgment that the disclosure under Subsection (4)(b) was made to the customer; or
 
-(A)  obtains the customer's signed acknowledgment that the disclosure under Subsection (4)(b)(i) was made to the customer; or
+(ii) (A)  sign a statement that the disclosure required by Subsection (4)(b) was made to the customer; and
 
-(B) (I)  signs a statement that the disclosure required by Subsection (4)(b)(i) was made to the customer; and
-
-(II)  keeps the signed statement on file in the producer's office while the health benefit plan placed with the customer is in force.
-
-(c)  If the compensation to the producer from an insurer or third party administrator is for the renewal of a health benefit plan, once the producer has made an initial disclosure that complies with Subsection (4)(b), the producer does not have to disclose compensation received for the subsequent yearly renewals in accordance with Subsection (4)(b) until the renewal period immediately following 36 months after the initial disclosure.
+(B)  keep the signed statement on file in the producer's office while the health benefit plan placed with the customer is in force.
 
 (d) (i)  A licensee who collects or receives any part of the compensation from an insurer or third party administrator in a manner that facilitates an audit shall, while the health benefit plan placed with the customer is in force, maintain a copy of:
 
-(A)  the signed acknowledgment described in Subsection (4)(b)(i); or
+(A)  the signed acknowledgment described in Subsection (4)(c)(i); or
 
-(B)  the signed statement described in Subsection (4)(b)(ii).
+(B)  the signed statement described in Subsection (4)(c)(ii).
 
 (ii)  The standard application developed in accordance with Section 31A-22-635 shall include a place for a producer to provide the disclosure required by this Subsection (4), and if completed, shall satisfy the requirement of Subsection (4)(d)(i).
 
-(e)  Subsection (4)(b)(ii) does not apply to:
+(e)  Subsection (4)(c) does not apply to:
 
 (i)  a person licensed as a producer who acts only as an intermediary between an insurer and the customer's producer, including a managing general agent; or
 

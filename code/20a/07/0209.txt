@@ -1,6 +1,6 @@
 20A-7-209.   Ballot title -- Duties of lieutenant governor and Office of Legislative Research and General Counsel.
 
-(1)  By July 6 before the regular general election, the lieutenant governor shall deliver a copy of all of the proposed laws that have qualified for the ballot to the Office of Legislative Research and General Counsel.
+(1)  By June 5 before the regular general election, the lieutenant governor shall deliver a copy of all of the proposed laws that have qualified for the ballot to the Office of Legislative Research and General Counsel.
 
 (2) (a)  The Office of Legislative Research and General Counsel shall:
 
@@ -8,7 +8,7 @@
 
 (ii)  prepare an impartial ballot title for each initiative summarizing the contents of the measure; and
 
-(iii)  return each petition and ballot title to the lieutenant governor by July 20.
+(iii)  return each petition and ballot title to the lieutenant governor by June 26.
 
 (b)  The ballot title may be distinct from the title of the proposed law attached to the initiative petition, and shall be not more than 100 words.
 
@@ -20,9 +20,9 @@
 
 (iii)  the initial fiscal impact estimate prepared under Section 20A-7-202.5 or updated under Section 20A-7-204.1.
 
-(3)  By July 21, the lieutenant governor shall mail a copy of the ballot title to any sponsor of the petition.
+(3)  By June 27, the lieutenant governor shall mail a copy of the ballot title to any sponsor of the petition.
 
-(4) (a) (i)  At least three of the sponsors of the petition may, by July 30, challenge the wording of the ballot title prepared by the Office of Legislative Research and General Counsel to the Supreme Court.
+(4) (a) (i)  At least three of the sponsors of the petition may, by July 6, challenge the wording of the ballot title prepared by the Office of Legislative Research and General Counsel to the Supreme Court.
 
 (ii)  After receipt of the appeal, the Supreme Court shall direct the lieutenant governor to send notice of the appeal to:
 
@@ -40,7 +40,7 @@
 
 (ii)  hear arguments; and
 
-(iii) certify to the lieutenant governor a ballot title for the measure that meets the requirements of this section.
+(iii)  certify to the lieutenant governor a ballot title for the measure that meets the requirements of this section.
 
-(d) The lieutenant governor shall certify the title verified by the Supreme Court to the county clerks to be printed on the official ballot.
+(d)  The lieutenant governor shall certify the title verified by the Supreme Court to the county clerks to be printed on the official ballot.
 

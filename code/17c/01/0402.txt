@@ -72,9 +72,13 @@
 
 (vii)  approve the use of tax increment for publicly owned infrastructure and improvements outside of an urban renewal or economic development project area that the agency and community legislative body determine to be of benefit to the urban renewal or economic development project area, as provided in Subsection 17C-1-409(1)(a)(iii)(D);
 
-(viii)  waive the restrictions imposed by Subsection 17C-2-202(1); and
+(viii)  waive the restrictions imposed by Subsection 17C-2-202(1);
 
-(ix)  give other taxing entity committee approval or consent required or allowed under this title.
+(ix)  subject to Subsection (4)(c), designate in an approved urban renewal or economic development project area budget the base taxable value for that project area budget; and
+
+(x)  give other taxing entity committee approval or consent required or allowed under this title.
+
+(c)  The base year used for calculation of the base taxable value in Subsection (4)(b)(ix) may not be a year that is earlier than the year during which the project area plan became effective.
 
 (5)  A quorum of a taxing entity committee consists of:
 
@@ -162,9 +166,11 @@
 
 (C)  the applicable tax rates within the project area; and
 
-(D)  a schedule of private and public investment within the project area; and
+(D)  a description of private and public investment within the project area;
 
-(v)  any other project highlights included by the agency.
+(v)  an estimate of the tax increment to be paid to the agency for the calendar years ending December 31 and beginning the next January 1; and
+
+(vi)  any other project highlights included by the agency.
 
 (10)  Each taxing entity committee shall be governed by Title 52, Chapter 4, Open and Public Meetings Act.
 

@@ -16,7 +16,7 @@
 
 (A)  denial, reduction, termination, or failure to provide or make payment that is based on a determination of an insured's or a beneficiary's eligibility to participate in a plan;
 
-(B)  with respect to individual or group health plans, and income replacement or disability income policies, a denial, reduction, or termination of, or a failure to provide or make payment, in whole or in part, for, a benefit resulting from the application of a utilization review; and
+(B) denial, reduction, or termination of, or a failure to provide or make payment, in whole or in part, for, a benefit resulting from the application of a utilization review; or
 
 (C)  failure to cover an item or service for which benefits are otherwise provided because it is determined to be:
 
@@ -112,5 +112,5 @@
 
 (vi)  a health care facility where service would be provided; or
 
-(vii)  the developer or manufacturer of the service that would be provided.
+(vii)  the developer or manufacturer of the service that would be provided.ho
 

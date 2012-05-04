@@ -1,4 +1,4 @@
-20A-3-308.   Absentee ballots in the custody of poll workers -- Disposition.
+20A-3-308.   Absentee ballots in the custody of poll workers -- Disposition -- Notice.
 
 (1) (a)  Voting precinct poll workers shall open envelopes containing absentee ballots that are in their custody on election day at the polling places during the time the polls are open as provided in this Subsection (1).
 
@@ -54,5 +54,13 @@
 
 (4)  The poll workers shall deposit the absentee voter envelope, when the absentee ballot is voted, and the absentee voter envelope with its contents unopened when the absent vote is rejected, in the ballot box containing the ballots.
 
-(5)  The election officer shall retain and preserve the absentee voter envelopes in the manner provided by law for the retention and preservation of official ballots voted at that election.
+(5) (a)  An election officer shall notify a voter if a poll worker rejects the voter's ballot and specify the reason for the rejection.
+
+(b)  An election officer shall give the notice described in Subsection (5)(a) to a voter no later than seven days after:
+
+(i)  election day if the election officer receives the ballot before or on election day; and
+
+(ii)  the canvass if the election officer receives the ballot after election day and before the end of the canvass.
+
+(6)  The election officer shall retain and preserve the absentee voter envelopes in the manner provided by law for the retention and preservation of official ballots voted at that election.
 

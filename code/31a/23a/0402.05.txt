@@ -16,7 +16,21 @@
 
 (a)  reducing premiums because of expense savings;
 
-(b)  providing to a policyholder or insured one or more incentives, as defined by the commissioner by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to participate in a program or activity designed to reduce claims or claim expenses; or
+(b)  providing to a policyholder or insured one or more incentives, as defined by the commissioner by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to participate in a program or activity designed to reduce claims or claim expenses, including:
+
+(i)  a premium discount offered to a small or large employer group based on a wellness program if:
+
+(A)  the premium discount for the employer group does not exceed 20% of the group premium; and
+
+(B)  the premium discount based on the wellness program is offered uniformly by the insurer to all employer groups in the large or small group market;
+
+(ii)  a premium discount offered to employees of a small or large employer group in an amount that does not exceed federal limits on wellness program incentives; or
+
+(iii)  a combination of premium discounts offered to the employer group and the employees of an employer group, based on a wellness program, if:
+
+(A)  the premium discounts for the employer group comply with Subsection (3)(b)(i); and
+
+(B)  the premium discounts for the employees of an employer group comply with Subsection (3)(b)(ii); or
 
 (c)  receiving premiums under an installment payment plan.
 
@@ -44,7 +58,7 @@
 
 (A)  an employee benefit offering or administration, if the insurance product purchased from the licensee is accident and health insurance or health insurance; and
 
-(B)  employment practices liability, if the insurance product purchased from the licensee is property or casualty insurance; and
+(B)  employment practices liability, if the insurance product offered by or purchased from the licensee is property or casualty insurance; and
 
 (ii)  providing limited human resource compliance training and education directly pertaining to an insurance product purchased from the licensee;
 
@@ -64,7 +78,7 @@
 
 (f)  preparing or providing a form that is directly related to an insurance product purchased from, or offered by, the licensee;
 
-(g)  preparing or providing documents directly related to a flexible spending account, but not providing ongoing administration of a flexible spending account;
+(g)  preparing or providing documents directly related to a premium only cafeteria plan within the meaning of Section 125, Internal Revenue Code, or a flexible spending account, but not providing ongoing administration of a flexible spending account;
 
 (h)  providing enrollment and billing assistance, including:
 

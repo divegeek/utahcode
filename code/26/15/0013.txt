@@ -2,9 +2,11 @@
 
 (1)  For purposes of this section:
 
-(a)  "Phototherapy device" means equipment that emits ultraviolet radiation used by a health care professional in the treatment of disease.
+(a)  "Minor" means a person under 18 years of age.
 
-(b) (i)  "Tanning device" means any equipment that emits electromagnetic radiation with wavelengths in the air between 200 and 400 nanometers used for tanning of the skin, including:
+(b)  "Phototherapy device" means equipment that emits ultraviolet radiation used by a health care professional in the treatment of disease.
+
+(c) (i)  "Tanning device" means equipment to which a tanning facility provides access that emits electromagnetic radiation with wavelengths in the air between 200 and 400 nanometers used for tanning of the skin, including:
 
 (A)  a sunlamp; and
 
@@ -12,7 +14,7 @@
 
 (ii)  "Tanning device" does not include a phototherapy device.
 
-(c)  "Tanning facility" means any commercial location, place, area, structure, or business which provides persons access to any tanning device.
+(d)  "Tanning facility" means a commercial location, place, area, structure, or business that provides access to a tanning device.
 
 (2)  A tanning facility shall:
 
@@ -20,31 +22,59 @@
 
 (b)  in accordance with Subsection (3) post a warning sign in a conspicuous location that is readily visible to a person about to use a tanning device.
 
-(3)  The posted warning and written consent required by Subsections (2)  and (5) shall be developed by the department through administrative rules.
+(3)  The posted warning and written consent required by Subsections (2) and (5) shall be developed by the department through administrative rules and shall include:
 
-(4)  It is unlawful for any operator of a tanning facility to allow a person younger than 18 years old to use a tanning device unless the minor's parent or legal guardian:
+(a)  that there are health risks associated with the use of a tanning device;
 
-(a)  appears in person at the tanning facility the first time that the minor uses a tanning device, and at least once each 12 month period thereafter in which the minor uses the tanning device; and
+(b)  that the facility may not allow a minor to use a tanning device unless the minor:
 
-(b)  signs the consent form required in Subsection (5).
+(i)  has a written order from a physician; or
 
-(5)  The written consent required by Subsection (4) shall be signed and dated, and shall include at least:
+(ii)  at each time of use is accompanied at the tanning facility by a parent or legal guardian who provides written consent authorizing the minor to use the tanning device.
 
-(a)  information concerning the health risks associated with the use of a tanning device;
+(4)  It is unlawful for any operator of a tanning facility to allow a minor to use a tanning device unless:
 
-(b)  if the individual using the tanning device is a minor, a statement that:
+(a)  the minor has a written order from a physician as defined in Section 58-67-102, to use a tanning device as a medical treatment; or
 
-(i)  the parent or legal guardian of the minor has read and understood the warnings given by the tanning facility, and  consents to the minor's use of a tanning device;
+(b) (i)  the minor's parent or legal guardian appears in person at the tanning facility each time that the minor uses a tanning device, except that the minor's parent or legal guardian is not required to remain at the facility for the duration of the use; and
 
-(ii)  the parent or legal guardian agrees that the minor will use protective eye wear; and
+(ii)  the minor's parent or legal guardian signs the consent form required in Subsection (5).
 
-(iii)  includes the number of tanning sessions within the 12 month period of time the parent is authorizing for the minor.
+(5)  The written consent required by Subsection (4) shall be signed and dated each time the minor uses a tanning device at the facility, and shall include at least:
 
-(6)  A violation of this section:
+(a)  information concerning the health risks associated with the use of a tanning device; and
 
-(a)  is a class C misdemeanor; and
+(b)  a statement that:
 
-(b)  may result in the revocation of a permit to do business as a tanning facility.
+(i)  the parent or legal guardian of the minor has read and understood the warnings given by the tanning facility, and consents to the minor's use of a tanning device; and
 
-(7)  This section supercedes any ordinance enacted by the governing body of a political subdivision that imposes restrictions on access to a tanning device by a person younger than age 18 that is not essentially identical to the provisions of this section.
+(ii)  the parent or legal guardian agrees that the minor will use protective eye wear.
+
+(6)  The department shall adopt administrative rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, specifying:
+
+(a)  minimum requirements a tanning facility shall satisfy to obtain a permit under Subsection (2);
+
+(b)  the written information concerning health risks a facility should include in the posted signs required by Subsection (3) and in the consent form required by Subsection (5);
+
+(c)  procedures a tanning facility shall implement to ensure a minor and the minor's parent or legal guardian comply with Subsections (4) and (5), including use of a statewide uniform form:
+
+(i)  for a parent or legal guardian to certify and give consent under Subsection (5); and
+
+(ii)  that clearly identifies the department's seal or other means to indicate that the form is an official form of the department; and
+
+(d)  the size, placement, and content of the sign a tanning facility must post under Subsection (2).
+
+(7) (a)  A violation of this section:
+
+(i)  is a class C misdemeanor; and
+
+(ii)  may result in the revocation of a permit to do business as a tanning facility.
+
+(b)  If a person misrepresents to a tanning facility that the person is 18 years of age or older, the person is guilty of a class C misdemeanor.
+
+(8)  This section supercedes any ordinance enacted by the governing body of a political subdivision that:
+
+(a)  imposes restrictions on access to a tanning device by a person younger than age 18 that is not essentially identical to the provisions of this section; or
+
+(b)  that require the posting of warning signs at the tanning facility that are not essentially identical to the provisions of this section.
 

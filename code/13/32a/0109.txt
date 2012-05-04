@@ -1,4 +1,4 @@
-13-32a-109.   Holding period for articles.
+13-32a-109.   Holding period for articles -- Penalty.
 
 (1) (a)  The pawnbroker may sell any article pawned to the pawnbroker:
 
@@ -44,7 +44,7 @@
 
 (c)  if the article is not returned to the pawn or secondhand business, advise the pawn or secondhand business either in writing or electronically of the specific alternative disposition of the article.
 
-(8)  If the law enforcement agency does not notify the pawn or secondhand business that a hold on an item has expired, the pawn or secondhand business shall send a letter by registered or certified United States mail to the law enforcement agency that ordered the hold and inform the agency that the holding period has expired.  The law enforcement agency shall respond within 30 days by:
+(8)  If the law enforcement agency does not notify the pawn or secondhand business that a hold on an item has expired, the pawn or secondhand business shall send a letter by registered or certified mail to the law enforcement agency that ordered the hold and inform the agency that the holding period has expired.  The law enforcement agency shall respond within 30 days by:
 
 (a)  confirming that the holding period has expired and that the pawn or secondhand business may manage the item as if acquired in the ordinary course of business; or
 
@@ -54,9 +54,11 @@
 
 (a)  personally delivered to the pawn or secondhand business with a signed receipt of delivery;
 
-(b)  delivered to the pawn or secondhand business by registered or certified United States mail; or
+(b)  delivered to the pawn or secondhand business by registered or certified mail; or
 
 (c)  delivered by any other means with the mutual assent of the law enforcement agency and the pawn or secondhand business.
 
 (10)  If the law enforcement agency does not respond within 30 days under Subsection (8), the pawn or secondhand business may manage the item as if acquired in the ordinary course of business.
+
+(11)  A violation of this section is a class B misdemeanor and is also subject to civil penalties under Section 13-32a-110.
 

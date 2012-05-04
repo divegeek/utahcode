@@ -1,4 +1,4 @@
-14-2-1.   Definitions -- Payment bond required -- Right of action -- Attorneys' fees.
+14-2-1.   Definitions -- Payment bond required -- Right of action -- Attorney fees.
 
 (1)  For purposes of this chapter:
 
@@ -28,7 +28,7 @@
 
 (ii)  "Residential construction" includes rental housing.
 
-(2) Before any original commercial contract exceeding $50,000 in amount for the construction, alteration, or repair of any building, structure, or improvement upon land is awarded to any contractor, the owner shall obtain from the contractor a payment bond:
+(2)  Before any original commercial contract exceeding $50,000 in amount for the construction, alteration, or repair of any building, structure, or improvement upon land is awarded to any contractor, the owner shall obtain from the contractor a payment bond:
 
 (a)  complying with Subsection (3); and
 
@@ -42,15 +42,15 @@
 
 (4)  A person shall have a right of action on a payment bond under this chapter for any unpaid amount due that person if that person:
 
-(a) has furnished labor, services, equipment, or material in the prosecution of the work provided for in the commercial contract for which the payment bond is furnished under this chapter; and
+(a)  has furnished labor, services, equipment, or material in the prosecution of the work provided for in the commercial contract for which the payment bond is furnished under this chapter; and
 
-(b) has not been paid in full within 90 days after the last day on which that person:
+(b)  has not been paid in full within 90 days after the last day on which that person:
 
 (i)  performed the labor or service for which a claim is made; or
 
 (ii)  supplied the equipment or material for which the claim is made.
 
-(5) (a)  An action under this section shall be brought in a court of competent jurisdiction in the county where the commercial contract was to be performed and not elsewhere. 
+(5) (a)  An action under this section shall be brought in a court of competent jurisdiction in the county where the commercial contract was to be performed and not elsewhere.
 
 (b)  An action under this section is barred if not commenced within one year after the last day on which the claimant:
 
@@ -60,9 +60,11 @@
 
 (c)  The obligee named in the payment bond need not be joined as a party to an action under this section.
 
-(d)  In any action upon a payment bond under this section, the court may award reasonable attorneys' fees to the prevailing party, which attorneys' fees shall be taxed as costs in the action.
+(d)  In any action upon a payment bond under this section, the court may award reasonable attorney fees to the prevailing party, which attorney fees shall be taxed as costs in the action.
 
 (6)  The payment bond shall be exhibited to any interested person upon request.
 
-(7)  In any suit upon a payment bond under this chapter, the court shall award reasonable attorneys' fees to the prevailing party.
+(7)  In any suit upon a payment bond under this chapter, the court shall award reasonable attorney fees to the prevailing party.
+
+(8)  Unless otherwise specified in a lawful contract between the owner and the person making a claim under this section, the interest rate applicable to the claim is the rate described in Subsection 15-1-1(2).
 

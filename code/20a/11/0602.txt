@@ -8,7 +8,11 @@
 
 (iii)  on August 31; and
 
-(iv)  seven days before the regular general election date.
+(iv)  seven days before:
+
+(A)  the municipal general election; and
+
+(B)  the regular general election date.
 
 (b)  The registered political action committee shall report:
 
@@ -53,4 +57,14 @@
 (ii)  Two or more contributions from the same source that have an aggregate total of more than $50 may not be reported in the aggregate, but shall be reported separately.
 
 (3)  A group or entity may not divide or separate into units, sections, or smaller groups for the purpose of avoiding the financial reporting requirements of this chapter, and substance shall prevail over form in determining the scope or size of a political action committee.
+
+(4) (a)  As used in this Subsection (4), "received" means:
+
+(i)  for a cash contribution, that the cash is given to a political action committee;
+
+(ii)  for a contribution that is a negotiable instrument or check, that the negotiable instrument or check is negotiated; and
+
+(iii)  for any other type of contribution, that any portion of the contribution's benefit inures to the political action committee.
+
+(b)  A political action committee shall report each contribution to the lieutenant governor within 30 days after the contribution is received.
 

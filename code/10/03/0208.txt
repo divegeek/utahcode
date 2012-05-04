@@ -1,4 +1,4 @@
-10-3-208.   Campaign finance statement in municipal election.
+10-3-208.   Campaign finance disclosure in municipal election.
 
 (1)  As used in this section:
 
@@ -8,19 +8,25 @@
 
 (ii)  the day of filing, for a campaign finance statement required to be filed no later than 30 days after a municipal primary or general election.
 
-(b)  "Reporting limit" means:
+(b)  "Reporting limit" means for each calendar year:
 
 (i)  $50; or
 
 (ii)  an amount lower than $50 that is specified in an ordinance of the municipality.
 
-(2) (a) (i)  Each candidate for municipal office who is not eliminated at a municipal primary election shall file with the municipal clerk or recorder a campaign finance statement:
+(2) (a) (i)  Each candidate for municipal office:
+
+(A)  shall deposit a campaign contribution in a separate campaign account in a financial institution; and
+
+(B)  may not deposit or mingle any campaign contributions received into a personal or business account.
+
+(ii)  Each candidate for municipal office who is not eliminated at a municipal primary election shall file with the municipal clerk or recorder a campaign finance statement:
 
 (A)  no later than seven days before the date of the municipal general election; and
 
 (B)  no later than 30 days after the date of the municipal general election.
 
-(ii)  Each candidate for municipal office who is eliminated at a municipal primary election shall file with the municipal clerk or recorder a campaign finance statement no later than 30 days after the date of the municipal primary election.
+(iii)  Each candidate for municipal office who is eliminated at a municipal primary election shall file with the municipal clerk or recorder a campaign finance statement no later than 30 days after the date of the municipal primary election.
 
 (b)  Each campaign finance statement under Subsection (2)(a) shall:
 
@@ -42,7 +48,27 @@
 
 (ii)  report the total amount of all campaign contributions and expenditures if the candidate receives $500 or less in campaign contributions and spends $500 or less on the candidate's campaign.
 
-(3) (a)  A municipality may, by ordinance:
+(3) (a)  As used in this Subsection (3), "account" means an account in a financial institution:
+
+(i)  that is not described in Subsection (2)(a)(i)(A); and
+
+(ii)  into which or from which a person who, as a candidate for an office, other than a municipal office for which the person files a declaration of candidacy or federal office, or as a holder of an office, other than a municipal office for which the person files a declaration of candidacy or federal office, deposits a contribution or makes an expenditure.
+
+(b)  A municipal office candidate shall include on any campaign finance statement filed in accordance with this section:
+
+(i)  a contribution deposited in an account:
+
+(A)  since the last campaign finance statement was filed; or
+
+(B)  that has not been reported under a statute or ordinance that governs the account; or
+
+(ii)  an expenditure made from an account:
+
+(A)  since the last campaign finance statement was filed; or
+
+(B)  that has not been reported under a statute or ordinance that governs the account.
+
+(4) (a)  A municipality may, by ordinance:
 
 (i)  provide a reporting limit lower than $50;
 
@@ -50,13 +76,13 @@
 
 (iii)  impose additional penalties on candidates who fail to comply with the applicable requirements beyond those imposed by this section.
 
-(b)  A candidate for municipal office is subject to the provisions of this section and not the provisions of an ordinance adopted by the municipality under Subsection (3)(a) if:
+(b)  A candidate for municipal office is subject to the provisions of this section and not the provisions of an ordinance adopted by the municipality under Subsection (4)(a) if:
 
 (i)  the municipal ordinance establishes requirements or penalties that differ from those established in this section; and
 
-(ii)  the municipal clerk or recorder fails to notify the candidate of the provisions of the ordinance as required in Subsection (4).
+(ii)  the municipal clerk or recorder fails to notify the candidate of the provisions of the ordinance as required in Subsection (5).
 
-(4)  Each municipal clerk or recorder shall, at the time the candidate for municipal office files a declaration of candidacy, and again 14 days before each municipal general election, notify the candidate in writing of:
+(5)  Each municipal clerk or recorder shall, at the time the candidate for municipal office files a declaration of candidacy, and again 14 days before each municipal general election, notify the candidate in writing of:
 
 (a)  the provisions of statute or municipal ordinance governing the disclosure of campaign contributions and expenditures;
 
@@ -64,7 +90,7 @@
 
 (c)  the penalties that apply for failure to file a timely campaign finance statement, including the statutory provision that requires removal of the candidate's name from the ballot for failure to file the required campaign finance statement when required.
 
-(5)  Notwithstanding any provision of Title 63G, Chapter 2, Government Records Access and Management Act, the municipal clerk or recorder shall:
+(6)  Notwithstanding any provision of Title 63G, Chapter 2, Government Records Access and Management Act, the municipal clerk or recorder shall:
 
 (a)  make each campaign finance statement filed by a candidate available for public inspection and copying no later than one business day after the statement is filed; and
 
@@ -76,7 +102,7 @@
 
 (ii)  submitting a copy of the statement to the lieutenant governor for posting on the website established by the lieutenant governor under Section 20A-11-103 no later than two business days after the statement is filed.
 
-(6) (a)  If a candidate fails to file a campaign finance statement before the municipal general election by the deadline specified in Subsection (2)(a)(i)(A), the municipal clerk or recorder shall inform the appropriate election official who:
+(7) (a)  If a candidate fails to file a campaign finance statement before the municipal general election by the deadline specified in Subsection (2)(a)(ii)(A), the municipal clerk or recorder shall inform the appropriate election official who:
 
 (i)  shall:
 
@@ -86,15 +112,15 @@
 
 (ii)  may not count any votes for that candidate.
 
-(b)  Notwithstanding Subsection (6)(a), a candidate who files a campaign finance statement seven days before a municipal general election is not disqualified if:
+(b)  Notwithstanding Subsection (7)(a), a candidate who files a campaign finance statement seven days before a municipal general election is not disqualified if:
 
 (i)  the statement details accurately and completely the information required under Subsection (2)(b), except for inadvertent omissions or insignificant errors or inaccuracies; and
 
 (ii)  the omissions, errors, or inaccuracies are corrected in an amended report or in the next scheduled report.
 
-(7)  A campaign finance statement required under this section is considered filed if it is received in the municipal clerk or recorder's office by 5 p.m. on the date that is it due.
+(8)  A campaign finance statement required under this section is considered filed if it is received in the municipal clerk or recorder's office by 5 p.m. on the date that is it due.
 
-(8) (a)  A private party in interest may bring a civil action in district court to enforce the provisions of this section or an ordinance adopted under this section.
+(9) (a)  A private party in interest may bring a civil action in district court to enforce the provisions of this section or an ordinance adopted under this section.
 
-(b)  In a civil action under Subsection (8)(a), the court may award costs and attorney's fees to the prevailing party.
+(b)  In a civil action under Subsection (9)(a), the court may award costs and attorney fees to the prevailing party.
 

@@ -2,9 +2,11 @@
 
 (1) (a)  Except as provided in Subsection (1)(b), each member of an administrative control board shall be:
 
-(i)  a registered voter within the special service district; or
+(i)  a registered voter within the special service district;
 
-(ii)  an officer or employee of the county or municipality that created the special service district.
+(ii)  an officer or employee of the county or municipality that created the special service district; or
+
+(iii)  if over 50% of the residences within a special service district are seasonally occupied homes, as defined in Section 17B-1-302, an owner of land, or an agent or officer of an owner of land, that receives services from the special service district and is located within the special service district, provided that the number of members appointed under this Subsection (1)(a)(iii) comprises less than a quorum of the board.
 
 (b)  Subsection (1)(a) does not apply if:
 

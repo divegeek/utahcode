@@ -8,13 +8,13 @@
 
 (c)  in a local political subdivision where there is no newspaper of general circulation, by posting notice of the bond election in at least five public places in the local political subdivision at least 21 days before the election.
 
-(2)  When the debt service on the bonds to be issued will increase the property tax imposed upon the average value of a residence by an amount that is greater than or equal to $15 per year, the governing body shall prepare and mail a voter information pamphlet:
+(2)  When the debt service on the bonds to be issued will increase the property tax imposed upon the average value of a residence by an amount that is greater than or equal to $15 per year, the governing body shall prepare and mail either a voter information pamphlet or a notification described in Subsection (6):
 
-(a)  at least seven days but not more than 30 days before the bond election;
+(a)  at least 15 days but not more than 45 days before the bond election;
 
 (b)  to each household containing a registered voter who is eligible to vote on the bonds; and
 
-(c)  that includes the information required by Subsections (3) and (4). 
+(c)  that includes the information required by Subsections (3) and (4).
 
 (3)  The notice and voter information pamphlet required by this section shall include:
 
@@ -43,4 +43,12 @@
 (vi)  any additional information that the governing body determines may be useful to explain the property tax impact of issuance of the bonds.
 
 (5)  The governing body shall pay the costs associated with the notice required by this section.
+
+(6) (a)  The governing body may mail a notice printed on a postage prepaid, preaddressed return form that a person may use to request delivery of a voter information pamphlet by mail.
+
+(b)  The notice described in Subsection (6)(a) shall include:
+
+(i)  the website upon which the voter information pamphlet is available; and
+
+(ii)  the phone number a voter may call to request delivery of a voter information pamphlet by mail.
 

@@ -6,11 +6,13 @@
 
 (b)  base use charges upon the amount of water or electricity the district provides, the area of the land served, or any other reasonable basis, as determined by the board of trustees.
 
-(2)  If an irrigation district imposes a use charge based on the size of the land served:
+(2)  If an irrigation district imposes a use charge based on the size of the land served or the amount of water allotted to the land:
 
-(a)  the district shall notify the treasurer of the county in which the land is located of the charge to be imposed for each parcel of land served by the district; and
+(a)  the assessor of the county in which the land is located shall assist the irrigation district in ascertaining the identity of a parcel served by the district;
 
-(b)  the treasurer of the county in which the land is located:
+(b)  the district shall notify the treasurer of the county in which the land is located of the charge to be imposed for each parcel of land served by the district; and
+
+(c)  the treasurer of the county in which the land is located:
 
 (i)  shall:
 
@@ -22,5 +24,11 @@
 
 (ii)  may receive and account for use charges separately from taxes upon real estate for county purposes.
 
-(3)  A use charge may not be calculated on the basis of property value and does not constitute an ad valorem property tax or other tax.
+(3) (a)  A use charge described in Subsection (2)(b) shall become a lien on the land served as provided in Section 17B-1-902 except that the certification described in Subsection 17B-1-902(1)(a) is not required.
+
+(b)  A lien described in Subsection (3)(a) shall remain in force until the use charge is paid.
+
+(c)  The county treasurer shall release a lien described in Subsection (3)(a) upon receipt of full payment of the use charge.
+
+(4)  A use charge may not be calculated on the basis of property value and does not constitute an ad valorem property tax or other tax.
 

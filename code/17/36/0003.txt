@@ -12,11 +12,15 @@ As used in this chapter:
 
 (4)  "Budgetary fund" means a fund for which a budget is required, such as those described in Section 17-36-8.
 
-(5)  "Budget officer" means the county auditor, county clerk, or county executive as provided in Subsection 17-19-19(1).
+(5)  "Budget officer" means:
+
+(a)  for a county of the second, third, fourth, fifth, or sixth class, the county auditor, county clerk, or county executive as provided in Subsection 17-19-19(1); or
+
+(b)  for a county of the first class, a person described in Section 17-19a-203.
 
 (6)  "Budget period" means the fiscal period for which a budget is prepared.
 
-(7)  "Check" means an order in a specific amount drawn upon the depositary by any authorized officer in accordance with Section 17-19-3 or 17-24-1.
+(7)  "Check" means an order in a specific amount drawn upon the depositary by any authorized officer in accordance with Section 17-19-3, 17-19a-301, 17-24-1, or 17-24-1.1, as applicable.
 
 (8)  "Countywide service" means a service provided in both incorporated and unincorporated areas of a county.
 
@@ -24,7 +28,7 @@ As used in this chapter:
 
 (10)  "Department" means any functional unit within a fund which carries on a specific activity.
 
-(11)  "Encumbrance system" means a method of budgetary control where part of an appropriation is reserved to cover a specific expenditure by charging obligations, such as purchase orders, contracts, or salary commitments to an appropriation account. An expenditure ceases to be an encumbrance when paid or when the actual liability is entered in the books of account.
+(11)  "Encumbrance system" means a method of budgetary control where part of an appropriation is reserved to cover a specific expenditure by charging obligations, such as purchase orders, contracts, or salary commitments to an appropriation account.  An expenditure ceases to be an encumbrance when paid or when the actual liability is entered in the books of account.
 
 (12)  "Estimated revenue" means any revenue estimated to be received during the budget period in any fund for which a budget is prepared.
 
@@ -48,7 +52,7 @@ As used in this chapter:
 
 (22)  "Municipal service" means a service not provided on a countywide basis and not accounted for in an enterprise fund, and includes police patrol, fire protection, culinary or irrigation water retail service, water conservation, local parks, sewers, sewage treatment and disposal, cemeteries, garbage and refuse collection, street lighting, airports, planning and zoning, local streets and roads, curb, gutter, and sidewalk maintenance, and ambulance service.
 
-(23)  "Retained earnings" means that part of the net earnings retained by an enterprise or  internal service fund which is not segregated or reserved for any specific purpose.
+(23)  "Retained earnings" means that part of the net earnings retained by an enterprise or internal service fund which is not segregated or reserved for any specific purpose.
 
 (24)  "Special fund" means any fund other than the General Fund, such as those described in Section 17-36-6.
 

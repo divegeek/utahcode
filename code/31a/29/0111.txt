@@ -1,4 +1,4 @@
-31A-29-111.   Eligibility -- Limitations.
+31A-29-111 (Superseded 05/01/13).   Eligibility -- Limitations.
 
 (1) (a)  Except as provided in Subsection (1)(b), an individual who is not HIPAA eligible is eligible for pool coverage if the individual:
 
@@ -36,7 +36,7 @@
 
 (viii)  the individual is covered under any other health benefit plan;
 
-(ix)  at the time of application, the individual has not resided in Utah for at least 12 consecutive months preceding the date of application; or
+(ix)  except as provided in Subsections (3) and (6), at the time of application, the individual has not resided in Utah for at least 12 consecutive months preceding the date of application; or
 
 (x)  the individual's employer pays any part of the individual's health benefit plan premium, either as an insured or a dependent, for pool coverage.
 
@@ -70,7 +70,7 @@
 
 (3) (a)  Notwithstanding Subsection (1)(b)(ix), if otherwise eligible under Subsection (1)(a), an individual whose health care insurance coverage from a state high risk pool with similar coverage is terminated because of nonresidency in another state is eligible for coverage under the pool subject to the conditions of Subsections (1)(b)(i) through (viii).
 
-(b)  Coverage sought under Subsection (3)(a) shall be applied for within 63 days after the termination date of the previous high risk pool coverage.
+(b)  Coverage under Subsection (3)(a) shall be applied for within 63 days after the termination date of the previous high risk pool coverage.
 
 (c)  The effective date of this state's pool coverage shall be the date of termination of the previous high risk pool coverage.
 
@@ -93,4 +93,12 @@
 (b)  The board, with approval of the commissioner, may contract with one or more providers under Title 63G, Chapter 6, Utah Procurement Code, to develop underwriting criteria under Subsection (5)(a).
 
 (c)  If an individual is denied coverage by the pool under the criteria established in Subsection (5)(a), the pool shall issue a certificate of insurability to the individual for coverage under Subsection 31A-30-108(3).
+
+(6) (a)  Notwithstanding Subsection (1)(b)(ix), if otherwise eligible under Subsection (1)(a), an individual whose individual health care insurance coverage was involuntarily terminated, is eligible for coverage under the pool subject to the conditions of Subsections (1)(b)(i) through (viii) and (x).
+
+(b)  Coverage under Subsection (6)(a) shall be applied for within 63 days after the termination date of the previous individual health care insurance coverage.
+
+(c)  The effective date of this state's pool coverage shall be the date of termination of the previous individual coverage.
+
+(d)  The waiting period of an individual with a preexisting condition applying for coverage under this chapter shall be waived to the extent to which the waiting period was satisfied under the individual health insurance plan.
 

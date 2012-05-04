@@ -1,20 +1,24 @@
 11-13-301.   Project entity and generation output requirements.
 
-(1)  Each project entity shall:
+(1)  Each project entity:
 
-(a)  before undertaking the construction of a project or of facilities to provide additional project capacity, offer to sell or make available at least 50% of the generation output of or electric energy produced by the project or additional project capacity, respectively;
+(a)  shall:
 
-(b)  establish rules and procedures for an offer under Subsection (1)(a) that provide at least 60 days for a prospective power purchaser to accept the offer before the offer is considered rejected; and
+(i)  except for construction of facilities to provide replacement project capacity, before undertaking the construction of a project and before undertaking the construction of facilities to provide additional project capacity, offer to sell or make available at least 50% of the generation output of or electric energy produced by the project or additional project capacity, respectively;
 
-(c)  make each offer under Subsection (1)(a):
+(ii)  establish rules and procedures for an offer under Subsection (1)(a)(i) that provide at least 60 days for a prospective power purchaser to accept the offer before the offer is considered rejected; and
 
-(i)  under a long-term arrangement that may be an undivided ownership interest, a participation interest, a power sales agreement, or otherwise; and
+(iii)  make each offer under Subsection (1)(a)(i):
 
-(ii)  to one or more power purchasers in the state that supply electric energy at wholesale or retail.
+(A)  under a long-term arrangement that may be an undivided ownership interest, a participation interest, a power sales agreement, or otherwise; and
+
+(B)  to one or more power purchasers in the state that supply electric energy at wholesale or retail; and
+
+(b)  may undertake construction of facilities to provide replacement project capacity for its project.
 
 (2) (a)  The generation output or electric energy production available to power purchasers in the state from a project shall be at least 5% of the total generation output or electric energy production of the project.
 
-(b) (i)  Subject to Subsection (2)(b)(ii), at least a majority of the generation capacity, generation output, or electric energy production facilities providing additional project capacity shall be:
+(b) (i)  Subject to Subsection (2)(b)(ii)(B), at least a majority of the generation capacity, generation output, or electric energy production facilities providing additional project capacity shall be:
 
 (A)  made available as needed to meet the estimated electric requirements of entities or consumers within the state; and
 

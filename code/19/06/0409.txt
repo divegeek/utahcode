@@ -14,7 +14,7 @@
 
 (c)  Interest earned on fund money is deposited into the fund.
 
-(2)  The executive secretary may expend money from the fund to pay costs:
+(2)  The director may expend money from the fund to pay costs:
 
 (a)  covered by the fund under Section 19-6-419;
 
@@ -26,7 +26,7 @@
 
 (c)  incurred by the state for a legal service or claim adjusting service provided in connection with a claim, judgment, award, or settlement for bodily injury or property damage to a third party;
 
-(d)  incurred by the state risk manager in determining the actuarial soundness of the fund;
+(d)  incurred by the executive director in determining the actuarial soundness of the fund;
 
 (e)  incurred by a third party claiming injury or damages from a release reported on or after May 11, 2010, for hiring a certified underground storage tank consultant:
 
@@ -38,7 +38,7 @@
 
 (3)  Costs for the administration of the fund and the environmental assurance fee shall be appropriated by the Legislature.
 
-(4)  The executive secretary shall:
+(4)  The director shall:
 
 (a)  in paying costs under Subsection (2)(e):
 

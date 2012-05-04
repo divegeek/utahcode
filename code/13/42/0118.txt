@@ -16,9 +16,9 @@
 
 (b)  the individual is able to see before proceeding to assent to formation of an agreement.
 
-(5)  At the time of providing the materials and agreement required by Subsections 13-42-117(3) and (4), Section 13-42-119, and Section 13-42-127, a provider shall inform the individual that upon electronic, telephonic, or written request, it will send the individual a written copy of the materials, and shall comply with a request as provided in Subsection (6).
+(5)  At the time of providing the materials and agreement required by Subsections 13-42-117(3) and (4), Section 13-42-119, and Section 13-42-127, a provider shall inform the individual that on electronic, telephonic, or written request, it will send the individual a written copy of the materials, and shall comply with a request as provided in Subsection (6).
 
-(6)  If a provider is requested, before the expiration of 90 days after an agreement is completed or terminated, to send a written copy of the materials required by Subsections 13-42-117(3) and (4), Section 13-42-119, or Section 13-42-127, the provider shall send them at no charge within three business days after the request, but the provider need not comply with a request more than once per calendar month or if it reasonably believes the request is made for purposes of harassment.  If a request is made more than 90 days after an agreement is completed or terminated, the provider shall send within a reasonable time a written copy of the materials requested.
+(6)  If a provider is requested, before the expiration of 90 days after an agreement is completed or terminated, to send a written copy of the materials required by Subsections 13-42-117(3) and (4), Section 13-42-119, or Section 13-42-127, the provider shall send them at no charge no later than three business days after the request, but the provider need not comply with a request more than once per calendar month or if it reasonably believes the request is made for purposes of harassment.  If a request is made more than 90 days after an agreement is completed or terminated, the provider shall send within a reasonable time a written copy of the materials requested.
 
 (7)  A provider that maintains an Internet website shall disclose on the home page of its website or on a page that is clearly and conspicuously connected to the home page by a link that clearly reveals its contents:
 
@@ -30,5 +30,5 @@
 
 (8)  Subject to Subsection (9), if a consumer who has consented to electronic communication in the manner provided by Section 101 of the federal act withdraws consent as provided in the federal act, a provider may terminate its agreement with the consumer.
 
-(9)  If a provider wishes to terminate an agreement with a consumer pursuant to Subsection (8), it shall notify the consumer that it will terminate the agreement unless the consumer, within 30 days after receiving the notification, consents to electronic communication in the manner provided in Section 101(c) of the federal act.  If the consumer consents, the provider may terminate the agreement only as permitted by Subsection 13-42-119(1)(f)(vii).
+(9)  If a provider wishes to terminate an agreement with a consumer pursuant to Subsection (8), it shall notify the consumer that it will terminate the agreement unless the consumer, no later than 30 days after receiving the notification, consents to electronic communication in the manner provided in Section 101(c) of the federal act.  If the consumer consents, the provider may terminate the agreement only as permitted by Subsection 13-42-119(1)(f)(iv)(D).
 

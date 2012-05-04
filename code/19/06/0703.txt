@@ -6,21 +6,21 @@
 
 (3)  "Department" means the Department of Environmental Quality created in Title 19, Chapter 1, General Provisions.
 
-(4)  "Division" means the Division of Solid and Hazardous Waste as created in Section 19-1-105.
+(4)  "Director" means the director of the Division of Solid and Hazardous Waste.
 
-(5)  "DIY" means do it yourself.
+(5)  "Division" means the Division of Solid and Hazardous Waste, created in Subsection 19-1-105(1)(e).
 
-(6)  "DIYer" means a person who generates used oil through household activities, including maintenance of personal vehicles.
+(6)  "DIY" means do it yourself.
 
-(7)  "DIYer used oil" means used oil a person generates through household activities, including maintenance of personal vehicles.
+(7)  "DIYer" means a person who generates used oil through household activities, including maintenance of personal vehicles.
 
-(8)  "DIYer used oil collection center" means any site or facility that accepts or aggregates and stores used oil collected only from DIYers.
+(8)  "DIYer used oil" means used oil a person generates through household activities, including maintenance of personal vehicles.
 
-(9)  "Executive secretary" means the executive secretary of the board.
+(9)  "DIYer used oil collection center" means any site or facility that accepts or aggregates and stores used oil collected only from DIYers.
 
 (10)  "Hazardous waste" means any substance defined as hazardous waste under Title 19, Chapter 6, Hazardous Substances.
 
-(11)  "Lubricating oil" means the fraction of crude oil or synthetic oil used to reduce friction in an industrial or mechanical device. Lubricating oil includes rerefined oil.
+(11)  "Lubricating oil" means the fraction of crude oil or synthetic oil used to reduce friction in an industrial or mechanical device.  Lubricating oil includes rerefined oil.
 
 (12)  "Lubricating oil vendor" means the person making the first sale of a lubricating oil in Utah.
 
@@ -58,7 +58,7 @@
 
 (b)  used oil processed or burned for energy recovery.
 
-(18)  "Rerefining distillation bottoms" means the heavy fraction produced by vacuum distillation of filtered and dehydrated used oil. The composition varies with column operation and feedstock.
+(18)  "Rerefining distillation bottoms" means the heavy fraction produced by vacuum distillation of filtered and dehydrated used oil.  The composition varies with column operation and feedstock.
 
 (19)  "Used oil" means any oil, refined from crude oil or a synthetic oil, that has been used and as a result of that use is contaminated by physical or chemical impurities.
 
@@ -68,7 +68,7 @@
 
 (21)  "Used oil burner" means a person who burns used oil for energy recovery.
 
-(22)  "Used oil collection center" means any site or facility registered with the state to manage used oil and that accepts or aggregates and stores used oil collected from used oil generators, other than DIYers, who are regulated under this part and bring used oil to the collection center in shipments of no more than 55 gallons and under the provisions of this part. Used oil collection centers may accept DIYer used oil also.
+(22)  "Used oil collection center" means any site or facility registered with the state to manage used oil and that accepts or aggregates and stores used oil collected from used oil generators, other than DIYers, who are regulated under this part and bring used oil to the collection center in shipments of no more than 55 gallons and under the provisions of this part.  Used oil collection centers may accept DIYer used oil also.
 
 (23)  "Used oil fuel marketer" means any person who:
 

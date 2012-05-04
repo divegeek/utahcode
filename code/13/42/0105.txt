@@ -8,7 +8,7 @@
 
 (b)  the bond required by Section 13-42-113;
 
-(c)  identification of all trust accounts required by Section 13-42-122 and an irrevocable consent authorizing the administrator to review and examine the trust accounts;
+(c)  identification of all trust accounts subject to Section 13-42-122 and an irrevocable consent authorizing the administrator to review and examine the trust accounts;
 
 (d)  evidence of insurance in the amount of $250,000:
 
@@ -18,7 +18,7 @@
 
 (iii)  with a deductible not exceeding $5,000;
 
-(iv)  payable for the benefit of the applicant, this state, and individuals who are residents of this state, as their interests may appear; and
+(iv)  payable to the applicant and this state for the benefit of the residents of this state, as their interests may appear; and
 
 (v)  not subject to cancellation by the applicant or the insurer until 60 days after written notice has been given to the administrator;
 
@@ -28,9 +28,9 @@
 
 (ii)  the appointment of the administrator as agent of the provider for purposes of service of process; and
 
-(f)  if the applicant is organized as a not-for-profit entity or is exempt from taxation, evidence of not-for-profit and tax-exempt status applicable to the applicant under the Internal Revenue Code, 26 U.S.C. Section 501.
+(f)  if the applicant is organized as a not-for-profit entity or has obtained tax exempt status under the Internal Revenue Code, 26 U.S.C. Sec. 501, evidence of not-for-profit or tax-exempt status, or both.
 
-(3) (a)  The administrator may waive or reduce the insurance requirement in Subsection 13-42-105(2)(d) if the provider does not:
+(3) (a)  The administrator may waive or reduce the insurance requirement in Subsection (2)(d) if the provider does not:
 
 (i)  maintain control of a trust account or receive money paid by an individual pursuant to a plan for distribution to creditors;
 

@@ -22,7 +22,7 @@
 
 (i)  a list of all candidates for each office;
 
-(ii)  if submitted by the candidate to the election official's office on or before August 20 at 5 p.m.:
+(ii)  if submitted by the candidate to the election official's office at 5 p.m. at least 45 days before the primary election and 60 days before the general election:
 
 (A)  a statement of qualifications, not exceeding 200 words in length, for each candidate;
 
@@ -100,7 +100,5 @@
 
 (viii)  what judges are up for retention election.
 
-(7)  By not later than March 1, 2008, the lieutenant governor shall have the Statewide Electronic Voter Information Website Program ready for use in the next election in accordance with this section.
-
-(8)  As resources are made available and in cooperation with the county clerks, the lieutenant governor may expand the electronic voter information website program to include the same information as provided under this section for special elections and primary elections.
+(7)  As resources are made available and in cooperation with the county clerks, the lieutenant governor may expand the electronic voter information website program to include the same information as provided under this section for special elections and primary elections.
 

@@ -4,9 +4,9 @@
 
 (i)  a producer;
 
-(ii)  a limited line producer;
+(ii)  a surplus lines producer;
 
-(iii)  a customer service representative;
+(iii)  a limited line producer;
 
 (iv)  a consultant;
 
@@ -40,7 +40,7 @@
 
 (B)  holds an active similar license in that person's state of residence;
 
-(ix)  if an applicant for a title insurance producer license, satisfies the requirements of Sections 31A-23a-203 and 31A-23a-204;
+(ix)  if an applicant for a title insurance producer license, satisfies the requirements of Section 31A-23a-204;
 
 (x)  if an applicant for a license to act as a life settlement provider or life settlement producer, satisfies the requirements of Section 31A-23a-117; and
 
@@ -52,9 +52,9 @@
 
 (A)  individual or agency producer license;
 
-(B)  limited line producer license;
+(B)  surplus lines producer license;
 
-(C)  customer service representative license;
+(C)  limited line producer license;
 
 (D)  consultant license;
 
@@ -66,9 +66,9 @@
 
 (A)  individual or agency producer;
 
-(B)  limited line producer;
+(B)  surplus lines producer;
 
-(C)  customer service representative;
+(C)  limited line producer;
 
 (D)  consultant;
 
@@ -78,7 +78,7 @@
 
 (b)  A person described in Subsection (2)(a) shall report to the commissioner:
 
-(i)  an administrative action taken against the person:
+(i)  an administrative action taken against the person, including a denial of a new or renewal license application:
 
 (A)  in another jurisdiction; or
 
@@ -124,7 +124,7 @@
 
 (ii)  determining if a person has failed to maintain the character requirements under Section 31A-23a-107; and
 
-(iii)  preventing a person who violates the federal Violent Crime Control and Law Enforcement Act of 1994, 18 U.S.C. Sec. 1033 and 1034, from engaging in the business of insurance in the state.
+(iii)  preventing a person who violates the federal Violent Crime Control and Law Enforcement Act of 1994, 18 U.S.C. Sec. 1033, from engaging in the business of insurance in the state.
 
 (e)  If the department requests the criminal background information, the department shall:
 
@@ -138,9 +138,9 @@
 
 (a)  insurance producer;
 
-(b)  limited line producer;
+(b)  surplus lines producer;
 
-(c)  customer service representative;
+(c)  limited line producer;
 
 (d)  consultant;
 
@@ -158,9 +158,9 @@
 
 (i)  producer;
 
-(ii)  limited line producer;
+(ii)  surplus lines producer;
 
-(iii)  customer service representative;
+(iii)  limited line producer;
 
 (iv)  consultant;
 

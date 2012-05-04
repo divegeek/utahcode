@@ -22,19 +22,33 @@
 
 (ii)  inpatient hospital access payments as determined by dividing the remaining spending room available in the current year UPL, after offsetting the payments authorized under Subsection (3)(a)(i) by the total 2008 Medicaid inpatient hospital payments, multiplied by the hospital's Medicaid inpatient payments for state fiscal year 2008, exclusive of medical education and Medicaid disproportionate share payments;
 
-(b)  for state fiscal year 2012, using state fiscal year 2009 paid Medicaid inpatient claims data; and
+(b)  for state fiscal year 2012:
 
-(c)  for state fiscal year 2013, using state fiscal year 2010 paid Medicaid inpatient claims data.
+(i)  the amount of $825 per Medicaid fee for service day, to a hospital that:
 
-(4)  For both state fiscal years 2012 and 2013, the division shall submit adjustments to the payment rates in Subsection (3)(a) to the Hospital Policy Review Board for their review.
+(A)  is not a specialty hospital; and
 
-(5)  Medicaid inpatient hospital access payments shall be made:
+(B)  has less than 300 select access inpatient cases during the state fiscal year 2008; and
+
+(ii)  inpatient hospital access payments as determined by dividing the remaining spending room available in the current year upper payment limit, after offsetting the payments authorized under Subsection (3)(a)(i), by the total 2009 Medicaid inpatient hospital payments, multiplied by the hospital's Medicaid inpatient payments for state fiscal year 2009; and
+
+(c)  for state fiscal year 2013:
+
+(i)  the amount of $825 per Medicaid fee for service day, to a hospital that:
+
+(A)  is not a specialty hospital; and
+
+(B)  has less than 300 select access inpatient cases during the state fiscal year 2008; and
+
+(ii)  inpatient hospital access payments as determined by dividing the remaining spending room available in the current year upper payment limit, after offsetting the payments authorized under Subsection (3)(a)(i), by the total 2010 Medicaid inpatient hospital payments, multiplied by the hospital's Medicaid inpatient payments for state fiscal year 2010.
+
+(4)  Medicaid inpatient hospital access payments shall be made:
 
 (a)  on a quarterly basis for inpatient hospital services furnished to Medicaid individuals during each quarter; and
 
 (b)  within 15 days after the end of each quarter.
 
-(6)  A hospital's Medicaid inpatient access payment shall not be used to offset any other payment by Medicaid for hospital inpatient or outpatient services to Medicaid beneficiaries, including a:
+(5)  A hospital's Medicaid inpatient access payment shall not be used to offset any other payment by Medicaid for hospital inpatient or outpatient services to Medicaid beneficiaries, including a:
 
 (a)  fee-for-service payment;
 
@@ -43,6 +57,8 @@
 (c)  hospital inpatient adjustment; or
 
 (d)  cost settlement payment.
+
+(6)  When the division obtains approval from the Centers for Medicare and Medicaid Services for the Medicaid Waiver - Accountable Care Organizations, and has determined the capitated rate for the accountable care organizations, the department shall consult with the Utah Hospitals Association to develop an alternative supplemental payment methodology that can be approved by the Centers for Medicare and Medicaid Services.
 
 (7)  A hospital shall not be guaranteed that the hospital's Medicaid inpatient hospital access payments will equal or exceed the amount of the hospital's assessment.
 

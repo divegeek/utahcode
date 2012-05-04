@@ -2,13 +2,13 @@
 
 (1)  Within 60 days of receipt of a certified request under Subsection 10-2-105(1)(b)(i), the county legislative body shall engage the feasibility consultant chosen under Subsection (2) to conduct a feasibility study.
 
-(2)  The feasibility consultant shall be chosen by a majority vote of a selection committee consisting of:
+(2)  The feasibility consultant shall be chosen:
 
-(a)  a person designated by the county legislative body;
+(a) (i)  by the contact sponsor of the incorporation petition with the consent of the county; or
 
-(b)  a person designated by the sponsors of the request for a feasibility study; and
+(ii)  by the county if the designated sponsors state, in writing, that the contact sponsor defers selection of the feasibility consultant to the county; and
 
-(c)  a person designated by the governor.
+(b)  in accordance with applicable county procurement procedures.
 
 (3)  The county legislative body shall require the feasibility consultant to:
 
@@ -20,69 +20,71 @@
 
 (4) (a)  The feasibility study shall consider:
 
-(i)  the population and population density within the area proposed for incorporation and the surrounding area;
+(i)  population and population density within the area proposed for incorporation and the surrounding area;
 
-(ii)  the history, geography, geology, and topography of and natural boundaries within the area proposed to be incorporated and the surrounding area;
+(ii)  current and five-year projections of demographics and economic base in the proposed city and surrounding area, including household size and income, commercial and industrial development, and public facilities;
 
-(iii)  whether the proposed boundaries eliminate or create an unincorporated island or peninsula;
+(iii)  projected growth in the proposed city and in adjacent areas during the next five years;
 
-(iv)  whether the proposed incorporation will hinder or prevent a future and more logical and beneficial incorporation or a future logical and beneficial annexation;
+(iv)  subject to Subsection (4)(b), the present and five-year projections of the cost, including overhead, of governmental services in the proposed city, including:
 
-(v)  the fiscal impact on unincorporated areas, other municipalities, local districts, special service districts, and other governmental entities in the county;
+(A)  culinary water;
 
-(vi)  current and five-year projections of demographics and economic base in the proposed city and surrounding area, including household size and income, commercial and industrial development, and public facilities;
+(B)  secondary water;
 
-(vii)  projected growth in the proposed city and in adjacent areas during the next five years;
+(C)  sewer;
 
-(viii)  subject to Subsection (4)(c), the present and five-year projections of the cost, including overhead, of governmental services in the proposed city;
+(D)  law enforcement;
 
-(ix)  the present and five-year projected revenue for the proposed city;
+(E)  fire protection;
 
-(x)  the projected impact the incorporation will have over the following five years on the amount of taxes that property owners within the proposed city and in the remaining unincorporated county will pay;
+(F)  roads and public works;
 
-(xi)  past expansion in terms of population and construction in the proposed city and the surrounding area;
+(G)  garbage;
 
-(xii)  the extension of the boundaries of other nearby municipalities during the past 10 years, the willingness of those municipalities to annex the area proposed for incorporation, and the probability that those municipalities would annex territory within the area proposed for incorporation within the next five years except for the incorporation; and
+(H)  weeds; and
 
-(xiii)  whether the legislative body of the county in which the area proposed to be incorporated favors the incorporation proposal.
+(I)  government offices;
 
-(b)  For purposes of Subsection (4)(a)(ix), the feasibility consultant shall assume ad valorem property tax rates on residential property within the proposed city at the same level at which they would have been without the incorporation.
+(v)  assuming the same tax categories and tax rates as currently imposed by the county and all other current service providers, the present and five-year projected revenue for the proposed city;
 
-(c)  For purposes of Subsection (4)(a)(viii):
+(vi)  a projection of any new taxes per household that may be levied within the incorporated area within five years of incorporation; and
 
-(i)  the feasibility consultant shall assume a level and quality of governmental services to be provided to the proposed city in the future that fairly and reasonably approximate the level and quality of governmental services being provided to the proposed city at the time of the feasibility study;
+(vii)  the fiscal impact on unincorporated areas, other municipalities, local districts, special service districts, and other governmental entities in the county.
 
-(ii)  in determining the present cost of a governmental service, the feasibility consultant shall consider:
+(b) (i)  For purposes of Subsection (4)(a)(iv), the feasibility consultant shall assume a level and quality of governmental services to be provided to the proposed city in the future that fairly and reasonably approximate the level and quality of governmental services being provided to the proposed city at the time of the feasibility study.
 
-(A)  the amount it would cost the proposed city itself to provide the service after incorporation;
+(ii)  In determining the present cost of a governmental service, the feasibility consultant shall consider:
 
-(B)  if the county is currently providing the service to the proposed city, the county's cost of providing the service; and
+(A)  the amount it would cost the proposed city to provide governmental service for the first five years after incorporation; and
 
-(C)  if the county is not currently providing the service to the proposed city, the amount the proposed city can reasonably expect to pay for the service under a contract for the service; and
+(B)  the county's present and five-year projected cost of providing governmental service.
 
-(iii)  the five-year projected cost of a governmental service shall be based on the amount calculated under Subsection (4)(c)(ii), taking into account inflation and anticipated growth.
+(iii)  The costs calculated under Subsection (4)(a)(iv), shall take into account inflation and anticipated growth.
 
-(5)  If the results of the feasibility study or revised feasibility study do not meet the requirements of Subsection 10-2-109(3), the feasibility consultant shall, as part of the feasibility study or revised feasibility study and if requested by the sponsors of the request, make recommendations as to how the boundaries of the proposed city may be altered so that the requirements of Subsection 10-2-109(3) may be met.
+(5)  If the five year projected revenues under Subsection (4)(a)(v) exceed the five year projected costs under Subsection (4)(a)(iv) by more than 5%, the feasibility consultant shall project and report the expected annual revenue surplus to the contact sponsor and the lieutenant governor.
 
-(6) (a)  For purposes of this Subsection (6), "pending" means that the process to incorporate an unincorporated area has been initiated by the filing of a request for feasibility study under Section 10-2-103 but that, as of the date this Subsection (6) becomes effective, a petition under Section 10-2-109 has not yet been filed.
+(6)  If the results of the feasibility study or revised feasibility study do not meet the requirements of Subsection 10-2-109(3), the feasibility consultant shall, as part of the feasibility study or revised feasibility study and if requested by the sponsors of the request, make recommendations as to how the boundaries of the proposed city may be altered so that the requirements of Subsection 10-2-109(3) may be met.
 
-(b)  The amendments to Subsection (4) that become effective upon the effective date of this Subsection (6):
+(7) (a)  For purposes of this Subsection (7), "pending" means that the process to incorporate an unincorporated area has been initiated by the filing of a request for feasibility study under Section 10-2-103 but that, as of May 8, 2012, a petition under Section 10-2-109 has not yet been filed.
+
+(b)  The amendments to Subsection (4) that become effective upon the effective date of this Subsection (7):
 
 (i)  apply to each pending proceeding proposing the incorporation of an unincorporated area; and
 
 (ii)  do not apply to a municipal incorporation proceeding under this part in which a petition under Section 10-2-109 has been filed.
 
-(c) (i)  If, in a pending incorporation proceeding, the feasibility consultant has, as of the effective date of this Subsection (6), already completed the feasibility study, the county legislative body shall, within 20 days after the effective date of this Subsection (6) and except as provided in Subsection (6)(c)(iii), engage the feasibility consultant to revise the feasibility study to take into account the amendments to Subsection (4) that became effective on the effective date of this Subsection (6).
+(c) (i)  If, in a pending incorporation proceeding, the feasibility consultant has, as of May 8, 2012, already completed the feasibility study, the county legislative body shall, within 20 days after the effective date of this Subsection (7) and except as provided in Subsection (7)(c)(iii), engage the feasibility consultant to revise the feasibility study to take into account the amendments to Subsection (4) that became effective on the effective date of this Subsection (7).
 
-(ii)  Except as provided in Subsection (6)(c)(iii), the county legislative body shall require the feasibility consultant to complete the revised feasibility study under Subsection (6)(c)(i) within 20 days after being engaged to do so.
+(ii)  Except as provided in Subsection (7)(c)(iii), the county legislative body shall require the feasibility consultant to complete the revised feasibility study under Subsection (7)(c)(i) within 20 days after being engaged to do so.
 
-(iii)  Notwithstanding Subsections (6)(c)(i) and (ii), a county legislative body is not required to engage the feasibility consultant to revise the feasibility study if, within 15 days after the effective date of this Subsection (6), the request sponsors file with the county clerk a written withdrawal of the request signed by all the request sponsors.
+(iii)  Notwithstanding Subsections (7)(c)(i) and (ii), a county legislative body is not required to engage the feasibility consultant to revise the feasibility study if, within 15 days after the effective date of this Subsection (7), the request sponsors file with the county clerk a written withdrawal of the request signed by all the request sponsors.
 
-(d)  All provisions of this part that set forth the incorporation process following the completion of a feasibility study shall apply with equal force following the completion of a revised feasibility study under this Subsection (6), except that, if a petition under Section 10-2-109 has already been filed based on the feasibility study that is revised under this Subsection (6):
+(d)  All provisions of this part that set forth the incorporation process following the completion of a feasibility study shall apply with equal force following the completion of a revised feasibility study under this Subsection (7), except that, if a petition under Section 10-2-109 has already been filed based on the feasibility study that is revised under this Subsection (7):
 
 (i)  the notice required by Section 10-2-108 for the revised feasibility study shall include a statement informing signers of the petition of their right to withdraw their signatures from the petition and of the process and deadline for withdrawing a signature from the petition;
 
-(ii)  a signer of the petition may withdraw the signer's signature by filing with the county clerk a written withdrawal within 30 days after the final notice under Subsection 10-2-108(2) has been given with respect to the revised feasibility study; and
+(ii)  a signer of the petition may withdraw the signer's signature by filing with the county clerk a written withdrawal within 30 days after the final notice under Subsection 10-2-108(3) has been given with respect to the revised feasibility study; and
 
 (iii)  unless withdrawn, a signature on the petition may be used toward fulfilling the signature requirements under Subsection 10-2-109(2)(a) for a petition based on the revised feasibility study.
 

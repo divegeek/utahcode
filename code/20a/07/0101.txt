@@ -4,7 +4,9 @@ As used in this chapter:
 
 (1)  "Budget officer" means:
 
-(a)  for a county, the person designated as budget officer in Section 17-19-19;
+(a) (i)  for a county of the first class, the person designated as budget officer in Section 17-19a-203; or
+
+(ii)  for a county not described in Subsection (1)(a)(i), a person designated as budget officer in Section 17-19-19;
 
 (b)  for a city, the person designated as budget officer in Subsection 10-6-106(5); or
 
@@ -44,7 +46,7 @@ As used in this chapter:
 
 (13)  "Local legislative body" means the legislative body of a county, city, or town.
 
-(14)  "Local obligation law" means a local law passed by the local legislative body regarding the issuance of a bond, note, lease, finance agreement, or other similar obligation.
+(14)  "Local obligation law" means a local law passed by the local legislative body regarding a bond that was approved by a majority of qualified voters in an election.
 
 (15)  "Measure" means a proposed constitutional amendment, an initiative, or referendum.
 

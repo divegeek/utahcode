@@ -1,4 +1,4 @@
-16-10a-401 (Superseded 07/01/12).   Corporate name.
+16-10a-401.   Corporate name.
 
 (1)  The name of a corporation:
 
@@ -102,15 +102,13 @@
 
 (F)  "limited";
 
-(G)  "ltd.";
+(G)  "limited liability company";
 
-(H)  "limited liability company";
+(H)  "limited company";
 
-(I)  "limited company";
+(I)  "L.C."; or
 
-(J)  "L.C."; or
-
-(K)  "L.L.C.";
+(J)  "L.L.C.";
 
 (ii)  the presence or absence of the words or symbols of the words "the," "and," or "a";
 

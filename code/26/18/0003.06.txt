@@ -18,7 +18,7 @@
 
 (iv)  the amount transferred by court order under Subsection (11)(c).
 
-(d)  "Excess shelter allowance" for a community spouse means the amount by which the sum of the spouse's expense for rent or mortgage payment, taxes, and insurance, and in the case of condominium or cooperative, required maintenance charge, for the community spouse's principal residence and the spouse's actual expenses for electricity, natural gas, and water utilities or, at the discretion of the department, the federal food stamp standard utility allowance, exceeds 30% of the amount described in Subsection (9).
+(d)  "Excess shelter allowance" for a community spouse means the amount by which the sum of the spouse's expense for rent or mortgage payment, taxes, and insurance, and in the case of condominium or cooperative, required maintenance charge, for the community spouse's principal residence and the spouse's actual expenses for electricity, natural gas, and water utilities or, at the discretion of the department, the federal standard utility allowance under SNAP as defined in Section 35A-1-102, exceeds 30% of the amount described in Subsection (9).
 
 (e)  "Family member" means a minor dependent child, dependent parents, or dependent sibling of the institutionalized spouse or community spouse who are residing with the community spouse.
 
@@ -100,5 +100,5 @@
 
 (b)  The transfer under Subsection (12)(a) shall be made as soon as practicable after the date of the initial determination of eligibility, taking into account the time necessary to obtain a court order under Subsection (12)(c).
 
-(c)  Title 26, Chapter 19, Medical Benefits Recovery Act, does not apply if a court has entered an order against an institutionalized spouse for the support of the community spouse.
+(c) Chapter 19, Medical Benefits Recovery Act, does not apply if a court has entered an order against an institutionalized spouse for the support of the community spouse.
 

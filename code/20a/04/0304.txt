@@ -42,9 +42,11 @@
 
 (B)  the number of votes for and against each ballot proposition;
 
-(vi)  the total number of votes given in the board's jurisdiction to each candidate, and for and against each ballot proposition; and
+(vi)  the total number of votes given in the board's jurisdiction to each candidate, and for and against each ballot proposition;
 
-(vii)  a statement certifying that the information contained in the report is accurate.
+(vii)  the number of ballots that were rejected; and
+
+(viii)  a statement certifying that the information contained in the report is accurate.
 
 (b)  The election officer and the board of canvassers shall:
 

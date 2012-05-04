@@ -1,6 +1,8 @@
 10-2-111.   Incorporation election.
 
-(1)  At the next special election date under Section 20A-1-204 more than 45 days after the county legislative body's receipt of the certified petition or certified modified petition under Subsection 10-2-110(1)(b)(i), the county legislative body shall hold an election on the proposed incorporation.
+(1) (a)  At the next regular general election date under Section 20A-1-201 more than 60 days after the county legislative body's receipt of the certified petition or certified modified petition under Subsection 10-2-110(1)(b)(i), the county legislative body shall hold an election on the proposed incorporation.
+
+(b)  Unless a person is a registered voter who resides, as defined in Section 20A-1-102, within the boundaries of the proposed city, the person may not vote on the proposed incorporation.
 
 (2) (a)  The county clerk shall publish notice of the election:
 
@@ -23,4 +25,6 @@
 (d) (i) In accordance with Subsection (2)(a)(i), if there is no newspaper of general circulation within the proposed city, the county clerk shall post at least one notice of the election per 1,000 population in conspicuous places within the proposed city that are most likely to give notice of the election to the voters of the proposed city.
 
 (ii)  The clerk shall post the notices under Subsection (2)(d)(i) at least seven days before the election under Subsection (1).
+
+(3)  If a majority of those casting votes within the area boundaries of the proposed city vote to incorporate as a city, the area shall incorporate.
 

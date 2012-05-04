@@ -4,7 +4,7 @@
 
 (b)  Before acting to fill the vacancy, the municipal legislative body shall:
 
-(i)  give public notice of the vacancy at least two weeks before the municipal legislative body meets to fill the vacancy; and
+(i)  give public notice of the vacancy at least two weeks before the municipal legislative body meets to fill the vacancy;
 
 (ii)  identify, in the notice:
 
@@ -12,7 +12,9 @@
 
 (B)  the person to whom a person interested in being appointed to fill the vacancy may submit the interested person's name for consideration; and
 
-(C)  the deadline for submitting an interested person's name.
+(C)  the deadline for submitting an interested person's name; and
+
+(iii)  in an open meeting, interview each person whose name was submitted for consideration and meets the qualifications for office regarding the person's qualifications.
 
 (c) (i)  If, for any reason, the municipal legislative body does not fill the vacancy within 30 days after the vacancy occurs, the municipal legislative body shall fill the vacancy from among the names that have been submitted.
 
@@ -26,7 +28,11 @@
 
 (ii)  two years of the vacated term will remain after the first Monday of January following the next municipal election.
 
-(b)  In appointing an interim replacement, the municipal legislative body shall comply with the notice requirements of this section.
+(b)  In appointing an interim replacement, the municipal legislative body shall:
+
+(i)  comply with the notice requirements of this section; and
+
+(ii)  in an open meeting, interview each person whose name was submitted for consideration and meets the qualifications for office regarding the person's qualifications.
 
 (3) (a)  In a municipality operating under the council-mayor form of government, as defined in Section 10-3b-102:
 

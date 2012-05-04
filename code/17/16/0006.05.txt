@@ -1,32 +1,50 @@
 17-16-6.5.   Campaign financial disclosure in county elections.
 
-(1) (a)  By January 1, 1996, each county shall adopt an ordinance establishing campaign finance disclosure requirements for candidates for county office.
+(1) (a)  A county shall adopt an ordinance establishing campaign finance disclosure requirements for candidates for county office.
 
-(b)  The ordinance shall include:
+(b)  The ordinance required by Subsection (1)(a) shall include:
 
-(i)  a requirement that each candidate for county office report his itemized and total campaign contributions and expenditures at least once within the two weeks before the election and at least once within two months after the election;
+(i)  a requirement that each candidate for county office report the candidate's itemized and total campaign contributions and expenditures at least once within the two weeks before the election and at least once within two months after the election;
 
-(ii)  a definition of "contribution" and "expenditure" that requires reporting of nonmonetary contributions such as in-kind contributions and contributions of tangible things; and
+(ii)  a definition of "contribution" and "expenditure" that requires reporting of nonmonetary contributions such as in-kind contributions and contributions of tangible things; 
 
 (iii)  a requirement that the financial reports identify:
 
 (A)  for each contribution of more than $50, the name of the donor of the contribution and the amount of the contribution; and
 
-(B)  for each expenditure, the name of the recipient and the amount of the expenditure.
+(B)  for each expenditure, the name of the recipient and the amount of the expenditure;
 
-(2) (a)  Except as provided in Subsection (2)(b), if any county fails to adopt a campaign finance disclosure ordinance by January 1, 1996, candidates for county office shall comply with the financial reporting requirements contained in Subsections (3) through (6).
+(iv)  a requirement that a candidate for county office deposit a contribution in a separate campaign account in a financial institution; and
 
-(b)  If, after August 1, 1995, any county adopts a campaign finance ordinance meeting the requirements of Subsection (1), that county need not comply with the requirements of Subsections (3) through (6).
+(v)  a prohibition against a candidate for county office depositing or mingling any contributions received into a personal or business account.
 
-(3) (a)  Except as provided in Subsection (3)(b), and if there is no county ordinance meeting the requirements of this section, each candidate for elective office in any county who is not required to submit a campaign financial statement to the lieutenant governor shall file a signed campaign financial statement with the county clerk:
+(c) (i)  As used in this Subsection (1)(c), "account" means an account in a financial institution:
 
-(i)  seven days before the date of the regular general election, reporting each contribution of more than $50 and each expenditure as of 10 days before the date of the regular general election; and
+(A)  that is not described in Subsection (1)(b)(iv); and
 
-(ii)  no later than 30 days after the date of the regular general election.
+(B)  into which or from which a person who, as a candidate for an office, other than a county office for which the person files a declaration of candidacy or federal office, or as a holder of an office, other than a county office for which the person files a declaration of candidacy or federal office, deposits a contribution or makes an expenditure.
 
-(b)  Candidates for community council offices are exempt from the requirements of this section.
+(ii)  The ordinance required by Subsection (1)(a) shall include a requirement that a candidate for county office include on a financial report filed in accordance with the ordinance a contribution deposited in or an expenditure made from an account:
 
-(4) (a)  The statement filed seven days before the regular general election shall include:
+(A)  since the last financial report was filed; or
+
+(B)  that has not been reported under a statute or ordinance that governs the account.
+
+(2)  If any county fails to adopt a campaign finance disclosure ordinance described in Subsection (1), candidates for county office, other than community council office, shall comply with the financial reporting requirements contained in Subsections (3) through (7).
+
+(3)  A candidate for elective office in a county:
+
+(a)  shall deposit a contribution in a separate campaign account in a financial institution; and
+
+(b)  may not deposit or mingle any contributions received into a personal or business account.
+
+(4)  Each candidate for elective office in any county who is not required to submit a campaign financial statement to the lieutenant governor shall file a signed campaign financial statement with the county clerk:
+
+(a)  seven days before the date of the regular general election, reporting each contribution of more than $50 and each expenditure as of 10 days before the date of the regular general election; and
+
+(b)  no later than 30 days after the date of the regular general election.
+
+(5) (a)  The statement filed seven days before the regular general election shall include:
 
 (i)  a list of each contribution of more than $50 received by the candidate, and the name of the donor;
 
@@ -42,25 +60,45 @@
 
 (iii)  a list of all expenditures for political purposes made by the candidate after the cutoff date for the statement filed seven days before the election, and the recipient of each expenditure.
 
-(5)  Candidates for elective office in any county who are eliminated at a primary election shall file a signed campaign financial statement containing the information required by this section not later than 30 days after the primary election.
+(6) (a)  As used in this Subsection (6), "account" means an account in a financial institution:
 
-(6)  Any person who fails to comply with this section is guilty of an infraction.
+(i)  that is not described in Subsection (3)(a); and
 
-(7)  Counties may, by ordinance, enact requirements that:
+(ii)  into which or from which a person who, as a candidate for an office, other than a county office for which the person filed a declaration of candidacy or federal office, or as a holder of an office, other than a county office for which the person filed a declaration of candidacy or federal office, deposits a contribution or makes an expenditure.
+
+(b)  A county office candidate shall include on any campaign financial statement filed in accordance with Subsection (4) or (5):
+
+(i)  a contribution deposited in an account:
+
+(A)  since the last campaign finance statement was filed; or
+
+(B)  that has not been reported under a statute or ordinance that governs the account; or
+
+(ii)  an expenditure made from an account:
+
+(A)  since the last campaign finance statement was filed; or
+
+(B)  that has not been reported under a statute or ordinance that governs the account.
+
+(7)  Candidates for elective office in any county who are eliminated at a primary election shall file a signed campaign financial statement containing the information required by this section not later than 30 days after the primary election.
+
+(8)  Any person who fails to comply with this section is guilty of an infraction.
+
+(9)  Counties may, by ordinance, enact requirements that:
 
 (a)  require greater disclosure of campaign contributions and expenditures; and
 
 (b)  impose additional penalties.
 
-(8) (a)  If a candidate fails to file an interim report due before the election, the county clerk shall, after making a reasonable attempt to discover if the report was timely mailed, inform the appropriate election officials who:
+(10) (a)  If a candidate fails to file an interim report due before the election, the county clerk shall, after making a reasonable attempt to discover if the report was timely mailed, inform the appropriate election officials who:
 
-(i)  shall, if practicable, remove the name of the candidate by blacking out the candidate's name before the ballots are delivered to voters; or
+(i) (A)  shall, if practicable, remove the name of the candidate by blacking out the candidate's name before the ballots are delivered to voters; or
 
-(ii)  shall, if removing the candidate's name from the ballot is not practicable, inform the voters by any practicable method that the candidate has been disqualified and that votes cast for the candidate will not be counted; and
+(B)  shall, if removing the candidate's name from the ballot is not practicable, inform the voters by any practicable method that the candidate has been disqualified and that votes cast for the candidate will not be counted; and
 
-(iii)  may not count any votes for that candidate.
+(ii)  may not count any votes for that candidate.
 
-(b)  Notwithstanding Subsection (8)(a), a candidate is not disqualified if:
+(b)  Notwithstanding Subsection (10)(a), a candidate is not disqualified if:
 
 (i)  the candidate files the reports required by this section;
 
@@ -72,15 +110,15 @@
 
 (i)  it is received in the county clerk's office no later than 5 p.m. on the date that it is due;
 
-(ii)  it is received in the county clerk's office with a U.S. Postal Service postmark three days or more before the date that the report was due; or
+(ii)  it is received in the county clerk's office with a United States Postal Service postmark three days or more before the date that the report was due; or
 
 (iii)  the candidate has proof that the report was mailed, with appropriate postage and addressing, three days before the report was due.
 
-(9) (a)  Any private party in interest may bring a civil action in district court to enforce the provisions of this section or any ordinance adopted under this section.
+(11) (a)  Any private party in interest may bring a civil action in district court to enforce the provisions of this section or any ordinance adopted under this section.
 
-(b)  In a civil action filed under Subsection (9)(a), the court shall award costs and attorney's fees to the prevailing party.
+(b)  In a civil action filed under Subsection (11)(a), the court shall award costs and attorney's fees to the prevailing party.
 
-(10)  Notwithstanding any provision of Title 63G, Chapter 2, Government Records Access and Management Act, the county clerk shall:
+(12)  Notwithstanding any provision of Title 63G, Chapter 2, Government Records Access and Management Act, the county clerk shall:
 
 (a)  make each campaign finance statement filed by a candidate available for public inspection and copying no later than one business day after the statement is filed; and
 

@@ -8,11 +8,19 @@
 
 (i)  the standards used by the department for determining eligibility for Medicaid services;
 
-(ii)  the services and benefits to be covered by the Medicaid program; and
+(ii)  the services and benefits to be covered by the Medicaid program;
 
-(iii)  reimbursement methodologies for providers under the Medicaid program.
+(iii)  reimbursement methodologies for providers under the Medicaid program; and
 
-(3) (a)  The department shall, in accordance with Subsection (3)(b), report to the Health and Human Services Appropriations Subcommittee when the department:
+(iv)  a requirement that:
+
+(A)  a person receiving Medicaid services shall participate in the electronic exchange of clinical health records established in accordance with Section 26-1-37 unless the individual opts out of participation;
+
+(B)  prior to enrollment in the electronic exchange of clinical health records the enrollee shall receive notice of enrollment in the electronic exchange of clinical health records and the right to opt out of participation at any time; and
+
+(C)  beginning July 1, 2012, when the program sends enrollment or renewal information to the enrollee and when the enrollee logs onto the program's website, the enrollee shall receive notice of the right to opt out of the electronic exchange of clinical health records.
+
+(3) (a)  The department shall, in accordance with Subsection (3)(b), report to the Social Services Appropriations Subcommittee when the department:
 
 (i)  implements a change in the Medicaid State Plan;
 
@@ -26,7 +34,7 @@
 
 (b)  The report required by Subsection (3)(a) shall:
 
-(i)  be submitted to the Health and Human Services Appropriations Subcommittee prior to the department implementing the proposed change; and
+(i)  be submitted to the Social Services Appropriations Subcommittee prior to the department implementing the proposed change; and
 
 (ii) include:
 
@@ -50,11 +58,11 @@
 
 (IV)  identification of the funds that will be used for the proposed change, including any transfer of funds within the department's budget.
 
-(4) (a)  The Department of Human Services shall report to the Legislative Health and Human Services Appropriations Subcommittee no later than December 31, 2010 in accordance with Subsection (4)(b).
+(4) (a)  The Department of Human Services shall report to the Legislative Social Services Appropriations Subcommittee no later than December 31, 2010 in accordance with Subsection (4)(b).
 
 (b)  The report required by Subsection (4)(a) shall include:
 
-(i)  changes made by the division or the department beginning July 1, 2010 that effect the Medicaid program, a waiver under the Medicaid program, or an interpretation of Medicaid services or funding, that relate to care for children and youth in the custody of the Division of Child and Family Services or the Division of Juvenile Justice Services;
+(i)  changes made by the division or the department beginning July 1, 2010, that effect the Medicaid program, a waiver under the Medicaid program, or an interpretation of Medicaid services or funding, that relate to care for children and youth in the custody of the Division of Child and Family Services or the Division of Juvenile Justice Services;
 
 (ii)  the history and impact of the changes under Subsection (4)(b)(i);
 
@@ -120,19 +128,19 @@
 
 (iii)  for a predetermined total contracted amount; and
 
-(b)  by February 1, 2011, report to the Health and Human Services Appropriations Subcommittee on the response to the request for information under Subsection (12)(a).
+(b)  by February 1, 2011, report to the Social Services Appropriations Subcommittee on the response to the request for information under Subsection (12)(a).
 
 (13) (a)  By December 31, 2010, the department shall:
 
 (i)  determine the feasibility of implementing a three year patient-centered medical home demonstration project in an area of the state using existing budget funds; and
 
-(ii)  report the department's findings and recommendations under Subsection (13)(a)(i) to the Health and Human Services Appropriations Subcommittee.
+(ii)  report the department's findings and recommendations under Subsection (13)(a)(i) to the Social Services Appropriations Subcommittee.
 
-(b)  If the department determines that the medical home demonstration project described in Subsection (13)(a) is feasible, and the Health and Human Services Appropriations Subcommittee recommends that the demonstration project be implemented, the department shall:
+(b)  If the department determines that the medical home demonstration project described in Subsection (13)(a) is feasible, and the Social Services Appropriations Subcommittee recommends that the demonstration project be implemented, the department shall:
 
 (i)  implement the demonstration project; and
 
-(ii)  by December 1, 2012, make recommendations to the Health and Human Services Appropriations Subcommittee regarding the:
+(ii)  by December 1, 2012, make recommendations to the Social Services Appropriations Subcommittee regarding the:
 
 (A)  continuation of the demonstration project;
 

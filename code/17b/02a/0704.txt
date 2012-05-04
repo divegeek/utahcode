@@ -1,6 +1,10 @@
 17B-2a-704.   Mosquito abatement district board of trustees.
 
-(1) (a)  Notwithstanding Subsection 17B-1-302(2) and subject to Subsection (1)(b), the legislative body of each municipality that is entirely or partly included within a mosquito abatement district shall appoint one member to the board of trustees.
+(1) (a)  Notwithstanding Subsection 17B-1-302(2):
+
+(i)  the board of trustees of a mosquito abatement district shall consist of no less than five members appointed in accordance with this section; and
+
+(ii)  subject to Subsection (1)(b), the legislative body of each municipality that is entirely or partly included within a mosquito abatement district shall appoint one member to the board of trustees.
 
 (b)  If 75% or more of the area of a mosquito abatement district is within the boundaries of a single municipality:
 
@@ -28,7 +32,13 @@
 
 (4)  If the number of board members appointed by application of Subsections (1) and (2)(a) is an even number less than nine, the legislative body of the county in which the district is located shall appoint an additional member.
 
-(5)  Each board of trustees member shall be appointed as provided in Section 17B-1-304.
+(5)  Notwithstanding Subsection (2):
 
-(6)  Each vacancy on a mosquito abatement district board of trustees shall be filled by the applicable appointing authority as provided in Section 17B-1-304.
+(a)  if the mosquito abatement district is located entirely within one county and, in accordance with this section, only one municipality may appoint a member of the board of trustees, the county legislative body shall appoint at least four members to the district's board of trustees; and
+
+(b)  if the mosquito abatement district is located entirely within one county and no municipality may appoint a member of the board of trustees, all of the members of the board shall be appointed by the county legislative body.
+
+(6)  Each board of trustees member shall be appointed as provided in Section 17B-1-304.
+
+(7)  Each vacancy on a mosquito abatement district board of trustees shall be filled by the applicable appointing authority as provided in Section 17B-1-304, or if the vacancy is a midterm vacancy, as provided in Section 20A-1-512.
 

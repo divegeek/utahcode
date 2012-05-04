@@ -2,15 +2,15 @@
 
 (1) (a)  A person who violates any insurance statute or rule or any order issued under Subsection 31A-2-201(4) shall forfeit to the state twice the amount of any profit gained from the violation, in addition to any other forfeiture or penalty imposed.
 
-(b) (i)  The commissioner may order an individual producer, limited line producer, customer service representative, managing general agent, reinsurance intermediary, adjuster, or insurance consultant who violates an insurance statute or rule to forfeit to the state not more than $2,500 for each violation.
+(b) (i)  The commissioner may order an individual producer, surplus line producer, limited line producer, managing general agent, reinsurance intermediary, adjuster, or insurance consultant who violates an insurance statute or rule to forfeit to the state not more than $2,500 for each violation.
 
 (ii)  The commissioner may order any other person who violates an insurance statute or rule to forfeit to the state not more than $5,000 for each violation.
 
-(c) (i)  The commissioner may order an individual producer, limited line producer, customer service representative, managing general agent, reinsurance intermediary, adjuster, or insurance consultant who violates an order issued under Subsection 31A-2-201(4) to forfeit to the state not more than $2,500 for each violation.  Each day the violation continues is a separate violation.
+(c) (i)  The commissioner may order an individual producer, surplus line producer, limited line producer, managing general agent, reinsurance intermediary, adjuster, or insurance consultant who violates an order issued under Subsection 31A-2-201(4) to forfeit to the state not more than $2,500 for each violation.  Each day the violation continues is a separate violation.
 
 (ii)  The commissioner may order any other person who violates an order issued under Subsection 31A-2-201(4) to forfeit to the state not more than $5,000 for each violation.  Each day the violation continues is a separate violation.
 
-(d)  The commissioner may accept or compromise any forfeiture under this Subsection (1) until after a complaint is filed under Subsection (2). After the filing of the complaint, only the attorney general may compromise the forfeiture.
+(d)  The commissioner may accept or compromise any forfeiture under this Subsection (1) until after a complaint is filed under Subsection (2).  After the filing of the complaint, only the attorney general may compromise the forfeiture.
 
 (2)  When a person fails to comply with an order issued under Subsection 31A-2-201(4), including a forfeiture order, the commissioner may file an action in any court of competent jurisdiction or obtain a court order or judgment:
 
@@ -32,7 +32,7 @@
 
 (b)  the court may, after a hearing following at least five days written notice to the parties subject to the order or judgment, amend the order or judgment to add the forfeiture or forfeitures, as prescribed in Subsection (2)(c), until the person complies.
 
-(5) (a)  The proceeds of all forfeitures under this section, including collection expenses, shall be paid into the General Fund.
+(5) (a)  The proceeds of the forfeitures under this section, including collection expenses, shall be paid into the General Fund.
 
 (b)  The expenses of collection shall be credited to the department's budget.
 

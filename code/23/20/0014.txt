@@ -2,7 +2,7 @@
 
 (1)  As used in this section:
 
-(a)  "Cultivated land" means land which is readily identifiable as:
+(a)  "Cultivated land" means land that is readily identifiable as:
 
 (i)  land whose soil is loosened or broken up for the raising of crops;
 
@@ -22,25 +22,41 @@
 
 (iv)  a general description of the property.
 
-(d)  "Properly posted" means that "No Trespassing" signs or a minimum of 100 square inches of bright yellow, bright orange, or fluorescent paint are displayed at all corners, fishing streams crossing property lines, roads, gates, and rights-of-way entering the land.  If metal fence posts are used, the entire exterior side shall be painted.
+(d)  "Properly posted" means that signs prohibiting trespass or bright yellow, bright orange, or fluorescent paint are clearly displayed:
+
+(i)  at all corners, fishing streams crossing property lines, roads, gates, and rights-of-way entering the land; or
+
+(ii)  in a manner that would reasonably be expected to be seen by a person in the area.
 
 (2) (a)  While taking wildlife or engaging in wildlife related activities, a person may not:
 
-(i)  without the permission of the owner or person in charge, enter upon privately owned land that is cultivated or properly posted;
+(i)  without permission, enter upon privately owned land that is cultivated or properly posted;
 
-(ii)  refuse to immediately leave  the private land if requested to do so by the owner or person in charge; or
+(ii)  enter or remain on privately owned land if the person has notice to not enter or remain on the privately owned land; or
 
 (iii)  obstruct any entrance or exit to private property.
 
-(b)  "Hunting by permission cards" will be provided to landowners by the division upon request.
+(b)  A person has notice to not enter or remain on privately owned land if:
 
-(c)  A person may not post:
+(i)  the person is directed to not enter or remain on the land by:
+
+(A)  the owner of the land;
+
+(B)  the owner's employee; or
+
+(C)  a person with apparent authority to act for the owner; or
+
+(ii)  the land is fenced or otherwise enclosed in a manner that a reasonable person would recognize as intended to exclude intruders.
+
+(c)  The division shall provide "hunting by permission cards" to a landowner upon the landowner's request.
+
+(d)  A person may not post:
 
 (i)  private property the person does not own or legally control; or
 
 (ii)  land that is open to the public as provided by Section 23-21-4.
 
-(3) (a)  A person convicted of violating any provision of Subsection (2) may have the person's license, tag, certificate of registration, or permit, relating to the activity engaged in at the time of the violation, revoked by a hearing officer.
+(3) (a)  A person convicted of violating Subsection (2)(a) may have the person's license, tag, certificate of registration, or permit, relating to the activity engaged in at the time of the violation, revoked by a hearing officer.
 
 (b)  A hearing officer may construe any subsequent conviction which occurs within a five-year period as a flagrant violation and may prohibit the person from obtaining a new license, tag, certificate of registration, or permit for a period of up to five years.
 
@@ -54,5 +70,5 @@
 
 (b)  The restrictions in this section relating to trespassing shall be stated in all hunting and fishing proclamations issued by the Wildlife Board.
 
-(6)  Any person who violates any provision of Subsection (2) is guilty of a class B misdemeanor.
+(6) A person who violates Subsection (2)(a) or (d) is guilty of a class B misdemeanor.
 

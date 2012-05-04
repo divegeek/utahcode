@@ -4,39 +4,41 @@
 
 (a)  survey solid and hazardous waste generation and management practices within this state and, after public hearing and after providing opportunities for comment by local governmental entities, industry, and other interested persons, prepare and revise, as necessary, a waste management plan for the state;
 
-(b)  carry out inspections pursuant to Section 19-6-109;
+(b)  order the director to:
 
-(c) (i)  hold a hearing that is not an adjudicative proceeding and compel the attendance of witnesses, the production of documents, and other evidence, administer oaths and take testimony, and receive evidence it finds proper, or appoint hearing officers to conduct a hearing that is not an adjudicative proceeding who shall be delegated these powers;
+(i)  issue orders necessary to effectuate the provisions of this part and rules made under this part;
 
-(ii)  receive a proposed dispositive action from an administrative law judge as provided by Section 19-1-301; and
+(ii)  enforce the orders by administrative and judicial proceedings; or
 
-(iii) (A)  approve, approve with modifications, or disapprove a proposed dispositive action; or
+(iii)  initiate judicial proceedings to secure compliance with this part;
 
-(B)  return the proposed dispositive action to the administrative law judge for further action as directed;
+(c)  promote the planning and application of resource recovery systems to prevent the unnecessary waste and depletion of natural resources;
 
-(d)  issue orders necessary to effectuate the provisions of this part and implementing rules and enforce them by administrative and judicial proceedings, and cause the initiation of judicial proceedings to secure compliance with this part;
+(d)  meet the requirements of federal law related to solid and hazardous wastes to insure that the solid and hazardous wastes program provided for in this part is qualified to assume primacy from the federal government in control over solid and hazardous waste;
 
-(e)  settle or compromise any administrative or civil action initiated to compel compliance with this part and any rules adopted under this part;
+(e) (i)  require any facility, including those listed in Subsection (1)(e)(ii), that is intended for disposing of nonhazardous solid waste or wastes listed in Subsection (1)(e)(ii)(B) to submit plans, specifications, and other information required by the board to the board prior to construction, modification, installation, or establishment of a facility to allow the board to determine whether the proposed construction, modification, installation, or establishment of the facility will be in accordance with rules made under this part;
 
-(f)  require submittal of specifications or other information relating to hazardous waste plans for review, and approve, disapprove, revoke, or review the plans;
-
-(g)  advise, consult, cooperate with, and provide technical assistance to other agencies of the state and federal government, other states, interstate agencies, and affected groups, political subdivisions, industries, and other persons in carrying out the purposes of this part;
-
-(h)  promote the planning and application of resource recovery systems to prevent the unnecessary waste and depletion of natural resources;
-
-(i)  meet the requirements of federal law related to solid and hazardous wastes to insure that the solid and hazardous wastes program provided for in this part is qualified to assume primacy from the federal government in control over solid and hazardous waste;
-
-(j) (i)  require any facility, including those listed in Subsection (1)(j)(ii), that is intended for disposing of nonhazardous solid waste or wastes listed in Subsection (1)(j)(ii)(B) to submit plans, specifications, and other information required by the board to the board prior to construction, modification, installation, or establishment of a facility to allow the board to determine whether the proposed construction, modification, installation, or establishment of the facility will be in accordance with rules made under this part;
-
-(ii)  facilities referred to in Subsection (1)(j)(i) include:
+(ii)  facilities referred to in Subsection (1)(e)(i) include:
 
 (A)  any incinerator that is intended for disposing of nonhazardous solid waste; and
 
-(B)  except for facilities that receive the following wastes solely for the purpose of recycling, reuse, or reprocessing, any commercial facility that accepts for treatment or disposal, and with the intent to make a profit: fly ash waste, bottom ash waste, slag waste, or flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels;  wastes from the extraction, beneficiation, and processing of ores and minerals; or  cement kiln dust wastes; and
+(B)  except for facilities that receive the following wastes solely for the purpose of recycling, reuse, or reprocessing, any commercial facility that accepts for treatment or disposal, and with the intent to make a profit: fly ash waste, bottom ash waste, slag waste, or flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels; wastes from the extraction, beneficiation, and processing of ores and minerals; or cement kiln dust wastes; and
 
-(k)  exercise all other incidental powers necessary to carry out the purposes of this part.
+(f)  to ensure compliance with applicable statutes and regulations:
 
-(2) (a)  The board shall establish a comprehensive statewide solid waste management plan by January 1, 1994.
+(i)  review a settlement negotiated by the director in accordance with Subsection 19-6-107(3)(a) that requires a civil penalty of $25,000 or more; and
+
+(ii)  approve or disapprove the settlement.
+
+(2)  The board may:
+
+(a) (i)  hold a hearing that is not an adjudicative proceeding; or
+
+(ii)  appoint hearing officers to conduct a hearing that is not an adjudicative proceeding; or
+
+(b)  advise, consult, cooperate with, or provide technical assistance to other agencies of the state or federal government, other states, interstate agencies, or affected groups, political subdivisions, industries, or other persons in carrying out the purposes of this part.
+
+(3) (a)  The board shall establish a comprehensive statewide solid waste management plan by January 1, 1994.
 
 (b)  The plan shall:
 
@@ -58,9 +60,23 @@
 
 (d)  The board shall review and modify the comprehensive statewide solid waste management plan no less frequently than every five years.
 
-(3) (a)  The board shall determine the type of solid waste generated in the state and tonnage of solid waste disposed of in the state in developing the comprehensive statewide solid waste management plan.
+(4) (a)  The board shall determine the type of solid waste generated in the state and tonnage of solid waste disposed of in the state in developing the comprehensive statewide solid waste management plan.
 
 (b)  The board shall review and modify the inventory no less frequently than once every five years.
 
-(4)  Subject to the limitations contained in Subsection 19-6-102(18)(b), the board shall establish siting criteria for nonhazardous solid waste disposal facilities, including incinerators.
+(5)  Subject to the limitations contained in Subsection 19-6-102(19)(b), the board shall establish siting criteria for nonhazardous solid waste disposal facilities, including incinerators.
+
+(6)  The board may not issue, amend, renew, modify, revoke, or terminate any of the following that are subject to the authority granted to the director under Section 19-6-107:
+
+(a)  a permit;
+
+(b)  a license;
+
+(c)  a registration;
+
+(d)  a certification; or
+
+(e)  another administrative authorization made by the director.
+
+(7)  A board member may not speak or act for the board unless the board member is authorized by a majority of a quorum of the board in a vote taken at a meeting of the board.
 

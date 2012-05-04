@@ -244,7 +244,7 @@ As used in this chapter:
 
 (44)  "Public meeting" means a meeting that is required to be open to the public under Title 52, Chapter 4, Open and Public Meetings Act.
 
-(45)  "Receiving zone" means an unincorporated area of a county that the county's land use authority designates as an area in which an owner of land may receive transferrable development rights.
+(45)  "Receiving zone" means an unincorporated area of a county that the county designates, by ordinance, as an area in which an owner of land may receive a transferable development right.
 
 (46)  "Record of survey map" means a map of a survey of land prepared in accordance with Section 17-23-17.
 
@@ -268,9 +268,9 @@ As used in this chapter:
 
 (50)  "Sanitary sewer authority" means the department, agency, or public entity with responsibility to review and approve the feasibility of sanitary sewer services or onsite wastewater systems.
 
-(51)   "Sending zone" means an unincorporated area of a county that the county's land use authority designates as an area from which an owner of land may transfer transferrable development rights to an owner of land in a receiving zone.
+(51)  "Sending zone" means an unincorporated area of a county that the county designates, by ordinance, as an area from which an owner of land may transfer a transferable development right.
 
-(52)   "Specified public agency" means:
+(52)  "Specified public agency" means:
 
 (a)  the state;
 
@@ -278,11 +278,11 @@ As used in this chapter:
 
 (c)  a charter school.
 
-(53)   "Specified public utility" means an electrical corporation, gas corporation, or telephone corporation, as those terms are defined in Section 54-2-1.
+(53)  "Specified public utility" means an electrical corporation, gas corporation, or telephone corporation, as those terms are defined in Section 54-2-1.
 
-(54)   "State" includes any department, division, or agency of the state.
+(54)  "State" includes any department, division, or agency of the state.
 
-(55)   "Street" means a public right-of-way, including a highway, avenue, boulevard, parkway, road, lane, walk, alley, viaduct, subway, tunnel, bridge, public easement, or other way.
+(55)  "Street" means a public right-of-way, including a highway, avenue, boulevard, parkway, road, lane, walk, alley, viaduct, subway, tunnel, bridge, public easement, or other way.
 
 (56)  (a)  "Subdivision" means any land that is divided, resubdivided or proposed to be divided into two or more lots, parcels, sites, units, plots, or other division of land for the purpose, whether immediate or future, for offer, sale, lease, or development either on the installment plan or upon any and all other plans, terms, and conditions.
 
@@ -354,7 +354,7 @@ As used in this chapter:
 
 (58)  "Township" means a contiguous, geographically defined portion of the unincorporated area of a county, established under this part or reconstituted or reinstated under Section 17-27a-306, with planning and zoning functions as exercised through the township planning commission, as provided in this chapter, but with no legal or political identity separate from the county and no taxing authority, except that "township" means a former township under Laws of Utah 1996, Chapter 308, where the context so indicates.
 
-(59)  "Transferrable development right" means the entitlement to develop land within a sending zone that would vest according to the county's existing land use ordinances on the date that a completed land use application is filed seeking the approval of development activity on the land.
+(59)  "Transferable development right" means a right to develop and use land that originates by an ordinance that authorizes a land owner in a designated sending zone to transfer land use rights from a designated sending zone to a designated receiving zone.
 
 (60)  "Unincorporated" means the area outside of the incorporated area of a municipality.
 

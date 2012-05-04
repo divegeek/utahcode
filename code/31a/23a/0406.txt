@@ -54,7 +54,7 @@
 
 (3) Money held in escrow:
 
-(a) is not subject to any debts of the title insurance producer;
+(a)  is not subject to any debts of the title insurance producer;
 
 (b)  may only be used to fulfill the terms of the individual escrow under which the money is accepted; and
 
@@ -80,21 +80,19 @@
 
 (B)  a check drawn on the trust account of a principal broker or associate broker licensed under Title 61, Chapter 2f, Real Estate Licensing and Practices Act, if the title producer has reasonable and prudent grounds to believe sufficient money will be available from the trust account on which the check is drawn at the time of disbursement of proceeds from the title producer's escrow account;
 
-(C)  a personal check not to exceed $500 per closing;
+(C)  a personal check not to exceed $500 per closing; or
 
-(D)  a check drawn on the escrow account of another title producer, if the title producer in the escrow transaction has reasonable and prudent grounds to believe that sufficient money will be available for withdrawal from the account upon which the check is drawn at the time of disbursement of money from the escrow account of the title producer in the escrow transaction; or
+(D)  a check drawn on the escrow account of another title producer, if the title producer in the escrow transaction has reasonable and prudent grounds to believe that sufficient money will be available for withdrawal from the account upon which the check is drawn at the time of disbursement of money from the escrow account of the title producer in the escrow transaction.
 
-(E)  a check issued by a farm credit service authorized under the Farm Credit Act of 1971, 12 U.S.C. Sec. 2001 et seq., as amended.
-
-(c)  Money received from a financial instrument described in Subsection (5)(b)(iii)(B) or (C) may be disbursed:
+(c) A check or deposit not described in Subsection (5)(b) may be disbursed:
 
 (i)  within the time limits provided under the Expedited Funds Availability Act, 12 U.S.C. Sec. 4001 et seq., as amended, and related regulations of the Federal Reserve System; or
 
 (ii)  upon notification from the financial institution to which the money has been deposited that final settlement has occurred on the deposited financial instrument.
 
-(6) A title insurance producer shall maintain a record of a receipt or disbursement of escrow money.
+(6)  A title insurance producer shall maintain a record of a receipt or disbursement of escrow money.
 
-(7) A title insurance producer shall comply with:
+(7)  A title insurance producer shall comply with:
 
 (a)  Section 31A-23a-409;
 

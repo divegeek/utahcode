@@ -1,3 +1,5 @@
+
+
 19-6-803.   Definitions.
 
 As used in this part:
@@ -38,13 +40,13 @@ As used in this part:
 
 (7)  "Crumb rubber" means waste tires that have been ground, shredded, or otherwise reduced in size such that the particles are less than or equal to 3/8 inch in diameter and are 98% wire free by weight.
 
-(8)  "Disposal" means the deposit, dumping, or permanent placement of any waste tire in or on any land or in any water in the state.
+(8)  "Director" means the director of the Division of Solid and Hazardous Waste.
 
-(9)  "Dispose of" means to deposit, dump, or permanently place any waste tire in or on any land or in any water in the state.
+(9)  "Disposal" means the deposit, dumping, or permanent placement of any waste tire in or on any land or in any water in the state.
 
-(10)  "Division" means the Division of Solid and Hazardous Waste created in Section 19-1-105, within the Department of Environmental Quality.
+(10)  "Dispose of" means to deposit, dump, or permanently place any waste tire in or on any land or in any water in the state.
 
-(11)  "Executive secretary" means the executive secretary of the Solid and Hazardous Waste Control Board created in Section 19-1-106.
+(11)  "Division" means the Division of Solid and Hazardous Waste, created in Subsection 19-1-105(1)(e).
 
 (12)  "Fund" means the Waste Tire Recycling Fund created in Section 19-6-807.
 
@@ -80,9 +82,15 @@ As used in this part:
 
 (b)  "Storage" does not include:
 
-(i)  the use of waste tires as ballast to maintain covers on agricultural materials or to maintain covers at a construction site; or
+(i)  the use of waste tires as ballast to maintain covers on agricultural materials or to maintain covers at a construction site;
 
-(ii)  the storage for five or fewer days of waste tires or material derived from waste tires that are to be recycled or applied to a beneficial use.
+(ii)  the storage for five or fewer days of waste tires or material derived from waste tires that are to be recycled or applied to a beneficial use; or
+
+(iii)  the storage of a waste tire before the tire is:
+
+(A)  resold wholesale or retail; or
+
+(B)  recapped.
 
 (24) (a)  "Store" means to place waste tires in a manner that does not constitute disposal of the waste tires.
 
@@ -96,7 +104,7 @@ As used in this part:
 
 (26)  "Tire retailer" means any person engaged in the business of selling new tires either as replacement tires or as part of a new vehicle sale.
 
-(27) (a)  "Ultimate product" means a product that has as a component materials derived from waste tires and that the executive secretary finds has a demonstrated market.
+(27) (a)  "Ultimate product" means a product that has as a component materials derived from waste tires and that the director finds has a demonstrated market.
 
 (b)  "Ultimate product" includes pyrolized materials derived from:
 
@@ -106,7 +114,11 @@ As used in this part:
 
 (c)  "Ultimate product" does not include a product regarding which a waste tire remains after the product is disposed of or disassembled.
 
-(28)  "Waste tire" means a tire that is no longer suitable for its original intended purpose because of wear, damage, or defect.
+(28)  "Waste tire" means:
+
+(a)  a tire that is no longer suitable for its original intended purpose because of wear, damage, or defect; or
+
+(b)  a tire that a tire retailer removes from a vehicle for replacement with a new or used tire.
 
 (29)  "Waste tire pile" means a pile of 1,000 or more waste tires at one location.
 

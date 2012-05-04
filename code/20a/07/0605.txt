@@ -6,7 +6,7 @@
 
 (i)  is at least 18 years old and meets the residency requirements of Section 20A-2-105; and
 
-(ii)  verifies each signature sheet by completing the verification printed on the back of each referendum packet.
+(ii)  verifies each signature sheet by completing the verification printed on the last page of each referendum packet.
 
 (b)  A person may not sign the verification printed on the last page of the referendum packet if the person signed a signature sheet in the referendum packet.
 
@@ -14,5 +14,5 @@
 
 (b)  Except as provided in Subsection (3)(c), upon receipt of the statement, the local clerk shall remove the signature of the person submitting the statement from the referendum petition.
 
-(c) A local clerk may not remove signatures from a referendum petition after the petition has been submitted to the county clerk to be certified.
+(c)  A local clerk may not remove signatures from a referendum petition after the petition has been submitted to the county clerk to be certified.
 

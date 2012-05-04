@@ -12,7 +12,7 @@
 
 (3) (a)  For purposes of this Subsection (3):
 
-(i)  "Annexation" means an annexation to a municipality under Title 10, Chapter 2, Part 4, Annexation. 
+(i)  "Annexation" means an annexation to a municipality under Chapter 2, Part 4, Annexation.
 
 (ii)  "Annexing area" means an area that is annexed into a municipality.
 
@@ -48,15 +48,9 @@
 
 (D)  the new rate of the tax described in Subsection (3)(c)(ii)(A).
 
-(4)  A sale or use of electricity within a municipality is exempt from the tax authorized by this section if the sale or use is:
+(4) (a) Subject to Subsection (4)(b), a sale or use of electricity within a municipality is exempt from the tax authorized by this section if the sale or use is made under a tariff adopted by the Public Service Commission of Utah only for purchase of electricity produced from a new source of alternative energy, as defined in Section 59-12-102, as designated in the tariff by the Public Service Commission of Utah.
 
-(a)  made under a tariff adopted by the Public Service Commission of Utah only for purchase of electricity produced from a new wind, geothermal, biomass, or solar power energy source, as designated in the tariff by the Public Service Commission of Utah; and
-
-(b)  for an amount of electricity that is:
-
-(i)  unrelated to the amount of electricity used by the person purchasing the electricity under the tariff described in Subsection (4)(a); and
-
-(ii)  equivalent to the number of kilowatthours specified in the tariff described in Subsection (4)(a) that may be purchased under the tariff described in Subsection (4)(a).
+(b)  The exemption under Subsection (4)(a) applies to the portion of the tariff rate a customer pays under the tariff described in Subsection (4)(a) that exceeds the tariff rate under the tariff described in Subsection (4)(a) that the customer would have paid absent the tariff.
 
 (5) (a)  A municipality may not levy a municipal energy sales and use tax within any portion of the municipality that is within a project area described in a project area plan adopted by the military installation development authority under Title 63H, Chapter 1, Military Installation Development Authority Act.
 

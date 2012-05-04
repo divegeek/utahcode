@@ -30,21 +30,13 @@
 
 (i)  establish a plan for collecting data from data suppliers, as defined in Section 26-33a-102, to determine measurements of cost and reimbursements for risk adjusted episodes of health care;
 
-(ii)  assist the demonstration projects implemented by the Insurance Department pursuant to Section 31A-22-614.6, with access to cost data, reimbursement data, care process data, and provider service data necessary for the demonstration projects' research, statistical analysis, and quality improvement activities:
+(ii)  share data regarding insurance claims and an individual's and small employer group's health risk factor with insurers participating in the defined contribution market created in Title 31A, Chapter 30, Part 2, Defined Contribution Arrangements, only to the extent necessary for:
 
-(A)  notwithstanding Subsection 26-33a-108(1) and Section 26-33a-109;
-
-(B)  contingent upon approval by the committee; and
-
-(C)  subject to a contract between the department and the entity providing analysis for the demonstration project;
-
-(iii)  share data regarding insurance claims with insurers participating in the defined contribution market created in Title 31A, Chapter 30, Part 2, Defined Contribution Arrangements, only to the extent necessary for:
-
-(A)  renewals of policies in the defined contribution arrangement market; and
+(A)  establishing rates and prospective risk adjusting in the defined contribution arrangement market; and
 
 (B)  risk adjusting in the defined contribution arrangement market; and
 
-(iv)  assist the Legislature and the public with awareness of, and the promotion of, transparency in the health care market by reporting on:
+(iii)  assist the Legislature and the public with awareness of, and the promotion of, transparency in the health care market by reporting on:
 
 (A)  geographic variances in medical care and costs as demonstrated by data available to the committee; and
 

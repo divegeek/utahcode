@@ -1,6 +1,6 @@
-26-18-2.6.   Dental benefits.
+26-18-2.6 (Superseded 05/01/13).   Dental benefits.
 
-(1) (a)  The division shall establish a competitive bid process to bid out Medicaid dental benefits under this chapter.
+(1) (a) Except as provided in Subsection (8), the division shall establish a competitive bid process to bid out Medicaid dental benefits under this chapter.
 
 (b)  The division may bid out the Medicaid dental benefits separately from other program benefits.
 
@@ -39,4 +39,18 @@
 (b)  If the division cancels the request for proposals under Subsection (6)(a), the division shall report to the Health and Human Services Committee regarding the reasons for the decision.
 
 (7)  Title 63G, Chapter 6, Utah Procurement Code, shall apply to this section.
+
+(8) (a)  The division may:
+
+(i)  establish a dental health care delivery system and payment reform pilot program for Medicaid dental benefits to increase access to cost effective and quality dental health care by increasing the number of dentists available for Medicaid dental services; and
+
+(ii)  target specific Medicaid populations or geographic areas in the state.
+
+(b)  The pilot program shall establish compensation models for dentists and dental hygienists that:
+
+(i)  increase access to quality, cost effective dental care; and
+
+(ii)  use funds from the Division of Family Health and Preparedness that are available to reimburse dentists for educational loans in exchange for the dentist agreeing to serve Medicaid and under-served populations.
+
+(c)  The division may amend the state plan and apply to the Secretary of Health and Human Services for waivers or pilot programs if necessary to establish the new dental care delivery and payment reform model.  The division shall evaluate the pilot program's effect on the cost of dental care and access to dental care for the targeted Medicaid populations.  The division shall report to the Legislature's Health and Human Services Interim Committee by November 30th of each year that the pilot project is in effect.
 

@@ -210,7 +210,7 @@
 
 (B) (I)  the franchisee received within the previous 12 months; or
 
-(II)  are listed in the current parts catalog; or
+(II)  are listed in the current parts catalog;
 
 (mm)  subject to Subsection (12), obtain from a franchisee a waiver of a franchisee's right, by threatening:
 
@@ -220,7 +220,27 @@
 
 (A)  to which the franchisee is entitled under a franchise agreement, contract, statute, rule, regulation, or law; or
 
-(B)  that has been granted to more than one other franchisee of the franchisor in the state.
+(B)  that has been granted to more than one other franchisee of the franchisor in the state;
+
+(nn)  coerce a franchisee to establish, or provide by agreement, program, or incentive provision that a franchisee must establish, a price at which the franchisee is required to sell a product or service that is:
+
+(i)  sold in connection with the franchisee's sale of a motor vehicle; and
+
+(ii) (A)  in the case of a product, not manufactured, provided, or distributed by the franchisor or an affiliate; or
+
+(B)  in the case of a service, not provided by the franchisor or an affiliate;
+
+(oo)  except as necessary to comply with a health or safety law, or to comply with a technology requirement compliance with which is necessary to sell or service a motor vehicle that the franchisee is authorized or licensed by the franchisor to sell or service, coerce or require a franchisee, through a penalty or other detriment to the franchisee's business, to:
+
+(i)  construct a new dealer facility or materially alter or remodel an existing dealer facility before the date that is 10 years after the date the construction of the new dealer facility at that location was completed, if the construction substantially complied with the franchisor's brand image standards or plans that the franchisor provided or approved; or
+
+(ii)  materially alter or remodel an existing dealer facility before the date that is 10 years after the date the previous alteration or remodeling at that location was completed, if the previous alteration or remodeling substantially complied with the franchisor's brand image standards or plans that the franchisor provided or approved; or
+
+(pp)  notwithstanding the terms of a franchise agreement providing otherwise and subject to Subsection (14):
+
+(i)  coerce or require a franchisee, including by agreement, program, or incentive provision, to purchase a good or service, relating to a facility construction, alteration, or remodel, from a vendor that a franchisor or its affiliate selects, identifies, or designates, without allowing the franchisee, after consultation with the franchisor, to obtain a like good or service of substantially similar quality from a vendor that the franchisee chooses; or
+
+(ii)  coerce or require a franchisee, including by agreement, program, or incentive provision, to lease a sign or other franchisor image element from the franchisor or an affiliate without providing the franchisee the right to purchase a sign or other franchisor image element of like kind and quality from a vendor that the franchisee chooses.
 
 (2)  Notwithstanding Subsection (1)(r), a franchisor may authorize or permit a person to perform warranty service repairs on motor vehicles if the warranty services is for a franchisor of recreational vehicles.
 
@@ -287,4 +307,40 @@
 (12) (a)  Subsection (1)(mm) does not apply to a good faith settlement of a dispute, including a dispute relating to contract negotiations, in which the franchisee gives a waiver in exchange for fair consideration in the form of a benefit conferred on the franchisee.
 
 (b)  Subsection (12)(a) may not be construed to defeat a franchisee's claim that a waiver has been obtained in violation of Subsection (1)(mm).
+
+(13) (a)  As used in Subsection (1)(oo):
+
+(i)  "Materially alter":
+
+(A)  means to make a material architectural, structural, or aesthetic alteration; and
+
+(B)  does not include routine maintenance, such as interior painting, reasonably necessary to keep a dealership facility in attractive condition.
+
+(ii)  "Penalty or other detriment" does not include a payment under an agreement, incentive, or program that is offered to but declined or not accepted by a franchisee, even if a similar payment is made to another franchisee in the state that chooses to participate in the agreement, incentive, or program.
+
+(b)  Subsection (1)(oo) does not apply to:
+
+(i)  a program that provides a lump sum payment to assist a franchisee to make a facility improvement or to pay for a sign or a franchisor image element, if the payment is not dependent on the franchisee selling or purchasing a specific number of new vehicles;
+
+(ii)  a program that is in effect on May 8, 2012, with more than one franchisee in the state or to a renewal or modification of the program;
+
+(iii)  a program that provides reimbursement to a franchisee on reasonable, written terms for a substantial portion of the franchisee's cost of making a facility improvement or installing signage or a franchisor image element; or
+
+(iv)  a written agreement between a franchisor and franchisee, in effect before May 8, 2012, under which a franchisee agrees to construct a new dealer facility.
+
+(14) (a)  Subsection (1)(pp)(i) does not apply to:
+
+(i)  signage purchased by a franchisee in which the franchisor has an intellectual property right; or
+
+(ii)  a good used in a facility construction, alteration, or remodel that is:
+
+(A)  a moveable interior display that contains material subject to a franchisor's intellectual property right; or
+
+(B)  specifically eligible for reimbursement of over one-half its cost pursuant to a franchisor or distributor program or incentive granted to the franchisee on reasonable, written terms.
+
+(b)  Subsection (1)(pp)(ii) may not be construed to allow a franchisee to:
+
+(i)  impair or eliminate a franchisor's intellectual property right; or
+
+(ii)  erect or maintain a sign that does not conform to the franchisor's reasonable fabrication specifications and intellectual property usage guidelines.
 

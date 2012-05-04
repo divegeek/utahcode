@@ -58,9 +58,11 @@
 
 (iv)  the amount still owing on the judgment at the date of the petition;
 
-(v) (A)  the person has had a writ of execution issued under the judgment, and the officer executing the writ has returned showing that no property subject to execution in satisfaction of the judgment could be found; or
+(v)  the person has had a writ of execution issued under the judgment, and the officer executing the writ has returned showing that:
 
-(B)  that the amount realized upon the execution levied against the property of the judgment debtor is insufficient to satisfy the judgement;
+(A)  no property subject to execution in satisfaction of the judgment could be found; or
+
+(B) the amount realized upon the execution levied against the property of the judgment debtor is insufficient to satisfy the judgment;
 
 (vi)  the person has made reasonable searches and inquiries to ascertain whether the judgment debtor has any interest in property, real or personal, that may satisfy the judgment; and
 

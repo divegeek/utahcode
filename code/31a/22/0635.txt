@@ -22,7 +22,11 @@
 
 (iii)  a statement that the employee declines coverage with a particular employer group.
 
-(3)  Notwithstanding the requirements of Subsection (2)(a), the uniform application and uniform waiver of coverage forms may be combined or modified to facilitate a more efficient and consumer friendly experience for enrollees using the Health Insurance Exchange if the modification is approved by the commissioner.
+(3)  Notwithstanding the requirements of Subsection (2)(a), the uniform application and uniform waiver of coverage forms may, if the combination or modification is approved by the commissioner, be combined or modified to facilitate a more efficient and consumer friendly experience for:
+
+(a)  enrollees using the Health Insurance Exchange; or
+
+(b)  insurers using electronic applications.
 
 (4)  The uniform application form, and uniform waiver form, shall be adopted and approved by the commissioner in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
 
@@ -38,7 +42,15 @@
 
 (b)  Except as provided in Subsection (5)(c), an insurer who posts health benefit plans on the Health Insurance Exchange may not directly or indirectly offer products on the Health Insurance Exchange that are not health benefit plans.
 
-(c)  Notwithstanding Subsection (5)(b), an insurer may offer a health savings account on the Health Insurance Exchange.
+(c)  Notwithstanding Subsection (5)(b):
+
+(i)  an insurer may offer a health savings account on the Health Insurance Exchange; and
+
+(ii)  an insurer may offer dental and vision plans on the Health Insurance Exchange if:
+
+(A)  the department determines, after study and consultation with the Health System Reform Task Force, that the department is able to establish standards for dental and vision policies offered on the Health Insurance Exchange, and the department determines whether a risk adjuster mechanism is necessary for a defined contribution vision and dental plan market on the Health Insurance Exchange; and
+
+(B)  the department, in accordance with recommendations from the Health System Reform Task Force, adopts administrative rules to regulate the offer of dental and vision plans on the Health Insurance Exchange.
 
 (6)  An insurer shall provide the commissioner and the Health Insurance Exchange with the following information for each health benefit plan submitted to the Health Insurance Exchange, in the electronic format required by Subsection 63M-1-2506(1):
 
@@ -54,9 +66,9 @@
 
 (f)  the claims denial and insurer transparency information developed in accordance with Subsection 31A-22-613.5(4).
 
-(7)  The Insurance Department shall post on the Health Insurance Exchange the Insurance Department's solvency rating for each insurer who posts a health benefit plan on the Health Insurance Exchange.  The solvency rating for each insurer shall be based on methodology established by the Insurance Department by administrative rule and shall be updated each calendar year.
+(7)  The department shall post on the Health Insurance Exchange the department's solvency rating for each insurer who posts a health benefit plan on the Health Insurance Exchange.  The solvency rating for each insurer shall be based on methodology established by the department by administrative rule and shall be updated each calendar year.
 
-(8) (a)  The commissioner may request information from an insurer under Section 31A-22-613.5 to verify the data submitted to the Insurance Department and to the Health Insurance Exchange.
+(8) (a)  The commissioner may request information from an insurer under Section 31A-22-613.5 to verify the data submitted to the department and to the Health Insurance Exchange.
 
 (b)  The commissioner shall regulate any fees charged by insurers to an enrollee for a uniform application form or electronic submission of the application forms.
 

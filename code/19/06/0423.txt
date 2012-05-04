@@ -1,6 +1,6 @@
 19-6-423.   Claim or suit against responsible parties -- Prerequisites for payment from fund to responsible parties or third parties -- Limitations of liability for third party claims.
 
-(1) (a)  The executive secretary may authorize payments from the fund to a responsible party if the responsible party receives actual or constructive notice:
+(1) (a)  The director may authorize payments from the fund to a responsible party if the responsible party receives actual or constructive notice:
 
 (i)  of a release likely to give rise to a claim; or
 
@@ -30,13 +30,13 @@
 
 (iii)  conduct the defense of a suit or claim in good faith.
 
-(2)  The executive secretary may authorize payment of fund money for a judgment or award to third parties if the state risk manager:
+(2)  The director may authorize payment of fund money for a judgment or award to third parties if the state risk manager:
 
 (a)  is allowed to participate in the defense of the suit as required under Subsection (1)(b); and
 
 (b)  approves the settlement.
 
-(3)  The executive secretary may make a payment from the fund to a third party pursuant to Section 19-6-421 or fund a corrective action plan pursuant to Section 19-6-420 if the payment or funding does not impose a liability or make a payment for:
+(3)  The director may make a payment from the fund to a third party pursuant to Section 19-6-421 or fund a corrective action plan pursuant to Section 19-6-420 if the payment or funding does not impose a liability or make a payment for:
 
 (a)  an obligation of a responsible party for:
 
@@ -66,7 +66,7 @@
 
 (f)  bodily injury or property damage for which a responsible party is liable to a third party solely on account of personal injury to the third party's spouse;
 
-(g)  bodily injury, property damage, or the cost of corrective action caused by releases reported before May 11, 2010 that are covered by the fund if the total amount previously paid by the executive secretary to compensate third parties and fund corrective action plans for the releases equals:
+(g)  bodily injury, property damage, or the cost of corrective action caused by releases reported before May 11, 2010 that are covered by the fund if the total amount previously paid by the director to compensate third parties and fund corrective action plans for the releases equals:
 
 (i)  $990,000 for a single release; and
 
@@ -76,7 +76,7 @@
 
 (B)  $3,990,000 for a responsible party owning 100 or more petroleum storage tanks; and
 
-(h)  bodily injury, property damage, or the cost of corrective action caused by releases reported on or after May 11, 2010, covered by the fund if the total amount previously paid by the executive secretary to compensate third parties and fund corrective action plans for the releases equals:
+(h)  bodily injury, property damage, or the cost of corrective action caused by releases reported on or after May 11, 2010, covered by the fund if the total amount previously paid by the director to compensate third parties and fund corrective action plans for the releases equals:
 
 (i)  $1,990,000 for a single release; and
 

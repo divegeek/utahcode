@@ -6,7 +6,7 @@
 
 (b)  "Source material" and "byproduct material" have the same definitions as in 42 U.S.C.A. 2014, Atomic Energy Act of 1954, as amended.
 
-(2)  The board may require the registration or licensing of radiation sources that constitute a significant health hazard.
+(2)  The division may require the registration or licensing of radiation sources that constitute a significant health hazard.
 
 (3)  All sources of ionizing radiation, including ionizing radiation producing machines, shall be registered or licensed by the department.
 
@@ -34,7 +34,7 @@
 
 (i)  $6,667 per month for uranium mills or commercial sites disposing of or reprocessing byproduct material; and
 
-(ii)  $4,167 per month for those uranium mills the executive secretary has determined are on standby status.
+(ii)  $4,167 per month for those uranium mills the director has determined are on standby status.
 
 (c)  On and after March 31, 2003 through June 30, 2003 the same fees as in Subsection (5)(b) apply, but only if the federal Nuclear Regulatory Commission grants to Utah an amendment for agreement state status for uranium recovery regulation on or before March 30, 2003.
 
@@ -46,13 +46,13 @@
 
 (e)  For the payment periods beginning on and after July 1, 2003, the department shall establish the fees required under Subsection (5)(a) under Section 63J-1-504, subject to the restrictions under Subsection (5)(d).
 
-(f)  The department shall deposit fees it receives under this Subsection (5) into the Environmental Quality Restricted Account created in Section 19-1-108.
+(f)  The division shall deposit fees it receives under this Subsection (5) into the Environmental Quality Restricted Account created in Section 19-1-108.
 
-(6) (a)  The department shall assess fees for registration, licensing, and inspection of radiation sources under this section.
+(6) (a)  The division shall assess fees for registration, licensing, and inspection of radiation sources under this section.
 
-(b)  The department shall comply with the requirements of Section 63J-1-504 in assessing fees for licensure and registration.
+(b)  The division shall comply with the requirements of Section 63J-1-504 in assessing fees for licensure and registration.
 
-(7)  The department shall coordinate its activities with the Department of Health rules made under Section 26-21a-203.
+(7)  The division shall coordinate its activities with the Department of Health rules made under Section 26-21a-203.
 
 (8) (a)  Except as provided in Subsection (9), the board may not adopt rules, for the purpose of the state assuming responsibilities from the United States Nuclear Regulatory Commission with respect to regulation of sources of ionizing radiation, that are more stringent than the corresponding federal regulations which address the same circumstances.
 
@@ -76,5 +76,5 @@
 
 (c)  Subject to Subsection 19-3-105(10), a facility may not receive a radioactive material license until siting criteria have been established by the board.  The criteria also apply to facilities that have applied for but not received a radioactive material license.
 
-(12)  The board  shall by rule establish financial assurance requirements for closure and postclosure care of radioactive waste land disposal facilities, taking into account existing financial assurance requirements.
+(12)  The board shall by rule establish financial assurance requirements for closure and postclosure care of radioactive waste land disposal facilities, taking into account existing financial assurance requirements.
 

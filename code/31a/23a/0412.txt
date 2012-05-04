@@ -26,11 +26,11 @@
 
 (iii)  include all of the following:
 
-(A)  if the licensee is a producer, limited line producer, consultant, managing general agent, or reinsurance intermediary:
+(A)  if the licensee is a producer, surplus lines producer, limited line producer, consultant, managing general agent, or reinsurance intermediary:
 
 (I)  a record of each insurance contract procured by or issued through the licensee, with the names of insurers and insureds, the amount of premium and commissions or other compensation, and the subject of the insurance;
 
-(II)  the names of any other producers, limited line producers, consultants, managing general agents, or reinsurance intermediaries from whom business is accepted, and of persons to whom commissions or allowances of any kind are promised or paid; and
+(II)  the names of any other producers, surplus lines producers, limited line producers, consultants, managing general agents, or reinsurance intermediaries from whom business is accepted, and of persons to whom commissions or allowances of any kind are promised or paid; and
 
 (III)  a record of the consumer complaints forwarded to the licensee by an insurance regulator;
 
@@ -46,7 +46,7 @@
 
 (4)  A licensee who represents only a single insurer satisfies Subsection (2) if the insurer maintains the books and records pursuant to Subsection (2) at a place satisfying Subsections (1) and (5).
 
-(5) (a)  The books and records maintained under Subsection (2) or Section 31A-23a-413 shall be available for the inspection of the commissioner during all business hours for a period of time after the date of the transaction as specified by the commissioner by rule, but in no case for less than the current calendar year plus three years.
+(5) (a)  The books and records maintained under Subsection (2) or Section 31A-23a-413 shall be available for the inspection of the commissioner during the business hours for a period of time after the date of the transaction as specified by the commissioner by rule, but in no case for less than the current calendar year plus three years.
 
 (b)  Discarding books and records after the applicable record retention period has expired does not place the licensee in violation of a later-adopted longer record retention period.
 

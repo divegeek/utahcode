@@ -1,32 +1,36 @@
-20A-3-302.   Absentee voting -- No polling place for remote districts.
+20A-3-302.   Conducting entire election by absentee ballot.
 
-(1)  Whenever, on the 60th day before an election, there are 500 or fewer persons registered to vote in a voting precinct, the county legislative body of the county in which the voting precinct is located may elect to administer an election entirely by absentee ballot.
+(1) Notwithstanding Section 17B-1-306, an election officer may administer an election entirely by absentee ballot.
 
-(2)  If the county legislative body of the county in which the voting precinct is located decides to administer an election entirely by absentee ballot, the county clerk shall mail to each registered voter within that voting precinct:
+(2)  If the election officer decides to administer an election entirely by absentee ballot, the election officer shall mail to each registered voter within that voting precinct:
 
 (a)  an absentee ballot;
 
-(b)  a statement that there will be no polling place for the election;
+(b)  a statement that there will be no polling place in the voting precinct for the election;
 
-(c)  instructions for returning the ballot that include an express notice about any relevant deadlines that the voter must meet in order for his vote to be counted; and
+(c)  a business reply mail envelope;
 
-(d)  a warning, on a separate page of colored paper in bold face print, indicating that if the voter fails to follow the instructions included with the absentee ballot, he will be unable to vote in that election because there will be no polling place in the voting precinct on the day of the election.
+(d)  instructions for returning the ballot that include an express notice about any relevant deadlines that the voter must meet in order for the voter's vote to be counted; and
+
+(e)  if the election officer does not operate an election day voting center, a warning, on a separate page of colored paper in bold face print, indicating that if the voter fails to follow the instructions included with the absentee ballot, the voter will be unable to vote in that election because there will be no polling place in the voting precinct on the day of the election.
 
 (3)  Any voter who votes by absentee ballot under this subsection is not required to apply for an absentee ballot as required by this part.
 
-(4) (a)  The county clerk of a county that administers an election entirely by absentee ballot shall:
+(4) An election officer who administers an election entirely by absentee ballot shall:
 
-(i)  obtain, in person, the signatures of each voter within that voting precinct before the election; and
+(a) (i)  obtain, in person, the signatures of each voter within that voting precinct before the election; or
 
-(ii)  maintain the signatures on file in the county clerk's office.
+(ii)  obtain the signature of each voter within the voting precinct from the county clerk; and
 
-(b) (i)  Upon receiving the returned absentee ballots, the county clerk shall compare the signature on each absentee ballot with the voter's signature that is maintained on file and verify that the signatures are the same.
+(b)  maintain the signatures on file in the election officer's office.
 
-(ii)  If the county clerk questions the authenticity of the signature on the absentee ballot, the clerk shall immediately contact the voter to verify the signature.
+(5) (a)  Upon receiving the returned absentee ballots, the election officer shall compare the signature on each absentee ballot with the voter's signature that is maintained on file and verify that the signatures are the same.
 
-(iii)  If the voter does not confirm his signature on the absentee ballot, the county clerk shall:
+(b)  If the election officer questions the authenticity of the signature on the absentee ballot, the election officer shall immediately contact the voter to verify the signature.
 
-(A)  immediately send another absentee ballot and other voting materials as required by this subsection to the voter; and
+(c)  If the voter does not confirm the voter's signature on the absentee ballot, the election officer shall:
 
-(B)  disqualify the initial absentee ballot.
+(i)  immediately send another absentee ballot and other voting materials as required by this subsection to the voter; and
+
+(ii)  disqualify the initial absentee ballot.
 

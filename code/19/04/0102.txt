@@ -6,9 +6,11 @@ As used in this chapter:
 
 (2)  "Contaminant" means a physical, chemical, biological, or radiological substance or matter in water.
 
-(3)  "Executive secretary" means the executive secretary of the board.
+(3)  "Director" means the director of the Division of Drinking Water.
 
-(4) (a)  "Groundwater source" means an underground opening from or through which groundwater flows or is pumped from a subsurface water-bearing formation.
+(4)  "Division" means the Division of Drinking Water, created in Subsection 19-1-105(1)(b).
+
+(5) (a)  "Groundwater source" means an underground opening from or through which groundwater flows or is pumped from a subsurface water-bearing formation.
 
 (b)  "Groundwater source" includes:
 
@@ -20,9 +22,9 @@ As used in this chapter:
 
 (iv)  an adit.
 
-(5)  "Maximum contaminant level" means the maximum permissible level of a contaminant in water that is delivered to a user of a public water system.
+(6)  "Maximum contaminant level" means the maximum permissible level of a contaminant in water that is delivered to a user of a public water system.
 
-(6) (a)  "Public water system" means a system providing water for human consumption and other domestic uses that:
+(7) (a)  "Public water system" means a system providing water for human consumption and other domestic uses that:
 
 (i)  has at least 15 service connections; or
 
@@ -34,13 +36,13 @@ As used in this chapter:
 
 (ii)  a collection, pretreatment, or storage facility used primarily in connection with the system but not under the operator's control.
 
-(7)  "Retail water supplier" means a person that:
+(8)  "Retail water supplier" means a person that:
 
 (a)  supplies water for human consumption and other domestic uses to an end user; and
 
 (b)  has more than 500 service connections.
 
-(8)  "Supplier" means a person who owns or operates a public water system.
+(9)  "Supplier" means a person who owns or operates a public water system.
 
-(9)  "Wholesale water supplier" means a person that provides most of that person's water to a retail water supplier.
+(10)  "Wholesale water supplier" means a person that provides most of that person's water to a retail water supplier.
 

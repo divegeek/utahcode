@@ -22,47 +22,45 @@
 
 (iv)  if a plan provides for regular periodic payments to creditors:
 
-(A)  each creditor of the individual to which payment will be made, the amount owed to each creditor, and any concessions the provider reasonably believes each creditor will offer; and
+(A)  each creditor of the individual to which payment will be made, the amount owed to each creditor, and any concessions the provider reasonably believes each creditor will offer; 
 
 (B)  the schedule of expected payments to each creditor, including the amount of each payment and the date on which it will be made;
 
-(v)  each creditor that the provider believes will not participate in the plan and to which the provider will not direct payment;
+(C)  each creditor that the provider believes will not participate in the plan and to which the provider will not direct payment; and
+
+(D)  that the provider may terminate the agreement for good cause, upon return of unexpended money of the individual;
+
+(v)  if a plan contemplates the settlement of the individual's debt for less than the principal amount of the debt, an estimate of:
+
+(A)  the duration of the plan based on all enrolled debts;
+
+(B)  the length of time before the individual may reasonably expect a settlement offer; and
+
+(C)  the amount of savings needed to accrue before the individual may reasonably expect a settlement offer, expressed as either a dollar amount or a percentage, for each enrolled debt;
 
 (vi)  how the provider will comply with its obligations under Subsection 13-42-127(1);
 
-(vii)  that the provider may terminate the agreement for good cause, upon return of unexpended money of the individual;
+(vii)  that the individual may terminate the agreement at any time by giving written or electronic notice, and that, if notice of termination is given, the individual will receive all unexpended money that the provider or its designee has received from or on behalf of the individual for payment of a credit and, except to the extent they have been earned, the provider's fees;
 
-(viii)  that the individual may cancel the agreement as provided in Section 13-42-120;
+(viii)  that the individual may contact the administrator with any questions or complaints regarding the provider; and
 
-(ix)  that the individual may contact the administrator with any questions or complaints regarding the provider; and
-
-(x)  the address, telephone number, and Internet address or website of the administrator.
+(ix)  the address, telephone number, and Internet address or website of the administrator.
 
 (2)  For purposes of Subsection (1)(e), delivery of an electronic record occurs when it is made available in a format in which the individual may retrieve, save, and print it and the individual is notified that it is available.
 
-(3)  If the administrator supplies the provider with any information required under Subsection (1)(f)(x), the provider may comply with that requirement only by disclosing the information supplied by the administrator.
+(3)  If the administrator supplies the provider with any information required under Subsection (1)(f)(ix), the provider may comply with that requirement only by disclosing the information supplied by the administrator.
 
 (4)  An agreement shall provide that:
 
-(a)  the individual has a right to terminate the agreement at any time, without penalty or obligation, by giving the provider written or electronic notice, in which event:
+(a)  the individual authorizes any bank in which the provider or its agent has established a trust account to disclose to the administrator any financial records relating to the trust account; and
 
-(i)  the provider will refund all unexpended money that the provider or its agent has received from or on behalf of the individual for the reduction or satisfaction of the individual's debt;
-
-(ii)  with respect to an agreement that contemplates that creditors will settle debts for less than the principal amount of debt, the provider will refund 65% of any portion of the set-up fee that has not been credited against the settlement fee; and
-
-(iii)  all powers of attorney granted by the individual to the provider are revoked and ineffective;
-
-(b)  the individual authorizes any bank in which the provider or its agent has established a trust account to disclose to the administrator any financial records relating to the trust account; and
-
-(c)  the provider will notify the individual within five days after learning of a creditor's final decision to reject or withdraw from a plan and that this notice will include:
+(b)  the provider will notify the individual no later than five business days after learning of a creditor's final decision to reject or withdraw from a plan and that this notice will include:
 
 (i)  the identity of the creditor; and
 
 (ii)  the right of the individual to modify or terminate the agreement.
 
-(5)  An agreement may confer on a provider a power of attorney to settle the individual's debt for no more than 50% of the principal amount of the debt.  An agreement may not confer a power of attorney to settle a debt for more than 50% of that amount, but may confer a power of attorney to negotiate with creditors of the individual on behalf of the individual.  An agreement shall provide that the provider will obtain the assent of the individual after a creditor has assented to a settlement for more than 50% of the principal amount of the debt.
-
-(6)  An agreement may not:
+(5)  An agreement may not:
 
 (a)  provide for application of the law of any jurisdiction other than the United States and this state;
 
@@ -76,5 +74,5 @@
 
 (ii)  indemnifies any person for liability arising under the agreement or this chapter.
 
-(7)  All rights and obligations specified in Subsection (4) and Section 13-42-120 exist even if not provided in the agreement.  A provision in an agreement which violates Subsection (4), (5), or (6) is void.
+(6)  A provision in an agreement which violates Subsection (4) or (5) is void.
 

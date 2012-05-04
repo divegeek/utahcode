@@ -1,6 +1,6 @@
 10-9a-509.   Applicant's entitlement to land use application approval -- Exceptions -- Application relating to land in a high priority transportation corridor -- Municipality's requirements and limitations -- Vesting upon submission of development plan and schedule.
 
-(1) (a)  Except as provided in Subsection (1)(b), an applicant is entitled to approval of a land use application if the application conforms to the requirements of the municipality's land use maps, zoning map, and applicable land use ordinance in effect when a complete application is submitted and all application fees have been paid, unless:
+(1) (a)  Except as provided in Subsection (1)(b), an applicant is entitled to approval of a land use application if the application conforms to the requirements of the municipality's land use maps, zoning map, a municipal specification for public improvements applicable to a subdivision or development, and an applicable land use ordinance in effect when a complete application is submitted and all application fees have been paid, unless:
 
 (i)  the land use authority, on the record, finds that a compelling, countervailing public interest would be jeopardized by approving the application; or
 
@@ -58,13 +58,29 @@
 
 (g)  The continuing validity of an approval of a land use application is conditioned upon the applicant proceeding after approval to implement the approval with reasonable diligence.
 
-(h)  A municipality may not impose on a holder of an issued land use permit or approved subdivision plat a requirement that is not expressed:
+(h)  A municipality may not impose on an applicant who has submitted a complete application for preliminary subdivision approval a requirement that is not expressed in:
 
-(i)  in the land use permit or subdivision plat, documents on which the land use permit or subdivision plat is based, or the written record evidencing approval of the land use permit or subdivision plat; or
+(i)  this chapter;
 
-(ii)  in this chapter or the municipality's ordinances.
+(ii)  a municipal ordinance; or
 
-(i)  A municipality may not withhold issuance of a certificate of occupancy or acceptance of subdivision improvements because of an applicant's failure to comply with a requirement that is not expressed:
+(iii)  a municipal specification for public improvements applicable to a subdivision or development that is in effect on the date that the applicant submits an application.
+
+(i)  A municipality may not impose on a holder of an issued land use permit or a final, unexpired subdivision plat a requirement that is not expressed:
+
+(i)  in a land use permit;
+
+(ii)  on the subdivision plat;
+
+(iii)  in a document on which the land use permit or subdivision plat is based;
+
+(iv)  in the written record evidencing approval of the land use permit or subdivision plat; 
+
+(v)  in this chapter; or
+
+(vi)  in a municipal ordinance.
+
+(j)  A municipality may not withhold issuance of a certificate of occupancy or acceptance of subdivision improvements because of an applicant's failure to comply with a requirement that is not expressed:
 
 (i)  in the building permit or subdivision plat, documents on which the building permit or subdivision plat is based, or the written record evidencing approval of the land use permit or subdivision plat; or
 

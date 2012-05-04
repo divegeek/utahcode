@@ -36,13 +36,15 @@
 
 (B)  is an independent qualified actuary, including not being an employee or covered employee of the professional employer organization;
 
-(iv)  provides written notice to a covered employee participating in the health benefit plan that the health benefit plan is self-insured or is not fully insured; and
+(iv)  provides written notice to a covered employee participating in the health benefit plan that the health benefit plan is self-insured or is not fully insured;
 
 (v)  consents to an audit:
 
 (A)  on a random basis; or
 
-(B)  upon a finding of a reasonable need by the commissioner.
+(B)  upon a finding of a reasonable need by the commissioner; and
+
+(vi)  provides for continuation of coverage in compliance with Section 31A-22-722.
 
 (5)  The cost of an audit described in Subsection (4)(b)(v) shall be paid by the sponsoring professional employer organization.
 

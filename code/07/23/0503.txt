@@ -4,7 +4,23 @@
 
 (2)  In preparing the report required by Subsection (1), the commissioner:
 
-(a)  shall include in the report for the immediately preceding calendar year aggregate information from the one or more operations statements filed under Subsection 7-23-201(2)(e) by deferred deposit lenders for that calendar year; and
+(a)  shall include in the report for the immediately preceding calendar year aggregate information from the one or more operations statements filed under Subsection 7-23-201(2)(e) by deferred deposit lenders for that calendar year;
 
-(b)  may not include in the report information from an operations statement filed with the department that could identify a specific deferred deposit lender.
+(b)  shall include in the report:
+
+(i)  the total number of written complaints concerning issues material to deferred deposit loan transactions received by the department in a calendar year from persons who have entered into a deferred deposit loan with a deferred deposit lender;
+
+(ii)  for deferred deposit lenders who are registered with the department:
+
+(A)  the number of the complaints described in Subsection (2)(b)(i) that the department considers resolved; and
+
+(B)  the number of the complaints described in Subsection (2)(b)(i) that the department considers unresolved; and
+
+(iii)  for deferred deposit lenders who are not registered with the department:
+
+(A)  the number of the complaints described in Subsection (2)(b)(i) that the department considers resolved; and
+
+(B)  the number of the complaints described in Subsection (2)(b)(i) that the department considers unresolved; and
+
+(c)  may not include in the report information from an operations statement filed with the department that could identify a specific deferred deposit lender.
 

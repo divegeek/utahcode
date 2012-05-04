@@ -4,9 +4,11 @@ As used in this part:
 
 (1)  "Board" means the Solid and Hazardous Waste Control Board created under Section 19-1-106.
 
-(2)  "Executive secretary" means the executive secretary of the board.
+(2)  "Director" means the director of the Division of Solid and Hazardous Waste.
 
-(3) (a)  "Industrial byproduct" means an industrial residual, including:
+(3)  "Division" means the Division of Solid and Hazardous Waste, created in Subsection 19-1-105(1)(e).
+
+(4) (a)  "Industrial byproduct" means an industrial residual, including:
 
 (i)  inert construction debris;
 
@@ -30,7 +32,7 @@ As used in this part:
 
 (ii)  is a hazardous waste under Part 1, Solid and Hazardous Waste Act.
 
-(4)  "Public project" means a project of the Department of Transportation to construct:
+(5)  "Public project" means a project of the Department of Transportation to construct:
 
 (a)  a highway or road;
 
@@ -46,5 +48,5 @@ As used in this part:
 
 (g)  a facility, infrastructure, or transportation improvement that benefits the public.
 
-(5)  "Reuse" means to use an industrial byproduct in place of a raw material.
+(6)  "Reuse" means to use an industrial byproduct in place of a raw material.
 

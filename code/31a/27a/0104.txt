@@ -48,21 +48,19 @@
 
 (c)  a limited line producer;
 
-(d)  a customer service representative;
+(d)  an insurance consultant;
 
-(e)  an insurance consultant;
+(e)  a managing general agent;
 
-(f)  a managing general agent;
+(f)  reinsurance intermediary;
 
-(g)  reinsurance intermediary;
+(g)  a title insurance producer;
 
-(h)  a title insurance producer;
+(h)  a third party administrator;
 
-(i)  a third party administrator;
+(i)  an insurance adjustor;
 
-(j)  an insurance adjustor;
+(j)  a life settlement provider; or
 
-(k)  a life settlement provider; or
-
-(l)  a life settlement producer.
+(k)  a life settlement producer.
 
