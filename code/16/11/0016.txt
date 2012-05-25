@@ -1,4 +1,4 @@
-16-11-16.   Corporate name.
+16-11-16 (Superseded 07/01/13).   Corporate name.
 
 (1)  The name of each professional corporation as set forth in its articles of incorporation:
 
@@ -92,13 +92,15 @@
 
 (F)  "L.P.";
 
-(G)  "limited liability company";
+(G)  "Ltd.";
 
-(H)  "limited company";
+(H)  "limited liability company";
 
-(I)  "L.C."; or
+(I)  "limited company";
 
-(J)  "L.L.C.";
+(J)  "L.C."; or
+
+(K)  "L.L.C.";
 
 (ii)  the presence or absence of the words or symbols of the words "the," "and," "a," or "plus";
 
