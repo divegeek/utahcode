@@ -1,14 +1,13 @@
 #!/bin/sh
 date
-pushd ~/sources/utahcode
-git pull origin master
+cd ~/sources/utahcode
+git pull -q origin master
 rm -rf code constitution
 python /home/shawn/sources/utahcode/src/retrieve_code.py .
 git add code constitution
-git status > /dev/null
+git status
 if [ $? -eq 0 ]; then
     git commit -m "`date`" -a
     git tag -f -a -m "Daily tag" `date +"%F"`
     git push --tag origin master
 fi
-popd
