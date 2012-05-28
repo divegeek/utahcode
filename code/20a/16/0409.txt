@@ -1,8 +1,0 @@
-20A-16-409.   Declaration.
-
-A military-overseas ballot shall include or be accompanied by:
-
-(1)  a declaration signed by a covered voter that a material misstatement of fact in completing the ballot may be grounds for a conviction of perjury under the laws of the United States or Title 76, Chapter 8, Part 5, Falsification in Official Matters; and
-
-(2)  the following statement if the military-overseas ballot is electronically transmitted: "I understand that by electronically transmitting my voted ballot I am voluntarily waiving my right to a secret ballot.  Signature of voter ________________ Date _______".
-
