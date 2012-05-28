@@ -70,8 +70,6 @@ def extract_title(conn, title_name, code_dir):
 
     wp_files = [ e for e in zip_obj.infolist() if pattern.match(e.filename) ]
     for entry in wp_files:
-        print "Processing", entry.filename
-
         # Extract entry content into temporary file
         wp_file = tempfile.NamedTemporaryFile()
         wp_file.write(zip_obj.read(entry.filename))
