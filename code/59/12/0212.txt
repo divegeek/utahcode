@@ -1,0 +1,64 @@
+59-12-212.   Location of certain transactions if receipt of order and receipt of tangible personal property or product take place in this state -- Location of sale, lease, or rental of a service -- Exception from tax, penalty, or interest.
+
+(1)  The location of the sale of tangible personal property or a product transferred electronically is the location where the seller receives the order if:
+
+(a)  the seller receives the order for the tangible personal property or product transferred electronically in this state;
+
+(b)  receipt of the tangible personal property or product transferred electronically by the purchaser or the purchaser's donee occurs in this state;
+
+(c)  the location where receipt of the tangible personal property or product transferred electronically by the purchaser occurs is determined in accordance with Subsections (3) through (6); and
+
+(d)  at the time the seller receives the order, the record keeping system that the seller uses to calculate the proper amount of tax imposed under this chapter captures the location where the order is received.
+
+(2) (a)  Subject to Subsections (2)(b) through (d), for purposes of this section, the location where a seller receives an order is:
+
+(i)  a physical location of the seller or a third party; and
+
+(ii)  where an order is initially received by or on behalf of the seller.
+
+(b)  A physical location of a seller or third party includes the following if operated by or on behalf of the seller:
+
+(i)  an automated order receipt system;
+
+(ii)  an office; or
+
+(iii)  an outlet.
+
+(c)  The location where a seller receives an order does not include the location:
+
+(i)  where an order is accepted, completed, or fulfilled; or
+
+(ii)  from which tangible personal property or a product transferred electronically is shipped.
+
+(d)  For purposes of this Subsection (2), an order is considered to be received when all of the information necessary to the determination of whether the order can be accepted has been received by or on behalf of the seller.
+
+(3) (a)  A purchaser is not liable for a tax, penalty, or interest on a sale for which the purchaser remits a tax under this chapter to the seller in the amount the seller invoices if the amount is calculated at the total tax rate applicable to the location where:
+
+(i)  receipt by the purchaser occurs; or
+
+(ii)  the seller receives the order.
+
+(b)  A purchaser may rely on a written representation by the seller as to the location where the seller receives the order for the sale.
+
+(c)  If a purchaser does not have a written representation by the seller as to the location where the seller receives the order for the sale, the purchaser may determine the total tax rate applicable to the location where the order is received by using a location indicated by a business address for the seller that is available from the business records:
+
+(i)  of the purchaser; and
+
+(ii)  that are maintained in the ordinary course of the purchaser's business.
+
+(4)  If an item of tangible personal property or an item that is a product transferred electronically is sold with an item that is subject to Section 59-12-211, all of the items are subject to this section if the items are:
+
+(a)  sold under a single contract;
+
+(b)  sold in the same transaction; and
+
+(c)  billed on the same billing statement.
+
+(5)  Notwithstanding Section 59-12-211, a seller may elect to determine the location of a sale, lease, or rental of a service under this section if the seller makes any sale, lease, or rental that is subject to this section.
+
+(6)  Except as provided in Subsection (5), this section does not apply to the lease or rental of:
+
+(a)  tangible personal property; or
+
+(b)  a product transferred electronically.
+

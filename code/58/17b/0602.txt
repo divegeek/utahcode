@@ -1,0 +1,50 @@
+58-17b-602.   Prescription orders -- Information required -- Alteration -- Labels -- Signatures -- Dispensing in pharmacies.
+
+(1)  Except as provided in Section 58-1-501.3, the minimum information that shall be included in a prescription order, and that may be defined by rule, is:
+
+(a)  the prescriber's name, address, and telephone number, and, if the order is for a controlled substance, the patient's age and the prescriber's DEA number;
+
+(b)  the patient's name and address or, in the case of an animal, the name of the owner and species of the animal;
+
+(c)  the date of issuance;
+
+(d)  the name of the medication or device prescribed and dispensing instructions, if necessary;
+
+(e)  the directions, if appropriate, for the use of the prescription by the patient or animal and any refill, special labeling, or other instructions;
+
+(f)  the prescriber's signature if the prescription order is written;
+
+(g)  if the order is an electronically transmitted prescription order, the prescribing practitioner's electronic signature; and
+
+(h)  if the order is a hard copy prescription order generated from electronic media, the prescribing practitioner's electronic or manual signature.
+
+(2)  The requirement of Subsection (1)(a) does not apply to prescription orders dispensed for inpatients by hospital pharmacies if the prescriber is a current member of the hospital staff and the prescription order is on file in the patient's medical record.
+
+(3)  Unless it is for a Schedule II controlled substance, a prescription order may be dispensed by a pharmacist or pharmacy intern upon an oral prescription of a practitioner only if the oral prescription is promptly reduced to writing.
+
+(4) (a)  Except as provided under Subsection (4)(b), a pharmacist or pharmacy intern may not dispense or compound any prescription of a practitioner if the prescription shows evidence of alteration, erasure, or addition by any person other than the person writing the prescription.
+
+(b)  A pharmacist or pharmacy intern dispensing or compounding a prescription may alter or make additions to the prescription after receiving permission of the prescriber and may make entries or additions on the prescription required by law or necessitated in the compounding and dispensing procedures.
+
+(5)  Each drug dispensed shall have a label securely affixed to the container indicating the following minimum information:
+
+(a)  the name, address, and telephone number of the pharmacy;
+
+(b)  the serial number of the prescription as assigned by the dispensing pharmacy;
+
+(c)  the filling date of the prescription or its last dispensing date;
+
+(d)  the name of the patient, or in the case of an animal, the name of the owner and species of the animal;
+
+(e)  the name of the prescriber;
+
+(f)  the directions for use and cautionary statements, if any, which are contained in the prescription order or are needed;
+
+(g)  except as provided in Subsection (6), the trade, generic, or chemical name, amount dispensed and the strength of dosage form, but if multiple ingredient products with established proprietary or nonproprietary names are prescribed, those products' names may be used; and
+
+(h)  the beyond use date.
+
+(6)  If the prescriber specifically indicates the name of the prescription product should not appear on the label, then any of the trade, generic, chemical, established proprietary, and established nonproprietary names and the strength of dosage form may not be included.
+
+(7)  Except when it is delivered to the ultimate user via the United States Postal Service, licensed common carrier, or supportive personnel, a prescription drug may be dispensed to the ultimate user or his agent only at a licensed pharmacy.
+

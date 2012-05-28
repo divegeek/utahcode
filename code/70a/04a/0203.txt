@@ -1,0 +1,16 @@
+70A-4a-203.   Unenforceability of certain verified payment orders.
+
+(1)  This section applies to an accepted payment order that, pursuant to Subsection 70A-4a-202(1), is not an authorized order of a customer identified as sender, but which is effective as the order of the customer pursuant to Subsection 70A-4a-202(2).
+
+(2)  By express written agreement, the receiving bank may limit the extent to which it is entitled to enforce or retain payment of the payment order.
+
+(3) (a)  The receiving bank is not entitled to enforce or retain payment of the payment order if the customer proves that the order was not caused, directly or indirectly, by:
+
+(i)  a person entrusted at any time with duties to act for the customer with respect to payment orders or the security procedure; or
+
+(ii)  a person who obtained access to transmitting facilities of the customer or who obtained, from a source controlled by the customer and without authority of the receiving bank, information facilitating breach of the security procedure, regardless of how the information was obtained or whether the customer was at fault.
+
+(b)  Information includes any access device, computer software or the like.
+
+(4)  This section applies to amendments of payment orders to the same extent it applies to payment orders.
+

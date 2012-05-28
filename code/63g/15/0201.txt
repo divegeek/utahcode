@@ -1,0 +1,16 @@
+63G-15-201.   Restrictions for state issued identification numbers.
+
+(1)  In accordance with Subsection (2), a government entity may not use a nine digit number as a person's identification number with the government entity.
+
+(2)  The provisions of Subsection (1) apply to the government entity if the government entity's information technology system is:
+
+(a)  capable, within existing appropriations, of creating and using an identification number that is not a nine digit number; or
+
+(b)  undergoing significant reprogramming or design change and the elimination of a nine digit identification number can be accomplished as part of the reprogramming or redesign, or the nine digit number that will be used by the government entity:
+
+(i)  is a combination of letters and numbers;
+
+(ii)  is the individual's Social Security number and the use of the Social Security number is necessary for the governmental entity; or
+
+(iii)  is not the individual's Social Security number, but the government entity can take steps to ensure that the nine digit number is not an active Social Security number that is assigned to another person.
+

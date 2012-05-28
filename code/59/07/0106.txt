@@ -1,0 +1,152 @@
+59-7-106.   Subtractions from unadjusted income.
+
+(1)  In computing adjusted income the following amounts shall be subtracted from unadjusted income:
+
+(a)  the foreign dividend gross-up included in gross income for federal income tax purposes under Section 78, Internal Revenue Code;
+
+(b)  subject to Subsection (2), the net capital loss, as defined for federal purposes, if the taxpayer elects to deduct the net capital loss on the return filed under this chapter for the taxable year for which the net capital loss is incurred;
+
+(c)  the decrease in salary expense deduction for federal income tax purposes due to claiming the federal work opportunity credit under Section 51, Internal Revenue Code;
+
+(d)  the decrease in qualified research and basic research expense deduction for federal income tax purposes due to claiming the federal credit for increasing research activities under Section 41, Internal Revenue Code;
+
+(e)  the decrease in qualified clinical testing expense deduction for federal income tax purposes due to claiming the federal credit for clinical testing expenses for certain drugs for rare diseases or conditions under Section 45C, Internal Revenue Code;
+
+(f)  any decrease in any expense deduction for federal income tax purposes due to claiming any other federal credit;
+
+(g)  the safe harbor lease adjustment required under Subsections 59-7-111(1)(b) and (2)(b);
+
+(h)  any income on the federal corporation income tax return that has been previously taxed by Utah;
+
+(i)  an amount included in federal taxable income that is due to a refund of a tax, including a franchise tax, an income tax, a corporate stock and business tax, or an occupation tax:
+
+(i)  if that tax is imposed for the privilege of:
+
+(A)  doing business; or
+
+(B)  exercising a corporate franchise;
+
+(ii)  if that tax is paid by the corporation to:
+
+(A)  Utah;
+
+(B)  another state of the United States;
+
+(C)  a foreign country;
+
+(D)  a United States possession; or
+
+(E)  the Commonwealth of Puerto Rico; and
+
+(iii)  to the extent that tax was added to unadjusted income under Section 59-7-105;
+
+(j)  a charitable contribution, to the extent the charitable contribution is allowed as a subtraction under Section 59-7-109;
+
+(k)  subject to Subsection (3), 50% of a dividend considered to be received or received from a subsidiary that:
+
+(i)  is a member of the unitary group;
+
+(ii)  is organized or incorporated outside of the United States; and
+
+(iii)  is not included in a combined report under Section 59-7-402 or 59-7-403; 
+
+(l)  subject to Subsection (4) and Section 59-7-401, 50% of the adjusted income of a foreign operating company;
+
+(m)  the amount of gain or loss that is included in unadjusted income but not recognized for federal purposes on stock sold or exchanged by a member of a selling consolidated group as defined in Section 338, Internal Revenue Code, if an election has been made in accordance with Section 338(h)(10), Internal Revenue Code;
+
+(n)  the amount of gain or loss that is included in unadjusted income but not recognized for federal purposes on stock sold, exchanged, or distributed by a corporation in accordance with Section 336(e), Internal Revenue Code, if an election under Section 336(e), Internal Revenue Code, has been made for federal purposes;
+
+(o)  subject to Subsection (5), an adjustment to the following due to a difference between basis for federal purposes and basis as computed under Section 59-7-107:
+
+(i)  an amortization expense;
+
+(ii)  a depreciation expense;
+
+(iii)  a gain;
+
+(iv)  a loss; or
+
+(v)  an item similar to Subsections (1)(o)(i) through (iv);
+
+(p)  an interest expense that is not deducted on a federal corporation income tax return under Section 265(b) or 291(e), Internal Revenue Code;
+
+(q)  100% of dividends received from a subsidiary that is an insurance company if that subsidiary that is an insurance company is:
+
+(i)  exempt from this chapter under Subsection 59-7-102(1)(c); and
+
+(ii)  under common ownership;
+
+(r)  subject to Subsection 59-7-105(12), the amount of a qualified investment as defined in Section 53B-8a-102 that:
+
+(i)  a corporation that is an account owner as defined in Section 53B-8a-102 makes during the taxable year;
+
+(ii)  the corporation described in Subsection (1)(r)(i) does not deduct on a federal corporation income tax return; and
+
+(iii)  does not exceed the maximum amount of the qualified investment that may be subtracted from unadjusted income for a taxable year in accordance with Subsection 53B-8a-106(1); and
+
+(s)  for purposes of income included in a combined report under Part 4, Combined Reporting, the entire amount of the dividends a member of a unitary group receives or is considered to receive from a captive real estate investment trust.
+
+(2)  For purposes of Subsection (1)(b):
+
+(a)  the subtraction shall be made by claiming the subtraction on a return filed:
+
+(i)  under this chapter for the taxable year for which the net capital loss is incurred; and
+
+(ii)  by the due date of the return, including extensions; and
+
+(b)  a net capital loss for a taxable year shall be:
+
+(i)  subtracted for the taxable year for which the net capital loss is incurred; or
+
+(ii)  carried forward as provided in Sections 1212(a)(1)(B) and (C), Internal Revenue Code.
+
+(3) (a)  For purposes of calculating the subtraction provided for in Subsection (1)(k), a taxpayer shall first subtract from a dividend considered to be received or received an expense directly attributable to that dividend.
+
+(b)  For purposes of Subsection (3)(a), the amount of an interest expense that is considered to be directly attributable to a dividend is calculated by multiplying the interest expense by a fraction:
+
+(i)  the numerator of which is the taxpayer's average investment in the dividend paying subsidiaries; and
+
+(ii)  the denominator of which is the taxpayer's average total investment in assets.
+
+(c) (i)  For purposes of calculating the subtraction allowed by Subsection (1)(k), in determining income apportionable to this state, a portion of the factors of a foreign subsidiary that has dividends that are partially subtracted under Subsection (1)(k) shall be included in the combined report factors as provided in this Subsection (3)(c).
+
+(ii)  For purposes of Subsection (3)(c)(i), the portion of the factors of a foreign subsidiary that has dividends that are partially subtracted under Subsection (1)(k) that shall be included in the combined report factors is calculated by multiplying each factor of the foreign subsidiary by a fraction:
+
+(A)  not to exceed 100%; and
+
+(B) (I)  the numerator of which is the amount of the dividend paid by the foreign subsidiary that is included in adjusted income; and
+
+(II)  the denominator of which is the current year earnings and profits of the foreign subsidiary as determined under the Internal Revenue Code.
+
+(4) (a)  For purposes of Subsection (1)(l), a taxpayer may not make a subtraction under Subsection (1)(l):
+
+(i)  if the taxpayer elects to file a worldwide combined report as provided in Section 59-7-403; or
+
+(ii)  for the following:
+
+(A)  income generated from intangible property; or
+
+(B)  a capital gain, dividend, interest, rent, royalty, or other similar item that is generated from an asset held for investment and not from a regular business trading activity.
+
+(b)  In calculating the subtraction provided for in Subsection (1)(l), a foreign operating company:
+
+(i)  may not subtract an amount provided for in Subsection (1)(k) or (l); and
+
+(ii)  prior to determining the subtraction under Subsection (1)(l), shall eliminate a transaction that occurs between members of a unitary group.
+
+(c)  For purposes of the subtraction provided for in Subsection (1)(l), in determining income apportionable to this state, the factors for a foreign operating company shall be included in the combined report factors in the same percentages as the foreign operating company's adjusted income is included in the combined adjusted income.
+
+(d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define what constitutes:
+
+(i)  income generated from intangible property; or
+
+(ii)  a capital gain, dividend, interest, rent, royalty, or other similar item that is generated from an asset held for investment and not from a regular business trading activity.
+
+(5) (a)  For purposes of the subtraction provided for in Subsection (1)(o), the amount of a reduction in basis shall be allowed as an expense for the taxable year in which a federal tax credit is claimed if:
+
+(i)  there is a reduction in federal basis for a federal tax credit; and
+
+(ii)  there is no corresponding tax credit allowed in this state.
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define what constitutes an item similar to Subsections (1)(o)(i) through (iv).
+

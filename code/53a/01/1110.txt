@@ -1,0 +1,16 @@
+53A-1-1110.    Letter grade based on percent of maximum points earned.
+
+(1)  Except as provided in Subsection (2), a school shall receive a letter grade based on the percent of the maximum number of points the school may earn as calculated under Section 53A-1-1109 as follows:
+
+(a)  A, 100% - 90%;
+
+(b)  B, 89% - 80%;
+
+(c)  C, 79% - 70%;
+
+(d)  D, 69% - 50%; and
+
+(e)  F, 49% or less.
+
+(2)  If student participation in a statewide assessment is fewer than 95%, the school shall receive an F.
+

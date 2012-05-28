@@ -1,0 +1,60 @@
+59-2-201.   Assessment by commission -- Determination of value of mining property -- Notification of assessment -- Local assessment of property assessed by the unitary method.
+
+(1) (a)  By May 1 of each year the following property, unless otherwise exempt under the Utah Constitution or under Part 11, Exemptions, Deferrals, and Abatements, shall be assessed by the commission at 100% of fair market value, as valued on January 1, in accordance with this chapter:
+
+(i)  except as provided in Subsection (2), all property which operates as a unit across county lines, if the values must be apportioned among more than one county or state;
+
+(ii)  all property of public utilities;
+
+(iii)  all operating property of an airline, air charter service, and air contract service;
+
+(iv)  all geothermal fluids and geothermal resources;
+
+(v)  all mines and mining claims except in cases, as determined by the commission, where the mining claims are used for other than mining purposes, in which case the value of mining claims used for other than mining purposes shall be assessed by the assessor of the county in which the mining claims are located; and
+
+(vi)  all machinery used in mining, all property or surface improvements upon or appurtenant to mines or mining claims.  For the purposes of assessment and taxation, all processing plants, mills, reduction works, and smelters which are primarily used by the owner of a mine or mining claim for processing, reducing, or smelting minerals taken from a mine or mining claim shall be considered appurtenant to that mine or mining claim, regardless of actual location.
+
+(b) (i)  For purposes of Subsection (1)(a)(iii), operating property of an air charter service does not include an aircraft that is:
+
+(A)  used by the air charter service for air charter; and
+
+(B)  owned by a person other than the air charter service.
+
+(ii)  For purposes of this Subsection (1)(b):
+
+(A)  "person" means a natural person, individual, corporation, organization, or other legal entity; and
+
+(B)  a person does not qualify as a person other than the air charter service as described in Subsection (1)(b)(i)(B) if the person is:
+
+(I)  a principal, owner, or member of the air charter service; or
+
+(II)  a legal entity that has a principal, owner, or member of the air charter service as a principal, owner, or member of the legal entity.
+
+(2)  The commission shall assess and collect property tax on state-assessed commercial vehicles at the time of original registration or annual renewal.
+
+(a)  The commission shall assess and collect property tax annually on state-assessed commercial vehicles which are registered pursuant to Section 41-1a-222 or 41-1a-228.
+
+(b)  State-assessed commercial vehicles brought into the state which are required to be registered in Utah shall, as a condition of registration, be subject to ad valorem tax unless all property taxes or fees imposed by the state of origin have been paid for the current calendar year.
+
+(c)  Real property, improvements, equipment, fixtures, or other personal property in this state owned by the company shall be assessed separately by the local county assessor.
+
+(d)  The commission shall adjust the value of state-assessed commercial vehicles as necessary to comply with 49 U.S.C. Sec. 14502, and the commission shall direct the county assessor to apply the same adjustment to any personal property, real property, or improvements owned by the company and used directly and exclusively in their commercial vehicle activities.
+
+(3)  The method for determining the fair market value of productive mining property is the capitalized net revenue method or any other valuation method the commission believes, or the taxpayer demonstrates to the commission's satisfaction, to be reasonably determinative of the fair market value of the mining property.  The rate of capitalization applicable to mines shall be determined by the commission, consistent with a fair rate of return expected by an investor in light of that industry's current market, financial, and economic conditions.  In no event may the fair market value of the mining property be less than the fair market value of the land, improvements, and tangible personal property upon or appurtenant to the mining property.
+
+(4)  Immediately following the assessment, the owner or operator of the assessed property shall be notified of the assessment by certified mail.  The assessor of the county in which the property is located shall also be immediately notified of the assessment by certified mail.
+
+(5)  Property assessed by the unitary method, which is not necessary to the conduct and does not contribute to the income of the business as determined by the commission, shall be assessed separately by the local county assessor.
+
+(6) (a)  Except as provided in Subsection (6)(b), for calendar years beginning on or after January 1, 2009 and ending on or before December 31, 2010, the method for determining the fair market value of an aircraft, aircraft type, or mobile flight equipment assessed under this part is equal to:
+
+(i)  the value referenced in the Used Price for Avg Acft Wholesale column of the Airliner Price Guide by make, model, series, and year of manufacture; minus
+
+(ii)  20% of the value described in Subsection (6)(a)(i).
+
+(b)  Notwithstanding Subsection (6)(a), for calendar years beginning on or after January 1, 2009 and ending on or before December 1, 2010, the method for determining the fair market value of an aircraft not listed in the Airliner Price Guide is equal to:
+
+(i)  the value references in the Average Wholesale column of the Aircraft Bluebook Price Digest by make, model, series, and year of manufacture; minus
+
+(ii)  20% of the value described in Subsection (6)(b)(i).
+

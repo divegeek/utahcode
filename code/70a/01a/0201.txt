@@ -1,0 +1,114 @@
+70A-1a-201.   General definitions.
+
+(1)  Unless the context otherwise requires, words or phrases defined in this section, or in the additional definitions contained in other chapters of this title that apply to particular chapters or parts thereof, have the meanings stated.
+
+(2)  Subject to definitions contained in other chapters of this title that apply to particular chapters or parts thereof:
+
+(a)  "Action," in the sense of a judicial proceeding, includes recoupment, counterclaim, set-off, suit in equity, and any other proceeding in which rights are determined.
+
+(b)  "Aggrieved party" means a party entitled to pursue a remedy.
+
+(c)  "Agreement," as distinguished from "contract," means the bargain of the parties in fact, as found in their language or inferred from other circumstances, including course of performance, course of dealing, or usage of trade as provided in Section 70A-1a-303.
+
+(d)  "Bank" means a person engaged in the business of banking and includes a savings bank, savings and loan association, credit union, and trust company.
+
+(e)  "Bearer" means a person in possession of a negotiable instrument, document of title, or certificated security that is payable to bearer or indorsed in blank.
+
+(f)  "Bill of lading" means a document evidencing the receipt of goods for shipment issued by a person engaged in the business of transporting or forwarding goods.
+
+(g)  "Branch" includes a separately incorporated foreign branch of a bank.
+
+(h)  "Burden of establishing" a fact means the burden of persuading the trier of fact that the existence of the fact is more probable than its nonexistence.
+
+(i)  "Buyer in ordinary course of business" means a person that buys goods in good faith, without knowledge that the sale violates the rights of another person in the goods, and in the ordinary course from a person, other than a pawnbroker, in the business of selling goods of that kind.  A person buys goods in the ordinary course if the sale to the person comports with the usual or customary practices in the kind of business in which the seller is engaged or with the seller's own usual or customary practices.  A person that sells oil, gas, or other minerals at the wellhead or minehead is a person in the business of selling goods of that kind.  A buyer in ordinary course of business may buy for cash, by exchange of other property, or on secured or unsecured credit, and may acquire goods or documents of title under a preexisting contract for sale.  Only a buyer that takes possession of the goods or has a right to recover the goods from the seller under Chapter 2, Uniform Commercial Code - Sales, may be a buyer in ordinary course of business.  "Buyer in ordinary course of business" does not include a person that acquires goods in a transfer in bulk or as security for or in total or partial satisfaction of a money debt.
+
+(j)  "Conspicuous," with reference to a term, means so written, displayed, or presented that a reasonable person against which it is to operate ought to have noticed it.  Whether a term is conspicuous or not is a decision for the court.  Conspicuous terms include the following:
+
+(i)  a heading in capitals equal to or greater in size than the surrounding text, or in contrasting type, font, or color to the surrounding text of the same or lesser size; and
+
+(ii)  language in the body of a record or display in larger type than the surrounding text, or in contrasting type, font, or color to the surrounding text of the same size, or set off from surrounding text of the same size by symbols or other marks that call attention to the language.
+
+(k)  "Consumer" means an individual who enters into a transaction primarily for personal, family, or household purposes.
+
+(l)  "Contract," as distinguished from "agreement," means the total legal obligation that results from the parties' agreement as determined by this title as supplemented by any other applicable laws.
+
+(m)  "Creditor" includes a general creditor, a secured creditor, a lien creditor, and any representative of creditors, including an assignee for the benefit of creditors, a trustee in bankruptcy, a receiver in equity, and an executor or administrator of an insolvent debtor's or assignor's estate.
+
+(n)  "Defendant" includes a person in the position of defendant in a counterclaim, cross-claim, or third-party claim.
+
+(o)  "Delivery," with respect to an instrument, document of title, or chattel paper, means voluntary transfer of possession.
+
+(p)  "Document of title" includes bill of lading, dock warrant, dock receipt, warehouse receipt or order for the delivery of goods, and also any other document which in the regular course of business or financing is treated as adequately evidencing that the person in possession of it is entitled to receive, hold, and dispose of the document and the goods it covers.  To be a document of title, a document must purport to be issued by or addressed to a bailee and purport to cover goods in the bailee's possession which are either identified or are fungible portions of an identified mass.
+
+(q)  "Fault" means a default, breach, or wrongful act or omission.
+
+(r)  "Fungible goods" means:
+
+(i)  goods of which any unit, by nature or usage of trade, is the equivalent of any other like unit; or
+
+(ii)  goods that by agreement are treated as equivalent.
+
+(s)  "Genuine" means free of forgery or counterfeiting.
+
+(t)  "Good faith" means honesty in fact in the conduct or transaction concerned.
+
+(u)  "Holder" means:
+
+(i)  the person in possession of a negotiable instrument that is payable either to bearer or to an identified person that is the person in possession; or
+
+(ii)  the person in possession of a document of title if the goods are deliverable either to bearer or to the order of the person in possession.
+
+(v)  "Insolvency proceeding" includes an assignment for the benefit of creditors or other proceeding intended to liquidate or rehabilitate the estate of the person involved.
+
+(w)  "Insolvent" means:
+
+(i)  having generally ceased to pay debts in the ordinary course of business other than as a result of bona fide dispute;
+
+(ii)  being unable to pay debts as they become due; or
+
+(iii)  being insolvent within the meaning of federal bankruptcy law.
+
+(x)  "Money" means a medium of exchange currently authorized or adopted by a domestic or foreign government.  The term includes a monetary unit of account established by an intergovernmental organization or by agreement between two or more countries.
+
+(y)  "Organization" means a person other than an individual.
+
+(z)  "Party," as distinguished from "third party," means a person that has engaged in a transaction or made an agreement subject to this title.
+
+(aa)  "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government, governmental subdivision, agency, instrumentality, public corporation, or any other legal or commercial entity.
+
+(bb)  "Present value" means the amount as of a date certain of one or more sums payable in the future, discounted to the date certain by use of either an interest rate specified by the parties if that rate is not manifestly unreasonable at the time the transaction is entered into or, if an interest rate is not so specified, a commercially reasonable rate that takes into account the facts and circumstances at the time the transaction is entered into.
+
+(cc)  "Purchase" means taking by sale, lease, discount, negotiation, mortgage, pledge, lien, security interest, issue or reissue, gift, or any other voluntary transaction creating an interest in property.
+
+(dd)  "Purchaser" means a person that takes by purchase.
+
+(ee)  "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+(ff)  "Remedy" means any remedial right to which an aggrieved party is entitled with or without resort to a tribunal.
+
+(gg)  "Representative" means a person empowered to act for another, including an agent, an officer of a corporation or association, and a trustee, executor, or administrator of an estate.
+
+(hh)  "Right" includes remedy.
+
+(ii)  "Security interest" means an interest in personal property or fixtures which secures payment or performance of an obligation.  "Security interest" includes any interest of a consignor and a buyer of accounts, chattel paper, a payment intangible, or a promissory note in a transaction that is subject to Chapter 9a, Uniform Commercial Code - Secured Transactions.  "Security interest" does not include the special property interest of a buyer of goods on identification of those goods to a contract for sale under Section 70A-2-401, but a buyer may also acquire a "security interest" by complying with Chapter 9a, Uniform Commercial Code - Secured Transactions.  Except as otherwise provided in Section 70A-2-505, the right of a seller or lessor of goods under Chapter 2, Uniform Commercial Code - Sales, or 2A, Uniform Commercial Code - Leases, to retain or acquire possession of the goods is not a "security interest," but a seller or lessor may also acquire a "security interest" by complying with Chapter 9a, Uniform Commercial Code - Secured Transactions.  The retention or reservation of title by a seller of goods notwithstanding shipment or delivery to the buyer under Section 70A-2-401 is limited in effect to a reservation of a "security interest." Whether a transaction in the form of a lease creates a "security interest" is determined pursuant to Section 70A-1a-203.
+
+(jj)  "Send" in connection with a writing, record, or notice means:
+
+(i)  to deposit in the mail or deliver for transmission by any other usual means of communication with postage or cost of transmission provided for and properly addressed and, in the case of an instrument, to an address specified thereon or otherwise agreed, or if there be none to any address reasonable under the circumstances; or
+
+(ii)  in any other way to cause to be received any record or notice within the time it would have arrived if properly sent.
+
+(kk)  "Signed" includes using any symbol executed or adopted with present intention to adopt or accept a writing.
+
+(ll)  "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+
+(mm)  "Surety" includes a guarantor or other secondary obligor.
+
+(nn)  "Term" means a portion of an agreement that relates to a particular matter.
+
+(oo)  "Unauthorized signature" means a signature made without actual, implied, or apparent authority.  The term includes a forgery.
+
+(pp)  "Warehouse receipt" means a receipt issued by a person engaged in the business of storing goods for hire.
+
+(qq)  "Writing" includes printing, typewriting, or any other intentional reduction to tangible form.  "Written" has a corresponding meaning.
+

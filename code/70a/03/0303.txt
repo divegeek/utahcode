@@ -1,0 +1,16 @@
+70A-3-303.   Value and consideration.
+
+(1)  An instrument is issued or transferred for value if:
+
+(a)  the instrument is issued or transferred for a promise of performance, to the extent the promise has been performed;
+
+(b)  the transferee acquires a security interest or other lien in the instrument other than a lien obtained by judicial proceeding;
+
+(c)  the instrument is issued or transferred as payment of, or as security for, an antecedent claim against any person, whether or not the claim is due;
+
+(d)  the instrument is issued or transferred in exchange for a negotiable instrument; or
+
+(e)  the instrument is issued or transferred in exchange for the incurring of an irrevocable obligation to a third party by the person taking the instrument.
+
+(2)  "Consideration" means any consideration sufficient to support a simple contract.  The drawer or maker of an instrument has a defense if the instrument is issued without consideration. If an instrument is issued for a promise of performance, the issuer has a defense to the extent performance of the promise is due and the promise has not been performed.  If an instrument is issued for value as stated in Subsection (1), the instrument is also issued for consideration.
+

@@ -1,0 +1,56 @@
+57-8a-220.   Creditor approval may be required for lot owner or association action under declaration -- Creditor approval presumed in certain circumstances -- Notice to creditor or creditor's successor.
+
+(1) (a)  Subject to Subsection (1)(b), a declaration may:
+
+(i)  condition the effectiveness of lot owners' actions specified in the declaration on the approval of a specified number or percentage of lenders holding a security interest in the lots; or
+
+(ii)  condition the effectiveness of association actions specified in the declaration on the approval of a specified number or percentage of lenders that have extended credit to the association.
+
+(b)  A condition under Subsection (1)(a) may not:
+
+(i)  deny or delegate the lot owners' or board's control over the association's general administrative affairs;
+
+(ii)  prevent the association or board from commencing, intervening in, or settling any litigation or proceeding; or
+
+(iii)  prevent an insurance trustee or the association from receiving or distributing insurance proceeds under Subsection 57-8a-405(12).
+
+(c)  A condition under Subsection (1)(a) does not violate a prohibition under Subsection (1)(b) by:
+
+(i)  requiring the association to deposit the association's assessments before default with the lender assigned the income; or
+
+(ii)  requiring the association to increase an assessment at the lender's direction by an amount reasonably necessary to pay the loan in accordance with the loan terms.
+
+(d)  This Subsection (1) applies to:
+
+(i)  an association formed before, on, or after May 10, 2011; and
+
+(ii)  documents created and recorded before, on, or after May 10, 2011.
+
+(2)  Subject to this chapter and applicable law, a lender who has extended credit to an association secured by an assignment of income or an encumbrance of the common areas may enforce the lender's security agreement as provided in the agreement.
+
+(3) (a)  Subject to Subsection (4), a security holder's consent that is required under Subsection (1) to amend a declaration or bylaw or for another association action is presumed if:
+
+(i)  the association sends written notice of the proposed amendment or action by certified or registered mail to the security holder's address stated in a recorded document evidencing the security interest; and
+
+(ii)  the person designated in a notice under Subsection (3)(a)(i) to receive the security holder's response does not receive a response within 60 days after the association sends notice under Subsection (3)(a)(i).
+
+(b)  If a security holder's address for receiving notice is not stated in a recorded document evidencing the security interest, an association:
+
+(i)  shall use reasonable efforts to find a mailing address for the security holder; and
+
+(ii)  may send the notice to any address obtained under Subsection (3)(b)(i).
+
+(4)  If a security holder responds in writing within 60 days after the association sends notice under Subsection (3)(a)(i) that the security interest has been assigned or conveyed to another person, the association:
+
+(a)  shall:
+
+(i)  send a notice under Subsection (3)(a)(i) to the person assigned or conveyed the security interest at the address provided by the security holder in the security holder's response; or
+
+(ii)  if no address is provided:
+
+(A)  use reasonable efforts to find a mailing address for the person assigned or conveyed the security interest; and
+
+(B)  send notice by certified or registered mail to the person at the address that the association finds under Subsection (4)(a)(ii)(A); and
+
+(b)  may not presume the security holder's consent under Subsection (3)(a) unless the person designated in a notice under Subsection (4)(a) to receive the response from the person assigned or conveyed the security interest does not receive a response within 60 days after the association sends the notice.
+

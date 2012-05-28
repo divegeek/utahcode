@@ -1,0 +1,52 @@
+63F-1-204.   Agency information technology plans.
+
+(1) (a)  By July 1 of each year, each executive branch agency shall submit an agency information technology plan to the chief information officer at the department level, unless the governor or the chief information officer request an information technology plan be submitted by a subunit of a department, or by an executive branch agency other than a department.
+
+(b)  The information technology plans required by this section shall be in the form and level of detail required by the chief information officer, by administrative rule adopted in accordance with Section 63F-1-206, and shall include, at least:
+
+(i)  the information technology objectives of the agency;
+
+(ii)  any performance measures used by the agency for implementing the agency's information technology objectives;
+
+(iii)  any planned expenditures related to information technology;
+
+(iv)  the agency's need for appropriations for information technology;
+
+(v)  how the agency's development of information technology coordinates with other state and local governmental entities;
+
+(vi)  any efforts the agency has taken to develop public and private partnerships to accomplish the information technology objectives of the agency; and
+
+(vii)  the efforts the executive branch agency has taken to conduct transactions electronically in compliance with Section 46-4-503.
+
+(2) (a)  Except as provided in Subsection (2)(b), an agency information technology plan described in Subsection (1) shall comply with the executive branch strategic plan established in accordance with Section 63F-1-203.
+
+(b)  If the executive branch agency submitting the agency information technology plan justifies the need to depart from the executive branch strategic plan, an agency information technology plan may depart from the executive branch strategic plan to the extent approved by the chief information officer.
+
+(3) (a)  On receipt of a state agency information technology plan, the chief information officer shall forward a complete copy of the agency information technology plan to the Division of Enterprise Technology created in Section 63F-1-401 and the Division of Integrated Technology created in Section 63F-1-501.
+
+(b)  The divisions shall provide the chief information officer a written analysis of each agency plan submitted in accordance with Sections 63F-1-404 and 63F-1-504.
+
+(4) (a)  The chief information officer shall review each agency plan to determine:
+
+(i) (A)  whether the agency plan complies with the executive branch strategic plan and state information architecture; or
+
+(B)  to the extent that the agency plan does not comply with the executive branch strategic plan or state information architecture, whether the executive branch entity is justified in departing from the executive branch strategic plan, or state information architecture; and
+
+(ii)  whether the agency plan meets the information technology and other needs of:
+
+(A)  the executive branch agency submitting the plan; and
+
+(B)  the state.
+
+(b)  In conducting the review required by Subsection (4)(a), the chief information officer shall consider the analysis submitted by the divisions under Subsection (3).
+
+(5)  After the chief information officer conducts the review described in Subsection (4) of an agency information technology plan, the chief information officer may:
+
+(a)  approve the agency information technology plan;
+
+(b)  disapprove the agency information technology plan; or
+
+(c)  recommend modifications to the agency information technology plan.
+
+(6)  An executive branch agency or the department may not submit a request for appropriation related to information technology or an information technology system to the governor in accordance with Section 63J-1-201 until after the executive branch agency's information technology plan is approved by the chief information officer.
+

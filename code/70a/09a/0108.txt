@@ -1,0 +1,32 @@
+70A-9a-108.   Sufficiency of description.
+
+(1) Except as otherwise provided in Subsections (3), (4), and (5), a description of personal or real property is sufficient, whether or not it is specific, if it reasonably identifies what is described.
+
+(2) Except as otherwise provided in Subsection (4), a description of collateral reasonably identifies the collateral if it identifies the collateral by:
+
+(a)  specific listing;
+
+(b)  category;
+
+(c)  except as otherwise provided in Subsection (5), a type of collateral defined in this title;
+
+(d)  quantity;
+
+(e)  computational or allocational formula or procedure; or
+
+(f)  except as otherwise provided in Subsection (3), any other method, if the identity of the collateral is objectively determinable.
+
+(3)  A description of collateral as "all the debtor's assets" or "all the debtor's personal property" or using words of similar import does not reasonably identify the collateral.
+
+(4)  Except as otherwise provided in Subsection (5), a description of a security entitlement, securities account, or commodity account is sufficient if it describes:
+
+(a)  the collateral by those terms or as investment property; or
+
+(b)  the underlying financial asset or commodity contract.
+
+(5)  A description only by type of collateral defined in this title is an insufficient description of:
+
+(a)  a commercial tort claim; or
+
+(b)  in a consumer transaction, consumer goods, a security entitlement, a securities account, or a commodity account.
+
