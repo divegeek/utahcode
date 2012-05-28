@@ -1,0 +1,152 @@
+38-1a-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Alternate means" means a method of filing a legible and complete notice or other document with the registry other than electronically, as established by the division by rule.
+
+(2)  "Anticipated improvement" means the improvement:
+
+(a)  for which preconstruction service is performed; and
+
+(b)  that is anticipated to follow the performing of preconstruction service.
+
+(3)  "Applicable county recorder" means the office of the recorder of each county in which any part of the property on which a claimant claims or intends to claim a preconstruction or construction lien is located.
+
+(4)  "Bona fide loan" means a loan to an owner or owner-builder by a lender in which the owner or owner-builder has no financial or beneficial interest greater than 5% of the voting shares or other ownership interest.
+
+(5)  "Claimant" means a person entitled to claim a preconstruction or construction lien.
+
+(6)  "Compensation" means the payment of money for a service rendered or an expense incurred, whether based on:
+
+(a)  time and expense, lump sum, stipulated sum, percentage of cost, cost plus fixed or percentage fee, or commission; or
+
+(b)  a combination of the bases listed in Subsection (6)(a).
+
+(7)  "Construction lien" means a lien under this chapter for construction work.
+
+(8)  "Construction loan" does not include a consumer loan secured by the equity in the consumer's home.
+
+(9)  "Construction project" means construction work provided under an original contract.
+
+(10)  "Construction work":
+
+(a)  means labor, service, material, or equipment provided for the purpose and during the process of constructing, altering, or repairing an improvement; and
+
+(b)  includes scheduling, estimating, staking, supervising, managing, materials testing, inspection, observation, and quality control or assurance involved in constructing, altering, or repairing an improvement.
+
+(11)  "Contestable notice" means a notice of retention under Section 38-1a-401, a preliminary notice under Section 38-1a-501, or a notice of completion under Section 38-1a-506.
+
+(12)  "Contesting person" means an owner, original contractor, subcontractor, or other interested person.
+
+(13)  "Designated agent" means the third party the division contracts with as provided in Section 38-1a-202 to create and maintain the registry.
+
+(14)  "Division" means the Division of Occupational and Professional Licensing created in Section 58-1-103.
+
+(15)  "Entry number" means the reference number that:
+
+(a)  the designated agent assigns to each notice or other document filed with the registry; and
+
+(b)  is unique for each notice or other document.
+
+(16)  "Final completion" means:
+
+(a)  the date of issuance of a permanent certificate of occupancy by the local government entity having jurisdiction over the construction project, if a permanent certificate of occupancy is required;
+
+(b)  the date of the final inspection of the construction work by the local government entity having jurisdiction over the construction project, if an inspection is required under a state-adopted building code applicable to the construction work, but no certificate of occupancy is required;
+
+(c)  unless the owner is holding payment to ensure completion of construction work, the date on which there remains no substantial work to be completed to finish the construction work under the original contract, if a certificate of occupancy is not required and a final inspection is not required under an applicable state-adopted building code; or
+
+(d)  the last date on which substantial work was performed under the original contract, if, because the original contract is terminated before completion of the construction work defined by the original contract, the local government entity having jurisdiction over the construction project does not issue a certificate of occupancy or perform a final inspection.
+
+(17)  "First preliminary notice filing" means the filing of a preliminary notice that is:
+
+(a)  the earliest preliminary notice filed on a construction project;
+
+(b)  filed on or after August 1, 2011;
+
+(c)  not filed on a project that, according to the law in effect before August 1, 2011, commenced before August 1, 2011;
+
+(d)  not canceled under Section 38-1a-307; and
+
+(e)  not withdrawn under Subsection 38-1a-501(5).
+
+(18)  "Government project-identifying information" has the same meaning as defined in Section 38-1b-102.
+
+(19)  "Improvement" means:
+
+(a)  a building, infrastructure, utility, or other human-made structure or object constructed on or for and affixed to real property; or
+
+(b)  a repair, modification, or alteration of a building, infrastructure, utility, or object referred to in Subsection (19)(a).
+
+(20)  "Interested person" means a person who may be affected by a construction project.
+
+(21)  "Notice of commencement" means a notice required under Section 38-1b-201 for a government project, as defined in Section 38-1b-102.
+
+(22)  "Original contract":
+
+(a)  means a contract between an owner and an original contractor for preconstruction service or construction work; and
+
+(b)  does not include a contract between an owner-builder and another person.
+
+(23)  "Original contractor" means a person who contracts with an owner, other than an owner-builder, to provide preconstruction service or construction work.
+
+(24)  "Owner" means the person who owns the project property.
+
+(25)  "Owner-builder" means an owner who:
+
+(a)  contracts with one or more other persons for preconstruction service or construction work for an improvement on the owner's real property; and
+
+(b)  obtains a building permit for the improvement.
+
+(26)  "Preconstruction service":
+
+(a)  means to plan or design, or to assist in the planning or design of, an improvement or a proposed improvement:
+
+(i)  before construction of the improvement commences; and
+
+(ii)  for compensation separate from any compensation paid or to be paid for construction work for the improvement; and
+
+(b)  includes consulting, conducting a site investigation or assessment, programming, preconstruction cost or quantity estimating, preconstruction scheduling, performing a preconstruction construction feasibility review, procuring construction services, and preparing a study, report, rendering, model, boundary or topographic survey, plat, map, design, plan, drawing, specification, or contract document.
+
+(27)  "Preconstruction lien" means a lien under this chapter for a preconstruction service.
+
+(28)  "Prelender claimant" means a person whose construction lien is made subject to a construction lender's mortgage or trust deed, as provided in Section 38-1a-503, by the person's acceptance of payment in full and the person's withdrawal of the person's preliminary notice.
+
+(29)  "Private project" means a construction project that is not a government project.
+
+(30)  "Project property" means the real property on or for which preconstruction service or construction work is or will be provided.
+
+(31)  "Refiled preliminary notice" means a preliminary notice that a prelender claimant files with the registry on a construction project after withdrawing a preliminary notice that the claimant previously filed for the same project.
+
+(32)  "Registry" means the State Construction Registry under Part 2, State Construction Registry.
+
+(33)  "Required notice" means:
+
+(a)  a notice of retention under Section 38-1a-401;
+
+(b)  a preliminary notice under Section 38-1a-501 or Section 38-1b-202;
+
+(c)  a notice of commencement;
+
+(d)  a notice of construction loan under Section 38-1a-601;
+
+(e)  a notice under Section 38-1a-602 concerning a construction loan default;
+
+(f)  a notice of intent to obtain final completion under Section 38-1a-506; or
+
+(g)  a notice of completion under Section 38-1a-507.
+
+(34)  "Subcontractor" means a person who contracts to provide preconstruction service or construction work to:
+
+(a)  a person other than the owner; or
+
+(b)  the owner, if the owner is an owner-builder.
+
+(35)  "Substantial work" does not include repair work or warranty work.
+
+(36)  "Supervisory subcontractor" means a person who:
+
+(a)  is a subcontractor under contract to provide preconstruction service or construction work; and
+
+(b)  contracts with one or more other subcontractors for the other subcontractor or subcontractors to provide preconstruction service or construction work that the person is under contract to provide.
+

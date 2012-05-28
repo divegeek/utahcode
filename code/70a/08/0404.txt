@@ -1,0 +1,16 @@
+70A-8-404.    Wrongful registration.
+
+(1)  Except as otherwise provided in Section 70A-8-406, an issuer is liable for wrongful registration of transfer if the issuer has registered a transfer of a security to a person not entitled to it, and the transfer was registered:
+
+(a)  pursuant to an ineffective indorsement or instruction;
+
+(b)  after a demand that the issuer not register transfer became effective under Subsection 70A-8-403(1) and the issuer did not comply with Subsection 70A-8-403(2);
+
+(c)  after the issuer had been served with an injunction, restraining order, or other legal process enjoining it from registering the transfer, issued by a court of competent jurisdiction, and the issuer had a reasonable opportunity to act on the injunction, restraining order, or other legal process; or
+
+(d)  by an issuer acting in collusion with the wrongdoer.
+
+(2)  An issuer that is liable for wrongful registration of transfer under Subsection (1) on demand shall provide the person entitled to the security with a like certificated or uncertificated security, and any payments or distributions that the person did not receive as a result of the wrongful registration.  If an overissue would result, the issuer's liability to provide the person with a like security is governed by Section 70A-8-210.
+
+(3)  Except as otherwise provided in Subsection (1) or in a law relating to the collection of taxes, an issuer is not liable to an owner or other person suffering loss as a result of the registration of a transfer of a security if registration was made pursuant to an effective indorsement or instruction.
+

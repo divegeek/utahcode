@@ -1,0 +1,120 @@
+31A-8-501.   Access to health care providers.
+
+(1)  As used in this section:
+
+(a)  "Class of health care provider" means a health care provider or a health care facility regulated by the state within the same professional, trade, occupational, or certification category established under Title 58, Occupations and Professions, or within the same facility licensure category established under Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act.
+
+(b)  "Covered health care services" or "covered services" means health care services for which an enrollee is entitled to receive under the terms of a health maintenance organization contract.
+
+(c)  "Credentialed staff member" means a health care provider with active staff privileges at an independent hospital or federally qualified health center.
+
+(d)  "Federally qualified health center" means as defined in the Social Security Act, 42 U.S.C. Sec. 1395x.
+
+(e)  "Independent hospital" means a general acute hospital or a critical access hospital that:
+
+(i)  is either:
+
+(A)  located 20 miles or more from any other general acute hospital or critical access hospital; or
+
+(B)  licensed as of January 1, 2004;
+
+(ii)  is licensed pursuant to Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act; and
+
+(iii)  is controlled by a board of directors of which 51% or more reside in the county where the hospital is located and:
+
+(A)  the board of directors is ultimately responsible for the policy and financial decisions of the hospital; or
+
+(B)  the hospital is licensed for 60 or fewer beds and is not owned, in whole or in part, by an entity that owns or controls a health maintenance organization if the hospital is a contracting facility of the organization.
+
+(f)  "Noncontracting provider" means an independent hospital, federally qualified health center, or credentialed staff member who has not contracted with a health maintenance organization to provide health care services to enrollees of the organization.
+
+(2)  Except for a health maintenance organization which is under the common ownership or control of an entity with a hospital located within 10 paved road miles of an independent hospital, a health maintenance organization shall pay for covered health care services rendered to an enrollee by an independent hospital, a credentialed staff member at an independent hospital, or a credentialed staff member at his local practice location if:
+
+(a)  the enrollee:
+
+(i)  lives or resides within 30 paved road miles of the independent hospital; or
+
+(ii)  if Subsection (2)(a)(i) does not apply, lives or resides in closer proximity to the independent hospital than a contracting hospital;
+
+(b)  the independent hospital is located prior to December 31, 2000 in a county with a population density of less than 100 people per square mile, or the independent hospital is located in a county with a population density of less than 30 people per square mile; and
+
+(c)  the enrollee has complied with the prior authorization and utilization review requirements otherwise required by the health maintenance organization contract.
+
+(3)  A health maintenance organization shall pay for covered health care services rendered to an enrollee at a federally qualified health center if:
+
+(a)  the enrollee:
+
+(i)  lives or resides within 30 paved road miles of the federally qualified health center; or
+
+(ii)  if Subsection (3)(a)(i) does not apply, lives or resides in closer proximity to the federally qualified health center than a contracting provider;
+
+(b)  the federally qualified health center is located in a county with a population density of less than 30 people per square mile; and
+
+(c)  the enrollee has complied with the prior authorization and utilization review requirements otherwise required by the health maintenance organization contract.
+
+(4) (a)  A health maintenance organization shall reimburse a noncontracting provider or the enrollee for covered services rendered pursuant to Subsection (2) a like dollar amount as it pays to contracting providers under a noncapitated arrangement for comparable services.
+
+(b)  A health maintenance organization shall reimburse a federally qualified health center or the enrollee for covered services rendered pursuant to Subsection (3) a like amount as paid by the health maintenance organization under a noncapitated arrangement for comparable services to a contracting provider in the same class of health care providers as the provider who rendered the service.
+
+(5) (a)  A noncontracting independent hospital may not balance bill a patient when the health maintenance organization reimburses a noncontracting independent hospital or an enrollee in accordance with Subsection (4)(a).
+
+(b)  A noncontracting federally qualified health center may not balance bill a patient when the federally qualified health center or the enrollee receives reimbursement in accordance with Subsection (4)(b).
+
+(6)  A noncontracting provider may only refer an enrollee to another noncontracting provider so as to obligate the enrollee's health maintenance organization to pay for the resulting services if:
+
+(a)  the noncontracting provider making the referral or the enrollee has received prior authorization from the organization for the referral; or
+
+(b)  the practice location of the noncontracting provider to whom the referral is made:
+
+(i)  is located in a county with a population density of less than 25 people per square mile; and
+
+(ii)  is within 30 paved road miles of:
+
+(A)  the place where the enrollee lives or resides; or
+
+(B)  the independent hospital or federally qualified health center at which the enrollee may receive covered services pursuant to Subsection (2) or (3).
+
+(7)  Notwithstanding this section, a health maintenance organization may contract directly with an independent hospital, federally qualified health center, or credentialed staff member.
+
+(8) (a)  A health maintenance organization that violates any provision of this section is subject to sanctions as determined by the commissioner in accordance with Section 31A-2-308.
+
+(b)  Violations of this section include:
+
+(i)  failing to provide the notice required by Subsection (8)(d) by placing the notice in any health maintenance organization's provider list that is supplied to enrollees, including any website maintained by the health maintenance organization;
+
+(ii)  failing to provide notice of an enrollees' rights under this section when:
+
+(A)  an enrollee makes personal contact with the health maintenance organization by telephone, electronic transaction, or in person; and
+
+(B)  the enrollee inquires about his rights to access an independent hospital or federally qualified health center; and
+
+(iii)  refusing to reprocess or reconsider a claim, initially denied by the health maintenance organization, when the provisions of this section apply to the claim.
+
+(c)  The commissioner shall, pursuant to Chapter 2, Part 2, Duties and Powers of Commissioner:
+
+(i)  adopt rules as necessary to implement this section;
+
+(ii)  identify in rule:
+
+(A)  the counties with a population density of less than 100 people per square mile;
+
+(B)  independent hospitals as defined in Subsection (1)(e); and
+
+(C)  federally qualified health centers as defined in Subsection (1)(d).
+
+(d) (i)  A health maintenance organization shall:
+
+(A)  use the information developed by the commissioner under Subsection (8)(c) to identify the rural counties, independent hospitals, and federally qualified health centers that are located in the health maintenance organization's service area; and
+
+(B)  include the providers identified under Subsection (8)(d)(i)(A) in the notice required in Subsection (8)(d)(ii).
+
+(ii)  The health maintenance organization shall provide the following notice, in bold type, to enrollees as specified under Subsection (8)(b)(i), and shall keep the notice current:
+
+"You may be entitled to coverage for health care services from the following non-HMO contracted providers if you live or reside within 30 paved road miles of the listed providers, or if you live or reside in closer proximity to the listed providers than to your HMO contracted providers:
+
+This list may change periodically, please check on our website or call for verification.  Please be advised that if you choose a noncontracted provider you will be responsible for any charges not covered by your health insurance plan.
+
+If you have questions concerning your rights to see a provider on this list you may contact your health maintenance organization at ________.  If the HMO does not resolve your problem, you may contact the Office of Consumer Health Assistance in the Insurance Department, toll free."
+
+(e)  A person whose interests are affected by an alleged violation of this section may contact the Office of Consumer Health Assistance and request assistance, or file a complaint as provided in Section 31A-2-216.
+

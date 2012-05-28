@@ -1,0 +1,62 @@
+26-36a-103.   Definitions.
+
+As used in this chapter:
+
+(1)  "Assessment" means the Medicaid hospital provider assessment established by this chapter.
+
+(2)  "Discharges" means the number of total hospital discharges reported on worksheet S-3, column 15, lines 12, 14, and 14.01 of the Medicare Cost Report for the applicable assessment year.
+
+(3)  "Division" means the Division of Health Care Financing of the department.
+
+(4)  "Hospital":
+
+(a)  means a privately owned:
+
+(i)  general acute hospital operating in the state as defined in Section 26-21-2; and
+
+(ii)  specialty hospital operating in the state, which shall include a privately owned hospital whose inpatient admissions are predominantly:
+
+(A)  rehabilitation;
+
+(B)  psychiatric;
+
+(C)  chemical dependency; or
+
+(D)  long-term acute care services; and
+
+(b)  does not include:
+
+(i)  a residential care or treatment facility as defined in Section 62A-2-101;
+
+(ii)  a hospital owned by the federal government, including the Veterans Administration Hospital;
+
+(iii)  a Shriners hospital that does not charge for its services; or
+
+(iv)  a hospital that is owned by the state government, a state agency, or a political subdivision of the state, including:
+
+(A)  a state-owned teaching hospital; and
+
+(B)  the Utah State Hospital.
+
+(5)  "Low volume select access hospital" means a hospital that furnished inpatient hospital services during fiscal year 2008 to less than 300 Medicaid cases under the select access program.
+
+(6)  "Medicare cost report" means CMS-2552-96, the cost report for electronic filing of hospitals.
+
+(7)  "Select access cases" means the number of hospital inpatient cases related to individuals enrolled in the state's select access program for 2008.
+
+(8)  "State plan amendment" means a change or update to the state Medicaid plan.
+
+(9)  "Upper payment limit" means the maximum ceiling imposed by federal regulation on a hospital Medicaid reimbursement for inpatient services under 42 C.F.R. Sec. 447.272.
+
+(10)  "Upper payment limit gap":
+
+(a)  means the difference between:
+
+(i)  the inpatient hospital upper payment limit for hospitals; and
+
+(ii)  Medicaid payments for inpatient hospital services not financed using hospital assessments paid by all hospitals;
+
+(b)  shall be calculated separately for hospital inpatient services; and
+
+(c)  does not include Medicaid disproportionate share payments as part of the calculation for the upper payment limit gap.
+

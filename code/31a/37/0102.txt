@@ -1,0 +1,236 @@
+31A-37-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Affiliated company" means a business entity that because of common ownership, control, operation, or management is in the same corporate system as:
+
+(a)  a parent;
+
+(b)  an industrial insured; or
+
+(c)  a member organization.
+
+(2)  "Alien captive insurance company" means an insurer:
+
+(a)  formed to write insurance business for a parent or affiliate of the insurer; and
+
+(b)  licensed pursuant to the laws of an alien jurisdiction that imposes statutory or regulatory standards:
+
+(i)  on a business entity transacting the business of insurance in the alien jurisdiction; and
+
+(ii)  in a form acceptable to the commissioner.
+
+(3)  "Association" means a legal association of two or more persons that has been in continuous existence for at least one year if:
+
+(a)  the association or its member organizations:
+
+(i)  own, control, or hold with power to vote all of the outstanding voting securities of an association captive insurance company incorporated as a stock insurer; or
+
+(ii)  have complete voting control over an association captive insurance company incorporated as a mutual insurer;
+
+(b)  the association's member organizations collectively constitute all of the subscribers of an association captive insurance company formed as a reciprocal insurer; or
+
+(c)  the association or its member organizations have complete voting control over an association captive insurance company formed as a limited liability company.
+
+(4)  "Association captive insurance company" means a business entity that insures risks of:
+
+(a)  a member organization of the association;
+
+(b) an affiliate of a member organization of the association; and
+
+(c)  the association.
+
+(5)  "Branch business" means an insurance business transacted by a branch captive insurance company in this state.
+
+(6)  "Branch captive insurance company" means an alien captive insurance company that has a certificate of authority from the commissioner to transact the business of insurance in this state through a business unit with a principal place of business in this state.
+
+(7)  "Branch operation" means a business operation of a branch captive insurance company in this state.
+
+(8)  "Captive insurance company" means any of the following formed or holding a certificate of authority under this chapter:
+
+(a)  a branch captive insurance company;
+
+(b)  a pure captive insurance company;
+
+(c)  an association captive insurance company;
+
+(d)  a sponsored captive insurance company;
+
+(e)  an industrial insured captive insurance company;
+
+(f)  a captive reinsurance company;
+
+(g)  a special purpose captive insurance company; or
+
+(h)  a special purpose financial captive insurance company.
+
+(9)  "Captive reinsurance company" means a reinsurer that is:
+
+(a)  formed or has a certificate of authority pursuant to this chapter;
+
+(b)  wholly owned by a qualifying reinsurer parent company; and
+
+(c)  a stock corporation.
+
+(10)  "Common ownership and control" means that two or more captive insurance companies are owned or controlled by the same person or group of persons as follows:
+
+(a)  in the case of a captive insurance company that is a stock corporation, the direct or indirect ownership of 80% or more of the outstanding voting stock of the stock corporation; 
+
+(b)  in the case of a captive insurance company that is a mutual corporation, the direct or indirect ownership of 80% or more of the surplus and the voting power of the mutual corporation;
+
+(c)  in the case of a captive insurance company that is a limited liability company, the direct or indirect ownership by the same member or members of 80% or more of the membership interests in the limited liability company; or
+
+(d)  in the case of a sponsored captive insurance company, a protected cell is a separate captive insurance company owned and controlled by the protected cell's participant, only if:
+
+(i)  the participant is the only participant with respect to the protected cell; and
+
+(ii)  the participant is the sponsor or is affiliated with the sponsor of the sponsored captive insurance company through common ownership and control.
+
+(11)  "Commissioner" means the Insurance Commissioner or the commissioner's designee.
+
+(12)  "Consolidated debt to total capital ratio" means the ratio of Subsection (12)(a) to (b).
+
+(a)  This Subsection (12)(a) is an amount equal to the sum of all debts and hybrid capital instruments including:
+
+(i)  all borrowings from depository institutions;
+
+(ii)  all senior debt;
+
+(iii)  all subordinated debts;
+
+(iv)  all trust preferred shares; and
+
+(v)  all other hybrid capital instruments that are not included in the determination of consolidated GAAP net worth issued and outstanding.
+
+(b)  This Subsection (12)(b) is an amount equal to the sum of:
+
+(i)  total capital consisting of all debts and hybrid capital instruments as described in Subsection (12)(a); and
+
+(ii)  shareholders' equity determined in accordance with generally accepted accounting principles for reporting to the United States Securities and Exchange Commission.
+
+(13)  "Consolidated GAAP net worth" means the consolidated shareholders' equity determined in accordance with generally accepted accounting principles for reporting to the United States Securities and Exchange Commission.
+
+(14)  "Controlled unaffiliated business" means a business entity:
+
+(a) (i)  in the case of a pure captive insurance company, that is not in the corporate system of a parent or the parent's affiliate; or
+
+(ii)  in the case of an industrial insured captive insurance company, that is not in the corporate system of an industrial insured or an affiliated company of the industrial insured;
+
+(b) (i)  in the case of a pure captive insurance company, that has a contractual relationship with a parent or affiliate; or
+
+(ii)  in the case of an industrial insured captive insurance company, that has a contractual relationship with an industrial insured or an affiliated company of the industrial insured; and
+
+(c)  whose risks are managed by one of the following in accordance with Subsection 31A-37-106(1)(k):
+
+(i)  a pure captive insurance company; or
+
+(ii)  an industrial insured captive insurance company.
+
+(15)  "Department" means the Insurance Department.
+
+(16)  "Industrial insured" means an insured:
+
+(a)  that produces insurance:
+
+(i)  by the services of a full-time employee acting as a risk manager or insurance manager; or
+
+(ii) using the services of a regularly and continuously qualified insurance consultant;
+
+(b)  whose aggregate annual premiums for insurance on all risks total at least $25,000; and
+
+(c)  that has at least 25 full-time employees.
+
+(17)  "Industrial insured captive insurance company" means a business entity that:
+
+(a)  insures risks of the industrial insureds that comprise the industrial insured group; and
+
+(b)  may insure the risks of:
+
+(i)  an affiliated company of an industrial insured; or
+
+(ii)  a controlled unaffiliated business of:
+
+(A)  an industrial insured; or
+
+(B)  an affiliated company of an industrial insured.
+
+(18)  "Industrial insured group" means:
+
+(a)  a group of industrial insureds that collectively:
+
+(i)  own, control, or hold with power to vote all of the outstanding voting securities of an industrial insured captive insurance company incorporated as a stock insurer; or
+
+(ii)  have complete voting control over an industrial insured captive insurance company incorporated as a mutual insurer;
+
+(b)  a group that is:
+
+(i)  created under the Product Liability Risk Retention Act of 1981, 15 U.S.C. Section 3901 et seq., as amended, as a corporation or other limited liability association; and
+
+(ii)  taxable under this title as a:
+
+(A)  stock corporation; or
+
+(B)  mutual insurer; or
+
+(c)  a group that has complete voting control over an industrial captive insurance company formed as a limited liability company.
+
+(19)  "Member organization" means a person that belongs to an association.
+
+(20)  "Parent" means a person that directly or indirectly owns, controls, or holds with power to vote more than 50% of:
+
+(a)  the outstanding voting securities of a pure captive insurance company; or
+
+(b)  the pure captive insurance company, if the pure captive insurance company is formed as a limited liability company.
+
+(21)  "Participant" means an entity that is insured by a sponsored captive insurance company:
+
+(a)  if the losses of the participant are limited through a participant contract to the assets of a protected cell; and
+
+(b)(i)  the entity is permitted to be a participant under Section 31A-37-403; or
+
+(ii)  the entity is an affiliate of an entity permitted to be a participant under Section 31A-37-403.
+
+(22)  "Participant contract" means a contract by which a sponsored captive insurance company:
+
+(a)  insures the risks of a participant; and
+
+(b)  limits the losses of the participant to the assets of a protected cell.
+
+(23)  "Protected cell" means a separate account established and maintained by a sponsored captive insurance company for one participant.
+
+(24)  "Pure captive insurance company" means a business entity that insures risks of a parent or affiliate of the business entity.
+
+(25)  "Qualifying reinsurer parent company" means a reinsurer:
+
+(a)  authorized to write reinsurance by this state; and
+
+(b)  that has:
+
+(i)  a consolidated GAAP net worth of not less than $500,000,000; and
+
+(ii)  a consolidated debt to total capital ratio not greater than .50.
+
+(26)  "Special purpose financial captive insurance company" is as defined in Section 31A-37a-102.
+
+(27)  "Sponsor" means an entity that:
+
+(a)  meets the requirements of Section 31A-37-402; and
+
+(b)  is approved by the commissioner to:
+
+(i)  provide all or part of the capital and surplus required by applicable law; and
+
+(ii)  organize and operate a sponsored captive insurance company.
+
+(28)  "Sponsored captive insurance company" means a captive insurance company:
+
+(a)  in which the minimum capital and surplus required by applicable law is provided by one or more sponsors;
+
+(b)  that is formed or holding a certificate of authority under this chapter;
+
+(c)  that insures the risks of a separate participant through the contract; and
+
+(d)  that segregates each participant's liability through one or more protected cells.
+
+(29)  "Treasury rates" means the United States Treasury strip asked yield as published in the Wall Street Journal as of a balance sheet date.
+

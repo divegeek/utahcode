@@ -1,0 +1,10 @@
+70A-4a-201.   Security procedure.
+
+(1)  "Security procedure" means a procedure established by agreement of a customer and a receiving bank for the purpose of:
+
+(a)  verifying that a payment order or communication amending or canceling a payment order is that of the customer; or
+
+(b)  detecting error in the transmission or the content of the payment order or communication.
+
+(2)  A security procedure may require the use of algorithms or other codes, identifying words or numbers, encryption, callback procedures, or similar security devices.  Comparison of a signature on a payment order or communication with an authorized specimen signature of the customer is not by itself a security procedure.
+

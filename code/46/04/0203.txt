@@ -1,0 +1,8 @@
+46-4-203.   Attribution and effect of electronic record and electronic signature.
+
+(1) (a)  An electronic record or electronic signature is attributable to a person if it was the act of the person.
+
+(b)  The act of the person may be shown in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable.
+
+(2)  The effect of an electronic record or electronic signature attributed to a person under Subsection (1) is determined from the context and surrounding circumstances at the time of its creation, execution, or adoption, including the parties' agreement, if any, and otherwise as provided by law.
+

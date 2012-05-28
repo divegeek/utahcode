@@ -1,0 +1,156 @@
+26-18-3.   Administration of Medicaid program by department -- Reporting to the Legislature -- Disciplinary measures and sanctions -- Funds collected -- Eligibility standards -- Internal audits -- Studies -- Health opportunity accounts.
+
+(1)  The department shall be the single state agency responsible for the administration of the Medicaid program in connection with the United States Department of Health and Human Services pursuant to Title XIX of the Social Security Act.
+
+(2) (a)  The department shall implement the Medicaid program through administrative rules in conformity with this chapter, Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the requirements of Title XIX, and applicable federal regulations.
+
+(b)  The rules adopted under Subsection (2)(a) shall include, in addition to other rules necessary to implement the program:
+
+(i)  the standards used by the department for determining eligibility for Medicaid services;
+
+(ii)  the services and benefits to be covered by the Medicaid program;
+
+(iii)  reimbursement methodologies for providers under the Medicaid program; and
+
+(iv)  a requirement that:
+
+(A)  a person receiving Medicaid services shall participate in the electronic exchange of clinical health records established in accordance with Section 26-1-37 unless the individual opts out of participation;
+
+(B)  prior to enrollment in the electronic exchange of clinical health records the enrollee shall receive notice of enrollment in the electronic exchange of clinical health records and the right to opt out of participation at any time; and
+
+(C)  beginning July 1, 2012, when the program sends enrollment or renewal information to the enrollee and when the enrollee logs onto the program's website, the enrollee shall receive notice of the right to opt out of the electronic exchange of clinical health records.
+
+(3) (a)  The department shall, in accordance with Subsection (3)(b), report to the Social Services Appropriations Subcommittee when the department:
+
+(i)  implements a change in the Medicaid State Plan;
+
+(ii)  initiates a new Medicaid waiver;
+
+(iii)  initiates an amendment to an existing Medicaid waiver;
+
+(iv)  applies for an extension of an application for a waiver or an existing Medicaid waiver; or
+
+(v)  initiates a rate change that requires public notice under state or federal law.
+
+(b)  The report required by Subsection (3)(a) shall:
+
+(i)  be submitted to the Social Services Appropriations Subcommittee prior to the department implementing the proposed change; and
+
+(ii) include:
+
+(A)  a description of the department's current practice or policy that the department is proposing to change;
+
+(B)  an explanation of why the department is proposing the change;
+
+(C)  the proposed change in services or reimbursement, including a description of the effect of the change;
+
+(D)  the effect of an increase or decrease in services or benefits on individuals and families;
+
+(E)  the degree to which any proposed cut may result in cost-shifting to more expensive services in health or human service programs; and
+
+(F)  the fiscal impact of the proposed change, including:
+
+(I)  the effect of the proposed change on current or future appropriations from the Legislature to the department;
+
+(II)  the effect the proposed change may have on federal matching dollars received by the state Medicaid program;
+
+(III)  any cost shifting or cost savings within the department's budget that may result from the proposed change; and
+
+(IV)  identification of the funds that will be used for the proposed change, including any transfer of funds within the department's budget.
+
+(4) (a)  The Department of Human Services shall report to the Legislative Social Services Appropriations Subcommittee no later than December 31, 2010 in accordance with Subsection (4)(b).
+
+(b)  The report required by Subsection (4)(a) shall include:
+
+(i)  changes made by the division or the department beginning July 1, 2010, that effect the Medicaid program, a waiver under the Medicaid program, or an interpretation of Medicaid services or funding, that relate to care for children and youth in the custody of the Division of Child and Family Services or the Division of Juvenile Justice Services;
+
+(ii)  the history and impact of the changes under Subsection (4)(b)(i);
+
+(iii)  the Department of Human Service's plans for addressing the impact of the changes under Subsection (4)(b)(i); and
+
+(iv)  ways to consolidate administrative functions within the Department of Human Services, the Department of Health, the Division of Child and Family Services, and the Division of Juvenile Justice Services to more efficiently meet the needs of children and youth with mental health and substance disorder treatment needs.
+
+(5)  Any rules adopted by the department under Subsection (2) are subject to review and reauthorization by the Legislature in accordance with Section 63G-3-502.
+
+(6)  The department may, in its discretion, contract with the Department of Human Services or other qualified agencies for services in connection with the administration of the Medicaid program, including:
+
+(a)  the determination of the eligibility of individuals for the program;
+
+(b)  recovery of overpayments; and
+
+(c)  consistent with Section 26-20-13, and to the extent permitted by law and quality control services, enforcement of fraud and abuse laws.
+
+(7)  The department shall provide, by rule, disciplinary measures and sanctions for Medicaid providers who fail to comply with the rules and procedures of the program, provided that sanctions imposed administratively may not extend beyond:
+
+(a)  termination from the program;
+
+(b)  recovery of claim reimbursements incorrectly paid; and
+
+(c)  those specified in Section 1919 of Title XIX of the federal Social Security Act.
+
+(8)  Funds collected as a result of a sanction imposed under Section 1919 of Title XIX of the federal Social Security Act shall be deposited in the General Fund as dedicated credits to be used by the division in accordance with the requirements of Section 1919 of Title XIX of the federal Social Security Act.
+
+(9) (a)  In determining whether an applicant or recipient is eligible for a service or benefit under this part or Chapter 40, Utah Children's Health Insurance Act, the department shall, if Subsection (9)(b) is satisfied, exclude from consideration one passenger vehicle designated by the applicant or recipient.
+
+(b)  Before Subsection (9)(a) may be applied:
+
+(i)  the federal government shall:
+
+(A)  determine that Subsection (9)(a) may be implemented within the state's existing public assistance-related waivers as of January 1, 1999;
+
+(B)  extend a waiver to the state permitting the implementation of Subsection (9)(a); or
+
+(C)  determine that the state's waivers that permit dual eligibility determinations for cash assistance and Medicaid are no longer valid; and
+
+(ii)  the department shall determine that Subsection (9)(a) can be implemented within existing funding.
+
+(10) (a)  For purposes of this Subsection (10):
+
+(i)  "aged, blind, or has a disability" means an aged, blind, or disabled individual, as defined in 42 U.S.C. 1382c(a)(1); and
+
+(ii)  "spend down" means an amount of income in excess of the allowable income standard that shall be paid in cash to the department or incurred through the medical services not paid by Medicaid.
+
+(b)  In determining whether an applicant or recipient who is aged, blind, or has a disability is eligible for a service or benefit under this chapter, the department shall use 100% of the federal poverty level as:
+
+(i)  the allowable income standard for eligibility for services or benefits; and
+
+(ii)  the allowable income standard for eligibility as a result of spend down.
+
+(11)  The department shall conduct internal audits of the Medicaid program.
+
+(12)  In order to determine the feasibility of contracting for direct Medicaid providers for primary care services, the department shall:
+
+(a)  issue a request for information for direct contracting for primary services that shall provide that a provider shall exclusively serve all Medicaid clients:
+
+(i)  in a geographic area;
+
+(ii)  for a defined range of primary care services; and
+
+(iii)  for a predetermined total contracted amount; and
+
+(b)  by February 1, 2011, report to the Social Services Appropriations Subcommittee on the response to the request for information under Subsection (12)(a).
+
+(13) (a)  By December 31, 2010, the department shall:
+
+(i)  determine the feasibility of implementing a three year patient-centered medical home demonstration project in an area of the state using existing budget funds; and
+
+(ii)  report the department's findings and recommendations under Subsection (13)(a)(i) to the Social Services Appropriations Subcommittee.
+
+(b)  If the department determines that the medical home demonstration project described in Subsection (13)(a) is feasible, and the Social Services Appropriations Subcommittee recommends that the demonstration project be implemented, the department shall:
+
+(i)  implement the demonstration project; and
+
+(ii)  by December 1, 2012, make recommendations to the Social Services Appropriations Subcommittee regarding the:
+
+(A)  continuation of the demonstration project;
+
+(B)  expansion of the demonstration project to other areas of the state; and
+
+(C)  cost savings incurred by the implementation of the demonstration project.
+
+(14) (a)  The department may apply for and, if approved, implement a demonstration program for health opportunity accounts, as provided for in 42 U.S.C. Sec. 1396u-8.
+
+(b)  A health opportunity account established under Subsection (14)(a) shall be an alternative to the existing benefits received by an individual eligible to receive Medicaid under this chapter.
+
+(c)  Subsection (14)(a) is not intended to expand the coverage of the Medicaid program.
+

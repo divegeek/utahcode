@@ -1,0 +1,12 @@
+70A-9a-104.   Control of deposit account.
+
+(1)  A secured party has control of a deposit account if:
+
+(a)  the secured party is the bank with which the deposit account is maintained;
+
+(b)  the debtor, secured party, and bank have agreed in an authenticated record that the bank will comply with instructions originated by the secured party directing disposition of the funds in the deposit account without further consent by the debtor; or
+
+(c)  the secured party becomes the bank’s customer with respect to the deposit account.
+
+(2)  A secured party that has satisfied Subsection (1) has control, even if the debtor retains the right to direct the disposition of funds from the deposit account.
+

@@ -1,0 +1,130 @@
+77-23a-10.   Application for order -- Authority of order -- Emergency action -- Application -- Entry -- Conditions -- Extensions -- Recordings -- Admissibility or suppression -- Appeal by state.
+
+(1)  Each application for an order authorizing or approving the interception of a wire, electronic, or oral communication shall be made in writing, upon oath or affirmation to a judge of competent jurisdiction, and shall state the applicant's authority to make the application.  Each application shall include:
+
+(a)  the identity of the investigative or law enforcement officer making the application, and the officer authorizing the application;
+
+(b)  a full and complete statement of the facts and circumstances relied upon by the applicant to justify his belief that an order should be issued, including:
+
+(i)  details regarding the particular offense that has been, is being, or is about to be committed;
+
+(ii)  except as provided in Subsection (12), a particular description of the nature and location of the facilities from which or the place where the communication is to be intercepted;
+
+(iii)  a particular description of the type of communication sought to be intercepted; and
+
+(iv)  the identity of the person, if known, committing the offense and whose communication is to be intercepted;
+
+(c)  a full and complete statement as to whether other investigative procedures have been tried and failed or why they reasonably appear to be either unlikely to succeed if tried or too dangerous;
+
+(d)  a statement of the period of time for which the interception is required to be maintained, and if the investigation is of a nature that the authorization for interception should not automatically terminate when the described type of communication has been first obtained, a particular description of facts establishing probable cause to believe that additional communications of the same type will occur thereafter;
+
+(e)  a full and complete statement of the facts concerning all previous applications known to the individual authorizing and the individual making the application, made to any judge for authorization to intercept, or for approval of interceptions of wire, electronic, or oral communications involving any of the same persons, facilities, or places specified in the application, and the action taken by the judge on each application;
+
+(f)  when the application is for the extension of an order, a statement setting forth the results so far obtained from the interception, or a reasonable explanation of the failure to obtain results; and
+
+(g)  additional testimony or documentary evidence in support of the application as the judge may require.
+
+(2)  Upon application the judge may enter an ex parte order, as requested or as modified, authorizing or approving interception of wire, electronic, or oral communications within the territorial jurisdiction of the state if the judge determines on the basis of the facts submitted by the applicant that:
+
+(a)  there is probable cause for belief that an individual is committing, has committed, or is about to commit a particular offense under Section 77-23a-8;
+
+(b)  there is probable cause for belief that particular communications concerning that offense will be obtained through the interception;
+
+(c)  normal investigative procedures have been tried and have failed or reasonably appear to be either unlikely to succeed if tried or too dangerous; and
+
+(d)  except as provided in Subsection (12), there is probable cause for belief that the facilities from which or the place where the wire, electronic, or oral communications are to be intercepted are being used, or are about to be used, in connection with the commission of the offense, or are leased to, listed in the name of, or commonly used by that person.
+
+(3)  Each order authorizing or approving the interception of any wire, electronic, or oral communication shall specify:
+
+(a)  the identity of the person, if known, whose communications are to be intercepted;
+
+(b)  except as provided in Subsection (12), the nature and location of the communications facilities as to which, or the place where, authority to intercept is granted;
+
+(c)  a particular description of the type of communication sought to be intercepted, and a statement of the particular offense to which it relates;
+
+(d)  the identity of the agency authorized to intercept the communications, and of the persons authorizing the application; and
+
+(e)  the period of time during which the interception is authorized, including a statement as to whether the interception shall automatically terminate when the described communication has been first obtained.
+
+(4)  An order authorizing the interception of a wire, electronic, or oral communication shall, upon request of the applicant, direct that a provider of wire or electronic communications service, landlord, custodian, or other person shall furnish the applicant forthwith all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services that the provider, landlord, custodian, or person is according the person whose communications are to be intercepted.  Any provider of wire or electronic communications service, landlord, custodian, or other person furnishing the facilities or technical assistance shall be compensated by the applicant for reasonable expenses involved in providing the facilities or systems.
+
+(5) (a)  An order entered under this chapter may not authorize or approve the interception of any wire, electronic, or oral communication for any period longer than is necessary to achieve the objective of the authorization, but in any event for no longer than 30 days.  The 30-day period begins on the day the investigative or law enforcement officer first begins to conduct an interception under the order, or 10 days after the order is entered, whichever is earlier.
+
+(b)  Extensions of an order may be granted, but only upon application for an extension made under Subsection (1), and if the court makes the findings required by Subsection (2).  The period of extension may be no longer than the authorizing judge considers necessary to achieve the purposes for which it was granted, but in no event for longer than 30 days.
+
+(c)  Every order and extension shall contain a provision that the authorization to intercept shall be executed as soon as practicable, shall be conducted so as to minimize the interception of communications not otherwise subject to interception under this chapter, and must terminate upon attainment of the authorized objective, or in any event within 30 days.
+
+(d)  If the intercepted communication is in a code or foreign language, and an expert in that foreign language or code is not reasonably available during the interception period, the minimizing of the interception may be accomplished as soon as practicable after the interception.
+
+(e)  An interception under this chapter may be conducted in whole or in part by government personnel or by an individual under contract with the government and acting under supervision of an investigative or law enforcement officer authorized to conduct the interception.
+
+(6)  When an order authorizing interception is entered under this chapter, the order may require reports to be made to the judge who issued the order, showing what progress has been made toward achievement of the authorized objective and the need for continued interception.  These reports shall be made at intervals the judge may require.
+
+(7)  Notwithstanding any other provision of this chapter, any investigative or law enforcement officer who is specially designated by either the attorney general, a county attorney or district attorney as provided under Sections 17-18-1 and 17-18-1.7 may intercept wire, electronic, or oral communication if an application for an order approving the interception is made in accordance with this section and within 48 hours after the interception has occurred or begins to occur, when the investigative or law enforcement officer reasonably determines that:
+
+(a)  an emergency situation exists that involves:
+
+(i)  immediate danger of death or serious physical injury to any person;
+
+(ii)  conspiratorial activities threatening the national security interest; or
+
+(iii)  conspiratorial activities characteristic of organized crime, that require a wire, electronic, or oral communication to be intercepted before an order authorizing interception can, with diligence, be obtained; and
+
+(b)  there are grounds upon which an order could be entered under this chapter to authorize the interception.
+
+(8) (a)  In the absence of an order under Subsection (7), the interception immediately terminates when the communication sought is obtained or when the application for the order is denied, whichever is earlier.
+
+(b)  If the application for approval is denied, or in any other case where the interception is terminated without an order having been issued, the contents of any wire, electronic, or oral communication intercepted shall be treated as having been obtained in violation of this chapter, and an inventory shall be served as provided for in Subsection (9)(d) on the person named in the application.
+
+(9) (a)  The contents of any wire, electronic, or oral communication intercepted by any means authorized by this chapter shall, if possible, be recorded on tape or wire or other comparable device.  The recording of the contents of any wire, electronic, or oral communication under this Subsection (9)(a) shall be done so as to protect the recording from editing or other alterations.  Immediately upon the expiration of the period of an order, or extension, the recordings shall be made available to the judge issuing the order and sealed under his directions.  Custody of the recordings shall be where the judge orders.  The recordings may not be destroyed, except upon an order of the issuing or denying judge.  In any event, it shall be kept for 10 years.  Duplicate recordings may be made for use or disclosure under Subsections 77-23a-9(1) and (2) for investigations.  The presence of the seal provided by this Subsection (9)(a), or a satisfactory explanation for the absence of one, is a prerequisite for the use or disclosure of the contents of any wire, electronic, or oral communication or evidence derived from it under Subsection 77-23a-9(3).
+
+(b)  Applications made and orders granted under this chapter shall be sealed by the judge.  Custody of the applications and orders shall be where the judge directs.  The applications and orders shall be disclosed only upon a showing of good cause before a judge of competent jurisdiction and may not be destroyed, except on order of the issuing or denying judge.  But in any event they shall be kept for 10 years.
+
+(c)  Any violation of any provision of this subsection may be punished as contempt of the issuing or denying judge.
+
+(d)  Within a reasonable time, but not later than 90 days after the filing of an application for an order of approval under Subsection 77-23a-10(7) that is denied or the termination of the period of an order or extensions, the issuing or denying judge shall cause to be served on the persons named in the order or the application, and other parties to the intercepted communications as the judge determines in his discretion is in the interest of justice, an inventory, which shall include notice of:
+
+(i)  the entry of the order or application;
+
+(ii)  the date of the entry and the period of authorization, approved or disapproved interception, or the denial of the application; and
+
+(iii)  that during the period wire, electronic, or oral communications were or were not intercepted.
+
+(e)  The judge, upon filing of a motion, may in his discretion make available to the person or his counsel for inspection the portions of the intercepted communications, applications, and orders the judge determines to be in the interest of justice.  On an ex parte showing of good cause to a judge of competent jurisdiction the serving of the inventory required by this Subsection (9)(e) may be postponed.
+
+(10)  The contents of any intercepted wire, electronic, or oral communication, or evidence derived from any of them, may not be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in a federal or state court unless each party, not less than 10 days before the trial, hearing, or proceeding, has been furnished with a copy of the court order, and accompanying application, under which the interception was authorized or approved.  This ten-day period may be waived by the judge if he finds that it was not possible to furnish the party with the above information 10 days before the trial, hearing, or proceeding and that the party will not be prejudiced by the delay in receiving the information.
+
+(11) (a)  Any aggrieved person in any trial, hearing, or proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, the state, or a political subdivision may move to suppress the contents of any intercepted wire, electronic, or oral communication, or evidence derived from any of them, on the grounds that:
+
+(i)  the communication was unlawfully intercepted;
+
+(ii)  the order of authorization or approval under which it was intercepted is insufficient on its face; or
+
+(iii)  the interception was not made in conformity with the order of authorization or approval.
+
+(b)  The motion shall be made before the trial, hearing, or proceeding unless there was no opportunity to make the motion or the person was not aware of the grounds of the motion.  If the motion is granted, the contents of the intercepted wire, electronic, or oral communication, or evidence derived from any of them, shall be treated as having been obtained in violation of this chapter.  The judge, upon the filing of the motion by the aggrieved person, may in his discretion make available to the aggrieved person or his counsel for inspection portions of the intercepted communication or evidence derived from them as the judge determines to be in the interests of justice.
+
+(c)  In addition to any other right to appeal, the state or its political subdivision may appeal from an order granting a motion to suppress made under Subsection (11)(a), or the denial of an application for an order of approval, if the attorney bringing the appeal certifies to the judge or other official granting the motion or denying the application that the appeal is not taken for the purposes of delay.  The appeal shall be taken within 30 days after the date the order was entered and shall be diligently prosecuted.
+
+(12)  The requirements of Subsections (1)(b)(ii), (2)(d), and (3)(b) relating to the specification of the facilities from which, or the place where, the communication is to be intercepted do not apply if:
+
+(a)  in the case of an applicant regarding the interception of an oral communication:
+
+(i)  the application is by a law enforcement officer and is approved by the state attorney general, a deputy attorney general, a county attorney or district attorney, or a deputy county attorney or deputy district attorney;
+
+(ii)  the application contains a full and complete statement of why the specification is not practical, and identifies the person committing the offense and whose communications are to be intercepted; or
+
+(iii)  the judge finds that the specification is not practical; and
+
+(b)  in the case of an application regarding wire or electronic communication:
+
+(i)  the application is by a law enforcement officer and is approved by the state attorney general, a deputy attorney general, a county attorney or district attorney, or a deputy county attorney or deputy district attorney;
+
+(ii)  the application identifies the person believed to be committing the offense and whose communications are to be intercepted, and the applicant makes a showing of a purpose, on the part of that person, to thwart interception by changing facilities; and
+
+(iii)  the judge finds that the purpose has been adequately shown.
+
+(13) (a)  An interception of a communication under an order regarding which the requirements of Subsections (1)(b)(ii), (2)(d), and (3)(b) do not apply by reason of Subsection (12), does not begin until the facilities from which, or the place where, the communication is to be intercepted is ascertained by the person implementing the interception order.
+
+(b)  A provider of wire or electronic communications service that has received an order under Subsection (12)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion.  The court, upon notice to the government, shall decide the motion expeditiously.
+

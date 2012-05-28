@@ -1,0 +1,20 @@
+46-4-301.   Retention of electronic records -- Originals.
+
+(1)  If a law requires that a record be retained, the requirement is satisfied by retaining an electronic record of the information in the record that:
+
+(a)  accurately reflects the information set forth in the record after it was first generated in its final form as an electronic record or otherwise; and
+
+(b)  remains accessible for later reference.
+
+(2)  A requirement to retain a record in accordance with Subsection (1) does not apply to any information the sole purpose of which is to enable the record to be sent, communicated, or received.
+
+(3)  A person may satisfy Subsection (1) by using the services of another person if the requirements of Subsection (1) are satisfied.
+
+(4)  If a law requires a record to be presented or retained in its original form, or provides consequences if the record is not presented or retained in its original form, that law is satisfied by an electronic record retained in accordance with Subsection (1).
+
+(5)  If a law requires retention of a check, that requirement is satisfied by retention of an electronic record of the information on the front and back of the check in accordance with Subsection (1).
+
+(6)  A record retained as an electronic record in accordance with Subsection (1) satisfies a law requiring a person to retain a record for evidentiary, audit, or like purposes, unless a law enacted after May 1, 2000, specifically prohibits the use of an electronic record for the specified purpose.
+
+(7)  This section does not preclude a governmental agency from specifying additional requirements for the retention of a record subject to the agency's jurisdiction.
+

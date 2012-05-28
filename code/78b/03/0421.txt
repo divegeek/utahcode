@@ -1,0 +1,92 @@
+78B-3-421.   Arbitration agreements.
+
+(1)  After May 2, 1999, for a binding arbitration agreement between a patient and a health care provider to be validly executed or, if the requirements of this Subsection (1) have not been previously met on at least one occasion, renewed:
+
+(a)  the patient shall be given, in writing, the following information on:
+
+(i)  the requirement that the patient must arbitrate a claim instead of having the claim heard by a judge or jury;
+
+(ii)  the role of an arbitrator and the manner in which arbitrators are selected under the agreement;
+
+(iii)  the patient's responsibility, if any, for arbitration-related costs under the agreement;
+
+(iv)  the right of the patient to decline to enter into the agreement and still receive health care if Subsection (3) applies;
+
+(v)  the automatic renewal of the agreement each year unless the agreement is canceled in writing before the renewal date;
+
+(vi)  the right of the patient to have questions about the arbitration agreement answered; 
+
+(vii)  the right of the patient to rescind the agreement within 10 days of signing the agreement; and
+
+(viii)  the right of the patient to require mediation of the dispute prior to the arbitration of the dispute;
+
+(b)  the agreement shall require that:
+
+(i)  except as provided in Subsection (1)(b)(ii), a panel of three arbitrators shall be selected as follows:
+
+(A)  one arbitrator collectively selected by all persons claiming damages;
+
+(B)  one arbitrator selected by the health care provider; and
+
+(C)  a third arbitrator:
+
+(I)  jointly selected by all persons claiming damages and the health care provider; or
+
+(II)  if both parties cannot agree on the selection of the third arbitrator, the other two arbitrators shall appoint the third arbitrator from a list of individuals approved as arbitrators by the state or federal courts of Utah; or
+
+(ii)  if both parties agree, a single arbitrator may be selected;
+
+(iii)  all parties waive the requirement of Section 78B-3-416 to appear before a hearing panel in a malpractice action against a health care provider;
+
+(iv)  the patient be given the right to rescind the agreement within 10 days of signing the agreement;
+
+(v)  the term of the agreement be for one year and that the agreement be automatically renewed each year unless the agreement is canceled in writing by the patient or health care provider before the renewal date;
+
+(vi)  the patient has the right to retain legal counsel;
+
+(vii)  the agreement only apply to:
+
+(A)  an error or omission that occurred after the agreement was signed, provided that the agreement may allow a person who would be a proper party in court to participate in an arbitration proceeding;
+
+(B)  the claim of:
+
+(I)  a person who signed the agreement;
+
+(II)  a person on whose behalf the agreement was signed under Subsection (6); and
+
+(III)  the unborn child of the person described in this Subsection (1)(b)(vii)(B), for 12 months from the date the agreement is signed; and
+
+(C)  the claim of a person who is not a party to the contract if the sole basis for the claim is an injury sustained by a person described in Subsection (1)(b)(vii)(B); and
+
+(c)  the patient shall be verbally encouraged to:
+
+(i)  read the written information required by Subsection (1)(a) and the arbitration agreement; and
+
+(ii)  ask any questions.
+
+(2)  When a medical malpractice action is arbitrated, the action shall:
+
+(a)  be subject to Chapter 31a, Utah Uniform Arbitration Act; and
+
+(b)  include any one or more of the following when requested by the patient before an arbitration hearing is commenced:
+
+(i)  mandatory mediation;
+
+(ii)  retention of the jointly selected arbitrator for both the liability and damages stages of an arbitration proceeding if the arbitration is bifurcated; and
+
+(iii)  the filing of the panel's award of damages as a judgement against the provider in the appropriate district court.
+
+(3)  Notwithstanding Subsection (1), a patient may not be denied health care on the sole basis that the patient or a person described in Subsection (6) refused to enter into a binding arbitration agreement with a health care provider.
+
+(4)  A written acknowledgment of having received a written explanation of a binding arbitration agreement signed by or on behalf of the patient shall be a defense to a claim that the patient did not receive a written explanation of the agreement as required by Subsection (1) unless the patient:
+
+(a)  proves that the person who signed the agreement lacked the capacity to do so; or
+
+(b)  shows by clear and convincing evidence that the execution of the agreement was induced by the health care provider's affirmative acts of fraudulent misrepresentation or fraudulent omission to state material facts.
+
+(5)  The requirements of Subsection (1) do not apply to a claim governed by a binding arbitration agreement that was executed or renewed before May 3, 1999.
+
+(6)  A legal guardian or a person described in Subsection 78B-3-406(6), except a person temporarily standing in loco parentis, may execute or rescind a binding arbitration agreement on behalf of a patient.
+
+(7)  This section does not apply to any arbitration agreement that is subject to the Federal Arbitration Act, 9 U.S.C. Sec. 1 et seq.
+

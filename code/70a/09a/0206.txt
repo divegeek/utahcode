@@ -1,0 +1,22 @@
+70A-9a-206.    Security interest arising in purchase or delivery of financial asset.
+
+(1)  A security interest in favor of a securities intermediary attaches to a person's security entitlement if:
+
+(a)  the person buys a financial asset through the securities intermediary in a transaction in which the person is obligated to pay the purchase price to the securities intermediary at the time of the purchase; and
+
+(b)  the securities intermediary credits the financial asset to the buyer's securities account before the buyer pays the securities intermediary.
+
+(2)  The security interest described in Subsection (1) secures the person's obligation to pay for the financial asset.
+
+(3)  A security interest in favor of a person that delivers a certificated security or other financial asset represented by a writing attaches to the security or other financial asset if:
+
+(a)  the security or other financial asset:
+
+(i)  in the ordinary course of business is transferred by delivery with any necessary indorsement or assignment; and
+
+(ii)  is delivered under an agreement between persons in the business of dealing with such securities or financial assets; and
+
+(b)  the agreement calls for delivery against payment.
+
+(4) The security interest described in Subsection (3) secures the obligation to make payment for the delivery.
+

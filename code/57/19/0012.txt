@@ -1,0 +1,16 @@
+57-19-12.   Purchaser's right to cancel.
+
+(1) (a)  An agreement to purchase an interest in a project may be cancelled, at the option of the purchaser, if:
+
+(i)  the purchaser provides to the developer, by hand delivery or certified mail, written notice of the cancellation; and
+
+(ii)  the notice is delivered or postmarked not later than midnight of the fifth business day following the day on which the agreement is signed.
+
+(b)  In computing the number of business days for purposes of this section, the day on which the agreement was signed is not included.
+
+(c)  Within 30 days after receipt of timely notice of cancellation, the developer shall refund any money or other consideration paid by the purchaser.
+
+(2)  Every agreement to purchase an interest in a project which is subject to this chapter shall include the following statement in at least 10-point bold upper-case type, immediately preceding the space for the purchaser's signature:
+
+"PURCHASER'S RIGHT TO CANCEL: YOU MAY CANCEL THIS AGREEMENT WITHOUT ANY CANCELLATION FEE OR OTHER PENALTY BY HAND DELIVERING OR SENDING BY CERTIFIED MAIL WRITTEN NOTICE OF CANCELLATION TO:  (NAME AND ADDRESS OF DEVELOPER).  THE NOTICE MUST BE DELIVERED OR POSTMARKED BY MIDNIGHT OF THE FIFTH BUSINESS DAY FOLLOWING THE DAY ON WHICH THE AGREEMENT IS SIGNED.  IN COMPUTING THE NUMBER OF BUSINESS DAYS, THE DAY ON WHICH THE CONTRACT IS SIGNED IS NOT INCLUDED."
+

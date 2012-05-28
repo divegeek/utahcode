@@ -1,0 +1,48 @@
+31A-5-703.   Nonrenewals, cancellations, or revisions of ceded reinsurance agreements.
+
+(1) (a)  A nonrenewal, cancellation, or revision of ceded reinsurance agreements is not subject to the reporting requirements of Section 31A-5-701 if:
+
+(i)  the nonrenewal, cancellation, or revision is not material; or
+
+(ii)  with respect to a property and casualty business, the insurer's total ceded written premium, on an annualized basis, is less than 10% of its total written premium for direct and assumed business; or
+
+(iii)  with respect to a life, annuity, and accident and health business, the total reserve credit taken for business ceded, on an annualized basis, is less than 10% of the statutory reserve requirement prior to a cession.
+
+(b)  For purposes of this part, a material nonrenewal, cancellation, or revision is one that affects:
+
+(i)  with respect to a property and casualty business:
+
+(A)  more than 50% of the insurer's total ceded written premium; or
+
+(B)  more than 50% of the insurer's total ceded indemnity and loss adjustment reserves;
+
+(ii)  with respect to a life, annuity, and accident and health business, more than 50% of the total reserve credit taken for business ceded, on an annualized basis, as indicated in the insurer's most recent annual statement; or
+
+(iii)  with respect to either property and casualty or life, annuity, or accident and health business:
+
+(A)  an authorized reinsurer representing more than 10% of a total cession is replaced by one or more unauthorized reinsurers; or
+
+(B)  previously established collateral requirements have been reduced or waived as respects one or more unauthorized reinsurers representing collectively more than 10% of a total cession.
+
+(2) (a)  The following information is required to be disclosed in any report filed pursuant to Section 31A-5-701 of a material nonrenewal, cancellation, or revision of a ceded reinsurance agreement:
+
+(i)  the effective date of the nonrenewal, cancellation, or revision;
+
+(ii)  the description of the transaction with an identification of the initiator of the transaction;
+
+(iii)  the purpose of, or reason for the transaction; and
+
+(iv)  if applicable, the identity of the replacement reinsurers.
+
+(b) (i)  Insurers are required to report all material nonrenewals, cancellations, or revisions of ceded reinsurance agreements on a nonconsolidated basis unless the insurer:
+
+(A)  is part of a consolidated group of insurers that uses a pooling arrangement or 100% reinsurance agreement that affects the solvency and integrity of the insurer's reserves; and
+
+(B)  ceded substantially all of its direct and assumed business to the pool.
+
+(ii)  An insurer is considered to have ceded substantially all of its direct and assumed business to a pool if:
+
+(A)  the insurer has less than $1,000,000 total direct plus assumed written premiums during a calendar year that are not subject to a pooling arrangement; and
+
+(B)  the net income of the business not subject to the pooling arrangement represents less than 5% of the insurer's capital and surplus.
+
