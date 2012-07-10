@@ -2,19 +2,59 @@
 
 (1)  The total amount in a county's tax stability and trust fund established under Section 17-36-51 shall be limited to the percentage of the total taxable value of property in that county not to exceed the limits provided in the following schedule:
 
-Total Taxable Value		Fund Limits				but not to
+ 
 
-Percentage of				  exceed:
+Total Taxable Value
+
+Fund Limits
+
+Percentage of
 
 Taxable Value
 
-Less than $500,000,000		      1.6%				$5,000,000
+but not to
 
-From 500,000,000
+exceed:
 
-to 1,500,000,000			      1.0%				  7,500,000
+ 
 
-Over 1,500,000,000			        .5%				15,000,000
+Less than $500,000,000
+
+1.6%
+
+
+
+$5,000,000
+
+
+
+ 
+
+From 500,000,000 to 1,500,000,000
+
+
+
+1.0%
+
+
+
+
+
+7,500,000
+
+
+
+ 
+
+Over 1,500,000,000
+
+.5%
+
+
+
+15,000,000
+
+
 
 (2)  If any excess occurs in the tax stability and trust fund over the percentage or maximum dollar amounts specified in Subsection (1), this excess shall be transferred to the general fund of the county and may be used for all purposes as other amounts in the general fund are used.
 

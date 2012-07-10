@@ -4,33 +4,321 @@
 
 (a)  Professional Staff Cost Formula
 
-  Master's
+ 
 
-     Years of		Bachelor's	Bachelor's	Master's	   Degree	
 
-    Experience		  Degree	+30 Qt. Hr.	 Degree    	+45 Qt. Hr.	Doctorate
 
-1		  1.00		     1.05	  1.10		    1.15		    1.20
+Years of Experience
 
-2		  1.05		     1.10	  1.15		    1.20		    1.25
 
-3		  1.10		     1.15	  1.20		    1.25		    1.30
 
-4		  1.15		     1.20	  1.25		    1.30		    1.35
+Bachelor's Degree
 
-5		  1.20		     1.25	  1.30		    1.35		    1.40
 
-6		  1.25		     1.30	  1.35		    1.40		    1.45
 
-7		  1.30		     1.35	  1.40		    1.45		    1.50
+Bachelor's
 
-8		  1.35		     1.40	  1.45		    1.50		    1.55
++30 Qt. Hr.
 
-9	  	  				  1.50		    1.55		    1.60
 
-10	  		  			 		    1.60		    1.65
 
-11										    1.70
+Master's Degree
+
+Master's Degree
+
++45 Qt. Hr.
+
+
+
+
+
+Doctorate
+
+ 
+
+
+
+1
+
+
+
+1.00
+
+
+
+1.05
+
+
+
+1.10
+
+
+
+1.15
+
+
+
+1.20
+
+ 
+
+
+
+2
+
+
+
+1.05
+
+
+
+1.10
+
+
+
+1.15
+
+
+
+1.20
+
+
+
+1.25
+
+ 
+
+
+
+3
+
+
+
+1.10
+
+
+
+1.15
+
+
+
+1.20
+
+
+
+1.25
+
+
+
+1.30
+
+ 
+
+
+
+4
+
+
+
+1.15
+
+
+
+1.20
+
+
+
+1.25
+
+
+
+1.30
+
+
+
+1.35
+
+
+
+
+
+5
+
+
+
+1.20
+
+
+
+1.25
+
+
+
+1.30
+
+
+
+1.35
+
+
+
+1.40
+
+
+
+
+
+6
+
+
+
+1.25
+
+
+
+1.30
+
+
+
+1.35
+
+
+
+1.40
+
+
+
+1.45
+
+
+
+
+
+7
+
+
+
+1.30
+
+
+
+1.35
+
+
+
+1.40
+
+
+
+1.45
+
+
+
+1.50
+
+
+
+
+
+8
+
+
+
+1.35
+
+
+
+1.40
+
+
+
+1.45
+
+
+
+1.50
+
+
+
+1.55
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+1.50
+
+
+
+1.55
+
+
+
+1.60
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.60
+
+
+
+1.65
+
+
+
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.70
 
 (b)  Multiply the number of full-time or equivalent professional personnel in each applicable experience category in Subsection (1)(a) by the applicable weighting factor.
 

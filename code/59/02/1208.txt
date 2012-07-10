@@ -2,21 +2,81 @@
 
 (1) (a)  Subject to Subsections (2) and (4), for calendar years beginning on or after January 1, 2007, a claimant may claim a homeowner's credit that does not exceed the following amounts:
 
-If household income is			Homeowner's credit
+ 
 
-         $0  --  $9,159					$798
+If household income is
 
-  $9,160  --  $12,214					$696
+Homeowner's credit
 
-$12,215  --  $15,266					$597
+ 
 
-$15,267  --  $18,319					$447
+$0  --  $9,159
 
-$18,320  --  $21,374					$348
 
-$21,375  --  $24,246					$199
 
-$24,247  --  $26,941					  $98
+$798
+
+
+
+ 
+
+$9,160  --  $12,214
+
+
+
+$696
+
+
+
+ 
+
+$12,215  --  $15,266
+
+
+
+$597
+
+
+
+ 
+
+$15,267  --  $18,319
+
+
+
+$447
+
+
+
+ 
+
+$18,320  --  $21,374
+
+
+
+$348
+
+
+
+
+
+$21,375  --  $24,246
+
+
+
+$199
+
+
+
+
+
+$24,247  --  $26,941
+
+
+
+$98
+
+
 
 (b) (i)  For calendar years beginning on or after January 1, 2008, the commission shall increase or decrease the household income eligibility amounts and the credits under Subsection (1)(a) by a percentage equal to the percentage difference between the consumer price index for the preceding calendar year and the consumer price index for calendar year 2006.
 

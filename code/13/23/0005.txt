@@ -38,19 +38,55 @@
 
 (3) (a)  The minimum principal amount of the bond, letter of credit, or certificate of credit required under Subsection (2) shall be based on the number of unexpired contracts for health spa services to which the health spa is a party, in accordance with the following schedule:
 
-Principal Amount of					        Number of Contracts
+ 
 
-Bond, Letter of Credit,				
+Principal Amount of
 
-or Certificate of Deposit				
+Bond, Letter of Credit,
 
-$15,000								500 or fewer
+or Certificate of Deposit
 
-  35,000								501 to 1,500
+Number of Contracts
 
-  50,000								1,500 to 3,000
+ 
 
-  75,000								3,001 or more
+$15,000
+
+
+
+500 or fewer
+
+
+
+ 
+
+35,000
+
+
+
+501 to 1,500
+
+
+
+ 
+
+50,000
+
+
+
+1,500 to 3,000
+
+
+
+ 
+
+75,000
+
+
+
+3,001 or more
+
+
 
 (b)  A health spa that is not exempt under Section 13-23-6 shall comply with Subsection (3)(a) with respect to all of the health spa's unexpired contracts for health spa services, regardless of whether a portion of those contracts satisfy the criteria in Section 13-23-6.
 
