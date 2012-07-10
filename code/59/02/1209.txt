@@ -2,23 +2,81 @@
 
 (1) (a)  Subject to Subsections (2), (3), and (6), for calendar years beginning on or after January 1, 2007, a claimant may claim a renter's credit for the previous calendar year that does not exceed the following amounts:
 
-If household income is				Percentage of rent
 
- 					allowed as a credit
 
-         $0  --  $9,159						9.5%
+If household income is
 
-  $9,160  --  $12,214						8.5%
+Percentage of rent allowed as a credit
 
-$12,215  --  $15,266						7.0%
 
-$15,267  --  $18,319						5.5%
 
-$18,320  --  $21,374 						4.0%
+$0  --  $9,159
 
-$21,375  --  $24,246 						3.0%
 
-$24,247  --  $26,941 						2.5%
+
+9.5%
+
+
+
+
+
+$9,160  --  $12,214
+
+
+
+8.5%
+
+
+
+
+
+$12,215  --  $15,266
+
+
+
+7.0%
+
+
+
+
+
+$15,267  --  $18,319
+
+
+
+5.5%
+
+
+
+
+
+$18,320  --  $21,374
+
+
+
+4.0%
+
+
+
+
+
+$21,375  --  $24,246
+
+
+
+3.0%
+
+
+
+
+
+$24,247  --  $26,941
+
+
+
+2.5%
+
+
 
 (b) (i)  For calendar years beginning on or after January 1, 2008, the commission shall increase or decrease the household income eligibility amounts under Subsection (1)(a) by a percentage equal to the percentage difference between the consumer price index for the preceding calendar year and the consumer price index for calendar year 2006.
 

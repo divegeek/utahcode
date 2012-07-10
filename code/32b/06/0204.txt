@@ -6,9 +6,9 @@
 
 (b)  To renew a person's full-service restaurant license, a person shall comply with the renewal requirements of Chapter 5, Part 2, Retail Licensing Process, by no later than September 30.
 
-(3) (a)  The nonrefundable application fee for a full-service restaurant license is $300.
+(3) (a)  The nonrefundable application fee for a full-service restaurant license is $330.
 
-(b)  The initial license fee for a full-service restaurant license is $2,000.
+(b)  The initial license fee for a full-service restaurant license is $2,200.
 
 (c)  The renewal fee for a full-service restaurant license is in the following amount:
 
@@ -24,7 +24,7 @@ Renewal Fee
 
 under $5,000
 
-$850
+$935
 
  
 
@@ -32,7 +32,7 @@ $850
 
 equals or exceeds $5,000 but less than $10,000
 
-$1,050
+$1,155
 
  
 
@@ -40,7 +40,7 @@ $1,050
 
 equals or exceeds $10,000 but less than $25,000
 
-$1,500
+$1,650
 
  
 
@@ -48,7 +48,7 @@ $1,500
 
 equals or exceeds $25,000
 
-$1,750
+$1,925
 
 (4)  The bond amount required for a full-service restaurant license is the penal sum of $10,000.
 

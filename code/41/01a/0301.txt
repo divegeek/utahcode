@@ -96,33 +96,131 @@
 
 (i)  Multiply the number of vehicles or combination vehicles registered in each weight class by the equivalent tax figure from the following tables:
 
+ 
+
 Vehicle or Combination
 
-   Registered Weight		        Age of Vehicle		                              Equivalent Tax
+   Registered Weight
 
-12,000 pounds or less		       12 or more years			 		       $10
 
-12,000 pounds or less		        9 or more years but less than 12 years		       $50
 
-12,000 pounds or less		       6 or more years but less than 9 years		       $80
+Age of Vehicle
 
-12,000 pounds or less		       3 or more years but less than 6 years		       $110
 
-12,000 pounds or less		       Less than 3 years					       $150
 
-Vehicle or Combination	Equivalent
+Equivalent Tax
 
-  Registered Weight		     Tax
+ 
 
-12,001 - 18,000 pounds	   $150
+12,000 pounds or less
 
-18,001 - 34,000 pounds	     200
+12 or more years
 
-34,001 - 48,000 pounds	     300
 
-48,001 - 64,000 pounds	     450
 
-64,001 pounds and over 	     600
+$10
+
+ 
+
+12,000 pounds or less
+
+9 or more years but less than 12 years
+
+
+
+$50
+
+ 
+
+12,000 pounds or less
+
+6 or more years but less than 9 years
+
+
+
+$80
+
+ 
+
+12,000 pounds or less
+
+3 or more years but less than 6 years
+
+
+
+$110
+
+ 
+
+12,000 pounds or less
+
+Less than 3 years
+
+
+
+$150
+
+ 
+
+
+
+Vehicle or Combination
+
+  Registered Weight
+
+Equivalent
+
+ Tax
+
+ 
+
+
+
+12,001 - 18,000 pounds
+
+
+
+$150
+
+ 
+
+
+
+18,001 - 34,000 pounds
+
+
+
+  200
+
+ 
+
+
+
+34,001 - 48,000 pounds
+
+
+
+  300
+
+ 
+
+
+
+48,001 - 64,000 pounds
+
+
+
+  450
+
+ 
+
+
+
+64,001 pounds and over
+
+
+
+  600
 
 (ii)  Multiply the equivalent tax value for the total fleet determined under Subsection (11)(a)(i) by the fraction computed under Subsection (3) for the apportioned fleet for the registration year.
 

@@ -36,19 +36,55 @@
 
 (g)  To provide incentive for improved safety, the safety factor required in Subsection (1)(d)(ii) shall be determined based on the self-insured employer's experience modification factor as follows:
 
+ 
+
 EXPERIENCE
 
-MODIFICATION FACTOR			SAFETY FACTOR
+MODIFICATION FACTOR
 
-Less than or equal to 0.90					0.56
 
-Greater than 0.90 but less than or equal to 1.00		0.78
 
-Greater than 1.00 but less than or equal to 1.10		1.00
+SAFETY FACTOR
 
-Greater than 1.10 but less than or equal to 1.20		1.22
+ 
 
-Greater than 1.20						1.44
+
+
+Less than or equal to 0.90
+
+0.56
+
+ 
+
+
+
+Greater than 0.90 but less than or equal to 1.00
+
+0.78
+
+ 
+
+
+
+Greater than 1.00 but less than or equal to 1.10
+
+1.00
+
+ 
+
+
+
+Greater than 1.10 but less than or equal to 1.20
+
+1.22
+
+ 
+
+
+
+Greater than 1.20
+
+1.44
 
 (h) (i)  A premium or premium assessment modification other than a premium or premium assessment modification under this section may not be allowed.
 

@@ -2,19 +2,61 @@
 
 (1)  Before furnishing any escrow services, each escrow agent shall file with the commissioner a surety bond in accordance with the following schedule:
 
-Monthly Average					Minimum
+ 
 
-Escrow Liability					Surety Bond
 
-Up to $10,000						$10,000
 
-$10,001 to 20,000					$20,000
+Monthly Average
 
-$20,001 to 30,000					$30,000
+Minimum
 
-$30,001 to 40,000					$40,000
+ 
 
-Above $40,000					$50,000
+
+
+Escrow Liability
+
+Surety Bond
+
+ 
+
+
+
+Up to $10,000
+
+$10,000
+
+ 
+
+
+
+$10,001 to 20,000
+
+$20,000
+
+ 
+
+
+
+$20,001 to 30,000
+
+$30,000
+
+ 
+
+
+
+$30,001 to 40,000
+
+$40,000
+
+ 
+
+
+
+Above $40,000
+
+$50,000
 
 (2)  The surety bond shall name as beneficiaries:
 

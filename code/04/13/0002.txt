@@ -28,11 +28,23 @@ As used in this chapter:
 
 (7) (a)  "Guaranteed analysis" means the minimum percentage by weight of plant nutrients claimed in the following order and form:
 
-Total nitrogen (N)	____ percent
+ 
 
-Available phosphoric acid (P0)	____ percent
+Total nitrogen (N)
 
-Soluble potash (K0)	____ percent
+____ percent
+
+ 
+
+Available phosphoric acid (P0)
+
+____ percent
+
+ 
+
+Soluble potash (K0)
+
+____ percent
 
 (b)  For unacidulated mineral phosphatic materials and basic slag, bone, tankage, and other organic phosphate materials, it means the total phosphoric acid or degree of fineness.
 

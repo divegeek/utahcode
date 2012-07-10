@@ -8,15 +8,45 @@
 
 (b)  the applicable percentage of the required annual payment, as defined in Section 6655, Internal Revenue Code, for annualized income installments, adjusted seasonal installments, and those estimated tax payments based on the current year tax liability shall be:
 
-Installment						Percentage
+ 
 
-1st							22.5
 
-2nd							45.0
 
-3rd							67.5
+Installment
 
-4th							90.0
+Percentage
+
+ 
+
+
+
+1st
+
+22.5
+
+ 
+
+
+
+2nd
+
+45.0
+
+ 
+
+
+
+3rd
+
+67.5
+
+ 
+
+
+
+4th
+
+90.0
 
 (c)  large corporations shall be treated as any other corporation for purposes of this section; and
 

@@ -46,7 +46,9 @@
 
 (v)  relates to the use of the controlled substance database by an employee of the practitioner, described in Subsection (2)(e); or
 
-(vi)  relates to any use of the practitioner's Drug Enforcement Administration identification number to obtain, attempt to obtain, prescribe, or attempt to prescribe, a controlled substance;	(e)  in accordance with Subsection (3)(a), an employee of a practitioner described in Subsection (2)(d), for a purpose described in Subsection (2)(d)(i) or (ii), if:
+(vi)  relates to any use of the practitioner's Drug Enforcement Administration identification number to obtain, attempt to obtain, prescribe, or attempt to prescribe, a controlled substance;
+
+(e)  in accordance with Subsection (3)(a), an employee of a practitioner described in Subsection (2)(d), for a purpose described in Subsection (2)(d)(i) or (ii), if:
 
 (i)  the employee is designated by the practitioner as an individual authorized to access the information on behalf of the practitioner;
 

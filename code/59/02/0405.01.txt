@@ -28,31 +28,119 @@
 
 (3) (a)  Except as provided in Subsections (3)(b) and (c), beginning on January 1, 1999, the uniform fee for purposes of this section is as follows:
 
-  Age of Vehicle					   Uniform Fee
+ 
 
-12 or more years						$10
+Age of Vehicle
 
-9 or more years but less than 12 years			$50
+Uniform Fee
 
-6 or more years but less than 9 years				$80
+ 
 
-3 or more years but less than 6 years				$110
 
-Less than 3 years						$150
+
+12 or more years
+
+
+
+$10
+
+ 
+
+
+
+9 or more years but less than 12 years
+
+
+
+$50
+
+ 
+
+
+
+6 or more years but less than 9 years
+
+
+
+$80
+
+ 
+
+
+
+3 or more years but less than 6 years
+
+
+
+$110
+
+ 
+
+
+
+Less than 3 years
+
+
+
+$150
 
 (b)  For registrations under Section 41-1a-215.5, beginning on January 1, 2007, the uniform fee for purposes of this section is as follows:
 
-  Age of Vehicle					   Uniform Fee
+ 
 
-12 or more years						$5
+Age of Vehicle
 
-9 or more years but less than 12 years			$25
+Uniform Fee
 
-6 or more years but less than 9 years				$40
+ 
 
-3 or more years but less than 6 years				$55
 
-Less than 3 years						$75
+
+12 or more years
+
+
+
+$5
+
+ 
+
+
+
+9 or more years but less than 12 years
+
+
+
+$25
+
+ 
+
+
+
+6 or more years but less than 9 years
+
+
+
+$40
+
+ 
+
+
+
+3 or more years but less than 6 years
+
+
+
+$55
+
+ 
+
+
+
+Less than 3 years
+
+
+
+$75
 
 (c)  Notwithstanding Subsections (3)(a) and (b), beginning on September 1, 2001, for a motor vehicle issued a temporary sports event registration certificate in accordance with Section 41-3-306, the uniform fee for purposes of this section is $5 for the event period specified on the temporary sports event registration certificate regardless of the age of the motor vehicle.
 

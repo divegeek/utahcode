@@ -8,33 +8,31 @@
 
 (2)  The minimum capital, or permanent surplus for a nonassessable mutual, is as follows for the indicated types of insurance:
 
-(a)  life, annuity, accident and health, or any combination of these........................$400,000
+(a)  life, annuity, accident and health, or any combination of these.......................$400,000
 
 (b)  subject to an aggregate maximum of $1,000,000 for more than one of the following types of coverages:
 
-(i)  property insurance...............................................................................................200,000
+(i)  property insurance...........................................................................................200,000
 
-(ii)  surety insurance..................................................................................................300,000
+(ii)  surety insurance..............................................................................................300,000
 
-(iii)  bail bonds insurance only..................................................................................100,000
+(iii)  bail bonds insurance only...............................................................................100,000
 
-(iv)  marine and transportation insurance.................................................................200,000
+(iv)  marine and transportation insurance...............................................................200,000
 
-(v)  vehicle liability insurance, residential dwelling liability insurance,
+(v)  vehicle liability insurance, residential dwelling liability insurance, or both........400,000
 
-or both...........................................................................................................400,000
+(vi)  liability insurance...........................................................................................600,000
 
-(vi)  liability insurance..............................................................................................600,000
+(vii)  workers' compensation insurance..................................................................300,000
 
-(vii)  workers' compensation insurance.....................................................................300,000
-
-(c)  title insurance......................................................................................................200,000
+(c)  title insurance.................................................................................................200,000
 
 (d)  professional liability insurance, excluding medical malpractice........................700,000
 
-(e)  professional liability, including medical malpractice......................................1,000,000
+(e)  professional liability, including medical malpractice.............................. .......1,000,000
 
-(f)  all types of insurance, except life, annuity, or title..........................................2,000,000
+(f)  all types of insurance, except life, annuity, or title.........................................2,000,000
 
 (3)  Prior to beginning operations, an insurer licensed under this chapter shall have total adjusted capital in excess of the company action level RBC as defined in Subsection 31A-17-601(8)(b).
 
