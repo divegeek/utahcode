@@ -1,0 +1,10 @@
+70A-8-507.   Duty of securities intermediary to comply with entitlement order.
+
+(1)  A securities intermediary shall comply with an entitlement order if the entitlement order is originated by the appropriate person, the securities intermediary has had reasonable opportunity to assure itself that the entitlement order is genuine and authorized, and the securities intermediary has had reasonable opportunity to comply with the entitlement order.  A securities intermediary satisfies the duty if:
+
+(a)  the securities intermediary acts with respect to the duty as agreed upon by the entitlement holder and the securities intermediary; or
+
+(b)  in the absence of agreement, the securities intermediary exercises due care in accordance with reasonable commercial standards to comply with the entitlement order.
+
+(2)  If a securities intermediary transfers a financial asset pursuant to an ineffective entitlement order, the securities intermediary shall reestablish a security entitlement in favor of the person entitled to it, and pay or credit any payments or distributions that the person did not receive as a result of the wrongful transfer.  If the securities intermediary does not reestablish a security entitlement, the securities intermediary is liable to the entitlement holder for damages.
+

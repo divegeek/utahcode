@@ -1,0 +1,64 @@
+72-7-404.   Maximum gross weight limitation for vehicles -- Bridge formula for weight limitations -- Minimum mandatory fines.
+
+(1) (a)  As used in this section:
+
+(i)  "Axle load" means the total load on all wheels whose centers may be included between two parallel transverse vertical planes 40 inches apart.
+
+(ii)  "Tandem axle" means two or more axles spaced not less than 40 inches nor more than 96 inches apart and having at least one common point of weight suspension.
+
+(b)  The tire load rating shall be marked on the tire sidewall.  A tire, wheel, or axle may not carry a greater weight than the manufacturer's rating.
+
+(2) (a)  A vehicle may not be operated or moved on any highway in the state with:
+
+(i)  a gross weight in excess of 10,500 pounds on one wheel;
+
+(ii)  a single axle load in excess of 20,000 pounds; or
+
+(iii)  a tandem axle load in excess of 34,000 pounds.
+
+(b)  Subject to the limitations of Subsection (3), the gross vehicle weight of any vehicle or combination of vehicles may not exceed 80,000 pounds.
+
+(3) (a)  Subject to the limitations in Subsection (2), no group of two or more consecutive axles between the first and last axle of a vehicle or combination of vehicles and no vehicle or combination of vehicles may carry a gross weight in excess of the weight provided by the following bridge formula, except as provided in Subsection (3)(b):
+
+W = 500 {LN/(N-1) + 12N+36}
+
+(i)  W = overall gross weight on any group of two or more consecutive axles to the nearest 500 pounds.
+
+(ii)  L = distance in feet between the extreme of any group of two or more consecutive axles.  When the distance in feet includes a fraction of a foot of one inch or more the next larger number of feet shall be used.
+
+(iii)  N = number of axles in the group under consideration.
+
+(b)  Two consecutive sets of tandem axles may carry a gross  weight of 34,000 pounds each if the overall distance between the first and last axles of the consecutive sets of tandem axles is 36 feet or more.
+
+(4)  Any exception to this section must be authorized by an overweight permit as provided in Section 72-7-406.
+
+(5) (a)  Any person who violates this section is guilty of a class B misdemeanor except that, notwithstanding Sections 76-3-301 and 76-3-302, the violator shall pay the largest minimum mandatory fine of either:
+
+(i)  $50 plus the sum of the overweight axle fines calculated under Subsection (5)(b); or
+
+(ii)  $50 plus the gross vehicle weight fine calculated under Subsection (5)(b).
+
+(b)  The fine for each axle and a gross vehicle weight violation shall be calculated according to the following schedule:
+
+Number of Pounds			Axle Fine (Cents			Gross Vehicle
+
+Overweight				per Pound for Each			Weight Fine
+
+Overweight Axle)			(Cents per Pound)
+
+         1 - 2,000				0					0
+
+  2,001 - 5,000				4					5
+
+  5,001 - 8,000				5					5
+
+  8,001 - 12,000				6					5
+
+12,001 - 16,000				7					5
+
+16,001 - 20,000				9					5
+
+20,001 - 25,000				11					5
+
+25,001 or more				13					5
+

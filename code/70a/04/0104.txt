@@ -1,0 +1,86 @@
+70A-4-104.   Definitions and index of definitions.
+
+(1)  In this chapter, unless the context otherwise requires:
+
+(a)  "Account" means any deposit or credit account with a bank including a demand, time, savings, passbook, share draft, or similar account, other than the account evidenced by a certificate of deposit.
+
+(b)  "Afternoon" means the period of a day between noon and midnight.
+
+(c)  "Banking day" means the part of a day on which a bank is open to the public for carrying on substantially all of its banking functions other than a Saturday, a Sunday, or a legal holiday.
+
+(d)  "Clearinghouse" means an association of banks or other payors regularly clearing items.
+
+(e)  "Customer" means a person having an account with a bank or for whom a bank has agreed to collect items including a bank that maintains an account at another bank.
+
+(f)  "Documentary draft" means a draft to be presented for acceptance or payment if specified documents, certificated securities as provided in Section 70A-8-101, instructions for uncertificated securities as provided in Section 70A-8-101, other certificates, statements, or the like are to be received by the drawee or other payor before acceptance or payment of the draft.
+
+(g)  "Draft" means a draft as defined in Section 70A-3-104 or an item, other than an instrument, that is an order.
+
+(h)  "Drawee" means a person ordered in a draft to make payment.
+
+(i)  "Item" means an instrument or a promise or order to pay money handled by a bank for collection or payment.  The term does not include a payment order governed by Chapter 4a, Uniform Commercial Code - Funds Transfers, or a credit or debit card slip.
+
+(j)  "Midnight deadline" with respect to a bank is midnight on its next banking day following the banking day on which it receives the relevant item or notice or from which the time for taking action commences to run, whichever is later.
+
+(k)  "Settle" means to pay in cash, by clearinghouse settlement, in a charge or credit or by remittance, or otherwise as agreed.  A settlement may be either provisional or final.
+
+(l)  "Suspends payments" with respect to a bank means that it has been closed by order of the supervisory authorities, that a public officer has been appointed to take it over or that it ceases or refuses to make payments in the ordinary course of business.
+
+(2)  Other definitions applying to this chapter and the sections in which they appear are:
+
+(a)  "Agreement for electronic presentment," Section 70A-4-110.
+
+(b)  "Bank," Section 70A-4-105.
+
+(c)  "Collecting bank," Section 70A-4-105.
+
+(d)  "Depositary bank," Section 70A-4-105.
+
+(e)  "Intermediary bank," Section 70A-4-105.
+
+(f)  "Payor bank," Section 70A-4-105.
+
+(g)  "Presenting bank," Section 70A-4-105.
+
+(h)  "Presentment notice," Section 70A-4-110.
+
+(3) "Control" as provided in Section 70A-7a-106 and the following definitions in other chapters apply to this chapter:
+
+(a)  "Acceptance," Section 70A-3-409.
+
+(b)  "Alteration," Section 70A-3-407.
+
+(c)  "Cashier's check," Section 70A-3-104.
+
+(d)  "Certificate of deposit," Section 70A-3-104.
+
+(e)  "Certified check," Section 70A-3-409.
+
+(f)  "Check," Section 70A-3-104.
+
+(g)  "Good faith," Section 70A-3-103.
+
+(h)  "Holder in due course," Section 70A-3-302.
+
+(i)  "Instrument," Section 70A-3-104.
+
+(j)  "Notice of dishonor," Section 70A-3-503.
+
+(k)  "Order," Section 70A-3-103.
+
+(l)  "Ordinary care," Section 70A-3-103.
+
+(m)  "Person entitled to enforce," Section 70A-3-301.
+
+(n)  "Presentment," Section 70A-3-501.
+
+(o)  "Promise," Section 70A-3-103.
+
+(p)  "Prove," Section 70A-3-103.
+
+(q)  "Teller's check," Section 70A-3-104.
+
+(r)  "Unauthorized signature," Section 70A-3-403.
+
+(4)  In addition, Chapter 1a, Uniform Commercial Code - General Provisions, contains general definitions and principles of construction and interpretation applicable throughout this chapter.
+

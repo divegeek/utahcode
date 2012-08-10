@@ -1,0 +1,28 @@
+78B-11-124.   Vacating an award.
+
+(1)  Upon motion to the court by a party to an arbitration proceeding, the court shall vacate an award made in the arbitration proceeding if:
+
+(a)  the award was procured by corruption, fraud, or other undue means;
+
+(b)  there was:
+
+(i)  evident partiality by an arbitrator appointed as a neutral arbitrator;
+
+(ii)  corruption by an arbitrator; or
+
+(iii)  misconduct by an arbitrator prejudicing the rights of a party to the arbitration proceeding;
+
+(c)  an arbitrator refused to postpone the hearing upon showing of sufficient cause for postponement, refused to consider evidence material to the controversy, or otherwise conducted the hearing contrary to Section 78B-11-116, so as to substantially prejudice the rights of a party to the arbitration proceeding;
+
+(d)  an arbitrator exceeded the arbitrator's authority;
+
+(e)  there was no agreement to arbitrate, unless the person participated in the arbitration proceeding without raising an objection under Subsection 78B-11-116(3) not later than the beginning of the arbitration hearing; or
+
+(f)  the arbitration was conducted without proper notice of the initiation of an arbitration as required in Section 78B-11-110 so as to substantially prejudice the rights of a party to the arbitration proceeding.
+
+(2)  A motion under this section must be filed within 90 days after the movant receives notice of the award pursuant to Section 78B-11-120 or within 90 days after the movant receives notice of a modified or corrected award pursuant to Section 78B-11-121, unless the movant alleges that the award was procured by corruption, fraud, or other undue means, in which case the motion must be made within 90 days after the ground is known or by the exercise of reasonable care would have been known by the movant.
+
+(3)  If the court vacates an award on a ground other than that set forth in Subsection (1)(e), it may order a rehearing.  If the award is vacated on a ground stated in Subsection (1)(a) or (b), the rehearing must be before a new arbitrator.  If the award is vacated on a ground stated in Subsection (1)(c), (d), or (f), the rehearing may be before the arbitrator who made the award or the arbitrator's successor.  The arbitrator must render the decision in the rehearing within the same time as that provided in Subsection 78B-11-120(2) for an award.
+
+(4)  If the court denies a motion to vacate an award, it shall confirm the award unless a motion to modify or correct the award is pending.
+

@@ -1,0 +1,58 @@
+70A-9a-620.   Acceptance of collateral in full or partial satisfaction of obligation -- Compulsory disposition of collateral.
+
+(1)  Except as otherwise provided in Subsection (7), a secured party may accept collateral in full or partial satisfaction of the obligation it secures only if:
+
+(a)  the debtor consents to the acceptance under Subsection (3);
+
+(b)  the secured party does not receive, within the time set forth in Subsection (4), a notification of objection to the proposal authenticated by:
+
+(i)  a person to which the secured party was required to send a proposal under Section 70A-9a-621; or
+
+(ii)  any other person, other than the debtor, holding an interest in the collateral subordinate to the security interest that is the subject of the proposal;
+
+(c)  if the collateral is consumer goods, the collateral is not in the possession of the debtor when the debtor consents to the acceptance; and
+
+(d)  Subsection (5) does not require the secured party to dispose of the collateral or the debtor waives the requirement pursuant to Section 70A-9a-624.
+
+(2)  A purported or apparent acceptance of collateral under this section is ineffective unless:
+
+(a)  the secured party consents to the acceptance in an authenticated record or sends a proposal to the debtor; and
+
+(b)  the conditions of Subsection (1) are met.
+
+(3)  For purposes of this section:
+
+(a)  a debtor consents to an acceptance of collateral in partial satisfaction of the obligation it secures only if the debtor agrees to the terms of the acceptance in a record authenticated after default; and
+
+(b)  a debtor consents to an acceptance of collateral in full satisfaction of the obligation it secures only if the debtor agrees to the terms of the acceptance in a record authenticated after default or the secured party:
+
+(i)  sends to the debtor after default a proposal that is unconditional or subject only to a condition that collateral not in the possession of the secured party be preserved or maintained;
+
+(ii)  in the proposal, proposes to accept collateral in full satisfaction of the obligation it secures; and
+
+(iii)  does not receive a notification of objection authenticated by the debtor within 20 days after the proposal is sent.
+
+(4)  To be effective under Subsection (1)(b), a notification of objection must be received by the secured party:
+
+(a)  in the case of a person to which the proposal was sent pursuant to Section 70A-9a-621, within 20 days after notification was sent to that person; and
+
+(b)  in other cases:
+
+(i)  within 20 days after the last notification was sent pursuant to Section 70A-9a-621; or
+
+(ii)  if a notification was not sent, before the debtor consents to the acceptance under Subsection (3).
+
+(5) A secured party that has taken possession of collateral shall dispose of the collateral pursuant to Section 70A-9a-610 within the time specified in Subsection (6) if:
+
+(a)  60% of the cash price has been paid in the case of a purchase-money security interest in consumer goods; or
+
+(b)  60% of the principal amount of the obligation secured has been paid in the case of a non-purchase-money security interest in consumer goods.
+
+(6)  To comply with Subsection (5), the secured party shall dispose of the collateral:
+
+(a)  within 90 days after taking possession; or
+
+(b)  within any longer period to which the debtor and all secondary obligors have agreed in an agreement to that effect entered into and authenticated after default.
+
+(7) In a consumer transaction, a secured party may not accept collateral in partial satisfaction of the obligation it secures.
+
