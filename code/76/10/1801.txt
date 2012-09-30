@@ -1,0 +1,52 @@
+76-10-1801.   Communications fraud -- Elements -- Penalties.
+
+(1)  Any person who has devised any scheme or artifice to defraud another or to obtain from another money, property, or anything of value by means of false or fraudulent pretenses, representations, promises, or material omissions, and who communicates directly or indirectly with any person by any means for the purpose of executing or concealing the scheme or artifice is guilty of:
+
+(a)  a class B misdemeanor when the value of the property, money, or thing obtained or sought to be obtained is less than $500;
+
+(b)  a class A misdemeanor when the value of the property, money, or thing obtained or sought to be obtained is or exceeds $500 but is less than $1,500;
+
+(c)  a third degree felony when the value of the property, money, or thing obtained or sought to be obtained is or exceeds $1,500 but is less than $5,000;
+
+(d)  a second degree felony when the value of the property, money, or thing obtained or sought to be obtained is or exceeds $5,000; and
+
+(e)  a second degree felony when the object or purpose of the scheme or artifice to defraud is the obtaining of sensitive personal identifying information, regardless of the value.
+
+(2)  The determination of the degree of any offense under Subsection (1) shall be measured by the total value of all property, money, or things obtained or sought to be obtained by the scheme or artifice described in Subsection (1) except as provided in Subsection (1)(e).
+
+(3)  Reliance on the part of any person is not a necessary element of the offense described in Subsection (1).
+
+(4)  An intent on the part of the perpetrator of any offense described in Subsection (1) to permanently deprive any person of property, money, or thing of value is not a necessary element of the offense.
+
+(5)  Each separate communication made for the purpose of executing or concealing a scheme or artifice described in Subsection (1) is a separate act and offense of communication fraud.
+
+(6) (a)  To communicate as described in Subsection (1) means to:
+
+(i)  bestow, convey, make known, recount, or impart;
+
+(ii)  give by way of information;
+
+(iii)  talk over; or
+
+(iv)  transmit information.
+
+(b)  Means of communication include use of the mail, telephone, telegraph, radio, television, newspaper, computer, and spoken and written communication.
+
+(7)  A person may not be convicted under this section unless the pretenses, representations, promises, or material omissions made or omitted were made or omitted intentionally, knowingly, or with a reckless disregard for the truth.
+
+(8)  As used in this section, "sensitive personal identifying information" means information regarding an individual's:
+
+(a)  Social Security number;
+
+(b)  driver's license number or other government issued identification number;
+
+(c)  financial account number or credit or debit card number;
+
+(d)  password or personal identification number or other identification required to gain access to a financial account or a secure website;
+
+(e)  automated or electronic signature;
+
+(f)  unique biometric data; or
+
+(g)  any other information that can be used to gain access to an individual's financial accounts or to obtain goods or services.
+

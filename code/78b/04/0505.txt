@@ -1,0 +1,28 @@
+78B-4-505.   Liability of reprocessor of single-use medical devices.
+
+(1)  For purposes of this section:
+
+(a)  "Critical single-use medical device" means a medical device that:
+
+(i)  is marked as a single-use device by the original manufacturer; and
+
+(ii)  is intended to directly contact normally sterile tissue or body spaces during use, or is physically connected to a device intended to contact normally sterile tissue or body spaces during use.
+
+(b)  "Original manufacturer" means any person or entity who designs, manufactures, fabricates, assembles, or processes a critical single-use medical device which is new and has not been used in a previous medical procedure.
+
+(c)  "Reprocessor" includes a person or entity who performs the functions of contract sterilization, installation, relabeling, remanufacturing, repacking, or specification development of a reprocessed critical single-use medical device.
+
+(d) "Reconditioned or reprocessed critical single-use medical device" means a critical single use medical device that:
+
+(i)  has previously been used on a patient and has been subject to additional processing and manufacturing for the purpose of additional use on a different patient;
+
+(ii)  includes a device that meets the definition under Subsection (1)(a), but has been labeled by the reprocessor as "recycled," "refurbished," or "reused"; and
+
+(iii)  does not include a disposable or critical single-use medical device that has been opened but not used on an individual.
+
+(2)  A reprocessor who reconditions or reprocesses a critical single-use medical device assumes the liability:
+
+(a)  of the original manufacturer of the critical single-use medical device; and
+
+(b)  for the safety and effectiveness of the reconditioned or reprocessed critical single-use medical device.
+

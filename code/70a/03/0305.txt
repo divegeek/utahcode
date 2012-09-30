@@ -1,0 +1,26 @@
+70A-3-305.   Defenses and claims in recoupment.
+
+(1)  Except as stated in Subsection (2), the right to enforce the obligation of a party to pay an instrument is subject to the following:
+
+(a)  a defense of the obligor based on:
+
+(i)  infancy of the obligor to the extent it is a defense to a simple contract;
+
+(ii)  duress, lack of legal capacity, or illegality of the transaction which, under other law, nullifies the obligation of the obligor;
+
+(iii)  fraud that induced the obligor to sign the instrument with neither knowledge nor reasonable opportunity to learn of its character or its essential terms; or
+
+(iv)  discharge of the obligor in insolvency proceedings;
+
+(b)  a defense of the obligor stated in another section of this chapter or a defense of the obligor that would be available if the person entitled to enforce the instrument were enforcing a right to payment under a simple contract; and
+
+(c) (i)  a claim in recoupment of the obligor against the original payee of the instrument if the claim arose from the transaction that gave rise to the instrument;
+
+(ii)  but the claim of the obligor may be asserted against a transferee of the instrument only to reduce the amount owing on the instrument at the time the action is brought.
+
+(2)  The right of a holder in due course to enforce the obligation of a party to pay the instrument is subject to defenses of the obligor stated in Subsection (1)(a), but is not subject to defenses of the obligor stated in Subsection (1)(b) or claims in recoupment stated in Subsection (1)(c) against a person other than the holder.
+
+(3)  Except as stated in Subsection (4), in an action to enforce the obligation of a party to pay the instrument, the obligor may not assert against the person entitled to enforce the instrument a defense, claim in recoupment, or claim to the instrument under Section 70A-3-306, of another person, but the other person's claim to the instrument may be asserted by the obligor if the other person is joined in the action and personally asserts the claim against the person entitled to enforce the instrument.  An obligor is not obliged to pay the instrument if the person seeking enforcement of the instrument does not have rights of a holder in due course and the obligor proves that the instrument is a lost or stolen instrument.
+
+(4)  In an action to enforce the obligation of an accommodation party to pay an instrument, the accommodation party may assert against the person entitled to enforce the instrument any defense or claim in recoupment under Subsection (1) that the accommodated party could assert against the person entitled to enforce the instrument, except the defenses of discharge in insolvency proceedings, infancy, and lack of legal capacity.
+
