@@ -1,0 +1,76 @@
+10-1-405 (Superseded 07/01/14).   Collection of taxes by commission -- Uniform interlocal agreement -- Administrative charge -- Rulemaking authority.
+
+(1)  Subject to the other provisions of this section, the commission shall collect, enforce, and administer any municipal telecommunications license tax imposed under this part pursuant to:
+
+(a)  the same procedures used in the administration, collection, and enforcement of the state sales and use tax under:
+
+(i)  Title 59, Chapter 1, General Taxation Policies; and
+
+(ii)  Title 59, Chapter 12, Part 1, Tax Collection:
+
+(A)  except for:
+
+(I)  Subsection 59-12-103(2)(g);
+
+(II)  Section 59-12-104;
+
+(III)  Section 59-12-104.1;
+
+(IV)  Section 59-12-104.2;
+
+(V)  Section 59-12-104.3;
+
+(VI)  Section 59-12-107.1; and
+
+(VII)  Section 59-12-123; and
+
+(B)  except that for purposes of Section 59-1-1410, the term "person" may include a customer from whom a municipal telecommunications license tax is recovered in accordance with Subsection 10-1-403(2); and
+
+(b)  a uniform interlocal agreement between the municipality that imposes the municipal telecommunications license tax and the commission:
+
+(i)  that is executed under Title 11, Chapter 13, Interlocal Cooperation Act;
+
+(ii)  that complies with Subsection (2)(a); and
+
+(iii)  that is developed by rule in accordance with Subsection (2)(b).
+
+(2) (a)  The uniform interlocal agreement described in Subsection (1) shall provide that the commission shall:
+
+(i)  transmit money collected under this part monthly by electronic funds transfer by the commission to the municipality;
+
+(ii)  conduct audits of the municipal telecommunications license tax;
+
+(iii)  retain and deposit an administrative charge in accordance with Section 59-1-306 from revenues the commission collects from a tax under this part; and
+
+(iv)  collect, enforce, and administer the municipal telecommunications license tax authorized under this part pursuant to the same procedures used in the administration, collection, and enforcement of the state sales and use tax as provided in Subsection (1)(a).
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall develop a uniform interlocal agreement that meets the requirements of this section.
+
+(3)  If a telecommunications provider pays a municipal telecommunications license tax to the commission, the telecommunications provider shall pay the municipal telecommunications license tax to the commission:
+
+(a)  monthly on or before the last day of the month immediately following the last day of the previous month if:
+
+(i)  the telecommunications provider is required to file a sales and use tax return with the commission monthly under Section 59-12-108; or
+
+(ii)  the telecommunications provider is not required to file a sales and use tax return under Title 59, Chapter 12, Sales and Use Tax Act; or
+
+(b)  quarterly on or before the last day of the month immediately following the last day of the previous quarter if the telecommunications provider is required to file a sales and use tax return with the commission quarterly under Section 59-12-108.
+
+(4)  If, on July 1, 2007, a municipality has in effect an ordinance that levies a municipal telecommunications license tax under this part at a rate that exceeds 3.5%:
+
+(a)  except as provided in Subsection (4)(b), beginning on July 1, 2007, the commission shall collect the municipal telecommunications license tax:
+
+(i)  within the municipality;
+
+(ii)  at a rate of 3.5%; and
+
+(iii)  from a telecommunications provider required to pay the municipal telecommunications license tax on or after July 1, 2007; and
+
+(b)  the commission shall collect a municipal telecommunications license tax within the municipality at the rate imposed by the municipality if:
+
+(i)  after July 1, 2007, the municipality has in effect an ordinance that levies a municipal telecommunications license tax under this part at a rate of up to 3.5%;
+
+(ii)  the municipality meets the requirements of Subsection 10-1-403(3)(b) in changing the rate of the municipal telecommunications license tax; and
+
+(iii)  a telecommunications provider is required to pay the municipal telecommunications license tax on or after the day on which the ordinance described in Subsection (4)(b)(ii) takes effect.
+

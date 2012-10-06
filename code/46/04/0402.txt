@@ -1,0 +1,34 @@
+46-4-402.    Time and place of sending and receipt.
+
+(1)  Unless otherwise agreed between the sender and the recipient, an electronic record is sent when it:
+
+(a)  is addressed properly or otherwise directed properly to an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record;
+
+(b)  is in a form capable of being processed by that system; and
+
+(c)  enters an information processing system outside the control of the sender or of a person that sent the electronic record on behalf of the sender or enters a region of the information processing system designated or used by the recipient that is under the control of the recipient.
+
+(2)  Unless otherwise agreed between a sender and the recipient, an electronic record is received when:
+
+(a)  it enters an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record; and
+
+(b)  it is in a form capable of being processed by that system.
+
+(3)  Subsection (2) applies even if the place the information processing system is located is different from the place the electronic record is deemed to be received under Subsection (4).
+
+(4) (a)  Unless otherwise expressly provided in the electronic record or agreed between the sender and the recipient, an electronic record is deemed to be sent from the sender's place of business and to be received at the recipient's place of business.
+
+(b)  For purposes of this Subsection (4), the following rules apply:
+
+(i)  If the sender or recipient has more than one place of business, the place of business of that person is the place having the closest relationship to the underlying transaction.
+
+(ii)  If the sender or the recipient does not have a place of business, the place of business is the sender's or recipient's residence, as the case may be.
+
+(5)  An electronic record is received under Subsection (2) even if no individual is aware of its receipt.
+
+(6)  Receipt of an electronic acknowledgment from an information processing system described in Subsection (2) establishes that a record was received but, by itself, does not establish that the content sent corresponds to the content received.
+
+(7) (a)  If a person is aware that an electronic record purportedly sent under Subsection (1), or purportedly received under Subsection (2), was not actually sent or received, the legal effect of the sending or receipt is determined by other applicable law.
+
+(b)  Except to the extent permitted by the other law, the requirements of this Subsection (7) may not be varied by agreement.
+

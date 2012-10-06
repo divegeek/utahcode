@@ -1,0 +1,38 @@
+7-16a-202.   Powers of depository institutions operating automated teller machines -- Fees or surcharges.
+
+(1)  An operator may:
+
+(a)  make an automated teller machine available for use by customers of one or more issuers;
+
+(b)  connect the automated teller machine with an electronic consumer funds transfer system connecting one or more depository institutions to one or more automated teller machines; and
+
+(c)  impose a transaction fee for the use of the automated teller machine, if the imposition of the transaction fee is disclosed at a time and in a manner that allows a user to terminate or cancel the transaction without incurring the transaction fee.
+
+(2)  Except for the dispensing of currency or coin or accepting deposits or payments, any service provided by an operator to a customer at the automated teller machine is not governed by this chapter.
+
+(3)  The transaction fee permitted in Subsection (1)(c) may be in addition to any other charges imposed by any of the following entities involved in the transaction:
+
+(a)  an electronic consumer funds transfer system;
+
+(b)  a depository institution; or
+
+(c)  an issuer.
+
+(4) (a)  Any of the following entities may charge any or all customers any transaction fee allowed or not prohibited by state or federal law:
+
+(i)  a depository institution;
+
+(ii)  an owner;
+
+(iii)  an operator;
+
+(iv)  an issuer; or
+
+(v)  an electronic consumer funds transfer system.
+
+(b)  A transaction fee allowed under this section includes a charge to a customer conducting a transaction using an account from an institution providing financial services that is located outside of the United States.
+
+(c) (i)  Subject to Subsection (4)(c)(ii) and to the extent not prohibited by federal law, an agreement to operate or share an automated teller machine may not prohibit, limit, or otherwise restrict a person described in Subsection (4)(a) from charging a customer for use of or access to the automated teller machine on the basis of the customer using an account from an institution providing financial services that is located outside of the United States if the charge is not otherwise prohibited under state or federal law.
+
+(ii)  Notwithstanding Subsection (4)(c)(i), nothing in this section may be construed to prohibit, limit, or otherwise restrict the ability of a person described in Subsection (4)(a) from voluntarily entering into an agreement to participate in a surcharge free network.
+

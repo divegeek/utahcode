@@ -1,0 +1,62 @@
+41-12a-805 (Superseded 07/01/13).   Disclosure of insurance information -- Penalty.
+
+(1)  Information in the database established under Section 41-12a-803 provided by a person to the designated agent is considered to be the property of the person providing the information.
+
+(2)  The information may not be disclosed from the database under Title 63G, Chapter 2, Government Records Access and Management Act, or otherwise, except as follows:
+
+(a)  for the purpose of investigating, litigating, or enforcing the owner's or operator's security requirement under Section 41-12a-301, the designated agent shall verify insurance information through the state computer network for a state or local government agency or court;
+
+(b)  for the purpose of investigating, litigating, or enforcing the owner's or operator's security requirement under Section 41-12a-301, the designated agent shall, upon request, issue to any state or local government agency or court a certificate documenting the insurance information, according to the database, of a specific individual or motor vehicle for the time period designated by the government agency;
+
+(c)  upon request, the department or its designated agent shall disclose whether or not a person is an insured individual and the insurance company name to:
+
+(i)  that individual or, if that individual is deceased, any interested person of that individual, as defined in Section 75-1-201;
+
+(ii)  the parent or legal guardian of that individual if the individual is an unemancipated minor;
+
+(iii)  the legal guardian of that individual if the individual is legally incapacitated;
+
+(iv)  a person who has power of attorney from the insured individual;
+
+(v)  a person who submits a notarized release from the insured individual dated no more than 90 days before the date the request is made; or
+
+(vi)  a person suffering loss or injury in a motor vehicle accident in which the insured individual is involved, but only as part of an accident report as authorized in Section 41-12a-202;
+
+(d)  for the purpose of investigating, enforcing, or prosecuting laws or issuing citations by state or local law enforcement agencies related to the:
+
+(i)  registration and renewal of registration of a motor vehicle under Title 41, Chapter 1a, Motor Vehicle Act;
+
+(ii)  purchase of a motor vehicle under Title 59, Chapter 12, Sales and Use Tax Act; and
+
+(iii)  owner's or operator's security requirements under Section 41-12a-301;
+
+(e)  upon request of a peace officer acting in an official capacity under the provisions of Subsection (2)(d), the department or the designated agent shall, upon request, disclose relevant information for investigation, enforcement, or prosecution;
+
+(f)  for the purpose of the state auditor, the legislative auditor general, or other auditor of the state conducting audits of the program;
+
+(g)  upon request of a financial institution as defined under Section 7-1-103 for the purpose of protecting the financial institution's bona fide security interest in a motor vehicle; and
+
+(h)  upon the request of a state or local law enforcement agency for the purpose of investigating and prosecuting identity theft and other crimes.
+
+(3) (a)  The department may allow the designated agent to prepare and deliver upon request, a report on the insurance information of a person or motor vehicle in accordance with this section.
+
+(b)  The report may be in the form of:
+
+(i)  a certified copy that is considered admissible in any court proceeding in the same manner as the original; or
+
+(ii)  information accessible through the Internet or through other electronic medium if the department determines that sufficient security is provided to ensure compliance with this section.
+
+(c)  The department may allow the designated agent to charge a fee established by the department under Section 63J-1-504 for each:
+
+(i)  document authenticated, including each certified copy;
+
+(ii)  record accessed by the Internet or by other electronic medium; and
+
+(iii)  record provided to a financial institution under Subsection (2)(g).
+
+(4)  A person who knowingly releases or discloses information from the database for a purpose other than those authorized in this section or to a person who is not entitled to it is guilty of a third degree felony.
+
+(5)  An insurer is not liable to any person for complying with Section 31A-22-315 by providing information to the designated agent.
+
+(6)  Neither the state nor the department's designated agent is liable to any person for gathering, managing, or using the information in the database as provided in Section 31A-22-315 and this part.
+

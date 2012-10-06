@@ -1,0 +1,76 @@
+54-14-103.   Definitions.
+
+As used in this chapter:
+
+(1)  "Actual excess cost" means the difference in cost between:
+
+(a)  the standard cost of a facility; and
+
+(b)  the actual cost of the facility, including any necessary right-of-way, as determined in accordance with Section 54-14-203.
+
+(2)  "Board" means the Utility Facility Review Board.
+
+(3)  "Commencement of construction of a facility" includes the project design and the ordering of materials necessary to construct the facility.
+
+(4)  "Estimated excess cost" means any material difference in estimated cost between the costs of a facility, including any necessary right-of-way, if constructed in accordance with the requirements of a local government and the standard cost of the facility.
+
+(5) (a)  "Facility" means a transmission line, a substation, a gas pipeline, a tap, a measuring device, or a treatment device.
+
+(b)  "Facility" includes a high voltage power line route as defined in Section 54-18-102.
+
+(6) (a)  "Gas pipeline" means equipment, material, and structures used to transport gas to the public utility's customers, including:
+
+(i)  pipe;
+
+(ii)  a compressor;
+
+(iii)  a pressure regulator;
+
+(iv)  a support structure; and
+
+(v)  any other equipment or structure used to transport or facilitate transportation of gas through a pipe.
+
+(b)  "Gas pipeline" does not include a service line.
+
+(7)  "Local government":
+
+(a)  means a city or town as defined in Section 10-1-104 or a county; or
+
+(b)  may refer to one or more of the local governments in whose jurisdiction a facility is located if a facility is proposed to be located in more than one local government jurisdiction.
+
+(8)  "Pay" includes, in reference to a local government paying the actual excess cost of a facility, payment by:
+
+(a)  a local district under Title 17B, Limited Purpose Local Government Entities - Local Districts;
+
+(b)  a special service district under Title 17D, Chapter 1, Special Service District Act; or
+
+(c)  a private entity other than the public utility pursuant to a regulation or decision of the local government.
+
+(9) (a)  "Standard cost" means the estimated cost of a facility, including any necessary right-of-way, if constructed in accordance with:
+
+(i)  the public utility's normal practices; and
+
+(ii)  zoning, subdivision, and building code regulations of a local government, including siting, setback, screening, and landscaping requirements:
+
+(A)  imposed on similar land uses in the same zone; and
+
+(B)  that do not impair the ability of the public utility to provide service to its customers in a safe, reliable, adequate, and efficient manner.
+
+(b)  With respect to a transmission line, "standard cost" is the cost of any overhead line constructed in accordance with the public utility's normal practices.
+
+(c)  With respect to a facility of a gas corporation, "standard cost" is the cost of constructing the facility in accordance with the public utility's normal practices.
+
+(10) (a)  "Substation" means a separate space within which electric supply equipment is located for the purpose of switching, regulating, transforming, or otherwise modifying the characteristics of electricity, including:
+
+(i)  electrical equipment such as transformers, circuit breakers, voltage regulating equipment, buses, switches, capacitor banks, reactors, protection and control equipment, and other related equipment;
+
+(ii)  the site at which the equipment is located, any foundations, support structures, buildings, or driveways necessary to locate, operate, and maintain the equipment at the site; and
+
+(iii)  the structure intended to restrict access to the equipment to qualified persons.
+
+(b)  "Substation" does not include a distribution pole-mounted or pad-mounted transformer that is used for the final transformation of power to the voltage level utilized by the customer.
+
+(11) (a)  "Transmission line" means an electrical line, including structures, equipment, plant, or fixtures associated with the electrical line, operated at a nominal voltage of 34,000 volts or above.
+
+(b)  "Transmission line" includes, for purposes of Title 54, Chapter 18, Siting of High Voltage Power Line Act, an electrical line as described in Subsection (11)(a) operated at a nominal voltage of 230 kilovolts or more.
+

@@ -1,0 +1,22 @@
+16-10a-906.   Determination and authorization of indemnification of directors.
+
+(1)  A corporation may not indemnify a director under Section 16-10a-902 unless authorized and a determination has been made in the specific case that indemnification of the director is permissible in the circumstances because the director has met the applicable standard of conduct set forth in Section 16-10a-902.  A corporation may not advance expenses to a director under Section 16-10a-904 unless authorized in the specific case after the written affirmation and undertaking required by Subsections 16-10a-904(1)(a) and (b) are received and the determination required by Subsection 16-10a-904(1)(c) has been made.
+
+(2)  The determinations required by Subsection (1) shall be made:
+
+(a)  by the board of directors by a majority vote of those present at a meeting at which a quorum is present, and only those directors not parties to the proceeding shall be counted in satisfying the quorum; or
+
+(b)  if a quorum cannot be obtained as contemplated in Subsection (2)(a), by a majority vote of a committee of the board of directors designated by the board of directors, which committee shall consist of two or more directors not parties to the proceeding, except that directors who are parties to the proceeding may participate in the designation of directors for the committee;
+
+(c)  by special legal counsel:
+
+(i)  selected by the board of directors or its committee in the manner prescribed in Subsection (2)(a) or (b); or
+
+(ii)  if a quorum of the board of directors cannot be obtained under Subsection (2)(a) and a committee cannot be designated under Subsection (2)(b), selected by a majority vote of the full board of directors, in which selection directors who are parties to the proceeding may participate; or
+
+(d)  by the shareholders, by a majority of the votes entitled to be cast by holders of qualified shares present in person or by proxy at a meeting.
+
+(3)  A majority of the votes entitled to be cast by the holders of all qualified shares constitutes a quorum for purposes of action that complies with this section.  Shareholders' action that otherwise complies with this section is not affected by the presence of holders, or the voting, of shares that are not qualified shares.
+
+(4)  Unless authorization is required by the bylaws, authorization of indemnification and advance of expenses shall be made in the same manner as the determination that indemnification or advance of expenses is permissible.  However, if the determination that indemnification or advance of expenses is permissible is made by special legal counsel, authorization of indemnification and advance of expenses shall be made by a body entitled under Subsection (2)(c) to select legal counsel.
+

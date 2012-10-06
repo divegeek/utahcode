@@ -1,0 +1,22 @@
+54-8b-2.1.   Competitive entry.
+
+(1)  Notwithstanding any provision of Section 54-4-25 to the contrary, the commission may issue a certificate to a telecommunications corporation authorizing it to compete in providing local exchange services or other public telecommunications services in all or part of the service territory of an incumbent telephone corporation, except until December 31, 1997, a telecommunications corporation may not receive a certificate to compete in providing local exchange service within any local exchange with fewer than 5,000 access lines that is owned or controlled by an incumbent telephone corporation with fewer than 30,000 access lines in the state.  The procedure specified in Subsection (3)(c) for excluding competition within a local exchange with fewer than 5,000 access lines shall apply on December 31, 1997 or thereafter.
+
+(2)  The commission shall issue a certificate to the applying telecommunications corporation if the commission determines that:
+
+(a)  the applicant has sufficient technical, financial, and managerial resources and abilities to provide the public telecommunications services applied for; and
+
+(b)  the issuance of the certificate to the applicant is in the public interest.
+
+(3) (a)  The commission shall process the application in accordance with Title 63G, Chapter 4, Administrative Procedures Act.
+
+(b)  Each telecommunications corporation holding a certificate to provide public telecommunications service within the geographic area where an applicant is seeking to provide telecommunications service shall be provided  notice of the application and granted automatic status as an intervenor.
+
+(c)  An intervening incumbent telephone corporation serving fewer than 30,000 access lines in the state may petition the commission to exclude from an application filed pursuant to Subsection (1) any local exchange with fewer than 5,000 access lines that is owned or controlled by the intervening incumbent telephone corporation.  Upon finding that the action is consistent with the public interest, the commission shall order that the application exclude such local exchange.
+
+(d)  The commission shall approve or deny the application under this section within 240 days after it is filed.  If the commission has not acted on an application within 240 days, the application is considered granted.
+
+(4)  If the commission issues a certificate to a competitive telecommunications corporation to provide local exchange services in a local exchange that has fewer than 5,000 lines and that is controlled by an incumbent telephone corporation with fewer than 30,000 access lines in the state, the commission shall impose an obligation upon the competitive telecommunications corporation to provide public telecommunications services to any customer or class of customers who requests service within the local exchange.  The competing telecommunications corporation's obligation to serve shall be no greater than that of the incumbent telephone corporation.
+
+(5)  An incumbent telephone corporation with fewer than 30,000 access lines in the state may not be required to become a carrier of intrastate toll services.
+

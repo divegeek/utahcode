@@ -1,0 +1,68 @@
+54-8b-2.3.   Pricing flexibility.
+
+(1) (a)  A telecommunications corporation that obtains a certificate to compete with the incumbent telephone corporation in a defined geographic area pursuant to Section 54-8b-2.1 may price any public telecommunications services it is authorized to offer, or any new public telecommunications service, by means of a price list or competitive contract.
+
+(b)  Before the telecommunications corporation begins providing any authorized public telecommunications service, it shall notify the commission of:
+
+(i)  its intent to begin providing the service; and
+
+(ii)  the defined geographic area in which it will provide the service.
+
+(2) (a)  Notwithstanding other requirements of this chapter relating to pricing flexibility, beginning on May 2, 2005, an incumbent telephone corporation may offer retail end user public telecommunications services by means of a price list or competitive contract in the same manner as a competing telecommunications corporation as provided in Subsection (1):
+
+(i)  if the incumbent telephone corporation:
+
+(A)  is in substantial compliance with rules and orders of the commission issued under Section 54-8b-2.2; and
+
+(B)  has more than 30,000 access lines; and
+
+(ii)  except as provided in Subsection (2)(b).
+
+(b) (i)  The incumbent telephone corporation's pricing flexibility shall be the same as a competing telecommunications corporation's pricing flexibility for all public telecommunications services.
+
+(ii)  The incumbent telephone corporation shall offer basic residential service throughout the area in which the incumbent telephone corporation is authorized by certificate to provide basic residential service.
+
+(3)  Each price list shall:
+
+(a)  be filed with the commission:
+
+(i)  electronically; or
+
+(ii)  by paper copies only if permitted by commission rule;
+
+(b)  describe the public telecommunications service;
+
+(c)  set forth the basic terms and conditions upon which the public telecommunications service is offered; and
+
+(d)  list the prices to be charged for the public telecommunications service or the basis on which the services will be priced.
+
+(4)  Prices, terms, and conditions offered under price lists or competitive contracts that are different from tariff prices, terms, and conditions for the same services are not considered discriminatory under Section 54-3-8 and Subsection 54-8b-3.3(2).
+
+(5)  A price list filed with the commission under this section shall take effect five days after it is filed with the commission.
+
+(6) (a)  Except as provided in Subsection (6)(b), the prices, terms, and conditions of a public telecommunications service offered by a telecommunications corporation pursuant to a competitive contract with a retail customer need not be filed with the commission.
+
+(b)  Notwithstanding Subsection (6)(a), a copy of a competitive contract shall be provided to the commission or division of public utilities if the commission or division of public utilities, pursuant to general investigatory powers, requests a copy of the competitive contract.
+
+(7) (a)  Subject to Subsection (7)(b), the commission may, as determined necessary to protect the public interest, set an upper limit on the price that may be charged by telecommunications corporations for public telecommunications services that may be priced by means of a price list or competitive contract in a defined geographic area.
+
+(b)  The upper limit on price imposed under Subsection (7)(a) shall be applied to all telecommunications corporations holding a certificate to provide the public telecommunications services in the defined geographic area in a competitively neutral manner.
+
+(8) (a)  The commission may revoke the authority of a telecommunications corporation to offer a public telecommunications service pursuant to a price list or competitive contract or the commission may adopt conditions or restrictions on the telecommunications corporation's pricing flexibility if the commission finds:
+
+(i) (A)  the telecommunications corporation has materially violated statutes or rules applicable to the specific service;
+
+(B)  there has been or there is an imminent threat of a material and substantial diminution in the level of competition; or
+
+(C)  competition has not developed; and
+
+(ii)  revocation or conditions or restrictions on the telecommunications corporation's pricing flexibility is in the public interest.
+
+(b)  The party asserting that revocation or conditions or restrictions on the telecommunications corporation's pricing flexibility should be imposed shall bear the burden of proof.
+
+(9)  The commission shall establish rules or procedures to protect confidential, proprietary, and competitively sensitive information provided to the commission or the division pursuant to this section.
+
+(10) (a)  An incumbent telephone corporation serving fewer than 30,000 access lines in the state may petition the commission to be regulated under price regulation rather than traditional rate of return regulation.
+
+(b)  In implementing price regulation for an incumbent telephone corporation serving fewer than 30,000 access lines, the commission may modify the requirements of any provision of this section if necessary to the individual circumstances of the incumbent telephone corporation.
+

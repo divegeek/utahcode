@@ -1,0 +1,30 @@
+77-23b-4.   Disclosure by a provider -- Grounds for requiring disclosure -- Court order.
+
+(1)  A government entity may only require the disclosure by a provider of electronic communication services of the contents of an electronic communication that is in electronic storage in an electronic communication system pursuant to a warrant issued under the Utah Rules of Criminal Procedure or an equivalent federal warrant.
+
+(2)  Subsection (1) applies to any electronic communication that is held or maintained on that service:
+
+(a)  on behalf of and received by means of electronic transmission from or created by means of computer processing of communications received by means of electronic transmission from a subscriber or customer of the remote computing service; and
+
+(b)  solely for the purpose of providing storage or computer processing services to the subscriber or customer, if the provider is not authorized to access the contents of any communication for purposes of providing any services other than storage or computer processing.
+
+(3) (a) (i)  Except under Subsection (3)(a)(ii), a provider of electronic communication services or remote computing services may disclose a record or other information pertaining to a subscriber to or customer of the service, not including the contents of communication covered by Subsection (1), to any person other than a governmental agency.
+
+(ii)  A provider of electronic communication services or remote computing services shall disclose a record or other information pertaining to a subscriber to or customer of the service, not including the contents of communication covered by Subsection (1), to a governmental entity only when the entity:
+
+(A)  uses an administrative subpoena authorized by a state or federal statute or a state or federal grand jury subpoena;
+
+(B)  obtains a warrant issued under the Utah Rules of Criminal Procedure or an equivalent federal warrant;
+
+(C)  obtains a court order for the disclosure under Subsection (4); or
+
+(D)  has the consent of the subscriber or customer to the disclosure.
+
+(b)  A governmental entity receiving records or information under this subsection is not required to provide notice to a subscriber or customer.
+
+(4) (a)  A court order for disclosure under this section may be issued only if the governmental entity shows there is reason to believe the contents of a wire or electronic communication, or the records or other information sought, are relevant to a legitimate law enforcement inquiry.
+
+(b)  A court issuing an order under this section, on a motion made promptly by the service provider, may quash or modify the order, if the information or records requested are unusually voluminous in nature or compliance with the order otherwise would cause an undue burden on the provider.
+
+(5)  A cause of action may not be brought in any court against any provider of wire or electronic communications services, its officers, employees, agents, or other specified persons, for providing information, facilities, or assistance in accordance with the terms of a court order, warrant, subpoena, or certification under this chapter.
+

@@ -1,0 +1,38 @@
+58-83-102.   Definitions.
+
+In addition to the definitions in Section 58-1-102, as used in this chapter:
+
+(1)  "Board" means the Online Prescribing, Dispensing, and Facilitation Licensing Board created in Section 58-83-201.
+
+(2)  "Branching questionnaire" means an adaptive and progressive assessment tool approved by the board.
+
+(3)  "Delivery of online pharmaceutical services" means the process in which a prescribing practitioner diagnoses a patient and prescribes one or more of the drugs authorized by Section 58-83-306, using:
+
+(a)  a branching questionnaire or other assessment tool approved by the division for the purpose of diagnosing and assessing a patient's health status;
+
+(b)  an Internet contract pharmacy to:
+
+(i)  dispense the prescribed drug; or
+
+(ii)  transfer the prescription to another pharmacy; and
+
+(c)  an Internet facilitator to facilitate the practices described in Subsections (3)(a) and (b).
+
+(4)  "Division" means the Utah Division of Occupational and Professional Licensing.
+
+(5)  "Internet facilitator" means a licensed provider of a web-based system for electronic communication between and among an online prescriber, the online prescriber's patient, and the online contract pharmacy.
+
+(6)  "Online contract pharmacy" means a pharmacy licensed and in good standing under Chapter 17b, Pharmacy Practice Act, as either a Class A Retail Pharmacy or a Class B Closed Door Pharmacy and licensed under this chapter to fulfill prescriptions issued by an online prescriber through a specific Internet facilitator.
+
+(7)  "Online prescriber" means a person:
+
+(a)  licensed under another chapter of this title;
+
+(b)  whose license under another chapter of this title includes assessing, diagnosing, and prescribing authority for humans; and
+
+(c)  who has obtained a license under this chapter to engage in online prescribing.
+
+(8)  "Unlawful conduct" is as defined in Sections 58-1-501 and 58-83-501.
+
+(9)  "Unprofessional conduct" is as defined in Sections 58-1-203 and 58-83-502, and as further defined by the division in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+

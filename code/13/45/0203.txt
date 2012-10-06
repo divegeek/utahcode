@@ -1,0 +1,68 @@
+13-45-203.   Exceptions.
+
+(1)  Notwithstanding Section 13-45-201, a consumer reporting agency may furnish a consumer's credit report to a third party if:
+
+(a) (i)  the purpose of the credit report is to:
+
+(A)  use the credit report for purposes permitted under 15 U.S.C. Sec. 1681b(c); or
+
+(B)  review the consumer's account with the third party, including for account maintenance or monitoring, credit line increases, or other upgrades or enhancements; or
+
+(C)  collect on a financial obligation owed by the consumer to the third party requesting the credit report; or
+
+(ii) (A)  the purpose of the credit report is to:
+
+(I)  review the consumer's account with another person; or
+
+(II)  collect on a financial obligation owed by the consumer to another person; and
+
+(B)  use the credit report for purposes permitted under 15 U.S.C. Sec. 1681b(c); or
+
+(b)  the third party requesting the credit report is a subsidiary, affiliate, agent, assignee, or prospective assignee of the person holding the consumer's account or to whom the consumer owes a financial obligation.
+
+(2) (a)  The consumer's request for a security freeze does not prohibit the consumer reporting agency from disclosing the consumer's credit report for other than credit related purposes consistent with the definition of credit report found in Section 13-45-102.
+
+(b)  The following list identifies the types of credit report disclosures by consumer reporting agencies to third parties that are not prohibited by a security freeze:
+
+(i)  the third party does not use the credit report for the purpose of serving as a factor in establishing a consumer's eligibility for credit;
+
+(ii)  the third party is acting under a court order, warrant, or subpoena requiring release of the credit report;
+
+(iii)  the third party is a child support agency, or its agent or assignee, acting under Part D, Title IV of the Social Security Act or a similar state law;
+
+(iv)  the federal Department of Health and Human Services or a similar state agency, or its agent or assignee, investigating Medicare or Medicaid fraud;
+
+(v) (A)  the purpose of the credit report is to investigate or collect delinquent taxes, assessments, or unpaid court orders; and
+
+(B)  the third party is:
+
+(I)  the federal Internal Revenue Service;
+
+(II)  a state taxing authority;
+
+(III)  the Department of Motor Vehicles;
+
+(IV)  a county, municipality, or other entity with taxing authority;
+
+(V)  a federal, state, or local law enforcement agency; or
+
+(VI)  the agent or assignee of any entity listed in Subsections (1)(b) and (2)(b)(v)(B);
+
+(vi)  the third party is administering a credit file monitoring subscription to which the consumer has subscribed; or
+
+(vii)  the third party requests the credit report for the sole purpose of providing the consumer with a copy of the consumer's credit report or credit score upon the consumer's request.
+
+(3)  Section 13-45-201 does not apply to:
+
+(a)  a consumer reporting agency, the sole purpose of which is to resell credit information by assembling and merging information contained in the database of another consumer reporting agency and that does not maintain a permanent database of credit information from which a consumer's credit report is produced;
+
+(b)  a check services or fraud prevention services company that issues:
+
+(i)  reports on incidents of fraud; or
+
+(ii)  authorizations for the purpose of approving or processing negotiable instruments, electronic funds transfers, or similar methods of payment; or
+
+(c)  a deposit account information service company that issues reports concerning account closures based on fraud, substantial overdrafts, automated teller machine abuse, or similar information concerning a consumer to a requesting financial institution for the purpose of evaluating a consumer's request to create a deposit account.
+
+(4)  Nothing in this chapter prohibits a person from obtaining, aggregating, or using information lawfully obtained from public records in a manner that does not otherwise violate this chapter.
+

@@ -1,0 +1,54 @@
+41-12a-803 (Superseded 05/01/13).   Program creation -- Administration -- Selection of designated agent -- Duties -- Rulemaking -- Audits.
+
+(1)  There is created the Uninsured Motorist Identification Database Program to:
+
+(a)  establish an Uninsured Motorist Identification Database to verify compliance with motor vehicle owner's or operator's security requirements under Section 41-12a-301 and other provisions under this part;
+
+(b)  assist in reducing the number of uninsured motor vehicles on the highways of the state;
+
+(c)  assist in increasing compliance with motor vehicle registration and sales and use tax laws;
+
+(d)  assist in protecting a financial institution's bona fide security interest in a motor vehicle; and
+
+(e)  assist in the identification and prevention of identity theft and other crimes.
+
+(2)  The program shall be administered by the department with the assistance of the designated agent and the Motor Vehicle Division.
+
+(3) (a)  The department shall contract in accordance with Title 63G, Chapter 6, Utah Procurement Code, with a third party to establish and maintain an Uninsured Motorist Identification Database for the purposes established under this part.
+
+(b)  The contract may not obligate the department to pay the third party more money than is available in the account.
+
+(4) (a)  The third party under contract under this section is the department's designated agent, and shall develop and maintain a computer database from the information provided by:
+
+(i)  insurers under Section 31A-22-315;
+
+(ii)  the division under Subsection (6); and
+
+(iii)  the Motor Vehicle Division under Section 41-1a-120.
+
+(b) (i)  The database shall be developed and maintained in accordance with guidelines established by the department so that state and local law enforcement agencies and financial institutions as defined in Section 7-1-103 can efficiently access the records of the database, including reports useful for the implementation of the provisions of this part.
+
+(ii) (A)  The reports shall be in a form and contain information approved by the department.
+
+(B)  The reports may be made available through the Internet or through other electronic medium, if the department determines that sufficient security is provided to ensure compliance with Section 41-12a-805 regarding limitations on disclosure of information in the database.
+
+(5)  With information provided by the department and the Motor Vehicle Division, the designated agent shall, at least monthly for submissions under Subsection 31A-22-315(2)(b) or at least twice a month for submissions under Subsection 31A-22-315(2)(a):
+
+(a)  update the database with the motor vehicle insurance information provided by the insurers in accordance with Section 31A-22-315; and
+
+(b)  compare all current motor vehicle registrations against the database.
+
+(6)  The division shall provide the designated agent with the name, date of birth, address, and driver license number of all persons on the driver license database.
+
+(7)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the department shall make rules and develop procedures in cooperation with the Motor Vehicle Division to use the database for the purpose of administering and enforcing this part.
+
+(8) (a)  The designated agent shall archive computer data files at least semi-annually for auditing purposes.
+
+(b)  The internal audit unit of the tax commission provided under Section 59-1-206 shall audit the program at least every three years.
+
+(c)  The audit under Subsection (8)(b) shall include verification of:
+
+(i)  billings made by the designated agent; and
+
+(ii)  the accuracy of the designated agent's matching of vehicle registration with insurance data.
+

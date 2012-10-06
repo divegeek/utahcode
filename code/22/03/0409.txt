@@ -1,0 +1,26 @@
+22-3-409.   Receipts normally apportioned -- Deferred compensation, annuities, and similar payments.
+
+(1)  As used in this section:
+
+(a)  "Payment"  means a payment that a trustee may receive over a fixed number of years or during the life of one or more individuals because of services rendered or property transferred to the payer in exchange for future payments.  The term includes a payment made in money or property from the payer's general assets or from a separate fund created by the payer.  For the purposes of Subsections (4), (5), (6), and (7), the term also includes any payment from a separate fund, regardless of the reason for the payment.
+
+(b)  "Separate fund" includes a private or commercial annuity, an individual retirement account, and a pension, profit-sharing, stock-bonus, or stock-ownership plan.
+
+(2)  To the extent that a payment is characterized as interest, a dividend or a payment made in lieu of interest or a dividend, a trustee shall allocate the payment to income.  The trustee shall allocate to principal the balance of the payment and any other payment received in the same accounting period that is not characterized as interest, a dividend, or an equivalent payment.
+
+(3)  If no part of a payment is characterized as interest, a dividend, or an equivalent payment, and all or part of the payment is required to be made, a trustee shall allocate to income 10% of the part that is required to be made during the accounting period and the balance to principal.  If no part of a payment is required to be made or the payment received is the entire amount to which the trustee is entitled, the trustee shall allocate the entire payment to principal.  For purposes of this Subsection (3), a payment is not "required to be made" to the extent that it is made because the trustee exercises a right of withdrawal.
+
+(4)  Except as otherwise provided in Subsection (5), Subsections (6) and (7) apply, and Subsections (2) and (3) do not apply, in determining the allocation of a payment made from a separate fund to:
+
+(a)  a trust to which an election to qualify for a marital deduction under Section 2056(b)(7) of the Internal Revenue Code of 1986 has been made; or
+
+(b)  a trust that qualifies for the marital deduction under Section 2056(b)(5) of the Internal Revenue Code of 1986.
+
+(5)  Subsections (4), (6), and (7) do not apply if and to the extent that the series of payments would, without the application of Subsection (4), qualify for the marital deduction under Section 2056(b)(7)(C) of the Internal Revenue Code of 1986.
+
+(6)  A trustee shall determine the internal income of each separate fund for the accounting period as if the separate fund were a trust subject to this chapter.  Upon request of the surviving spouse, the trustee shall demand of the person administering the separate fund that this internal income be distributed to the trust.  The trustee shall allocate a payment from the separate fund to income to the extent of the internal income of the separate fund and distribute that amount to the surviving spouse.  The trustee shall allocate the balance to principal.  Upon request of the surviving spouse, the trustee shall allocate principal to income to the extent the internal income of the separate fund exceeds payments made from the separate fund to the trust during the accounting period.
+
+(7)  If a trustee cannot determine the internal income of a separate fund but can determine the value of the separate fund, the internal income of the separate fund is considered to equal 4% of the fund's value, according to the most recent statement of value preceding the beginning of the accounting period.  If the trustee can determine neither the internal income of the separate fund nor the fund's value, the internal income of the fund is considered to equal the product of the interest rate and the present value of the expected future payments, as determined under Section 7520 of the Internal Revenue Code of 1986 for the month preceding the accounting period for which the computation is made.
+
+(8)  This section does not apply to a payment to which Section 22-3-410 applies.
+

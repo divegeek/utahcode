@@ -1,0 +1,66 @@
+76-6-409.3.   Theft of utility or cable television services -- Restitution -- Civil action for damages.
+
+(1)  As used in this section:
+
+(a)  "Cable television service" means any audio, video, or data service provided by a cable television company over its cable system facilities for payment, but does not include the use of a satellite dish or antenna.
+
+(b)  "Owner" includes any part-owner, joint owner, tenant in common, joint tenant, or tenant by the entirety of the whole or a part of any building and the property on which it is located.
+
+(c)  "Person" means any individual, firm, partnership, corporation, company, association, or other legal entity.
+
+(d)  "Tenant or occupant" includes any person, including the owner, who occupies the whole or part of any building, whether alone or with others.
+
+(e)  "Utility" means any public utility, municipally-owned utility, or cooperative utility which provides electricity, gas, water, or sewer, or any combination of them, for sale to consumers.
+
+(2)  A person is guilty of theft of a utility or cable television service if the person commits any prohibited acts which make gas, electricity, water, sewer, or cable television available to a tenant or occupant, including himself, with intent to avoid due payment to the utility or cable television company.  Any person aiding and abetting in these prohibited acts is a party to the offense under Section 76-2-202.  Prohibited acts include:
+
+(a)  connecting any tube, pipe, wire, cable, or other instrument with any meter, device, or other instrument used for conducting gas, electricity, water, sewer, or cable television in a manner as permits the use of the gas, electricity, water, sewer, or cable television without its passing through a meter or other instrument recording the usage for billing;
+
+(b)  altering, injuring, or preventing the normal action of a meter, valve, stopcock, or other instrument used for measuring quantities of gas, electricity, water, or sewer service, or making or maintaining any modification or alteration to any device installed with the authorization of a cable television company for the purpose of intercepting or receiving any program or other service carried by the company which the person is not authorized by the company to receive;
+
+(c)  reconnecting gas, electricity, water, sewer, or cable television connections or otherwise restoring service when one or more of those utilities or cable service have been lawfully disconnected or turned off by the provider of the utility or cable service;
+
+(d)  intentionally breaking, defacing, or causing to be broken or defaced any seal, locking device, or other part of a metering device for recording usage of gas, electricity, water, or sewer service, or a security system for the recording device, or a cable television control device;
+
+(e)  removing a metering device designed to measure quantities of gas, electricity, water, or sewer service;
+
+(f)  transferring from one location to another a metering device for measuring quantities of public utility services of gas, electricity, water, or sewer service;
+
+(g)  changing the indicated consumption, jamming the measuring device, bypassing the meter or measuring device with a jumper so that it does not indicate use or registers use incorrectly, or otherwise obtaining quantities of gas, electricity, water, or sewer service from the utility without their passing through a metering device for measuring quantities of consumption for billing purposes;
+
+(h)  using a metering device belonging to the utility that has not been assigned to the location and installed by the utility;
+
+(i)  fabricating or using a device to pick or otherwise tamper with the locks used to deter utility service diversion, meter tampering, meter thefts, and unauthorized cable television service;
+
+(j)  assisting or instructing any person in obtaining or attempting to obtain any cable television service without payment of all lawful compensation to the company providing the service;
+
+(k)  making or maintaining a connection or connections, whether physical, electrical, mechanical, acoustical, or by other means, with any cables, wires, components, or other devices used for the distribution of cable television services without authority from the cable television company; or
+
+(l)  possessing without authority any device or printed circuit board designed in whole or in part to receive any cable television programming or services offered for sale over a cable television system with the intent that the device or printed circuit be used for the reception of the cable television company's services without payment.  For purposes of this subsection, device or printed circuit board does not include the use of a satellite dish or antenna.
+
+(3)  The presence on property in the possession of a person of any device or alteration which permits the diversion or use of utility or cable service to avoid the registration of the use by or on a meter installed by the utility or to otherwise avoid the recording of use of the service for payment or otherwise avoid payment gives rise to an inference that the person in possession of the property installed the device or caused the alteration if:
+
+(a)  the presence of the device or alteration can be attributed only to a deliberate act in furtherance of an intent to avoid payment for utility or cable television service; and
+
+(b)  the person charged has received the direct benefit of the reduction of the cost of the utility or cable television service.
+
+(4)  A person who violates this section is guilty of the offense of theft of utility or cable television service.
+
+(a)  In the case of theft of utility services, if the value of the gas, electricity, water, or sewer service:
+
+(i)  is less than $500, the offense is a class B misdemeanor;
+
+(ii)  is or exceeds $500 but is not more than $1,500, the offense is a class A misdemeanor;
+
+(iii)  is or exceeds $1,500 but is not more than $5,000, the offense is a third degree felony; and
+
+(iv)  is or exceeds $5,000 or if the offender has previously been convicted of a violation of this section, the offense is a second degree felony.
+
+(b)  In the case of theft of cable television services, the penalties are prescribed in Section 76-6-412.
+
+(5)  A person who violates this section shall make restitution to the utility or cable television company for the value of the gas, electricity, water, sewer, or cable television service consumed in violation of this section plus all reasonable expenses and costs incurred on account of the violation of this section.  Reasonable expenses and costs include expenses and costs for investigation, disconnection, reconnection, service calls, employee time, and equipment use.
+
+(6)  Criminal prosecution under this section does not affect the right of a utility or cable television company to bring a civil action for redress for damages suffered as a result of the commission of any of the acts prohibited by this section.
+
+(7)  This section does not abridge or alter any other right, action, or remedy otherwise available to a utility or cable television company.
+

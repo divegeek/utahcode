@@ -1,0 +1,106 @@
+25-6-14.   Restricting transfers of trust interests.
+
+(1) (a)  For trusts created on or after December 31, 2003, a settlor who in writing irrevocably transfers property in trust to a trust having as trustee a company defined in Subsection 7-5-1(1)(d) who holds some or all of the trust assets in this state in a savings account described in Subsection 7-1-103(29), a certificate of deposit, a brokerage account, a trust company fiduciary account, or account or deposit located in this state that is similar to such an account may provide that the income or principal interest of the settlor as beneficiary of the trust may not be either voluntarily or involuntarily transferred before payment or delivery to the settlor as beneficiary by the trustee.  The provision shall be considered to be a restriction on the transfer of the settlor's beneficial interest in the trust that is enforceable under applicable nonbankruptcy law within the meaning of Section 541(c)(2) of the Bankruptcy Code or successor provision.
+
+(b)  This Subsection (1) applies to:
+
+(i)  any form of transfer into trust including:
+
+(A)  conveyance; or
+
+(B)  assignment; and
+
+(ii)  transfers of:
+
+(A)  personal property;
+
+(B)  interests in personal property;
+
+(C)  real property; or
+
+(D)  interests in real property.
+
+(2) (a)  Except as provided in Subsection (2)(c), if a trust has a restriction as provided in Subsection (1)(a), a creditor or other claimant of the settlor may not satisfy a claim, or liability on it, in either law or equity, out of the settlor's transfer or settlor's beneficial interest in the trust.
+
+(b)  For the purposes of Subsection (2)(a), a creditor includes one holding or seeking to enforce a judgment entered by a court or other body having adjudicative authority as well as one with a right to payment, whether or not reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
+
+(c)  A restriction provided under Subsection (1) does not prevent a creditor or person described in Subsection (2)(a) from satisfying a claim or liability out of the settlor's beneficial interest in or transfer into trust if:
+
+(i)  the claim is a judgment, order, decree, or other legally enforceable decision or ruling resulting from a judicial, arbitration, mediation, or administrative proceeding commenced prior to or within three years after the trust is created;
+
+(ii)  the settlor's transfer into trust is made with actual intent to hinder, delay, or defraud that creditor;
+
+(iii)  the trust provides that the settlor may revoke or terminate all or part of the trust without the consent of a person who has a substantial beneficial interest in the trust and the interest would be adversely affected by the exercise of the settlor's power to revoke or terminate all or part of the trust;
+
+(iv)  the trust requires that all or a part of the trust's income or principal, or both must be distributed to the settlor as beneficiary;
+
+(v)  the claim is for a payment owed by a settlor under a child support judgment or order;
+
+(vi)  the transfer is made when the settlor is insolvent or the transfer renders the settlor insolvent;
+
+(vii)  the claim is for recovery of public assistance received by the settlor allowed under Title 26, Chapter 19, Medical Benefits Recovery Act;
+
+(viii)  the claim is a tax or other amount owed by the settlor to any governmental entity;
+
+(ix)  the claim is by a spouse or former spouse of the settlor on account of an agreement or order for the payment of support or alimony or for a division or distribution of property;
+
+(x) (A)  the settlor transferred assets into the trust that:
+
+(I)  were listed in a written representation of the settlor's assets given to a claimant to induce the claimant to enter into a transaction or agreement with the settlor; or
+
+(II)  were transferred from the settlor's control in breach of any written agreement, covenant, or security interest between the settlor and the claimant; or
+
+(B)  without limiting the claimant's right to pursue assets not held by the trust, a claimant described in Subsection (2)(c)(x)(A) may only foreclose or execute upon an asset in the trust listed in the written representation described in Subsection (2)(c)(x)(A)(I) or transferred in breach of a written agreement, covenant, or security interest as provided in Subsection (2)(c)(x)(A)(II) to the extent of the settlor's interest in that asset when it was transferred to the trust or the equivalent value of that asset at the time of foreclosure or execution if the original asset was sold or traded by the trust; or
+
+(xi)  the claim is a judgment, award, order, sentence, fine, penalty, or other determination of liability of the settlor for conduct of the settlor constituting fraud, intentional infliction of harm, or a crime.
+
+(d)  The statute of limitations for actions to satisfy a claim or liability out of the settlor's beneficial interest in or transfer into trust under Subsections (2)(c)(ii), (v), (vii), (viii), (ix), (x), and (xi) is the statute of limitations applicable to the underlying action.
+
+(e)  For the purposes of Subsection (2)(c) "revoke or terminate" does not include:
+
+(i)  a power to veto a distribution from the trust;
+
+(ii)  a testamentary special power of appointment or similar power;
+
+(iii)  the right to receive a distribution of income, principal, or both in the discretion of another, including a trustee other than the settlor, an interest in a charitable remainder unitrust or charitable remainder annuity trust as defined in Internal Revenue Code Section 664 or successor provision, or a right to receive principal subject to an ascertainable standard set forth in the trust; or
+
+(iv)  the power to appoint nonsubordinate advisers or trust protectors who can remove and appoint trustees, who can direct, consent to or disapprove distributions, or is the power to serve as an investment director or appoint an investment director under Section 75-7-906.
+
+(3)  The satisfaction of a claim under Subsection (2)(c) is limited to that part of the trust or transfer to which it applies.
+
+(4) (a)  If a trust has a restriction as provided under Subsection (1), the restriction prevents anyone, including a person listed in Subsection (2)(a), from asserting any cause of action or claim for relief against a trustee or anyone involved in the counseling, drafting, preparation, execution, or funding of the trust for:
+
+(i)  conspiracy to commit a fraudulent conveyance;
+
+(ii)  aiding and abetting a fraudulent conveyance; or
+
+(iii)  participating in the trust transaction.
+
+(b)  A person prevented from asserting a cause of action or claim for relief under this Subsection (4) may assert a cause of action only against:
+
+(i)  the trust assets; or
+
+(ii)  the settlor or beneficiary to the extent allowed under Subsection 25-6-5(1)(a).
+
+(5)  In any action brought under Subsection (2)(c), the burden to prove the matter by clear and convincing evidence shall be upon the creditor.
+
+(6)  For purposes of this section, the transfer shall be considered to have been made on the date the property was originally transferred in trust.
+
+(7)  The courts of this state shall have exclusive jurisdiction over any action brought under this section.
+
+(8)  If a trust or a property transfer to a trust is voided or set aside under Subsection (2)(c), the trust or property transfer shall be voided or set aside only to the extent necessary to satisfy:
+
+(a)  the settlor's debt to the creditor or other person at whose instance the trust or property transfer is voided or set aside; and
+
+(b)  the costs and attorney fees allowed by the court.
+
+(9)  If a trust or a property transfer to a trust is voided or set aside under Subsection (2)(c) and the court is satisfied that the trustee did not act in bad faith in accepting or administering the property that is the subject of the trust:
+
+(a)  the trustee has a first and paramount lien against the property that is the subject of the trust in an amount equal to the entire cost properly incurred by the trustee in a defense of the action or proceedings to void or set aside the trust or the property transfer, including attorney fees;
+
+(b)  the trust or property transfer that is voided or set aside is subject to the proper fees, costs, preexisting rights, claims, and interest of the trustee and any predecessor trustee if the trustee and predecessor trustee did not act in bad faith; and
+
+(c)  any beneficiary, including the settlor, may retain a distribution made by exercising a trust power or discretion vested in the trustee of the trust, if the power or discretion was properly exercised before the commencement of the action or proceeding to void or set aside the trust or property transfer.
+
+(10)  If at least one trustee is a trust company as defined in Subsection 7-5-1(1)(d), then individuals may also serve as cotrustees.
+
