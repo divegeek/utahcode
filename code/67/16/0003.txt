@@ -1,4 +1,4 @@
-67-16-3 (Superseded 09/01/12).   Definitions.
+67-16-3.   Definitions.
 
 As used in this chapter:
 
@@ -20,17 +20,17 @@ As used in this chapter:
 
 (b)  any grant, payment, award, license, contract, subcontract, transaction, decision, sanction, or approval, or the denial thereof, or the failure to act in respect to.
 
-(8)  "Improper disclosure" means disclosure of  controlled, private, or protected information to any person who does not have the right to receive the information.
+(8)  "Improper disclosure" means disclosure of controlled, private, or protected information to any person who does not have the right to receive the information.
 
 (9)  "Legislative employee" means any officer or employee of the Legislature, or any committee of the Legislature, who is appointed or employed to serve, either with or without compensation, for an aggregate of less than 800 hours during any period of 365 days.  "Legislative employee" does not include legislators.
 
 (10)  "Legislator" means a member or member-elect of either house of the Legislature of the state of Utah.
 
-(11)  "Political subdivision" means a district, county, school district, or any other political subdivision of the state that is not an agency, but does not include municipalities.
+(11)  "Political subdivision" means a district, school district, or any other political subdivision of the state that is not an agency, but does not include a municipality or a county.
 
-(12)  "Public employee" means a person who is not a public officer who is employed on a full-time, part-time, or contract basis by the state or any of its political subdivisions. "Public employee" does not include legislators or legislative employees.
+(12)  "Public employee" means a person who is not a public officer who is employed on a full-time, part-time, or contract basis by the state or any of its political subdivisions.  "Public employee" does not include legislators or legislative employees.
 
-(13)  "Public officer" means all elected or appointed officers of the state or any of its political subdivisions who occupy policymaking posts. "Public officer" does not include legislators or legislative employees.
+(13)  "Public officer" means all elected or appointed officers of the state or any of its political subdivisions who occupy policymaking posts.  "Public officer" does not include legislators or legislative employees.
 
 (14)  "State" means the state of Utah.
 
