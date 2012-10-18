@@ -6,6 +6,10 @@ cd ~/sources/utahcode
 git pull -q origin master
 rm -rf code constitution
 python /home/shawn/sources/utahcode/src/retrieve_code.py . >> $LOGFILE
+if [ $? -ne 0 ]; then
+  echo "Aborting git update due to retrieval error"
+fi
+
 git add -A code constitution >> $LOGFILE
 DIFFLOG=`git status --porcelain`
 if [ ! -z "$DIFFLOG" ]; then
