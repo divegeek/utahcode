@@ -1,0 +1,30 @@
+70A-9a-328.   Priority of security interests in investment property.
+
+The following rules govern priority among conflicting security interests in the same investment property:
+
+(1)  A security interest held by a secured party having control of investment property under Section 70A-9a-106 has priority over a security interest held by a secured party that does not have control of the investment property.
+
+(2)  Except as otherwise provided in Subsections (3) and (4), conflicting security interests held by secured parties each of which has control under Section 70A-9a-106 rank according to priority in time of:
+
+(a)  if the collateral is a security, obtaining control;
+
+(b)  if the collateral is a security entitlement carried in a securities account and:
+
+(i)  if the secured party obtained control under Subsection 70A-8-105(4)(a), the secured party's becoming the person for which the securities account is maintained;
+
+(ii)  if the secured party obtained control under Subsection 70A-8-105(4)(b), the securities intermediary's agreement to comply with the secured party's entitlement orders with respect to security entitlements carried or to be carried in the securities account; or
+
+(iii)  if the secured party obtained control through another person under Subsection 70A-8-105(4)(c), the time on which priority would be based under this subsection if the other person were the secured party; or
+
+(c)  if the collateral is a commodity contract carried with a commodity intermediary, the satisfaction of the requirement for control specified in Subsection 70A-9a-106(2)(b) with respect to commodity contracts carried or to be carried with the commodity intermediary.
+
+(3)  A security interest held by a securities intermediary in a security entitlement or a securities account maintained with the securities intermediary has priority over a conflicting security interest held by another secured party.
+
+(4)  A security interest held by a commodity intermediary in a commodity contract or a commodity account maintained with the commodity intermediary has priority over a conflicting security interest held by another secured party.
+
+(5)  A security interest in a certificated security in registered form which is perfected by taking delivery under Subsection 70A-9a-313(1) and not by control under Section 70A-9a-314 has priority over a conflicting security interest perfected by a method other than control.
+
+(6)  Conflicting security interests created by a broker, securities intermediary, or commodity intermediary which are perfected without control under Section 70A-9a-106 rank equally.
+
+(7)  In all other cases, priority among conflicting security interests in investment property is governed by Sections 70A-9a-322 and 70A-9a-323.
+

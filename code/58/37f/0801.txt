@@ -1,0 +1,80 @@
+58-37f-801.   Pilot program for real-time reporting for controlled substance database -- Statewide implementation.
+
+(1)  As used in this section:
+
+(a)  "Pilot area" means the areas of the state that the division determines to operate the pilot program in, under Subsection (3), which may include:
+
+(i)  the entire state; or
+
+(ii)  geographical areas within the state.
+
+(b)  "Pilot program" means the pilot program described in this section.
+
+(2)  There is established a pilot program for real-time reporting of data to, and access to data from, the database by a pharmacy, a pharmaceutical facility, or a prescribing practitioner beginning on July 1, 2010, and ending on July 1, 2012.
+
+(3)  In addition to fulfilling the requirements relating to the database on a statewide basis, the division shall, in accordance with Subsection (4), upgrade, administer, and direct the functioning of the database in geographical areas specified by the division, or on a statewide basis, in a manner that provides for real-time reporting of information entered into, and accessed from, the database by a pharmacy or pharmaceutical facility.
+
+(4)  The division shall, under state procurement laws, and with the technical assistance of the Department of Technology Services, contract with a private entity to upgrade, operate, and maintain the database in the pilot area.
+
+(5) (a)  All provisions and requirements of the statewide database, described in the other parts of this chapter, are applicable to the database in the pilot area, to the extent that they do not conflict with the requirements of this section.
+
+(b)  For purposes of the other parts of this chapter, and this section, the database in the pilot area is considered part of the statewide database.
+
+(6)  A pharmacy or pharmaceutical facility shall cooperate with the division, or the division's designee, to provide real-time submission of, and access to, information for the database:
+
+(a)  in the pilot area; and
+
+(b)  when the division implements the pilot program as a permanent program under Subsection (10), on a statewide basis.
+
+(7)  The penalties and enforcement provisions described in the other parts of this chapter apply to enforce the provisions of this section in relation to a pharmacy or pharmaceutical facility that is located in, or operates in, the pilot area.
+
+(8)  The division may make rules, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to provide for the real-time reporting of, and access to, information in accordance with the requirements of this section.
+
+(9)  During the Legislature's 2009 interim, the division shall report to the Health and Human Services Interim Committee regarding:
+
+(a)  the implementation, operation, and impact of the pilot program established in this section;
+
+(b)  the progress made by the division in implementing the pilot program on a statewide basis;
+
+(c)  the advisability of, and projected costs of, implementing the pilot program on a statewide basis; and
+
+(d)  the use of the database by prescribing practitioners.
+
+(10)  The division shall, on or before July 1, 2012, implement the pilot program as a permanent program on a statewide basis.
+
+(11) (a)  The division shall, through the private entity contracted with under Subsection (4), provide, free of charge, to a pharmacy or pharmaceutical facility that is required to comply with Subsection (6), software, software installation assistance, and training, that will enable the pharmacy or pharmaceutical facility to comply with Subsection (6).
+
+(b)  Notwithstanding Subsection (11)(a), a pharmacy or pharmaceutical facility required to comply with Subsection (6) may, instead of accepting installation of the software provided by the division under Subsection (11)(a), modify its own software in order to comply with the requirements of Subsection (6), if the modification is made:
+
+(i)  except as provided in Subsection (11)(d), at the expense of the pharmacy or pharmaceutical facility;
+
+(ii)  in consultation with the division; and
+
+(iii)  within six months after the division notifies the pharmacy or pharmaceutical facility, in writing, of the division's intention to install the software described in Subsection (11)(a).
+
+(c)  The division shall, through the private entity contracted with under Subsection (4), cooperate with a pharmacy or pharmaceutical facility that is required to comply with Subsection (6), to ensure that the installation and operation of the software described in Subsection (11)(a), or the provision of information from the pharmacy or pharmaceutical facility to the database:
+
+(i)  complies with the security standards described in 45 C.F.R. Parts 160, 162, and 164, Health Insurance Reform: Security Standards;
+
+(ii)  does not interfere with the proper functioning of the pharmacy's or pharmaceutical facility's software or computer system; and
+
+(iii)  in order to minimize changes in existing protocols, provides, to the extent practicable, for the transmission of data in the same manner that pharmacies currently transmit information to insurance companies.
+
+(d)  The division may, within funds appropriated by the Legislature for this purpose, reimburse a pharmacy for all or part of the costs of the in-house programing described in Subsection (11)(b), if:
+
+(i)  the pharmacy requests the reimbursement, in writing;
+
+(ii)  the pharmacy provides proof of the costs for the in-house programming to the division;
+
+(iii)  the pharmacy requests the reimbursement prior to a deadline established by the division; and
+
+(iv)  except as provided in Subsection (11)(e), the division pays an equal reimbursement amount to each pharmacy that complies with Subsections (11)(d)(i) through (iii).
+
+(e)  The division may reimburse a pharmacy described in Subsection (11)(d)(iv) for an amount that is less than the reimbursement paid to other pharmacies described in Subsection (11)(d)(iv), if:
+
+(i)  the proof of costs for in-house programming provided by the pharmacy establishes a cost less than the amount reimbursed to the other pharmacies; and
+
+(ii)  the amount reimbursed to the pharmacy is equal to the amount established by the proof of costs for in-house programming submitted by the pharmacy.
+
+(f)  Notwithstanding any other provision of this section, the division may, by rule, allow up to 24 hours for the reporting of data to the database by a non-resident pharmacy, as defined in Section 58-17b-102.
+

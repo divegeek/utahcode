@@ -1,0 +1,36 @@
+70A-1a-203.   Lease distinguished from security interest.
+
+(1)  Whether a transaction in the form of a lease creates a lease or security interest is determined by the facts of each case.
+
+(2)  A transaction in the form of a lease creates a security interest if the consideration that the lessee is to pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease and is not subject to termination by the lessee, and:
+
+(a)  the original term of the lease is equal to or greater than the remaining economic life of the goods;
+
+(b)  the lessee is bound to renew the lease for the remaining economic life of the goods or is bound to become the owner of the goods;
+
+(c)  the lessee has an option to renew the lease for the remaining economic life of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement; or
+
+(d)  the lessee has an option to become the owner of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement.
+
+(3)  A transaction in the form of a lease does not create a security interest merely because:
+
+(a)  the present value of the consideration the lessee is obligated to pay the lessor for the right to possession and use of the goods is substantially equal to or is greater than the fair market value of the goods at the time the lease is entered into;
+
+(b)  the lessee assumes risk of loss of the goods;
+
+(c)  the lessee agrees to pay, with respect to the goods, taxes, insurance, filing, recording, or registration fees, or service or maintenance costs;
+
+(d)  the lessee has an option to renew the lease or to become the owner of the goods;
+
+(e)  the lessee has an option to renew the lease for a fixed rent that is equal to or greater than the reasonably predictable fair market rent for the use of the goods for the term of the renewal at the time the option is to be performed; or
+
+(f)  the lessee has an option to become the owner of the goods for a fixed price that is equal to or greater than the reasonably predictable fair market value of the goods at the time the option is to be performed.
+
+(4)  Additional consideration is nominal if it is less than the lessee's reasonably predictable cost of performing under the lease agreement if the option is not exercised.  Additional consideration is not nominal if:
+
+(a)  when the option to renew the lease is granted to the lessee, the rent is stated to be the fair market rent for the use of the goods for the term of the renewal determined at the time the option is to be performed; or
+
+(b)  when the option to become the owner of the goods is granted to the lessee, the price is stated to be the fair market value of the goods determined at the time the option is to be performed.
+
+(5)  The "remaining economic life of the goods" and "reasonably predictable" fair market rent, fair market value, or cost of performing under the lease agreement must be determined with reference to the facts and circumstances at the time the transaction is entered into.
+

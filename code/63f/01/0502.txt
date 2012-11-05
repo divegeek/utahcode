@@ -1,0 +1,18 @@
+63F-1-502.   Definitions.
+
+As used in this part:
+
+(1)  "Center" means the Automated Geographic Reference Center created in Section 63F-1-506.
+
+(2)  "Database" means the State Geographic Information Database created in Section 63F-1-507.
+
+(3)  "Director" means the director appointed in accordance with Section 63F-1-503.
+
+(4)  "Division" means the Division of Integrated Technology created in this part.
+
+(5)  "Geographic Information System" or "GIS" means a computer driven data integration and map production system that interrelates disparate layers of data to specific geographic locations.
+
+(6)  "State Geographic Information Database" means the database created in Section 63F-1-507.
+
+(7)  "Statewide Global Positioning Reference Network" or "network" means the network created in Section 63F-1-509.
+
