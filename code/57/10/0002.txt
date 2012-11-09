@@ -1,8 +1,0 @@
-57-10-2.   Zones must be named in maps and documents.
-
-(1)  As established for use in the North Zone, the Utah Coordinate System of 1927 or the Utah Coordinate System of 1983 shall be named and designated as the "Utah Coordinate System 1927 North Zone" or "Utah Coordinate System 1983 North Zone" in any land description or on any map or document in which it is used.
-
-(2)  As established for use in the Central Zone, the Utah Coordinate System of 1927 or the Utah Coordinate System of 1983 shall be named and designated as the "Utah Coordinate System 1927 Central Zone" or "Utah Coordinate System 1983 Central Zone" in any land description or on any map or document in which it is used.
-
-(3)  As established for use in the South Zone, the Utah Coordinate System of 1927 or the Utah Coordinate System of 1983 shall be named and designated as the "Utah Coordinate System 1927 South Zone" or "Utah Coordinate System 1983 South Zone" in any land description or on any map or document in which it is used.
-
