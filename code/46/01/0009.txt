@@ -1,0 +1,8 @@
+46-1-9.   False or incomplete certificate.
+
+A notary may not:
+
+(1)  execute a certificate containing a statement known by the notary to be false or materially incomplete; or
+
+(2)  perform any notarial act with intent to deceive or defraud.
+

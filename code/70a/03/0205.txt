@@ -1,0 +1,10 @@
+70A-3-205.   Special indorsement -- Blank indorsement -- Anomalous indorsement.
+
+(1)  If an indorsement is made by the holder of an instrument, whether payable to an identified person or payable to bearer, and the indorsement identifies a person to whom it makes the instrument payable, it is a "special indorsement." When specially indorsed, an instrument becomes payable to the identified person and may be negotiated only by the indorsement of that person.  The principles stated in Section 70A-3-110 apply to special indorsements.
+
+(2)  If an indorsement is made by the holder of an instrument and it is not a special indorsement, it is a "blank indorsement." When indorsed in blank, an instrument becomes payable to bearer and may be negotiated by transfer of possession alone until specially indorsed.
+
+(3)  The holder may convert a blank indorsement that consists only of a signature into a special indorsement by writing, above the signature of the indorser, words identifying the person to whom the instrument is made payable.
+
+(4)  "Anomalous indorsement" means an indorsement made by a person who is not the holder of the instrument.  An anomalous indorsement does not affect the manner in which the instrument may be negotiated.
+

@@ -1,0 +1,102 @@
+59-10-1403.2 (Superseded 01/01/13).   Pass-through entity payment or withholding of tax on behalf of a pass-through entity taxpayer -- Exceptions to payment or withholding requirement -- Procedures and requirements -- Failure to pay or withhold a tax on behalf of a pass-through entity taxpayer.
+
+(1) (a)  Except as provided in Subsection (1)(b), for a taxable year, a pass-through entity shall pay or withhold a tax:
+
+(i)  on:
+
+(A)  the business income of the pass-through entity; and
+
+(B)  the nonbusiness income of the pass-through entity derived from or connected with Utah sources; and
+
+(ii)  on behalf of a pass-through entity taxpayer.
+
+(b)  A pass-through entity is not required to pay or withhold a tax under Subsection (1)(a):
+
+(i)  on behalf of a pass-through entity taxpayer who is a resident individual;
+
+(ii)  if the pass-through entity is an organization exempt from taxation under Subsection 59-7-102(1)(a); or
+
+(iii)  if the pass-through entity is a publicly traded partnership:
+
+(A)  as defined in Section 7704(b), Internal Revenue Code;
+
+(B)  that is classified as a partnership for federal income tax purposes; and
+
+(C)  that files an annual information return reporting the following with respect to each partner of the publicly traded partnership with income derived from or connected with Utah sources that exceeds $500 in a taxable year:
+
+(I)  the partner's name;
+
+(II)  the partner's address;
+
+(III)  the partner's taxpayer identification number; and
+
+(IV)  other information required by the commission.
+
+(2) (a)  Subject to Subsection (2)(b), the tax a pass-through entity shall pay or withhold on behalf of a pass-through entity taxpayer for a taxable year is an amount:
+
+(i)  determined by the commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; and
+
+(ii)  that the commission estimates will be sufficient to pay the tax liability of the pass-through entity taxpayer under this chapter with respect to the income described in Subsection (1)(a)(i) of that pass-through entity for the taxable year.
+
+(b)  The rules the commission makes in accordance with Subsection (2)(a):
+
+(i)  except as provided in Subsection (2)(c):
+
+(A)  shall:
+
+(I)  for a pass-through entity except for a pass-through entity that is an S corporation, take into account items of income, gain, loss, deduction, and credit as analyzed on the schedule for reporting partners' distributive share items as part of the federal income tax return for the pass-through entity; or
+
+(II)  for a pass-through entity that is an S corporation, take into account items of income, gain, loss, deduction, and credit as reconciled on the schedule for reporting shareholders' pro rata share items as part of the federal income tax return for the pass-through entity; and
+
+(B)  notwithstanding Subsection (2)(b)(ii)(D), take into account the refundable tax credit provided in Section 59-6-102; and
+
+(ii)  may not take into account the following items if taking those items into account does not result in an accurate estimate of a pass-through entity taxpayer's tax liability under this chapter for the taxable year:
+
+(A)  a capital loss;
+
+(B)  a passive loss;
+
+(C)  another item of deduction or loss if that item of deduction or loss is generally subject to significant reduction or limitation in calculating:
+
+(I)  for a pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes, unadjusted income as defined in Section 59-7-101;
+
+(II)  for a pass-through entity that is classified as an individual, partnership, or S corporation for federal income tax purposes, adjusted gross income; or
+
+(III)  for a pass-through entity that is classified as an estate or a trust for federal income tax purposes, unadjusted income as defined in Section 59-10-103; or
+
+(D)  a tax credit allowed against a tax imposed under:
+
+(I)  Chapter 7, Corporate Franchise and Income Taxes; or
+
+(II)  this chapter.
+
+(c)  The rules the commission makes in accordance with Subsection (2)(a) may establish a method for taking into account items of income, gain, loss, deduction, or credit of a pass-through entity if:
+
+(i)  for a pass-through entity except for a pass-through entity that is an S corporation, the pass-through entity does not analyze the items of income, gain, loss, deduction, or credit on the schedule for reporting partners' distributive share items as part of the federal income tax return for the pass-through entity; or
+
+(ii)  for a pass-through entity that is an S corporation, the pass-through entity does not reconcile the items of income, gain, loss, deduction, or credit on the schedule for reporting shareholders' pro rata share items as part of the federal income tax return for the pass-through entity.
+
+(3)  A pass-through entity shall remit to the commission the tax the pass-through entity pays or withholds on behalf of a pass-through entity taxpayer under this section:
+
+(a)  on or before the due date of the pass-through entity's return, not including extensions; and
+
+(b)  on a form provided by the commission.
+
+(4)  A pass-through entity shall provide a statement to a pass-through entity taxpayer on behalf of whom the pass-through entity pays or withholds a tax under this section showing the amount of tax the pass-through entity pays or withholds under this section for the taxable year on behalf of the pass-through entity taxpayer.
+
+(5)  Notwithstanding Section 59-1-401 or 59-1-402, the commission may not collect an amount under this section for a taxable year from a pass-through entity and shall waive a penalty or interest on that amount if:
+
+(a)  the pass-through entity fails to pay or withhold the tax on the amount as required by this section on behalf of the pass-through entity taxpayer;
+
+(b)  the pass-through entity taxpayer:
+
+(i)  files a return on or before the due date for filing the pass-through entity's return, including extensions; and
+
+(ii)  on or before the due date including extensions described in Subsection (5)(b)(i), pays the tax on the amount for the taxable year:
+
+(A)  if the pass-through entity taxpayer is classified as a C corporation for federal income tax purposes, under Chapter 7, Corporate Franchise and Income Taxes; or
+
+(B)  if the pass-through entity taxpayer is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, under this chapter; and
+
+(c)  the pass-through entity applies to the commission.
+

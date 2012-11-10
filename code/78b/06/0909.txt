@@ -1,0 +1,110 @@
+78B-6-909.   Environmental impairment to real property security interest -- Remedies of lender.
+
+(1)  As used in this section:
+
+(a)  "Borrower" means:
+
+(i)  the trustor under a deed of trust, or a mortgagor under a mortgage, when the deed of trust or mortgage encumbers real property security and secures the performance of the trustor or mortgagor under a loan, extension of credit, guaranty, or other obligation; and
+
+(ii)  includes any successor-in-interest of the trustor or mortgagor to the real property security before the deed of trust or mortgage has been discharged, reconveyed, or foreclosed upon.
+
+(b)  "Environmentally impaired" means the estimated costs to clean up and remediate a past or present release of any hazardous matter into, onto, beneath, or from the real property security exceed 25% of the higher of the aggregate fair market value of all security for the loan or extension of credit at the time:
+
+(i)  of the making of the loan or extension of credit;
+
+(ii)  of the discovery of the release or threatened release by the secured lender; or
+
+(iii)  an action is brought under this section.
+
+(c)  "Hazardous matter" means:
+
+(i)  any hazardous substance or hazardous material as defined in Section 19-6-302; or
+
+(ii)  any waste or pollutant as defined in Section 19-5-102.
+
+(d)  "Real property security" means any real property and improvements other than real property that contains only one but not more than four dwelling units, and is solely used for either:
+
+(i)  residential purposes; or
+
+(ii)  if reasonably contemplated by the parties to the deed of trust or mortgage, residential purposes as well as limited agricultural or commercial purposes incidental to the residential purposes.
+
+(e)  "Release" has the same meaning as in Section 19-6-302.
+
+(f)  "Secured lender" means:
+
+(i)  the trustee, the beneficiary, or both under a deed of trust against the real property security;
+
+(ii)  the mortgagee under a mortgage against the real property security; and
+
+(iii)  any successor-in-interest of the trustee, beneficiary, or mortgagee under the deed of trust or mortgage.
+
+(2)  Under this section:
+
+(a)  Estimated costs to clean up and remediate the contamination caused by the release include only those costs that would be incurred reasonably and in good faith.
+
+(b)  Fair market value is determined without giving consideration to the release, and is exclusive of the amount of all liens and encumbrances against the security that are senior in priority to the lien of the secured lender.
+
+(c)  Any real property security for any loan or extension of credit secured by a single parcel of real property is considered environmentally impaired if the property is:
+
+(i)  included in or proposed for the National Priorities List under Section 42 U.S.C. 9605;
+
+(ii)  any list identifying leaking underground storage tanks under 42 U.S.C. 6991 et seq.; or
+
+(iii)  in any list published by the Department of Environmental Quality under Section 19-6-311.
+
+(3)  A secured lender may elect between the following when the real property security is environmentally impaired and the borrower's obligations to the secured lender are in default:
+
+(a) (i)  waiver of its lien against:
+
+(A)  any parcel of real property security or any portion of that parcel that is environmentally impaired; and
+
+(B)  all or any portion of the fixtures and personal property attached to the parcels; and
+
+(ii)  exercise of:
+
+(A)  the rights and remedies of an unsecured creditor, including reduction of its claim against the borrower to judgment; and
+
+(B)  any other rights and remedies permitted by law; or
+
+(b)  exercise of:
+
+(i)  the rights and remedies of a creditor secured by a deed of trust or mortgage and, if applicable, a lien against fixtures or personal property attached to the real property security; and
+
+(ii)  any other rights and remedies permitted by law, including the right to obtain a deficiency judgment.
+
+(c)  The provisions of this subsection take precedence over Section 78B-6-901.
+
+(4) (a)  Subsection (3) is applicable only if in conjunction with and at the time of the making, renewal, or modification of the loan, extension of credit, guaranty, or other obligation secured by the real property security, the secured lender:
+
+(i)  did not know or have reason to know of a release of any hazardous matter into, onto, beneath, or from the real property security; and
+
+(ii)  undertook all appropriate inquiry into the previous ownership and uses of the real property security consistent with good commercial or customary practice in an effort to minimize liability.
+
+(b)  For the purposes of Subsection (4)(a)(ii), the court shall take into account:
+
+(i)  any specialized knowledge or experience of the secured lender;
+
+(ii)  the relationship of the purchase price to the value of the real property security if uncontaminated;
+
+(iii)  commonly known or reasonably ascertainable information about the real property security;
+
+(iv)  the obviousness of the presence or likely presence of contamination at the real property security; and
+
+(v)  the ability to detect the contamination by appropriate inspection.
+
+(5) (a)  Before the secured lender may waive its lien against any real property security under Subsection (3)(a) on the basis of environmental impairment the secured lender shall:
+
+(i)  provide written notice of the default to the borrower; and
+
+(ii)  bring a valuation and confirmation action against the borrower in a court of competent jurisdiction and obtain an order establishing the value of the subject real property security.
+
+(b)  The complaint in an action under Subsection (5)(a)(ii) may include causes of action for a money judgment for all or part of the secured obligation, in which case the waiver of the secured lender's liens under Subsection (3)(a) may result only if a final money judgment is obtained against the borrower.
+
+(6) (a)  If a secured lender elects the rights and remedies under Subsection (3)(a) and the borrower's obligations are also secured by other real property security, fixtures, or personal property, the secured lender shall first foreclose against the additional collateral to the extent required by applicable law.
+
+(b)  Under this subsection the amount of the judgment of the secured lender under Subsection (3)(a) is limited to the remaining balance of the borrower's obligations after the application of the proceeds of the additional collateral.
+
+(c)  The borrower may waive or modify the foreclosure requirements of this Subsection (6) if the waiver or modification is in writing and signed by the borrower after default.
+
+(7)  This section does not affect any rights or obligations arising under contracts existing before July 1, 1993, and applies only to loans, extensions of credit, guaranties, or other obligations secured by real property security made, renewed, or modified on or after July 1, 1993.
+
