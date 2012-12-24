@@ -1,4 +1,0 @@
-22-1-8.   Checks drawn in name of principal.
-
-If a check is drawn upon the account of his principal in a bank by a fiduciary who is empowered to draw checks upon his principal's account, the bank is authorized to pay such check without being liable to the principal, unless the bank pays the check with actual knowledge that the fiduciary is committing a breach of his obligation as fiduciary in drawing such check, or with knowledge of such facts that its action in paying the check amounts to bad faith. If, however, such a check is payable to the drawee bank and is delivered to it in payment of, or as security for, a personal debt of the fiduciary to it, the bank is liable to the principal, if the fiduciary in fact commits a breach of his obligation as fiduciary in drawing or delivering the check.
-
