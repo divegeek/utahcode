@@ -1,0 +1,20 @@
+70A-2a-303.   Transfer of party's interest under lease contract or of lessor's residual interest in goods -- Transfer as event of default -- Creation or enforcement of security interest -- Transfer of right to damages for default.
+
+(1)  As used in this section, "creation of a security interest" includes the sale of a lease contract subject to Title 70A, Chapter 9a, Uniform Commercial Code -- Secured Transactions, by reason of Subsection 70A-9a-109(1)(c).
+
+(2)  Except as provided in Subsection (3) and Section 70A-9a-407, a provision in a lease agreement that prohibits the voluntary or involuntary transfer (including a transfer by sale, sublease, creation or enforcement of a security interest, or attachment, levy, or other judicial process) of an interest of a party under the lease contract or of the lessor's residual interest in the goods, or that makes such a transfer an event of default, gives rise to the rights and remedies provided in Subsection (4), but a transfer that is prohibited or is an event of default under the lease agreement is otherwise effective.
+
+(3)  A provision in a lease agreement that prohibits a transfer of a right to damages for default with respect to the whole lease contract or of a right to payment arising out of the transferor's due performance of the transferor's entire obligation, or makes such a transfer an event of default, is not enforceable, and such a transfer is not a transfer that materially impairs the prospect of obtaining return performance by, materially changes the duty of, or materially increases the burden or risk imposed on, the other party to the lease contract within the purview of Subsection (4).
+
+(4)  Subject to Subsection (3) and Section 70A-9a-407:
+
+(a)  if a transfer is made that is made an event of default under a lease agreement, the party to the lease contract not making the transfer, unless that party waives the default or otherwise agrees, has the rights and remedies described in Section 70A-2a-501; and
+
+(b)  if Subsection (4)(a) is not applicable and if a transfer is made that is prohibited under a lease agreement, or materially impairs the prospect of obtaining return performance by, materially changes the duty of, or materially increases the burden or risk imposed on, the other party to the lease contract, unless the party not making the transfer agrees at any time to the transfer in the lease contract or otherwise, then, except as limited by contract, the transferor is liable to the party not making the transfer for damages caused by the transfer to the extent that the damages could not reasonably be prevented by the party not making the transfer, and a court having jurisdiction may grant other appropriate relief, including cancellation of the lease contract or an injunction against the transfer.
+
+(5)  A transfer of "the lease" or of "all my rights under the lease" or a transfer in similar general terms, is a transfer of rights, and unless the language or the circumstances, as in a transfer for security, indicate the contrary, the transfer is a delegation of duties by the transferor to the transferee.  Acceptance by the transferee constitutes a promise by  the transferee to perform those duties.   The promise is enforceable by either the transferor or the other party to the lease contract.
+
+(6)  Unless otherwise agreed by the lessor and the lessee, a delegation of performance does not relieve the  transferor as against the other party of any duty to perform or any liability for default.
+
+(7)  In a consumer lease, to prohibit the transfer of an interest of a party under the lease contract, or to make a transfer an event of default, the language must be specific, by writing, and conspicuous.
+

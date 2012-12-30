@@ -1,0 +1,34 @@
+34A-2-409.   Average weekly wage -- Basis of computation.
+
+(1)  Except as otherwise provided in this chapter or Chapter 3, Utah Occupational Disease Act, the average weekly wage of the injured employee at the time of the injury is the basis upon which to compute the weekly compensation rate and shall be determined as follows:
+
+(a) if at the time of the injury the wages are fixed by the year, the average weekly wage shall be that yearly wage divided by 52;
+
+(b) if at the time of the injury the wages are fixed by the month, the average weekly wage shall be that monthly wage divided by 4-1/3;
+
+(c) if at the time of the injury the wages are fixed by the week, that amount shall be the average weekly wage;
+
+(d) if at the time of the injury the wages are fixed by the day, the weekly wage shall be determined by multiplying the daily wage by the greater of:
+
+(i)  the number of days and fraction of days in the week during which the employee under a contract of hire was working at the time of the accident, or would have worked if the accident had not intervened; or
+
+(ii)  three days;
+
+(e) if at the time of the injury the wages are fixed by the hour, the average weekly wage shall be determined by multiplying the hourly rate by the greater of:
+
+(i)  the number of hours the employee would have worked for the week if the accident had not intervened; or
+
+(ii)  20 hours;
+
+(f) if at the time of the injury the hourly wage has not been fixed or cannot be ascertained, the average weekly wage for the purpose of calculating compensation shall be the usual wage for similar services where those services are rendered by paid employees;
+
+(g) (i) if at the time of the injury the wages are fixed by the output of the employee, the average weekly wage shall be the wage most favorable to the employee computed by dividing by 13 the wages, not including overtime or premium pay, of the employee earned through that employer in the first, second, third, or fourth period of 13 consecutive calendar weeks in the 52 weeks immediately preceding the injury; or
+
+(ii) if the employee has been employed by that employer less than 13 calendar weeks immediately preceding the injury, the employee's average weekly wage shall be computed as under Subsection (1)(g)(i), presuming the wages, not including overtime or premium pay, to be the amount the employee would have earned had the employee been so employed for the full 13 calendar weeks immediately preceding the injury and had worked, when work was available to other employees, in a similar occupation.
+
+(2)  If none of the methods in Subsection (1) will fairly determine the average weekly wage in a particular case, the commission shall use such other method as will, based on the facts presented, fairly determine the employee's average weekly wage.
+
+(3)  When the average weekly wage of the injured employee at the time of the injury is determined in accordance with this section, it shall be taken as the basis upon which to compute the weekly compensation rate.  After the weekly compensation is computed, it shall be rounded to the nearest dollar.
+
+(4)  If it is established that the injured employee was of such age and experience when injured that under natural conditions the employee's wages would be expected to increase, that fact may be considered in arriving at the employee's average weekly wage.
+

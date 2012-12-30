@@ -1,0 +1,44 @@
+31A-22-315.   Motor vehicle insurance reporting -- Penalty.
+
+(1) (a)  As used in this section, "commercial motor vehicle insurance coverage" means an insurance policy that:
+
+(i)  includes motor vehicle liability coverage, uninsured motorist coverage, underinsured motorist coverage, or personal injury coverage; and
+
+(ii)  is defined by the department.
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the department shall make rules defining commercial motor vehicle insurance coverage.
+
+(2) (a)  Except as provided in Subsections (2)(b) and (c), each insurer that issues a policy that includes motor vehicle liability coverage, uninsured motorist coverage, underinsured motorist coverage, or personal injury coverage under this part shall before the seventh and twenty-first day of each calendar month provide to the Department of Public Safety's designated agent selected in accordance with Title 41, Chapter 12a, Part 8, Uninsured Motorist Identification Database Program, a record of each motor vehicle insurance policy in effect for vehicles registered or garaged in Utah as of the previous submission that was issued by the insurer.
+
+(b)  Each insurer that issues commercial motor vehicle insurance coverage shall before the seventh day of each calendar month provide to the Department of Public Safety's designated agent selected in accordance with Title 41, Chapter 12a, Part 8, Uninsured Motorist Identification Database Program, a record of each commercial motor vehicle insurance policy in effect for vehicles registered or garaged in Utah as of the previous month that was issued by the insurer.
+
+(c)  An insurer that issues a policy that includes motor vehicle liability coverage, uninsured motorist coverage, underinsured motorist coverage, or personal injury coverage under this part is not required to provide a record of a motor vehicle insurance policy in effect for a vehicle to the Department of Public Safety's designated agent under Subsection (2)(a) or (b) if the policy covers a vehicle that is registered under Section 41-1a-221, 41-1a-222, or 41-1a-301.
+
+(d)  This Subsection (2) does not preclude more frequent reporting.
+
+(3) (a)  A record provided by an insurer under Subsection (2)(a) shall include:
+
+(i)  the name, date of birth, and driver license number, if the insured provides a driver license number to the insurer, of each insured owner or operator, and the address of the named insured;
+
+(ii)  the make, year, and vehicle identification number of each insured vehicle; and
+
+(iii)  the policy number, effective date, and expiration date of each policy.
+
+(b)  A record provided by an insurer under Subsection (2)(b) shall include:
+
+(i)  the named insured;
+
+(ii)  the policy number, effective date, and expiration date of each policy; and
+
+(iii)  the following information, if available:
+
+(A)  the name, date of birth, and driver license number of each insured owner or operator, and the address of the named insured; and
+
+(B)  the make, year, and vehicle identification number of each insured vehicle.
+
+(4)  Each insurer shall provide this information by an electronic means or by another form the Department of Public Safety's designated agent agrees to accept.
+
+(5) (a)  The commissioner may, following procedures set forth in Title 63G, Chapter 4, Administrative Procedures Act, assess a fine against an insurer of up to $250 for each day the insurer fails to comply with this section.
+
+(b)  If an insurer shows that the failure to comply with this section was inadvertent, accidental, or the result of excusable neglect, the commissioner shall excuse the fine.
+

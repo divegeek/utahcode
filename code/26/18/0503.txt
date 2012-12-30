@@ -1,0 +1,88 @@
+26-18-503.   Authorization to renew, transfer, or increase Medicaid certified programs -- Reimbursement methodology.
+
+(1) (a)  The division may renew Medicaid certification of a certified program if the program, without lapse in service to Medicaid recipients, has its nursing care facility program certified by the division at the same physical facility as long as the licensed and certified bed capacity at the facility has not been expanded, unless the director has approved additional beds in accordance with Subsection (5).
+
+(b)  The division may renew Medicaid certification of a nursing care facility program that is not currently certified if:
+
+(i)  since the day on which the program last operated with Medicaid certification:
+
+(A)  the physical facility where the program operated has functioned solely and continuously as a nursing care facility; and
+
+(B)  the owner of the program has not, under this section or Section 26-18-505, transferred to another nursing care facility program the license for any of the Medicaid beds in the program; and
+
+(ii)  the number of beds granted renewed Medicaid certification does not exceed the number of beds certified at the time the program last operated with Medicaid certification, excluding a period of time where the program operated with temporary certification under Subsection 26-18-504(4).
+
+(2) (a)  The division may issue a Medicaid certification for a new nursing care facility program if a current owner of the Medicaid certified program transfers its ownership of the Medicaid certification to the new nursing care facility program and the new nursing care facility program meets all of the following conditions:
+
+(i)  the new nursing care facility program operates at the same physical facility as the previous Medicaid certified program;
+
+(ii)  the new nursing care facility program gives a written assurance to the director in accordance with Subsection (4);
+
+(iii)  the new nursing care facility program receives the Medicaid certification within one year of the date the previously certified program ceased to provide medical assistance to a Medicaid recipient; and
+
+(iv)  the licensed and certified bed capacity at the facility has not been expanded, unless the director has approved additional beds in accordance with Subsection (5).
+
+(b)  A nursing care facility program that receives Medicaid certification under the provisions of Subsection (2)(a) does not assume the Medicaid liabilities of the previous nursing care facility program if the new nursing care facility program:
+
+(i)  is not owned in whole or in part by the previous nursing care facility program; or
+
+(ii)  is not a successor in interest of the previous nursing care facility program.
+
+(3)  The division may issue a Medicaid certification to a nursing care facility program that was previously a certified program but now resides in a new or renovated physical facility if the nursing care facility program meets all of the following:
+
+(a)  the nursing care facility program met all applicable requirements for Medicaid certification at the time of closure;
+
+(b)  the new or renovated physical facility is in the same county or within a five-mile radius of the original physical facility;
+
+(c)  the time between which the certified program ceased to operate in the original facility and will begin to operate in the new physical facility is not more than three years;
+
+(d)  if Subsection (3)(c) applies, the certified program notifies the department within 90 days after ceasing operations in its original facility, of its intent to retain its Medicaid certification;
+
+(e)  the provider gives written assurance to the director in accordance with Subsection (4) that no third party has a legitimate claim to operate a certified program at the previous physical facility; and
+
+(f)  the bed capacity in the physical facility has not been expanded unless the director has approved additional beds in accordance with Subsection (5).
+
+(4) (a)  The entity requesting Medicaid certification under Subsections (2) and (3) shall give written assurances satisfactory to the director or the director's designee that:
+
+(i)  no third party has a legitimate claim to operate the certified program;
+
+(ii)  the requesting entity agrees to defend and indemnify the department against any claims by a third party who may assert a right to operate the certified program; and
+
+(iii)  if a third party is found, by final agency action of the department after exhaustion of all administrative and judicial appeal rights, to be entitled to operate a certified program at the physical facility the certified program shall voluntarily comply with Subsection (4)(b).
+
+(b)  If a finding is made under the provisions of Subsection (4)(a)(iii):
+
+(i)  the certified program shall immediately surrender its Medicaid certification and comply with division rules regarding billing for Medicaid and the provision of services to Medicaid patients; and
+
+(ii)  the department shall transfer the surrendered Medicaid certification to the third party who prevailed under Subsection (4)(a)(iii).
+
+(5) (a)  As provided in Subsection 26-18-502(2)(b), the director shall issue additional Medicaid certification when requested by a nursing care facility or other interested party if there is insufficient bed capacity with current certified programs in a service area.  A determination of insufficient bed capacity shall be based on the nursing care facility or other interested party providing reasonable evidence of an inadequate number of beds in the county or group of counties impacted by the requested Medicaid certification based on:
+
+(i)  current demographics which demonstrate nursing care facility occupancy levels of at least 90% for all existing and proposed facilities within a prospective three-year period;
+
+(ii)  current nursing care facility occupancy levels of 90%; or
+
+(iii)  no other nursing care facility within a 35-mile radius of the nursing care facility requesting the additional certification.
+
+(b)  In addition to the requirements of Subsection (5)(a), a nursing care facility program shall demonstrate by an independent analysis that the nursing care facility can financially support itself at an after tax break-even net income level based on projected occupancy levels.
+
+(c)  When making a determination to certify additional beds or an additional nursing care facility program under Subsection (5)(a):
+
+(i)  the director shall consider whether the nursing care facility will offer specialized or unique services that are underserved in a service area;
+
+(ii)  the director shall consider whether any Medicaid certified beds are subject to a claim by a previous certified program that may reopen under the provisions of Subsections (2) and (3); and
+
+(iii)  the director may consider how to add additional capacity to the long-term care delivery system to best meet the needs of Medicaid recipients.
+
+(6)  The department shall adopt administrative rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to adjust the Medicaid nursing care facility property reimbursement methodology to:
+
+(a)  beginning July 1, 2008, only pay that portion of the property component of rates, representing actual bed usage by Medicaid clients as a percentage of the greater of:
+
+(i)  actual occupancy; or
+
+(ii) (A)  for a nursing care facility other than a facility described in Subsection (6)(a)(ii)(B), 85% of total bed capacity; or
+
+(B)  for a rural nursing care facility, 65% of total bed capacity; and
+
+(b)  beginning July 1, 2008, not allow for increases in reimbursement for property values without major renovation or replacement projects as defined by the department by rule.
+

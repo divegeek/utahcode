@@ -1,0 +1,86 @@
+59-2-303.1.   Mandatory cyclical appraisals.
+
+(1)  For purposes of this section:
+
+(a)  "Corrective action" includes:
+
+(i)  factoring pursuant to Section 59-2-704;
+
+(ii)  notifying the state auditor that the county failed to comply with the requirements of this section; or
+
+(iii)  filing a petition for a court order requiring a county to take action.
+
+(b)  "Mass appraisal system" means a computer assisted mass appraisal system that:
+
+(i)  a county assessor uses to value real property; and
+
+(ii)  includes at least the following system features:
+
+(A)  has the ability to update all parcels of real property located within the county each year;
+
+(B)  can be programmed with specialized criteria;
+
+(C)  provides uniform and equal treatment of parcels within the same class of real property throughout the county; and
+
+(D)  annually updates all parcels of residential real property within the county using accepted valuation methodologies as determined by rule.
+
+(c)  "Property review date" means the date a county assessor completes a detailed review of the property characteristics of a parcel of real property in accordance with Subsection (3)(a).
+
+(2) (a)  The county assessor shall annually update property values of property as provided in Section 59-2-301 based on a systematic review of current market data.
+
+(b)  The county assessor shall conduct the annual update described in Subsection (2)(a) by using a mass appraisal system on or before the following:
+
+(i)  for a county of the first class, January 1, 2009;
+
+(ii)  for a county of the second class, January 1, 2011;
+
+(iii)  for a county of the third class, January 1, 2014; and
+
+(iv)  for a county of the fourth, fifth, or sixth class, January 1, 2015.
+
+(c)  The county assessor and the commission shall jointly certify that the county's mass appraisal system meets the requirements:
+
+(i)  described in Subsection (1)(b); and
+
+(ii)  of the commission.
+
+(3) (a)  In addition to the requirements in Subsection (2), the county assessor shall complete a detailed review of property characteristics for each property at least once every five years.
+
+(b)  The county assessor shall maintain on the county's computer system, a record of the last property review date for each parcel of real property located within the county assessor's county.
+
+(4) (a)  The commission shall take corrective action if the commission determines that:
+
+(i)  a county assessor has not satisfactorily followed the current mass appraisal standards, as provided by law;
+
+(ii)  the sales-assessment ratio, coefficients of dispersion, or other statistical measures of appraisal performance related to the studies required by Section 59-2-704 are not within the standards provided by law; or
+
+(iii)  the county assessor has failed to comply with the requirements of this section.
+
+(b)  If a county assessor fails to comply with the requirements of this section for one year, the commission shall assist the county assessor in fulfilling the requirements of Subsections (2) and (3).
+
+(c)  If a county assessor fails to comply with the requirements of this section for two consecutive years, the county will lose the county's allocation of the revenue generated statewide from the imposition of the multicounty assessing and collecting levy authorized in Sections 59-2-1602 and 59-2-1603.
+
+(d)  If a county loses its allocation of the revenue generated statewide from the imposition of the multicounty assessing and collecting levy described in Subsection (4)(c), the revenue the county would have received shall be distributed to the Multicounty Appraisal Trust created by interlocal agreement by all counties in the state.
+
+(5) (a)  On or before July 1, 2008, the county assessor shall prepare a five-year plan to comply with the requirements of Subsections (2) and (3).
+
+(b)  The plan shall be available in the county assessor's office for review by the public upon request.
+
+(c)  The plan shall be annually reviewed and revised as necessary.
+
+(6) (a)  A county assessor shall create, maintain, and regularly update a database containing the following information that the county assessor may use to enhance the county's ability to accurately appraise and assess property on an annual basis:
+
+(i)  fee and other appraisals;
+
+(ii)  property characteristics and features;
+
+(iii)  property surveys;
+
+(iv)  sales data; and
+
+(v)  any other data or information on sales, studies, transfers, changes to property, or property characteristics.
+
+(b)  A county assessor shall submit a report to the commission on or before September 1 stating the progress of the county assessor to meet the requirements of Subsection (6)(a).
+
+(c)  The commission shall report to the Revenue and Taxation Interim Committee on or before the October interim meeting concerning the information received from the county assessors pursuant to Subsection (6)(b).
+

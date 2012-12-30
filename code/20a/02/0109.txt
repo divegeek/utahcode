@@ -1,0 +1,44 @@
+20A-2-109.   Statewide voter registration database -- Lieutenant governor to create -- Counties to participate -- Maintenance of database -- Cooperation with governmental entities -- Record security -- List of incarcerated felons.
+
+(1) (a) (i)  The lieutenant governor shall develop a statewide voter registration database.
+
+(ii) (A)  The lieutenant governor may compare the information in the statewide voter registration database with information submitted by a registered voter to a state agency to identify a change in a registered voter's principal place of residence or name.
+
+(B)  The lieutenant governor shall establish matching criteria and security measures for identifying a change described in Subsection (1)(a)(ii)(A) to ensure the accuracy of a voter registration record.
+
+(C)  The lieutenant governor shall notify the county clerk of the county in which the voter's principal place of residence is located of the change in the registered voter's principal place of residence or name.
+
+(b)  Each county clerk shall utilize the statewide voter registration database when recording or modifying voter registration records.
+
+(2) (a)  The lieutenant governor shall establish and implement a procedure to maintain the accuracy of the statewide voter registration database by using information available from:
+
+(i)  a voter;
+
+(ii)  a governmental entity, as defined by Section 63G-2-103; or
+
+(iii)  another state.
+
+(b)  Subject to Subsection (2)(c), the lieutenant governor may cooperate or enter into an agreement with a governmental entity or another state to share information to implement the procedure established under Subsection (2)(a).
+
+(c)  For a record shared under Subsection (2)(b), the lieutenant governor shall ensure:
+
+(i)  that the record is only used to maintain the accuracy of a voter registration database;
+
+(ii)  compliance with Section 63G-2-206; and
+
+(iii)  that the record is secure from unauthorized use by employing data encryption or another similar technology security system.
+
+(3) (a)  The lieutenant governor shall maintain a current list of all incarcerated felons in Utah.
+
+(b) (i)  The Department of Corrections shall provide the lieutenant governor's office with a list of the name and last-known address of each person who:
+
+(A)  was convicted of a felony in a Utah state court; and
+
+(B)  is currently incarcerated for commission of a felony.
+
+(ii)  The lieutenant governor shall establish the frequency of receipt of the information and the method of transmitting the information after consultation with the Department of Corrections.
+
+(c) (i)  The Department of Corrections shall provide the lieutenant governor's office with a list of the name of each convicted felon who is no longer subject to the jurisdiction of the department because the person has been released from incarceration.
+
+(ii)  The lieutenant governor shall establish the frequency of receipt of the information and the method of transmitting the information after consultation with the Department of Corrections.
+

@@ -1,0 +1,10 @@
+57-10-4.   Legal effect of descriptions using coordinate values.
+
+(1)  A description of the location of any survey station or land boundary corner in the state is complete, legal, and satisfactory if it is expressed by use of the system of plane coordinates defined in this chapter.
+
+(2)  For purposes of sale or title transfer, no real property may be described solely by reference to coordinate values from the Utah coordinate system or any other coordinate system.
+
+(3)  When coordinates based on the Utah coordinate system are used in the description of any tract of land, they are supplemental to the basic description relating to existing recognized monuments and land lines of record.
+
+(4)  The description by reference to the subdivision, line, or corner of the United States public land surveys prevails over the description by coordinates, if there is any conflict between the descriptions.
+

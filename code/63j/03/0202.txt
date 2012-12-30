@@ -1,0 +1,22 @@
+63J-3-202.   Computing formula elements.
+
+(1)  For purposes of calculating fiscal year inflation indexes for the previous fiscal year, the Governor's Office of Planning and Budget shall use:
+
+(a)  the actual quarterly data released by the U.S. Department of Commerce as of January 31 of each year; and
+
+(b)  the most recent U.S. Bureau of Census population estimates as of January 31 of each year.
+
+(2) (a)  For purposes of computing the inflation index, the Governor's Office of Planning and Budget shall:
+
+(i)  assign the bureau's 1982 calendar year inflation index value of 100 to fiscal year 1989 for purposes of computing fiscal year index values;
+
+(ii)  compute all subsequent fiscal year inflation indexes after having assigned the fiscal year 1989 inflation index a value of 100; and
+
+(iii)  use the quarterly index values published by the Bureau of Economic Analysis, U.S. Department of Commerce, to compute fiscal year index values.
+
+(b)  If the bureau changes its calendar base year, appropriate adjustments are to be made in this chapter to accommodate those changes.
+
+(3) (a)  For purposes of computing the most recent fiscal year’s population, the Governor's Office of Planning and Budget shall convert the April 1 decennial census estimate to a July 1 estimate, unless otherwise estimated by the Bureau of Census.
+
+(b)  If the bureau changes the state's July 1, 1983 base year population after it conducts the 1990 Census, appropriate adjustments shall be made in this chapter to accommodate those changes.
+

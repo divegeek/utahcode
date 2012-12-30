@@ -1,0 +1,46 @@
+63F-1-504.   Duties of the division.
+
+The division shall:
+
+(1)  establish standards for the information technology needs of a collection of executive branch agencies or programs that share common characteristics relative to the types of stakeholders they serve, including:
+
+(a)  project management;
+
+(b)  application development; and
+
+(c)  procurement;
+
+(2)  provide oversight of information technology standards that impact multiple executive branch agency information technology services, assets, or functions to:
+
+(a)  control costs;
+
+(b)  ensure business value to a project;
+
+(c)  maximize resources;
+
+(d)  ensure the uniform application of best practices; and
+
+(e)  avoid duplication of resources;
+
+(3)  in accordance with Section 63F-1-204, provide the chief information officer a written analysis of any agency information technology plan provided to the division, which shall include:
+
+(a)  a review of whether the agency's technology projects impact multiple agencies and if so, whether the information technology projects are appropriately designed and developed;
+
+(b)  an assessment of whether the agency plan complies with the state information architecture; and
+
+(c)  an assessment of whether the information technology projects included in the agency plan comply with policies, procedures, and rules adopted by the department to ensure that:
+
+(i)  information technology projects are phased in;
+
+(ii)  funding is released in phases;
+
+(iii)  an agency's authority to proceed to the next phase of an information technology project is contingent upon the successful completion of the prior phase; and
+
+(iv)  one or more specific deliverables is identified for each phase of a technology project;
+
+(4)  establish a system of accountability to user agencies through the use of service agreements;
+
+(5)  each year, provide the chief information officer and the Public Utilities and Technology Interim Committee with performance measures used by the division to measure the quality of services delivered by the division and results of those measures; and
+
+(6)  establish administrative rules in accordance with Section 63F-1-206 and as required by Section 63F-1-506.
+

@@ -1,0 +1,72 @@
+59-2-1603.   Disbursement of money in the Property Tax Valuation Agency Fund -- Use of funds.
+
+(1)  The state auditor shall authorize disbursement of money from the Property Tax Valuation Agency Fund to each receiving county in accordance with this section.
+
+(2)  Except as provided in Section 59-2-1606 and Subsection 59-2-303.1(4), money derived from funds transmitted by contributing counties shall be disbursed pro rata to receiving counties of the second through sixth class based upon the number of adjusted parcel units in each county as determined in Subsection (3).
+
+(3) (a)  The state auditor shall determine the amount of each county's multicounty assessing and collecting allocation in accordance with this Subsection (3).
+
+(b)  A county's multicounty assessing and collecting allocation shall be the product of:
+
+(i)  the county's adjusted parcel ratio; and
+
+(ii)  a base unit value of $10.
+
+(c)  For purposes of this section, a county's adjusted parcel ratio shall be determined by multiplying the sum of the following by the county parcel factor:
+
+(i)  the number of residential parcels multiplied by 2;
+
+(ii)  the number of commercial parcels multiplied by 4; and
+
+(iii)  the number of all other parcels multiplied by 1.
+
+(d)  For purposes of this Subsection (3), the county class factor is:
+
+(i)  0.8 for a county of the first class;
+
+(ii)  0.9 for a county of the second class;
+
+(iii)  1.0 for a county of the third class;
+
+(iv)  1.05 for a county of the fourth class;
+
+(v)  1.15 for a county of the fifth class; and
+
+(vi)  1.3 for a county of the sixth class.
+
+(e)  The commission shall provide the state auditor a list of each county's parcel counts described in Subsection (3)(c).
+
+(4) (a)  A first class county shall transmit $300,000 to the fund.
+
+(b)  A second, third, or fourth class contributing county shall transmit to the fund an amount equal to the following:
+
+(i)  if the contributing county's surplus revenue is equal to or less than the contributing county's minimum county contribution, the minimum county contribution;
+
+(ii)  if the contributing county's surplus revenue is more than the county's minimum county contribution and less than the county's maximum county contribution, the contributing county's surplus revenue; or
+
+(iii)  if the contributing county's surplus revenue is equal to or greater than the county's maximum county contribution, the contributing county's maximum county contribution.
+
+(5)  Money in the Property Tax Valuation Agency Fund on the 10th day of the month following the end of the quarter in which the revenue is collected shall, upon authorization by the state auditor, be transmitted by the state treasurer according to the disbursement formula determined under Subsection (3) no later than five working days after the 10th day of the month following the end of the quarter in which the revenue is collected.
+
+(6)  If money in the Property Tax Valuation Agency Fund on the 10th day of the month following the end of the quarter in which the revenue is collected is not transmitted to a receiving county within five working days of the 10th day of that month, except as provided for in Subsection (5), income from the investment of that money shall be:
+
+(a)  deposited in and become part of the Property Tax Valuation Agency Fund; and
+
+(b)  disbursed to the receiving county in the next quarter.
+
+(7)  A county shall use money disbursed from the Property Tax Valuation Agency Fund for:
+
+(a)  establishing and maintaining accurate property valuations and uniform assessment levels as required by Section 59-2-103; and
+
+(b)  improving the efficiency of the property tax system.
+
+(8)  The state auditor shall reallocate any:
+
+(a)  deficit from the allocation under Subsection (3) amongst all receiving counties based on their adjusted parcel counts; or
+
+(b)  surplus from the allocation under Subsection (3) amongst all contributing counties based on the county's percentage of the total contribution under this section.
+
+(9)  A receiving county may not receive more than $200,000 total from an allocation under Subsection (3).
+
+(10)  If money remains in the fund after all allocations have been distributed to receiving counties in a calendar year, the state auditor shall retain the money in the fund for distribution the following calendar year.
+

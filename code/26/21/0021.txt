@@ -1,0 +1,8 @@
+26-21-21.   Authentication of medical records.
+
+Any entry in a medical record compiled or maintained by a health care facility may be authenticated by identifying the author of the entry by:
+
+(1)  a signature including first initial, last name, and discipline; or
+
+(2)  the use of a computer identification process unique to the author that definitively identifies the author.
+

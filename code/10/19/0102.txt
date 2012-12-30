@@ -1,0 +1,154 @@
+10-19-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Adjusted retail electric sales" means the total kilowatt-hours of retail electric sales of a municipal electric utility to customers in this state in a calendar year, reduced by:
+
+(a)  the amount of those kilowatt-hours attributable to electricity generated or purchased in that calendar year from qualifying zero carbon emissions generation and qualifying carbon sequestration generation;
+
+(b)  the amount of those kilowatt-hours attributable to electricity generated or purchased in that calendar year from generation located within the geographic boundary of the Western Electricity Coordinating Council that derives its energy from one or more of the following but that does not satisfy the definition of a renewable energy source or that otherwise has not been used to satisfy Subsection 10-19-201(1):
+
+(i)  wind energy;
+
+(ii)  solar photovoltaic and solar thermal energy;
+
+(iii)  wave, tidal, and ocean thermal energy;
+
+(iv)  except for combustion of wood that has been treated with chemical preservatives such as creosote, pentachlorophenol or chromated copper arsenate, biomass and biomass byproducts, including:
+
+(A)  organic waste;
+
+(B)  forest or rangeland woody debris from harvesting or thinning conducted to improve forest or rangeland ecological health and to reduce wildfire risk;
+
+(C)  agricultural residues;
+
+(D)  dedicated energy crops; and
+
+(E)  landfill gas or biogas produced from organic matter, wastewater, anaerobic digesters, or municipal solid waste;
+
+(v)  geothermal energy;
+
+(vi)  hydro-electric energy; or
+
+(vii)  waste gas and waste heat capture or recovery; and
+
+(c)  the number of kilowatt-hours attributable to reductions in retail sales in that calendar year from activities or programs promoting electric energy efficiency or conservation or more efficient management of electric energy load.
+
+(2)  "Amount of kilowatt-hours attributable to electricity generated or purchased in that calendar year from qualifying carbon sequestration generation," for qualifying carbon sequestration generation, means the kilowatt-hours supplied by a facility during the calendar year multiplied by the ratio of the amount of carbon dioxide captured from the facility and sequestered to the sum of the amount of carbon dioxide captured from the facility and sequestered plus the amount of carbon dioxide emitted from the facility during the same calendar year.
+
+(3)  "Banked renewable energy certificate" means a bundled or unbundled renewable energy certificate that is:
+
+(a)  not used in a calendar year to comply with this part or with a renewable energy program in another state; and
+
+(b)  carried forward into a subsequent year.
+
+(4)  "Bundled renewable energy certificate" means a renewable energy certificate for qualifying electricity that is acquired:
+
+(a)  by a municipal electric utility by a trade, purchase, or other transfer of electricity that includes the renewable energy attributes of, or certificate that is issued for, the electricity; or
+
+(b)  by a municipal electric utility by generating the electricity for which the renewable energy certificate is issued.
+
+(5)  "Commission" means the Public Service Commission.
+
+(6)  "Municipal electric utility" means any municipality that owns, operates, controls, or manages a facility that provides electric power for a retail customer, whether domestic, commercial, industrial, or otherwise.
+
+(7)  "Qualifying carbon sequestration generation" means a fossil-fueled generating facility located within the geographic boundary of the Western Electricity Coordinating Council that:
+
+(a)  becomes operational or is retrofitted on or after January 1, 2008; and
+
+(b)  reduces carbon dioxide emissions into the atmosphere through permanent geological sequestration or through other verifiably permanent reductions in carbon dioxide emissions through the use of technology.
+
+(8)  "Qualifying electricity" means electricity generated on or after January 1, 1995 from a renewable energy source if:
+
+(a) (i)  the renewable energy source is located within the geographic boundary of the Western Electricity Coordinating Council; or
+
+(ii)  the qualifying electricity is delivered to the transmission system of a municipal electric utility or a delivery point designated by the municipal electric utility for the purpose of subsequent delivery to the municipal electric utility; and
+
+(b)  the renewable energy attributes of the electricity are not traded, sold, transferred, or otherwise used to satisfy another state's renewable energy program.
+
+(9)  "Qualifying zero carbon emissions generation":
+
+(a)  means a generation facility located within the geographic boundary of the Western Electricity Coordinating Council that:
+
+(i)  becomes operational on or after January 1, 2008; and
+
+(ii)  does not produce carbon as a byproduct of the generation process;
+
+(b)  includes generation powered by nuclear fuel; and
+
+(c)  does not include renewable energy sources used to satisfy a target established under Section 10-19-201.
+
+(10)  "Renewable energy certificate" means a certificate issued in accordance with the requirements of Sections 10-19-202 and 54-17-603.
+
+(11)  "Renewable energy source" means:
+
+(a)  an electric generation facility or generation capability or upgrade that becomes operational on or after January 1, 1995 that derives its energy from one or more of the following:
+
+(i)  wind energy;
+
+(ii)  solar photovoltaic and solar thermal energy;
+
+(iii)  wave, tidal, and ocean thermal energy;
+
+(iv)  except for combustion of wood that has been treated with chemical preservatives such as creosote, pentachlorophenol or chromated copper arsenate, biomass and biomass byproducts, including:
+
+(A)  organic waste;
+
+(B)  forest or rangeland woody debris from harvesting or thinning conducted to improve forest or rangeland ecological health and to reduce wildfire risk;
+
+(C)  agricultural residues;
+
+(D)  dedicated energy crops; and
+
+(E)  landfill gas or biogas produced from organic matter, wastewater, anaerobic digesters, or municipal solid waste;
+
+(v)  geothermal energy located outside the state;
+
+(vi)  waste gas and waste heat capture or recovery whether or not it is renewable, including methane gas from:
+
+(A)  an abandoned coal mine; or
+
+(B)  a coal degassing operation associated with a state-approved mine permit;
+
+(vii)  efficiency upgrades to a hydroelectric facility, without regard to the date upon which the facility became operational, if the upgrades become operational on or after January 1, 1995;
+
+(viii)  a compressed air energy storage process, if:
+
+(A)  the process used to compress the air is a renewable energy source and the associated renewable energy certificates are retired for the purpose of the compressed air energy storage process; or
+
+(B)  equivalent renewable energy certificates are obtained and retired for the purpose of the compressed air energy storage process; or
+
+(ix)  municipal solid waste;
+
+(b)  any of the following:
+
+(i)  up to 50 average megawatts of electricity per year per municipal electric utility from a certified low-impact hydroelectric facility, without regard to the date upon which the facility becomes operational, if the facility is certified as a low-impact hydroelectric facility on or after January 1, 1995, by a national certification organization;
+
+(ii)  geothermal energy if located within the state, without regard to the date upon which the facility becomes operational; and
+
+(iii)  hydroelectric energy if located within the state, without regard to the date upon which the facility becomes operational;
+
+(c)  hydrogen gas derived from any source of energy described in Subsection (11)(a) or (b);
+
+(d)  if an electric generation facility employs multiple energy sources, that portion of the electricity generated that is attributable to energy sources described in Subsections (11)(a) through (c); and
+
+(e)  any of the following located in the state and owned by a user of energy:
+
+(i)  a demand side management measure, as defined by Subsection 54-7-12.8(1) with the quantity of renewable energy certificates to which the user is entitled determined by the equivalent energy saved by the measure;
+
+(ii)  a solar thermal system that reduces the consumption of fossil fuels, with the quantity of renewable energy certificates to which the user is entitled determined by the equivalent kilowatt-hours saved, except to the extent the commission determines otherwise with respect to net-metered energy;
+
+(iii)  a solar photovoltaic system that reduces the consumption of fossil fuels with the quantity of renewable energy certificates to which the user is entitled determined by the total production of the system, except to the extent the commission determines otherwise with respect to net-metered energy;
+
+(iv)  a hydroelectric or geothermal facility, with the quantity of renewable energy certificates to which the user is entitled determined by the total production of the facility, except to the extent the commission determines otherwise with respect to net-metered energy;
+
+(v)  a waste gas or waste heat capture or recovery system other than from a combined cycle combustion turbine that does not use waste gas or waste heat, with the quantity of renewable energy certificates to which the user is entitled determined by the total production of the system, except to the extent the commission determines otherwise with respect to net-metered energy; and
+
+(vi)  the station use of solar thermal energy, solar photovoltaic energy, hydroelectric energy, geothermal energy, waste gas, or waste heat capture and recovery.
+
+(12)  "Unbundled renewable energy certificate" means a renewable energy certificate associated with:
+
+(a)  qualifying electricity that is acquired by a municipal electric utility or other person by trade, purchase, or other transfer without acquiring the electricity for which the certificate was issued; or
+
+(b)  activities listed in Subsection (11)(e).
+

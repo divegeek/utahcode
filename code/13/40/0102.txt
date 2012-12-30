@@ -1,0 +1,102 @@
+13-40-102.   Definitions.
+
+As used in this chapter:
+
+(1) (a)  "Cause to be copied" means to distribute or transfer computer software, or any component of computer software.
+
+(b)  "Cause to be copied" does not include providing:
+
+(i)  transmission, routing, intermediate temporary storage, or caching of software;
+
+(ii)  a storage or hosting medium, such as a compact disk, website, or computer server through which the software was distributed by a third party; or
+
+(iii)  an information location tool, such as a directory, index, reference, pointer, or hypertext link, through which the user of the computer located the software.
+
+(2) (a)  "Computer software" means a sequence of instructions written in any programming language that is executed on a computer.
+
+(b)  "Computer software" does not include a data component of a webpage that is not executable independently of the webpage.
+
+(3)  "Computer virus" means a computer program or other set of instructions that is designed to degrade the performance of or disable a computer or computer network and is designed to have the ability to replicate itself on another computer or computer network without the authorization of the owner of the other computer or computer network.
+
+(4)  "Damage" means any significant impairment to the:
+
+(a)  performance of a computer; or
+
+(b)  integrity or availability of data, software, a system, or information.
+
+(5)  "Execute," when used with respect to computer software, means the performance of the functions or the carrying out of the instructions of the computer software.
+
+(6)  "False pretenses" means the representation of a fact or circumstance that is not true and is calculated to mislead.
+
+(7) (a)  "Identifying information" means any information that can be used to access a person's financial accounts or to obtain goods and services, including the person's:
+
+(i)  address;
+
+(ii)  birth date;
+
+(iii)  Social Security number;
+
+(iv)  driver license number;
+
+(v)  non-driver governmental identification number;
+
+(vi)  telephone number;
+
+(vii)  bank account number;
+
+(viii)  student identification number;
+
+(ix)  credit or debit card number;
+
+(x)  personal identification number;
+
+(xi)  unique biometric data;
+
+(xii)  employee or payroll number;
+
+(xiii)  automated or electronic signature;
+
+(xiv)  computer image file;
+
+(xv)  photograph; or
+
+(xvi)  computer screen name or password.
+
+(b)  "Identifying information" does not include information that is lawfully obtained from publicly available information, or from federal, state, or local government records lawfully made available to the general public.
+
+(8)  "Intentionally deceptive" means any of the following:
+
+(a)  an intentionally and materially false or fraudulent statement;
+
+(b)  a statement or description that intentionally omits or misrepresents material information in order to deceive an owner or operator of a computer; or
+
+(c)  an intentional and material failure to provide a notice to an owner or operator concerning the installation or execution of computer software, for the purpose of deceiving the owner or operator.
+
+(9)  "Internet" means the global information system that is logically linked together by a globally unique address space based on the Internet protocol (IP), or its subsequent extensions, and that is able to support communications using the transmission control protocol/Internet protocol (TCP/IP) suite, or its subsequent extensions, or other IP-compatible protocols, and that provides, uses, or makes accessible, either publicly or privately, high-level services layered on communications and related infrastructure.
+
+(10)  "Internet service provider" means:
+
+(a)  an Internet service provider, as defined in Section 76-10-1230; or
+
+(b)  a hosting company, as defined in Section 76-10-1230.
+
+(11)  "Message" means a graphical or text communication presented to an authorized user of a computer.
+
+(12) (a)  "Owner or operator" means the owner or lessee of a computer, or a person using a computer with the owner's or lessee's authorization.
+
+(b)  "Owner or operator" does not include a person who owned a computer before the first retail sale of the computer.
+
+(13)  "Person" means any individual, partnership, corporation, limited liability company, or other organization, or any combination thereof.
+
+(14)  "Personally identifiable information" means any of the following information if it allows the entity holding the information to identify the owner or operator of a computer:
+
+(a)  the first name or first initial in combination with the last name and a home or other physical address including street name;
+
+(b)  a personal identification code in conjunction with a password required to access an identified account, other than a password, personal identification number, or other identification number transmitted by an authorized user to the issuer of the account or its agent;
+
+(c)  a Social Security number, tax identification number, driver license number, passport number, or any other government-issued identification number; or
+
+(d)  an account balance, overdraft history, or payment history that personally identifies an owner or operator of a computer.
+
+(15)  "Webpage" means a location that has a single uniform resource locator (URL) with respect to the World Wide Web or another location that can be accessed on the Internet.
+

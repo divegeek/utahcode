@@ -1,0 +1,410 @@
+59-1-401.   Definitions -- Offenses and penalties -- Rulemaking authority -- Statute of limitations -- Commission authority to waive, reduce, or compromise penalty or interest.
+
+(1)  As used in this section:
+
+(a)  "Activated tax, fee, or charge" means a tax, fee, or charge with respect to which the commission:
+
+(i)  has implemented the commission's GenTax system; and
+
+(ii)  at least 30 days before implementing the commission's GenTax system as described in Subsection (1)(a)(i), has provided notice in a conspicuous place on the commission's website stating:
+
+(A)  the date the commission will implement the GenTax system with respect to the tax, fee, or charge; and
+
+(B)  that, at the time the commission implements the GenTax system with respect to the tax, fee, or charge:
+
+(I)  a person that files a return after the due date as described in Subsection (2)(a) is subject to the penalty described in Subsection (2)(c)(ii); and
+
+(II)  a person that fails to pay the tax, fee, or charge as described in Subsection (3)(a) is subject to the penalty described in Subsection (3)(b)(ii).
+
+(b)  "Activation date for a tax, fee, or charge" means with respect to a tax, fee, or charge, the later of:
+
+(i)  the date on which the commission implements the commission's GenTax system with respect to the tax, fee, or charge; or
+
+(ii)  30 days after the date the commission provides the notice described in Subsection (1)(a)(ii) with respect to the tax, fee, or charge.
+
+(c) (i)  Except as provided in Subsection (1)(c)(ii), "tax, fee, or charge" means:
+
+(A)  a tax, fee, or charge the commission administers under:
+
+(I)  this title;
+
+(II)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+
+(III)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act;
+
+(IV)  Section 19-6-410.5;
+
+(V)  Section 19-6-714;
+
+(VI)  Section 19-6-805;
+
+(VII)  Section 32B-2-304;
+
+(VIII)  Section 34A-2-202;
+
+(IX)  Section 40-6-14;
+
+(X)  Section 69-2-5;
+
+(XI)  Section 69-2-5.5; or
+
+(XII)  Section 69-2-5.6; or
+
+(B)  another amount that by statute is subject to a penalty imposed under this section.
+
+(ii)  "Tax, fee, or charge" does not include a tax, fee, or charge imposed under:
+
+(A)  Title 41, Chapter 1a, Motor Vehicle Act, except for Section 41-1a-301;
+
+(B)  Title 41, Chapter 3, Motor Vehicle Business Regulation Act;
+
+(C)  Chapter 2, Property Tax Act, except for Section 59-2-1309;
+
+(D)  Chapter 3, Tax Equivalent Property Act; or
+
+(E)  Chapter 4, Privilege Tax.
+
+(d)  "Unactivated tax, fee, or charge" means a tax, fee, or charge except for an activated tax, fee, or charge.
+
+(2) (a)  The due date for filing a return is:
+
+(i)  if the person filing the return is not allowed by law an extension of time for filing the return, the day on which the return is due as provided by law; or
+
+(ii)  if the person filing the return is allowed by law an extension of time for filing the return, the earlier of:
+
+(A)  the date the person files the return; or
+
+(B)  the last day of that extension of time as allowed by law.
+
+(b)  A penalty in the amount described in Subsection (2)(c) is imposed if a person files a return after the due date described in Subsection (2)(a).
+
+(c)  For purposes of Subsection (2)(b), the penalty is an amount equal to the greater of:
+
+(i)  if the return described in Subsection (2)(b) is filed with respect to an unactivated tax, fee, or charge:
+
+(A)  $20; or
+
+(B)  10% of the unpaid unactivated tax, fee, or charge due on the return; or
+
+(ii)  if the return described in Subsection (2)(b) is filed with respect to an activated tax, fee, or charge, beginning on the activation date for the tax, fee, or charge:
+
+(A)  $20; or
+
+(B) (I)  2% of the unpaid activated tax, fee, or charge due on the return if the return is filed no later than five days after the due date described in Subsection (2)(a);
+
+(II)  5% of the unpaid activated tax, fee, or charge due on the return if the return is filed more than five days after the due date but no later than 15 days after the due date described in Subsection (2)(a); or
+
+(III)  10% of the unpaid activated tax, fee, or charge due on the return if the return is filed more than 15 days after the due date described in Subsection (2)(a).
+
+(d)  This Subsection (2) does not apply to:
+
+(i)  an amended return; or
+
+(ii)  a return with no tax due.
+
+(3) (a)  A person is subject to a penalty for failure to pay a tax, fee, or charge if:
+
+(i)  the person files a return on or before the due date for filing a return described in Subsection (2)(a), but fails to pay the tax, fee, or charge due on the return on or before that due date;
+
+(ii)  the person:
+
+(A)  is subject to a penalty under Subsection (2)(b); and
+
+(B)  fails to pay the tax, fee, or charge due on a return within a 90-day period after the due date for filing a return described in Subsection (2)(a);
+
+(iii) (A)  the person is subject to a penalty under Subsection (2)(b); and
+
+(B) the commission estimates an amount of tax due for that person in accordance with Subsection 59-1-1406(2);
+
+(iv)  the person:
+
+(A)  is mailed a notice of deficiency; and
+
+(B)  within a 30-day period after the day on which the notice of deficiency described in Subsection (3)(a)(iv)(A) is mailed:
+
+(I)  does not file a petition for redetermination or a request for agency action; and
+
+(II)  fails to pay the tax, fee, or charge due on a return;
+
+(v) (A)  the commission:
+
+(I)  issues an order constituting final agency action resulting from a timely filed petition for redetermination or a timely filed request for agency action; or
+
+(II)  is considered to have denied a request for reconsideration under Subsection 63G-4-302(3)(b) resulting from a timely filed petition for redetermination or a timely filed request for agency action; and
+
+(B)  the person fails to pay the tax, fee, or charge due on a return within a 30-day period after the date the commission:
+
+(I)  issues the order constituting final agency action described in Subsection (3)(a)(v)(A)(I); or
+
+(II)  is considered to have denied the request for reconsideration described in Subsection (3)(a)(v)(A)(II); or
+
+(vi)  the person fails to pay the tax, fee, or charge within a 30-day period after the date of a final judicial decision resulting from a timely filed petition for judicial review.
+
+(b)  For purposes of Subsection (3)(a), the penalty is an amount equal to the greater of:
+
+(i)  if the failure to pay a tax, fee, or charge as described in Subsection (3)(a) is with respect to an unactivated tax, fee, or charge:
+
+(A)  $20; or
+
+(B)  10% of the unpaid unactivated tax, fee, or charge due on the return; or
+
+(ii)  if the failure to pay a tax, fee, or charge as described in Subsection (3)(a) is with respect to an activated tax, fee, or charge, beginning on the activation date:
+
+(A)  $20; or
+
+(B) (I)  2% of the unpaid activated tax, fee, or charge due on the return if the activated tax, fee, or charge due on the return is paid no later than five days after the due date for filing a return described in Subsection (2)(a);
+
+(II)  5% of the unpaid activated tax, fee, or charge due on the return if the activated tax, fee, or charge due on the return is paid more than five days after the due date for filing a return described in Subsection (2)(a) but no later than 15 days after that due date; or
+
+(III)  10% of the unpaid activated tax, fee, or charge due on the return if the activated tax, fee, or charge due on the return is paid more than 15 days after the due date for filing a return described in Subsection (2)(a).
+
+(4) (a)  Beginning January 1, 1995, in the case of any underpayment of estimated tax or quarterly installments required by Sections 59-5-107, 59-5-207, 59-7-504, and 59-9-104, there shall be added a penalty in an amount determined by applying the interest rate provided under Section 59-1-402 plus four percentage points to the amount of the underpayment for the period of the underpayment.
+
+(b) (i)  For purposes of Subsection (4)(a), the amount of the underpayment shall be the excess of the required installment over the amount, if any, of the installment paid on or before the due date for the installment.
+
+(ii)  The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier:
+
+(A)  the original due date of the tax return, without extensions, for the taxable year; or
+
+(B)  with respect to any portion of the underpayment, the date on which that portion is paid.
+
+(iii)  For purposes of this Subsection (4), a payment of estimated tax shall be credited against unpaid required installments in the order in which the installments are required to be paid.
+
+(5) (a)  Notwithstanding Subsection (2) and except as provided in Subsection (6), a person allowed by law an extension of time for filing a corporate franchise or income tax return under Chapter 7, Corporate Franchise and Income Taxes, or an individual income tax return under Chapter 10, Individual Income Tax Act, is subject to a penalty in the amount described in Subsection (5)(b) if, on or before the day on which the return is due as provided by law, not including the extension of time, the person fails to pay:
+
+(i)  for a person filing a corporate franchise or income tax return under Chapter 7, Corporate Franchise and Income Taxes, the payment required by Subsection 59-7-507(1)(b); or
+
+(ii)  for a person filing an individual income tax return under Chapter 10, Individual Income Tax Act, the payment required by Subsection 59-10-516(2).
+
+(b)  For purposes of Subsection (5)(a), the penalty per month during the period of the extension of time for filing the return is an amount equal to 2% of the tax due on the return, unpaid as of the day on which the return is due as provided by law.
+
+(6)  If a person does not file a return within an extension of time allowed by Section 59-7-505 or 59-10-516, the person:
+
+(a)  is not subject to a penalty in the amount described in Subsection (5)(b); and
+
+(b)  is subject to a penalty in an amount equal to the sum of:
+
+(i)  a late file penalty in an amount equal to the greater of:
+
+(A)  $20; or
+
+(B)  10% of the tax due on the return, unpaid as of the day on which the return is due as provided by law, not including the extension of time; and
+
+(ii)  a late pay penalty in an amount equal to the greater of:
+
+(A)  $20; or
+
+(B)  10% of the unpaid tax due on the return, unpaid as of the day on which the return is due as provided by law, not including the extension of time.
+
+(7) (a)  Additional penalties for an underpayment of a tax, fee, or charge are as provided in this Subsection (7)(a).
+
+(i)  Except as provided in Subsection (7)(c), if any portion of an underpayment of a tax, fee, or charge is due to negligence, the penalty is 10% of the portion of the underpayment that is due to negligence.
+
+(ii)  Except as provided in Subsection (7)(d), if any portion of an underpayment of a tax, fee, or charge is due to intentional disregard of law or rule, the penalty is 15% of the entire underpayment.
+
+(iii)  If any portion of an underpayment is due to an intent to evade a tax, fee, or charge, the penalty is the greater of $500 per period or 50% of the entire underpayment.
+
+(iv)  If any portion of an underpayment is due to fraud with intent to evade a tax, fee, or charge, the penalty is the greater of $500 per period or 100% of the entire underpayment.
+
+(b)  If the commission determines that a person is liable for a penalty imposed under Subsection (7)(a)(ii), (iii), or (iv), the commission shall notify the person of the proposed penalty.
+
+(i)  The notice of proposed penalty shall:
+
+(A)  set forth the basis of the assessment; and
+
+(B)  be mailed by certified mail, postage prepaid, to the person's last-known address.
+
+(ii)  Upon receipt of the notice of proposed penalty, the person against whom the penalty is proposed may:
+
+(A)  pay the amount of the proposed penalty at the place and time stated in the notice; or
+
+(B)  proceed in accordance with the review procedures of Subsection (7)(b)(iii).
+
+(iii)  A person against whom a penalty is proposed in accordance with this Subsection (7) may contest the proposed penalty by filing a petition for an adjudicative proceeding with the commission.
+
+(iv) (A)  If the commission determines that a person is liable for a penalty under this Subsection (7), the commission shall assess the penalty and give notice and demand for payment.
+
+(B)  The commission shall mail the notice and demand for payment described in Subsection (7)(b)(iv)(A):
+
+(I)  to the person's last-known address; and
+
+(II)  in accordance with Section 59-1-1404.
+
+(c)  A seller that voluntarily collects a tax under Subsection 59-12-107(2)(d) is not subject to the penalty under Subsection (7)(a)(i) if on or after July 1, 2001:
+
+(i)  a court of competent jurisdiction issues a final unappealable judgment or order determining that:
+
+(A)  the seller meets one or more of the criteria described in Subsection 59-12-107(2)(a) or is a seller required to pay or collect and remit sales and use taxes under Subsection 59-12-107(2)(b); and
+
+(B)  the commission or a county, city, or town may require the seller to collect a tax under Subsections 59-12-103(2)(a) through (d); or
+
+(ii)  the commission issues a final unappealable administrative order determining that:
+
+(A)  the seller meets one or more of the criteria described in Subsection 59-12-107(2)(a) or is a seller required to pay or collect and remit sales and use taxes under Subsection 59-12-107(2)(b); and
+
+(B)  the commission or a county, city, or town may require the seller to collect a tax under Subsections 59-12-103(2)(a) through (d).
+
+(d)  A seller that voluntarily collects a tax under Subsection 59-12-107(2)(d) is not subject to the penalty under Subsection (7)(a)(ii) if:
+
+(i) (A)  a court of competent jurisdiction issues a final unappealable judgment or order determining that:
+
+(I)  the seller meets one or more of the criteria described in Subsection 59-12-107(2)(a) or is a seller required to pay or collect and remit sales and use taxes under Subsection 59-12-107(2)(b); and
+
+(II)  the commission or a county, city, or town may require the seller to collect a tax under Subsections 59-12-103(2)(a) through (d); or
+
+(B)  the commission issues a final unappealable administrative order determining that:
+
+(I)  the seller meets one or more of the criteria described in Subsection 59-12-107(2)(a) or is a seller required to pay or collect and remit sales and use taxes under Subsection 59-12-107(2)(b); and
+
+(II)  the commission or a county, city, or town may require the seller to collect a tax under Subsections 59-12-103(2)(a) through (d); and
+
+(ii)  the seller's intentional disregard of law or rule is warranted by existing law or by a nonfrivolous argument for the extension, modification, or reversal of existing law or the establishment of new law.
+
+(8)  The penalty for failure to file an information return, information report, or a complete supporting schedule is $50 for each information return, information report, or supporting schedule up to a maximum of $1,000.
+
+(9)  If a person, in furtherance of a frivolous position, has a prima facie intent to delay or impede administration of a law relating to a tax, fee, or charge and files a purported return that fails to contain information from which the correctness of reported tax, fee, or charge liability can be determined or that clearly indicates that the tax, fee, or charge liability shown is substantially incorrect, the penalty is $500.
+
+(10) (a)  A seller that fails to remit a tax, fee, or charge monthly as required by Subsection 59-12-108(1)(a):
+
+(i)  is subject to a penalty described in Subsection (2); and
+
+(ii)  may not retain the percentage of sales and use taxes that would otherwise be allowable under Subsection 59-12-108(2).
+
+(b)  A seller that fails to remit a tax, fee, or charge by electronic funds transfer as required by Subsection 59-12-108(1)(a)(ii)(B):
+
+(i)  is subject to a penalty described in Subsection (2); and
+
+(ii)  may not retain the percentage of sales and use taxes that would otherwise be allowable under Subsection 59-12-108(2).
+
+(11) (a)  A person is subject to the penalty provided in Subsection (11)(c) if that person:
+
+(i)  commits an act described in Subsection (11)(b) with respect to one or more of the following documents:
+
+(A)  a return;
+
+(B)  an affidavit;
+
+(C)  a claim; or
+
+(D)  a document similar to Subsections (11)(a)(i)(A) through (C);
+
+(ii)  knows or has reason to believe that the document described in Subsection (11)(a)(i) will be used in connection with any material matter administered by the commission; and
+
+(iii)  knows that the document described in Subsection (11)(a)(i), if used in connection with any material matter administered by the commission, would result in an understatement of another person's liability for a tax, fee, or charge.
+
+(b)  The following acts apply to Subsection (11)(a)(i):
+
+(i)  preparing any portion of a document described in Subsection (11)(a)(i);
+
+(ii)  presenting any portion of a document described in Subsection (11)(a)(i);
+
+(iii)  procuring any portion of a document described in Subsection (11)(a)(i);
+
+(iv)  advising in the preparation or presentation of any portion of a document described in Subsection (11)(a)(i);
+
+(v)  aiding in the preparation or presentation of any portion of a document described in Subsection (11)(a)(i);
+
+(vi)  assisting in the preparation or presentation of any portion of a document described in Subsection (11)(a)(i); or
+
+(vii)  counseling in the preparation or presentation of any portion of a document described in Subsection (11)(a)(i).
+
+(c)  For purposes of Subsection (11)(a), the penalty:
+
+(i)  shall be imposed by the commission;
+
+(ii)  is $500 for each document described in Subsection (11)(a)(i) with respect to which the person described in Subsection (11)(a) meets the requirements of Subsection (11)(a); and
+
+(iii)  is in addition to any other penalty provided by law.
+
+(d)  The commission may seek a court order to enjoin a person from engaging in conduct that is subject to a penalty under this Subsection (11).
+
+(e)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules prescribing the documents that are similar to Subsections (11)(a)(i)(A) through (C).
+
+(12) (a)  As provided in Section 76-8-1101, criminal offenses and penalties are as provided in Subsections (12)(b) through (e).
+
+(b) (i)  A person who is required by this title or any laws the commission administers or regulates to register with or obtain a license or permit from the commission, who operates without having registered or secured a license or permit, or who operates when the registration, license, or permit is expired or not current, is guilty of a class B misdemeanor.
+
+(ii)  Notwithstanding Section 76-3-301, for purposes of Subsection (12)(b)(i), the penalty may not:
+
+(A)  be less than $500; or
+
+(B)  exceed $1,000.
+
+(c) (i)  A person who, with intent to evade a tax, fee, or charge or requirement of this title or any lawful requirement of the commission, fails to make, render, sign, or verify a return or to supply information within the time required by law, or who makes, renders, signs, or verifies a false or fraudulent return or statement, or who supplies false or fraudulent information, is guilty of a third degree felony.
+
+(ii)  Notwithstanding Section 76-3-301, for purposes of Subsection (12)(c)(i), the penalty may not:
+
+(A)  be less than $1,000; or
+
+(B)  exceed $5,000.
+
+(d) (i)  A person who intentionally or willfully attempts to evade or defeat a tax, fee, or charge or the payment of a tax, fee, or charge is, in addition to other penalties provided by law, guilty of a second degree felony.
+
+(ii)  Notwithstanding Section 76-3-301, for purposes of Subsection (12)(d)(i), the penalty may not:
+
+(A)  be less than $1,500; or
+
+(B)  exceed $25,000.
+
+(e) (i)  A person is guilty of a second degree felony if that person commits an act:
+
+(A)  described in Subsection (12)(e)(ii) with respect to one or more of the following documents:
+
+(I)  a return;
+
+(II)  an affidavit;
+
+(III)  a claim; or
+
+(IV)  a document similar to Subsections (12)(e)(i)(A)(I) through (III); and
+
+(B)  subject to Subsection (12)(e)(iii), with knowledge that the document described in Subsection (12)(e)(i)(A):
+
+(I)  is false or fraudulent as to any material matter; and
+
+(II)  could be used in connection with any material matter administered by the commission.
+
+(ii)  The following acts apply to Subsection (12)(e)(i):
+
+(A)  preparing any portion of a document described in Subsection (12)(e)(i)(A);
+
+(B)  presenting any portion of a document described in Subsection (12)(e)(i)(A);
+
+(C)  procuring any portion of a document described in Subsection (12)(e)(i)(A);
+
+(D)  advising in the preparation or presentation of any portion of a document described in Subsection (12)(e)(i)(A);
+
+(E)  aiding in the preparation or presentation of any portion of a document described in Subsection (12)(e)(i)(A);
+
+(F)  assisting in the preparation or presentation of any portion of a document described in Subsection (12)(e)(i)(A); or
+
+(G)  counseling in the preparation or presentation of any portion of a document described in Subsection (12)(e)(i)(A).
+
+(iii)  This Subsection (12)(e) applies:
+
+(A)  regardless of whether the person for which the document described in Subsection (12)(e)(i)(A) is prepared or presented:
+
+(I)  knew of the falsity of the document described in Subsection (12)(e)(i)(A); or
+
+(II)  consented to the falsity of the document described in Subsection (12)(e)(i)(A); and
+
+(B)  in addition to any other penalty provided by law.
+
+(iv)  Notwithstanding Section 76-3-301, for purposes of this Subsection (12)(e), the penalty may not:
+
+(A)  be less than $1,500; or
+
+(B)  exceed $25,000.
+
+(v)  The commission may seek a court order to enjoin a person from engaging in conduct that is subject to a penalty under this Subsection (12)(e).
+
+(vi)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules prescribing the documents that are similar to Subsections (12)(e)(i)(A)(I) through (III).
+
+(f)  The statute of limitations for prosecution for a violation of this Subsection (12) is the later of six years:
+
+(i)  from the date the tax should have been remitted; or
+
+(ii)  after the day on which the person commits the criminal offense.
+
+(13)  Upon making a record of its actions, and upon reasonable cause shown, the commission may waive, reduce, or compromise any of the penalties or interest imposed under this part.
+

@@ -1,0 +1,46 @@
+53-3-1007.   Ignition interlock system provider -- Notification to the division upon installation or removal of an ignition interlock system -- License suspension or revocation for failure to install or remove.
+
+(1)  An ignition interlock system provider who installs an ignition interlock system on a person's vehicle shall:
+
+(a)  provide proof of installation to the person; and
+
+(b)  electronically notify the division of installation of an ignition interlock system on the person's vehicle.
+
+(2)  A provider shall electronically notify the division if a person has removed an ignition interlock system from the person's vehicle.
+
+(3)  If an individual is an interlock restricted driver, the division shall:
+
+(a)  suspend the person's driving privilege for the duration of the restriction period as defined in Section 41-6a-518.2;
+
+(b)  notify the person of the suspension period in place and the requirements for reinstatement of the driving privilege with respect to the ignition interlock restriction suspension; and
+
+(c)  clear the suspension upon:
+
+(i)  receipt of payment of the fee or fees specified in Section 53-3-105; and
+
+(ii) (A)  receipt of electronic notification from an ignition interlock system provider showing proof of the installation of an ignition interlock system on the person's vehicle; or
+
+(B)  electronically verifying that the person does not have a vehicle registered in the person's name.
+
+(4)  By following the emergency procedures in Title 63G, Chapter 4, Administrative Procedures Act, the division shall suspend the license of any person without hearing and without receiving a record of the person's conviction of crime seven days after receiving electronic notification from a provider that a person has removed an ignition interlock system from the person's vehicle if the person is an interlock restricted driver until:
+
+(a)  the division:
+
+(i)  receives payment of the fee or fees specified in Section 53-3-105; and
+
+(ii) (A)  receives electronic notification from an ignition interlock system provider showing new proof of the installation of an ignition interlock system; or
+
+(B)  electronically verifies that the person does not have a vehicle registered in the person's name; or
+
+(b)  the person's interlock restricted period has expired.
+
+(5)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division shall make rules establishing:
+
+(a)  procedures for certification and regulation of ignition interlock system providers;
+
+(b)  acceptable documentation for proof of the installation of an ignition interlock device;
+
+(c)  procedures for an ignition interlock system provider to electronically notify the division; and
+
+(d)  policies and procedures for the administration of the ignition interlock system program created under this section.
+
