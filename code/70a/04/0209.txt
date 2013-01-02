@@ -1,0 +1,8 @@
+70A-4-209.   Encoding and retention warranties.
+
+(1)  A person who encodes information on or with respect to an item after issue warrants to any subsequent collecting bank and to the payor bank or other payor that the information is correctly encoded.  If the customer of a depositary bank encodes, that bank also makes the warranty.
+
+(2)  A person who undertakes to retain an item pursuant to an agreement for electronic presentment warrants to any subsequent collecting bank and to the payor bank or other payor that retention and presentment of the item comply with the agreement.  If a customer of a depositary bank undertakes to retain an item, that bank also makes this warranty.
+
+(3)  A person to whom warranties are made under this section and who took the item in good faith may recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a result of the breach, plus expenses and loss of interest incurred as a result of the breach.
+

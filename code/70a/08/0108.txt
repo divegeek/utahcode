@@ -1,0 +1,12 @@
+70A-8-108.   Warranties in indirect holding.
+
+(1)  A person who originates an entitlement order to a securities intermediary warrants to the securities intermediary that:
+
+(a)  the entitlement order is made by an appropriate person, or if the entitlement order is by an agent, the agent has actual authority to act on behalf of the appropriate person; and
+
+(b)  there is no adverse claim to the security entitlement.
+
+(2)  A person who delivers a security certificate to a securities intermediary for credit to a securities account or originates an instruction with respect to an uncertificated security directing that the uncertificated security be credited to a securities account makes to the securities intermediary the warranties specified in Subsection 70A-8-107(1) or (2).
+
+(3)  If a securities intermediary delivers a security certificate to its entitlement holder or causes its entitlement holder to be registered as the owner of an uncertificated security, the securities intermediary makes to the entitlement holder the warranties specified in Subsection 70A-8-107(1) or (2).
+

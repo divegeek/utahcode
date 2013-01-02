@@ -1,0 +1,126 @@
+59-1-402.   Definitions -- Interest.
+
+(1)  As used in this section:
+
+(a)  "Final judicial decision" means a final ruling by a court of this state or the United States for which the time for any further review or proceeding has expired.
+
+(b)  "Retroactive application of a judicial decision" means the application of a final judicial decision that:
+
+(i)  invalidates a state or federal taxation statute; and
+
+(ii)  requires the state to provide a refund for an overpayment that was made:
+
+(A)  prior to the final judicial decision; or
+
+(B)  during the 180-day period after the final judicial decision.
+
+(c) (i)  Except as provided in Subsection (1)(c)(ii), "tax, fee, or charge" means:
+
+(A)  a tax, fee, or charge the commission administers under:
+
+(I)  this title;
+
+(II)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+
+(III)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act;
+
+(IV)  Section 19-6-410.5;
+
+(V)  Section 19-6-714;
+
+(VI)  Section 19-6-805;
+
+(VII)  Section 32B-2-304;
+
+(VIII)  Section 34A-2-202;
+
+(IX)  Section 40-6-14;
+
+(X)  Section 69-2-5;
+
+(XI)  Section 69-2-5.5; or
+
+(XII)  Section 69-2-5.6; or
+
+(B)  another amount that by statute is subject to interest imposed under this section.
+
+(ii)  "Tax, fee, or charge" does not include a tax, fee, or charge imposed under:
+
+(A)  Title 41, Chapter 1a, Motor Vehicle Act, except for Section 41-1a-301;
+
+(B)  Title 41, Chapter 3, Motor Vehicle Business Regulation Act;
+
+(C)  Chapter 2, Property Tax Act, except for Section 59-2-1309;
+
+(D)  Chapter 3, Tax Equivalent Property Act;
+
+(E)  Chapter 4, Privilege Tax; or
+
+(F)  Chapter 13, Part 5, Interstate Agreements.
+
+(2)  Except as otherwise provided for by law, the interest rate for a calendar year for a tax, fee, or charge administered by the commission shall be calculated based on the federal short-term rate determined by the Secretary of the Treasury under Section 6621, Internal Revenue Code, in effect for the preceding fourth calendar quarter.
+
+(3)  The interest rate calculation shall be as follows:
+
+(a)  except as provided in Subsection (7), in the case of an overpayment or refund, simple interest shall be calculated at the rate of two percentage points above the federal short-term rate; or
+
+(b)  in the case of an underpayment, deficiency, or delinquency, simple interest shall be calculated at the rate of two percentage points above the federal short-term rate.
+
+(4)  Notwithstanding Subsection (2) or (3), the interest rate applicable to certain installment sales for purposes of a tax under Chapter 7, Corporate Franchise and Income Taxes, shall be determined in accordance with Section 453A, Internal Revenue Code, as provided in Section 59-7-112.
+
+(5) (a)  Except as provided in Subsection (5)(c), interest may not be allowed on an overpayment of a tax, fee, or charge if the overpayment of the tax, fee, or charge is refunded within:
+
+(i)  45 days after the last date prescribed for filing the return with respect to a tax under Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act, if the return is filed electronically; or
+
+(ii)  90 days after the last date prescribed for filing the return:
+
+(A)  with respect to a tax, fee, or charge, except for a tax under Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act; or
+
+(B)  if the return is not filed electronically.
+
+(b)  Except as provided in Subsection (5)(c), if the return is filed after the last date prescribed for filing the return, interest may not be allowed on the overpayment if the overpayment is refunded within:
+
+(i)  45 days after the date the return is filed:
+
+(A)  with respect to a tax under Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act; and
+
+(B)  if the return is filed electronically; or
+
+(ii)  90 days after the date the return is filed:
+
+(A)  with respect to a tax, fee, or charge, except for a tax under Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act; or
+
+(B)  if the return is not filed electronically.
+
+(c) (i)  In the case of an amended return, interest on an overpayment shall be allowed:
+
+(A)  for a time period:
+
+(I)  that begins on the later of:
+
+(Aa)  the date the original return was filed; or
+
+(Bb)  the due date for filing the original return not including any extensions for filing the original return; and
+
+(II)  that ends on the date the commission receives the amended return; and
+
+(B)  if the commission does not make a refund of an overpayment under this Subsection (5)(c):
+
+(I)  if the amended return is with respect to a tax under Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act, and is filed electronically, within a 45-day period after the date the commission receives the amended return, for a time period:
+
+(Aa)  that begins 46 days after the commission receives the amended return; and
+
+(Bb)  subject to Subsection (5)(c)(ii), that ends on the date that the commission completes processing the refund of the overpayment; or
+
+(II)  if the amended return is with respect to a tax, fee, or charge except for a tax under Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act, or is not filed electronically, within a 90-day period after the date the commission receives the amended return, for a time period:
+
+(Aa)  that begins 91 days after the commission receives the amended return; and
+
+(Bb)  subject to Subsection (5)(c)(ii), that ends on the date that the commission completes processing the refund of the overpayment.
+
+(ii)  For purposes of Subsection (5)(c)(i)(B)(I)(Bb) or (5)(c)(i)(B)(II)(Bb), interest shall be calculated forward from the preparation date of the refund document to allow for processing.
+
+(6)  Interest on any underpayment, deficiency, or delinquency of a tax, fee, or charge shall be computed from the time the original return is due, excluding any filing or payment extensions, to the date the payment is received.
+
+(7)  Interest on a refund relating to a tax, fee, or charge may not be paid on any overpayment that arises from a statute that is determined to be invalid under state or federal law or declared unconstitutional under the constitution of the United States or Utah if the basis for the refund is the retroactive application of a judicial decision upholding the claim of unconstitutionality or the invalidation of a statute.
+
