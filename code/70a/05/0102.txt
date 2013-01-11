@@ -1,0 +1,48 @@
+70A-5-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Adviser" means a person who, at the request of the issuer, a confirmer, or another adviser, notifies or requests another adviser to notify the beneficiary that a letter of credit has been issued, confirmed, or amended.
+
+(2)  "Applicant" means a person at whose request or for whose account a letter of credit is issued.  The term includes a person who requests an issuer to issue a letter of credit on behalf of another if the person making the request undertakes an obligation to reimburse the issuer.
+
+(3)  "Beneficiary" means a person who under the terms of a letter of credit is entitled to have its complying presentation honored.  The term includes a person to whom drawing rights have been transferred under a transferable letter of credit.
+
+(4)  "Confirmer" means a nominated person who undertakes, at the request or with the consent of the issuer, to honor a presentation under a letter of credit issued by another.
+
+(5)  "Dishonor" of a letter of credit means failure timely to honor or to take an interim action, such as acceptance of a draft, that may be required by the letter of credit.
+
+(6)  "Document" means a draft or other demand, document of title, investment security, certificate, invoice, or other record, statement, or representation of fact, law, right, or opinion:
+
+(a)  which is presented in a written or other medium permitted by the letter of credit or, unless prohibited by the letter of credit, by the standard practice referred to in Subsection 70A-5-108(5); and
+
+(b)  which is capable of being examined for compliance with the terms and conditions of the letter of credit.  A document may not be oral.
+
+(7)  "Good faith" means honesty in fact in the conduct or transaction concerned.
+
+(8)  "Honor" of a letter of credit means performance of the issuer's undertaking in the letter of credit to pay or deliver an item of value.  Unless the letter of credit otherwise provides, "honor" occurs:
+
+(a)  upon payment;
+
+(b)  if the letter of credit provides for acceptance, upon acceptance of a draft and, at maturity, its payment; or
+
+(c)  if the letter of credit provides for incurring a deferred obligation, upon incurring the obligation and, at maturity, its performance.
+
+(9)  "Issuer" means a bank or other person that issues a letter of credit, but does not include an individual who makes an engagement for personal, family, or household purposes.
+
+(10)  "Letter of credit" means a definite undertaking that satisfies the requirements of Section 70A-5-104 by an issuer to a beneficiary at the request or for the account of an applicant or, in the case of a financial institution, to itself or for its own account, to honor a documentary presentation by payment or delivery of an item of value.
+
+(11)  "Nominated person" means a person whom the issuer:
+
+(a) designates or authorizes to pay, accept, negotiate, or otherwise give value under a letter of credit; and
+
+(b) undertakes by agreement or custom and practice to reimburse.
+
+(12)  "Presentation" means delivery of a document to an issuer or nominated person for honor or giving of value under a letter of credit.
+
+(13)  "Presenter" means a person making a presentation as or on behalf of a beneficiary or nominated person.
+
+(14)  "Record" means information that is inscribed on a tangible medium, or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+(15)  "Successor of a beneficiary" means a person who succeeds to substantially all of the rights of a beneficiary by operation of law, including a corporation with or into which the beneficiary has been merged or consolidated, an administrator, executor, personal representative, trustee in bankruptcy, debtor in possession, liquidator, and receiver.
+

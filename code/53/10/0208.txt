@@ -1,0 +1,34 @@
+53-10-208.   Definition -- Offenses included on statewide warrant system -- Transportation fee to be included -- Statewide warrant system responsibility -- Quality control -- Training -- Technical support -- Transaction costs.
+
+(1)  "Statewide warrant system" means the portion of the state court computer system that is accessible by modem from the state mainframe computer and contains:
+
+(a)  records of criminal warrant information; and
+
+(b)  after notice and hearing, records of protective orders issued pursuant to:
+
+(i)  Title 77, Chapter 36, Cohabitant Abuse Procedures Act; or
+
+(ii)  Title 78B, Chapter 7, Part 1, Cohabitant Abuse Act.
+
+(2) (a)  The division shall include on the statewide warrant system all warrants issued for felony offenses and class A, B, and C misdemeanor offenses in the state.
+
+(b)  The division shall include on the statewide warrant system all warrants issued for failure to appear on a traffic citation as ordered by a magistrate under Subsection 77-7-19(3).
+
+(c)  For each warrant, the division shall indicate whether the magistrate ordered under Section 77-7-5 and Rule 6, Utah Rules of Criminal Procedure, that the accused appear in court.
+
+(3)  The division is the agency responsible for the statewide warrant system and shall:
+
+(a)  ensure quality control of all warrants of arrest or commitment and protective orders contained in the statewide warrant system by conducting regular validation checks with every clerk of a court responsible for entering the information on the system;
+
+(b)  upon the expiration of the protective orders and in the manner prescribed by the division, purge information regarding protective orders described in Subsection 53-10-208.1(4) within 30 days of the time after expiration;
+
+(c)  establish system procedures and provide training to all criminal justice agencies having access to information contained on the state warrant system;
+
+(d)  provide technical support, program development, and systems maintenance for the operation of the system; and
+
+(e)  pay data processing and transaction costs for state, county, and city law enforcement agencies and criminal justice agencies having access to information contained on the state warrant system.
+
+(4) (a)  Any data processing or transaction costs not funded by legislative appropriation shall be paid on a pro rata basis by all agencies using the system during the fiscal year.
+
+(b)  This Subsection (4) supersedes any conflicting provision in Subsection (3)(e).
+

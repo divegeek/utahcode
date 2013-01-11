@@ -1,0 +1,14 @@
+54-15-104.   Charges or credits for net electricity.
+
+(1)  Each electrical corporation with a customer participating in a net metering program shall measure net electricity during each monthly billing period, in accordance with normal metering practices.
+
+(2)  If net metering does not result in excess customer-generated electricity during the monthly billing period, the electrical corporation shall bill the customer for the net electricity, in accordance with normal billing practices.
+
+(3)  If net metering results in excess customer-generated electricity during the monthly billing period:
+
+(a) (i)  the electrical corporation shall credit the customer for the excess customer-generated electricity based on the meter reading for the billing period at a value that is at least avoided cost, or as determined by the governing authority; and
+
+(ii)  all credits that the customer does not use during the annualized billing period expire at the end of the annualized billing period; and
+
+(b)  as authorized by the governing authority, the electrical corporation may bill the customer for customer charges that otherwise would have accrued during that billing period in the absence of excess customer-generated electricity.
+

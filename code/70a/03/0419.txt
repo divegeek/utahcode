@@ -1,0 +1,12 @@
+70A-3-419.   Instruments signed for accommodation.
+
+(1)  If an instrument is issued for value given for the benefit of a party to the instrument, the "accommodated party," and another party to the instrument, the "accommodation party," signs the instrument for the purpose of incurring liability on the instrument without being a direct beneficiary of the value given for the instrument, the instrument is signed by the accommodation party "for accommodation."
+
+(2)  An accommodation party may sign the instrument as maker, drawer, acceptor, or indorser and, subject to Subsection (4), is obliged to pay the instrument in the capacity in which the accommodation party signs. The obligation of an accommodation party may be enforced notwithstanding any statute of frauds and whether or not the accommodation party receives consideration for the accommodation.
+
+(3)  A person signing an instrument is presumed to be an accommodation party and there is notice that the instrument is signed for accommodation if the signature is an anomalous indorsement or is accompanied by words indicating that the signer is acting as surety or guarantor with respect to the obligation of another party to the instrument.  Except as provided in Section 70A-3-605, the obligation of an accommodation party to pay the instrument is not affected by the fact that the person enforcing the obligation had notice when the instrument was taken by that person that the accommodation party signed the instrument for accommodation.
+
+(4)  If the signature of a party to an instrument is accompanied by words indicating unambiguously that the party is guaranteeing collection rather than payment of the obligation of another party to the instrument, the signer is obliged to pay the amount due on the instrument to a person entitled to enforce the instrument only if execution of judgment against the other party has been returned unsatisfied, the other party is insolvent or in an insolvency proceeding, the other party cannot be served with process, or it is otherwise apparent that payment cannot be obtained from the other party.
+
+(5)  An accommodation party who pays the instrument is entitled to reimbursement from the accommodated party and is entitled to enforce the instrument against the accommodated party. An accommodated party who pays the instrument has no right of recourse against, and is not entitled to contribution from, an accommodation party.
+

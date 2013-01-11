@@ -1,0 +1,100 @@
+53B-17-102.   Utah Education Network.
+
+(1) (a)  As used in this part, "Utah Education Network" and "UEN" mean a consortium and partnership between public and higher education established to:
+
+(i)  coordinate and support the telecommunications needs of public and higher education, public libraries, and entities affiliated with the state systems of public and higher education as approved by the Utah Education Network Board, including the statewide development and implementation of a network for education, utilizing satellite, microwave, fiber-optic, broadcast, and other transmission media;
+
+(ii)  coordinate the various telecommunications technology initiatives of public and higher education;
+
+(iii)  provide high-quality, cost-effective Internet access and appropriate interface equipment for schools and school systems;
+
+(iv)  procure, install, and maintain telecommunication services and equipment on behalf of public and higher education;
+
+(v)  develop or implement other programs or services for the delivery of distance learning as directed by law; and
+
+(vi)  apply for state and federal funding on behalf of public and higher education.
+
+(b)  In performing the duties under this Subsection (1), UEN shall:
+
+(i)  provide services to schools, school districts, and the public and higher education systems through an open and competitive bidding process;
+
+(ii)  work with the private sector to deliver high-quality, cost-effective services;
+
+(iii)  avoid duplicating facilities, equipment or services of private providers of public telecommunications service, as defined under Section 54-8b-2;
+
+(iv)  utilize statewide economic development criteria in the design and implementation of the educational telecommunications infrastructure; and
+
+(v)  assure that public service entities such as educators, public service providers, and public broadcasters are provided access to the telecommunications infrastructure developed in the state.
+
+(2)  The University of Utah shall provide administrative management for UEN.
+
+(3) (a)  The Utah Education Network Board, which is the governing board for UEN, is created.
+
+(b)  The Utah Education Network Board shall be appointed as follows:
+
+(i) (A)  The State Board of Education shall appoint four members to represent the state system of public education.
+
+(B)  In selecting members to represent the state system of public education, the State Board of Education shall select members from different regions of the state and both urban and rural areas.
+
+(ii) (A)  The commissioner of higher education shall appoint four members to represent the state system of higher education.
+
+(B)  In selecting members to represent the state system of higher education, the commissioner of higher education shall select members from different regions of the state and both urban and rural areas.
+
+(iii)  The president of the Utah College of Applied Technology shall appoint one member to represent the Utah College of Applied Technology.
+
+(iv)  The governor shall appoint:
+
+(A)  one member to represent the state library; and
+
+(B)  one member to represent the Office of the Governor.
+
+(c)  Except as required by Subsection (3)(d), members shall be appointed to four-year terms.
+
+(d)  The governor, State Board of Education, and commissioner of higher education shall, at the time of appointment or reappointment, adjust the length of terms to ensure that the terms of Utah Education Network Board members are staggered so that approximately half of the Utah Education Network Board is appointed every two years.
+
+(e)  When a vacancy occurs in the membership for any reason, the replacement shall be appointed for the unexpired term.
+
+(f) (i)  The Utah Education Network Board shall elect:
+
+(A)  a cochair from the members representing the state system of public education; and
+
+(B)  a cochair from the members representing the state system of higher education.
+
+(ii)  The cochairs shall set the agenda for Utah Education Network Board meetings.
+
+(4)  A member of the Utah Education Network Board may not receive compensation or benefits for the member's service, but may receive per diem and travel expenses in accordance with:
+
+(a)  Section 63A-3-106;
+
+(b)  Section 63A-3-107; and
+
+(c)  rules made by the Division of Finance pursuant to Sections 63A-3-106 and 63A-3-107.
+
+(5)  The Utah Education Network Board shall:
+
+(a)  hire an executive director for UEN, and may terminate the executive director's employment or assignment;
+
+(b)  determine the executive director's salary;
+
+(c)  annually conduct a performance evaluation of the executive director;
+
+(d)  establish policies the Utah Education Network Board determines are necessary for the operation of UEN and the administration of UEN's duties;
+
+(e)  advise UEN in:
+
+(i)  the development and operation of a coordinated, statewide, multi-option telecommunications system to assist in the delivery of educational services throughout the state; and
+
+(ii)  acquiring, producing, and distributing instructional content; and
+
+(f)  establish an advisory council to assist the Utah Education Network Board in performing its responsibilities under Subsection (5)(e).
+
+(6)  The executive director of UEN shall be an at-will employee.
+
+(7)  UEN shall locate and maintain educational telecommunication infrastructure throughout the state.
+
+(8)  Educational institutions shall manage site operations under policy established by UEN.
+
+(9)  Subject to future budget constraints, the Legislature shall provide an annual appropriation to operate UEN.
+
+(10)  If the network operated by the Department of Technology Services is not available, UEN may provide network connections to the central administration of counties and municipalities for the sole purpose of transferring data to a secure facility for backup and disaster recovery.
+

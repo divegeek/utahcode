@@ -1,0 +1,70 @@
+61-1-22.   Sales and purchases in violation -- Remedies -- Limitation of actions.
+
+(1) (a)  This Subsection (1) applies to a person who:
+
+(i)  offers or sells a security in violation of:
+
+(A)  Subsection 61-1-3(1);
+
+(B)  Section 61-1-7;
+
+(C)  Subsection 61-1-17(2);
+
+(D)  a rule or order under Section 61-1-15, which requires the affirmative approval of sales literature before it is used; or
+
+(E)  a condition imposed under Subsection 61-1-10(4) or 61-1-11(7); or
+
+(ii)  offers, sells, or purchases a security in violation of Subsection 61-1-1(2).
+
+(b)  A person described in Subsection (1)(a) is liable to a person selling the security to or buying the security from the person described in Subsection (1)(a).  The person to whom the person described in Subsection (1)(a) is liable may sue either at law or in equity to recover the consideration paid for the security, together with interest at 12% per year from the date of payment, costs, and reasonable attorney fees, less the amount of income received on the security, upon the tender of the security or for damages if the person no longer owns the security.
+
+(c)  Damages are an amount calculated as follows:
+
+(i)  subtract from the amount that would be recoverable upon a tender under Subsection (7)(b) the value of the security when the buyer disposed of the security; and
+
+(ii)  add to the amount calculated under Subsection (1)(c)(i) interest at:
+
+(A)  12% per year:
+
+(I)  beginning the day on which the security is purchased by the buyer; and
+
+(II)  ending on the date of disposition; and
+
+(B)  after the period described in Subsection (1)(c)(ii)(A), 12% per year on the amount lost at disposition.
+
+(2)  The court in a suit brought under Subsection (1) may award an amount equal to three times the consideration paid for the security, together with interest, costs, and attorney fees, less any amounts, all as specified in Subsection (1) upon a showing that:
+
+(a)  the violation was reckless or intentional; or
+
+(b)  the violation was of Subsection 61-1-1(2), was negligent, and it is demonstrated by clear and convincing evidence that the violation involved an investment by a person over whom the violator exercised undue influence.
+
+(3)  A person who offers or sells a security in violation of Subsection 61-1-1(2) is not liable under Subsection (1)(a) if the purchaser knew of the untruth or omission, or the seller did not know and in the exercise of reasonable care could not have known of the untrue statement or misleading omission.
+
+(4) (a)  Every person who directly or indirectly controls a seller or buyer liable under Subsection (1), every partner, officer, or director of such a seller or buyer, every person occupying a similar status or performing similar functions, every employee of such a seller or buyer who materially aids in the sale or purchase, and every broker-dealer or agent who materially aids in the sale or purchase are also liable jointly and severally with and to the same extent as the seller or purchaser, unless the nonseller or nonpurchaser who is so liable sustains the burden of proof that the nonseller or nonpurchaser did not know, and in exercise of reasonable care could not have known, of the existence of the facts by reason of which the liability is alleged to exist.
+
+(b)  There is contribution as in cases of contract among the several persons so liable.
+
+(5)  A tender specified in this section may be made at any time before entry of judgment.
+
+(6)  A cause of action under this section survives the death of a person who might have been a plaintiff or defendant.
+
+(7) (a)  An action may not be maintained to enforce liability under this section unless brought before the earlier of:
+
+(i)  the expiration of five years after the act or transaction constituting the violation; or
+
+(ii)  the expiration of two years after the discovery by the plaintiff of the facts constituting the violation.
+
+(b)  A person may not sue under this section if:
+
+(i)  the buyer or seller received a written offer, before suit and at a time when the buyer or seller owned the security, to refund the consideration paid together with interest at 12% per year from the date of payment, less the amount of any income received on the security, and the buyer or seller failed to accept the offer within 30 days of its receipt; or
+
+(ii)  the buyer or seller received such an offer before suit and at a time when the buyer or seller did not own the security, unless the buyer or seller rejected the offer in writing within 30 days of its receipt.
+
+(8)  A person who has made or engaged in the performance of any contract in violation of this chapter or any rule or order issued under this chapter, or who has acquired a purported right under any such contract with knowledge of the facts by reason of which its making or performance was in violation, may not base a suit on the contract.
+
+(9)  A condition, stipulation, or provision binding a person acquiring a security to waive compliance with this chapter or a rule or order issued under this chapter is void.
+
+(10) (a)  The rights and remedies provided by this chapter are in addition to any other rights or remedies that may exist at law or in equity.
+
+(b)  This chapter does not create a cause of action not specified in this section or Subsection 61-1-4(6).
+
