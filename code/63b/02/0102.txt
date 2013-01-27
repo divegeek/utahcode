@@ -8,67 +8,205 @@
 
 (c)  For the division, proceeds shall be provided for the following:
 
+ 
+
 CAPITAL IMPROVEMENTS
 
-1	Alterations, Repairs, and Improvements	$8,413,900
 
-TOTAL IMPROVEMENTS					$8,413,900
+
+
+
+1
+
+Alterations, Repairs, and Improvements
+
+$8,413,900
+
+
+
+TOTAL IMPROVEMENTS
+
+$8,413,900
+
+
 
 CAPITAL FACILITIES CONSTRUCTION
 
-      ESTIMATED
 
-     OPERATIONS
 
-AND
 
-PROJECT		PROJECT				AMOUNT	   MAINTENANCE
 
-PRIORITY		DESCRIPTION			FUNDED		COSTS
 
-1	Corrections - Northern Utah				  $2,729,700		$158,000
+
+
+
+PROJECT PRIORITY
+
+
+
+
+
+
+
+PROJECT
+
+DESCRIPTION
+
+
+
+
+
+
+
+AMOUNT
+
+FUNDED
+
+ESTIMATED OPERATIONS AND MAINTENANCE COSTS
+
+
+
+1
+
+Corrections - Northern Utah
 
 Community Corrections Center Phase II
 
-2	University of Utah					$10,200,000		$881,600
+$2,729,700
+
+$158,000
+
+
+
+2
+
+University of Utah
 
 Marriot Library Phase II
 
-3	Ogden Courts Building Phase II			$12,096,000		$340,000
+$10,200,000
 
-4	Utah National Guard -				     $397,800		  $70,500
+$881,600
 
-Southeast Utah Armory Phase II
 
-5	Southern Utah University				 $7,004,400		$427,000
+
+3
+
+Ogden Courts Building Phase II
+
+$12,096,000
+
+$340,000
+
+
+
+4
+
+Utah National Guard - Southeast Utah Armory Phase II
+
+$397,800
+
+$70,500
+
+
+
+5
+
+Southern Utah University
 
 Library Phase II
 
-6	Utah Valley Special Events				$11,845,300		$536,900
+$7,004,400
+
+$427,000
+
+
+
+6
+
+Utah Valley Special Events
 
 Center Phase II
 
-7	Salt Lake Community College			  $1,300,000		          $0
+$11,845,300
 
-- Land
+$536,900
 
-8	Tax Commission Building				$14,224,000		$812,000
 
-9	Dixie College Business Building			  $2,823,300		$187,800
 
-10	Salt Lake Community College			  $4,009,500		$257,600
+7
+
+Salt Lake Community College - Land
+
+$1,300,000
+
+$0
+
+
+
+8
+
+Tax Commission Building
+
+$14,224,000
+
+$812,000
+
+
+
+9
+
+Dixie College Business Building
+
+$2,823,300
+
+$187,800
+
+
+
+10
+
+Salt Lake Community College
 
 South City 3rd Floor and Boiler
 
-11	Public Education -					  $3,456,100		$124,800
+$4,009,500
+
+$257,600
+
+
+
+11
+
+Public Education -
 
 Deaf and Blind Classrooms
 
-TOTAL CONSTRUCTION				$70,086,100
+$3,456,100
 
-TOTAL IMPROVEMENTS AND			$78,500,000
+$124,800
+
+
+
+
+
+TOTAL CONSTRUCTION
+
+$70,086,100
+
+
+
+
+
+
+
+TOTAL IMPROVEMENTS AND
 
 CONSTRUCTION
+
+$78,500,000
+
+
 
 (d)  For purposes of this section, operations and maintenance costs:
 
@@ -99,4 +237,8 @@ CONSTRUCTION
 (c)  Those contracts shall contain a provision for termination of the contract for the convenience of the state as required by Section 63G-6-601.
 
 (d)  It is also the intent of the Legislature that this authorization to the division does not bind future Legislatures to fund projects initiated from this authorization.
+
+
+
+Amended by Chapter 382, 2008 General Session
 

@@ -1,4 +1,4 @@
-41-1a-422 (Superseded 10/01/12).   Support special group license plates -- Contributor -- Voluntary contribution collection procedures.
+41-1a-422.   Support special group license plates -- Contributor -- Voluntary contribution collection procedures.
 
 (1)  As used in this section:
 
@@ -40,9 +40,11 @@
 
 (R)  Humanitarian Service and Educational and Cultural Exchange Restricted Account created in Section 9-17-102 to support humanitarian service and educational and cultural programs;
 
-(S)  Prostate Cancer Support Restricted Account created in Section 26-21a-303 for programs that conduct or support prostate cancer awareness, screening, detection, or prevention; or
+(S)  Prostate Cancer Support Restricted Account created in Section 26-21a-303 for programs that conduct or support prostate cancer awareness, screening, detection, or prevention; 
 
-(T)  the Choose Life Adoption Support Restricted Account created in Section 62A-4a-608 to support programs that promote adoption.
+(T)  the Choose Life Adoption Support Restricted Account created in Section 62A-4a-608 to support programs that promote adoption; or
+
+(U)  the Martin Luther King, Jr. Civil Rights Support Restricted Account created in Section 9-18-102.
 
 (ii) (A)  For a veterans' special group license plate, "contributor" means a person who has donated or in whose name at least a $25 donation at the time of application and $10 annual donation thereafter has been made.
 
@@ -61,6 +63,8 @@
 (II)  is a currently employed, volunteer, or retired firefighter.
 
 (E)  For a cancer research special group license plate, "contributor" means a person who has donated or in whose name at least $35 has been donated at the time of application and annually after the time of application.
+
+(F)  For a Martin Luther King, Jr. Civil Rights Support special group license plate, "contributor" means a person who has donated or in whose name at least $35 has been donated at the time of application and annually thereafter.
 
 (b)  "Institution" means a state institution of higher education as defined under Section 53B-3-102 or a private institution of higher education in the state accredited by a regional or national accrediting agency recognized by the United States Department of Education.
 
@@ -107,4 +111,8 @@
 (ii)  conservation license plates.
 
 (4)  Veterans' license plates shall display one of the symbols representing the Army, Navy, Air Force, Marines, Coast Guard, or American Legion.
+
+
+
+Amended by Chapter 332, 2012 General Session
 

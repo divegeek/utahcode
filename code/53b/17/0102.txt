@@ -98,3 +98,7 @@
 
 (10)  If the network operated by the Department of Technology Services is not available, UEN may provide network connections to the central administration of counties and municipalities for the sole purpose of transferring data to a secure facility for backup and disaster recovery.
 
+
+
+Amended by Chapter 16, 2012 General Session
+

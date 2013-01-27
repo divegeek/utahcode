@@ -8,59 +8,133 @@
 
 (c)  For the division, proceeds shall be provided for the following:
 
--------------------------------------------------------------------------------------------------------------------
+ 
 
 CAPITAL DEVELOPMENT PROJECTS
 
-Estimated		
+ 
 
-Operations		Project
 
-Project				and			Amount
 
-Description				Maintenance		Funded
 
-----------------------------          		-----------------             ----------------
 
-State Capitol Remodel		$0			$50,000,000
+Project
+
+Description
+
+Estimated
+
+Operations
+
+and
+
+Maintenance
+
+
+
+Project
+
+Amount
+
+Funded
+
+ 
+
+State Capitol Remodel
+
+$0
+
+$50,000,000
+
+ 
 
 Weber State University -
 
-   Swenson Building Remodel	$75,400		$5,569,000
+Swenson Building Remodel
+
+
+
+$75,400
+
+
+
+$5,569,000
+
+ 
 
 Salt Lake Community College -
 
-   Health Sciences Building
+Health Sciences Building
 
-   (West Jordan)			$762,000		$21,000,000
+(West Jordan)
+
+
+
+
+
+$762,000
+
+
+
+
+
+$21,000,000
+
+ 
 
 Utah National Guard -
 
-  North Salt Lake
+North Salt Lake
 
-  Readiness Center			$42,500		$2,719,000
+Readiness Center
+
+
+
+
+
+$42,500
+
+
+
+
+
+$2,719,000
+
+ 
 
 College of Eastern Utah
 
-  San Juan Library			$127,200		$2,400,000
+San Juan Library
 
 
 
 
 
-TOTAL CAPITAL
+$127,200
 
-DEVELOPMENT
 
-PROJECTS								$86,488,000		
 
--------------------------------------------------------------------------------------------------------------------
 
-TOTAL GENERAL OBLIGATION BOND AUTHORIZATION
 
-FOR CAPITAL DEVELOPMENT PROJECTS				          $86,488,000
+$2,400,000
 
--------------------------------------------------------------------------------------------------------------------
+ 
+
+TOTAL CAPITAL DEVELOPMENT PROJECTS
+
+
+
+$86,488,000
+
+
+
+ 
+
+TOTAL GENERAL OBLIGATION BOND AUTHORIZATION FOR CAPITAL DEVELOPMENT PROJECTS
+
+
+
+$86,488,000
 
 (d)  For purposes of this section, operations and maintenance costs:
 
@@ -95,4 +169,8 @@ FOR CAPITAL DEVELOPMENT PROJECTS				          $86,488,000
 (b)  no state funds may be expended for the National Guard North Salt Lake Readiness Center project until the United States Congress appropriates money for the project; and
 
 (c)  the Bonding Commission may not issue bonds for the National Guard North Salt Lake Readiness Center project until the United States Congress appropriates money for the project.
+
+
+
+Amended by Chapter 154, 2005 General Session
 

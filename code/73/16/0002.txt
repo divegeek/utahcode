@@ -208,31 +208,121 @@ C.  In addition to the rights defined in Article VI, Paragraphs A and B, Idaho, 
 
 D.  The waters of Bear Lake below elevation 5,912.91 feet, Utah Power and Light Company Bear Lake datum (the equivalent of elevation 5,915.66 feet based on the sea level datum of 1929 through the Pacific Northwest Supplementary Adjustment of 1947) shall constitute a reserve for irrigation. The water of such reserve shall not be released solely for the generation of power, except in emergency, but after release for irrigation it may be used in generating power if not inconsistent with its use for irrigation. Any water in Bear Lake in excess of that constituting the irrigation reserve may be used for the generation of power or for other beneficial uses. As new reservoir capacity above the Stewart Dam is constructed to provide additional storage pursuant to Paragraph A of this Article, the Commission shall make a finding in writing as to the quantity of additional storage and shall thereupon make an order increasing the irrigation reserve in accordance with the following table:
 
- Lake surface elevation
+ 
 
-   Utah Power & Light
 
-  Additional Storage						Company
 
-         Acre-feet					      Bear Lake datum
 
-__________________				____________________
 
-  5,000							5,913.24
 
-10,000							5,913.56
 
-15,000					5,913.87
+Additional Storage
 
-20,000					5,914.15
+Acre-feet
 
-25,000					5,914.41
+Lake surface elevation
 
-30,000					5,914.61
+Utah Power & Light
 
-35,500					5,914.69
+Company
 
-36,500					5,914.70
+Bear Lake datum
+
+ 
+
+
+
+5,000
+
+
+
+5,913.24
+
+
+
+ 
+
+
+
+10,000
+
+
+
+5,913.56
+
+
+
+ 
+
+
+
+15,000
+
+
+
+5,913.87
+
+
+
+ 
+
+
+
+20,000
+
+
+
+5,914.15
+
+
+
+ 
+
+
+
+25,000
+
+
+
+5,914.41
+
+
+
+ 
+
+
+
+30,000
+
+
+
+5,914.61
+
+
+
+ 
+
+
+
+35,500
+
+
+
+5,914.69
+
+
+
+ 
+
+
+
+36,500
+
+
+
+5,914.70
+
+
 
 E.  Subject to existing rights, each State shall have the use of water, including groundwater, for ordinary domestic, and stock watering purposes, as determined by State law and shall have the right to impound water for such purposes in reservoirs having storage capacities not in excess, in any case, of 20 acre-feet, without deduction from the allocation made by paragraphs A, B, and C of this Article.
 
@@ -262,31 +352,203 @@ ARTICLE X
 
 A.  The following rights to the use of Bear River water carried in interstate canals are recognized and confirmed.
 
+ 
+
+
+
 Lands irrigated
 
-Name of Canal	Date of priority	Primary right second-feet	Acres	   State	
+ 
 
-______________________________________________________________________________
+Name of Canal
 
-Hilliard East Fork		    1914		28.00			2,644	Wyoming
+Date of priority
 
-Chapman			8-13-86		16.46			1,155	Wyoming
+Primary right second-feet
 
-8-13-86		98.46			6,892	Utah
+Acres
 
-4-12-12		    .57			     40	Wyoming
+State
 
-  5-3-12		  4.07			   285	Utah
+ 
 
-5-21-12		10.17			   712	Utah
+Hilliard East Fork
 
-  2-6-13		    .79			     55	Wyoming
+1914
 
-8-28-05	          134.001		
 
-Francis Lee			     1879		  2.20			   154	Wyoming
 
-     1879		  7.41			   519	Utah
+28.00
+
+
+
+2,644
+
+
+
+Wyoming
+
+ 
+
+Chapman
+
+8-13-86
+
+
+
+16.46
+
+
+
+1,155
+
+
+
+Wyoming
+
+ 
+
+
+
+8-13-86
+
+
+
+98.46
+
+
+
+6,892
+
+
+
+Utah
+
+ 
+
+
+
+4-12-12
+
+
+
+.57
+
+
+
+40
+
+
+
+Wyoming
+
+ 
+
+
+
+5-3-12
+
+
+
+4.07
+
+
+
+285
+
+
+
+Utah
+
+ 
+
+
+
+5-21-12
+
+
+
+10.17
+
+
+
+712
+
+
+
+Utah
+
+ 
+
+
+
+2-6-13
+
+
+
+.79
+
+
+
+55
+
+
+
+Wyoming
+
+ 
+
+
+
+8-28-05
+
+
+
+134.001
+
+
+
+
+
+
+
+
+
+ 
+
+Francis Lee
+
+1879
+
+
+
+2.20
+
+
+
+154
+
+
+
+Wyoming
+
+ 
+
+
+
+1879
+
+
+
+7.41
+
+
+
+519
+
+
+
+Utah
 
 1Under the right as herein confirmed not to exceed 134 second-feet may be carried across the Wyoming-Utah State line in the Chapman Canal at any time for filling the Neponset Reservoir, for irrigation of land in Utah and for other purposes. The storage right in Neponset Reservoir is for 6,900 acre-feet, which is a component part of the irrigation right for the Utah lands listed above.
 
@@ -367,4 +629,8 @@ Wallace N. Jibson		Daniel F. Lawrence
 Representative of the		Secretary of the Bear River
 
 United States of America	Commission
+
+
+
+Amended by Chapter 254, 1979 General Session
 

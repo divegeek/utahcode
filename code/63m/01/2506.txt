@@ -1,4 +1,4 @@
-63M-1-2506.    Health benefit plan information on Health Insurance Exchange -- Insurer transparency.
+63M-1-2506.   Health benefit plan information on Health Insurance Exchange -- Insurer transparency.
 
 (1) (a)  The office shall adopt administrative rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, that establish uniform electronic standards for insurers, employers, brokers, consumers, and vendors to use when transmitting or receiving information, uniform applications, waivers of coverage, or payments to, or from, the Health Insurance Exchange.
 
@@ -29,4 +29,8 @@
 (c)  Members of the advisory board shall serve without compensation.
 
 (4)  The office shall post or facilitate the posting, on the Health Insurance Exchange, of the information required by this section and Section 31A-22-635 and links to websites that provide cost and quality information from the Department of Health Data Committee or neutral entities with a broad base of support from the provider and payer communities.
+
+
+
+Amended by Chapter 400, 2011 General Session
 

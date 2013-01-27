@@ -1,6 +1,6 @@
-53-8-205 (Superseded 01/01/13).   Safety inspection required -- Frequency of safety inspection -- Safety inspection certificate required -- Out-of-state permits.
+53-8-205.   Safety inspection required -- Frequency of safety inspection -- Safety inspection certificate required -- Out-of-state permits.
 
-(1) (a)  Except as provided in Subsection (1)(b), a person may not operate on a highway a motor vehicle required to be registered in this state unless the motor vehicle has passed a safety inspection.
+(1) (a)  Except as provided in Subsection (1)(b), a person may not operate on a highway a motor vehicle required to be registered in this state unless the motor vehicle has passed a safety inspection if required in the current year.
 
 (b)  Subsection (1)(a) does not apply to:
 
@@ -14,19 +14,15 @@
 
 (A)  is operating with an apportioned registration under Section 41-1a-301; and
 
-(B)  has a valid annual federal inspection that complies with the requirements of 49 C.F.R. 396.17; and
+(B)  has a valid annual federal inspection that complies with the requirements of 49 C.F.R. Sec. 396.17; and
 
-(v)  a trailer, semitrailer, or trailering equipment attached to a commercial motor vehicle described in Subsection (1)(a)(iv) that has a valid annual federal inspection that complies with the requirements of 49 C.F.R. 396.17.
+(v)  a trailer, semitrailer, or trailering equipment attached to a commercial motor vehicle described in Subsection (1)(a)(iv) that has a valid annual federal inspection that complies with the requirements of 49 C.F.R. Sec. 396.17.
 
 (2)  Except as provided in Subsection (3), the frequency of the safety inspection shall be determined based on the age of the vehicle determined by model year and shall:
 
-(a)  be required each year for a vehicle that is eight or more years old on January 1; or
+(a)  be required each year for a vehicle that is 10 or more years old on January 1; or
 
-(b)  every two years for each vehicle that is less than eight years old on January 1 as follows:
-
-(i)  in odd-numbered years for a vehicle with an odd-numbered model year; and
-
-(ii)  in even-numbered years for a vehicle with an even-numbered model year;
+(b)  for each vehicle that is less than 10 years old on January 1, be required in the fourth year and the eighth year;
 
 (c)  be made by a safety inspector certified by the division at a safety inspection station authorized by the division;
 
@@ -55,4 +51,10 @@
 (a)  authorize the acceptance in this state of a safety inspection certificate issued in another state having a safety inspection law similar to this state; and
 
 (b)  extend the time within which a safety inspection certificate must be obtained by the resident owner of a vehicle that was not in this state during the time a safety inspection was required.
+
+
+
+Amended by Chapter 64, 2012 General Session, (Coordination Clause) 
+
+Amended by Chapter 356, 2012 General Session
 

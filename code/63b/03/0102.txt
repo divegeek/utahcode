@@ -8,49 +8,123 @@
 
 (c)  For the division, proceeds shall be provided for the following:
 
+ 
+
 CAPITAL IMPROVEMENTS
 
-1	Alterations, Repairs, and Improvements	$5,000,000
 
-TOTAL IMPROVEMENTS	$5,000,000
+
+1
+
+Alterations, Repairs, and Improvements
+
+$5,000,000
+
+
+
+TOTAL IMPROVEMENTS
+
+$5,000,000
+
+
 
 CAPITAL AND ECONOMIC DEVELOPMENT
 
-       ESTIMATED
 
-      OPERATIONS
 
-AND
 
-PROJECT	PROJECT					AMOUNT	   MAINTENANCE
 
-PRIORITY	DESCRIPTION				FUNDED		COSTS
 
-1	University of Utah				$13,811,500		 $881,600
+
+
+
+PROJECT
+
+PRIORITY
+
+
+
+
+
+
+
+PROJECT
+
+DESCRIPTION
+
+
+
+
+
+
+
+AMOUNT FUNDED
+
+ESTIMATED OPERATIONS AND MAINTENANCE COSTS
+
+
+
+1
+
+University of Utah
 
 Marriott Library Phase III (Final)
 
-2	Bridgerland Applied Technology Center	$2,400,000			$0
+$13,811,500
 
-Utah State University Space
+$881,600
 
-3	Weber State University -			$2,332,100		     $9,600
+
+
+2
+
+Bridgerland Applied Technology Center Utah State University Space
+
+$2,400,000
+
+$0
+
+
+
+3
+
+Weber State University -
 
 Heat Plant
 
-4	Department of Human Services		$4,180,000		 $400,000
+$2,332,100
 
-- Division of Youth Corrections renamed
+$9,600
 
-in 2003 to the Division of Juvenile
 
-Justice Services
 
-5	Snow College -				$3,885,100		 $224,500
+4
+
+Department of Human Services -
+
+Division of Youth Corrections renamed in 2003 to the Division of Juvenile Justice Services
+
+$4,180,000
+
+$400,000
+
+
+
+5
+
+Snow College -
 
 Administrative Services/Student Center
 
-6	Ogden Weber Applied			   $750,000			$0
+$3,885,100
+
+$224,500
+
+
+
+6
+
+Ogden Weber Applied 
 
 Technology Center -
 
@@ -58,59 +132,187 @@ Metal Trades Building Design and
 
 Equipment Purchase
 
-7	Department of Corrections			$1,237,100		   $72,000
+$750,000
+
+$0
+
+
+
+7
+
+Department of Corrections
 
 B-Block Remodel
 
-8	Utah State University -			   $550,000			$0
+$1,237,100
+
+$72,000
+
+
+
+8
+
+Utah State University -
 
 Old Main Phase III Design
 
-9	Department of Corrections - 144 bed		$6,700,000		 $168,800
+$550,000
 
-Uintah Expansion
+$0
 
-10	Southern Utah University			$5,630,400		 $314,200
+
+
+9
+
+Department of Corrections -
+
+144 bed Uintah Expansion
+
+$6,700,000
+
+$168,800
+
+
+
+10
+
+Southern Utah University
 
 Administrative Services/Student Center
 
-11	Anasazi Museum				   $760,200		     $8,500
+$5,630,400
 
-12	Hill Air Force Base -				$9,500,000			$0
+$314,200
+
+
+
+11
+
+Anasazi Museum
+
+$760,200
+
+$8,500
+
+
+
+12
+
+Hill Air Force Base -
 
 Easements Purchase
 
-13	Signetics Building Remodel			$2,000,000			$0
+$9,500,000
 
-14	Antelope Island Visitors Center		   $750,000		   $30,000
+$0
 
-15	State Fair Park -				   $150,000			$0
+
+
+13
+
+Signetics Building Remodel
+
+$2,000,000
+
+$0
+
+
+
+14
+
+Antelope Island Visitors Center
+
+$750,000
+
+$30,000
+
+
+
+15
+
+State Fair Park -
 
 Master Study
 
-16	Utah National Guard - Draper Land		   $380,800			$0
+$150,000
 
-17	Davis Applied Technology Center -		   $325,000			$0
+$0
+
+
+
+16
+
+Utah National Guard - Draper Land
+
+$380,800
+
+$0
+
+
+
+17
+
+Davis Applied Technology Center -
 
 Design
 
-18	Palisade State Park - Land			   $800,000			$0
+$325,000
 
-and Park Development
+$0
 
-19	Department of Human Services		     $80,000			$0
 
-- Cedar City Land
 
-20	Department of Human Services		   $163,400			$0
+18
 
-- Clearfield Land
+Palisade State Park -
 
-21	Electronic technology,			$2,500,000			$0
+Land and Park Development
+
+$800,000
+
+$0
+
+
+
+19
+
+Department of Human Services -
+
+Cedar City Land
+
+$80,000
+
+$0
+
+
+
+20
+
+Department of Human Services -
+
+Clearfield Land
+
+$163,400
+
+$0
+
+
+
+21
+
+Electronic technology,
 
 equipment, and hardware
 
+$2,500,000
+
+$0
+
+
+
 TOTAL CAPITAL AND ECONOMIC DEVELOPMENT		$58,885,600
+
+
 
 TOTAL IMPROVEMENTS AND
 
@@ -145,4 +347,8 @@ CAPITAL AND ECONOMIC DEVELOPMENT			$63,885,600
 (c)  Those contracts shall contain a provision for termination of the contract for the convenience of the state as required by Section 63G-6-601.
 
 (d)  It is also the intent of the Legislature that this authorization to the division does not bind future Legislatures to fund projects initiated from this authorization.
+
+
+
+Amended by Chapter 382, 2008 General Session
 

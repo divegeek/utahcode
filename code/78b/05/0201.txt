@@ -1,4 +1,4 @@
-78B-5-201.    Definitions -- Judgment recorded in Registry of Judgments.
+78B-5-201.   Definitions -- Judgment recorded in Registry of Judgments.
 
 (1)  For purposes of this part, "Registry of Judgments" means the index where a judgment is filed and searchable by the name of the judgment debtor through electronic means or by tangible document.
 
@@ -57,4 +57,8 @@
 (A)  the date on which the instrument creating the lien was recorded in that county's office of the county recorder; and
 
 (B)  in accordance with Section 57-3-106, that county recorder's entry number and book and page of the recorded instrument creating the judgment lien.
+
+
+
+Amended by Chapter 88, 2011 General Session
 

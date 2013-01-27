@@ -2,3 +2,7 @@
 
 Sections 13-40-301 and 13-40-302 do not apply to the monitoring of, or interaction with, an owner's or an operator's Internet or other network connection, service, or computer, by a telecommunications carrier, cable operator, computer hardware or software provider, or provider of information service or interactive computer service for network or computer security purposes, diagnostics, technical support, maintenance, repair, network management, authorized updates of computer software or system firmware, authorized remote system management, or detection or prevention of the unauthorized use of or fraudulent or other illegal activities in connection with a network, service, or computer software, including scanning for and removing computer software prescribed under this chapter.
 
+
+
+Enacted by Chapter 200, 2010 General Session
+

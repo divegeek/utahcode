@@ -1,8 +1,8 @@
-41-3-303 (Superseded 01/01/13).   Temporary permits -- Inspections required before issuance.
+41-3-303.   Temporary permits -- Inspections required before issuance.
 
 (1)  A dealer licensed in accordance with this chapter may not issue a temporary permit under Section 41-3-302 unless:
 
-(a) (i)  the motor vehicle for which the temporary permit is issued has received and passed the safety inspection required by Section 53-8-205 within the previous six months;
+(a) (i)  the motor vehicle for which the temporary permit is issued has received and passed the safety inspection if required in the current year under Section 53-8-205 within the previous six months;
 
 (ii)  the safety inspection certificate was issued in the name of a licensed and bonded dealer; and
 
@@ -21,4 +21,8 @@
 (c)  the motor vehicle is otherwise exempt from emission inspections.
 
 (4)  Notwithstanding Subsection (1), a dealer may sell a motor vehicle as is without having it safety or emission inspected provided that no temporary permit is issued.
+
+
+
+Amended by Chapter 356, 2012 General Session
 

@@ -92,23 +92,97 @@ B.  The commission shall submit to the executive head or designated officer of e
 
 C.  The commission shall, at the initial organizational meeting after this compact becomes effective, or as soon thereafter as is practicable, establish the initial fiscal period and shall establish the budget of expenditures for this initial period. The budget for the initial period, if it be a full biennium, shall be not less than $65,000. If the initial fiscal period is only a portion of a biennium, the minimum budget therefor shall be the proportion of $65,000 derived by applying thereto the ratio that the initial period bears to a full biennium. The respective shares of the budget for the initial fiscal period shall be as follows:
 
+ 
 
 
-Member State								Percent of Budget
 
-   Idaho									23.5
+Member State
 
-   Montana									23.5
+Percent of Budget
 
-   Nevada									  2.0
+ 
 
-   Oregon									23.5
 
-   Utah										  2.0
 
-   Washington									23.5
 
-   Wyoming									  2.0
+
+Idaho
+
+23.5
+
+
+
+ 
+
+
+
+
+
+Montana
+
+23.5
+
+
+
+ 
+
+
+
+
+
+Nevada
+
+2.0
+
+
+
+ 
+
+
+
+
+
+Oregon
+
+23.5
+
+
+
+ 
+
+
+
+
+
+Utah
+
+2.0
+
+
+
+
+
+
+
+
+
+Washington
+
+23.5
+
+
+
+
+
+
+
+
+
+Wyoming
+
+2.0
+
+
 
 If any of the states of Nevada, Utah or Wyoming fail to ratify during the initial period, the total budget for that period shall be reduced by the amount of the share of the state failing so to ratify, but the amounts to be paid by the other states shall remain unchanged.
 
@@ -313,4 +387,8 @@ ____________________________
 Thomas R. Newell, Representative
 
  of the United States of America
+
+
+
+Enacted by Chapter 177, 1963 General Session
 

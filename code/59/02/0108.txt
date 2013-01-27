@@ -1,4 +1,4 @@
-59-2-108 (Superseded 01/01/13).   Depreciation schedule for certain taxable tangible personal property.
+59-2-108.   Depreciation schedule for certain taxable tangible personal property.
 
 (1)  As used in this section:
 
@@ -14,99 +14,77 @@
 
 (D)  sales and use taxes.
 
-(b)  "Expensed personal property" means an item of taxable tangible personal property that:
-
-(i)  has an acquisition cost of $1,000 or less; and
-
-(ii)  a person elects to have assessed according to a schedule described in Subsection (4).
-
-(c) (i)  "Item of taxable tangible personal property" does not include an improvement to real property or a part that will become an improvement.
+(b) (i)  "Item of taxable tangible personal property" does not include an improvement to real property or a part that will become an improvement.
 
 (ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the term "item of taxable tangible personal property."
 
-(d) (i)  "Short life expensed personal property" means expensed personal property that is the same type as the following personal property:
+(c)  "Noncapitalized personal property" means an item of tangible personal property that:
 
-(A)  short life property;
+(i)  has an acquisition cost of $1,000 or less; and
 
-(B)  short life trade fixtures; or
+(ii)  is claimed as allowed on a federal tax return as a deductible expense under Section 162 or Section 179, Internal Revenue Code, in the year of acquisition.
 
-(C)  computer hardware.
+(d)  "Taxable tangible personal property" means tangible personal property that is subject to taxation under this chapter.
 
-(ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the following terms:
+(2) (a)  A person may make an election for the noncapitalized personal property owned by the person to be assessed and taxed as provided in this section.
 
-(A)  "short life property";
+(b) Except as provided in Subsection (2)(c), a county may not require a person who makes an election under this section to:
 
-(B)  "short life trade fixtures"; and
+(i)  itemize noncapitalized personal property on the signed statement described in Section 59-2-306; or
 
-(C)  "computer hardware."
+(ii)  track noncapitalized personal property.
 
-(e)  "Taxable tangible personal property" means tangible personal property that is subject to taxation under this chapter.
+(c)  If a person's noncapitalized personal property for which the person makes an election under this section is audited in accordance with Subsection 59-2-306(3), the person shall provide proof of the acquisition cost of the noncapitalized personal property.
 
-(2) (a)  A person may elect to designate taxable tangible personal property as expensed personal property.
+(3) (a)  An election under this section may not be revoked.
 
-(b)  A county shall not require a person to:
+(b)  Except as provided in Subsection (3)(d), if a person makes an election under this section with respect to noncapitalized personal property, the person shall pay taxes on the noncapitalized personal property according to the schedule described in Subsection (4).
 
-(i)  itemize expensed personal property on the signed statement described in Section 59-2-306; and
+(c)  If a person sells or otherwise disposes of an item of noncapitalized personal property for which the person makes an election under this section prior to the fourth year after acquisition, the person shall continue to pay taxes according to the schedule described in Subsection (4).
 
-(ii)  track expensed personal property.
+(d)  If a person makes an election under this section for noncapitalized personal property acquired on or before December 31, 2012, at a time after the first year after acquisition, the person shall pay taxes according to the taxable value for the applicable one or more years after acquisition as determined by the schedule described in Subsection (4).
 
-(c)  If a taxpayer's expensed personal property is audited in accordance with Subsection 59-2-306(3), a taxpayer shall provide proof of the acquisition cost of the expensed personal property.
+(e)  If a person makes an election under this section, the person may not appeal the values described in Subsection (4).
 
-(3) (a)  An election to designate taxable tangible personal property as expensed personal property under this section may not be revoked.
-
-(b)  Except as provided in Subsection (3)(d), if an item of taxable tangible personal property is designated as expensed personal property, the person must pay taxes according to the taxable value determined by the schedule for a term designated by a schedule described in Subsection (4).
-
-(c)  If a person sells or otherwise disposes of an item of expensed personal property prior to the time period described in Subsection (3)(b) or (d), the person shall continue to pay taxes according to the schedule described in Subsection (4).
-
-(d)  If a person elects to designate an item of taxable tangible personal property acquired before December 31, 2008, as expensed personal property at a time after the first year after the item is acquired, the person must pay taxes according to the taxable value determined by the schedule for a time period that equals:
-
-(i)  the time period designated in Subsection (3)(b); less
-
-(ii)  the time period beginning when the person acquired the item of expensed personal property and ending when the person designated the item as short life expensed personal property.
-
-(e)  If a person elects to designate taxable tangible personal property as expensed personal property in accordance with Subsection (2)(a), the person may not appeal the values described in Subsection (4).
-
-(4) (a)  For the taxable year beginning on January 1, 2009 and ending on December 31, 2009, the taxable value of short life expensed personal property is calculated by applying the percent good factor against the acquisition cost of the property as follows:
+(4)  The taxable value of noncapitalized personal property for which a person makes an election under this section is calculated by applying the percent good factor against the acquisition cost of the noncapitalized personal property as follows:
 
  
 
-Short Life Expensed Personal Property Schedule
+Noncapitalized Personal Property Schedule
 
  
 
-Year of Acquisition
+Year after Acquisition
 
 Percent Good of Acquisition Cost
 
  
 
-2008
+First year after acquisition
 
-69%
-
- 
-
-2007
-
-52%
+75%
 
  
 
-2006
+Second year after acquisition
 
-30%
-
- 
-
-2005
-
-17%
+50%
 
  
 
-2004
+Third year after acquisition
 
-11%
+25% 
 
-(b)  For taxable years beginning on or after January 1, 2010, the taxable value of short life expensed personal property shall be assessed according to a schedule developed by the commission in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+ 
+
+Fourth year after acquisition
+
+0%
+
+
+
+
+
+Amended by Chapter 313, 2012 General Session
 

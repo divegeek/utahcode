@@ -8,3 +8,7 @@
 
 (2)  A security procedure may require the use of algorithms or other codes, identifying words or numbers, encryption, callback procedures, or similar security devices.  Comparison of a signature on a payment order or communication with an authorized specimen signature of the customer is not by itself a security procedure.
 
+
+
+Enacted by Chapter 294, 1990 General Session
+

@@ -40,3 +40,7 @@ As used in this section and Sections 76-6-409.6 through 76-6-409.10:
 
 (14)  "Unlawful telecommunication device" means any telecommunication device that is capable of, or has been altered, modified, programmed, or reprogrammed, alone or in conjunction with another access device, so as to be capable of, acquiring or facilitating the acquisition of a telecommunication service without the consent of the telecommunication service provider.  Unlawful devices include tumbler phones, counterfeit phones, tumbler microchips, counterfeit microchips, and other instruments capable of disguising their identity or location or of gaining access to a communications system operated by a telecommunication service provider.
 
+
+
+Amended by Chapter 78, 1997 General Session
+

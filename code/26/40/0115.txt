@@ -1,4 +1,4 @@
-26-40-115.    State contractor -- Employee and dependent health benefit plan coverage.
+26-40-115.   State contractor -- Employee and dependent health benefit plan coverage.
 
 For purposes of Sections 17B-2a-818.5, 19-1-206, 63A-5-205, 63C-9-403, 72-6-107.5, and 79-2-404, "qualified health insurance coverage" means at the time the contract is entered into or renewed:
 
@@ -29,4 +29,8 @@ For purposes of Sections 17B-2a-818.5, 19-1-206, 63A-5-205, 63C-9-403, 72-6-107.
 (b)  has an out-of-pocket maximum that does not exceed three times the amount of the annual deductible; and
 
 (c)  the employer pays 60% of the premium for the employee and the dependents of the employee who work or reside in the state.
+
+
+
+Enacted by Chapter 400, 2011 General Session
 

@@ -46,7 +46,7 @@ Article XIII,  Section 3.   [Property tax exemptions.]
 
 (iii)  subject to Subsection (2)(b), property to the extent used to generate and deliver electrical power for pumping water to irrigate lands in the State;
 
-(iv)  up to 45% of the fair market value of residential property, as defined by statute; 
+(iv)  up to 45% of the fair market value of residential property, as defined by statute;
 
 (v)  household furnishings, furniture, and equipment used exclusively by the owner of that property in maintaining the owner's home; and
 
@@ -56,13 +56,19 @@ Article XIII,  Section 3.   [Property tax exemptions.]
 
 (3)  The following may be exempted from property tax as provided by statute:
 
-(a)  property owned by a disabled person who, during military training or a military conflict, was disabled in the line of duty in the military service of the United States or the State; and
+(a)  property owned by a disabled person who, during military training or a military conflict, was disabled in the line of duty in the military service of the United States or the State; 
 
 (b)  property owned by the unmarried surviving spouse or the minor orphan of a person who:
 
 (i)  is described in Subsection (3)(a); or
 
-(ii)  during military training or a military conflict, was killed in action or died in the line of duty in the military service of the United States or the State.
+(ii)  during military training or a military conflict, was killed in action or died in the line of duty in the military service of the United States or the State; and
+
+(c)  real property owned by a person in the military or the person's spouse, or both, and used as the person's primary residence, if the person serves under an order to federal active duty out of state for at least 200 days in a calendar year or 200 consecutive days.
 
 (4)  The Legislature may by statute provide for the remission or abatement of the taxes of the poor.
+
+
+
+No History for Constitution
 

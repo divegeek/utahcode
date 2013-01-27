@@ -1,4 +1,4 @@
-41-6a-1642 (Superseded 10/01/12).   Emissions inspection -- County program.
+41-6a-1642.   Emissions inspection -- County program.
 
 (1)  The legislative body of each county required under federal law to utilize a motor vehicle emissions inspection and maintenance program or in which an emissions inspection and maintenance program is necessary to attain or maintain any national ambient air quality standard shall require:
 
@@ -60,9 +60,11 @@
 
 (ii)  has a gross vehicle weight rating of 12,001 pounds or more;
 
-(c)  a vintage vehicle as defined in Section 41-21-1; and
+(c)  a vintage vehicle as defined in Section 41-21-1;
 
-(d)  a custom vehicle as defined in Section 41-6a-1507.
+(d)  a custom vehicle as defined in Section 41-6a-1507; and
+
+(e)  to the extent allowed under the current federally approved state implementation plan, in accordance with the federal Clean Air Act, 42 U.S.C. Sec. 7401, et seq., a motor vehicle that is less than two years old on January 1 based on the age of the vehicle as determined by the model year identified by the manufacturer.
 
 (4) (a)  The legislative body of a county identified in Subsection (1) shall exempt a pickup truck, as defined in Section 41-1a-102, with a gross vehicle weight of 12,000 pounds or less from the emission inspection requirements of this section, if the registered owner of the pickup truck provides a signed statement to the legislative body stating the truck is used:
 
@@ -107,4 +109,8 @@
 (10) (a)  A county identified in Subsection (1) may impose a local emissions compliance fee on each motor vehicle registration within the county in accordance with the procedures and requirements of Section 41-1a-1223.
 
 (b)  A county that imposes a local emissions compliance fee shall use revenues generated from the fee for the establishment and enforcement of an emissions inspection and maintenance program in accordance with the requirements of this section.
+
+
+
+Amended by Chapter 64, 2012 General Session
 

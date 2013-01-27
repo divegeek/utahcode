@@ -1,10 +1,10 @@
-59-2-1004 (Superseded 01/01/13).   Appeal to county board of equalization -- Real property -- Time period for appeal -- Decision of board -- Extensions approved by commission -- Appeal to commission.
+59-2-1004.   Appeal to county board of equalization -- Real property -- Time period for appeal -- Decision of board -- Extensions approved by commission -- Appeal to commission.
 
 (1) (a)  A taxpayer dissatisfied with the valuation or the equalization of the taxpayer's real property may make an application to appeal by:
 
 (i)  filing the application with the county board of equalization within the time period described in Subsection (2); or
 
-(ii) making an application by telephone or other electronic means within the time period described in Subsection (2) if the county legislative body passes a resolution under Subsection (5) authorizing applications to be made by telephone or other electronic means.
+(ii)  making an application by telephone or other electronic means within the time period described in Subsection (2) if the county legislative body passes a resolution under Subsection (5) authorizing applications to be made by telephone or other electronic means.
 
 (b)  The contents of the application shall be prescribed by rule of the county board of equalization.
 
@@ -30,9 +30,13 @@
 
 (f) (i)  If the fair market value of the property that is the subject of the appeal deviates plus or minus 5% from the assessed value of comparable properties, the valuation of the appealed property shall be adjusted to reflect a value equalized with the assessed value of comparable properties.
 
-(ii)  The equalized value established under Subsection (4)(f)(i) shall be the assessed value for property tax purposes until the county assessor is able to evaluate and equalize the assessed value of all comparable properties to bring them all into conformity with full fair market value.
+(ii)  Subject to Sections 59-2-301.1, 59-2-301.2, 59-2-301.3, and 59-2-301.4, equalized value established under Subsection (4)(f)(i) shall be the assessed value for property tax purposes until the county assessor is able to evaluate and equalize the assessed value of all comparable properties to bring them all into conformity with full fair market value.
 
 (5)  If any taxpayer is dissatisfied with the decision of the county board of equalization, the taxpayer may file an appeal with the commission as prescribed in Section 59-2-1006.
 
 (6)  A county legislative body may pass a resolution authorizing taxpayers owing taxes on property assessed by that county to file property tax appeals applications under this section by telephone or other electronic means.
+
+
+
+Amended by Chapter 85, 2012 General Session
 

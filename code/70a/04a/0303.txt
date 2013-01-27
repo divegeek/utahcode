@@ -12,3 +12,7 @@
 
 (3)  If a receiving bank executes the payment order of the sender by issuing a payment order to a beneficiary different from the beneficiary of the sender's order and the funds transfer is completed on the basis of that error, the sender of the payment order that was erroneously executed and all previous senders in the funds transfer are not obliged to pay the payment orders they issued.  The issuer of the erroneous order is entitled to recover from the beneficiary of the order the payment received to the extent allowed by the law governing mistake and restitution.
 
+
+
+Amended by Chapter 237, 1993 General Session
+

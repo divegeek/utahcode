@@ -1,4 +1,4 @@
-59-10-1402 (Superseded 01/01/13).   Definitions.
+59-10-1402.   Definitions.
 
 As used in this part:
 
@@ -28,45 +28,51 @@ As used in this part:
 
 (4)  "Commercial domicile" means the principal place from which the trade or business of a business entity is directed or managed.
 
-(5)  "Derived from or connected with Utah sources" means:
+(5)  "Dependent beneficiary" means an individual who:
+
+(a)  is claimed as a dependent under Section 151, Internal Revenue Code, on another person's federal income tax return; and
+
+(b)  is a beneficiary of a trust that is a pass-through entity.
+
+(6)  "Derived from or connected with Utah sources" means:
 
 (a)  if a pass-through entity taxpayer is classified as a C corporation for federal income tax purposes, derived from or connected with Utah sources in accordance with Chapter 7, Part 3, Allocation and Apportionment of Income - Utah UDITPA Provisions; or
 
 (b)  if a pass-through entity or pass-through entity taxpayer is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, derived from or connected with Utah sources in accordance with Sections 59-10-117 and 59-10-118.
 
-(6)  "Nonbusiness income" means all income of a pass-through entity other than business income.
+(7)  "Nonbusiness income" means all income of a pass-through entity other than business income.
 
-(7)  "Nonresident business entity" means a business entity that does not have its commercial domicile in this state.
+(8)  "Nonresident business entity" means a business entity that does not have its commercial domicile in this state.
 
-(8)  "Nonresident pass-through entity taxpayer" means a pass-through entity taxpayer that is a:
+(9)  "Nonresident pass-through entity taxpayer" means a pass-through entity taxpayer that is a:
 
 (a)  nonresident individual; or
 
 (b)  nonresident business entity.
 
-(9) (a)  "Pass-through entity" means a business entity that is:
+(10)  "Pass-through entity" means a business entity that is:
 
-(i)  the following if classified as a partnership for federal income tax purposes:
+(a)  the following if classified as a partnership for federal income tax purposes:
 
-(A)  a general partnership;
+(i)  a general partnership;
 
-(B)  a limited liability company;
+(ii)  a limited liability company;
 
-(C)  a limited liability partnership; or
+(iii)  a limited liability partnership; or
 
-(D)  a limited partnership;
+(iv)  a limited partnership;
 
-(ii)  an S corporation; or
+(b)  an S corporation;
 
-(iii)  a business entity similar to Subsection (9)(a)(i) or (ii):
+(c)  an estate or trust with respect to which the estate's or trust's income, gain, loss, deduction, or credit is divided among and passed through to one or more pass-though entity taxpayers; or
 
-(A)  with respect to which the business entity's income, gain, loss, deduction, or credit is divided among and passed through to one or more pass-through entity taxpayers; and
+(d)  a business entity similar to Subsections (10)(a) through (c):
 
-(B)  as defined by the commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+(i)  with respect to which the business entity's income, gain, loss, deduction, or credit is divided among and passed through to one or more pass-through entity taxpayers; and
 
-(b)  "Pass-through entity" does not include an estate or trust that is classified as an estate or trust for federal income tax purposes.
+(ii)  as defined by the commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
 
-(10)  "Pass-through entity taxpayer" means a resident or nonresident individual, a resident or nonresident business entity, or a resident or nonresident estate or trust:
+(11)  "Pass-through entity taxpayer" means a resident or nonresident individual, a resident or nonresident business entity, or a resident or nonresident estate or trust:
 
 (a)  that is:
 
@@ -78,29 +84,31 @@ As used in this part:
 
 (iv)  for a limited partnership, a partner;
 
-(v)  for an S corporation, a shareholder; or
+(v)  for an S corporation, a shareholder;
 
-(vi)  for a business entity described in Subsection (9)(a)(iii), a member, partner, shareholder, or other title designated by the commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; and
+(vi)  for an estate or trust described in Subsection (10)(c), a beneficiary; or
+
+(vii)  for a business entity described in Subsection (10)(d), a member, partner, shareholder, or other title designated by the commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; and
 
 (b)  to which the income, gain, loss, deduction, or credit of a pass-through entity is passed through.
 
-(11)  "Resident business entity" means a business entity that is not a nonresident business entity.
+(12)  "Resident business entity" means a business entity that is not a nonresident business entity.
 
-(12)  "Resident pass-through entity taxpayer" means a pass-through entity taxpayer that is a:
+(13)  "Resident pass-through entity taxpayer" means a pass-through entity taxpayer that is a:
 
 (a)  resident individual; or
 
 (b)  resident business entity.
 
-(13)  "Return" means a return that a pass-through entity taxpayer files:
+(14)  "Return" means a return that a pass-through entity taxpayer files:
 
 (a)  for a pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes, under Chapter 7, Corporate Franchise and Income Taxes; or
 
 (b)  for a pass-through entity taxpayer that is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, under this chapter.
 
-(14)  "S corporation" is as defined in Section 1361, Internal Revenue Code.
+(15)  "S corporation" is as defined in Section 1361, Internal Revenue Code.
 
-(15)  "Share of income, gain, loss, deduction, or credit of a pass-through entity" means:
+(16)  "Share of income, gain, loss, deduction, or credit of a pass-through entity" means:
 
 (a)  for a pass-through entity except for a pass-through entity that is an S corporation:
 
@@ -121,4 +129,16 @@ As used in this part:
 (A)  as determined under Section 1366 et seq., Internal Revenue Code; and
 
 (B)  derived from or connected with Utah sources.
+
+(17)  "Statement of dependent beneficiary income" means a statement:
+
+(a)  signed by the person who claims a dependent beneficiary as a dependent under Section 151, Internal Revenue Code, on the person's federal income tax return for the taxable year;
+
+(b)  attesting that the dependent is a dependent beneficiary; and
+
+(c)  indicating that the person expects that the dependent beneficiary's adjusted gross income for the taxable year will not exceed the basic standard deduction for the dependent beneficiary, as calculated under Section 63, Internal Revenue Code, for that taxable year.
+
+
+
+Amended by Chapter 95, 2012 General Session
 

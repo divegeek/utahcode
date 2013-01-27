@@ -1,14 +1,14 @@
-41-1a-205 (Superseded 01/01/13).   Safety inspection certificate required for renewal or registration of motor vehicle -- Exemptions.
+41-1a-205.   Safety inspection certificate required for renewal or registration of motor vehicle -- Exemptions.
 
 (1)  If required in the current year, a safety inspection certificate, as required by Section 53-8-205, or proof of exemption from safety inspection shall be presented at the time of, and as a condition of, registration or renewal of registration of a motor vehicle.
 
 (2) (a)  Except as provided in Subsections (2)(b), (c), and (d), the safety inspection required under this section may be made no more than two months prior to the renewal of registration.
 
-(b) (i)  If the title of a used motor vehicle is being transferred, a safety inspection certificate issued for the motor vehicle during the previous two months may be used to satisfy the requirement under Subsection (1).
+(b) (i)  If the title of a used motor vehicle is being transferred, a safety inspection certificate issued for the motor vehicle during the previous 11 months may be used to satisfy the requirement under Subsection (1).
 
-(ii)  If the transferor is a licensed and bonded used motor vehicle dealer, a safety inspection certificate issued for the motor vehicle in a licensed and bonded motor vehicle dealer's name during the previous six months may be used to satisfy the requirement under Subsection (1).
+(ii)  If the transferor is a licensed and bonded used motor vehicle dealer, a safety inspection certificate issued for the motor vehicle in a licensed and bonded motor vehicle dealer's name during the previous 11 months may be used to satisfy the requirement under Subsection (1).
 
-(c)  If the title of a leased vehicle is being transferred to the lessee of the vehicle, a safety inspection certificate issued during the previous six months may be used to satisfy the requirement under Subsection (1).
+(c)  If the title of a leased vehicle is being transferred to the lessee of the vehicle, a safety inspection certificate issued during the previous 11 months may be used to satisfy the requirement under Subsection (1).
 
 (d)  If the motor vehicle is part of a fleet of 101 or more vehicles, the safety inspection required under this section may be made no more than 11 months prior to the renewal of registration.
 
@@ -41,4 +41,8 @@
 (b)  A commercial vehicle under Subsection (4)(a) is exempt from the requirements of Subsection (1).
 
 (5)  A motor vehicle may be sold and the title assigned to the new owner without a valid safety inspection, but the motor vehicle may not be registered in the new owner's name until the motor vehicle complies with this section.
+
+
+
+Amended by Chapter 356, 2012 General Session
 

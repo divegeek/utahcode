@@ -10,11 +10,21 @@
 
 (3)  The tax imposed on each gallon of aviation fuel under Section 59-13-401 shall be allocated to the airport where the aviation fuel was sold and to aeronautical operations of the Department of Transportation as follows:
 
-          Total	      Allocation to        Allocation to
+ 
 
-          Tax	      Airport	           Aeronautical
 
-          Allocated		           Operations
+
+Total Tax Allocated
+
+Allocation to Airport
+
+Allocation to Aeronautical
+
+Operations
+
+ 
+
+
 
 (a)  Tax on Each Gallon of Aviation
 
@@ -24,47 +34,153 @@ Certificated Air Carrier Other than at
 
 an International Airport Located Within a
 
-County of the First Class that has a United
+County of the First Class that has a United States Customs Office on its Premises
 
-States Customs Office on its Premises		$.04		$.03		$.01
+$.04
+
+
+
+$.03
+
+
+
+$.01
+
+
+
+ 
+
+
 
 (b)  Tax on Each Gallon of Aviation
 
 Fuel Purchased for Use by a Certificated
 
-Air Carrier at an International Airport
+Air Carrier at an International Airport Located Within a County of the First
 
-Located Within a County of the First
+Class that has a United States Customs Office on its Premises
 
-Class that has a United States Customs
+$.025
 
-Office on its Premises				$.025		$.015		$.01
+
+
+$.015
+
+
+
+$.01
+
+
+
+ 
+
+
 
 (c)  Tax on Each Gallon of Aviation
 
-Fuel Purchased for Use by a Person Other
+Fuel Purchased for Use by a Person Other than a Federally Certificated Air Carrier
 
-than a Federally Certificated Air Carrier
+at an International Airport Located Within a County of the First Class that has a United States Customs Office on its Premises
 
-at an International Airport Located Within a
 
-County of the First Class that has a United
 
-States Customs Office on its Premises		$.09		$.00		$.09
+
+
+
+
+
+
+
+
+$.09
+
+
+
+
+
+
+
+
+
+
+
+
+
+$.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+$.09
+
+
+
+ 
+
+
 
 (d)  Tax on Each Gallon of Aviation
 
-Fuel Purchased for Use by a Person Other
+Fuel Purchased for Use by a Person Other than a Federally Certificated Air Carrier Other than at an International Airport Located Within a County of the First
 
-than a Federally Certificated Air Carrier
+Class that has a United States Customs Office on its Premises
 
-Other than at an International Airport
 
-Located Within a County of the First
 
-Class that has a United States Customs
 
-Office on its Premises				$.09		$.03		$.06
+
+
+
+
+
+
+
+
+
+$.09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$.03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$.06
+
+
 
 (e)  The allocation to the publicly used airport may be used at the discretion of the airport's governing authority for the:
 
@@ -85,4 +201,10 @@ Office on its Premises				$.09		$.03		$.06
 (ii)  Aviation fuel tax allocated to any airport owned and operated by a city of the first class shall be paid to the city treasurer on the first day of each month.
 
 (c)  The state treasurer shall place aviation fuel tax collected on fuel sold at places other than publicly used airports in the Aeronautics Restricted Account created by Section 72-2-126.
+
+
+
+Amended by Chapter 222, 2009 General Session 
+
+Amended by Chapter 358, 2009 General Session
 

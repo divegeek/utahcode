@@ -1,4 +1,4 @@
-13-42-118.    Communication by electronic or other means.
+13-42-118.   Communication by electronic or other means.
 
 (1)  In this section:
 
@@ -31,4 +31,8 @@
 (8)  Subject to Subsection (9), if a consumer who has consented to electronic communication in the manner provided by Section 101 of the federal act withdraws consent as provided in the federal act, a provider may terminate its agreement with the consumer.
 
 (9)  If a provider wishes to terminate an agreement with a consumer pursuant to Subsection (8), it shall notify the consumer that it will terminate the agreement unless the consumer, no later than 30 days after receiving the notification, consents to electronic communication in the manner provided in Section 101(c) of the federal act.  If the consumer consents, the provider may terminate the agreement only as permitted by Subsection 13-42-119(1)(f)(iv)(D).
+
+
+
+Amended by Chapter 152, 2012 General Session
 

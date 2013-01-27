@@ -8,67 +8,143 @@
 
 (c)  For the division, proceeds shall be provided for the following:
 
-PROJECT				     AMOUNT				ESTIMATED
 
-DESCRIPTION			      FUNDED			          OPERATIONS AND 										MAINTENANCE
 
-Southern Utah University		     $4,600,000				$0
 
-Land Purchase
 
-Salt Lake Community College	     $3,980,700				$507,900
 
-High Tech Center -
 
-Jordan Campus
+PROJECT
 
-Children's Special Health Care	     $755,400				$247,600
+DESCRIPTION
 
-Needs Clinic
 
-Youth Corrections - 2 @ 32 beds	     $419,500				$276,000
 
-(Vernal / Logan)
 
-Corrections -  Gunnison 288 bed	     $8,425,600				$0
 
-and Lagoon Expansion
+AMOUNT FUNDED
 
-University of Utah -			     $445,500				$101,700
+ESTIMATED OPERATIONS AND MAINTENANCE
 
-Cowles Building
 
-Utah Valley State College -		     $1,166,300				$391,000
 
-Technical Building
+Southern Utah University Land Purchase
 
-Sevier Valley Applied Technology	     $3,014,300				$443,300
+$4,600,000
 
-Center - Shop Expansion
+$0
 
-Division of Parks and Recreation	     $1,000,000				$22,700
 
-Statewide Restrooms
 
-Murray Highway Patrol Office	     $2,300,000				$81,000
+Salt Lake Community College High Tech Center - Jordan Campus
 
-Department of Workforce		     $2,780,000				$128,100
+$3,980,700
 
-Services - Davis County
+$507,900
 
-Employment Center
 
-State Hospital - Rampton II		     $1,600,000				$462,000
 
-Courts - 4th District			     $1,368,000				$0
+Children's Special Health Care Needs Clinic
 
-Land - Provo
+$755,400
 
-Dixie College - Land			     $1,000,000				$0
+$247,600
 
-TOTAL CAPITAL AND		     $32,855,300
 
-ECONOMIC DEVELOPMENT
+
+Youth Corrections - 2 @ 32 beds (Vernal / Logan)
+
+$419,500
+
+$276,000
+
+
+
+Corrections -  Gunnison 288 bed and Lagoon Expansion
+
+$8,425,600
+
+$0
+
+
+
+University of Utah - Cowles Building
+
+$445,500
+
+$101,700
+
+
+
+Utah Valley State College - Technical Building
+
+$1,166,300
+
+$391,000
+
+
+
+Sevier Valley Applied Technology Center - Shop Expansion
+
+$3,014,300
+
+$443,300
+
+
+
+Division of Parks and Recreation Statewide Restrooms
+
+$1,000,000
+
+$22,700
+
+
+
+Murray Highway Patrol Office
+
+$2,300,000
+
+$81,000
+
+
+
+Department of Workforce Services - Davis County Employment Center
+
+$2,780,000
+
+$128,100
+
+
+
+State Hospital - Rampton II
+
+$1,600,000
+
+$462,000
+
+
+
+Courts - 4th District Land - Provo
+
+$1,368,000
+
+$0
+
+
+
+Dixie College - Land
+
+$1,000,000
+
+$0
+
+
+
+TOTAL CAPITAL AND ECONOMIC DEVELOPMENT
+
+$32,855,300
+
+
 
 (d)  For purposes of this section, operations and maintenance costs:
 
@@ -99,4 +175,8 @@ ECONOMIC DEVELOPMENT
 (c)  Those contracts shall contain a provision for termination of the contract for the convenience of the state as required by Section 63G-6-601.
 
 (d)  It is also the intent of the Legislature that this authorization to the division does not bind future Legislatures to fund projects initiated from this authorization.
+
+
+
+Amended by Chapter 382, 2008 General Session
 

@@ -12,3 +12,7 @@
 
 (b)  compute the period of time to include the end of the next day that is not a legal holiday, a Saturday, or a Sunday.
 
+
+
+Amended by Chapter 236, 2012 General Session
+

@@ -10,7 +10,7 @@
 
 (ii)  50% of each dollar collected from the sales and use tax authorized by this part within a project area described in a project area plan adopted by the military installation development authority under Title 63H, Chapter 1, Military Installation Development Authority Act, shall be distributed to the military installation development authority created in Section 63H-1-201.
 
-(3) (a)  Except as provided in Subsection (3)(e), beginning on July 1, 2011, and ending on June 30, 2016, the commission shall each year distribute to a county, city, or town the distribution required by this Subsection (3) if:
+(3) (a)  Beginning on July 1, 2011, and ending on June 30, 2016, the commission shall each year distribute to a county, city, or town the distribution required by this Subsection (3) if:
 
 (i)  the county, city, or town is a:
 
@@ -45,12 +45,6 @@
 (B)  the denominator of the fraction is $333,583.
 
 (d)  A distribution required by this Subsection (3) is in addition to any other distribution required by this section.
-
-(e)  For fiscal year 2011-12 only, a distribution required by this Subsection (3) to a qualifying city, as defined in Section 9-4-302, shall be reduced:
-
-(i)  by the amount of a grant the Permanent Community Impact Fund Board makes to the qualifying city in accordance with Subsection 9-4-305(2); and
-
-(ii)  by an amount that does not exceed the distribution that the qualifying city would otherwise receive under this Subsection (3) but for this Subsection (3)(e).
 
 (4) (a)  For fiscal years beginning with fiscal year 1983-84 and ending with fiscal year 2005-06, a county, city, or town may not receive a tax revenue distribution less than .75% of the taxable sales within the boundaries of the county, city, or town.
 
@@ -91,4 +85,8 @@
 (b)  If a needed population estimate is not available from the United States Census Bureau, population figures shall be derived from the estimate from the Utah Population Estimates Committee created by executive order of the governor.
 
 (c)  The population of a county for purposes of this section shall be determined only from the unincorporated area of the county.
+
+
+
+Amended by Chapter 9, 2012 General Session
 

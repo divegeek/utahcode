@@ -34,3 +34,7 @@
 
 (5)  It is an affirmative defense to Subsections (1) and (2) that a person obtained access or attempted to obtain access in response to, and for the purpose of protecting against or investigating, a prior attempted or successful breach of security of a computer, computer network, computer property, computer system whose security the person is authorized or entitled to protect, and the access attempted or obtained was no greater than reasonably necessary for that purpose.
 
+
+
+Amended by Chapter 193, 2010 General Session
+

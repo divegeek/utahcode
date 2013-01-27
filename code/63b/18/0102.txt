@@ -8,63 +8,129 @@
 
 (c)  For the division, proceeds shall be provided for the following:
 
-----------------------------------------------------------------------------------------------------------------
+ 
 
 CAPITAL DEVELOPMENT PROJECTS
 
-Estimated		
+ 
 
-Operations		Project
 
-Project					and			Amount
 
-Description					Maintenance		Funded
+Project
 
-----------------------------          			-----------------             ----------------
+Description
 
-Purchase and renovation of School
+Estimated Operations and Maintenance
 
-for Deaf and Blind				$0			$6,500,000
+Project Amount Funded
 
-SLCC Digital Design/Communication
+ 
 
-Technology Center				$141,400		$21,305,000
+Purchase and renovation of School for Deaf and Blind
 
-MATC North Utah County Campus
 
-Building					$513,800		$18,800,000
 
-Replacement and expansion of
+$0
 
-U of U School of Business			$1,055,100		$22,900,000
+$6,500,000
 
-OWATC Health Technology Building	$445,300		$21,812,000
+ 
 
-Upgrades and repairs to Armories		$0			$4,000,000
+SLCC Digital Design/Communication Technology Center
 
-SUU Gibson Science Center			$324,400		$13,851,000
 
-Dixie State College Centennial
 
-Commons Building -- Design		--			$3,000,000
+$141,400
 
-UVU Science/Health Science
+$21,305,000
 
-Building Addition -- Design			--			$2,800,000
+ 
 
-TOTAL CAPITAL
+MATC North Utah County Campus Building
 
-DEVELOPMENT
 
-PROJECTS								$114,968,000
 
--------------------------------------------------------------------------------------------------------------------
+$513,800
 
-TOTAL GENERAL OBLIGATION BOND AUTHORIZATION
+$18,800,000
 
-FOR CAPITAL DEVELOPMENT PROJECTS			$114,968,000
+ 
 
--------------------------------------------------------------------------------------------------------------------
+Replacement and expansion of U of U School of Business
+
+
+
+$1,055,100
+
+$22,900,000
+
+ 
+
+OWATC Health Technology Building
+
+
+
+$445,300
+
+$21,812,000
+
+ 
+
+Upgrades and repairs to Armories
+
+
+
+$0
+
+$4,000,000
+
+ 
+
+SUU Gibson Science Center
+
+
+
+$324,400
+
+$13,851,000
+
+ 
+
+Dixie State College Centennial Commons Building -- Design
+
+
+
+
+
+--
+
+
+
+$3,000,000
+
+ 
+
+UVU Science/Health Science Building Addition -- Design
+
+
+
+--
+
+$2,800,000
+
+ 
+
+TOTAL CAPITAL DEVELOPMENT PROJECTS
+
+$114,968,000
+
+ 
+
+TOTAL GENERAL OBLIGATION BOND AUTHORIZATION FOR CAPITAL DEVELOPMENT PROJECTS
+
+
+
+$114,968,000
 
 (d)  For purposes of this section, operations and maintenance costs:
 
@@ -89,4 +155,8 @@ FOR CAPITAL DEVELOPMENT PROJECTS			$114,968,000
 (d)  The state intends to use proceeds of tax-exempt bonds to reimburse itself for expenditures for costs of the projects listed in Subsection (2)(c).
 
 (5)  It is the intent of the Legislature that the funding authorized for projects in Subsection (2) does not include funds for public art.
+
+
+
+Enacted by Chapter 150, 2009 General Session
 

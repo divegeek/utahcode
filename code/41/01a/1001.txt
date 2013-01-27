@@ -1,4 +1,4 @@
-41-1a-1001 (Superseded 10/01/12).   Definitions.
+41-1a-1001.   Definitions.
 
 As used in Sections 41-1a-1001 through 41-1a-1008:
 
@@ -18,19 +18,41 @@ As used in Sections 41-1a-1001 through 41-1a-1008:
 
 (b)  For purposes of Subsection (3)(a) repair or replacement hours do not include time spent on cosmetic repairs.
 
-(4)  "Owner" means the person who has the legal right to possession of the vehicle.
+(4)  "Nonrepairable certificate" means a certificate of ownership issued for a nonrepairable vehicle.
 
-(5) (a)  "Salvage certificate" means a certificate of ownership issued for a salvage vehicle before a new certificate of title is issued for the vehicle.
+(5)  "Nonrepairable vehicle" means a vehicle of a type otherwise subject to registration that:
+
+(a)  has no resale value except as a source of parts or scrap metal or that the owner irreversibly designates as a source of parts or scrap metal or for destruction;
+
+(b) (i)  has little or no resale value other than its worth as a source of a vehicle identification number that could be used illegally; and
+
+(ii) (A)  has been substantially stripped as a result of theft; or
+
+(B)  is missing all of the bolt-on sheet metal body panels, all of the doors and hatches, substantially all of the interior components, and substantially all of the grill and light assemblies; or
+
+(c)  is a substantially burned vehicle that:
+
+(i)  has burned to the extent that there are no more usable or repairable body or interior components, tires and wheels, or drive train components; or
+
+(ii)  the owner irreversibly designates for destruction or as having little or no resale value other than its worth as a source of scrap metal or as a source of a vehicle identification number that could be used illegally.
+
+(6)  "Owner" means the person who has the legal right to possession of the vehicle.
+
+(7) (a)  "Salvage certificate" means a certificate of ownership issued for a salvage vehicle before a new certificate of title is issued for the vehicle.
 
 (b)  A salvage certificate is not valid for registration purposes.
 
-(6)  "Salvage vehicle" means any vehicle:
+(8)  "Salvage vehicle" means any vehicle:
 
 (a)  damaged by collision, flood, or other occurrence to the extent that the cost of repairing the vehicle for safe operation exceeds its fair market value; or
 
 (b)  that has been declared a salvage vehicle by an insurer or other state or jurisdiction, but is not precluded from further registration and titling.
 
-(7)  "Unbranded title" means a certificate of title for a previously damaged motor vehicle without any designation that the motor vehicle has been damaged.
+(9)  "Unbranded title" means a certificate of title for a previously damaged motor vehicle without any designation that the motor vehicle has been damaged.
 
-(8)  "Vehicle damage disclosure statement" means the form designed and furnished by the Motor Vehicle Enforcement Division for a damaged motor vehicle inspection under Section 41-1a-1002.
+(10)  "Vehicle damage disclosure statement" means the form designed and furnished by the Motor Vehicle Enforcement Division for a damaged motor vehicle inspection under Section 41-1a-1002.
+
+
+
+Amended by Chapter 390, 2012 General Session
 

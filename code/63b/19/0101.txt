@@ -8,35 +8,73 @@
 
 (c)  For the Utah Science Technology and Research Governing Authority, proceeds shall be provided for the following:
 
--------------------------------------------------------------------------------------------------------------------
+ 
 
 CAPITAL DEVELOPMENT PROJECTS
 
-     Estimated Operations	Amount
+ 
 
-Project Description 			     and Maintenance		Funded
 
--------------------------------------------------------------------------------------------------------------------
+
+
+
+Project Description
+
+Estimated Operations and Maintenance
+
+
+
+Amount
+
+Funded
+
+ 
 
 Bio Innovations Research Institute --
 
-Utah State University				$0		$18,400,000
+Utah State University	
+
+
+
+$0
+
+
+
+$18,400,000
+
+ 
 
 Neuroscience and Biomedical Technology
 
-Research Building -- University of Utah	$0		$27,600,000
+Research Building -- University of Utah
 
-TOTAL CAPITAL DEVELOPMENT PROJECTS					$46,000,000
+$0
 
--------------------------------------------------------------------------------------------------------------------
+$27,600,000
 
-ADDITIONAL AUTHORIZED AMOUNTS				$460,000
+ 
 
-TOTAL GENERAL OBLIGATION BOND AUTHORIZATION
+TOTAL CAPITAL DEVELOPMENT PROJECTS
 
-FOR CAPITAL DEVELOPMENT PROJECTS				$46,460,000
 
--------------------------------------------------------------------------------------------------------------------
+
+$46,000,000
+
+ 
+
+ADDITIONAL AUTHORIZED AMOUNTS
+
+
+
+$460,000
+
+ 
+
+TOTAL GENERAL OBLIGATION BOND AUTHORIZATION FOR 	CAPITAL DEVELOPMENT PROJECTS
+
+
+
+$46,460,000
 
 (d)  The Legislature intends that the Utah Science Technology and Research Governing Authority pay the operations and maintenance costs on the research buildings authorized by this section.
 
@@ -51,4 +89,8 @@ FOR CAPITAL DEVELOPMENT PROJECTS				$46,460,000
 (6)  The Utah Science Technology and Research Governing Authority shall contract with the Division of Facilities Construction and Management to oversee construction of the buildings.
 
 (7)  The Utah Science Technology and Research Governing Authority may not delegate authority over construction of the capital development projects identified in this section to any entity other than the Division of Facilities Construction and Management.
+
+
+
+Enacted by Chapter 181, 2010 General Session
 

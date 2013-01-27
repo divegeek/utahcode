@@ -4,3 +4,7 @@
 
 (2)  Reserves according to the commissioner's annuity reserve method for benefits under annuity or pure endowment contracts, excluding any accident and health and accidental death benefits in such contracts, shall be the greatest of the respective excesses of the present values, at the date of valuation, of the future guaranteed benefits, including guaranteed nonforfeiture benefits, provided for by such contracts at the end of each respective contract year, over the present value, at the date of valuation, of any future valuation considerations derived from future gross considerations, required by the terms of such contract, that become payable prior to the end of such respective contract year.  The future guaranteed benefits shall be determined by using the mortality table, if any, and the interest rate, or rates, specified in such contracts for determining guaranteed benefits.  The valuation considerations are the portions of the respective gross considerations applied under the terms of such contracts to determine nonforfeiture values.
 
+
+
+Amended by Chapter 116, 2001 General Session
+

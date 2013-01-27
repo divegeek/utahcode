@@ -14,13 +14,25 @@
 
 (c)  For the State Tax Commission, proceeds shall be provided for the following:
 
-PROJECT					AMOUNT
+ 
 
-DESCRIPTION				FUNDED
 
-UTAX SYSTEMS				$15,650,000
 
-ACQUISITION AND DEVELOPMENT
+PROJECT
+
+DESCRIPTION
+
+AMOUNT
+
+FUNDED
+
+ 
+
+
+
+UTAX SYSTEMS ACQUISITION AND DEVELOPMENT
+
+$15,650,000
 
 (3)  The commission, by resolution may decline to issue bonds if the project could be construed to violate state law or federal law or regulation.
 
@@ -31,4 +43,8 @@ ACQUISITION AND DEVELOPMENT
 (c)  Those contracts shall contain a provision for termination of the contract for the convenience of the state as required by Section 63G-6-601.
 
 (d)  It is also the intent of the Legislature that this authorization to the State Tax Commission does not bind future Legislatures to fund projects initiated from this authorization.
+
+
+
+Amended by Chapter 382, 2008 General Session
 

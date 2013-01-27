@@ -1,4 +1,4 @@
-78A-12-205 (Superseded 01/01/13).   Minimum performance standards.
+78A-12-205.   Minimum performance standards.
 
 (1)  The commission shall establish minimum performance standards requiring that:
 
@@ -6,7 +6,7 @@
 
 (b)  the judge receive a minimum score on the judicial performance survey as follows:
 
-(i)  an average score of at least a 3.0 on at least 80% of the questions, excluding litigant respondents, for questions scored on the numerical scale; and
+(i)  an average score of no less than 65% on each survey category as provided in Subsection 78A-12-204(7); and
 
 (ii)  if the commission includes a question on the survey that does not use the numerical scale, the commission shall establish the minimum performance standard for all questions that do not use the numerical scale to be substantially equivalent to the standard required under Subsection (1)(b)(i).
 
@@ -17,4 +17,8 @@
 (b)  adopts the standard.
 
 (3)  The commission may make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to establish a minimum performance standard.
+
+
+
+Amended by Chapter 80, 2011 General Session
 

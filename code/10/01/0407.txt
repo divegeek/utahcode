@@ -1,4 +1,4 @@
-10-1-407.    Attributing the gross receipts from telecommunications service to a municipality -- Rate impact.
+10-1-407.   Attributing the gross receipts from telecommunications service to a municipality -- Rate impact.
 
 (1)  The gross receipts from a telecommunications service are attributed to a municipality if the gross receipts are from a transaction for telecommunications service that is located within the municipality:
 
@@ -21,4 +21,8 @@
 (A)  for telecommunications service other than mobile telecommunications service, the customer's service address; or
 
 (B)  for mobile telecommunications service, the customer's primary place of use.
+
+
+
+Amended by Chapter 384, 2008 General Session
 

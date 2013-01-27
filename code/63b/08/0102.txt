@@ -8,33 +8,71 @@
 
 (c)  For the division, proceeds shall be provided for the following:
 
-PROJECT					AMOUNT		 ESTIMATED
+ 
 
-DESCRIPTION				FUNDED	        OPERATIONS AND
 
-MAINTENANCE
 
-Southern Utah University -			$2,493,200			$447,744
 
-Physical Education Building
 
-Utah Valley State College -			$29,000,000			$721,875
+PROJECT
 
-Information Sciences Building
+DESCRIPTION
 
-University of Utah - 				$7,268,500			$140,217
 
-Cowles Building Renovation
 
-Vernal District Court				$4,539,500			$149,989
 
-Salt Lake Community College -		$4,200,000			$281,784
 
-Applied Education Center
+AMOUNT FUNDED
 
-TOTAL CAPITAL AND			$47,501,200
+ESTIMATED OPERATIONS AND MAINTENANCE
 
-ECONOMIC DEVELOPMENT
+ 
+
+Southern Utah University - Physical Education Building
+
+$2,493,200
+
+$447,744
+
+ 
+
+Utah Valley State College - Information Sciences Building
+
+$29,000,000
+
+$721,875
+
+ 
+
+University of Utah - Cowles Building Renovation
+
+$7,268,500
+
+$140,217
+
+ 
+
+Vernal District Court
+
+$4,539,500
+
+$149,989
+
+ 
+
+Salt Lake Community College - Applied Education Center
+
+$4,200,000
+
+$281,784
+
+
+
+TOTAL CAPITAL AND ECONOMIC DEVELOPMENT
+
+$47,501,200
+
+
 
 (d)  For purposes of this section, operations and maintenance costs:
 
@@ -65,4 +103,8 @@ ECONOMIC DEVELOPMENT
 (c)  Those contracts shall contain a provision for termination of the contract for the convenience of the state as required by Section 63G-6-601.
 
 (d)  It is also the intent of the Legislature that this authorization to the division does not bind future Legislatures to fund projects initiated from this authorization.
+
+
+
+Amended by Chapter 382, 2008 General Session
 

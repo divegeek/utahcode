@@ -1,14 +1,14 @@
-59-2-1105 (Contingently Superseded 01/01/13).   Application for veteran's exemption -- Rulemaking authority -- Statement -- County authority to make refunds.
+59-2-1105.   Application for Armed Forces exemption -- Rulemaking authority -- Statement -- County authority to make refunds.
 
-(1) (a)  Except as provided in Subsection 59-2-1101(2)(c), a veteran's exemption may be allowed only if the interest of the claimant is on record on January 1 of the year the exemption is claimed.
+(1) (a)  Except as provided in Subsection 59-2-1101(2)(c), an exemption under Section 59-2-1104 may be allowed only if the interest of the claimant is on record on January 1 of the year the exemption is claimed.
 
-(b)  If the claimant has an interest in real property under a contract, the veteran's exemption may be allowed if it is proved to the satisfaction of the county that the claimant is:
+(b)  If the claimant has an interest in real property under a contract, the exemption under Section 59-2-1104 may be allowed if it is proved to the satisfaction of the county that the claimant is:
 
 (i)  the purchaser under the contract; and
 
 (ii)  obligated to pay the taxes on the property beginning January 1 of the year the exemption is claimed.
 
-(c)  If the claimant is the grantor of a trust holding title to real or tangible personal property on which a veteran's exemption is claimed, the claimant may claim the portion of the veteran's exemption under Section 59-2-1104 and be treated as the owner of that portion of the property held in trust for which the claimant proves to the satisfaction of the county that:
+(c)  If the claimant is the grantor of a trust holding title to real or tangible personal property on which an exemption under Section 59-2-1104 is claimed, the claimant may claim the portion of the exemption under Section 59-2-1104 and be treated as the owner of that portion of the property held in trust for which the claimant proves to the satisfaction of the county that:
 
 (i)  title to the portion of the trust will revest in the claimant upon the exercise of a power:
 
@@ -36,13 +36,13 @@
 
 (iii)  the claimant meets the requirements under this part for the exemption.
 
-(2) (a) (i)  A claimant applying for a veteran's exemption under this section shall file an application:
+(2) (a) (i)  A claimant applying for an exemption under Section 59-2-1104 shall file an application:
 
-(A)  with the county in which that person resides; and
+(A)  with the county in which that claimant resides; and
 
-(B)  except as provided in Subsection (2)(b) or (e), on or before September 1 of the year in which that claimant is applying for the veteran's exemption in accordance with this section.
+(B)  except as provided in Subsection (2)(b) or (e), on or before September 1 of the year in which that claimant is applying for the exemption in accordance with this section.
 
-(ii)  A county shall provide a claimant who files an application for a veteran's exemption in accordance with this section with a receipt:
+(ii)  A county shall provide a claimant who files an application for an exemption in accordance with this section with a receipt:
 
 (A)  stating that the county received the claimant's application; and
 
@@ -50,7 +50,7 @@
 
 (b)  Notwithstanding Subsection (2)(a)(i)(B) or (2)(e):
 
-(i)  subject to Subsection (2)(b)(iv), for a claimant who applies for a veteran's exemption on or after January 1, 2004, a county shall extend the deadline for filing the application required by Subsection (2)(a) to September 1 of the year after the year the claimant would otherwise be required to file the application under Subsection (2)(a)(i)(B) if:
+(i)  subject to Subsection (2)(b)(iv), for a claimant who applies for an exemption under Section 59-2-1104 on or after January 1, 2004, a county shall extend the deadline for filing the application required by Subsection (2)(a) to September 1 of the year after the year the claimant would otherwise be required to file the application under Subsection (2)(a)(i)(B) if:
 
 (A)  on or after January 1, 2004, a military entity issues a written decision that the:
 
@@ -60,17 +60,17 @@
 
 (B)  the date the written decision described in Subsection (2)(b)(i)(A) takes effect is in any year prior to the current calendar year;
 
-(ii)  subject to Subsections (2)(b)(iv) and (2)(d), for a claimant who applies for a veteran's exemption on or after January 1, 2004, a county shall allow the claimant to amend the application required by Subsection (2)(a) on or before September 1 of the year after the year the claimant filed the application under Subsection (2)(a)(i)(B) if:
+(ii)  subject to Subsections (2)(b)(iv) and (2)(d), for a claimant who applies for an exemption under Section 59-2-1104 on or after January 1, 2004, a county shall allow the claimant to amend the application required by Subsection (2)(a) on or before September 1 of the year after the year the claimant filed the application under Subsection (2)(a)(i)(B) if:
 
 (A)  on or after January 1, 2004, a military entity issues a written decision that the percentage of disability has changed for the:
 
-(I) veteran with a disability; or
+(I)  veteran with a disability; or
 
-(II)  deceased veteran with a disability with respect to whom the claimant applies for a veteran's exemption; and
+(II)  deceased veteran with a disability with respect to whom the claimant applies for the exemption; and
 
 (B)  the date the written decision described in Subsection (2)(b)(ii)(A) takes effect is in any year prior to the current calendar year;
 
-(iii)  subject to Subsections (2)(b)(iv) and (2)(d), for a claimant who applies for a veteran's exemption on or after January 1, 2004, a county shall extend the deadline for filing the application required by Subsection (2)(a) to September 1 of the year after the year the claimant would otherwise be required to file the application under Subsection (2)(a)(i)(B) if the county legislative body determines that:
+(iii)  subject to Subsections (2)(b)(iv) and (2)(d), for a claimant who applies for an exemption under Section 59-2-1104 on or after January 1, 2004, a county shall extend the deadline for filing the application required by Subsection (2)(a) to September 1 of the year after the year the claimant would otherwise be required to file the application under Subsection (2)(a)(i)(B) if the county legislative body determines that:
 
 (A)  the claimant or a member of the claimant's immediate family had an illness or injury that prevented the claimant from filing the application on or before the deadline for filing the application established in Subsection (2)(a)(i)(B);
 
@@ -86,15 +86,11 @@
 
 (iv)  a county may extend the deadline for filing an application or amending an application under this Subsection (2) until December 31 if the county finds that good cause exists to extend the deadline.
 
-(c)  The following shall accompany the initial application for a veteran's exemption:
+(c)  The following shall accompany the initial application for an exemption under Section 59-2-1104:
 
-(i)  a copy of the veteran's certificate of discharge from the military service of:
+(i)  a copy of the veteran's certificate of discharge from military service; or
 
-(A)  the United States; or
-
-(B)  this state; or
-
-(ii)  other satisfactory evidence of eligible military service.
+(ii)  other satisfactory evidence of eligible military service, including orders for qualifying active duty military service, if applicable.
 
 (d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule:
 
@@ -112,9 +108,9 @@
 
 (B)  is beyond the reasonable control of a claimant.
 
-(e)  If a claimant has on file with the county the application described in Subsection (2)(a), the county may not require the claimant to file another application described in Subsection (2)(a) unless:
+(e)  Except as provided in Subsection (2)(g), if a claimant has on file with the county the application described in Subsection (2)(a), the county may not require the claimant to file another application described in Subsection (2)(a) unless:
 
-(i)  the claimant applies all or a portion of an exemption allowed by this section to any tangible personal property;
+(i)  the claimant applies all or a portion of an exemption under Section 59-2-1104 to any tangible personal property;
 
 (ii)  the percentage of disability has changed for the:
 
@@ -128,7 +124,7 @@
 
 (v)  the claimant's occupancy of the primary residence for which the claimant claims an exemption under Section 59-2-1104 changes; or
 
-(vi)  the claimant who files an application for a veteran's exemption with respect to a deceased veteran with a disability or veteran who was killed in action or died in the line of duty is a person other than the claimant who filed the application described in Subsection (2)(a) for a veteran's exemption:
+(vi)  the claimant who files an application for an exemption under Section 59-2-1104 with respect to a deceased veteran with a disability or veteran who was killed in action or died in the line of duty is a person other than the claimant who filed the application described in Subsection (2)(a) for the exemption:
 
 (A)  for the calendar year immediately preceding the current calendar year; and
 
@@ -136,15 +132,21 @@
 
 (f)  The county may verify that the residential property for which the claimant claims an exemption under Section 59-2-1104 is the claimant's primary residence.
 
-(3) (a) (i)  Subject to Subsection (3)(a)(ii), a claimant who files an application for a veteran's exemption shall have on file with the county a statement:
+(g)  A member of an active component of the United States Armed Forces or reserve component of the United States Armed Forces who performed qualifying active duty military service shall:
+
+(i)  file the application described in Subsection (2)(a) in the year after the year during which the member completes the qualifying active duty military service; and
+
+(ii)  if the member meets the requirements of Section 59-2-1104 and this section to receive an exemption under Section 59-2-1104, claim one exemption only in the year the member files the application described in Subsection (2)(g)(i).
+
+(3) (a) (i)  Subject to Subsection (3)(a)(ii), a claimant except for a claimant described in Subsection (2)(g) who files an application for an exemption under Section 59-2-1104 shall have on file with the county a statement:
 
 (A)  issued by a military entity; and
 
-(B)  listing the percentage of disability for the veteran with a disability or deceased veteran with a disability with respect to whom a claimant applies for a veteran's exemption.
+(B)  listing the percentage of disability for the veteran with a disability or deceased veteran with a disability with respect to whom a claimant applies for the exemption.
 
-(ii)  If a claimant has on file with the county the statement described in Subsection (3)(a)(i), the county may not require the claimant to file another statement described in Subsection (3)(a)(i) unless:
+(ii)  If a claimant except for a claimant described in Subsection (2)(g) has on file with the county the statement described in Subsection (3)(a)(i), the county may not require the claimant to file another statement described in Subsection (3)(a)(i) unless:
 
-(A)  the claimant who files an application under this section for a veteran's exemption with respect to a deceased veteran with a disability or veteran who was killed in action or died in the line of duty is a person other than the claimant who filed the statement described in Subsection (3)(a)(i) for a veteran's exemption:
+(A)  the claimant who files an application under this section for an exemption under Section 59-2-1104 with respect to a deceased veteran with a disability or veteran who was killed in action or died in the line of duty is a person other than the claimant who filed the statement described in Subsection (3)(a)(i) for the exemption:
 
 (I)  for the calendar year immediately preceding the current calendar year; and
 
@@ -154,7 +156,7 @@
 
 (I)  veteran with a disability; or
 
-(II)  deceased veteran with a disability with respect to whom the claimant applies for a veteran's exemption under this section.
+(II)  deceased veteran with a disability with respect to whom the claimant applies for an exemption under Section 59-2-1104.
 
 (b)  For a claimant filing an application in accordance with Subsection (2)(b)(i), the claimant shall include with the application required by Subsection (2) a statement issued by a military entity listing the date the written decision described in Subsection (2)(b)(i)(A) takes effect.
 
@@ -164,15 +166,19 @@
 
 (i)  "Property taxes due" means the taxes due on a claimant's property:
 
-(A)  for which a veteran's exemption is granted by a county; and
+(A)  for which an exemption under Section 59-2-1104 is granted by a county; and
 
-(B)  for the calendar year for which the veteran's exemption is granted.
+(B)  for the calendar year for which the exemption is granted.
 
 (ii)  "Property taxes paid" is an amount equal to the sum of:
 
-(A)  the amount of the property taxes the claimant paid for the calendar year for which the claimant is applying for the veteran's exemption; and
+(A)  the amount of the property taxes the claimant paid for the calendar year for which the claimant is applying for an exemption under Section 59-2-1104; and
 
-(B)  the veteran's exemption the county granted for the calendar year described in Subsection (4)(a)(ii)(A).
+(B)  the exemption the county granted for the calendar year described in Subsection (4)(a)(ii)(A).
 
-(b)  A county granting a veteran's exemption to a claimant shall refund to that claimant an amount equal to the amount by which the claimant's property taxes paid exceed the claimant's property taxes due, if that amount is $1 or more.
+(b)  A county granting an exemption under Section 59-2-1104 to a claimant shall refund to that claimant an amount equal to the amount by which the claimant's property taxes paid exceed the claimant's property taxes due, if that amount is $1 or more.
+
+
+
+Amended by Chapter 92, 2012 General Session
 
