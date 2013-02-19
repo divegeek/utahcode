@@ -1,0 +1,100 @@
+58-17b-622.   Pharmacy benefit management services -- Auditing of pharmacy records -- Appeals.
+
+(1)  For purposes of this section:
+
+(a)  "Audit" means a review of the records of a pharmacy by or on behalf of an entity that finances or reimburses the cost of health care services or pharmaceutical products.
+
+(b)  "Entity" includes:
+
+(i)  a pharmacy benefits manager or coordinator;
+
+(ii)  a health benefit plan;
+
+(iii)  a third party administrator as defined in Section 31A-1-301;
+
+(iv)  a state agency; or
+
+(v)  a company, group, or agent that represents, or is engaged by, one of the entities described in Subsections (1)(b)(i) through (iv).
+
+(c)  "Fraud" means an intentional act of deception, misrepresentation, or concealment in order to gain something of value.
+
+(d)  "Health benefit plan" means:
+
+(i)  a health benefit plan as defined in Section 31A-1-301; or
+
+(ii)  a health, dental, medical, Medicare supplement, or conversion program offered under Title 49, Chapter 20, Public Employees' Benefit and Insurance Program Act.
+
+(2) (a)  Except as provided in Subsection (2)(b), this section applies to:
+
+(i)  a contract for the audit of a pharmacy entered into, amended, or renewed on or after July 1, 2012; and
+
+(ii)  an entity that conducts an audit of the pharmacy records of a pharmacy licensed under this chapter.
+
+(b)  This section does not apply to an audit of pharmacy records:
+
+(i)  for a federally funded prescription drug program, including:
+
+(A)  the state Medicaid program;
+
+(B)  the Medicare Part D program;
+
+(C)  a Department of Defense prescription drug program;
+
+(D)  a Veteran's Affairs prescription drug program; or
+
+(ii)  when fraud or other intentional and willful misrepresentation is alleged and the pharmacy audit entity has evidence that the pharmacy's actions reasonably indicate fraud or intentional and willful misrepresentation.
+
+(3) (a)  An audit that involves clinical or professional judgment shall be conducted by or in consultation with a licensed pharmacist who is employed by or working with the auditing entity.
+
+(b)  If an audit is conducted on site at a pharmacy, the entity conducting the audit:
+
+(i)  shall give the pharmacy 10 days advanced written notice of:
+
+(A)  the audit; and
+
+(B)  the range of prescription numbers or a date range included in the audit; and
+
+(ii)  may not audit a pharmacy during the first five business days of the month, unless the pharmacy agrees to the timing of the audit.
+
+(c)  An entity may not audit claims:
+
+(i)  submitted more than 18 months prior to the audit, unless:
+
+(A)  required by federal law; or
+
+(B)  the originating prescription is dated in the preceding six months; or
+
+(ii)  that exceed 200 selected prescription claims.
+
+(4) (a)  An entity may not:
+
+(i)  include dispensing fees in the calculations of overpayments unless the prescription is considered a misfill;
+
+(ii)  recoup funds for prescription clerical or recordkeeping errors, including typographical errors, scrivener's errors, and computer errors on a required document or record unless the audit entity is alleging fraud or other intentional or willful misrepresentation and the audit entity has evidence that the pharmacy's actions reasonably indicate fraud or intentional and willful misrepresentation; or
+
+(iii)  collect any funds, charge-backs, or penalties until the audit and all appeals are final, unless the audit entity is alleging fraud or other intentional or willful misrepresentation and the audit entity has evidence that the pharmacy's actions reasonably indicate fraud or intentional and willful misrepresentation.
+
+(b)  Auditors shall only have access to previous audit reports on a particular pharmacy if the previous audit was conducted by the same entity except as required for compliance with state or federal law.
+
+(5)  A pharmacy subject to an audit may use the following records to validate a claim for a prescription, refill, or change in a prescription:
+
+(a)  electronic or physical copies of records of a health care facility, or a health care provider with prescribing authority; and
+
+(b)  any prescription that complies with state law.
+
+(6) (a)  An entity that audits a pharmacy shall provide the pharmacy with a preliminary audit report, delivered to the pharmacy or its corporate office of record within 60 days after completion of the audit.
+
+(b)  A pharmacy has 30 days following receipt of the preliminary audit report to respond to questions, provide additional documentation, and comment on and clarify findings of the audit.  Receipt of the report shall be based on the postmark date or the date of a computer transmission if transferred electronically.
+
+(7)  If an audit results in the dispute or denial of a claim, the entity conducting the audit shall allow the pharmacy to resubmit a claim using any commercially reasonable method, including fax, mail, or electronic claims submission provided that the period of time when a claim may be resubmitted has not expired under the rules of the plan sponsor.
+
+(8) (a)  Within 120 days after the completion of the appeals process under Subsection (9), a final audit report shall be delivered to the pharmacy or its corporate office of record.
+
+(b)  The final audit report shall include a disclosure of any money recovered by the entity that conducted the audit.
+
+(9)  An entity that audits a pharmacy shall establish a written appeals process for appealing a preliminary audit report and a final audit report, and shall provide the pharmacy with notice of the written appeals process.  If the pharmacy benefit manager's contract or provider manual contains the information required by this Subsection (9), the requirement for notice is met.
+
+
+
+Enacted by Chapter 265, 2012 General Session
+

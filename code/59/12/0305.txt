@@ -1,0 +1,26 @@
+59-12-305.   Certified service provider or model 2 seller reliance on commission certified software.
+
+(1)  Except as provided in Subsection (2) and subject to Subsection (4), a certified service provider or model 2 seller is not liable for failing to collect a tax required under this part if:
+
+(a)  the certified service provider or model 2 seller relies on software the commission certifies; and
+
+(b)  the certified service provider's or model 2 seller's failure to collect a tax required under this part is as a result of the seller's or certified service provider's reliance on incorrect data:
+
+(i)  provided by the commission; or
+
+(ii)  in the software the commission certifies.
+
+(2)  The relief from liability described in Subsection (1) does not apply if a certified service provider or model 2 seller incorrectly classifies an item or transaction into a product category the commission certifies.
+
+(3)  If the taxability of a product category is incorrectly classified in software the commission certifies, the commission shall:
+
+(a)  notify a certified service provider or model 2 seller of the incorrect classification of the taxability of a product category in software the commission certifies; and
+
+(b)  state in the notice required by Subsection (3)(a) that the certified service provider or model 2 seller is liable for failing to collect the correct amount of tax under this part on the incorrectly classified product category if the certified service provider or model 2 seller fails to correct the taxability of the item or transaction within 10 days after the day on which the certified service provider or model 2 seller receives the notice.
+
+(4)  If a certified service provider or model 2 seller fails to correct the taxability of an item or transaction within 10 days after the day on which the certified service provider or model 2 seller receives the notice described in Subsection (3), the certified service provider or model 2 seller is liable for failing to collect the correct amount of tax under this part on the item or transaction.
+
+
+
+Enacted by Chapter 384, 2008 General Session
+

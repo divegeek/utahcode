@@ -1,0 +1,164 @@
+58-37f-301.   Access to database.
+
+(1)  The division shall make rules, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
+
+(a)  effectively enforce the limitations on access to the database as described in this part; and
+
+(b)  establish standards and procedures to ensure accurate identification of individuals requesting information or receiving information without request from the database.
+
+(2)  The division shall make information in the database and information obtained from other state or federal prescription monitoring programs by means of the database available only to the following individuals, in accordance with the requirements of this chapter and division rules:
+
+(a)  personnel of the division specifically assigned to conduct investigations related to controlled substance laws under the jurisdiction of the division;
+
+(b)  authorized division personnel engaged in analysis of controlled substance prescription information as a part of the assigned duties and responsibilities of their employment;
+
+(c)  in accordance with a written agreement entered into with the department, employees of the Department of Health:
+
+(i)  whom the director of the Department of Health assigns to conduct scientific studies regarding the use or abuse of controlled substances, provided that the identity of the individuals and pharmacies in the database are confidential and are not disclosed in any manner to any individual who is not directly involved in the scientific studies; or
+
+(ii)  when the information is requested by the Department of Health in relation to a person or provider whom the Department of Health suspects may be improperly obtaining or providing a controlled substance;
+
+(d)  a licensed practitioner having authority to prescribe controlled substances, to the extent the information:
+
+(i) (A)  relates specifically to a current or prospective patient of the practitioner; and
+
+(B)  is sought by the practitioner for the purpose of:
+
+(I)  prescribing or considering prescribing any controlled substance to the current or prospective patient;
+
+(II)  diagnosing the current or prospective patient;
+
+(III)  providing medical treatment or medical advice to the current or prospective patient; or
+
+(IV)  determining whether the current or prospective patient:
+
+(Aa)  is attempting to fraudulently obtain a controlled substance from the practitioner; or
+
+(Bb)  has fraudulently obtained, or attempted to fraudulently obtain, a controlled substance from the practitioner;
+
+(ii) (A)  relates specifically to a former patient of the practitioner; and
+
+(B)  is sought by the practitioner for the purpose of determining whether the former patient has fraudulently obtained, or has attempted to fraudulently obtain, a controlled substance from the practitioner;
+
+(iii)  relates specifically to an individual who has access to the practitioner's Drug Enforcement Administration identification number, and the practitioner suspects that the individual may have used the practitioner's Drug Enforcement Administration identification number to fraudulently acquire or prescribe a controlled substance;
+
+(iv)  relates to the practitioner's own prescribing practices, except when specifically prohibited by the division by administrative rule;
+
+(v)  relates to the use of the controlled substance database by an employee of the practitioner, described in Subsection (2)(e); or
+
+(vi)  relates to any use of the practitioner's Drug Enforcement Administration identification number to obtain, attempt to obtain, prescribe, or attempt to prescribe, a controlled substance;
+
+(e)  in accordance with Subsection (3)(a), an employee of a practitioner described in Subsection (2)(d), for a purpose described in Subsection (2)(d)(i) or (ii), if:
+
+(i)  the employee is designated by the practitioner as an individual authorized to access the information on behalf of the practitioner;
+
+(ii)  the practitioner provides written notice to the division of the identity of the employee; and
+
+(iii)  the division:
+
+(A)  grants the employee access to the database; and
+
+(B)  provides the employee with a password that is unique to that employee to access the database in order to permit the division to comply with the requirements of Subsection 58-37f-203(3)(b) with respect to the employee;
+
+(f)  an employee of the same business that employs a licensed practitioner under Subsection (2)(d) if:
+
+(i)  the employee is designated by the practitioner as an individual authorized to access the information on behalf of the practitioner;
+
+(ii)  the practitioner and the employing business provide written notice to the division of the identity of the designated employee; and
+
+(iii)  the division:
+
+(A)  grants the employee access to the database; and
+
+(B)  provides the employee with a password that is unique to that employee to access the database in order to permit the division to comply with the requirements of Subsection 58-37f-203(3)(b) with respect to the employee;
+
+(g)  a licensed pharmacist having authority to dispense a controlled substance to the extent the information is sought for the purpose of:
+
+(i)  dispensing or considering dispensing any controlled substance; or
+
+(ii)  determining whether a person:
+
+(A)  is attempting to fraudulently obtain a controlled substance from the pharmacist; or
+
+(B)  has fraudulently obtained, or attempted to fraudulently obtain, a controlled substance from the pharmacist;
+
+(h)  federal, state, and local law enforcement authorities, and state and local prosecutors, engaged as a specified duty of their employment in enforcing laws:
+
+(i)  regulating controlled substances;
+
+(ii)  investigating insurance fraud, Medicaid fraud, or Medicare fraud; or
+
+(iii)  providing information about a criminal defendant to defense counsel, upon request during the discovery process, for the purpose of establishing a defense in a criminal case;
+
+(i)  employees of the Office of Internal Audit and Program Integrity within the Department of Health who are engaged in their specified duty of ensuring Medicaid program integrity under Section 26-18-2.3;
+
+(j)  a mental health therapist, if:
+
+(i)  the information relates to a patient who is:
+
+(A)  enrolled in a licensed substance abuse treatment program; and
+
+(B)  receiving treatment from, or under the direction of, the mental health therapist as part of the patient's participation in the licensed substance abuse treatment program described in Subsection (2)(j)(i)(A);
+
+(ii)  the information is sought for the purpose of determining whether the patient is using a controlled substance while the patient is enrolled in the licensed substance abuse treatment program described in Subsection (2)(j)(i)(A); and
+
+(iii)  the licensed substance abuse treatment program described in Subsection (2)(j)(i)(A) is associated with a practitioner who:
+
+(A)  is a physician, a physician assistant, an advance practice registered nurse, or a pharmacist; and
+
+(B)  is available to consult with the mental health therapist regarding the information obtained by the mental health therapist, under this Subsection (2)(j), from the database;
+
+(k)  an individual who is the recipient of a controlled substance prescription entered into the database, upon providing evidence satisfactory to the division that the individual requesting the information is in fact the individual about whom the data entry was made;
+
+(l)  the inspector general, or a designee of the inspector general, of the Office of Inspector General of Medicaid Services, for the purpose of fulfilling the duties described in Title 63J, Chapter 4a, Part 2, Office Duties and Powers; and
+
+(m)  the following licensed physicians for the purpose of reviewing and offering an opinion on an individual's request for workers' compensation benefits under Title 34A, Chapter 2, Workers' Compensation Act, or Title 34A, Chapter 3, Utah Occupational Disease Act:
+
+(i)  a member of the medical panel described in Section 34A-2-601; or
+
+(ii)  a physician offering a second opinion regarding treatment.
+
+(3) (a)  A practitioner described in Subsection (2)(d) may designate up to three employees to access information from the database under Subsection (2)(e), (2)(f), or (4)(c).
+
+(b)  The division shall make rules, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to:
+
+(i)  establish background check procedures to determine whether an employee designated under Subsection (2)(e), (2)(f), or (4)(c) should be granted access to the database; and
+
+(ii)  establish the information to be provided by an emergency room employee under Subsection (4).
+
+(c)  The division shall grant an employee designated under Subsection (2)(e), (2)(f), or (4)(c) access to the database, unless the division determines, based on a background check, that the employee poses a security risk to the information contained in the database.
+
+(4) (a)  An individual who is employed in the emergency room of a hospital may exercise access to the database under this Subsection (4) on behalf of a licensed practitioner if the individual is designated under Subsection (4)(c) and the licensed practitioner:
+
+(i)  is employed in the emergency room;
+
+(ii)  is treating an emergency room patient for an emergency medical condition; and
+
+(iii)  requests that an individual employed in the emergency room and designated under Subsection (4)(c) obtain information regarding the patient from the database as needed in the course of treatment.
+
+(b)  The emergency room employee obtaining information from the database shall, when gaining access to the database, provide to the database the name and any additional identifiers regarding the requesting practitioner as required by division administrative rule established under Subsection (3)(b).
+
+(c)  An individual employed in the emergency room under this Subsection (4) may obtain information from the database as provided in Subsection (4)(a) if:
+
+(i)  the employee is designated by the practitioner as an individual authorized to access the information on behalf of the practitioner;
+
+(ii)  the practitioner and the hospital operating the emergency room provide written notice to the division of the identity of the designated employee; and
+
+(iii)  the division:
+
+(A)  grants the employee access to the database; and
+
+(B)  provides the employee with a password that is unique to that employee to access the database in order to permit the division to comply with the requirements of Subsection 58-37f-203(3)(b) with respect to the employee.
+
+(d)  The division may impose a fee, in accordance with Section 63J-1-504, on a practitioner who designates an employee under Subsection (2)(e), (2)(f), or (4)(c) to pay for the costs incurred by the division to conduct the background check and make the determination described in Subsection (3)(b).
+
+(5) (a)  An individual who is granted access to the database based on the fact that the individual is a licensed practitioner or a mental health therapist shall be denied access to the database when the individual is no longer licensed.
+
+(b)  An individual who is granted access to the database based on the fact that the individual is a designated employee of a licensed practitioner shall be denied access to the database when the practitioner is no longer licensed.
+
+
+
+Amended by Chapter 174, 2012 General Session 
+
+Amended by Chapter 239, 2012 General Session
+
