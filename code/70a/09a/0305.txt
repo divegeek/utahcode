@@ -1,0 +1,36 @@
+70A-9a-305.   Law governing perfection and priority of security interests in investment property.
+
+(1)  Except as otherwise provided in Subsection (3), the following rules apply:
+
+(a)  While a security certificate is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in the certificated security represented thereby.
+
+(b)  The local law of the issuer's jurisdiction as specified in Subsection 70A-8-109(4) governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in an uncertificated security.
+
+(c)  The local law of the securities intermediary's jurisdiction as specified in Subsection 70A-8-109(5) governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a security entitlement or securities account.
+
+(d)  The local law of the commodity intermediary's jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a commodity contract or commodity account.
+
+(2)  The following rules determine a commodity intermediary's jurisdiction for purposes of this part:
+
+(a)  If an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that a particular jurisdiction is the commodity intermediary's jurisdiction for purposes of this part, this chapter, or this title, that jurisdiction is the commodity intermediary's jurisdiction.
+
+(b)  If Subsection (2)(a) does not apply and an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that the agreement is governed by the law of a particular jurisdiction, that jurisdiction is the commodity intermediary's jurisdiction.
+
+(c)  If neither Subsection (2)(a) nor Subsection (2)(b) applies and an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that the commodity account is maintained at an office in a particular jurisdiction, that jurisdiction is the commodity intermediary's jurisdiction.
+
+(d)  If none of the Subsections (2)(a) through (c) applies, the commodity intermediary's jurisdiction is the jurisdiction in which the office identified in an account statement as the office serving the commodity customer's account is located.
+
+(e)  If none of the Subsections (2)(a) through (d) applies, the commodity intermediary's jurisdiction is the jurisdiction in which the chief executive office of the commodity intermediary is located.
+
+(3) The local law of the jurisdiction in which the debtor is located governs:
+
+(a)  perfection of a security interest in investment property by filing;
+
+(b)  automatic perfection of a security interest in investment property created by a broker or securities intermediary; and
+
+(c)  automatic perfection of a security interest in a commodity contract or commodity account created by a commodity intermediary.
+
+
+
+Enacted by Chapter 252, 2000 General Session
+
