@@ -1,0 +1,22 @@
+70A-8-501.   Securities account -- Acquisition of security entitlement from securities intermediary.
+
+(1)  "Securities account" means an account to which a financial asset is or may be credited in accordance with an agreement under which the person maintaining the account undertakes to treat the person for whom the account is maintained as entitled to exercise the rights that comprise the financial asset.
+
+(2)  Except as otherwise provided in Subsections (4) and (5), a person acquires a security entitlement if a securities intermediary:
+
+(a)  indicates by book entry that a financial asset has been credited to the person's securities account;
+
+(b)  receives a financial asset from the person or acquires a financial asset for the person and, in either case, accepts it for credit to the person's securities account; or
+
+(c)  becomes obligated under other law, regulation, or rule to credit a financial asset to the person's securities account.
+
+(3)  If a condition of Subsection (2) has been met, a person has a security entitlement even though the securities intermediary does not itself hold the financial asset.
+
+(4)  If a securities intermediary holds a financial asset for another person, and the financial asset is registered in the name of, payable to the order of, or specially indorsed to the other person, and has not been indorsed to the securities intermediary or in blank, the other person is treated as holding the financial asset directly rather than as having a security entitlement with respect to the financial asset.
+
+(5)  Issuance of a security is not establishment of a security entitlement.
+
+
+
+Enacted by Chapter 204, 1996 General Session
+

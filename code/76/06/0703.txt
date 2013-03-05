@@ -1,0 +1,40 @@
+76-6-703.   Computer crimes and penalties.
+
+(1)  A person who without authorization gains or attempts to gain access to and alters, damages, destroys, discloses, or modifies any computer, computer network, computer property, computer system, computer program, computer data or software, and thereby causes damage to another, or obtains money, property, information, or a benefit for any person without legal right, is guilty of:
+
+(a)  a class B misdemeanor when:
+
+(i)  the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is less than $500; or
+
+(ii)  the information obtained is not confidential;
+
+(b)  a class A misdemeanor when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $500 but is less than $1,500;
+
+(c)  a third degree felony when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $1,500 but is less than $5,000;
+
+(d)  a second degree felony when the damage caused or the value of the money, property, or benefit obtained or sought to be obtained is or exceeds $5,000; or
+
+(e)  a third degree felony when:
+
+(i)  the property or benefit obtained or sought to be obtained is a license or entitlement;
+
+(ii)  the damage is to the license or entitlement of another person; or
+
+(iii)  the information obtained is confidential; or
+
+(iv)  in gaining access the person breaches or breaks through a security system.
+
+(2) (a)  Except as provided in Subsection (2)(b), a person who intentionally or knowingly and without authorization gains or attempts to gain access to a computer, computer network, computer property, or computer system under circumstances not otherwise constituting an offense under this section is guilty of a class B misdemeanor.
+
+(b)  Notwithstanding Subsection (2)(a), a retailer that uses an electronic product identification or tracking system, or other technology to identify, track, or price goods is not guilty of a violation of Subsection (2)(a) if the equipment designed to read the electronic product identification or tracking system data and used by the retailer to identify, track, or price goods is located within the retailer's location.
+
+(3)  A person who uses or knowingly allows another person to use any computer, computer network, computer property, or computer system, program, or software to devise or execute any artifice or scheme to defraud or to obtain money, property, services, or other things of value by false pretenses, promises, or representations, is guilty of an offense based on the value of the money, property, services, or things of value, in the degree set forth in Subsection 76-10-1801(1).
+
+(4)  A person who intentionally or knowingly and without authorization, interferes with or interrupts computer services to another authorized to receive the services is guilty of a class A misdemeanor.
+
+(5)  It is an affirmative defense to Subsections (1) and (2) that a person obtained access or attempted to obtain access in response to, and for the purpose of protecting against or investigating, a prior attempted or successful breach of security of a computer, computer network, computer property, computer system whose security the person is authorized or entitled to protect, and the access attempted or obtained was no greater than reasonably necessary for that purpose.
+
+
+
+Amended by Chapter 193, 2010 General Session
+
