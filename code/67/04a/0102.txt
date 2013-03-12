@@ -1,0 +1,262 @@
+67-4a-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Administrator" means the deputy state treasurer assigned by the state treasurer to administer the law governing unclaimed property in Utah.
+
+(2)  "Apparent owner" means the person whose name appears on the records of the holder as the person entitled to property held, issued, or owing by the holder.
+
+(3) (a)  "Bank draft" means a check, draft, or similar instrument on which a banking or financial organization is directly liable.
+
+(b)  "Bank draft" includes:
+
+(i)  a cashier's check; and
+
+(ii)  a certified check.
+
+(c)  "Bank draft" does not include:
+
+(i)  a traveler's check; or
+
+(ii)  a money order.
+
+(4)  "Banking organization" means:
+
+(a)  a bank;
+
+(b)  an industrial bank;
+
+(c)  a trust company;
+
+(d)  a savings bank; or
+
+(e)  any organization defined by other law as a bank or banking organization.
+
+(5)  "Business association" means a nonpublic corporation, joint stock company, investment company, business trust, partnership, or association for business purposes of two or more individuals, whether or not for profit, including:
+
+(a)  a banking organization;
+
+(b)  a financial organization;
+
+(c)  an insurance company; or
+
+(d)  a utility.
+
+(6)  "Cashier's check" means a check that:
+
+(a)  is drawn by a banking organization on itself;
+
+(b)  is signed by an officer of the banking organization; and
+
+(c)  authorizes payment of the amount shown on its face to the payee.
+
+(7)  "Class action" means a legal action:
+
+(a)  certified by the court as a class action; or
+
+(b)  treated by the court as a class action without being formally certified as a class action.
+
+(8) (a)  "Deposit in a financial institution" means a demand, savings, or matured time deposit with a banking or financial organization.
+
+(b)  "Deposit in a financial institution" includes:
+
+(i)  any interest or dividends on a deposit; and
+
+(ii)  a deposit that is automatically renewable.
+
+(9)  "Domicile" means:
+
+(a)  the state of incorporation of a corporation; and
+
+(b)  the state of the principal place of business of an unincorporated person.
+
+(10)  "Financial organization" means:
+
+(a)  a savings and loan association; or
+
+(b)  a credit union.
+
+(11)  "Gift card" means a payment device such as a plastic card that:
+
+(a)  is usable at:
+
+(i)  a single merchant;
+
+(ii)  an affiliated group of merchants; or
+
+(iii)  multiple, unaffiliated merchants;
+
+(b)  contains a means for the electronic storage of information including:
+
+(i)  a microprocessor chip;
+
+(ii)  a magnetic stripe; or
+
+(iii)  a bar code;
+
+(c)  is prefunded before it is used, whether or not money may be added to the payment device after it is used; and
+
+(d)  is redeemable for goods or services.
+
+(12)  "Government entity" means:
+
+(a)  the state;
+
+(b)  an administrative unit of the state;
+
+(c)  a political subdivision of the state;
+
+(d)  an administrative unit of a political subdivision of the state; or
+
+(e)  an officer or employee of an entity described in Subsections (12)(a) through (d).
+
+(13)  "Holder" means a person, wherever organized or domiciled, who is:
+
+(a)  in possession of property belonging to another;
+
+(b)  a trustee;
+
+(c)  indebted to another on an obligation; or
+
+(d)  charged with the duty of paying or delivering intangible property under Section 67-4a-302.
+
+(14)  "Insurance company" means an association, corporation, fraternal or mutual benefit organization, whether or not for profit, that is engaged in providing insurance coverage, including:
+
+(a)  accident insurance;
+
+(b)  burial insurance;
+
+(c)  casualty insurance;
+
+(d)  credit life insurance;
+
+(e)  contract performance insurance;
+
+(f)  dental insurance;
+
+(g)  fidelity insurance;
+
+(h)  fire insurance;
+
+(i)  health insurance;
+
+(j)  hospitalization insurance;
+
+(k)  illness insurance;
+
+(l)   life insurance, including endowments and annuities;
+
+(m)  malpractice insurance;
+
+(n)  marine insurance;
+
+(o)  mortgage insurance;
+
+(p)  surety insurance; and
+
+(q)  wage protection insurance.
+
+(15) (a)  "Intangible property" includes:
+
+(i)  money, a check, a draft, a deposit in a financial institution, interest, a dividend, and income;
+
+(ii)  a credit balance, a customer overpayment, a security deposit, a refund, unpaid wages, an unused airline ticket, and an unidentified remittance;
+
+(iii)  a stock, a mutual fund, and other intangible ownership interests in a business association;
+
+(iv)  money deposited to redeem a stock, bond, or coupon, and other securities or to make a distribution;
+
+(v)  a bond, note, and any other debt obligation;
+
+(vi)  an amount due and payable under the terms of an insurance policy;
+
+(vii)  an amount distributable from a trust or custodial fund established under a plan to provide health, welfare, pension, vacation, severance, retirement, death, stock purchase, profit sharing, employee savings, supplemental unemployment insurance or similar benefits; and
+
+(viii)  an amount distributable from a mineral interest in land.
+
+(b)  "Intangible property" does not include patronage capital of an electric, telephone, and agricultural cooperative.
+
+(16)  "Last-known address" means a description of the location of the apparent owner sufficient for the purpose of the delivery of mail.
+
+(17)  "Mineral" means oil, gas, uranium, sulphur, lignite, coal, and any other substance that is ordinarily and naturally considered a mineral, regardless of the depth at which the oil, gas, uranium, sulphur, lignite, coal, or other substance is found.
+
+(18)  "Mineral proceeds" includes:
+
+(a)  all obligations to pay resulting from the production and sale of minerals, including:
+
+(i)  net revenue interest;
+
+(ii)  royalties;
+
+(iii)  overriding royalties;
+
+(iv)  production payments; and
+
+(v)  joint operating agreements; and
+
+(b)  all obligations for the acquisition and retention of a mineral lease, including:
+
+(i)  bonuses;
+
+(ii)  delay rentals;
+
+(iii)  shut-in royalties; and
+
+(iv)  minimum royalties.
+
+(19) (a)  "Money order" means a negotiable draft issued by a business association for which the business association is not directly liable.
+
+(b)  "Money order" does not mean a cashier's check.
+
+(20)  "Net intangible property" means intangible property that is held, issued, or owing in the ordinary course of a holder's business:
+
+(a)  plus any income or increment derived from the intangible property; and
+
+(b)  less any lawful charges.
+
+(21)  "Owner" means:
+
+(a)  a depositor in the case of a deposit;
+
+(b)  a beneficiary in the case of a trust other than a deposit in trust;
+
+(c)  a creditor, claimant, or payee in the case of other intangible property; or
+
+(d)  a person or that person's legal representative having a legal or equitable interest in property subject to this chapter.
+
+(22) (a)  "Ownership purchase funds" means any funds paid toward the purchase of a share, a mutual investment certificate, or any other interest in a banking or financial organization.
+
+(b)  "Ownership purchase funds" includes any interest or dividends paid on those funds.
+
+(23)  "Person" means:
+
+(a)  an individual;
+
+(b)  a business association;
+
+(c)  a government entity;
+
+(d)  a public corporation;
+
+(e)  a public authority;
+
+(f)  an estate;
+
+(g)  a trust;
+
+(h)  two or more persons having a joint or common interest; or
+
+(i)  any other legal or commercial entity.
+
+(24)  "State" means any state, district, commonwealth, territory, insular possession, or any other area subject to the legislative authority of the United States.
+
+(25)  "Utility" means a person who owns or operates for public use any plant, equipment, property, franchise, or license for:
+
+(a)  the transmission of communications, including cable television; or
+
+(b)  the production, storage, transmission, sale, delivery, or furnishing of electricity, water, steam, or gas.
+
+
+
+Amended by Chapter 218, 2010 General Session
+

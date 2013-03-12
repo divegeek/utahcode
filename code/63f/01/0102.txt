@@ -1,0 +1,66 @@
+63F-1-102.   Definitions.
+
+As used in this title:
+
+(1)  "Board" means the Technology Advisory Board created in Section 63F-1-202.
+
+(2)  "Chief information officer" means the chief information officer appointed under Section 63F-1-201.
+
+(3)  "Computer center" means the location at which a central data processing platform is managed to serve multiple executive branch agencies.
+
+(4)  "Data center" means a centralized repository for the storage, management, and dissemination of data.
+
+(5)  "Department" means the Department of Technology Services.
+
+(6) (a)  Except as provided in Subsection (6)(b), "executive branch agency" means an agency or administrative subunit of state government.
+
+(b)  "Executive branch agency" does not include:
+
+(i)  the legislative branch;
+
+(ii)  the judicial branch;
+
+(iii)  the State Board of Education;
+
+(iv)  the Board of Regents;
+
+(v)  institutions of higher education;
+
+(vi)  independent entities as defined in Section 63E-1-102; and
+
+(vii)  elective constitutional offices of the executive department which includes:
+
+(A)  the state auditor;
+
+(B)  the state treasurer; and
+
+(C)  the attorney general.
+
+(7)  "Executive branch strategic plan" means the executive branch strategic plan created under Section 63F-1-203.
+
+(8)  "Information technology" means all computerized and auxiliary automated information handling, including:
+
+(a)  systems design and analysis;
+
+(b)  acquisition, storage, and conversion of data;
+
+(c)  computer programming;
+
+(d)  information storage and retrieval;
+
+(e)  voice, radio, video, and data communications;
+
+(f)  requisite systems controls;
+
+(g)  simulation; and
+
+(h)  all related interactions between people and machines.
+
+(9)  "State information architecture" means a logically consistent set of principles, policies, and standards that guide the engineering of state government's information technology and infrastructure in a way that ensures alignment with state government's business and service needs.
+
+(10)  "Telecommunications" means the transmission or reception of signs, signals, writing, images, sounds, messages, data, or other information of any nature by wire, radio, light waves, or other electromagnetic means.
+
+
+
+Amended by Chapter 270, 2011 General Session
+
