@@ -1,8 +1,0 @@
-70A-4a-206.   Transmission of payment order through funds transfer or other communication system.
-
-If a payment order addressed to a receiving bank is transmitted to a funds transfer system or other third-party communication system for transmittal to the bank, the system is deemed to be an agent of the sender for the purpose of transmitting the payment order to the bank.  If there is a discrepancy between the terms of the payment order transmitted to the system and the terms of the payment order transmitted by the system to the bank, the terms of the payment order of the sender are those transmitted by the system.  This section applies to amendments and cancellations of payment orders to the same extent it applies to payment orders.  This section does not apply to a funds transfer system of the Federal Reserve Banks.
-
-
-
-Enacted by Chapter 294, 1990 General Session
-
