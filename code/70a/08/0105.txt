@@ -1,0 +1,34 @@
+70A-8-105.   Control.
+
+(1)  A purchaser has "control" of a certificated security in bearer form if the certificated security is delivered to the purchaser.
+
+(2)  A purchaser has "control" of a certificated security in registered form if the certificated security is delivered to the purchaser, and:
+
+(a)  the certificate is indorsed to the purchaser or in blank by an effective indorsement; or
+
+(b)  the certificate is registered in the name of the purchaser, upon original issue or registration of transfer by the issuer.
+
+(3)  A purchaser has "control" of an uncertificated security if:
+
+(a)  the uncertificated security is delivered to the purchaser; or
+
+(b)  the issuer has agreed that it will comply with instructions originated by the purchaser without further consent by the registered owner.
+
+(4)  A purchaser has "control" of a security entitlement if:
+
+(a)  the purchaser becomes the entitlement holder;
+
+(b)  the securities intermediary has agreed that it will comply with entitlement orders originated by the purchaser without further consent by the entitlement holder; or
+
+(c)  another person has control of the security entitlement on behalf of the purchaser or, having previously acquired control of the security entitlement, acknowledges that it has control on behalf of the purchaser.
+
+(5)  If an interest in a security entitlement is granted by the entitlement holder to the entitlement holder's own securities intermediary, the securities intermediary has control.
+
+(6)  A purchaser who has satisfied the requirements of Subsection (3)(b) or (4)(b) has control even if the registered owner in the case of Subsection (3)(b) or the entitlement holder in the case of Subsection (4)(b) retains the right to make substitutions for the uncertificated security or security entitlement, to originate instructions or entitlement orders to the issuer or securities intermediary, or otherwise to deal with the uncertificated security or security entitlement.
+
+(7)  An issuer or a securities intermediary may not enter into an agreement of the kind described in Subsection (3)(b) or (4)(b) without the consent of the registered owner or entitlement holder, but an issuer or a securities intermediary is not required to enter into such an agreement even though the registered owner or entitlement holder so directs.  An issuer or securities intermediary that has entered into such an agreement is not required to confirm the existence of the agreement to another party unless requested to do so by the registered owner or entitlement holder.
+
+
+
+Amended by Chapter 252, 2000 General Session
+

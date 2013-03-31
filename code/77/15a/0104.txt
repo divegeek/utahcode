@@ -1,0 +1,104 @@
+77-15a-104.   Hearing -- Notice -- Stay of proceeding -- Examinations of defendant -- Scope of examination -- Report -- Procedures.
+
+(1) (a)  If a defendant proposes to offer evidence concerning or argue that he qualifies for an exemption from the death penalty under Subsection 77-15a-101(1) or (2), the defendant shall file and serve the prosecuting attorney with written notice of his intention as soon as practicable, but not fewer than 60 days before trial.
+
+(b)  If the defendant wishes to claim the exemption provided in Subsection 77-15a-101(2), the defendant shall file and serve the prosecuting attorney with written notice of his intention as soon as practicable, but not fewer than 60 days before trial.
+
+(2)  When notice is given under Subsection (1), the court raises the issue, or a motion is filed regarding Section 77-15a-101, the court may stay all proceedings in order to address the issue.
+
+(3) (a)  The court shall order the Department of Human Services to appoint at least two mental health experts to examine the defendant and report to the court.  The experts:
+
+(i)  may not be involved in the current treatment of the defendant; and
+
+(ii)  shall have expertise in mental retardation assessment.
+
+(b)  Upon appointment of the experts, the defendant or other party as directed by the court shall provide information and materials to the examiners relevant to a determination of the defendant's mental retardation, including copies of the charging document, arrest or incident reports pertaining to the charged offense, known criminal history information, and known prior mental health evaluations and treatments.
+
+(c)  The court may make the necessary orders to provide the information listed in Subsection (3)(b) to the examiners.
+
+(d)  The court may provide in its order appointing the examiners that custodians of mental health records pertaining to the defendant shall provide those records to the examiners without the need for consent of the defendant or further order of the court.
+
+(e)  Prior to examining the defendant, examiners shall specifically advise the defendant of the limits of confidentiality as provided under Section 77-15a-106.
+
+(4)  During any examinations under Subsection (3), unless the court directs otherwise, the defendant shall be retained in the same custody or status he was in at the time the examination was ordered.
+
+(5)  The experts shall in the conduct of their examinations and in their reports to the court consider and address:
+
+(a)  whether the defendant is mentally retarded as defined in Section 77-15a-102;
+
+(b)  the degree of any mental retardation the expert finds to exist;
+
+(c)  whether the defendant has the mental deficiencies specified in Subsection 77-15a-101(2); and
+
+(d)  the degree of any mental deficiencies the expert finds to exist.
+
+(6) (a)  The experts examining the defendant shall provide written reports to the court, the prosecution, and the defense within 60 days of the receipt of the court's order, unless the expert submits to the court a written request for additional time in accordance with Subsection (6)(c).
+
+(b)  The reports shall provide to the court and to prosecution and defense counsel the examiners' written opinions concerning the mental retardation of the defendant.
+
+(c)  If an examiner requests of the court additional time, the examiner shall provide the report to the court and counsel within 90 days from the receipt of the court's order unless, for good cause shown, the court authorizes an additional period of time to complete the examination and provide the report.
+
+(7)  Any written report submitted by an expert shall:
+
+(a)  identify the specific matters referred for evaluation;
+
+(b)  describe the procedures, techniques, and tests used in the examination and the purpose or purposes for each;
+
+(c)  state the expert's clinical observations, findings, and opinions; and
+
+(d)  identify the sources of information used by the expert and present the basis for the expert's clinical findings and opinions.
+
+(8)  Within 30 days after receipt of the report from the Department of Human Services, but not later than five days before hearing, or at any other time the court directs, the prosecuting attorney shall file and serve upon the defendant a notice of witnesses the prosecuting attorney proposes to call in rebuttal.
+
+(9) (a)  Except pursuant to Section 77-15a-105, this chapter does not prevent any party from producing any other testimony as to the mental condition of the defendant.
+
+(b)  Expert witnesses who are not appointed by the court are not entitled to compensation under Subsection (10).
+
+(10) (a)  Expenses of examinations of the defendant ordered by the court under this section shall be paid by the Department of Human Services.
+
+(b)  Travel expenses associated with any court-ordered examination that are incurred by the defendant shall be charged by the Department of Human Services to the county where prosecution is commenced.
+
+(11) (a)  When the report is received, the court shall set a date for a hearing to determine if the exemption under Section 77-15a-101 applies.  The hearing shall be held and the judge shall make the determination within a reasonable time prior to jury selection.
+
+(b)  Prosecution and defense counsel may subpoena to testify at the hearing any person or organization appointed by the Department of Human Services to conduct the examination and any independent examiner.
+
+(c)  The court may call any examiner to testify at the hearing who is not called by the parties.  If the court calls an examiner, counsel for the parties may cross-examine that examiner.
+
+(12) (a)  A defendant is presumed to be not mentally retarded unless the court, by a preponderance of the evidence, finds the defendant to be mentally retarded.  The burden of proof is upon the proponent of mental retardation at the hearing.
+
+(b)  A finding of mental retardation does not operate as an adjudication of mental retardation for any purpose other than exempting the person from a sentence of death in the case before the court.
+
+(13) (a)  The defendant is presumed not to possess the mental deficiencies listed in Subsection 77-15a-101(2) unless the court, by a preponderance of the evidence, finds that the defendant has significant subaverage general intellectual functioning that exists concurrently with significant deficiencies in adaptive functioning and that this functioning was manifested prior to age 22.  The burden of proof is upon the proponent of that proposition.
+
+(b)  If the court finds by a preponderance of the evidence that the defendant has significant subaverage general intellectual functioning that exists concurrently with significant deficiencies in adaptive functioning and that this functioning was manifested prior to age 22, then the burden is upon the state to establish that any confession by the defendant which the state intends to introduce into evidence is supported by substantial evidence independent of the confession.
+
+(14) (a)  If the court finds the defendant mentally retarded, it shall issue an order:
+
+(i)  containing findings of fact and conclusions of law, and addressing each of the factors in Subsections (5)(a) and (b); and
+
+(ii)  stating that the death penalty is not a sentencing option in the case before the court.
+
+(b)  If the court finds by a preponderance of the evidence that the defendant possesses the mental deficiencies listed in Subsection 77-15a-101(2) and that the state fails to establish that any confession is supported by substantial evidence independent of the confession, the state may proceed with its case and:
+
+(i)  introduce the confession into evidence, and the death penalty will not be a sentencing option in the case; or
+
+(ii)  not introduce into evidence any confession or the fruits of a confession that the court has found is not supported by substantial evidence independent of the confession, and the death penalty will be a sentencing option in the case.
+
+(c) (i)  A finding by the court regarding whether the defendant qualifies for an exemption under Section 77-15a-101 is a final determination of that issue for purposes of this chapter.
+
+(ii)  The following questions may not be submitted to the jury by instruction, special verdict, argument, or other means:
+
+(A)  whether the defendant is mentally retarded for purposes of this chapter; and
+
+(B)  whether the defendant possesses the mental deficiencies specified in Subsection 77-15a-101(2).
+
+(iii)  This chapter does not prevent the defendant from submitting evidence of retardation or other mental deficiency to establish a mental condition as a mitigating circumstance under Section 76-3-207.
+
+(15)  A ruling by the court that the defendant is exempt from the death penalty may be appealed by the state pursuant to Subsection 77-18a-1(2)(h).
+
+(16)  Failure to comply with this section does not result in the dismissal of criminal charges.
+
+
+
+Enacted by Chapter 11, 2003 General Session
+
