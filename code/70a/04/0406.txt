@@ -1,0 +1,22 @@
+70A-4-406.   Customer's duty to discover and report unauthorized signature or alteration.
+
+(1)  A bank that sends or makes available to a customer a statement of account showing payment of items for the account shall either return or make available to the customer the items paid or provide information in the statement of account sufficient to allow the customer reasonably to identify the items paid.  The statement of account provides sufficient information if the item is described by item number, amount, and date of payment.
+
+(2)  If the items are not returned to the customer, the person retaining the items shall either retain the items or, if the items are destroyed, maintain the capacity to furnish legible copies of the items until the expiration of seven years after receipt of the items.  A customer may request an item from the bank that paid the item, and that bank must provide in a reasonable time either the item, or if the item has been destroyed or is not otherwise obtainable, a legible copy of the item.
+
+(3)  If a bank sends or makes available a statement of account or items pursuant to Subsection (1), the customer must exercise reasonable promptness in examining the statement or the items to determine whether any payment was not authorized because of an alteration of an item or because a purported signature by or on behalf of the customer was not authorized.  If, based on the statement or items provided, the customer should reasonably have discovered the unauthorized payment, the customer must promptly notify the bank of the relevant facts.
+
+(4)  If the bank proves that the customer failed with respect to an item, to comply with the duties imposed on the customer by Subsection (3), the customer is precluded from asserting against the bank:
+
+(a)  the customer's unauthorized signature or any alteration on the item if the bank also proves that it suffered a loss by reason of the failure; and
+
+(b)  the customer's unauthorized signature or alteration by the same wrongdoer on any other item paid in good faith by the bank if the payment was made before the bank received notice from the customer of the unauthorized signature or alteration and after the customer had been afforded a reasonable period of time, not exceeding 30 days, in which to examine the item or statement of account and notify the bank.
+
+(5)  If Subsection (4) applies and the customer proves that the bank failed to exercise ordinary care in paying the item and that the failure substantially contributed to loss, the loss is allocated between the customer precluded and the bank asserting the preclusion according to the extent to which the failure of the customer to comply with Subsection (3) and the failure of the bank to exercise ordinary care contributed to the loss.  If the customer proves that the bank did not pay the item in good faith, the preclusion under Subsection (4) does not apply.
+
+(6)  Without regard to care or lack of care of either the customer or the bank, a customer who does not within one year  after the statement or items are made available to the customer, Subsection (1), discover and report the customer's unauthorized signature or any alteration on the item is precluded from asserting against the bank the unauthorized signature or alteration.  If there is a preclusion under this subsection, the payor bank may not recover for breach of warranty under Section 70A-4-207 with respect to the unauthorized signature or alteration to which the preclusion applies.
+
+
+
+Amended by Chapter 237, 1993 General Session
+
