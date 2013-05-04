@@ -1,0 +1,20 @@
+63F-1-402.   Definitions.
+
+As used in this chapter, "enterprise architecture" means information technology assets and functions that can be applied across state government and include:
+
+(1)  computing devices such as mainframes, servers, desktop devices, and peripherals;
+
+(2)  networks;
+
+(3)  enterprise wide applications;
+
+(4)  maintenance and help desk functions for common hardware and applications;
+
+(5)  standards for other computing devices, operating systems, common applications, and software; and
+
+(6)  master contracts that are available for use by agencies for various systems such as operating systems, database, enterprise resource planning and customer relationship management software, application development services, and enterprise integration.
+
+
+
+Enacted by Chapter 169, 2005 General Session
+
