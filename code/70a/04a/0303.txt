@@ -1,0 +1,18 @@
+70A-4a-303.   Erroneous execution of payment order.
+
+(1)  A receiving bank that executes the payment order of the sender by issuing a payment order in an amount greater than the amount of the sender's order, or issues a payment order in execution of the sender's order and then issues a duplicate order, is entitled to payment of the amount of the sender's order in accordance with Subsection 70A-4a-402(3) if that subsection is otherwise satisfied.  The bank is entitled to recover from the beneficiary of the erroneous order the excess payment received to the extent allowed by the law governing mistake and restitution.
+
+(2) (a)  A receiving bank that executes the payment order of the sender by issuing a payment order in an amount less than the amount of the sender's order is entitled to payment of the amount of the sender's order in accordance with Subsection 70A-4a-402(3) if:
+
+(i)  that subsection is otherwise satisfied; and
+
+(ii)  the bank corrects its mistake by issuing an additional payment order for the benefit of the beneficiary of the sender's order.
+
+(b)  If the error is not corrected, the issuer of the erroneous order is entitled to receive or retain payment from the sender of the order it accepted only to the extent of the amount of the erroneous order.  This subsection does not apply if the receiving bank executes the sender's payment order by issuing a payment order in an amount less than the amount of the sender's order for the purpose of obtaining payment of its charges for services and expenses pursuant to instruction of the sender.
+
+(3)  If a receiving bank executes the payment order of the sender by issuing a payment order to a beneficiary different from the beneficiary of the sender's order and the funds transfer is completed on the basis of that error, the sender of the payment order that was erroneously executed and all previous senders in the funds transfer are not obliged to pay the payment orders they issued.  The issuer of the erroneous order is entitled to recover from the beneficiary of the order the payment received to the extent allowed by the law governing mistake and restitution.
+
+
+
+Amended by Chapter 237, 1993 General Session
+

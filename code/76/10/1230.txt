@@ -1,0 +1,44 @@
+76-10-1230.   Definitions.
+
+As used in Sections 76-10-1231 and 76-10-1233:
+
+(1)  "Consumer" means a natural person residing in this state who subscribes to a service provided by a service provider for personal or residential use.
+
+(2)  "Content provider" means a person domiciled in Utah or that generates or hosts content in Utah, and that creates, collects, acquires, or organizes electronic data for electronic delivery to a consumer with the intent of making a profit.
+
+(3) (a)  "Hosting company" means a person that provides services or facilities for storing or distributing content over the Internet without editorial or creative alteration of the content.
+
+(b)  A hosting company may have policies concerning acceptable use without becoming a content provider under Subsection (2).
+
+(4) (a)  "Internet service provider" means a person engaged in the business of providing a computer communications facility in Utah, with the intent of making a profit, through which a consumer may obtain access to the Internet.
+
+(b)  "Internet service provider" does not include a common carrier if it provides only telecommunications service.
+
+(5)  "Properly rated" means content using a labeling system to label material harmful to minors provided by the content provider in a way that:
+
+(a)  accurately apprises a consumer of the presence of material harmful to minors; and
+
+(b)  allows the consumer the ability to control access to material harmful to minors based on the material's rating by use of reasonably priced commercially available software, including software in the public domain.
+
+(6)  "Restrict" means to limit access to material harmful to minors by:
+
+(a)  properly rating content; or
+
+(b)  any other reasonable measures feasible under available technology.
+
+(7) (a)  Except as provided in Subsection (7)(b), "service provider" means an Internet service provider.
+
+(b)  "Service provider" does not include a person who does not terminate a service in this state, but merely transmits data through:
+
+(i)  a wire;
+
+(ii)  a cable; or
+
+(iii)  an antenna.
+
+(c)  "Service provider," notwithstanding Subsection (7)(b), includes a person who meets the requirements of Subsection (7)(a) and leases or rents a wire or cable for the transmission of data.
+
+
+
+Amended by Chapter 297, 2008 General Session
+

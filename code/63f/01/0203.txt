@@ -1,0 +1,62 @@
+63F-1-203.   Executive branch information technology strategic plan.
+
+(1)  In accordance with this section, the chief information officer shall prepare an executive branch information technology strategic plan:
+
+(a)  that complies with this chapter; and
+
+(b)  which shall include:
+
+(i)  a strategic plan for the:
+
+(A)  interchange of information related to information technology between executive branch agencies;
+
+(B)  coordination between executive branch agencies in the development and maintenance of information technology and information systems, including the coordination of agency information technology plans described in Section 63F-1-204; and
+
+(C)  protection of the privacy of individuals who use state information technology or information systems, including the implementation of industry best practices for data and system security that are identified in Subsection 63F-1-104(3);
+
+(ii)  priorities for the development and implementation of information technology or information systems including priorities determined on the basis of:
+
+(A)  the importance of the information technology or information system; and
+
+(B)  the time sequencing of the information technology or information system; and
+
+(iii)  maximizing the use of existing state information technology resources.
+
+(2)  In the development of the executive branch strategic plan, the chief information officer shall consult with:
+
+(a)  all cabinet level officials;
+
+(b)  the advisory board created in Section 63F-1-202; and
+
+(c)  the group convened in accordance with Subsection 63F-1-104(3).
+
+(3) (a)  Unless withdrawn by the chief information officer or the governor in accordance with Subsection (3)(b), the executive branch strategic plan takes effect 30 days after the day on which the executive branch strategic plan is submitted to:
+
+(i)  the governor; and
+
+(ii)  the Public Utilities and Technology Interim Committee.
+
+(b)  The chief information officer or the governor may withdraw the executive branch strategic plan submitted under Subsection (3)(a) if the governor or chief information officer determines that the executive branch strategic plan:
+
+(i)  should be modified; or
+
+(ii)  for any other reason should not take effect.
+
+(c)  The Public Utilities and Technology Interim Committee may make recommendations to the governor and to the chief information officer if the commission determines that the executive branch strategic plan should be modified or for any other reason should not take effect.
+
+(d)  Modifications adopted by the chief information officer shall be resubmitted to the governor and the Public Utilities and Technology Interim Committee for their review or approval as provided in Subsections (3)(a) and (b).
+
+(4) (a)  The chief information officer shall, on or before January 1, 2014, and each year thereafter, modify the executive branch information technology strategic plan to incorporate security standards that:
+
+(i)  are identified as industry best practices in accordance with Subsections 63F-1-104(3) and (4); and
+
+(ii)  can be implemented within the budget of the department or the executive branch agencies.
+
+(b)  The chief information officer shall inform the speaker of the House of Representatives and the president of the Senate on or before January 1 of each year if best practices identified in Subsection (4)(a)(i) are not adopted due to budget issues considered under Subsection (4)(a)(ii).
+
+(5)  The executive branch strategic plan is to be implemented by executive branch agencies through each executive branch agency adopting an agency information technology plan in accordance with Section 63F-1-204.
+
+
+
+Amended by Chapter 53, 2013 General Session
+

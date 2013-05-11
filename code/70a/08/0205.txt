@@ -1,0 +1,12 @@
+70A-8-205.    Effect of unauthorized signature on security certificate.
+
+An unauthorized signature placed on a security certificate before or in the course of issue is ineffective, but the signature is effective in favor of a purchaser for value of the certificated security if the purchaser is without notice of the lack of authority and the signing has been done by:
+
+(1)  an authenticating trustee, registrar, transfer agent, or other person entrusted by the issuer with the signing of the security certificate or of similar security certificates, or the immediate preparation for signing of any of them; or
+
+(2)  an employee of the issuer, or of any of the persons listed in Subsection (1), entrusted with responsible handling of the security certificate.
+
+
+
+Repealed and Re-enacted by Chapter 204, 1996 General Session
+

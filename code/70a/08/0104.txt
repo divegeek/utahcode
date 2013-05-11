@@ -1,0 +1,30 @@
+70A-8-104.   Notice of adverse claim.
+
+(1)  A person has notice of an adverse claim if:
+
+(a)  the person knows of the adverse claim;
+
+(b)  the person is aware of facts sufficient to indicate that there is a significant probability that the adverse claim exists and deliberately avoids information that would establish the existence of the adverse claim; or
+
+(c)  the person has a duty, imposed by statute or regulation, to investigate whether an adverse claim exists, and the investigation so required would establish the existence of the adverse claim.
+
+(2)  Having knowledge that a financial asset or interest therein is or has been transferred by a representative imposes no duty of inquiry into the rightfulness of a transaction and is not notice of an adverse claim.  However, a person who knows that a representative has transferred a financial asset or interest therein in a transaction that is, or whose proceeds are being used, for the individual benefit of the representative or otherwise in breach of duty has notice of an adverse claim.
+
+(3)  An act or event that creates a right to immediate performance of the principal obligation represented by a security certificate or sets a date on or after which the certificate is to be presented or surrendered for redemption or exchange does not itself constitute notice of an adverse claim except in the case of a transfer more than:
+
+(a)  one year after a date set for presentment or surrender for redemption or exchange; or
+
+(b)  six months after a date set for payment of money against presentation or surrender of the certificate, if money was available for payment on that date.
+
+(4)  A purchaser of a certificated security has notice of an adverse claim if the security certificate:
+
+(a)  whether in bearer or registered form, has been indorsed "for collection" or "for surrender" or for some other purpose not involving transfer; or
+
+(b)  is in bearer form and has on it an unambiguous statement that it is the property of a person other than the transferor, but the mere writing of a name on the certificate is not such a statement.
+
+(5)  Filing of a financing statement under Chapter 9 is not notice of an adverse claim to a financial asset.
+
+
+
+Repealed and Re-enacted by Chapter 204, 1996 General Session
+

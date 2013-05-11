@@ -1,0 +1,18 @@
+20A-14-102.   State Board of Education districts.
+
+(1) (a)  The Legislature shall file a copy of the Board shapefile enacted by the Legislature with the lieutenant governor's office.
+
+(b)  The legal boundaries of State Board of Education districts are contained in the Board shapefile on file with the lieutenant governor's office.
+
+(2) (a)  The lieutenant governor shall:
+
+(i)  generate maps of each State Board of Education district from the Board shapefile; and
+
+(ii)  ensure that those maps are available for viewing on the lieutenant governor's website.
+
+(b)  If there is any inconsistency between the maps and the Board shapefile, the Board shapefile is controlling.
+
+
+
+Amended by Chapter 455, 2013 General Session
+
