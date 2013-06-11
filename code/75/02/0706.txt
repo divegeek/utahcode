@@ -1,0 +1,42 @@
+75-2-706.   Definitions -- Life insurance -- Retirement plan -- Account with POD designation -- Transfer-on-death registration -- Deceased beneficiary -- Substitute gift -- Protection of payors and bona fide purchasers -- Personal liability of recipient.
+
+(1)  As used in this section:
+
+(a)  "Alternative beneficiary designation" means a beneficiary designation that is expressly created by the governing instrument and, under the terms of the governing instrument, can take effect instead of another beneficiary designation on the happening of one or more events, including survival of the decedent or failure to survive the decedent, whether an event is expressed in condition-precedent, condition-subsequent, or any other form.
+
+(b)  "Beneficiary" means the beneficiary of a beneficiary designation under which the beneficiary shall survive the decedent and includes:
+
+(i)  a class member if the beneficiary designation is in the form of a class gift; and
+
+(ii)  an individual or class member who was deceased at the time the beneficiary designation was executed as well as an individual or class member who was then living but who failed to survive the decedent, but excludes a joint tenant of a joint tenancy with the right of survivorship and a party to a joint and survivorship account.
+
+(c)  "Beneficiary designation" includes an alternative beneficiary designation and a beneficiary designation in the form of a class gift.
+
+(d)  "Class member" includes an individual who fails to survive the decedent but who would have taken under a beneficiary designation in the form of a class gift had he survived the decedent.
+
+(e)  "Stepchild" means a child of the decedent's surviving, deceased, or former spouse, and not of the decedent.
+
+(f)  "Surviving beneficiary" or "surviving descendant" means a beneficiary or a descendant who neither predeceased the decedent nor is considered to have predeceased the decedent under Section 75-2-702.
+
+(2)  If a beneficiary fails to survive the decedent and is a grandparent, a descendant of a grandparent, or a stepchild of the decedent, the following apply:
+
+(a)  Except as provided in Subsection (2)(d), if the beneficiary designation is not in the form of a class gift and the deceased beneficiary leaves surviving descendants, a substitute gift is created in the beneficiary's surviving descendants.  They take per capita at each generation the property to which the beneficiary would have been entitled had the beneficiary survived the decedent.
+
+(b)  Except as provided in Subsection (2)(d), if the beneficiary designation is in the form of a class gift, other than a beneficiary designation to "issue," "descendants," "heirs of the body," "heirs," "next-of-kin," "relatives," or "family," or a class described by language of similar import, a substitute gift is created in the surviving descendants of any deceased beneficiary.  The property to which the beneficiaries would have been entitled had all of them survived the decedent passes to the surviving beneficiaries and the surviving descendants of the deceased beneficiaries.  Each surviving beneficiary takes the share to which he would have been entitled had the deceased beneficiaries survived the decedent.  Each deceased beneficiary's surviving descendants who are substituted for the deceased beneficiary take per capita at each generation the share to which the deceased beneficiary would have been entitled had the deceased beneficiary survived the decedent.  For the purposes of this paragraph, "deceased beneficiary" means a class member who failed to survive the decedent and left one or more surviving descendants.
+
+(c)  For the purposes of Section 75-2-701, words of survivorship, such as in a beneficiary designation to an individual "if he survives me," or in a beneficiary designation to "my surviving children," are, in the absence of clear and convincing evidence, a sufficient indication of an intent contrary to the application of this section.
+
+(d)  If a governing instrument creates an alternative beneficiary designation with respect to a beneficiary designation for which a substitute gift is created by Subsection (2)(a) or (b), the substitute gift is superseded by the alternative beneficiary designation only if an expressly designated beneficiary of the alternative beneficiary designation is entitled to take.
+
+(3) (a)  A payor is protected from liability in making payments under the terms of the beneficiary designation until the payor has received written notice of a claim to a substitute gift under this section.  Payment made before the receipt of written notice of a claim to a substitute gift under this section discharges the payor, but not the recipient, from all claims for the amounts paid.  A payor is liable for a payment made after the payor has received written notice of the claim.  A recipient is liable for a payment received, whether or not written notice of the claim is given.
+
+(b)  The written notice of the claim shall be mailed to the payor's main office or home by registered or certified mail, return receipt requested, or served upon the payor in the same manner as a summons in a civil action.  Upon receipt of written notice of the claim, a payor may pay any amount owed by it to the court having jurisdiction of the probate proceedings relating to the decedent's estate or, if no proceedings have been commenced, to the court having jurisdiction of probate proceedings relating to the decedent's estates located in the county of the decedent's residence.  The court shall hold the funds and, upon its determination under this section, shall order disbursement in accordance with the determination.  Payment made to the court discharges the payor from all claims for the amounts paid.
+
+(4) (a)  A person who purchases property for value and without notice, or who receives a payment or other item of property in partial or full satisfaction of a legally enforceable obligation, is neither obligated under this section to return the payment, item of property, or benefit nor is liable under this section for the amount of the payment or the value of the item of property or benefit.  But a person who, not for value, receives a payment, item of property, or any other benefit to which the person is not entitled under this section is obligated to return the payment, item of property, or benefit, or is personally liable for the amount of the payment or the value of the item of property or benefit, to the person who is entitled to it under this section.
+
+(b)  If this section or any part of this section is preempted by federal law with respect to a payment, an item of property, or any other benefit covered by this section, a person who, not for value, receives the payment, item of property, or any other benefit to which the person is not entitled under this section is obligated to return the payment, item of property, or benefit, or is personally liable for the amount of the payment or the value of the item of property or benefit, to the person who would have been entitled to it were this section or part of this section not preempted.
+
+
+
+Enacted by Chapter 39, 1998 General Session
+

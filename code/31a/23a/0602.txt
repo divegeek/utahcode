@@ -1,0 +1,78 @@
+31A-23a-602.   Required contract provisions.
+
+A person, firm, association, or corporation acting in the capacity of a managing general agent may not place business with an insurer unless there is in force a written contract between the parties which sets forth the responsibilities of each party, and where both parties share responsibility for a particular function, the contract specifies the division of shared responsibilities.  The written contract shall contain the following minimum provisions:
+
+(1)  The insurer may terminate the contract for cause upon written notice to the managing general agent.  The insurer may suspend the underwriting authority of the managing general agent during the pendency of any dispute regarding the cause for termination.
+
+(2)  The managing general agent will render accounts to the insurer detailing all transactions and remit all funds due under the contract to the insurer at least monthly.
+
+(3)  All funds collected for the account of an insurer will be held by the managing general agent in a fiduciary capacity in a bank which is insured by the FDIC.  This account shall be used for all payments on behalf of the insurer.  The managing general agent may retain no more than three months estimated claims payments and allocated loss adjustment expenses.
+
+(4)  Separate records of business written by the managing general agent shall be maintained.  The insurer shall have access and the right to copy all accounts and records related to its business and shall have access to all books, bank accounts, and records of the managing general agent.  The records shall be retained according to Section 31A-23a-412 and shall be kept in a form usable by the insurer and the commissioner.
+
+(5)  The contract may not be assigned in whole or part by the managing general agent.
+
+(6)  The insurer shall have the right to cancel or nonrenew any policy of insurance subject to the applicable laws and rules.  The contract shall contain appropriate underwriting guidelines including:
+
+(a)  the maximum annual premium volume;
+
+(b)  the basis of the rates to be charged;
+
+(c)  the types of risks which may be written;
+
+(d)  maximum limits of liability;
+
+(e)  applicable exclusions;
+
+(f)  territorial limitations;
+
+(g)  policy cancellation provisions; and
+
+(h)  the maximum policy period.
+
+(7)  If the contract permits the managing general agent to settle claims on behalf of the insurer:
+
+(a)  All claims shall be reported to the company in a timely manner.
+
+(b)  A copy of the claim file shall be sent to the insurer at its request, or as soon as it becomes known that the claim:
+
+(i)  has the potential to exceed the lesser of an amount determined by the commissioner or the limit set by the company;
+
+(ii)  involves a coverage dispute;
+
+(iii)  may exceed the managing general agent's claims settlement authority;
+
+(iv)  is open for more than six months; or
+
+(v)  is closed by payment the lesser of an amount set by the commissioner or an amount set by the company.
+
+(c)  All claim files will be the joint property of the insurer and managing general agent.  However, upon an order of liquidation of the insurer, the files become the sole property of the insurer or its estate.  The managing general agent shall have reasonable access to and the right to copy the files on a timely basis.
+
+(d)  Any settlement authority granted to the managing general agent may be terminated for cause upon the insurer's written notice to the managing general agent or upon the termination of the contract.  The insurer may suspend the settlement authority during the pendency of any dispute regarding the cause for termination.
+
+(8)  Where electronic claims files are in existence, the contract shall address the timely transmission of the data.
+
+(9)  If the contract provides for a sharing of interim profits by the managing general agent, and the managing general agent has the authority to determine the amount of the interim profits by establishing loss reserves, controlling claim payments, or in any other manner, interim profits may not be paid to the managing general agent until one year after they are earned for property insurance business, and five years after they are earned on casualty business, but not until the profits have been verified by a review conducted pursuant to Section 31A-23a-603.
+
+(10)  The managing general agent may not:
+
+(a)  bind reinsurance or retrocessions on behalf of the insurer, except that the managing general agent may bind facultative reinsurance contracts pursuant to obligatory facultative agreements if the contract with the insurer contains reinsurance underwriting guidelines including, for both reinsurance assumed and ceded, a list of reinsurers with which the automatic agreements are in effect, the coverages and amounts or percentages that may be reinsured, and commission schedules;
+
+(b)  commit the insurer to participate in insurance or reinsurance syndicates;
+
+(c)  appoint any producer without assuring that the producer is lawfully licensed to transact the type of insurance for which the producer is appointed;
+
+(d)  without prior approval of the insurer, pay or commit the insurer to pay a claim over a specified amount, net of reinsurance, which may not exceed 1% of the insurer's policyholder's surplus as of December 31 of the last completed calendar year;
+
+(e)  collect any payment from a reinsurer or commit the insurer to any claim settlement with a reinsurer without prior approval of the insurer; if prior approval is given, a report shall be promptly forwarded to the insurer;
+
+(f)  permit its subproducer to serve on the insurer's board of directors;
+
+(g)  jointly employ an individual who is employed with the insurer; or
+
+(h)  appoint a submanaging general agent.
+
+
+
+Amended by Chapter 297, 2011 General Session
+

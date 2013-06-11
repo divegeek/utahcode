@@ -1,0 +1,34 @@
+41-1a-1502.   Definitions.
+
+As used in this part:
+
+(1) (a)  "Event data" means records of one or more of the following categories of information regarding a motor vehicle that are captured by an event data recorder:
+
+(i)  whether the vehicle's air bag deployed;
+
+(ii)  vehicle speed;
+
+(iii)  vehicle steering performance;
+
+(iv)  vehicle brake performance or use; or
+
+(v)  vehicle seatbelt status or use.
+
+(b)  "Event data" does not include audio and video data.
+
+(2)  "Event data recorder" has the same meaning as defined in 49 C.F.R. Sec. 563.5 as in effect on May 14, 2013.
+
+(3) (a)  "Owner" means:
+
+(i)  a person having all the incidents of ownership of a motor vehicle, including legal title to the motor vehicle;
+
+(ii)  a person entitled to possession of a motor vehicle as the purchaser under a security agreement; or
+
+(iii)  a person entitled to possession of a motor vehicle as a lessee under a written lease agreement if the lease agreement is intended to last for more than three months at its inception.
+
+(b)  "Owner" does not include a lienholder unless the lienholder gains possession of the motor vehicle because the person entitled to possession of a motor vehicle as the purchaser under a security agreement defaults on the loan.
+
+
+
+Enacted by Chapter 189, 2013 General Session
+
