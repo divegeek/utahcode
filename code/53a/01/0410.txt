@@ -1,0 +1,88 @@
+53A-1-410.   Utah Futures funding.
+
+(1)  As used in this section:
+
+(a)  "Education provider" means:
+
+(i)  a Utah institution of higher education as defined in Section 53B-2-101; or
+
+(ii)  a Utah provider of postsecondary education.
+
+(b)  "Student user" means:
+
+(i)  a Utah student in kindergarten through grade 12;
+
+(ii)  a Utah post secondary education student;
+
+(iii)  a parent or guardian of a Utah public education student; or
+
+(iv)  a Utah potential post secondary education student.
+
+(c)  "Other user" means:
+
+(i)  a jobseeker;
+
+(ii)  an adult user;
+
+(iii)  a Utah business user; or
+
+(iv)  any Utah citizen.
+
+(d)  "Utah Futures" means a career planning program developed and administered by the Department of Workforce Services, the State Board of Regents, and the State Board of Education.
+
+(e)  "Utah Futures Steering Committee" means a committee of members designated by the governor to administer and manage Utah Futures in collaboration with the Department of Workforce Services, the State Board of Regents, and the State Board of Education.
+
+(2)  The Utah Futures Steering Committee shall ensure, as funding allows and is feasible, that Utah Futures will:
+
+(a)  allow a student user to:
+
+(i)  access the student user's full academic record;
+
+(ii)  electronically allow the student user to give access to the student user's academic record and related information to an education provider as allowed by law;
+
+(iii)  access information about different career opportunities and understand the related educational requirements to enter that career;
+
+(iv)  access information about education providers;
+
+(v)  access up to date information about entrance requirements to education providers;
+
+(vi)  apply for entrance to multiple schools without having to fully replicate the application process;
+
+(vii)  apply for loans, scholarships, or grants from multiple education providers in one location without having to fully replicate the application process for multiple education providers; and
+
+(viii)  research open jobs from different companies within the user's career interest and apply for those jobs without having to leave the website to do so;
+
+(b)  allow an education provider to:
+
+(i)  research and find student users who are interested in various educational outcomes;
+
+(ii)  promote the education provider's programs and schools to student users; and
+
+(iii)  connect with student users within the Utah Futures website;
+
+(c)  allow a Utah business to:
+
+(i)  research and find student users who are pursuing educational outcomes that are consistent with jobs the Utah business is trying to fill now or in the future; and
+
+(ii)  market jobs and communicate with student users through the Utah Futures website as allowed by law;
+
+(d)  allow the Department of Workforce Services to analyze and report on student user interests, education paths, and behaviors within the education system so as to predictively determine appropriate career and educational outcomes and results; and
+
+(e)  allow all users of the Utah Futures' system to communicate and interact through social networking tools within the Utah Futures website as allowed by law.
+
+(3)  On or before May 15, 2012, the State Board of Education, in consultation with the Utah Futures Steering Committee, may select a technology provider, through a request for proposals process, to provide technology and support for Utah Futures.
+
+(4)  In evaluating proposals under Subsection (3), the State Board of Education and the Utah Futures Steering Committee shall ensure that the technology provided by a proposer:
+
+(a)  allows Utah Futures to license and host the selected technologies on Utah Futures' servers;
+
+(b)  allows Utah Futures to protect and control all user data within the system;
+
+(c)  allows Utah Futures to directly control and update the user interface, APIs, and web services software layers as needed; and
+
+(d)  provides the ability for a student user to have a secure profile and login to access and to store personal information related to the services listed in Subsection (2) via the Internet.
+
+
+
+Enacted by Chapter 392, 2012 General Session
+

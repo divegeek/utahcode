@@ -1,0 +1,48 @@
+20A-2-206.   Electronic registration -- Requests for absentee ballot application.
+
+(1)  The lieutenant governor may create and maintain an electronic system for voter registration and requesting an absentee ballot that is publicly available on the Internet.
+
+(2)  An electronic system for voter registration shall require:
+
+(a)  that an applicant have a valid driver license or identification card, issued under Title 53, Chapter 3, Uniform Driver License Act, that reflects the person's current principal place of residence;
+
+(b)  that the applicant provide the information required by Section 20A-2-104, except that the applicant's signature may be obtained in the manner described in Subsections (2)(d) and (4);
+
+(c)  that the applicant attest to the truth of the information provided; and
+
+(d)  that the applicant authorize the lieutenant governor's and county clerk's use of the applicant's driver license or identification card signature, obtained under Title 53, Chapter 3, Uniform Driver License Act, for voter registration purposes.
+
+(3)  Notwithstanding Section 20A-2-104, an applicant using the electronic system for voter registration created under this section is not required to complete a printed registration form.
+
+(4)  A system created and maintained under this section shall provide the notices concerning a voter's presentation of identification contained in Subsection 20A-2-104(1).
+
+(5)  The lieutenant governor shall obtain a digital copy of the applicant's driver license or identification card signature from the Driver License Division.
+
+(6)  Upon receiving all information from an applicant and the Driver License Division, the lieutenant governor shall send the information to the county clerk for the county in which the applicant's principal place of residence is found for further action as required by Section 20A-2-304.
+
+(7)  The lieutenant governor may use additional security measures to ensure the accuracy and integrity of an electronically submitted voter registration.
+
+(8) (a)  If an individual applies to register under this section during the period beginning on the date after the voter registration deadline and ending on the date that is 15 calendar days before the date of an election, the county clerk shall:
+
+(i)  accept the application for registration if the individual, on the date of the election, will be legally qualified and entitled to vote in a voting precinct in the state; and
+
+(ii)  inform the individual that:
+
+(A)  the individual is registered to vote in the pending election; and
+
+(B)  for the pending election, the individual must vote on the day of the election and is not eligible to vote using early voting under Chapter 3, Part 6, Early Voting, because the individual registered too late.
+
+(b)  If an individual applies to register under this section during the 14 calendar days before an election, the county clerk shall:
+
+(i)  accept the application for registration if the individual, on the date of the election, will be legally qualified and entitled to vote in a voting precinct in the state; and
+
+(ii)  inform the individual that the individual is registered to vote but may not vote in the pending election because the individual registered too late.
+
+(9) (a)  A registered voter may file an application for an absentee ballot in accordance with Section 20A-3-304 on the electronic system for voter registration established under this section.
+
+(b)  The lieutenant governor shall provide a means by which a registered voter shall sign the application form as provided in Section 20A-3-304.
+
+
+
+Amended by Chapter 17, 2011 General Session
+

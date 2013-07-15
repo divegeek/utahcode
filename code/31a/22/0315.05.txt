@@ -1,0 +1,46 @@
+31A-22-315.5.   Motor vehicle insurance verification -- Penalty.
+
+(1) (a)  Except as provided in Subsection (1)(b), and in addition to the reporting requirements under Section 31A-22-315, each insurer that issues a policy that includes motor vehicle liability coverage, uninsured motorist coverage, underinsured motorist coverage, or personal injury coverage under this part shall, upon request, provide to the Department of Public Safety's designated agent selected in accordance with Title 41, Chapter 12a, Part 8, Uninsured Motorist Identification Database Program, verification of whether or not a motor vehicle insurance policy is in effect for a specified vehicle.
+
+(b)  An insurer that issues a policy that includes motor vehicle liability coverage, uninsured motorist coverage, underinsured motorist coverage, or personal injury coverage under this part is not required to provide verification of a motor vehicle insurance policy in effect for a vehicle to the Department of Public Safety's designated agent under Subsection (1)(a) if:
+
+(i)  the policy covers a vehicle that is registered under Section 41-1a-221, 41-1a-222, or 41-1a-301;
+
+(ii)  the policy covers a commercial motor vehicle; or
+
+(iii)  the insurer issues insurance for less than 500 motor vehicles.
+
+(2)  Each insurer shall provide the verification required under Subsection (1) using an electronic service established by the insurers, through the Internet, world wide web, or a similar proprietary or common carrier electronic system that:
+
+(a)  is compliant with:
+
+(i)  the specifications and standards of the Insurance Industry Committee on Motor Vehicle Administration; and
+
+(ii)  other applicable industry standards;
+
+(b)  is available 24 hours a day, seven days a week, subject to reasonable allowances for:
+
+(i)  scheduled maintenance; or
+
+(ii)  temporary system failures; and
+
+(c)  includes appropriate security measures, consistent with industry standards, to:
+
+(i)  secure its data against unauthorized access; and
+
+(ii)  maintain a record of all information requests.
+
+(3) (a)  The commissioner may, following procedures set forth in Title 63G, Chapter 4, Administrative Procedures Act, assess a fine against an insurer of up to $250 for each day the insurer fails to comply with this section.
+
+(b)  The commissioner shall excuse the fine if an insurer shows that the failure to comply with this section was:
+
+(i)  inadvertent;
+
+(ii)  accidental; or
+
+(iii)  the result of excusable neglect.
+
+
+
+Enacted by Chapter 243, 2012 General Session
+

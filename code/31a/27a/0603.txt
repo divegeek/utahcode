@@ -1,0 +1,102 @@
+31A-27a-603.   Allowance of claims.
+
+(1) (a)  Except as provided in Subsections (11) and (12), the liquidator shall:
+
+(i)  review all claims filed in the liquidation proceeding in accordance with this chapter; and
+
+(ii)  further investigate a claim, as the liquidator considers necessary.
+
+(b)  Consistent with this chapter, the liquidator may allow, disallow, or compromise a claim that will be recommended to the receivership court unless the liquidator is required by law to accept the claim as settled by a person, including an affected guaranty association, subject to a statutory or contractual right of the affected reinsurers to participate in the claims allowance process.
+
+(c)  Notwithstanding any other provision of this chapter, a claim under a policy of insurance may not be allowed for an amount in excess of the applicable policy limits.
+
+(2) (a)  Pursuant to the review required by Subsection (1), the liquidator shall provide notice of the claim determination to the claimant or the claimant's attorney.
+
+(b)  The notice required by this Subsection (2) shall set forth:
+
+(i)  the amount of the claim allowed by the liquidator, if any;
+
+(ii)  the priority class of the claim as established in Section 31A-27a-701; and
+
+(iii)  if the claim is denied, the reason for the denial.
+
+(c)  In regard to a claim to be allowed pursuant to Section 31A-27a-605, preliminary notice of the amount of the claim determination shall be provided to any reinsurer that is or may be liable in respect to the claim at least 45 days before the day on which notice is provided to the claimant pursuant to this Subsection (2).
+
+(d)  In regard to a claim being allowed other than pursuant to Section 31A-27a-605, the notice sent to the claimant may be provided to any reinsurer that is or may be liable in respect to the claim.
+
+(e)  If no timely objection is submitted, the claim determination is binding on the reinsurer upon allowance.
+
+(3) (a)  Within 45 days after the day on which the notice described in Subsection (2) is mailed, the claimant noticed may submit a written objection to the liquidator.
+
+(b)  An objection provided for under this Subsection (3) shall clearly set out:
+
+(i)  all facts and the legal basis, if any, for the objection; and
+
+(ii)  the reasons why the claim should be allowed at a different amount or in a different priority class.
+
+(c)  If no timely objection is submitted, the claimant may not further object, and the determination is final.
+
+(d)  The liquidator may accelerate the allowance of a claim by obtaining a waiver of an objection.
+
+(4) (a)  A claim that is not mature as of the coverage termination date established under Section 31A-27a-402 may be allowed as if it were mature, except the claim shall be discounted to present value.
+
+(b)  A claim is not mature if payment on the claim is not yet due.
+
+(5)  The following is not required to be considered as evidence of liability or of the amount of damages:
+
+(a)  a judgment or order against an insured or the insurer entered:
+
+(i)  after the day on which a successful petition for receivership is initially filed; or
+
+(ii)  within 120 days before the day on which the petition is initially filed; or
+
+(b)  a judgment or order against an insured or the insurer entered at any time by default or by collusion.
+
+(6)  A claim under an employment contract by a director, officer, or person in fact performing similar functions or having similar powers is limited to payment for services rendered before an order of receivership, unless explicitly approved in writing by:
+
+(a)  the commissioner before an order of receivership;
+
+(b)  the rehabilitator before the day on which the order of liquidation is entered; or
+
+(c)  the liquidator after the day on which the order of liquidation is entered.
+
+(7)  The total liability of the liquidator to all claimants arising out of the same act or policy shall be no greater than the insurer's total liability would have been were the insurer not in liquidation.
+
+(8) (a)  The liquidator shall disallow a claim that is for or determined to be for a de minimis amount.
+
+(b)  A de minimis amount is an amount equal to or less than a maximum de minimis amount approved by the receivership court as being reasonable and necessary for administrative convenience.
+
+(9)  A claim that does not contain all the applicable information required by Section 31A-27a-602:
+
+(a)  does not need to be further reviewed or adjudicated; and
+
+(b)  may be denied or disallowed by the liquidator subject to the notice and objection procedures in this section.
+
+(10) (a)  The liquidator may reconsider a claim on the basis of additional information and amend the recommendation to the receivership court.
+
+(b)  The claimant shall be afforded the same notice and opportunity to be heard on all changes in the recommendation as in the claim's initial determination.
+
+(c)  The receivership court may amend the receivership court's allowance or disallowance as appropriate.
+
+(11) (a)  The liquidator is not required to process claims for any class until it appears reasonably likely that property will be available for a distribution to that class.
+
+(b)  If there are insufficient assets to justify processing all claims for a class listed in Section 31A-27a-701, the liquidator shall:
+
+(i)  report the facts to the receivership court; and
+
+(ii)  make appropriate recommendations for handling the remainder of the claims.
+
+(12)  A claim of a lessor for damages resulting from the termination of a lease of real property shall be disallowed to the extent that the claim exceeds the sum of:
+
+(a)  the rent reserved by the lease, without acceleration, for the greater of one year, or 15%, not to exceed three years, of the remaining term of the lease, following the earlier of:
+
+(i)  the day on which the petition is filed; and
+
+(ii)  the day on which the lessor repossessed, or the lessee surrendered, the leased property; and
+
+(b)  any unpaid rent due under the lease, without acceleration, on the earlier of the dates specified in Subsection (12)(a).
+
+
+
+Enacted by Chapter 309, 2007 General Session
+

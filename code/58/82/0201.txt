@@ -1,0 +1,38 @@
+58-82-201.   Electronic prescriptions -- Restrictions -- Rulemaking authority.
+
+(1)  Subject to the provisions of this section, a practitioner shall:
+
+(a)  provide each existing patient of the practitioner with the option of participating in electronic prescribing for prescriptions issued for the patient, if the practitioner prescribes a drug or device for the patient on or after July 1, 2012; and
+
+(b)  offer the patient a choice regarding to which pharmacy the practitioner will issue the electronic prescription.
+
+(2)  A practitioner may not issue a prescription through electronic prescribing for a drug, device, or federal controlled substance that the practitioner is prohibited by federal law or federal rule from issuing through electronic prescribing.
+
+(3)  A pharmacy shall:
+
+(a)  accept an electronic prescription that is transmitted in accordance with the requirements of this section and division rules; and
+
+(b)  dispense a drug or device as directed in an electronic prescription described in Subsection (3)(a).
+
+(4)  The division shall make rules to ensure that:
+
+(a)  except as provided in Subsection (6), practitioners and pharmacies comply with this section;
+
+(b)  electronic prescribing is conducted in a secure manner, consistent with industry standards; and
+
+(c)  each patient is fully informed of the patient's rights, restrictions, and obligations pertaining to electronic prescribing.
+
+(5)  An entity that facilitates the electronic prescribing process under this section shall:
+
+(a)  transmit to the pharmacy the prescription for the drug prescribed by the prescribing practitioner however, this Subsection (5)(a) does not prohibit the use of an electronic intermediary if the electronic intermediary does not over-ride a patient's or prescriber's choice of pharmacy;
+
+(b)  transmit only scientifically accurate, objective, and unbiased information to prescribing practitioners; and
+
+(c)  allow a prescribing practitioner to electronically override a formulary or preferred drug status when medically necessary.
+
+(6)  The division may, by rule, grant an exemption from the requirements of this section to a pharmacy or a practitioner to the extent that the pharmacy or practitioner can establish, to the satisfaction of the division, that compliance with the requirements of this section would impose an extreme financial hardship on the pharmacy or practitioner.
+
+
+
+Amended by Chapter 160, 2012 General Session
+

@@ -1,0 +1,40 @@
+77-7-20.   Service of citation on defendant -- Filing in court -- Electronic filing -- Contents of citations.
+
+(1)  A peace officer or public official who issues a citation pursuant to Section 77-7-18 shall give the citation to the person cited and shall within five days electronically file the data from Subsections (2)(a) through (2)(g) with the court specified in the citation. The data transmission shall use the court's electronic filing interface.  A nonconforming filing is not effective.
+
+(2)  The citation issued under authority of this chapter shall contain the following data:
+
+(a)  the name of the court before which the person is to appear;
+
+(b)  the name of the person cited;
+
+(c)  a brief description of the offense charged;
+
+(d)  the date, time, and place at which the offense is alleged to have occurred;
+
+(e)  the date on which the citation was issued;
+
+(f)  the name of the peace officer or public official who issued the citation, and the name of the arresting person if an arrest was made by a private party and the citation was issued in lieu of taking the arrested person before a magistrate;
+
+(g)  the time and date on or before and after which the person is to appear or a statement that the court will notify the person of the time to appear;
+
+(h)  the address of the court in which the person is to appear; and
+
+(i)  a notice containing substantially the following language:
+
+READ CAREFULLY
+
+This citation is not an information and will not be used as an information without your consent.  If an information is filed you will be provided a copy by the court.  You MUST appear in court on or before the time set in this citation or as directed by the court.  IF YOU FAIL TO APPEAR, THE COURT MAY ISSUE A WARRANT FOR YOUR ARREST.
+
+(3)  By electronically filing the data with the court, the peace officer or public official certifies to the court that:
+
+(a)  the citation or information, including the summons and complaint, was served upon the defendant in accordance with the law;
+
+(b)  the defendant committed the offense set forth in the served documents; and
+
+(c)  the court to which the defendant was directed to appear is the proper court pursuant to Section 77-7-21.
+
+
+
+Amended by Chapter 65, 2013 General Session
+

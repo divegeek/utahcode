@@ -1,0 +1,76 @@
+63D-2-102.   Definitions.
+
+As used in this chapter:
+
+(1) (a)  "Collect" means the gathering of personally identifiable information:
+
+(i)  from a user of a governmental website; or
+
+(ii)  about a user of the governmental website.
+
+(b)  "Collect" includes use of any identifying code linked to a user of a governmental website.
+
+(2)  "Court website" means a website on the Internet that is operated by or on behalf of any court created in Title 78A, Chapter 1, Judiciary.
+
+(3)  "Governmental entity" means:
+
+(a)  an executive branch agency as defined in Section 63F-1-102;
+
+(b)  the legislative branch;
+
+(c)  the judicial branch;
+
+(d)  the State Board of Education;
+
+(e)  the Board of Regents;
+
+(f)  an institution of higher education; and
+
+(g)  a political subdivision of the state:
+
+(i)  as defined in Section 17B-1-102; and
+
+(ii)  including a school district.
+
+(4) (a)  "Governmental website" means a website on the Internet that is operated by or on behalf of a governmental entity.
+
+(b)  "Governmental website" includes a court website.
+
+(5)  "Governmental website operator" means a governmental entity or person acting on behalf of the governmental entity that:
+
+(a)  operates a governmental website; and
+
+(b)  collects or maintains personally identifiable information from or about a user of that website.
+
+(6)  "Personally identifiable information" means information that identifies:
+
+(a)  a user by:
+
+(i)  name;
+
+(ii)  account number;
+
+(iii)  physical address;
+
+(iv)  email address;
+
+(v)  telephone number;
+
+(vi)  Social Security number;
+
+(vii)  credit card information; or
+
+(viii)  bank account information;
+
+(b)  a user as having requested or obtained specific materials or services from a governmental website;
+
+(c)  Internet sites visited by a user; or
+
+(d)  any of the contents of a user's data-storage device.
+
+(7)  "User" means a person who accesses a governmental website.
+
+
+
+Amended by Chapter 356, 2009 General Session
+

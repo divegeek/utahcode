@@ -1,0 +1,102 @@
+53A-1-413.   Student Achievement Backpack -- Utah Student Records Store.
+
+(1)  As used in this section:
+
+(a)  "Authorized LEA user" means a teacher or other person who is:
+
+(i)  employed by an LEA that provides instruction to a student; and
+
+(ii)  authorized to access data in a Student Achievement Backpack through the Utah Student Record Store.
+
+(b)  "LEA" means a school district, charter school, or the Utah Schools for the Deaf and the Blind.
+
+(c)  "Student Achievement Backpack" means, for a student from kindergarten through grade 12, a complete learner profile that:
+
+(i)  is in electronic format;
+
+(ii)  follows the student from grade to grade and school to school; and
+
+(iii)  is accessible by the student's parent or guardian or an authorized LEA user.
+
+(d)  "U-PASS" means the Utah Performance Assessment System for Students established in Part 6, Achievement Tests.
+
+(e)  "Utah Student Record Store" means a repository of student data collected from LEAs as part of the state's longitudinal data system that is:
+
+(i)  managed by the Utah State Office of Education;
+
+(ii)  cloud-based; and
+
+(iii)  accessible via a web browser to authorized LEA users.
+
+(2) (a)  The State Board of Education shall use the robust, comprehensive data collection system maintained by the Utah State Office of Education, which collects longitudinal student transcript data from LEAs and the unique student identifiers as described in Section 53A-1-603.5, to allow the following to access a student's Student Achievement Backpack:
+
+(i)  the student's parent or guardian; and
+
+(ii)  each LEA that provides instruction to the student.
+
+(b)  The State Board of Education shall ensure that a Student Achievement Backpack:
+
+(i)  provides a uniform, transparent reporting mechanism for individual student progress;
+
+(ii)  provides a complete learner history for postsecondary planning;
+
+(iii)  provides a teacher with visibility into a student's complete learner profile to better inform instruction and personalize education;
+
+(iv)  assists a teacher or administrator in diagnosing a student's learning needs through the use of data already collected by the State Board of Education;
+
+(v)  facilitates a student's parent or guardian taking an active role in the student's education by simplifying access to the student's complete learner profile; and
+
+(vi)  serves as additional disaster mitigation for LEAs by using a cloud-based data storage and collection system.
+
+(3)  Using existing information collected and stored in the data warehouse maintained by the Utah State Office of Education, the State Board of Education shall create the Utah Student Record Store where an authorized LEA user may:
+
+(a)  access data in a Student Achievement Backpack relevant to the user's LEA or school; or
+
+(b)  request student records to be transferred from one LEA to another.
+
+(4)  The State Board of Education shall implement security measures to ensure that:
+
+(a)  student data stored or transmitted to or from the Utah Student Record Store is secure and confidential pursuant to the requirements of the Family Educational Rights and Privacy Act, 20 U.S.C. Sec. 1232g; and
+
+(b)  an authorized LEA user may only access student data that is relevant to the user's LEA or school.
+
+(5)  A student's parent or guardian may request the student's Student Achievement Backpack from the LEA or the school in which the student is enrolled.
+
+(6)  No later than June 30, 2014, an authorized LEA user shall be able to access student data in a Student Achievement Backpack, which shall include the following data, or request the data be transferred from one LEA to another:
+
+(a)  student demographics;
+
+(b)  course grades;
+
+(c)  course history; and
+
+(d)  results for an assessment administered under U-PASS.
+
+(7)  No later than June 30, 2015, an authorized LEA user shall be able to access student data in a Student Achievement Backpack, which shall include the data listed in Subsections (6)(a) through (d) and the following data, or request the data be transferred from one LEA to another:
+
+(a)  section attendance;
+
+(b)  the name of a student's teacher for classes or courses the student takes;
+
+(c)  teacher qualifications for a student's teacher, including years of experience, degree, license, and endorsement;
+
+(d)  results of formative, interim, and summative computer adaptive assessments administered pursuant to Section 53A-1-603;
+
+(e)  detailed data demonstrating a student's mastery of core standards and objectives as measured by computer adaptive assessments administered pursuant to Section 53A-1-603;
+
+(f)  a student's writing sample written for an online writing assessment administered pursuant to Section 53A-1-603;
+
+(g)  student growth scores for U-PASS tests;
+
+(h)  a school's grade assigned pursuant to Part 11, School Grading Act;
+
+(i)  results of benchmark assessments of reading administered pursuant to Section 53A-1-606.6; and
+
+(j)  a student's reading level at the end of grade 3.
+
+(8)  No later than June 30, 2017, the State Board of Education shall ensure that data collected in the Utah Student Record Store for a Student Achievement Backpack shall be integrated into each LEA's student information system and shall be made available to a student's parent or guardian and an authorized LEA user in an easily accessible viewing format.
+
+
+
+Enacted by Chapter 305, 2013 General Session
+

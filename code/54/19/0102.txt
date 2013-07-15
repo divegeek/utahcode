@@ -1,0 +1,18 @@
+54-19-102.   Definitions.
+
+As used in this section:
+
+(1)  "Internet protocol-enabled service" means any service, functionality, or application that uses Internet protocol or a successor protocol that enables an end-user to send or receive voice, data, or video communications.
+
+(2)  "Voice over Internet protocol service" means any service that:
+
+(a)  enables real time, two-way voice communication originating from or terminating at the user's location in Internet protocol or a successor protocol;
+
+(b)  uses a broadband connection from the user's location; and
+
+(c)  permits a user to receive a telephone call that originates on the public switched telephone network and to terminate a call to the public switched telephone network.
+
+
+
+Enacted by Chapter 241, 2012 General Session
+

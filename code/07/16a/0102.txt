@@ -1,0 +1,50 @@
+7-16a-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Automated teller machine" means an electronic information processing device that:
+
+(a)  is readily accessible to the general public; and
+
+(b)  on behalf of an issuer:
+
+(i)  dispenses currency or coin; or
+
+(ii)  accepts deposits or payments.
+
+(2)  "Customer" means a user of a device for access.
+
+(3)  "Device for access" means a card, code, or other means of access to a customer's account, or any combination of these, that may be used to deposit or withdraw cash through an automated teller machine.
+
+(4)  "Electronic information processing device" means equipment activated by a device for access that transmits electronic impulses to a depository institution on a real-time or delayed-time basis.
+
+(5)  "Issuer" means:
+
+(a)  a depository institution that issues a device for access, whether or not the depository institution is an operator; or
+
+(b)  a state or federal governmental agency that issues a device for access that allows a person to receive benefits from or through the state or federal governmental agency.
+
+(6)  "Point-of-sale terminal" means an electronic information processing device controlled by or accessible to a merchant or other provider of goods or services that authorizes:
+
+(a)  in payment for goods or services, a debit or credit to a customer's account at:
+
+(i)  a depository institution; or
+
+(ii)  a state or federal governmental agency; and
+
+(b)  the merchant or other provider of goods or services to dispense currency or coin to a customer.
+
+(7)  "Operator" means an institution that:
+
+(a) (i)  is a depository institution;
+
+(ii)  is a depository institution holding company; or
+
+(iii)  is an institution directly or indirectly owned or controlled by one or more depository institutions or depository institution holding companies; and
+
+(b)  owns or contracts with an owner of an automated teller machine to operate the automated teller machine.
+
+
+
+Enacted by Chapter 111, 1997 General Session
+

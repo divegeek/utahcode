@@ -1,0 +1,170 @@
+31A-27a-403.   Continuance of coverage -- Health maintenance organizations.
+
+(1)  As used in this section:
+
+(a)  "Basic health care services" is as defined in Section 31A-8-101.
+
+(b)  "Enrollee" is as defined in Section 31A-8-101.
+
+(c)  "Health care" is as defined in Section 31A-1-301.
+
+(d)  "Health maintenance organization" is as defined in Section 31A-8-101.
+
+(e)  "Limited health plan" is as defined in Section 31A-8-101.
+
+(f) (i)  "Managed care organization" means an entity licensed by, or holding a certificate of authority from, the department to furnish health care services or health insurance.
+
+(ii)  "Managed care organization" includes:
+
+(A)  a limited health plan;
+
+(B)  a health maintenance organization;
+
+(C)  a preferred provider organization;
+
+(D)  a fraternal benefit society; or
+
+(E)  an entity similar to an entity described in Subsections (1)(f)(ii)(A) through (D).
+
+(iii)  "Managed care organization" does not include:
+
+(A)  an insurer or other person that is eligible for membership in a guaranty association under Chapter 28, Guaranty Associations;
+
+(B)  a mandatory state pooling plan;
+
+(C)  a mutual assessment company or an entity that operates on an assessment basis; or
+
+(D)  an entity similar to an entity described in Subsections (1)(f)(iii)(A) through (C).
+
+(g)  "Participating provider" means a provider who, under a contract with a managed care organization authorized under Section 31A-8-407, agrees to provide health care services to enrollees with an expectation of receiving payment:
+
+(i)  directly or indirectly, from the managed care organization; and
+
+(ii)  other than a copayment.
+
+(h)  "Participating provider contract" means the agreement between a participating provider and a managed care organization authorized under Section 31A-8-407.
+
+(i)  "Preferred provider" means a provider who agrees to provide health care services under an agreement authorized under Subsection 31A-22-617(1).
+
+(j)  "Preferred provider contract" means the written agreement between a preferred provider and a managed care organization authorized under Subsection 31A-22-617(1).
+
+(k) (i)  Except as provided in Subsection (1)(k)(ii), "preferred provider organization" means a person that:
+
+(A)  furnishes at a minimum, through a preferred provider, basic health care services to an enrollee in return for prepaid periodic payments in an amount agreed to before the time during which the health care may be furnished;
+
+(B)  is obligated to the enrollee to arrange for the services described in Subsection (1)(k)(i)(A); and
+
+(C)  permits the enrollee to obtain health care services from a provider who is not a preferred provider.
+
+(ii)  "Preferred provider organization" does not include:
+
+(A)  an insurer licensed under Chapter 7, Nonprofit Health Service Insurance Corporations; or
+
+(B)  an individual who contracts to render professional or personal services that the individual performs.
+
+(l)  "Provider" is as defined in Section 31A-8-101.
+
+(m)  "Uncovered expenditure" means a cost of health care services that is covered by an organization for which an enrollee is liable in the event of the managed care organization's insolvency.
+
+(2)  The rehabilitator or liquidator may take one or more of the actions described in Subsections (2)(a) through (g) to assure continuation of health care coverage for enrollees of an insolvent managed care organization.
+
+(a) (i)  Subject to Subsection (2)(a)(ii), a rehabilitator or liquidator may require a participating provider or preferred provider to continue to provide the health care services the provider is required to provide under the provider's participating provider contract or preferred provider contract until the earlier of:
+
+(A)  90 days after the day on which the following is filed:
+
+(I)  a petition for rehabilitation; or
+
+(II)  a petition for liquidation; or
+
+(B)  the day on which the term of the contract ends.
+
+(ii)  A requirement by the rehabilitator or liquidator under Subsection (2)(a)(i) that a participating provider or preferred provider continue to provide health care services under the provider's participating provider contract or preferred provider contract expires when health care coverage for all enrollees of the insolvent managed care organization is obtained from another managed care organization or insurer.
+
+(b) (i)  Subject to Subsection (2)(b)(ii), a rehabilitator or liquidator may reduce the fees a participating provider or preferred provider is otherwise entitled to receive from the managed care organization under the provider's participating provider contract or preferred provider contract during the time period in Subsection (2)(a)(i).
+
+(ii)  Notwithstanding Subsection (2)(b)(i), a rehabilitator or liquidator may not reduce a fee to less than 75% of the regular fee set forth in the provider's participating provider contract or preferred provider contract.
+
+(iii)  An enrollee shall continue to pay the same copayments, deductibles, and other payments for services received from a participating provider or preferred provider that the enrollee is required to pay before the day on which the following is filed:
+
+(A)  the petition for rehabilitation; or
+
+(B)  the petition for liquidation.
+
+(c)  A participating provider or preferred provider shall:
+
+(i)  accept the amounts specified in Subsection (2)(b) as payment in full; and
+
+(ii)  relinquish the right to collect additional amounts from the insolvent managed care organization's enrollee.
+
+(d)  Subsections (2)(b) and (c) apply to the fees paid to a provider who agrees to provide health care services to an enrollee but is not a preferred or participating provider.
+
+(e)  If the managed care organization is a health maintenance organization, Subsections (2)(e)(i) through (vi) apply.
+
+(i)  A solvent health maintenance organization licensed under Chapter 8, Health Maintenance Organizations and Limited Health Plans, shall extend to the enrollees of an insolvent health maintenance organization all rights, privileges, and obligations of being an enrollee in the accepting health maintenance organization:
+
+(A)  subject to Subsections (2)(e)(ii), (iii), and (v);
+
+(B)  upon notification from and subject to the direction of the rehabilitator or liquidator of an insolvent health maintenance organization licensed under Chapter 8, Health Maintenance Organizations and Limited Health Plans; and
+
+(C)  if the solvent health maintenance organization operates within a portion of the insolvent health maintenance organization's service area.
+
+(ii)  Notwithstanding Subsection (2)(e)(i), the accepting health maintenance organization shall give credit to an enrollee for any waiting period already satisfied under the enrollee's contract with the insolvent health maintenance organization.
+
+(iii)  A health maintenance organization accepting an enrollee of an insolvent health maintenance organization under Subsection (2)(e)(i) shall charge the enrollee the premiums applicable to the existing business of the accepting health maintenance organization.
+
+(iv)  A health maintenance organization's obligation to accept an enrollee under Subsection (2)(e)(i) is limited in number to the accepting health maintenance organization's pro rata share of all health maintenance organization enrollees in this state, as determined after excluding the enrollees of the insolvent insurer.
+
+(v) (A)  The rehabilitator or liquidator of an insolvent health maintenance organization shall take those measures that are possible to ensure that no health maintenance organization is required to accept more than its pro rata share of the adverse risk represented by the enrollees of the insolvent health maintenance organization.
+
+(B)  If the methodology used by the rehabilitator or liquidator to assign an enrollee is one that can be expected to produce a reasonably equitable distribution of adverse risk, that methodology and its results are acceptable under this Subsection (2)(e)(v).
+
+(vi) (A)  Notwithstanding Section 31A-27a-402, the rehabilitator or liquidator may require all solvent health maintenance organizations to pay for the covered claims incurred by the enrollees of the insolvent health maintenance organization.
+
+(B)  As determined by the rehabilitator or liquidator, payments required under this Subsection (2)(e)(vi) may:
+
+(I)  begin as of the day on which the following is filed:
+
+(Aa)  the petition for rehabilitation; or
+
+(Bb)  the petition for liquidation; and
+
+(II)  continue for a maximum period through the time all enrollees are assigned pursuant to this section.
+
+(C)  If the rehabilitator or liquidator makes an assessment under this Subsection (2)(e)(vi), the rehabilitator or liquidator shall assess each solvent health maintenance organization its pro rata share of the total assessment based upon its premiums from the previous calendar year.
+
+(D) (I)  A solvent health maintenance organization required to pay for covered claims under this Subsection (2)(e)(vi) may file a claim against the estate of the insolvent health maintenance organization.
+
+(II)  Any claim described in Subsection (2)(e)(vi)(D)(I), if allowed by the rehabilitator or liquidator, shall share in any distributions from the estate of the insolvent health maintenance organization as a Class 3 claim.
+
+(f) (i)  A rehabilitator or liquidator may transfer, through sale or otherwise, the group and individual health care obligations of the insolvent managed care organization to one or more other managed care organizations or other insurers, if those other managed care organizations and other insurers:
+
+(A)  are licensed to provide the same health care services in this state that are held by the insolvent managed care organization; or
+
+(B)  have a certificate of authority to provide the same health care services in this state that is held by the insolvent managed care organization.
+
+(ii)  The rehabilitator or liquidator may combine group and individual health care obligations of the insolvent managed care organization in any manner the rehabilitator or liquidator considers best to provide for continuous health care coverage for the maximum number of enrollees of the insolvent managed care organization.
+
+(iii)  If the terms of a proposed transfer of the same combination of group and individual policy obligations to more than one other managed care organization or insurer are otherwise equal, the rehabilitator or liquidator shall give preference to the transfer of the group and individual policy obligations of an insolvent managed care organization as follows:
+
+(A)  from one category of managed care organization to another managed care organization of the same category, as follows:
+
+(I)  from a limited health plan to a limited health plan;
+
+(II)  from a health maintenance organization to a health maintenance organization;
+
+(III)  from a preferred provider organization to a preferred provider organization;
+
+(IV)  from a fraternal benefit society to a fraternal benefit society; and
+
+(V)  from an entity similar to an entity described in this Subsection (2)(f)(iii)(A) to a category that is similar;
+
+(B)  from one category of managed care organization to another managed care organization, regardless of the category of the transferee managed care organization; and
+
+(C)  from a managed care organization to a nonmanaged care provider of health care coverage, including insurers.
+
+(g)  If an insolvent managed care organization has required surplus, a rehabilitator or liquidator may use the insolvent managed care organization's required surplus to continue to provide coverage for the insolvent managed care organization's enrollees, including paying uncovered expenditures.
+
+
+
+Enacted by Chapter 309, 2007 General Session
+

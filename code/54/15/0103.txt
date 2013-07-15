@@ -1,0 +1,32 @@
+54-15-103.   Net metering program -- Metering equipment -- Interconnection agreement.
+
+(1)  Each electrical corporation shall:
+
+(a)  except as provided in Subsection (2), make a net metering program available to the electrical corporation's customers; and
+
+(b)  allow customer generation systems to be interconnected to the electrical corporation's facilities using, except as provided in Subsection (4), a kilowatt-hour meter capable of net metering.
+
+(2)  An electrical corporation may discontinue making a net metering program available to customers not already participating in the program if:
+
+(a)  the cumulative generating capacity of customer generation systems in the program equals at least .1% of the electrical corporation's peak demand during 2007; or
+
+(b) the electrical corporation serves fewer than 1,000 customers in the state.
+
+(3) (a)  Notwithstanding Subsection (2)(a), the governing authority may establish a higher amount of generating capacity from customer generation systems than .1% of the electrical corporation's peak demand during 2007 before a net metering program may be discontinued under Subsection (2).
+
+(b)  Before acting under Subsection (3)(a), the governing authority shall provide public notice of its proposed action and an opportunity for public comment.
+
+(4) (a)  Notwithstanding Subsection (1)(b), an electrical corporation may require a customer participating in the electrical corporation's net metering program to use metering equipment other than a standard kilowatt-hour meter if the governing authority, after appropriate notice and opportunity for public comment:
+
+(i)  determines that the use of other metering equipment is necessary and appropriate to monitor the flow of electricity from and to the electrical corporation; and
+
+(ii)  approves the requirement for other metering equipment, after considering the benefits and costs associated with the other metering equipment.
+
+(b)  If the governing authority approves the requirement for other metering equipment under Subsection (4)(a), the governing authority shall determine how the cost of purchasing and installing the other metering equipment is to be allocated between the electrical corporation and the customer.
+
+(5)  An electrical corporation may require a customer to enter into an interconnection agreement before connecting the customer generation system to the electrical corporation's facilities.
+
+
+
+Amended by Chapter 244, 2008 General Session
+

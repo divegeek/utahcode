@@ -1,0 +1,12 @@
+13-40-302.   Other prohibited conduct.
+
+A person who is not an owner or operator of a computer may not, with regard to the computer:
+
+(1)  induce an owner or operator to install a computer software component onto the owner's or the operator's computer by intentionally misrepresenting that installing the computer software is necessary for security or privacy reasons or in order to open, view, or play a particular type of content; or
+
+(2)  use intentionally deceptive means to cause the execution of a computer software component with the intent of causing the computer to use the computer software component in a manner that violates any other provision of this chapter.
+
+
+
+Repealed and Re-enacted by Chapter 200, 2010 General Session
+

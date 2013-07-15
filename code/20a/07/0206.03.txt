@@ -1,0 +1,36 @@
+20A-7-206.3.   Verification of petition signatures.
+
+(1) (a)  For the purposes of this section, "substantially similar name" means:
+
+(i)  the given name and surname shown on the petition, or both, contain only minor spelling differences when compared to the given name and surname shown on the official register;
+
+(ii)  the surname shown on the petition exactly matches the surname shown on the official register, and the given names differ only because one of the given names shown is a commonly used abbreviation or variation of the other;
+
+(iii)  the surname shown on the petition exactly matches the surname shown on the official register, and the given names differ only because one of the given names shown is accompanied by a first or middle initial or a middle name which is not shown on the other record; or
+
+(iv)  the surname shown on the petition exactly matches the surname shown on the official register, and the given names differ only because one of the given names shown is an alphabetically corresponding initial that has been provided in the place of a given name shown on the other record.
+
+(b)  For the purposes of this section, "substantially similar name" does not mean a name having an initial or a middle name shown on the petition that does not match a different initial or middle name shown on the official register.
+
+(2)  The county clerk shall use the following procedures in determining whether or not a signer is a registered voter:
+
+(a)  When a signer's name and address shown on the petition exactly match a name and address shown on the official register and the signer's signature appears substantially similar to the signature on the statewide voter registration database, the county clerk shall declare the signature valid.
+
+(b)  When there is no exact match of an address and a name, the county clerk shall declare the signature valid if:
+
+(i)  the address on the petition matches the address of a person on the official register with a substantially similar name; and
+
+(ii)  the signer's signature appears substantially similar to the signature on the statewide voter registration database of the person described in Subsection (2)(b)(i).
+
+(c)  When there is no match of an address and a substantially similar name, the county clerk shall declare the signature valid if:
+
+(i)  the birth date or age on the petition matches the birth date or age of a person on the official register with a substantially similar name; and
+
+(ii)  the signer's signature appears substantially similar to the signature on the statewide voter registration database of the person described in Subsection (2)(c)(i).
+
+(d)  If a signature is not declared valid under Subsection (2)(a), (2)(b), or (2)(c), the county clerk shall declare the signature to be invalid.
+
+
+
+Amended by Chapter 17, 2011 General Session
+
