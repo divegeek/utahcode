@@ -12,7 +12,13 @@
 
 (v)  a prosecutor pro tempore appointed under the Utah Constitution, Article VIII, Sec. 16; or
 
-(vi)  legislative general counsel in the case of testimony pursuant to subpoena before the Legislature or any committee of the Legislature having subpoena powers.
+(vi)  legislative general counsel in the case of testimony pursuant to subpoena before:
+
+(A)  the Legislature;
+
+(B)  either house of the Legislature; or
+
+(C)  a committee of the Legislature, including a joint committee, a committee of either house, a subcommittee, or a special investigative committee.
 
 (b)  If any prosecutor authorized under Subsection (1)(a) intends to compel a witness to testify or provide evidence or information under a grant of use immunity, the prosecutor shall notify the witness by written notice.  The notice shall include the information contained in Subsection (2) and advise the witness that the witness may not refuse to testify or provide evidence or information on the basis of the witness's privilege against self-incrimination.  The notice need not be in writing when the grant of use immunity occurs on the record in the course of a preliminary hearing, grand jury proceeding, or trial.
 
@@ -28,5 +34,5 @@
 
 
 
-Amended by Chapter 237, 2013 General Session
+Amended by Chapter 1, 2013 Special Session 1
 

@@ -1,18 +1,18 @@
 22-7-104.   Trustee powers to convert trusts where there is no trustee other than an interested trustee -- Requirements to make unitrust election.
 
-(1)  If there is no trustee of the trust other than an interested trustee, the interested trustee, or when two or more persons are acting as trustees and are interested trustees, a majority of the interested trustees, in the trustee's sole discretion and without the approval of the district court, may:
+If there is no trustee of the trust other than an interested trustee, the interested trustee, or when two or more persons are acting as trustees and are interested trustees, a majority of the interested trustees, in the trustee's sole discretion and without the approval of the district court, may:
 
-(a)  elect to release the power to adjust described in Section 22-3-104 and to convert an income trust to a total return unitrust;
+(1)  elect to release the power to adjust described in Section 22-3-104 and to convert an income trust to a total return unitrust;
 
-(b)  reconvert a total return unitrust to an income trust and reinstate the power to adjust described in Section 22-3-104; or
+(2)  reconvert a total return unitrust to an income trust and reinstate the power to adjust described in Section 22-3-104; or
 
-(c)  change the percentage used to calculate the unitrust amount or the method used to determine the fair market value of the trust if the requirements of Subsections 22-7-103(4)(a) through (f) are completed and the trustee appoints a disinterested person who, in the person's sole discretion but acting in a fiduciary capacity, determines for the trustee:
+(3)  change the percentage used to calculate the unitrust amount or the method used to determine the fair market value of the trust if the requirements of Subsections 22-7-103(4)(a) through (f) are completed and the trustee appoints a disinterested person who, in the person's sole discretion but acting in a fiduciary capacity, determines for the trustee:
 
-(i)  the percentage to be used to calculate the unitrust amount;
+(a)  the percentage to be used to calculate the unitrust amount;
 
-(ii)  the method to be used in determining the fair market value of the trust; and
+(b)  the method to be used in determining the fair market value of the trust; and
 
-(iii)  which assets, if any, are to be excluded in determining the unitrust amount.
+(c)  which assets, if any, are to be excluded in determining the unitrust amount.
 
 
 
