@@ -1,0 +1,72 @@
+26-6-31.   Public reporting of health care associated infections.
+
+(1)  An ambulatory surgical facility, a general acute hospital, a specialty hospital, an end stage renal disease facility, and other facilities as required by rules of the Center for Medicare and Medicaid Services shall give the department access to the facility's data on the incidence and rate of health care associated infections that the facility submits to the National Healthcare Safety Network in the Center for Disease Control pursuant to the Center for Medicare and Medicaid Services rules for infection reporting.  Access to data under this Subsection (1) may include data sharing through the National Healthcare Safety Network.
+
+(2) (a)  The department shall, beginning May 1, 2013, use the data submitted by the facilities in accordance with Subsection (1) to compile an annual report on health care associated infections in ambulatory surgical facilities, general acute hospitals, and specialty hospitals for public distribution in accordance with the requirements of this subsection.  The department shall publish the report on the department's website and the Utah Health Exchange.
+
+(b)  The department's report under this section shall:
+
+(i)  include the following health care associated infections as required by the Center for Medicare and Medicaid Services and protocols adopted by the National Healthcare Safety Network in the Center for Disease Control:
+
+(A)  central line associated bloodstream infections;
+
+(B)  catheter associated urinary tract infections;
+
+(C)  surgical site infections from procedures on the colon or an abdominal hysterectomy;
+
+(D)  methicillin-resistant staphylococcus aureus bacteremia;
+
+(E)  clostridium difficile of the colon; and
+
+(F)  other health care associated infections when reporting is required by the Center for Medicare and Medicaid Services and protocols adopted by the National Healthcare Safety Network in the Center for Disease Control;
+
+(ii)  include data on the rate of health care associated infections:
+
+(A)  for the infection types described in Subsection (2)(b)(i); and
+
+(B)  by health care facility or hospital;
+
+(iii)  include data on how the rate of health care associated infections in ambulatory surgical facilities, general acute hospitals, and specialty hospitals compares with the rates in other states;
+
+(iv)  in compiling the report described in Subsection (2)(a), use analytical methodologies that meet accepted standards of validity and reliability;
+
+(v)  clearly identify and acknowledge, in the report, the limitations of the data sources and analytic methodologies used to develop comparative facility or hospital information;
+
+(vi)  decide whether information supplied by a facility or hospital under Subsection (1) is appropriate to include in the report;
+
+(vii)  adjust comparisons among facilities and hospitals for patient case mix and other relevant factors, when appropriate; and
+
+(viii)  control for provider peer groups, when appropriate.
+
+(3)  Before posting or releasing the report described in Subsection (2)(a), the department shall:
+
+(a)  disclose to each ambulatory surgical facility, general acute hospital, and specialty hospital whose data is included in the report:
+
+(i)  the entire methodology for analyzing the data; and
+
+(ii)  the comparative facility or hospital information and other information the department has compiled for the facility or hospital; and
+
+(b)  give the facility or hospital 30 days to suggest corrections or add explanatory comments about the data.
+
+(4)  The department shall develop and implement effective safeguards to protect against the unauthorized use or disclosure of ambulatory surgical facility, general acute hospital, and specialty hospital data, including the dissemination of inconsistent, incomplete, invalid, inaccurate, or subjective data.
+
+(5)  The report described in Subsection (2)(a):
+
+(a)  may include data that compare and identify general acute hospitals, ambulatory surgical centers, and specialty hospitals;
+
+(b)  shall contain only statistical, non-identifying information and may not disclose the identity of:
+
+(i)  an employee of an ambulatory surgical facility, a general acute hospital, or a specialty hospital;
+
+(ii)  a patient; or
+
+(iii)  a health care provider licensed under Title 58, Occupations and Professions; and
+
+(c)  may not be used as evidence in a criminal, civil, or administrative proceeding.
+
+(6)  This section does not limit the department's authority to investigate and collect data regarding infections and communicable diseases under other provisions of state or federal law.
+
+
+
+Enacted by Chapter 150, 2012 General Session
+

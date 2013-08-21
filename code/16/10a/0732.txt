@@ -1,0 +1,46 @@
+16-10a-732.   Shareholder agreements.
+
+(1)  An agreement among the shareholders of a corporation that complies with this section is effective among the shareholders and the corporation even though it is inconsistent with one or more other provisions of this chapter in that it:
+
+(a)  eliminates the board of directors or restricts the discretion or powers of the board of directors;
+
+(b)  governs the authorization or making of distributions whether or not in proportion to ownership of shares, subject to the limitations in Section 16-10a-640;
+
+(c)  establishes who shall be directors or officers of the corporation, or their terms of office or manner of selection or removal;
+
+(d)  governs, in general or in regard to specific matters, the exercise or division of voting power by or between the shareholders and directors or by or among any of them, including use of weighted voting rights or director proxies;
+
+(e)  establishes the terms and conditions of any agreement for the transfer or use of property or the provision of services between the corporation and any shareholder, director, officer or employee of the corporation or among any of them;
+
+(f)  transfers to one or more shareholders or other persons all or part of the authority to exercise the corporate powers or to manage the business and affairs of the corporation, including the resolution of any issue about which there exists a deadlock among directors or shareholders;
+
+(g)  requires dissolution of the corporation at the request of one or more of the shareholders or upon the occurrence of a specified event or contingency; or
+
+(h)  otherwise governs the exercise of the corporate powers or the management of the business and affairs of the corporation or the relationship among the shareholders, the directors and the corporation, or among any of them, and is not contrary to public policy.
+
+(2)  An agreement authorized by this section shall be:
+
+(a)  set forth:
+
+(i)  in the articles of incorporation or bylaws and approved by all persons who are shareholders at the time of the agreement; or
+
+(ii)  in a written agreement that is signed by all persons who are shareholders at the time of the agreement and is made known to the corporation;
+
+(b)  subject to amendment only by all persons who are shareholders at the time of the amendment, unless the agreement provides otherwise; and
+
+(c)  valid for 10 years, unless the agreement provides otherwise.
+
+(3)  The existence of an agreement authorized by this section shall be noted conspicuously on the front or back of each certificate for outstanding shares or on the information statement required by Section 16-10a-626(2).  If at the time of the agreement the corporation has shares outstanding represented by certificates, the corporation shall recall the outstanding certificates and issue substitute certificates that comply with this subsection.  The failure to note the existence of the agreement on the certificate or information statement does not affect the validity of the agreement or any action taken pursuant to it.  Any purchaser of shares who, at the time of purchase, did not have knowledge of the existence of the agreement is entitled to rescission of the purchase.  A purchaser is considered to have knowledge of the existence of the agreement if its existence is noted on the certificate or information statement for the shares in compliance with this subsection and, if the shares are not represented by a certificate, the information statement is delivered to the purchaser at or prior to the time of purchase of the shares.  An action to enforce the right of rescission authorized by this subsection shall be commenced within the earlier of 90 days after discovery of the existence of the agreement or two years after the time of purchase of the shares.
+
+(4)  An agreement authorized by this section shall cease to be effective when shares of the corporation are listed on a national securities exchange or regularly traded in a market maintained by one or more members of a national or affiliated securities association.  If the agreement ceases to be effective for any reason, the board of directors may, if the agreement is contained or referred to in the corporation's articles of incorporation or bylaws, adopt an amendment to the articles of incorporation or bylaws, without shareholder action, to delete the agreement and any references to it.
+
+(5)  An agreement authorized by this section that limits the discretion or powers of the board of directors shall relieve the directors of, and impose upon the person or persons in whom the discretion or powers are vested, liability for acts or omissions imposed by laws on directors to the extent that the discretion or powers of the directors are limited by the agreement.
+
+(6)  The existence or performance of an agreement authorized by this section may not be a ground for imposing personal liability on any shareholder for the acts or debts of the corporation even if the agreement or its performance treats the corporation as if it were a partnership or results in failure to observe the corporate formalities otherwise applicable to the matters governed by the agreement.
+
+(7)  Incorporators or subscribers for shares may act as shareholders with respect to an agreement authorized by this section if no shares have been issued when the agreement is made.
+
+
+
+Amended by Chapter 378, 2010 General Session
+

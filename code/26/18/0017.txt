@@ -1,0 +1,24 @@
+26-18-17.   Patient notice of health care provider privacy practices.
+
+(1) (a)  For purposes of this section:
+
+(i)  "Health care provider" means a health care provider as defined in Section 78B-3-403 who:
+
+(A)  receives payment for medical services from the Medicaid program established in this chapter, or the Children's Health Insurance Program established in Chapter 40, Utah Children's Health Insurance Act; and
+
+(B)  submits a patient's personally identifiable information to the Medicaid eligibility database or the Children's Health Insurance Program eligibility database.
+
+(ii)  "HIPAA" means 45 C.F.R. Parts 160, 162, and 164, Health Insurance Portability and Accountability Act of 1996, as amended.
+
+(b)  Beginning July 1, 2013, this section applies to the Medicaid program, the Children's Health Insurance Program created in Chapter 40, Utah Children's Health Insurance Act, and a health care provider.
+
+(2)  A health care provider shall, as part of the notice of privacy practices required by HIPAA, provide notice to the patient or the patient's personal representative that the health care provider either has, or may submit, personally identifiable information about the patient to the Medicaid eligibility database and the Children's Health Insurance Program eligibility database.
+
+(3)  The Medicaid program and the Children's Health Insurance Program may not give a health care provider access to the Medicaid eligibility database or the Children's Health Insurance Program eligibility database unless the health care provider's notice of privacy practices complies with Subsection (2).
+
+(4)  The department may adopt an administrative rule to establish uniform language for the state requirement regarding notice of privacy practices to patients required under Subsection (2).
+
+
+
+Enacted by Chapter 53, 2013 General Session
+

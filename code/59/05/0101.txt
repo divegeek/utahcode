@@ -1,0 +1,174 @@
+59-5-101.   Definitions.
+
+As used in this part:
+
+(1)  "Board" means the Board of Oil, Gas, and Mining created in Section 40-6-4.
+
+(2)  "Coal-to-liquid" means the process of converting coal into a liquid synthetic fuel.
+
+(3)  "Condensate" means those hydrocarbons, regardless of gravity, that occur naturally in the gaseous phase in the reservoir that are separated from the natural gas as liquids through the process of condensation either in the reservoir, in the wellbore, or at the surface in field separators.
+
+(4)  "Crude oil" means those hydrocarbons, regardless of gravity, that occur naturally in the liquid phase in the reservoir and are produced and recovered at the wellhead in liquid form.
+
+(5)  "Development well" means any oil and gas producing well other than a wildcat well.
+
+(6)  "Division" means the Division of Oil, Gas, and Mining established under Title 40, Chapter 6.
+
+(7)  "Enhanced recovery project" means:
+
+(a)  the injection of liquids or hydrocarbon or nonhydrocarbon gases directly into a reservoir for the purpose of:
+
+(i)  augmenting reservoir energy;
+
+(ii)  modifying the properties of the fluids or gases in a reservoir; or
+
+(iii)  changing the reservoir conditions to increase the recoverable oil, gas, or oil and gas through the joint use of two or more well bores; and
+
+(b)  a project initially approved by the board as a new or expanded enhanced recovery project on or after January 1, 1996.
+
+(8) (a)  "Gas" means:
+
+(i)  natural gas;
+
+(ii)  natural gas liquids; or
+
+(iii)  any mixture of natural gas and natural gas liquids.
+
+(b)  "Gas" does not include solid hydrocarbons.
+
+(9)  "Incremental production" means that part of production, certified by the Division of Oil, Gas, and Mining, which is achieved from an enhanced recovery project that would not have economically occurred under the reservoir conditions existing before the project and that has been approved by the division as incremental production.
+
+(10)  "Natural gas" means those hydrocarbons, other than oil and other than natural gas liquids separated from natural gas, that occur naturally in the gaseous phase in the reservoir and are produced and recovered at the wellhead in gaseous form.
+
+(11)  "Natural gas liquids" means those hydrocarbons initially in reservoir natural gas, regardless of gravity, that are separated in gas processing plants from the natural gas as liquids at the surface through the process of condensation, absorption, adsorption, or other methods.
+
+(12) (a)  "Oil" means:
+
+(i)  crude oil;
+
+(ii)  condensate; or
+
+(iii)  any mixture of crude oil and condensate.
+
+(b)  "Oil" does not include solid hydrocarbons.
+
+(13)  "Oil or gas field" means a geographical area overlying oil or gas structures.  The boundaries of oil or gas fields shall conform with the boundaries as fixed by the Board and Division of Oil, Gas, and Mining under Title 40, Chapter 6, Board and Division of Oil, Gas, and Mining.
+
+(14)  "Oil shale" means a group of fine black to dark brown shales containing bituminous material that yields petroleum upon distillation.
+
+(15)  "Operator" means any person engaged in the business of operating an oil or gas well, regardless of whether the person is:
+
+(a)  a working interest owner;
+
+(b)  an independent contractor; or
+
+(c)  acting in a capacity similar to Subsection (15)(a) or (b) as determined by the commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+
+(16)  "Owner" means any person having a working interest, royalty interest, payment out of production, or any other interest in the oil or gas produced or extracted from an oil or gas well in the state, or in the proceeds of this production.
+
+(17) (a)  Subject to Subsections (17)(b) and (c), "processing costs" means the reasonable actual costs of processing oil or gas to remove:
+
+(i)  natural gas liquids; or
+
+(ii)  contaminants.
+
+(b)  If processing costs are determined on the basis of an arm's-length contract, processing costs are the actual costs. 
+
+(c) (i)  If processing costs are determined on a basis other than an arm's-length contract, processing costs are those reasonable costs associated with:
+
+(A)  actual operating and maintenance expenses, including oil or gas used or consumed in processing;
+
+(B)  overhead directly attributable and allocable to the operation and maintenance; and 
+
+(C) (I)  depreciation and a return on undepreciated capital investment; or
+
+(II)  a cost equal to a return on the investment in the processing facilities as determined by the commission. 
+
+(ii)  Subsection (17)(c)(i) includes situations where the producer performs the processing for the producer's product.
+
+(18)  "Producer" means any working interest owner in any lands in any oil or gas field from which gas or oil is produced.
+
+(19)  "Recompletion" means any downhole operation that is:
+
+(a)  conducted to reestablish the producibility or serviceability of a well in any geologic interval; and
+
+(b)  approved by the division as a recompletion.
+
+(20)  "Research and development" means the process of inquiry or experimentation aimed at the discovery of facts, devices, technologies, or applications and the process of preparing those devices, technologies, or applications for marketing.
+
+(21)  "Royalty interest owner" means the owner of an interest in oil or gas, or in the proceeds of production from the oil or gas who does not have the obligation to share in the expenses of developing and operating the property.
+
+(22)  "Solid hydrocarbons" means:
+
+(a)  coal;
+
+(b)  gilsonite;
+
+(c)  ozocerite;
+
+(d)  elaterite;
+
+(e)  oil shale;
+
+(f)  tar sands; and
+
+(g)  all other hydrocarbon substances that occur naturally in solid form.
+
+(23)  "Stripper well" means:
+
+(a)  an oil well whose average daily production for the days the well has produced has been 20 barrels or less of crude oil a day during any consecutive 12-month period; or
+
+(b)  a gas well whose average daily production for the days the well has produced has been 60 MCF or less of natural gas a day during any consecutive 90-day period.
+
+(24)  "Tar sands" means impregnated sands that yield mixtures of liquid hydrocarbon and require further processing other than mechanical blending before becoming finished petroleum products.
+
+(25) (a)  Subject to Subsections (25)(b) and (c), "transportation costs" means the reasonable actual costs of transporting oil or gas products from the well to the point of sale.
+
+(b)  If transportation costs are determined on the basis of an arm's-length contract, transportation costs are the actual costs. 
+
+(c) (i)  If transportation costs are determined on a basis other than an arm's-length contract, transportation costs are those reasonable costs associated with:
+
+(A)  actual operating and maintenance expenses, including fuel used or consumed in transporting the oil or gas;
+
+(B)  overhead costs directly attributable and allocable to the operation and maintenance; and
+
+(C)  depreciation and a return on undepreciated capital investment.
+
+(ii)  Subsection (25)(c)(i) includes situations where the producer performs the transportation for the producer's product.
+
+(d)  Regardless of whether transportation costs are determined on the basis of an arm's-length contract or a basis other than an arm's-length contract, transportation costs include:
+
+(i)  carbon dioxide removal;
+
+(ii)  compression;
+
+(iii)  dehydration;
+
+(iv)  gathering;
+
+(v)  separating;
+
+(vi)  treating; or
+
+(vii)  a process similar to Subsections (25)(d)(i) through (vi), as determined by the commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+
+(26)  "Tribe" means the Ute Indian Tribe of the Uintah and Ouray Reservation.
+
+(27)  "Well or wells" means any extractive means from which oil or gas is produced or extracted, located within an oil or gas field, and operated by one person.
+
+(28)  "Wildcat well" means an oil and gas producing well which is drilled and completed in a pool, as defined under Section 40-6-2, in which a well has not been previously completed as a well capable of producing in commercial quantities.
+
+(29)  "Working interest owner" means the owner of an interest in oil or gas burdened with a share of the expenses of developing and operating the property.
+
+(30) (a)  "Workover" means any downhole operation that is:
+
+(i)  conducted to sustain, restore, or increase the producibility or serviceability of a well in the geologic intervals in which the well is currently completed; and
+
+(ii)  approved by the division as a workover.
+
+(b)  "Workover" does not include operations that are conducted primarily as routine maintenance or to replace worn or damaged equipment.
+
+
+
+Amended by Chapter 344, 2009 General Session
+

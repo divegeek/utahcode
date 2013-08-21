@@ -1,0 +1,34 @@
+46-4-502.   Providing services or information electronically -- Interpretation of terms in Utah Code.
+
+(1)  To provide services or information electronically, a state governmental entity may implement the terms listed in Subsection (2) in accordance with this section:
+
+(a)  when the term is used in the Utah Code; and
+
+(b)  if the implementation is not:
+
+(i)  inconsistent with the manifest intent of the Legislature; or
+
+(ii)  repugnant to the context of the statute.
+
+(2)  Subsection (1) applies to the terms listed in this Subsection (2).
+
+(a)  "Copy" may include an electronic version of a document.
+
+(b)  "Mail" may include sending a document electronically if the recipient can accept and process the electronic writing.
+
+(c)  "Mailing address" may include an electronic mailing address capable of receiving and processing an electronic writing.
+
+(d)  "Sign" or "signature" may include any form of electronic signature authorized by the governmental agency.
+
+(e)  "Written" or "writing" may include information that is:
+
+(i)  inscribed on a tangible medium; or
+
+(ii) (A)  stored in an electronic or other medium; and
+
+(B)  is retrievable in a perceivable form.
+
+
+
+Amended by Chapter 20, 2003 General Session
+

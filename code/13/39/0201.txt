@@ -1,0 +1,42 @@
+13-39-201.   Establishment of child protection registry.
+
+(1)  The division shall:
+
+(a)  establish and operate a child protection registry to compile and secure a list of contact points the division has received pursuant to this section; or
+
+(b)  contract with a third party to establish and secure the registry described in Subsection (1)(a).
+
+(2) (a)  The division shall implement the registry described in this section with respect to email addresses beginning on July 1, 2005.
+
+(b)  The division shall implement the registry described in this section with respect to instant message identities.
+
+(c)  The division shall implement the registry described in this section with respect to mobile or other telephone numbers.
+
+(3) (a)  A person may register a contact point with the division pursuant to rules established by the division under Subsection 13-39-203(1) if:
+
+(i)  the contact point belongs to a minor;
+
+(ii)  a minor has access to the contact point; or
+
+(iii)  the contact point is used in a household in which a minor is present.
+
+(b)  A school or other institution that primarily serves minors may register its domain name with the division pursuant to rules made by the division under Subsection 13-39-203(1).
+
+(c)  The division shall provide a disclosure in a confirmation message sent to a person who registers a contact point under this section that reads: "No solution is completely secure.  The most effective way to protect children on the Internet is to supervise use and review all email messages and other correspondence.  Under law, theft of a contact point from the Child Protection Registry is a second degree felony.  While every attempt will be made to secure the Child Protection Registry, registrants and their guardians should be aware that their contact points may be at a greater risk of being misappropriated by marketers who choose to disobey the law."
+
+(4)  A person desiring to send a communication described in Subsection 13-39-202(1) to a contact point or domain shall:
+
+(a)  use a mechanism established by rule made by the division under Subsection 13-39-203(2); and
+
+(b)  pay a fee for use of the mechanism described in Subsection (4)(a) determined by the division in accordance with Section 63J-1-504.
+
+(5)  The division may implement a program to offer discounted compliance fees to senders who meet enhanced security conditions established and verified by the division, the third party registry provider, or a designee.
+
+(6)  The contents of the registry, and any complaint filed about a sender who violates this chapter, are not subject to public disclosure under Title 63G, Chapter 2, Government Records Access and Management Act.
+
+(7)  The state shall promote the registry on the state's official Internet website.
+
+
+
+Amended by Chapter 183, 2009 General Session
+

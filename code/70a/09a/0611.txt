@@ -1,0 +1,46 @@
+70A-9a-611.   Notification before disposition of collateral.
+
+(1)  In this section, "notification date" means the earlier of the date on which:
+
+(a)  a secured party sends to the debtor and any secondary obligor an authenticated notification of disposition; or
+
+(b)  the debtor and any secondary obligor waive the right to notification.
+
+(2)  Except as otherwise provided in Subsection (4), a secured party that disposes of collateral under Section 70A-9a-610 shall send to the persons specified in Subsection (3) a reasonable authenticated notification of disposition.
+
+(3)  To comply with Subsection (2), the secured party shall send an authenticated notification of disposition to:
+
+(a)  the debtor;
+
+(b)  any secondary obligor; and
+
+(c)  if the collateral is other than consumer goods:
+
+(i)  any other person from which the secured party has received, before the notification date, an authenticated notification of a claim of an interest in the collateral;
+
+(ii)  any other secured party or lienholder that, 10 days before the notification date, held a security interest in or other lien on the collateral perfected by the filing of a financing statement that:
+
+(A)  identified the collateral;
+
+(B)  was indexed under the debtor's name as of that date; and
+
+(C)  was filed in the office in which to file a financing statement against the debtor covering the collateral as of that date; and
+
+(iii)  any other secured party that, 10 days before the notification date, held a security interest in the collateral perfected by compliance with a statute, regulation, or treaty described in Subsection 70A-9a-311(1).
+
+(4)  Subsection (2) does not apply if the collateral is perishable or threatens to decline speedily in value or is of a type customarily sold on a recognized market.
+
+(5) A secured party complies with the requirement for notification prescribed by Subsection (3)(c)(ii) if:
+
+(a)  not later than 20 days or earlier than 30 days before the notification date, the secured party requests, in a commercially reasonable manner, information concerning financing statements indexed under the debtor's name in the office indicated in Subsection (3)(c)(ii); and
+
+(b)  before the notification date, the secured party:
+
+(i)  did not receive a response to the request for information; or
+
+(ii)  received a response to the request for information and sent an authenticated notification of disposition to each secured party or other lienholder named in that response whose financing statement covered the collateral.
+
+
+
+Enacted by Chapter 252, 2000 General Session
+
