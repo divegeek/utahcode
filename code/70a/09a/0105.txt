@@ -1,0 +1,22 @@
+70A-9a-105.   Control of electronic chattel paper.
+
+(1)  A secured party has control of electronic chattel paper if a system employed by evidencing the transfer of interests in the chattel paper reliably establishes the secured party as the person to whom the chattel paper was assigned.
+
+(2)  A system satisfies Subsection (1) if the record or records comprising the chattel paper are created, stored, and assigned in such a manner that:
+
+(a)  a single authoritative copy of the record or records exists which is unique, identifiable and, except as otherwise provided in Subsections (2)(d), (e), and (f), unalterable;
+
+(b)  the authoritative copy identifies the secured party as the assignee of the record or records;
+
+(c)  the authoritative copy is communicated to and maintained by the secured party or its designated custodian;
+
+(d)  copies or amendments that add or change an identified assignee of the authoritative copy can be made only with the consent of the secured party;
+
+(e)  each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and
+
+(f)  any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.
+
+
+
+Amended by Chapter 225, 2013 General Session
+

@@ -1,0 +1,26 @@
+70A-8-503.   Property interest of entitlement holder in financial asset held by securities intermediary.
+
+(1)  To the extent necessary for a securities intermediary to satisfy all security entitlements with respect to a particular financial asset, all interests in that financial asset held by the securities intermediary are held by the securities intermediary for the entitlement holders, are not property of the securities intermediary, and are not subject to claims of creditors of the securities intermediary, except as otherwise provided in Section 70A-8-511.
+
+(2)  An entitlement holder's property interest with respect to a particular financial asset under Subsection (1) is a pro rata property interest in all interests in that financial asset held by the securities intermediary, without regard to the time the entitlement holder acquired the security entitlement or the time the securities intermediary acquired the interest in that financial asset.
+
+(3)  An entitlement holder's property interest with respect to a particular financial asset under Subsection (1) may be enforced against the securities intermediary only by exercise of that entitlement holder's rights under Sections 70A-8-505 through 70A-8-508.
+
+(4) (a)  An entitlement holder's property interest with respect to a particular financial asset under Subsection (1) may be enforced against a purchaser of the financial asset or interest therein only if:
+
+(i)  insolvency proceedings have been initiated by or against the securities intermediary;
+
+(ii)  the securities intermediary does not have sufficient interests in the financial asset to satisfy the security entitlements of all of its entitlement holders to that financial asset;
+
+(iii)  the securities intermediary violated its obligations under Section 70A-8-504 by transferring the financial asset or interest therein to the purchaser; and
+
+(iv)  the purchaser is not protected under Subsection (5).
+
+(b)  The trustee or other liquidator, acting on behalf of all entitlement holders having security entitlements with respect to a particular financial asset, may recover the financial asset, or interest therein, from the purchaser.  If the trustee or other liquidator elects not to pursue that right, an entitlement holder whose security entitlement remains unsatisfied has the right to recover its interest in the financial asset from the purchaser.
+
+(5)  An action based on the entitlement holder's property interest with respect to a particular financial asset under Subsection (1), whether framed in conversion, replevin, constructive trust, equitable lien, or other theory, may not be asserted against any purchaser of a financial asset or interest therein who gives value, obtains control, and does not act in collusion with the securities intermediary in violating the securities intermediary's obligations under Section 70A-8-504.
+
+
+
+Enacted by Chapter 204, 1996 General Session
+
