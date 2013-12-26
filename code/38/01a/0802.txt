@@ -1,0 +1,150 @@
+38-1a-802.   Waiver or limitation of a lien right -- Forms -- Scope.
+
+(1)  As used in this section:
+
+(a)  "Check" means a payment instrument on a depository institution including:
+
+(i)  a check;
+
+(ii)  a draft;
+
+(iii)  an order; or
+
+(iv)  other instrument.
+
+(b)  "Depository institution" is as defined in Section 7-1-103.
+
+(c)  "Receives payment" means, in the case of a restrictive endorsement, a payee has endorsed a check and the check is presented to and paid by the depository institution on which it is drawn.
+
+(2)  Notwithstanding Section 38-1a-105, a claimant's written consent that waives or limits the claimant's lien rights is enforceable only if the claimant:
+
+(a) (i)  executes a waiver and release that is signed by the claimant or the claimant's authorized agent; or
+
+(ii)  for a restrictive endorsement on a check, includes a restrictive endorsement on a check that is:
+
+(A)  signed by the claimant or the claimant's authorized agent; and
+
+(B)  in substantially the same form set forth in Subsection (4)(d); and
+
+(b)  receives payment of the amount identified in the waiver and release or check that includes the restrictive endorsement:
+
+(i)  including payment by a joint payee check; and
+
+(ii)  for a progress payment, only to the extent of the payment.
+
+(3) (a)  Notwithstanding the language of a waiver and release described in Subsection (2), Subsection (3)(b) applies if:
+
+(i)  the payment given in exchange for any waiver and release of lien is made by check; and
+
+(ii)  the check fails to clear the depository institution on which it is drawn for any reason.
+
+(b)  If the conditions of Subsection (3)(a) are met:
+
+(i)  the waiver and release described in Subsection (3)(a) is void; and
+
+(ii)  the following will not be affected by the claimant's execution of the waiver and release:
+
+(A)  any lien;
+
+(B)  any lien right;
+
+(C)  any bond right;
+
+(D)  any contract right; or
+
+(E)  any other right to recover payment afforded to the claimant in law or equity.
+
+(4) (a)  A waiver and release given by a claimant meets the requirements of this section if it is in substantially the form provided in this Subsection (4) for the circumstance provided in this Subsection (4).
+
+(b)  A waiver and release may be in substantially the following form if the claimant is required to execute a waiver and release in exchange for or to induce the payment of a progress billing:
+
+"UTAH CONDITIONAL WAIVER AND RELEASE UPON PROGRESS PAYMENT
+
+Property Name: _____________________________________________________________
+
+Property Location: ___________________________________________________________
+
+Undersigned's Customer: _____________________________________________________
+
+Invoice/Payment Application Number: __________________________________________
+
+Payment Amount: ___________________________________________________________
+
+Payment Period: ____________________________________________________________
+
+To the extent provided below, this document becomes effective to release and the undersigned is considered to waive any notice of lien or right under Utah Code Ann., Title 38, Chapter 1a, Preconstruction and Construction Liens, or any bond right under Utah Code Ann., Title 14, Contractors' Bonds, or Section 63G-6a-1103 related to payment rights the undersigned has on the above described Property once:
+
+(1)  the undersigned endorses a check in the above referenced Payment Amount payable to the undersigned; and
+
+(2)  the check is paid by the depository institution on which it is drawn.
+
+This waiver and release applies to a progress payment for the work, materials, equipment, or a combination of work, materials, and equipment furnished by the undersigned to the Property or to the Undersigned's Customer which are the subject of the Invoice or Payment Application, but only to the extent of the Payment Amount.  This waiver and release does not apply to any retention withheld; any items, modifications, or changes pending approval; disputed items and claims; or items furnished or invoiced after the Payment Period.
+
+The undersigned warrants that the undersigned either has already paid or will use the money the undersigned receives from this progress payment promptly to pay in full all the undersigned's laborers, subcontractors, materialmen, and suppliers for all work, materials, equipment, or combination of work, materials, and equipment that are the subject of this waiver and release.
+
+Dated: ________________________
+
+___________________________________________________________(Company Name)
+
+_____________________________________________________By:__________________
+
+_____________________________________________________Its:__________________"
+
+(c)  A waiver and release may be in substantially the following form if the lien claimant is required to execute a waiver and release in exchange for or to induce the payment of a final billing:
+
+"UTAH WAIVER AND RELEASE UPON FINAL PAYMENT
+
+Property Name: ____________________________________________________________
+
+Property Location: __________________________________________________________
+
+Undersigned's Customer: _____________________________________________________
+
+Invoice/Payment Application Number: __________________________________________
+
+Payment Amount: ___________________________________________________________
+
+To the extent provided below, this document becomes effective to release and the undersigned is considered to waive any notice of lien or right under Utah Code Ann., Title 38, Chapter 1a, Preconstruction and Construction Liens, or any bond right under Utah Code Ann., Title 14, Contractors' Bonds, or Section 63G-6a-1103 related to payment rights the undersigned has on the above described Property once:
+
+(1)  the undersigned endorses a check in the above referenced Payment Amount payable to the undersigned; and
+
+(2)  the check is paid by the depository institution on which it is drawn.
+
+This waiver and release applies to the final payment for the work, materials, equipment, or combination of work, materials, and equipment furnished by the undersigned to the Property or to the Undersigned's Customer.
+
+The undersigned warrants that the undersigned either has already paid or will use the money the undersigned receives from the final payment promptly to pay in full all the undersigned's laborers, subcontractors, materialmen, and suppliers for all work, materials, equipment, or combination of work, materials, and equipment that are the subject of this waiver and release.
+
+Dated: ________________________
+
+___________________________________________________________(Company Name)
+
+_____________________________________________________By:__________________
+
+_____________________________________________________Its:__________________"
+
+(d)  A restrictive endorsement placed on a check to effectuate a waiver and release described in this Subsection (4) meets the requirements of this section if it is in substantially the following form:
+
+"This check is a progress/ final payment for property described on this check sufficient for identification.  Endorsement of this check is an acknowledgment by the endorser that the waiver and release to which the payment applies is effective to the extent provided in Utah Code Ann. Subsection 38-1a-802(4)(b) or (c) respectively."
+
+(e) (i)  If using a restrictive endorsement under Subsection (4)(d), the person preparing the check shall indicate whether the check is for a progress payment or a final payment by circling the word "progress" if the check is for a progress payment, or the word "final" if the check is for a final payment.
+
+(ii)  If a restrictive endorsement does not indicate whether the check is for a progress payment or a final payment, it is considered to be for a progress payment.
+
+(5) (a)  If the conditions of Subsection (5)(b) are met, this section does not affect the enforcement of:
+
+(i)  an accord and satisfaction regarding a bona fide dispute; or
+
+(ii)  an agreement made in settlement of an action pending in any court or arbitration.
+
+(b)  Pursuant to Subsection (5)(a), this section does not affect enforcement of an accord and satisfaction or settlement described in Subsection (5)(a) if the accord and satisfaction or settlement:
+
+(i)  is in a writing signed by the claimant; and
+
+(ii)  specifically references the lien rights waived or impaired.
+
+
+
+Renumbered and Amended by Chapter 278, 2012 General Session 
+
+Amended by Chapter 347, 2012 General Session
+

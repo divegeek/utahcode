@@ -1,0 +1,116 @@
+62A-4a-1003.   Management Information System -- Requirements -- Contents -- Purpose -- Access.
+
+(1) (a)  The division shall develop and implement a Management Information System that meets the requirements of this section and the requirements of federal law and regulation.
+
+(b)  The information and records contained in the Management Information System:
+
+(i)  are protected records under Title 63G, Chapter 2, Government Records Access and Management Act; and
+
+(ii)  except as provided in Subsections (1)(c) and (d), are available only to a person with statutory authorization under Title 63G, Chapter 2, Government Records Access and Management Act, to review the information and records described in this Subsection (1)(b).
+
+(c)  Notwithstanding Subsection (1)(b)(ii), the information and records described in Subsection (1)(b) are available to a person:
+
+(i)  as provided under Subsection (6) or Section 62A-4a-1006; or
+
+(ii)  who has specific statutory authorization to access the information or records for the purpose of assisting the state with state and federal requirements to maintain information solely for the purpose of protecting minors and providing services to families in need.
+
+(d)  Notwithstanding Subsection (1)(b)(ii), the information and records described in Subsection (1)(b) may, to the extent required by Title IV-B or IV-E of the Social Security Act, be provided by the division:
+
+(i)  to comply with abuse and neglect registry checks requested by other states; and
+
+(ii)  to the United States Department of Health and Human Services for purposes of maintaining an electronic national registry of substantiated cases of abuse and neglect.
+
+(2)  With regard to all child welfare cases, the Management Information System shall provide each caseworker and the department's office of licensing, exclusively for the purposes of foster parent licensure and monitoring, with a complete history of each child in that worker's caseload, including:
+
+(a)  a record of all past action taken by the division with regard to that child and the child's siblings;
+
+(b)  the complete case history and all reports and information in the control or keeping of the division regarding that child and the child's siblings;
+
+(c)  the number of times the child has been in the custody of the division;
+
+(d)  the cumulative period of time the child has been in the custody of the division;
+
+(e)  a record of all reports of abuse or neglect received by the division with regard to that child's parent, parents, or guardian including:
+
+(i)  for each report, documentation of the:
+
+(A)  latest status; or
+
+(B)  final outcome or determination; and
+
+(ii)  information that indicates whether each report was found to be:
+
+(A)  supported;
+
+(B)  unsupported;
+
+(C)  substantiated by a juvenile court;
+
+(D)  unsubstantiated by a juvenile court; or
+
+(E)  without merit;
+
+(f)  the number of times the child's parent or parents failed any child and family plan; and
+
+(g)  the number of different caseworkers who have been assigned to that child in the past.
+
+(3)  The division's Management Information System shall:
+
+(a)  contain all key elements of each family's current child and family plan, including:
+
+(i)  the dates and number of times the plan has been administratively or judicially reviewed;
+
+(ii)  the number of times the parent or parents have failed that child and family plan; and
+
+(iii)  the exact length of time the child and family plan has been in effect; and
+
+(b)  alert caseworkers regarding deadlines for completion of and compliance with policy, including child and family plans.
+
+(4)  With regard to all child protective services cases, the Management Information System shall:
+
+(a)  monitor the compliance of each case with:
+
+(i)  division rule and policy;
+
+(ii)  state law; and
+
+(iii)  federal law and regulation; and
+
+(b)  include the age and date of birth of the alleged perpetrator at the time the abuse or neglect is alleged to have occurred, in order to ensure accuracy regarding the identification of the alleged perpetrator.
+
+(5)  Except as provided in Subsection (6) regarding contract providers and Section 62A-4a-1006 regarding limited access to the Licensing Information System, all information contained in the division's Management Information System is available to the department, upon the approval of the executive director, on a need-to-know basis.
+
+(6) (a)  Subject to this Subsection (6), the division may allow its contract providers, court clerks designated by the Administrative Office of the Courts, and the Office of Guardian Ad Litem to have limited access to the Management Information System.
+
+(b)  A division contract provider has access only to information about a person who is currently receiving services from that specific contract provider.
+
+(c) (i)  Designated court clerks may only have access to information necessary to comply with Subsection 78B-7-202(2).
+
+(ii)  The Office of Guardian Ad Litem may access only the information that:
+
+(A)  relates to children and families where the Office of Guardian Ad Litem is appointed by a court to represent the interests of the children; and
+
+(B)  except as provided in Subsection (6)(d), is entered into the Management Information System on or after July 1, 2004.
+
+(d)  Notwithstanding Subsection (6)(c)(ii)(B), the Office of Guardian Ad Litem shall have access to all abuse and neglect referrals about children and families where the office has been appointed by a court to represent the interests of the children, regardless of the date that the information is entered into the Management Information System.
+
+(e)  Each contract provider and designated representative of the Office of Guardian Ad Litem who requests access to information contained in the Management Information System shall:
+
+(i)  take all necessary precautions to safeguard the security of the information contained in the Management Information System;
+
+(ii)  train its employees regarding:
+
+(A)  requirements for protecting the information contained in the Management Information System as required by this chapter and under Title 63G, Chapter 2, Government Records Access and Management Act; and
+
+(B)  the criminal penalties under Sections 62A-4a-412 and 63G-2-801 for improper release of information; and
+
+(iii)  monitor its employees to ensure that they protect the information contained in the Management Information System as required by law.
+
+(f)  The division shall take reasonable precautions to ensure that its contract providers comply with the requirements of this Subsection (6).
+
+(7)  The division shall take all necessary precautions, including password protection and other appropriate and available technological techniques, to prevent unauthorized access to or release of information contained in the Management Information System.
+
+
+
+Amended by Chapter 32, 2009 General Session
+

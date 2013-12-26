@@ -1,0 +1,18 @@
+53A-1-603.5.   Unique student identifier -- Coordination of higher education and public education information technology systems.
+
+(1)  As used in this section, "unique student identifier" means an alphanumeric code assigned to each public education student for identification purposes, which:
+
+(a)  is not assigned to any former or current student; and
+
+(b)  does not incorporate personal information, including a birth date or Social Security number.
+
+(2)  The State Board of Education, through the superintendent of public instruction, shall assign each public education student a unique student identifier, which shall be used to track individual student performance on achievement tests administered under this part.
+
+(3)  The State Board of Education and the State Board of Regents shall coordinate public education and higher education information technology systems to allow individual student academic achievement to be tracked through both education systems in accordance with this section and Section 53B-1-109.
+
+(4)  The State Board of Education and State Board of Regents shall coordinate access to the unique student identifier of a public education student who later attends an institution within the state system of higher education.
+
+
+
+Enacted by Chapter 147, 2006 General Session
+

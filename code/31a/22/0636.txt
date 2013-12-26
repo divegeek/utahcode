@@ -1,0 +1,36 @@
+31A-22-636.   Standardized health benefit plan cards.
+
+(1)  As used in this section, "insurer" means:
+
+(a)  an insurer governed by this part as described in Section 31A-22-600;
+
+(b)  a health maintenance organization governed by Chapter 8, Health Maintenance Organizations and Limited Health Benefit Plans;
+
+(c)  a third party administrator; and
+
+(d)  notwithstanding Subsection 31A-1-103(3)(f) and Section 31A-22-600, a health, medical, or conversion policy offered under Title 49, Chapter 20, Public Employees' Benefit and Insurance Program Act.
+
+(2)  In accordance with Subsection (3), an insurer shall use and issue a health benefit plan information card for the insurer's enrollees upon the purchase or renewal of, or enrollment in, a health benefit plan on or after July 1, 2010.
+
+(3)  The health benefit plan card shall include:
+
+(a)  the covered person's name;
+
+(b)  the name of the carrier and the carrier network name;
+
+(c)  the contact information for the carrier or health benefit plan administrator;
+
+(d)  general information regarding copayments and deductibles; and
+
+(e)  an indication of whether the health benefit plan is regulated by the state.
+
+(4) (a)  The commissioner shall work with the Department of Health, the Health Data Authority, health care providers groups, and with state and national organizations that are developing uniform standards for the electronic exchange of health insurance claims or uniform standards for the electronic exchange of clinical health records.
+
+(b)  When the commissioner determines that the groups described in Subsection (4)(a) have reached a consensus regarding the electronic technology and standards necessary to electronically exchange insurance enrollment and coverage information, the commissioner shall begin the rulemaking process under Title 63G, Chapter 3, Utah Administrative Rulemaking Act, to adopt standardized electronic interchange technology.
+
+(c)  After rules are adopted under Subsection (4)(a), health care providers and their licensing boards under Title 58, Occupations and Professions, and health facilities licensed under Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act, shall work together to implement the adoption of card swipe technology.
+
+
+
+Amended by Chapter 297, 2011 General Session
+

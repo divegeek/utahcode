@@ -1,0 +1,54 @@
+26-36a-203.   Calculation of assessment.
+
+(1) (a)  An annual assessment is payable on a quarterly basis for each hospital in an amount calculated at a uniform assessment rate for each hospital discharge, in accordance with this section.
+
+(b)  The uniform assessment rate shall be determined using the total number of hospital discharges for assessed hospitals divided into the total non-federal portion in an amount consistent with Section 26-36a-205 that is needed to support capitated rates for accountable care organizations for purposes of hospital services provided to Medicaid enrollees.
+
+(c)  Any quarterly changes to the uniform assessment rate shall be applied uniformly to all assessed hospitals.
+
+(d)  The annual uniform assessment rate may not generate more than:
+
+(i)  $1,000,000 to offset Medicaid mandatory expenditures; and
+
+(ii)  the non-federal share to seed amounts needed to support capitated rates for accountable care organizations as provided for in Subsection (1)(b).
+
+(2) (a)  For each state fiscal year, discharges shall be determined using the data from each hospital's Medicare Cost Report contained in the Centers for Medicare and Medicaid Services' Healthcare Cost Report Information System file.  The hospital's discharge data will be derived as follows:
+
+(i)  for state fiscal year 2013, the hospital's cost report data for the hospital's fiscal year ending between July 1, 2009, and June 30, 2010;
+
+(ii)  for state fiscal year 2014, the hospital's cost report data for the hospital's fiscal year ending between July 1, 2010, and June 30, 2011;
+
+(iii)  for state fiscal year 2015, the hospital's cost report data for the hospital's fiscal year ending between July 1, 2011, and June 30, 2012; and
+
+(iv)  for state fiscal year 2016, the hospital's cost report data for the hospital's fiscal year ending between July 1, 2012, and June 30, 2013.
+
+(b)  If a hospital's fiscal year Medicare Cost Report is not contained in the Centers for Medicare and Medicaid Services' Healthcare Cost Report Information System file:
+
+(i)  the hospital shall submit to the division a copy of the hospital's Medicare Cost Report applicable to the assessment year; and
+
+(ii)  the division shall determine the hospital's discharges.
+
+(c)  If a hospital is not certified by the Medicare program and is not required to file a Medicare Cost Report:
+
+(i)  the hospital shall submit to the division its applicable fiscal year discharges with supporting documentation;
+
+(ii)  the division shall determine the hospital's discharges from the information submitted under Subsection (2)(c)(i); and
+
+(iii)  the failure to submit discharge information shall result in an audit of the hospital's records and a penalty equal to 5% of the calculated assessment.
+
+(3)  Except as provided in Subsection (4), if a hospital is owned by an organization that owns more than one hospital in the state:
+
+(a)  the assessment for each hospital shall be separately calculated by the department; and
+
+(b)  each separate hospital shall pay the assessment imposed by this chapter.
+
+(4)  Notwithstanding the requirement of Subsection (3), if multiple hospitals use the same Medicaid provider number:
+
+(a)  the department shall calculate the assessment in the aggregate for the hospitals using the same Medicaid provider number; and
+
+(b)  the hospitals may pay the assessment in the aggregate.
+
+
+
+Amended by Chapter 32, 2013 General Session
+

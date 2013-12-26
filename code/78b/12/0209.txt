@@ -1,0 +1,14 @@
+78B-12-209.   Split custody -- Obligation calculations.
+
+In cases of split custody, the base child support award shall be determined as follows:
+
+(1)  Combine the adjusted gross incomes of the parents and determine the base combined child support obligation using the base combined child support obligation table.  Allocate a portion of the calculated amount between the parents in proportion to the number of children for whom each parent has physical custody.  The amounts so calculated are a tentative base child support obligation due each parent from the other parent for support of the child or children for whom each parent has physical custody.
+
+(2)  Multiply the tentative base child support obligation due each parent by the percentage that the other parent's adjusted gross income bears to the total combined adjusted gross income of both parents.
+
+(3)  Subtract the lesser amount in Subsection (2) from the larger amount to determine the base child support award to be paid by the parent with the greater financial obligation.
+
+
+
+Renumbered and Amended by Chapter 3, 2008 General Session
+

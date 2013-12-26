@@ -1,0 +1,16 @@
+57-10-8.   Use of terms on maps and documents.
+
+(1)  Any document identifying or using a coordinate system shall, in accordance with Section 57-10-9, clearly and completely identify the system used.
+
+(a)  The use of the term "Utah Coordinate System of 1927 (North, Central, South) Zone" on any map, report of survey, or other document shall be used to reference the system, the coordinates, and the unit of measure as defined in Subsection 57-10-6(1).
+
+(b)  The use of the term "Utah Coordinate System of 1983 (HARN 1994, or the current federal coordinate update used as the basis of the system being used) (North, Central, South) Zone" shall be used to reference the system, the coordinates, and the unit of measure as defined in Subsection 57-10-6(2).
+
+(2)  Anyone using a coordinate system similar to the Utah coordinate system, such as one where a modified elevation datum is used, shall clearly include "modified" in the title of the coordinate system.
+
+(3)  Any survey or map based on any such modified coordinate system shall show the title of the coordinate system, including "modified" in the title and show the appropriate combined adjustment factor relating the system to the Utah coordinate system.
+
+
+
+Amended by Chapter 62, 2001 General Session
+

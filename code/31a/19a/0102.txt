@@ -1,0 +1,160 @@
+31A-19a-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Classification system" or "classification" means the process of grouping risks with similar risk characteristics so that differences in anticipated costs may be recognized.
+
+(2) (a)  "Developed losses" means losses adjusted using standard actuarial techniques to eliminate the effect of differences between:
+
+(i)  current payment or reserve estimates; and
+
+(ii)  payments or reserve estimates that are anticipated to provide actual ultimate loss payments.
+
+(b)  For purposes of Subsection (2)(a), losses includes loss adjustment expense.
+
+(3)  "Dividend" means money paid to a policyholder from the remaining portion of the premium paid for a policy:
+
+(a)  based on the participating class of business; and
+
+(b)  after the insurer has made deductions for:
+
+(i)  losses;
+
+(ii)  expenses;
+
+(iii)  additions to reserves; and
+
+(iv)  profit and contingencies.
+
+(4)  "Expenses" means that portion of a rate attributable to:
+
+(a)  acquisition;
+
+(b)  field supervision;
+
+(c)  collection expenses;
+
+(d)  general expenses;
+
+(e)  taxes;
+
+(f)  licenses; and
+
+(g)  fees.
+
+(5)  "Experience rating" means a rating procedure that:
+
+(a)  uses the past insurance experience of an individual policyholder to forecast the future losses of the policyholder by measuring the policyholder's loss experience against the loss experience of policyholders in the same classification; and
+
+(b)  produces a prospective premium credit, debit, or unity modification.
+
+(6)  "Joint underwriting" means a voluntary arrangement established to provide insurance coverage for a risk pursuant to which two or more insurers jointly contract with the insured at a price and under policy terms agreed upon between the insurers.
+
+(7)  "Loss adjustment expense" means the expenses incurred by the insurer in the course of settling claims.
+
+(8) (a)  "Market" means the interaction between buyers and sellers consisting of a:
+
+(i)  product component; and
+
+(ii)  geographic component.
+
+(b)  A product component consists of identical or readily substitutable products if the products are compared as to factors including:
+
+(i)  coverage;
+
+(ii)  policy terms;
+
+(iii)  rate classifications; and
+
+(iv)  underwriting.
+
+(c)  A geographic component is a geographical area in which buyers seek access to the insurance product through sales outlets and other distribution mechanisms or patterns.
+
+(9)  "Mass marketed plan" means a method of selling insurance when:
+
+(a)  the insurance is offered to:
+
+(i)  employees of a particular employer;
+
+(ii)  members of a particular association or organization; or
+
+(iii)  persons grouped in a manner other than described in Subsection (8)(a)(i) or (ii), except groupings formed principally for the purpose of obtaining insurance; and
+
+(b)  the employer, association, or other organization, if any, has agreed to, or otherwise affiliated itself with, the sale of insurance to its employees or members.
+
+(10)  "Prospective loss costs" means the same as pure premium rate.
+
+(11)  "Pure premium rate" means that portion of a rate that:
+
+(a)  does not include provisions for profit or expenses, other than loss adjustment expenses; and
+
+(b)  is based on historical aggregate losses and loss adjustment expenses that are:
+
+(i)  adjusted through development to their ultimate value; and
+
+(ii)  projected through trending to a future point in time.
+
+(12) (a)  "Rate" means that cost of insurance per exposure unit either expressed as:
+
+(i)  a single number; or
+
+(ii)  as a pure premium rate, adjusted before any application of individual risk variations, based on loss or expense considerations to account for the treatment of:
+
+(A)  expenses;
+
+(B)  profit; and
+
+(C)  individual insurer variation in loss experience.
+
+(b)  "Rate" does not include a minimum premium.
+
+(13)  "Rating tiers" means an underwriting and rating plan designed to categorize insurance risks that have common characteristics related to potential insurance loss into broad groups for the purpose of establishing a set of rating levels that reflect definable levels of potential hazard or risk.
+
+(14)  "Riskiness" means the variability of results around the average expected result.
+
+(15)  "Supplementary rate information" includes one or more of the following needed to determine the applicable rate in effect or to be in effect:
+
+(a)  a manual or plan of rates;
+
+(b)  a statistical plan;
+
+(c)  a classification;
+
+(d)  a rating schedule;
+
+(e)  a minimum premium;
+
+(f)  a policy fee;
+
+(g)  a rating rule;
+
+(h)  a rate-related underwriting rule;
+
+(i)  a rate modification plan; or
+
+(j)  any other similar information prescribed by rule of the commissioner as supplementary rate information.
+
+(16)  "Supporting information" includes one or more of the following:
+
+(a)  data demonstrating actuarial justification for the basic rate factors, classifications, expenses, and profit factors used by the filer;
+
+(b)  the experience and judgment of the filer;
+
+(c)  the experience or data of other insurers or rate service organizations relied upon by the filer;
+
+(d)  the interpretation of any other data relied upon by the filer;
+
+(e)  descriptions of methods used in making the rates; or
+
+(f)  any other information defined by rule as supporting information that is required to be filed.
+
+(17)  "Trending" means any procedure for projecting, for the period during which the policies are to be effective:
+
+(a)  losses to the average date of loss; or
+
+(b)  premiums or exposures to the average date of writing.
+
+
+
+Renumbered and Amended by Chapter 130, 1999 General Session
+

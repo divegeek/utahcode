@@ -1,0 +1,18 @@
+20A-14-101.1.   Definitions.
+
+As used in this part:
+
+(1)  "Board" means the State Board of Education.
+
+(2)  "Board block assignment file" means the electronic file that assigns each of Utah's 115, 406 census blocks to a particular State Board of Education district.
+
+(3)  "Board shapefile" means the electronic shapefile that stores the boundary of each of the 15 State Board of Education districts.
+
+(4)  "Census block" means any one of the 115, 406 individual geographic areas into which the Bureau of the Census of the United States Department of Commerce has divided the state of Utah, to each of which the Bureau of the Census has attached a discrete population tabulation from the 2010 decennial census.
+
+(5)  "Shapefile" means the digital vector storage format for storing geometric location and associated attribute information.
+
+
+
+Amended by Chapter 455, 2013 General Session
+

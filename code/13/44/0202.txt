@@ -1,0 +1,46 @@
+13-44-202.   Personal information -- Disclosure of system security breach.
+
+(1) (a)  A person who owns or licenses computerized data that includes personal information concerning a Utah resident shall, when the person becomes aware of a breach of system security, conduct in good faith a reasonable and prompt investigation to determine the likelihood that personal information has been or will be misused for identity theft or fraud purposes.
+
+(b)  If an investigation under Subsection (1)(a) reveals that the misuse of personal information for identity theft or fraud purposes has occurred, or is reasonably likely to occur, the person shall provide notification to each affected Utah resident.
+
+(2)  A person required to provide notification under Subsection (1) shall provide the notification in the most expedient time possible without unreasonable delay:
+
+(a)  considering legitimate investigative needs of law enforcement, as provided in Subsection (4)(a);
+
+(b)  after determining the scope of the breach of system security; and
+
+(c)  after restoring the reasonable integrity of the system.
+
+(3) (a)  A person who maintains computerized data that includes personal information that the person does not own or license shall notify and cooperate with the owner or licensee of the information of any breach of system security immediately following the person's discovery of the breach if misuse of the personal information occurs or is reasonably likely to occur.
+
+(b)  Cooperation under Subsection (3)(a) includes sharing information relevant to the breach with the owner or licensee of the information.
+
+(4) (a)  Notwithstanding Subsection (2), a person may delay providing notification under Subsection (1) at the request of a law enforcement agency that determines that notification may impede a criminal investigation.
+
+(b)  A person who delays providing notification under Subsection (4)(a) shall provide notification in good faith without unreasonable delay in the most expedient time possible after the law enforcement agency informs the person that notification will no longer impede the criminal investigation.
+
+(5) (a)  A notification required by this section may be provided:
+
+(i)  in writing by first-class mail to the most recent address the person has for the resident;
+
+(ii)  electronically, if the person's primary method of communication with the resident is by electronic means, or if provided in accordance with the consumer disclosure provisions of 15 U.S.C. Section 7001;
+
+(iii)  by telephone, including through the use of automatic dialing technology not prohibited by other law; or
+
+(iv)  by publishing notice of the breach of system security:
+
+(A)  in a newspaper of general circulation; and
+
+(B)  as required in Section 45-1-101.
+
+(b)  If a person maintains the person's own notification procedures as part of an information security policy for the treatment of personal information the person is considered to be in compliance with this chapter's notification requirements if the procedures are otherwise consistent with this chapter's timing requirements and the person notifies each affected Utah resident in accordance with the person's information security policy in the event of a breach.
+
+(c)  A person who is regulated by state or federal law and maintains procedures for a breach of system security under applicable law established by the primary state or federal regulator is considered to be in compliance with this part if the person notifies each affected Utah resident in accordance with the other applicable law in the event of a breach.
+
+(6)  A waiver of this section is contrary to public policy and is void and unenforceable.
+
+
+
+Amended by Chapter 388, 2009 General Session
+
