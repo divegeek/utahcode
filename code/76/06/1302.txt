@@ -1,0 +1,28 @@
+76-6-1302.   Definitions.
+
+As used in this part:
+
+(1)  "Automated sales suppression device" means:
+
+(a)  a software program that falsifies the electronic records of electronic cash registers or any other point-of-sale systems, including transaction data and transaction reports; or
+
+(b)  a general reference to a device that allows for, creates, or supports an automated sales suppression system or any kind of phantomware.
+
+(2)  "Electronic cash register" means any device, wherever located, that maintains a transaction register or supporting documents by means of an electronic device or computer system designed to record transaction data for the purpose of computing, compiling, or processing retail, wholesale, or any other sales transaction data.
+
+(3)  "Person" means an individual, business, or entity.
+
+(4)  "Phantomware" means a programming option that:
+
+(a)  is pre-installed, installed at a later time, or otherwise embedded in the operating system of an electronic cash register or hardwired into the electronic cash register; and
+
+(b)  can be used to create a virtual alternate register or to eliminate or manipulate transaction records that may or may not be preserved in digital formats in order to represent a manipulated record or records of transactions in the electronic cash register.
+
+(5)  "Transaction data" includes items purchased by a customer, the price for each item, a taxability determination for each item, a segregated tax amount for each of the taxed items, the amount of cash or credit tendered, the net amount returned to the customer in change or in a refund, the date and time of the purchase, the name, address, and identification number of the vendor, and the receipt or invoice number of the transaction.
+
+(6)  "Transaction report" means a report that includes the sales, taxes collected, media totals, and discount voids at an electronic cash register and that is generated at the end of a day or shift.  The report is printed on cash register tape or is stored electronically.
+
+
+
+Enacted by Chapter 32, 2012 General Session
+

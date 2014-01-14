@@ -1,0 +1,176 @@
+73-10-33.   Management plan for water conveyance facilities.
+
+(1)  As used in this section:
+
+(a)  "Board" means the Board of Water Resources created by Section 73-10-1.5.
+
+(b)  "Conservation district" means a conservation district created under Title 17D, Chapter 3, Conservation District Act.
+
+(c)  "Division" means the Division of Water Resources created by Section 73-10-18.
+
+(d)  "Facility owner or operator" means:
+
+(i)  a water company as defined in Subsection 73-3-3.5(1)(b); or
+
+(ii)  an owner or operator of a water conveyance facility.
+
+(e)  "Management plan" means a written document meeting the requirements of Subsection (3).
+
+(f)  "Potential risk" means a condition where, if a water conveyance facility fails, the failure would create a high probability of:
+
+(i)  causing loss of human life; or
+
+(ii)  causing extensive economic loss, including damage to critical transportation facilities, utility facilities, or public buildings.
+
+(g)  "Potential risk location" means a segment of a water conveyance facility that constitutes a potential risk due to:
+
+(i)  location;
+
+(ii)  elevation;
+
+(iii)  soil conditions;
+
+(iv)  structural instability;
+
+(v)  water volume or pressure; or
+
+(vi)  other conditions.
+
+(h) (i)  "Water conveyance facility" means a water conveyance defined in Section 57-13a-101.
+
+(ii)  "Water conveyance facility" does not include:
+
+(A)  a pipeline conveying water for industrial use, or municipal use, within a public water system as defined in Section 19-4-102;
+
+(B)  a natural channel used to convey water for use within a water conveyance facility; or
+
+(C)  a fully piped, pressurized irrigation system.
+
+(2) (a)  For a water conveyance facility that has a potential risk location, the board or division may issue a grant or loan to the facility owner or operator, and the facility owner or operator may receive state money for water development or water conveyance facility repair or improvements, only if the facility owner or operator promptly adopts a management plan in accordance with this section.
+
+(b)  For a management plan to be considered to be promptly adopted for purposes of this Subsection (2), the facility owner or operator shall:
+
+(i)  adopt the management plan by an affirmative vote of the facility owner or operator's board of directors, or persons occupying a similar status or performing similar functions before receiving money under Subsection (2)(a);
+
+(ii) (A)  adopt the management plan as described in Subsection (2)(b)(i) by no later than:
+
+(I)  May 1, 2013, for a water conveyance facility in operation on May 11, 2011; or
+
+(II)  for a water conveyance facility that begins operation after May 11, 2011, one year after the day on which the water conveyance facility begins operation; or
+
+(B) (I)  adopt the management plan as described in Subsection (2)(b)(i); and
+
+(II)  provide written justification satisfactory to the board as to why the facility owner or operator was unable to adopt a management plan during the time period provided in Subsection (2)(b)(ii)(A); and
+
+(iii)  update the management plan adopted under Subsection (2)(b)(i) no less frequently than every 10 years.
+
+(3)  A management plan described in Subsection (2) shall include at least the following:
+
+(a)  a GIS coverage or drawing of each potential risk location of a water conveyance facility identifying any:
+
+(i)  existing canal and lateral alignment of the canal facility;
+
+(ii)  point of diversion;
+
+(iii)  bridge;
+
+(iv)  culvert;
+
+(v)  screen or trash rack; and
+
+(vi)  spill point;
+
+(b)  an evaluation of any potential slope instability that may cause a potential risk, including:
+
+(i)  failure of the facility;
+
+(ii)  land movement that might result in failure of the facility; or
+
+(iii)  land movement that might result from failure of the facility;
+
+(c)  proof of insurance coverage or other means of financial responsibility against liability resulting from failure of the water conveyance facility;
+
+(d)  a maintenance and improvement plan;
+
+(e)  a schedule for implementation of a maintenance and improvement plan;
+
+(f)  an emergency response plan that:
+
+(i)  is developed after consultation with local emergency response officials;
+
+(ii)  is updated annually; and
+
+(iii)  includes, in the case of an emergency, how a first responder can:
+
+(A)  contact the facility owner or operator; and
+
+(B)  obtain information described in Subsection (3)(a);
+
+(g)  any potential source of financing for maintenance and improvements under a maintenance and improvement plan;
+
+(h)  identification of each municipality or county through which water is conveyed or delivered by the water conveyance facility;
+
+(i)  a statement concerning whether storm water enters the water conveyance facility; and
+
+(j)  if storm water enters the water conveyance facility:
+
+(i)  an estimate of the maximum volume and flow of all water present in the water conveyance facility as a result of a six-hour, 25-year storm event;
+
+(ii)  on the basis of information provided in accordance with Subsection (4), identification of the points at which any storm structures introduce water into the water conveyance facility and the anticipated flow that may occur at each structure; and
+
+(iii)  the name of each governmental agency that has responsibility for storm water management within the area from which storm water drains into the water conveyance facility.
+
+(4)  A private or public entity that introduces storm water into a water conveyance facility shall provide the facility owner or operator with an estimate of the maximum volume and flow of water that may occur at each structure that introduces storm water into the water conveyance facility.
+
+(5) (a)  A facility owner or operator of a water conveyance facility shall provide a municipality or county in which is located a potential risk location of the water conveyance facility an outline of the information provided in Subsection (3)(f).
+
+(b)  A facility owner or operator shall give notice to the planning and zoning department of each municipality and county identified in Subsection (3)(h) outlining the information provided in Subsections (3)(f), (i), and (j).
+
+(c)  An outline of information provided under this Subsection (5) is a protected record under Section 63G-2-305.
+
+(6) (a)  The division may provide information and technical resources to a facility owner or operator of a water conveyance facility, regardless of whether the water conveyance facility has a potential risk location.
+
+(b)  In providing the information and resources described in Subsection (5)(a), the division may coordinate with efforts of any association of conservation districts that may provide similar information and technical resources.
+
+(c)  The information and technical resources described in Subsection (5)(a) include:
+
+(i)  engaging state and local water users in voluntary completion of a management plan;
+
+(ii)  developing standard guidelines, checklists, or templates that may be used by a facility owner or operator;
+
+(iii)  using conservation districts as points of contact with a facility owner or operator;
+
+(iv)  providing training to help a facility owner or operator to adopt a management plan; and
+
+(v)  assisting, at the request and under the direction of, a facility owner or operator with efforts to adopt or implement a management plan.
+
+(7) (a)  A facility owner or operator of a water conveyance facility that has a potential risk location shall provide the board or division upon request:
+
+(i)  written certification signed under oath by a person authorized to act for the board of directors or persons occupying a similar status or performing similar functions, certifying that the management plan complies with this section; and
+
+(ii)  an opportunity to review a management plan.
+
+(b)  A management plan received by the board or division under this section is a protected record under Section 63G-2-305.
+
+(8)  The board shall report concerning compliance with this section to the Natural Resources, Agriculture, and Environment Interim Committee of the Legislature before November 30, 2013.
+
+(9)  The division and board may make rules, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, concerning the requirements of this section.
+
+(10)  This section does not:
+
+(a)  create a private right of action for a violation of this section; or
+
+(b)  limit, impair, or enlarge a person's right to sue and recover damages from a facility owner or operator in a civil action for a cause of action that is not based on a violation of this section.
+
+(11)  The following may not be introduced as evidence in any civil litigation on the issue of negligence, injury, or the calculation of damages:
+
+(a)  a management plan prepared in accordance with this section;
+
+(b)  the failure to prepare or adopt a management plan in accordance with this section; or
+
+(c)  the failure to update a management plan in accordance with this section.
+
+
+
+Enacted by Chapter 113, 2010 General Session
+

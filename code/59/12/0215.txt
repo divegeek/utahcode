@@ -1,0 +1,122 @@
+59-12-215.   Location of transaction involving telecommunications service or other related service.
+
+(1)  As used in this section:
+
+(a)  "Air-to-ground radiotelephone service" means a radio service:
+
+(i)  as defined in 47 C.F.R. Sec. 22.99; and
+
+(ii)  for which a common carrier is authorized to offer and provide radio telecommunications service:
+
+(A)  for hire; and
+
+(B)  to a subscriber in an aircraft.
+
+(b)  "Call-by-call basis" means a method of charging for telecommunications service that is measured by individual calls.
+
+(c)  "Communications channel" means a physical or virtual path of communications over which a signal is transmitted between or among customer channel termination points.
+
+(d) (i)  Subject to Subsection (1)(d)(ii), "customer" means:
+
+(A)  a person that is obligated under a contract with a telecommunications service provider to pay for telecommunications service received under the contract; or
+
+(B)  if the end user is not the person described in Subsection (1)(d)(i)(A), the end user of telecommunications service.
+
+(ii)  "Customer" does not include a reseller:
+
+(A)  of telecommunications service; or
+
+(B)  for mobile telecommunications service, of a serving carrier under an agreement to serve a customer outside the home service provider’s licensed service area.
+
+(e)  "Customer channel termination point" means the location where a customer:
+
+(i)  inputs communications; or
+
+(ii)  receives communications.
+
+(f)  "End user" means:
+
+(i)  an individual who uses a telecommunications service; or
+
+(ii)  for a telecommunications service provided to a person who is not an individual, an individual who uses a telecommunications service on behalf of the person who is provided the telecommunications service.
+
+(g)  "Home service provider" is as defined in the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 124.
+
+(h)  "Service address" means:
+
+(i)  regardless of where a call is billed or paid, the location of the telecommunications equipment:
+
+(A)  to which a customer's call is charged; and
+
+(B)  from which the call:
+
+(I)  originates; or
+
+(II)  terminates;
+
+(ii)  if the location described in Subsection (1)(h)(i) is not known, the location of the origination point of the signal of the telecommunications service first identified by:
+
+(A)  the telecommunications system of the telecommunications service provider; or
+
+(B)  if the system used to transport the signal of the telecommunications service is not a system of the telecommunications service provider, information received by the telecommunications service provider from the telecommunications service provider's telecommunications service provider; or
+
+(iii)  if the locations described in Subsections (1)(h)(i) and (ii) are not known, the location of a customer’s place of primary use.
+
+(2)  Except as provided in Subsection (4), the location of a sale of a telecommunications service sold on a call-by-call basis is:
+
+(a)  the location at which the call originates and terminates; or
+
+(b)  the location at which:
+
+(i)  the call:
+
+(A)  originates; or
+
+(B)  terminates; and
+
+(ii)  the service address is located.
+
+(3)  Except as provided in Subsection (4), the location of a sale of a telecommunications service sold on a basis other than a call-by-call basis is the customer’s place of primary use.
+
+(4)  Notwithstanding Subsection (2) or (3):
+
+(a)  the location of a sale of a mobile telecommunications service, other than an air-to-ground radiotelephone service or a prepaid calling service, is the location required by the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 116 et seq.;
+
+(b)  the location of a sale of a postpaid calling service is the origination point of the telecommunications signal as first identified by:
+
+(i)  the seller’s telecommunications system; or
+
+(ii)  if the system used to transport the telecommunications signal is not that of the seller, information received by the seller from the seller's telephone service provider;
+
+(c)  the location of a sale of a prepaid calling service is the location determined under Section 59-12-211; and
+
+(d) (i)  subject to Subsection (4)(d)(ii), the location of a sale of a prepaid wireless calling service is the location determined under Section 59-12-211; and
+
+(ii)  for purposes of Subsection (4)(d)(i), the location of a transaction determined under Subsection 59-12-211(6) is considered to include the location associated with the mobile telephone number.
+
+(5)  The location of a sale of a private communication service is:
+
+(a)  if all of the customer channel termination points are located entirely within one county, city, or town, the location of the sale is the county, city, or town in which all of the customer channel termination points are located;
+
+(b)  if a charge for a service related to a customer channel termination point is separately stated, the location of the sale is the location in which the customer channel termination point is located;
+
+(c)  if a charge for service for a segment of a channel between two customer channel termination points located in different counties, cities, or towns is separately stated, the location of the sale is each county, city, or town:
+
+(i)  in which the customer channel termination points are located; and
+
+(ii)  in equal proportions; and
+
+(d)  if a charge for service for a segment of a channel located in more than one county, city, or town is not separately stated, the location of the sale is:
+
+(i)  each county, city, or town in which a segment of the channel is located; and
+
+(ii)  in proportion to the percentage of customer channel termination points in each county, city, or town compared to the total customer channel termination points in all counties, cities, and towns.
+
+(6)  The location of a sale of Internet access service is the customer's place of primary use.
+
+(7)  The location of a sale of an ancillary service is the customer's place of primary use.
+
+
+
+Amended by Chapter 203, 2009 General Session
+
