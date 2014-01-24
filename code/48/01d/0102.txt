@@ -1,0 +1,160 @@
+48-1d-102.   Definitions.
+
+As used in this chapter:
+
+(1)  "Business" includes every trade, occupation, and profession.
+
+(2)  "Contribution," except in the phrase "right of contribution," means property or a benefit described in Section 48-1d-501 which is provided by a person to a partnership to become a partner or in the person's capacity as a partner.
+
+(3)  "Debtor in bankruptcy" means a person that is the subject of:
+
+(a)  an order for relief under Title 11 of the United States Code or a comparable order under a successor statute of general application; or
+
+(b)  a comparable order under federal, state, or foreign law governing insolvency.
+
+(4)  "Distribution" means a transfer of money or other property from a partnership to a person on account of a transferable interest or in a person's capacity as a partner.  The term:
+
+(a)  includes:
+
+(i)  a redemption or other purchase by a partnership of a transferable interest; and
+
+(ii)  a transfer to a partner in return for the partner's relinquishment of any right to participate as a partner in the management or conduct of the partnership's activities and affairs or have access to records or other information concerning the partnership's activities and affairs; and
+
+(b)  does not include amounts constituting reasonable compensation for present or past service or payments made in the ordinary course of business under a bona fide retirement plan or other bona fide benefits program.
+
+(5)  "Division" means the Division of Corporations and Commercial Code.
+
+(6)  "Foreign limited liability partnership" means a foreign partnership whose partners have limited liability for the debts, obligations, or other liabilities of the foreign partnership under a provision similar to Subsection 48-1d-306(3).
+
+(7)  "Foreign partnership" means an unincorporated entity formed under the law of a jurisdiction other than this state which would be a partnership if formed under the law of this state.  The term includes a foreign limited liability partnership.
+
+(8)  "Jurisdiction," used to refer to a political entity, means the United States, a state, a foreign country, or a political subdivision of a foreign country.
+
+(9)  "Jurisdiction of formation" means, with respect to an entity, the jurisdiction:
+
+(a)  under whose law the entity is formed; or
+
+(b)  in the case of a limited liability partnership or foreign limited liability partnership, in which the partnership's statement of qualification is filed.
+
+(10)  "Limited liability partnership," except in the phrase "foreign limited liability partnership," means a partnership that has filed a statement of qualification under Section 48-1d-1101 and does not have a similar statement in effect in any other jurisdiction.
+
+(11)  "Partner" means a person that:
+
+(a)  has become a partner in a partnership under Section 48-1d-401 or was a partner in a partnership when the partnership became subject to this chapter under Section 48-1d-1405; and
+
+(b)  has not dissociated as a partner under Section 48-1d-701.
+
+(12)  "Partnership" means an association of two or more persons to carry on as co-owners a business for profit formed under this chapter or that becomes subject to this chapter under Part 10, Merger, Interest Exchange, Conversion, and Domestication, or Section 48-1d-1405.  The term includes a limited liability partnership.
+
+(13)  "Partnership agreement" means the agreement, whether or not referred to as a partnership agreement, and whether oral, implied, in a record, or in any combination thereof, of all the partners of a partnership concerning the matters described in Subsection 48-1d-106(1).  The term includes the agreement as amended or restated.
+
+(14)  "Partnership at will" means a partnership in which the partners have not agreed to remain partners until the expiration of a definite term or the completion of a particular undertaking.
+
+(15)  "Person" means an individual, business corporation, nonprofit corporation, partnership, limited partnership, limited liability company, limited cooperative association, unincorporated nonprofit association, statutory trust, business trust, common-law business trust, estate, trust, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+
+(16)  "Principal office" means the principal executive office of a partnership or a foreign limited liability partnership, whether or not the office is located in this state.
+
+(17)  "Professional services" means a personal service provided by:
+
+(a)  a public accountant holding a license under Title 58, Chapter 26a, Certified Public Accountant Licensing Act, or a subsequent law regulating the practice of public accounting;
+
+(b)  an architect holding a license under Title 58, Chapter 3a, Architects Licensing Act, or a subsequent law regulating the practice of architecture;
+
+(c)  an attorney granted the authority to practice law by the:
+
+(i)  Utah Supreme Court; or
+
+(ii)  one or more of the following that licenses or regulates the authority to practice law in a state or territory of the United States other than Utah:
+
+(A)  a supreme court;
+
+(B)  a court other than a supreme court;
+
+(C)  an agency;
+
+(D)  an instrumentality; or
+
+(E)  a regulating board;
+
+(d)  a chiropractor holding a license under Title 58, Chapter 73, Chiropractic Physician Practice Act, or a subsequent law regulating the practice of chiropractics;
+
+(e)  a doctor of dentistry holding a license under Title 58, Chapter 69, Dentist and Dental Hygienist Practice Act, or a subsequent law regulating the practice of dentistry;
+
+(f)  a professional engineer registered under Title 58, Chapter 22, Professional Engineers and Professional Land Surveyors Licensing Act, or a subsequent law regulating the practice of engineers or land surveyors;
+
+(g)  a naturopath holding a license under Title 58, Chapter 71, Naturopathic Physician Practice Act, or a subsequent law regulating the practice of naturopathy;
+
+(h)  a nurse licensed under Title 58, Chapter 31b, Nurse Practice Act, or Chapter 44a, Nurse Midwife Practice Act, or a subsequent law regulating the practice of nursing;
+
+(i)  an optometrist holding a license under Title 58, Chapter 16a, Utah Optometry Practice Act, or a subsequent law regulating the practice of optometry;
+
+(j)  an osteopathic physician or surgeon holding a license under Title 58, Chapter 68, Utah Osteopathic Medical Practice Act, or a subsequent law regulating the practice of osteopathy;
+
+(k)  a pharmacist holding a license under Title 58, Chapter 17b, Pharmacy Practice Act, or a subsequent law regulating the practice of pharmacy;
+
+(l)  a physician, surgeon, or doctor of medicine holding a license under Title 58, Chapter 67, Utah Medical Practice Act, or a subsequent law regulating the practice of medicine;
+
+(m)  a physical therapist holding a license under Title 58, Chapter 24b, Physical Therapy Practice Act, or a subsequent law regulating the practice of physical therapy;
+
+(n)  a podiatric physician holding a license under Title 58, Chapter 5a, Podiatric Physician Licensing Act, or a subsequent law regulating the practice of podiatry;
+
+(o)  a psychologist holding a license under Title 58, Chapter 61, Psychologist Licensing Act, or a subsequent law regulating the practice of psychology;
+
+(p)  a principal broker, associate broker, or sales agent holding a license under Title 61, Chapter 2f, Real Estate Licensing and Practices Act, or a subsequent law regulating the sale, exchange, purchase, rental, or leasing of real estate;
+
+(q)  a clinical or certified social worker holding a license under Title 58, Chapter 60, Part 2, Social Worker Licensing Act, or a subsequent law regulating the practice of social work;
+
+(r)  a mental health therapist holding a license under Title 58, Chapter 60, Mental Health Professional Practice Act, or a subsequent law regulating the practice of mental health therapy;
+
+(s)  a veterinarian holding a license under Title 58, Chapter 28, Veterinary Practice Act, or a subsequent law regulating the practice of veterinary medicine; or
+
+(t)  an individual licensed, certified, or registered under Title 61, Chapter 2g, Real Estate Appraiser Licensing and Certification Act, or a subsequent law regulating the practice of appraising real estate.
+
+(18)  "Property" means all property, whether real, personal, or mixed, or tangible or intangible, or any right or interest therein.
+
+(19)  "Record," used as a noun, means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+(20)  "Registered agent" means an agent of a limited liability partnership or foreign limited liability partnership which is authorized to receive service of any process, notice, or demand required or permitted by law to be served on the partnership.
+
+(21)  "Registered foreign limited liability partnership" means a foreign limited liability partnership that is registered to do business in this state pursuant to a statement of registration filed by the division.
+
+(22)  "Sign" means, with present intent to authenticate or adopt a record:
+
+(a)  to execute or adopt a tangible symbol; or
+
+(b)  to attach to or logically associate with the record an electronic symbol, sound, or process.
+
+(23)  "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+
+(24)  "Transfer" includes:
+
+(a)  an assignment;
+
+(b)  a conveyance;
+
+(c)  a sale;
+
+(d)  a lease;
+
+(e)  an encumbrance, including a mortgage or security interest;
+
+(f)  a gift; and
+
+(g)  a transfer by operation of law.
+
+(25)  "Transferable interest" means the right, as initially owned by a person in the person's capacity as a partner, to receive distributions from a partnership in accordance with the partnership agreement, whether or not the person remains a partner or continues to own any part of the right.  The term applies to any fraction of the interest, by whomever owned.
+
+(26)  "Transferee" means a person to which all or part of a transferable interest has been transferred, whether or not the transferor is a partner.
+
+(27)  "Tribal partnership" means a partnership:
+
+(a)  formed under the law of a tribe; and
+
+(b)  that is at least 51% owned or controlled by the tribe under whose law the partnership is formed.
+
+(28)  "Tribe" means a tribe, band, nation, pueblo, or other organized group or community of Indians, including an Alaska Native village, that is legally recognized as eligible for and is consistent with a special program, service, or entitlement provided by the United States to Indians because of their status as Indians.
+
+
+
+Enacted by Chapter 412, 2013 General Session
+

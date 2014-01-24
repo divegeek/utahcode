@@ -1,0 +1,148 @@
+59-12-108.   Monthly payment -- Amount of tax a seller may retain -- Penalty -- Certain amounts allocated to local taxing jurisdictions.
+
+(1) (a)  Notwithstanding Section 59-12-107, a seller that has a tax liability under this chapter of $50,000 or more for the previous calendar year shall:
+
+(i)  file a return with the commission:
+
+(A)  monthly on or before the last day of the month immediately following the month for which the seller collects a tax under this chapter; and
+
+(B)  for the month for which the seller collects a tax under this chapter; and
+
+(ii)  except as provided in Subsection (1)(b), remit with the return required by Subsection (1)(a)(i) the amount the person is required to remit to the commission for each tax, fee, or charge described in Subsection (1)(c):
+
+(A)  if that seller's tax liability under this chapter for the previous calendar year is less than $96,000, by any method permitted by the commission; or
+
+(B)  if that seller's tax liability under this chapter for the previous calendar year is $96,000 or more, by electronic funds transfer.
+
+(b)  A seller shall remit electronically with the return required by Subsection (1)(a)(i) the amount the seller is required to remit to the commission for each tax, fee, or charge described in Subsection (1)(c) if that seller:
+
+(i)  is required by Section 59-12-107 to file the return electronically; or
+
+(ii) (A)  is required to collect and remit a tax under Section 59-12-107; and
+
+(B)  files a simplified electronic return.
+
+(c)  Subsections (1)(a) and (b) apply to the following taxes, fees, or charges:
+
+(i)  a tax under Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+
+(ii)  a fee under Section 19-6-714;
+
+(iii)  a fee under Section 19-6-805;
+
+(iv)  a charge under Section 69-2-5;
+
+(v)  a charge under Section 69-2-5.5;
+
+(vi)  a charge under Section 69-2-5.6; or
+
+(vii)  a tax under this chapter.
+
+(d)  Notwithstanding Subsection (1)(a)(ii) and in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall make rules providing for a method for making same-day payments other than by electronic funds transfer if making payments by electronic funds transfer fails.
+
+(e)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall establish by rule procedures and requirements for determining the amount a seller is required to remit to the commission under this Subsection (1).
+
+(2) (a)  Except as provided in Subsection (3), a seller subject to Subsection (1) or a seller described in Subsection (4) may retain each month the amount allowed by this Subsection (2).
+
+(b)  A seller subject to Subsection (1) or a seller described in Subsection (4) may retain each month 1.31% of any amounts the seller is required to remit to the commission:
+
+(i)  for a transaction described in Subsection 59-12-103(1) that is subject to a state tax and a local tax imposed in accordance with the following, for the month for which the seller is filing a return in accordance with Subsection (1):
+
+(A)  Subsection 59-12-103(2)(a);
+
+(B)  Subsection 59-12-103(2)(b); and
+
+(C)  Subsection 59-12-103(2)(d); and
+
+(ii)  for an agreement sales and use tax.
+
+(c) (i)  A seller subject to Subsection (1) or a seller described in Subsection (4) may retain each month the amount calculated under Subsection (2)(c)(ii) for a transaction described in Subsection 59-12-103(1) that is subject to the state tax and the local tax imposed in accordance with Subsection 59-12-103(2)(c).
+
+(ii)  For purposes of Subsection (2)(c)(i), the amount a seller may retain is an amount equal to the sum of:
+
+(A)  1.31% of any amounts the seller is required to remit to the commission for:
+
+(I)  the state tax and the local tax imposed in accordance with Subsection 59-12-103(2)(c);
+
+(II)  the month for which the seller is filing a return in accordance with Subsection (1); and
+
+(III)  an agreement sales and use tax; and
+
+(B)  1.31% of the difference between:
+
+(I)  the amounts the seller would have been required to remit to the commission:
+
+(Aa)  in accordance with Subsection 59-12-103(2)(a) if the transaction had been subject to the state tax and the local tax imposed in accordance with Subsection 59-12-103(2)(a);
+
+(Bb)  for the month for which the seller is filing a return in accordance with Subsection (1); and
+
+(Cc)  for an agreement sales and use tax; and
+
+(II)  the amounts the seller is required to remit to the commission for:
+
+(Aa)  the state tax and the local tax imposed in accordance with Subsection 59-12-103(2)(c);
+
+(Bb)  the month for which the seller is filing a return in accordance with Subsection (1); and
+
+(Cc)  an agreement sales and use tax.
+
+(d)  A seller subject to Subsection (1) or a seller described in Subsection (4) may retain each month 1% of any amounts the seller is required to remit to the commission:
+
+(i)  for the month for which the seller is filing a return in accordance with Subsection (1); and
+
+(ii)  under:
+
+(A)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+
+(B)  Subsection 59-12-603(1)(a)(i)(A); or
+
+(C)  Subsection 59-12-603(1)(a)(i)(B).
+
+(3)  A state government entity that is required to remit taxes monthly in accordance with Subsection (1) may not retain any amount under Subsection (2).
+
+(4)  A seller that has a tax liability under this chapter for the previous calendar year of less than $50,000 may:
+
+(a)  voluntarily meet the requirements of Subsection (1); and
+
+(b)  if the seller voluntarily meets the requirements of Subsection (1), retain the amounts allowed by Subsection (2).
+
+(5) (a)  Subject to Subsections (5)(b) through (d), a seller that voluntarily collects and remits a tax in accordance with Subsection 59-12-107(2)(c)(i) may retain an amount equal to 18% of any amounts the seller would otherwise remit to the commission:
+
+(i)  if the seller obtains a license under Section 59-12-106 for the first time on or after January 1, 2014; and
+
+(ii)  for:
+
+(A)  an agreement sales and use tax; and
+
+(B)  the time period for which the seller files a return in accordance with this section.
+
+(b)  If a seller retains an amount under this Subsection (5), the seller may not retain any other amount under this section.
+
+(c)  If a seller retains an amount under this Subsection (5), the commission may require the seller to file a return by:
+
+(i)  electronic means; or
+
+(ii)  a means other than electronic means.
+
+(d)  A seller may not retain an amount under this Subsection (5) if the seller is required to collect or remit a tax under this section in accordance with Section 59-12-103.1.
+
+(6)  Penalties for late payment shall be as provided in Section 59-1-401.
+
+(7) (a)  Except as provided in Subsection (7)(c), for any amounts required to be remitted to the commission under this part, the commission shall each month calculate an amount equal to the difference between:
+
+(i)  the total amount retained for that month by all sellers had the percentages listed under Subsections (2)(b) and (2)(c)(ii) been 1.5%; and
+
+(ii)  the total amount retained for that month by all sellers at the percentages listed under Subsections (2)(b) and (2)(c)(ii).
+
+(b)  The commission shall each month allocate the amount calculated under Subsection (7)(a) to each county, city, and town on the basis of the proportion of agreement sales and use tax that the commission distributes to each county, city, and town for that month compared to the total agreement sales and use tax that the commission distributes for that month to all counties, cities, and towns.
+
+(c)  The amount the commission calculates under Subsection (7)(a) may not include an amount collected from a tax that:
+
+(i)  the state imposes within a county, city, or town, including the unincorporated area of a county; and
+
+(ii)  is not imposed within the entire state.
+
+
+
+Amended by Chapter 50, 2013 General Session
+

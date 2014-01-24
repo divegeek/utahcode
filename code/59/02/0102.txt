@@ -1,4 +1,4 @@
-59-2-102 (Superseded 01/01/14).   Definitions.
+59-2-102.   Definitions.
 
 As used in this chapter and title:
 
@@ -360,7 +360,17 @@ As used in this chapter and title:
 
 (29)  "Public utility," for purposes of this chapter, means the operating property of a railroad, gas corporation, oil or gas transportation or pipeline company, coal slurry pipeline company, electrical corporation, telephone corporation, sewerage corporation, or heat corporation where the company performs the service for, or delivers the commodity to, the public generally or companies serving the public generally, or in the case of a gas corporation or an electrical corporation, where the gas or electricity is sold or furnished to any member or consumers within the state for domestic, commercial, or industrial use.  Public utility also means the operating property of any entity or person defined under Section 54-2-1 except water corporations.
 
-(30)  "Real estate" or "real property" includes:
+(30) (a)  Subject to Subsection (30)(b), "qualifying exempt primary residential rental personal property" means household furnishings, furniture, and equipment that:
+
+(i)  are used exclusively within a dwelling unit that is the primary residence of a tenant;
+
+(ii)  are owned by the owner of the dwelling unit that is the primary residence of a tenant; and
+
+(iii)  after applying the residential exemption described in Section 59-2-103, are exempt from taxation under this chapter in accordance with Subsection 59-2-1115(2).
+
+(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define the term "dwelling unit" for purposes of this Subsection (30) and Subsection (33).
+
+(31)  "Real estate" or "real property" includes:
 
 (a)  the possession of, claim to, ownership of, or right to the possession of land;
 
@@ -368,15 +378,27 @@ As used in this chapter and title:
 
 (c)  improvements.
 
-(31)  "Relationship with an owner of the property's land surface rights" means a relationship described in Subsection 267(b), Internal Revenue Code:
+(32)  "Relationship with an owner of the property's land surface rights" means a relationship described in Subsection 267(b), Internal Revenue Code:
 
 (a)  except that notwithstanding Subsection 267(b), Internal Revenue Code, the term 25% shall be substituted for the term 50% in Subsection 267(b), Internal Revenue Code; and
 
 (b)  using the ownership rules of Subsection 267(c), Internal Revenue Code, for determining the ownership of stock.
 
-(32)  "Residential property," for the purposes of the reductions and adjustments under this chapter, means any property used for residential purposes as a primary residence.  It does not include property used for transient residential use or condominiums used in rental pools.
+(33) (a)  Subject to Subsection (33)(b), "residential property," for the purposes of the reductions and adjustments under this chapter, means any property used for residential purposes as a primary residence. 
 
-(33)  "Split estate mineral rights owner" means a person who:
+(b)  Subject to Subsection (33)(c), "residential property":
+
+(i)  except as provided in Subsection (33)(b)(ii), includes household furnishings, furniture, and equipment if the household furnishings, furniture, and equipment are:
+
+(A)  used exclusively within a dwelling unit that is the primary residence of a tenant; and
+
+(B)  owned by the owner of the dwelling unit that is the primary residence of a tenant; and
+
+(ii)  does not include property used for transient residential use.
+
+(c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define the term "dwelling unit" for purposes of Subsection (30) and this Subsection (33).
+
+(34)  "Split estate mineral rights owner" means a person who:
 
 (a)  has a legal right to extract a mineral from property;
 
@@ -390,7 +412,7 @@ As used in this chapter and title:
 
 (d)  does not have a relationship with an owner of the land surface rights of the property where the wellhead is located.
 
-(34) (a)  "State-assessed commercial vehicle" means:
+(35) (a)  "State-assessed commercial vehicle" means:
 
 (i)  any commercial vehicle, trailer, or semitrailer which operates interstate or intrastate to transport passengers, freight, merchandise, or other property for hire; or
 
@@ -398,15 +420,17 @@ As used in this chapter and title:
 
 (b)  "State-assessed commercial vehicle" does not include vehicles used for hire which are specified in Subsection (8)(c) as county-assessed commercial vehicles.
 
-(35)  "Taxable value" means fair market value less any applicable reduction allowed for residential property under Section 59-2-103.
+(36)  "Taxable value" means fair market value less any applicable reduction allowed for residential property under Section 59-2-103.
 
-(36)  "Tax area" means a geographic area created by the overlapping boundaries of one or more taxing entities.
+(37)  "Tax area" means a geographic area created by the overlapping boundaries of one or more taxing entities.
 
-(37)  "Taxing entity" means any county, city, town, school district, special taxing district, local district under Title 17B, Limited Purpose Local Government Entities - Local Districts, or other political subdivision of the state with the authority to levy a tax on property.
+(38)  "Taxing entity" means any county, city, town, school district, special taxing district, local district under Title 17B, Limited Purpose Local Government Entities - Local Districts, or other political subdivision of the state with the authority to levy a tax on property.
 
-(38)  "Tax roll" means a permanent record of the taxes charged on property, as extended on the assessment roll and may be maintained on the same record or records as the assessment roll or may be maintained on a separate record properly indexed to the assessment roll.  It includes tax books, tax lists, and other similar materials.
+(39)  "Tax roll" means a permanent record of the taxes charged on property, as extended on the assessment roll and may be maintained on the same record or records as the assessment roll or may be maintained on a separate record properly indexed to the assessment roll.  It includes tax books, tax lists, and other similar materials.
 
 
+
+Amended by Chapter 19, 2013 General Session 
 
 Amended by Chapter 322, 2013 General Session
 
