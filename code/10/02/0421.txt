@@ -1,0 +1,154 @@
+10-2-421.   Electric utility service in annexed area -- Reimbursement for value of facilities -- Liability -- Arbitration.
+
+(1)  As used in this section:
+
+(a)  "Commission" means the Public Service Commission established in Section 54-1-1.
+
+(b)  "Current replacement cost" means the cost the transferring party would incur to construct the facility at the time of transfer using the transferring party's:
+
+(i)  standard estimating rates and standard construction methodologies for the facility; and
+
+(ii)  standard estimating process.
+
+(c)  "Depreciation" means an amount calculated:
+
+(i)  based on:
+
+(A)  the life and depreciation mortality curve most recently set for the type of facility in the depreciation rates set by the commission or other governing regulatory authority for the electrical corporation; or
+
+(B)  a straight-line depreciation rate that represents the expended life if agreed to by the transferring and receiving parties; and
+
+(ii)  to include the gross salvage value of the type of facility based on the latest depreciation life approved by the commission or other governing regulatory authority for the electrical corporation, with a floor at the gross salvage value of the asset and in no case less than zero.
+
+(d)  "Electrical corporation" means:
+
+(i)  an entity as defined in Section 54-2-1; and
+
+(ii)  an improvement district system described in Subsection 17B-2a-403(1)(a)(iv).
+
+(e)  "Facility" means electric equipment or infrastructure used to serve an electric customer, above ground or underground, including:
+
+(i)  a power line, transformer, switch gear, pole, wire, guy anchor, conductor, cable, or other related equipment; or
+
+(ii)  a right-of-way, easement, or any other real property interest or legal right or interest used to operate and maintain the electric equipment or infrastructure.
+
+(f)  "Facility transfer" means the transfer of a facility from a transferring party to a receiving party in accordance with Subsection (3).
+
+(g)  "Lost or stranded facility" means a facility that is currently used by a transferring party that will no longer be used, whether in whole or in part, as a result of a facility transfer.
+
+(h)  "Receiving party" means a municipality or electrical corporation to whom a facility is transferred.
+
+(i)  "Transferring party" means a municipality or electrical corporation that transfers a facility.
+
+(2)  If an electric customer in an area being annexed by a municipality receives electric service from an electrical corporation, the municipality may not, without the agreement of the electrical corporation, furnish municipal electric service to the electric customer in the annexed area until the municipality has reimbursed the electrical corporation for the value of each facility used to serve each electric customer within the annexed area, including the value of any facility owned by a wholesale electric cooperative affiliated with the electrical corporation, dedicated to provide service to the annexed area.
+
+(3)  The following procedures shall apply if a municipality transfers a facility to an electrical corporation in accordance with Section 10-8-14 or if an electrical corporation transfers a facility to a municipality in accordance with Subsection (2), Section 54-3-30, or 54-3-31:
+
+(a)  The transferring party shall provide a written estimate of the transferring party's cost of preparing the inventory required in Subsection (3)(c) to the receiving party no later than 60 days after the date of notice from the receiving party.
+
+(b) (i)  The receiving party shall pay the estimated cost of preparing the inventory to the transferring party no later than 60 days after the day that the receiving party receives the written estimate.
+
+(ii)  If the actual cost of preparing the inventory differs from the estimated cost, the transferring party shall include the difference between the actual cost and the estimated cost in the reimbursement described in Subsection (5).
+
+(c)  Except as provided in Subsection (3)(f), the transferring party shall prepare, in accordance with Subsection (4), and deliver the inventory to the receiving party no later than 180 days after the day that the transferring party receives the payment specified in Subsection (3)(b).
+
+(d) (i)  At any time, the parties may by agreement correct or update the inventory.
+
+(ii)  If the parties are unable to reach an agreement on an updated inventory, they shall:
+
+(A)  proceed with the facility transfer and reimbursement based on the inventory as submitted in accordance with Subsection (3)(c); and
+
+(B)  resolve their dispute as provided in Subsection (6).
+
+(e)  Except as provided in Subsection (3)(f), the parties shall complete each facility transfer and reimbursement contemplated by this Subsection (3) no later than 180 days after the date that the transferring party delivers the inventory to the receiving party in accordance with Subsection (3)(c).
+
+(f)  The periods specified in Subsections (3)(c) and (e) may be extended for up to an additional 90 days by agreement of the parties.
+
+(4) (a)  The inventory prepared by a transferring party in accordance with Subsection (3)(c) shall include an identification of each facility to be transferred and the amount of reimbursement as provided in Subsection (5).
+
+(b)  The transferring party may not include in the inventory a facility that the transferring party removed from service for at least 36 consecutive months prior to the date of the inventory, unless the facility was taken out of service as a result of an action by the receiving party.
+
+(5) (a)  Unless otherwise agreed by the parties, the reimbursement for the transfer of each facility shall include:
+
+(i)  the cost of preparing the inventory as provided in Subsection (3)(b);
+
+(ii)  subject to Subsection (5)(b)(i), the value of each transferred facility calculated by the current replacement cost of the facility less depreciation based on facility age;
+
+(iii)  the cost incurred by the transferring party for:
+
+(A)  the physical separation of each facility from its system, including the cost of any facility constructed or installed that is necessary for the transferring party to continue to provide reliable electric service to its remaining customers;
+
+(B)  administrative, engineering, and record keeping expenses incurred by the transferring party for the transfer of each facility to the receiving party, including any difference between the actual cost of preparing the inventory and the estimated cost of preparing the inventory; and
+
+(C)  reimbursement for any tax consequences to the transferring party resulting from each facility transfer;
+
+(iv)  the value of each lost or stranded facility of the transferring party based on the valuation formula described in Subsection (5)(a)(ii) or as otherwise agreed by the parties;
+
+(v)  the diminished value of each transferring party facility that will not be transferred based on the percentage of the facility that will no longer be used as a result of the facility transfer; and
+
+(vi)  the transferring party's book value of a right-of-way or easement transferred with each facility.
+
+(b) (i) (A)  The receiving party may review the estimation of the current replacement costs of each facility, including the wage rates, material costs, overhead assumptions, and other pricing used to establish the estimation of the current replacement costs of the facility.
+
+(B)  Prior to reviewing the estimation, the receiving party shall enter into a nondisclosure agreement acceptable to the transferring party.
+
+(C)  The nondisclosure agreement shall restrict the use of the information provided by the transferring party solely for the purpose of reviewing the estimation of the current replacement cost and preserve the confidentiality of the information to prevent any effect on a competitive bid received by either party.
+
+(ii) (A)  If the age of a facility may be readily determined by the transferring party, the transferring party shall use that age to determine the facility's depreciation.
+
+(B)  If the age of a facility cannot be readily determined, the transferring party shall estimate the age of the facility based on the average remaining life approved for the same type of facility in the most current depreciation rates set by the commission or other governing regulatory authority for the electrical corporation.
+
+(c) (i) (A)  A transferring party that transfers a facility in accordance with this section shall, upon delivery of a document conveying title to the receiving party, transfer the facility without any express or implied warranties.
+
+(B)  A receiving party that receives a facility in accordance with this section shall, upon receipt of a document conveying title, accept the facility in its existing condition and assume any and all liability, fault, risk, or potential loss arising from or related to the facility.
+
+(ii)  Notwithstanding Subsection (5)(c)(i), if, within six months after the date that any oil filled equipment is transferred, the receiving party discovers that a transferred oil filled equipment contains polychlorinated biphenyl, the transferring party shall reimburse the receiving party for the cost of testing and disposal of that oil filled equipment.
+
+(6) (a)  If the parties cannot agree on each facility to be transferred or the respective reimbursement amount, the parties shall:
+
+(i)  proceed with the facility transfer and the reimbursement based on the inventory as submitted by the transferring party in accordance with Subsection (3)(c) and in accordance with the schedule provided in Subsection (3)(e); and
+
+(ii)  submit the dispute for mediation or arbitration.
+
+(b)  The parties shall share equally in the costs of mediation or arbitration.
+
+(c)  If the parties are unable to resolve the dispute through mediation or arbitration, either party may bring an action in the state court of jurisdiction.
+
+(d)  The arbitrator, or state court if the parties cannot agree on arbitration, shall determine each facility to be transferred and the amount to be reimbursed in accordance with Subsection (5).
+
+(e)  If the arbitrator or state court determines that:
+
+(i)  a transferring party transferred a facility that should not have been transferred, the receiving party shall return the facility;
+
+(ii)  a party did not transfer a facility that should have been transferred, the party that should have transferred the facility shall transfer the facility to the party to whom the facility should have been transferred;
+
+(iii)  the amount reimbursed by the receiving party is insufficient, the receiving party shall pay the difference to the transferring party; or
+
+(iv)  the amount reimbursed by the receiving party is more than the amount that should have been reimbursed, the transferring party shall pay the difference to the receiving party.
+
+(7)  Unless otherwise agreed upon in writing by the parties:
+
+(a)  a party shall transfer a facility to be transferred in accordance with Subsection (6)(e) no later than 60 days after the day that the arbitrator or court issues a determination unless the parties mutually agree to a longer time to complete the transfer; and
+
+(b)  a party shall:
+
+(i)  pay an amount required to be paid in accordance with Subsection (6)(e) no later than 30 days after the day that the arbitrator or court issues a determination; and
+
+(ii)  include interest in the payment at the overall rate of return on the rate base most recently authorized by the commission or other governing regulatory agency for the electrical corporation from the date the reimbursement was originally paid until the difference is paid.
+
+(8) (a)  Nothing in this section limits the availability of other damages under law arising by virtue of an agreement between the municipality and the electrical corporation.
+
+(b)  Notwithstanding Subsection (8)(a), a party described in this section is not entitled to an award for:
+
+(i)  damages that are indirect, incidental, punitive, exemplary, or consequential;
+
+(ii)  lost profits; or
+
+(iii)  other business interruption damages.
+
+(9)  Nothing in this section or Section 10-8-14, 54-3-30, or 54-3-31 applies to a transfer of facilities from an electrical corporation to a municipality in accordance with a decision by a municipality that did not previously provide electric service and seeks to commence providing electric service to a customer currently served by an electrical corporation within the municipal boundary.
+
+
+
+Repealed and Re-enacted by Chapter 242, 2013 General Session
+

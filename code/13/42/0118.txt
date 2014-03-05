@@ -1,0 +1,38 @@
+13-42-118.   Communication by electronic or other means.
+
+(1)  In this section:
+
+(a)  "Consumer" means an individual who seeks or obtains goods or services that are used primarily for personal, family, or household purposes.
+
+(b)  "Federal act" means the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. Section 7001 et seq.
+
+(2)  A provider may satisfy the requirements of Section 13-42-117, 13-42-119, or 13-42-127 by means of the Internet or other electronic means if the provider obtains a consumer's consent in the manner provided by Section 101(c)(1) of the federal act.
+
+(3)  The disclosures and materials required by Sections 13-42-117, 13-42-119, and 13-42-127 shall be presented in a form that is capable of being accurately reproduced for later reference.
+
+(4)  With respect to disclosure by means of an Internet website, the disclosure of the information required by Subsection 13-42-117(4) shall appear on one or more screens that:
+
+(a)  contain no other information; and
+
+(b)  the individual is able to see before proceeding to assent to formation of an agreement.
+
+(5)  At the time of providing the materials and agreement required by Subsections 13-42-117(3) and (4), Section 13-42-119, and Section 13-42-127, a provider shall inform the individual that on electronic, telephonic, or written request, it will send the individual a written copy of the materials, and shall comply with a request as provided in Subsection (6).
+
+(6)  If a provider is requested, before the expiration of 90 days after an agreement is completed or terminated, to send a written copy of the materials required by Subsections 13-42-117(3) and (4), Section 13-42-119, or Section 13-42-127, the provider shall send them at no charge no later than three business days after the request, but the provider need not comply with a request more than once per calendar month or if it reasonably believes the request is made for purposes of harassment.  If a request is made more than 90 days after an agreement is completed or terminated, the provider shall send within a reasonable time a written copy of the materials requested.
+
+(7)  A provider that maintains an Internet website shall disclose on the home page of its website or on a page that is clearly and conspicuously connected to the home page by a link that clearly reveals its contents:
+
+(a)  its name and all names under which it does business;
+
+(b)  its principal business address, telephone number, and electronic-mail address, if any; and
+
+(c)  the names of its principal officers.
+
+(8)  Subject to Subsection (9), if a consumer who has consented to electronic communication in the manner provided by Section 101 of the federal act withdraws consent as provided in the federal act, a provider may terminate its agreement with the consumer.
+
+(9)  If a provider wishes to terminate an agreement with a consumer pursuant to Subsection (8), it shall notify the consumer that it will terminate the agreement unless the consumer, no later than 30 days after receiving the notification, consents to electronic communication in the manner provided in Section 101(c) of the federal act.  If the consumer consents, the provider may terminate the agreement only as permitted by Subsection 13-42-119(1)(f)(iv)(D).
+
+
+
+Amended by Chapter 152, 2012 General Session
+

@@ -1,0 +1,166 @@
+7-1-810.   Limited liability companies.
+
+(1)  Notwithstanding any other provision of this title and subject to Subsection (8), if the conditions of this section are met, the following may be organized as or convert to a limited liability company under Title 48, Chapter 2c, Utah Revised Limited Liability Company Act, or Title 48, Chapter 3a, Utah Revised Uniform Limited Liability Act, as appropriate pursuant to Section 48-3a-1405:
+
+(a)  an industrial bank chartered under Chapter 8, Industrial Banks;
+
+(b)  an industrial loan company as defined in Section 7-8-21; or
+
+(c)  any of the following if the institution is an S Corporation, as defined in Section 1361, Internal Revenue Code, immediately before becoming a limited liability company:
+
+(i)  a bank chartered under Chapter 3, Banks; or
+
+(ii)  a depository institution holding company.
+
+(2) (a)  Before an institution described in Subsection (1) may organize as or convert to a limited liability company, the institution shall obtain approval of the commissioner.
+
+(b) (i)  To obtain the approval under this section from the commissioner, the institution shall file a request for approval with the commissioner at least 30 days before the day on which the institution becomes a limited liability company.
+
+(ii)  If the commissioner does not disapprove the request for approval within 30 days from the day on which the commissioner receives the request, the request is considered approved.
+
+(iii)  When taking action on a request for approval filed under this section, the commissioner may:
+
+(A)  approve the request;
+
+(B)  approve the request subject to terms and conditions the commissioner considers necessary; or
+
+(C)  disapprove the request.
+
+(3)  To approve a request for approval, the commissioner shall find:
+
+(a)  for an institution described in Subsection (1) that is required to be insured by a federal deposit insurance agency, that the institution:
+
+(i)  will operate in a safe and sound manner;
+
+(ii)  has the following characteristics:
+
+(A)  the institution is not subject to automatic termination, dissolution, or suspension upon the happening of some event other than the passage of time;
+
+(B)  the exclusive authority to manage the institution is vested in a board of managers or directors that:
+
+(I)  is elected or appointed by the owners;
+
+(II)  is not required to have owners of the institution included on the board;
+
+(III)  possesses adequate independence and authority to supervise the operation of the institution; and
+
+(IV)  operates with substantially the same rights, powers, privileges, duties, and responsibilities as the board of directors of a corporation;
+
+(C)  neither state law, nor the institution's operating agreement, bylaws, or other organizational documents provide that an owner of the institution is liable for the debts, liabilities, and obligations of the institution in excess of the amount of the owner's investment; and
+
+(D) (I)  neither state law, nor the institution's operating agreement, bylaws, or other organizational documents require the consent of any other owner of the institution in order for an owner to transfer an ownership interest in the institution, including voting rights; and
+
+(II)  the institution is able to obtain new investment funding if needed to maintain adequate capital; and
+
+(iii)  is able to comply with all legal and regulatory requirements for an insured depository institution under applicable federal and state law; and
+
+(b)  for an institution described in Subsection (1) that is not required to be insured by a federal deposit insurance agency, that the institution will operate in a safe and sound manner.
+
+(4)  An institution described in Subsection (3)(a) that is organized as a limited liability company shall maintain the characteristics listed in Subsection (3)(a)(ii) during such time as it is authorized to conduct business under this title as a limited liability company.
+
+(5) (a)  All rights, privileges, powers, duties, and obligations of an institution described in Subsection (1) that is organized as a limited liability company and its members and managers shall be governed by Title 48, Chapter 2c, Utah Revised Limited Liability Company Act, or Title 48, Chapter 3a, Utah Revised Uniform Limited Liability Company Act, as appropriate pursuant to Section 48-3a-1405 except:
+
+(i)  the following do not apply to an institution that is described in Subsection (3)(a):
+
+(A)  Subsection 48-2c-402(2)(a)(ii);
+
+(B)  Section 48-2c-604;
+
+(C)  Section 48-2c-703;
+
+(D)  Section 48-2c-708;
+
+(E)  Subsection 48-2c-801(2);
+
+(F)  Section 48-2c-1102;
+
+(G)  Section 48-2c-1104; and
+
+(H)  Subsections 48-2c-1201(2) through (5);
+
+(ii)  the following do not apply to an institution that is described in Subsection (3)(a):
+
+(A)  Section 48-3a-111;
+
+(B)  Section 48-3a-113;
+
+(C)  Section 48-3a-201;
+
+(D)  Section 48-3a-401;
+
+(E)  Subsections 48-3a-407(1) and (3)(c);
+
+(F)  Section 48-3a-410;
+
+(G)  Subsection 48-3a-502(1)(c);
+
+(H)  Title 48, Chapter 3a, Part 6, Dissociation;
+
+(I)  Section 48-3a-701; and
+
+(J)  Title 48, Chapter 3a, Part 9, Foreign Limited Liability Companies; and
+
+(iii)  as otherwise provided in this title.
+
+(b)  Notwithstanding Subsection (5)(a), for an institution that is described in Subsection (3)(a):
+
+(i)  for purposes of transferring a member's interests in the institution, a member's interest in the institution shall be treated like a share of stock in a corporation; and
+
+(ii)  if a member's interest in the institution is transferred voluntarily or involuntarily to another person, the person who receives the member's interest shall obtain the member's entire rights associated with the member's interest in the institution including:
+
+(A)  all economic rights; and
+
+(B)  all voting rights.
+
+(c)  An institution described in Subsection (3)(a) may not by agreement or otherwise change the application of Subsection (5)(a) to the institution.
+
+(6)  Unless the context requires otherwise, for the purpose of applying this title to an institution described in Subsection (1) that is organized as a limited liability company:
+
+(a)  a citation to Title 16, Chapter 10a, Utah Revised Business Corporation Act, includes the equivalent citation to Title 48, Chapter 2c, Utah Revised Limited Liability Company Act, or Title 48, Chapter 3a, Utah Revised Uniform Limited Liability Company Act, as appropriate pursuant to Section 48-3a-1405;
+
+(b)  "articles of incorporation" includes a limited liability company's certificate of organization as that term is used in Section 48-2c-403 or Section 48-3a-201, as appropriate pursuant to Section 48-3a-1405;
+
+(c)  "board of directors" includes one or more persons who have, with respect to an institution described in Subsection (1), authority substantially similar to that of a board of directors of a corporation;
+
+(d)  "bylaws" includes a limited liability company's operating agreement as that term is defined in Section 48-2c-102 or Section 48-3a-201, as appropriate pursuant to Section 48-3a-1405;
+
+(e)  "corporation" includes a limited liability company organized under Title 48, Chapter 2c, Utah Revised Limited Liability Company Act, or Title 48, Chapter 3a, Utah Revised Uniform Limited Liability Act, as appropriate pursuant to Section 48-3a-1405;
+
+(f)  "director" includes any of the following of a limited liability company:
+
+(i)  a manager;
+
+(ii)  a director; or
+
+(iii)  other person who has with respect to the institution described in Subsection (1), authority substantially similar to that of a director of a corporation;
+
+(g)  "dividend" includes distributions made by a limited liability company under Title 48, Chapter 2c, Part 10, Distributions, or Title 48, Chapter 3a, Part 4, Relations of Members to Each Other and to Limited Liability Company, as appropriate pursuant to Section 48-3a-1405;
+
+(h)  "incorporator" includes an organizer of a limited liability company as provided in Title 48, Chapter 2c, Part 4, Formation, or Title 48, Chapter 3a, Part 2, Formation -- Certificate of Organization and Other Filings, as appropriate pursuant to Section 48-3a-1405;
+
+(i)  "officer" includes any of the following of an institution described in Subsection (1):
+
+(i)  an officer; or
+
+(ii)  other person who has with respect to the institution described in Subsection (1) authority substantially similar to that of an officer of a corporation;
+
+(j)  "security," "shares," or "stock" of a corporation includes:
+
+(i)  a membership interest in a limited liability company as provided in Title 48, Chapter 2c, Part 7, Members, or Title 48, Chapter 3a, Part 4, Relations of Members to Each Other and to Limited Liability Company, as appropriate pursuant to Section 48-3a-1405; and
+
+(ii)  a certificate or other evidence of an ownership interest in a limited liability company; and
+
+(k)  "stockholder" or "shareholder" includes an owner of an interest in an institution described in Subsection (1) including a member as provided in Title 48, Chapter 2c, Part 7, Members, or Title 48, Chapter 3a, Part 4, Relations of Members to Each Other and to Limited Liability Company, as appropriate pursuant to Section 48-3a-1405.
+
+(7)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commissioner shall make rules governing the form of a request for approval filed under this section.
+
+(8)  A depository institution organized under the laws of this state may not be organized as or converted to a series of transferable interests in a limited liability company as provided in Section 48-2c-606, or Title 48, Chapter 3a, Part 12, Series Limited Liability Companies, as appropriate pursuant to Section 48-3a-1405.
+
+
+
+Amended by Chapter 73, 2013 General Session 
+
+Amended by Chapter 73, 2013 General Session 
+
+Amended by Chapter 412, 2013 General Session
+
