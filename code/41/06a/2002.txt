@@ -1,0 +1,16 @@
+41-6a-2002.   Definitions.
+
+As used in this section:
+
+(1)  "Automatic license plate reader system" means a system of one or more mobile or fixed automated high-speed cameras used in combination with computer algorithms to convert an image of a license plate into computer-readable data.
+
+(2)  "Captured plate data" means the global positioning system coordinates, date and time, photograph, license plate number, and any other data captured by or derived from an automatic license plate reader system.
+
+(3)  "Governmental entity" has the same meaning as defined in Section 63G-2-103.
+
+(4)  "Secured area" means an area, enclosed by clear boundaries, to which access is limited and not open to the public and entry is only obtainable through specific access-control points.
+
+
+
+Enacted by Chapter 447, 2013 General Session
+

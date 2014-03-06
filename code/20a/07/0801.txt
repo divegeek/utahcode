@@ -1,0 +1,114 @@
+20A-7-801.   Statewide Electronic Voter Information Website Program -- Duties of the lieutenant governor -- Content -- Duties of local election officials -- Deadlines -- Frequently asked voter questions -- Other elections.
+
+(1)  There is established the Statewide Electronic Voter Information Website Program administered by the lieutenant governor in cooperation with the county clerks for general elections and municipal authorities for municipal elections.
+
+(2)  In accordance with this section, and as resources become available, the lieutenant governor, in cooperation with county clerks, shall develop, establish, and maintain a state-provided Internet website designed to help inform the voters of the state of:
+
+(a)  the offices and candidates up for election; and
+
+(b)  the content, effect, operation, fiscal impact, and supporting and opposing arguments of ballot propositions submitted to the voters.
+
+(3)  Except as provided under Subsection (6), the website shall include:
+
+(a)  all information currently provided in the Utah voter information pamphlet under Title 20A, Chapter 7, Part 7, Voter Information Pamphlet, including a section prepared, analyzed, and submitted by the Judicial Council describing the judicial selection and retention process;
+
+(b)  all information submitted by election officers under Subsection (4) on local office races, local office candidates, and local ballot propositions;
+
+(c)  a list that contains the name of a political subdivision that operates an election day voting center under Section 20A-3-703 and the location of the election day voting center;
+
+(d)  other information determined appropriate by the lieutenant governor that is currently being provided by law, rule, or ordinance in relation to candidates and ballot questions; and
+
+(e)  any differences in voting method, time, or location designated by the lieutenant governor under Subsection 20A-1-308(2).
+
+(4) (a)  An election official shall submit the following information for each ballot label under the election official's direct responsibility under this title:
+
+(i)  a list of all candidates for each office;
+
+(ii)  if submitted by the candidate to the election official's office at 5 p.m. at least 45 days before the primary election and 60 days before the general election:
+
+(A)  a statement of qualifications, not exceeding 200 words in length, for each candidate;
+
+(B)  the following current biographical information if desired by the candidate, current:
+
+(I)  age;
+
+(II)  occupation;
+
+(III)  city of residence;
+
+(IV)  years of residence in current city; and
+
+(V)  email address; and
+
+(C)  a single web address where voters may access more information about the candidate and the candidate's views; and
+
+(iii)  factual information pertaining to all ballot propositions submitted to the voters, including:
+
+(A)  a copy of the number and ballot title of each ballot proposition;
+
+(B)  the final vote cast for each ballot proposition, if any, by a legislative body if the vote was required to place the ballot proposition on the ballot;
+
+(C)  a complete copy of the text of each ballot proposition, with all new language underlined and all deleted language placed within brackets; and
+
+(D)  other factual information determined helpful by the election official.
+
+(b)  The information under Subsection (4)(a) shall be submitted to the lieutenant governor no later than one business day after the deadline under Subsection (4)(a) for each general election year and each municipal election year.
+
+(c)  The lieutenant governor shall:
+
+(i)  review the information submitted under this section, to determine compliance under this section, prior to placing it on the website;
+
+(ii)  refuse to post information submitted under this section on the website if it is not in compliance with the provisions of this section; and
+
+(iii)  organize, format, and arrange the information submitted under this section for the website.
+
+(d)  The lieutenant governor may refuse to include information the lieutenant governor determines is not in keeping with:
+
+(i)  Utah voter needs;
+
+(ii)  public decency; or
+
+(iii)  the purposes, organization, or uniformity of the website.
+
+(e)  A refusal under Subsection (4)(d) is subject to appeal in accordance with Subsection (5).
+
+(5) (a)  A person whose information is refused under Subsection (4), and who is aggrieved by the determination, may appeal by submitting a written notice of appeal to the lieutenant governor within 10 business days after the date of the determination.  A notice of appeal submitted under this Subsection (5)(a) shall contain:
+
+(i)  a listing of each objection to the lieutenant governor's determination; and
+
+(ii)  the basis for each objection.
+
+(b)  The lieutenant governor shall review the notice of appeal and shall issue a written response within 10 business days after the notice of appeal is submitted.
+
+(c)  An appeal of the response of the lieutenant governor shall be made to the district court, which shall review the matter de novo.
+
+(6) (a)  The lieutenant governor shall ensure that each voter will be able to conveniently enter the voter's address information on the website to retrieve information on which offices, candidates, and ballot propositions will be on the voter's ballot at the next general election or municipal election.
+
+(b)  The information on the website will anticipate and answer frequent voter questions including the following:
+
+(i)  what offices are up in the current year for which the voter may cast a vote;
+
+(ii)  who is running for what office and who is the incumbent, if any;
+
+(iii)  what address each candidate may be reached at and how the candidate may be contacted;
+
+(iv)  for partisan races only, what, if any, is each candidate's party affiliation;
+
+(v)  what qualifications have been submitted by each candidate;
+
+(vi)  where additional information on each candidate may be obtained;
+
+(vii)  what ballot propositions will be on the ballot; and
+
+(viii)  what judges are up for retention election.
+
+(7)  As resources are made available and in cooperation with the county clerks, the lieutenant governor may expand the electronic voter information website program to include the same information as provided under this section for special elections and primary elections.
+
+
+
+Amended by Chapter 182, 2013 General Session, (Coordination Clause) 
+
+Amended by Chapter 182, 2013 General Session 
+
+Amended by Chapter 219, 2013 General Session
+

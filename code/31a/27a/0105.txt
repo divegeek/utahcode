@@ -1,0 +1,90 @@
+31A-27a-105.   Jurisdiction -- Venue.
+
+(1) (a)  A delinquency proceeding under this chapter may not be commenced by a person other than the commissioner of this state.
+
+(b)  No court has jurisdiction to entertain, hear, or determine a delinquency proceeding commenced by any person other than the commissioner of this state.
+
+(2)  Other than in accordance with this chapter, a court of this state has no jurisdiction to entertain, hear, or determine any complaint:
+
+(a)  requesting the liquidation, rehabilitation, seizure, sequestration, or receivership of an insurer; or
+
+(b)  requesting a stay, an injunction, a restraining order, or other relief preliminary to, incidental to, or relating to a delinquency proceeding.
+
+(3) (a)  The receivership court, as of the commencement of a delinquency proceeding under this chapter, has exclusive jurisdiction of all property of the insurer, wherever located, including property located outside the territorial limits of the state.
+
+(b)  The receivership court has original but not exclusive jurisdiction of all civil proceedings arising:
+
+(i)  under this chapter; or
+
+(ii)  in or related to a delinquency proceeding under this chapter.
+
+(4)  In addition to other grounds for jurisdiction provided by the law of this state, a court of this state having jurisdiction of the subject matter has jurisdiction over a person served pursuant to the Utah Rules of Civil Procedure or other applicable provisions of law in an action brought by the receiver if the person served:
+
+(a)  in an action resulting from or incident to a relationship with the insurer described in this Subsection (4)(a), is or has been an agent, broker, or other person who has at any time:
+
+(i)  written a policy of insurance for an insurer against which a delinquency proceeding is instituted; or
+
+(ii)  acted in any manner whatsoever on behalf of an insurer against which a delinquency proceeding is instituted;
+
+(b)  in an action on or incident to a reinsurance contract described in this Subsection (4)(b):
+
+(i)  is or has been an insurer or reinsurer who has at any time entered into the contract of reinsurance with an insurer against which a delinquency proceeding is instituted; or
+
+(ii)  is an intermediary, agent, or broker of or for the reinsurer, or with respect to the contract;
+
+(c)  in an action resulting from or incident to a relationship with the insurer described in this Subsection (4)(c), is or has been an officer, director, manager, trustee, organizer, promoter, or other person in a position of comparable authority or influence over an insurer against which a delinquency proceeding is instituted;
+
+(d)  in an action concerning assets described in this Subsection (4)(d), is or was at the time of the institution of the delinquency proceeding against the insurer, holding assets in which the receiver claims an interest on behalf of the insurer; or
+
+(e)  in any action on or incident to the obligation described in this Subsection (4)(e), is obligated to the insurer in any way whatsoever.
+
+(5) (a)  Subject to Subsection (5)(b), service shall be made upon the person named in the petition in accordance with the Utah Rules of Civil Procedure.
+
+(b)  In lieu of service under Subsection (5)(a), upon application to the receivership court, service may be made in such a manner as the receivership court directs whenever it is satisfactorily shown by the commissioner's affidavit:
+
+(i)  in the case of a corporation, that the officers of the corporation cannot be served because they have departed from the state or have otherwise concealed themselves with intent to avoid service;
+
+(ii)  in the case of an insurer whose business is conducted, at least in part, by an attorney-in-fact, managing general agent, or other similar entity including a reciprocal, Lloyd's association, or interinsurance exchange, that the individual attorney-in-fact, managing general agent, or other entity, or its officers of the corporate attorney-in-fact cannot be served because of the individual's departure or concealment; or
+
+(iii)  in the case of a natural person, that the person cannot be served because of the person's departure or concealment.
+
+(6)  If the receivership court on motion of any party finds that an action should as a matter of substantial justice be tried in a forum outside this state, the receivership court may enter an appropriate order to stay further proceedings on the action in this state.
+
+(7) (a)  Nothing in this chapter deprives a reinsurer of any contractual right to pursue arbitration except:
+
+(i)  as to a claim against the estate; and
+
+(ii)  in regard to a contract rejected by the receiver under Section 31A-27a-113.
+
+(b)  A party in arbitration may bring a claim or counterclaim against the estate, but the claim or counterclaim is subject to this chapter.
+
+(8)  An action authorized by this chapter shall be brought in the Third District Court for Salt Lake County.
+
+(9) (a)  At any time after an order is entered pursuant to Section 31A-27a-201, 31A-27a-301, or 31A-27a-401, the commissioner or receiver may transfer the case to the county of the principal office of the person proceeded against.
+
+(b)  In the event of a transfer under this Subsection (9), the court in which the proceeding is commenced shall, upon application of the commissioner or receiver, direct its clerk to transmit the court's file to the clerk of the court to which the case is to be transferred.
+
+(c)  After a transfer under this Subsection (9), the proceeding shall be conducted in the same manner as if it had been commenced in the court to which the matter is transferred.
+
+(10) (a)  Except as provided in Subsection (10)(c), a person may not intervene in a liquidation proceeding in this state for the purpose of seeking or obtaining payment of a judgment, lien, or other claim of any kind.
+
+(b)  Except as provided in Subsection (10)(c), the claims procedure set for this chapter constitute the exclusive means for obtaining payment of claims from the liquidation estate.
+
+(c) (i)  An affected guaranty association or the affected guaranty association's representative may intervene as a party as a matter of right and otherwise appear and participate in any court proceeding concerning a liquidation proceeding against an insurer.
+
+(ii)  Intervention by an affected guaranty association or by an affected guaranty association's designated representative conferred by this Subsection (10)(c) may not constitute grounds to establish general personal jurisdiction by the courts of this state.
+
+(iii)  An intervening affected guaranty association or the affected guaranty association's representative are subject to the receivership court's jurisdiction for the limited purpose for which the affected guaranty association intervenes.
+
+(11) (a)  Notwithstanding the other provisions of this section, this chapter does not confer jurisdiction on the receivership court to resolve coverage disputes between an affected guaranty association and those asserting claims against the affected guaranty association resulting from the initiation of a receivership proceeding under this chapter, except to the extent that the affected guaranty association otherwise expressly consents to the jurisdiction of the receivership court pursuant to a plan of rehabilitation or liquidation that resolves its obligations to covered policyholders.
+
+(b)  The determination of a dispute with respect to the statutory coverage obligations of an affected guaranty association by a court or administrative agency or body with jurisdiction in the affected guaranty association's state of domicile is binding and conclusive as to the affected guaranty association's claim in the liquidation proceeding.
+
+(12)  Upon the request of the receiver, the receivership court or the presiding judge of the Third District Court for Salt Lake County may order that one judge hear all cases and controversies arising out of or related to the delinquency proceeding.
+
+(13)  A delinquency proceeding is exempt from any program maintained for the early closure of civil actions.
+
+
+
+Enacted by Chapter 309, 2007 General Session
+

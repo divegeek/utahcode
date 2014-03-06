@@ -1,0 +1,122 @@
+59-7-605.   Definitions -- Cleaner burning fuels tax credit.
+
+(1)  As used in this section:
+
+(a)  "Air quality standards" means that a vehicle's emissions are equal to or cleaner than the standards established in:
+
+(i)  bin 2 in Table S04-1, of 40 C.F.R. 86.1811-04(c)(6); or
+
+(ii)  for a new qualified plug-in electric drive motor vehicle, as defined in Section 30D, Internal Revenue Code, bin 4 in Table S04-1, of 40 C.F.R. 86.1811-04(c)(6).
+
+(b)  "Board" means the Air Quality Board created under Title 19, Chapter 2, Air Conservation Act.
+
+(c)  "Certified by the board" means that:
+
+(i)  a motor vehicle on which conversion equipment has been installed meets the following criteria:
+
+(A)  before the installation of conversion equipment, the vehicle does not exceed the emission cut points for a transient test driving cycle, as specified in 40 C.F.R. Part 51, Appendix E to Subpart S, or an equivalent test for the make, model, and year of the vehicle; and
+
+(B)  as a result of the installation of conversion equipment on the motor vehicle, the motor vehicle has reduced emissions; or
+
+(ii)  special mobile equipment on which conversion equipment has been installed has reduced emissions.
+
+(d)  "Clean fuel grant" means a grant awarded under Title 19, Chapter 1, Part 4, Clean Fuels and Vehicle Technology Program Act, for reimbursement of a portion of the incremental cost of an OEM vehicle or the cost of conversion equipment.
+
+(e)  "Conversion equipment" means equipment referred to in Subsection (2)(c) or (d).
+
+(f)  "OEM vehicle" has the same meaning as in Section 19-1-402.
+
+(g)  "Original purchase" means the purchase of a vehicle that has never been titled or registered and has been driven less than 7,500 miles.
+
+(h)  "Qualifying electric or hybrid vehicle" means a vehicle that:
+
+(i)  meets air quality standards;
+
+(ii)  is not fueled by natural gas;
+
+(iii)  is fueled by:
+
+(A)  electricity only; or
+
+(B)  a combination of electricity and diesel fuel, gasoline, a mixture of gasoline and ethanol, or propane; and
+
+(iv)  is an OEM vehicle except that the vehicle is fueled by a fuel described in Subsection (1)(h)(iii).
+
+(i)  "Reduced emissions" means:
+
+(i)  for purposes of a motor vehicle on which conversion equipment has been installed, that the motor vehicle's emissions of regulated pollutants, when operating on a fuel listed in Subsection (2)(d)(i) or (ii), is less than the emissions were before the installation of the conversion equipment, as demonstrated by:
+
+(A)  certification of the conversion equipment by the federal Environmental Protection Agency or by a state that has certification standards recognized by the board;
+
+(B)  testing the motor vehicle, before and after installation of the conversion equipment, in accordance with 40 C.F.R. Part 86, Control of Emissions from New and In-use Highway Vehicles and Engines, using all fuel the motor vehicle is capable of using;
+
+(C)  for a retrofit natural gas vehicle that is retrofit in accordance with Section 19-1-406, testing that as a result of the retrofit, the retrofit natural gas vehicle satisfies the emission standards applicable under Section 19-1-406; or
+
+(D)  any other test or standard recognized by board rule, made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; or
+
+(ii)  for purposes of special mobile equipment on which conversion equipment has been installed, that the special mobile equipment's emissions of regulated pollutants, when operating on fuels listed in Subsection (2)(d)(i) or (ii), is less than the emissions were before the installation of conversion equipment, as demonstrated by:
+
+(A)  certification of the conversion equipment by the federal Environmental Protection Agency or by a state that has certification standards recognized by the board; or
+
+(B)  any other test or standard recognized by board rule, made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+
+(j)  "Special mobile equipment":
+
+(i)  means any mobile equipment or vehicle that is not designed or used primarily for the transportation of persons or property; and
+
+(ii)  includes construction or maintenance equipment.
+
+(2)  For the taxable year beginning on or after January 1, 2014, but beginning on or before December 31, 2014, a taxpayer may claim a tax credit against tax otherwise due under this chapter or Chapter 8, Gross Receipts Tax on Certain Corporations Not Required to Pay Corporate Franchise or Income Tax Act, in an amount equal to:
+
+(a)  $605 for the original purchase of a new qualifying electric or hybrid vehicle that is registered in this state;
+
+(b)  for the purchase of a vehicle fueled by natural gas that is registered in this state, the lesser of:
+
+(i)  $2,500; or
+
+(ii)  35% of the purchase price of the vehicle;
+
+(c)  50% of the cost of equipment for conversion, if certified by the board, of a motor vehicle registered in this state minus the amount of any clean fuel grant received, up to a maximum tax credit of $2,500 per motor vehicle, if the motor vehicle is to:
+
+(i)  be fueled by propane, natural gas, or electricity;
+
+(ii)  be fueled by other fuel the board determines annually on or before July 1 to be at least as effective in reducing air pollution as fuels under Subsection (2)(c)(i); or
+
+(iii)  meet the federal clean-fuel vehicle standards in the federal Clean Air Act Amendments of 1990, 42 U.S.C. Sec. 7521 et seq.; and
+
+(d)  50% of the cost of equipment for conversion, if certified by the board, of a special mobile equipment engine minus the amount of any clean fuel grant received, up to a maximum tax credit of $1,000 per special mobile equipment engine, if the special mobile equipment is to be fueled by:
+
+(i)  propane, natural gas, or electricity; or
+
+(ii)  other fuel the board determines annually on or before July 1 to be:
+
+(A)  at least as effective in reducing air pollution as the fuels under Subsection (2)(d)(i); or
+
+(B)  substantially more effective in reducing air pollution than the fuel for which the engine was originally designed.
+
+(3)  A taxpayer shall provide proof of the purchase of an item for which a tax credit is allowed under this section by:
+
+(a)  providing proof to the board in the form the board requires by rule;
+
+(b)  receiving a written statement from the board acknowledging receipt of the proof; and
+
+(c)  retaining the written statement described in Subsection (3)(b).
+
+(4)  Except as provided by Subsection (5), the tax credit under this section is allowed only:
+
+(a)  against a tax owed under this chapter or Chapter 8, Gross Receipts Tax on Certain Corporations Not Required to Pay Corporate Franchise or Income Tax Act, in the taxable year by the taxpayer;
+
+(b) for the taxable year in which an item described in Subsection (2)(a) or (b) is purchased or conversion equipment described in Subsection (2)(c) or (d) is installed; and
+
+(c)  once per vehicle.
+
+(5)  If the amount of a tax credit claimed by a taxpayer under this section exceeds the taxpayer's tax liability under this chapter or Chapter 8, Gross Receipts Tax on Certain Corporations Not Required to Pay Corporate Franchise or Income Tax Act, for a taxable year, the amount of the tax credit exceeding the tax liability may be carried forward for a period that does not exceed the next five taxable years.
+
+(6)  In accordance with any rules prescribed by the commission under Subsection (7), the commission shall transfer at least annually from the General Fund into the Education Fund the amount by which the amount of tax credit claimed under this section for a taxable year exceeds $500,000.
+
+(7)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules for making a transfer from the General Fund into the Education Fund as required by Subsection (6).
+
+
+
+Amended by Chapter 184, 2013 General Session
+
