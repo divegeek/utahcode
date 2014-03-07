@@ -1,0 +1,46 @@
+70A-9a-203.   Attachment and enforceability of security interest -- Proceeds -- Supporting obligations -- Formal requisites.
+
+(1)  A security interest attaches to collateral when it becomes enforceable against the debtor with respect to the collateral, unless an agreement expressly postpones the time of attachment.
+
+(2)  Except as otherwise provided in Subsections (3) through (9), a security interest is enforceable against the debtor and third parties with respect to the collateral only if:
+
+(a)  value has been given;
+
+(b)  the debtor has rights in the collateral or the power to transfer rights in the collateral to a secured party; and
+
+(c)  one of the following conditions is met:
+
+(i)  the debtor has authenticated a security agreement that provides a description of the collateral and, if the security interest covers timber to be cut, a description of the land concerned;
+
+(ii)  the collateral is not a certificated security and is in the possession of the secured party under Section 70A-9a-313 pursuant to the debtor's security agreement;
+
+(iii)  the collateral is a certificated security in registered form and the security certificate has been delivered to the secured party under Section 70A-8-301 pursuant to the debtor's security agreement; or
+
+(iv)  the collateral is deposit accounts, electronic chattel paper, investment property, or letter-of-credit rights, or electronic documents, and the secured party has control under Section 70A-7a-106, 70A-9a-104, 70A-9a-105, 70A-9a-106, or 70A-9a-107 pursuant to the debtor's security agreement.
+
+(3)  Subsection (2) is subject to Section 70A-4-210 on the security interest of a collecting bank, Section 70A-5-118 on the security interest of a letter-of-credit issuer or nominated person, Section 70A-9a-110 on a security interest arising under Chapter 2 or 2a, and Section 70A-9a-206 on security interests in investment property.
+
+(4)  A person becomes bound as debtor by a security agreement entered into by another person if, by operation of law other than this chapter or by contract:
+
+(a)  the security agreement becomes effective to create a security interest in the person's property; or
+
+(b)  the person becomes generally obligated for the obligations of the other person, including the obligation secured under the security agreement, and acquires or succeeds to all or substantially all of the assets of the other person.
+
+(5)  If a new debtor becomes bound as debtor by a security agreement entered into by another person:
+
+(a)  the agreement satisfies Subsection (2)(c) with respect to existing or after-acquired property of the new debtor to the extent the property is described in the agreement; and
+
+(b)  another agreement is not necessary to make a security interest in the property enforceable.
+
+(6)  The attachment of a security interest in collateral gives the secured party the rights to proceeds provided by Section 70A-9a-315 and is also attachment of a security interest in a supporting obligation for the collateral.
+
+(7)  The attachment of a security interest in a right to payment or performance secured by a security interest or other lien on personal or real property is also attachment of a security interest in the security interest, mortgage, or other lien.
+
+(8)  The attachment of a security interest in a securities account is also attachment of a security interest in the security entitlements carried in the securities account.
+
+(9)  The attachment of a security interest in a commodity account is also attachment of a security interest in the commodity contracts carried in the commodity account.
+
+
+
+Amended by Chapter 42, 2006 General Session
+

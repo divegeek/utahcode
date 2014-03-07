@@ -1,0 +1,282 @@
+63G-6a-103.   Definitions.
+
+As used in this chapter:
+
+(1)  "Architect-engineer services" means:
+
+(a)  professional services within the scope of the practice of architecture as defined in Section 58-3a-102; or
+
+(b)  professional engineering as defined in Section 58-22-102.
+
+(2)  "Bidder" means a person who responds to an invitation for bids.
+
+(3)  "Change directive" means a written order signed by the procurement officer that directs the contractor to suspend work or make changes, as authorized by contract, without the consent of the contractor.
+
+(4)  "Change order" means  a written alteration in specifications, delivery point, rate of delivery, period of performance, price, quantity, or other provisions of a contract, upon mutual agreement of the parties to the contract.
+
+(5)  "Chief procurement officer" means the chief procurement officer appointed under Subsection 63G-6a-302(1).
+
+(6) (a)  "Construction" means the process of building, renovating, altering, improving, or repairing a public building or public work.
+
+(b)  "Construction" does not include the routine operation, routine repair, or routine maintenance of an existing structure, building, or real property.
+
+(7) (a)  "Construction manager/general contractor" means a contractor who enters into a contract for the management of a construction project when the contract allows the contractor to subcontract for additional labor and materials that are not included in the contractor's cost proposal submitted at the time of the procurement of the contractor's services.
+
+(b)  "Construction manager/general contractor" does not include a contractor whose only subcontract work not included in the contractor's cost proposal submitted as part of the procurement of the contractor's services is to meet subcontracted portions of change orders approved within the scope of the project.
+
+(8)  "Contract" means an agreement for the procurement or disposal of a procurement item.
+
+(9)  "Contractor" means a person who is awarded a contract with a procurement unit.
+
+(10)  "Cooperative procurement" means procurement conducted by, or on behalf of, more than one procurement unit, or by a procurement unit and an external procurement unit.
+
+(11)  "Cost-plus-a-percentage-of-cost contract" means a contract where the contractor is paid a percentage over and above the contractor's actual expenses or costs.
+
+(12)  "Cost-reimbursement contract" means a contract under which a contractor is reimbursed for costs which are allowed and allocated in accordance with the contract terms and the provisions of this chapter, and a fee, if any.
+
+(13)  "Days" means calendar days, unless expressly provided otherwise.
+
+(14)  "Definite quantity contract" means a fixed price contract that provides for the supply of a specified amount of goods over a specified period, with deliveries scheduled according to a specified schedule.
+
+(15)  "Design-build" means the procurement of architect-engineer services and construction by the use of a single contract with the design-build provider.
+
+(16)  "Director" means the director of the division.
+
+
+
+(17)  "Established catalogue price" means the price included in a catalogue, price list, schedule, or other form that:
+
+(a)  is regularly maintained by a manufacturer or contractor;
+
+(b)  is either published or otherwise available for inspection by customers; and
+
+(c)  states prices at which sales are currently or were last made to a significant number of any category of buyers or buyers constituting the general buying public for the supplies or services involved.
+
+(18)  "Fixed price contract" means a contract that provides a price, for each procurement item obtained under the contract, that is not subject to adjustment except to the extent that:
+
+(a)  the contract provides, under circumstances specified in the contract, for an adjustment in price that is not based on cost to the contractor; or
+
+(b)  an adjustment is required by law.
+
+(19)  "Fixed price contract with price adjustment" means a fixed price contract that provides for an upward or downward revision of price, precisely described in the contract, that:
+
+(a)  is based on the consumer price index or another commercially acceptable index, source, or formula; and
+
+(b)  is not based on a percentage of the cost to the contractor.
+
+(20) (a)  "Grant" means furnishing, by a public entity or by any other public or private source, financial or other assistance to a person to support a program authorized by law.
+
+(b)  "Grant" does not include:
+
+(i)  an award whose primary purpose is to procure an end product or procurement item; or
+
+(ii)  a contract that is awarded as a result of a procurement or a procurement process.
+
+(21)  "Head of a procurement unit" means:
+
+(a)  as it relates to a legislative procurement unit, any person designated by rule made by the applicable rulemaking authority;
+
+(b)  as it relates to an executive branch procurement unit:
+
+(i)  the director of a division; or
+
+(ii)  any other person designated by the board, by rule;
+
+(c)  as it relates to a judicial procurement unit:
+
+(i)  the Judicial Council; or
+
+(ii)  any other person designated by the Judicial Council, by rule;
+
+(d)  as it relates to a local government procurement unit:
+
+(i)  the legislative body of the local government procurement unit; or
+
+(ii)  any other person designated by the local government procurement unit;
+
+(e)  as it relates to a local district, the board of trustees of the local district or a designee of the board of trustees;
+
+(f)  as it relates to a special service district, the governing body of the special service district or a designee of the governing body;
+
+(g)  as it relates to a local building authority, the board of directors of the local building authority or a designee of the board of directors;
+
+(h)  as it relates to a conservation district, the board of supervisors of the conservation district or a designee of the board of supervisors;
+
+(i)  as it relates to a public corporation, the board of directors of the public corporation or a designee of the board of directors;
+
+(j)  as it relates to a school district or any school or entity within a school district, the board of the school district, or the board's designee;
+
+(k)  as it relates to a charter school, the individual or body with executive authority over the charter school, or the individual's or body's designee;
+
+(l)  as it relates to an institution of higher education of the state, the president of the institution of higher education, or the president's designee; or
+
+(m)  as it relates to a public transit district, the board of trustees or a designee of the board of trustees.
+
+(22)  "Indefinite quantity contract" means a fixed price contract that:
+
+(a)  is for an indefinite amount of procurement items to be supplied as ordered by a procurement unit; and
+
+(b) (i)  does not require a minimum purchase amount; or
+
+(ii)  provides a maximum purchase limit.
+
+(23)  "Independent procurement authority" means authority granted to a procurement unit, under Subsection 63G-6a-108(2), to engage in a procurement without oversight or control of the division.
+
+(24)  "Invitation for bids" includes all documents, including documents that are attached or incorporated by reference, used for soliciting bids to provide a procurement item to a procurement unit.
+
+(25)  "Issuing procurement unit" means:
+
+(a)  the division, if the division issues the invitation for bids or the request for proposals; or
+
+(b)  the procurement unit, with independent procurement authority, that issues the invitation for bids or the request for proposals.
+
+(26)  "Labor hour contract" is a contract where:
+
+(a)  the supplies and materials are not provided by, or through, the contractor; and
+
+(b)  the contractor is paid a fixed rate that includes the cost of labor, overhead, and profit for a specified number of labor hours or days.
+
+(27)  "Multiple award contracts" means the award of a contract for an indefinite quantity of a procurement item to more than one bidder or offeror.
+
+(28)  "Multiyear contract" means a contract that extends beyond a one-year period, including a contract that permits renewal of the contract, without competition, beyond the first year of the contract.
+
+(29)  "Municipality" means a city or a town.
+
+(30)  "Offeror" means a person who responds to a request for proposals.
+
+(31)  "Preferred bidder" means a bidder that is entitled to receive a reciprocal preference under the requirements of this chapter.
+
+(32) (a)  "Procure" or "procurement" means buying, purchasing, renting, leasing, leasing with an option to purchase, or otherwise acquiring a procurement item.
+
+(b)  "Procure" or "procurement" includes all functions that pertain to the obtaining of a procurement item, including:
+
+(i)  the description of requirements;
+
+(ii)  the selection process;
+
+(iii)  solicitation of sources;
+
+(iv)  the preparation for soliciting a procurement item;
+
+(v)  the award of a contract; and
+
+(vi)  all phases of contract administration.
+
+(33)  "Procurement item" means a supply, a service, construction, or technology.
+
+(34)  "Procurement officer" means:
+
+(a)  as it relates to a procurement unit with independent procurement authority:
+
+(i)  the head of the procurement unit;
+
+(ii)  a designee of the head of the procurement unit; or
+
+(iii)  a person designated by rule made by the applicable rulemaking authority; or
+
+(b)  as it relates to the division or a procurement unit without independent procurement authority, the chief procurement officer.
+
+(35)  "Professional service" means a service that requires a high degree of specialized knowledge and discretion in the performance of the service, including:
+
+(a)  legal services;
+
+(b)  consultation services;
+
+(c)  architectural services;
+
+(d)  engineering;
+
+(e)  design;
+
+(f)  underwriting;
+
+(g)  bond counsel;
+
+(h)  financial advice;
+
+(i)  construction management;
+
+(j)  medical services;
+
+(k)  psychiatric services; or
+
+(l)  counseling services.
+
+(36)  "Protest officer" means:
+
+(a)  as it relates to the division or a procurement unit with independent procurement authority:
+
+(i)  the head of the procurement unit;
+
+(ii)  a designee of the head of the procurement unit; or
+
+(iii)  a person designated by rule made by the applicable rulemaking authority; or
+
+(b)  as it relates to a procurement unit without independent procurement authority, the chief procurement officer or the chief procurement officer's designee.
+
+(37)  "Request for information" means a nonbinding process where a procurement unit requests information relating to a procurement item.
+
+(38)  "Request for proposals" includes all documents, including documents that are attached or incorporated by reference, used for soliciting proposals to provide a procurement item to a procurement unit.
+
+(39)  "Requirements contract" means a contract:
+
+(a)  where a contractor agrees to provide a procurement unit's entire requirements for certain procurement items at prices specified in the contract during the contract period; and
+
+(b)  that:
+
+(i)  does not require a minimum purchase amount; or
+
+(ii)  provides a maximum purchase limit.
+
+(40)  "Responsible" means that a bidder or offeror:
+
+(a)  is capable, in all respects, to fully perform the contract requirements solicited in an invitation for bids or a request for proposals; and
+
+(b)  has the integrity and reliability to ensure good faith performance.
+
+(41)  "Responsive" means that a bidder or offeror submits a response to an invitation for bids or a request for proposals that conforms in all material respects to the invitation for bids or request for proposals.
+
+(42)  "Sealed" means manually or electronically sealed and submitted bids or proposals.
+
+(43) (a)  "Services" means the furnishing of labor, time, or effort by a contractor, not involving the delivery of a specific end product other than a report that is incidental to the required performance.
+
+(b)  "Services" does not include an employment agreement or a collective bargaining agreement.
+
+(44)  "Specification" means any description of the physical or functional characteristics, or nature of a procurement item included in an invitation for bids or a request for proposals, or otherwise specified or agreed to by a procurement unit, including a description of:
+
+(a)  a requirement for inspecting or testing a procurement item; or
+
+(b)  preparing a procurement item for delivery.
+
+(45)  "Standard procurement process" means one of the following methods of obtaining a procurement item:
+
+(a)  bidding, as described in Part 6, Bidding;
+
+(b)  request for proposals, as described in Part 7, Request for Proposals; or
+
+(c)  small purchases, in accordance with the requirements established under Section 63G-6a-408.
+
+(46)  "State cooperative contract" means a contract awarded by the division.
+
+(47) (a)  "Subcontractor" means a person under contract with a contractor or another subcontractor to provide services or labor for design or construction.
+
+(b)  "Subcontractor" includes a trade contractor or specialty contractor.
+
+(c)  "Subcontractor" does not include a supplier who provides only materials, equipment, or supplies to a contractor or subcontractor.
+
+(48)  "Supplies" means all property, including equipment, materials, and printing.
+
+(49)  "Tie bid" means that the lowest responsive and responsible bids are identical in price.
+
+(50)  "Time and materials contract" means a contract where the contractor is paid:
+
+(a)  the actual cost of direct labor at specified hourly rates;
+
+(b)  the actual cost of materials and equipment usage; and
+
+(c)  an additional amount, expressly described in the contract, to cover overhead and profit, that is not based on a percentage of the cost to the contractor.
+
+
+
+Amended by Chapter 445, 2013 General Session
+
