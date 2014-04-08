@@ -1,0 +1,66 @@
+59-10-1403.1.   Income tax treatment of a pass-through entity taxpayer -- Return filing requirements.
+
+(1)  Subject to the other provisions of this part, a pass-through entity taxpayer is subject to taxation:
+
+(a)  for a pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes:
+
+(i)  if that pass-through entity taxpayer is a resident pass-through entity taxpayer, as a domestic corporation is taxed under Chapter 7, Corporate Franchise and Income Taxes; or
+
+(ii)  if that pass-through entity taxpayer is a nonresident pass-through entity taxpayer, as a foreign corporation is taxed under Chapter 7, Corporate Franchise and Income Taxes; or
+
+(b)  for a pass-through entity taxpayer that is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes:
+
+(i)  if that pass-through entity taxpayer is a resident pass-through entity taxpayer, as a resident estate, resident individual, resident partnership, resident S corporation, or resident trust is taxed under this chapter; or
+
+(ii)  if that pass-through entity taxpayer is a nonresident pass-through entity taxpayer, as a nonresident estate, nonresident individual, nonresident partnership, nonresident S corporation, or nonresident trust is taxed under this chapter.
+
+(2)  A pass-through entity taxpayer is subject to taxation on the pass-through entity taxpayer's share of income, gain, loss, deduction, or credit of the pass-through entity.
+
+(3) (a)  Subject to Subsection (3)(b)(iii), a resident pass-through entity taxpayer shall file a return:
+
+(i)  if the resident pass-through entity taxpayer is classified as a C corporation for federal income tax purposes, as a domestic corporation under Chapter 7, Corporate Franchise and Income Taxes; or
+
+(ii)  if the resident pass-through entity taxpayer is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, as a resident estate, resident individual, resident partnership, resident S corporation, or resident trust under this chapter.
+
+(b) (i)  Except as provided in Subsection (3)(b)(ii) and subject to Subsection (3)(b)(iii) or (iv), a nonresident pass-through entity taxpayer shall file a return:
+
+(A)  if the nonresident pass-through entity taxpayer is classified as a C corporation for federal income tax purposes, as a foreign corporation under Chapter 7, Corporate Franchise and Income Taxes; or
+
+(B)  if the nonresident pass-through entity taxpayer is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, as a nonresident estate, nonresident individual, nonresident partnership, nonresident S corporation, or nonresident trust under this chapter.
+
+(ii)  A nonresident pass-through entity taxpayer is not required to file a return if:
+
+(A)  the nonresident pass-through entity taxpayer does not have:
+
+(I)  for a nonresident pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes, unadjusted income as defined in Section 59-7-101 derived from or connected with Utah sources, except for the nonresident pass-through entity taxpayer's share of income, gain, loss, deduction, or credit of the pass-through entity;
+
+(II)  for a nonresident pass-through entity taxpayer that is classified as an individual, partnership, or S corporation for federal income tax purposes, adjusted gross income derived from or connected with Utah sources, except for the nonresident pass-through entity taxpayer's share of income, gain, loss, deduction, or credit of the pass-through entity; or
+
+(III)  for a nonresident pass-through entity taxpayer that is classified as an estate or a trust for federal income tax purposes, unadjusted income as defined in Section 59-10-103 derived from or connected with Utah sources, except for the nonresident pass-through entity taxpayer's share of income, gain, loss, deduction, or credit of the pass-through entity;
+
+(B)  the nonresident pass-through entity taxpayer does not seek to claim a tax credit allowed against a tax imposed under:
+
+(I)  Chapter 7, Corporate Franchise and Income Taxes; or
+
+(II)  this chapter;
+
+(C)  the pass-through entity pays or withholds a tax on behalf of the nonresident pass-through entity taxpayer and remits that tax to the commission:
+
+(I)  in accordance with Section 59-10-1403.2; and
+
+(II)  if a nonresident pass-through entity taxpayer is classified as a C corporation for federal income tax purposes, in an amount that is equal to or greater than the minimum tax under Section 59-7-104; and
+
+(D)  the nonresident pass-through entity taxpayer is not a member of a unitary group as defined in Section 59-7-101 that is required to file a return in this state.
+
+(iii)  A nonresident pass-through entity taxpayer that is not otherwise required to file a return under this Subsection (3) may file a return under:
+
+(A)  Chapter 7, Corporate Franchise and Income Taxes; or
+
+(B)  this chapter.
+
+(iv)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules for a pass-through entity taxpayer, except for a pass-through entity taxpayer who is a resident individual, to file a return under this section if two or more pass-through entities pay or withhold a tax in accordance with Section 59-10-1403.2 on behalf of the pass-through entity taxpayer.
+
+
+
+Enacted by Chapter 312, 2009 General Session
+

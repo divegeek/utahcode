@@ -1,0 +1,22 @@
+48-2e-405.   Actions by and against partnership and partners.
+
+(1)  To the extent not inconsistent with Section 48-2e-404, a general partner may be joined in an action against the limited partnership or named in a separate action.
+
+(2)  A judgment against a limited partnership is not by itself a judgment against a general partner.  A judgment against a limited partnership may not be satisfied from a general partner's assets unless there is also a judgment against the general partner.
+
+(3)  A judgment creditor of a general partner may not levy execution against the assets of the general partner to satisfy a judgment based on a claim against the limited partnership, unless the general partner is personally liable for the claim under Section 48-2e-404, and:
+
+(a)  a judgment based on the same claim has been obtained against the limited partnership and a writ of execution on the judgment has been returned unsatisfied in whole or in part;
+
+(b)  the limited partnership is a debtor in bankruptcy;
+
+(c)  the general partner has agreed that the creditor need not exhaust limited partnership assets;
+
+(d)  a court grants permission to the judgment creditor to levy execution against the assets of a general partner based on a finding that the limited partnership assets subject to execution are clearly insufficient to satisfy the judgment, that exhaustion of assets is excessively burdensome, or that the grant of permission is an appropriate exercise of the court's equitable powers; or
+
+(e)  liability is imposed on the general partner by law or contract independent of the existence of the limited partnership.
+
+
+
+Enacted by Chapter 412, 2013 General Session
+

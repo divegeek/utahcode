@@ -1,0 +1,20 @@
+34A-2-507.   Measuring hearing loss.
+
+(1)  The degree of hearing loss shall be established, no sooner than six weeks after termination of exposure to the harmful industrial noise, by audiometric determination of hearing threshold level performed by medical or paramedical professionals recognized by the commission, as measured from 0 decibels on an audiometer calibrated to ANSI-S3.6-1969, American National Standard "Specifications for Audiometers" (1969).
+
+(2) (a)  In any evaluation of occupational hearing loss, only hearing levels at frequencies of 500, 1,000, 2,000, and 3,000 cycles per second (Hertz) shall be considered.  The individual measurements for each ear shall be added together and then shall be divided by four to determine the average decibel loss in each ear.
+
+(b) To determine the percentage of hearing loss in each ear, the average decibel loss for each decibel of loss exceeding 25 decibels shall be multiplied by 1.5% up to the maximum of 100% which is reached at 91.7 decibels.
+
+(3)  Binaural hearing loss or the percentage of binaural hearing loss is determined by:
+
+(a)  multiplying the percentage of hearing loss in the better ear by five;
+
+(b)  adding the amount under Subsection (3)(a) with the percentage of hearing loss in the poorer ear; and
+
+(c)  dividing the number calculated under Subsection (3)(b) by six.
+
+
+
+Renumbered and Amended by Chapter 375, 1997 General Session
+

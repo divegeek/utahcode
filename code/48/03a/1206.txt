@@ -1,0 +1,50 @@
+48-3a-1206.   Series distributions.
+
+(1)  Any distribution made by a series before its dissolution and winding up must be in equal shares among the series members and dissociated series members, except to the extent necessary to comply with any transfer effective under Section 48-3a-502 and any charging order in effect under Section 48-3a-503.
+
+(2)  A person has a right to a distribution before the dissolution and winding up of a series only if the series decides to make an interim distribution.  A person's dissociation with respect to a series does not entitle the person to a distribution.
+
+(3)  A person does not have a right to demand or receive a distribution from a series in any form other than money.  Except as otherwise provided in Subsection 48-3a-711(3), a series may distribute an asset in kind if each part of the asset is fungible with each other part and each person receives a percentage of the asset equal in value to the person's share of distributions.
+
+(4)  If a series member or transferee becomes entitled to receive a distribution, the series member or transferee has the status of, and is entitled to all remedies available to, a creditor of the series with respect to the distribution.  However, the series' obligation to make a distribution is subject to offset for any amounts owed to the series by the member or a person dissociated as a member on whose account the distribution is made.
+
+(5)  A series may not make a distribution if after the distribution:
+
+(a)  the series would not be able to pay its debts as they become due in the ordinary course of the series' activities; or
+
+(b)  the series' total assets would be less than the sum of its total liabilities plus the amount that would be needed, if the series were to be dissolved, wound up, and terminated at the time of the distribution, to satisfy the preferential rights upon dissolution, winding up, and termination of members whose preferential rights are superior to those of persons receiving the distribution.
+
+(6)  A series may base a determination that a distribution is not prohibited under Subsection (5) on financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances or on a fair valuation or other method that is reasonable under the circumstances.
+
+(7)  Except as otherwise provided in Subsection (9), the effect of a distribution under Subsection (5) is measured:
+
+(a)  in the case of a distribution by purchase, redemption, or other acquisition of a transferable interest in the series, as of the date money or other property is transferred or debt incurred by the series; or
+
+(b)  in all other cases, as of the date:
+
+(i)  the distribution is authorized, if the payment occurs within 120 days after that date; or
+
+(ii)  the payment is made, if the payment occurs more than 120 days after the distribution is authorized.
+
+(8)  A series' indebtedness to a series member incurred by reason of a distribution made in accordance with this section is at parity with the series' indebtedness to its general, unsecured creditors.
+
+(9)  A series' indebtedness, including indebtedness issued in connection with or as part of a distribution, is not a liability for purposes of Subsection (5) if the terms of the indebtedness provide that payment of principal and interest are made only to the extent that a distribution could be made to members of the series under this section.  If such indebtedness is issued as a distribution, each payment of principal or interest on the indebtedness is treated as a distribution, the effect of which is measured on the date the payment is made.
+
+(10)  Except as otherwise provided in Subsection (11), if a member of a member-managed series or manager of a manager-managed series consents to a distribution made in violation of this section and in consenting to the distribution fails to comply with Section 48-3a-409, the member or manager is personally liable to the series for the amount of the distribution that exceeds the amount that could have been distributed without the violation of this section.
+
+(11)  To the extent the operating agreement of a member-managed series expressly relieves a series member of the authority and responsibility to consent to distributions and imposes that authority and responsibility on one or more other members of the series, the liability stated in Subsection (10) applies to the other members of the series and not the member of the series that the operating agreement relieves of authority and responsibility.
+
+(12)  A person that receives a distribution from a series knowing that the distribution to that person was made in violation of this section is personally liable to the limited liability company but only to the extent that the distribution received by the person exceeded the amount that could have been properly paid under this section.
+
+(13)  A person against which an action is commenced because the person is liable under Subsection (10) may:
+
+(a)  implead any other person that is liable under Subsection (10) and seek to compel contribution from the person; and
+
+(b)  implead any person that received a distribution in violation of Subsection (12) and seek to compel contribution from the person in the amount the person received in violation of Subsection (12).
+
+(14)  An action under this section is barred if not commenced within two years after the distribution.
+
+
+
+Enacted by Chapter 412, 2013 General Session
+

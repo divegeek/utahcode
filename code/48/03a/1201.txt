@@ -1,0 +1,40 @@
+48-3a-1201.   Series of transferable interests.
+
+(1)  An operating agreement may establish or provide for the establishment of a designated series of transferable interests having separate rights, powers, or duties with respect to specified property or obligations of the limited liability company or profits and losses associated with specified property or obligations, and, to the extent provided in the operating agreement, any such series may have a separate business purpose or investment objective.  The name of each series must contain the name of the limited liability company and be distinguishable from the name of any other series.
+
+(2)  Notwithstanding contrary provisions of this chapter, the debts, liabilities, and obligations incurred, contracted for, or otherwise existing with respect to a particular series shall be enforceable against the assets of that series only, and not against the assets of the limited liability company generally or any other series, if all of the following apply:
+
+(a)  the series is established by or in accordance with the operating agreement;
+
+(b)  separate and distinct records are maintained for the series;
+
+(c)  the assets associated with the series are held and accounted for separately from the other assets of the limited liability company, including another series;
+
+(d)  the operating agreement or the agreement establishing the series provides for the limitation on liabilities of the series; and
+
+(e)  notice of the limitation on liability of the series is set forth in the limited liability company's certificate of organization in accordance with Section 48-3a-1202.
+
+(3)  A series meeting all of the conditions of Subsection (2) shall:
+
+(a)  be treated as a separate entity to the extent set forth in the certificate of organization; and
+
+(b)  have the power and capacity to, in its own name, contract, hold title to property, grant liens and security interests, and sue and be sued.
+
+(4)  Notwithstanding the other provisions of this section:
+
+(a)  property and assets of a series may not be transferred to the limited liability company generally or another series if the transfer impairs the ability of the series releasing the property or assets to pay its debts existing at the time of the transfer unless fair value is given to the transferring series for the property or assets transferred; and
+
+(b)  a tax or other liability of the limited liability company generally or of a series may not be assigned by the series against which the tax or other liability is imposed to the limited liability company generally or to another series within the limited liability company if the assignment impairs a creditor's right and ability to fully collect an amount due when owed.
+
+(5)  Notwithstanding the other provisions of this part:
+
+(a)  a professional services company may not designate a series of transferable interests; and
+
+(b)  a limited liability company may not form a professional services company as a series of the limited liability company.
+
+(6)  Except to the extent modified by this part, the provisions of this chapter which are generally applicable to a limited liability company, and its managers, members, and transferees, shall be applicable to each series with respect to the operations of such a series.
+
+
+
+Enacted by Chapter 412, 2013 General Session
+
